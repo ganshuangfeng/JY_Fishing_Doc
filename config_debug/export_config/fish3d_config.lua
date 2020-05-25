@@ -1174,6 +1174,7 @@ return {
 			fish_stratum = 3500,
 			dead_scale = 2,
 			dead_guang = 1,
+			js3_td = {100,200,300,400},
 		},
 		[39]=
 		{
@@ -1206,6 +1207,7 @@ return {
 			dead_guang = 1,
 			animator_node = "fish3dnode/fish3d",
 			map_node = "fish3dnode/fish3d/xb_0002 1/xb_0002 2",
+			js3_td = {100,200,300},
 		},
 		[40]=
 		{
@@ -1213,7 +1215,7 @@ return {
 			id = 40,
 			prefab = "Fish3D028",
 			icon = "3dby_icon_yu58",
-			name = "深海鲸",
+			name = "深海巨鲸",
 			name_image = "8dby_imgf_fdcl",
 			reward_image = "3dby_imgf_fdcl",
 			reward_level = {4,},
@@ -1236,6 +1238,7 @@ return {
 			fish_stratum = 9100,
 			dead_scale = 2,
 			dead_guang = 1,
+			js3_td = {300,500,600,700},
 		},
 		[41]=
 		{
@@ -1267,6 +1270,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/xb_0004 /xb_0004 1",
+			js3_td = {200,300,400,500},
 		},
 		[42]=
 		{
@@ -1330,6 +1334,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/xb_0003 1/xb_0003 2",
+			js3_td = {200,400,500,600},
 		},
 		[44]=
 		{
@@ -1426,6 +1431,7 @@ return {
 			animator_node = "fish3dnode/fish3d",
 			map_node = "fish3dnode/fish3d/bs_0008 1/bs_0008 2",
 			speed_type = {1,100,0,1,0,1,0,1,2,},
+			js3_td = {100,200,300,400,500,600},
 		},
 		[47]=
 		{
@@ -1457,6 +1463,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/gny_0005 1/gny_0005 2",
+			js3_td = {200,300,400,500,600,700},
 		},
 		[48]=
 		{
@@ -1488,6 +1495,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/xb_0001 1/xb_0001 2",
+			js3_td = {300,400,500,600,700,800},
 		},
 		[49]=
 		{
@@ -1520,6 +1528,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/xb_0007_skill/xb_0007_skill 1",
+			js3_td = {400,500,600,800,900,1000},
 		},
 		[50]=
 		{

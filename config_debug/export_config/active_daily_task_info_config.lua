@@ -123,7 +123,7 @@ return {
 			id = 8,
 			task_id = 12519,
 			task_name = "单笔充值",
-			task_icon = "rw_icon_bx",
+			task_icon = "rw_icon_mrzz",
 			task_instruction = "单笔充值大于6元",
 			task_award_icon = {"ty_icon_hytb","ty_icon_jb_98y"},
 			task_award_instruction = {"活跃度","金币"},

@@ -2242,6 +2242,16 @@ return {
 		[230]=
 		{
 			id = 230,
+			key = "sys_by_level",
+			desc = "排名",
+			lua = "SYSBYLevelManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[231]=
+		{
+			id = 231,
 			key = "act_by3d_szwg",
 			desc = "骰子龟活动",
 			lua = "ActBy3dSzwgManager",
