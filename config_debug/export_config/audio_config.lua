@@ -3758,6 +3758,78 @@ return {
 			audio_name = "bgm_by_2345chang.mp3",
 			desc = "2345场次游戏中音效",
 		},
+		bgm_by_count_1=
+		{
+			name = "bgm_by_count_1",
+			audio_name = "bgm_by_count_1.mp3",
+			desc = "数字持续滚动音效1（循环）",
+		},
+		bgm_by_count_2=
+		{
+			name = "bgm_by_count_2",
+			audio_name = "bgm_by_count_2.mp4",
+			desc = "数字持续滚动音效2（循环）",
+		},
+		bgm_by_count_3=
+		{
+			name = "bgm_by_count_3",
+			audio_name = "bgm_by_count_3.mp5",
+			desc = "数字持续滚动音效3（循环）",
+		},
+		bgm_by_count_4=
+		{
+			name = "bgm_by_count_4",
+			audio_name = "bgm_by_count_4.mp6",
+			desc = "数字持续滚动音效4（循环）",
+		},
+		bgm_by_count_5=
+		{
+			name = "bgm_by_count_5",
+			audio_name = "bgm_by_count_5.mp7",
+			desc = "数字持续滚动音效5（循环）",
+		},
+		bgm_by_count_6=
+		{
+			name = "bgm_by_count_6",
+			audio_name = "bgm_by_count_6.mp8",
+			desc = "数字持续滚动音效6（循环）",
+		},
+		bgm_by_countEnd_1=
+		{
+			name = "bgm_by_countEnd_1",
+			audio_name = "bgm_by_countEnd_1.mp10",
+			desc = "数字突然放大音效1",
+		},
+		bgm_by_countEnd_2=
+		{
+			name = "bgm_by_countEnd_2",
+			audio_name = "bgm_by_countEnd_2.mp11",
+			desc = "数字突然放大音效2",
+		},
+		bgm_by_countEnd_3=
+		{
+			name = "bgm_by_countEnd_3",
+			audio_name = "bgm_by_countEnd_3.mp12",
+			desc = "数字突然放大音效3",
+		},
+		bgm_by_countEnd_4=
+		{
+			name = "bgm_by_countEnd_4",
+			audio_name = "bgm_by_countEnd_4.mp13",
+			desc = "数字突然放大音效4",
+		},
+		bgm_by_countEnd_5=
+		{
+			name = "bgm_by_countEnd_5",
+			audio_name = "bgm_by_countEnd_5.mp14",
+			desc = "数字突然放大音效5",
+		},
+		bgm_by_countEnd_6=
+		{
+			name = "bgm_by_countEnd_6",
+			audio_name = "bgm_by_countEnd_6.mp15",
+			desc = "数字突然放大音效6",
+		},
 	},
 	ttl=
 	{
