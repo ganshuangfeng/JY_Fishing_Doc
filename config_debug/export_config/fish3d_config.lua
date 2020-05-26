@@ -1207,7 +1207,7 @@ return {
 			dead_guang = 1,
 			animator_node = "fish3dnode/fish3d",
 			map_node = "fish3dnode/fish3d/xb_0002 1/xb_0002 2",
-			js3_td = {100,200,300},
+			js3_td = {50,100,200,300},
 		},
 		[40]=
 		{
@@ -1463,7 +1463,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/gny_0005 1/gny_0005 2",
-			js3_td = {200,300,400,500,600,700},
+			js3_td = {50,100,200,300,400,500},
 		},
 		[48]=
 		{
@@ -1495,7 +1495,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/xb_0001 1/xb_0001 2",
-			js3_td = {300,400,500,600,700,800},
+			js3_td = {100,200,300,400,500,650},
 		},
 		[49]=
 		{
@@ -1528,7 +1528,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/xb_0007_skill/xb_0007_skill 1",
-			js3_td = {400,500,600,800,900,1000},
+			js3_td = {200,300,400,500,600,700},
 		},
 		[50]=
 		{
