@@ -1057,7 +1057,7 @@ return {
 		{
 			id = 24,
 			award_id = 2001,
-			asset_type = "3dby_btn_sd",
+			asset_type = "prop_3d_fish_lock",
 			asset_count = 2,
 			get_weight = 1,
 		},
@@ -1089,7 +1089,7 @@ return {
 		{
 			id = 28,
 			award_id = 2003,
-			asset_type = "3dby_btn_zh",
+			asset_type = "obj_fish_3d_summon_fish",
 			asset_count = 3,
 			get_weight = 1,
 		},
