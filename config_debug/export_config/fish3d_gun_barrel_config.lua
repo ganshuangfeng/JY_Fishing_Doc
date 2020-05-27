@@ -46,7 +46,7 @@ return {
 			name = "核能风暴",
 			level = 2,
 			skin_id = 5,
-			power_id = 1,
+			power_id = 2,
 			skill_id = 3,
 			lock_id = 1,
 		},
@@ -604,6 +604,406 @@ return {
 			id = 1,
 			gun_rate = 1000000,
 			power_max_rate = 90000000,
+			speed = 0.060000,
+		},
+		[51]=
+		{
+			line = 51,
+			id = 2,
+			gun_rate = 10,
+			power_max_rate = 3000,
+			speed = 0.060000,
+		},
+		[52]=
+		{
+			line = 52,
+			id = 2,
+			gun_rate = 20,
+			power_max_rate = 6000,
+			speed = 0.060000,
+		},
+		[53]=
+		{
+			line = 53,
+			id = 2,
+			gun_rate = 30,
+			power_max_rate = 9000,
+			speed = 0.060000,
+		},
+		[54]=
+		{
+			line = 54,
+			id = 2,
+			gun_rate = 40,
+			power_max_rate = 12000,
+			speed = 0.060000,
+		},
+		[55]=
+		{
+			line = 55,
+			id = 2,
+			gun_rate = 50,
+			power_max_rate = 15000,
+			speed = 0.060000,
+		},
+		[56]=
+		{
+			line = 56,
+			id = 2,
+			gun_rate = 60,
+			power_max_rate = 18000,
+			speed = 0.060000,
+		},
+		[57]=
+		{
+			line = 57,
+			id = 2,
+			gun_rate = 70,
+			power_max_rate = 21000,
+			speed = 0.060000,
+		},
+		[58]=
+		{
+			line = 58,
+			id = 2,
+			gun_rate = 80,
+			power_max_rate = 24000,
+			speed = 0.060000,
+		},
+		[59]=
+		{
+			line = 59,
+			id = 2,
+			gun_rate = 90,
+			power_max_rate = 27000,
+			speed = 0.060000,
+		},
+		[60]=
+		{
+			line = 60,
+			id = 2,
+			gun_rate = 100,
+			power_max_rate = 30000,
+			speed = 0.060000,
+		},
+		[61]=
+		{
+			line = 61,
+			id = 2,
+			gun_rate = 100,
+			power_max_rate = 30000,
+			speed = 0.060000,
+		},
+		[62]=
+		{
+			line = 62,
+			id = 2,
+			gun_rate = 200,
+			power_max_rate = 60000,
+			speed = 0.060000,
+		},
+		[63]=
+		{
+			line = 63,
+			id = 2,
+			gun_rate = 300,
+			power_max_rate = 90000,
+			speed = 0.060000,
+		},
+		[64]=
+		{
+			line = 64,
+			id = 2,
+			gun_rate = 400,
+			power_max_rate = 120000,
+			speed = 0.060000,
+		},
+		[65]=
+		{
+			line = 65,
+			id = 2,
+			gun_rate = 500,
+			power_max_rate = 150000,
+			speed = 0.060000,
+		},
+		[66]=
+		{
+			line = 66,
+			id = 2,
+			gun_rate = 600,
+			power_max_rate = 180000,
+			speed = 0.060000,
+		},
+		[67]=
+		{
+			line = 67,
+			id = 2,
+			gun_rate = 700,
+			power_max_rate = 210000,
+			speed = 0.060000,
+		},
+		[68]=
+		{
+			line = 68,
+			id = 2,
+			gun_rate = 800,
+			power_max_rate = 240000,
+			speed = 0.060000,
+		},
+		[69]=
+		{
+			line = 69,
+			id = 2,
+			gun_rate = 900,
+			power_max_rate = 270000,
+			speed = 0.060000,
+		},
+		[70]=
+		{
+			line = 70,
+			id = 2,
+			gun_rate = 1000,
+			power_max_rate = 300000,
+			speed = 0.060000,
+		},
+		[71]=
+		{
+			line = 71,
+			id = 2,
+			gun_rate = 1000,
+			power_max_rate = 300000,
+			speed = 0.060000,
+		},
+		[72]=
+		{
+			line = 72,
+			id = 2,
+			gun_rate = 2000,
+			power_max_rate = 600000,
+			speed = 0.060000,
+		},
+		[73]=
+		{
+			line = 73,
+			id = 2,
+			gun_rate = 3000,
+			power_max_rate = 900000,
+			speed = 0.060000,
+		},
+		[74]=
+		{
+			line = 74,
+			id = 2,
+			gun_rate = 4000,
+			power_max_rate = 1200000,
+			speed = 0.060000,
+		},
+		[75]=
+		{
+			line = 75,
+			id = 2,
+			gun_rate = 5000,
+			power_max_rate = 1500000,
+			speed = 0.060000,
+		},
+		[76]=
+		{
+			line = 76,
+			id = 2,
+			gun_rate = 6000,
+			power_max_rate = 1800000,
+			speed = 0.060000,
+		},
+		[77]=
+		{
+			line = 77,
+			id = 2,
+			gun_rate = 7000,
+			power_max_rate = 2100000,
+			speed = 0.060000,
+		},
+		[78]=
+		{
+			line = 78,
+			id = 2,
+			gun_rate = 8000,
+			power_max_rate = 2400000,
+			speed = 0.060000,
+		},
+		[79]=
+		{
+			line = 79,
+			id = 2,
+			gun_rate = 9000,
+			power_max_rate = 2700000,
+			speed = 0.060000,
+		},
+		[80]=
+		{
+			line = 80,
+			id = 2,
+			gun_rate = 10000,
+			power_max_rate = 3000000,
+			speed = 0.060000,
+		},
+		[81]=
+		{
+			line = 81,
+			id = 2,
+			gun_rate = 10000,
+			power_max_rate = 3000000,
+			speed = 0.060000,
+		},
+		[82]=
+		{
+			line = 82,
+			id = 2,
+			gun_rate = 20000,
+			power_max_rate = 6000000,
+			speed = 0.060000,
+		},
+		[83]=
+		{
+			line = 83,
+			id = 2,
+			gun_rate = 30000,
+			power_max_rate = 9000000,
+			speed = 0.060000,
+		},
+		[84]=
+		{
+			line = 84,
+			id = 2,
+			gun_rate = 40000,
+			power_max_rate = 12000000,
+			speed = 0.060000,
+		},
+		[85]=
+		{
+			line = 85,
+			id = 2,
+			gun_rate = 50000,
+			power_max_rate = 15000000,
+			speed = 0.060000,
+		},
+		[86]=
+		{
+			line = 86,
+			id = 2,
+			gun_rate = 60000,
+			power_max_rate = 18000000,
+			speed = 0.060000,
+		},
+		[87]=
+		{
+			line = 87,
+			id = 2,
+			gun_rate = 70000,
+			power_max_rate = 21000000,
+			speed = 0.060000,
+		},
+		[88]=
+		{
+			line = 88,
+			id = 2,
+			gun_rate = 80000,
+			power_max_rate = 24000000,
+			speed = 0.060000,
+		},
+		[89]=
+		{
+			line = 89,
+			id = 2,
+			gun_rate = 90000,
+			power_max_rate = 27000000,
+			speed = 0.060000,
+		},
+		[90]=
+		{
+			line = 90,
+			id = 2,
+			gun_rate = 100000,
+			power_max_rate = 30000000,
+			speed = 0.060000,
+		},
+		[91]=
+		{
+			line = 91,
+			id = 2,
+			gun_rate = 100000,
+			power_max_rate = 30000000,
+			speed = 0.060000,
+		},
+		[92]=
+		{
+			line = 92,
+			id = 2,
+			gun_rate = 200000,
+			power_max_rate = 60000000,
+			speed = 0.060000,
+		},
+		[93]=
+		{
+			line = 93,
+			id = 2,
+			gun_rate = 300000,
+			power_max_rate = 90000000,
+			speed = 0.060000,
+		},
+		[94]=
+		{
+			line = 94,
+			id = 2,
+			gun_rate = 400000,
+			power_max_rate = 120000000,
+			speed = 0.060000,
+		},
+		[95]=
+		{
+			line = 95,
+			id = 2,
+			gun_rate = 500000,
+			power_max_rate = 150000000,
+			speed = 0.060000,
+		},
+		[96]=
+		{
+			line = 96,
+			id = 2,
+			gun_rate = 600000,
+			power_max_rate = 180000000,
+			speed = 0.060000,
+		},
+		[97]=
+		{
+			line = 97,
+			id = 2,
+			gun_rate = 700000,
+			power_max_rate = 210000000,
+			speed = 0.060000,
+		},
+		[98]=
+		{
+			line = 98,
+			id = 2,
+			gun_rate = 800000,
+			power_max_rate = 240000000,
+			speed = 0.060000,
+		},
+		[99]=
+		{
+			line = 99,
+			id = 2,
+			gun_rate = 900000,
+			power_max_rate = 270000000,
+			speed = 0.060000,
+		},
+		[100]=
+		{
+			line = 100,
+			id = 2,
+			gun_rate = 1000000,
+			power_max_rate = 300000000,
 			speed = 0.060000,
 		},
 	},
