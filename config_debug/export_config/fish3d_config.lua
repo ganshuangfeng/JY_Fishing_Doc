@@ -658,7 +658,7 @@ return {
 			icon = "3dby_icon_yu23",
 			name = "黄金狮子鱼",
 			name_image = "3dby_imgf_zdy",
-			reward_image = "3dby_imgf_zdy",
+			reward_image = "3dby_imgf_tbl",
 			reward_level = {3,20},
 			size_w = 1.290000,
 			size_h = 1.800000,
