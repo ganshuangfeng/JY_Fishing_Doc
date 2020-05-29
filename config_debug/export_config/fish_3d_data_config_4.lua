@@ -2413,7 +2413,7 @@ return {
 		[38]=
 		{
 			id = 38,
-			acti_type = 2,
+			acti_type = 38,
 			num = {250,2,},
 			show = 0,
 			enter_bag = 0,

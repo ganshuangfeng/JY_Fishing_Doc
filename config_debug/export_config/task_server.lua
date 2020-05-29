@@ -774,7 +774,7 @@ return {
 		[57]=
 		{
 			id = 57,
-			enable = 1,
+			enable = 0,
 			name = "捕鱼每日任务1",
 			own_type = "buyu_daily_task1",
 			task_enum = "buyu_daily_task",
@@ -788,7 +788,7 @@ return {
 		[58]=
 		{
 			id = 58,
-			enable = 1,
+			enable = 0,
 			name = "捕鱼每日任务2",
 			own_type = "buyu_daily_task2",
 			task_enum = "buyu_daily_task",
@@ -802,7 +802,7 @@ return {
 		[59]=
 		{
 			id = 59,
-			enable = 1,
+			enable = 0,
 			name = "捕鱼每日任务3",
 			own_type = "buyu_daily_task3",
 			task_enum = "buyu_daily_task",
@@ -816,7 +816,7 @@ return {
 		[60]=
 		{
 			id = 60,
-			enable = 1,
+			enable = 0,
 			name = "捕鱼每日任务4",
 			own_type = "buyu_daily_task4",
 			task_enum = "buyu_daily_task",
