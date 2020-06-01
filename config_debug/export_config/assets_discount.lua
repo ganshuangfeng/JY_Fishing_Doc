@@ -79,8 +79,8 @@ return {
 			game_type = "xiaoxiaole_game",
 			game_id = 1,
 			name = "水果消消乐",
-			assets = {"jing_bi","ty_icon_yxb_2"},
-			discount = {1,0.7,},
+			assets = {"prop_tiny_game_coin","jing_bi"},
+			discount = {0.7,1,},
 		},
 		[10]=
 		{
@@ -88,8 +88,8 @@ return {
 			game_type = "xiaoxiaole_shuihu_game",
 			game_id = 1,
 			name = "水浒消消乐",
-			assets = {"jing_bi","ty_icon_yxb_2"},
-			discount = {1,0.7,},
+			assets = {"prop_tiny_game_coin","jing_bi"},
+			discount = {0.7,1,},
 		},
 		[11]=
 		{
@@ -97,8 +97,8 @@ return {
 			game_type = "xiaoxiaole_caishen_game",
 			game_id = 1,
 			name = "财神消消乐",
-			assets = {"jing_bi","ty_icon_yxb_2"},
-			discount = {1,0.7,},
+			assets = {"prop_tiny_game_coin","jing_bi"},
+			discount = {0.7,1,},
 		},
 		[12]=
 		{
@@ -106,8 +106,8 @@ return {
 			game_type = "tantanle_game",
 			game_id = 1,
 			name = "弹弹乐",
-			assets = {"jing_bi","ty_icon_yxb_2"},
-			discount = {1,0.7,},
+			assets = {"prop_tiny_game_coin","jing_bi"},
+			discount = {0.7,1,},
 		},
 	},
 }

@@ -5,7 +5,7 @@ return {
 		{
 			id = 1,
 			game_id = 1,
-			game_name = "体验场",
+			game_name = "试炼场",
 			game_type = "nor_fishing_3d_nor",
 			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
 			enable = 1,
@@ -14,7 +14,7 @@ return {
 		{
 			id = 2,
 			game_id = 2,
-			game_name = "初级场",
+			game_name = "神秘海域",
 			game_type = "nor_fishing_3d_nor",
 			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
 			enable = 1,
@@ -23,7 +23,7 @@ return {
 		{
 			id = 3,
 			game_id = 3,
-			game_name = "中级场",
+			game_name = "海底宝藏",
 			game_type = "nor_fishing_3d_nor",
 			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
 			enable = 1,
@@ -32,7 +32,7 @@ return {
 		{
 			id = 4,
 			game_id = 4,
-			game_name = "高级场",
+			game_name = "藏宝海湾",
 			game_type = "nor_fishing_3d_nor",
 			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
 			enable = 1,
@@ -41,7 +41,7 @@ return {
 		{
 			id = 5,
 			game_id = 5,
-			game_name = "终极场",
+			game_name = "深海沉船",
 			game_type = "nor_fishing_3d_nor",
 			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
 			enable = 1,
@@ -118,7 +118,7 @@ return {
 			id = 3,
 			enter_cfg_id = 2,
 			asset_type = "jing_bi",
-			asset_count = 1000,
+			asset_count = 20000,
 			judge_type = 3,
 		},
 		[4]=
@@ -134,7 +134,7 @@ return {
 			id = 5,
 			enter_cfg_id = 3,
 			asset_type = "jing_bi",
-			asset_count = 10000,
+			asset_count = 100000,
 			judge_type = 3,
 		},
 		[6]=
@@ -150,7 +150,7 @@ return {
 			id = 7,
 			enter_cfg_id = 4,
 			asset_type = "jing_bi",
-			asset_count = 100000,
+			asset_count = 1000000,
 			judge_type = 3,
 		},
 		[8]=
@@ -158,7 +158,7 @@ return {
 			id = 8,
 			enter_cfg_id = 5,
 			asset_type = "jing_bi",
-			asset_count = 1000000,
+			asset_count = 5000000,
 			judge_type = 3,
 		},
 	},

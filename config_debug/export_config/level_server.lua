@@ -5,145 +5,145 @@ return {
 		{
 			id = 1,
 			level = 1,
-			score = 20000,
+			score = 1125000,
 		},
 		[2]=
 		{
 			id = 2,
 			level = 2,
-			score = 40000,
+			score = 3000000,
 		},
 		[3]=
 		{
 			id = 3,
 			level = 3,
-			score = 60000,
+			score = 6000000,
 		},
 		[4]=
 		{
 			id = 4,
 			level = 4,
-			score = 80000,
+			score = 9750000,
 		},
 		[5]=
 		{
 			id = 5,
 			level = 5,
-			score = 100100,
+			score = 14250000,
 		},
 		[6]=
 		{
 			id = 6,
 			level = 6,
-			score = 260100,
+			score = 19875000,
 		},
 		[7]=
 		{
 			id = 7,
 			level = 7,
-			score = 300200,
+			score = 25500000,
 		},
 		[8]=
 		{
 			id = 8,
 			level = 8,
-			score = 340300,
+			score = 31125000,
 		},
 		[9]=
 		{
 			id = 9,
 			level = 9,
-			score = 380300,
+			score = 38625000,
 		},
 		[10]=
 		{
 			id = 10,
 			level = 10,
-			score = 420400,
+			score = 46125000,
 		},
 		[11]=
 		{
 			id = 11,
 			level = 11,
-			score = 700700,
+			score = 53625000,
 		},
 		[12]=
 		{
 			id = 12,
 			level = 12,
-			score = 760900,
+			score = 63000000,
 		},
 		[13]=
 		{
 			id = 13,
 			level = 13,
-			score = 821000,
+			score = 72375000,
 		},
 		[14]=
 		{
 			id = 14,
 			level = 14,
-			score = 881200,
+			score = 81750000,
 		},
 		[15]=
 		{
 			id = 15,
 			level = 15,
-			score = 941400,
+			score = 93000000,
 		},
 		[16]=
 		{
 			id = 16,
 			level = 16,
-			score = 1342000,
+			score = 104250000,
 		},
 		[17]=
 		{
 			id = 17,
 			level = 17,
-			score = 1422300,
+			score = 115500000,
 		},
 		[18]=
 		{
 			id = 18,
 			level = 18,
-			score = 1502600,
+			score = 128625000,
 		},
 		[19]=
 		{
 			id = 19,
 			level = 19,
-			score = 1582900,
+			score = 141750000,
 		},
 		[20]=
 		{
 			id = 20,
 			level = 20,
-			score = 1663200,
+			score = 154875000,
 		},
 		[21]=
 		{
 			id = 21,
 			level = 21,
-			score = 2184400,
+			score = 169875000,
 		},
 		[22]=
 		{
 			id = 22,
 			level = 22,
-			score = 2284800,
+			score = 184875000,
 		},
 		[23]=
 		{
 			id = 23,
 			level = 23,
-			score = 2385300,
+			score = 199875000,
 		},
 		[24]=
 		{
 			id = 24,
 			level = 24,
-			score = 2485800,
+			score = 214875000,
 		},
 		[25]=
 		{
@@ -372,7 +372,7 @@ return {
 			id = 3,
 			game_type = "fishing_game",
 			game_id = 3,
-			add = 1.500000,
+			add = 1,
 			dec = 0,
 		},
 		[4]=
@@ -380,7 +380,7 @@ return {
 			id = 4,
 			game_type = "fishing_game",
 			game_id = 4,
-			add = 2,
+			add = 1,
 			dec = 0,
 		},
 		[5]=
@@ -404,7 +404,7 @@ return {
 			id = 7,
 			game_type = "fishing_3d_game",
 			game_id = 3,
-			add = 1.500000,
+			add = 1,
 			dec = 0,
 		},
 		[8]=
@@ -412,7 +412,7 @@ return {
 			id = 8,
 			game_type = "fishing_3d_game",
 			game_id = 4,
-			add = 2,
+			add = 1,
 			dec = 0,
 		},
 		[9]=
