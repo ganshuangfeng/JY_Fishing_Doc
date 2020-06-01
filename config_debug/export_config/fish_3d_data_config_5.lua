@@ -2419,6 +2419,15 @@ return {
 			enter_bag = 0,
 			value = 250,
 		},
+		[39]=
+		{
+			id = 39,
+			acti_type = 39,
+			num = {250,2,},
+			show = 0,
+			enter_bag = 0,
+			value = 250,
+		},
 	},
 	box_fish_activity=
 	{

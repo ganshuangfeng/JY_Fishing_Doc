@@ -7,8 +7,7 @@ return {
 			name = "50福利券赛",
 			cfg_id = 1,
 			data_id = 1,
-			signup_spend_id = 1,
-			enter_id = {1,},
+			signup_spend_id = {1,},
 			rank_id = 1,
 			everyday_rank_id = 1,
 			enable = 1,
@@ -19,8 +18,7 @@ return {
 			name = "200福利券赛",
 			cfg_id = 2,
 			data_id = 2,
-			signup_spend_id = 2,
-			enter_id = {2,},
+			signup_spend_id = {2,3,},
 			rank_id = 2,
 			everyday_rank_id = 2,
 			enable = 1,
@@ -31,8 +29,7 @@ return {
 			name = "500福利券赛",
 			cfg_id = 3,
 			data_id = 3,
-			signup_spend_id = 3,
-			enter_id = {3,},
+			signup_spend_id = {4,},
 			rank_id = 3,
 			everyday_rank_id = 3,
 			enable = 1,
@@ -43,8 +40,7 @@ return {
 			name = "1000福利券赛",
 			cfg_id = 4,
 			data_id = 4,
-			signup_spend_id = 4,
-			enter_id = {4,},
+			signup_spend_id = {5,},
 			rank_id = 4,
 			everyday_rank_id = 4,
 			enable = 1,
@@ -55,7 +51,7 @@ return {
 			name = "3d捕鱼比赛1",
 			cfg_id = 2,
 			data_id = 2,
-			enter_id = {2,3},
+			signup_spend_id = {2,3},
 			rank_id = 1,
 			everyday_rank_id = 1,
 			enable = 0,
@@ -249,7 +245,7 @@ return {
 			signup_spend_id = 1,
 			asset_type = "jing_bi",
 			value = 5000,
-			condi_type = 2,
+			condi_type = 1,
 		},
 		[2]=
 		{
@@ -257,82 +253,31 @@ return {
 			signup_spend_id = 2,
 			asset_type = "prop_gns_ticket",
 			value = 1,
-			condi_type = 2,
+			condi_type = 1,
 		},
 		[3]=
 		{
 			id = 3,
-			signup_spend_id = 2,
-			asset_type = "jing_bi",
-			value = 20000,
-			condi_type = 2,
-		},
-		[4]=
-		{
-			id = 4,
 			signup_spend_id = 3,
 			asset_type = "jing_bi",
-			value = 50000,
-			condi_type = 2,
-		},
-		[5]=
-		{
-			id = 5,
-			signup_spend_id = 4,
-			asset_type = "jing_bi",
-			value = 100000,
-			condi_type = 2,
-		},
-	},
-	enter=
-	{
-		[1]=
-		{
-			id = 1,
-			enter_id = 1,
-			asset_type = "jing_bi",
-			value = 1000,
-			condi_type = 3,
-		},
-		[2]=
-		{
-			id = 2,
-			enter_id = 1,
-			asset_type = "jing_bi",
-			value = 2000000,
-			condi_type = 4,
-		},
-		[3]=
-		{
-			id = 3,
-			enter_id = 2,
-			asset_type = "jing_bi",
-			value = 10000,
-			condi_type = 3,
+			value = 20000,
+			condi_type = 1,
 		},
 		[4]=
 		{
 			id = 4,
-			enter_id = 2,
+			signup_spend_id = 4,
 			asset_type = "jing_bi",
-			value = 2000000,
-			condi_type = 4,
+			value = 50000,
+			condi_type = 1,
 		},
 		[5]=
 		{
 			id = 5,
-			enter_id = 3,
+			signup_spend_id = 5,
 			asset_type = "jing_bi",
 			value = 100000,
-			condi_type = 3,
-		},
-		[6]=
-		{
-			id = 6,
-			enter_id = 4,
-			asset_type = "jing_bi",
-			value = 1000000,
-			condi_type = 3,
+			condi_type = 1,
 		},
 	},
 	score_award=

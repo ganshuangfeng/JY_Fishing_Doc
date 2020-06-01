@@ -1759,7 +1759,7 @@ return {
 		{
 			id = 31,
 			base_id = 31,
-			act_id = 38,
+			act_id = 39,
 			life = 250,
 			shoot = 0.004000,
 			act_type = "activity",
@@ -2414,6 +2414,15 @@ return {
 		{
 			id = 38,
 			acti_type = 38,
+			num = {250,2,},
+			show = 0,
+			enter_bag = 0,
+			value = 250,
+		},
+		[39]=
+		{
+			id = 39,
+			acti_type = 39,
 			num = {250,2,},
 			show = 0,
 			enter_bag = 0,
