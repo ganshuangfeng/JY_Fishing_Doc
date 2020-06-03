@@ -574,9 +574,9 @@ return {
 		{
 			id = 11,
 			show_limit = 10000000,
-			max_show_num = 20,
-			max_rank_num = 100,
-			max_award_num = 20,
+			max_show_num = 10,
+			max_rank_num = 10,
+			max_award_num = 10,
 			show_refresh_delay = 180,
 			show_refresh_self_delay = 10,
 		},
@@ -643,7 +643,6 @@ return {
 			id = 9,
 			settle_time_model = 13,
 			is_clear = 1,
-			award_model = 9,
 		},
 	},
 	settle_time_model=
@@ -1350,69 +1349,6 @@ return {
 			award_id = 69,
 			award_type = "nor",
 		},
-		[70]=
-		{
-			id = 70,
-			model_id = 9,
-			start_rank = 1,
-			end_rank = 1,
-			award_id = 70,
-			award_type = "nor",
-		},
-		[71]=
-		{
-			id = 71,
-			model_id = 9,
-			start_rank = 2,
-			end_rank = 2,
-			award_id = 71,
-			award_type = "nor",
-		},
-		[72]=
-		{
-			id = 72,
-			model_id = 9,
-			start_rank = 3,
-			end_rank = 3,
-			award_id = 72,
-			award_type = "nor",
-		},
-		[73]=
-		{
-			id = 73,
-			model_id = 9,
-			start_rank = 4,
-			end_rank = 6,
-			award_id = 73,
-			award_type = "nor",
-		},
-		[74]=
-		{
-			id = 74,
-			model_id = 9,
-			start_rank = 7,
-			end_rank = 10,
-			award_id = 74,
-			award_type = "nor",
-		},
-		[75]=
-		{
-			id = 75,
-			model_id = 9,
-			start_rank = 11,
-			end_rank = 15,
-			award_id = 75,
-			award_type = "nor",
-		},
-		[76]=
-		{
-			id = 76,
-			model_id = 9,
-			start_rank = 16,
-			end_rank = 20,
-			award_id = 76,
-			award_type = "nor",
-		},
 	},
 	awards=
 	{
@@ -2032,69 +1968,6 @@ return {
 		{
 			id = 69,
 			award_id = 69,
-			award_name = "5红包劵",
-			asset_type = "shop_gold_sum",
-			asset_count = 500,
-			get_weight = 1,
-		},
-		[70]=
-		{
-			id = 70,
-			award_id = 70,
-			award_name = "200红包劵",
-			asset_type = "shop_gold_sum",
-			asset_count = 20000,
-			get_weight = 1,
-		},
-		[71]=
-		{
-			id = 71,
-			award_id = 71,
-			award_name = "100红包劵",
-			asset_type = "shop_gold_sum",
-			asset_count = 10000,
-			get_weight = 1,
-		},
-		[72]=
-		{
-			id = 72,
-			award_id = 72,
-			award_name = "50红包劵",
-			asset_type = "shop_gold_sum",
-			asset_count = 5000,
-			get_weight = 1,
-		},
-		[73]=
-		{
-			id = 73,
-			award_id = 73,
-			award_name = "30红包劵",
-			asset_type = "shop_gold_sum",
-			asset_count = 3000,
-			get_weight = 1,
-		},
-		[74]=
-		{
-			id = 74,
-			award_id = 74,
-			award_name = "20红包劵",
-			asset_type = "shop_gold_sum",
-			asset_count = 2000,
-			get_weight = 1,
-		},
-		[75]=
-		{
-			id = 75,
-			award_id = 75,
-			award_name = "10红包劵",
-			asset_type = "shop_gold_sum",
-			asset_count = 1000,
-			get_weight = 1,
-		},
-		[76]=
-		{
-			id = 76,
-			award_id = 76,
 			award_name = "5红包劵",
 			asset_type = "shop_gold_sum",
 			asset_count = 500,

@@ -158,7 +158,7 @@ return {
 		[110]=
 		{
 			id = 110,
-			enable = 1,
+			enable = 0,
 			name = "vip每日任务",
 			own_type = "vip_daily_task",
 			task_enum = "vip_daily_task",
@@ -186,7 +186,7 @@ return {
 		[112]=
 		{
 			id = 112,
-			enable = 1,
+			enable = 0,
 			name = "vip累积赢金挑战",
 			own_type = "vip_game_award_task",
 			task_enum = "common",
@@ -200,7 +200,7 @@ return {
 		[113]=
 		{
 			id = 113,
-			enable = 1,
+			enable = 0,
 			name = "vip千元赛挑战任务",
 			own_type = "vip_qys_task",
 			task_enum = "common",
@@ -214,7 +214,7 @@ return {
 		[114]=
 		{
 			id = 114,
-			enable = 1,
+			enable = 0,
 			name = "vip千元赛挑战任务",
 			own_type = "vip_qys_task",
 			task_enum = "common",
@@ -228,7 +228,7 @@ return {
 		[115]=
 		{
 			id = 115,
-			enable = 1,
+			enable = 0,
 			name = "vip千元赛挑战任务",
 			own_type = "vip_qys_task",
 			task_enum = "common",
@@ -242,7 +242,7 @@ return {
 		[116]=
 		{
 			id = 116,
-			enable = 1,
+			enable = 0,
 			name = "vip千元赛挑战任务",
 			own_type = "vip_qys_task",
 			task_enum = "common",
@@ -256,7 +256,7 @@ return {
 		[117]=
 		{
 			id = 117,
-			enable = 1,
+			enable = 0,
 			name = "vip千元赛挑战任务",
 			own_type = "vip_qys_task",
 			task_enum = "common",
@@ -270,7 +270,7 @@ return {
 		[118]=
 		{
 			id = 118,
-			enable = 1,
+			enable = 0,
 			name = "vip千元赛挑战任务",
 			own_type = "vip_qys_task",
 			task_enum = "common",
@@ -284,7 +284,7 @@ return {
 		[119]=
 		{
 			id = 119,
-			enable = 1,
+			enable = 0,
 			name = "vip千元赛挑战任务",
 			own_type = "vip_qys_task",
 			task_enum = "common",
@@ -298,7 +298,7 @@ return {
 		[120]=
 		{
 			id = 120,
-			enable = 1,
+			enable = 0,
 			name = "vip千元赛挑战任务",
 			own_type = "vip_qys_task",
 			task_enum = "common",

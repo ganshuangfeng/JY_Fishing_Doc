@@ -94,25 +94,25 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "37;4#3#2#26#",
+			group_list = "8#61;36;26;",
 		},
 		[2]=
 		{
 			id = 2,
 			area = "left",
-			group_list = "11;36#7;30#29#8#",
+			group_list = "30#",
 		},
 		[3]=
 		{
 			id = 3,
 			area = "right",
-			group_list = "61#",
+			group_list = "11;",
 		},
 		[4]=
 		{
 			id = 4,
 			area = "top",
-			group_list = "60;46;47;9;12#",
+			group_list = "47;9;12#",
 		},
 		[5]=
 		{

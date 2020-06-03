@@ -52,7 +52,7 @@ return {
 			pre_name = "MiniGamePDKPrefab",
 			sort = 6,
 			key = "pdk",
-			is_onoff = 1,
+			is_onoff = 0,
 			is_lock = 0,
 			tag_mr = 0,
 		},
@@ -61,7 +61,7 @@ return {
 			pre_name = "MiniGameJBSPrefab",
 			sort = 7,
 			key = "jbs",
-			is_onoff = 1,
+			is_onoff = 0,
 			is_lock = 0,
 			tag_mr = 0,
 		},
@@ -86,7 +86,7 @@ return {
 		MiniGameTTLPrefab=
 		{
 			pre_name = "MiniGameTTLPrefab",
-			sort = 10,
+			sort = 5,
 			key = "ttl",
 			is_onoff = 1,
 			is_lock = 0,
@@ -106,18 +106,18 @@ return {
 			pre_name = "MiniGameDDZPrefab",
 			sort = 12,
 			key = "ddz",
-			is_onoff = 1,
+			is_onoff = 0,
 			is_lock = 0,
-			tag_mr = 1,
+			tag_mr = 0,
 		},
 		MiniGameMJPrefab=
 		{
 			pre_name = "MiniGameMJPrefab",
 			sort = 13,
 			key = "mj",
-			is_onoff = 1,
+			is_onoff = 0,
 			is_lock = 0,
-			tag_mr = 1,
+			tag_mr = 0,
 		},
 		MiniGameWZQPrefab=
 		{
