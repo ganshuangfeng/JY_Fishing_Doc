@@ -1646,9 +1646,9 @@ return {
 			key = "gift_golden_pig",
 			desc = "礼包：金猪礼包",
 			lua = "GiftGoldenPigManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[166]=
 		{
