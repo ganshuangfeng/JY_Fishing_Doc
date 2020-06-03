@@ -41,40 +41,40 @@ return {
 			no = 1,
 			id = 1,
 			item = "shop_gold_sum",
-			item_num = 300,
-			weight = 25.000000,
+			item_num = 600,
+			weight = 10,
 		},
 		[2]=
 		{
 			no = 2,
 			id = 1,
 			item = "shop_gold_sum",
-			item_num = 250,
-			weight = 200.000000,
+			item_num = 285,
+			weight = 350000,
 		},
 		[3]=
 		{
 			no = 3,
 			id = 1,
 			item = "shop_gold_sum",
-			item_num = 1500,
-			weight = 15,
+			item_num = 2400,
+			weight = 10,
 		},
 		[4]=
 		{
 			no = 4,
 			id = 1,
 			item = "shop_gold_sum",
-			item_num = 300,
-			weight = 100.000000,
+			item_num = 600,
+			weight = 10,
 		},
 		[5]=
 		{
 			no = 5,
 			id = 1,
 			item = "shop_gold_sum",
-			item_num = 250,
-			weight = 4998160,
+			item_num = 300,
+			weight = 99930.000000,
 		},
 		[6]=
 		{
@@ -82,62 +82,62 @@ return {
 			id = 1,
 			item = "shop_gold_sum",
 			item_num = 900,
-			weight = 450,
+			weight = 10,
 		},
 		[7]=
 		{
 			no = 7,
 			id = 1,
 			item = "shop_gold_sum",
-			item_num = 300,
-			weight = 425.000000,
+			item_num = 600,
+			weight = 10,
 		},
 		[8]=
 		{
 			no = 8,
 			id = 1,
 			item = "shop_gold_sum",
-			item_num = 250,
-			weight = 400.000000,
+			item_num = 300,
+			weight = 10,
 		},
 		[9]=
 		{
 			no = 9,
 			id = 1,
 			item = "shop_gold_sum",
-			item_num = 1200,
-			weight = 25.000000,
+			item_num = 2400,
+			weight = 10,
 		},
 		[10]=
 		{
 			no = 10,
 			id = 1,
 			item = "shop_gold_sum",
-			item_num = 300,
-			weight = 200.000000,
+			item_num = 255,
+			weight = 550000,
 		},
 		[11]=
 		{
 			no = 11,
 			id = 2,
 			item = "shop_gold_sum",
-			item_num = 4500,
-			weight = 10,
+			item_num = 47500,
+			weight = 350000,
 		},
 		[12]=
 		{
 			no = 12,
 			id = 2,
 			item = "jing_bi",
-			item_num = 4750000,
-			weight = 990,
+			item_num = 10000000,
+			weight = 10,
 		},
 		[13]=
 		{
 			no = 13,
 			id = 2,
 			item = "shop_gold_sum",
-			item_num = 25000,
+			item_num = 1000000,
 			weight = 10,
 		},
 		[14]=
@@ -145,15 +145,15 @@ return {
 			no = 14,
 			id = 2,
 			item = "jing_bi",
-			item_num = 4250000,
-			weight = 990,
+			item_num = 5000000,
+			weight = 99930.000000,
 		},
 		[15]=
 		{
 			no = 15,
 			id = 2,
 			item = "shop_gold_sum",
-			item_num = 4750,
+			item_num = 100000,
 			weight = 10,
 		},
 		[16]=
@@ -161,40 +161,40 @@ return {
 			no = 16,
 			id = 2,
 			item = "jing_bi",
-			item_num = 20000000,
-			weight = 990,
+			item_num = 100000000,
+			weight = 10,
 		},
 		[17]=
 		{
 			no = 17,
 			id = 2,
 			item = "shop_gold_sum",
-			item_num = 4250,
-			weight = 10,
+			item_num = 42500,
+			weight = 550000,
 		},
 		[18]=
 		{
 			no = 18,
 			id = 2,
 			item = "jing_bi",
-			item_num = 4500000,
-			weight = 990,
+			item_num = 5000000,
+			weight = 10,
 		},
 		[19]=
 		{
 			no = 19,
 			id = 2,
 			item = "shop_gold_sum",
-			item_num = 15000,
-			weight = 100000,
+			item_num = 400000,
+			weight = 10,
 		},
 		[20]=
 		{
 			no = 20,
 			id = 2,
 			item = "jing_bi",
-			item_num = 4000000,
-			weight = 9900000,
+			item_num = 10000000,
+			weight = 10,
 		},
 	},
 }
