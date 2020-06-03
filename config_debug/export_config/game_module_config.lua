@@ -257,7 +257,7 @@ return {
 			key = "sys_fx",
 			desc = "分享",
 			lua = "SYSFXManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 0,
 			state = 0,
 		},
@@ -478,8 +478,8 @@ return {
 			desc = "VIP专享(和游戏中的VIP系统有牵连)",
 			lua = "VIPManager",
 			is_on_off = 1,
-			enable = 0,
-			state = 0,
+			enable = 1,
+			state = 1,
 		},
 		[49]=
 		{
@@ -1657,8 +1657,8 @@ return {
 			desc = "礼包：一元礼包",
 			lua = "GiftOneYuanManager",
 			is_on_off = 1,
-			enable = 0,
-			state = 0,
+			enable = 1,
+			state = 1,
 		},
 		[167]=
 		{
@@ -2255,6 +2255,16 @@ return {
 			key = "act_by3d_szwg",
 			desc = "骰子龟活动",
 			lua = "ActBy3dSzwgManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[232]=
+		{
+			id = 232,
+			key = "by_drb_cs",
+			desc = "3D捕鱼测试排行榜",
+			lua = "BYDRBCSManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
