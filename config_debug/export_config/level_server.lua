@@ -158,7 +158,7 @@ return {
 			id = 1,
 			level = 2,
 			asset_type = {"jing_bi","prop_3d_fish_lock","prop_fish_lock"},
-			asset_count = {500,3,3,},
+			asset_count = {200,3,3,},
 			asset_image = {"com_award_icon_jingbi","3dby_btn_sd","by_btn_sd",},
 		},
 		[2]=
