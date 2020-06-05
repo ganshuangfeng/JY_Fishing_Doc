@@ -110,7 +110,7 @@ return {
 			id = 2,
 			enter_cfg_id = 1,
 			asset_type = "jing_bi",
-			asset_count = 50000,
+			asset_count = 15000000,
 			judge_type = 4,
 		},
 		[3]=

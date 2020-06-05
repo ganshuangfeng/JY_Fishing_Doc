@@ -141,20 +141,6 @@ return {
 			change_gun_level = {1,0.1,2,0.1,3,0.1,4,0.1,5,0.1,6,0.1,7,0.1,8,0.1,9,0.1,10,0.1},
 			freed_skill = {1,0.001,"other",2,2,0.01,4,0.001,5,0.9,6,0.001,7,0.01},
 		},
-		[11]=
-		{
-			index = 11,
-			player_speed = {11,1},
-			player_switch = {1,0.4,2,0.6},
-			shoot = {0,1},
-			shoot_num = {0,1},
-			shoot_fish_type = {1,0},
-			shoot_fish_rate = {1,0},
-			shoot_fish_dis = {3,0},
-			shoot_fish_award = {1,0},
-			change_gun_level = {1,0.5,2,0.5,},
-			freed_skill = {1,0.001,"other",2,2,0.01,4,0.001,5,0.001,6,0.001,7,0.01},
-		},
 	},
 	player_config=
 	{
@@ -218,11 +204,6 @@ return {
 			status = 10,
 			probability = 0.100000,
 		},
-		[11]=
-		{
-			index = 11,
-			status = 11,
-		},
 	},
 	player_speed=
 	{
@@ -231,7 +212,7 @@ return {
 			index = 1,
 			shoot = {0.16,0.5,0.22,0.2,0.3,0.3},
 			change_gun_level = {180,0.4,280,0.6},
-			freed_skill = {10,0.4,15,0.6},
+			freed_skill = {500,0.4,600,0.6},
 			see_fish = {0.1,0.4,0.12,0.6},
 			check_event = {1,0.4,0.12,0.4},
 			switch = {20,0.4,30,0.4,40,0.2},
@@ -241,7 +222,7 @@ return {
 			index = 2,
 			shoot = {0.16,0.5,0.22,0.2,0.3,0.3},
 			change_gun_level = {150,0.4,100,0.6},
-			freed_skill = {20,0.4,25,0.6},
+			freed_skill = {600,0.4,800,0.6},
 			see_fish = {0.1,0.4,0.5,0.6},
 			check_event = {1.5,0.4,2.12,0.4},
 			switch = {30,0.4,55,0.4,60,0.2},
@@ -325,16 +306,6 @@ return {
 			see_fish = {0.1,0.4,0.5,0.6},
 			check_event = {1.5,0.4,2.12,0.4},
 			switch = {30,0.4,55,0.4,60,0.2},
-		},
-		[11]=
-		{
-			index = 11,
-			shoot = {0,1},
-			change_gun_level = {0,1},
-			freed_skill = {0,1},
-			see_fish = {0,1},
-			check_event = {10,1},
-			switch = {10,1},
 		},
 	},
 	player_switch=
@@ -408,10 +379,6 @@ return {
 			event = {1,1,2,2,3,1},
 			fish = {"num",20,1,"num",10,2,"rate",2,1,"rate",6,2,"dis",6,1,"dis",10,2},
 			gold = {2000,1,4000,2},
-		},
-		[11]=
-		{
-			index = 11,
 		},
 	},
 	other=
