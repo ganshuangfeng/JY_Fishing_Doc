@@ -1389,7 +1389,7 @@ return {
 			order = 32,
 			name = "冰冻",
 			desc = "冰冻全场鱼-3D捕鱼",
-			use_parm = {"game_FishingHall",},
+			use_parm = {"game_Fishing3DHall",},
 			tag = 1,
 		},
 		[107]=
@@ -1404,7 +1404,7 @@ return {
 			order = 33,
 			name = "锁定",
 			desc = "锁定攻击鱼-3D捕鱼",
-			use_parm = {"game_FishingHall",},
+			use_parm = {"game_Fishing3DHall",},
 			tag = 1,
 		},
 		[108]=
