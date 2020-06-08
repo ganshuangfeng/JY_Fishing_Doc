@@ -100,13 +100,12 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "30#",
+			group_list = "62;30#",
 		},
 		[3]=
 		{
 			id = 3,
 			area = "right",
-			group_list = "62;",
 		},
 		[4]=
 		{
@@ -220,7 +219,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "43#40#26#",
+			group_list = "43#40#26#63",
 		},
 	},
 	fishing3d_hall=

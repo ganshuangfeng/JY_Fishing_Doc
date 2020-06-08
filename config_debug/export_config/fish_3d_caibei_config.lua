@@ -71,7 +71,7 @@ return {
 			line = 1,
 			ID = 1,
 			item = "fish_coin",
-			num = {100,200},
+			num = {10000,20000},
 			weight = 10,
 		},
 		[2]=
@@ -79,7 +79,7 @@ return {
 			line = 2,
 			ID = 2,
 			item = "fish_coin",
-			num = {100,300},
+			num = {10000,30000},
 			weight = 70,
 		},
 		[3]=
@@ -87,7 +87,7 @@ return {
 			line = 3,
 			ID = 2,
 			item = "jing_bi",
-			num = {100,200},
+			num = {10000,20000},
 			weight = 10,
 		},
 		[4]=
@@ -111,7 +111,7 @@ return {
 			line = 6,
 			ID = 3,
 			item = "fish_coin",
-			num = {100,500},
+			num = {10000,50000},
 			weight = 70,
 		},
 		[7]=
@@ -119,7 +119,7 @@ return {
 			line = 7,
 			ID = 3,
 			item = "jing_bi",
-			num = {100,300},
+			num = {10000,30000},
 			weight = 10,
 		},
 		[8]=
@@ -143,7 +143,7 @@ return {
 			line = 10,
 			ID = 4,
 			item = "fish_coin",
-			num = {200,500},
+			num = {20000,50000},
 			weight = 70,
 		},
 		[11]=
@@ -151,7 +151,7 @@ return {
 			line = 11,
 			ID = 4,
 			item = "jing_bi",
-			num = {200,300},
+			num = {20000,30000},
 			weight = 10,
 		},
 		[12]=
@@ -175,7 +175,7 @@ return {
 			line = 14,
 			ID = 5,
 			item = "fish_coin",
-			num = {300,600},
+			num = {30000,60000},
 			weight = 70,
 		},
 		[15]=
@@ -183,7 +183,7 @@ return {
 			line = 15,
 			ID = 5,
 			item = "jing_bi",
-			num = {200,500},
+			num = {20000,50000},
 			weight = 10,
 		},
 		[16]=
