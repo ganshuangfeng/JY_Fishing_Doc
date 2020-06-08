@@ -4,7 +4,7 @@ return {
 		[1]=
 		{
 			no = 1,
-			tax = 0.005000,
+			tax = 0.010000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -12,7 +12,7 @@ return {
 		[2]=
 		{
 			no = 2,
-			tax = 0.005000,
+			tax = 0.010000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -20,7 +20,7 @@ return {
 		[3]=
 		{
 			no = 3,
-			tax = 0.005000,
+			tax = 0.010000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -28,7 +28,7 @@ return {
 		[4]=
 		{
 			no = 4,
-			tax = 0.005000,
+			tax = 0.010000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -36,7 +36,7 @@ return {
 		[5]=
 		{
 			no = 5,
-			tax = 0.005000,
+			tax = 0.010000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -44,7 +44,7 @@ return {
 		[6]=
 		{
 			no = 6,
-			tax = 0.005000,
+			tax = 0.010000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -52,7 +52,7 @@ return {
 		[7]=
 		{
 			no = 7,
-			tax = 0.005000,
+			tax = 0.010000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -60,7 +60,7 @@ return {
 		[8]=
 		{
 			no = 8,
-			tax = 0.005000,
+			tax = 0.010000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -68,7 +68,7 @@ return {
 		[9]=
 		{
 			no = 9,
-			tax = 0.005000,
+			tax = 0.010000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -76,7 +76,7 @@ return {
 		[10]=
 		{
 			no = 10,
-			tax = 0.005000,
+			tax = 0.010000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -84,7 +84,7 @@ return {
 		[11]=
 		{
 			no = 11,
-			tax = 0.015000,
+			tax = 0.025000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -92,7 +92,7 @@ return {
 		[12]=
 		{
 			no = 12,
-			tax = 0.015000,
+			tax = 0.025000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -100,7 +100,7 @@ return {
 		[13]=
 		{
 			no = 13,
-			tax = 0.015000,
+			tax = 0.025000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -108,7 +108,7 @@ return {
 		[14]=
 		{
 			no = 14,
-			tax = 0.015000,
+			tax = 0.025000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -116,7 +116,7 @@ return {
 		[15]=
 		{
 			no = 15,
-			tax = 0.015000,
+			tax = 0.025000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -124,7 +124,7 @@ return {
 		[16]=
 		{
 			no = 16,
-			tax = 0.015000,
+			tax = 0.025000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -132,7 +132,7 @@ return {
 		[17]=
 		{
 			no = 17,
-			tax = 0.015000,
+			tax = 0.025000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -140,7 +140,7 @@ return {
 		[18]=
 		{
 			no = 18,
-			tax = 0.015000,
+			tax = 0.025000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -148,7 +148,7 @@ return {
 		[19]=
 		{
 			no = 19,
-			tax = 0.015000,
+			tax = 0.025000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -156,7 +156,7 @@ return {
 		[20]=
 		{
 			no = 20,
-			tax = 0.015000,
+			tax = 0.025000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -164,7 +164,7 @@ return {
 		[21]=
 		{
 			no = 21,
-			tax = 0.020000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -172,7 +172,7 @@ return {
 		[22]=
 		{
 			no = 22,
-			tax = 0.020000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -180,7 +180,7 @@ return {
 		[23]=
 		{
 			no = 23,
-			tax = 0.020000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -188,7 +188,7 @@ return {
 		[24]=
 		{
 			no = 24,
-			tax = 0.020000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -196,7 +196,7 @@ return {
 		[25]=
 		{
 			no = 25,
-			tax = 0.020000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -204,7 +204,7 @@ return {
 		[26]=
 		{
 			no = 26,
-			tax = 0.020000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -212,7 +212,7 @@ return {
 		[27]=
 		{
 			no = 27,
-			tax = 0.020000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -220,7 +220,7 @@ return {
 		[28]=
 		{
 			no = 28,
-			tax = 0.020000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -228,7 +228,7 @@ return {
 		[29]=
 		{
 			no = 29,
-			tax = 0.020000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -236,7 +236,7 @@ return {
 		[30]=
 		{
 			no = 30,
-			tax = 0.020000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -244,7 +244,7 @@ return {
 		[31]=
 		{
 			no = 31,
-			tax = 0.030000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -252,7 +252,7 @@ return {
 		[32]=
 		{
 			no = 32,
-			tax = 0.030000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -260,7 +260,7 @@ return {
 		[33]=
 		{
 			no = 33,
-			tax = 0.030000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -268,7 +268,7 @@ return {
 		[34]=
 		{
 			no = 34,
-			tax = 0.030000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -276,7 +276,7 @@ return {
 		[35]=
 		{
 			no = 35,
-			tax = 0.030000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -284,7 +284,7 @@ return {
 		[36]=
 		{
 			no = 36,
-			tax = 0.030000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -292,7 +292,7 @@ return {
 		[37]=
 		{
 			no = 37,
-			tax = 0.030000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -300,7 +300,7 @@ return {
 		[38]=
 		{
 			no = 38,
-			tax = 0.030000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -308,7 +308,7 @@ return {
 		[39]=
 		{
 			no = 39,
-			tax = 0.030000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -316,7 +316,7 @@ return {
 		[40]=
 		{
 			no = 40,
-			tax = 0.030000,
+			tax = 0.032000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -1073,8 +1073,8 @@ return {
 			ID = 46,
 			fish_type = 1,
 			fish_form = {32,},
-			life = 100,
-			rate = 100,
+			life = 300,
+			rate = 300,
 			gd_award = 0,
 		},
 		[47]=
@@ -1082,8 +1082,8 @@ return {
 			ID = 47,
 			fish_type = 1,
 			fish_form = {33,},
-			life = 100,
-			rate = 100,
+			life = 300,
+			rate = 300,
 			gd_award = 0,
 		},
 		[48]=
@@ -1746,13 +1746,13 @@ return {
 			id = 32,
 			base_id = 32,
 			act_id = 32,
-			life = 100,
-			shoot = 0.010000,
+			life = 300,
+			shoot = 0.003333,
 			act_type = "activity",
-			rate = 100,
+			rate = 300,
 			dead_mode = 1,
 			gd_award = 0,
-			ranking_rate = 100,
+			ranking_rate = 300,
 			ranking_show_rate = 1,
 			broadcast = 1,
 			clear_level = 1,
@@ -1762,13 +1762,13 @@ return {
 			id = 33,
 			base_id = 33,
 			act_id = 33,
-			life = 100,
-			shoot = 0.010000,
+			life = 300,
+			shoot = 0.003333,
 			act_type = "activity",
-			rate = 100,
+			rate = 300,
 			dead_mode = 1,
 			gd_award = 0,
-			ranking_rate = 100,
+			ranking_rate = 300,
 			ranking_show_rate = 1,
 			broadcast = 1,
 			clear_level = 1,
@@ -2330,19 +2330,19 @@ return {
 		{
 			id = 32,
 			acti_type = 28,
-			num = {100,},
+			num = {300,},
 			show = 0,
 			enter_bag = 0,
-			value = 100,
+			value = 300,
 		},
 		[33]=
 		{
 			id = 33,
 			acti_type = 29,
-			num = {100,},
+			num = {300,},
 			show = 0,
 			enter_bag = 0,
-			value = 100,
+			value = 300,
 		},
 		[34]=
 		{

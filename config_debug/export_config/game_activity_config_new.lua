@@ -2234,5 +2234,21 @@ return {
 			gotoUI = {"by_drb_cs","panel",},
 			tag = "new",
 		},
+		[131]=
+		{
+			id = 131,
+			ID = 142,
+			title = "玩家微信交流群",
+			order = -1,
+			isOnOff = 1,
+			beginTime = -1,
+			endTime = -1,
+			noCloseUI = 1,
+			type = "activity",
+			showType = "image",
+			parmData = "wxjl_dk_bg",
+			is_local_icon = 1,
+			tag = "new",
+		},
 	},
 }

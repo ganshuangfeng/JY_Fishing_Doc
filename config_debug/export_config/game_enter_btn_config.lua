@@ -94,7 +94,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "8#61;36;26;",
+			group_list = "8#61#36#26#",
 		},
 		[2]=
 		{
@@ -106,7 +106,7 @@ return {
 		{
 			id = 3,
 			area = "right",
-			group_list = "11;",
+			group_list = "62;",
 		},
 		[4]=
 		{
@@ -221,6 +221,15 @@ return {
 			id = 1,
 			area = "down",
 			group_list = "43#40#26#",
+		},
+	},
+	fishing3d_hall=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "top",
+			group_list = "63;",
 		},
 	},
 	all_enter=
@@ -589,6 +598,18 @@ return {
 		{
 			id = 61,
 			parm = {"sys_cqg",},
+			is_on_off = 1,
+		},
+		[62]=
+		{
+			id = 62,
+			parm = {"hall_activity",},
+			is_on_off = 1,
+		},
+		[63]=
+		{
+			id = 63,
+			parm = {"by_drb_cs",},
 			is_on_off = 1,
 		},
 	},
