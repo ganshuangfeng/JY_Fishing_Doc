@@ -187,9 +187,9 @@ return {
 			key = "gift_game_flash_sale_gift_manager",
 			desc = "礼包：特惠礼包管理器",
 			lua = "GiftGameFlashSaleGiftManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[20]=
 		{
@@ -247,9 +247,9 @@ return {
 			key = "sys_cfzx",
 			desc = "财富中心(赚钱)",
 			lua = "GameMoneyCenterLogic",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[26]=
 		{
@@ -258,8 +258,8 @@ return {
 			desc = "分享",
 			lua = "SYSFXManager",
 			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[27]=
 		{
@@ -457,9 +457,9 @@ return {
 			key = "sys_wyhb",
 			desc = "系统：我要红包",
 			lua = "SysWYHBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[47]=
 		{
@@ -478,8 +478,8 @@ return {
 			desc = "VIP专享(和游戏中的VIP系统有牵连)",
 			lua = "VIPManager",
 			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[49]=
 		{
@@ -487,9 +487,9 @@ return {
 			key = "sys_vip2_up",
 			desc = "VIP3直通礼包",
 			lua = "SYSVip2UpManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[50]=
 		{
@@ -497,9 +497,9 @@ return {
 			key = "sys_vip3_guide",
 			desc = "VIP4引导",
 			lua = "SYSVip3GuideManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[51]=
 		{
@@ -516,9 +516,9 @@ return {
 			key = "ty_gift",
 			desc = "通用礼包",
 			lua = "TYGiftManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[53]=
 		{
@@ -536,9 +536,9 @@ return {
 			key = "xycj",
 			desc = "幸运抽奖",
 			lua = "XYCJActivityManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[55]=
 		{
@@ -566,9 +566,9 @@ return {
 			key = "sys_sclb",
 			desc = "首充礼包",
 			lua = "SYSSCLBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[58]=
 		{
@@ -596,9 +596,9 @@ return {
 			key = "sys_xyjl",
 			desc = "幸运降临",
 			lua = "SYSXYJLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[61]=
 		{
@@ -606,9 +606,9 @@ return {
 			key = "sys_yk",
 			desc = "系统：月卡",
 			lua = "SYSYKManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[62]=
 		{
@@ -636,9 +636,9 @@ return {
 			key = "sys_xy",
 			desc = "许愿池",
 			lua = "SYSXYManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[65]=
 		{
@@ -666,9 +666,9 @@ return {
 			key = "sys_mflhb",
 			desc = "免费领红包",
 			lua = "SYSMFLHBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[68]=
 		{
@@ -676,9 +676,9 @@ return {
 			key = "sys_sjjbjl",
 			desc = "随机金币领取",
 			lua = "SYSSJJBJLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[69]=
 		{
@@ -696,9 +696,9 @@ return {
 			key = "sys_gift_exchange",
 			desc = "礼包兑换",
 			lua = "GiftExchangeManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[71]=
 		{
@@ -756,9 +756,9 @@ return {
 			key = "sys_qhb",
 			desc = "抢红包",
 			lua = "SYSQHBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[77]=
 		{
@@ -886,9 +886,9 @@ return {
 			key = "qysXts",
 			desc = "千元赛提示",
 			lua = "QYSXTSManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[90]=
 		{
@@ -906,9 +906,9 @@ return {
 			key = "vip_gift",
 			desc = "VIP礼包",
 			lua = "VIPGiftLogic",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[92]=
 		{
@@ -1046,9 +1046,9 @@ return {
 			key = "sys_cfzx_qflb",
 			desc = "财富中心全返礼包",
 			lua = "MoneyCenterQFLBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[106]=
 		{
@@ -1416,9 +1416,9 @@ return {
 			key = "act_004_jika",
 			desc = "季卡",
 			lua = "Act_004JIKAManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[143]=
 		{
@@ -1426,9 +1426,9 @@ return {
 			key = "act_004_lylb",
 			desc = "0元礼包",
 			lua = "Act_004LYLBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[144]=
 		{
@@ -1556,9 +1556,9 @@ return {
 			key = "act_007_fkfl",
 			desc = "疯狂返利",
 			lua = "Act_007_FKFLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[157]=
 		{
@@ -1566,9 +1566,9 @@ return {
 			key = "act_007_ckt",
 			desc = "抽空调",
 			lua = "Act_007CKTManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[158]=
 		{
@@ -1636,9 +1636,9 @@ return {
 			key = "gift_com_gift",
 			desc = "礼包：单个礼包模板",
 			lua = "GameComGiftPanel",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[165]=
 		{
@@ -1657,8 +1657,8 @@ return {
 			desc = "礼包：一元礼包",
 			lua = "GiftOneYuanManager",
 			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[167]=
 		{
@@ -1685,36 +1685,36 @@ return {
 			id = 169,
 			key = "gift_13",
 			desc = "千元赛礼包",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[170]=
 		{
 			id = 170,
 			key = "gift_74",
 			desc = "迎新礼包",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[171]=
 		{
 			id = 171,
 			key = "gift_10025",
 			desc = "捕鱼特惠礼包",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[172]=
 		{
 			id = 172,
 			key = "gift_10087",
 			desc = "每日特惠礼包",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[173]=
 		{
@@ -1759,9 +1759,9 @@ return {
 			key = "gift_fishing_subsidy",
 			desc = "礼包：捕鱼特惠",
 			lua = "GiftFishingSubsidyManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[178]=
 		{
@@ -1769,9 +1769,9 @@ return {
 			key = "gift_shatter_golden_sale",
 			desc = "礼包：限时特惠",
 			lua = "GiftShatterGoldenSaleManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[179]=
 		{

@@ -145,7 +145,7 @@ return {
 			id = 1,
 			rank_id = 1,
 			rank_level = 1,
-			score = {3500,99999999999},
+			score = {1500,99999999999},
 			score_award_id = 1,
 		},
 		[2]=
@@ -153,7 +153,7 @@ return {
 			id = 2,
 			rank_id = 1,
 			rank_level = 2,
-			score = {2800,3499},
+			score = {1201,1499},
 			score_award_id = 2,
 		},
 		[3]=
@@ -161,7 +161,7 @@ return {
 			id = 3,
 			rank_id = 1,
 			rank_level = 3,
-			score = {2000,2799},
+			score = {1000,1200},
 			score_award_id = 3,
 		},
 		[4]=
@@ -169,7 +169,7 @@ return {
 			id = 4,
 			rank_id = 2,
 			rank_level = 1,
-			score = {3500,99999999999},
+			score = {1500,99999999999},
 			score_award_id = 4,
 		},
 		[5]=
@@ -177,7 +177,7 @@ return {
 			id = 5,
 			rank_id = 2,
 			rank_level = 2,
-			score = {2800,3499},
+			score = {1201,1499},
 			score_award_id = 5,
 		},
 		[6]=
@@ -185,7 +185,7 @@ return {
 			id = 6,
 			rank_id = 2,
 			rank_level = 3,
-			score = {2000,2799},
+			score = {1000,1200},
 			score_award_id = 6,
 		},
 		[7]=
@@ -193,7 +193,7 @@ return {
 			id = 7,
 			rank_id = 3,
 			rank_level = 1,
-			score = {3500,99999999999},
+			score = {1500,99999999999},
 			score_award_id = 7,
 		},
 		[8]=
@@ -201,7 +201,7 @@ return {
 			id = 8,
 			rank_id = 3,
 			rank_level = 2,
-			score = {2800,3499},
+			score = {1201,1499},
 			score_award_id = 8,
 		},
 		[9]=
@@ -209,7 +209,7 @@ return {
 			id = 9,
 			rank_id = 3,
 			rank_level = 3,
-			score = {2000,2799},
+			score = {1000,1200},
 			score_award_id = 9,
 		},
 		[10]=
@@ -217,7 +217,7 @@ return {
 			id = 10,
 			rank_id = 4,
 			rank_level = 1,
-			score = {3500,99999999999},
+			score = {1500,99999999999},
 			score_award_id = 10,
 		},
 		[11]=
@@ -225,7 +225,7 @@ return {
 			id = 11,
 			rank_id = 4,
 			rank_level = 2,
-			score = {2800,3499},
+			score = {1201,1499},
 			score_award_id = 11,
 		},
 		[12]=
@@ -233,7 +233,7 @@ return {
 			id = 12,
 			rank_id = 4,
 			rank_level = 3,
-			score = {2000,2799},
+			score = {1000,1200},
 			score_award_id = 12,
 		},
 	},
@@ -394,120 +394,92 @@ return {
 		{
 			id = 4,
 			rank_id = 1,
-			rank_range = {4,50},
+			rank_range = {4,10},
 			everyday_award_id = 4,
 		},
 		[5]=
 		{
 			id = 5,
-			rank_id = 1,
-			rank_range = 51100,
+			rank_id = 2,
+			rank_range = {1,1},
 			everyday_award_id = 5,
 		},
 		[6]=
 		{
 			id = 6,
 			rank_id = 2,
-			rank_range = {1,1},
+			rank_range = {2,2},
 			everyday_award_id = 6,
 		},
 		[7]=
 		{
 			id = 7,
 			rank_id = 2,
-			rank_range = {2,2},
+			rank_range = {3,3},
 			everyday_award_id = 7,
 		},
 		[8]=
 		{
 			id = 8,
 			rank_id = 2,
-			rank_range = {3,3},
+			rank_range = {4,10},
 			everyday_award_id = 8,
 		},
 		[9]=
 		{
 			id = 9,
-			rank_id = 2,
-			rank_range = {4,50},
+			rank_id = 3,
+			rank_range = {1,1},
 			everyday_award_id = 9,
 		},
 		[10]=
 		{
 			id = 10,
-			rank_id = 2,
-			rank_range = 51100,
+			rank_id = 3,
+			rank_range = {2,2},
 			everyday_award_id = 10,
 		},
 		[11]=
 		{
 			id = 11,
 			rank_id = 3,
-			rank_range = {1,1},
+			rank_range = {3,3},
 			everyday_award_id = 11,
 		},
 		[12]=
 		{
 			id = 12,
 			rank_id = 3,
-			rank_range = {2,2},
+			rank_range = {4,10},
 			everyday_award_id = 12,
 		},
 		[13]=
 		{
 			id = 13,
-			rank_id = 3,
-			rank_range = {3,3},
+			rank_id = 4,
+			rank_range = {1,1},
 			everyday_award_id = 13,
 		},
 		[14]=
 		{
 			id = 14,
-			rank_id = 3,
-			rank_range = {4,50},
+			rank_id = 4,
+			rank_range = {2,2},
 			everyday_award_id = 14,
 		},
 		[15]=
 		{
 			id = 15,
-			rank_id = 3,
-			rank_range = 51100,
+			rank_id = 4,
+			rank_range = {3,3},
 			everyday_award_id = 15,
 		},
 		[16]=
 		{
 			id = 16,
 			rank_id = 4,
-			rank_range = {1,1},
+			rank_range = {4,10},
 			everyday_award_id = 16,
-		},
-		[17]=
-		{
-			id = 17,
-			rank_id = 4,
-			rank_range = {2,2},
-			everyday_award_id = 17,
-		},
-		[18]=
-		{
-			id = 18,
-			rank_id = 4,
-			rank_range = {3,3},
-			everyday_award_id = 18,
-		},
-		[19]=
-		{
-			id = 19,
-			rank_id = 4,
-			rank_range = {4,50},
-			everyday_award_id = 19,
-		},
-		[20]=
-		{
-			id = 20,
-			rank_id = 4,
-			rank_range = 51100,
-			everyday_award_id = 20,
 		},
 	},
 	everyday_award=
@@ -517,147 +489,112 @@ return {
 			id = 1,
 			rank_award_id = 1,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 2500,
 		},
 		[2]=
 		{
 			id = 2,
-			rank_award_id = 1,
-			asset_type = "jing_bi",
-			asset_count = 100,
+			rank_award_id = 2,
+			asset_type = "shop_gold_sum",
+			asset_count = 1500,
 		},
 		[3]=
 		{
 			id = 3,
-			rank_award_id = 2,
-			asset_type = "jing_bi",
-			asset_count = 5000,
+			rank_award_id = 3,
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
 		},
 		[4]=
 		{
 			id = 4,
-			rank_award_id = 3,
-			asset_type = "jing_bi",
-			asset_count = 3000,
+			rank_award_id = 4,
+			asset_type = "shop_gold_sum",
+			asset_count = 700,
 		},
 		[5]=
 		{
 			id = 5,
-			rank_award_id = 4,
-			asset_type = "jing_bi",
-			asset_count = 2000,
+			rank_award_id = 5,
+			asset_type = "shop_gold_sum",
+			asset_count = 5000,
 		},
 		[6]=
 		{
 			id = 6,
-			rank_award_id = 5,
-			asset_type = "jing_bi",
-			asset_count = 500,
+			rank_award_id = 6,
+			asset_type = "shop_gold_sum",
+			asset_count = 3000,
 		},
 		[7]=
 		{
 			id = 7,
-			rank_award_id = 6,
+			rank_award_id = 7,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 2000,
 		},
 		[8]=
 		{
 			id = 8,
-			rank_award_id = 7,
-			asset_type = "jing_bi",
-			asset_count = 5000,
+			rank_award_id = 8,
+			asset_type = "shop_gold_sum",
+			asset_count = 1400.000000,
 		},
 		[9]=
 		{
 			id = 9,
-			rank_award_id = 8,
-			asset_type = "jing_bi",
-			asset_count = 3000,
+			rank_award_id = 9,
+			asset_type = "shop_gold_sum",
+			asset_count = 12500,
 		},
 		[10]=
 		{
 			id = 10,
-			rank_award_id = 9,
-			asset_type = "jing_bi",
-			asset_count = 2000,
+			rank_award_id = 10,
+			asset_type = "shop_gold_sum",
+			asset_count = 7500,
 		},
 		[11]=
 		{
 			id = 11,
-			rank_award_id = 10,
-			asset_type = "jing_bi",
-			asset_count = 500,
+			rank_award_id = 11,
+			asset_type = "shop_gold_sum",
+			asset_count = 5000,
 		},
 		[12]=
 		{
 			id = 12,
-			rank_award_id = 11,
+			rank_award_id = 12,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 3500.000000,
 		},
 		[13]=
 		{
 			id = 13,
-			rank_award_id = 12,
-			asset_type = "jing_bi",
-			asset_count = 5000,
+			rank_award_id = 13,
+			asset_type = "shop_gold_sum",
+			asset_count = 25000,
 		},
 		[14]=
 		{
 			id = 14,
-			rank_award_id = 13,
-			asset_type = "jing_bi",
-			asset_count = 3000,
+			rank_award_id = 14,
+			asset_type = "shop_gold_sum",
+			asset_count = 15000,
 		},
 		[15]=
 		{
 			id = 15,
-			rank_award_id = 14,
-			asset_type = "jing_bi",
-			asset_count = 2000,
+			rank_award_id = 15,
+			asset_type = "shop_gold_sum",
+			asset_count = 10000,
 		},
 		[16]=
 		{
 			id = 16,
-			rank_award_id = 15,
-			asset_type = "jing_bi",
-			asset_count = 500,
-		},
-		[17]=
-		{
-			id = 17,
 			rank_award_id = 16,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
-		},
-		[18]=
-		{
-			id = 18,
-			rank_award_id = 17,
-			asset_type = "jing_bi",
-			asset_count = 5000,
-		},
-		[19]=
-		{
-			id = 19,
-			rank_award_id = 18,
-			asset_type = "jing_bi",
-			asset_count = 3000,
-		},
-		[20]=
-		{
-			id = 20,
-			rank_award_id = 19,
-			asset_type = "jing_bi",
-			asset_count = 2000,
-		},
-		[21]=
-		{
-			id = 21,
-			rank_award_id = 20,
-			asset_type = "jing_bi",
-			asset_count = 500,
+			asset_count = 7000.000000,
 		},
 	},
 }

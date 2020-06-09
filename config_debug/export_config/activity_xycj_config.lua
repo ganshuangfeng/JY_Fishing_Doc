@@ -8,7 +8,7 @@ return {
 			type = 1,
 			icon = "ty_icon_flq2",
 			scale = 1,
-			desc = "福利券x300",
+			desc = "福利券x600",
 			is_dj = 0,
 		},
 		[2]=
@@ -18,7 +18,7 @@ return {
 			type = 1,
 			icon = "ty_icon_flq1",
 			scale = 1,
-			desc = "福利券x250",
+			desc = "福利券x285",
 			is_dj = 0,
 		},
 		[3]=
@@ -28,7 +28,7 @@ return {
 			type = 1,
 			icon = "ty_icon_flq3",
 			scale = 1,
-			desc = "福利券x1500",
+			desc = "福利券x2400",
 			is_dj = 1,
 		},
 		[4]=
@@ -38,7 +38,7 @@ return {
 			type = 1,
 			icon = "ty_icon_flq2",
 			scale = 1,
-			desc = "福利券x300",
+			desc = "福利券x600",
 			is_dj = 0,
 		},
 		[5]=
@@ -48,7 +48,7 @@ return {
 			type = 1,
 			icon = "ty_icon_flq1",
 			scale = 1,
-			desc = "福利券x250",
+			desc = "福利券x300",
 			is_dj = 0,
 		},
 		[6]=
@@ -68,7 +68,7 @@ return {
 			type = 1,
 			icon = "ty_icon_flq2",
 			scale = 1,
-			desc = "福利券x300",
+			desc = "福利券x600",
 			is_dj = 0,
 		},
 		[8]=
@@ -78,7 +78,7 @@ return {
 			type = 1,
 			icon = "ty_icon_flq1",
 			scale = 1,
-			desc = "福利券x250",
+			desc = "福利券x300",
 			is_dj = 0,
 		},
 		[9]=
@@ -88,7 +88,7 @@ return {
 			type = 1,
 			icon = "ty_icon_flq3",
 			scale = 1,
-			desc = "福利券x1200",
+			desc = "福利券x2400",
 			is_dj = 1,
 		},
 		[10]=
@@ -98,7 +98,7 @@ return {
 			type = 1,
 			icon = "ty_icon_flq2",
 			scale = 1,
-			desc = "福利券x300",
+			desc = "福利券x255",
 			is_dj = 0,
 		},
 		[11]=
@@ -108,7 +108,7 @@ return {
 			type = 2,
 			icon = "ty_icon_flq3",
 			scale = 1,
-			desc = "福利券x4500",
+			desc = "福利券x4.75万",
 			is_dj = 0,
 		},
 		[12]=
@@ -118,7 +118,7 @@ return {
 			type = 2,
 			icon = "ty_icon_jb_50y",
 			scale = 1,
-			desc = "金币x475万",
+			desc = "金币x1000万",
 			is_dj = 0,
 		},
 		[13]=
@@ -128,7 +128,7 @@ return {
 			type = 2,
 			icon = "ty_icon_flq5",
 			scale = 1,
-			desc = "福利券x25000",
+			desc = "福利券x100万",
 			is_dj = 1,
 		},
 		[14]=
@@ -138,7 +138,7 @@ return {
 			type = 2,
 			icon = "ty_icon_jb_30y",
 			scale = 1,
-			desc = "金币x425万",
+			desc = "金币x500万",
 			is_dj = 0,
 		},
 		[15]=
@@ -146,9 +146,9 @@ return {
 			line = 15,
 			id = 15,
 			type = 2,
-			icon = "ty_icon_flq3",
+			icon = "ty_icon_flq4",
 			scale = 1,
-			desc = "福利券x4750",
+			desc = "福利券x10万",
 			is_dj = 0,
 		},
 		[16]=
@@ -158,7 +158,7 @@ return {
 			type = 2,
 			icon = "ty_icon_jb_198y",
 			scale = 1,
-			desc = "金币x2000万",
+			desc = "金币x1亿",
 			is_dj = 1,
 		},
 		[17]=
@@ -168,7 +168,7 @@ return {
 			type = 2,
 			icon = "ty_icon_flq2",
 			scale = 1,
-			desc = "福利券x4250",
+			desc = "福利券x4.25万",
 			is_dj = 0,
 		},
 		[18]=
@@ -178,7 +178,7 @@ return {
 			type = 2,
 			icon = "ty_icon_jb_50y",
 			scale = 1,
-			desc = "金币x450万",
+			desc = "金币x500万",
 			is_dj = 0,
 		},
 		[19]=
@@ -188,7 +188,7 @@ return {
 			type = 2,
 			icon = "ty_icon_flq4",
 			scale = 1,
-			desc = "福利券x15000",
+			desc = "福利券x40万",
 			is_dj = 1,
 		},
 		[20]=
@@ -198,7 +198,7 @@ return {
 			type = 2,
 			icon = "ty_icon_jb_30y",
 			scale = 1,
-			desc = "金币x400万",
+			desc = "金币x1000万",
 			is_dj = 0,
 		},
 	},
@@ -208,16 +208,16 @@ return {
 		{
 			line = 1,
 			type = 1,
-			icon = "ls_icon_hb1",
+			icon = "activity_icon_gift186_jdyb",
 			name = "100元京东E卡",
-			price = "10000福利券",
+			price = "1万福利券",
 			goto_ui = {"duihuan_shop",},
 		},
 		[2]=
 		{
 			line = 2,
 			type = 1,
-			icon = "ls_icon_hb1",
+			icon = "activity_icon_gift184_wshf",
 			name = "50元话费",
 			price = "5000福利券",
 			goto_ui = {"duihuan_shop",},
@@ -226,7 +226,7 @@ return {
 		{
 			line = 3,
 			type = 1,
-			icon = "ls_icon_hb1",
+			icon = "activity_icon_gift187_qklt",
 			name = "俄罗斯进口巧克力",
 			price = "1800福利券",
 			goto_ui = {"duihuan_shop",},
@@ -235,7 +235,7 @@ return {
 		{
 			line = 4,
 			type = 1,
-			icon = "ls_icon_hb1",
+			icon = "activity_icon_gift185_syhf",
 			name = "10元话费",
 			price = "1000福利券",
 			goto_ui = {"duihuan_shop",},
@@ -244,34 +244,34 @@ return {
 		{
 			line = 5,
 			type = 2,
-			icon = "ls_icon_hb1",
+			icon = "activity_icon_gift188_hwsj",
 			name = "华为P30",
-			price = "469900福利券",
+			price = "46万福利券",
 			goto_ui = {"duihuan_shop",},
 		},
 		[6]=
 		{
 			line = 6,
 			type = 2,
-			icon = "ls_icon_hb1",
+			icon = "activity_icon_gift189_hwsj1",
 			name = "华为荣耀9X",
-			price = "168800福利券",
+			price = "16万福利券",
 			goto_ui = {"duihuan_shop",},
 		},
 		[7]=
 		{
 			line = 7,
 			type = 2,
-			icon = "ls_icon_hb1",
+			icon = "activity_icon_gift186_jdyb",
 			name = "100元京东E卡",
-			price = "10000福利券",
+			price = "1万福利券",
 			goto_ui = {"duihuan_shop",},
 		},
 		[8]=
 		{
 			line = 8,
 			type = 2,
-			icon = "ls_icon_hb1",
+			icon = "activity_icon_gift184_wshf",
 			name = "50元话费",
 			price = "5000福利券",
 			goto_ui = {"duihuan_shop",},
