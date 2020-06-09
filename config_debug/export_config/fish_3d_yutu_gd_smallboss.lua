@@ -8,7 +8,6 @@ return {
 			time_frame = {1200,1650,2100,2250},
 			fish = {10039,},
 			path = {82,},
-			dead_force_create_index = 1,
 			image_type = "normal",
 		},
 		[2]=
@@ -18,7 +17,6 @@ return {
 			time_frame = {3600,4050,4500,4950},
 			fish = {10039,},
 			path = {82,},
-			dead_force_create_index = 2,
 		},
 		[3]=
 		{
