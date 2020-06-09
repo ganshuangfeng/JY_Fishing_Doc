@@ -89,7 +89,7 @@ return {
 			item = "shop_gold_sum",
 			num = 0.5,
 			weight = 1,
-			name = "红包券x0.5",
+			name = "福利券x0.5",
 			icon = "com_award_icon_money",
 		},
 		[2]=
@@ -177,7 +177,7 @@ return {
 			item = "shop_gold_sum",
 			num = 5,
 			weight = 1,
-			name = "红包券x5",
+			name = "福利券x5",
 			icon = "com_award_icon_money",
 		},
 		[10]=
@@ -265,7 +265,7 @@ return {
 			item = "shop_gold_sum",
 			num = 20,
 			weight = 1,
-			name = "红包券x20",
+			name = "福利券x20",
 			icon = "com_award_icon_money",
 		},
 		[18]=
@@ -353,7 +353,7 @@ return {
 			item = "shop_gold_sum",
 			num = 5,
 			weight = 1,
-			name = "红包券x5",
+			name = "福利券x5",
 			icon = "com_award_icon_money",
 		},
 		[26]=
@@ -441,7 +441,7 @@ return {
 			item = "shop_gold_sum",
 			num = 5,
 			weight = 1,
-			name = "红包券x5",
+			name = "福利券x5",
 			icon = "com_award_icon_money",
 		},
 		[34]=
@@ -529,7 +529,7 @@ return {
 			item = "shop_gold_sum",
 			num = 80,
 			weight = 1,
-			name = "红包券x80",
+			name = "福利券x80",
 			icon = "com_award_icon_money",
 		},
 		[42]=
@@ -617,7 +617,7 @@ return {
 			item = "shop_gold_sum",
 			num = 300,
 			weight = 1,
-			name = "红包券x300",
+			name = "福利券x300",
 			icon = "com_award_icon_money",
 		},
 		[50]=
@@ -705,7 +705,7 @@ return {
 			item = "shop_gold_sum",
 			num = 1500,
 			weight = 1,
-			name = "红包券x1500",
+			name = "福利券x1500",
 			icon = "com_award_icon_money",
 		},
 		[58]=
