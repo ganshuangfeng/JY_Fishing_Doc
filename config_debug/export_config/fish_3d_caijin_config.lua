@@ -66,14 +66,17 @@ return {
 		[1]=
 		{
 			index = 1,
+			kill_num = 0,
 		},
 		[2]=
 		{
 			index = 2,
+			kill_num = 0,
 		},
 		[3]=
 		{
 			index = 3,
+			kill_num = 0,
 		},
 	},
 	award=
