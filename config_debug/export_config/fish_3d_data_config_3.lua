@@ -638,7 +638,7 @@ return {
 		[10]=
 		{
 			no = 10,
-			image_cfg = "fish_3d_yutu_random_boss",
+			image_cfg = "fish_3d_yutu_random_boss_3",
 			image_no = 1,
 			type = "random",
 			over_time_min = 1200,
