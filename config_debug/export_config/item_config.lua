@@ -1339,7 +1339,7 @@ return {
 		{
 			id = 103,
 			item_id = 103,
-			item_key = "obj_fish_3d_summon_fish",
+			item_key = "prop_3d_fish_summon_fish",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "3dby_btn_zh",
