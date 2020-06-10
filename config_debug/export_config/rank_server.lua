@@ -643,6 +643,7 @@ return {
 			id = 9,
 			settle_time_model = 13,
 			is_clear = 1,
+			award_model = 9,
 		},
 	},
 	settle_time_model=
@@ -1349,6 +1350,15 @@ return {
 			award_id = 69,
 			award_type = "nor",
 		},
+		[70]=
+		{
+			id = 70,
+			model_id = 9,
+			start_rank = 1,
+			end_rank = 10,
+			award_id = 70,
+			award_type = "nor",
+		},
 	},
 	awards=
 	{
@@ -1971,6 +1981,15 @@ return {
 			award_name = "5红包劵",
 			asset_type = "shop_gold_sum",
 			asset_count = 500,
+			get_weight = 1,
+		},
+		[70]=
+		{
+			id = 70,
+			award_id = 70,
+			award_name = "1金币",
+			asset_type = "jing_bi",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
