@@ -73,7 +73,7 @@ return {
 			name = "核能风暴",
 			desc = "核能炮：在屏幕中间释放一颗小型原子弹，有几率捕获炸弹范围内的任意鱼类",
 			desc_get = "礼包购买",
-			use_parm = {"buygift”,10237,},
+			use_parm = {"buygift",10237,},
 		},
 		[6]=
 		{
@@ -103,7 +103,7 @@ return {
 			name = "神龙之力",
 			desc = "神龙杀：瞬间提高子弹250%的杀伤力\n被动效果：提高击杀寒冰龙王的概率",
 			desc_get = "6元购买",
-			use_parm = {"buygift”,10238,},
+			use_parm = {"buygift",10238,},
 		},
 		[8]=
 		{
