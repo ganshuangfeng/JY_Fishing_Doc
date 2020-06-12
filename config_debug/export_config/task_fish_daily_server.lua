@@ -1089,7 +1089,7 @@ return {
 		{
 			id = 28,
 			award_id = 2003,
-			asset_type = "obj_fish_3d_summon_fish",
+			asset_type = "prop_3d_fish_summon_fish",
 			asset_count = 3,
 			get_weight = 1,
 		},

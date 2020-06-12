@@ -263,7 +263,7 @@ return {
 			index = 3,
 			item = "discount_fish_coin",
 			num = 3000,
-			weight = 1000,
+			weight = 500,
 			name = "鱼币*3000",
 			icon = "com_award_icon_yb2",
 			real = 0,
@@ -274,10 +274,10 @@ return {
 			config_id = 1,
 			index = 4,
 			item = "discount_fish_coin",
-			num = 1000,
-			weight = 2000,
-			name = "鱼币*1000",
-			icon = "com_award_icon_yb1",
+			num = 2500,
+			weight = 500,
+			name = "鱼币*2500",
+			icon = "com_award_icon_yb2",
 			real = 0,
 		},
 		[5]=
@@ -286,10 +286,10 @@ return {
 			config_id = 1,
 			index = 5,
 			item = "discount_fish_coin",
-			num = 500,
-			weight = 2800,
-			name = "鱼币*500",
-			icon = "com_icon_yb",
+			num = 1000,
+			weight = 1000,
+			name = "鱼币*1000",
+			icon = "com_award_icon_yb1",
 			real = 0,
 		},
 		[6]=
@@ -297,6 +297,30 @@ return {
 			line = 6,
 			config_id = 1,
 			index = 6,
+			item = "discount_fish_coin",
+			num = 1500,
+			weight = 1000,
+			name = "鱼币*1500",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[7]=
+		{
+			line = 7,
+			config_id = 1,
+			index = 7,
+			item = "discount_fish_coin",
+			num = 500,
+			weight = 2800,
+			name = "鱼币*500",
+			icon = "com_icon_yb",
+			real = 0,
+		},
+		[8]=
+		{
+			line = 8,
+			config_id = 1,
+			index = 8,
 			item = "prop_fish_lock",
 			num = 5,
 			weight = 3699,
@@ -304,9 +328,9 @@ return {
 			icon = "by_btn_sd",
 			real = 0,
 		},
-		[7]=
+		[9]=
 		{
-			line = 7,
+			line = 9,
 			config_id = 2,
 			index = 1,
 			item = "shop_gold_sum",
@@ -316,9 +340,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[8]=
+		[10]=
 		{
-			line = 8,
+			line = 10,
 			config_id = 2,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -328,35 +352,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[9]=
-		{
-			line = 9,
-			config_id = 2,
-			index = 3,
-			item = "discount_fish_coin",
-			num = 9000,
-			weight = 800,
-			name = "鱼币*9000",
-			icon = "com_award_icon_yb2",
-			real = 0,
-		},
-		[10]=
-		{
-			line = 10,
-			config_id = 2,
-			index = 4,
-			item = "discount_fish_coin",
-			num = 3000,
-			weight = 2000,
-			name = "鱼币*3000",
-			icon = "com_award_icon_yb1",
-			real = 0,
-		},
 		[11]=
 		{
 			line = 11,
 			config_id = 2,
+			index = 3,
+			item = "discount_fish_coin",
+			num = 9000,
+			weight = 600,
+			name = "鱼币*9000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[12]=
+		{
+			line = 12,
+			config_id = 2,
+			index = 4,
+			item = "discount_fish_coin",
+			num = 6000,
+			weight = 200,
+			name = "鱼币*6000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[13]=
+		{
+			line = 13,
+			config_id = 2,
 			index = 5,
+			item = "discount_fish_coin",
+			num = 3000,
+			weight = 1000,
+			name = "鱼币*3000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[14]=
+		{
+			line = 14,
+			config_id = 2,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 2000,
+			weight = 1000,
+			name = "鱼币*2000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[15]=
+		{
+			line = 15,
+			config_id = 2,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 1500,
 			weight = 3000,
@@ -364,11 +412,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[12]=
+		[16]=
 		{
-			line = 12,
+			line = 16,
 			config_id = 2,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 500,
 			weight = 3899,
@@ -376,9 +424,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[13]=
+		[17]=
 		{
-			line = 13,
+			line = 17,
 			config_id = 3,
 			index = 1,
 			item = "shop_gold_sum",
@@ -388,9 +436,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[14]=
+		[18]=
 		{
-			line = 14,
+			line = 18,
 			config_id = 3,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -400,35 +448,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[15]=
+		[19]=
 		{
-			line = 15,
+			line = 19,
 			config_id = 3,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 32000,
-			weight = 800,
+			weight = 600,
 			name = "鱼币32000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[16]=
+		[20]=
 		{
-			line = 16,
+			line = 20,
 			config_id = 3,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 20000,
+			weight = 200,
+			name = "鱼币20000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[21]=
+		{
+			line = 21,
+			config_id = 3,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 10000,
-			weight = 2000,
+			weight = 1000,
 			name = "鱼币*10000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[17]=
+		[22]=
 		{
-			line = 17,
+			line = 22,
 			config_id = 3,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 8000,
+			weight = 1000,
+			name = "鱼币*8000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[23]=
+		{
+			line = 23,
+			config_id = 3,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 4500,
 			weight = 3000,
@@ -436,11 +508,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[18]=
+		[24]=
 		{
-			line = 18,
+			line = 24,
 			config_id = 3,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 1500,
 			weight = 3899,
@@ -448,9 +520,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[19]=
+		[25]=
 		{
-			line = 19,
+			line = 25,
 			config_id = 4,
 			index = 1,
 			item = "shop_gold_sum",
@@ -460,9 +532,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[20]=
+		[26]=
 		{
-			line = 20,
+			line = 26,
 			config_id = 4,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -472,35 +544,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[21]=
+		[27]=
 		{
-			line = 21,
+			line = 27,
 			config_id = 4,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 100000,
-			weight = 500,
+			weight = 300,
 			name = "鱼币*100000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[22]=
+		[28]=
 		{
-			line = 22,
+			line = 28,
 			config_id = 4,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 50000,
+			weight = 200,
+			name = "鱼币*50000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[29]=
+		{
+			line = 29,
+			config_id = 4,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 30000,
-			weight = 2500,
+			weight = 2000,
 			name = "鱼币*30000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[23]=
+		[30]=
 		{
-			line = 23,
+			line = 30,
 			config_id = 4,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 20000,
+			weight = 500,
+			name = "鱼币*20000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[31]=
+		{
+			line = 31,
+			config_id = 4,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 14000,
 			weight = 3000,
@@ -508,11 +604,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[24]=
+		[32]=
 		{
-			line = 24,
+			line = 32,
 			config_id = 4,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 4500,
 			weight = 3899,
@@ -520,9 +616,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[25]=
+		[33]=
 		{
-			line = 25,
+			line = 33,
 			config_id = 5,
 			index = 1,
 			item = "shop_gold_sum",
@@ -532,9 +628,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[26]=
+		[34]=
 		{
-			line = 26,
+			line = 34,
 			config_id = 5,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -544,35 +640,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[27]=
+		[35]=
 		{
-			line = 27,
+			line = 35,
 			config_id = 5,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 400000,
-			weight = 100,
+			weight = 80,
 			name = "鱼币*400000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[28]=
+		[36]=
 		{
-			line = 28,
+			line = 36,
 			config_id = 5,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 200000,
+			weight = 20,
+			name = "鱼币*200000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[37]=
+		{
+			line = 37,
+			config_id = 5,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 120000,
-			weight = 2500,
+			weight = 2000,
 			name = "鱼币*120000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[29]=
+		[38]=
 		{
-			line = 29,
+			line = 38,
 			config_id = 5,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 80000,
+			weight = 500,
+			name = "鱼币*80000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[39]=
+		{
+			line = 39,
+			config_id = 5,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 55000,
 			weight = 3000,
@@ -580,11 +700,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[30]=
+		[40]=
 		{
-			line = 30,
+			line = 40,
 			config_id = 5,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 18000,
 			weight = 3899,
@@ -592,9 +712,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[31]=
+		[41]=
 		{
-			line = 31,
+			line = 41,
 			config_id = 6,
 			index = 1,
 			item = "shop_gold_sum",
@@ -604,9 +724,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[32]=
+		[42]=
 		{
-			line = 32,
+			line = 42,
 			config_id = 6,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -616,35 +736,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[33]=
+		[43]=
 		{
-			line = 33,
+			line = 43,
 			config_id = 6,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 2000000,
-			weight = 100,
+			weight = 80,
 			name = "鱼币*2000000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[34]=
+		[44]=
 		{
-			line = 34,
+			line = 44,
 			config_id = 6,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 1000000,
+			weight = 20,
+			name = "鱼币*1000000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[45]=
+		{
+			line = 45,
+			config_id = 6,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 600000,
-			weight = 2500,
+			weight = 1500,
 			name = "鱼币*600000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[35]=
+		[46]=
 		{
-			line = 35,
+			line = 46,
 			config_id = 6,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 400000,
+			weight = 1000,
+			name = "鱼币*400000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[47]=
+		{
+			line = 47,
+			config_id = 6,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 280000,
 			weight = 3000,
@@ -652,11 +796,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[36]=
+		[48]=
 		{
-			line = 36,
+			line = 48,
 			config_id = 6,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 90000,
 			weight = 3899,
@@ -664,9 +808,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[37]=
+		[49]=
 		{
-			line = 37,
+			line = 49,
 			config_id = 7,
 			index = 1,
 			item = "shop_gold_sum",
@@ -676,9 +820,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[38]=
+		[50]=
 		{
-			line = 38,
+			line = 50,
 			config_id = 7,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -688,35 +832,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[39]=
+		[51]=
 		{
-			line = 39,
+			line = 51,
 			config_id = 7,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 6000,
-			weight = 1000,
+			weight = 500,
 			name = "鱼币*6000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[40]=
+		[52]=
 		{
-			line = 40,
+			line = 52,
 			config_id = 7,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 4000,
+			weight = 500,
+			name = "鱼币*4000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[53]=
+		{
+			line = 53,
+			config_id = 7,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 2000,
-			weight = 2000,
+			weight = 1000,
 			name = "鱼币*2000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[41]=
+		[54]=
 		{
-			line = 41,
+			line = 54,
 			config_id = 7,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 1500,
+			weight = 1000,
+			name = "鱼币*1500",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[55]=
+		{
+			line = 55,
+			config_id = 7,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 1000,
 			weight = 2800,
@@ -724,11 +892,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[42]=
+		[56]=
 		{
-			line = 42,
+			line = 56,
 			config_id = 7,
-			index = 6,
+			index = 8,
 			item = "prop_fish_lock",
 			num = 10,
 			weight = 3699,
@@ -736,9 +904,9 @@ return {
 			icon = "by_btn_sd",
 			real = 0,
 		},
-		[43]=
+		[57]=
 		{
-			line = 43,
+			line = 57,
 			config_id = 8,
 			index = 1,
 			item = "shop_gold_sum",
@@ -748,9 +916,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[44]=
+		[58]=
 		{
-			line = 44,
+			line = 58,
 			config_id = 8,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -760,35 +928,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[45]=
+		[59]=
 		{
-			line = 45,
+			line = 59,
 			config_id = 8,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 18000,
-			weight = 800,
+			weight = 600,
 			name = "鱼币*18000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[46]=
+		[60]=
 		{
-			line = 46,
+			line = 60,
 			config_id = 8,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 10000,
+			weight = 200,
+			name = "鱼币*10000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[61]=
+		{
+			line = 61,
+			config_id = 8,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 6000,
-			weight = 2000,
+			weight = 1000,
 			name = "鱼币*6000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[47]=
+		[62]=
 		{
-			line = 47,
+			line = 62,
 			config_id = 8,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 4000,
+			weight = 1000,
+			name = "鱼币*4000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[63]=
+		{
+			line = 63,
+			config_id = 8,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 3000,
 			weight = 3000,
@@ -796,11 +988,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[48]=
+		[64]=
 		{
-			line = 48,
+			line = 64,
 			config_id = 8,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 1000,
 			weight = 3899,
@@ -808,9 +1000,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[49]=
+		[65]=
 		{
-			line = 49,
+			line = 65,
 			config_id = 9,
 			index = 1,
 			item = "shop_gold_sum",
@@ -820,9 +1012,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[50]=
+		[66]=
 		{
-			line = 50,
+			line = 66,
 			config_id = 9,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -832,35 +1024,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[51]=
+		[67]=
 		{
-			line = 51,
+			line = 67,
 			config_id = 9,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 64000,
-			weight = 800,
+			weight = 600,
 			name = "鱼币*64000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[52]=
+		[68]=
 		{
-			line = 52,
+			line = 68,
 			config_id = 9,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 40000,
+			weight = 200,
+			name = "鱼币*40000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[69]=
+		{
+			line = 69,
+			config_id = 9,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 20000,
-			weight = 2000,
+			weight = 1000,
 			name = "鱼币*20000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[53]=
+		[70]=
 		{
-			line = 53,
+			line = 70,
 			config_id = 9,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 15000,
+			weight = 1000,
+			name = "鱼币*15000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[71]=
+		{
+			line = 71,
+			config_id = 9,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 9000,
 			weight = 3000,
@@ -868,11 +1084,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[54]=
+		[72]=
 		{
-			line = 54,
+			line = 72,
 			config_id = 9,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 3000,
 			weight = 3899,
@@ -880,9 +1096,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[55]=
+		[73]=
 		{
-			line = 55,
+			line = 73,
 			config_id = 10,
 			index = 1,
 			item = "shop_gold_sum",
@@ -892,9 +1108,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[56]=
+		[74]=
 		{
-			line = 56,
+			line = 74,
 			config_id = 10,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -904,35 +1120,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[57]=
+		[75]=
 		{
-			line = 57,
+			line = 75,
 			config_id = 10,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 200000,
-			weight = 500,
+			weight = 300,
 			name = "鱼币*200000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[58]=
+		[76]=
 		{
-			line = 58,
+			line = 76,
 			config_id = 10,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 100000,
+			weight = 200,
+			name = "鱼币*100000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[77]=
+		{
+			line = 77,
+			config_id = 10,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 60000,
-			weight = 2500,
+			weight = 1500,
 			name = "鱼币*60000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[59]=
+		[78]=
 		{
-			line = 59,
+			line = 78,
 			config_id = 10,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 40000,
+			weight = 1000,
+			name = "鱼币*40000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[79]=
+		{
+			line = 79,
+			config_id = 10,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 28000,
 			weight = 3000,
@@ -940,11 +1180,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[60]=
+		[80]=
 		{
-			line = 60,
+			line = 80,
 			config_id = 10,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 9000,
 			weight = 3899,
@@ -952,9 +1192,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[61]=
+		[81]=
 		{
-			line = 61,
+			line = 81,
 			config_id = 11,
 			index = 1,
 			item = "shop_gold_sum",
@@ -964,9 +1204,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[62]=
+		[82]=
 		{
-			line = 62,
+			line = 82,
 			config_id = 11,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -976,35 +1216,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[63]=
+		[83]=
 		{
-			line = 63,
+			line = 83,
 			config_id = 11,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 800000,
-			weight = 100,
+			weight = 50,
 			name = "鱼币*800000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[64]=
+		[84]=
 		{
-			line = 64,
+			line = 84,
 			config_id = 11,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 500000,
+			weight = 50,
+			name = "鱼币*500000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[85]=
+		{
+			line = 85,
+			config_id = 11,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 240000,
-			weight = 2500,
+			weight = 1500,
 			name = "鱼币*240000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[65]=
+		[86]=
 		{
-			line = 65,
+			line = 86,
 			config_id = 11,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 150000,
+			weight = 1000,
+			name = "鱼币*150000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[87]=
+		{
+			line = 87,
+			config_id = 11,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 110000,
 			weight = 3000,
@@ -1012,11 +1276,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[66]=
+		[88]=
 		{
-			line = 66,
+			line = 88,
 			config_id = 11,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 36000,
 			weight = 3899,
@@ -1024,9 +1288,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[67]=
+		[89]=
 		{
-			line = 67,
+			line = 89,
 			config_id = 12,
 			index = 1,
 			item = "shop_gold_sum",
@@ -1036,9 +1300,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[68]=
+		[90]=
 		{
-			line = 68,
+			line = 90,
 			config_id = 12,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -1048,35 +1312,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[69]=
+		[91]=
 		{
-			line = 69,
+			line = 91,
 			config_id = 12,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 4000000,
-			weight = 100,
+			weight = 50,
 			name = "鱼币*4000000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[70]=
+		[92]=
 		{
-			line = 70,
+			line = 92,
 			config_id = 12,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 2000000,
+			weight = 50,
+			name = "鱼币*2000000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[93]=
+		{
+			line = 93,
+			config_id = 12,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 1200000,
-			weight = 2500,
+			weight = 1500,
 			name = "鱼币*1200000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[71]=
+		[94]=
 		{
-			line = 71,
+			line = 94,
 			config_id = 12,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 800000,
+			weight = 1000,
+			name = "鱼币*800000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[95]=
+		{
+			line = 95,
+			config_id = 12,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 560000,
 			weight = 3000,
@@ -1084,11 +1372,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[72]=
+		[96]=
 		{
-			line = 72,
+			line = 96,
 			config_id = 12,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 180000,
 			weight = 3899,
@@ -1096,9 +1384,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[73]=
+		[97]=
 		{
-			line = 73,
+			line = 97,
 			config_id = 13,
 			index = 1,
 			item = "shop_gold_sum",
@@ -1108,9 +1396,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[74]=
+		[98]=
 		{
-			line = 74,
+			line = 98,
 			config_id = 13,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -1120,35 +1408,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[75]=
+		[99]=
 		{
-			line = 75,
+			line = 99,
 			config_id = 13,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 12000,
-			weight = 1000,
+			weight = 800,
 			name = "鱼币*12000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[76]=
+		[100]=
 		{
-			line = 76,
+			line = 100,
 			config_id = 13,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 8000,
+			weight = 200,
+			name = "鱼币*8000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[101]=
+		{
+			line = 101,
+			config_id = 13,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 4000,
-			weight = 2000,
+			weight = 1000,
 			name = "鱼币*4000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[77]=
+		[102]=
 		{
-			line = 77,
+			line = 102,
 			config_id = 13,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 3000,
+			weight = 1000,
+			name = "鱼币*3000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[103]=
+		{
+			line = 103,
+			config_id = 13,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 2000,
 			weight = 2800,
@@ -1156,11 +1468,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[78]=
+		[104]=
 		{
-			line = 78,
+			line = 104,
 			config_id = 13,
-			index = 6,
+			index = 8,
 			item = "prop_fish_lock",
 			num = 20,
 			weight = 3699,
@@ -1168,9 +1480,9 @@ return {
 			icon = "by_btn_sd",
 			real = 0,
 		},
-		[79]=
+		[105]=
 		{
-			line = 79,
+			line = 105,
 			config_id = 14,
 			index = 1,
 			item = "shop_gold_sum",
@@ -1180,9 +1492,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[80]=
+		[106]=
 		{
-			line = 80,
+			line = 106,
 			config_id = 14,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -1192,35 +1504,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[81]=
+		[107]=
 		{
-			line = 81,
+			line = 107,
 			config_id = 14,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 36000,
-			weight = 800,
+			weight = 600,
 			name = "鱼币*36000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[82]=
+		[108]=
 		{
-			line = 82,
+			line = 108,
 			config_id = 14,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 20000,
+			weight = 200,
+			name = "鱼币*20000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[109]=
+		{
+			line = 109,
+			config_id = 14,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 12000,
-			weight = 2000,
+			weight = 1000,
 			name = "鱼币*12000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[83]=
+		[110]=
 		{
-			line = 83,
+			line = 110,
 			config_id = 14,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 8000,
+			weight = 1000,
+			name = "鱼币*8000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[111]=
+		{
+			line = 111,
+			config_id = 14,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 6000,
 			weight = 3000,
@@ -1228,11 +1564,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[84]=
+		[112]=
 		{
-			line = 84,
+			line = 112,
 			config_id = 14,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 2000,
 			weight = 3899,
@@ -1240,9 +1576,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[85]=
+		[113]=
 		{
-			line = 85,
+			line = 113,
 			config_id = 15,
 			index = 1,
 			item = "shop_gold_sum",
@@ -1252,9 +1588,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[86]=
+		[114]=
 		{
-			line = 86,
+			line = 114,
 			config_id = 15,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -1264,35 +1600,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[87]=
+		[115]=
 		{
-			line = 87,
+			line = 115,
 			config_id = 15,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 128000,
-			weight = 800,
+			weight = 600,
 			name = "鱼币*128000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[88]=
+		[116]=
 		{
-			line = 88,
+			line = 116,
 			config_id = 15,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 80000,
+			weight = 200,
+			name = "鱼币*80000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[117]=
+		{
+			line = 117,
+			config_id = 15,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 40000,
-			weight = 2000,
+			weight = 1000,
 			name = "鱼币*40000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[89]=
+		[118]=
 		{
-			line = 89,
+			line = 118,
 			config_id = 15,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 25000,
+			weight = 1000,
+			name = "鱼币*25000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[119]=
+		{
+			line = 119,
+			config_id = 15,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 18000,
 			weight = 3000,
@@ -1300,11 +1660,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[90]=
+		[120]=
 		{
-			line = 90,
+			line = 120,
 			config_id = 15,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 6000,
 			weight = 3899,
@@ -1312,9 +1672,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[91]=
+		[121]=
 		{
-			line = 91,
+			line = 121,
 			config_id = 16,
 			index = 1,
 			item = "shop_gold_sum",
@@ -1324,9 +1684,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[92]=
+		[122]=
 		{
-			line = 92,
+			line = 122,
 			config_id = 16,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -1336,35 +1696,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[93]=
+		[123]=
 		{
-			line = 93,
+			line = 123,
 			config_id = 16,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 400000,
-			weight = 500,
+			weight = 300,
 			name = "鱼币*400000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[94]=
+		[124]=
 		{
-			line = 94,
+			line = 124,
 			config_id = 16,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 250000,
+			weight = 200,
+			name = "鱼币*250000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[125]=
+		{
+			line = 125,
+			config_id = 16,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 120000,
-			weight = 2500,
+			weight = 1500,
 			name = "鱼币*120000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[95]=
+		[126]=
 		{
-			line = 95,
+			line = 126,
 			config_id = 16,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 80000,
+			weight = 1000,
+			name = "鱼币*80000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[127]=
+		{
+			line = 127,
+			config_id = 16,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 55000,
 			weight = 3000,
@@ -1372,11 +1756,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[96]=
+		[128]=
 		{
-			line = 96,
+			line = 128,
 			config_id = 16,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 18000,
 			weight = 3899,
@@ -1384,9 +1768,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[97]=
+		[129]=
 		{
-			line = 97,
+			line = 129,
 			config_id = 17,
 			index = 1,
 			item = "shop_gold_sum",
@@ -1396,9 +1780,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[98]=
+		[130]=
 		{
-			line = 98,
+			line = 130,
 			config_id = 17,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -1408,35 +1792,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[99]=
+		[131]=
 		{
-			line = 99,
+			line = 131,
 			config_id = 17,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 1600000,
-			weight = 100,
+			weight = 80,
 			name = "鱼币*1600000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[100]=
+		[132]=
 		{
-			line = 100,
+			line = 132,
 			config_id = 17,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 800000,
+			weight = 20,
+			name = "鱼币*800000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[133]=
+		{
+			line = 133,
+			config_id = 17,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 480000,
-			weight = 2500,
+			weight = 1500,
 			name = "鱼币*480000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[101]=
+		[134]=
 		{
-			line = 101,
+			line = 134,
 			config_id = 17,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 350000,
+			weight = 1000,
+			name = "鱼币*350000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[135]=
+		{
+			line = 135,
+			config_id = 17,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 220000,
 			weight = 3000,
@@ -1444,11 +1852,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[102]=
+		[136]=
 		{
-			line = 102,
+			line = 136,
 			config_id = 17,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 72000,
 			weight = 3899,
@@ -1456,9 +1864,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[103]=
+		[137]=
 		{
-			line = 103,
+			line = 137,
 			config_id = 18,
 			index = 1,
 			item = "shop_gold_sum",
@@ -1468,9 +1876,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[104]=
+		[138]=
 		{
-			line = 104,
+			line = 138,
 			config_id = 18,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -1480,35 +1888,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[105]=
+		[139]=
 		{
-			line = 105,
+			line = 139,
 			config_id = 18,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 8000000,
-			weight = 100,
+			weight = 80,
 			name = "鱼币*8000000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[106]=
+		[140]=
 		{
-			line = 106,
+			line = 140,
 			config_id = 18,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 5000000,
+			weight = 20,
+			name = "鱼币*5000000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[141]=
+		{
+			line = 141,
+			config_id = 18,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 2400000,
-			weight = 2500,
+			weight = 1500,
 			name = "鱼币*2400000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[107]=
+		[142]=
 		{
-			line = 107,
+			line = 142,
 			config_id = 18,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 1800000,
+			weight = 1000,
+			name = "鱼币*1500000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[143]=
+		{
+			line = 143,
+			config_id = 18,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 1100000,
 			weight = 3000,
@@ -1516,11 +1948,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[108]=
+		[144]=
 		{
-			line = 108,
+			line = 144,
 			config_id = 18,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 360000,
 			weight = 3899,
@@ -1528,9 +1960,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[109]=
+		[145]=
 		{
-			line = 109,
+			line = 145,
 			config_id = 19,
 			index = 1,
 			item = "shop_gold_sum",
@@ -1540,9 +1972,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[110]=
+		[146]=
 		{
-			line = 110,
+			line = 146,
 			config_id = 19,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -1552,35 +1984,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[111]=
+		[147]=
 		{
-			line = 111,
+			line = 147,
 			config_id = 19,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 24000,
-			weight = 1000,
+			weight = 500,
 			name = "鱼币*24000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[112]=
+		[148]=
 		{
-			line = 112,
+			line = 148,
 			config_id = 19,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 15000,
+			weight = 500,
+			name = "鱼币*15000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[149]=
+		{
+			line = 149,
+			config_id = 19,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 8000,
-			weight = 2000,
+			weight = 1000,
 			name = "鱼币*8000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[113]=
+		[150]=
 		{
-			line = 113,
+			line = 150,
 			config_id = 19,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 5000,
+			weight = 1000,
+			name = "鱼币*5000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[151]=
+		{
+			line = 151,
+			config_id = 19,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 4000,
 			weight = 2800,
@@ -1588,11 +2044,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[114]=
+		[152]=
 		{
-			line = 114,
+			line = 152,
 			config_id = 19,
-			index = 6,
+			index = 8,
 			item = "prop_fish_lock",
 			num = 40,
 			weight = 3699,
@@ -1600,9 +2056,9 @@ return {
 			icon = "by_btn_sd",
 			real = 0,
 		},
-		[115]=
+		[153]=
 		{
-			line = 115,
+			line = 153,
 			config_id = 20,
 			index = 1,
 			item = "shop_gold_sum",
@@ -1612,9 +2068,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[116]=
+		[154]=
 		{
-			line = 116,
+			line = 154,
 			config_id = 20,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -1624,35 +2080,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[117]=
+		[155]=
 		{
-			line = 117,
+			line = 155,
 			config_id = 20,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 72000,
-			weight = 800,
+			weight = 600,
 			name = "鱼币*72000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[118]=
+		[156]=
 		{
-			line = 118,
+			line = 156,
 			config_id = 20,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 50000,
+			weight = 200,
+			name = "鱼币*50000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[157]=
+		{
+			line = 157,
+			config_id = 20,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 24000,
-			weight = 2000,
+			weight = 1000,
 			name = "鱼币*24000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[119]=
+		[158]=
 		{
-			line = 119,
+			line = 158,
 			config_id = 20,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 18000,
+			weight = 1000,
+			name = "鱼币*18000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[159]=
+		{
+			line = 159,
+			config_id = 20,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 12000,
 			weight = 3000,
@@ -1660,11 +2140,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[120]=
+		[160]=
 		{
-			line = 120,
+			line = 160,
 			config_id = 20,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 4000,
 			weight = 3899,
@@ -1672,9 +2152,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[121]=
+		[161]=
 		{
-			line = 121,
+			line = 161,
 			config_id = 21,
 			index = 1,
 			item = "shop_gold_sum",
@@ -1684,9 +2164,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[122]=
+		[162]=
 		{
-			line = 122,
+			line = 162,
 			config_id = 21,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -1696,35 +2176,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[123]=
+		[163]=
 		{
-			line = 123,
+			line = 163,
 			config_id = 21,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 256000,
-			weight = 800,
+			weight = 600,
 			name = "鱼币*256000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[124]=
+		[164]=
 		{
-			line = 124,
+			line = 164,
 			config_id = 21,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 128000,
+			weight = 200,
+			name = "鱼币*128000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[165]=
+		{
+			line = 165,
+			config_id = 21,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 80000,
-			weight = 2000,
+			weight = 1000,
 			name = "鱼币*80000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[125]=
+		[166]=
 		{
-			line = 125,
+			line = 166,
 			config_id = 21,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 50000,
+			weight = 1000,
+			name = "鱼币*50000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[167]=
+		{
+			line = 167,
+			config_id = 21,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 36000,
 			weight = 3000,
@@ -1732,11 +2236,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[126]=
+		[168]=
 		{
-			line = 126,
+			line = 168,
 			config_id = 21,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 12000,
 			weight = 3899,
@@ -1744,9 +2248,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[127]=
+		[169]=
 		{
-			line = 127,
+			line = 169,
 			config_id = 22,
 			index = 1,
 			item = "shop_gold_sum",
@@ -1756,9 +2260,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[128]=
+		[170]=
 		{
-			line = 128,
+			line = 170,
 			config_id = 22,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -1768,35 +2272,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[129]=
+		[171]=
 		{
-			line = 129,
+			line = 171,
 			config_id = 22,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 800000,
-			weight = 500,
+			weight = 300,
 			name = "鱼币*800000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[130]=
+		[172]=
 		{
-			line = 130,
+			line = 172,
 			config_id = 22,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 500000,
+			weight = 200,
+			name = "鱼币*500000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[173]=
+		{
+			line = 173,
+			config_id = 22,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 240000,
-			weight = 2500,
+			weight = 1500,
 			name = "鱼币*240000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[131]=
+		[174]=
 		{
-			line = 131,
+			line = 174,
 			config_id = 22,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 180000,
+			weight = 1000,
+			name = "鱼币*150000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[175]=
+		{
+			line = 175,
+			config_id = 22,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 110000,
 			weight = 3000,
@@ -1804,11 +2332,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[132]=
+		[176]=
 		{
-			line = 132,
+			line = 176,
 			config_id = 22,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 36000,
 			weight = 3899,
@@ -1816,9 +2344,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[133]=
+		[177]=
 		{
-			line = 133,
+			line = 177,
 			config_id = 23,
 			index = 1,
 			item = "shop_gold_sum",
@@ -1828,9 +2356,9 @@ return {
 			icon = "com_award_icon_money",
 			real = 0,
 		},
-		[134]=
+		[178]=
 		{
-			line = 134,
+			line = 178,
 			config_id = 23,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -1840,35 +2368,59 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[135]=
+		[179]=
 		{
-			line = 135,
+			line = 179,
 			config_id = 23,
 			index = 3,
 			item = "discount_fish_coin",
 			num = 3200000,
-			weight = 100,
+			weight = 50,
 			name = "鱼币*3200000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[136]=
+		[180]=
 		{
-			line = 136,
+			line = 180,
 			config_id = 23,
 			index = 4,
 			item = "discount_fish_coin",
+			num = 2500000,
+			weight = 50,
+			name = "鱼币*2500000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[181]=
+		{
+			line = 181,
+			config_id = 23,
+			index = 5,
+			item = "discount_fish_coin",
 			num = 960000,
-			weight = 2500,
+			weight = 1500,
 			name = "鱼币*960000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[137]=
+		[182]=
 		{
-			line = 137,
+			line = 182,
 			config_id = 23,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 600000,
+			weight = 1000,
+			name = "鱼币*600000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[183]=
+		{
+			line = 183,
+			config_id = 23,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 440000,
 			weight = 3000,
@@ -1876,11 +2428,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[138]=
+		[184]=
 		{
-			line = 138,
+			line = 184,
 			config_id = 23,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 144000,
 			weight = 3899,
@@ -1888,9 +2440,9 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[139]=
+		[185]=
 		{
-			line = 139,
+			line = 185,
 			config_id = 24,
 			index = 1,
 			weight = 1,
@@ -1899,9 +2451,9 @@ return {
 			real = 1,
 			real_img = "activity_icon_gift90_pg11",
 		},
-		[140]=
+		[186]=
 		{
-			line = 140,
+			line = 186,
 			config_id = 24,
 			index = 2,
 			item = "prop_web_chip_huafei",
@@ -1911,9 +2463,9 @@ return {
 			icon = "com_award_icon_hfsp",
 			real = 0,
 		},
-		[141]=
+		[187]=
 		{
-			line = 141,
+			line = 187,
 			config_id = 24,
 			index = 3,
 			item = "discount_fish_coin",
@@ -1923,11 +2475,23 @@ return {
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
-		[142]=
+		[188]=
 		{
-			line = 142,
+			line = 188,
 			config_id = 24,
 			index = 4,
+			item = "discount_fish_coin",
+			num = 8000000,
+			weight = 100,
+			name = "鱼币*8000000",
+			icon = "com_award_icon_yb2",
+			real = 0,
+		},
+		[189]=
+		{
+			line = 189,
+			config_id = 24,
+			index = 5,
 			item = "discount_fish_coin",
 			num = 4800000,
 			weight = 2500,
@@ -1935,11 +2499,23 @@ return {
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
-		[143]=
+		[190]=
 		{
-			line = 143,
+			line = 190,
 			config_id = 24,
-			index = 5,
+			index = 6,
+			item = "discount_fish_coin",
+			num = 3000000,
+			weight = 100,
+			name = "鱼币*3000000",
+			icon = "com_award_icon_yb1",
+			real = 0,
+		},
+		[191]=
+		{
+			line = 191,
+			config_id = 24,
+			index = 7,
 			item = "discount_fish_coin",
 			num = 2200000,
 			weight = 3000,
@@ -1947,11 +2523,11 @@ return {
 			icon = "com_icon_yb",
 			real = 0,
 		},
-		[144]=
+		[192]=
 		{
-			line = 144,
+			line = 192,
 			config_id = 24,
-			index = 6,
+			index = 8,
 			item = "discount_fish_coin",
 			num = 720000,
 			weight = 3899,
