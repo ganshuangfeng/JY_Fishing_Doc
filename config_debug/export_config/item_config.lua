@@ -1263,7 +1263,7 @@ return {
 			order = 36,
 			name = "免费子弹",
 			desc = "免费子弹-3D捕鱼",
-			tag = 8,
+			tag = 9,
 		},
 		[98]=
 		{
@@ -1277,7 +1277,7 @@ return {
 			order = 37,
 			name = "超级火力",
 			desc = "超级火力-3D捕鱼",
-			tag = 8,
+			tag = 9,
 		},
 		[99]=
 		{
@@ -1291,7 +1291,7 @@ return {
 			order = 38,
 			name = "双倍时刻",
 			desc = "双倍时刻-3D捕鱼",
-			tag = 8,
+			tag = 9,
 		},
 		[100]=
 		{
@@ -1305,7 +1305,7 @@ return {
 			order = 39,
 			name = "超速子弹",
 			desc = "超速子弹-3D捕鱼",
-			tag = 8,
+			tag = 9,
 		},
 		[101]=
 		{
@@ -1319,7 +1319,7 @@ return {
 			order = 40,
 			name = "钻头弹",
 			desc = "钻头弹-3D捕鱼",
-			tag = 8,
+			tag = 9,
 		},
 		[102]=
 		{
@@ -1333,7 +1333,7 @@ return {
 			order = 41,
 			name = "穿透子弹",
 			desc = "穿透子弹-3D捕鱼",
-			tag = 8,
+			tag = 9,
 		},
 		[103]=
 		{
@@ -1347,7 +1347,7 @@ return {
 			order = 42,
 			name = "召唤",
 			desc = "召唤-3D捕鱼",
-			tag = 8,
+			tag = 9,
 		},
 		[104]=
 		{
@@ -1361,7 +1361,7 @@ return {
 			order = 43,
 			name = "免费超级火力",
 			desc = "免费超级火力-3D捕鱼",
-			tag = 8,
+			tag = 9,
 		},
 		[105]=
 		{
@@ -1375,7 +1375,7 @@ return {
 			order = 44,
 			name = "激光炮",
 			desc = "激光炮-3D捕鱼",
-			tag = 8,
+			tag = 9,
 		},
 		[106]=
 		{
@@ -1390,7 +1390,7 @@ return {
 			name = "冰冻",
 			desc = "冰冻全场鱼-3D捕鱼",
 			use_parm = {"game_Fishing3DHall",},
-			tag = 1,
+			tag = 9,
 		},
 		[107]=
 		{
@@ -1405,7 +1405,7 @@ return {
 			name = "锁定",
 			desc = "锁定攻击鱼-3D捕鱼",
 			use_parm = {"game_Fishing3DHall",},
-			tag = 1,
+			tag = 9,
 		},
 		[108]=
 		{
