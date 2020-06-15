@@ -76,33 +76,42 @@ return {
 		[9]=
 		{
 			id = 9,
+			game_type = "fishing_3d_game",
+			game_id = 5,
+			name = "3D捕鱼场5",
+			assets = {"fish_coin","jing_bi",},
+			discount = {0.7,1,},
+		},
+		[10]=
+		{
+			id = 10,
 			game_type = "xiaoxiaole_game",
 			game_id = 1,
 			name = "水果消消乐",
 			assets = {"prop_tiny_game_coin","jing_bi"},
 			discount = {0.7,1,},
 		},
-		[10]=
+		[11]=
 		{
-			id = 10,
+			id = 11,
 			game_type = "xiaoxiaole_shuihu_game",
 			game_id = 1,
 			name = "水浒消消乐",
 			assets = {"prop_tiny_game_coin","jing_bi"},
 			discount = {0.7,1,},
 		},
-		[11]=
+		[12]=
 		{
-			id = 11,
+			id = 12,
 			game_type = "xiaoxiaole_caishen_game",
 			game_id = 1,
 			name = "财神消消乐",
 			assets = {"prop_tiny_game_coin","jing_bi"},
 			discount = {0.7,1,},
 		},
-		[12]=
+		[13]=
 		{
-			id = 12,
+			id = 13,
 			game_type = "tantanle_game",
 			game_id = 1,
 			name = "弹弹乐",

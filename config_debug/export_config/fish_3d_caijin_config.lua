@@ -20,7 +20,7 @@ return {
 			type = 1,
 			award_config_id = 1,
 			name = "普通抽奖",
-			score_limit = 10000,
+			score_limit = 100000,
 		},
 		[2]=
 		{
@@ -29,7 +29,7 @@ return {
 			type = 2,
 			award_config_id = 2,
 			name = "青铜抽奖",
-			score_limit = 30000,
+			score_limit = 300000,
 		},
 		[3]=
 		{
@@ -38,7 +38,7 @@ return {
 			type = 3,
 			award_config_id = 3,
 			name = "白银抽奖",
-			score_limit = 100000,
+			score_limit = 1000000,
 		},
 		[4]=
 		{
@@ -47,7 +47,7 @@ return {
 			type = 4,
 			award_config_id = 4,
 			name = "黄金抽奖",
-			score_limit = 300000,
+			score_limit = 3000000,
 		},
 		[5]=
 		{
@@ -56,7 +56,7 @@ return {
 			type = 5,
 			award_config_id = 5,
 			name = "铂金抽奖",
-			score_limit = 1000000,
+			score_limit = 10000000,
 		},
 		[6]=
 		{
@@ -65,7 +65,7 @@ return {
 			type = 6,
 			award_config_id = 6,
 			name = "至尊抽奖",
-			score_limit = 5000000,
+			score_limit = 50000000,
 		},
 		[7]=
 		{
@@ -74,7 +74,7 @@ return {
 			type = 1,
 			award_config_id = 7,
 			name = "普通抽奖",
-			score_limit = 20000,
+			score_limit = 200000,
 		},
 		[8]=
 		{
@@ -83,7 +83,7 @@ return {
 			type = 2,
 			award_config_id = 8,
 			name = "青铜抽奖",
-			score_limit = 60000,
+			score_limit = 600000,
 		},
 		[9]=
 		{
@@ -92,7 +92,7 @@ return {
 			type = 3,
 			award_config_id = 9,
 			name = "白银抽奖",
-			score_limit = 200000,
+			score_limit = 2000000,
 		},
 		[10]=
 		{
@@ -101,7 +101,7 @@ return {
 			type = 4,
 			award_config_id = 10,
 			name = "黄金抽奖",
-			score_limit = 600000,
+			score_limit = 6000000,
 		},
 		[11]=
 		{
@@ -110,7 +110,7 @@ return {
 			type = 5,
 			award_config_id = 11,
 			name = "铂金抽奖",
-			score_limit = 2000000,
+			score_limit = 20000000,
 		},
 		[12]=
 		{
@@ -119,7 +119,7 @@ return {
 			type = 6,
 			award_config_id = 12,
 			name = "至尊抽奖",
-			score_limit = 10000000,
+			score_limit = 100000000,
 		},
 		[13]=
 		{
@@ -128,7 +128,7 @@ return {
 			type = 1,
 			award_config_id = 13,
 			name = "普通抽奖",
-			score_limit = 40000,
+			score_limit = 400000,
 		},
 		[14]=
 		{
@@ -137,7 +137,7 @@ return {
 			type = 2,
 			award_config_id = 14,
 			name = "青铜抽奖",
-			score_limit = 120000,
+			score_limit = 1200000,
 		},
 		[15]=
 		{
@@ -146,7 +146,7 @@ return {
 			type = 3,
 			award_config_id = 15,
 			name = "白银抽奖",
-			score_limit = 400000,
+			score_limit = 4000000,
 		},
 		[16]=
 		{
@@ -155,7 +155,7 @@ return {
 			type = 4,
 			award_config_id = 16,
 			name = "黄金抽奖",
-			score_limit = 1200000,
+			score_limit = 12000000,
 		},
 		[17]=
 		{
@@ -164,7 +164,7 @@ return {
 			type = 5,
 			award_config_id = 17,
 			name = "铂金抽奖",
-			score_limit = 4000000,
+			score_limit = 40000000,
 		},
 		[18]=
 		{
@@ -173,7 +173,7 @@ return {
 			type = 6,
 			award_config_id = 18,
 			name = "至尊抽奖",
-			score_limit = 20000000,
+			score_limit = 200000000,
 		},
 		[19]=
 		{
@@ -182,7 +182,7 @@ return {
 			type = 1,
 			award_config_id = 19,
 			name = "普通抽奖",
-			score_limit = 80000,
+			score_limit = 800000,
 		},
 		[20]=
 		{
@@ -191,7 +191,7 @@ return {
 			type = 2,
 			award_config_id = 20,
 			name = "青铜抽奖",
-			score_limit = 240000,
+			score_limit = 2400000,
 		},
 		[21]=
 		{
@@ -200,7 +200,7 @@ return {
 			type = 3,
 			award_config_id = 21,
 			name = "白银抽奖",
-			score_limit = 800000,
+			score_limit = 8000000,
 		},
 		[22]=
 		{
@@ -209,7 +209,7 @@ return {
 			type = 4,
 			award_config_id = 22,
 			name = "黄金抽奖",
-			score_limit = 2400000,
+			score_limit = 24000000,
 		},
 		[23]=
 		{
@@ -218,7 +218,7 @@ return {
 			type = 5,
 			award_config_id = 23,
 			name = "铂金抽奖",
-			score_limit = 8000000,
+			score_limit = 80000000,
 		},
 		[24]=
 		{
@@ -227,7 +227,7 @@ return {
 			type = 6,
 			award_config_id = 24,
 			name = "至尊抽奖",
-			score_limit = 40000000,
+			score_limit = 400000000,
 		},
 	},
 	award=
