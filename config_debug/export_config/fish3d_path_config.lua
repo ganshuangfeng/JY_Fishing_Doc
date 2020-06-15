@@ -365,7 +365,7 @@ return {
 		{
 			line = 61,
 			id = 61,
-			steer = "3+60#",
+			steer = "3+80#",
 			posX = -4,
 			posY = 9,
 			headX = 1,

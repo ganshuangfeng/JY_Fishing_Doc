@@ -2342,7 +2342,7 @@ return {
 		{
 			id = 30,
 			acti_type = 24,
-			num = {400,500},
+			num = {400,600},
 			show = 0,
 			enter_bag = 0,
 			value = 500,

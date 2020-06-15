@@ -44,8 +44,6 @@ return {
 			time_frame = {90,390,690,990,1290,1590,1290,1590,1890,2190,2490,},
 			fish = {10049,},
 			path = {11001,},
-			dead_force_create_index = 4,
-			dead_force_create_delay = 80,
 			image_type = "normal",
 		},
 		[5]=
@@ -55,8 +53,6 @@ return {
 			time_frame = {90,390,690,990,1290,1590,1290,1590,1890,2190,2490,},
 			fish = {10049,},
 			path = {11004,},
-			dead_force_create_index = 5,
-			dead_force_create_delay = 80,
 		},
 		[6]=
 		{
@@ -65,8 +61,6 @@ return {
 			time_frame = {240,540,840,1140,1740,2040,2340,2640,2940,3240,3540,},
 			fish = {10049,},
 			path = {11002,},
-			dead_force_create_index = 6,
-			dead_force_create_delay = 80,
 		},
 		[7]=
 		{
@@ -75,8 +69,6 @@ return {
 			time_frame = {240,540,840,1140,1740,2040,2340,2640,2940,3240,3540,},
 			fish = {10049,},
 			path = {11003,},
-			dead_force_create_index = 7,
-			dead_force_create_delay = 80,
 		},
 	},
 }
