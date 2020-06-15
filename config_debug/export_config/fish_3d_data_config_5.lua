@@ -1759,7 +1759,7 @@ return {
 		{
 			id = 31,
 			base_id = 31,
-			act_id = 38,
+			act_id = 39,
 			life = 250,
 			shoot = 0.004000,
 			act_type = "activity",
