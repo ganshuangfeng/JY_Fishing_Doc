@@ -14,6 +14,7 @@ return {
 			name = "绿芒",
 			level = 1,
 			skin_id = 2,
+			lock_id = 1,
 		},
 		[3]=
 		{
@@ -21,6 +22,7 @@ return {
 			name = "寒霜",
 			level = 2,
 			skin_id = 3,
+			lock_id = 2,
 		},
 		[4]=
 		{
@@ -28,6 +30,7 @@ return {
 			name = "金焰",
 			level = 3,
 			skin_id = 4,
+			lock_id = 3,
 		},
 	},
 	skin=
@@ -73,22 +76,21 @@ return {
 		{
 			line = 1,
 			id = 1,
-			type = 1,
-			data = 3,
+			type = 2,
+			data = 1,
 		},
 		[2]=
 		{
 			line = 2,
 			id = 2,
-			type = 1,
-			data = 5,
+			type = 2,
+			data = 3,
 		},
 		[3]=
 		{
 			line = 3,
 			id = 3,
-			type = 2,
-			data = 500,
+			type = 1,
 		},
 	},
 }

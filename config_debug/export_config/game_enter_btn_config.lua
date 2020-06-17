@@ -100,18 +100,19 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "62;30#",
+			group_list = "62#30#",
 		},
 		[3]=
 		{
 			id = 3,
 			area = "right",
+			group_list = "7#42#9#27#",
 		},
 		[4]=
 		{
 			id = 4,
 			area = "top",
-			group_list = "47;9;12#",
+			group_list = "47;",
 		},
 		[5]=
 		{
@@ -236,7 +237,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			parm = {"ty_gift","gift_kllb"},
+			parm = {"ty_gift",},
 			is_on_off = 0,
 		},
 		[2]=
@@ -350,7 +351,7 @@ return {
 		[20]=
 		{
 			id = 20,
-			parm = {"ty_gift","gift_bybs"},
+			parm = {"ty_gift",},
 			is_on_off = 1,
 		},
 		[21]=
@@ -410,7 +411,7 @@ return {
 		[30]=
 		{
 			id = 30,
-			parm = {"ty_gift","gift_cglb"},
+			parm = {"ty_gift",},
 			is_on_off = 1,
 		},
 		[31]=
