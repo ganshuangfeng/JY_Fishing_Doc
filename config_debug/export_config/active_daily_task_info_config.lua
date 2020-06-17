@@ -44,7 +44,7 @@ return {
 			task_award_icon = {"ty_icon_hytb","ty_icon_jb_15y"},
 			task_award_instruction = {"活跃度","金币"},
 			task_award_count = {20,8000},
-			gotoui = "game_Fishing3DHall",
+			gotoui = {"game_Fishing3DHall",},
 		},
 		[2]=
 		{
@@ -56,11 +56,23 @@ return {
 			task_award_icon = {"ty_icon_hytb","ty_icon_jb_18y"},
 			task_award_instruction = {"活跃度","金币"},
 			task_award_count = {30,25000},
-			gotoui = "game_Fishing3DHall",
+			gotoui = {"game_Fishing3DHall",},
 		},
 		[3]=
 		{
 			id = 3,
+			task_id = 12514,
+			task_name = "游戏分享",
+			task_icon = "rw_icon_rwbz",
+			task_instruction = "分享一次游戏",
+			task_award_icon = {"ty_icon_hytb","ty_icon_jb_18y"},
+			task_award_instruction = {"活跃度","金币"},
+			task_award_count = {20,15000},
+			gotoui = {"share_hall",},
+		},
+		[4]=
+		{
+			id = 4,
 			task_id = 12515,
 			task_name = "击杀活动鱼",
 			task_icon = "rw_icon_hd",
@@ -68,11 +80,11 @@ return {
 			task_award_icon = {"ty_icon_hytb","ty_icon_jb_18y"},
 			task_award_instruction = {"活跃度","金币"},
 			task_award_count = {30,20000},
-			gotoui = "game_Fishing3DHall",
+			gotoui = {"game_Fishing3DHall",},
 		},
-		[4]=
+		[5]=
 		{
-			id = 4,
+			id = 5,
 			task_id = 12516,
 			task_name = "击杀彩金鱼",
 			task_icon = "rw_icon_js",
@@ -80,11 +92,11 @@ return {
 			task_award_icon = {"ty_icon_hytb","ty_icon_jb_18y"},
 			task_award_instruction = {"活跃度","金币"},
 			task_award_count = {20,25000},
-			gotoui = "game_Fishing3DHall",
+			gotoui = {"game_Fishing3DHall",},
 		},
-		[5]=
+		[6]=
 		{
-			id = 5,
+			id = 6,
 			task_id = 12517,
 			task_name = "参与小游戏",
 			task_icon = "rw_icon_mrby",
@@ -92,11 +104,11 @@ return {
 			task_award_icon = {"ty_icon_hytb","ty_icon_jb_30y"},
 			task_award_instruction = {"活跃度","金币"},
 			task_award_count = {40,35000},
-			gotoui = "game_Fishing3DHall",
+			gotoui = {"game_Fishing3DHall",},
 		},
-		[6]=
+		[7]=
 		{
-			id = 6,
+			id = 7,
 			task_id = 12518,
 			task_name = "幸运彩贝",
 			task_icon = "rw_icon_ljsj",
@@ -104,7 +116,19 @@ return {
 			task_award_icon = {"ty_icon_hytb","ty_icon_jb_30y"},
 			task_award_instruction = {"活跃度","金币"},
 			task_award_count = {30,25000},
-			gotoui = "game_Fishing3DHall",
+			gotoui = {"game_Fishing3DHall",},
+		},
+		[8]=
+		{
+			id = 8,
+			task_id = 12519,
+			task_name = "单笔充值",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "单笔充值大于6元",
+			task_award_icon = {"ty_icon_hytb","ty_icon_jb_30y"},
+			task_award_instruction = {"活跃度","金币"},
+			task_award_count = {60,50000},
+			gotoui = {"shop_bay",},
 		},
 	},
 }

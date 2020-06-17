@@ -18,6 +18,7 @@ return {
 			skin_id = 2,
 			power_id = 1,
 			skill_id = 1,
+			lock_id = 4,
 		},
 		[3]=
 		{
@@ -27,6 +28,7 @@ return {
 			skin_id = 3,
 			power_id = 1,
 			skill_id = 1,
+			lock_id = 2,
 		},
 		[4]=
 		{
@@ -36,6 +38,7 @@ return {
 			skin_id = 4,
 			power_id = 1,
 			skill_id = 2,
+			lock_id = 3,
 		},
 		[5]=
 		{
@@ -45,6 +48,7 @@ return {
 			skin_id = 5,
 			power_id = 2,
 			skill_id = 3,
+			lock_id = 1,
 		},
 		[6]=
 		{
@@ -54,6 +58,7 @@ return {
 			skin_id = 6,
 			power_id = 1,
 			skill_id = 4,
+			lock_id = 1,
 		},
 		[7]=
 		{
@@ -63,6 +68,7 @@ return {
 			skin_id = 7,
 			power_id = 1,
 			skill_id = 5,
+			lock_id = 1,
 		},
 	},
 	skin=
