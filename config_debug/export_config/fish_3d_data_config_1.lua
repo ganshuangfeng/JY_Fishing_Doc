@@ -2105,7 +2105,7 @@ return {
 		{
 			id = 34,
 			acti_type = 30,
-			num = {200,},
+			num = {150,},
 			show = 0,
 			enter_bag = 0,
 			value = 150,
@@ -2123,7 +2123,7 @@ return {
 		{
 			id = 36,
 			acti_type = 32,
-			num = {1,500,},
+			num = {1,300,},
 			show = 0,
 			enter_bag = 0,
 			value = 300,
