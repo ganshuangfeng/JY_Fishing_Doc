@@ -17,7 +17,7 @@ return {
 			sort = 2,
 			key = "xxl",
 			is_onoff = 1,
-			is_lock = 1,
+			is_lock = 0,
 			tag_mr = 1,
 		},
 		MiniGameSHXXLPrefab=
@@ -26,7 +26,7 @@ return {
 			sort = 3,
 			key = "shxxl",
 			is_onoff = 1,
-			is_lock = 1,
+			is_lock = 0,
 			tag_mr = 1,
 		},
 		MiniGameCSXXLPrefab=
@@ -35,7 +35,7 @@ return {
 			sort = 4,
 			key = "csxxl",
 			is_onoff = 1,
-			is_lock = 1,
+			is_lock = 0,
 			tag_mr = 1,
 		},
 		MiniGameLHDPrefab=
@@ -71,7 +71,7 @@ return {
 			sort = 8,
 			key = "zpg",
 			is_onoff = 1,
-			is_lock = 1,
+			is_lock = 0,
 			tag_mr = 1,
 		},
 		MiniGameFKBYPrefab=
@@ -89,7 +89,7 @@ return {
 			sort = 5,
 			key = "ttl",
 			is_onoff = 1,
-			is_lock = 1,
+			is_lock = 0,
 			tag_mr = 1,
 		},
 		MiniGameQQLPrefab=
@@ -98,7 +98,7 @@ return {
 			sort = 11,
 			key = "qql",
 			is_onoff = 1,
-			is_lock = 1,
+			is_lock = 0,
 			tag_mr = 0,
 		},
 		MiniGameDDZPrefab=

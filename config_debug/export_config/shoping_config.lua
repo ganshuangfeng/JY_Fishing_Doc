@@ -1171,7 +1171,7 @@ return {
 		{
 			line_id = 24,
 			id = 43,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "全返礼包",
 			content = {"10张千元赛门票","完成任务得100红包"},
 			gzh_order = -12,
@@ -1752,7 +1752,7 @@ return {
 		{
 			line_id = 53,
 			id = 72,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "3元超值礼包",
 			content = {"3万金币","0.5福利券"},
 			gzh_order = -13,
@@ -2125,7 +2125,7 @@ return {
 			id = 90,
 			platform = "ios",
 			jingbi_id = 101,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "随机金币活动",
 			gzh_order = -4,
 			gzh_show = 0,
@@ -2148,7 +2148,7 @@ return {
 			id = 91,
 			platform = "ios",
 			jingbi_id = 102,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "首冲30元加赠",
 			gzh_order = -4,
 			gzh_show = 0,
@@ -2170,7 +2170,7 @@ return {
 			id = 92,
 			platform = "ios",
 			jingbi_id = 103,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "首冲98元加赠",
 			gzh_order = -4,
 			gzh_show = 0,
@@ -2192,7 +2192,7 @@ return {
 			id = 93,
 			platform = "ios",
 			jingbi_id = 104,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "首冲198元加赠",
 			gzh_order = -4,
 			gzh_show = 0,
@@ -2214,7 +2214,7 @@ return {
 			id = 94,
 			platform = "ios",
 			jingbi_id = 105,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "首冲298元加赠",
 			gzh_order = -4,
 			gzh_show = 0,
@@ -2415,7 +2415,7 @@ return {
 		{
 			line_id = 84,
 			id = 10002,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "贵族月卡",
 			content = {"480万金币","记牌器30天","每日领66666金币",},
 			gzh_order = -23,
@@ -2436,7 +2436,7 @@ return {
 		{
 			line_id = 85,
 			id = 10003,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "升级黄金贵族月卡",
 			content = {"升级至每日300000金币",},
 			gzh_order = -24,
@@ -2455,7 +2455,7 @@ return {
 		{
 			line_id = 86,
 			id = 10004,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "黄金贵族月卡",
 			content = {"480万金币","记牌器30天","每日领300000金币",},
 			gzh_order = -25,
@@ -2733,7 +2733,7 @@ return {
 		{
 			line_id = 99,
 			id = 10016,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "1元",
 			content = {"20万金币","康乃馨*1",},
 			gzh_order = -25,
@@ -2756,7 +2756,7 @@ return {
 		{
 			line_id = 100,
 			id = 10017,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "18元",
 			content = {"200万金币","康乃馨*16",},
 			gzh_order = -25,
@@ -2779,7 +2779,7 @@ return {
 		{
 			line_id = 101,
 			id = 10018,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "48元",
 			content = {"510万金币","康乃馨*24",},
 			gzh_order = -25,
@@ -2802,7 +2802,7 @@ return {
 		{
 			line_id = 102,
 			id = 10019,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "1元",
 			content = {"20万金币","康乃馨*1",},
 			gzh_order = -25,
@@ -2825,7 +2825,7 @@ return {
 		{
 			line_id = 103,
 			id = 10020,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "28元",
 			content = {"300万金币","康乃馨*30",},
 			gzh_order = -25,
@@ -2848,7 +2848,7 @@ return {
 		{
 			line_id = 104,
 			id = 10021,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "98元",
 			content = {"1020万金币","康乃馨*60",},
 			gzh_order = -25,
@@ -2871,7 +2871,7 @@ return {
 		{
 			line_id = 105,
 			id = 10022,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "1元",
 			content = {"20万金币","康乃馨*1",},
 			gzh_order = -25,
@@ -2894,7 +2894,7 @@ return {
 		{
 			line_id = 106,
 			id = 10023,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "48元",
 			content = {"510万金币","康乃馨*24",},
 			gzh_order = -25,
@@ -2917,7 +2917,7 @@ return {
 		{
 			line_id = 107,
 			id = 10024,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "198元",
 			content = {"2050万金币","康乃馨*100",},
 			gzh_order = -25,
@@ -3093,7 +3093,7 @@ return {
 		{
 			line_id = 115,
 			id = 10032,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "48元礼包",
 			content = {"48万金币","5万鱼币","锁定*5",},
 			gzh_order = -27,
@@ -3116,7 +3116,7 @@ return {
 		{
 			line_id = 116,
 			id = 10033,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "98元礼包",
 			content = {"98万金币","12万鱼币","20福利券赛门票*1","锁定*5",},
 			gzh_order = -27,
@@ -4265,7 +4265,7 @@ return {
 		{
 			line_id = 167,
 			id = 10084,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "全返礼包I",
 			content = {"15万金币","记牌器*3","7元现金",},
 			gzh_order = -28,
@@ -4289,7 +4289,7 @@ return {
 		{
 			line_id = 168,
 			id = 10085,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "全返礼包II",
 			content = {"千元赛门票*10","记牌器*10","100元现金",},
 			gzh_order = -28,
@@ -4312,7 +4312,7 @@ return {
 		{
 			line_id = 169,
 			id = 10086,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "全返礼包III",
 			content = {"1990万金币","3000万鱼币","100元现金",},
 			gzh_order = -28,
@@ -6230,7 +6230,7 @@ return {
 		{
 			line_id = 249,
 			id = 10166,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "红包-6元激活礼包",
 			content = {"600万金币",},
 			gzh_order = -28,
@@ -6278,7 +6278,7 @@ return {
 		{
 			line_id = 251,
 			id = 10168,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "季卡",
 			content = {"880万金币",},
 			gzh_order = -30,
@@ -6324,7 +6324,7 @@ return {
 		{
 			line_id = 253,
 			id = 10170,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "回归惊喜礼包1",
 			content = {"80万金币","10福利券",},
 			gzh_order = -31,
@@ -6348,7 +6348,7 @@ return {
 		{
 			line_id = 254,
 			id = 10171,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "回归惊喜礼包2",
 			content = {"200万金币","70万鱼币",},
 			gzh_order = -31,
@@ -6372,7 +6372,7 @@ return {
 		{
 			line_id = 255,
 			id = 10172,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "回归惊喜礼包3",
 			content = {"300万金币","150万鱼币",},
 			gzh_order = -31,
@@ -7845,7 +7845,7 @@ return {
 		{
 			line_id = 318,
 			id = 10235,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "豪华月卡",
 			content = {"480万金币","首次救济金增加88888金币",},
 			gzh_order = -23,
@@ -7866,7 +7866,7 @@ return {
 		{
 			line_id = 319,
 			id = 10236,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "尊享月卡",
 			content = {"480万金币","每日领记牌器1天","每日领300000金币",},
 			gzh_order = -25,
