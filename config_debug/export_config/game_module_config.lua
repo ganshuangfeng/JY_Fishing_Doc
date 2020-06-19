@@ -566,9 +566,9 @@ return {
 			key = "sys_sclb",
 			desc = "首充礼包",
 			lua = "SYSSCLBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[58]=
 		{
@@ -2265,6 +2265,16 @@ return {
 			key = "by_drb_cs",
 			desc = "3D捕鱼测试排行榜",
 			lua = "BYDRBCSManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[233]=
+		{
+			id = 233,
+			key = "sys_sclb1",
+			desc = "首冲礼包（新）",
+			lua = "SYSSCLB1Manager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

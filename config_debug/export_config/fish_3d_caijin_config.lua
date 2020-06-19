@@ -16,7 +16,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			game_id = 1,
+			game_id = 2,
 			type = 1,
 			award_config_id = 1,
 			name = "普通抽奖",
@@ -25,7 +25,7 @@ return {
 		[2]=
 		{
 			line = 2,
-			game_id = 1,
+			game_id = 2,
 			type = 2,
 			award_config_id = 2,
 			name = "青铜抽奖",
@@ -34,7 +34,7 @@ return {
 		[3]=
 		{
 			line = 3,
-			game_id = 1,
+			game_id = 2,
 			type = 3,
 			award_config_id = 3,
 			name = "白银抽奖",
@@ -43,7 +43,7 @@ return {
 		[4]=
 		{
 			line = 4,
-			game_id = 1,
+			game_id = 2,
 			type = 4,
 			award_config_id = 4,
 			name = "黄金抽奖",
@@ -52,7 +52,7 @@ return {
 		[5]=
 		{
 			line = 5,
-			game_id = 1,
+			game_id = 2,
 			type = 5,
 			award_config_id = 5,
 			name = "铂金抽奖",
@@ -61,7 +61,7 @@ return {
 		[6]=
 		{
 			line = 6,
-			game_id = 1,
+			game_id = 2,
 			type = 6,
 			award_config_id = 6,
 			name = "至尊抽奖",
@@ -70,7 +70,7 @@ return {
 		[7]=
 		{
 			line = 7,
-			game_id = 2,
+			game_id = 3,
 			type = 1,
 			award_config_id = 7,
 			name = "普通抽奖",
@@ -79,7 +79,7 @@ return {
 		[8]=
 		{
 			line = 8,
-			game_id = 2,
+			game_id = 3,
 			type = 2,
 			award_config_id = 8,
 			name = "青铜抽奖",
@@ -88,7 +88,7 @@ return {
 		[9]=
 		{
 			line = 9,
-			game_id = 2,
+			game_id = 3,
 			type = 3,
 			award_config_id = 9,
 			name = "白银抽奖",
@@ -97,7 +97,7 @@ return {
 		[10]=
 		{
 			line = 10,
-			game_id = 2,
+			game_id = 3,
 			type = 4,
 			award_config_id = 10,
 			name = "黄金抽奖",
@@ -106,7 +106,7 @@ return {
 		[11]=
 		{
 			line = 11,
-			game_id = 2,
+			game_id = 3,
 			type = 5,
 			award_config_id = 11,
 			name = "铂金抽奖",
@@ -115,7 +115,7 @@ return {
 		[12]=
 		{
 			line = 12,
-			game_id = 2,
+			game_id = 3,
 			type = 6,
 			award_config_id = 12,
 			name = "至尊抽奖",
@@ -124,7 +124,7 @@ return {
 		[13]=
 		{
 			line = 13,
-			game_id = 3,
+			game_id = 4,
 			type = 1,
 			award_config_id = 13,
 			name = "普通抽奖",
@@ -133,7 +133,7 @@ return {
 		[14]=
 		{
 			line = 14,
-			game_id = 3,
+			game_id = 4,
 			type = 2,
 			award_config_id = 14,
 			name = "青铜抽奖",
@@ -142,7 +142,7 @@ return {
 		[15]=
 		{
 			line = 15,
-			game_id = 3,
+			game_id = 4,
 			type = 3,
 			award_config_id = 15,
 			name = "白银抽奖",
@@ -151,7 +151,7 @@ return {
 		[16]=
 		{
 			line = 16,
-			game_id = 3,
+			game_id = 4,
 			type = 4,
 			award_config_id = 16,
 			name = "黄金抽奖",
@@ -160,7 +160,7 @@ return {
 		[17]=
 		{
 			line = 17,
-			game_id = 3,
+			game_id = 4,
 			type = 5,
 			award_config_id = 17,
 			name = "铂金抽奖",
@@ -169,7 +169,7 @@ return {
 		[18]=
 		{
 			line = 18,
-			game_id = 3,
+			game_id = 4,
 			type = 6,
 			award_config_id = 18,
 			name = "至尊抽奖",
@@ -178,7 +178,7 @@ return {
 		[19]=
 		{
 			line = 19,
-			game_id = 4,
+			game_id = 5,
 			type = 1,
 			award_config_id = 19,
 			name = "普通抽奖",
@@ -187,7 +187,7 @@ return {
 		[20]=
 		{
 			line = 20,
-			game_id = 4,
+			game_id = 5,
 			type = 2,
 			award_config_id = 20,
 			name = "青铜抽奖",
@@ -196,7 +196,7 @@ return {
 		[21]=
 		{
 			line = 21,
-			game_id = 4,
+			game_id = 5,
 			type = 3,
 			award_config_id = 21,
 			name = "白银抽奖",
@@ -205,7 +205,7 @@ return {
 		[22]=
 		{
 			line = 22,
-			game_id = 4,
+			game_id = 5,
 			type = 4,
 			award_config_id = 22,
 			name = "黄金抽奖",
@@ -214,7 +214,7 @@ return {
 		[23]=
 		{
 			line = 23,
-			game_id = 4,
+			game_id = 5,
 			type = 5,
 			award_config_id = 23,
 			name = "铂金抽奖",
@@ -223,7 +223,7 @@ return {
 		[24]=
 		{
 			line = 24,
-			game_id = 4,
+			game_id = 5,
 			type = 6,
 			award_config_id = 24,
 			name = "至尊抽奖",
@@ -1954,7 +1954,7 @@ return {
 			config_id = 18,
 			index = 8,
 			item = "discount_fish_coin",
-			num = 3060000,
+			num = 3600000,
 			weight = 3899,
 			name = "鱼币*3600000",
 			icon = "com_icon_yb",
