@@ -577,8 +577,6 @@ return {
 			order = 16,
 			name = "冰冻",
 			desc = "冰冻全场鱼",
-			use_parm = {"game_FishingHall",},
-			tag = 2,
 		},
 		[48]=
 		{
@@ -592,8 +590,6 @@ return {
 			order = 15,
 			name = "锁定",
 			desc = "锁定攻击鱼",
-			use_parm = {"game_FishingHall",},
-			tag = 2,
 		},
 		[49]=
 		{
@@ -1389,8 +1385,7 @@ return {
 			order = 32,
 			name = "冰冻",
 			desc = "冰冻全场鱼-3D捕鱼",
-			use_parm = {"game_Fishing3DHall",},
-			tag = 9,
+			tag = 11,
 		},
 		[107]=
 		{
@@ -1404,8 +1399,7 @@ return {
 			order = 33,
 			name = "锁定",
 			desc = "锁定攻击鱼-3D捕鱼",
-			use_parm = {"game_Fishing3DHall",},
-			tag = 9,
+			tag = 11,
 		},
 		[108]=
 		{
