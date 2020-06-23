@@ -5649,4 +5649,12 @@ return {
 	ue_event_map=
 	{
 	},
+	summon_fish=
+	{
+		[1]=
+		{
+			ID = 1,
+			group_id = {28,29,30,31,32,},
+		},
+	},
 }
