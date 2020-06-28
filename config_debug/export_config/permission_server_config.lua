@@ -1373,6 +1373,228 @@ return {
 			name = "龙虾兑换-普通",
 			condi = 197,
 		},
+		fishing3d_2=
+		{
+			key = "fishing3d_2",
+			name = "神秘海域",
+		},
+		fishing3d_2_1=
+		{
+			key = "fishing3d_2_1",
+			name = "捕鱼神秘海域100倍",
+		},
+		fishing3d_2_2=
+		{
+			key = "fishing3d_2_2",
+			name = "捕鱼神秘海域200倍",
+		},
+		fishing3d_2_3=
+		{
+			key = "fishing3d_2_3",
+			name = "捕鱼神秘海域300倍",
+		},
+		fishing3d_2_4=
+		{
+			key = "fishing3d_2_4",
+			name = "捕鱼神秘海域400倍",
+		},
+		fishing3d_2_5=
+		{
+			key = "fishing3d_2_5",
+			name = "捕鱼神秘海域500倍",
+		},
+		fishing3d_2_6=
+		{
+			key = "fishing3d_2_6",
+			name = "捕鱼神秘海域600倍",
+		},
+		fishing3d_2_7=
+		{
+			key = "fishing3d_2_7",
+			name = "捕鱼神秘海域700倍",
+		},
+		fishing3d_2_8=
+		{
+			key = "fishing3d_2_8",
+			name = "捕鱼神秘海域800倍",
+		},
+		fishing3d_2_9=
+		{
+			key = "fishing3d_2_9",
+			name = "捕鱼神秘海域900倍",
+		},
+		fishing3d_2_10=
+		{
+			key = "fishing3d_2_10",
+			name = "捕鱼神秘海域1000倍",
+		},
+		fishing3d_3=
+		{
+			key = "fishing3d_3",
+			name = "捕鱼海底宝藏",
+		},
+		fishing3d_3_1=
+		{
+			key = "fishing3d_3_1",
+			name = "捕鱼海底宝藏1000倍",
+		},
+		fishing3d_3_2=
+		{
+			key = "fishing3d_3_2",
+			name = "捕鱼海底宝藏2000倍",
+		},
+		fishing3d_3_3=
+		{
+			key = "fishing3d_3_3",
+			name = "捕鱼海底宝藏3000倍",
+		},
+		fishing3d_3_4=
+		{
+			key = "fishing3d_3_4",
+			name = "捕鱼海底宝藏4000倍",
+		},
+		fishing3d_3_5=
+		{
+			key = "fishing3d_3_5",
+			name = "捕鱼海底宝藏5000倍",
+		},
+		fishing3d_3_6=
+		{
+			key = "fishing3d_3_6",
+			name = "捕鱼海底宝藏6000倍",
+		},
+		fishing3d_3_7=
+		{
+			key = "fishing3d_3_7",
+			name = "捕鱼海底宝藏7000倍",
+		},
+		fishing3d_3_8=
+		{
+			key = "fishing3d_3_8",
+			name = "捕鱼海底宝藏8000倍",
+		},
+		fishing3d_3_9=
+		{
+			key = "fishing3d_3_9",
+			name = "捕鱼海底宝藏9000倍",
+		},
+		fishing3d_3_10=
+		{
+			key = "fishing3d_3_10",
+			name = "捕鱼海底宝藏10000倍",
+		},
+		fishing3d_4=
+		{
+			key = "fishing3d_4",
+			name = "捕鱼藏宝海湾",
+			condi = 22,
+		},
+		fishing3d_4_1=
+		{
+			key = "fishing3d_4_1",
+			name = "捕鱼藏宝海湾10000倍",
+		},
+		fishing3d_4_2=
+		{
+			key = "fishing3d_4_2",
+			name = "捕鱼藏宝海湾20000倍",
+		},
+		fishing3d_4_3=
+		{
+			key = "fishing3d_4_3",
+			name = "捕鱼藏宝海湾30000倍",
+		},
+		fishing3d_4_4=
+		{
+			key = "fishing3d_4_4",
+			name = "捕鱼藏宝海湾40000倍",
+		},
+		fishing3d_4_5=
+		{
+			key = "fishing3d_4_5",
+			name = "捕鱼藏宝海湾50000倍",
+		},
+		fishing3d_4_6=
+		{
+			key = "fishing3d_4_6",
+			name = "捕鱼藏宝海湾60000倍",
+		},
+		fishing3d_4_7=
+		{
+			key = "fishing3d_4_7",
+			name = "捕鱼藏宝海湾70000倍",
+		},
+		fishing3d_4_8=
+		{
+			key = "fishing3d_4_8",
+			name = "捕鱼藏宝海湾80000倍",
+		},
+		fishing3d_4_9=
+		{
+			key = "fishing3d_4_9",
+			name = "捕鱼藏宝海湾90000倍",
+		},
+		fishing3d_4_10=
+		{
+			key = "fishing3d_4_10",
+			name = "捕鱼藏宝海湾100000倍",
+		},
+		fishing3d_5=
+		{
+			key = "fishing3d_5",
+			name = "捕鱼深海沉船",
+			condi = 24,
+		},
+		fishing3d_5_1=
+		{
+			key = "fishing3d_5_1",
+			name = "捕鱼深海沉船100000倍",
+		},
+		fishing3d_5_2=
+		{
+			key = "fishing3d_5_2",
+			name = "捕鱼深海沉船200000倍",
+		},
+		fishing3d_5_3=
+		{
+			key = "fishing3d_5_3",
+			name = "捕鱼深海沉船300000倍",
+		},
+		fishing3d_5_4=
+		{
+			key = "fishing3d_5_4",
+			name = "捕鱼深海沉船400000倍",
+		},
+		fishing3d_5_5=
+		{
+			key = "fishing3d_5_5",
+			name = "捕鱼深海沉船500000倍",
+		},
+		fishing3d_5_6=
+		{
+			key = "fishing3d_5_6",
+			name = "捕鱼深海沉船600000倍",
+		},
+		fishing3d_5_7=
+		{
+			key = "fishing3d_5_7",
+			name = "捕鱼深海沉船700000倍",
+		},
+		fishing3d_5_8=
+		{
+			key = "fishing3d_5_8",
+			name = "捕鱼深海沉船800000倍",
+		},
+		fishing3d_5_9=
+		{
+			key = "fishing3d_5_9",
+			name = "捕鱼深海沉船900000倍",
+		},
+		fishing3d_5_10=
+		{
+			key = "fishing3d_5_10",
+			name = "捕鱼深海沉船1000000倍",
+		},
 	},
 	act_permission=
 	{
