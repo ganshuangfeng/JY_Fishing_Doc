@@ -23,7 +23,7 @@ return {
 			ID = 2,
 			title = "重要公告",
 			order = 2,
-			isOnOff = 0,
+			isOnOff = 1,
 			beginTime = -1,
 			endTime = -1,
 			noCloseUI = 0,
