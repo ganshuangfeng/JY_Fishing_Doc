@@ -2024,7 +2024,7 @@ return {
 		{
 			id = 25,
 			acti_type = 21,
-			num = {1,0,10,},
+			num = {1,0,90,1,10},
 			show = 0,
 			enter_bag = 0,
 			value = 20,
@@ -2033,7 +2033,7 @@ return {
 		{
 			id = 26,
 			acti_type = 21,
-			num = {1,1,20,2,20,3,10,4,10},
+			num = {1,0,90,1,10},
 			show = 0,
 			enter_bag = 0,
 			value = 50,
@@ -2042,7 +2042,7 @@ return {
 		{
 			id = 27,
 			acti_type = 21,
-			num = {1,1,20,2,20,3,10,4,10,5,5},
+			num = {1,0,90,1,10},
 			show = 0,
 			enter_bag = 0,
 			value = 100,
@@ -2132,7 +2132,7 @@ return {
 		{
 			id = 37,
 			acti_type = 33,
-			num = {50,},
+			num = {20,},
 			show = 0,
 			enter_bag = 0,
 			value = 200,

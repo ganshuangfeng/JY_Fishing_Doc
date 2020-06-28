@@ -2147,7 +2147,7 @@ return {
 		{
 			id = 37,
 			acti_type = 33,
-			num = {50,},
+			num = {20,},
 			show = 0,
 			enter_bag = 0,
 			value = 200,
