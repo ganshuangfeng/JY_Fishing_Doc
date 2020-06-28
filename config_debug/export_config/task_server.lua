@@ -1163,6 +1163,20 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = 259200,
 		},
+		[85]=
+		{
+			id = 85,
+			enable = 1,
+			name = "西游白骨精进度",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 85,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -2000,6 +2014,15 @@ return {
 			awards = 100,
 			get_award_type = "nor",
 		},
+		[85]=
+		{
+			id = 85,
+			process_id = 85,
+			source_id = 85,
+			process = {10000,30000,50000,80000,1000000,-1},
+			awards = 101102103104105,
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -2634,6 +2657,13 @@ return {
 			source_id = 84,
 			source_type = "buyu_3d_spend",
 			condition_id = 35,
+		},
+		[91]=
+		{
+			id = 91,
+			source_id = 83,
+			source_type = "xiyou_task_money",
+			condition_id = 0,
 		},
 	},
 	condition=
@@ -3927,6 +3957,46 @@ return {
 			award_id = 100,
 			asset_type = "shop_gold_sum",
 			asset_count = 20000,
+			get_weight = 1,
+		},
+		[96]=
+		{
+			id = 96,
+			award_id = 101,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[97]=
+		{
+			id = 97,
+			award_id = 102,
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[98]=
+		{
+			id = 98,
+			award_id = 103,
+			asset_type = "shop_gold_sum",
+			asset_count = 3000,
+			get_weight = 1,
+		},
+		[99]=
+		{
+			id = 99,
+			award_id = 104,
+			asset_type = "shop_gold_sum",
+			asset_count = 5000,
+			get_weight = 1,
+		},
+		[100]=
+		{
+			id = 100,
+			award_id = 105,
+			asset_type = "shop_gold_sum",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 	},
