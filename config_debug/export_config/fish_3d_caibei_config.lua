@@ -70,137 +70,97 @@ return {
 		{
 			line = 1,
 			ID = 1,
-			item = "fish_coin",
-			num = {10000,20000},
-			weight = 10,
+			item = "discount_fish_coin",
+			num = {4000,6000},
+			weight = 80,
 		},
 		[2]=
 		{
 			line = 2,
-			ID = 2,
-			item = "fish_coin",
-			num = {10000,30000},
-			weight = 70,
+			ID = 1,
+			item = "prop_fish_lock",
+			num = {5,5},
+			weight = 10,
 		},
 		[3]=
 		{
 			line = 3,
-			ID = 2,
-			item = "jing_bi",
-			num = {10000,20000},
+			ID = 1,
+			item = "prop_fish_frozen",
+			num = {1,1},
 			weight = 10,
 		},
 		[4]=
 		{
 			line = 4,
 			ID = 2,
-			item = "prop_fish_lock",
-			num = {1,1},
-			weight = 20,
+			item = "jing_bi",
+			num = {20000,40000},
+			weight = 30,
 		},
 		[5]=
 		{
 			line = 5,
 			ID = 2,
-			item = "prop_fish_frozen",
-			num = {1,1},
-			weight = 20,
+			item = "discount_fish_coin",
+			num = {30000,60000},
+			weight = 60,
 		},
 		[6]=
 		{
 			line = 6,
-			ID = 3,
-			item = "fish_coin",
-			num = {10000,50000},
-			weight = 70,
+			ID = 2,
+			item = "prop_fish_frozen",
+			num = {3,3},
+			weight = 10,
 		},
 		[7]=
 		{
 			line = 7,
 			ID = 3,
 			item = "jing_bi",
-			num = {10000,30000},
-			weight = 10,
+			num = {300000,700000},
+			weight = 40,
 		},
 		[8]=
 		{
 			line = 8,
 			ID = 3,
-			item = "prop_fish_lock",
-			num = {1,1},
-			weight = 20,
+			item = "discount_fish_coin",
+			num = {400000,1000000},
+			weight = 60,
 		},
 		[9]=
 		{
 			line = 9,
-			ID = 3,
-			item = "prop_fish_frozen",
-			num = {1,1},
-			weight = 20,
+			ID = 4,
+			item = "jing_bi",
+			num = {1500000,2600000},
+			weight = 40,
 		},
 		[10]=
 		{
 			line = 10,
 			ID = 4,
-			item = "fish_coin",
-			num = {20000,50000},
-			weight = 70,
+			item = "discount_fish_coin",
+			num = {2600000,3000000},
+			weight = 60,
 		},
 		[11]=
 		{
 			line = 11,
-			ID = 4,
+			ID = 5,
 			item = "jing_bi",
-			num = {20000,30000},
-			weight = 10,
+			num = {4000000,6000000},
+			weight = 40,
 		},
 		[12]=
 		{
 			line = 12,
-			ID = 4,
-			item = "prop_fish_lock",
-			num = {1,1},
-			weight = 20,
-		},
-		[13]=
-		{
-			line = 13,
-			ID = 4,
-			item = "prop_fish_frozen",
-			num = {1,1},
-			weight = 20,
-		},
-		[14]=
-		{
-			line = 14,
 			ID = 5,
-			item = "fish_coin",
-			num = {30000,60000},
-			weight = 70,
-		},
-		[15]=
-		{
-			line = 15,
-			ID = 5,
-			item = "jing_bi",
-			num = {20000,50000},
-			weight = 10,
-		},
-		[16]=
-		{
-			line = 16,
-			ID = 5,
-			item = "prop_fish_lock",
-			num = {1,1},
-			weight = 20,
-		},
-		[17]=
-		{
-			line = 17,
-			ID = 5,
-			item = "prop_fish_frozen",
-			num = {1,1},
-			weight = 20,
+			item = "discount_fish_coin",
+			num = {6000000,8000000},
+			weight = 60,
 		},
 	},
 	free_receive=

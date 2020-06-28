@@ -942,7 +942,7 @@ return {
 		[21016]=
 		{
 			id = 21016,
-			enable = 1,
+			enable = 0,
 			name = "vip3~5周任务",
 			own_type = "vip_week_task_3",
 			task_enum = "vip_week_task",
@@ -956,7 +956,7 @@ return {
 		[21017]=
 		{
 			id = 21017,
-			enable = 1,
+			enable = 0,
 			name = "vip6及以上周任务",
 			own_type = "vip_week_task_6",
 			task_enum = "vip_week_task",
@@ -4050,7 +4050,7 @@ return {
 		[21238]=
 		{
 			id = 21238,
-			enable = 1,
+			enable = 0,
 			name = "连购返利",
 			own_type = "p_recharge_gift",
 			task_enum = "common",
@@ -4064,7 +4064,7 @@ return {
 		[21239]=
 		{
 			id = 21239,
-			enable = 1,
+			enable = 0,
 			name = "连购返利",
 			own_type = "p_recharge_gift",
 			task_enum = "common",
@@ -4078,7 +4078,7 @@ return {
 		[21240]=
 		{
 			id = 21240,
-			enable = 1,
+			enable = 0,
 			name = "连购返利",
 			own_type = "p_recharge_gift",
 			task_enum = "common",
@@ -4092,7 +4092,7 @@ return {
 		[21241]=
 		{
 			id = 21241,
-			enable = 1,
+			enable = 0,
 			name = "连购返利",
 			own_type = "p_recharge_gift",
 			task_enum = "common",
@@ -4106,7 +4106,7 @@ return {
 		[21242]=
 		{
 			id = 21242,
-			enable = 1,
+			enable = 0,
 			name = "连购返利",
 			own_type = "p_recharge_gift",
 			task_enum = "common",
@@ -4120,7 +4120,7 @@ return {
 		[21243]=
 		{
 			id = 21243,
-			enable = 1,
+			enable = 0,
 			name = "VIP赢金挑战",
 			own_type = "vip_new_game_award_task",
 			task_enum = "complete_clear_task",
@@ -4134,7 +4134,7 @@ return {
 		[21244]=
 		{
 			id = 21244,
-			enable = 1,
+			enable = 0,
 			name = "VIP赢金挑战",
 			own_type = "vip_yingjin_complete_task",
 			task_enum = "common",
@@ -4148,7 +4148,7 @@ return {
 		[21245]=
 		{
 			id = 21245,
-			enable = 1,
+			enable = 0,
 			name = "幸运彩蛋",
 			own_type = "p_lucky_egg_normal",
 			task_enum = "common",
@@ -4162,7 +4162,7 @@ return {
 		[21246]=
 		{
 			id = 21246,
-			enable = 1,
+			enable = 0,
 			name = "幸运彩蛋",
 			own_type = "p_lucky_egg_cpl",
 			task_enum = "common",
@@ -4176,7 +4176,7 @@ return {
 		[21247]=
 		{
 			id = 21247,
-			enable = 1,
+			enable = 0,
 			name = "VIP升级",
 			own_type = "vip_greater10",
 			task_enum = "common",
@@ -4190,7 +4190,7 @@ return {
 		[21248]=
 		{
 			id = 21248,
-			enable = 1,
+			enable = 0,
 			name = "VIP11礼包",
 			own_type = "vip_11_everyday_gift_task",
 			task_enum = "common",
@@ -4204,7 +4204,7 @@ return {
 		[21249]=
 		{
 			id = 21249,
-			enable = 1,
+			enable = 0,
 			name = "VIP11礼包",
 			own_type = "vip_11_accumulate_gift_task",
 			task_enum = "complete_clear_task",
@@ -4218,7 +4218,7 @@ return {
 		[21250]=
 		{
 			id = 21250,
-			enable = 1,
+			enable = 0,
 			name = "VIP12礼包",
 			own_type = "vip_12_everyday_gift_task",
 			task_enum = "common",
@@ -4232,7 +4232,7 @@ return {
 		[21251]=
 		{
 			id = 21251,
-			enable = 1,
+			enable = 0,
 			name = "VIP12礼包",
 			own_type = "vip_12_accumulate_gift_task",
 			task_enum = "complete_clear_task",
@@ -4806,7 +4806,7 @@ return {
 		[21292]=
 		{
 			id = 21292,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_love_day_discount_normal",
 			task_enum = "common",
@@ -4820,7 +4820,7 @@ return {
 		[21293]=
 		{
 			id = 21293,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_love_day_discount_cpl",
 			task_enum = "common",
@@ -4834,7 +4834,7 @@ return {
 		[21294]=
 		{
 			id = 21294,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_recharge_love_value",
 			task_enum = "common",
@@ -4848,7 +4848,7 @@ return {
 		[21295]=
 		{
 			id = 21295,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_recharge_love_value",
 			task_enum = "common",
@@ -4862,7 +4862,7 @@ return {
 		[21296]=
 		{
 			id = 21296,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_recharge_love_value",
 			task_enum = "common",
@@ -4876,7 +4876,7 @@ return {
 		[21297]=
 		{
 			id = 21297,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_recharge_love_value",
 			task_enum = "common",
@@ -4890,7 +4890,7 @@ return {
 		[21298]=
 		{
 			id = 21298,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_recharge_love_value",
 			task_enum = "common",
@@ -4904,7 +4904,7 @@ return {
 		[21299]=
 		{
 			id = 21299,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_recharge_love_value",
 			task_enum = "common",
@@ -4918,7 +4918,7 @@ return {
 		[21300]=
 		{
 			id = 21300,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_recharge_love_value",
 			task_enum = "common",
@@ -4932,7 +4932,7 @@ return {
 		[21301]=
 		{
 			id = 21301,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_recharge_love_value",
 			task_enum = "common",
@@ -4946,7 +4946,7 @@ return {
 		[21302]=
 		{
 			id = 21302,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_recharge_love_value",
 			task_enum = "common",
@@ -4960,7 +4960,7 @@ return {
 		[21303]=
 		{
 			id = 21303,
-			enable = 1,
+			enable = 0,
 			name = "表白礼包",
 			own_type = "p_dove_gift",
 			task_enum = "common",
@@ -4974,7 +4974,7 @@ return {
 		[21304]=
 		{
 			id = 21304,
-			enable = 1,
+			enable = 0,
 			name = "连购返利",
 			own_type = "p_rabate_gift2",
 			task_enum = "common",
@@ -4988,7 +4988,7 @@ return {
 		[21305]=
 		{
 			id = 21305,
-			enable = 1,
+			enable = 0,
 			name = "连购返利",
 			own_type = "p_rabate_gift2",
 			task_enum = "common",
@@ -5002,7 +5002,7 @@ return {
 		[21306]=
 		{
 			id = 21306,
-			enable = 1,
+			enable = 0,
 			name = "连购返利",
 			own_type = "p_rabate_gift2",
 			task_enum = "common",
@@ -5016,7 +5016,7 @@ return {
 		[21307]=
 		{
 			id = 21307,
-			enable = 1,
+			enable = 0,
 			name = "连购返利",
 			own_type = "p_rabate_gift2",
 			task_enum = "common",
@@ -5030,7 +5030,7 @@ return {
 		[21308]=
 		{
 			id = 21308,
-			enable = 1,
+			enable = 0,
 			name = "连购返利",
 			own_type = "p_rabate_gift2",
 			task_enum = "common",
@@ -5044,7 +5044,7 @@ return {
 		[21309]=
 		{
 			id = 21309,
-			enable = 1,
+			enable = 0,
 			name = "连购返利",
 			own_type = "p_rabate_gift1",
 			task_enum = "common",
@@ -5058,7 +5058,7 @@ return {
 		[21310]=
 		{
 			id = 21310,
-			enable = 1,
+			enable = 0,
 			name = "连购返利",
 			own_type = "p_rabate_gift1",
 			task_enum = "common",
@@ -5072,7 +5072,7 @@ return {
 		[21311]=
 		{
 			id = 21311,
-			enable = 1,
+			enable = 0,
 			name = "连购返利",
 			own_type = "p_rabate_gift1",
 			task_enum = "common",
@@ -5086,7 +5086,7 @@ return {
 		[21312]=
 		{
 			id = 21312,
-			enable = 1,
+			enable = 0,
 			name = "连购返利",
 			own_type = "p_rabate_gift1",
 			task_enum = "common",
@@ -5100,7 +5100,7 @@ return {
 		[21313]=
 		{
 			id = 21313,
-			enable = 1,
+			enable = 0,
 			name = "连购返利",
 			own_type = "p_rabate_gift1",
 			task_enum = "common",
@@ -5114,7 +5114,7 @@ return {
 		[21314]=
 		{
 			id = 21314,
-			enable = 1,
+			enable = 0,
 			name = "vip2周任务",
 			own_type = "vip_week_task_2",
 			task_enum = "vip_week_task",

@@ -94,25 +94,23 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "8#61#36#26#",
+			group_list = "3#2#8#61#",
 		},
 		[2]=
 		{
 			id = 2,
 			area = "left",
-			group_list = "62#30#",
+			group_list = "26#36#58#30#",
 		},
 		[3]=
 		{
 			id = 3,
 			area = "right",
-			group_list = "58#42#9#27#",
 		},
 		[4]=
 		{
 			id = 4,
 			area = "top",
-			group_list = "47;",
 		},
 		[5]=
 		{
@@ -411,7 +409,7 @@ return {
 		[30]=
 		{
 			id = 30,
-			parm = {"ty_gift",},
+			parm = {"ty_gift","gift_cglb",},
 			is_on_off = 1,
 		},
 		[31]=

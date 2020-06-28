@@ -272,7 +272,7 @@ return {
 			is_local_icon = 1,
 			min_score = 1201,
 			max_score = 1499,
-			award_desc = {"30000鲸币",},
+			award_desc = {"30000金币",},
 			award_icon = {"ty_icon_jb_18y",},
 		},
 		[3]=
@@ -284,7 +284,7 @@ return {
 			is_local_icon = 1,
 			min_score = 1000,
 			max_score = 1200,
-			award_desc = {"10000鲸币",},
+			award_desc = {"10000金币",},
 			award_icon = {"ty_icon_jb_15y",},
 		},
 		[4]=
@@ -308,7 +308,7 @@ return {
 			is_local_icon = 1,
 			min_score = 1201,
 			max_score = 1499,
-			award_desc = {"100000鲸币",},
+			award_desc = {"100000金币",},
 			award_icon = {"ty_icon_jb_30y",},
 		},
 		[6]=
@@ -320,7 +320,7 @@ return {
 			is_local_icon = 1,
 			min_score = 1000,
 			max_score = 1200,
-			award_desc = {"50000鲸币",},
+			award_desc = {"50000金币",},
 			award_icon = {"ty_icon_jb_18y",},
 		},
 		[7]=
@@ -344,7 +344,7 @@ return {
 			is_local_icon = 1,
 			min_score = 1201,
 			max_score = 1499,
-			award_desc = {"300000鲸币",},
+			award_desc = {"300000金币",},
 			award_icon = {"ty_icon_jb_98y",},
 		},
 		[9]=
@@ -356,7 +356,7 @@ return {
 			is_local_icon = 1,
 			min_score = 1000,
 			max_score = 1200,
-			award_desc = {"100000鲸币",},
+			award_desc = {"100000金币",},
 			award_icon = {"ty_icon_jb_30y",},
 		},
 		[10]=
@@ -380,7 +380,7 @@ return {
 			is_local_icon = 1,
 			min_score = 1201,
 			max_score = 1499,
-			award_desc = {"500000鲸币",},
+			award_desc = {"500000金币",},
 			award_icon = {"ty_icon_jb_98y",},
 		},
 		[12]=
@@ -392,7 +392,7 @@ return {
 			is_local_icon = 1,
 			min_score = 1000,
 			max_score = 1200,
-			award_desc = {"200000鲸币",},
+			award_desc = {"200000金币",},
 			award_icon = {"ty_icon_jb_30y",},
 		},
 	},
