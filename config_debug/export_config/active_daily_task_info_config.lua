@@ -104,7 +104,7 @@ return {
 			task_award_icon = {"ty_icon_hytb","ty_icon_jb_30y"},
 			task_award_instruction = {"活跃度","金币"},
 			task_award_count = {40,35000},
-			gotoui = {"game_Fishing3DHall",},
+			gotoui = {"game_MiniGame",},
 		},
 		[7]=
 		{
