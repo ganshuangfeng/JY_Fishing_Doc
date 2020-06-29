@@ -220,6 +220,12 @@ return {
 			area = "down",
 			group_list = "43#40#26",
 		},
+		[2]=
+		{
+			id = 2,
+			area = "top",
+			group_list = "64#",
+		},
 	},
 	fishing3d_hall=
 	{
@@ -607,6 +613,12 @@ return {
 		{
 			id = 63,
 			parm = {"by_drb_cs",},
+			is_on_off = 1,
+		},
+		[64]=
+		{
+			id = 64,
+			parm = {"sys_by_pms",},
 			is_on_off = 1,
 		},
 	},

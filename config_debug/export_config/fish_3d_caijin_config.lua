@@ -325,7 +325,7 @@ return {
 			num = 3,
 			weight = 3699,
 			name = "锁定*3",
-			icon = "3d3dby_btn_sd",
+			icon = "3dby_btn_sd",
 			real = 0,
 		},
 		[9]=
@@ -2053,7 +2053,7 @@ return {
 			num = 1280000,
 			weight = 3699,
 			name = "鱼币*1280000",
-			icon = "3dby_btn_sd",
+			icon = "com_icon_yb",
 			real = 0,
 		},
 		[153]=
