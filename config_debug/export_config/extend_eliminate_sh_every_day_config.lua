@@ -169,7 +169,7 @@ return {
 		[16]=
 		{
 			index = 16,
-			name = "累计消60个酒碗（福卡）",
+			name = "累计消60个酒碗（福利券）",
 			task_id = 11516,
 			need_process = 100,
 			award_type = "shop_gold_sum",
@@ -180,7 +180,7 @@ return {
 		[17]=
 		{
 			index = 17,
-			name = "累计消60个酒坛（福卡）",
+			name = "累计消60个酒坛（福利券）",
 			task_id = 11517,
 			need_process = 100,
 			award_type = "shop_gold_sum",
@@ -191,7 +191,7 @@ return {
 		[18]=
 		{
 			index = 18,
-			name = "累计消60个铜钱（福卡）",
+			name = "累计消60个铜钱（福利券）",
 			task_id = 11518,
 			need_process = 100,
 			award_type = "shop_gold_sum",
@@ -202,7 +202,7 @@ return {
 		[19]=
 		{
 			index = 19,
-			name = "累计消60个银锭（福卡）",
+			name = "累计消60个银锭（福利券）",
 			task_id = 11519,
 			need_process = 100,
 			award_type = "shop_gold_sum",
@@ -213,7 +213,7 @@ return {
 		[20]=
 		{
 			index = 20,
-			name = "累计消60个斧头（福卡）",
+			name = "累计消60个斧头（福利券）",
 			task_id = 11520,
 			need_process = 100,
 			award_type = "shop_gold_sum",
