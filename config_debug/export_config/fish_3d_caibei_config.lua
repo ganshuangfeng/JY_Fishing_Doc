@@ -78,7 +78,7 @@ return {
 		{
 			line = 2,
 			ID = 1,
-			item = "prop_fish_lock",
+			item = "prop_3d_fish_lock",
 			num = {5,5},
 			weight = 10,
 		},
@@ -86,7 +86,7 @@ return {
 		{
 			line = 3,
 			ID = 1,
-			item = "prop_fish_frozen",
+			item = "prop_3d_fish_frozen",
 			num = {1,1},
 			weight = 10,
 		},
@@ -110,7 +110,7 @@ return {
 		{
 			line = 6,
 			ID = 2,
-			item = "prop_fish_frozen",
+			item = "prop_3d_fish_frozen",
 			num = {3,3},
 			weight = 10,
 		},

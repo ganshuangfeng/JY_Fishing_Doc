@@ -218,7 +218,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "43#40#26#63",
+			group_list = "43#40#26",
 		},
 	},
 	fishing3d_hall=
@@ -227,7 +227,6 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "63;",
 		},
 	},
 	all_enter=
@@ -409,7 +408,7 @@ return {
 		[30]=
 		{
 			id = 30,
-			parm = {"ty_gift","gift_cglb",},
+			parm = {"ty_gift","gift_cglb"},
 			is_on_off = 1,
 		},
 		[31]=
