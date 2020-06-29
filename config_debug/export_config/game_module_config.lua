@@ -1456,9 +1456,9 @@ return {
 			key = "act_005_hgjx",
 			desc = "回归惊喜",
 			lua = "Act_005_HGJXManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[147]=
 		{
@@ -2275,6 +2275,16 @@ return {
 			key = "sys_sclb1",
 			desc = "首冲礼包（新）",
 			lua = "SYSSCLB1Manager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[234]=
+		{
+			id = 234,
+			key = "sys_open_install_binding",
+			desc = "OpenInstall绑定关系",
+			lua = "OpenInstallBindingManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

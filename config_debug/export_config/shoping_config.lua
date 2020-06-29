@@ -8821,7 +8821,7 @@ return {
 			num = 1,
 			gift_asset_type = {nil,},
 			gift_asset_count = 100200300,
-			is_show = 1,
+			is_show = 0,
 			ui_order = 4,
 			ui_title = "记牌器1天",
 			ui_describe = "斗地主使用，可累积",
