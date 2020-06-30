@@ -928,7 +928,7 @@ return {
 		[68]=
 		{
 			id = 68,
-			enable = 1,
+			enable = 0,
 			name = "新玩家捕鱼红包任务",
 			own_type = "new_player_buyu_task",
 			task_enum = "new_player_buyu_task",
@@ -1040,7 +1040,7 @@ return {
 		[76]=
 		{
 			id = 76,
-			enable = 1,
+			enable = 0,
 			name = "新玩家捕鱼红包任务(深海寻宝)",
 			own_type = "new_player_buyu_task",
 			task_enum = "new_player_buyu_task",
@@ -1054,7 +1054,7 @@ return {
 		[77]=
 		{
 			id = 77,
-			enable = 1,
+			enable = 0,
 			name = "新玩家捕鱼红包任务(海底遗迹)",
 			own_type = "new_player_buyu_task",
 			task_enum = "new_player_buyu_task",
