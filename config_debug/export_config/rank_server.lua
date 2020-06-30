@@ -143,7 +143,7 @@ return {
 		[11]=
 		{
 			id = 11,
-			enable = 1,
+			enable = 0,
 			rank_type = "buyu_3d_yingjin_rank",
 			name = "3D捕鱼排行榜",
 			begin_time = 1591113600,

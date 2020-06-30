@@ -573,7 +573,7 @@ return {
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "by_btn_bd",
-			is_show_bag = 1,
+			is_show_bag = 0,
 			order = 16,
 			name = "冰冻",
 			desc = "冰冻全场鱼",
@@ -586,7 +586,7 @@ return {
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "by_btn_sd",
-			is_show_bag = 1,
+			is_show_bag = 0,
 			order = 15,
 			name = "锁定",
 			desc = "锁定攻击鱼",
@@ -1014,7 +1014,7 @@ return {
 			image = "com_award_icon_dhq3",
 			is_show_bag = 1,
 			order = 23,
-			name = "福利券",
+			name = "抽奖券",
 			desc = "用于红包大转盘的抽奖",
 			use_parm = {"xycj","panel",1},
 		},
@@ -1385,7 +1385,7 @@ return {
 			order = 32,
 			name = "冰冻",
 			desc = "冰冻全场鱼-3D捕鱼",
-			tag = 11,
+			tag = 9,
 		},
 		[107]=
 		{
@@ -1399,7 +1399,7 @@ return {
 			order = 33,
 			name = "锁定",
 			desc = "锁定攻击鱼-3D捕鱼",
-			tag = 11,
+			tag = 9,
 		},
 		[108]=
 		{
