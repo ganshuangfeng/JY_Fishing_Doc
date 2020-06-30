@@ -285,7 +285,7 @@ return {
 		{
 			line = 21,
 			order = 12,
-			tag = 2,
+			tag = 3,
 			icon = "3dby_icon_yu50",
 			name = "黄金炸弹鱼",
 			game_id = {2,3,4,5},

@@ -2020,7 +2020,7 @@ return {
 			process_id = 85,
 			source_id = 85,
 			process = {10000,30000,50000,80000,1000000,-1},
-			awards = 101102103104105,
+			awards = {101,102,103,104,105},
 			get_award_type = "nor",
 		},
 	},
@@ -2661,7 +2661,7 @@ return {
 		[91]=
 		{
 			id = 91,
-			source_id = 83,
+			source_id = 85,
 			source_type = "xiyou_task_money",
 			condition_id = 0,
 		},

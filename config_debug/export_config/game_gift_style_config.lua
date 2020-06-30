@@ -40,7 +40,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "FFEABFFF",
 			pay_name = {"60万金币","10万金币","5万小游戏币","480万金币","20万金币","10万小游戏币","980万金币","30万金币","20万小游戏币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","ty_icon_yxb_2","pay_icon_gold8","pay_icon_gold11","ty_icon_yxb_2","pay_icon_gold10","pay_icon_gold4","ty_icon_yxb_2",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","ty_icon_yxb_2","pay_icon_gold8","pay_icon_gold11","ty_icon_yxb_2","pay_icon_gold10","pay_icon_gold4","ty_icon_yxb_2",},
 			isOnOff = 1,
 		},
 		[4]=
@@ -59,7 +59,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "FFEABFFF",
 			pay_name = {"10万金币","10万金币","锁定*1","30万金币","20万金币","锁定*2","60万金币","30万金币","锁定*3",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","3dby_btn_sd","pay_icon_gold8","pay_icon_gold11","3dby_btn_sd","pay_icon_gold10","pay_icon_gold4","3dby_btn_sd",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","3dby_btn_sd","pay_icon_gold8","pay_icon_gold11","3dby_btn_sd","pay_icon_gold10","pay_icon_gold4","3dby_btn_sd",},
 			isOnOff = 1,
 		},
 		[5]=
@@ -78,7 +78,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "FFEABFFF",
 			pay_name = {"60万金币","20万金币","锁定*3","100万金币","20万金币","10万小游戏币","180万金币","20万金币","20万小游戏币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","3dby_btn_sd","pay_icon_gold8","pay_icon_gold11","ty_icon_yxb_2","pay_icon_gold10","pay_icon_gold4","ty_icon_yxb_4",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","3dby_btn_sd","pay_icon_gold8","pay_icon_gold11","ty_icon_yxb_2","pay_icon_gold10","pay_icon_gold4","ty_icon_yxb_4",},
 			isOnOff = 1,
 		},
 		[6]=
@@ -97,7 +97,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "FFEABFFF",
 			pay_name = {"180万金币","10万金币","10万小游戏币","480万金币","20万金币","10万小游戏币","980万金币","30万金币","20万小游戏币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","ty_icon_yxb_2","pay_icon_gold8","pay_icon_gold11","ty_icon_yxb_4","pay_icon_gold10","pay_icon_gold4","ty_icon_yxb_5",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","ty_icon_yxb_2","pay_icon_gold8","pay_icon_gold11","ty_icon_yxb_4","pay_icon_gold10","pay_icon_gold4","ty_icon_yxb_5",},
 			isOnOff = 1,
 		},
 		[7]=
@@ -116,7 +116,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "FFEABFFF",
 			pay_name = {"480万金币","20万金币","10万小游戏币","980万金币","30万金币","20万小游戏币","1980万金币","80万金币","30万小游戏币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","ty_icon_yxb_2","pay_icon_gold8","pay_icon_gold11","ty_icon_yxb_4","pay_icon_gold10","pay_icon_gold4","ty_icon_yxb_5",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","ty_icon_yxb_2","pay_icon_gold8","pay_icon_gold11","ty_icon_yxb_4","pay_icon_gold10","pay_icon_gold4","ty_icon_yxb_5",},
 			isOnOff = 1,
 		},
 		[8]=
@@ -135,7 +135,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "FFEABFFF",
 			pay_name = {"980万金币","30万金币","20万小游戏币","1980万金币","80万金币","30万小游戏币","4980万金币","150万金币","50万小游戏币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","ty_icon_yxb_2","pay_icon_gold8","pay_icon_gold11","ty_icon_yxb_4","pay_icon_gold10","pay_icon_gold4","ty_icon_yxb_5",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","ty_icon_yxb_2","pay_icon_gold8","pay_icon_gold11","ty_icon_yxb_4","pay_icon_gold10","pay_icon_gold4","ty_icon_yxb_5",},
 			isOnOff = 1,
 		},
 		[9]=
@@ -154,7 +154,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "8E3A01FF",
 			pay_name = {"1万鲸币","1万鲸币","记牌器*1","3万鲸币","2万鲸币","记牌器*2","6万鲸币","3万鲸币","记牌器*3",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","bag_icon_jipaiqi","pay_icon_gold8","pay_icon_gold11","bag_icon_jipaiqi","pay_icon_gold10","pay_icon_gold4","bag_icon_jipaiqi",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","bag_icon_jipaiqi","pay_icon_gold8","pay_icon_gold11","bag_icon_jipaiqi","pay_icon_gold10","pay_icon_gold4","bag_icon_jipaiqi",},
 			isOnOff = 0,
 		},
 		[10]=
@@ -173,7 +173,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "8E3A01FF",
 			pay_name = {"6万鲸币","2万鲸币","记牌器*3","18万鲸币","2万鲸币","2万鱼币","48万鲸币","3万鲸币","2万鱼币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","bag_icon_jipaiqi","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","bag_icon_jipaiqi","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
 		[11]=
@@ -192,7 +192,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "8E3A01FF",
 			pay_name = {"18万鲸币","1万鲸币","1万鱼币","48万鲸币","3万鲸币","2万鱼币","98万鲸币","3万鲸币","2万鱼币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
 		[12]=
@@ -211,7 +211,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "8E3A01FF",
 			pay_name = {"48万鲸币","2万鲸币","1万鱼币","98万鲸币","3万鲸币","2万鱼币","198万鲸币","8万鲸币","3万鱼币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
 		[13]=
@@ -230,7 +230,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "8E3A01FF",
 			pay_name = {"98万鲸币","3万鲸币","2万鱼币","198万鲸币","8万鲸币","3万鱼币","498万鲸币","15万鲸币","5万鱼币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
 		[14]=
@@ -247,7 +247,7 @@ return {
 			outline_c = "7F250DFF",
 			gift_c = "FFEABFFF",
 			pay_name = {"1万鲸币","1万鲸币","记牌器*1","3万鲸币","2万鲸币","记牌器*2","6万鲸币","3万鲸币","记牌器*3",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","bag_icon_jipaiqi","pay_icon_gold8","pay_icon_gold11","bag_icon_jipaiqi","pay_icon_gold10","pay_icon_gold4","bag_icon_jipaiqi",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","bag_icon_jipaiqi","pay_icon_gold8","pay_icon_gold11","bag_icon_jipaiqi","pay_icon_gold10","pay_icon_gold4","bag_icon_jipaiqi",},
 			isOnOff = 0,
 		},
 		[15]=
@@ -264,7 +264,7 @@ return {
 			outline_c = "7F251DFF",
 			gift_c = "FFEABFFF",
 			pay_name = {"6万鲸币","2万鲸币","记牌器*3","18万鲸币","2万鲸币","2万鱼币","48万鲸币","3万鲸币","2万鱼币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","bag_icon_jipaiqi","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","bag_icon_jipaiqi","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
 		[16]=
@@ -281,7 +281,7 @@ return {
 			outline_c = "7F252DFF",
 			gift_c = "FFEABFFF",
 			pay_name = {"18万鲸币","1万鲸币","1万鱼币","48万鲸币","3万鲸币","2万鱼币","98万鲸币","3万鲸币","2万鱼币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
 		[17]=
@@ -298,7 +298,7 @@ return {
 			outline_c = "7F253DFF",
 			gift_c = "FFEABFFF",
 			pay_name = {"48万鲸币","2万鲸币","1万鱼币","98万鲸币","3万鲸币","2万鱼币","198万鲸币","8万鲸币","3万鱼币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
 		[18]=
@@ -315,7 +315,7 @@ return {
 			outline_c = "7F254DFF",
 			gift_c = "FFEABFFF",
 			pay_name = {"98万鲸币","3万鲸币","2万鱼币","198万鲸币","8万鲸币","3万鱼币","498万鲸币","15万鲸币","5万鱼币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
 		[19]=
@@ -332,7 +332,7 @@ return {
 			outline_c = "FFF8D9FF",
 			gift_c = "8E3A01FF",
 			pay_name = {"1万鲸币","记牌器*1","铲子*1","3万鲸币","记牌器*2","铲子*2","6万鲸币","记牌器*3","铲子*3",},
-			icon_img = {"pay_icon_gold5","bag_icon_jipaiqi","com_award_icon_chanz1","pay_icon_gold8","bag_icon_jipaiqi","com_award_icon_chanz2","pay_icon_gold10","bag_icon_jipaiqi","com_award_icon_chanz3",},
+			icon_img = {"pay_icon_gold7","bag_icon_jipaiqi","com_award_icon_chanz1","pay_icon_gold8","bag_icon_jipaiqi","com_award_icon_chanz2","pay_icon_gold10","bag_icon_jipaiqi","com_award_icon_chanz3",},
 			isOnOff = 0,
 		},
 		[20]=
@@ -349,7 +349,7 @@ return {
 			outline_c = "FFF8D9FF",
 			gift_c = "8E3A01FF",
 			pay_name = {"6万鲸币","记牌器*3","铲子*2","12万鲸币","1万鱼币","铲子*2","18万鲸币","2万鱼币","铲子*2",},
-			icon_img = {"pay_icon_gold5","bag_icon_jipaiqi","com_award_icon_chanz1","pay_icon_gold8","com_award_icon_yb1","com_award_icon_chanz2","pay_icon_gold10","com_award_icon_yb2","com_award_icon_chanz3",},
+			icon_img = {"pay_icon_gold7","bag_icon_jipaiqi","com_award_icon_chanz1","pay_icon_gold8","com_award_icon_yb1","com_award_icon_chanz2","pay_icon_gold10","com_award_icon_yb2","com_award_icon_chanz3",},
 			isOnOff = 0,
 		},
 		[21]=
@@ -366,7 +366,7 @@ return {
 			outline_c = "FFF8D9FF",
 			gift_c = "8E3A01FF",
 			pay_name = {"18万鲸币","1万鱼币","铲子*1","30万鲸币","2万鱼币","铲子*2","48万鲸币","2万鱼币","铲子*3",},
-			icon_img = {"pay_icon_gold5","com_icon_yb","com_award_icon_chanz1","pay_icon_gold8","com_award_icon_yb1","com_award_icon_chanz2","pay_icon_gold10","com_award_icon_yb2","com_award_icon_chanz3",},
+			icon_img = {"pay_icon_gold7","com_icon_yb","com_award_icon_chanz1","pay_icon_gold8","com_award_icon_yb1","com_award_icon_chanz2","pay_icon_gold10","com_award_icon_yb2","com_award_icon_chanz3",},
 			isOnOff = 0,
 		},
 		[22]=
@@ -383,7 +383,7 @@ return {
 			outline_c = "FFF8D9FF",
 			gift_c = "8E3A01FF",
 			pay_name = {"48万鲸币","1万鱼币","铲子*2","98万鲸币","2万鱼币","铲子*3","198万鲸币","3万鱼币","铲子*8",},
-			icon_img = {"pay_icon_gold5","com_icon_yb","com_award_icon_chanz1","pay_icon_gold8","com_award_icon_yb1","com_award_icon_chanz2","pay_icon_gold10","com_award_icon_yb2","com_award_icon_chanz3",},
+			icon_img = {"pay_icon_gold7","com_icon_yb","com_award_icon_chanz1","pay_icon_gold8","com_award_icon_yb1","com_award_icon_chanz2","pay_icon_gold10","com_award_icon_yb2","com_award_icon_chanz3",},
 			isOnOff = 0,
 		},
 		[23]=
@@ -400,7 +400,7 @@ return {
 			outline_c = "FFF8D9FF",
 			gift_c = "8E3A01FF",
 			pay_name = {"98万鲸币","2万鱼币","铲子*3","198万鲸币","3万鱼币","铲子*8","498万鲸币","5万鱼币","铲子*15",},
-			icon_img = {"pay_icon_gold5","com_icon_yb","com_award_icon_chanz1","pay_icon_gold8","com_award_icon_yb1","com_award_icon_chanz2","pay_icon_gold10","com_award_icon_yb2","com_award_icon_chanz3",},
+			icon_img = {"pay_icon_gold7","com_icon_yb","com_award_icon_chanz1","pay_icon_gold8","com_award_icon_yb1","com_award_icon_chanz2","pay_icon_gold10","com_award_icon_yb2","com_award_icon_chanz3",},
 			isOnOff = 0,
 		},
 		[24]=
@@ -419,7 +419,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "8E3A01FF",
 			pay_name = {"1万鲸币","1万鲸币","记牌器*1","3万鲸币","2万鲸币","记牌器*2","6万鲸币","3万鲸币","记牌器*3",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","bag_icon_jipaiqi","pay_icon_gold8","pay_icon_gold11","bag_icon_jipaiqi","pay_icon_gold10","pay_icon_gold4","bag_icon_jipaiqi",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","bag_icon_jipaiqi","pay_icon_gold8","pay_icon_gold11","bag_icon_jipaiqi","pay_icon_gold10","pay_icon_gold4","bag_icon_jipaiqi",},
 			isOnOff = 0,
 		},
 		[25]=
@@ -438,7 +438,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "8E3A01FF",
 			pay_name = {"6万鲸币","2万鲸币","记牌器*3","18万鲸币","2万鲸币","2万鱼币","48万鲸币","3万鲸币","2万鱼币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","bag_icon_jipaiqi","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","bag_icon_jipaiqi","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
 		[26]=
@@ -457,7 +457,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "8E3A01FF",
 			pay_name = {"18万鲸币","1万鲸币","1万鱼币","48万鲸币","3万鲸币","2万鱼币","98万鲸币","3万鲸币","2万鱼币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
 		[27]=
@@ -476,7 +476,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "8E3A01FF",
 			pay_name = {"48万鲸币","2万鲸币","1万鱼币","98万鲸币","3万鲸币","2万鱼币","198万鲸币","8万鲸币","3万鱼币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
 		[28]=
@@ -495,7 +495,7 @@ return {
 			outline_c = "FFFFFFFF",
 			gift_c = "8E3A01FF",
 			pay_name = {"98万鲸币","3万鲸币","2万鱼币","198万鲸币","8万鲸币","3万鱼币","498万鲸币","15万鲸币","5万鱼币",},
-			icon_img = {"pay_icon_gold5","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
+			icon_img = {"pay_icon_gold7","pay_icon_gold3","com_icon_yb","pay_icon_gold8","pay_icon_gold11","com_award_icon_yb1","pay_icon_gold10","pay_icon_gold4","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
 	},
