@@ -121,7 +121,7 @@ return {
 			no = 11,
 			id = 2,
 			item = "shop_gold_sum",
-			item_num = 47500,
+			item_num = 4750,
 			weight = 350000,
 		},
 		[12]=
@@ -169,7 +169,7 @@ return {
 			no = 17,
 			id = 2,
 			item = "shop_gold_sum",
-			item_num = 42500,
+			item_num = 4250,
 			weight = 550000,
 		},
 		[18]=
