@@ -616,97 +616,139 @@ return {
 		[23]=
 		{
 			id = 23,
-			source_id = 14,
-			source_type = "share_game",
-			condition_id = 1016,
+			source_id = 13,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
 		},
 		[24]=
 		{
 			id = 24,
-			source_id = 15,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 1017,
+			source_id = 13,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
 		},
 		[25]=
 		{
 			id = 25,
-			source_id = 16,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 1018,
+			source_id = 13,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
 		},
 		[26]=
 		{
 			id = 26,
-			source_id = 17,
-			source_type = "enter_game_xiaoxiaole",
+			source_id = 13,
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[27]=
 		{
 			id = 27,
-			source_id = 17,
-			source_type = "enter_game_xiaoxiaole_shuihu",
+			source_id = 13,
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[28]=
 		{
 			id = 28,
-			source_id = 17,
-			source_type = "enter_game_xiaoxiaole_caishen",
+			source_id = 13,
+			source_type = "jykp_award",
 			condition_id = 0,
 		},
 		[29]=
 		{
 			id = 29,
-			source_id = 17,
-			source_type = "enter_game_zajindan",
-			condition_id = 0,
+			source_id = 14,
+			source_type = "share_game",
+			condition_id = 1016,
 		},
 		[30]=
 		{
 			id = 30,
-			source_id = 17,
-			source_type = "enter_game_tantanle",
-			condition_id = 0,
+			source_id = 15,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 1017,
 		},
 		[31]=
 		{
 			id = 31,
-			source_id = 17,
-			source_type = "enter_game_jykp",
-			condition_id = 0,
+			source_id = 16,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 1018,
 		},
 		[32]=
 		{
 			id = 32,
 			source_id = 17,
-			source_type = "enter_game_guess_apple",
+			source_type = "enter_game_xiaoxiaole",
 			condition_id = 0,
 		},
 		[33]=
 		{
 			id = 33,
 			source_id = 17,
-			source_type = "enter_buyu_game",
+			source_type = "enter_game_xiaoxiaole_shuihu",
 			condition_id = 0,
 		},
 		[34]=
 		{
 			id = 34,
 			source_id = 17,
-			source_type = "enter_buyu_3d_game",
+			source_type = "enter_game_xiaoxiaole_caishen",
 			condition_id = 0,
 		},
 		[35]=
 		{
 			id = 35,
-			source_id = 18,
-			source_type = "complete_caibei_game",
+			source_id = 17,
+			source_type = "enter_game_zajindan",
 			condition_id = 0,
 		},
 		[36]=
 		{
 			id = 36,
+			source_id = 17,
+			source_type = "enter_game_tantanle",
+			condition_id = 0,
+		},
+		[37]=
+		{
+			id = 37,
+			source_id = 17,
+			source_type = "enter_game_jykp",
+			condition_id = 0,
+		},
+		[38]=
+		{
+			id = 38,
+			source_id = 17,
+			source_type = "enter_game_guess_apple",
+			condition_id = 0,
+		},
+		[39]=
+		{
+			id = 39,
+			source_id = 17,
+			source_type = "enter_buyu_game",
+			condition_id = 0,
+		},
+		[40]=
+		{
+			id = 40,
+			source_id = 17,
+			source_type = "enter_buyu_3d_game",
+			condition_id = 0,
+		},
+		[41]=
+		{
+			id = 41,
+			source_id = 18,
+			source_type = "complete_caibei_game",
+			condition_id = 0,
+		},
+		[42]=
+		{
+			id = 42,
 			source_id = 19,
 			source_type = "charge_any",
 			condition_id = 1019,
@@ -847,7 +889,7 @@ return {
 			id = 17,
 			condition_id = 1017,
 			condition_name = "base_fish_id",
-			condition_value = {28,29,30,31,32,33,34,35,36,37},
+			condition_value = {21,28,29,30,31,32,33,34,35,36,37},
 			judge_type = 2,
 		},
 		[18]=
