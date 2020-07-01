@@ -118,6 +118,12 @@ return {
 			area = "wuquyu",
 			group_list = "34#",
 		},
+		[6]=
+		{
+			id = 6,
+			area = "fish3d_node",
+			group_list = "65#",
+		},
 	},
 	freehall_config=
 	{
@@ -226,6 +232,12 @@ return {
 			area = "top",
 			group_list = "64#",
 		},
+		[3]=
+		{
+			id = 3,
+			area = "Right_top",
+			group_list = "69#",
+		},
 	},
 	fishing3d_hall=
 	{
@@ -233,6 +245,13 @@ return {
 		{
 			id = 1,
 			area = "top",
+			group_list = "63#",
+		},
+		[2]=
+		{
+			id = 2,
+			area = "center",
+			group_list = "67#68#",
 		},
 	},
 	all_enter=
@@ -619,6 +638,42 @@ return {
 		{
 			id = 64,
 			parm = {"sys_by_pms",},
+			is_on_off = 1,
+		},
+		[65]=
+		{
+			id = 65,
+			parm = {"by3d_act_jc","enter_hall"},
+			is_on_off = 1,
+		},
+		[66]=
+		{
+			id = 66,
+			parm = {"by3d_act_jc","enter_fish"},
+			is_on_off = 1,
+		},
+		[67]=
+		{
+			id = 67,
+			parm = {"by3d_act_jc","enter4"},
+			is_on_off = 1,
+		},
+		[68]=
+		{
+			id = 68,
+			parm = {"by3d_act_jc","enter5"},
+			is_on_off = 1,
+		},
+		[69]=
+		{
+			id = 69,
+			parm = {"by3d_act_jc","game_hall_enter4"},
+			is_on_off = 1,
+		},
+		[70]=
+		{
+			id = 70,
+			parm = {"by3d_act_jc","explain"},
 			is_on_off = 1,
 		},
 	},

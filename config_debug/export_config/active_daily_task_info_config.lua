@@ -5,31 +5,31 @@ return {
 		{
 			id = 1,
 			active = 30,
-			award_tip = "金币*20000",
+			award_tip = "金币*2000，锁定*2",
 		},
 		[2]=
 		{
 			id = 2,
 			active = 60,
-			award_tip = "福利券*10",
+			award_tip = "福利券*10，小游戏币*5000",
 		},
 		[3]=
 		{
 			id = 3,
 			active = 90,
-			award_tip = "金币*50000",
+			award_tip = "金币*5000，召唤*3",
 		},
 		[4]=
 		{
 			id = 4,
 			active = 120,
-			award_tip = "福利券*20，小游戏币*10万",
+			award_tip = "福利券*20，小游戏币*1万",
 		},
 		[5]=
 		{
 			id = 5,
 			active = 150,
-			award_tip = "鱼币*10万，小游戏币*10万",
+			award_tip = "鱼币*1万，小游戏币*1万",
 		},
 	},
 	active_task_item=
@@ -43,7 +43,7 @@ return {
 			task_instruction = "每日进入捕鱼游戏",
 			task_award_icon = {"ty_icon_hytb","ty_icon_jb_15y"},
 			task_award_instruction = {"活跃度","金币"},
-			task_award_count = {20,8000},
+			task_award_count = {20,800},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[2]=
@@ -55,7 +55,7 @@ return {
 			task_instruction = "小游戏累计赢金50万",
 			task_award_icon = {"ty_icon_hytb","ty_icon_jb_18y"},
 			task_award_instruction = {"活跃度","金币"},
-			task_award_count = {30,25000},
+			task_award_count = {30,2500},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[3]=
@@ -67,7 +67,7 @@ return {
 			task_instruction = "分享一次游戏",
 			task_award_icon = {"ty_icon_hytb","ty_icon_jb_18y"},
 			task_award_instruction = {"活跃度","金币"},
-			task_award_count = {20,15000},
+			task_award_count = {20,1500},
 			gotoui = {"share_hall",},
 		},
 		[4]=
@@ -79,7 +79,7 @@ return {
 			task_instruction = "在3d捕鱼游戏中击杀2条活动鱼",
 			task_award_icon = {"ty_icon_hytb","ty_icon_jb_18y"},
 			task_award_instruction = {"活跃度","金币"},
-			task_award_count = {30,20000},
+			task_award_count = {30,2000},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[5]=
@@ -91,7 +91,7 @@ return {
 			task_instruction = "在3d捕鱼游戏中击杀2条彩金鱼",
 			task_award_icon = {"ty_icon_hytb","ty_icon_jb_18y"},
 			task_award_instruction = {"活跃度","金币"},
-			task_award_count = {20,25000},
+			task_award_count = {20,2500},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[6]=
@@ -103,7 +103,7 @@ return {
 			task_instruction = "参与3种不同的游戏",
 			task_award_icon = {"ty_icon_hytb","ty_icon_jb_30y"},
 			task_award_instruction = {"活跃度","金币"},
-			task_award_count = {40,35000},
+			task_award_count = {40,3500},
 			gotoui = {"game_MiniGame",},
 		},
 		[7]=
@@ -115,7 +115,7 @@ return {
 			task_instruction = "开启5个幸运彩贝",
 			task_award_icon = {"ty_icon_hytb","ty_icon_jb_30y"},
 			task_award_instruction = {"活跃度","金币"},
-			task_award_count = {30,25000},
+			task_award_count = {30,2500},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[8]=

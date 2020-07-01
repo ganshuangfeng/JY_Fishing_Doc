@@ -916,7 +916,7 @@ return {
 			id = 1,
 			award_id = 1001,
 			asset_type = "jing_bi",
-			asset_count = 8000,
+			asset_count = 800,
 			get_weight = 1,
 		},
 		[2]=
@@ -932,7 +932,7 @@ return {
 			id = 3,
 			award_id = 1002,
 			asset_type = "jing_bi",
-			asset_count = 25000,
+			asset_count = 2500,
 			get_weight = 1,
 		},
 		[4]=
@@ -948,7 +948,7 @@ return {
 			id = 5,
 			award_id = 1003,
 			asset_type = "jing_bi",
-			asset_count = 15000,
+			asset_count = 1500,
 			get_weight = 1,
 		},
 		[6]=
@@ -964,7 +964,7 @@ return {
 			id = 7,
 			award_id = 1004,
 			asset_type = "jing_bi",
-			asset_count = 20000,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[8]=
@@ -980,7 +980,7 @@ return {
 			id = 9,
 			award_id = 1005,
 			asset_type = "jing_bi",
-			asset_count = 25000,
+			asset_count = 2500,
 			get_weight = 1,
 		},
 		[10]=
@@ -996,7 +996,7 @@ return {
 			id = 11,
 			award_id = 1006,
 			asset_type = "jing_bi",
-			asset_count = 35000,
+			asset_count = 3500,
 			get_weight = 1,
 		},
 		[12]=
@@ -1012,7 +1012,7 @@ return {
 			id = 13,
 			award_id = 1007,
 			asset_type = "jing_bi",
-			asset_count = 25000,
+			asset_count = 2500,
 			get_weight = 1,
 		},
 		[14]=
@@ -1092,7 +1092,7 @@ return {
 			id = 23,
 			award_id = 2001,
 			asset_type = "jing_bi",
-			asset_count = 20000,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[24]=
@@ -1116,7 +1116,7 @@ return {
 			id = 26,
 			award_id = 2002,
 			asset_type = "prop_tiny_game_coin",
-			asset_count = 50000,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[27]=
@@ -1124,7 +1124,7 @@ return {
 			id = 27,
 			award_id = 2003,
 			asset_type = "jing_bi",
-			asset_count = 50000,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[28]=
@@ -1148,7 +1148,7 @@ return {
 			id = 30,
 			award_id = 2004,
 			asset_type = "prop_tiny_game_coin",
-			asset_count = 100000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[31]=
@@ -1156,7 +1156,7 @@ return {
 			id = 31,
 			award_id = 2005,
 			asset_type = "fish_coin",
-			asset_count = 100000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[32]=
@@ -1164,7 +1164,7 @@ return {
 			id = 32,
 			award_id = 2005,
 			asset_type = "prop_tiny_game_coin",
-			asset_count = 100000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 	},

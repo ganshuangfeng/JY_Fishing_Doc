@@ -2022,6 +2022,7 @@ return {
 			process = {10000,30000,50000,80000,1000000,-1},
 			awards = {101,102,103,104,105},
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 	},
 	source=
