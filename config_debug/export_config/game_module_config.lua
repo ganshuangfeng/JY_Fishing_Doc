@@ -2294,7 +2294,7 @@ return {
 			id = 235,
 			key = "by3d_act_jc",
 			desc = "3D捕鱼奖池",
-			lua = "BY3DJCManage",
+			lua = "BY3DJCManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
