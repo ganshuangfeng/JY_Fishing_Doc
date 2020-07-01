@@ -321,7 +321,7 @@ return {
 			line = 8,
 			config_id = 1,
 			index = 8,
-			item = "prop_fish_lock",
+			item = "prop_3d_fish_lock",
 			num = 3,
 			weight = 3699,
 			name = "锁定*3",

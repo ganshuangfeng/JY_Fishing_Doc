@@ -5130,8 +5130,8 @@ return {
 			id = 21315,
 			enable = 1,
 			name = "开炮送红包",
-			own_type = "p_3dbuyu_goldsumtest",
-			task_enum = "common",
+			own_type = "normal",
+			task_enum = "by_3d_fire_gift_task",
 			process_id = 21315,
 			is_reset = 1,
 			reset_delay = 1,
@@ -5144,8 +5144,8 @@ return {
 			id = 21316,
 			enable = 1,
 			name = "开炮送红包",
-			own_type = "p_3dbuyu_goldsumtest",
-			task_enum = "common",
+			own_type = "normal",
+			task_enum = "by_3d_fire_gift_task",
 			process_id = 21316,
 			is_reset = 1,
 			reset_delay = 1,
@@ -5158,8 +5158,8 @@ return {
 			id = 21317,
 			enable = 1,
 			name = "开炮送红包",
-			own_type = "p_3dbuyu_goldsumtest",
-			task_enum = "common",
+			own_type = "normal",
+			task_enum = "by_3d_fire_gift_task",
 			process_id = 21317,
 			is_reset = 1,
 			reset_delay = 1,
@@ -5172,8 +5172,8 @@ return {
 			id = 21318,
 			enable = 1,
 			name = "开炮送红包",
-			own_type = "p_3dbuyu_goldsumtest",
-			task_enum = "common",
+			own_type = "normal",
+			task_enum = "by_3d_fire_gift_task",
 			process_id = 21318,
 			is_reset = 1,
 			reset_delay = 1,
@@ -10497,6 +10497,8 @@ return {
 			id = 244,
 			source_id = 185,
 			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[245]=
 		{
@@ -10554,6 +10556,8 @@ return {
 			id = 252,
 			source_id = 186,
 			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[253]=
 		{
@@ -10611,6 +10615,8 @@ return {
 			id = 260,
 			source_id = 187,
 			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[261]=
 		{
@@ -10668,6 +10674,8 @@ return {
 			id = 268,
 			source_id = 188,
 			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[269]=
 		{
@@ -10725,6 +10733,8 @@ return {
 			id = 276,
 			source_id = 189,
 			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[277]=
 		{
@@ -10782,6 +10792,8 @@ return {
 			id = 284,
 			source_id = 190,
 			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[285]=
 		{
