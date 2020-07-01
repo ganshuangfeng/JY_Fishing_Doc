@@ -1124,7 +1124,7 @@ return {
 		[82]=
 		{
 			id = 82,
-			enable = 1,
+			enable = 0,
 			name = "新玩家3D捕鱼红包任务(神秘海域)",
 			own_type = "new_player_buyu_task",
 			task_enum = "new_player_buyu_task",
@@ -1138,7 +1138,7 @@ return {
 		[83]=
 		{
 			id = 83,
-			enable = 1,
+			enable = 0,
 			name = "新玩家3D捕鱼红包任务(海底宝藏)",
 			own_type = "new_player_buyu_task",
 			task_enum = "new_player_buyu_task",
@@ -1152,7 +1152,7 @@ return {
 		[84]=
 		{
 			id = 84,
-			enable = 1,
+			enable = 0,
 			name = "新玩家3D捕鱼红包任务(藏宝海湾)",
 			own_type = "new_player_buyu_task",
 			task_enum = "new_player_buyu_task",
