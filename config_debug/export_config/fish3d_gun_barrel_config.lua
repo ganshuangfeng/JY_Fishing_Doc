@@ -9,6 +9,7 @@ return {
 			skin_id = 1,
 			power_id = 1,
 			skill_id = 1,
+			collocation = "系统赠送",
 		},
 		[2]=
 		{
@@ -19,6 +20,7 @@ return {
 			power_id = 1,
 			skill_id = 1,
 			lock_id = 4,
+			collocation = "连续签到获得",
 		},
 		[3]=
 		{
@@ -29,6 +31,7 @@ return {
 			power_id = 1,
 			skill_id = 1,
 			lock_id = 2,
+			collocation = "VIP3开启",
 		},
 		[4]=
 		{
@@ -39,6 +42,7 @@ return {
 			power_id = 1,
 			skill_id = 2,
 			lock_id = 3,
+			collocation = "VIP5开启",
 		},
 		[5]=
 		{
@@ -49,6 +53,7 @@ return {
 			power_id = 2,
 			skill_id = 3,
 			lock_id = 1,
+			collocation = "礼包购买",
 		},
 		[6]=
 		{
@@ -59,6 +64,7 @@ return {
 			power_id = 1,
 			skill_id = 4,
 			lock_id = 1,
+			collocation = "30万金币购买",
 		},
 		[7]=
 		{
@@ -69,6 +75,7 @@ return {
 			power_id = 1,
 			skill_id = 5,
 			lock_id = 1,
+			collocation = "6元购买",
 		},
 	},
 	skin=
