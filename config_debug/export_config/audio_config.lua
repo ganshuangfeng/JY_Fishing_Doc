@@ -3280,66 +3280,67 @@ return {
 		bgm_by_siwang9=
 		{
 			name = "bgm_by_siwang9",
-			audio_name = "bgm_3dby_siwang1.mp3",
+			audio_name = "bgm_3dby_siwang0.mp3",
 			desc = "10小水母",
 		},
 		bgm_by_siwang10=
 		{
 			name = "bgm_by_siwang10",
-			audio_name = "bgm_3dby_siwang2.mp3",
+			audio_name = "bgm_3dby_siwang1.mp3",
 			desc = "12小章鱼",
 		},
 		bgm_by_siwang11=
 		{
 			name = "bgm_by_siwang11",
-			audio_name = "bgm_3dby_siwang3.mp3",
+			audio_name = "bgm_3dby_siwang6.mp3",
 			desc = "15小海龟",
 		},
 		bgm_by_siwang12=
 		{
 			name = "bgm_by_siwang12",
-			audio_name = "bgm_3dby_siwang4.mp3",
+			audio_name = "bgm_3dby_siwang7.mp3",
 			desc = "18狮子鱼",
 		},
 		bgm_by_siwang13=
 		{
 			name = "bgm_by_siwang13",
-			audio_name = "bgm_3dby_siwang5.mp3",
+			audio_name = "bgm_3dby_siwang8.mp3",
 			desc = "20蝴蝶鱼",
 		},
 		bgm_by_siwang14=
 		{
 			name = "bgm_by_siwang14",
-			audio_name = "bgm_3dby_siwang6.mp3",
+			audio_name = "bgm_3dby_siwang9.mp3",
 			desc = "25巨大小丑鱼",
 		},
 		bgm_by_siwang15=
 		{
 			name = "bgm_by_siwang15",
-			audio_name = "bgm_3dby_siwang7.mp3",
+			audio_name = "bgm_3dby_siwang10.mp3",
 			desc = "30巨大灯笼鱼",
 		},
 		bgm_by_siwang16=
 		{
 			name = "bgm_by_siwang16",
-			audio_name = "bgm_3dby_siwang8.mp3",
+			audio_name = "bgm_3dby_siwang13.mp3",
 			desc = "35巨大燕鱼",
 		},
 		bgm_by_siwang17=
 		{
 			name = "bgm_by_siwang17",
-			audio_name = "bgm_3dby_siwang9.mp3",
+			audio_name = "bgm_3dby_siwang14.mp3",
 			desc = "40魔鬼鱼",
 		},
 		bgm_by_siwang18=
 		{
 			name = "bgm_by_siwang18",
-			audio_name = "bgm_3dby_siwang10.mp3",
+			audio_name = "bgm_3dby_siwang12.mp3",
 			desc = "60虎鲸",
 		},
 		bgm_by_siwang19=
 		{
 			name = "bgm_by_siwang19",
+			audio_name = "bgm_3dby_siwang22.mp3",
 			desc = "炸弹鱼",
 		},
 		bgm_by_siwang20=
@@ -3351,30 +3352,31 @@ return {
 		bgm_by_siwang21=
 		{
 			name = "bgm_by_siwang21",
+			audio_name = "bgm_3dby_siwang21.mp3",
 			desc = "黄金炸弹鱼",
 		},
 		bgm_by_siwang22=
 		{
 			name = "bgm_by_siwang22",
-			audio_name = "bgm_by_siwang12.mp3",
+			audio_name = "bgm_3dby_siwang17.mp3",
 			desc = "100~120黄金狮子鱼",
 		},
 		bgm_by_siwang23=
 		{
 			name = "bgm_by_siwang23",
-			audio_name = "bgm_by_siwang26.mp3",
+			audio_name = "bgm_3dby_siwang18.mp3",
 			desc = "120~140黄金海龟",
 		},
 		bgm_by_siwang24=
 		{
 			name = "bgm_by_siwang24",
-			audio_name = "bgm_by_siwang6.mp3",
+			audio_name = "bgm_by_siwang8.mp3",
 			desc = "130~150黄金河豚",
 		},
 		bgm_by_siwang25=
 		{
 			name = "bgm_by_siwang25",
-			audio_name = "bgm_by_siwang7.mp3",
+			audio_name = "bgm_3dby_siwang20.mp3",
 			desc = "140~160金蟾",
 		},
 		bgm_by_siwang26=
@@ -3398,41 +3400,49 @@ return {
 		bgm_by_siwang29=
 		{
 			name = "bgm_by_siwang29",
+			audio_name = "bgm_3dby_siwang16.mp3",
 			desc = "穿云蟹",
 		},
 		bgm_by_siwang30=
 		{
 			name = "bgm_by_siwang30",
+			audio_name = "bgm_3dby_siwang16.mp3",
 			desc = "电磁蟹",
 		},
 		bgm_by_siwang31=
 		{
 			name = "bgm_by_siwang31",
+			audio_name = "bgm_3dby_siwang16.mp3",
 			desc = "奇遇蟹",
 		},
 		bgm_by_siwang32=
 		{
 			name = "bgm_by_siwang32",
+			audio_name = "bgm_by_siwang25.mp3",
 			desc = "宝藏章鱼",
 		},
 		bgm_by_siwang33=
 		{
 			name = "bgm_by_siwang33",
+			audio_name = "bgm_by_siwang31.mp3",
 			desc = "美人鱼",
 		},
 		bgm_by_siwang34=
 		{
 			name = "bgm_by_siwang34",
+			audio_name = "bgm_3dby_siwang15.mp3",
 			desc = "骰子龟",
 		},
 		bgm_by_siwang35=
 		{
 			name = "bgm_by_siwang35",
+			audio_name = "bgm_by_siwang11.mp3",
 			desc = "金龙转盘",
 		},
 		bgm_by_siwang36=
 		{
 			name = "bgm_by_siwang36",
+			audio_name = "bgm_by_siwang18.mp3",
 			desc = "炽火龙王",
 		},
 		bgm_by_siwang37=
@@ -3448,7 +3458,7 @@ return {
 		bgm_by_siwang39=
 		{
 			name = "bgm_by_siwang39",
-			audio_name = "bgm_by_siwang8.mp3",
+			audio_name = "bgm_3dby_siwang19.mp3",
 			desc = "霸王蟹",
 		},
 		bgm_by_siwang40=
@@ -3499,7 +3509,7 @@ return {
 		bgm_by_siwang48=
 		{
 			name = "bgm_by_siwang48",
-			audio_name = "bgm_by_siwang18.mp3",
+			audio_name = "bgm_by_siwang30.mp3",
 			desc = "鳄鱼",
 		},
 		bgm_by_siwang49=
