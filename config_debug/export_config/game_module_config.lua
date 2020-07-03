@@ -2265,9 +2265,9 @@ return {
 			key = "by_drb_cs",
 			desc = "3D捕鱼测试排行榜",
 			lua = "BYDRBCSManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[233]=
 		{
@@ -2295,6 +2295,16 @@ return {
 			key = "by3d_act_jc",
 			desc = "3D捕鱼奖池",
 			lua = "BY3DJCManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[236]=
+		{
+			id = 236,
+			key = "by3d_kpshb",
+			desc = "3D捕鱼开炮送红包",
+			lua = "BY3DKPSHBManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

@@ -230,7 +230,7 @@ return {
 		{
 			id = 2,
 			area = "top",
-			group_list = "64#",
+			group_list = "64#71#",
 		},
 		[3]=
 		{
@@ -674,6 +674,12 @@ return {
 		{
 			id = 70,
 			parm = {"by3d_act_jc","explain"},
+			is_on_off = 1,
+		},
+		[71]=
+		{
+			id = 71,
+			parm = {"by3d_kpshb",},
 			is_on_off = 1,
 		},
 	},

@@ -246,16 +246,6 @@ return {
 			first_ctor_min_round = 2,
 			power = 10,
 		},
-		[3]=
-		{
-			no = 3,
-			type = "boss",
-			ctor_in_min_round = 2,
-			ctor_in_max_round = 2,
-			ctor_count = 9999999999,
-			first_ctor_min_round = 1,
-			power = 20,
-		},
 	},
 	image_cfg=
 	{

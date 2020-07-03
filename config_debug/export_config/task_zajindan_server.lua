@@ -6949,7 +6949,7 @@ return {
 			id = 178,
 			process_id = 21126,
 			source_id = 178,
-			process = 10,
+			process = 30,
 			awards = 294,
 			get_award_type = "nor",
 		},
@@ -10344,8 +10344,8 @@ return {
 		{
 			id = 223,
 			source_id = 178,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 0,
+			source_type = "buyu_3d_spend_num",
+			condition_id = 257,
 		},
 		[224]=
 		{
@@ -15429,6 +15429,14 @@ return {
 			condition_id = 256,
 			condition_name = "fish_game_id",
 			condition_value = 5,
+			judge_type = 2,
+		},
+		[398]=
+		{
+			id = 398,
+			condition_id = 257,
+			condition_name = "fish_game_id",
+			condition_value = {1,2,},
 			judge_type = 2,
 		},
 	},

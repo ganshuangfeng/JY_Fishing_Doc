@@ -110,7 +110,7 @@ return {
 			id = 1,
 			task_id = 21126,
 			name = "新手任务任务1",
-			desc = "3D捕鱼中捕获任意10条鱼",
+			desc = "3D捕鱼中开炮30次",
 			icon_image = "ty_icon_flq1",
 			award_num = 30,
 			gotoUI = {"game_Fishing3DHall",},
