@@ -13,6 +13,12 @@ return {
 			area = "center1",
 			group_list = "15#",
 		},
+		[3]=
+		{
+			id = 3,
+			area = "top_right",
+			group_list = "72#",
+		},
 	},
 	xxlsh_game=
 	{
@@ -224,7 +230,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "43#40#26",
+			group_list = "72#43#40#26",
 		},
 		[2]=
 		{
@@ -252,6 +258,12 @@ return {
 			id = 2,
 			area = "center",
 			group_list = "67#68#",
+		},
+		[3]=
+		{
+			id = 3,
+			area = "top_right",
+			group_list = "72#",
 		},
 	},
 	all_enter=
@@ -680,6 +692,12 @@ return {
 		{
 			id = 71,
 			parm = {"by3d_kpshb",},
+			is_on_off = 1,
+		},
+		[72]=
+		{
+			id = 72,
+			parm = {"sys_dui_huan",},
 			is_on_off = 1,
 		},
 	},
