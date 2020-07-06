@@ -4,11 +4,42 @@ return {
 		[1]=
 		{
 			line = 1,
-			default_count = 4,
 			vip_limit_start = 5,
 			vip_start_count = 2,
-			vip_limit_max = 3,
-			free_reset_time = 21600,
+			free_reset_time = 6,
+		},
+	},
+	open_config=
+	{
+		[1]=
+		{
+			id = 1,
+			level_limit = 0,
+			vip_limit = 0,
+		},
+		[2]=
+		{
+			id = 2,
+			level_limit = 10,
+			vip_limit = 0,
+		},
+		[3]=
+		{
+			id = 3,
+			level_limit = 10,
+			vip_limit = 1,
+		},
+		[4]=
+		{
+			id = 4,
+			level_limit = 10,
+			vip_limit = 3,
+		},
+		[5]=
+		{
+			id = 5,
+			level_limit = 10,
+			vip_limit = 5,
 		},
 	},
 	config=

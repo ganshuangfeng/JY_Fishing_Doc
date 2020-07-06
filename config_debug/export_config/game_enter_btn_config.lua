@@ -93,6 +93,12 @@ return {
 			id = 2,
 			area = "down",
 		},
+		[3]=
+		{
+			id = 3,
+			area = "top",
+			group_list = "72#",
+		},
 	},
 	hall_config=
 	{
@@ -230,7 +236,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "72#43#40#26",
+			group_list = "43#40#26#72",
 		},
 		[2]=
 		{

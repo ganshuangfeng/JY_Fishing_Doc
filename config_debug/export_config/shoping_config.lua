@@ -8892,7 +8892,7 @@ return {
 			use_count = 100,
 			num = 1,
 			gift_asset_type = {"jing_bi",},
-			gift_asset_count = {10000,},
+			gift_asset_count = {100000,},
 			item_id = 57,
 			max = 9999999,
 			is_show = 1,
