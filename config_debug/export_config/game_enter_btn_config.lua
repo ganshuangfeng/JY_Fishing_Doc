@@ -248,7 +248,13 @@ return {
 		{
 			id = 3,
 			area = "Right_top",
-			group_list = "69#",
+			group_list = "69#73#",
+		},
+		[4]=
+		{
+			id = 4,
+			area = "down2",
+			group_list = "74#",
 		},
 	},
 	fishing3d_hall=
@@ -704,6 +710,18 @@ return {
 		{
 			id = 72,
 			parm = {"sys_dui_huan",},
+			is_on_off = 1,
+		},
+		[73]=
+		{
+			id = 73,
+			parm = {"by_bossts",},
+			is_on_off = 1,
+		},
+		[74]=
+		{
+			id = 74,
+			parm = {"sys_active_daily_task",},
 			is_on_off = 1,
 		},
 	},

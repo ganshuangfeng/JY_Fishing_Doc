@@ -2309,5 +2309,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[237]=
+		{
+			id = 237,
+			key = "by_bossts",
+			desc = "boss来了",
+			lua = "BYBossTSManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
