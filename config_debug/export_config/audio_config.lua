@@ -4270,8 +4270,20 @@ return {
 		bgm_sdbgj_bg_swk=
 		{
 			name = "bgm_sdbgj_bg_swk",
-			audio_name = "bgm_sdbgj_bg_swk.mp3",
+			audio_name = "bgm_sdbgj_bgj_yj.mp3",
 			desc = "BIG GAME孙悟空摇奖",
+		},
+		bgm_sdbgj_swk_gongji=
+		{
+			name = "bgm_sdbgj_swk_gongji",
+			audio_name = "bgm_sdbgj_jgb.mp3",
+			desc = "孙悟空卡牌攻击白骨精时音效",
+		},
+		bgm_sdbgj_swk_bgj_duihua=
+		{
+			name = "bgm_sdbgj_swk_bgj_duihua",
+			audio_name = "bgm_sdbgj_swk_bgj_duihua.mp3",
+			desc = "免费游戏前白骨精对话",
 		},
 	},
 }

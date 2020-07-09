@@ -2019,8 +2019,8 @@ return {
 			id = 85,
 			process_id = 85,
 			source_id = 85,
-			process = {10000,30000,50000,80000,1000000,-1},
-			awards = {101,102,103,104,105},
+			process = {800000,2500000,12500000,25000000,75000000,230000000,-1},
+			awards = {101,102,103,104,105,106,},
 			get_award_type = "nor",
 			is_auto_get_award = 1,
 		},
@@ -3965,7 +3965,7 @@ return {
 			id = 96,
 			award_id = 101,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[97]=
@@ -3973,7 +3973,7 @@ return {
 			id = 97,
 			award_id = 102,
 			asset_type = "shop_gold_sum",
-			asset_count = 1000,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[98]=
@@ -3981,7 +3981,7 @@ return {
 			id = 98,
 			award_id = 103,
 			asset_type = "shop_gold_sum",
-			asset_count = 3000,
+			asset_count = 500,
 			get_weight = 1,
 		},
 		[99]=
@@ -3989,13 +3989,21 @@ return {
 			id = 99,
 			award_id = 104,
 			asset_type = "shop_gold_sum",
-			asset_count = 5000,
+			asset_count = 1000,
 			get_weight = 1,
 		},
 		[100]=
 		{
 			id = 100,
 			award_id = 105,
+			asset_type = "shop_gold_sum",
+			asset_count = 3000,
+			get_weight = 1,
+		},
+		[101]=
+		{
+			id = 101,
+			award_id = 106,
 			asset_type = "shop_gold_sum",
 			asset_count = 10000,
 			get_weight = 1,
