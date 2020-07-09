@@ -4108,7 +4108,7 @@ return {
 		bgm_sdbgj_yanwu=
 		{
 			name = "bgm_sdbgj_yanwu",
-			audio_name = "bgm_sdbgj_yanwu.wav",
+			audio_name = "bgm_sdbgj_yanwu.mp3",
 			desc = "白骨精烟雾音效",
 		},
 		bgm_sdbgj_swk_xc=
@@ -4120,7 +4120,7 @@ return {
 		bgm_sdbgj_swk_huo=
 		{
 			name = "bgm_sdbgj_swk_huo",
-			audio_name = "bgm_sdbgj_swk_huo.wav",
+			audio_name = "bgm_sdbgj_swk_huo.mp3",
 			desc = "孙悟空火焰音效",
 		},
 		bgm_sdbgj_bg_skill=
@@ -4138,7 +4138,7 @@ return {
 		bgm_sdbgj_hyjj=
 		{
 			name = "bgm_sdbgj_hyjj",
-			audio_name = "bgm_sdbgj_hyjj.wav",
+			audio_name = "bgm_sdbgj_hyjj.mp3",
 			desc = "孙悟空技能-火眼金睛-妖怪哪里跑",
 		},
 		bgm_sdbgj_ts_xc=
@@ -4174,13 +4174,13 @@ return {
 		bgm_sdbgj_bgj_yj=
 		{
 			name = "bgm_sdbgj_bgj_yj",
-			audio_name = "bgm_xxl_lucky1.mp3",
+			audio_name = "bgm_sdbgj_bgj_yj.mp3",
 			desc = "白骨精摇奖音效",
 		},
 		bgm_sdbgj_bgj_sl=
 		{
 			name = "bgm_sdbgj_bgj_sl",
-			audio_name = "bgm_xxl_lucky4xiao",
+			audio_name = "bgm_sdbgj_bgj_sl.mp3",
 			desc = "洒落白骨精音效",
 		},
 		bgm_sdbgj_swk_ui=
@@ -4192,7 +4192,7 @@ return {
 		bgm_sdbgj_swk_yj=
 		{
 			name = "bgm_sdbgj_swk_yj",
-			audio_name = "bgm_sdbgj_swk_yj.wav",
+			audio_name = "bgm_sdbgj_swk_yj.mp3",
 			desc = "孙悟空技能摇奖音效",
 		},
 		bgm_sdbgj_jgb=
@@ -4254,6 +4254,24 @@ return {
 			name = "bgm_sdbgj_jiangli4",
 			audio_name = "bgm_sdbgj_jiangli4.mp3",
 			desc = "结算4（暂时屏蔽背景音乐）",
+		},
+		bgm_sdbgj_free_chufa=
+		{
+			name = "bgm_sdbgj_free_chufa",
+			audio_name = "bgm_csxxl_caishendanchufa.mp3",
+			desc = "免费游戏触发音效",
+		},
+		bgm_sdbgj_bg_bgj=
+		{
+			name = "bgm_sdbgj_bg_bgj",
+			audio_name = "bgm_sdbgj_bg_bgj.mp3",
+			desc = "BIG GAME白骨精出现",
+		},
+		bgm_sdbgj_bg_swk=
+		{
+			name = "bgm_sdbgj_bg_swk",
+			audio_name = "bgm_sdbgj_bg_swk.mp3",
+			desc = "BIG GAME孙悟空摇奖",
 		},
 	},
 }
