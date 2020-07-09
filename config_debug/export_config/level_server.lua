@@ -5,145 +5,145 @@ return {
 		{
 			id = 1,
 			level = 1,
-			score = 375000,
+			score = 75000,
 		},
 		[2]=
 		{
 			id = 2,
 			level = 2,
-			score = 1125000,
+			score = 75000,
 		},
 		[3]=
 		{
 			id = 3,
 			level = 3,
-			score = 1875000,
+			score = 75000,
 		},
 		[4]=
 		{
 			id = 4,
 			level = 4,
-			score = 2250000,
+			score = 112500,
 		},
 		[5]=
 		{
 			id = 5,
 			level = 5,
-			score = 3750000,
+			score = 112500,
 		},
 		[6]=
 		{
 			id = 6,
 			level = 6,
-			score = 5625000,
+			score = 150000,
 		},
 		[7]=
 		{
 			id = 7,
 			level = 7,
-			score = 9375000,
+			score = 150000,
 		},
 		[8]=
 		{
 			id = 8,
 			level = 8,
-			score = 15000000,
+			score = 187500,
 		},
 		[9]=
 		{
 			id = 9,
 			level = 9,
-			score = 18750000,
+			score = 187500,
 		},
 		[10]=
 		{
 			id = 10,
 			level = 10,
-			score = 37500000,
+			score = 225000,
 		},
 		[11]=
 		{
 			id = 11,
 			level = 11,
-			score = 56250000,
+			score = 225000,
 		},
 		[12]=
 		{
 			id = 12,
 			level = 12,
-			score = 93750000,
+			score = 2625000,
 		},
 		[13]=
 		{
 			id = 13,
 			level = 13,
-			score = 150000000,
+			score = 2625000,
 		},
 		[14]=
 		{
 			id = 14,
 			level = 14,
-			score = 187500000,
+			score = 3000000,
 		},
 		[15]=
 		{
 			id = 15,
 			level = 15,
-			score = 225000000,
+			score = 3000000,
 		},
 		[16]=
 		{
 			id = 16,
 			level = 16,
-			score = 281250000,
+			score = 3375000,
 		},
 		[17]=
 		{
 			id = 17,
 			level = 17,
-			score = 337500000,
+			score = 3375000,
 		},
 		[18]=
 		{
 			id = 18,
 			level = 18,
-			score = 375000000,
+			score = 3750000,
 		},
 		[19]=
 		{
 			id = 19,
 			level = 19,
-			score = 937500000,
+			score = 3750000,
 		},
 		[20]=
 		{
 			id = 20,
 			level = 20,
-			score = 1500000000,
+			score = 5625000,
 		},
 		[21]=
 		{
 			id = 21,
 			level = 21,
-			score = 1875000000,
+			score = 5625000,
 		},
 		[22]=
 		{
 			id = 22,
 			level = 22,
-			score = 2250000000,
+			score = 7500000,
 		},
 		[23]=
 		{
 			id = 23,
 			level = 23,
-			score = 2812500000,
+			score = 7500000,
 		},
 		[24]=
 		{
 			id = 24,
 			level = 24,
-			score = 3375000000,
+			score = 11250000,
 		},
 		[25]=
 		{
@@ -157,193 +157,193 @@ return {
 		{
 			id = 1,
 			level = 2,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {200,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {72000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[2]=
 		{
 			id = 2,
 			level = 3,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {72000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[3]=
 		{
 			id = 3,
 			level = 4,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {72000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[4]=
 		{
 			id = 4,
 			level = 5,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {108000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[5]=
 		{
 			id = 5,
 			level = 6,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {108000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[6]=
 		{
 			id = 6,
 			level = 7,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {144000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[7]=
 		{
 			id = 7,
 			level = 8,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {144000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[8]=
 		{
 			id = 8,
 			level = 9,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {180000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[9]=
 		{
 			id = 9,
 			level = 10,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {180000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[10]=
 		{
 			id = 10,
 			level = 11,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {216000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[11]=
 		{
 			id = 11,
 			level = 12,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {216000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[12]=
 		{
 			id = 12,
 			level = 13,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {2520000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[13]=
 		{
 			id = 13,
 			level = 14,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {2520000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[14]=
 		{
 			id = 14,
 			level = 15,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {2880000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[15]=
 		{
 			id = 15,
 			level = 16,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {2880000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[16]=
 		{
 			id = 16,
 			level = 17,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {3240000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[17]=
 		{
 			id = 17,
 			level = 18,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {3240000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[18]=
 		{
 			id = 18,
 			level = 19,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {3600000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[19]=
 		{
 			id = 19,
 			level = 20,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {3600000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[20]=
 		{
 			id = 20,
 			level = 21,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {5400000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[21]=
 		{
 			id = 21,
 			level = 22,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {5400000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[22]=
 		{
 			id = 22,
 			level = 23,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {7200000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[23]=
 		{
 			id = 23,
 			level = 24,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {7200000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 		[24]=
 		{
 			id = 24,
 			level = 25,
-			asset_type = {"jing_bi","prop_3d_fish_lock"},
-			asset_count = {500,3,},
-			asset_image = {"com_award_icon_jingbi","3dby_btn_sd"},
+			asset_type = {"fish_coin",},
+			asset_count = {10800000,},
+			asset_image = {"com_award_icon_yubi",},
 		},
 	},
 	dress_data=

@@ -242,7 +242,7 @@ return {
 		{
 			id = 2,
 			area = "top",
-			group_list = "64#71#",
+			group_list = "64#78#",
 		},
 		[3]=
 		{
@@ -269,13 +269,36 @@ return {
 		{
 			id = 2,
 			area = "center",
-			group_list = "67#68#",
 		},
 		[3]=
 		{
 			id = 3,
 			area = "top_right",
 			group_list = "72#",
+		},
+		[4]=
+		{
+			id = 4,
+			area = "center2",
+			group_list = "71#",
+		},
+		[5]=
+		{
+			id = 5,
+			area = "center3",
+			group_list = "75#",
+		},
+		[6]=
+		{
+			id = 6,
+			area = "center4",
+			group_list = "76#67",
+		},
+		[7]=
+		{
+			id = 7,
+			area = "center5",
+			group_list = "77#68",
 		},
 	},
 	all_enter=
@@ -703,7 +726,7 @@ return {
 		[71]=
 		{
 			id = 71,
-			parm = {"by3d_kpshb",},
+			parm = {"by3d_kpshb","2"},
 			is_on_off = 1,
 		},
 		[72]=
@@ -722,6 +745,30 @@ return {
 		{
 			id = 74,
 			parm = {"sys_active_daily_task",},
+			is_on_off = 1,
+		},
+		[75]=
+		{
+			id = 75,
+			parm = {"by3d_kpshb","3"},
+			is_on_off = 1,
+		},
+		[76]=
+		{
+			id = 76,
+			parm = {"by3d_kpshb","4"},
+			is_on_off = 1,
+		},
+		[77]=
+		{
+			id = 77,
+			parm = {"by3d_kpshb","5"},
+			is_on_off = 1,
+		},
+		[78]=
+		{
+			id = 78,
+			parm = {"by3d_kpshb","game"},
 			is_on_off = 1,
 		},
 	},
