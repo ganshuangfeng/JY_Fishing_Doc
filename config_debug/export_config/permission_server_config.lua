@@ -1377,111 +1377,133 @@ return {
 		{
 			key = "fishing3d_2",
 			name = "神秘海域",
+			condi = 204,
 		},
 		fishing3d_2_1=
 		{
 			key = "fishing3d_2_1",
 			name = "捕鱼神秘海域100倍",
+			condi = 205,
 		},
 		fishing3d_2_2=
 		{
 			key = "fishing3d_2_2",
 			name = "捕鱼神秘海域200倍",
+			condi = 206,
 		},
 		fishing3d_2_3=
 		{
 			key = "fishing3d_2_3",
 			name = "捕鱼神秘海域300倍",
+			condi = 207,
 		},
 		fishing3d_2_4=
 		{
 			key = "fishing3d_2_4",
 			name = "捕鱼神秘海域400倍",
+			condi = 208,
 		},
 		fishing3d_2_5=
 		{
 			key = "fishing3d_2_5",
 			name = "捕鱼神秘海域500倍",
+			condi = 209,
 		},
 		fishing3d_2_6=
 		{
 			key = "fishing3d_2_6",
 			name = "捕鱼神秘海域600倍",
+			condi = 210,
 		},
 		fishing3d_2_7=
 		{
 			key = "fishing3d_2_7",
 			name = "捕鱼神秘海域700倍",
+			condi = 211,
 		},
 		fishing3d_2_8=
 		{
 			key = "fishing3d_2_8",
 			name = "捕鱼神秘海域800倍",
+			condi = 212,
 		},
 		fishing3d_2_9=
 		{
 			key = "fishing3d_2_9",
 			name = "捕鱼神秘海域900倍",
+			condi = 213,
 		},
 		fishing3d_2_10=
 		{
 			key = "fishing3d_2_10",
 			name = "捕鱼神秘海域1000倍",
+			condi = 214,
 		},
 		fishing3d_3=
 		{
 			key = "fishing3d_3",
 			name = "捕鱼海底宝藏",
+			condi = 215,
 		},
 		fishing3d_3_1=
 		{
 			key = "fishing3d_3_1",
 			name = "捕鱼海底宝藏1000倍",
+			condi = 216,
 		},
 		fishing3d_3_2=
 		{
 			key = "fishing3d_3_2",
 			name = "捕鱼海底宝藏2000倍",
+			condi = 217,
 		},
 		fishing3d_3_3=
 		{
 			key = "fishing3d_3_3",
 			name = "捕鱼海底宝藏3000倍",
+			condi = 218,
 		},
 		fishing3d_3_4=
 		{
 			key = "fishing3d_3_4",
 			name = "捕鱼海底宝藏4000倍",
+			condi = 219,
 		},
 		fishing3d_3_5=
 		{
 			key = "fishing3d_3_5",
 			name = "捕鱼海底宝藏5000倍",
+			condi = 220,
 		},
 		fishing3d_3_6=
 		{
 			key = "fishing3d_3_6",
 			name = "捕鱼海底宝藏6000倍",
+			condi = 221,
 		},
 		fishing3d_3_7=
 		{
 			key = "fishing3d_3_7",
 			name = "捕鱼海底宝藏7000倍",
+			condi = 222,
 		},
 		fishing3d_3_8=
 		{
 			key = "fishing3d_3_8",
 			name = "捕鱼海底宝藏8000倍",
+			condi = 223,
 		},
 		fishing3d_3_9=
 		{
 			key = "fishing3d_3_9",
 			name = "捕鱼海底宝藏9000倍",
+			condi = 224,
 		},
 		fishing3d_3_10=
 		{
 			key = "fishing3d_3_10",
 			name = "捕鱼海底宝藏10000倍",
+			condi = 225,
 		},
 		fishing3d_4=
 		{
@@ -10126,6 +10148,226 @@ return {
 			judge = 3,
 			group = 3,
 			error_desc = "VIP1及以上的用户才可体验",
+		},
+		[556]=
+		{
+			no = 556,
+			id = 204,
+			var = "player_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级1及以上才可解锁",
+		},
+		[557]=
+		{
+			no = 557,
+			id = 205,
+			var = "player_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级1及以上才可解锁",
+		},
+		[558]=
+		{
+			no = 558,
+			id = 206,
+			var = "player_level",
+			value = 2,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级2及以上才可解锁",
+		},
+		[559]=
+		{
+			no = 559,
+			id = 207,
+			var = "player_level",
+			value = 3,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级3及以上才可解锁",
+		},
+		[560]=
+		{
+			no = 560,
+			id = 208,
+			var = "player_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级4及以上才可解锁",
+		},
+		[561]=
+		{
+			no = 561,
+			id = 209,
+			var = "player_level",
+			value = 5,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级5及以上才可解锁",
+		},
+		[562]=
+		{
+			no = 562,
+			id = 210,
+			var = "player_level",
+			value = 6,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级6及以上才可解锁",
+		},
+		[563]=
+		{
+			no = 563,
+			id = 211,
+			var = "player_level",
+			value = 7,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级7及以上才可解锁",
+		},
+		[564]=
+		{
+			no = 564,
+			id = 212,
+			var = "player_level",
+			value = 8,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级8及以上才可解锁",
+		},
+		[565]=
+		{
+			no = 565,
+			id = 213,
+			var = "player_level",
+			value = 9,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级9及以上才可解锁",
+		},
+		[566]=
+		{
+			no = 566,
+			id = 214,
+			var = "player_level",
+			value = 10,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级10及以上才可解锁",
+		},
+		[567]=
+		{
+			no = 567,
+			id = 215,
+			var = "player_level",
+			value = 12,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级12及以上才可解锁",
+		},
+		[568]=
+		{
+			no = 568,
+			id = 216,
+			var = "player_level",
+			value = 12,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级12及以上才可解锁",
+		},
+		[569]=
+		{
+			no = 569,
+			id = 217,
+			var = "player_level",
+			value = 13,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级13及以上才可解锁",
+		},
+		[570]=
+		{
+			no = 570,
+			id = 218,
+			var = "player_level",
+			value = 14,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级14及以上才可解锁",
+		},
+		[571]=
+		{
+			no = 571,
+			id = 219,
+			var = "player_level",
+			value = 15,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级15及以上才可解锁",
+		},
+		[572]=
+		{
+			no = 572,
+			id = 220,
+			var = "player_level",
+			value = 16,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级16及以上才可解锁",
+		},
+		[573]=
+		{
+			no = 573,
+			id = 221,
+			var = "player_level",
+			value = 17,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级17及以上才可解锁",
+		},
+		[574]=
+		{
+			no = 574,
+			id = 222,
+			var = "player_level",
+			value = 18,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级18及以上才可解锁",
+		},
+		[575]=
+		{
+			no = 575,
+			id = 223,
+			var = "player_level",
+			value = 19,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级19及以上才可解锁",
+		},
+		[576]=
+		{
+			no = 576,
+			id = 224,
+			var = "player_level",
+			value = 20,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级20及以上才可解锁",
+		},
+		[577]=
+		{
+			no = 577,
+			id = 225,
+			var = "player_level",
+			value = 21,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要等级21及以上才可解锁",
 		},
 	},
 	share_condition=
