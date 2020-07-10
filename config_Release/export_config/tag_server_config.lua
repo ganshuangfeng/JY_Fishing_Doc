@@ -155,7 +155,7 @@ return {
 		{
 			no = 22,
 			key = "tag_newplayer_buy_activation_gift",
-			name = "购买新人红包6元激活礼包",
+			name = "购买新人福卡6元激活礼包",
 			condi = 0,
 		},
 	},

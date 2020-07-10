@@ -545,6 +545,7 @@ return {
 		{
 			key = "fishing_2",
 			name = "捕鱼深海寻宝",
+			condi = 22,
 		},
 		fishing_2_1=
 		{
@@ -1616,6 +1617,42 @@ return {
 		{
 			key = "fishing3d_5_10",
 			name = "捕鱼深海沉船1000000倍",
+		},
+		tantanle_level=
+		{
+			key = "tantanle_level",
+			name = "弹弹乐 V1orLV5",
+			condi = 226,
+		},
+		sgxxl_level=
+		{
+			key = "sgxxl_level",
+			name = "水果消消乐  V1orLV8",
+			condi = 227,
+		},
+		zjd_level=
+		{
+			key = "zjd_level",
+			name = "砸金蛋  V1orLV11",
+			condi = 228,
+		},
+		fishing_1=
+		{
+			key = "fishing_1",
+			name = "2D捕鱼场解锁  V1orLV12",
+			condi = 229,
+		},
+		shxxl_level=
+		{
+			key = "shxxl_level",
+			name = "水浒消消乐  V1orLV15",
+			condi = 230,
+		},
+		csxxl_level=
+		{
+			key = "csxxl_level",
+			name = "财神消消乐  V1orLV18",
+			condi = 231,
 		},
 	},
 	act_permission=
@@ -10368,6 +10405,116 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "该档次需要等级21及以上才可解锁",
+		},
+		[578]=
+		{
+			no = 578,
+			id = 226,
+			var = "vip_level",
+			value = 1,
+			judge = 2,
+			group = 1,
+			error_desc = "该功能需要v1解锁",
+		},
+		[579]=
+		{
+			no = 579,
+			id = 226,
+			var = "player_level",
+			value = 5,
+			judge = 2,
+			group = 2,
+			error_desc = "该功能需要lv5解锁",
+		},
+		[580]=
+		{
+			no = 580,
+			id = 227,
+			var = "vip_level",
+			value = 1,
+			judge = 2,
+			group = 1,
+			error_desc = "该功能需要v1解锁",
+		},
+		[581]=
+		{
+			no = 581,
+			id = 227,
+			var = "player_level",
+			value = 8,
+			judge = 2,
+			group = 2,
+			error_desc = "该功能需要lv8解锁",
+		},
+		[582]=
+		{
+			no = 582,
+			id = 228,
+			var = "vip_level",
+			value = 1,
+			judge = 2,
+			group = 1,
+			error_desc = "该功能需要v1解锁",
+		},
+		[583]=
+		{
+			no = 583,
+			id = 228,
+			var = "player_level",
+			value = 11,
+			judge = 2,
+			group = 2,
+			error_desc = "该功能需要lv11解锁",
+		},
+		[585]=
+		{
+			no = 585,
+			id = 229,
+			var = "player_level",
+			value = 12,
+			judge = 2,
+			group = 2,
+			error_desc = "该功能需要lv12解锁",
+		},
+		[586]=
+		{
+			no = 586,
+			id = 230,
+			var = "vip_level",
+			value = 1,
+			judge = 2,
+			group = 1,
+			error_desc = "该功能需要v1解锁",
+		},
+		[587]=
+		{
+			no = 587,
+			id = 230,
+			var = "player_level",
+			value = 15,
+			judge = 2,
+			group = 2,
+			error_desc = "该功能需要lv15解锁",
+		},
+		[588]=
+		{
+			no = 588,
+			id = 231,
+			var = "vip_level",
+			value = 1,
+			judge = 2,
+			group = 1,
+			error_desc = "该功能需要v1解锁",
+		},
+		[589]=
+		{
+			no = 589,
+			id = 231,
+			var = "player_level",
+			value = 18,
+			judge = 2,
+			group = 2,
+			error_desc = "该功能需要lv18解锁",
 		},
 	},
 	share_condition=

@@ -5,7 +5,7 @@ return {
 		{
 			no = 1,
 			free_award_start_time = 28800,
-			free_award_end_time = 36000,
+			free_award_end_time = 79200,
 			overtime_get_award_spend = 10000,
 		},
 	},
@@ -488,7 +488,7 @@ return {
 		{
 			no = 14,
 			award_id = 14,
-			award_name = "0.05红包劵",
+			award_name = "0.05福卡",
 			asset_type = "shop_gold_sum",
 			value = 5,
 			first_gift_id = 10275,
@@ -498,7 +498,7 @@ return {
 		{
 			no = 15,
 			award_id = 15,
-			award_name = "0.5红包劵",
+			award_name = "0.5福卡",
 			asset_type = "shop_gold_sum",
 			value = 50,
 			first_gift_id = 10275,

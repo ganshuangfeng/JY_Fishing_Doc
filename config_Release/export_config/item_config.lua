@@ -1342,7 +1342,7 @@ return {
 			is_show_bag = 1,
 			order = 42,
 			name = "召唤",
-			desc = "召唤-3D捕鱼",
+			desc = "召唤彩金鱼",
 			tag = 9,
 		},
 		[104]=
@@ -1384,7 +1384,7 @@ return {
 			is_show_bag = 1,
 			order = 32,
 			name = "冰冻",
-			desc = "冰冻全场鱼-3D捕鱼",
+			desc = "冰冻全场鱼",
 			tag = 9,
 		},
 		[107]=
@@ -1398,7 +1398,7 @@ return {
 			is_show_bag = 1,
 			order = 33,
 			name = "锁定",
-			desc = "锁定攻击鱼-3D捕鱼",
+			desc = "锁定攻击鱼",
 			tag = 9,
 		},
 		[108]=

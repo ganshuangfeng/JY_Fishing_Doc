@@ -364,7 +364,7 @@ return {
 		[13]=
 		{
 			id = 13,
-			award_name = "8.8红包券",
+			award_name = "8.8福卡",
 			jingbi_value = 88000,
 			asset_type = "shop_gold_sum",
 			value = 880,
@@ -372,7 +372,7 @@ return {
 		[14]=
 		{
 			id = 14,
-			award_name = "5.8红包券",
+			award_name = "5.8福卡",
 			jingbi_value = 58000,
 			asset_type = "shop_gold_sum",
 			value = 580,
@@ -380,7 +380,7 @@ return {
 		[15]=
 		{
 			id = 15,
-			award_name = "3.8红包券",
+			award_name = "3.8福卡",
 			jingbi_value = 38000,
 			asset_type = "shop_gold_sum",
 			value = 380,
@@ -388,7 +388,7 @@ return {
 		[16]=
 		{
 			id = 16,
-			award_name = "2.8红包券",
+			award_name = "2.8福卡",
 			jingbi_value = 28000,
 			asset_type = "shop_gold_sum",
 			value = 280,
@@ -396,7 +396,7 @@ return {
 		[17]=
 		{
 			id = 17,
-			award_name = "1.8红包券",
+			award_name = "1.8福卡",
 			jingbi_value = 18000,
 			asset_type = "shop_gold_sum",
 			value = 180,

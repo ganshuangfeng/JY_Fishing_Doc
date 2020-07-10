@@ -236,7 +236,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "43#40#26#72",
+			group_list = "40#43#74#72",
 		},
 		[2]=
 		{
@@ -254,7 +254,7 @@ return {
 		{
 			id = 4,
 			area = "down2",
-			group_list = "74#",
+			group_list = "79#",
 		},
 	},
 	fishing3d_hall=
@@ -318,7 +318,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			parm = {"xycj",},
+			parm = {"sys_flqcj",},
 			is_on_off = 1,
 		},
 		[4]=
@@ -769,6 +769,12 @@ return {
 		{
 			id = 78,
 			parm = {"by3d_kpshb","game"},
+			is_on_off = 1,
+		},
+		[79]=
+		{
+			id = 79,
+			parm = {"sys_by_level","enter2"},
 			is_on_off = 1,
 		},
 	},

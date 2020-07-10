@@ -79,7 +79,7 @@ return {
 			type = "obj_fish_free_bullet",
 			num = 20,
 			real = 0,
-			img = " bygame_icon_danmf2 ",
+			img = " bygame_icon_danmf2",
 			tips = "街机捕鱼专属道具，可免费使用",
 		},
 		[10]=
@@ -177,12 +177,12 @@ return {
 		[14]=
 		{
 			id = 14,
-			info = "0.05红包",
+			info = "0.05福卡",
 		},
 		[15]=
 		{
 			id = 15,
-			info = "0.5红包",
+			info = "0.5福卡",
 		},
 		[16]=
 		{
