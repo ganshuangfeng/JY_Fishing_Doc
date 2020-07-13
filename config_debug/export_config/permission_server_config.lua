@@ -10194,7 +10194,7 @@ return {
 			value = 1,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级1及以上才可解锁",
+			error_desc = "Lv1开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[557]=
 		{
@@ -10204,7 +10204,7 @@ return {
 			value = 1,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级1及以上才可解锁",
+			error_desc = "Lv1开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[558]=
 		{
@@ -10214,7 +10214,7 @@ return {
 			value = 2,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级2及以上才可解锁",
+			error_desc = "Lv1开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[559]=
 		{
@@ -10224,7 +10224,7 @@ return {
 			value = 3,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级3及以上才可解锁",
+			error_desc = "Lv3开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[560]=
 		{
@@ -10234,7 +10234,7 @@ return {
 			value = 4,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级4及以上才可解锁",
+			error_desc = "Lv4开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[561]=
 		{
@@ -10244,7 +10244,7 @@ return {
 			value = 5,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级5及以上才可解锁",
+			error_desc = "Lv5开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[562]=
 		{
@@ -10254,7 +10254,7 @@ return {
 			value = 6,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级6及以上才可解锁",
+			error_desc = "Lv6开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[563]=
 		{
@@ -10264,7 +10264,7 @@ return {
 			value = 7,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级7及以上才可解锁",
+			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[564]=
 		{
@@ -10274,7 +10274,7 @@ return {
 			value = 8,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级8及以上才可解锁",
+			error_desc = "Lv8开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[565]=
 		{
@@ -10284,7 +10284,7 @@ return {
 			value = 9,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级9及以上才可解锁",
+			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[566]=
 		{
@@ -10294,7 +10294,7 @@ return {
 			value = 10,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级10及以上才可解锁",
+			error_desc = "Lv10开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[567]=
 		{
@@ -10304,7 +10304,7 @@ return {
 			value = 12,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级12及以上才可解锁",
+			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[568]=
 		{
@@ -10314,7 +10314,7 @@ return {
 			value = 12,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级12及以上才可解锁",
+			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[569]=
 		{
@@ -10324,7 +10324,7 @@ return {
 			value = 13,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级13及以上才可解锁",
+			error_desc = "Lv13开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[570]=
 		{
@@ -10334,7 +10334,7 @@ return {
 			value = 14,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级14及以上才可解锁",
+			error_desc = "Lv14开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[571]=
 		{
@@ -10344,7 +10344,7 @@ return {
 			value = 15,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级15及以上才可解锁",
+			error_desc = "Lv15开启，在4D捕鱼中开炮可提升等级！",
 		},
 		[572]=
 		{
@@ -10354,7 +10354,7 @@ return {
 			value = 16,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级16及以上才可解锁",
+			error_desc = "Lv16开启，在4D捕鱼中开炮可提升等级！",
 		},
 		[573]=
 		{
@@ -10364,7 +10364,7 @@ return {
 			value = 17,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级17及以上才可解锁",
+			error_desc = "Lv17开启，在4D捕鱼中开炮可提升等级！",
 		},
 		[574]=
 		{
@@ -10374,7 +10374,7 @@ return {
 			value = 18,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级18及以上才可解锁",
+			error_desc = "Lv18开启，在4D捕鱼中开炮可提升等级！",
 		},
 		[575]=
 		{
@@ -10384,7 +10384,7 @@ return {
 			value = 19,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级19及以上才可解锁",
+			error_desc = "Lv19开启，在5D捕鱼中开炮可提升等级！",
 		},
 		[576]=
 		{
@@ -10394,7 +10394,7 @@ return {
 			value = 20,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级20及以上才可解锁",
+			error_desc = "Lv20开启，在5D捕鱼中开炮可提升等级！",
 		},
 		[577]=
 		{
@@ -10404,7 +10404,7 @@ return {
 			value = 21,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要等级21及以上才可解锁",
+			error_desc = "Lv21开启，在5D捕鱼中开炮可提升等级！",
 		},
 		[578]=
 		{
@@ -10414,7 +10414,7 @@ return {
 			value = 1,
 			judge = 2,
 			group = 1,
-			error_desc = "该功能需要v1解锁",
+			error_desc = "Lv5开启，在5D捕鱼中开炮可提升等级！",
 		},
 		[579]=
 		{
@@ -10424,7 +10424,7 @@ return {
 			value = 5,
 			judge = 2,
 			group = 2,
-			error_desc = "该功能需要lv5解锁",
+			error_desc = "Lv5开启，在5D捕鱼中开炮可提升等级！",
 		},
 		[580]=
 		{
@@ -10434,7 +10434,7 @@ return {
 			value = 1,
 			judge = 2,
 			group = 1,
-			error_desc = "该功能需要v1解锁",
+			error_desc = "Lv8开启，在5D捕鱼中开炮可提升等级！",
 		},
 		[581]=
 		{
@@ -10444,7 +10444,7 @@ return {
 			value = 8,
 			judge = 2,
 			group = 2,
-			error_desc = "该功能需要lv8解锁",
+			error_desc = "Lv8开启，在5D捕鱼中开炮可提升等级！",
 		},
 		[582]=
 		{
@@ -10454,7 +10454,7 @@ return {
 			value = 1,
 			judge = 2,
 			group = 1,
-			error_desc = "该功能需要v1解锁",
+			error_desc = "Lv11开启，在5D捕鱼中开炮可提升等级！",
 		},
 		[583]=
 		{
@@ -10464,7 +10464,7 @@ return {
 			value = 11,
 			judge = 2,
 			group = 2,
-			error_desc = "该功能需要lv11解锁",
+			error_desc = "Lv11开启，在5D捕鱼中开炮可提升等级！",
 		},
 		[585]=
 		{
@@ -10474,7 +10474,7 @@ return {
 			value = 12,
 			judge = 2,
 			group = 2,
-			error_desc = "该功能需要lv12解锁",
+			error_desc = "Lv12开启，在5D捕鱼中开炮可提升等级！",
 		},
 		[586]=
 		{
@@ -10484,7 +10484,7 @@ return {
 			value = 1,
 			judge = 2,
 			group = 1,
-			error_desc = "该功能需要v1解锁",
+			error_desc = "Lv15开启，在5D捕鱼中开炮可提升等级！",
 		},
 		[587]=
 		{
@@ -10494,7 +10494,7 @@ return {
 			value = 15,
 			judge = 2,
 			group = 2,
-			error_desc = "该功能需要lv15解锁",
+			error_desc = "Lv15开启，在5D捕鱼中开炮可提升等级！",
 		},
 		[588]=
 		{
@@ -10504,7 +10504,7 @@ return {
 			value = 1,
 			judge = 2,
 			group = 1,
-			error_desc = "该功能需要v1解锁",
+			error_desc = "Lv18开启，在5D捕鱼中开炮可提升等级！",
 		},
 		[589]=
 		{
@@ -10514,7 +10514,7 @@ return {
 			value = 18,
 			judge = 2,
 			group = 2,
-			error_desc = "该功能需要lv18解锁",
+			error_desc = "Lv18开启，在5D捕鱼中开炮可提升等级！",
 		},
 	},
 	share_condition=
