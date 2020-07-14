@@ -5,7 +5,7 @@ return {
 		{
 			line = 1,
 			vip = 1,
-			total = 48,
+			total = 10,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>2次</color>",
 			gotoUI = {"xycj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
@@ -14,7 +14,7 @@ return {
 		{
 			line = 2,
 			vip = 1,
-			total = 48,
+			total = 10,
 			info = "2、福利券容量提升为<color=#C86715>2万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
@@ -22,7 +22,7 @@ return {
 		{
 			line = 3,
 			vip = 1,
-			total = 48,
+			total = 10,
 			info = "3、享受兑换商城商品<color=#C86715>99%</color>兑换权",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
@@ -30,7 +30,7 @@ return {
 		{
 			line = 4,
 			vip = 1,
-			total = 48,
+			total = 10,
 			info = "4、享受vip专享福利",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
@@ -273,22 +273,22 @@ return {
 		[1]=
 		{
 			index = 1,
-			image = {"com_award_icon_yb1","zpg_icon_yg","com_award_icon_qys"},
-			text = {"1万鱼币","太阳*2","千元赛门票*1"},
+			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_sd"},
+			text = {"10万鱼币","太阳*2","锁定*1"},
 			title = "vip<color=#e41a1a>2</color>福利",
 		},
 		[2]=
 		{
 			index = 2,
-			image = {"com_award_icon_yb1","zpg_icon_yg","com_award_icon_qys"},
-			text = {"3万鱼币","太阳*6","千元赛门票*1"},
+			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_sd"},
+			text = {"30万鱼币","太阳*6","锁定*1"},
 			title = "vip<color=#e41a1a>3</color>-vip<color=#e41a1a>5</color>福利",
 		},
 		[3]=
 		{
 			index = 3,
-			image = {"com_award_icon_yb1","zpg_icon_yg","com_award_icon_qys"},
-			text = {"6.6万鱼币","太阳*10","千元赛门票*1"},
+			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_sd"},
+			text = {"66万鱼币","太阳*10","锁定*1"},
 			title = "vip<color=#e41a1a>6</color>及以上福利",
 		},
 	},
@@ -516,74 +516,74 @@ return {
 		[1]=
 		{
 			index = 1,
-			image = {"com_icon_gold","com_award_icon_qys","bag_icon_jipaiqi"},
-			text = {"1.66万鲸币","千元赛门票*1","记牌器*1"},
+			image = {"com_icon_gold","prop_3d_fish_lock","bag_icon_jipaiqi"},
+			text = {"1.66万鲸币","锁定*1","记牌器*1"},
 		},
 		[2]=
 		{
 			index = 2,
-			image = {"com_icon_gold","com_award_icon_qys","bag_icon_jipaiqi"},
-			text = {"3.66万鲸币","千元赛门票*1","记牌器*1"},
+			image = {"com_icon_gold","prop_3d_fish_lock","bag_icon_jipaiqi"},
+			text = {"3.66万鲸币","锁定*1","记牌器*1"},
 		},
 		[3]=
 		{
 			index = 3,
-			image = {"com_icon_gold","com_award_icon_qys","bag_icon_jipaiqi"},
-			text = {"6.66万鲸币","千元赛门票*1","记牌器*2"},
+			image = {"com_icon_gold","prop_3d_fish_lock","bag_icon_jipaiqi"},
+			text = {"6.66万鲸币","锁定*1","记牌器*2"},
 		},
 		[4]=
 		{
 			index = 4,
-			image = {"com_icon_gold","com_award_icon_qys","bag_icon_jipaiqi"},
-			text = {"12.66万鲸币","千元赛门票*1","记牌器*2"},
+			image = {"com_icon_gold","prop_3d_fish_lock","bag_icon_jipaiqi"},
+			text = {"12.66万鲸币","锁定*1","记牌器*2"},
 		},
 		[5]=
 		{
 			index = 5,
-			image = {"com_icon_gold","com_award_icon_qys","bag_icon_jipaiqi"},
-			text = {"16.66万鲸币","千元赛门票*1","记牌器*3"},
+			image = {"com_icon_gold","prop_3d_fish_lock","bag_icon_jipaiqi"},
+			text = {"16.66万鲸币","锁定*1","记牌器*3"},
 		},
 		[6]=
 		{
 			index = 6,
-			image = {"com_icon_gold","com_award_icon_qys","bag_icon_jipaiqi"},
-			text = {"18.66万鲸币","千元赛门票*1","记牌器*3"},
+			image = {"com_icon_gold","prop_3d_fish_lock","bag_icon_jipaiqi"},
+			text = {"18.66万鲸币","锁定*1","记牌器*3"},
 		},
 		[7]=
 		{
 			index = 7,
-			image = {"com_icon_gold","com_award_icon_qys","bag_icon_jipaiqi"},
-			text = {"28.66万鲸币","千元赛门票*1","记牌器*4"},
+			image = {"com_icon_gold","prop_3d_fish_lock","bag_icon_jipaiqi"},
+			text = {"28.66万鲸币","锁定*1","记牌器*4"},
 		},
 		[8]=
 		{
 			index = 8,
-			image = {"com_icon_gold","com_award_icon_qys","bag_icon_jipaiqi"},
-			text = {"38.66万鲸币","千元赛门票*1","记牌器*4"},
+			image = {"com_icon_gold","prop_3d_fish_lock","bag_icon_jipaiqi"},
+			text = {"38.66万鲸币","锁定*1","记牌器*4"},
 		},
 		[9]=
 		{
 			index = 9,
-			image = {"com_icon_gold","com_award_icon_qys","bag_icon_jipaiqi"},
-			text = {"48.66万鲸币","千元赛门票*1","记牌器*5"},
+			image = {"com_icon_gold","prop_3d_fish_lock","bag_icon_jipaiqi"},
+			text = {"48.66万鲸币","锁定*1","记牌器*5"},
 		},
 		[10]=
 		{
 			index = 10,
-			image = {"com_icon_gold","com_award_icon_qys","bag_icon_jipaiqi"},
-			text = {"58.66万鲸币","千元赛门票*1","记牌器*5"},
+			image = {"com_icon_gold","prop_3d_fish_lock","bag_icon_jipaiqi"},
+			text = {"58.66万鲸币","锁定*1","记牌器*5"},
 		},
 		[11]=
 		{
 			index = 11,
-			image = {"com_icon_gold","com_award_icon_qys","bag_icon_jipaiqi"},
-			text = {"68.66万鲸币","千元赛门票*1","记牌器*5"},
+			image = {"com_icon_gold","prop_3d_fish_lock","bag_icon_jipaiqi"},
+			text = {"68.66万鲸币","锁定*1","记牌器*5"},
 		},
 		[12]=
 		{
 			index = 12,
-			image = {"com_icon_gold","com_award_icon_qys","bag_icon_jipaiqi"},
-			text = {"78.66万鲸币","千元赛门票*1","记牌器*5"},
+			image = {"com_icon_gold","prop_3d_fish_lock","bag_icon_jipaiqi"},
+			text = {"78.66万鲸币","锁定*1","记牌器*5"},
 		},
 	},
 	yjtz=

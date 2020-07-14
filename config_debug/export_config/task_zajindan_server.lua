@@ -18205,7 +18205,7 @@ return {
 			id = 263,
 			award_id = 151,
 			asset_type = "fish_coin",
-			asset_count = 30000,
+			asset_count = 300000,
 			get_weight = 1,
 		},
 		[264]=
@@ -18220,7 +18220,7 @@ return {
 		{
 			id = 265,
 			award_id = 151,
-			asset_type = "prop_2",
+			asset_type = "prop_3d_fish_lock",
 			asset_count = 1,
 			get_weight = 1,
 		},
@@ -18229,7 +18229,7 @@ return {
 			id = 266,
 			award_id = 152,
 			asset_type = "fish_coin",
-			asset_count = 66000,
+			asset_count = 660000,
 			get_weight = 1,
 		},
 		[267]=
@@ -18244,7 +18244,7 @@ return {
 		{
 			id = 268,
 			award_id = 152,
-			asset_type = "prop_2",
+			asset_type = "prop_3d_fish_lock",
 			asset_count = 1,
 			get_weight = 1,
 		},
@@ -22269,7 +22269,7 @@ return {
 			id = 771,
 			award_id = 567,
 			asset_type = "fish_coin",
-			asset_count = 10000,
+			asset_count = 100000,
 			get_weight = 1,
 		},
 		[772]=
@@ -22284,7 +22284,7 @@ return {
 		{
 			id = 773,
 			award_id = 567,
-			asset_type = "prop_2",
+			asset_type = "prop_guess_apple_bet_2",
 			asset_count = 1,
 			get_weight = 1,
 		},
