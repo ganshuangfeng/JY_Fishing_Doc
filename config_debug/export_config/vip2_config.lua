@@ -1016,4 +1016,97 @@ return {
 			need = 96,
 		},
 	},
+	gift=
+	{
+		[1]=
+		{
+			index = 1,
+			gift_id = 10244,
+			title = {"VIP1礼包(购买条件:VIP等级≥1)",},
+			price = 6,
+			award_img = {"com_award_icon_yubi","com_award_icon_yubi","com_award_icon_yubi",},
+			award_txt = {"75万","1","1",},
+		},
+		[2]=
+		{
+			index = 2,
+			gift_id = 10245,
+			title = {"VIP2礼包(购买条件:VIP等级≥2)",},
+			price = 28,
+			award_img = {"com_award_icon_yubi","com_award_icon_yubi","com_award_icon_yubi",},
+			award_txt = {"318万","5","5",},
+		},
+		[3]=
+		{
+			index = 3,
+			gift_id = 10246,
+			title = {"VIP3礼包(购买条件:VIP等级≥3)",},
+			price = 48,
+			award_img = {"com_award_icon_yubi","com_award_icon_yubi","com_award_icon_yubi",},
+			award_txt = {"538万","10","10",},
+		},
+		[4]=
+		{
+			index = 4,
+			gift_id = 10247,
+			title = {"VIP4礼包(购买条件:VIP等级≥4)",},
+			price = 99,
+			award_img = {"com_award_icon_yubi","com_award_icon_yubi","com_award_icon_yubi",},
+			award_txt = {"1108万","20","20",},
+		},
+		[5]=
+		{
+			index = 5,
+			gift_id = 10248,
+			title = {"VIP5礼包(购买条件:VIP等级≥5)",},
+			price = 198,
+			award_img = {"com_award_icon_yubi","com_award_icon_yubi","com_award_icon_yubi",},
+			award_txt = {"2218万","40","40",},
+		},
+		[6]=
+		{
+			index = 6,
+			gift_id = 10249,
+			title = {"VIP6礼包(购买条件:VIP等级≥6)",},
+			price = 298,
+			award_img = {"com_award_icon_yubi","com_award_icon_yubi","com_award_icon_yubi",},
+			award_txt = {"3288万","68","60",},
+		},
+		[7]=
+		{
+			index = 7,
+			gift_id = 10250,
+			title = {"VIP7礼包(购买条件:VIP等级≥7)",},
+			price = 398,
+			award_img = {"com_award_icon_yubi","com_award_icon_yubi","com_award_icon_yubi",},
+			award_txt = {"4388万","88","80",},
+		},
+		[8]=
+		{
+			index = 8,
+			gift_id = 10251,
+			title = {"VIP8礼包(购买条件:VIP等级≥8)",},
+			price = 498,
+			award_img = {"com_award_icon_yubi","com_award_icon_yubi","com_award_icon_yubi",},
+			award_txt = {"5488万","110","100",},
+		},
+		[9]=
+		{
+			index = 9,
+			gift_id = 10252,
+			title = {"VIP9礼包(购买条件:VIP等级≥9)",},
+			price = 598,
+			award_img = {"com_award_icon_yubi","com_award_icon_yubi","com_award_icon_yubi",},
+			award_txt = {"6488万","148","100",},
+		},
+		[10]=
+		{
+			index = 10,
+			gift_id = 10253,
+			title = {"VIP10礼包(购买条件:VIP等级≥10)",},
+			price = 698,
+			award_img = {"com_award_icon_yubi","com_award_icon_yubi","com_award_icon_yubi",},
+			award_txt = {"7688万","158","100",},
+		},
+	},
 }
