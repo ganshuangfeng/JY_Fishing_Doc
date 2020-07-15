@@ -10344,7 +10344,7 @@ return {
 			value = 15,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv15开启，在4D捕鱼中开炮可提升等级！",
+			error_desc = "Lv15开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[572]=
 		{
@@ -10354,7 +10354,7 @@ return {
 			value = 16,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv16开启，在4D捕鱼中开炮可提升等级！",
+			error_desc = "Lv16开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[573]=
 		{
@@ -10364,7 +10364,7 @@ return {
 			value = 17,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv17开启，在4D捕鱼中开炮可提升等级！",
+			error_desc = "Lv17开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[574]=
 		{
@@ -10374,7 +10374,7 @@ return {
 			value = 18,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv18开启，在4D捕鱼中开炮可提升等级！",
+			error_desc = "Lv18开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[575]=
 		{
@@ -10384,7 +10384,7 @@ return {
 			value = 19,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv19开启，在5D捕鱼中开炮可提升等级！",
+			error_desc = "Lv19开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[576]=
 		{
@@ -10394,7 +10394,7 @@ return {
 			value = 20,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv20开启，在5D捕鱼中开炮可提升等级！",
+			error_desc = "Lv20开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[577]=
 		{
@@ -10404,7 +10404,7 @@ return {
 			value = 21,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv21开启，在5D捕鱼中开炮可提升等级！",
+			error_desc = "Lv21开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[578]=
 		{
@@ -10414,7 +10414,7 @@ return {
 			value = 1,
 			judge = 2,
 			group = 1,
-			error_desc = "Lv5开启，在5D捕鱼中开炮可提升等级！",
+			error_desc = "Lv5开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[579]=
 		{
@@ -10424,7 +10424,7 @@ return {
 			value = 5,
 			judge = 2,
 			group = 2,
-			error_desc = "Lv5开启，在5D捕鱼中开炮可提升等级！",
+			error_desc = "Lv5开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[580]=
 		{
@@ -10434,7 +10434,7 @@ return {
 			value = 1,
 			judge = 2,
 			group = 1,
-			error_desc = "Lv8开启，在5D捕鱼中开炮可提升等级！",
+			error_desc = "Lv8开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[581]=
 		{
@@ -10444,7 +10444,7 @@ return {
 			value = 8,
 			judge = 2,
 			group = 2,
-			error_desc = "Lv8开启，在5D捕鱼中开炮可提升等级！",
+			error_desc = "Lv8开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[582]=
 		{
@@ -10454,7 +10454,7 @@ return {
 			value = 1,
 			judge = 2,
 			group = 1,
-			error_desc = "Lv11开启，在5D捕鱼中开炮可提升等级！",
+			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[583]=
 		{
@@ -10464,7 +10464,7 @@ return {
 			value = 11,
 			judge = 2,
 			group = 2,
-			error_desc = "Lv11开启，在5D捕鱼中开炮可提升等级！",
+			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[585]=
 		{
@@ -10474,7 +10474,7 @@ return {
 			value = 12,
 			judge = 2,
 			group = 2,
-			error_desc = "Lv12开启，在5D捕鱼中开炮可提升等级！",
+			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[586]=
 		{
@@ -10484,7 +10484,7 @@ return {
 			value = 1,
 			judge = 2,
 			group = 1,
-			error_desc = "Lv15开启，在5D捕鱼中开炮可提升等级！",
+			error_desc = "Lv15开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[587]=
 		{
@@ -10494,7 +10494,7 @@ return {
 			value = 15,
 			judge = 2,
 			group = 2,
-			error_desc = "Lv15开启，在5D捕鱼中开炮可提升等级！",
+			error_desc = "Lv15开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[588]=
 		{
@@ -10504,7 +10504,7 @@ return {
 			value = 1,
 			judge = 2,
 			group = 1,
-			error_desc = "Lv18开启，在5D捕鱼中开炮可提升等级！",
+			error_desc = "Lv18开启，在3D捕鱼中开炮可提升等级！",
 		},
 		[589]=
 		{
@@ -10514,7 +10514,7 @@ return {
 			value = 18,
 			judge = 2,
 			group = 2,
-			error_desc = "Lv18开启，在5D捕鱼中开炮可提升等级！",
+			error_desc = "Lv18开启，在3D捕鱼中开炮可提升等级！",
 		},
 	},
 	share_condition=
