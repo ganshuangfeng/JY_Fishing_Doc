@@ -184,7 +184,7 @@ return {
 		[12514]=
 		{
 			id = 12514,
-			enable = 1,
+			enable = 0,
 			name = "游戏分享",
 			own_type = "normal",
 			task_enum = "common",
@@ -210,7 +210,7 @@ return {
 		[12516]=
 		{
 			id = 12516,
-			enable = 0,
+			enable = 1,
 			name = "击杀彩金鱼",
 			own_type = "normal",
 			task_enum = "common",
@@ -472,7 +472,7 @@ return {
 			id = 16,
 			process_id = 12516,
 			source_id = 16,
-			process = 2,
+			process = 3,
 			awards = 1005,
 			get_award_type = "nor",
 		},
@@ -1058,175 +1058,175 @@ return {
 		{
 			id = 1,
 			award_id = 1001,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			asset_type = "task_13000",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[2]=
 		{
 			id = 2,
-			award_id = 1001,
-			asset_type = "task_13000",
-			asset_count = 20,
+			award_id = 1002,
+			asset_type = "jing_bi",
+			asset_count = 2500,
 			get_weight = 1,
 		},
 		[3]=
 		{
 			id = 3,
 			award_id = 1002,
-			asset_type = "jing_bi",
-			asset_count = 2500,
+			asset_type = "task_13000",
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[4]=
 		{
 			id = 4,
-			award_id = 1002,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 1003,
+			asset_type = "jing_bi",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[5]=
 		{
 			id = 5,
 			award_id = 1003,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			asset_type = "task_13000",
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[6]=
 		{
 			id = 6,
-			award_id = 1003,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 1004,
+			asset_type = "jing_bi",
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[7]=
 		{
 			id = 7,
 			award_id = 1004,
-			asset_type = "jing_bi",
-			asset_count = 2000,
+			asset_type = "task_13000",
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[8]=
 		{
 			id = 8,
-			award_id = 1004,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 1005,
+			asset_type = "jing_bi",
+			asset_count = 20000,
 			get_weight = 1,
 		},
 		[9]=
 		{
 			id = 9,
 			award_id = 1005,
-			asset_type = "jing_bi",
-			asset_count = 2500,
+			asset_type = "task_13000",
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[10]=
 		{
 			id = 10,
-			award_id = 1005,
-			asset_type = "task_13000",
-			asset_count = 20,
+			award_id = 1006,
+			asset_type = "jing_bi",
+			asset_count = 3500,
 			get_weight = 1,
 		},
 		[11]=
 		{
 			id = 11,
 			award_id = 1006,
-			asset_type = "jing_bi",
-			asset_count = 3500,
+			asset_type = "task_13000",
+			asset_count = 40,
 			get_weight = 1,
 		},
 		[12]=
 		{
 			id = 12,
-			award_id = 1006,
-			asset_type = "task_13000",
-			asset_count = 40,
+			award_id = 1007,
+			asset_type = "jing_bi",
+			asset_count = 2500,
 			get_weight = 1,
 		},
 		[13]=
 		{
 			id = 13,
 			award_id = 1007,
-			asset_type = "jing_bi",
-			asset_count = 2500,
+			asset_type = "task_13000",
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[14]=
 		{
 			id = 14,
-			award_id = 1007,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 1008,
+			asset_type = "shop_gold_sum",
+			asset_count = 50,
 			get_weight = 1,
 		},
 		[15]=
 		{
 			id = 15,
 			award_id = 1008,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_type = "task_13000",
+			asset_count = 50,
 			get_weight = 1,
 		},
 		[16]=
 		{
 			id = 16,
-			award_id = 1008,
-			asset_type = "task_13000",
-			asset_count = 50,
+			award_id = 1009,
+			asset_type = "jing_bi",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[17]=
 		{
 			id = 17,
 			award_id = 1009,
-			asset_type = "jing_bi",
-			asset_count = 25000,
+			asset_type = "task_13000",
+			asset_count = 20,
 			get_weight = 1,
 		},
 		[18]=
 		{
 			id = 18,
-			award_id = 1009,
-			asset_type = "task_13000",
-			asset_count = 20,
+			award_id = 1010,
+			asset_type = "jing_bi",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[19]=
 		{
 			id = 19,
 			award_id = 1010,
-			asset_type = "jing_bi",
-			asset_count = 25000,
+			asset_type = "task_13000",
+			asset_count = 20,
 			get_weight = 1,
 		},
 		[20]=
 		{
 			id = 20,
-			award_id = 1010,
-			asset_type = "task_13000",
-			asset_count = 20,
+			award_id = 1011,
+			asset_type = "jing_bi",
+			asset_count = 20000,
 			get_weight = 1,
 		},
 		[21]=
 		{
 			id = 21,
 			award_id = 1011,
-			asset_type = "jing_bi",
-			asset_count = 30000,
+			asset_type = "task_13000",
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[22]=
 		{
 			id = 22,
-			award_id = 1011,
-			asset_type = "task_13000",
+			award_id = 1012,
+			asset_type = "shop_gold_sum",
 			asset_count = 30,
 			get_weight = 1,
 		},
@@ -1234,56 +1234,56 @@ return {
 		{
 			id = 23,
 			award_id = 1012,
-			asset_type = "shop_gold_sum",
-			asset_count = 50,
+			asset_type = "task_13000",
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[24]=
 		{
 			id = 24,
-			award_id = 1012,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 2001,
+			asset_type = "fish_coin",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[25]=
 		{
 			id = 25,
 			award_id = 2001,
-			asset_type = "fish_coin",
-			asset_count = 10000,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 2,
 			get_weight = 1,
 		},
 		[26]=
 		{
 			id = 26,
-			award_id = 2001,
-			asset_type = "prop_3d_fish_lock",
-			asset_count = 2,
+			award_id = 2002,
+			asset_type = "fish_coin",
+			asset_count = 20000,
 			get_weight = 1,
 		},
 		[27]=
 		{
 			id = 27,
 			award_id = 2002,
-			asset_type = "fish_coin",
-			asset_count = 20000,
+			asset_type = "prop_3d_fish_summon_fish",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[28]=
 		{
 			id = 28,
-			award_id = 2002,
-			asset_type = "prop_3d_fish_summon_fish",
-			asset_count = 1,
+			award_id = 2003,
+			asset_type = "fish_coin",
+			asset_count = 20000,
 			get_weight = 1,
 		},
 		[29]=
 		{
 			id = 29,
 			award_id = 2003,
-			asset_type = "fish_coin",
-			asset_count = 30000,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[30]=
@@ -1291,15 +1291,15 @@ return {
 			id = 30,
 			award_id = 2004,
 			asset_type = "fish_coin",
-			asset_count = 25000,
+			asset_count = 30000,
 			get_weight = 1,
 		},
 		[31]=
 		{
 			id = 31,
 			award_id = 2004,
-			asset_type = "prop_tiny_game_coin",
-			asset_count = 25000,
+			asset_type = "shop_gold_sum",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[32]=

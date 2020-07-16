@@ -5,31 +5,31 @@ return {
 		{
 			id = 1,
 			active = 30,
-			award_tip = "鱼币*10000，锁定*2",
+			award_tip = "1万鱼币，锁定*2",
 		},
 		[2]=
 		{
 			id = 2,
 			active = 60,
-			award_tip = "鱼币*20000，召唤*1",
+			award_tip = "2万鱼币，召唤*1",
 		},
 		[3]=
 		{
 			id = 3,
 			active = 90,
-			award_tip = "鱼币*30000",
+			award_tip = "2万鱼币，1万小游戏币",
 		},
 		[4]=
 		{
 			id = 4,
 			active = 120,
-			award_tip = "鱼币*25000，小游戏币*25000",
+			award_tip = "3万鱼币，10福利券",
 		},
 		[5]=
 		{
 			id = 5,
 			active = 150,
-			award_tip = "金币*50000，福利券*50",
+			award_tip = "5万金币，50福利券",
 		},
 	},
 	active_task_item=
@@ -38,12 +38,12 @@ return {
 		{
 			id = 1,
 			task_id = 12512,
-			task_name = "每日进行3D捕鱼",
+			task_name = "登录游戏",
 			task_icon = "rw_icon_hd",
-			task_instruction = "每日进行3D捕鱼",
-			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
-			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x1万","x20"},
+			task_instruction = "登陆1次3D捕鱼游戏",
+			task_award_icon = {"ty_icon_hytb",},
+			task_award_instruction = {"活跃度",},
+			task_award_count = {"x20",},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[2]=
@@ -55,7 +55,7 @@ return {
 			task_instruction = "3D捕鱼中使用任意技能3次",
 			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x2.5万","x20"},
+			task_award_count = {"x1万","x20"},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[3]=
@@ -67,7 +67,7 @@ return {
 			task_instruction = "3D捕鱼中捕获任意10条鱼",
 			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x2.5万","x20"},
+			task_award_count = {"x1万","x20"},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[4]=
@@ -79,7 +79,7 @@ return {
 			task_instruction = "3D捕鱼中累计开炮1000次",
 			task_award_icon = {"ty_icon_jb_50y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x3万","x30"},
+			task_award_count = {"x2万","x30"},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[5]=
@@ -91,19 +91,19 @@ return {
 			task_instruction = "3D捕鱼中累计在线60分钟",
 			task_award_icon = {"ty_icon_flq1","ty_icon_hytb",},
 			task_award_instruction = {"福利券","活跃度"},
-			task_award_count = {"x50","x30"},
+			task_award_count = {"x30","x30"},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[6]=
 		{
 			id = 6,
-			task_id = 12514,
-			task_name = "游戏分享",
+			task_id = 12516,
+			task_name = "捕获彩金",
 			task_icon = "rw_icon_rwbz",
-			task_instruction = "游戏分享",
+			task_instruction = "3D捕鱼中捕获3条彩金鱼",
 			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x1万","x30"},
+			task_award_count = {"x2万","x30"},
 			gotoui = {"share_hall",},
 		},
 		[7]=
@@ -115,7 +115,7 @@ return {
 			task_instruction = "单笔充值6元及以上",
 			task_award_icon = {"ty_icon_flq3","ty_icon_hytb",},
 			task_award_instruction = {"福利券","活跃度"},
-			task_award_count = {"x100","x50"},
+			task_award_count = {"x50","x50"},
 			gotoui = {"shop_bay",},
 		},
 	},

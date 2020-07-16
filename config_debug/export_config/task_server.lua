@@ -1177,6 +1177,62 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
+		[86]=
+		{
+			id = 86,
+			enable = 1,
+			name = "捕鱼挑战任务1",
+			own_type = "buyu_3d_challenge_task1",
+			task_enum = "buyu_challenge_task",
+			process_id = 86,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[87]=
+		{
+			id = 87,
+			enable = 1,
+			name = "捕鱼挑战任务2",
+			own_type = "buyu_3d_challenge_task2",
+			task_enum = "buyu_challenge_task",
+			process_id = 87,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[88]=
+		{
+			id = 88,
+			enable = 1,
+			name = "捕鱼挑战任务3",
+			own_type = "buyu_3d_challenge_task3",
+			task_enum = "buyu_challenge_task",
+			process_id = 88,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[89]=
+		{
+			id = 89,
+			enable = 1,
+			name = "捕鱼挑战任务4",
+			own_type = "buyu_3d_challenge_task4",
+			task_enum = "buyu_challenge_task",
+			process_id = 89,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -2024,6 +2080,42 @@ return {
 			get_award_type = "nor",
 			is_auto_get_award = 1,
 		},
+		[86]=
+		{
+			id = 86,
+			process_id = 86,
+			condition_type = "children_task",
+			source_id = 86,
+			process = 99999,
+			get_award_type = "nor",
+		},
+		[87]=
+		{
+			id = 87,
+			process_id = 87,
+			condition_type = "children_task",
+			source_id = 87,
+			process = 99999,
+			get_award_type = "nor",
+		},
+		[88]=
+		{
+			id = 88,
+			process_id = 88,
+			condition_type = "children_task",
+			source_id = 88,
+			process = 99999,
+			get_award_type = "nor",
+		},
+		[89]=
+		{
+			id = 89,
+			process_id = 89,
+			condition_type = "children_task",
+			source_id = 89,
+			process = 99999,
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -2664,6 +2756,34 @@ return {
 			id = 91,
 			source_id = 85,
 			source_type = "xiyou_task_money",
+			condition_id = 0,
+		},
+		[92]=
+		{
+			id = 92,
+			source_id = 86,
+			source_type = "children_task",
+			condition_id = 0,
+		},
+		[93]=
+		{
+			id = 93,
+			source_id = 87,
+			source_type = "children_task",
+			condition_id = 0,
+		},
+		[94]=
+		{
+			id = 94,
+			source_id = 88,
+			source_type = "children_task",
+			condition_id = 0,
+		},
+		[95]=
+		{
+			id = 95,
+			source_id = 89,
+			source_type = "children_task",
 			condition_id = 0,
 		},
 	},
