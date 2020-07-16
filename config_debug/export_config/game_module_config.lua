@@ -2339,5 +2339,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[240]=
+		{
+			id = 240,
+			key = "by3d_task",
+			desc = "3D捕鱼挑战任务",
+			lua = "BY3DTaskManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

@@ -17,7 +17,13 @@ return {
 		{
 			id = 3,
 			area = "top_right",
-			group_list = "72#80#",
+			group_list = "72#",
+		},
+		[4]=
+		{
+			id = 4,
+			area = "center_top",
+			group_list = "80#",
 		},
 	},
 	xxlsh_game=
@@ -242,7 +248,7 @@ return {
 		{
 			id = 2,
 			area = "top",
-			group_list = "64#78#",
+			group_list = "81#64#78#",
 		},
 		[3]=
 		{
@@ -780,7 +786,13 @@ return {
 		[80]=
 		{
 			id = 80,
-			parm = "“act_016_xyxcwk”",
+			parm = {"act_016_xyxcwk",},
+			is_on_off = 1,
+		},
+		[81]=
+		{
+			id = 81,
+			parm = {"by3d_task",},
 			is_on_off = 1,
 		},
 	},
