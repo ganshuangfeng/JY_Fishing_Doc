@@ -2329,5 +2329,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[239]=
+		{
+			id = 239,
+			key = "act_016_xyxcwk",
+			desc = "畅玩卡",
+			lua = "Act_016_XYXCWKManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

@@ -112,7 +112,7 @@ return {
 			task_id = 12519,
 			task_name = "单笔充值",
 			task_icon = "rw_icon_mrzz",
-			task_instruction = "单笔充值",
+			task_instruction = "单笔充值6元及以上",
 			task_award_icon = {"ty_icon_flq3","ty_icon_hytb",},
 			task_award_instruction = {"福利券","活跃度"},
 			task_award_count = {"x100","x50"},

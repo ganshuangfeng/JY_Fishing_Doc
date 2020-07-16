@@ -21,7 +21,7 @@ return {
 		[1]=
 		{
 			vip_level = 1,
-			total_charge_value = 4800,
+			total_charge_value = 1000,
 		},
 		[2]=
 		{

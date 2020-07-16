@@ -17,7 +17,7 @@ return {
 		{
 			id = 3,
 			area = "top_right",
-			group_list = "72#",
+			group_list = "72#80#",
 		},
 	},
 	xxlsh_game=
@@ -775,6 +775,12 @@ return {
 		{
 			id = 79,
 			parm = {"sys_by_level","enter2"},
+			is_on_off = 1,
+		},
+		[80]=
+		{
+			id = 80,
+			parm = "“act_016_xyxcwk”",
 			is_on_off = 1,
 		},
 	},

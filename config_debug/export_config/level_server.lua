@@ -153,198 +153,6 @@ return {
 	},
 	award_data=
 	{
-		[1]=
-		{
-			id = 1,
-			level = 2,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {5000,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[2]=
-		{
-			id = 2,
-			level = 3,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {5100,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[3]=
-		{
-			id = 3,
-			level = 4,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {5200,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[4]=
-		{
-			id = 4,
-			level = 5,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {5300,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[5]=
-		{
-			id = 5,
-			level = 6,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {5400,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[6]=
-		{
-			id = 6,
-			level = 7,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {5500,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[7]=
-		{
-			id = 7,
-			level = 8,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {5600,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[8]=
-		{
-			id = 8,
-			level = 9,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {5700,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[9]=
-		{
-			id = 9,
-			level = 10,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {5800,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[10]=
-		{
-			id = 10,
-			level = 11,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {5900,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[11]=
-		{
-			id = 11,
-			level = 12,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {6000,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[12]=
-		{
-			id = 12,
-			level = 13,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {6100,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[13]=
-		{
-			id = 13,
-			level = 14,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {6200,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[14]=
-		{
-			id = 14,
-			level = 15,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {6300,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[15]=
-		{
-			id = 15,
-			level = 16,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {6400,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[16]=
-		{
-			id = 16,
-			level = 17,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {6500,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[17]=
-		{
-			id = 17,
-			level = 18,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {6600,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[18]=
-		{
-			id = 18,
-			level = 19,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {6700,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[19]=
-		{
-			id = 19,
-			level = 20,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {6800,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[20]=
-		{
-			id = 20,
-			level = 21,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {6900,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[21]=
-		{
-			id = 21,
-			level = 22,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {7000,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[22]=
-		{
-			id = 22,
-			level = 23,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {7100,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[23]=
-		{
-			id = 23,
-			level = 24,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {7200,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
-		[24]=
-		{
-			id = 24,
-			level = 25,
-			asset_type = {"fish_coin","prop_3d_fish_lock"},
-			asset_count = {7300,1,},
-			asset_image = {"com_award_icon_yubi","3dby_btn_sd"},
-		},
 	},
 	dress_data=
 	{
@@ -479,187 +287,210 @@ return {
 			no = 1,
 			level = 2,
 			game_id = 2,
-			gun_index = 2,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {7200,},
-			unlock_gun = 200,
+			gun_index = 6,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5000,1,},
+			unlock_gun = 600,
 		},
 		[2]=
 		{
 			no = 2,
 			level = 3,
 			game_id = 2,
-			gun_index = 3,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {7920,},
-			unlock_gun = 300,
+			gun_index = 7,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5100,1,},
+			unlock_gun = 700,
 		},
 		[3]=
 		{
 			no = 3,
 			level = 4,
 			game_id = 2,
-			gun_index = 4,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {8640,},
-			unlock_gun = 400,
+			gun_index = 8,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5200,1,},
+			unlock_gun = 800,
 		},
 		[4]=
 		{
 			no = 4,
 			level = 5,
 			game_id = 2,
-			gun_index = 5,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {9720,},
-			unlock_gun = 500,
+			gun_index = 9,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5300,1,},
+			unlock_gun = 900,
 		},
 		[5]=
 		{
 			no = 5,
 			level = 6,
 			game_id = 2,
-			gun_index = 6,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {10800,},
-			unlock_gun = 600,
+			gun_index = 10,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5400,1,},
+			unlock_gun = 1000,
 		},
 		[6]=
 		{
 			no = 6,
 			level = 7,
-			game_id = 2,
-			gun_index = 7,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {11808,},
-			unlock_gun = 700,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5500,1,},
 		},
 		[7]=
 		{
 			no = 7,
 			level = 8,
-			game_id = 2,
-			gun_index = 8,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {12960,},
-			unlock_gun = 800,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5600,1,},
 		},
 		[8]=
 		{
 			no = 8,
 			level = 9,
-			game_id = 2,
-			gun_index = 9,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {14220,},
-			unlock_gun = 900,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5700,1,},
 		},
 		[9]=
 		{
 			no = 9,
 			level = 10,
-			game_id = 2,
-			gun_index = 10,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {15570,},
-			unlock_gun = 1000,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5800,1,},
 		},
 		[10]=
 		{
 			no = 10,
-			level = 12,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {100000,},
+			level = 11,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5900,1,},
 		},
 		[11]=
 		{
 			no = 11,
-			level = 13,
-			game_id = 3,
-			gun_index = 2,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {110880,},
-			unlock_gun = 2000,
+			level = 12,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6000,1,},
 		},
 		[12]=
 		{
 			no = 12,
-			level = 14,
+			level = 13,
 			game_id = 3,
-			gun_index = 3,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {123480,},
-			unlock_gun = 3000,
+			gun_index = 2,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6100,1,},
+			unlock_gun = 2000,
 		},
 		[13]=
 		{
 			no = 13,
-			level = 15,
+			level = 14,
 			game_id = 3,
-			gun_index = 4,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {136800,},
-			unlock_gun = 4000,
+			gun_index = 3,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6200,1,},
+			unlock_gun = 3000,
 		},
 		[14]=
 		{
 			no = 14,
-			level = 16,
+			level = 15,
 			game_id = 3,
-			gun_index = 5,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {151200,},
-			unlock_gun = 5000,
+			gun_index = 4,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6300,1,},
+			unlock_gun = 4000,
 		},
 		[15]=
 		{
 			no = 15,
-			level = 17,
+			level = 16,
 			game_id = 3,
-			gun_index = 6,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {166860,},
-			unlock_gun = 6000,
+			gun_index = 5,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6400,1,},
+			unlock_gun = 5000,
 		},
 		[16]=
 		{
 			no = 16,
-			level = 18,
+			level = 17,
 			game_id = 3,
-			gun_index = 7,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {183060,},
-			unlock_gun = 7000,
+			gun_index = 6,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6500,1,},
+			unlock_gun = 6000,
 		},
 		[17]=
 		{
 			no = 17,
-			level = 19,
+			level = 18,
 			game_id = 3,
-			gun_index = 8,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {201600,},
-			unlock_gun = 8000,
+			gun_index = 7,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6600,1,},
+			unlock_gun = 7000,
 		},
 		[18]=
 		{
 			no = 18,
-			level = 20,
+			level = 19,
 			game_id = 3,
-			gun_index = 9,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {221400,},
-			unlock_gun = 9000,
+			gun_index = 8,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6700,1,},
+			unlock_gun = 8000,
 		},
 		[19]=
 		{
 			no = 19,
+			level = 20,
+			game_id = 3,
+			gun_index = 9,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6800,1,},
+			unlock_gun = 9000,
+		},
+		[20]=
+		{
+			no = 20,
 			level = 21,
 			game_id = 3,
 			gun_index = 10,
-			unlock_award_types = {"fish_coin",},
-			unlock_award_nums = {243000,},
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6900,1,},
 			unlock_gun = 10000,
+		},
+		[21]=
+		{
+			no = 21,
+			level = 22,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {7000,1,},
+		},
+		[22]=
+		{
+			no = 22,
+			level = 23,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {7100,1,},
+		},
+		[23]=
+		{
+			no = 23,
+			level = 24,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {7200,1,},
+		},
+		[24]=
+		{
+			no = 24,
+			level = 25,
+			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {7300,1,},
 		},
 	},
 }
