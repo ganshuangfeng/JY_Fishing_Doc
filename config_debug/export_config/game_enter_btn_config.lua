@@ -248,7 +248,7 @@ return {
 		{
 			id = 2,
 			area = "top",
-			group_list = "81#64#78#",
+			group_list = "82#",
 		},
 		[3]=
 		{
@@ -261,6 +261,12 @@ return {
 			id = 4,
 			area = "down2",
 			group_list = "79#",
+		},
+		[5]=
+		{
+			id = 5,
+			area = "top2",
+			group_list = "64#",
 		},
 	},
 	fishing3d_hall=
@@ -793,6 +799,12 @@ return {
 		{
 			id = 81,
 			parm = {"by3d_task",},
+			is_on_off = 1,
+		},
+		[82]=
+		{
+			id = 82,
+			parm = {"by3d_top_qh",},
 			is_on_off = 1,
 		},
 	},

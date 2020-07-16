@@ -10429,6 +10429,16 @@ return {
 		[568]=
 		{
 			no = 568,
+			id = 215,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[569]=
+		{
+			no = 569,
 			id = 216,
 			var = "player_level",
 			value = 12,
@@ -10436,9 +10446,19 @@ return {
 			group = 1,
 			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[569]=
+		[570]=
 		{
-			no = 569,
+			no = 570,
+			id = 216,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[571]=
+		{
+			no = 571,
 			id = 217,
 			var = "player_level",
 			value = 13,
@@ -10446,9 +10466,9 @@ return {
 			group = 1,
 			error_desc = "Lv13开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[570]=
+		[572]=
 		{
-			no = 570,
+			no = 572,
 			id = 218,
 			var = "player_level",
 			value = 14,
@@ -10456,9 +10476,9 @@ return {
 			group = 1,
 			error_desc = "Lv14开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[571]=
+		[573]=
 		{
-			no = 571,
+			no = 573,
 			id = 219,
 			var = "player_level",
 			value = 15,
@@ -10466,9 +10486,9 @@ return {
 			group = 1,
 			error_desc = "Lv15开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[572]=
+		[574]=
 		{
-			no = 572,
+			no = 574,
 			id = 220,
 			var = "player_level",
 			value = 16,
@@ -10476,9 +10496,9 @@ return {
 			group = 1,
 			error_desc = "Lv16开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[573]=
+		[575]=
 		{
-			no = 573,
+			no = 575,
 			id = 221,
 			var = "player_level",
 			value = 17,
@@ -10486,9 +10506,9 @@ return {
 			group = 1,
 			error_desc = "Lv17开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[574]=
+		[576]=
 		{
-			no = 574,
+			no = 576,
 			id = 222,
 			var = "player_level",
 			value = 18,
@@ -10496,9 +10516,9 @@ return {
 			group = 1,
 			error_desc = "Lv18开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[575]=
+		[577]=
 		{
-			no = 575,
+			no = 577,
 			id = 223,
 			var = "player_level",
 			value = 19,
@@ -10506,9 +10526,9 @@ return {
 			group = 1,
 			error_desc = "Lv19开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[576]=
+		[578]=
 		{
-			no = 576,
+			no = 578,
 			id = 224,
 			var = "player_level",
 			value = 20,
@@ -10516,9 +10536,9 @@ return {
 			group = 1,
 			error_desc = "Lv20开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[577]=
+		[579]=
 		{
-			no = 577,
+			no = 579,
 			id = 225,
 			var = "player_level",
 			value = 21,
@@ -10526,9 +10546,9 @@ return {
 			group = 1,
 			error_desc = "Lv21开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[578]=
+		[580]=
 		{
-			no = 578,
+			no = 580,
 			id = 226,
 			var = "vip_level",
 			value = 1,
@@ -10536,9 +10556,9 @@ return {
 			group = 1,
 			error_desc = "Lv5开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[579]=
+		[581]=
 		{
-			no = 579,
+			no = 581,
 			id = 226,
 			var = "player_level",
 			value = 5,
@@ -10546,9 +10566,9 @@ return {
 			group = 2,
 			error_desc = "Lv5开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[580]=
+		[582]=
 		{
-			no = 580,
+			no = 582,
 			id = 227,
 			var = "vip_level",
 			value = 1,
@@ -10556,9 +10576,9 @@ return {
 			group = 1,
 			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[581]=
+		[583]=
 		{
-			no = 581,
+			no = 583,
 			id = 227,
 			var = "player_level",
 			value = 7,
@@ -10566,9 +10586,9 @@ return {
 			group = 2,
 			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[582]=
+		[584]=
 		{
-			no = 582,
+			no = 584,
 			id = 228,
 			var = "vip_level",
 			value = 1,
@@ -10576,9 +10596,9 @@ return {
 			group = 1,
 			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[583]=
+		[585]=
 		{
-			no = 583,
+			no = 585,
 			id = 228,
 			var = "player_level",
 			value = 9,
@@ -10586,9 +10606,9 @@ return {
 			group = 2,
 			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[585]=
+		[586]=
 		{
-			no = 585,
+			no = 586,
 			id = 229,
 			var = "player_level",
 			value = 12,
@@ -10596,9 +10616,9 @@ return {
 			group = 2,
 			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[586]=
+		[587]=
 		{
-			no = 586,
+			no = 587,
 			id = 230,
 			var = "vip_level",
 			value = 1,
@@ -10606,9 +10626,9 @@ return {
 			group = 1,
 			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[587]=
+		[588]=
 		{
-			no = 587,
+			no = 588,
 			id = 230,
 			var = "player_level",
 			value = 11,
@@ -10616,9 +10636,9 @@ return {
 			group = 2,
 			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[588]=
+		[589]=
 		{
-			no = 588,
+			no = 589,
 			id = 231,
 			var = "vip_level",
 			value = 1,
@@ -10626,9 +10646,9 @@ return {
 			group = 1,
 			error_desc = "Lv14开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[589]=
+		[590]=
 		{
-			no = 589,
+			no = 590,
 			id = 231,
 			var = "player_level",
 			value = 14,
@@ -10636,9 +10656,9 @@ return {
 			group = 2,
 			error_desc = "Lv14开启，在3D捕鱼中开炮可提升等级！",
 		},
-		[590]=
+		[591]=
 		{
-			no = 590,
+			no = 591,
 			id = 232,
 			var = "vip_level",
 			value = 1,
@@ -10646,9 +10666,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip1及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[591]=
+		[592]=
 		{
-			no = 591,
+			no = 592,
 			id = 233,
 			var = "vip_level",
 			value = 2,
@@ -10656,9 +10676,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip2及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[592]=
+		[593]=
 		{
-			no = 592,
+			no = 593,
 			id = 234,
 			var = "vip_level",
 			value = 3,
@@ -10666,9 +10686,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip3及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[593]=
+		[594]=
 		{
-			no = 593,
+			no = 594,
 			id = 235,
 			var = "vip_level",
 			value = 4,
@@ -10676,9 +10696,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip4及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[594]=
+		[595]=
 		{
-			no = 594,
+			no = 595,
 			id = 236,
 			var = "vip_level",
 			value = 5,
@@ -10686,9 +10706,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip5及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[595]=
+		[596]=
 		{
-			no = 595,
+			no = 596,
 			id = 237,
 			var = "vip_level",
 			value = 6,
@@ -10696,9 +10716,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip6及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[596]=
+		[597]=
 		{
-			no = 596,
+			no = 597,
 			id = 238,
 			var = "vip_level",
 			value = 7,
@@ -10706,9 +10726,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip7及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[597]=
+		[598]=
 		{
-			no = 597,
+			no = 598,
 			id = 239,
 			var = "vip_level",
 			value = 8,
@@ -10716,9 +10736,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip8及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[598]=
+		[599]=
 		{
-			no = 598,
+			no = 599,
 			id = 240,
 			var = "vip_level",
 			value = 9,
@@ -10726,9 +10746,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip9及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[599]=
+		[600]=
 		{
-			no = 599,
+			no = 600,
 			id = 241,
 			var = "vip_level",
 			value = 10,

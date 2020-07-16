@@ -2349,5 +2349,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[241]=
+		{
+			id = 241,
+			key = "by3d_top_qh",
+			desc = "3D捕鱼游戏上方区域",
+			lua = "BY3DTopQHManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
