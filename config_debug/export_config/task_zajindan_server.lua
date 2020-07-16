@@ -13003,7 +13003,7 @@ return {
 		{
 			id = 531,
 			source_id = 375,
-			source_type = "buyu_award",
+			source_type = "buyu_3d_award",
 			condition_id = 0,
 			process_discount = 0.500000,
 		},
