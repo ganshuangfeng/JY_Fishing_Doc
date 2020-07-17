@@ -13026,7 +13026,7 @@ return {
 		{
 			id = 531,
 			source_id = 375,
-			source_type = "buyu_3d_award",
+			source_type = "buyu_award",
 			condition_id = 0,
 			process_discount = 0.500000,
 		},
@@ -13076,7 +13076,7 @@ return {
 		{
 			id = 538,
 			source_id = 382,
-			source_type = "buyu_3d_target_yu",
+			source_type = "buyu_target_yu",
 			condition_id = 259,
 		},
 		[539]=
@@ -16139,7 +16139,7 @@ return {
 			id = 400,
 			condition_id = 259,
 			condition_name = "base_fish_id",
-			condition_value = {38,39,40,41,42,43,44,45,46,47,48,49},
+			condition_value = 20,
 			judge_type = 2,
 		},
 		[401]=
