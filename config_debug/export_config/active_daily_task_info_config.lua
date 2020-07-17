@@ -43,7 +43,7 @@ return {
 			task_instruction = "登陆1次3D捕鱼游戏",
 			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x100","x20"},
+			task_award_count = {"x100","x10"},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[2]=
@@ -115,7 +115,7 @@ return {
 			task_instruction = "单笔充值6元及以上",
 			task_award_icon = {"ty_icon_flq3","ty_icon_hytb",},
 			task_award_instruction = {"福利券","活跃度"},
-			task_award_count = {"x50","x50"},
+			task_award_count = {"x30","x50"},
 			gotoui = {"shop_bay",},
 		},
 	},

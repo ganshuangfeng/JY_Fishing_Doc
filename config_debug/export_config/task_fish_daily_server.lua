@@ -1171,7 +1171,7 @@ return {
 			id = 15,
 			award_id = 1008,
 			asset_type = "shop_gold_sum",
-			asset_count = 50,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[16]=

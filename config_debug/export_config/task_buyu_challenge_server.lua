@@ -2363,7 +2363,7 @@ return {
 			id = 74,
 			condition_id = 20300,
 			condition_name = "base_fish_id",
-			condition_value = 15,
+			condition_value = 11,
 			judge_type = 2,
 		},
 		[75]=
@@ -2387,7 +2387,7 @@ return {
 			id = 77,
 			condition_id = 20301,
 			condition_name = "base_fish_id",
-			condition_value = 16,
+			condition_value = 12,
 			judge_type = 2,
 		},
 		[78]=
@@ -2411,7 +2411,7 @@ return {
 			id = 80,
 			condition_id = 20302,
 			condition_name = "base_fish_id",
-			condition_value = 17,
+			condition_value = 13,
 			judge_type = 2,
 		},
 		[81]=
@@ -2435,7 +2435,7 @@ return {
 			id = 83,
 			condition_id = 20303,
 			condition_name = "base_fish_id",
-			condition_value = 18,
+			condition_value = 14,
 			judge_type = 2,
 		},
 		[84]=
@@ -2459,7 +2459,7 @@ return {
 			id = 86,
 			condition_id = 20304,
 			condition_name = "base_fish_id",
-			condition_value = 20,
+			condition_value = 15,
 			judge_type = 2,
 		},
 		[87]=
@@ -2483,7 +2483,7 @@ return {
 			id = 89,
 			condition_id = 20305,
 			condition_name = "base_fish_id",
-			condition_value = 22,
+			condition_value = 16,
 			judge_type = 2,
 		},
 		[90]=
@@ -2507,7 +2507,7 @@ return {
 			id = 92,
 			condition_id = 20306,
 			condition_name = "base_fish_id",
-			condition_value = 23,
+			condition_value = 17,
 			judge_type = 2,
 		},
 		[93]=
@@ -2531,7 +2531,7 @@ return {
 			id = 95,
 			condition_id = 20307,
 			condition_name = "base_fish_id",
-			condition_value = 25,
+			condition_value = 18,
 			judge_type = 2,
 		},
 		[96]=
@@ -2555,7 +2555,7 @@ return {
 			id = 98,
 			condition_id = 20308,
 			condition_name = "base_fish_id",
-			condition_value = 26,
+			condition_value = 20,
 			judge_type = 2,
 		},
 		[99]=
@@ -2579,7 +2579,7 @@ return {
 			id = 101,
 			condition_id = 20400,
 			condition_name = "base_fish_id",
-			condition_value = 15,
+			condition_value = 11,
 			judge_type = 2,
 		},
 		[102]=
@@ -2603,7 +2603,7 @@ return {
 			id = 104,
 			condition_id = 20401,
 			condition_name = "base_fish_id",
-			condition_value = 16,
+			condition_value = 12,
 			judge_type = 2,
 		},
 		[105]=
@@ -2627,7 +2627,7 @@ return {
 			id = 107,
 			condition_id = 20402,
 			condition_name = "base_fish_id",
-			condition_value = 17,
+			condition_value = 13,
 			judge_type = 2,
 		},
 		[108]=
@@ -2651,7 +2651,7 @@ return {
 			id = 110,
 			condition_id = 20403,
 			condition_name = "base_fish_id",
-			condition_value = 18,
+			condition_value = 14,
 			judge_type = 2,
 		},
 		[111]=
@@ -2675,7 +2675,7 @@ return {
 			id = 113,
 			condition_id = 20404,
 			condition_name = "base_fish_id",
-			condition_value = 20,
+			condition_value = 15,
 			judge_type = 2,
 		},
 		[114]=
@@ -2699,7 +2699,7 @@ return {
 			id = 116,
 			condition_id = 20405,
 			condition_name = "base_fish_id",
-			condition_value = 22,
+			condition_value = 16,
 			judge_type = 2,
 		},
 		[117]=
@@ -2723,7 +2723,7 @@ return {
 			id = 119,
 			condition_id = 20406,
 			condition_name = "base_fish_id",
-			condition_value = 23,
+			condition_value = 17,
 			judge_type = 2,
 		},
 		[120]=
@@ -2747,7 +2747,7 @@ return {
 			id = 122,
 			condition_id = 20407,
 			condition_name = "base_fish_id",
-			condition_value = 25,
+			condition_value = 18,
 			judge_type = 2,
 		},
 		[123]=
@@ -2771,7 +2771,7 @@ return {
 			id = 125,
 			condition_id = 20408,
 			condition_name = "base_fish_id",
-			condition_value = 26,
+			condition_value = 20,
 			judge_type = 2,
 		},
 		[126]=
@@ -2795,7 +2795,7 @@ return {
 			id = 128,
 			condition_id = 20500,
 			condition_name = "base_fish_id",
-			condition_value = 15,
+			condition_value = 11,
 			judge_type = 2,
 		},
 		[129]=
@@ -2819,7 +2819,7 @@ return {
 			id = 131,
 			condition_id = 20501,
 			condition_name = "base_fish_id",
-			condition_value = 16,
+			condition_value = 12,
 			judge_type = 2,
 		},
 		[132]=
@@ -2843,7 +2843,7 @@ return {
 			id = 134,
 			condition_id = 20502,
 			condition_name = "base_fish_id",
-			condition_value = 17,
+			condition_value = 13,
 			judge_type = 2,
 		},
 		[135]=
@@ -2867,7 +2867,7 @@ return {
 			id = 137,
 			condition_id = 20503,
 			condition_name = "base_fish_id",
-			condition_value = 18,
+			condition_value = 14,
 			judge_type = 2,
 		},
 		[138]=
@@ -2891,7 +2891,7 @@ return {
 			id = 140,
 			condition_id = 20504,
 			condition_name = "base_fish_id",
-			condition_value = 20,
+			condition_value = 15,
 			judge_type = 2,
 		},
 		[141]=
@@ -2915,7 +2915,7 @@ return {
 			id = 143,
 			condition_id = 20505,
 			condition_name = "base_fish_id",
-			condition_value = 22,
+			condition_value = 16,
 			judge_type = 2,
 		},
 		[144]=
@@ -2939,7 +2939,7 @@ return {
 			id = 146,
 			condition_id = 20506,
 			condition_name = "base_fish_id",
-			condition_value = 23,
+			condition_value = 17,
 			judge_type = 2,
 		},
 		[147]=
@@ -2963,7 +2963,7 @@ return {
 			id = 149,
 			condition_id = 20507,
 			condition_name = "base_fish_id",
-			condition_value = 25,
+			condition_value = 18,
 			judge_type = 2,
 		},
 		[150]=
@@ -2987,7 +2987,7 @@ return {
 			id = 152,
 			condition_id = 20508,
 			condition_name = "base_fish_id",
-			condition_value = 26,
+			condition_value = 20,
 			judge_type = 2,
 		},
 		[153]=
@@ -3011,7 +3011,7 @@ return {
 			id = 155,
 			condition_id = 20600,
 			condition_name = "base_fish_id",
-			condition_value = 15,
+			condition_value = 11,
 			judge_type = 2,
 		},
 		[156]=
@@ -3035,7 +3035,7 @@ return {
 			id = 158,
 			condition_id = 20601,
 			condition_name = "base_fish_id",
-			condition_value = 16,
+			condition_value = 12,
 			judge_type = 2,
 		},
 		[159]=
@@ -3059,7 +3059,7 @@ return {
 			id = 161,
 			condition_id = 20602,
 			condition_name = "base_fish_id",
-			condition_value = 17,
+			condition_value = 13,
 			judge_type = 2,
 		},
 		[162]=
@@ -3083,7 +3083,7 @@ return {
 			id = 164,
 			condition_id = 20603,
 			condition_name = "base_fish_id",
-			condition_value = 18,
+			condition_value = 14,
 			judge_type = 2,
 		},
 		[165]=
@@ -3107,7 +3107,7 @@ return {
 			id = 167,
 			condition_id = 20604,
 			condition_name = "base_fish_id",
-			condition_value = 20,
+			condition_value = 15,
 			judge_type = 2,
 		},
 		[168]=
@@ -3131,7 +3131,7 @@ return {
 			id = 170,
 			condition_id = 20605,
 			condition_name = "base_fish_id",
-			condition_value = 22,
+			condition_value = 16,
 			judge_type = 2,
 		},
 		[171]=
@@ -3155,7 +3155,7 @@ return {
 			id = 173,
 			condition_id = 20606,
 			condition_name = "base_fish_id",
-			condition_value = 23,
+			condition_value = 17,
 			judge_type = 2,
 		},
 		[174]=
@@ -3179,7 +3179,7 @@ return {
 			id = 176,
 			condition_id = 20607,
 			condition_name = "base_fish_id",
-			condition_value = 25,
+			condition_value = 18,
 			judge_type = 2,
 		},
 		[177]=
@@ -3203,7 +3203,7 @@ return {
 			id = 179,
 			condition_id = 20608,
 			condition_name = "base_fish_id",
-			condition_value = 26,
+			condition_value = 20,
 			judge_type = 2,
 		},
 		[180]=

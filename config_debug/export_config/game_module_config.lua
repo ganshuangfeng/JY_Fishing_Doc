@@ -1416,9 +1416,9 @@ return {
 			key = "act_004_jika",
 			desc = "季卡",
 			lua = "Act_004JIKAManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[143]=
 		{
@@ -1426,9 +1426,9 @@ return {
 			key = "act_004_lylb",
 			desc = "0元礼包",
 			lua = "Act_004LYLBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[144]=
 		{
@@ -1446,9 +1446,9 @@ return {
 			key = "act_002_hbfx",
 			desc = "红包分享",
 			lua = "Act_002HBFXManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[146]=
 		{

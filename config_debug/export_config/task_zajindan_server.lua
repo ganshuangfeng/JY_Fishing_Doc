@@ -942,7 +942,7 @@ return {
 		[21016]=
 		{
 			id = 21016,
-			enable = 0,
+			enable = 1,
 			name = "vip3~5周任务",
 			own_type = "vip_week_task_3",
 			task_enum = "vip_week_task",
@@ -956,7 +956,7 @@ return {
 		[21017]=
 		{
 			id = 21017,
-			enable = 0,
+			enable = 1,
 			name = "vip6及以上周任务",
 			own_type = "vip_week_task_6",
 			task_enum = "vip_week_task",
@@ -5114,7 +5114,7 @@ return {
 		[21314]=
 		{
 			id = 21314,
-			enable = 0,
+			enable = 1,
 			name = "vip2周任务",
 			own_type = "vip_week_task_2",
 			task_enum = "vip_week_task",
@@ -5472,6 +5472,20 @@ return {
 			is_reset = 0,
 			reset_delay = 1,
 			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21340]=
+		{
+			id = 21340,
+			enable = 1,
+			name = "VIP赢金挑战第三期",
+			own_type = "vip_new_game_award_task_3",
+			task_enum = "common",
+			process_id = 21340,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1588003200,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -9250,6 +9264,15 @@ return {
 			source_id = 388,
 			process = 2,
 			awards = 582,
+			get_award_type = "nor",
+		},
+		[392]=
+		{
+			id = 392,
+			process_id = 21340,
+			source_id = 389,
+			process = {3000000,3000000,6000000,12000000,24000000,48000000,104000000,200000000,400000000,800000000,1600000000,3200000000,5600000000,12000000000,26000000000},
+			awards = {583,584,585,586,587,588,589,590,591,592,593,594,595,596,597,},
 			get_award_type = "nor",
 		},
 	},
@@ -13097,6 +13120,64 @@ return {
 			source_id = 388,
 			source_type = "zajindan_caishen",
 			condition_id = 262,
+		},
+		[545]=
+		{
+			id = 545,
+			source_id = 389,
+			source_type = "freestyle_game_award",
+			condition_id = 0,
+		},
+		[546]=
+		{
+			id = 546,
+			source_id = 389,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[547]=
+		{
+			id = 547,
+			source_id = 389,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[548]=
+		{
+			id = 548,
+			source_id = 389,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[549]=
+		{
+			id = 549,
+			source_id = 389,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[550]=
+		{
+			id = 550,
+			source_id = 389,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[551]=
+		{
+			id = 551,
+			source_id = 389,
+			source_type = "buyu_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[552]=
+		{
+			id = 552,
+			source_id = 389,
+			source_type = "jykp_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 	},
 	condition=
@@ -22615,6 +22696,126 @@ return {
 			asset_type = "task_21321",
 			asset_count = 1,
 			get_weight = 1,
+		},
+		[815]=
+		{
+			id = 815,
+			award_id = 583,
+			asset_type = "jing_bi",
+			asset_count = 6000,
+			get_weight = 1,
+		},
+		[816]=
+		{
+			id = 816,
+			award_id = 584,
+			asset_type = "jing_bi",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[817]=
+		{
+			id = 817,
+			award_id = 585,
+			asset_type = "shop_gold_sum",
+			asset_count = 200,
+			get_weight = 1,
+		},
+		[818]=
+		{
+			id = 818,
+			award_id = 586,
+			asset_type = "shop_gold_sum",
+			asset_count = 400,
+			get_weight = 1,
+		},
+		[819]=
+		{
+			id = 819,
+			award_id = 587,
+			asset_type = "shop_gold_sum",
+			asset_count = 800,
+			get_weight = 1,
+		},
+		[820]=
+		{
+			id = 820,
+			award_id = 588,
+			asset_type = "shop_gold_sum",
+			asset_count = 1600,
+			get_weight = 1,
+		},
+		[821]=
+		{
+			id = 821,
+			award_id = 589,
+			asset_type = "shop_gold_sum",
+			asset_count = 3500,
+			get_weight = 1,
+		},
+		[822]=
+		{
+			id = 822,
+			award_id = 590,
+			asset_type = "shop_gold_sum",
+			asset_count = 7000,
+			get_weight = 1,
+		},
+		[823]=
+		{
+			id = 823,
+			award_id = 591,
+			asset_type = "shop_gold_sum",
+			asset_count = 14000,
+			get_weight = 1,
+		},
+		[824]=
+		{
+			id = 824,
+			award_id = 592,
+			award_name = "拜尔电动牙刷",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[825]=
+		{
+			id = 825,
+			award_id = 593,
+			award_name = "九阳电炖紫砂锅",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[826]=
+		{
+			id = 826,
+			award_id = 594,
+			award_name = "美的智能烤箱",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[827]=
+		{
+			id = 827,
+			award_id = 595,
+			award_name = "苏泊尔净水器",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[828]=
+		{
+			id = 828,
+			award_id = 596,
+			award_name = "美的冰箱",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[829]=
+		{
+			id = 829,
+			award_id = 597,
+			award_name = "苹果智能手表，北欧真皮沙发，席梦思高端床垫（三选一）",
+			get_weight = 1,
+			is_send_email = 1,
 		},
 	},
 }
