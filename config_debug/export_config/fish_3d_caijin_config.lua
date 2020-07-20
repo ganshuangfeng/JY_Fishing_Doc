@@ -241,7 +241,7 @@ return {
 			num = 50,
 			weight = 1,
 			name = "50福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[2]=
@@ -337,7 +337,7 @@ return {
 			num = 100,
 			weight = 1,
 			name = "100福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[10]=
@@ -433,7 +433,7 @@ return {
 			num = 300,
 			weight = 1,
 			name = "300福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[18]=
@@ -529,7 +529,7 @@ return {
 			num = 500,
 			weight = 1,
 			name = "500福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[26]=
@@ -625,7 +625,7 @@ return {
 			num = 1000,
 			weight = 1,
 			name = "1000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[34]=
@@ -721,7 +721,7 @@ return {
 			num = 3000,
 			weight = 1,
 			name = "3000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[42]=
@@ -756,7 +756,7 @@ return {
 			item = "discount_fish_coin",
 			num = 4000000,
 			weight = 20,
-			name = "鱼币*3000000",
+			name = "鱼币*4000000",
 			icon = "com_award_icon_yb2",
 			real = 0,
 		},
@@ -768,7 +768,7 @@ return {
 			item = "discount_fish_coin",
 			num = 2500000,
 			weight = 1500,
-			name = "鱼币*1080000",
+			name = "鱼币*2500000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
@@ -780,7 +780,7 @@ return {
 			item = "discount_fish_coin",
 			num = 1200000,
 			weight = 1000,
-			name = "鱼币*880000",
+			name = "鱼币*1200000",
 			icon = "com_award_icon_yb1",
 			real = 0,
 		},
@@ -792,7 +792,7 @@ return {
 			item = "discount_fish_coin",
 			num = 800000,
 			weight = 3000,
-			name = "鱼币*660000",
+			name = "鱼币*800000",
 			icon = "com_icon_yb",
 			real = 0,
 		},
@@ -817,7 +817,7 @@ return {
 			num = 300,
 			weight = 1,
 			name = "300福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[50]=
@@ -913,7 +913,7 @@ return {
 			num = 1000,
 			weight = 1,
 			name = "1000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[58]=
@@ -1009,7 +1009,7 @@ return {
 			num = 2000,
 			weight = 1,
 			name = "2000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[66]=
@@ -1105,7 +1105,7 @@ return {
 			num = 5000,
 			weight = 1,
 			name = "5000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[74]=
@@ -1201,7 +1201,7 @@ return {
 			num = 8000,
 			weight = 1,
 			name = "8000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[82]=
@@ -1297,7 +1297,7 @@ return {
 			num = 15000,
 			weight = 1,
 			name = "15000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[90]=
@@ -1393,7 +1393,7 @@ return {
 			num = 2000,
 			weight = 1,
 			name = "2000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[98]=
@@ -1489,7 +1489,7 @@ return {
 			num = 10000,
 			weight = 1,
 			name = "10000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[106]=
@@ -1585,7 +1585,7 @@ return {
 			num = 30000,
 			weight = 1,
 			name = "30000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[114]=
@@ -1681,7 +1681,7 @@ return {
 			num = 50000,
 			weight = 1,
 			name = "50000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[122]=
@@ -1777,7 +1777,7 @@ return {
 			num = 80000,
 			weight = 1,
 			name = "80000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[130]=
@@ -1873,7 +1873,7 @@ return {
 			num = 100000,
 			weight = 1,
 			name = "100000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[138]=
@@ -1969,7 +1969,7 @@ return {
 			num = 5000,
 			weight = 1,
 			name = "5000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[146]=
@@ -2065,7 +2065,7 @@ return {
 			num = 8000,
 			weight = 1,
 			name = "8000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[154]=
@@ -2161,7 +2161,7 @@ return {
 			num = 30000,
 			weight = 1,
 			name = "30000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[162]=
@@ -2257,7 +2257,7 @@ return {
 			num = 50000,
 			weight = 1,
 			name = "50000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[170]=
@@ -2353,7 +2353,7 @@ return {
 			num = 80000,
 			weight = 1,
 			name = "80000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 0,
 		},
 		[178]=
@@ -2449,7 +2449,7 @@ return {
 			num = 150000,
 			weight = 1,
 			name = "150000福利券",
-			icon = "com_award_icon_money",
+			icon = "ls_icon_hb1",
 			real = 1,
 		},
 		[186]=

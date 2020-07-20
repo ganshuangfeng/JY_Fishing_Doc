@@ -415,7 +415,7 @@ return {
 		{
 			id = 17,
 			parm = {"by_drb",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[18]=
 		{
