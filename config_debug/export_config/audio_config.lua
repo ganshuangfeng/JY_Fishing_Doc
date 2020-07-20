@@ -4285,5 +4285,11 @@ return {
 			audio_name = "bgm_sdbgj_swk_bgj_duihua.mp3",
 			desc = "免费游戏前白骨精对话",
 		},
+		bgm_sdbgj_jinru=
+		{
+			name = "bgm_sdbgj_jinru",
+			audio_name = "bgm_sdbgj_jinru.mp3",
+			desc = "打开游戏，孙悟空说话",
+		},
 	},
 }

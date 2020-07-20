@@ -19,6 +19,12 @@ return {
 			area = "top_right",
 			group_list = "72#",
 		},
+		[4]=
+		{
+			id = 4,
+			area = "center_top",
+			group_list = "80#",
+		},
 	},
 	xxlsh_game=
 	{
@@ -236,13 +242,13 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "40#43#74#72",
+			group_list = "40#43#79#72",
 		},
 		[2]=
 		{
 			id = 2,
 			area = "top",
-			group_list = "64#78#",
+			group_list = "82#",
 		},
 		[3]=
 		{
@@ -254,7 +260,13 @@ return {
 		{
 			id = 4,
 			area = "down2",
-			group_list = "79#",
+			group_list = "74#",
+		},
+		[5]=
+		{
+			id = 5,
+			area = "top2",
+			group_list = "64#",
 		},
 	},
 	fishing3d_hall=
@@ -306,7 +318,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			parm = {"ty_gift",},
+			parm = {"ty_gift","enter_gift_kllb"},
 			is_on_off = 0,
 		},
 		[2]=
@@ -379,19 +391,19 @@ return {
 		{
 			id = 13,
 			parm = {"xxlsg_phb",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[14]=
 		{
 			id = 14,
 			parm = {"xxlsh_mrrw",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[15]=
 		{
 			id = 15,
 			parm = {"xxlsg_mrrw",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[16]=
 		{
@@ -420,7 +432,7 @@ return {
 		[20]=
 		{
 			id = 20,
-			parm = {"ty_gift",},
+			parm = {"ty_gift","enter_gift_bybs"},
 			is_on_off = 1,
 		},
 		[21]=
@@ -480,7 +492,7 @@ return {
 		[30]=
 		{
 			id = 30,
-			parm = {"ty_gift","gift_cglb"},
+			parm = {"ty_gift","enter_gift_cglb"},
 			is_on_off = 1,
 		},
 		[31]=
@@ -595,7 +607,7 @@ return {
 		{
 			id = 49,
 			parm = {"sys_shphb",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[50]=
 		{
@@ -775,6 +787,24 @@ return {
 		{
 			id = 79,
 			parm = {"sys_by_level","enter2"},
+			is_on_off = 1,
+		},
+		[80]=
+		{
+			id = 80,
+			parm = {"act_016_xyxcwk",},
+			is_on_off = 1,
+		},
+		[81]=
+		{
+			id = 81,
+			parm = {"by3d_task",},
+			is_on_off = 1,
+		},
+		[82]=
+		{
+			id = 82,
+			parm = {"by3d_top_qh",},
 			is_on_off = 1,
 		},
 	},

@@ -184,7 +184,7 @@ return {
 		[12514]=
 		{
 			id = 12514,
-			enable = 1,
+			enable = 0,
 			name = "游戏分享",
 			own_type = "normal",
 			task_enum = "common",
@@ -210,7 +210,7 @@ return {
 		[12516]=
 		{
 			id = 12516,
-			enable = 0,
+			enable = 1,
 			name = "击杀彩金鱼",
 			own_type = "normal",
 			task_enum = "common",
@@ -472,7 +472,7 @@ return {
 			id = 16,
 			process_id = 12516,
 			source_id = 16,
-			process = 2,
+			process = 3,
 			awards = 1005,
 			get_award_type = "nor",
 		},
@@ -1059,7 +1059,7 @@ return {
 			id = 1,
 			award_id = 1001,
 			asset_type = "jing_bi",
-			asset_count = 10000,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[2]=
@@ -1067,7 +1067,7 @@ return {
 			id = 2,
 			award_id = 1001,
 			asset_type = "task_13000",
-			asset_count = 20,
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[3]=
@@ -1123,7 +1123,7 @@ return {
 			id = 9,
 			award_id = 1005,
 			asset_type = "jing_bi",
-			asset_count = 2500,
+			asset_count = 20000,
 			get_weight = 1,
 		},
 		[10]=
@@ -1131,7 +1131,7 @@ return {
 			id = 10,
 			award_id = 1005,
 			asset_type = "task_13000",
-			asset_count = 20,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[11]=
@@ -1171,7 +1171,7 @@ return {
 			id = 15,
 			award_id = 1008,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[16]=
@@ -1187,7 +1187,7 @@ return {
 			id = 17,
 			award_id = 1009,
 			asset_type = "jing_bi",
-			asset_count = 25000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[18]=
@@ -1203,7 +1203,7 @@ return {
 			id = 19,
 			award_id = 1010,
 			asset_type = "jing_bi",
-			asset_count = 25000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[20]=
@@ -1219,7 +1219,7 @@ return {
 			id = 21,
 			award_id = 1011,
 			asset_type = "jing_bi",
-			asset_count = 30000,
+			asset_count = 20000,
 			get_weight = 1,
 		},
 		[22]=
@@ -1235,7 +1235,7 @@ return {
 			id = 23,
 			award_id = 1012,
 			asset_type = "shop_gold_sum",
-			asset_count = 50,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[24]=
@@ -1283,36 +1283,44 @@ return {
 			id = 29,
 			award_id = 2003,
 			asset_type = "fish_coin",
-			asset_count = 30000,
+			asset_count = 20000,
 			get_weight = 1,
 		},
 		[30]=
 		{
 			id = 30,
-			award_id = 2004,
-			asset_type = "fish_coin",
-			asset_count = 25000,
+			award_id = 2003,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[31]=
 		{
 			id = 31,
 			award_id = 2004,
-			asset_type = "prop_tiny_game_coin",
-			asset_count = 25000,
+			asset_type = "fish_coin",
+			asset_count = 30000,
 			get_weight = 1,
 		},
 		[32]=
 		{
 			id = 32,
-			award_id = 2005,
-			asset_type = "jing_bi",
-			asset_count = 50000,
+			award_id = 2004,
+			asset_type = "shop_gold_sum",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[33]=
 		{
 			id = 33,
+			award_id = 2005,
+			asset_type = "jing_bi",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[34]=
+		{
+			id = 34,
 			award_id = 2005,
 			asset_type = "shop_gold_sum",
 			asset_count = 50,

@@ -1006,9 +1006,9 @@ return {
 			key = "xrhb1",
 			desc = "新人红包任务(VIP红包任务，和游戏的新手引导等有牵连)",
 			lua = "ActivityXRHB1Logic",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[102]=
 		{
@@ -1416,9 +1416,9 @@ return {
 			key = "act_004_jika",
 			desc = "季卡",
 			lua = "Act_004JIKAManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[143]=
 		{
@@ -1426,9 +1426,9 @@ return {
 			key = "act_004_lylb",
 			desc = "0元礼包",
 			lua = "Act_004LYLBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[144]=
 		{
@@ -1446,9 +1446,9 @@ return {
 			key = "act_002_hbfx",
 			desc = "红包分享",
 			lua = "Act_002HBFXManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[146]=
 		{
@@ -2325,6 +2325,36 @@ return {
 			key = "sys_flqcj",
 			desc = "福利券抽奖",
 			lua = "SYSFLQCJManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[239]=
+		{
+			id = 239,
+			key = "act_016_xyxcwk",
+			desc = "畅玩卡",
+			lua = "Act_016_XYXCWKManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[240]=
+		{
+			id = 240,
+			key = "by3d_task",
+			desc = "3D捕鱼挑战任务",
+			lua = "BY3DTaskManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[241]=
+		{
+			id = 241,
+			key = "by3d_top_qh",
+			desc = "3D捕鱼游戏上方区域",
+			lua = "BY3DTopQHManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
