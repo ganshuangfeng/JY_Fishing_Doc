@@ -667,7 +667,7 @@ return {
 			shop_type = "shop",
 			price = 19800,
 			buy_asset_type = {"diamond",},
-			buy_asset_count = {198000,},
+			buy_asset_count = {19800,},
 			gift_asset_type = {nil,},
 			gift_asset_count = {100,200,300},
 			type = "goods",
