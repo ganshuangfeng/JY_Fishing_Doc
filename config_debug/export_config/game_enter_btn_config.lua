@@ -391,19 +391,19 @@ return {
 		{
 			id = 13,
 			parm = {"xxlsg_phb",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[14]=
 		{
 			id = 14,
 			parm = {"xxlsh_mrrw",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[15]=
 		{
 			id = 15,
 			parm = {"xxlsg_mrrw",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[16]=
 		{
@@ -607,7 +607,7 @@ return {
 		{
 			id = 49,
 			parm = {"sys_shphb",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[50]=
 		{

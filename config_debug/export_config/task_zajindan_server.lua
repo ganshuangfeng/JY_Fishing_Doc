@@ -22662,7 +22662,7 @@ return {
 			id = 810,
 			award_id = 580,
 			asset_type = "jing_bi",
-			asset_count = 30000,
+			asset_count = 300000,
 			get_weight = 1,
 		},
 		[811]=

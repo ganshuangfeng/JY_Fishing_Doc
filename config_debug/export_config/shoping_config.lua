@@ -8035,7 +8035,7 @@ return {
 			shop_type = "gift_bag",
 			price = 9900,
 			buy_asset_type = {"jing_bi",},
-			buy_asset_count = {500000,},
+			buy_asset_count = {5000000,},
 			buy_limt = {2592000,1,0},
 			count = 99999999,
 			start_time = 1592263800,

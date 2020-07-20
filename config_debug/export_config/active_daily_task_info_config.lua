@@ -116,7 +116,7 @@ return {
 			task_award_icon = {"ty_icon_flq3","ty_icon_hytb",},
 			task_award_instruction = {"福利券","活跃度"},
 			task_award_count = {"x30","x50"},
-			gotoui = {"shop_bay",},
+			gotoui = {"shop_bay","jing_bi"},
 		},
 	},
 }
