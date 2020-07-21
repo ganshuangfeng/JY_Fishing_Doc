@@ -55,7 +55,7 @@ return {
 			ID = 4,
 			title = "玩家微信交流群",
 			order = 2,
-			isOnOff = 1,
+			isOnOff = 0,
 			beginTime = -1,
 			endTime = -1,
 			noCloseUI = 1,

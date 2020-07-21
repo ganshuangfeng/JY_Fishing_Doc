@@ -545,6 +545,7 @@ return {
 		{
 			key = "fishing_2",
 			name = "捕鱼深海寻宝",
+			condi = 22,
 		},
 		fishing_2_1=
 		{
@@ -1377,111 +1378,133 @@ return {
 		{
 			key = "fishing3d_2",
 			name = "神秘海域",
+			condi = 204,
 		},
 		fishing3d_2_1=
 		{
 			key = "fishing3d_2_1",
 			name = "捕鱼神秘海域100倍",
+			condi = 205,
 		},
 		fishing3d_2_2=
 		{
 			key = "fishing3d_2_2",
 			name = "捕鱼神秘海域200倍",
+			condi = 206,
 		},
 		fishing3d_2_3=
 		{
 			key = "fishing3d_2_3",
 			name = "捕鱼神秘海域300倍",
+			condi = 207,
 		},
 		fishing3d_2_4=
 		{
 			key = "fishing3d_2_4",
 			name = "捕鱼神秘海域400倍",
+			condi = 208,
 		},
 		fishing3d_2_5=
 		{
 			key = "fishing3d_2_5",
 			name = "捕鱼神秘海域500倍",
+			condi = 209,
 		},
 		fishing3d_2_6=
 		{
 			key = "fishing3d_2_6",
 			name = "捕鱼神秘海域600倍",
+			condi = 210,
 		},
 		fishing3d_2_7=
 		{
 			key = "fishing3d_2_7",
 			name = "捕鱼神秘海域700倍",
+			condi = 211,
 		},
 		fishing3d_2_8=
 		{
 			key = "fishing3d_2_8",
 			name = "捕鱼神秘海域800倍",
+			condi = 212,
 		},
 		fishing3d_2_9=
 		{
 			key = "fishing3d_2_9",
 			name = "捕鱼神秘海域900倍",
+			condi = 213,
 		},
 		fishing3d_2_10=
 		{
 			key = "fishing3d_2_10",
 			name = "捕鱼神秘海域1000倍",
+			condi = 214,
 		},
 		fishing3d_3=
 		{
 			key = "fishing3d_3",
 			name = "捕鱼海底宝藏",
+			condi = 215,
 		},
 		fishing3d_3_1=
 		{
 			key = "fishing3d_3_1",
 			name = "捕鱼海底宝藏1000倍",
+			condi = 216,
 		},
 		fishing3d_3_2=
 		{
 			key = "fishing3d_3_2",
 			name = "捕鱼海底宝藏2000倍",
+			condi = 217,
 		},
 		fishing3d_3_3=
 		{
 			key = "fishing3d_3_3",
 			name = "捕鱼海底宝藏3000倍",
+			condi = 218,
 		},
 		fishing3d_3_4=
 		{
 			key = "fishing3d_3_4",
 			name = "捕鱼海底宝藏4000倍",
+			condi = 219,
 		},
 		fishing3d_3_5=
 		{
 			key = "fishing3d_3_5",
 			name = "捕鱼海底宝藏5000倍",
+			condi = 220,
 		},
 		fishing3d_3_6=
 		{
 			key = "fishing3d_3_6",
 			name = "捕鱼海底宝藏6000倍",
+			condi = 221,
 		},
 		fishing3d_3_7=
 		{
 			key = "fishing3d_3_7",
 			name = "捕鱼海底宝藏7000倍",
+			condi = 222,
 		},
 		fishing3d_3_8=
 		{
 			key = "fishing3d_3_8",
 			name = "捕鱼海底宝藏8000倍",
+			condi = 223,
 		},
 		fishing3d_3_9=
 		{
 			key = "fishing3d_3_9",
 			name = "捕鱼海底宝藏9000倍",
+			condi = 224,
 		},
 		fishing3d_3_10=
 		{
 			key = "fishing3d_3_10",
 			name = "捕鱼海底宝藏10000倍",
+			condi = 225,
 		},
 		fishing3d_4=
 		{
@@ -1594,6 +1617,42 @@ return {
 		{
 			key = "fishing3d_5_10",
 			name = "捕鱼深海沉船1000000倍",
+		},
+		tantanle_level=
+		{
+			key = "tantanle_level",
+			name = "弹弹乐 V1orLV5",
+			condi = 226,
+		},
+		sgxxl_level=
+		{
+			key = "sgxxl_level",
+			name = "水果消消乐  V1orLV8",
+			condi = 227,
+		},
+		zjd_level=
+		{
+			key = "zjd_level",
+			name = "砸金蛋  V1orLV11",
+			condi = 228,
+		},
+		fishing_1=
+		{
+			key = "fishing_1",
+			name = "2D捕鱼场解锁  V1orLV12",
+			condi = 229,
+		},
+		shxxl_level=
+		{
+			key = "shxxl_level",
+			name = "水浒消消乐  V1orLV15",
+			condi = 230,
+		},
+		csxxl_level=
+		{
+			key = "csxxl_level",
+			name = "财神消消乐  V1orLV18",
+			condi = 231,
 		},
 	},
 	act_permission=
@@ -4573,6 +4632,126 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 1592868600,
+		},
+		[249]=
+		{
+			id = 249,
+			enable = 1,
+			key = "actp_buy_gift_bag_10244",
+			name = "VIP1钜惠礼包",
+			condi = 232,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1588028400,
+		},
+		[250]=
+		{
+			id = 250,
+			enable = 1,
+			key = "actp_buy_gift_bag_10245",
+			name = "VIP2钜惠礼包",
+			condi = 233,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1588028400,
+		},
+		[251]=
+		{
+			id = 251,
+			enable = 1,
+			key = "actp_buy_gift_bag_10246",
+			name = "VIP3钜惠礼包",
+			condi = 234,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1588028400,
+		},
+		[252]=
+		{
+			id = 252,
+			enable = 1,
+			key = "actp_buy_gift_bag_10247",
+			name = "VIP4钜惠礼包",
+			condi = 235,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1588028400,
+		},
+		[253]=
+		{
+			id = 253,
+			enable = 1,
+			key = "actp_buy_gift_bag_10248",
+			name = "VIP5钜惠礼包",
+			condi = 236,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1588028400,
+		},
+		[254]=
+		{
+			id = 254,
+			enable = 1,
+			key = "actp_buy_gift_bag_10249",
+			name = "VIP6钜惠礼包",
+			condi = 237,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1588028400,
+		},
+		[255]=
+		{
+			id = 255,
+			enable = 1,
+			key = "actp_buy_gift_bag_10250",
+			name = "VIP7钜惠礼包",
+			condi = 238,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1588028400,
+		},
+		[256]=
+		{
+			id = 256,
+			enable = 1,
+			key = "actp_buy_gift_bag_10251",
+			name = "VIP8钜惠礼包",
+			condi = 239,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1588028400,
+		},
+		[257]=
+		{
+			id = 257,
+			enable = 1,
+			key = "actp_buy_gift_bag_10252",
+			name = "VIP9钜惠礼包",
+			condi = 240,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1588028400,
+		},
+		[258]=
+		{
+			id = 258,
+			enable = 1,
+			key = "actp_buy_gift_bag_10253",
+			name = "VIP10钜惠礼包",
+			condi = 241,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1588028400,
 		},
 	},
 	condi=
@@ -10126,6 +10305,456 @@ return {
 			judge = 3,
 			group = 3,
 			error_desc = "VIP1及以上的用户才可体验",
+		},
+		[556]=
+		{
+			no = 556,
+			id = 204,
+			var = "player_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv1开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[557]=
+		{
+			no = 557,
+			id = 205,
+			var = "player_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv1开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[558]=
+		{
+			no = 558,
+			id = 206,
+			var = "player_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv1开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[559]=
+		{
+			no = 559,
+			id = 207,
+			var = "player_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv1开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[560]=
+		{
+			no = 560,
+			id = 208,
+			var = "player_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv1开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[561]=
+		{
+			no = 561,
+			id = 209,
+			var = "player_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv1开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[562]=
+		{
+			no = 562,
+			id = 210,
+			var = "player_level",
+			value = 2,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv2开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[563]=
+		{
+			no = 563,
+			id = 211,
+			var = "player_level",
+			value = 3,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv3开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[564]=
+		{
+			no = 564,
+			id = 212,
+			var = "player_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv4开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[565]=
+		{
+			no = 565,
+			id = 213,
+			var = "player_level",
+			value = 5,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv5开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[566]=
+		{
+			no = 566,
+			id = 214,
+			var = "player_level",
+			value = 6,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv6开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[567]=
+		{
+			no = 567,
+			id = 215,
+			var = "player_level",
+			value = 12,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[568]=
+		{
+			no = 568,
+			id = 215,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[569]=
+		{
+			no = 569,
+			id = 216,
+			var = "player_level",
+			value = 12,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[570]=
+		{
+			no = 570,
+			id = 216,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[571]=
+		{
+			no = 571,
+			id = 217,
+			var = "player_level",
+			value = 13,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv13开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[572]=
+		{
+			no = 572,
+			id = 218,
+			var = "player_level",
+			value = 14,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv14开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[573]=
+		{
+			no = 573,
+			id = 219,
+			var = "player_level",
+			value = 15,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv15开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[574]=
+		{
+			no = 574,
+			id = 220,
+			var = "player_level",
+			value = 16,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv16开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[575]=
+		{
+			no = 575,
+			id = 221,
+			var = "player_level",
+			value = 17,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv17开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[576]=
+		{
+			no = 576,
+			id = 222,
+			var = "player_level",
+			value = 18,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv18开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[577]=
+		{
+			no = 577,
+			id = 223,
+			var = "player_level",
+			value = 19,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv19开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[578]=
+		{
+			no = 578,
+			id = 224,
+			var = "player_level",
+			value = 20,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv20开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[579]=
+		{
+			no = 579,
+			id = 225,
+			var = "player_level",
+			value = 21,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv21开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[580]=
+		{
+			no = 580,
+			id = 226,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv5开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[581]=
+		{
+			no = 581,
+			id = 226,
+			var = "player_level",
+			value = 5,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv5开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[582]=
+		{
+			no = 582,
+			id = 227,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[583]=
+		{
+			no = 583,
+			id = 227,
+			var = "player_level",
+			value = 7,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[584]=
+		{
+			no = 584,
+			id = 228,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[585]=
+		{
+			no = 585,
+			id = 228,
+			var = "player_level",
+			value = 9,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[586]=
+		{
+			no = 586,
+			id = 229,
+			var = "player_level",
+			value = 12,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[587]=
+		{
+			no = 587,
+			id = 230,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[588]=
+		{
+			no = 588,
+			id = 230,
+			var = "player_level",
+			value = 11,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[589]=
+		{
+			no = 589,
+			id = 231,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv14开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[590]=
+		{
+			no = 590,
+			id = 231,
+			var = "player_level",
+			value = 14,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv14开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[591]=
+		{
+			no = 591,
+			id = 232,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "需要Vip1及以上才可购买，商城充值可以提升Vip等级！",
+		},
+		[592]=
+		{
+			no = 592,
+			id = 233,
+			var = "vip_level",
+			value = 2,
+			judge = 3,
+			group = 1,
+			error_desc = "需要Vip2及以上才可购买，商城充值可以提升Vip等级！",
+		},
+		[593]=
+		{
+			no = 593,
+			id = 234,
+			var = "vip_level",
+			value = 3,
+			judge = 3,
+			group = 1,
+			error_desc = "需要Vip3及以上才可购买，商城充值可以提升Vip等级！",
+		},
+		[594]=
+		{
+			no = 594,
+			id = 235,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "需要Vip4及以上才可购买，商城充值可以提升Vip等级！",
+		},
+		[595]=
+		{
+			no = 595,
+			id = 236,
+			var = "vip_level",
+			value = 5,
+			judge = 3,
+			group = 1,
+			error_desc = "需要Vip5及以上才可购买，商城充值可以提升Vip等级！",
+		},
+		[596]=
+		{
+			no = 596,
+			id = 237,
+			var = "vip_level",
+			value = 6,
+			judge = 3,
+			group = 1,
+			error_desc = "需要Vip6及以上才可购买，商城充值可以提升Vip等级！",
+		},
+		[597]=
+		{
+			no = 597,
+			id = 238,
+			var = "vip_level",
+			value = 7,
+			judge = 3,
+			group = 1,
+			error_desc = "需要Vip7及以上才可购买，商城充值可以提升Vip等级！",
+		},
+		[598]=
+		{
+			no = 598,
+			id = 239,
+			var = "vip_level",
+			value = 8,
+			judge = 3,
+			group = 1,
+			error_desc = "需要Vip8及以上才可购买，商城充值可以提升Vip等级！",
+		},
+		[599]=
+		{
+			no = 599,
+			id = 240,
+			var = "vip_level",
+			value = 9,
+			judge = 3,
+			group = 1,
+			error_desc = "需要Vip9及以上才可购买，商城充值可以提升Vip等级！",
+		},
+		[600]=
+		{
+			no = 600,
+			id = 241,
+			var = "vip_level",
+			value = 10,
+			judge = 3,
+			group = 1,
+			error_desc = "需要Vip10及以上才可购买，商城充值可以提升Vip等级！",
 		},
 	},
 	share_condition=

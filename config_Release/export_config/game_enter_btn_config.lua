@@ -13,6 +13,18 @@ return {
 			area = "center1",
 			group_list = "15#",
 		},
+		[3]=
+		{
+			id = 3,
+			area = "top_right",
+			group_list = "72#",
+		},
+		[4]=
+		{
+			id = 4,
+			area = "center_top",
+			group_list = "80#",
+		},
 	},
 	xxlsh_game=
 	{
@@ -86,6 +98,12 @@ return {
 		{
 			id = 2,
 			area = "down",
+		},
+		[3]=
+		{
+			id = 3,
+			area = "top",
+			group_list = "72#",
 		},
 	},
 	hall_config=
@@ -224,19 +242,31 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "43#40#26",
+			group_list = "40#43#79#72",
 		},
 		[2]=
 		{
 			id = 2,
 			area = "top",
-			group_list = "64#71#",
+			group_list = "82#",
 		},
 		[3]=
 		{
 			id = 3,
 			area = "Right_top",
-			group_list = "69#",
+			group_list = "69#73#",
+		},
+		[4]=
+		{
+			id = 4,
+			area = "down2",
+			group_list = "74#",
+		},
+		[5]=
+		{
+			id = 5,
+			area = "top2",
+			group_list = "64#",
 		},
 	},
 	fishing3d_hall=
@@ -251,7 +281,36 @@ return {
 		{
 			id = 2,
 			area = "center",
-			group_list = "67#68#",
+		},
+		[3]=
+		{
+			id = 3,
+			area = "top_right",
+			group_list = "72#",
+		},
+		[4]=
+		{
+			id = 4,
+			area = "center2",
+			group_list = "71#",
+		},
+		[5]=
+		{
+			id = 5,
+			area = "center3",
+			group_list = "75#",
+		},
+		[6]=
+		{
+			id = 6,
+			area = "center4",
+			group_list = "76#67",
+		},
+		[7]=
+		{
+			id = 7,
+			area = "center5",
+			group_list = "77#68",
 		},
 	},
 	all_enter=
@@ -259,7 +318,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			parm = {"ty_gift",},
+			parm = {"ty_gift","enter_gift_kllb"},
 			is_on_off = 0,
 		},
 		[2]=
@@ -271,7 +330,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			parm = {"xycj",},
+			parm = {"sys_flqcj",},
 			is_on_off = 1,
 		},
 		[4]=
@@ -332,19 +391,19 @@ return {
 		{
 			id = 13,
 			parm = {"xxlsg_phb",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[14]=
 		{
 			id = 14,
 			parm = {"xxlsh_mrrw",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[15]=
 		{
 			id = 15,
 			parm = {"xxlsg_mrrw",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[16]=
 		{
@@ -356,7 +415,7 @@ return {
 		{
 			id = 17,
 			parm = {"by_drb",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[18]=
 		{
@@ -373,7 +432,7 @@ return {
 		[20]=
 		{
 			id = 20,
-			parm = {"ty_gift",},
+			parm = {"ty_gift","enter_gift_bybs"},
 			is_on_off = 1,
 		},
 		[21]=
@@ -433,7 +492,7 @@ return {
 		[30]=
 		{
 			id = 30,
-			parm = {"ty_gift","gift_cglb"},
+			parm = {"ty_gift","enter_gift_cglb"},
 			is_on_off = 1,
 		},
 		[31]=
@@ -548,7 +607,7 @@ return {
 		{
 			id = 49,
 			parm = {"sys_shphb",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[50]=
 		{
@@ -679,7 +738,73 @@ return {
 		[71]=
 		{
 			id = 71,
-			parm = {"by3d_kpshb",},
+			parm = {"by3d_kpshb","2"},
+			is_on_off = 1,
+		},
+		[72]=
+		{
+			id = 72,
+			parm = {"sys_dui_huan",},
+			is_on_off = 1,
+		},
+		[73]=
+		{
+			id = 73,
+			parm = {"by_bossts",},
+			is_on_off = 1,
+		},
+		[74]=
+		{
+			id = 74,
+			parm = {"sys_active_daily_task",},
+			is_on_off = 1,
+		},
+		[75]=
+		{
+			id = 75,
+			parm = {"by3d_kpshb","3"},
+			is_on_off = 1,
+		},
+		[76]=
+		{
+			id = 76,
+			parm = {"by3d_kpshb","4"},
+			is_on_off = 1,
+		},
+		[77]=
+		{
+			id = 77,
+			parm = {"by3d_kpshb","5"},
+			is_on_off = 1,
+		},
+		[78]=
+		{
+			id = 78,
+			parm = {"by3d_kpshb","game"},
+			is_on_off = 1,
+		},
+		[79]=
+		{
+			id = 79,
+			parm = {"sys_by_level","enter2"},
+			is_on_off = 1,
+		},
+		[80]=
+		{
+			id = 80,
+			parm = {"act_016_xyxcwk",},
+			is_on_off = 1,
+		},
+		[81]=
+		{
+			id = 81,
+			parm = {"by3d_task",},
+			is_on_off = 1,
+		},
+		[82]=
+		{
+			id = 82,
+			parm = {"by3d_top_qh",},
 			is_on_off = 1,
 		},
 	},

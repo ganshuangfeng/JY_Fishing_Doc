@@ -337,6 +337,510 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = 200,
 		},
+		[20300]=
+		{
+			id = 20300,
+			enable = 1,
+			name = "渔场2",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20300,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20301]=
+		{
+			id = 20301,
+			enable = 1,
+			name = "渔场2",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20301,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20302]=
+		{
+			id = 20302,
+			enable = 1,
+			name = "渔场2",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20302,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20303]=
+		{
+			id = 20303,
+			enable = 1,
+			name = "渔场2",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20303,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20304]=
+		{
+			id = 20304,
+			enable = 1,
+			name = "渔场2",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20304,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20305]=
+		{
+			id = 20305,
+			enable = 1,
+			name = "渔场2",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20305,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20306]=
+		{
+			id = 20306,
+			enable = 1,
+			name = "渔场2",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20306,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20307]=
+		{
+			id = 20307,
+			enable = 1,
+			name = "渔场2",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20307,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20308]=
+		{
+			id = 20308,
+			enable = 1,
+			name = "渔场2",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20308,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20400]=
+		{
+			id = 20400,
+			enable = 1,
+			name = "渔场3",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20400,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20401]=
+		{
+			id = 20401,
+			enable = 1,
+			name = "渔场3",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20401,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20402]=
+		{
+			id = 20402,
+			enable = 1,
+			name = "渔场3",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20402,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20403]=
+		{
+			id = 20403,
+			enable = 1,
+			name = "渔场3",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20403,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20404]=
+		{
+			id = 20404,
+			enable = 1,
+			name = "渔场3",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20404,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20405]=
+		{
+			id = 20405,
+			enable = 1,
+			name = "渔场3",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20405,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20406]=
+		{
+			id = 20406,
+			enable = 1,
+			name = "渔场3",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20406,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20407]=
+		{
+			id = 20407,
+			enable = 1,
+			name = "渔场3",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20407,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20408]=
+		{
+			id = 20408,
+			enable = 1,
+			name = "渔场3",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20408,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20500]=
+		{
+			id = 20500,
+			enable = 1,
+			name = "渔场4",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20500,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20501]=
+		{
+			id = 20501,
+			enable = 1,
+			name = "渔场4",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20501,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20502]=
+		{
+			id = 20502,
+			enable = 1,
+			name = "渔场4",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20502,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20503]=
+		{
+			id = 20503,
+			enable = 1,
+			name = "渔场4",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20503,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20504]=
+		{
+			id = 20504,
+			enable = 1,
+			name = "渔场4",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20504,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20505]=
+		{
+			id = 20505,
+			enable = 1,
+			name = "渔场4",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20505,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20506]=
+		{
+			id = 20506,
+			enable = 1,
+			name = "渔场4",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20506,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20507]=
+		{
+			id = 20507,
+			enable = 1,
+			name = "渔场4",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20507,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20508]=
+		{
+			id = 20508,
+			enable = 1,
+			name = "渔场4",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20508,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20600]=
+		{
+			id = 20600,
+			enable = 1,
+			name = "渔场5",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20600,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20601]=
+		{
+			id = 20601,
+			enable = 1,
+			name = "渔场5",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20601,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20602]=
+		{
+			id = 20602,
+			enable = 1,
+			name = "渔场5",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20602,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20603]=
+		{
+			id = 20603,
+			enable = 1,
+			name = "渔场5",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20603,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20604]=
+		{
+			id = 20604,
+			enable = 1,
+			name = "渔场5",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20604,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20605]=
+		{
+			id = 20605,
+			enable = 1,
+			name = "渔场5",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20605,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20606]=
+		{
+			id = 20606,
+			enable = 1,
+			name = "渔场5",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20606,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20607]=
+		{
+			id = 20607,
+			enable = 1,
+			name = "渔场5",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20607,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
+		[20608]=
+		{
+			id = 20608,
+			enable = 1,
+			name = "渔场5",
+			own_type = "buyu_3d_challenge_children_task",
+			task_enum = "common",
+			process_id = 20608,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = 200,
+		},
 	},
 	process_data=
 	{
@@ -556,6 +1060,294 @@ return {
 			process = 1,
 			get_award_type = "nor",
 		},
+		[25]=
+		{
+			id = 25,
+			process_id = 20300,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 25,
+			process = 3,
+		},
+		[26]=
+		{
+			id = 26,
+			process_id = 20301,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 26,
+			process = 3,
+		},
+		[27]=
+		{
+			id = 27,
+			process_id = 20302,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 27,
+			process = 3,
+		},
+		[28]=
+		{
+			id = 28,
+			process_id = 20303,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 28,
+			process = 2,
+		},
+		[29]=
+		{
+			id = 29,
+			process_id = 20304,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 29,
+			process = 2,
+		},
+		[30]=
+		{
+			id = 30,
+			process_id = 20305,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 30,
+			process = 2,
+		},
+		[31]=
+		{
+			id = 31,
+			process_id = 20306,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 31,
+			process = 2,
+		},
+		[32]=
+		{
+			id = 32,
+			process_id = 20307,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 32,
+			process = 1,
+		},
+		[33]=
+		{
+			id = 33,
+			process_id = 20308,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 33,
+			process = 1,
+		},
+		[34]=
+		{
+			id = 34,
+			process_id = 20400,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 34,
+			process = 3,
+		},
+		[35]=
+		{
+			id = 35,
+			process_id = 20401,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 35,
+			process = 3,
+		},
+		[36]=
+		{
+			id = 36,
+			process_id = 20402,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 36,
+			process = 3,
+		},
+		[37]=
+		{
+			id = 37,
+			process_id = 20403,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 37,
+			process = 2,
+		},
+		[38]=
+		{
+			id = 38,
+			process_id = 20404,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 38,
+			process = 2,
+		},
+		[39]=
+		{
+			id = 39,
+			process_id = 20405,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 39,
+			process = 2,
+		},
+		[40]=
+		{
+			id = 40,
+			process_id = 20406,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 40,
+			process = 2,
+		},
+		[41]=
+		{
+			id = 41,
+			process_id = 20407,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 41,
+			process = 1,
+		},
+		[42]=
+		{
+			id = 42,
+			process_id = 20408,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 42,
+			process = 1,
+		},
+		[43]=
+		{
+			id = 43,
+			process_id = 20500,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 43,
+			process = 3,
+		},
+		[44]=
+		{
+			id = 44,
+			process_id = 20501,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 44,
+			process = 3,
+		},
+		[45]=
+		{
+			id = 45,
+			process_id = 20502,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 45,
+			process = 3,
+		},
+		[46]=
+		{
+			id = 46,
+			process_id = 20503,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 46,
+			process = 2,
+		},
+		[47]=
+		{
+			id = 47,
+			process_id = 20504,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 47,
+			process = 2,
+		},
+		[48]=
+		{
+			id = 48,
+			process_id = 20505,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 48,
+			process = 2,
+		},
+		[49]=
+		{
+			id = 49,
+			process_id = 20506,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 49,
+			process = 2,
+		},
+		[50]=
+		{
+			id = 50,
+			process_id = 20507,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 50,
+			process = 1,
+		},
+		[51]=
+		{
+			id = 51,
+			process_id = 20508,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 51,
+			process = 1,
+		},
+		[52]=
+		{
+			id = 52,
+			process_id = 20600,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 52,
+			process = 3,
+		},
+		[53]=
+		{
+			id = 53,
+			process_id = 20601,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 53,
+			process = 3,
+		},
+		[54]=
+		{
+			id = 54,
+			process_id = 20602,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 54,
+			process = 3,
+		},
+		[55]=
+		{
+			id = 55,
+			process_id = 20603,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 55,
+			process = 2,
+		},
+		[56]=
+		{
+			id = 56,
+			process_id = 20604,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 56,
+			process = 2,
+		},
+		[57]=
+		{
+			id = 57,
+			process_id = 20605,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 57,
+			process = 2,
+		},
+		[58]=
+		{
+			id = 58,
+			process_id = 20606,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 58,
+			process = 2,
+		},
+		[59]=
+		{
+			id = 59,
+			process_id = 20607,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 59,
+			process = 1,
+		},
+		[60]=
+		{
+			id = 60,
+			process_id = 20608,
+			condition_type = "buyu_3d_target_yu",
+			source_id = 60,
+			process = 1,
+		},
 	},
 	source=
 	{
@@ -726,6 +1518,258 @@ return {
 			source_id = 24,
 			source_type = "buyu_target_yu",
 			condition_id = 20207,
+		},
+		[25]=
+		{
+			id = 25,
+			source_id = 25,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20300,
+		},
+		[26]=
+		{
+			id = 26,
+			source_id = 26,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20301,
+		},
+		[27]=
+		{
+			id = 27,
+			source_id = 27,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20302,
+		},
+		[28]=
+		{
+			id = 28,
+			source_id = 28,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20303,
+		},
+		[29]=
+		{
+			id = 29,
+			source_id = 29,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20304,
+		},
+		[30]=
+		{
+			id = 30,
+			source_id = 30,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20305,
+		},
+		[31]=
+		{
+			id = 31,
+			source_id = 31,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20306,
+		},
+		[32]=
+		{
+			id = 32,
+			source_id = 32,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20307,
+		},
+		[33]=
+		{
+			id = 33,
+			source_id = 33,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20308,
+		},
+		[34]=
+		{
+			id = 34,
+			source_id = 34,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20400,
+		},
+		[35]=
+		{
+			id = 35,
+			source_id = 35,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20401,
+		},
+		[36]=
+		{
+			id = 36,
+			source_id = 36,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20402,
+		},
+		[37]=
+		{
+			id = 37,
+			source_id = 37,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20403,
+		},
+		[38]=
+		{
+			id = 38,
+			source_id = 38,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20404,
+		},
+		[39]=
+		{
+			id = 39,
+			source_id = 39,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20405,
+		},
+		[40]=
+		{
+			id = 40,
+			source_id = 40,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20406,
+		},
+		[41]=
+		{
+			id = 41,
+			source_id = 41,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20407,
+		},
+		[42]=
+		{
+			id = 42,
+			source_id = 42,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20408,
+		},
+		[43]=
+		{
+			id = 43,
+			source_id = 43,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20500,
+		},
+		[44]=
+		{
+			id = 44,
+			source_id = 44,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20501,
+		},
+		[45]=
+		{
+			id = 45,
+			source_id = 45,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20502,
+		},
+		[46]=
+		{
+			id = 46,
+			source_id = 46,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20503,
+		},
+		[47]=
+		{
+			id = 47,
+			source_id = 47,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20504,
+		},
+		[48]=
+		{
+			id = 48,
+			source_id = 48,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20505,
+		},
+		[49]=
+		{
+			id = 49,
+			source_id = 49,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20506,
+		},
+		[50]=
+		{
+			id = 50,
+			source_id = 50,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20507,
+		},
+		[51]=
+		{
+			id = 51,
+			source_id = 51,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20508,
+		},
+		[52]=
+		{
+			id = 52,
+			source_id = 52,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20600,
+		},
+		[53]=
+		{
+			id = 53,
+			source_id = 53,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20601,
+		},
+		[54]=
+		{
+			id = 54,
+			source_id = 54,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20602,
+		},
+		[55]=
+		{
+			id = 55,
+			source_id = 55,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20603,
+		},
+		[56]=
+		{
+			id = 56,
+			source_id = 56,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20604,
+		},
+		[57]=
+		{
+			id = 57,
+			source_id = 57,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20605,
+		},
+		[58]=
+		{
+			id = 58,
+			source_id = 58,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20606,
+		},
+		[59]=
+		{
+			id = 59,
+			source_id = 59,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20607,
+		},
+		[60]=
+		{
+			id = 60,
+			source_id = 60,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 20608,
 		},
 	},
 	condition=
@@ -1302,6 +2346,870 @@ return {
 		{
 			id = 72,
 			condition_id = 20207,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[73]=
+		{
+			id = 73,
+			condition_id = 20300,
+			condition_name = "fish_game_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[74]=
+		{
+			id = 74,
+			condition_id = 20300,
+			condition_name = "base_fish_id",
+			condition_value = 11,
+			judge_type = 2,
+		},
+		[75]=
+		{
+			id = 75,
+			condition_id = 20300,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[76]=
+		{
+			id = 76,
+			condition_id = 20301,
+			condition_name = "fish_game_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[77]=
+		{
+			id = 77,
+			condition_id = 20301,
+			condition_name = "base_fish_id",
+			condition_value = 12,
+			judge_type = 2,
+		},
+		[78]=
+		{
+			id = 78,
+			condition_id = 20301,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[79]=
+		{
+			id = 79,
+			condition_id = 20302,
+			condition_name = "fish_game_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[80]=
+		{
+			id = 80,
+			condition_id = 20302,
+			condition_name = "base_fish_id",
+			condition_value = 13,
+			judge_type = 2,
+		},
+		[81]=
+		{
+			id = 81,
+			condition_id = 20302,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[82]=
+		{
+			id = 82,
+			condition_id = 20303,
+			condition_name = "fish_game_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[83]=
+		{
+			id = 83,
+			condition_id = 20303,
+			condition_name = "base_fish_id",
+			condition_value = 14,
+			judge_type = 2,
+		},
+		[84]=
+		{
+			id = 84,
+			condition_id = 20303,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[85]=
+		{
+			id = 85,
+			condition_id = 20304,
+			condition_name = "fish_game_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[86]=
+		{
+			id = 86,
+			condition_id = 20304,
+			condition_name = "base_fish_id",
+			condition_value = 15,
+			judge_type = 2,
+		},
+		[87]=
+		{
+			id = 87,
+			condition_id = 20304,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[88]=
+		{
+			id = 88,
+			condition_id = 20305,
+			condition_name = "fish_game_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[89]=
+		{
+			id = 89,
+			condition_id = 20305,
+			condition_name = "base_fish_id",
+			condition_value = 16,
+			judge_type = 2,
+		},
+		[90]=
+		{
+			id = 90,
+			condition_id = 20305,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[91]=
+		{
+			id = 91,
+			condition_id = 20306,
+			condition_name = "fish_game_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[92]=
+		{
+			id = 92,
+			condition_id = 20306,
+			condition_name = "base_fish_id",
+			condition_value = 17,
+			judge_type = 2,
+		},
+		[93]=
+		{
+			id = 93,
+			condition_id = 20306,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[94]=
+		{
+			id = 94,
+			condition_id = 20307,
+			condition_name = "fish_game_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[95]=
+		{
+			id = 95,
+			condition_id = 20307,
+			condition_name = "base_fish_id",
+			condition_value = 18,
+			judge_type = 2,
+		},
+		[96]=
+		{
+			id = 96,
+			condition_id = 20307,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[97]=
+		{
+			id = 97,
+			condition_id = 20308,
+			condition_name = "fish_game_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[98]=
+		{
+			id = 98,
+			condition_id = 20308,
+			condition_name = "base_fish_id",
+			condition_value = 20,
+			judge_type = 2,
+		},
+		[99]=
+		{
+			id = 99,
+			condition_id = 20308,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[100]=
+		{
+			id = 100,
+			condition_id = 20400,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[101]=
+		{
+			id = 101,
+			condition_id = 20400,
+			condition_name = "base_fish_id",
+			condition_value = 11,
+			judge_type = 2,
+		},
+		[102]=
+		{
+			id = 102,
+			condition_id = 20400,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[103]=
+		{
+			id = 103,
+			condition_id = 20401,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[104]=
+		{
+			id = 104,
+			condition_id = 20401,
+			condition_name = "base_fish_id",
+			condition_value = 12,
+			judge_type = 2,
+		},
+		[105]=
+		{
+			id = 105,
+			condition_id = 20401,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[106]=
+		{
+			id = 106,
+			condition_id = 20402,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[107]=
+		{
+			id = 107,
+			condition_id = 20402,
+			condition_name = "base_fish_id",
+			condition_value = 13,
+			judge_type = 2,
+		},
+		[108]=
+		{
+			id = 108,
+			condition_id = 20402,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[109]=
+		{
+			id = 109,
+			condition_id = 20403,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[110]=
+		{
+			id = 110,
+			condition_id = 20403,
+			condition_name = "base_fish_id",
+			condition_value = 14,
+			judge_type = 2,
+		},
+		[111]=
+		{
+			id = 111,
+			condition_id = 20403,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[112]=
+		{
+			id = 112,
+			condition_id = 20404,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[113]=
+		{
+			id = 113,
+			condition_id = 20404,
+			condition_name = "base_fish_id",
+			condition_value = 15,
+			judge_type = 2,
+		},
+		[114]=
+		{
+			id = 114,
+			condition_id = 20404,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[115]=
+		{
+			id = 115,
+			condition_id = 20405,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[116]=
+		{
+			id = 116,
+			condition_id = 20405,
+			condition_name = "base_fish_id",
+			condition_value = 16,
+			judge_type = 2,
+		},
+		[117]=
+		{
+			id = 117,
+			condition_id = 20405,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[118]=
+		{
+			id = 118,
+			condition_id = 20406,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[119]=
+		{
+			id = 119,
+			condition_id = 20406,
+			condition_name = "base_fish_id",
+			condition_value = 17,
+			judge_type = 2,
+		},
+		[120]=
+		{
+			id = 120,
+			condition_id = 20406,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[121]=
+		{
+			id = 121,
+			condition_id = 20407,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[122]=
+		{
+			id = 122,
+			condition_id = 20407,
+			condition_name = "base_fish_id",
+			condition_value = 18,
+			judge_type = 2,
+		},
+		[123]=
+		{
+			id = 123,
+			condition_id = 20407,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[124]=
+		{
+			id = 124,
+			condition_id = 20408,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[125]=
+		{
+			id = 125,
+			condition_id = 20408,
+			condition_name = "base_fish_id",
+			condition_value = 20,
+			judge_type = 2,
+		},
+		[126]=
+		{
+			id = 126,
+			condition_id = 20408,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[127]=
+		{
+			id = 127,
+			condition_id = 20500,
+			condition_name = "fish_game_id",
+			condition_value = 4,
+			judge_type = 2,
+		},
+		[128]=
+		{
+			id = 128,
+			condition_id = 20500,
+			condition_name = "base_fish_id",
+			condition_value = 11,
+			judge_type = 2,
+		},
+		[129]=
+		{
+			id = 129,
+			condition_id = 20500,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[130]=
+		{
+			id = 130,
+			condition_id = 20501,
+			condition_name = "fish_game_id",
+			condition_value = 4,
+			judge_type = 2,
+		},
+		[131]=
+		{
+			id = 131,
+			condition_id = 20501,
+			condition_name = "base_fish_id",
+			condition_value = 12,
+			judge_type = 2,
+		},
+		[132]=
+		{
+			id = 132,
+			condition_id = 20501,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[133]=
+		{
+			id = 133,
+			condition_id = 20502,
+			condition_name = "fish_game_id",
+			condition_value = 4,
+			judge_type = 2,
+		},
+		[134]=
+		{
+			id = 134,
+			condition_id = 20502,
+			condition_name = "base_fish_id",
+			condition_value = 13,
+			judge_type = 2,
+		},
+		[135]=
+		{
+			id = 135,
+			condition_id = 20502,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[136]=
+		{
+			id = 136,
+			condition_id = 20503,
+			condition_name = "fish_game_id",
+			condition_value = 4,
+			judge_type = 2,
+		},
+		[137]=
+		{
+			id = 137,
+			condition_id = 20503,
+			condition_name = "base_fish_id",
+			condition_value = 14,
+			judge_type = 2,
+		},
+		[138]=
+		{
+			id = 138,
+			condition_id = 20503,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[139]=
+		{
+			id = 139,
+			condition_id = 20504,
+			condition_name = "fish_game_id",
+			condition_value = 4,
+			judge_type = 2,
+		},
+		[140]=
+		{
+			id = 140,
+			condition_id = 20504,
+			condition_name = "base_fish_id",
+			condition_value = 15,
+			judge_type = 2,
+		},
+		[141]=
+		{
+			id = 141,
+			condition_id = 20504,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[142]=
+		{
+			id = 142,
+			condition_id = 20505,
+			condition_name = "fish_game_id",
+			condition_value = 4,
+			judge_type = 2,
+		},
+		[143]=
+		{
+			id = 143,
+			condition_id = 20505,
+			condition_name = "base_fish_id",
+			condition_value = 16,
+			judge_type = 2,
+		},
+		[144]=
+		{
+			id = 144,
+			condition_id = 20505,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[145]=
+		{
+			id = 145,
+			condition_id = 20506,
+			condition_name = "fish_game_id",
+			condition_value = 4,
+			judge_type = 2,
+		},
+		[146]=
+		{
+			id = 146,
+			condition_id = 20506,
+			condition_name = "base_fish_id",
+			condition_value = 17,
+			judge_type = 2,
+		},
+		[147]=
+		{
+			id = 147,
+			condition_id = 20506,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[148]=
+		{
+			id = 148,
+			condition_id = 20507,
+			condition_name = "fish_game_id",
+			condition_value = 4,
+			judge_type = 2,
+		},
+		[149]=
+		{
+			id = 149,
+			condition_id = 20507,
+			condition_name = "base_fish_id",
+			condition_value = 18,
+			judge_type = 2,
+		},
+		[150]=
+		{
+			id = 150,
+			condition_id = 20507,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[151]=
+		{
+			id = 151,
+			condition_id = 20508,
+			condition_name = "fish_game_id",
+			condition_value = 4,
+			judge_type = 2,
+		},
+		[152]=
+		{
+			id = 152,
+			condition_id = 20508,
+			condition_name = "base_fish_id",
+			condition_value = 20,
+			judge_type = 2,
+		},
+		[153]=
+		{
+			id = 153,
+			condition_id = 20508,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[154]=
+		{
+			id = 154,
+			condition_id = 20600,
+			condition_name = "fish_game_id",
+			condition_value = 5,
+			judge_type = 2,
+		},
+		[155]=
+		{
+			id = 155,
+			condition_id = 20600,
+			condition_name = "base_fish_id",
+			condition_value = 11,
+			judge_type = 2,
+		},
+		[156]=
+		{
+			id = 156,
+			condition_id = 20600,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[157]=
+		{
+			id = 157,
+			condition_id = 20601,
+			condition_name = "fish_game_id",
+			condition_value = 5,
+			judge_type = 2,
+		},
+		[158]=
+		{
+			id = 158,
+			condition_id = 20601,
+			condition_name = "base_fish_id",
+			condition_value = 12,
+			judge_type = 2,
+		},
+		[159]=
+		{
+			id = 159,
+			condition_id = 20601,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[160]=
+		{
+			id = 160,
+			condition_id = 20602,
+			condition_name = "fish_game_id",
+			condition_value = 5,
+			judge_type = 2,
+		},
+		[161]=
+		{
+			id = 161,
+			condition_id = 20602,
+			condition_name = "base_fish_id",
+			condition_value = 13,
+			judge_type = 2,
+		},
+		[162]=
+		{
+			id = 162,
+			condition_id = 20602,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[163]=
+		{
+			id = 163,
+			condition_id = 20603,
+			condition_name = "fish_game_id",
+			condition_value = 5,
+			judge_type = 2,
+		},
+		[164]=
+		{
+			id = 164,
+			condition_id = 20603,
+			condition_name = "base_fish_id",
+			condition_value = 14,
+			judge_type = 2,
+		},
+		[165]=
+		{
+			id = 165,
+			condition_id = 20603,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[166]=
+		{
+			id = 166,
+			condition_id = 20604,
+			condition_name = "fish_game_id",
+			condition_value = 5,
+			judge_type = 2,
+		},
+		[167]=
+		{
+			id = 167,
+			condition_id = 20604,
+			condition_name = "base_fish_id",
+			condition_value = 15,
+			judge_type = 2,
+		},
+		[168]=
+		{
+			id = 168,
+			condition_id = 20604,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[169]=
+		{
+			id = 169,
+			condition_id = 20605,
+			condition_name = "fish_game_id",
+			condition_value = 5,
+			judge_type = 2,
+		},
+		[170]=
+		{
+			id = 170,
+			condition_id = 20605,
+			condition_name = "base_fish_id",
+			condition_value = 16,
+			judge_type = 2,
+		},
+		[171]=
+		{
+			id = 171,
+			condition_id = 20605,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[172]=
+		{
+			id = 172,
+			condition_id = 20606,
+			condition_name = "fish_game_id",
+			condition_value = 5,
+			judge_type = 2,
+		},
+		[173]=
+		{
+			id = 173,
+			condition_id = 20606,
+			condition_name = "base_fish_id",
+			condition_value = 17,
+			judge_type = 2,
+		},
+		[174]=
+		{
+			id = 174,
+			condition_id = 20606,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[175]=
+		{
+			id = 175,
+			condition_id = 20607,
+			condition_name = "fish_game_id",
+			condition_value = 5,
+			judge_type = 2,
+		},
+		[176]=
+		{
+			id = 176,
+			condition_id = 20607,
+			condition_name = "base_fish_id",
+			condition_value = 18,
+			judge_type = 2,
+		},
+		[177]=
+		{
+			id = 177,
+			condition_id = 20607,
+			condition_name = "gun_index",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[178]=
+		{
+			id = 178,
+			condition_id = 20608,
+			condition_name = "fish_game_id",
+			condition_value = 5,
+			judge_type = 2,
+		},
+		[179]=
+		{
+			id = 179,
+			condition_id = 20608,
+			condition_name = "base_fish_id",
+			condition_value = 20,
+			judge_type = 2,
+		},
+		[180]=
+		{
+			id = 180,
+			condition_id = 20608,
 			condition_name = "gun_index",
 			condition_value = 1,
 			judge_type = 3,
