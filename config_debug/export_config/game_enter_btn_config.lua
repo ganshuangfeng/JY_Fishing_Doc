@@ -820,5 +820,11 @@ return {
 			parm = {"act_022_qflb",},
 			is_on_off = 1,
 		},
+		[85]=
+		{
+			id = 85,
+			parm = {"sys_qd",},
+			is_on_off = 1,
+		},
 	},
 }

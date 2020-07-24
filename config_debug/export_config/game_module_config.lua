@@ -2369,5 +2369,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[243]=
+		{
+			id = 243,
+			key = "act_022_gzyl",
+			desc = "关注有礼",
+			lua = "Act_022_GZYLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
