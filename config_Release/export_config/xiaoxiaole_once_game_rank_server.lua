@@ -20,7 +20,7 @@ return {
 			end_rank = 1,
 			name = "100福卡",
 			asset_type = "shop_gold_sum",
-			value = 10000,
+			value = 1,
 		},
 		[2]=
 		{
@@ -30,7 +30,7 @@ return {
 			end_rank = 2,
 			name = "50福卡",
 			asset_type = "shop_gold_sum",
-			value = 5000,
+			value = 1,
 		},
 		[3]=
 		{
@@ -40,7 +40,7 @@ return {
 			end_rank = 3,
 			name = "30福卡",
 			asset_type = "shop_gold_sum",
-			value = 3000,
+			value = 1,
 		},
 		[4]=
 		{
@@ -50,7 +50,7 @@ return {
 			end_rank = 6,
 			name = "20福卡",
 			asset_type = "shop_gold_sum",
-			value = 2000,
+			value = 1,
 		},
 		[5]=
 		{
@@ -60,7 +60,7 @@ return {
 			end_rank = 10,
 			name = "10福卡",
 			asset_type = "shop_gold_sum",
-			value = 1000,
+			value = 1,
 		},
 	},
 }
