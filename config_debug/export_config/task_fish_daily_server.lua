@@ -171,7 +171,7 @@ return {
 		[12513]=
 		{
 			id = 12513,
-			enable = 1,
+			enable = 0,
 			name = "累计获得金币",
 			own_type = "normal",
 			task_enum = "common",
@@ -184,7 +184,7 @@ return {
 		[12514]=
 		{
 			id = 12514,
-			enable = 1,
+			enable = 0,
 			name = "游戏分享",
 			own_type = "normal",
 			task_enum = "common",
@@ -197,7 +197,7 @@ return {
 		[12515]=
 		{
 			id = 12515,
-			enable = 1,
+			enable = 0,
 			name = "击杀活动鱼",
 			own_type = "normal",
 			task_enum = "common",
@@ -223,7 +223,7 @@ return {
 		[12517]=
 		{
 			id = 12517,
-			enable = 1,
+			enable = 0,
 			name = "参与小游戏",
 			own_type = "normal",
 			task_enum = "source_add_only_once_task",
@@ -236,7 +236,7 @@ return {
 		[12518]=
 		{
 			id = 12518,
-			enable = 1,
+			enable = 0,
 			name = "幸运彩贝",
 			own_type = "normal",
 			task_enum = "common",
@@ -258,6 +258,62 @@ return {
 			reset_delay = 1,
 			start_valid_time = 946677600,
 			end_valid_time = 32503651200,
+		},
+		[12520]=
+		{
+			id = 12520,
+			enable = 1,
+			name = "捕鱼技能",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 12520,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[12521]=
+		{
+			id = 12521,
+			enable = 1,
+			name = "累计捕鱼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 12521,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[12522]=
+		{
+			id = 12522,
+			enable = 1,
+			name = "累计开炮",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 12522,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[12523]=
+		{
+			id = 12523,
+			enable = 1,
+			name = "累计在线",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 12523,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
 		},
 		[13000]=
 		{
@@ -416,7 +472,7 @@ return {
 			id = 16,
 			process_id = 12516,
 			source_id = 16,
-			process = 2,
+			process = 3,
 			awards = 1005,
 			get_award_type = "nor",
 		},
@@ -450,8 +506,43 @@ return {
 		[20]=
 		{
 			id = 20,
-			process_id = 13000,
+			process_id = 12520,
 			source_id = 20,
+			process = 3,
+			awards = 1009,
+			get_award_type = "nor",
+		},
+		[21]=
+		{
+			id = 21,
+			process_id = 12521,
+			source_id = 21,
+			process = 10,
+			awards = 1010,
+			get_award_type = "nor",
+		},
+		[22]=
+		{
+			id = 22,
+			process_id = 12522,
+			source_id = 22,
+			process = 1000,
+			awards = 1011,
+			get_award_type = "nor",
+		},
+		[23]=
+		{
+			id = 23,
+			process_id = 12523,
+			source_id = 23,
+			process = 5400,
+			awards = 1012,
+			get_award_type = "nor",
+		},
+		[24]=
+		{
+			id = 24,
+			process_id = 13000,
 			process = {30,30,30,30,30},
 			awards = {2001,2002,2003,2004,2005},
 			get_award_type = "nor",
@@ -616,100 +707,170 @@ return {
 		[23]=
 		{
 			id = 23,
-			source_id = 14,
-			source_type = "share_game",
-			condition_id = 1016,
+			source_id = 13,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
 		},
 		[24]=
 		{
 			id = 24,
-			source_id = 15,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 1017,
+			source_id = 13,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
 		},
 		[25]=
 		{
 			id = 25,
-			source_id = 16,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 1018,
+			source_id = 13,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
 		},
 		[26]=
 		{
 			id = 26,
-			source_id = 17,
-			source_type = "enter_game_xiaoxiaole",
+			source_id = 13,
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[27]=
 		{
 			id = 27,
-			source_id = 17,
-			source_type = "enter_game_xiaoxiaole_shuihu",
+			source_id = 13,
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[28]=
 		{
 			id = 28,
-			source_id = 17,
-			source_type = "enter_game_xiaoxiaole_caishen",
+			source_id = 13,
+			source_type = "jykp_award",
 			condition_id = 0,
 		},
 		[29]=
 		{
 			id = 29,
-			source_id = 17,
-			source_type = "enter_game_zajindan",
-			condition_id = 0,
+			source_id = 14,
+			source_type = "share_game",
+			condition_id = 1016,
 		},
 		[30]=
 		{
 			id = 30,
-			source_id = 17,
-			source_type = "enter_game_tantanle",
-			condition_id = 0,
+			source_id = 15,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 1017,
 		},
 		[31]=
 		{
 			id = 31,
-			source_id = 17,
-			source_type = "enter_game_jykp",
-			condition_id = 0,
+			source_id = 16,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 1018,
 		},
 		[32]=
 		{
 			id = 32,
 			source_id = 17,
-			source_type = "enter_game_guess_apple",
+			source_type = "enter_game_xiaoxiaole",
 			condition_id = 0,
 		},
 		[33]=
 		{
 			id = 33,
 			source_id = 17,
-			source_type = "enter_buyu_game",
+			source_type = "enter_game_xiaoxiaole_shuihu",
 			condition_id = 0,
 		},
 		[34]=
 		{
 			id = 34,
 			source_id = 17,
-			source_type = "enter_buyu_3d_game",
+			source_type = "enter_game_xiaoxiaole_caishen",
 			condition_id = 0,
 		},
 		[35]=
 		{
 			id = 35,
-			source_id = 18,
-			source_type = "complete_caibei_game",
+			source_id = 17,
+			source_type = "enter_game_zajindan",
 			condition_id = 0,
 		},
 		[36]=
 		{
 			id = 36,
+			source_id = 17,
+			source_type = "enter_game_tantanle",
+			condition_id = 0,
+		},
+		[37]=
+		{
+			id = 37,
+			source_id = 17,
+			source_type = "enter_game_jykp",
+			condition_id = 0,
+		},
+		[38]=
+		{
+			id = 38,
+			source_id = 17,
+			source_type = "enter_game_guess_apple",
+			condition_id = 0,
+		},
+		[39]=
+		{
+			id = 39,
+			source_id = 17,
+			source_type = "enter_buyu_game",
+			condition_id = 0,
+		},
+		[40]=
+		{
+			id = 40,
+			source_id = 17,
+			source_type = "enter_buyu_3d_game",
+			condition_id = 0,
+		},
+		[41]=
+		{
+			id = 41,
+			source_id = 18,
+			source_type = "complete_caibei_game",
+			condition_id = 0,
+		},
+		[42]=
+		{
+			id = 42,
 			source_id = 19,
 			source_type = "charge_any",
 			condition_id = 1019,
+		},
+		[43]=
+		{
+			id = 43,
+			source_id = 20,
+			source_type = "use_fish_3d_bullet_item",
+			condition_id = 1020,
+		},
+		[44]=
+		{
+			id = 44,
+			source_id = 21,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 0,
+		},
+		[45]=
+		{
+			id = 45,
+			source_id = 22,
+			source_type = "buyu_3d_spend_num",
+			condition_id = 1021,
+		},
+		[46]=
+		{
+			id = 46,
+			source_id = 23,
+			source_type = "buyu_3d_gaming_time_long",
+			condition_id = 1022,
 		},
 	},
 	condition=
@@ -847,7 +1008,7 @@ return {
 			id = 17,
 			condition_id = 1017,
 			condition_name = "base_fish_id",
-			condition_value = {28,29,30,31,32,33,34,35,36,37},
+			condition_value = {21,28,29,30,31,32,33,34,35,36,37},
 			judge_type = 2,
 		},
 		[18]=
@@ -866,6 +1027,30 @@ return {
 			condition_value = 600,
 			judge_type = 3,
 		},
+		[20]=
+		{
+			id = 20,
+			condition_id = 1020,
+			condition_name = "fish_prop",
+			condition_value = {"prop_3d_fish_frozen","prop_3d_fish_lock","prop_3d_fish_summon_fish"},
+			judge_type = 2,
+		},
+		[21]=
+		{
+			id = 21,
+			condition_id = 1021,
+			condition_name = "game_id",
+			condition_value = {1,2,3,4,5},
+			judge_type = 2,
+		},
+		[22]=
+		{
+			id = 22,
+			condition_id = 1022,
+			condition_name = "fish_game_id",
+			condition_value = {1,2,3,4,5},
+			judge_type = 2,
+		},
 	},
 	award_data=
 	{
@@ -874,7 +1059,7 @@ return {
 			id = 1,
 			award_id = 1001,
 			asset_type = "jing_bi",
-			asset_count = 8000,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[2]=
@@ -882,7 +1067,7 @@ return {
 			id = 2,
 			award_id = 1001,
 			asset_type = "task_13000",
-			asset_count = 20,
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[3]=
@@ -890,7 +1075,7 @@ return {
 			id = 3,
 			award_id = 1002,
 			asset_type = "jing_bi",
-			asset_count = 25000,
+			asset_count = 2500,
 			get_weight = 1,
 		},
 		[4]=
@@ -906,7 +1091,7 @@ return {
 			id = 5,
 			award_id = 1003,
 			asset_type = "jing_bi",
-			asset_count = 15000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[6]=
@@ -914,7 +1099,7 @@ return {
 			id = 6,
 			award_id = 1003,
 			asset_type = "task_13000",
-			asset_count = 20,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[7]=
@@ -922,7 +1107,7 @@ return {
 			id = 7,
 			award_id = 1004,
 			asset_type = "jing_bi",
-			asset_count = 20000,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[8]=
@@ -938,7 +1123,7 @@ return {
 			id = 9,
 			award_id = 1005,
 			asset_type = "jing_bi",
-			asset_count = 25000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[10]=
@@ -946,7 +1131,7 @@ return {
 			id = 10,
 			award_id = 1005,
 			asset_type = "task_13000",
-			asset_count = 20,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[11]=
@@ -954,7 +1139,7 @@ return {
 			id = 11,
 			award_id = 1006,
 			asset_type = "jing_bi",
-			asset_count = 35000,
+			asset_count = 3500,
 			get_weight = 1,
 		},
 		[12]=
@@ -970,7 +1155,7 @@ return {
 			id = 13,
 			award_id = 1007,
 			asset_type = "jing_bi",
-			asset_count = 25000,
+			asset_count = 2500,
 			get_weight = 1,
 		},
 		[14]=
@@ -985,8 +1170,8 @@ return {
 		{
 			id = 15,
 			award_id = 1008,
-			asset_type = "jing_bi",
-			asset_count = 50000,
+			asset_type = "shop_gold_sum",
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[16]=
@@ -994,7 +1179,7 @@ return {
 			id = 16,
 			award_id = 1008,
 			asset_type = "task_13000",
-			asset_count = 60,
+			asset_count = 50,
 			get_weight = 1,
 		},
 		[17]=
@@ -1002,7 +1187,7 @@ return {
 			id = 17,
 			award_id = 1009,
 			asset_type = "jing_bi",
-			asset_count = 1,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[18]=
@@ -1010,7 +1195,7 @@ return {
 			id = 18,
 			award_id = 1009,
 			asset_type = "task_13000",
-			asset_count = 1,
+			asset_count = 20,
 			get_weight = 1,
 		},
 		[19]=
@@ -1018,7 +1203,7 @@ return {
 			id = 19,
 			award_id = 1010,
 			asset_type = "jing_bi",
-			asset_count = 1,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[20]=
@@ -1026,7 +1211,7 @@ return {
 			id = 20,
 			award_id = 1010,
 			asset_type = "task_13000",
-			asset_count = 1,
+			asset_count = 20,
 			get_weight = 1,
 		},
 		[21]=
@@ -1034,7 +1219,7 @@ return {
 			id = 21,
 			award_id = 1011,
 			asset_type = "jing_bi",
-			asset_count = 1,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[22]=
@@ -1042,87 +1227,103 @@ return {
 			id = 22,
 			award_id = 1011,
 			asset_type = "task_13000",
-			asset_count = 1,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[23]=
 		{
 			id = 23,
-			award_id = 2001,
-			asset_type = "jing_bi",
-			asset_count = 20000,
+			award_id = 1012,
+			asset_type = "shop_gold_sum",
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[24]=
 		{
 			id = 24,
-			award_id = 2001,
-			asset_type = "prop_3d_fish_lock",
-			asset_count = 2,
+			award_id = 1012,
+			asset_type = "task_13000",
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[25]=
 		{
 			id = 25,
-			award_id = 2002,
-			asset_type = "shop_gold_sum",
-			asset_count = 10,
+			award_id = 2001,
+			asset_type = "fish_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[26]=
 		{
 			id = 26,
-			award_id = 2002,
-			asset_type = "prop_tiny_game_coin",
-			asset_count = 50000,
+			award_id = 2001,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 2,
 			get_weight = 1,
 		},
 		[27]=
 		{
 			id = 27,
-			award_id = 2003,
-			asset_type = "jing_bi",
-			asset_count = 50000,
+			award_id = 2002,
+			asset_type = "fish_coin",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[28]=
 		{
 			id = 28,
-			award_id = 2003,
+			award_id = 2002,
 			asset_type = "prop_3d_fish_summon_fish",
-			asset_count = 3,
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[29]=
 		{
 			id = 29,
-			award_id = 2004,
-			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			award_id = 2003,
+			asset_type = "fish_coin",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[30]=
 		{
 			id = 30,
-			award_id = 2004,
+			award_id = 2003,
 			asset_type = "prop_tiny_game_coin",
-			asset_count = 100000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[31]=
 		{
 			id = 31,
-			award_id = 2005,
+			award_id = 2004,
 			asset_type = "fish_coin",
-			asset_count = 100000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[32]=
 		{
 			id = 32,
+			award_id = 2004,
+			asset_type = "shop_gold_sum",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[33]=
+		{
+			id = 33,
 			award_id = 2005,
-			asset_type = "prop_tiny_game_coin",
-			asset_count = 100000,
+			asset_type = "jing_bi",
+			asset_count = 30000,
+			get_weight = 1,
+		},
+		[34]=
+		{
+			id = 34,
+			award_id = 2005,
+			asset_type = "shop_gold_sum",
+			asset_count = 30,
 			get_weight = 1,
 		},
 	},

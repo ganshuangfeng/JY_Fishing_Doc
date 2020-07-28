@@ -108,7 +108,7 @@ return {
 			type = 2,
 			icon = "ty_icon_flq3",
 			scale = 1,
-			desc = "福利券x4.75万",
+			desc = "福利券x4750",
 			is_dj = 0,
 		},
 		[12]=
@@ -168,7 +168,7 @@ return {
 			type = 2,
 			icon = "ty_icon_flq2",
 			scale = 1,
-			desc = "福利券x4.25万",
+			desc = "福利券x4250",
 			is_dj = 0,
 		},
 		[18]=
@@ -227,7 +227,7 @@ return {
 			line = 3,
 			type = 1,
 			icon = "activity_icon_gift187_qklt",
-			name = "俄罗斯进口巧克力",
+			name = "俄罗斯\n进口巧克力",
 			price = "1800福利券",
 			goto_ui = {"duihuan_shop",},
 		},

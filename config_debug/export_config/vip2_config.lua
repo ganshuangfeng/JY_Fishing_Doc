@@ -7,7 +7,7 @@ return {
 			vip = 1,
 			total = 10,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>2次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[2]=
@@ -40,7 +40,7 @@ return {
 			vip = 2,
 			total = 200,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>5次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[6]=
@@ -65,7 +65,7 @@ return {
 			vip = 3,
 			total = 500,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>10次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[9]=
@@ -90,7 +90,7 @@ return {
 			vip = 4,
 			total = 1000,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>20次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[12]=
@@ -115,7 +115,7 @@ return {
 			vip = 5,
 			total = 2000,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>30次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[15]=
@@ -148,7 +148,7 @@ return {
 			vip = 6,
 			total = 5000,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[19]=
@@ -173,7 +173,7 @@ return {
 			vip = 7,
 			total = 10000,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[22]=
@@ -198,7 +198,7 @@ return {
 			vip = 8,
 			total = 20000,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[25]=
@@ -223,7 +223,7 @@ return {
 			vip = 9,
 			total = 30000,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[28]=
@@ -248,7 +248,7 @@ return {
 			vip = 10,
 			total = 50000,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[31]=

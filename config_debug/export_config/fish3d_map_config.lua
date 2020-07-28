@@ -285,7 +285,7 @@ return {
 		{
 			line = 21,
 			order = 12,
-			tag = 2,
+			tag = 3,
 			icon = "3dby_icon_yu50",
 			name = "黄金炸弹鱼",
 			game_id = {2,3,4,5},
@@ -681,7 +681,7 @@ return {
 			rotation = {0,0,0},
 			rate = "最高800倍",
 			prefab = "Fish3D084",
-			tips = "变异的巨型乌贼，触手的",
+			tips = "变异的巨型乌贼，触手的拍击可以将万物粉碎。",
 		},
 		[50]=
 		{

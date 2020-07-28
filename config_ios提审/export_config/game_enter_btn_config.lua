@@ -13,6 +13,18 @@ return {
 			area = "center1",
 			group_list = "15#",
 		},
+		[3]=
+		{
+			id = 3,
+			area = "top_right",
+			group_list = "72#",
+		},
+		[4]=
+		{
+			id = 4,
+			area = "center_top",
+			group_list = "80#",
+		},
 	},
 	xxlsh_game=
 	{
@@ -87,6 +99,12 @@ return {
 			id = 2,
 			area = "down",
 		},
+		[3]=
+		{
+			id = 3,
+			area = "top",
+			group_list = "72#",
+		},
 	},
 	hall_config=
 	{
@@ -94,18 +112,19 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3#8#",
+			group_list = "3#2#8#61#",
 		},
 		[2]=
 		{
 			id = 2,
 			area = "left",
-			group_list = "26#36#",
+			group_list = "85#36#58#30#",
 		},
 		[3]=
 		{
 			id = 3,
 			area = "right",
+			group_list = "84#83#",
 		},
 		[4]=
 		{
@@ -117,6 +136,12 @@ return {
 			id = 5,
 			area = "wuquyu",
 			group_list = "34#",
+		},
+		[6]=
+		{
+			id = 6,
+			area = "fish3d_node",
+			group_list = "65#",
 		},
 	},
 	freehall_config=
@@ -218,12 +243,30 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "43#40#26",
+			group_list = "40#43#79#72",
 		},
 		[2]=
 		{
 			id = 2,
 			area = "top",
+			group_list = "82#",
+		},
+		[3]=
+		{
+			id = 3,
+			area = "Right_top",
+			group_list = "69#73#",
+		},
+		[4]=
+		{
+			id = 4,
+			area = "down2",
+			group_list = "74#",
+		},
+		[5]=
+		{
+			id = 5,
+			area = "top2",
 			group_list = "64#",
 		},
 	},
@@ -233,6 +276,42 @@ return {
 		{
 			id = 1,
 			area = "top",
+			group_list = "63#",
+		},
+		[2]=
+		{
+			id = 2,
+			area = "center",
+		},
+		[3]=
+		{
+			id = 3,
+			area = "top_right",
+			group_list = "72#",
+		},
+		[4]=
+		{
+			id = 4,
+			area = "center2",
+			group_list = "71#",
+		},
+		[5]=
+		{
+			id = 5,
+			area = "center3",
+			group_list = "75#",
+		},
+		[6]=
+		{
+			id = 6,
+			area = "center4",
+			group_list = "76#67",
+		},
+		[7]=
+		{
+			id = 7,
+			area = "center5",
+			group_list = "77#68",
 		},
 	},
 	all_enter=
@@ -240,19 +319,19 @@ return {
 		[1]=
 		{
 			id = 1,
-			parm = {"ty_gift",},
+			parm = {"ty_gift","enter_gift_kllb"},
 			is_on_off = 0,
 		},
 		[2]=
 		{
 			id = 2,
 			parm = {"vip",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[3]=
 		{
 			id = 3,
-			parm = {"xycj",},
+			parm = {"sys_flqcj",},
 			is_on_off = 1,
 		},
 		[4]=
@@ -277,7 +356,7 @@ return {
 		{
 			id = 7,
 			parm = {"sys_sclb",},
-			is_on_off = 0,
+			is_on_off = 1,
 		},
 		[8]=
 		{
@@ -313,19 +392,19 @@ return {
 		{
 			id = 13,
 			parm = {"xxlsg_phb",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[14]=
 		{
 			id = 14,
 			parm = {"xxlsh_mrrw",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[15]=
 		{
 			id = 15,
 			parm = {"xxlsg_mrrw",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[16]=
 		{
@@ -337,7 +416,7 @@ return {
 		{
 			id = 17,
 			parm = {"by_drb",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[18]=
 		{
@@ -354,7 +433,7 @@ return {
 		[20]=
 		{
 			id = 20,
-			parm = {"ty_gift",},
+			parm = {"ty_gift","enter_gift_bybs"},
 			is_on_off = 1,
 		},
 		[21]=
@@ -414,8 +493,8 @@ return {
 		[30]=
 		{
 			id = 30,
-			parm = {"ty_gift","gift_cglb",},
-			is_on_off = 0,
+			parm = {"ty_gift","enter_gift_cglb"},
+			is_on_off = 1,
 		},
 		[31]=
 		{
@@ -529,7 +608,7 @@ return {
 		{
 			id = 49,
 			parm = {"sys_shphb",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[50]=
 		{
@@ -583,7 +662,7 @@ return {
 		{
 			id = 58,
 			parm = {"sys_sclb1",},
-			is_on_off = 0,
+			is_on_off = 1,
 		},
 		[59]=
 		{
@@ -619,6 +698,132 @@ return {
 		{
 			id = 64,
 			parm = {"sys_by_pms",},
+			is_on_off = 1,
+		},
+		[65]=
+		{
+			id = 65,
+			parm = {"by3d_act_jc","enter_hall"},
+			is_on_off = 1,
+		},
+		[66]=
+		{
+			id = 66,
+			parm = {"by3d_act_jc","enter_fish"},
+			is_on_off = 1,
+		},
+		[67]=
+		{
+			id = 67,
+			parm = {"by3d_act_jc","enter4"},
+			is_on_off = 1,
+		},
+		[68]=
+		{
+			id = 68,
+			parm = {"by3d_act_jc","enter5"},
+			is_on_off = 1,
+		},
+		[69]=
+		{
+			id = 69,
+			parm = {"by3d_act_jc","game_hall_enter4"},
+			is_on_off = 1,
+		},
+		[70]=
+		{
+			id = 70,
+			parm = {"by3d_act_jc","explain"},
+			is_on_off = 1,
+		},
+		[71]=
+		{
+			id = 71,
+			parm = {"by3d_kpshb","2"},
+			is_on_off = 1,
+		},
+		[72]=
+		{
+			id = 72,
+			parm = {"sys_dui_huan",},
+			is_on_off = 1,
+		},
+		[73]=
+		{
+			id = 73,
+			parm = {"by_bossts",},
+			is_on_off = 1,
+		},
+		[74]=
+		{
+			id = 74,
+			parm = {"sys_active_daily_task",},
+			is_on_off = 1,
+		},
+		[75]=
+		{
+			id = 75,
+			parm = {"by3d_kpshb","3"},
+			is_on_off = 1,
+		},
+		[76]=
+		{
+			id = 76,
+			parm = {"by3d_kpshb","4"},
+			is_on_off = 1,
+		},
+		[77]=
+		{
+			id = 77,
+			parm = {"by3d_kpshb","5"},
+			is_on_off = 1,
+		},
+		[78]=
+		{
+			id = 78,
+			parm = {"by3d_kpshb","game"},
+			is_on_off = 1,
+		},
+		[79]=
+		{
+			id = 79,
+			parm = {"sys_by_level","enter2"},
+			is_on_off = 1,
+		},
+		[80]=
+		{
+			id = 80,
+			parm = {"act_016_xyxcwk",},
+			is_on_off = 1,
+		},
+		[81]=
+		{
+			id = 81,
+			parm = {"by3d_task",},
+			is_on_off = 1,
+		},
+		[82]=
+		{
+			id = 82,
+			parm = {"by3d_top_qh",},
+			is_on_off = 1,
+		},
+		[83]=
+		{
+			id = 83,
+			parm = {"sys_stxt",},
+			is_on_off = 1,
+		},
+		[84]=
+		{
+			id = 84,
+			parm = {"act_022_qflb",},
+			is_on_off = 1,
+		},
+		[85]=
+		{
+			id = 85,
+			parm = {"sys_qd",},
 			is_on_off = 1,
 		},
 	},

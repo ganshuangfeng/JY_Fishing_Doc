@@ -29,6 +29,7 @@ return {
 			desc = "激光炮：直线方向释放激光，有几率捕获激光所发射范围内的任意鱼类",
 			desc_get = "连续签到获得",
 			use_parm = {"sys_qd","panel"},
+			buy_anniu_hint = "获取",
 		},
 		[3]=
 		{
@@ -44,6 +45,7 @@ return {
 			desc = "激光炮：直线方向释放激光，有几率捕获激光所发射范围内的任意鱼类",
 			desc_get = "VIP3开启",
 			use_parm = {"vip","hint"},
+			buy_anniu_hint = "获取",
 		},
 		[4]=
 		{
@@ -59,6 +61,7 @@ return {
 			desc = "穿透弹：发射一发穿透弹，可捕获同移动线上的任意鱼类",
 			desc_get = "VIP5开启",
 			use_parm = {"vip","hint"},
+			buy_anniu_hint = "获取",
 		},
 		[5]=
 		{
@@ -74,6 +77,8 @@ return {
 			desc = "核能炮：在屏幕中间释放一颗小型原子弹，随机捕获炸弹范围内的任意鱼类",
 			desc_get = "购买礼包获得",
 			use_parm = {"buygift",10237,},
+			buy_hint = "是否花费98元购买980万金币+【核能风暴】永久使用权",
+			buy_anniu_hint = "获取",
 		},
 		[6]=
 		{
@@ -86,9 +91,11 @@ return {
 			image = "3dby_icon_p5",
 			order = 6,
 			name = "死灵之光",
-			desc = "死灵之光：攻击指定点，死光随机捕获周围其鱼类\n被动效果：提高捕获奖金鱼后获得高倍的几率",
+			desc = "死灵之光：攻击指定点，捕获周围鱼类\n被动效果：提高捕获奖金鱼后获得高倍的几率",
 			desc_get = "金币购买",
 			use_parm = {"buyitem",26,},
+			buy_hint = "是否花费30万金币购买【死灵之光】30天使用权",
+			buy_anniu_hint = "获取",
 		},
 		[7]=
 		{
@@ -104,6 +111,8 @@ return {
 			desc = "神龙杀：瞬间提高子弹250%的杀伤力\n被动效果：提高击杀龙王的概率",
 			desc_get = "购买礼包获得",
 			use_parm = {"buygift",10238,},
+			buy_hint = "是否花费198元购买【神龙之力】永久使用权",
+			buy_anniu_hint = "获取",
 		},
 		[8]=
 		{
@@ -133,6 +142,7 @@ return {
 			desc = "限制：稀有品质以上炮台可用",
 			desc_get = "VIP1开启",
 			use_parm = {"vip","hint"},
+			buy_anniu_hint = "获取",
 		},
 		[10]=
 		{
@@ -147,6 +157,7 @@ return {
 			name = "寒霜",
 			desc = "装备后效果：捕鱼命中率提升千分之二\n限制：史诗品质以上炮台可用",
 			desc_get = "VIP3开启",
+			buy_anniu_hint = "获取",
 		},
 		[11]=
 		{
@@ -162,6 +173,8 @@ return {
 			desc = "装备后效果：捕鱼子弹威力提高千分之五\n限制：传说品质以上炮台可用",
 			desc_get = "金币购买",
 			use_parm = {"buyitem",27,},
+			buy_hint = "是否花费30万金币购买【金焰】30天使用权",
+			buy_anniu_hint = "获取",
 		},
 	},
 }
