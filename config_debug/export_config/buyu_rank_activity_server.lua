@@ -20,7 +20,7 @@ return {
 			end_rank = 1,
 			name = "500福卡",
 			asset_type = "shop_gold_sum",
-			value = 50000,
+			value = 1,
 		},
 		[2]=
 		{
@@ -30,7 +30,7 @@ return {
 			end_rank = 1,
 			name = "捕鱼大奖赛门票",
 			asset_type = "prop_fish",
-			value = 1,
+			value = 0,
 		},
 		[3]=
 		{
@@ -40,7 +40,7 @@ return {
 			end_rank = 2,
 			name = "300福卡",
 			asset_type = "shop_gold_sum",
-			value = 30000,
+			value = 1,
 		},
 		[4]=
 		{
@@ -50,7 +50,7 @@ return {
 			end_rank = 2,
 			name = "捕鱼大奖赛门票",
 			asset_type = "prop_fish",
-			value = 1,
+			value = 0,
 		},
 		[5]=
 		{
@@ -60,7 +60,7 @@ return {
 			end_rank = 3,
 			name = "100福卡",
 			asset_type = "shop_gold_sum",
-			value = 10000,
+			value = 1,
 		},
 		[6]=
 		{
@@ -70,7 +70,7 @@ return {
 			end_rank = 3,
 			name = "捕鱼大奖赛门票",
 			asset_type = "prop_fish",
-			value = 1,
+			value = 0,
 		},
 		[7]=
 		{
@@ -80,7 +80,7 @@ return {
 			end_rank = 10,
 			name = "50福卡",
 			asset_type = "shop_gold_sum",
-			value = 5000,
+			value = 1,
 		},
 		[8]=
 		{
@@ -90,7 +90,7 @@ return {
 			end_rank = 10,
 			name = "捕鱼大奖赛门票",
 			asset_type = "prop_fish",
-			value = 1,
+			value = 0,
 		},
 		[9]=
 		{
@@ -100,7 +100,7 @@ return {
 			end_rank = 20,
 			name = "20福卡",
 			asset_type = "shop_gold_sum",
-			value = 2000,
+			value = 1,
 		},
 		[10]=
 		{
@@ -110,7 +110,7 @@ return {
 			end_rank = 20,
 			name = "捕鱼大奖赛门票",
 			asset_type = "prop_fish",
-			value = 1,
+			value = 0,
 		},
 	},
 	grades_awards=
@@ -125,7 +125,7 @@ return {
 			end_grades = -1,
 			name = "捕鱼大奖赛门票",
 			asset_type = "prop_fish",
-			value = 1,
+			value = 0,
 		},
 	},
 }
