@@ -46,7 +46,7 @@ return {
 		[8]=
 		{
 			vip_level = 8,
-			qx = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>\n2、福利券容量提升为<color=#C86715>2000万福利券</color>\n3、享受vip7所有特权并提高部分特权奖励",
+			qx = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>\n2、福利券容量提升为<color=#C86715>200万福利券</color>\n3、享受vip7所有特权并提高部分特权奖励",
 			icon = "vip_tq_icon_hz8",
 		},
 		[9]=

@@ -526,9 +526,9 @@ return {
 			key = "sys_stxt",
 			desc = "师徒系统",
 			lua = "SYSSTXTManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[54]=
 		{
@@ -1616,9 +1616,9 @@ return {
 			key = "act_prop_box",
 			desc = "活动：开宝箱",
 			lua = "PropBoxManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[163]=
 		{
@@ -2355,6 +2355,26 @@ return {
 			key = "by3d_top_qh",
 			desc = "3D捕鱼游戏上方区域",
 			lua = "BY3DTopQHManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[242]=
+		{
+			id = 242,
+			key = "act_022_qflb",
+			desc = "全返礼包",
+			lua = "Act_022_QFLBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[243]=
+		{
+			id = 243,
+			key = "act_022_gzyl",
+			desc = "关注有礼",
+			lua = "Act_022_GZYLManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

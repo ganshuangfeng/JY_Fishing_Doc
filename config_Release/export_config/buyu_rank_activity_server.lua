@@ -5,7 +5,7 @@ return {
 		{
 			id = 1,
 			begin_time = 1563233400,
-			end_time = 4718907000,
+			end_time = 1563233401,
 			refresh_week = 1,
 			refresh_hour = 6,
 		},

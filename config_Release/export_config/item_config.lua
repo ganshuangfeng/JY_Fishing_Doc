@@ -1011,7 +1011,7 @@ return {
 			item_key = "prop_xycj_coin",
 			lose_time = -1,
 			is_local_icon = 1,
-			image = "com_award_icon_dhq3",
+			image = "com_award_icon_dhq",
 			is_show_bag = 1,
 			order = 23,
 			name = "抽奖券",

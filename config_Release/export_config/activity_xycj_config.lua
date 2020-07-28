@@ -227,7 +227,7 @@ return {
 			line = 3,
 			type = 1,
 			icon = "activity_icon_gift187_qklt",
-			name = "俄罗斯进口巧克力",
+			name = "俄罗斯\n进口巧克力",
 			price = "1800福利券",
 			goto_ui = {"duihuan_shop",},
 		},

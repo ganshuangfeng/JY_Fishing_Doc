@@ -118,12 +118,13 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "26#36#58#30#",
+			group_list = "36#58#30#",
 		},
 		[3]=
 		{
 			id = 3,
 			area = "right",
+			group_list = "84#83#",
 		},
 		[4]=
 		{
@@ -805,6 +806,24 @@ return {
 		{
 			id = 82,
 			parm = {"by3d_top_qh",},
+			is_on_off = 1,
+		},
+		[83]=
+		{
+			id = 83,
+			parm = {"sys_stxt",},
+			is_on_off = 0,
+		},
+		[84]=
+		{
+			id = 84,
+			parm = {"act_022_qflb",},
+			is_on_off = 1,
+		},
+		[85]=
+		{
+			id = 85,
+			parm = {"sys_qd",},
 			is_on_off = 1,
 		},
 	},

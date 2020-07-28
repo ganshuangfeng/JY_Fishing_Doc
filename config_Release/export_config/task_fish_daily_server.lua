@@ -535,7 +535,7 @@ return {
 			id = 23,
 			process_id = 12523,
 			source_id = 23,
-			process = 3600,
+			process = 5400,
 			awards = 1012,
 			get_award_type = "nor",
 		},
@@ -1123,7 +1123,7 @@ return {
 			id = 9,
 			award_id = 1005,
 			asset_type = "jing_bi",
-			asset_count = 20000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[10]=
@@ -1187,7 +1187,7 @@ return {
 			id = 17,
 			award_id = 1009,
 			asset_type = "jing_bi",
-			asset_count = 10000,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[18]=
@@ -1203,7 +1203,7 @@ return {
 			id = 19,
 			award_id = 1010,
 			asset_type = "jing_bi",
-			asset_count = 10000,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[20]=
@@ -1219,7 +1219,7 @@ return {
 			id = 21,
 			award_id = 1011,
 			asset_type = "jing_bi",
-			asset_count = 20000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[22]=
@@ -1251,7 +1251,7 @@ return {
 			id = 25,
 			award_id = 2001,
 			asset_type = "fish_coin",
-			asset_count = 10000,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[26]=
@@ -1267,7 +1267,7 @@ return {
 			id = 27,
 			award_id = 2002,
 			asset_type = "fish_coin",
-			asset_count = 20000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[28]=
@@ -1283,7 +1283,7 @@ return {
 			id = 29,
 			award_id = 2003,
 			asset_type = "fish_coin",
-			asset_count = 20000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[30]=
@@ -1299,7 +1299,7 @@ return {
 			id = 31,
 			award_id = 2004,
 			asset_type = "fish_coin",
-			asset_count = 30000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[32]=
@@ -1315,7 +1315,7 @@ return {
 			id = 33,
 			award_id = 2005,
 			asset_type = "jing_bi",
-			asset_count = 50000,
+			asset_count = 30000,
 			get_weight = 1,
 		},
 		[34]=
@@ -1323,7 +1323,7 @@ return {
 			id = 34,
 			award_id = 2005,
 			asset_type = "shop_gold_sum",
-			asset_count = 50,
+			asset_count = 30,
 			get_weight = 1,
 		},
 	},

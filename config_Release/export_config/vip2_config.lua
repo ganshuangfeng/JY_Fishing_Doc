@@ -7,7 +7,7 @@ return {
 			vip = 1,
 			total = 10,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>2次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[2]=
@@ -40,7 +40,7 @@ return {
 			vip = 2,
 			total = 200,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>5次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[6]=
@@ -65,7 +65,7 @@ return {
 			vip = 3,
 			total = 500,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>10次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[9]=
@@ -90,7 +90,7 @@ return {
 			vip = 4,
 			total = 1000,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>20次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[12]=
@@ -115,7 +115,7 @@ return {
 			vip = 5,
 			total = 2000,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>30次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[15]=
@@ -148,7 +148,7 @@ return {
 			vip = 6,
 			total = 5000,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[19]=
@@ -173,7 +173,7 @@ return {
 			vip = 7,
 			total = 10000,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[22]=
@@ -198,7 +198,7 @@ return {
 			vip = 8,
 			total = 20000,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[25]=
@@ -223,7 +223,7 @@ return {
 			vip = 9,
 			total = 30000,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[28]=
@@ -248,7 +248,7 @@ return {
 			vip = 10,
 			total = 50000,
 			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>",
-			gotoUI = {"xycj","panel"},
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[31]=
@@ -1022,7 +1022,7 @@ return {
 		{
 			index = 1,
 			gift_id = 10244,
-			title = {"VIP1礼包","(购买条件:VIP等级≥1)",},
+			title = {"VIP1礼包","(购买条件:<color=#EDD112>VIP等级≥1</color>)",},
 			price = 6,
 			award_img = {"ty_icon_jb_48y","3dby_btn_zh","3dby_btn_sd",},
 			award_txt = {"75万","1","1",},
@@ -1031,7 +1031,7 @@ return {
 		{
 			index = 2,
 			gift_id = 10245,
-			title = {"VIP2礼包","(购买条件:VIP等级≥2)",},
+			title = {"VIP2礼包","(购买条件:<color=#EDD112>VIP等级≥2</color>)",},
 			price = 28,
 			award_img = {"ty_icon_jb_48y","3dby_btn_zh","3dby_btn_sd",},
 			award_txt = {"318万","5","5",},
@@ -1040,7 +1040,7 @@ return {
 		{
 			index = 3,
 			gift_id = 10246,
-			title = {"VIP3礼包","(购买条件:VIP等级≥3)",},
+			title = {"VIP3礼包","(购买条件:<color=#EDD112>VIP等级≥3</color>)",},
 			price = 48,
 			award_img = {"ty_icon_jb_48y","3dby_btn_zh","3dby_btn_sd",},
 			award_txt = {"538万","10","10",},
@@ -1049,7 +1049,7 @@ return {
 		{
 			index = 4,
 			gift_id = 10247,
-			title = {"VIP4礼包","(购买条件:VIP等级≥4)",},
+			title = {"VIP4礼包","(购买条件:<color=#EDD112>VIP等级≥4</color>)",},
 			price = 99,
 			award_img = {"ty_icon_jb_50y","3dby_btn_zh","3dby_btn_sd",},
 			award_txt = {"1108万","20","20",},
@@ -1058,7 +1058,7 @@ return {
 		{
 			index = 5,
 			gift_id = 10248,
-			title = {"VIP5礼包","(购买条件:VIP等级≥5)",},
+			title = {"VIP5礼包","(购买条件:<color=#EDD112>VIP等级≥5</color>)",},
 			price = 198,
 			award_img = {"ty_icon_jb_50y","3dby_btn_zh","3dby_btn_sd",},
 			award_txt = {"2218万","40","40",},
@@ -1067,7 +1067,7 @@ return {
 		{
 			index = 6,
 			gift_id = 10249,
-			title = {"VIP6礼包","(购买条件:VIP等级≥6)",},
+			title = {"VIP6礼包","(购买条件:<color=#EDD112>VIP等级≥6</color>)",},
 			price = 298,
 			award_img = {"ty_icon_jb_50y","3dby_btn_zh","3dby_btn_sd",},
 			award_txt = {"3288万","68","60",},
@@ -1076,7 +1076,7 @@ return {
 		{
 			index = 7,
 			gift_id = 10250,
-			title = {"VIP7礼包","(购买条件:VIP等级≥7)",},
+			title = {"VIP7礼包","(购买条件:<color=#EDD112>VIP等级≥7</color>)",},
 			price = 398,
 			award_img = {"ty_icon_jb_98y","3dby_btn_zh","3dby_btn_sd",},
 			award_txt = {"4388万","88","80",},
@@ -1085,7 +1085,7 @@ return {
 		{
 			index = 8,
 			gift_id = 10251,
-			title = {"VIP8礼包","(购买条件:VIP等级≥8)",},
+			title = {"VIP8礼包","(购买条件:<color=#EDD112>VIP等级≥8</color>)",},
 			price = 498,
 			award_img = {"ty_icon_jb_98y","3dby_btn_zh","3dby_btn_sd",},
 			award_txt = {"5488万","110","100",},
@@ -1094,7 +1094,7 @@ return {
 		{
 			index = 9,
 			gift_id = 10252,
-			title = {"VIP9礼包","(购买条件:VIP等级≥9)",},
+			title = {"VIP9礼包","(购买条件:<color=#EDD112>VIP等级≥9</color>)",},
 			price = 598,
 			award_img = {"ty_icon_jb_198y","3dby_btn_zh","3dby_btn_sd",},
 			award_txt = {"6488万","148","100",},
@@ -1103,7 +1103,7 @@ return {
 		{
 			index = 10,
 			gift_id = 10253,
-			title = {"VIP10礼包","(购买条件:VIP等级≥10)",},
+			title = {"VIP10礼包","(购买条件:<color=#EDD112>VIP等级≥10</color>)",},
 			price = 698,
 			award_img = {"ty_icon_jb_198y","3dby_btn_zh","3dby_btn_sd",},
 			award_txt = {"7688万","158","100",},
