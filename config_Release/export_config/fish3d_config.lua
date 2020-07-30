@@ -31,6 +31,7 @@ return {
 			dead_scale = 1.200000,
 			animator_node = "fish3dnode/fish3d",
 			map_node = "fish3dnode/fish3d/x_0001 1/x_0001 2",
+			audio = {"bgm_by_siwang24",},
 		},
 		[2]=
 		{
@@ -61,6 +62,7 @@ return {
 			fish_stratum = 8900,
 			dead_scale = 1.200000,
 			map_node = "fish3d/x_0002 1/x_0002 2",
+			audio = {"bgm_by_siwang24",},
 		},
 		[3]=
 		{
@@ -92,6 +94,7 @@ return {
 			dead_scale = 1.200000,
 			animator_node = "fish3dnode/fish3d",
 			map_node = "fish3dnode/fish3d/x_0003 1/x_0003 2",
+			audio = {"bgm_by_siwang24",},
 		},
 		[4]=
 		{
@@ -122,6 +125,7 @@ return {
 			fish_stratum = 8700,
 			dead_scale = 1.200000,
 			map_node = "fish3d/x_0010 1/xiaoyu",
+			audio = {"bgm_by_siwang24",},
 		},
 		[5]=
 		{
@@ -152,6 +156,7 @@ return {
 			fish_stratum = 8600,
 			dead_scale = 1.200000,
 			map_node = "fish3d/x_0005 1/x_0005 2",
+			audio = {"bgm_by_siwang24",},
 		},
 		[6]=
 		{
@@ -183,6 +188,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/x_0004 1/x_0004 2",
+			audio = {"bgm_by_siwang24",},
 		},
 		[7]=
 		{
@@ -213,6 +219,7 @@ return {
 			fish_stratum = 8400,
 			dead_scale = 1.200000,
 			map_node = "fish3d/z_0004 1/z_0004 2",
+			audio = {"bgm_by_siwang24",},
 		},
 		[8]=
 		{
@@ -244,6 +251,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/x_0011 1/x_0011 2",
+			audio = {"bgm_by_siwang24",},
 		},
 		[9]=
 		{
@@ -276,6 +284,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/x_0008 1/x_0008 2",
+			audio = {"bgm_by_siwang24",},
 		},
 		[10]=
 		{
@@ -307,6 +316,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/x_0007 1/x_0007 2",
+			audio = {"bgm_by_siwang1","bgm_by_siwang2","bgm_by_siwang3","bgm_by_siwang4","bgm_by_siwang5","bgm_by_siwang6","bgm_by_siwang7","bgm_by_siwang8","bgm_by_siwang9","bgm_by_siwang10","bgm_by_siwang11","bgm_by_siwang12","bgm_by_siwang13","bgm_by_siwang14",},
 		},
 		[11]=
 		{
@@ -338,6 +348,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/x_0009 1/x_0009 2",
+			audio = {"bgm_by_siwang1","bgm_by_siwang2","bgm_by_siwang3","bgm_by_siwang4","bgm_by_siwang5","bgm_by_siwang6","bgm_by_siwang7","bgm_by_siwang8","bgm_by_siwang9","bgm_by_siwang10","bgm_by_siwang11","bgm_by_siwang12","bgm_by_siwang13","bgm_by_siwang14",},
 		},
 		[12]=
 		{
@@ -369,6 +380,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/z_0006 1/z_0006 2",
+			audio = {"bgm_by_siwang1","bgm_by_siwang2","bgm_by_siwang3","bgm_by_siwang4","bgm_by_siwang5","bgm_by_siwang6","bgm_by_siwang7","bgm_by_siwang8","bgm_by_siwang9","bgm_by_siwang10","bgm_by_siwang11","bgm_by_siwang12","bgm_by_siwang13","bgm_by_siwang14",},
 		},
 		[13]=
 		{
@@ -401,6 +413,7 @@ return {
 			dead_guang = 2,
 			animator_node = "fish3dnode/fish3d",
 			map_node = "fish3dnode/fish3d/z_0005 1/z_0005 2",
+			audio = {"bgm_by_siwang1","bgm_by_siwang2","bgm_by_siwang3","bgm_by_siwang4","bgm_by_siwang5","bgm_by_siwang6","bgm_by_siwang7","bgm_by_siwang8","bgm_by_siwang9","bgm_by_siwang10","bgm_by_siwang11","bgm_by_siwang12","bgm_by_siwang13","bgm_by_siwang14",},
 		},
 		[14]=
 		{
@@ -433,6 +446,7 @@ return {
 			dead_guang = 2,
 			animator_node = "fish3dnode/fish3d",
 			map_node = "fish3dnode/fish3d/x_0003 1/x_0003 2",
+			audio = {"bgm_by_siwang1","bgm_by_siwang2","bgm_by_siwang3","bgm_by_siwang4","bgm_by_siwang5","bgm_by_siwang6","bgm_by_siwang7","bgm_by_siwang8","bgm_by_siwang9","bgm_by_siwang10","bgm_by_siwang11","bgm_by_siwang12","bgm_by_siwang13","bgm_by_siwang14",},
 		},
 		[15]=
 		{
@@ -464,6 +478,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/z_0004 1/z_0004 2",
+			audio = {"bgm_by_siwang1","bgm_by_siwang2","bgm_by_siwang3","bgm_by_siwang4","bgm_by_siwang5","bgm_by_siwang6","bgm_by_siwang7","bgm_by_siwang8","bgm_by_siwang9","bgm_by_siwang10","bgm_by_siwang11","bgm_by_siwang12","bgm_by_siwang13","bgm_by_siwang14",},
 		},
 		[16]=
 		{
@@ -495,6 +510,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/x_0010 1/xiaoyu",
+			audio = {"bgm_by_siwang1","bgm_by_siwang2","bgm_by_siwang3","bgm_by_siwang4","bgm_by_siwang5","bgm_by_siwang6","bgm_by_siwang7","bgm_by_siwang8","bgm_by_siwang9","bgm_by_siwang10","bgm_by_siwang11","bgm_by_siwang12","bgm_by_siwang13","bgm_by_siwang14",},
 		},
 		[17]=
 		{
@@ -526,6 +542,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/z_0002 1/z_0002 2",
+			audio = {"bgm_by_siwang1","bgm_by_siwang2","bgm_by_siwang3","bgm_by_siwang4","bgm_by_siwang5","bgm_by_siwang6","bgm_by_siwang7","bgm_by_siwang8","bgm_by_siwang9","bgm_by_siwang10","bgm_by_siwang11","bgm_by_siwang12","bgm_by_siwang13","bgm_by_siwang14",},
 		},
 		[18]=
 		{
@@ -557,6 +574,7 @@ return {
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/z_0007 1/z_0007 2",
+			audio = {"bgm_by_siwang15",},
 		},
 		[19]=
 		{
@@ -587,6 +605,7 @@ return {
 			fish_stratum = 7000,
 			dead_scale = 2,
 			dead_guang = 1,
+			audio = {"bgm_by_zhadanyu",},
 		},
 		[20]=
 		{
@@ -619,6 +638,7 @@ return {
 			dead_guang = 1,
 			animator_node = "fish3dnode/fish3d",
 			map_node = "fish3dnode/fish3d/j_0004 1/j_0004 2",
+			audio = {"bgm_by_siwang40",},
 		},
 		[21]=
 		{
@@ -649,6 +669,7 @@ return {
 			fish_stratum = 6400,
 			dead_scale = 2,
 			dead_guang = 1,
+			audio = {"bgm_by_zhadanyu1",},
 		},
 		[22]=
 		{
@@ -680,6 +701,7 @@ return {
 			dead_scale = 2,
 			dead_guang = 1,
 			map_node = "fish3d/j_0006 1/z_0006",
+			audio = {"bgm_by_siwang26",},
 		},
 		[23]=
 		{
@@ -711,6 +733,7 @@ return {
 			dead_scale = 1.200000,
 			animator_node = "fish3dnode/fish3d",
 			map_node = "fish3dnode/fish3d/j_0015 1/j_0015 2",
+			audio = {"bgm_by_siwang25",},
 		},
 		[24]=
 		{
@@ -741,6 +764,7 @@ return {
 			fish_stratum = 6100,
 			dead_scale = 1.200000,
 			map_node = "fish3d/j_0002 1/x_0004",
+			audio = {"bgm_by_siwang27",},
 		},
 		[25]=
 		{
@@ -771,6 +795,7 @@ return {
 			fish_stratum = 6000,
 			dead_scale = 2,
 			dead_guang = 1,
+			audio = {"bgm_by_siwang31",},
 		},
 		[26]=
 		{
@@ -803,6 +828,7 @@ return {
 			dead_guang = 1,
 			animator_node = "fish3dnode/fish3d",
 			map_node = "fish3dnode/fish3d/j_0008 1/j_0008 2",
+			audio = {"bgm_by_siwang30",},
 		},
 		[27]=
 		{
@@ -834,6 +860,7 @@ return {
 			dead_scale = 2,
 			dead_guang = 1,
 			map_node = "fish3d/j_0003 1/j_0003 2",
+			audio = {"bgm_by_siwang29",},
 		},
 		[28]=
 		{
@@ -865,6 +892,7 @@ return {
 			dead_scale = 2,
 			dead_guang = 1,
 			map_node = "fish3d/gny_0008 1/gny_0008 2",
+			audio = {"bgm_by_shandianyu",},
 		},
 		[29]=
 		{
@@ -896,6 +924,7 @@ return {
 			fish_stratum = 9200,
 			dead_scale = 2,
 			speed_type = {1,100,3,1,3,1,10000,1,1,},
+			audio = {"bgm_by_siwang16",},
 		},
 		[30]=
 		{
@@ -927,6 +956,7 @@ return {
 			fish_stratum = 9200,
 			dead_scale = 2,
 			speed_type = {1,100,3,1,3,1,10000,1,1,},
+			audio = {"bgm_by_siwang16",},
 		},
 		[31]=
 		{
@@ -959,6 +989,7 @@ return {
 			dead_scale = 2,
 			dead_guang = 1,
 			speed_type = {1,100,3,1,3,1,10000,1,1,},
+			audio = {"bgm_by_siwang16",},
 		},
 		[32]=
 		{
@@ -989,6 +1020,7 @@ return {
 			fish_stratum = 4600,
 			dead_scale = 2,
 			dead_guang = 1,
+			audio = {"bgm_by_siwang39",},
 		},
 		[33]=
 		{
@@ -1019,6 +1051,7 @@ return {
 			fish_stratum = 4500,
 			dead_scale = 2,
 			dead_guang = 1,
+			audio = {"bgm_by_siwang43",},
 		},
 		[34]=
 		{
@@ -1049,6 +1082,7 @@ return {
 			fish_stratum = 4400,
 			dead_scale = 1.200000,
 			map_node = "fish3d/gny_0022/gny_0022 1",
+			audio = {"bgm_by_siwang34",},
 		},
 		[35]=
 		{
@@ -1080,6 +1114,7 @@ return {
 			fish_stratum = 4300,
 			dead_scale = 1.200000,
 			map_node = "fish3d/gny_0026 1/gny_0026 2",
+			audio = {"bgm_by_siwang33",},
 		},
 		[36]=
 		{
@@ -1112,6 +1147,7 @@ return {
 			dead_guang = 2,
 			animator_node = "fish3dnode/fish3d",
 			map_node = "fish3dnode/fish3d/bs_0005 1/bs_0005 2",
+			audio = {"bgm_by_siwang36",},
 		},
 		[37]=
 		{
@@ -1175,6 +1211,7 @@ return {
 			dead_scale = 2,
 			dead_guang = 1,
 			js3_td = {50,100,300},
+			audio = {"bgm_by_siwang23",},
 		},
 		[39]=
 		{
@@ -1208,6 +1245,7 @@ return {
 			animator_node = "fish3dnode/fish3d",
 			map_node = "fish3dnode/fish3d/xb_0002 1/xb_0002 2",
 			js3_td = {50,100,200},
+			audio = {"bgm_by_siwang20",},
 		},
 		[40]=
 		{
@@ -1239,6 +1277,7 @@ return {
 			dead_scale = 2,
 			dead_guang = 1,
 			js3_td = {200,300,600},
+			audio = {"bgm_by_siwang41",},
 		},
 		[41]=
 		{
@@ -1271,6 +1310,7 @@ return {
 			dead_guang = 2,
 			map_node = "fish3d/xb_0004 /xb_0004 1",
 			js3_td = {100,200,300},
+			audio = {"bgm_by_siwang37",},
 		},
 		[42]=
 		{
@@ -1335,6 +1375,7 @@ return {
 			dead_guang = 2,
 			map_node = "fish3d/xb_0003 1/xb_0003 2",
 			js3_td = {100,200,500},
+			audio = {"bgm_by_siwang19",},
 		},
 		[44]=
 		{
@@ -1432,6 +1473,7 @@ return {
 			map_node = "fish3dnode/fish3d/bs_0008 1/bs_0008 2",
 			speed_type = {1,100,0,1,0,1,0,1,2,},
 			js3_td = {100,200,300,400},
+			audio = {"bgm_by_siwang32",},
 		},
 		[47]=
 		{
@@ -1464,6 +1506,7 @@ return {
 			dead_guang = 2,
 			map_node = "fish3d/gny_0005 1/gny_0005 2",
 			js3_td = {50,150,200,350},
+			audio = {"bgm_by_siwang28",},
 		},
 		[48]=
 		{
@@ -1496,6 +1539,7 @@ return {
 			dead_guang = 2,
 			map_node = "fish3d/xb_0001 1/xb_0001 2",
 			js3_td = {100,250,300,450},
+			audio = {"bgm_by_siwang42",},
 		},
 		[49]=
 		{
@@ -1524,11 +1568,12 @@ return {
 			blood_pos = {-20,-64},
 			blood_scale = {0.35,0.5},
 			close_rota = 1,
-			fish_stratum = 2400,
+			fish_stratum = 9400,
 			dead_scale = 1.500000,
 			dead_guang = 2,
 			map_node = "fish3d/xb_0007_skill/xb_0007_skill 1",
 			js3_td = {100,200,500,600},
+			audio = {"bgm_by_siwang44",},
 		},
 		[50]=
 		{
