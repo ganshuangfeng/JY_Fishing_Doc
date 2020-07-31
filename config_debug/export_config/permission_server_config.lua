@@ -10477,10 +10477,10 @@ return {
 			no = 572,
 			id = 215,
 			var = "player_level",
-			value = 12,
+			value = 7,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[573]=
 		{
@@ -10490,17 +10490,17 @@ return {
 			value = 1,
 			judge = 3,
 			group = 2,
-			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[574]=
 		{
 			no = 574,
 			id = 216,
 			var = "player_level",
-			value = 12,
+			value = 7,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[575]=
 		{
@@ -10510,17 +10510,17 @@ return {
 			value = 1,
 			judge = 3,
 			group = 2,
-			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[576]=
 		{
 			no = 576,
 			id = 217,
 			var = "player_level",
-			value = 13,
+			value = 8,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv13开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv8开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[577]=
 		{
@@ -10530,17 +10530,17 @@ return {
 			value = 1,
 			judge = 3,
 			group = 2,
-			error_desc = "Lv13开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv8开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[578]=
 		{
 			no = 578,
 			id = 218,
 			var = "player_level",
-			value = 14,
+			value = 9,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv14开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[579]=
 		{
@@ -10550,17 +10550,17 @@ return {
 			value = 1,
 			judge = 3,
 			group = 2,
-			error_desc = "Lv14开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[580]=
 		{
 			no = 580,
 			id = 219,
 			var = "player_level",
-			value = 15,
+			value = 10,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv15开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv10开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[581]=
 		{
@@ -10570,17 +10570,17 @@ return {
 			value = 1,
 			judge = 3,
 			group = 2,
-			error_desc = "Lv15开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv10开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[582]=
 		{
 			no = 582,
 			id = 220,
 			var = "player_level",
-			value = 16,
+			value = 11,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv16开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[583]=
 		{
@@ -10590,17 +10590,17 @@ return {
 			value = 1,
 			judge = 3,
 			group = 2,
-			error_desc = "Lv16开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[584]=
 		{
 			no = 584,
 			id = 221,
 			var = "player_level",
-			value = 17,
+			value = 12,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv17开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[585]=
 		{
@@ -10610,17 +10610,17 @@ return {
 			value = 1,
 			judge = 3,
 			group = 2,
-			error_desc = "Lv17开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[586]=
 		{
 			no = 586,
 			id = 222,
 			var = "player_level",
-			value = 18,
+			value = 13,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv18开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv13开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[587]=
 		{
@@ -10630,17 +10630,17 @@ return {
 			value = 1,
 			judge = 3,
 			group = 2,
-			error_desc = "Lv18开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv13开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[588]=
 		{
 			no = 588,
 			id = 223,
 			var = "player_level",
-			value = 19,
+			value = 14,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv19开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv14开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[589]=
 		{
@@ -10650,17 +10650,17 @@ return {
 			value = 1,
 			judge = 3,
 			group = 2,
-			error_desc = "Lv19开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv14开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[590]=
 		{
 			no = 590,
 			id = 224,
 			var = "player_level",
-			value = 20,
+			value = 15,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv20开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv15开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[591]=
 		{
@@ -10670,17 +10670,17 @@ return {
 			value = 1,
 			judge = 3,
 			group = 2,
-			error_desc = "Lv20开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv15开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[592]=
 		{
 			no = 592,
 			id = 225,
 			var = "player_level",
-			value = 21,
+			value = 16,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv21开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv16开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[593]=
 		{
@@ -10690,7 +10690,7 @@ return {
 			value = 1,
 			judge = 3,
 			group = 2,
-			error_desc = "Lv21开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv16开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[594]=
 		{
