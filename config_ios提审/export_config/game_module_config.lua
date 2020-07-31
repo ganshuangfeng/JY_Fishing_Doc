@@ -1006,9 +1006,9 @@ return {
 			key = "xrhb1",
 			desc = "新人红包任务(VIP红包任务，和游戏的新手引导等有牵连)",
 			lua = "ActivityXRHB1Logic",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[102]=
 		{
@@ -2325,9 +2325,9 @@ return {
 			key = "sys_flqcj",
 			desc = "福利券抽奖",
 			lua = "SYSFLQCJManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[239]=
 		{

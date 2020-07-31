@@ -5,7 +5,7 @@ return {
 		{
 			line = 1,
 			id = 1,
-			prefab = "Fish3D001",
+			prefab = "Fish3D061",
 			icon = "3dby_icon_yu27",
 			name = "小牛角",
 			name_image = "3dby_imgf_tbl",
@@ -29,7 +29,8 @@ return {
 			blood_scale = {0.25,0.4},
 			fish_stratum = 9000,
 			dead_scale = 1.200000,
-			map_node = "fish3d/fish_102/model/cjb/cjb",
+			animator_node = "fish3dnode/fish3d",
+			map_node = "fish3dnode/fish3d/x_0001 1/x_0001 2",
 			audio = {"bgm_by_siwang24",},
 		},
 		[2]=
@@ -161,7 +162,7 @@ return {
 		{
 			line = 6,
 			id = 6,
-			prefab = "Fish3D004",
+			prefab = "Fish3D066",
 			icon = "3dby_icon_yu30",
 			name = "河豚",
 			name_image = "3dby_imgf_fdcl",
@@ -186,7 +187,7 @@ return {
 			fish_stratum = 8500,
 			dead_scale = 1.500000,
 			dead_guang = 2,
-			map_node = "fish3d/fish_104/model/cjb/cjb",
+			map_node = "fish3d/x_0004 1/x_0004 2",
 			audio = {"bgm_by_siwang24",},
 		},
 		[7]=
@@ -224,7 +225,7 @@ return {
 		{
 			line = 8,
 			id = 8,
-			prefab = "Fish3D011",
+			prefab = "Fish3D067",
 			icon = "3dby_icon_yu48",
 			name = "小旗鱼",
 			name_image = "10dby_imgf_fdcl",
@@ -249,14 +250,14 @@ return {
 			fish_stratum = 8300,
 			dead_scale = 1.500000,
 			dead_guang = 2,
-			map_node = "fish3d/fish_111/model/cjb/cjb",
+			map_node = "fish3d/x_0011 1/x_0011 2",
 			audio = {"bgm_by_siwang24",},
 		},
 		[9]=
 		{
 			line = 9,
 			id = 9,
-			prefab = "Fish3D014",
+			prefab = "Fish3D055",
 			icon = "3dby_icon_yu34",
 			name = "小水母",
 			name_image = "4dby_imgf_fdcl",
@@ -278,17 +279,18 @@ return {
 			fish_scale = 0.450000,
 			blood_pos = {-20,-64},
 			blood_scale = {0.35,0.5},
+			close_rota = 1,
 			fish_stratum = 8200,
 			dead_scale = 1.500000,
 			dead_guang = 2,
-			map_node = "fish3d/fish_114/model/cjb/cjb",
+			map_node = "fish3d/x_0008 1/x_0008 2",
 			audio = {"bgm_by_siwang24",},
 		},
 		[10]=
 		{
 			line = 10,
 			id = 10,
-			prefab = "Fish3D017",
+			prefab = "Fish3D060",
 			icon = "3dby_icon_yu33",
 			name = "小章鱼",
 			name_image = "5dby_imgf_fdcl",
@@ -313,7 +315,7 @@ return {
 			fish_stratum = 8100,
 			dead_scale = 1.500000,
 			dead_guang = 2,
-			map_node = "fish3d/fish_117/model/cjb/cjb",
+			map_node = "fish3d/x_0007 1/x_0007 2",
 			audio = {"bgm_by_siwang1","bgm_by_siwang2","bgm_by_siwang3","bgm_by_siwang4","bgm_by_siwang5","bgm_by_siwang6","bgm_by_siwang7","bgm_by_siwang8","bgm_by_siwang9","bgm_by_siwang10","bgm_by_siwang11","bgm_by_siwang12","bgm_by_siwang13","bgm_by_siwang14",},
 		},
 		[11]=
@@ -352,7 +354,7 @@ return {
 		{
 			line = 12,
 			id = 12,
-			prefab = "Fish3D010",
+			prefab = "Fish3D069",
 			icon = "3dby_icon_yu46",
 			name = "狮子鱼",
 			name_image = "7dby_imgf_fdcl",
@@ -377,14 +379,14 @@ return {
 			fish_stratum = 7900,
 			dead_scale = 1.500000,
 			dead_guang = 2,
-			map_node = "fish3d/fish_110/model/cjb/cjb",
+			map_node = "fish3d/z_0006 1/z_0006 2",
 			audio = {"bgm_by_siwang1","bgm_by_siwang2","bgm_by_siwang3","bgm_by_siwang4","bgm_by_siwang5","bgm_by_siwang6","bgm_by_siwang7","bgm_by_siwang8","bgm_by_siwang9","bgm_by_siwang10","bgm_by_siwang11","bgm_by_siwang12","bgm_by_siwang13","bgm_by_siwang14",},
 		},
 		[13]=
 		{
 			line = 13,
 			id = 13,
-			prefab = "Fish3D016",
+			prefab = "Fish3D070",
 			icon = "3dby_icon_yu45",
 			name = "蝴蝶鱼",
 			name_image = "8dby_imgf_fdcl",
@@ -409,7 +411,8 @@ return {
 			fish_stratum = 7800,
 			dead_scale = 1.500000,
 			dead_guang = 2,
-			map_node = "fish3d/fish_116/model/cjb/cjb",
+			animator_node = "fish3dnode/fish3d",
+			map_node = "fish3dnode/fish3d/z_0005 1/z_0005 2",
 			audio = {"bgm_by_siwang1","bgm_by_siwang2","bgm_by_siwang3","bgm_by_siwang4","bgm_by_siwang5","bgm_by_siwang6","bgm_by_siwang7","bgm_by_siwang8","bgm_by_siwang9","bgm_by_siwang10","bgm_by_siwang11","bgm_by_siwang12","bgm_by_siwang13","bgm_by_siwang14",},
 		},
 		[14]=
@@ -449,7 +452,7 @@ return {
 		{
 			line = 15,
 			id = 15,
-			prefab = "Fish3D018",
+			prefab = "Fish3D045",
 			icon = "3dby_icon_yu32",
 			name = "巨大灯笼鱼",
 			name_image = "3dby_imgf_jddly",
@@ -474,7 +477,7 @@ return {
 			fish_stratum = 7400,
 			dead_scale = 1.500000,
 			dead_guang = 2,
-			map_node = "fish3d/fish_118/model/cjb/cjb",
+			map_node = "fish3d/z_0004 1/z_0004 2",
 			audio = {"bgm_by_siwang1","bgm_by_siwang2","bgm_by_siwang3","bgm_by_siwang4","bgm_by_siwang5","bgm_by_siwang6","bgm_by_siwang7","bgm_by_siwang8","bgm_by_siwang9","bgm_by_siwang10","bgm_by_siwang11","bgm_by_siwang12","bgm_by_siwang13","bgm_by_siwang14",},
 		},
 		[16]=
@@ -545,7 +548,7 @@ return {
 		{
 			line = 18,
 			id = 18,
-			prefab = "Fish3D023",
+			prefab = "Fish3D074",
 			icon = "3dby_icon_yu47",
 			name = "虎鲸",
 			name_image = "6dby_imgf_fdcl",
@@ -570,7 +573,7 @@ return {
 			fish_stratum = 7100,
 			dead_scale = 1.500000,
 			dead_guang = 2,
-			map_node = "fish3d/fish_123/model/cjb/cjb",
+			map_node = "fish3d/z_0007 1/z_0007 2",
 			audio = {"bgm_by_siwang15",},
 		},
 		[19]=
@@ -798,7 +801,7 @@ return {
 		{
 			line = 26,
 			id = 26,
-			prefab = "Fish3D024",
+			prefab = "Fish3D049",
 			icon = "3dby_icon_yu24",
 			name = "大金鲨",
 			name_image = "5dby_imgf_fdcl",
@@ -823,14 +826,15 @@ return {
 			fish_stratum = 5900,
 			dead_scale = 2,
 			dead_guang = 1,
-			map_node = "fish3d/fish_124/model/cjb/cjb",
+			animator_node = "fish3dnode/fish3d",
+			map_node = "fish3dnode/fish3d/j_0008 1/j_0008 2",
 			audio = {"bgm_by_siwang30",},
 		},
 		[27]=
 		{
 			line = 27,
 			id = 27,
-			prefab = "Fish3D025",
+			prefab = "Fish3D048",
 			icon = "3dby_icon_yu21",
 			name = "黄金锤头鲨",
 			name_image = "9dby_imgf_fdcl",
@@ -855,7 +859,7 @@ return {
 			fish_stratum = 5800,
 			dead_scale = 2,
 			dead_guang = 1,
-			map_node = "fish3d/fish_125/model/cjb/cjb",
+			map_node = "fish3d/j_0003 1/j_0003 2",
 			audio = {"bgm_by_siwang29",},
 		},
 		[28]=

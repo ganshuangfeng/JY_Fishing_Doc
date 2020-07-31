@@ -9294,7 +9294,7 @@ return {
 			id = 393,
 			process_id = 21341,
 			source_id = 390,
-			process = {2000000,5000000,10000000,20000000,50000000,100000000,200000000,500000000,1000000000,2000000000,3000000000,5000000000},
+			process = {2000000,3000000,5000000,10000000,30000000,50000000,100000000,300000000,500000000,1000000000,1000000000,2000000000},
 			awards = {598,599,600,601,602,603,604,605,606,607,608,609,},
 		},
 	},
@@ -18380,8 +18380,8 @@ return {
 		{
 			id = 265,
 			award_id = 151,
-			asset_type = "prop_3d_fish_lock",
-			asset_count = 1,
+			asset_type = "prop_3d_fish_summon_fish",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[266]=
@@ -18404,8 +18404,8 @@ return {
 		{
 			id = 268,
 			award_id = 152,
-			asset_type = "prop_3d_fish_lock",
-			asset_count = 1,
+			asset_type = "prop_3d_fish_summon_fish",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[269]=
@@ -22443,8 +22443,8 @@ return {
 		{
 			id = 773,
 			award_id = 567,
-			asset_type = "prop_guess_apple_bet_2",
-			asset_count = 1,
+			asset_type = "prop_3d_fish_summon_fish",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[774]=

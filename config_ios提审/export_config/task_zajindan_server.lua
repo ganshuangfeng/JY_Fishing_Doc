@@ -942,7 +942,7 @@ return {
 		[21016]=
 		{
 			id = 21016,
-			enable = 0,
+			enable = 1,
 			name = "vip3~5周任务",
 			own_type = "vip_week_task_3",
 			task_enum = "vip_week_task",
@@ -956,7 +956,7 @@ return {
 		[21017]=
 		{
 			id = 21017,
-			enable = 0,
+			enable = 1,
 			name = "vip6及以上周任务",
 			own_type = "vip_week_task_6",
 			task_enum = "vip_week_task",
@@ -1684,7 +1684,7 @@ return {
 		[21069]=
 		{
 			id = 21069,
-			enable = 0,
+			enable = 1,
 			name = "V0用户每充值6元得1个红包大转盘得抽奖票，最多得8张",
 			own_type = "permission_task",
 			task_enum = "common",
@@ -5114,7 +5114,7 @@ return {
 		[21314]=
 		{
 			id = 21314,
-			enable = 0,
+			enable = 1,
 			name = "vip2周任务",
 			own_type = "vip_week_task_2",
 			task_enum = "vip_week_task",
@@ -5131,9 +5131,9 @@ return {
 			enable = 1,
 			name = "开炮送红包",
 			own_type = "normal",
-			task_enum = "common",
+			task_enum = "buyu_leiji_dapao_new_task",
 			process_id = 21315,
-			is_reset = 1,
+			is_reset = 0,
 			reset_delay = 1,
 			start_valid_time = 1593554400,
 			end_valid_time = 32503651200,
@@ -5145,9 +5145,9 @@ return {
 			enable = 1,
 			name = "开炮送红包",
 			own_type = "normal",
-			task_enum = "common",
+			task_enum = "buyu_leiji_dapao_new_task",
 			process_id = 21316,
-			is_reset = 1,
+			is_reset = 0,
 			reset_delay = 1,
 			start_valid_time = 1593554400,
 			end_valid_time = 32503651200,
@@ -5159,9 +5159,9 @@ return {
 			enable = 1,
 			name = "开炮送红包",
 			own_type = "normal",
-			task_enum = "common",
+			task_enum = "buyu_leiji_dapao_new_task",
 			process_id = 21317,
-			is_reset = 1,
+			is_reset = 0,
 			reset_delay = 1,
 			start_valid_time = 1593554400,
 			end_valid_time = 32503651200,
@@ -5173,11 +5173,319 @@ return {
 			enable = 1,
 			name = "开炮送红包",
 			own_type = "normal",
-			task_enum = "common",
+			task_enum = "buyu_leiji_dapao_new_task",
 			process_id = 21318,
-			is_reset = 1,
+			is_reset = 0,
 			reset_delay = 1,
 			start_valid_time = 1593554400,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21319]=
+		{
+			id = 21319,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_task_1",
+			task_enum = "common",
+			process_id = 21319,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21320]=
+		{
+			id = 21320,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_task_2",
+			task_enum = "chang_wan_ka_task",
+			process_id = 21320,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21321]=
+		{
+			id = 21321,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_task_3",
+			task_enum = "chang_wan_ka_task",
+			process_id = 21321,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21322]=
+		{
+			id = 21322,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_normal_task",
+			task_enum = "common",
+			process_id = 21322,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21323]=
+		{
+			id = 21323,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_normal_task",
+			task_enum = "common",
+			process_id = 21323,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21324]=
+		{
+			id = 21324,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_normal_task",
+			task_enum = "common",
+			process_id = 21324,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21325]=
+		{
+			id = 21325,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_normal_task",
+			task_enum = "common",
+			process_id = 21325,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21326]=
+		{
+			id = 21326,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_normal_task",
+			task_enum = "common",
+			process_id = 21326,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21327]=
+		{
+			id = 21327,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_normal_task",
+			task_enum = "common",
+			process_id = 21327,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21328]=
+		{
+			id = 21328,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_normal_task",
+			task_enum = "common",
+			process_id = 21328,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21329]=
+		{
+			id = 21329,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_normal_task",
+			task_enum = "common",
+			process_id = 21329,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21330]=
+		{
+			id = 21330,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_normal_task",
+			task_enum = "common",
+			process_id = 21330,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21331]=
+		{
+			id = 21331,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_special_task",
+			task_enum = "common",
+			process_id = 21331,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21332]=
+		{
+			id = 21332,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_special_task",
+			task_enum = "common",
+			process_id = 21332,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21333]=
+		{
+			id = 21333,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_special_task",
+			task_enum = "common",
+			process_id = 21333,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21334]=
+		{
+			id = 21334,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_special_task",
+			task_enum = "common",
+			process_id = 21334,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21335]=
+		{
+			id = 21335,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_special_task",
+			task_enum = "common",
+			process_id = 21335,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21336]=
+		{
+			id = 21336,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_special_task",
+			task_enum = "common",
+			process_id = 21336,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21337]=
+		{
+			id = 21337,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_special_task",
+			task_enum = "common",
+			process_id = 21337,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21338]=
+		{
+			id = 21338,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_special_task",
+			task_enum = "common",
+			process_id = 21338,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21339]=
+		{
+			id = 21339,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_special_task",
+			task_enum = "common",
+			process_id = 21339,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[21340]=
+		{
+			id = 21340,
+			enable = 1,
+			name = "VIP赢金挑战第三期",
+			own_type = "vip_new_game_award_task_3",
+			task_enum = "common",
+			process_id = 21340,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1588003200,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -6949,7 +7257,7 @@ return {
 			id = 178,
 			process_id = 21126,
 			source_id = 178,
-			process = 10,
+			process = 30,
 			awards = 294,
 			get_award_type = "nor",
 		},
@@ -7084,7 +7392,7 @@ return {
 			id = 192,
 			process_id = 21140,
 			source_id = 192,
-			process = 10,
+			process = 300,
 			awards = 308,
 			get_award_type = "nor",
 		},
@@ -7093,7 +7401,7 @@ return {
 			id = 193,
 			process_id = 21141,
 			source_id = 193,
-			process = 3,
+			process = 10,
 			awards = 309,
 			get_award_type = "nor",
 		},
@@ -7102,7 +7410,7 @@ return {
 			id = 194,
 			process_id = 21142,
 			source_id = 194,
-			process = 3,
+			process = 500000,
 			awards = 310,
 			get_award_type = "nor",
 		},
@@ -7111,7 +7419,7 @@ return {
 			id = 195,
 			process_id = 21143,
 			source_id = 195,
-			process = 5,
+			process = 20000000,
 			awards = 311,
 			get_award_type = "nor",
 		},
@@ -7120,7 +7428,7 @@ return {
 			id = 196,
 			process_id = 21144,
 			source_id = 196,
-			process = 5,
+			process = 1000000,
 			awards = 312,
 			get_award_type = "nor",
 		},
@@ -7129,7 +7437,7 @@ return {
 			id = 197,
 			process_id = 21145,
 			source_id = 197,
-			process = 3,
+			process = 2,
 			awards = 313,
 			get_award_type = "nor",
 		},
@@ -8742,8 +9050,8 @@ return {
 			id = 367,
 			process_id = 21315,
 			source_id = 367,
-			process = {250000,2000000,5000000,15000000,40000000,100000000},
-			awards = {568,569,570,571,572,573},
+			process = {300000,950000,4500000,},
+			awards = {568,569,570,},
 			get_award_type = "random",
 		},
 		[368]=
@@ -8751,8 +9059,8 @@ return {
 			id = 368,
 			process_id = 21316,
 			source_id = 368,
-			process = {2500000,20000000,50000000,150000000,400000000,1000000000},
-			awards = {574,575,576,577,578,579},
+			process = {3000000,9500000,45000000,},
+			awards = {571,572,573},
 			get_award_type = "random",
 		},
 		[369]=
@@ -8760,8 +9068,8 @@ return {
 			id = 369,
 			process_id = 21317,
 			source_id = 369,
-			process = {25000000,200000000,500000000,1500000000,4000000000,10000000000},
-			awards = {580,581,582,583,584,585},
+			process = {30000000,95000000,450000000,},
+			awards = {574,575,576,},
 			get_award_type = "random",
 		},
 		[370]=
@@ -8769,9 +9077,203 @@ return {
 			id = 370,
 			process_id = 21318,
 			source_id = 370,
-			process = {250000000,2000000000,5000000000,15000000000,40000000000,100000000000},
-			awards = {586,587,588,589,590,591},
+			process = {300000000,950000000,4500000000,},
+			awards = {577,578,579},
 			get_award_type = "random",
+		},
+		[371]=
+		{
+			id = 371,
+			process_id = 21319,
+			source_id = 68,
+			process = 0,
+			awards = 580,
+			get_award_type = "nor",
+		},
+		[372]=
+		{
+			id = 372,
+			process_id = 21320,
+			process = 1,
+			get_award_type = "nor",
+		},
+		[373]=
+		{
+			id = 373,
+			process_id = 21321,
+			process = 1,
+			get_award_type = "nor",
+		},
+		[374]=
+		{
+			id = 374,
+			process_id = 21322,
+			source_id = 371,
+			process = 10000000,
+			awards = 581,
+			get_award_type = "nor",
+		},
+		[375]=
+		{
+			id = 375,
+			process_id = 21323,
+			source_id = 372,
+			process = 10000000,
+			awards = 581,
+			get_award_type = "nor",
+		},
+		[376]=
+		{
+			id = 376,
+			process_id = 21324,
+			source_id = 373,
+			process = 10000000,
+			awards = 581,
+			get_award_type = "nor",
+		},
+		[377]=
+		{
+			id = 377,
+			process_id = 21325,
+			source_id = 374,
+			process = 10000000,
+			awards = 581,
+			get_award_type = "nor",
+		},
+		[378]=
+		{
+			id = 378,
+			process_id = 21326,
+			source_id = 375,
+			process = 10000000,
+			awards = 581,
+			get_award_type = "nor",
+		},
+		[379]=
+		{
+			id = 379,
+			process_id = 21327,
+			source_id = 376,
+			process = 10000000,
+			awards = 581,
+			get_award_type = "nor",
+		},
+		[380]=
+		{
+			id = 380,
+			process_id = 21328,
+			source_id = 377,
+			process = 10000000,
+			awards = 581,
+			get_award_type = "nor",
+		},
+		[381]=
+		{
+			id = 381,
+			process_id = 21329,
+			source_id = 378,
+			process = 10000000,
+			awards = 581,
+			get_award_type = "nor",
+		},
+		[382]=
+		{
+			id = 382,
+			process_id = 21330,
+			source_id = 379,
+			process = 10000000,
+			awards = 581,
+			get_award_type = "nor",
+		},
+		[383]=
+		{
+			id = 383,
+			process_id = 21331,
+			source_id = 380,
+			process = 80000000,
+			awards = 582,
+			get_award_type = "nor",
+		},
+		[384]=
+		{
+			id = 384,
+			process_id = 21332,
+			source_id = 381,
+			process = 1,
+			awards = 582,
+			get_award_type = "nor",
+		},
+		[385]=
+		{
+			id = 385,
+			process_id = 21333,
+			source_id = 382,
+			process = 1,
+			awards = 582,
+			get_award_type = "nor",
+		},
+		[386]=
+		{
+			id = 386,
+			process_id = 21334,
+			source_id = 383,
+			process = 80000000,
+			awards = 582,
+			get_award_type = "nor",
+		},
+		[387]=
+		{
+			id = 387,
+			process_id = 21335,
+			source_id = 384,
+			process = 80000000,
+			awards = 582,
+			get_award_type = "nor",
+		},
+		[388]=
+		{
+			id = 388,
+			process_id = 21336,
+			source_id = 385,
+			process = 1,
+			awards = 582,
+			get_award_type = "nor",
+		},
+		[389]=
+		{
+			id = 389,
+			process_id = 21337,
+			source_id = 386,
+			process = 80000000,
+			awards = 582,
+			get_award_type = "nor",
+		},
+		[390]=
+		{
+			id = 390,
+			process_id = 21338,
+			source_id = 387,
+			process = 1,
+			awards = 582,
+			get_award_type = "nor",
+		},
+		[391]=
+		{
+			id = 391,
+			process_id = 21339,
+			source_id = 388,
+			process = 2,
+			awards = 582,
+			get_award_type = "nor",
+		},
+		[392]=
+		{
+			id = 392,
+			process_id = 21340,
+			source_id = 389,
+			process = {3000000,3000000,6000000,12000000,24000000,48000000,104000000,200000000,400000000,800000000,1600000000,3200000000,5600000000,12000000000,26000000000},
+			awards = {583,584,585,586,587,588,589,590,591,592,593,594,595,596,597,},
+			get_award_type = "nor",
 		},
 	},
 	source=
@@ -10344,8 +10846,8 @@ return {
 		{
 			id = 223,
 			source_id = 178,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 0,
+			source_type = "buyu_3d_spend_num",
+			condition_id = 257,
 		},
 		[224]=
 		{
@@ -10497,6 +10999,8 @@ return {
 			id = 244,
 			source_id = 185,
 			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[245]=
 		{
@@ -10554,6 +11058,8 @@ return {
 			id = 252,
 			source_id = 186,
 			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[253]=
 		{
@@ -10611,6 +11117,8 @@ return {
 			id = 260,
 			source_id = 187,
 			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[261]=
 		{
@@ -10668,6 +11176,8 @@ return {
 			id = 268,
 			source_id = 188,
 			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[269]=
 		{
@@ -10725,6 +11235,8 @@ return {
 			id = 276,
 			source_id = 189,
 			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[277]=
 		{
@@ -10782,6 +11294,8 @@ return {
 			id = 284,
 			source_id = 190,
 			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[285]=
 		{
@@ -10794,8 +11308,8 @@ return {
 		{
 			id = 286,
 			source_id = 192,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 247,
+			source_type = "agent_charge_any",
+			condition_id = 0,
 		},
 		[287]=
 		{
@@ -10808,892 +11322,891 @@ return {
 		{
 			id = 288,
 			source_id = 194,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 249,
+			source_type = "buyu_3d_award",
+			condition_id = 0,
 		},
 		[289]=
 		{
 			id = 289,
 			source_id = 195,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 250,
+			source_type = "buyu_3d_award",
+			condition_id = 0,
 		},
 		[290]=
 		{
 			id = 290,
 			source_id = 196,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 251,
+			source_type = "buyu_award",
+			condition_id = 0,
 		},
 		[291]=
 		{
 			id = 291,
-			source_id = 197,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 252,
+			source_id = 196,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
 		},
 		[292]=
 		{
 			id = 292,
-			source_id = 198,
+			source_id = 196,
+			source_type = "xiaoxiaole_shuihu_award",
 			condition_id = 0,
 		},
 		[293]=
 		{
 			id = 293,
-			source_id = 199,
-			source_type = "buyu_target_yu",
+			source_id = 196,
+			source_type = "xiaoxiaole_caishen_award",
 			condition_id = 0,
 		},
 		[294]=
 		{
 			id = 294,
-			source_id = 200,
-			source_type = "buyu_target_yu",
+			source_id = 196,
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[295]=
 		{
 			id = 295,
-			source_id = 201,
-			source_type = "buyu_target_yu",
+			source_id = 196,
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[296]=
 		{
 			id = 296,
-			source_id = 202,
-			source_type = "buyu_target_yu",
-			condition_id = 124,
+			source_id = 196,
+			source_type = "jykp_award",
+			condition_id = 0,
 		},
 		[297]=
 		{
 			id = 297,
-			source_id = 203,
-			source_type = "buyu_target_yu",
-			condition_id = 124,
+			source_id = 197,
+			source_type = "vip_level_up",
+			condition_id = 0,
 		},
 		[298]=
 		{
 			id = 298,
-			source_id = 204,
-			source_type = "buyu_target_yu",
-			condition_id = 124,
+			source_id = 198,
+			condition_id = 0,
 		},
 		[299]=
 		{
 			id = 299,
-			source_id = 205,
+			source_id = 199,
 			source_type = "buyu_target_yu",
-			condition_id = 125,
+			condition_id = 0,
 		},
 		[300]=
 		{
 			id = 300,
-			source_id = 206,
+			source_id = 200,
 			source_type = "buyu_target_yu",
-			condition_id = 125,
+			condition_id = 0,
 		},
 		[301]=
 		{
 			id = 301,
-			source_id = 207,
+			source_id = 201,
 			source_type = "buyu_target_yu",
-			condition_id = 125,
+			condition_id = 0,
 		},
 		[302]=
 		{
 			id = 302,
-			source_id = 208,
+			source_id = 202,
 			source_type = "buyu_target_yu",
-			condition_id = 126,
+			condition_id = 124,
 		},
 		[303]=
 		{
 			id = 303,
-			source_id = 209,
+			source_id = 203,
 			source_type = "buyu_target_yu",
-			condition_id = 126,
+			condition_id = 124,
 		},
 		[304]=
 		{
 			id = 304,
-			source_id = 210,
+			source_id = 204,
 			source_type = "buyu_target_yu",
-			condition_id = 126,
+			condition_id = 124,
 		},
 		[305]=
 		{
 			id = 305,
-			source_id = 211,
-			source_type = "asset_observe",
-			condition_id = 0,
+			source_id = 205,
+			source_type = "buyu_target_yu",
+			condition_id = 125,
 		},
 		[306]=
 		{
 			id = 306,
-			source_id = 212,
-			source_type = "duiju",
-			condition_id = 127,
+			source_id = 206,
+			source_type = "buyu_target_yu",
+			condition_id = 125,
 		},
 		[307]=
 		{
 			id = 307,
-			source_id = 213,
-			source_type = "question_answer_right",
-			condition_id = 128,
+			source_id = 207,
+			source_type = "buyu_target_yu",
+			condition_id = 125,
 		},
 		[308]=
 		{
 			id = 308,
-			source_id = 214,
-			source_type = "zajindan_continuity_caishen_model",
-			condition_id = 129,
+			source_id = 208,
+			source_type = "buyu_target_yu",
+			condition_id = 126,
 		},
 		[309]=
 		{
 			id = 309,
-			source_id = 215,
-			source_type = "zajindan_continuity_caishen_model",
-			condition_id = 130,
+			source_id = 209,
+			source_type = "buyu_target_yu",
+			condition_id = 126,
 		},
 		[310]=
 		{
 			id = 310,
-			source_id = 216,
-			source_type = "zajindan_continuity_caishen_model",
-			condition_id = 131,
+			source_id = 210,
+			source_type = "buyu_target_yu",
+			condition_id = 126,
 		},
 		[311]=
 		{
 			id = 311,
-			source_id = 217,
-			source_type = "zajindan_continuity_caishen_model",
-			condition_id = 132,
+			source_id = 211,
+			source_type = "asset_observe",
+			condition_id = 0,
 		},
 		[312]=
 		{
 			id = 312,
-			source_id = 218,
-			source_type = "zajindan_continuity_caishen_model",
-			condition_id = 133,
+			source_id = 212,
+			source_type = "duiju",
+			condition_id = 127,
 		},
 		[313]=
 		{
 			id = 313,
-			source_id = 219,
-			source_type = "zajindan_caishen_model",
-			condition_id = 134,
+			source_id = 213,
+			source_type = "question_answer_right",
+			condition_id = 128,
 		},
 		[314]=
 		{
 			id = 314,
-			source_id = 220,
-			source_type = "zajindan_caishen_model",
-			condition_id = 135,
+			source_id = 214,
+			source_type = "zajindan_continuity_caishen_model",
+			condition_id = 129,
 		},
 		[315]=
 		{
 			id = 315,
-			source_id = 221,
-			source_type = "zajindan_caishen_model",
-			condition_id = 136,
+			source_id = 215,
+			source_type = "zajindan_continuity_caishen_model",
+			condition_id = 130,
 		},
 		[316]=
 		{
 			id = 316,
-			source_id = 222,
-			source_type = "box_exchange",
-			condition_id = 137,
+			source_id = 216,
+			source_type = "zajindan_continuity_caishen_model",
+			condition_id = 131,
 		},
 		[317]=
 		{
 			id = 317,
-			source_id = 223,
-			source_type = "sh_xxl_xc_target_hero",
-			condition_id = 138,
+			source_id = 217,
+			source_type = "zajindan_continuity_caishen_model",
+			condition_id = 132,
 		},
 		[318]=
 		{
 			id = 318,
-			source_id = 224,
-			source_type = "sh_xxl_xc_target_hero",
-			condition_id = 139,
+			source_id = 218,
+			source_type = "zajindan_continuity_caishen_model",
+			condition_id = 133,
 		},
 		[319]=
 		{
 			id = 319,
-			source_id = 225,
-			source_type = "sh_xxl_xc_target_hero",
-			condition_id = 140,
+			source_id = 219,
+			source_type = "zajindan_caishen_model",
+			condition_id = 134,
 		},
 		[320]=
 		{
 			id = 320,
-			source_id = 226,
-			source_type = "sh_xxl_xc_target_hero",
-			condition_id = 141,
+			source_id = 220,
+			source_type = "zajindan_caishen_model",
+			condition_id = 135,
 		},
 		[321]=
 		{
 			id = 321,
-			source_id = 227,
-			source_type = "sh_xxl_xc_target_hero",
-			condition_id = 142,
+			source_id = 221,
+			source_type = "zajindan_caishen_model",
+			condition_id = 136,
 		},
 		[322]=
 		{
 			id = 322,
-			source_id = 228,
-			source_type = "sh_xxl_xc_target_hero",
-			condition_id = 143,
+			source_id = 222,
+			source_type = "box_exchange",
+			condition_id = 137,
 		},
 		[323]=
 		{
 			id = 323,
-			source_id = 229,
+			source_id = 223,
 			source_type = "sh_xxl_xc_target_hero",
-			condition_id = 144,
+			condition_id = 138,
 		},
 		[324]=
 		{
 			id = 324,
-			source_id = 230,
+			source_id = 224,
 			source_type = "sh_xxl_xc_target_hero",
-			condition_id = 145,
+			condition_id = 139,
 		},
 		[325]=
 		{
 			id = 325,
-			source_id = 231,
-			source_type = "box_exchange",
-			condition_id = 146,
+			source_id = 225,
+			source_type = "sh_xxl_xc_target_hero",
+			condition_id = 140,
 		},
 		[326]=
 		{
 			id = 326,
-			source_id = 232,
-			source_type = "duiju",
-			condition_id = 147,
+			source_id = 226,
+			source_type = "sh_xxl_xc_target_hero",
+			condition_id = 141,
 		},
 		[327]=
 		{
 			id = 327,
-			source_id = 233,
-			source_type = "duiju",
-			condition_id = 148,
+			source_id = 227,
+			source_type = "sh_xxl_xc_target_hero",
+			condition_id = 142,
 		},
 		[328]=
 		{
 			id = 328,
-			source_id = 234,
-			source_type = "duiju",
-			condition_id = 149,
+			source_id = 228,
+			source_type = "sh_xxl_xc_target_hero",
+			condition_id = 143,
 		},
 		[329]=
 		{
 			id = 329,
-			source_id = 235,
+			source_id = 229,
 			source_type = "sh_xxl_xc_target_hero",
-			condition_id = 138,
+			condition_id = 144,
 		},
 		[330]=
 		{
 			id = 330,
-			source_id = 236,
+			source_id = 230,
 			source_type = "sh_xxl_xc_target_hero",
-			condition_id = 139,
+			condition_id = 145,
 		},
 		[331]=
 		{
 			id = 331,
-			source_id = 237,
-			source_type = "sh_xxl_xc_target_hero",
-			condition_id = 140,
+			source_id = 231,
+			source_type = "box_exchange",
+			condition_id = 146,
 		},
 		[332]=
 		{
 			id = 332,
-			source_id = 238,
-			source_type = "sh_xxl_xc_target_hero",
-			condition_id = 141,
+			source_id = 232,
+			source_type = "duiju",
+			condition_id = 147,
 		},
 		[333]=
 		{
 			id = 333,
-			source_id = 239,
-			source_type = "use_fish_bullet_item",
-			condition_id = 150,
+			source_id = 233,
+			source_type = "duiju",
+			condition_id = 148,
 		},
 		[334]=
 		{
 			id = 334,
-			source_id = 240,
-			source_type = "use_fish_bullet_item",
-			condition_id = 151,
+			source_id = 234,
+			source_type = "duiju",
+			condition_id = 149,
 		},
 		[335]=
 		{
 			id = 335,
-			source_id = 241,
-			source_type = "use_fish_bullet_item",
-			condition_id = 152,
+			source_id = 235,
+			source_type = "sh_xxl_xc_target_hero",
+			condition_id = 138,
 		},
 		[336]=
 		{
 			id = 336,
-			source_id = 242,
-			source_type = "use_fish_bullet_item",
-			condition_id = 153,
+			source_id = 236,
+			source_type = "sh_xxl_xc_target_hero",
+			condition_id = 139,
 		},
 		[337]=
 		{
 			id = 337,
-			source_id = 243,
-			source_type = "use_fish_bullet_item",
-			condition_id = 154,
+			source_id = 237,
+			source_type = "sh_xxl_xc_target_hero",
+			condition_id = 140,
 		},
 		[338]=
 		{
 			id = 338,
-			source_id = 244,
-			source_type = "use_fish_bullet_item",
-			condition_id = 155,
+			source_id = 238,
+			source_type = "sh_xxl_xc_target_hero",
+			condition_id = 141,
 		},
 		[339]=
 		{
 			id = 339,
-			source_id = 245,
+			source_id = 239,
 			source_type = "use_fish_bullet_item",
-			condition_id = 156,
+			condition_id = 150,
 		},
 		[340]=
 		{
 			id = 340,
-			source_id = 246,
+			source_id = 240,
 			source_type = "use_fish_bullet_item",
-			condition_id = 157,
+			condition_id = 151,
 		},
 		[341]=
 		{
 			id = 341,
-			source_id = 247,
+			source_id = 241,
 			source_type = "use_fish_bullet_item",
-			condition_id = 158,
+			condition_id = 152,
 		},
 		[342]=
 		{
 			id = 342,
-			source_id = 248,
+			source_id = 242,
 			source_type = "use_fish_bullet_item",
-			condition_id = 159,
+			condition_id = 153,
 		},
 		[343]=
 		{
 			id = 343,
-			source_id = 249,
+			source_id = 243,
 			source_type = "use_fish_bullet_item",
-			condition_id = 160,
+			condition_id = 154,
 		},
 		[344]=
 		{
 			id = 344,
-			source_id = 250,
+			source_id = 244,
 			source_type = "use_fish_bullet_item",
-			condition_id = 161,
+			condition_id = 155,
 		},
 		[345]=
 		{
 			id = 345,
-			source_id = 251,
-			source_type = "charge_any",
-			condition_id = 0,
+			source_id = 245,
+			source_type = "use_fish_bullet_item",
+			condition_id = 156,
 		},
 		[346]=
 		{
 			id = 346,
-			source_id = 252,
-			source_type = "charge_any",
-			condition_id = 0,
+			source_id = 246,
+			source_type = "use_fish_bullet_item",
+			condition_id = 157,
 		},
 		[347]=
 		{
 			id = 347,
-			source_id = 253,
-			source_type = "charge_any",
-			condition_id = 0,
+			source_id = 247,
+			source_type = "use_fish_bullet_item",
+			condition_id = 158,
 		},
 		[348]=
 		{
 			id = 348,
-			source_id = 254,
-			source_type = "charge_any",
-			condition_id = 0,
+			source_id = 248,
+			source_type = "use_fish_bullet_item",
+			condition_id = 159,
 		},
 		[349]=
 		{
 			id = 349,
-			source_id = 255,
-			source_type = "collect_player_advise",
-			condition_id = 166,
+			source_id = 249,
+			source_type = "use_fish_bullet_item",
+			condition_id = 160,
 		},
 		[350]=
 		{
 			id = 350,
-			source_id = 256,
-			source_type = "xiaoxiaole_caishen_sky_girl",
-			condition_id = 167,
+			source_id = 250,
+			source_type = "use_fish_bullet_item",
+			condition_id = 161,
 		},
 		[351]=
 		{
 			id = 351,
-			source_id = 257,
-			source_type = "xiaoxiaole_award",
+			source_id = 251,
+			source_type = "charge_any",
 			condition_id = 0,
 		},
 		[352]=
 		{
 			id = 352,
-			source_id = 257,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_id = 252,
+			source_type = "charge_any",
 			condition_id = 0,
 		},
 		[353]=
 		{
 			id = 353,
-			source_id = 257,
-			source_type = "xiaoxiaole_caishen_award",
+			source_id = 253,
+			source_type = "charge_any",
 			condition_id = 0,
 		},
 		[354]=
 		{
 			id = 354,
-			source_id = 257,
-			source_type = "tantanle_award",
+			source_id = 254,
+			source_type = "charge_any",
 			condition_id = 0,
 		},
 		[355]=
 		{
 			id = 355,
-			source_id = 257,
-			source_type = "zajindan_award",
-			condition_id = 0,
+			source_id = 255,
+			source_type = "collect_player_advise",
+			condition_id = 166,
 		},
 		[356]=
 		{
 			id = 356,
-			source_id = 257,
-			source_type = "buyu_award",
-			condition_id = 0,
-			process_discount = 0.500000,
+			source_id = 256,
+			source_type = "xiaoxiaole_caishen_sky_girl",
+			condition_id = 167,
 		},
 		[357]=
 		{
 			id = 357,
 			source_id = 257,
-			source_type = "jykp_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[358]=
 		{
 			id = 358,
-			source_id = 258,
+			source_id = 257,
+			source_type = "xiaoxiaole_shuihu_award",
 			condition_id = 0,
 		},
 		[359]=
 		{
 			id = 359,
-			source_id = 259,
-			source_type = "duiju",
-			condition_id = 168,
+			source_id = 257,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
 		},
 		[360]=
 		{
 			id = 360,
-			source_id = 260,
-			source_type = "buy_gift",
-			condition_id = 169,
+			source_id = 257,
+			source_type = "tantanle_award",
+			condition_id = 0,
 		},
 		[361]=
 		{
 			id = 361,
-			source_id = 261,
-			source_type = "buy_gift",
-			condition_id = 170,
+			source_id = 257,
+			source_type = "zajindan_award",
+			condition_id = 0,
 		},
 		[362]=
 		{
 			id = 362,
-			source_id = 262,
-			source_type = "buy_gift",
-			condition_id = 171,
+			source_id = 257,
+			source_type = "buyu_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[363]=
 		{
 			id = 363,
-			source_id = 263,
-			source_type = "recall_children_player_game",
+			source_id = 257,
+			source_type = "jykp_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[364]=
 		{
 			id = 364,
-			source_id = 264,
-			source_type = "buy_gift",
-			condition_id = 172,
+			source_id = 258,
+			condition_id = 0,
 		},
 		[365]=
 		{
 			id = 365,
-			source_id = 265,
-			source_type = "buy_gift",
-			condition_id = 173,
+			source_id = 259,
+			source_type = "duiju",
+			condition_id = 168,
 		},
 		[366]=
 		{
 			id = 366,
-			source_id = 266,
+			source_id = 260,
 			source_type = "buy_gift",
-			condition_id = 174,
+			condition_id = 169,
 		},
 		[367]=
 		{
 			id = 367,
-			source_id = 267,
+			source_id = 261,
 			source_type = "buy_gift",
-			condition_id = 175,
+			condition_id = 170,
 		},
 		[368]=
 		{
 			id = 368,
-			source_id = 268,
-			source_type = "xiaoxiaole_caishen_game_num",
-			condition_id = 176,
+			source_id = 262,
+			source_type = "buy_gift",
+			condition_id = 171,
 		},
 		[369]=
 		{
 			id = 369,
-			source_id = 269,
-			source_type = "xiaoxiaole_caishen_game_num",
-			condition_id = 177,
+			source_id = 263,
+			source_type = "recall_children_player_game",
+			condition_id = 0,
 		},
 		[370]=
 		{
 			id = 370,
-			source_id = 270,
-			source_type = "xiaoxiaole_caishen_game_num",
-			condition_id = 178,
+			source_id = 264,
+			source_type = "buy_gift",
+			condition_id = 172,
 		},
 		[371]=
 		{
 			id = 371,
-			source_id = 271,
-			source_type = "box_exchange",
-			condition_id = 179,
+			source_id = 265,
+			source_type = "buy_gift",
+			condition_id = 173,
 		},
 		[372]=
 		{
 			id = 372,
-			source_id = 272,
+			source_id = 266,
 			source_type = "buy_gift",
-			condition_id = 180,
+			condition_id = 174,
 		},
 		[373]=
 		{
 			id = 373,
-			source_id = 273,
+			source_id = 267,
 			source_type = "buy_gift",
-			condition_id = 181,
+			condition_id = 175,
 		},
 		[374]=
 		{
 			id = 374,
-			source_id = 274,
-			source_type = "buy_gift",
-			condition_id = 182,
+			source_id = 268,
+			source_type = "xiaoxiaole_caishen_game_num",
+			condition_id = 176,
 		},
 		[375]=
 		{
 			id = 375,
-			source_id = 275,
-			condition_id = 0,
+			source_id = 269,
+			source_type = "xiaoxiaole_caishen_game_num",
+			condition_id = 177,
 		},
 		[376]=
 		{
 			id = 376,
-			source_id = 276,
-			condition_id = 0,
+			source_id = 270,
+			source_type = "xiaoxiaole_caishen_game_num",
+			condition_id = 178,
 		},
 		[377]=
 		{
 			id = 377,
-			source_id = 277,
-			condition_id = 0,
+			source_id = 271,
+			source_type = "box_exchange",
+			condition_id = 179,
 		},
 		[378]=
 		{
 			id = 378,
-			source_id = 278,
-			condition_id = 0,
+			source_id = 272,
+			source_type = "buy_gift",
+			condition_id = 180,
 		},
 		[379]=
 		{
 			id = 379,
-			source_id = 279,
-			condition_id = 0,
+			source_id = 273,
+			source_type = "buy_gift",
+			condition_id = 181,
 		},
 		[380]=
 		{
 			id = 380,
-			source_id = 280,
-			condition_id = 0,
+			source_id = 274,
+			source_type = "buy_gift",
+			condition_id = 182,
 		},
 		[381]=
 		{
 			id = 381,
-			source_id = 281,
+			source_id = 275,
 			condition_id = 0,
 		},
 		[382]=
 		{
 			id = 382,
-			source_id = 282,
+			source_id = 276,
 			condition_id = 0,
 		},
 		[383]=
 		{
 			id = 383,
-			source_id = 283,
+			source_id = 277,
 			condition_id = 0,
 		},
 		[384]=
 		{
 			id = 384,
-			source_id = 284,
+			source_id = 278,
 			condition_id = 0,
 		},
 		[385]=
 		{
 			id = 385,
-			source_id = 285,
+			source_id = 279,
 			condition_id = 0,
 		},
 		[386]=
 		{
 			id = 386,
-			source_id = 286,
+			source_id = 280,
 			condition_id = 0,
 		},
 		[387]=
 		{
 			id = 387,
-			source_id = 287,
+			source_id = 281,
 			condition_id = 0,
 		},
 		[388]=
 		{
 			id = 388,
-			source_id = 288,
+			source_id = 282,
 			condition_id = 0,
 		},
 		[389]=
 		{
 			id = 389,
-			source_id = 289,
+			source_id = 283,
 			condition_id = 0,
 		},
 		[390]=
 		{
 			id = 390,
-			source_id = 290,
-			source_type = "buy_gift",
-			condition_id = 183,
+			source_id = 284,
+			condition_id = 0,
 		},
 		[391]=
 		{
 			id = 391,
-			source_id = 291,
-			source_type = "buy_gift",
-			condition_id = 184,
+			source_id = 285,
+			condition_id = 0,
 		},
 		[392]=
 		{
 			id = 392,
-			source_id = 292,
-			source_type = "buy_gift",
-			condition_id = 185,
+			source_id = 286,
+			condition_id = 0,
 		},
 		[393]=
 		{
 			id = 393,
-			source_id = 293,
-			source_type = "buy_gift",
-			condition_id = 186,
+			source_id = 287,
+			condition_id = 0,
 		},
 		[394]=
 		{
 			id = 394,
-			source_id = 294,
-			source_type = "buy_gift",
-			condition_id = 187,
+			source_id = 288,
+			condition_id = 0,
 		},
 		[395]=
 		{
 			id = 395,
-			source_id = 295,
-			source_type = "freestyle_game_award",
+			source_id = 289,
 			condition_id = 0,
 		},
 		[396]=
 		{
 			id = 396,
-			source_id = 295,
-			source_type = "xiaoxiaole_award",
-			condition_id = 0,
+			source_id = 290,
+			source_type = "buy_gift",
+			condition_id = 183,
 		},
 		[397]=
 		{
 			id = 397,
-			source_id = 295,
-			source_type = "xiaoxiaole_shuihu_award",
-			condition_id = 0,
+			source_id = 291,
+			source_type = "buy_gift",
+			condition_id = 184,
 		},
 		[398]=
 		{
 			id = 398,
-			source_id = 295,
-			source_type = "xiaoxiaole_caishen_award",
-			condition_id = 0,
+			source_id = 292,
+			source_type = "buy_gift",
+			condition_id = 185,
 		},
 		[399]=
 		{
 			id = 399,
-			source_id = 295,
-			source_type = "tantanle_award",
-			condition_id = 0,
+			source_id = 293,
+			source_type = "buy_gift",
+			condition_id = 186,
 		},
 		[400]=
 		{
 			id = 400,
-			source_id = 295,
-			source_type = "zajindan_award",
-			condition_id = 0,
+			source_id = 294,
+			source_type = "buy_gift",
+			condition_id = 187,
 		},
 		[401]=
 		{
 			id = 401,
 			source_id = 295,
-			source_type = "buyu_award",
+			source_type = "freestyle_game_award",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[402]=
 		{
 			id = 402,
 			source_id = 295,
-			source_type = "jykp_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[403]=
 		{
 			id = 403,
-			source_id = 296,
-			source_type = "children_task_complete",
-			condition_id = 188,
+			source_id = 295,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
 		},
 		[404]=
 		{
 			id = 404,
-			source_id = 297,
-			source_type = "xiaoxiaole_award",
+			source_id = 295,
+			source_type = "xiaoxiaole_caishen_award",
 			condition_id = 0,
 		},
 		[405]=
 		{
 			id = 405,
-			source_id = 297,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_id = 295,
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[406]=
 		{
 			id = 406,
-			source_id = 297,
-			source_type = "xiaoxiaole_caishen_award",
+			source_id = 295,
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[407]=
 		{
 			id = 407,
-			source_id = 297,
-			source_type = "tantanle_award",
+			source_id = 295,
+			source_type = "buyu_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[408]=
 		{
 			id = 408,
-			source_id = 297,
-			source_type = "zajindan_award",
+			source_id = 295,
+			source_type = "jykp_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[409]=
 		{
 			id = 409,
-			source_id = 297,
-			source_type = "buyu_award",
-			condition_id = 0,
-			process_discount = 0.500000,
+			source_id = 296,
+			source_type = "children_task_complete",
+			condition_id = 188,
 		},
 		[410]=
 		{
 			id = 410,
 			source_id = 297,
-			source_type = "jykp_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[411]=
 		{
 			id = 411,
-			source_id = 298,
-			source_type = "xiaoxiaole_award",
+			source_id = 297,
+			source_type = "xiaoxiaole_shuihu_award",
 			condition_id = 0,
 		},
 		[412]=
 		{
 			id = 412,
-			source_id = 298,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_id = 297,
+			source_type = "xiaoxiaole_caishen_award",
 			condition_id = 0,
 		},
 		[413]=
 		{
 			id = 413,
-			source_id = 298,
-			source_type = "xiaoxiaole_caishen_award",
+			source_id = 297,
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[414]=
 		{
 			id = 414,
-			source_id = 298,
-			source_type = "tantanle_award",
+			source_id = 297,
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[415]=
 		{
 			id = 415,
-			source_id = 298,
-			source_type = "zajindan_award",
+			source_id = 297,
+			source_type = "buyu_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[416]=
 		{
 			id = 416,
-			source_id = 298,
-			source_type = "buyu_award",
+			source_id = 297,
+			source_type = "jykp_award",
 			condition_id = 0,
 			process_discount = 0.500000,
 		},
@@ -11701,364 +12214,364 @@ return {
 		{
 			id = 417,
 			source_id = 298,
-			source_type = "jykp_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[418]=
 		{
 			id = 418,
-			source_id = 299,
-			source_type = "freestyle_game_award",
+			source_id = 298,
+			source_type = "xiaoxiaole_shuihu_award",
 			condition_id = 0,
 		},
 		[419]=
 		{
 			id = 419,
-			source_id = 299,
-			source_type = "xiaoxiaole_award",
+			source_id = 298,
+			source_type = "xiaoxiaole_caishen_award",
 			condition_id = 0,
 		},
 		[420]=
 		{
 			id = 420,
-			source_id = 299,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_id = 298,
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[421]=
 		{
 			id = 421,
-			source_id = 299,
-			source_type = "xiaoxiaole_caishen_award",
+			source_id = 298,
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[422]=
 		{
 			id = 422,
-			source_id = 299,
-			source_type = "tantanle_award",
+			source_id = 298,
+			source_type = "buyu_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[423]=
 		{
 			id = 423,
-			source_id = 299,
-			source_type = "zajindan_award",
+			source_id = 298,
+			source_type = "jykp_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[424]=
 		{
 			id = 424,
 			source_id = 299,
-			source_type = "buyu_award",
+			source_type = "freestyle_game_award",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[425]=
 		{
 			id = 425,
 			source_id = 299,
-			source_type = "jykp_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[426]=
 		{
 			id = 426,
-			source_id = 300,
-			source_type = "asset_observe",
+			source_id = 299,
+			source_type = "xiaoxiaole_shuihu_award",
 			condition_id = 0,
 		},
 		[427]=
 		{
 			id = 427,
-			source_id = 301,
-			source_type = "children_task_complete",
-			condition_id = 189,
+			source_id = 299,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
 		},
 		[428]=
 		{
 			id = 428,
-			source_id = 302,
-			source_type = "asset_observe",
+			source_id = 299,
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[429]=
 		{
 			id = 429,
-			source_id = 303,
-			source_type = "children_task_complete",
-			condition_id = 190,
+			source_id = 299,
+			source_type = "zajindan_award",
+			condition_id = 0,
 		},
 		[430]=
 		{
 			id = 430,
-			source_id = 304,
-			source_type = "buy_gift",
-			condition_id = 191,
+			source_id = 299,
+			source_type = "buyu_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[431]=
 		{
 			id = 431,
-			source_id = 305,
-			source_type = "buy_gift",
-			condition_id = 192,
+			source_id = 299,
+			source_type = "jykp_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[432]=
 		{
 			id = 432,
-			source_id = 306,
-			source_type = "buy_gift",
-			condition_id = 193,
+			source_id = 300,
+			source_type = "asset_observe",
+			condition_id = 0,
 		},
 		[433]=
 		{
 			id = 433,
-			source_id = 307,
-			source_type = "buy_gift",
-			condition_id = 194,
+			source_id = 301,
+			source_type = "children_task_complete",
+			condition_id = 189,
 		},
 		[434]=
 		{
 			id = 434,
-			source_id = 308,
-			source_type = "buy_gift",
-			condition_id = 195,
+			source_id = 302,
+			source_type = "asset_observe",
+			condition_id = 0,
 		},
 		[435]=
 		{
 			id = 435,
-			source_id = 309,
-			source_type = "buy_gift",
-			condition_id = 196,
+			source_id = 303,
+			source_type = "children_task_complete",
+			condition_id = 190,
 		},
 		[436]=
 		{
 			id = 436,
-			source_id = 310,
+			source_id = 304,
 			source_type = "buy_gift",
-			condition_id = 197,
+			condition_id = 191,
 		},
 		[437]=
 		{
 			id = 437,
-			source_id = 311,
+			source_id = 305,
 			source_type = "buy_gift",
-			condition_id = 198,
+			condition_id = 192,
 		},
 		[438]=
 		{
 			id = 438,
-			source_id = 312,
+			source_id = 306,
 			source_type = "buy_gift",
-			condition_id = 199,
+			condition_id = 193,
 		},
 		[439]=
 		{
 			id = 439,
-			source_id = 313,
-			source_type = "recall_children_player_game",
-			condition_id = 0,
+			source_id = 307,
+			source_type = "buy_gift",
+			condition_id = 194,
 		},
 		[440]=
 		{
 			id = 440,
-			source_id = 314,
-			source_type = "box_exchange",
-			condition_id = 200,
+			source_id = 308,
+			source_type = "buy_gift",
+			condition_id = 195,
 		},
 		[441]=
 		{
 			id = 441,
-			source_id = 315,
-			source_type = "xiaoxiaole_award",
-			condition_id = 0,
+			source_id = 309,
+			source_type = "buy_gift",
+			condition_id = 196,
 		},
 		[442]=
 		{
 			id = 442,
-			source_id = 315,
-			source_type = "xiaoxiaole_shuihu_award",
-			condition_id = 0,
+			source_id = 310,
+			source_type = "buy_gift",
+			condition_id = 197,
 		},
 		[443]=
 		{
 			id = 443,
-			source_id = 315,
-			source_type = "xiaoxiaole_caishen_award",
-			condition_id = 0,
+			source_id = 311,
+			source_type = "buy_gift",
+			condition_id = 198,
 		},
 		[444]=
 		{
 			id = 444,
-			source_id = 315,
-			source_type = "tantanle_award",
-			condition_id = 0,
+			source_id = 312,
+			source_type = "buy_gift",
+			condition_id = 199,
 		},
 		[445]=
 		{
 			id = 445,
-			source_id = 315,
-			source_type = "zajindan_award",
+			source_id = 313,
+			source_type = "recall_children_player_game",
 			condition_id = 0,
 		},
 		[446]=
 		{
 			id = 446,
-			source_id = 315,
-			source_type = "buyu_award",
-			condition_id = 0,
-			process_discount = 0.500000,
+			source_id = 314,
+			source_type = "box_exchange",
+			condition_id = 200,
 		},
 		[447]=
 		{
 			id = 447,
 			source_id = 315,
-			source_type = "jykp_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[448]=
 		{
 			id = 448,
-			source_id = 316,
-			source_type = "buy_gift",
-			condition_id = 201,
+			source_id = 315,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
 		},
 		[449]=
 		{
 			id = 449,
-			source_id = 317,
-			source_type = "buy_gift",
-			condition_id = 202,
+			source_id = 315,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
 		},
 		[450]=
 		{
 			id = 450,
-			source_id = 318,
-			source_type = "buy_gift",
-			condition_id = 203,
+			source_id = 315,
+			source_type = "tantanle_award",
+			condition_id = 0,
 		},
 		[451]=
 		{
 			id = 451,
-			source_id = 319,
-			source_type = "buy_gift",
-			condition_id = 204,
+			source_id = 315,
+			source_type = "zajindan_award",
+			condition_id = 0,
 		},
 		[452]=
 		{
 			id = 452,
-			source_id = 320,
-			source_type = "buy_gift",
-			condition_id = 205,
+			source_id = 315,
+			source_type = "buyu_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[453]=
 		{
 			id = 453,
-			source_id = 321,
-			source_type = "buy_gift",
-			condition_id = 206,
+			source_id = 315,
+			source_type = "jykp_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[454]=
 		{
 			id = 454,
-			source_id = 322,
+			source_id = 316,
 			source_type = "buy_gift",
-			condition_id = 207,
+			condition_id = 201,
 		},
 		[455]=
 		{
 			id = 455,
-			source_id = 323,
-			source_type = "xiaoxiaole_award",
-			condition_id = 0,
+			source_id = 317,
+			source_type = "buy_gift",
+			condition_id = 202,
 		},
 		[456]=
 		{
 			id = 456,
-			source_id = 323,
-			source_type = "xiaoxiaole_shuihu_award",
-			condition_id = 0,
+			source_id = 318,
+			source_type = "buy_gift",
+			condition_id = 203,
 		},
 		[457]=
 		{
 			id = 457,
-			source_id = 323,
-			source_type = "xiaoxiaole_caishen_award",
-			condition_id = 0,
+			source_id = 319,
+			source_type = "buy_gift",
+			condition_id = 204,
 		},
 		[458]=
 		{
 			id = 458,
-			source_id = 323,
-			source_type = "tantanle_award",
-			condition_id = 0,
+			source_id = 320,
+			source_type = "buy_gift",
+			condition_id = 205,
 		},
 		[459]=
 		{
 			id = 459,
-			source_id = 323,
-			source_type = "zajindan_award",
-			condition_id = 0,
+			source_id = 321,
+			source_type = "buy_gift",
+			condition_id = 206,
 		},
 		[460]=
 		{
 			id = 460,
-			source_id = 323,
-			source_type = "buyu_award",
-			condition_id = 0,
-			process_discount = 0.500000,
+			source_id = 322,
+			source_type = "buy_gift",
+			condition_id = 207,
 		},
 		[461]=
 		{
 			id = 461,
 			source_id = 323,
-			source_type = "jykp_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[462]=
 		{
 			id = 462,
-			source_id = 324,
-			source_type = "xiaoxiaole_award",
+			source_id = 323,
+			source_type = "xiaoxiaole_shuihu_award",
 			condition_id = 0,
 		},
 		[463]=
 		{
 			id = 463,
-			source_id = 324,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_id = 323,
+			source_type = "xiaoxiaole_caishen_award",
 			condition_id = 0,
 		},
 		[464]=
 		{
 			id = 464,
-			source_id = 324,
-			source_type = "xiaoxiaole_caishen_award",
+			source_id = 323,
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[465]=
 		{
 			id = 465,
-			source_id = 324,
-			source_type = "tantanle_award",
+			source_id = 323,
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[466]=
 		{
 			id = 466,
-			source_id = 324,
-			source_type = "zajindan_award",
+			source_id = 323,
+			source_type = "buyu_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[467]=
 		{
 			id = 467,
-			source_id = 324,
-			source_type = "buyu_award",
+			source_id = 323,
+			source_type = "jykp_award",
 			condition_id = 0,
 			process_discount = 0.500000,
 		},
@@ -12066,234 +12579,234 @@ return {
 		{
 			id = 468,
 			source_id = 324,
-			source_type = "jykp_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[469]=
 		{
 			id = 469,
-			source_id = 325,
-			source_type = "buy_gift",
-			condition_id = 208,
+			source_id = 324,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
 		},
 		[470]=
 		{
 			id = 470,
-			source_id = 326,
-			source_type = "buy_gift",
-			condition_id = 209,
+			source_id = 324,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
 		},
 		[471]=
 		{
 			id = 471,
-			source_id = 327,
-			source_type = "buy_gift",
-			condition_id = 210,
+			source_id = 324,
+			source_type = "tantanle_award",
+			condition_id = 0,
 		},
 		[472]=
 		{
 			id = 472,
-			source_id = 328,
-			source_type = "buy_gift",
-			condition_id = 211,
+			source_id = 324,
+			source_type = "zajindan_award",
+			condition_id = 0,
 		},
 		[473]=
 		{
 			id = 473,
-			source_id = 329,
-			source_type = "buy_gift",
-			condition_id = 212,
+			source_id = 324,
+			source_type = "buyu_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[474]=
 		{
 			id = 474,
-			source_id = 330,
-			source_type = "buy_gift",
-			condition_id = 213,
+			source_id = 324,
+			source_type = "jykp_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[475]=
 		{
 			id = 475,
-			source_id = 331,
+			source_id = 325,
 			source_type = "buy_gift",
-			condition_id = 214,
+			condition_id = 208,
 		},
 		[476]=
 		{
 			id = 476,
-			source_id = 332,
+			source_id = 326,
 			source_type = "buy_gift",
-			condition_id = 215,
+			condition_id = 209,
 		},
 		[477]=
 		{
 			id = 477,
-			source_id = 333,
+			source_id = 327,
 			source_type = "buy_gift",
-			condition_id = 216,
+			condition_id = 210,
 		},
 		[478]=
 		{
 			id = 478,
-			source_id = 334,
+			source_id = 328,
 			source_type = "buy_gift",
-			condition_id = 217,
+			condition_id = 211,
 		},
 		[479]=
 		{
 			id = 479,
-			source_id = 335,
+			source_id = 329,
 			source_type = "buy_gift",
-			condition_id = 218,
+			condition_id = 212,
 		},
 		[480]=
 		{
 			id = 480,
-			source_id = 336,
+			source_id = 330,
 			source_type = "buy_gift",
-			condition_id = 219,
+			condition_id = 213,
 		},
 		[481]=
 		{
 			id = 481,
-			source_id = 337,
+			source_id = 331,
 			source_type = "buy_gift",
-			condition_id = 220,
+			condition_id = 214,
 		},
 		[482]=
 		{
 			id = 482,
-			source_id = 338,
+			source_id = 332,
 			source_type = "buy_gift",
-			condition_id = 221,
+			condition_id = 215,
 		},
 		[483]=
 		{
 			id = 483,
-			source_id = 339,
+			source_id = 333,
 			source_type = "buy_gift",
-			condition_id = 222,
+			condition_id = 216,
 		},
 		[484]=
 		{
 			id = 484,
-			source_id = 340,
+			source_id = 334,
 			source_type = "buy_gift",
-			condition_id = 223,
+			condition_id = 217,
 		},
 		[485]=
 		{
 			id = 485,
-			source_id = 341,
+			source_id = 335,
 			source_type = "buy_gift",
-			condition_id = 224,
+			condition_id = 218,
 		},
 		[486]=
 		{
 			id = 486,
-			source_id = 342,
+			source_id = 336,
 			source_type = "buy_gift",
-			condition_id = 225,
+			condition_id = 219,
 		},
 		[487]=
 		{
 			id = 487,
-			source_id = 343,
+			source_id = 337,
 			source_type = "buy_gift",
-			condition_id = 226,
+			condition_id = 220,
 		},
 		[488]=
 		{
 			id = 488,
-			source_id = 344,
-			source_type = "xiaoxiaole_award",
-			condition_id = 0,
+			source_id = 338,
+			source_type = "buy_gift",
+			condition_id = 221,
 		},
 		[489]=
 		{
 			id = 489,
-			source_id = 344,
-			source_type = "xiaoxiaole_shuihu_award",
-			condition_id = 0,
+			source_id = 339,
+			source_type = "buy_gift",
+			condition_id = 222,
 		},
 		[490]=
 		{
 			id = 490,
-			source_id = 344,
-			source_type = "xiaoxiaole_caishen_award",
-			condition_id = 0,
+			source_id = 340,
+			source_type = "buy_gift",
+			condition_id = 223,
 		},
 		[491]=
 		{
 			id = 491,
-			source_id = 344,
-			source_type = "tantanle_award",
-			condition_id = 0,
+			source_id = 341,
+			source_type = "buy_gift",
+			condition_id = 224,
 		},
 		[492]=
 		{
 			id = 492,
-			source_id = 344,
-			source_type = "zajindan_award",
-			condition_id = 0,
+			source_id = 342,
+			source_type = "buy_gift",
+			condition_id = 225,
 		},
 		[493]=
 		{
 			id = 493,
-			source_id = 344,
-			source_type = "buyu_award",
-			condition_id = 0,
-			process_discount = 0.500000,
+			source_id = 343,
+			source_type = "buy_gift",
+			condition_id = 226,
 		},
 		[494]=
 		{
 			id = 494,
 			source_id = 344,
-			source_type = "jykp_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[495]=
 		{
 			id = 495,
-			source_id = 345,
-			source_type = "xiaoxiaole_award",
+			source_id = 344,
+			source_type = "xiaoxiaole_shuihu_award",
 			condition_id = 0,
 		},
 		[496]=
 		{
 			id = 496,
-			source_id = 345,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_id = 344,
+			source_type = "xiaoxiaole_caishen_award",
 			condition_id = 0,
 		},
 		[497]=
 		{
 			id = 497,
-			source_id = 345,
-			source_type = "xiaoxiaole_caishen_award",
+			source_id = 344,
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[498]=
 		{
 			id = 498,
-			source_id = 345,
-			source_type = "tantanle_award",
+			source_id = 344,
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[499]=
 		{
 			id = 499,
-			source_id = 345,
-			source_type = "zajindan_award",
+			source_id = 344,
+			source_type = "buyu_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[500]=
 		{
 			id = 500,
-			source_id = 345,
-			source_type = "buyu_award",
+			source_id = 344,
+			source_type = "jykp_award",
 			condition_id = 0,
 			process_discount = 0.500000,
 		},
@@ -12301,184 +12814,412 @@ return {
 		{
 			id = 501,
 			source_id = 345,
-			source_type = "jykp_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[502]=
 		{
 			id = 502,
-			source_id = 346,
-			source_type = "buy_gift",
-			condition_id = 227,
+			source_id = 345,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
 		},
 		[503]=
 		{
 			id = 503,
-			source_id = 347,
-			source_type = "buy_gift",
-			condition_id = 228,
+			source_id = 345,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
 		},
 		[504]=
 		{
 			id = 504,
-			source_id = 348,
-			source_type = "buy_gift",
-			condition_id = 229,
+			source_id = 345,
+			source_type = "tantanle_award",
+			condition_id = 0,
 		},
 		[505]=
 		{
 			id = 505,
-			source_id = 349,
-			source_type = "buy_gift",
-			condition_id = 230,
+			source_id = 345,
+			source_type = "zajindan_award",
+			condition_id = 0,
 		},
 		[506]=
 		{
 			id = 506,
-			source_id = 350,
-			source_type = "buy_gift",
-			condition_id = 231,
+			source_id = 345,
+			source_type = "buyu_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[507]=
 		{
 			id = 507,
-			source_id = 351,
-			source_type = "buy_gift",
-			condition_id = 232,
+			source_id = 345,
+			source_type = "jykp_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[508]=
 		{
 			id = 508,
-			source_id = 352,
+			source_id = 346,
 			source_type = "buy_gift",
-			condition_id = 233,
+			condition_id = 227,
 		},
 		[509]=
 		{
 			id = 509,
-			source_id = 353,
+			source_id = 347,
 			source_type = "buy_gift",
-			condition_id = 234,
+			condition_id = 228,
 		},
 		[510]=
 		{
 			id = 510,
-			source_id = 354,
+			source_id = 348,
 			source_type = "buy_gift",
-			condition_id = 235,
+			condition_id = 229,
 		},
 		[511]=
 		{
 			id = 511,
-			source_id = 355,
+			source_id = 349,
 			source_type = "buy_gift",
-			condition_id = 236,
+			condition_id = 230,
 		},
 		[512]=
 		{
 			id = 512,
-			source_id = 356,
+			source_id = 350,
 			source_type = "buy_gift",
-			condition_id = 237,
+			condition_id = 231,
 		},
 		[513]=
 		{
 			id = 513,
-			source_id = 357,
+			source_id = 351,
 			source_type = "buy_gift",
-			condition_id = 238,
+			condition_id = 232,
 		},
 		[514]=
 		{
 			id = 514,
-			source_id = 358,
+			source_id = 352,
 			source_type = "buy_gift",
-			condition_id = 239,
+			condition_id = 233,
 		},
 		[515]=
 		{
 			id = 515,
-			source_id = 359,
+			source_id = 353,
 			source_type = "buy_gift",
-			condition_id = 240,
+			condition_id = 234,
 		},
 		[516]=
 		{
 			id = 516,
-			source_id = 360,
+			source_id = 354,
 			source_type = "buy_gift",
-			condition_id = 241,
+			condition_id = 235,
 		},
 		[517]=
 		{
 			id = 517,
-			source_id = 361,
+			source_id = 355,
 			source_type = "buy_gift",
-			condition_id = 242,
+			condition_id = 236,
 		},
 		[518]=
 		{
 			id = 518,
-			source_id = 362,
+			source_id = 356,
 			source_type = "buy_gift",
-			condition_id = 243,
+			condition_id = 237,
 		},
 		[519]=
 		{
 			id = 519,
-			source_id = 363,
+			source_id = 357,
 			source_type = "buy_gift",
-			condition_id = 244,
+			condition_id = 238,
 		},
 		[520]=
 		{
 			id = 520,
-			source_id = 364,
+			source_id = 358,
 			source_type = "buy_gift",
-			condition_id = 245,
+			condition_id = 239,
 		},
 		[521]=
 		{
 			id = 521,
-			source_id = 365,
+			source_id = 359,
 			source_type = "buy_gift",
-			condition_id = 246,
+			condition_id = 240,
 		},
 		[522]=
 		{
 			id = 522,
-			source_id = 366,
-			source_type = "asset_observe",
-			condition_id = 0,
+			source_id = 360,
+			source_type = "buy_gift",
+			condition_id = 241,
 		},
 		[523]=
 		{
 			id = 523,
-			source_id = 367,
-			source_type = "buyu_3d_spend",
-			condition_id = 253,
+			source_id = 361,
+			source_type = "buy_gift",
+			condition_id = 242,
 		},
 		[524]=
 		{
 			id = 524,
-			source_id = 368,
-			source_type = "buyu_3d_spend",
-			condition_id = 254,
+			source_id = 362,
+			source_type = "buy_gift",
+			condition_id = 243,
 		},
 		[525]=
 		{
 			id = 525,
-			source_id = 369,
-			source_type = "buyu_3d_spend",
-			condition_id = 255,
+			source_id = 363,
+			source_type = "buy_gift",
+			condition_id = 244,
 		},
 		[526]=
 		{
 			id = 526,
+			source_id = 364,
+			source_type = "buy_gift",
+			condition_id = 245,
+		},
+		[527]=
+		{
+			id = 527,
+			source_id = 365,
+			source_type = "buy_gift",
+			condition_id = 246,
+		},
+		[528]=
+		{
+			id = 528,
+			source_id = 366,
+			source_type = "asset_observe",
+			condition_id = 0,
+		},
+		[529]=
+		{
+			id = 529,
+			source_id = 367,
+			source_type = "buyu_3d_spend",
+			condition_id = 253,
+		},
+		[530]=
+		{
+			id = 530,
+			source_id = 368,
+			source_type = "buyu_3d_spend",
+			condition_id = 254,
+		},
+		[531]=
+		{
+			id = 531,
+			source_id = 369,
+			source_type = "buyu_3d_spend",
+			condition_id = 255,
+		},
+		[532]=
+		{
+			id = 532,
 			source_id = 370,
 			source_type = "buyu_3d_spend",
 			condition_id = 256,
+		},
+		[533]=
+		{
+			id = 533,
+			source_id = 371,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[534]=
+		{
+			id = 534,
+			source_id = 372,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[535]=
+		{
+			id = 535,
+			source_id = 373,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[536]=
+		{
+			id = 536,
+			source_id = 374,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[537]=
+		{
+			id = 537,
+			source_id = 375,
+			source_type = "buyu_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[538]=
+		{
+			id = 538,
+			source_id = 376,
+			source_type = "jykp_award",
+			condition_id = 0,
+		},
+		[539]=
+		{
+			id = 539,
+			source_id = 377,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[540]=
+		{
+			id = 540,
+			source_id = 378,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[541]=
+		{
+			id = 541,
+			source_id = 379,
+			source_type = "zajindan_caishen_model_award",
+			condition_id = 0,
+		},
+		[542]=
+		{
+			id = 542,
+			source_id = 380,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[543]=
+		{
+			id = 543,
+			source_id = 381,
+			source_type = "guess_apple_award_kaijiang_type",
+			condition_id = 258,
+		},
+		[544]=
+		{
+			id = 544,
+			source_id = 382,
+			source_type = "buyu_target_yu",
+			condition_id = 259,
+		},
+		[545]=
+		{
+			id = 545,
+			source_id = 383,
+			source_type = "zajindan_caishen_model_award",
+			condition_id = 0,
+		},
+		[546]=
+		{
+			id = 546,
+			source_id = 384,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[547]=
+		{
+			id = 547,
+			source_id = 385,
+			source_type = "xxl_lucky_award",
+			condition_id = 260,
+		},
+		[548]=
+		{
+			id = 548,
+			source_id = 386,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[549]=
+		{
+			id = 549,
+			source_id = 387,
+			source_type = "xiaoxiaole_caishen_sky_girl",
+			condition_id = 261,
+		},
+		[550]=
+		{
+			id = 550,
+			source_id = 388,
+			source_type = "zajindan_caishen",
+			condition_id = 262,
+		},
+		[551]=
+		{
+			id = 551,
+			source_id = 389,
+			source_type = "freestyle_game_award",
+			condition_id = 0,
+		},
+		[552]=
+		{
+			id = 552,
+			source_id = 389,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[553]=
+		{
+			id = 553,
+			source_id = 389,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[554]=
+		{
+			id = 554,
+			source_id = 389,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[555]=
+		{
+			id = 555,
+			source_id = 389,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[556]=
+		{
+			id = 556,
+			source_id = 389,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[557]=
+		{
+			id = 557,
+			source_id = 389,
+			source_type = "buyu_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[558]=
+		{
+			id = 558,
+			source_id = 389,
+			source_type = "jykp_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 	},
 	condition=
@@ -15343,8 +16084,8 @@ return {
 		{
 			id = 388,
 			condition_id = 247,
-			condition_name = "base_fish_id",
-			condition_value = 3,
+			condition_name = "charge_any",
+			condition_value = 0,
 			judge_type = 2,
 		},
 		[389]=
@@ -15352,7 +16093,7 @@ return {
 			id = 389,
 			condition_id = 248,
 			condition_name = "base_fish_id",
-			condition_value = {20,21,22,23,24,25,26,27},
+			condition_value = 3,
 			judge_type = 2,
 		},
 		[390]=
@@ -15418,6 +16159,62 @@ return {
 			condition_name = "fish_game_id",
 			condition_value = 5,
 			judge_type = 2,
+		},
+		[398]=
+		{
+			id = 398,
+			condition_id = 257,
+			condition_name = "fish_game_id",
+			condition_value = {1,2,3,4,5},
+			judge_type = 2,
+		},
+		[399]=
+		{
+			id = 399,
+			condition_id = 258,
+			condition_name = "bet_spend",
+			condition_value = 5000000,
+			judge_type = 3,
+		},
+		[400]=
+		{
+			id = 400,
+			condition_id = 259,
+			condition_name = "base_fish_id",
+			condition_value = 20,
+			judge_type = 2,
+		},
+		[401]=
+		{
+			id = 401,
+			condition_id = 259,
+			condition_name = "gun_rate",
+			condition_value = 100000,
+			judge_type = 3,
+		},
+		[402]=
+		{
+			id = 402,
+			condition_id = 260,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 3,
+		},
+		[403]=
+		{
+			id = 403,
+			condition_id = 261,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[404]=
+		{
+			id = 404,
+			condition_id = 262,
+			condition_name = "hammer_id",
+			condition_value = 10,
+			judge_type = 3,
 		},
 	},
 	award_data=
@@ -17531,7 +18328,7 @@ return {
 			id = 263,
 			award_id = 151,
 			asset_type = "fish_coin",
-			asset_count = 30000,
+			asset_count = 300000,
 			get_weight = 1,
 		},
 		[264]=
@@ -17546,7 +18343,7 @@ return {
 		{
 			id = 265,
 			award_id = 151,
-			asset_type = "prop_2",
+			asset_type = "prop_3d_fish_lock",
 			asset_count = 1,
 			get_weight = 1,
 		},
@@ -17555,7 +18352,7 @@ return {
 			id = 266,
 			award_id = 152,
 			asset_type = "fish_coin",
-			asset_count = 66000,
+			asset_count = 660000,
 			get_weight = 1,
 		},
 		[267]=
@@ -17570,7 +18367,7 @@ return {
 		{
 			id = 268,
 			award_id = 152,
-			asset_type = "prop_2",
+			asset_type = "prop_3d_fish_lock",
 			asset_count = 1,
 			get_weight = 1,
 		},
@@ -19154,7 +19951,7 @@ return {
 			id = 466,
 			award_id = 307,
 			asset_type = "jing_bi",
-			asset_count = 20000,
+			asset_count = 50000,
 			get_weight = 1,
 		},
 		[467]=
@@ -19162,7 +19959,7 @@ return {
 			id = 467,
 			award_id = 308,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 200,
 			get_weight = 1,
 		},
 		[468]=
@@ -19170,41 +19967,40 @@ return {
 			id = 468,
 			award_id = 309,
 			asset_type = "jing_bi",
-			asset_count = 50000,
+			asset_count = 80000,
 			get_weight = 1,
 		},
 		[469]=
 		{
 			id = 469,
 			award_id = 310,
-			asset_type = "shop_gold_sum",
-			asset_count = 50,
+			asset_type = "jing_bi",
+			asset_count = 100000,
 			get_weight = 1,
 		},
 		[470]=
 		{
 			id = 470,
 			award_id = 311,
-			asset_type = "jing_bi",
-			asset_count = 80000,
+			asset_type = "shop_gold_sum",
+			asset_count = 500,
 			get_weight = 1,
 		},
 		[471]=
 		{
 			id = 471,
 			award_id = 312,
-			asset_type = "shop_gold_sum",
-			asset_count = 80,
+			asset_type = "jing_bi",
+			asset_count = 200000,
 			get_weight = 1,
 		},
 		[472]=
 		{
 			id = 472,
 			award_id = 313,
-			asset_type = "gun_barrel_6",
-			asset_count = 604800,
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
 			get_weight = 1,
-			broadcast_content = 1,
 		},
 		[473]=
 		{
@@ -21595,7 +22391,7 @@ return {
 			id = 771,
 			award_id = 567,
 			asset_type = "fish_coin",
-			asset_count = 10000,
+			asset_count = 100000,
 			get_weight = 1,
 		},
 		[772]=
@@ -21610,7 +22406,7 @@ return {
 		{
 			id = 773,
 			award_id = 567,
-			asset_type = "prop_2",
+			asset_type = "prop_3d_fish_lock",
 			asset_count = 1,
 			get_weight = 1,
 		},
@@ -21619,192 +22415,448 @@ return {
 			id = 774,
 			award_id = 568,
 			asset_type = "shop_gold_sum",
-			asset_count = {4,6},
-			get_weight = 1,
+			asset_count = 1,
+			get_weight = 50,
 		},
 		[775]=
 		{
 			id = 775,
-			award_id = 569,
+			award_id = 568,
 			asset_type = "shop_gold_sum",
-			asset_count = {4,8},
-			get_weight = 1,
+			asset_count = 3,
+			get_weight = 30,
 		},
 		[776]=
 		{
 			id = 776,
-			award_id = 570,
+			award_id = 568,
 			asset_type = "shop_gold_sum",
-			asset_count = {10,20},
-			get_weight = 1,
+			asset_count = 5,
+			get_weight = 20,
 		},
 		[777]=
 		{
 			id = 777,
-			award_id = 571,
+			award_id = 569,
 			asset_type = "shop_gold_sum",
-			asset_count = {40,50},
-			get_weight = 1,
+			asset_count = 5,
+			get_weight = 50,
 		},
 		[778]=
 		{
 			id = 778,
-			award_id = 572,
+			award_id = 569,
 			asset_type = "shop_gold_sum",
-			asset_count = {100,140},
-			get_weight = 1,
+			asset_count = 10,
+			get_weight = 30,
 		},
 		[779]=
 		{
 			id = 779,
-			award_id = 573,
+			award_id = 569,
 			asset_type = "shop_gold_sum",
-			asset_count = {200,400},
-			get_weight = 1,
+			asset_count = 15,
+			get_weight = 20,
 		},
 		[780]=
 		{
 			id = 780,
-			award_id = 574,
+			award_id = 570,
 			asset_type = "shop_gold_sum",
-			asset_count = {40,60},
-			get_weight = 1,
+			asset_count = 40,
+			get_weight = 50,
 		},
 		[781]=
 		{
 			id = 781,
-			award_id = 575,
+			award_id = 570,
 			asset_type = "shop_gold_sum",
-			asset_count = {40,80},
-			get_weight = 1,
+			asset_count = 50,
+			get_weight = 30,
 		},
 		[782]=
 		{
 			id = 782,
-			award_id = 576,
+			award_id = 570,
 			asset_type = "shop_gold_sum",
-			asset_count = {100,200},
-			get_weight = 1,
+			asset_count = 60,
+			get_weight = 20,
 		},
 		[783]=
 		{
 			id = 783,
-			award_id = 577,
+			award_id = 571,
 			asset_type = "shop_gold_sum",
-			asset_count = {400,500},
-			get_weight = 1,
+			asset_count = 10,
+			get_weight = 25,
 		},
 		[784]=
 		{
 			id = 784,
-			award_id = 578,
+			award_id = 571,
 			asset_type = "shop_gold_sum",
-			asset_count = {1000,1400},
-			get_weight = 1,
+			asset_count = 30,
+			get_weight = 50,
 		},
 		[785]=
 		{
 			id = 785,
-			award_id = 579,
+			award_id = 571,
 			asset_type = "shop_gold_sum",
-			asset_count = {2000,4000},
-			get_weight = 1,
+			asset_count = 50,
+			get_weight = 25,
 		},
 		[786]=
 		{
 			id = 786,
-			award_id = 580,
+			award_id = 572,
 			asset_type = "shop_gold_sum",
-			asset_count = {400,600},
-			get_weight = 1,
+			asset_count = 50,
+			get_weight = 25,
 		},
 		[787]=
 		{
 			id = 787,
-			award_id = 581,
+			award_id = 572,
 			asset_type = "shop_gold_sum",
-			asset_count = {400,800},
-			get_weight = 1,
+			asset_count = 100,
+			get_weight = 50,
 		},
 		[788]=
 		{
 			id = 788,
-			award_id = 582,
+			award_id = 572,
 			asset_type = "shop_gold_sum",
-			asset_count = {1000,2000},
-			get_weight = 1,
+			asset_count = 150,
+			get_weight = 25,
 		},
 		[789]=
 		{
 			id = 789,
-			award_id = 583,
+			award_id = 573,
 			asset_type = "shop_gold_sum",
-			asset_count = {4000,5000},
-			get_weight = 1,
+			asset_count = 400,
+			get_weight = 25,
 		},
 		[790]=
 		{
 			id = 790,
-			award_id = 584,
+			award_id = 573,
 			asset_type = "shop_gold_sum",
-			asset_count = {10000,14000},
-			get_weight = 1,
+			asset_count = 500,
+			get_weight = 50,
 		},
 		[791]=
 		{
 			id = 791,
-			award_id = 585,
+			award_id = 573,
 			asset_type = "shop_gold_sum",
-			asset_count = {20000,40000},
-			get_weight = 1,
+			asset_count = 600,
+			get_weight = 25,
 		},
 		[792]=
 		{
 			id = 792,
-			award_id = 586,
+			award_id = 574,
 			asset_type = "shop_gold_sum",
-			asset_count = {4000,6000},
-			get_weight = 1,
+			asset_count = 100,
+			get_weight = 25,
 		},
 		[793]=
 		{
 			id = 793,
-			award_id = 587,
+			award_id = 574,
 			asset_type = "shop_gold_sum",
-			asset_count = {4000,8000},
-			get_weight = 1,
+			asset_count = 300,
+			get_weight = 50,
 		},
 		[794]=
 		{
 			id = 794,
-			award_id = 588,
+			award_id = 574,
 			asset_type = "shop_gold_sum",
-			asset_count = {10000,20000},
-			get_weight = 1,
+			asset_count = 500,
+			get_weight = 25,
 		},
 		[795]=
 		{
 			id = 795,
-			award_id = 589,
+			award_id = 575,
 			asset_type = "shop_gold_sum",
-			asset_count = {40000,50000},
-			get_weight = 1,
+			asset_count = 500,
+			get_weight = 25,
 		},
 		[796]=
 		{
 			id = 796,
-			award_id = 590,
+			award_id = 575,
 			asset_type = "shop_gold_sum",
-			asset_count = {100000,140000},
-			get_weight = 1,
+			asset_count = 1000,
+			get_weight = 50,
 		},
 		[797]=
 		{
 			id = 797,
+			award_id = 575,
+			asset_type = "shop_gold_sum",
+			asset_count = 1500,
+			get_weight = 25,
+		},
+		[798]=
+		{
+			id = 798,
+			award_id = 576,
+			asset_type = "shop_gold_sum",
+			asset_count = 4000,
+			get_weight = 25,
+		},
+		[799]=
+		{
+			id = 799,
+			award_id = 576,
+			asset_type = "shop_gold_sum",
+			asset_count = 5000,
+			get_weight = 50,
+		},
+		[800]=
+		{
+			id = 800,
+			award_id = 576,
+			asset_type = "shop_gold_sum",
+			asset_count = 6000,
+			get_weight = 25,
+		},
+		[801]=
+		{
+			id = 801,
+			award_id = 577,
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
+			get_weight = 25,
+		},
+		[802]=
+		{
+			id = 802,
+			award_id = 577,
+			asset_type = "shop_gold_sum",
+			asset_count = 3000,
+			get_weight = 50,
+		},
+		[803]=
+		{
+			id = 803,
+			award_id = 577,
+			asset_type = "shop_gold_sum",
+			asset_count = 5000,
+			get_weight = 25,
+		},
+		[804]=
+		{
+			id = 804,
+			award_id = 578,
+			asset_type = "shop_gold_sum",
+			asset_count = 5000,
+			get_weight = 25,
+		},
+		[805]=
+		{
+			id = 805,
+			award_id = 578,
+			asset_type = "shop_gold_sum",
+			asset_count = 10000,
+			get_weight = 50,
+		},
+		[806]=
+		{
+			id = 806,
+			award_id = 578,
+			asset_type = "shop_gold_sum",
+			asset_count = 15000,
+			get_weight = 25,
+		},
+		[807]=
+		{
+			id = 807,
+			award_id = 579,
+			asset_type = "shop_gold_sum",
+			asset_count = 40000,
+			get_weight = 25,
+		},
+		[808]=
+		{
+			id = 808,
+			award_id = 579,
+			asset_type = "shop_gold_sum",
+			asset_count = 50000,
+			get_weight = 50,
+		},
+		[809]=
+		{
+			id = 809,
+			award_id = 579,
+			asset_type = "shop_gold_sum",
+			asset_count = 60000,
+			get_weight = 25,
+		},
+		[810]=
+		{
+			id = 810,
+			award_id = 580,
+			asset_type = "jing_bi",
+			asset_count = 300000,
+			get_weight = 1,
+		},
+		[811]=
+		{
+			id = 811,
+			award_id = 581,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[812]=
+		{
+			id = 812,
+			award_id = 581,
+			asset_type = "task_21320",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[813]=
+		{
+			id = 813,
+			award_id = 582,
+			asset_type = "shop_gold_sum",
+			asset_count = 400,
+			get_weight = 1,
+		},
+		[814]=
+		{
+			id = 814,
+			award_id = 582,
+			asset_type = "task_21321",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[815]=
+		{
+			id = 815,
+			award_id = 583,
+			asset_type = "jing_bi",
+			asset_count = 6000,
+			get_weight = 1,
+		},
+		[816]=
+		{
+			id = 816,
+			award_id = 584,
+			asset_type = "jing_bi",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[817]=
+		{
+			id = 817,
+			award_id = 585,
+			asset_type = "shop_gold_sum",
+			asset_count = 200,
+			get_weight = 1,
+		},
+		[818]=
+		{
+			id = 818,
+			award_id = 586,
+			asset_type = "shop_gold_sum",
+			asset_count = 400,
+			get_weight = 1,
+		},
+		[819]=
+		{
+			id = 819,
+			award_id = 587,
+			asset_type = "shop_gold_sum",
+			asset_count = 800,
+			get_weight = 1,
+		},
+		[820]=
+		{
+			id = 820,
+			award_id = 588,
+			asset_type = "shop_gold_sum",
+			asset_count = 1600,
+			get_weight = 1,
+		},
+		[821]=
+		{
+			id = 821,
+			award_id = 589,
+			asset_type = "shop_gold_sum",
+			asset_count = 3500,
+			get_weight = 1,
+		},
+		[822]=
+		{
+			id = 822,
+			award_id = 590,
+			asset_type = "shop_gold_sum",
+			asset_count = 7000,
+			get_weight = 1,
+		},
+		[823]=
+		{
+			id = 823,
 			award_id = 591,
 			asset_type = "shop_gold_sum",
-			asset_count = {200000,400000},
+			asset_count = 14000,
 			get_weight = 1,
+		},
+		[824]=
+		{
+			id = 824,
+			award_id = 592,
+			award_name = "拜尔电动牙刷",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[825]=
+		{
+			id = 825,
+			award_id = 593,
+			award_name = "九阳电炖紫砂锅",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[826]=
+		{
+			id = 826,
+			award_id = 594,
+			award_name = "美的智能烤箱",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[827]=
+		{
+			id = 827,
+			award_id = 595,
+			award_name = "苏泊尔净水器",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[828]=
+		{
+			id = 828,
+			award_id = 596,
+			award_name = "美的冰箱",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[829]=
+		{
+			id = 829,
+			award_id = 597,
+			award_name = "苹果智能手表，北欧真皮沙发，席梦思高端床垫（三选一）",
+			get_weight = 1,
+			is_send_email = 1,
 		},
 	},
 }

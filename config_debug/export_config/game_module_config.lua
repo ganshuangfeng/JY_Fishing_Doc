@@ -2409,5 +2409,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[247]=
+		{
+			id = 247,
+			key = "by3d_tcyx",
+			desc = "捕鱼不开炮踢出游戏",
+			lua = "BYTCYXManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

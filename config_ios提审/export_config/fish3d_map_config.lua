@@ -12,7 +12,7 @@ return {
 			scale = 8,
 			rotation = {66,0,0},
 			rate = "2倍",
-			prefab = "Fish3D061",
+			prefab = "Fish3D001",
 			tips = "身型小巧，自认为很可爱。",
 		},
 		[2]=
@@ -82,7 +82,7 @@ return {
 			scale = 5,
 			rotation = {66,0,0},
 			rate = "6倍",
-			prefab = "Fish3D066",
+			prefab = "Fish3D004",
 			tips = "总是成群结队，喜欢躲在草里玩捉迷藏。",
 		},
 		[7]=
@@ -110,7 +110,7 @@ return {
 			scale = 5,
 			rotation = {66,0,0},
 			rate = "8倍",
-			prefab = "Fish3D067",
+			prefab = "Fish3D011",
 			tips = "攻击性很强，一旦加起速没有谁能把他拦住。",
 		},
 		[9]=
@@ -124,7 +124,7 @@ return {
 			scale = 5,
 			rotation = {0,0,0},
 			rate = "10倍",
-			prefab = "Fish3D055",
+			prefab = "Fish3D014",
 			tips = "擅长跳舞，梦想是成为一名优雅的水上芭蕾舞者。",
 		},
 		[10]=
@@ -138,7 +138,7 @@ return {
 			scale = 5,
 			rotation = {0,0,0},
 			rate = "12倍",
-			prefab = "Fish3D060",
+			prefab = "Fish3D017",
 			tips = "喜欢在黑暗中惊吓别人，但捉迷藏从来没有赢过。",
 		},
 		[11]=
@@ -166,7 +166,7 @@ return {
 			scale = 5,
 			rotation = {66,0,0},
 			rate = "18倍",
-			prefab = "Fish3D069",
+			prefab = "Fish3D010",
 			tips = "狮子鱼对于任何事物似乎都不感兴趣，当然这只有在他吃饱以后。",
 		},
 		[13]=
@@ -180,7 +180,7 @@ return {
 			scale = 5,
 			rotation = {66,0,0},
 			rate = "20倍",
-			prefab = "Fish3D070",
+			prefab = "Fish3D016",
 			tips = "同样喜欢晒太阳，但聪明的她总会选择隐秘的地方享受。",
 		},
 		[14]=
@@ -208,7 +208,7 @@ return {
 			scale = 4,
 			rotation = {66,0,0},
 			rate = "30倍",
-			prefab = "Fish3D045",
+			prefab = "Fish3D018",
 			tips = "外形看起来十分吓人，实际上非常温顺，而且胆子很小。",
 		},
 		[16]=
@@ -250,7 +250,7 @@ return {
 			scale = 3,
 			rotation = {66,0,0},
 			rate = "60倍",
-			prefab = "Fish3D074",
+			prefab = "Fish3D023",
 			tips = "骄傲自大，总认为自己是海底的霸主，常常自找苦头。",
 		},
 		[19]=
@@ -362,7 +362,7 @@ return {
 			scale = 3,
 			rotation = {0,0,0},
 			rate = "100~120倍",
-			prefab = "Fish3D049",
+			prefab = "Fish3D024",
 			tips = "是大白鲨的亲戚，行事却十分高调，喜欢炫耀自己的战绩与收获。",
 		},
 		[27]=
@@ -376,7 +376,7 @@ return {
 			scale = 2,
 			rotation = {66,0,0},
 			rate = "100~160倍",
-			prefab = "Fish3D048",
+			prefab = "Fish3D025",
 			tips = "自称素食主义者，喜欢品尝海草和藏在海草里的小鱼。",
 		},
 		[28]=
