@@ -6,8 +6,7 @@ return {
 			line = 1,
 			vip = 1,
 			total = 10,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>2次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "1、福利券容量提升为<color=#DA2020>2万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[2]=
@@ -15,7 +14,7 @@ return {
 			line = 2,
 			vip = 1,
 			total = 10,
-			info = "2、福利券容量提升为<color=#DA2020>2万福利券</color>",
+			info = "2、享受兑换商城商品<color=#DA2020>99%</color>兑换权",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[3]=
@@ -23,15 +22,16 @@ return {
 			line = 3,
 			vip = 1,
 			total = 10,
-			info = "3、享受兑换商城商品<color=#DA2020>99%</color>兑换权",
+			info = "3、享受vip专享福利",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[4]=
 		{
 			line = 4,
-			vip = 1,
-			total = 10,
-			info = "4、享受vip专享福利",
+			vip = 2,
+			total = 200,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>5次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[5]=
@@ -39,8 +39,7 @@ return {
 			line = 5,
 			vip = 2,
 			total = 200,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>5次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>8万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[6]=
@@ -48,15 +47,16 @@ return {
 			line = 6,
 			vip = 2,
 			total = 200,
-			info = "2、福利券容量提升为<color=#DA2020>8万福利券</color>",
+			info = "3、享受vip1所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[7]=
 		{
 			line = 7,
-			vip = 2,
-			total = 200,
-			info = "3、享受vip1所有特权并提高部分特权奖励",
+			vip = 3,
+			total = 500,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>10次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[8]=
@@ -64,8 +64,7 @@ return {
 			line = 8,
 			vip = 3,
 			total = 500,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>10次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>20万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[9]=
@@ -73,15 +72,16 @@ return {
 			line = 9,
 			vip = 3,
 			total = 500,
-			info = "2、福利券容量提升为<color=#DA2020>20万福利券</color>",
+			info = "3、享受vip2所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[10]=
 		{
 			line = 10,
-			vip = 3,
-			total = 500,
-			info = "3、享受vip2所有特权并提高部分特权奖励",
+			vip = 4,
+			total = 1000,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>20次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[11]=
@@ -89,8 +89,7 @@ return {
 			line = 11,
 			vip = 4,
 			total = 1000,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>20次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>40万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[12]=
@@ -98,15 +97,16 @@ return {
 			line = 12,
 			vip = 4,
 			total = 1000,
-			info = "2、福利券容量提升为<color=#DA2020>40万福利券</color>",
+			info = "3、享受vip3所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[13]=
 		{
 			line = 13,
-			vip = 4,
-			total = 1000,
-			info = "3、享受vip3所有特权并提高部分特权奖励",
+			vip = 5,
+			total = 2000,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>30次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[14]=
@@ -114,8 +114,7 @@ return {
 			line = 14,
 			vip = 5,
 			total = 2000,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>30次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>60万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[15]=
@@ -123,7 +122,7 @@ return {
 			line = 15,
 			vip = 5,
 			total = 2000,
-			info = "2、福利券容量提升为<color=#DA2020>60万福利券</color>",
+			info = "3、畅玩所有游戏",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[16]=
@@ -131,15 +130,16 @@ return {
 			line = 16,
 			vip = 5,
 			total = 2000,
-			info = "3、畅玩所有游戏",
+			info = "4、享受vip4所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[17]=
 		{
 			line = 17,
-			vip = 5,
-			total = 2000,
-			info = "4、享受vip4所有特权并提高部分特权奖励",
+			vip = 6,
+			total = 5000,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[18]=
@@ -147,8 +147,7 @@ return {
 			line = 18,
 			vip = 6,
 			total = 5000,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>80万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[19]=
@@ -156,15 +155,16 @@ return {
 			line = 19,
 			vip = 6,
 			total = 5000,
-			info = "2、福利券容量提升为<color=#DA2020>80万福利券</color>",
+			info = "3、享受vip5所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[20]=
 		{
 			line = 20,
-			vip = 6,
-			total = 5000,
-			info = "3、享受vip5所有特权并提高部分特权奖励",
+			vip = 7,
+			total = 10000,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[21]=
@@ -172,8 +172,7 @@ return {
 			line = 21,
 			vip = 7,
 			total = 10000,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>100万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[22]=
@@ -181,15 +180,16 @@ return {
 			line = 22,
 			vip = 7,
 			total = 10000,
-			info = "2、福利券容量提升为<color=#DA2020>100万福利券</color>",
+			info = "3、享受vip6所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[23]=
 		{
 			line = 23,
-			vip = 7,
-			total = 10000,
-			info = "3、享受vip6所有特权并提高部分特权奖励",
+			vip = 8,
+			total = 20000,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[24]=
@@ -197,8 +197,7 @@ return {
 			line = 24,
 			vip = 8,
 			total = 20000,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>200万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[25]=
@@ -206,15 +205,16 @@ return {
 			line = 25,
 			vip = 8,
 			total = 20000,
-			info = "2、福利券容量提升为<color=#DA2020>200万福利券</color>",
+			info = "3、享受vip7所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[26]=
 		{
 			line = 26,
-			vip = 8,
-			total = 20000,
-			info = "3、享受vip7所有特权并提高部分特权奖励",
+			vip = 9,
+			total = 30000,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[27]=
@@ -222,8 +222,7 @@ return {
 			line = 27,
 			vip = 9,
 			total = 30000,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>300万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[28]=
@@ -231,15 +230,16 @@ return {
 			line = 28,
 			vip = 9,
 			total = 30000,
-			info = "2、福利券容量提升为<color=#DA2020>300万福利券</color>",
+			info = "3、享受vip8所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[29]=
 		{
 			line = 29,
-			vip = 9,
-			total = 30000,
-			info = "3、享受vip8所有特权并提高部分特权奖励",
+			vip = 10,
+			total = 50000,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[30]=
@@ -247,21 +247,12 @@ return {
 			line = 30,
 			vip = 10,
 			total = 50000,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>500万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[31]=
 		{
 			line = 31,
-			vip = 10,
-			total = 50000,
-			info = "2、福利券容量提升为<color=#DA2020>500万福利券</color>",
-			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
-		},
-		[32]=
-		{
-			line = 32,
 			vip = 10,
 			total = 50000,
 			info = "3、享受vip9所有特权并提高部分特权奖励",
@@ -440,6 +431,13 @@ return {
 			id = 21340,
 			type = "gold_three",
 			name = "vip累计赢金挑战第三期",
+		},
+		[22]=
+		{
+			index = 22,
+			id = 21341,
+			type = "fhfl",
+			name = "富豪福利",
 		},
 	},
 	level=

@@ -94,10 +94,10 @@ return {
 			endTime = -1,
 			noCloseUI = 1,
 			type = "activity",
-			showType = "image",
-			parmData = "gzyl_dk_bg",
+			showType = "prefab",
+			parmData = "act_022_gzyl",
 			is_local_icon = 1,
-			gotoUI = {"share_link","{\"type\": 3,\"title\": \"直接【点我】关注官方公众号\",\"description\": \"描述\",\"url\": \"http://cwww.jyhd919.cn/webpages/shareHome.html\",\"isCircleOfFriends\": \"false\"}"},
+			gotoUI = {"act_022_gzyl","panel"},
 			tag = "normal",
 		},
 		[7]=
