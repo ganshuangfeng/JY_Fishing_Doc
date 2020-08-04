@@ -318,7 +318,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			parm = {"ty_gift",},
+			parm = {"ty_gift","gift_kllb"},
 			is_on_off = 0,
 		},
 		[2]=
@@ -432,7 +432,7 @@ return {
 		[20]=
 		{
 			id = 20,
-			parm = {"ty_gift",},
+			parm = {"ty_gift","gift_bybs"},
 			is_on_off = 1,
 		},
 		[21]=
