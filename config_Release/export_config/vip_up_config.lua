@@ -4,7 +4,7 @@ return {
 		[1]=
 		{
 			vip_level = 1,
-			qx = "1、可使用Vip超级转盘，每日可抽<color=#C86715>2次</color>\n2、福利券容量提升为<color=#C86715>2万福利券</color>\n3、享受兑换商城商品<color=#C86715>99%</color>兑换权\n4、享受vip专享福利",
+			qx = "1、福利券容量提升为<color=#C86715>2万福利券</color>\n2、享受兑换商城商品<color=#C86715>99%</color>兑换权\n3、享受vip专享福利",
 			icon = "vip_tq_icon_hz1",
 		},
 		[2]=

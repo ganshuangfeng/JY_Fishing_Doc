@@ -157,6 +157,7 @@ return {
 			name = "寒霜",
 			desc = "装备后效果：捕鱼命中率提升千分之二\n限制：史诗品质以上炮台可用",
 			desc_get = "VIP3开启",
+			use_parm = {"vip","hint"},
 			buy_anniu_hint = "获取",
 		},
 		[11]=

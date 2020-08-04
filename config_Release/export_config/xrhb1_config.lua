@@ -173,7 +173,7 @@ return {
 			desc = "体验一次红包大转盘",
 			icon_image = "ty_icon_flq1",
 			award_num = 20,
-			gotoUI = {"xycj","panel",},
+			gotoUI = {"sys_flqcj","panel",1},
 			tips = "完成任务领20福利券",
 			order_id = 6,
 		},

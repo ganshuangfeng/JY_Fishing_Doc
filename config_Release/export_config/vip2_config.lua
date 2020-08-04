@@ -6,8 +6,7 @@ return {
 			line = 1,
 			vip = 1,
 			total = 10,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>2次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "1、福利券容量提升为<color=#DA2020>2万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[2]=
@@ -15,7 +14,7 @@ return {
 			line = 2,
 			vip = 1,
 			total = 10,
-			info = "2、福利券容量提升为<color=#C86715>2万福利券</color>",
+			info = "2、享受兑换商城商品<color=#DA2020>99%</color>兑换权",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[3]=
@@ -23,15 +22,16 @@ return {
 			line = 3,
 			vip = 1,
 			total = 10,
-			info = "3、享受兑换商城商品<color=#C86715>99%</color>兑换权",
+			info = "3、享受vip专享福利",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[4]=
 		{
 			line = 4,
-			vip = 1,
-			total = 10,
-			info = "4、享受vip专享福利",
+			vip = 2,
+			total = 200,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>5次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[5]=
@@ -39,8 +39,7 @@ return {
 			line = 5,
 			vip = 2,
 			total = 200,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>5次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>8万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[6]=
@@ -48,15 +47,16 @@ return {
 			line = 6,
 			vip = 2,
 			total = 200,
-			info = "2、福利券容量提升为<color=#C86715>8万福利券</color>",
+			info = "3、享受vip1所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[7]=
 		{
 			line = 7,
-			vip = 2,
-			total = 200,
-			info = "3、享受vip1所有特权并提高部分特权奖励",
+			vip = 3,
+			total = 500,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>10次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[8]=
@@ -64,8 +64,7 @@ return {
 			line = 8,
 			vip = 3,
 			total = 500,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>10次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>20万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[9]=
@@ -73,15 +72,16 @@ return {
 			line = 9,
 			vip = 3,
 			total = 500,
-			info = "2、福利券容量提升为<color=#C86715>20万福利券</color>",
+			info = "3、享受vip2所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[10]=
 		{
 			line = 10,
-			vip = 3,
-			total = 500,
-			info = "3、享受vip2所有特权并提高部分特权奖励",
+			vip = 4,
+			total = 1000,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>20次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[11]=
@@ -89,8 +89,7 @@ return {
 			line = 11,
 			vip = 4,
 			total = 1000,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>20次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>40万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[12]=
@@ -98,15 +97,16 @@ return {
 			line = 12,
 			vip = 4,
 			total = 1000,
-			info = "2、福利券容量提升为<color=#C86715>40万福利券</color>",
+			info = "3、享受vip3所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[13]=
 		{
 			line = 13,
-			vip = 4,
-			total = 1000,
-			info = "3、享受vip3所有特权并提高部分特权奖励",
+			vip = 5,
+			total = 2000,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>30次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[14]=
@@ -114,8 +114,7 @@ return {
 			line = 14,
 			vip = 5,
 			total = 2000,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>30次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>60万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[15]=
@@ -123,7 +122,7 @@ return {
 			line = 15,
 			vip = 5,
 			total = 2000,
-			info = "2、福利券容量提升为<color=#C86715>60万福利券</color>",
+			info = "3、畅玩所有游戏",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[16]=
@@ -131,15 +130,16 @@ return {
 			line = 16,
 			vip = 5,
 			total = 2000,
-			info = "3、畅玩所有游戏",
+			info = "4、享受vip4所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[17]=
 		{
 			line = 17,
-			vip = 5,
-			total = 2000,
-			info = "4、享受vip4所有特权并提高部分特权奖励",
+			vip = 6,
+			total = 5000,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[18]=
@@ -147,8 +147,7 @@ return {
 			line = 18,
 			vip = 6,
 			total = 5000,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>80万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[19]=
@@ -156,15 +155,16 @@ return {
 			line = 19,
 			vip = 6,
 			total = 5000,
-			info = "2、福利券容量提升为<color=#C86715>80万福利券</color>",
+			info = "3、享受vip5所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[20]=
 		{
 			line = 20,
-			vip = 6,
-			total = 5000,
-			info = "3、享受vip5所有特权并提高部分特权奖励",
+			vip = 7,
+			total = 10000,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[21]=
@@ -172,8 +172,7 @@ return {
 			line = 21,
 			vip = 7,
 			total = 10000,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>100万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[22]=
@@ -181,15 +180,16 @@ return {
 			line = 22,
 			vip = 7,
 			total = 10000,
-			info = "2、福利券容量提升为<color=#C86715>100万福利券</color>",
+			info = "3、享受vip6所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[23]=
 		{
 			line = 23,
-			vip = 7,
-			total = 10000,
-			info = "3、享受vip6所有特权并提高部分特权奖励",
+			vip = 8,
+			total = 20000,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[24]=
@@ -197,8 +197,7 @@ return {
 			line = 24,
 			vip = 8,
 			total = 20000,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>200万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[25]=
@@ -206,15 +205,16 @@ return {
 			line = 25,
 			vip = 8,
 			total = 20000,
-			info = "2、福利券容量提升为<color=#C86715>200万福利券</color>",
+			info = "3、享受vip7所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[26]=
 		{
 			line = 26,
-			vip = 8,
-			total = 20000,
-			info = "3、享受vip7所有特权并提高部分特权奖励",
+			vip = 9,
+			total = 30000,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[27]=
@@ -222,8 +222,7 @@ return {
 			line = 27,
 			vip = 9,
 			total = 30000,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>300万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[28]=
@@ -231,15 +230,16 @@ return {
 			line = 28,
 			vip = 9,
 			total = 30000,
-			info = "2、福利券容量提升为<color=#C86715>300万福利券</color>",
+			info = "3、享受vip8所有特权并提高部分特权奖励",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[29]=
 		{
 			line = 29,
-			vip = 9,
-			total = 30000,
-			info = "3、享受vip8所有特权并提高部分特权奖励",
+			vip = 10,
+			total = 50000,
+			info = "1、可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[30]=
@@ -247,21 +247,12 @@ return {
 			line = 30,
 			vip = 10,
 			total = 50000,
-			info = "1、可使用Vip超级转盘，每日可抽<color=#C86715>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "2、福利券容量提升为<color=#DA2020>500万福利券</color>",
 			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
 		},
 		[31]=
 		{
 			line = 31,
-			vip = 10,
-			total = 50000,
-			info = "2、福利券容量提升为<color=#C86715>500万福利券</color>",
-			help = "1.游戏内带有超值标签的礼包不计入vip累计金额;\n2.福利券超出容量后会自动转换为金币。",
-		},
-		[32]=
-		{
-			line = 32,
 			vip = 10,
 			total = 50000,
 			info = "3、享受vip9所有特权并提高部分特权奖励",
@@ -273,22 +264,22 @@ return {
 		[1]=
 		{
 			index = 1,
-			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_sd"},
-			text = {"10万鱼币","太阳*2","锁定*1"},
+			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_zh"},
+			text = {"10万鱼币","太阳*2","召唤*10"},
 			title = "vip<color=#e41a1a>2</color>福利",
 		},
 		[2]=
 		{
 			index = 2,
-			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_sd"},
-			text = {"30万鱼币","太阳*6","锁定*1"},
+			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_zh"},
+			text = {"30万鱼币","太阳*6","召唤*10"},
 			title = "vip<color=#e41a1a>3</color>-vip<color=#e41a1a>5</color>福利",
 		},
 		[3]=
 		{
 			index = 3,
-			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_sd"},
-			text = {"66万鱼币","太阳*10","锁定*1"},
+			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_zh"},
+			text = {"66万鱼币","太阳*10","召唤*10"},
 			title = "vip<color=#e41a1a>6</color>及以上福利",
 		},
 	},
@@ -440,6 +431,13 @@ return {
 			id = 21340,
 			type = "gold_three",
 			name = "vip累计赢金挑战第三期",
+		},
+		[22]=
+		{
+			index = 22,
+			id = 21341,
+			type = "fhfl",
+			name = "富豪福利",
 		},
 	},
 	level=
@@ -1107,6 +1105,129 @@ return {
 			price = 698,
 			award_img = {"ty_icon_jb_198y","3dby_btn_zh","3dby_btn_sd",},
 			award_txt = {"7688万","158","100",},
+		},
+	},
+	fhfl=
+	{
+		[1]=
+		{
+			index = 1,
+			task_id = 21341,
+			title = "身上拥有200万金币",
+			condition = 2000000,
+			award_img = {"ty_icon_jb_6y","3dby_btn_sd","3dby_btn_bd",},
+			award_txt = {"8万金币","锁定*1","冰冻*1",},
+			award_progress_lv = 1,
+		},
+		[2]=
+		{
+			index = 2,
+			task_id = 21341,
+			title = "身上拥有500万金币",
+			condition = 5000000,
+			award_img = {"ty_icon_jb_6y","3dby_btn_sd","3dby_btn_bd",},
+			award_txt = {"18万金币","锁定*1","冰冻*1",},
+			award_progress_lv = 2,
+		},
+		[3]=
+		{
+			index = 3,
+			task_id = 21341,
+			title = "身上拥有1000万金币",
+			condition = 10000000,
+			award_img = {"ty_icon_jb_15y","3dby_btn_sd","3dby_btn_bd",},
+			award_txt = {"28万金币","锁定*1","冰冻*1",},
+			award_progress_lv = 3,
+		},
+		[4]=
+		{
+			index = 4,
+			task_id = 21341,
+			title = "身上拥有2000万金币",
+			condition = 20000000,
+			award_img = {"ty_icon_jb_18y","3dby_btn_sd","3dby_btn_bd",},
+			award_txt = {"38万金币","锁定*2","冰冻*2",},
+			award_progress_lv = 4,
+		},
+		[5]=
+		{
+			index = 5,
+			task_id = 21341,
+			title = "身上拥有5000万金币",
+			condition = 50000000,
+			award_img = {"ty_icon_jb_30y","3dby_btn_sd","3dby_btn_bd",},
+			award_txt = {"48万金币","锁定*2","冰冻*2",},
+			award_progress_lv = 5,
+		},
+		[6]=
+		{
+			index = 6,
+			task_id = 21341,
+			title = "身上拥有1亿金币",
+			condition = 100000000,
+			award_img = {"ty_icon_jb_48y","3dby_btn_sd","3dby_btn_bd",},
+			award_txt = {"88万金币","锁定*2","冰冻*2",},
+			award_progress_lv = 6,
+		},
+		[7]=
+		{
+			index = 7,
+			task_id = 21341,
+			title = "身上拥有2亿金币",
+			condition = 200000000,
+			award_img = {"ty_icon_jb_50y","3dby_btn_sd","3dby_btn_bd",},
+			award_txt = {"128万金币","锁定*3","冰冻*3",},
+			award_progress_lv = 7,
+		},
+		[8]=
+		{
+			index = 8,
+			task_id = 21341,
+			title = "身上拥有5亿金币",
+			condition = 500000000,
+			award_img = {"ty_icon_jb_98y","3dby_btn_sd","3dby_btn_bd",},
+			award_txt = {"188万金币","锁定*3","冰冻*3",},
+			award_progress_lv = 8,
+		},
+		[9]=
+		{
+			index = 9,
+			task_id = 21341,
+			title = "身上拥有10亿金币",
+			condition = 1000000000,
+			award_img = {"ty_icon_jb_198y","3dby_btn_sd","3dby_btn_bd",},
+			award_txt = {"288万金币","锁定*3","冰冻*3",},
+			award_progress_lv = 9,
+		},
+		[10]=
+		{
+			index = 10,
+			task_id = 21341,
+			title = "身上拥有20亿金币",
+			condition = 2000000000,
+			award_img = {"ty_icon_jb_498y","3dby_btn_sd","3dby_btn_bd",},
+			award_txt = {"388万金币","锁定*5","冰冻*5",},
+			award_progress_lv = 10,
+		},
+		[11]=
+		{
+			index = 11,
+			task_id = 21341,
+			title = "身上拥有30亿金币",
+			condition = 3000000000,
+			award_img = {"ty_icon_jb_998y","3dby_btn_sd","3dby_btn_bd",},
+			award_txt = {"488万金币","锁定*5","冰冻*5",},
+			award_progress_lv = 11,
+		},
+		[12]=
+		{
+			index = 12,
+			task_id = 21341,
+			title = "身上拥有50亿金币",
+			condition = 5000000000,
+			award_img = {"ty_icon_jb_2498y","3dby_btn_sd","3dby_btn_bd",},
+			award_txt = {"588万金币","锁定*5","冰冻*5",},
+			award_progress_lv = 12,
 		},
 	},
 }

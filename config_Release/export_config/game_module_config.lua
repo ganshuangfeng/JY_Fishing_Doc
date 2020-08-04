@@ -2379,5 +2379,45 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[244]=
+		{
+			id = 244,
+			key = "act_023_vip2ztlb",
+			desc = "vip2直通礼包key",
+			lua = "Act_023_VIP2ZTLBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[245]=
+		{
+			id = 245,
+			key = "act_023_vip3ztlb",
+			desc = "vip3直通礼包key",
+			lua = "Act_023_VIP3ZTLBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[246]=
+		{
+			id = 246,
+			key = "act_023_vip4ztlb",
+			desc = "vip4直通礼包key",
+			lua = "Act_023_VIP4ZTLBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[247]=
+		{
+			id = 247,
+			key = "by3d_tcyx",
+			desc = "捕鱼不开炮踢出游戏",
+			lua = "BYTCYXManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
