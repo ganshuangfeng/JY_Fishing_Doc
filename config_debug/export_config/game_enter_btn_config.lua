@@ -225,7 +225,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "16;31;11#",
+			group_list = "16;31;#",
 		},
 	},
 	fishing_match_bm=
@@ -261,7 +261,7 @@ return {
 		{
 			id = 4,
 			area = "down2",
-			group_list = "74#87#",
+			group_list = "74#87#11#",
 		},
 		[5]=
 		{
@@ -318,6 +318,45 @@ return {
 			id = 7,
 			area = "center5",
 			group_list = "77#68",
+		},
+	},
+	ttl_config=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "top",
+		},
+	},
+	crazy_fish_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "top",
+		},
+	},
+	Sheet3=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left_down",
+		},
+		[2]=
+		{
+			id = 2,
+			area = "left_top",
+		},
+		[3]=
+		{
+			id = 3,
+			area = "left_enter",
+		},
+		[4]=
+		{
+			id = 4,
+			area = "center",
 		},
 	},
 	all_enter=

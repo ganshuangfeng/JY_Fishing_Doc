@@ -886,6 +886,13 @@ return {
 			source_type = "charge_any",
 			to_ticket_rule = 32,
 		},
+		[86]=
+		{
+			id = 86,
+			source_id = 18,
+			source_type = "<<summer_gift_day>>",
+			to_ticket_rule = 33,
+		},
 	},
 	source_condition=
 	{
@@ -1107,6 +1114,12 @@ return {
 			id = 32,
 			trans_need = 2000,
 			trans_been = 5,
+		},
+		[33]=
+		{
+			id = 33,
+			trans_need = 1,
+			trans_been = 1,
 		},
 	},
 	join_condition=

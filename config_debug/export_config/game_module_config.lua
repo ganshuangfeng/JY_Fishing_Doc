@@ -2455,9 +2455,9 @@ return {
 			key = "act_024_jfcdj",
 			desc = "积分抽大奖",
 			lua = "Act_024_JFCDJManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[252]=
 		{
@@ -2465,9 +2465,9 @@ return {
 			key = "act_024_lgfl",
 			desc = "连购返利",
 			lua = "Act_024_LGFLManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[253]=
 		{
@@ -2475,9 +2475,9 @@ return {
 			key = "GameComAct1",
 			desc = "通用活动模板1",
 			lua = "GameComAct1Manager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[254]=
 		{
@@ -2485,9 +2485,9 @@ return {
 			key = "act_024_wyzjf",
 			desc = "我要赚积分",
 			lua = "Act_024_WYZJFManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[255]=
 		{

@@ -1310,7 +1310,7 @@ return {
 		fish3d_alphatest=
 		{
 			key = "fish3d_alphatest",
-			name = "3D捕鱼测试（免费玩家、小额付费玩家）",
+			name = "龙王宝藏测试（免费玩家、小额付费玩家）",
 			condi = 177,
 		},
 		xlxkh_lxdh_vip=

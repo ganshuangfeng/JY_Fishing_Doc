@@ -2369,5 +2369,15 @@ return {
 			enable = 0,
 			state = 0,
 		},
+		[243]=
+		{
+			id = 243,
+			key = "by3d_zdkp",
+			desc = "3D捕鱼自动开炮",
+			lua = "BY3DZDKPManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

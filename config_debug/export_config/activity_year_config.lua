@@ -57,7 +57,7 @@ return {
 			tag = "hot",
 			beginTime = 1597102200,
 			endTime = 1597679999,
-			condi_key = "actp_own_task_p_021_v4_present",
+			condi_key = "actp_own_task_p_summer_lgfl2",
 		},
 		[4]=
 		{
@@ -77,7 +77,7 @@ return {
 			tag = "hot",
 			beginTime = 1597102200,
 			endTime = 1597679999,
-			condi_key = "actp_own_task_p_021_v1_present",
+			condi_key = "actp_own_task_p_summer_lgfl1",
 		},
 	},
 }
