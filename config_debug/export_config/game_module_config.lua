@@ -526,9 +526,9 @@ return {
 			key = "sys_stxt",
 			desc = "师徒系统",
 			lua = "SYSSTXTManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[54]=
 		{
@@ -2445,6 +2445,56 @@ return {
 			key = "by3d_ad_mfcj",
 			desc = "广告点4：免费抽奖",
 			lua = "BY3DADMFCJManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[251]=
+		{
+			id = 251,
+			key = "act_024_jfcdj",
+			desc = "积分抽大奖",
+			lua = "Act_024_JFCDJManager",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
+		},
+		[252]=
+		{
+			id = 252,
+			key = "act_024_lgfl",
+			desc = "连购返利",
+			lua = "Act_024_LGFLManager",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
+		},
+		[253]=
+		{
+			id = 253,
+			key = "GameComAct1",
+			desc = "通用活动模板1",
+			lua = "GameComAct1Manager",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
+		},
+		[254]=
+		{
+			id = 254,
+			key = "act_024_wyzjf",
+			desc = "我要赚积分",
+			lua = "Act_024_WYZJFManager",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
+		},
+		[255]=
+		{
+			id = 255,
+			key = "by3d_ad_fish",
+			desc = "广告鱼",
+			lua = "BY3DADFishManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
