@@ -5508,7 +5508,7 @@ return {
 			id = 21342,
 			enable = 1,
 			name = "盛夏送好礼",
-			own_type = "p_revaluation_rebate_2",
+			own_type = "p_summer_lgfl2",
 			task_enum = "common",
 			process_id = 21342,
 			is_reset = 1,
@@ -5522,7 +5522,7 @@ return {
 			id = 21343,
 			enable = 1,
 			name = "盛夏送好礼",
-			own_type = "p_revaluation_rebate_2",
+			own_type = "p_summer_lgfl2",
 			task_enum = "common",
 			process_id = 21343,
 			is_reset = 1,
@@ -5536,7 +5536,7 @@ return {
 			id = 21344,
 			enable = 1,
 			name = "盛夏送好礼",
-			own_type = "p_revaluation_rebate_2",
+			own_type = "p_summer_lgfl2",
 			task_enum = "common",
 			process_id = 21344,
 			is_reset = 1,
@@ -5550,7 +5550,7 @@ return {
 			id = 21345,
 			enable = 1,
 			name = "盛夏送好礼",
-			own_type = "p_revaluation_rebate_2",
+			own_type = "p_summer_lgfl2",
 			task_enum = "common",
 			process_id = 21345,
 			is_reset = 1,
@@ -5564,7 +5564,7 @@ return {
 			id = 21346,
 			enable = 1,
 			name = "盛夏送好礼",
-			own_type = "p_revaluation_rebate_2",
+			own_type = "p_summer_lgfl2",
 			task_enum = "common",
 			process_id = 21346,
 			is_reset = 1,
@@ -5578,7 +5578,7 @@ return {
 			id = 21347,
 			enable = 1,
 			name = "盛夏送好礼",
-			own_type = "p_revaluation_rebate_1",
+			own_type = "p_summer_lgf1",
 			task_enum = "common",
 			process_id = 21347,
 			is_reset = 1,
@@ -5592,7 +5592,7 @@ return {
 			id = 21348,
 			enable = 1,
 			name = "盛夏送好礼",
-			own_type = "p_revaluation_rebate_1",
+			own_type = "p_summer_lgf1",
 			task_enum = "common",
 			process_id = 21348,
 			is_reset = 1,
@@ -5606,7 +5606,7 @@ return {
 			id = 21349,
 			enable = 1,
 			name = "盛夏送好礼",
-			own_type = "p_revaluation_rebate_1",
+			own_type = "p_summer_lgf1",
 			task_enum = "common",
 			process_id = 21349,
 			is_reset = 1,
@@ -5620,7 +5620,7 @@ return {
 			id = 21350,
 			enable = 1,
 			name = "盛夏送好礼",
-			own_type = "p_revaluation_rebate_1",
+			own_type = "p_summer_lgf1",
 			task_enum = "common",
 			process_id = 21350,
 			is_reset = 1,
@@ -5629,9 +5629,9 @@ return {
 			end_valid_time = 1597679999,
 			time_limit = -1,
 		},
-		[31351]=
+		[21351]=
 		{
-			id = 31351,
+			id = 21351,
 			enable = 1,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",
@@ -5643,9 +5643,9 @@ return {
 			end_valid_time = 1597679999,
 			time_limit = -1,
 		},
-		[31352]=
+		[21352]=
 		{
-			id = 31352,
+			id = 21352,
 			enable = 1,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",
@@ -5657,9 +5657,9 @@ return {
 			end_valid_time = 1597679999,
 			time_limit = -1,
 		},
-		[31353]=
+		[21353]=
 		{
-			id = 31353,
+			id = 21353,
 			enable = 1,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",
@@ -5671,9 +5671,9 @@ return {
 			end_valid_time = 1597679999,
 			time_limit = -1,
 		},
-		[31354]=
+		[21354]=
 		{
-			id = 31354,
+			id = 21354,
 			enable = 1,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",
@@ -5685,9 +5685,9 @@ return {
 			end_valid_time = 1597679999,
 			time_limit = -1,
 		},
-		[31355]=
+		[21355]=
 		{
-			id = 31355,
+			id = 21355,
 			enable = 1,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",
@@ -5699,9 +5699,9 @@ return {
 			end_valid_time = 1597679999,
 			time_limit = -1,
 		},
-		[31356]=
+		[21356]=
 		{
-			id = 31356,
+			id = 21356,
 			enable = 1,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",
@@ -5713,9 +5713,9 @@ return {
 			end_valid_time = 1597679999,
 			time_limit = -1,
 		},
-		[31357]=
+		[21357]=
 		{
-			id = 31357,
+			id = 21357,
 			enable = 1,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",
@@ -5727,9 +5727,9 @@ return {
 			end_valid_time = 1597679999,
 			time_limit = -1,
 		},
-		[31358]=
+		[21358]=
 		{
-			id = 31358,
+			id = 21358,
 			enable = 1,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",

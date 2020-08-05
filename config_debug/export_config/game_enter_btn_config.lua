@@ -261,7 +261,7 @@ return {
 		{
 			id = 4,
 			area = "down2",
-			group_list = "74#",
+			group_list = "74#87#",
 		},
 		[5]=
 		{
@@ -836,6 +836,12 @@ return {
 		{
 			id = 86,
 			parm = {"by3d_zdkp",},
+			is_on_off = 1,
+		},
+		[87]=
+		{
+			id = 87,
+			parm = {"by3d_ad_mfcj",},
 			is_on_off = 1,
 		},
 	},
