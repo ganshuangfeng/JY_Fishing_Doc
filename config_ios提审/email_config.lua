@@ -439,7 +439,7 @@ return {
 		{
 			id = 63,
 			type = "bullet_rank_everyday_email_award",
-			title = "3D捕鱼排名赛",
+			title = "捕鱼排名赛",
 			content = "恭喜你在昨日的捕鱼排名挑战赛中取得%d名，获得%d福利券！",
 		},
 		[64]=

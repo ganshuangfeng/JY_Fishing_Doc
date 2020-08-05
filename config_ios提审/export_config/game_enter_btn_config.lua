@@ -269,6 +269,12 @@ return {
 			area = "top2",
 			group_list = "64#",
 		},
+		[6]=
+		{
+			id = 6,
+			area = "Right_down",
+			group_list = "86#",
+		},
 	},
 	fishing3d_hall=
 	{
@@ -824,6 +830,12 @@ return {
 		{
 			id = 85,
 			parm = {"sys_qd",},
+			is_on_off = 1,
+		},
+		[86]=
+		{
+			id = 86,
+			parm = {"by3d_zdkp",},
 			is_on_off = 1,
 		},
 	},

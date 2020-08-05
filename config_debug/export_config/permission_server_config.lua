@@ -4775,7 +4775,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1597679999,
+			start_deal_time = 1597075200,
 		},
 		[260]=
 		{
@@ -4787,7 +4787,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1597679999,
+			start_deal_time = 1597075200,
 		},
 		[261]=
 		{
@@ -4799,7 +4799,19 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1597679999,
+			start_deal_time = 1597075200,
+		},
+		[262]=
+		{
+			id = 262,
+			enable = 1,
+			key = "actp_common_lottery_summer_gift_day",
+			name = "盛夏送好礼-积分抽大奖（非新玩家）",
+			condi = 245,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1597075200,
 		},
 	},
 	condi=

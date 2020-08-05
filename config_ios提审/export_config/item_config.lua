@@ -1258,7 +1258,7 @@ return {
 			is_show_bag = 1,
 			order = 36,
 			name = "免费子弹",
-			desc = "免费子弹-3D捕鱼",
+			desc = "免费子弹",
 			tag = 9,
 		},
 		[98]=
@@ -1272,7 +1272,7 @@ return {
 			is_show_bag = 1,
 			order = 37,
 			name = "超级火力",
-			desc = "超级火力-3D捕鱼",
+			desc = "超级火力",
 			tag = 9,
 		},
 		[99]=
@@ -1286,7 +1286,7 @@ return {
 			is_show_bag = 1,
 			order = 38,
 			name = "双倍时刻",
-			desc = "双倍时刻-3D捕鱼",
+			desc = "双倍时刻",
 			tag = 9,
 		},
 		[100]=
@@ -1300,7 +1300,7 @@ return {
 			is_show_bag = 1,
 			order = 39,
 			name = "超速子弹",
-			desc = "超速子弹-3D捕鱼",
+			desc = "超速子弹",
 			tag = 9,
 		},
 		[101]=
@@ -1314,7 +1314,7 @@ return {
 			is_show_bag = 1,
 			order = 40,
 			name = "钻头弹",
-			desc = "钻头弹-3D捕鱼",
+			desc = "钻头弹",
 			tag = 9,
 		},
 		[102]=
@@ -1328,7 +1328,7 @@ return {
 			is_show_bag = 1,
 			order = 41,
 			name = "穿透子弹",
-			desc = "穿透子弹-3D捕鱼",
+			desc = "穿透子弹",
 			tag = 9,
 		},
 		[103]=
@@ -1342,7 +1342,7 @@ return {
 			is_show_bag = 1,
 			order = 42,
 			name = "召唤",
-			desc = "召唤-3D捕鱼",
+			desc = "召唤彩金鱼",
 			tag = 9,
 		},
 		[104]=
@@ -1356,7 +1356,7 @@ return {
 			is_show_bag = 1,
 			order = 43,
 			name = "免费超级火力",
-			desc = "免费超级火力-3D捕鱼",
+			desc = "免费超级火力",
 			tag = 9,
 		},
 		[105]=
@@ -1370,7 +1370,7 @@ return {
 			is_show_bag = 1,
 			order = 44,
 			name = "激光炮",
-			desc = "激光炮-3D捕鱼",
+			desc = "激光炮",
 			tag = 9,
 		},
 		[106]=
