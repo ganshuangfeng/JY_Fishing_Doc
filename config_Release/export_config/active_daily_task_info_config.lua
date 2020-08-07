@@ -64,7 +64,7 @@ return {
 			task_id = 12521,
 			task_name = "累计捕鱼",
 			task_icon = "rw_icon_bh",
-			task_instruction = "3D捕鱼中捕获任意10条鱼",
+			task_instruction = "3D捕鱼中捕获任意100条鱼",
 			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
 			task_award_count = {"x5000","x20"},
