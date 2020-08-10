@@ -1492,7 +1492,7 @@ return {
 		{
 			key = "fishing3d_4",
 			name = "捕鱼藏宝海湾",
-			condi = 22,
+			condi = 249,
 		},
 		fishing3d_4_1=
 		{
@@ -11075,6 +11075,26 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是VIVO渠道的用户",
+		},
+		[627]=
+		{
+			no = 627,
+			id = 249,
+			var = "player_level",
+			value = 20,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv20开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[628]=
+		{
+			no = 628,
+			id = 249,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv20开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 	},
 	share_condition=
