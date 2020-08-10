@@ -884,6 +884,7 @@ return {
 			id = 85,
 			source_id = 18,
 			source_type = "charge_any",
+			condtion_id = 4,
 			to_ticket_rule = 32,
 		},
 		[86]=
@@ -918,6 +919,14 @@ return {
 			condition_id = 3,
 			condition_name = "big_step",
 			condition_value = 2,
+			judge_type = 2,
+		},
+		[4]=
+		{
+			id = 4,
+			condition_id = 4,
+			condition_name = "gift_id",
+			condition_value = {1,2,3,4,5,6,107,108,110,85,86,87,88,89,109,10044,10045,111},
 			judge_type = 2,
 		},
 	},
