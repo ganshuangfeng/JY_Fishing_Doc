@@ -243,7 +243,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "40#43#79#72",
+			group_list = "40#43#79#88",
 		},
 		[2]=
 		{
@@ -268,6 +268,12 @@ return {
 			id = 5,
 			area = "Right_down",
 			group_list = "86#",
+		},
+		[6]=
+		{
+			id = 6,
+			area = "Right_down2",
+			group_list = "72#",
 		},
 	},
 	fishing3d_hall=
@@ -852,6 +858,12 @@ return {
 		{
 			id = 87,
 			parm = {"by3d_ad_mfcj",},
+			is_on_off = 1,
+		},
+		[88]=
+		{
+			id = 88,
+			parm = {"gift_czlb",},
 			is_on_off = 1,
 		},
 	},

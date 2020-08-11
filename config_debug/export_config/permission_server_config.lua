@@ -4837,6 +4837,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1597707000,
 		},
+		[265]=
+		{
+			id = 265,
+			enable = 1,
+			key = "actp_own_task_p_0818_bxfl",
+			name = "龙虾啤酒节-捕虾福利（非新玩家）",
+			condi = 252,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1597680000,
+		},
 	},
 	condi=
 	{
@@ -11134,6 +11146,16 @@ return {
 		{
 			no = 630,
 			id = 251,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[631]=
+		{
+			no = 631,
+			id = 252,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,

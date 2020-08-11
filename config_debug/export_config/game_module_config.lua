@@ -2529,5 +2529,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[259]=
+		{
+			id = 259,
+			key = "gift_czlb",
+			desc = "超值礼包",
+			lua = "GiftCZLBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
