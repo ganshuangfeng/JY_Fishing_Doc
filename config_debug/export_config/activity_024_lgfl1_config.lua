@@ -4,6 +4,7 @@ return {
 		[1]=
 		{
 			index = 1,
+			icon = "lgfl_bg_bg",
 			name = "连购返利",
 		},
 	},
@@ -25,7 +26,7 @@ return {
 			id = 1,
 			task = 21342,
 			total = 3,
-			task_name = "每天在游戏中累计购买3次2498元",
+			task_name = "每天在商城中累计购买3次2498元",
 			level = 1,
 			item = {"jing_bi",},
 			count = {9800000,},
@@ -39,7 +40,7 @@ return {
 			id = 2,
 			task = 21343,
 			total = 3,
-			task_name = "每天在游戏中累计购买3次998元",
+			task_name = "每天在商城中累计购买3次998元",
 			level = 1,
 			item = {"jing_bi",},
 			count = {4800000,},
@@ -53,7 +54,7 @@ return {
 			id = 3,
 			task = 21344,
 			total = 3,
-			task_name = "每天在游戏中累计购买3次498元",
+			task_name = "每天在商城中累计购买3次498元",
 			level = 1,
 			item = {"jing_bi",},
 			count = {4800000,},
@@ -64,7 +65,7 @@ return {
 			id = 4,
 			task = 21345,
 			total = 3,
-			task_name = "每天在游戏中累计购买3次198元",
+			task_name = "每天在商城中累计购买3次198元",
 			level = 1,
 			item = {"jing_bi",},
 			count = {1800000,},
@@ -75,7 +76,7 @@ return {
 			id = 5,
 			task = 21346,
 			total = 3,
-			task_name = "每天在游戏中累计购买3次98元",
+			task_name = "每天在商城中累计购买3次98元",
 			level = 1,
 			item = {"jing_bi",},
 			count = {800000,},
@@ -93,12 +94,22 @@ return {
 		[2]=
 		{
 			index = 2,
-			text = "2.活动任务每天0点重置，未领取的奖励视为自动放弃",
+			text = "2.活动期间累计购买指定金额达到指定次数，可领取连购奖励。",
 		},
 		[3]=
 		{
 			index = 3,
-			text = "3.活动中的图片仅作为参考，请以实际发出的奖励为准；",
+			text = "3.活动任务每天0点重置，未领取的奖励视为放弃。",
+		},
+		[4]=
+		{
+			index = 4,
+			text = "4.实物奖励三选一，获得实物奖励的玩家请联系微信公众号“畅游新世界”领取奖励",
+		},
+		[5]=
+		{
+			index = 5,
+			text = "5.活动图片仅供参考，请以实际发出的奖励为准。",
 		},
 	},
 }

@@ -1660,6 +1660,12 @@ return {
 			name = "VIP4直通礼包（只有VIP2显示）",
 			condi = 244,
 		},
+		drt_block_phonenum_realname=
+		{
+			key = "drt_block_phonenum_realname",
+			name = "vivo渠道的用户屏蔽绑定手机和实名认证",
+			condi = 248,
+		},
 	},
 	act_permission=
 	{
@@ -11059,6 +11065,16 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是新用户",
+		},
+		[626]=
+		{
+			no = 626,
+			id = 248,
+			var = "market_channel",
+			value = "vivo",
+			judge = 2,
+			group = 1,
+			error_desc = "是VIVO渠道的用户",
 		},
 	},
 	share_condition=
