@@ -1416,9 +1416,9 @@ return {
 			key = "act_004_jika",
 			desc = "季卡",
 			lua = "Act_004JIKAManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[143]=
 		{
@@ -2535,6 +2535,36 @@ return {
 			key = "gift_czlb",
 			desc = "超值礼包",
 			lua = "GiftCZLBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[260]=
+		{
+			id = 260,
+			key = "sys_fcm",
+			desc = "防沉迷",
+			lua = "SYSFCMManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[261]=
+		{
+			id = 261,
+			key = "act_009_yk_gz",
+			desc = "活动：贵族月卡",
+			lua = "Act_009_YKGZManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[262]=
+		{
+			id = 262,
+			key = "sys_011_yueka_new",
+			desc = "新月卡",
+			lua = "Sys_011_YuekaManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
