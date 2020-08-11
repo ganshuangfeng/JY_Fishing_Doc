@@ -207,7 +207,7 @@ return {
 			showType = "prefab",
 			parmData = "sys_011_yueka_new",
 			is_local_icon = 1,
-			gotoUI = {"sys_011_yueka_new","panel"},
+			gotoUI = {"sys_011_yueka_new","panel1"},
 			tag = "hot",
 		},
 	},
