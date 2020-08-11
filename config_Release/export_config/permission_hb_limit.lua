@@ -9,7 +9,7 @@ return {
 		player_vip_1=
 		{
 			key = "player_vip_1",
-			hb_limit = 20000,
+			hb_limit = 5000,
 		},
 		player_vip_2=
 		{

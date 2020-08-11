@@ -37,7 +37,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;11#",
+			group_list = "16;31#",
 		},
 		[3]=
 		{
@@ -63,7 +63,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;11#",
+			group_list = "16;31#",
 		},
 		[3]=
 		{
@@ -83,7 +83,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "16;31;11#26#",
+			group_list = "16;31#26#",
 		},
 	},
 	fishing_hall=
@@ -118,7 +118,7 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "36#58#30#",
+			group_list = "36#11#58#30#",
 		},
 		[3]=
 		{
@@ -225,7 +225,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "16;31;11#",
+			group_list = "16;31;#",
 		},
 	},
 	fishing_match_bm=
@@ -261,13 +261,13 @@ return {
 		{
 			id = 4,
 			area = "down2",
-			group_list = "74#",
+			group_list = "74#87#11#",
 		},
 		[5]=
 		{
 			id = 5,
-			area = "top2",
-			group_list = "64#",
+			area = "Right_down",
+			group_list = "86#",
 		},
 	},
 	fishing3d_hall=
@@ -312,6 +312,22 @@ return {
 			id = 7,
 			area = "center5",
 			group_list = "77#68",
+		},
+	},
+	ttl_config=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "top",
+		},
+	},
+	crazy_fish_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "top",
 		},
 	},
 	all_enter=
@@ -824,6 +840,18 @@ return {
 		{
 			id = 85,
 			parm = {"sys_qd",},
+			is_on_off = 1,
+		},
+		[86]=
+		{
+			id = 86,
+			parm = {"by3d_zdkp",},
+			is_on_off = 1,
+		},
+		[87]=
+		{
+			id = 87,
+			parm = {"by3d_ad_mfcj",},
 			is_on_off = 1,
 		},
 	},

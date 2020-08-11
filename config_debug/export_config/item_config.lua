@@ -1708,5 +1708,18 @@ return {
 			desc = "用于参加1000福利券赛的门票",
 			tag = 1,
 		},
+		[130]=
+		{
+			id = 130,
+			item_id = 130,
+			item_key = "prop_fish_drop_act_0",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "lxdh_icon_4",
+			is_show_bag = 0,
+			order = 1,
+			name = "小龙虾券",
+			desc = "捕获龙虾活动鱼获得",
+		},
 	},
 }

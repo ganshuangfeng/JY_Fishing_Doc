@@ -299,6 +299,7 @@ return {
 		{
 			id = 50,
 			level = 50,
+			score = 99999999999,
 		},
 	},
 	award_data=

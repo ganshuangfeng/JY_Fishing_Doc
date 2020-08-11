@@ -272,6 +272,22 @@ return {
 			lottery_is_reset = 0,
 			lottery_reset_delay = 0,
 		},
+		[18]=
+		{
+			id = 18,
+			enable = 1,
+			lottery_type = "summer_gift_day",
+			name = "积分抽大奖",
+			begin_time = 1597102200,
+			end_time = 1597679999,
+			over_time = 1597679999,
+			over_is_clear_data = 1,
+			score_source = 18,
+			join_condition = 0,
+			lottery_model = 16,
+			lottery_is_reset = 0,
+			lottery_reset_delay = 0,
+		},
 	},
 	score_source=
 	{
@@ -863,6 +879,21 @@ return {
 			source_type = "lhd_settlement_award",
 			to_ticket_rule = 31,
 		},
+		[85]=
+		{
+			id = 85,
+			source_id = 18,
+			source_type = "charge_any",
+			condtion_id = 4,
+			to_ticket_rule = 32,
+		},
+		[86]=
+		{
+			id = 86,
+			source_id = 18,
+			source_type = "<<summer_gift_day>>",
+			to_ticket_rule = 33,
+		},
 	},
 	source_condition=
 	{
@@ -888,6 +919,14 @@ return {
 			condition_id = 3,
 			condition_name = "big_step",
 			condition_value = 2,
+			judge_type = 2,
+		},
+		[4]=
+		{
+			id = 4,
+			condition_id = 4,
+			condition_name = "gift_id",
+			condition_value = {1,2,3,4,5,6,107,108,110,85,86,87,88,89,109,10044,10045,111},
 			judge_type = 2,
 		},
 	},
@@ -1077,6 +1116,18 @@ return {
 		{
 			id = 31,
 			trans_need = 10000,
+			trans_been = 1,
+		},
+		[32]=
+		{
+			id = 32,
+			trans_need = 2000,
+			trans_been = 5,
+		},
+		[33]=
+		{
+			id = 33,
+			trans_need = 1,
 			trans_been = 1,
 		},
 	},
@@ -2903,6 +2954,116 @@ return {
 			award_type = "nor",
 			award_type_id = 1,
 		},
+		[143]=
+		{
+			id = 143,
+			model_id = 16,
+			lottery_round = 1,
+			need_ticket = 2,
+			award_id = 157,
+			fork_broadcast_weight = 70,
+			award_type = "nor",
+			award_type_id = 1,
+		},
+		[144]=
+		{
+			id = 144,
+			model_id = 16,
+			lottery_round = 2,
+			need_ticket = 10,
+			award_id = 158,
+			fork_broadcast_weight = 60,
+			award_type = "nor",
+			award_type_id = 1,
+		},
+		[145]=
+		{
+			id = 145,
+			model_id = 16,
+			lottery_round = 3,
+			need_ticket = 20,
+			award_id = 159,
+			fork_broadcast_weight = 50,
+			award_type = "nor",
+			award_type_id = 1,
+		},
+		[146]=
+		{
+			id = 146,
+			model_id = 16,
+			lottery_round = 4,
+			need_ticket = 50,
+			award_id = 160,
+			fork_broadcast_weight = 50,
+			award_type = "nor",
+			award_type_id = 1,
+		},
+		[147]=
+		{
+			id = 147,
+			model_id = 16,
+			lottery_round = 5,
+			need_ticket = 100,
+			award_id = 161,
+			fork_broadcast_weight = 50,
+			award_type = "nor",
+			award_type_id = 1,
+		},
+		[148]=
+		{
+			id = 148,
+			model_id = 16,
+			lottery_round = 6,
+			need_ticket = 200,
+			award_id = 162,
+			fork_broadcast_weight = 70,
+			award_type = "nor",
+			award_type_id = 1,
+		},
+		[149]=
+		{
+			id = 149,
+			model_id = 16,
+			lottery_round = 7,
+			need_ticket = 500,
+			award_id = 163,
+			fork_broadcast_weight = 60,
+			award_type = "nor",
+			award_type_id = 1,
+		},
+		[150]=
+		{
+			id = 150,
+			model_id = 16,
+			lottery_round = 8,
+			need_ticket = 1000,
+			award_id = 164,
+			fork_broadcast_weight = 50,
+			award_type = "nor",
+			award_type_id = 1,
+		},
+		[151]=
+		{
+			id = 151,
+			model_id = 16,
+			lottery_round = 9,
+			need_ticket = 8000,
+			award_id = 165,
+			fork_broadcast_weight = 50,
+			award_type = "nor",
+			award_type_id = 1,
+		},
+		[152]=
+		{
+			id = 152,
+			model_id = 16,
+			lottery_round = 10,
+			need_ticket = 35000,
+			award_id = 166,
+			fork_broadcast_weight = 1,
+			award_type = "nor",
+			award_type_id = 1,
+		},
 	},
 	lottery_limit=
 	{
@@ -4140,6 +4301,73 @@ return {
 			id = 156,
 			award_id = 156,
 			award_name = "OPPO手机",
+		},
+		[157]=
+		{
+			id = 157,
+			award_id = 157,
+			asset_type = "jing_bi",
+			value = 3000,
+		},
+		[158]=
+		{
+			id = 158,
+			award_id = 158,
+			asset_type = "shop_gold_sum",
+			value = 35,
+		},
+		[159]=
+		{
+			id = 159,
+			award_id = 159,
+			asset_type = "shop_gold_sum",
+			value = 75,
+		},
+		[160]=
+		{
+			id = 160,
+			award_id = 160,
+			asset_type = "shop_gold_sum",
+			value = 180,
+		},
+		[161]=
+		{
+			id = 161,
+			award_id = 161,
+			asset_type = "shop_gold_sum",
+			value = 350,
+		},
+		[162]=
+		{
+			id = 162,
+			award_id = 162,
+			asset_type = "shop_gold_sum",
+			value = 700,
+		},
+		[163]=
+		{
+			id = 163,
+			award_id = 163,
+			asset_type = "shop_gold_sum",
+			value = 1800,
+		},
+		[164]=
+		{
+			id = 164,
+			award_id = 164,
+			award_name = "充电宝",
+		},
+		[165]=
+		{
+			id = 165,
+			award_id = 165,
+			award_name = "美的风扇",
+		},
+		[166]=
+		{
+			id = 166,
+			award_id = 166,
+			award_name = "华为手机",
 		},
 	},
 }

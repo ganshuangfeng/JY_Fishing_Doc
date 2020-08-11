@@ -1492,7 +1492,7 @@ return {
 		{
 			key = "fishing3d_4",
 			name = "捕鱼藏宝海湾",
-			condi = 22,
+			condi = 249,
 		},
 		fishing3d_4_1=
 		{
@@ -1659,6 +1659,12 @@ return {
 			key = "vip3_buygift",
 			name = "VIP4直通礼包（只有VIP2显示）",
 			condi = 244,
+		},
+		drt_block_phonenum_realname=
+		{
+			key = "drt_block_phonenum_realname",
+			name = "vivo渠道的用户屏蔽绑定手机和实名认证",
+			condi = 248,
 		},
 	},
 	act_permission=
@@ -4758,6 +4764,54 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
 			start_deal_time = 1588028400,
+		},
+		[259]=
+		{
+			id = 259,
+			enable = 1,
+			key = "actp_own_task_p_summer_lgfl1",
+			name = "盛夏送好礼-盛夏礼包（免费，小额，V1-V3）",
+			condi = 246,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1597075200,
+		},
+		[260]=
+		{
+			id = 260,
+			enable = 1,
+			key = "actp_own_task_p_summer_lgfl2",
+			name = "盛夏送好礼-盛夏礼包（V4-V10）",
+			condi = 247,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1597075200,
+		},
+		[261]=
+		{
+			id = 261,
+			enable = 1,
+			key = "actp_own_task_p_0811_wyzjf",
+			name = "盛夏送好礼-我要赚积分（非新玩家）",
+			condi = 245,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1597075200,
+		},
+		[262]=
+		{
+			id = 262,
+			enable = 1,
+			key = "actp_common_lottery_summer_gift_day",
+			name = "盛夏送好礼-积分抽大奖（非新玩家）",
+			condi = 245,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1597075200,
 		},
 	},
 	condi=
@@ -10921,6 +10975,126 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是VIP3的用户",
+		},
+		[617]=
+		{
+			no = 617,
+			id = 245,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[618]=
+		{
+			no = 618,
+			id = 246,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上的用户可进行游戏",
+		},
+		[619]=
+		{
+			no = 619,
+			id = 246,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP3及以下的用户可进行游戏",
+		},
+		[620]=
+		{
+			no = 620,
+			id = 246,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[621]=
+		{
+			no = 621,
+			id = 246,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给免费用户标签",
+		},
+		[622]=
+		{
+			no = 622,
+			id = 246,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "只展示给小额标签用户",
+		},
+		[623]=
+		{
+			no = 623,
+			id = 247,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上的用户可进行游戏",
+		},
+		[624]=
+		{
+			no = 624,
+			id = 247,
+			var = "vip_level",
+			value = 10,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP10及以下的用户可进行游戏",
+		},
+		[625]=
+		{
+			no = 625,
+			id = 247,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[626]=
+		{
+			no = 626,
+			id = 248,
+			var = "market_channel",
+			value = "vivo",
+			judge = 2,
+			group = 1,
+			error_desc = "是VIVO渠道的用户",
+		},
+		[627]=
+		{
+			no = 627,
+			id = 249,
+			var = "player_level",
+			value = 20,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv20开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[628]=
+		{
+			no = 628,
+			id = 249,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv20开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 	},
 	share_condition=

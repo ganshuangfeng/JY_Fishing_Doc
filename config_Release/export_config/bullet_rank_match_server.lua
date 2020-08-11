@@ -7,7 +7,7 @@ return {
 			name = "50福利券赛",
 			cfg_id = 1,
 			data_id = 1,
-			signup_spend_id = {1,},
+			signup_spend_id = {1,2,3,},
 			rank_id = 1,
 			everyday_rank_id = 1,
 			enable = 1,
@@ -18,7 +18,7 @@ return {
 			name = "200福利券赛",
 			cfg_id = 2,
 			data_id = 2,
-			signup_spend_id = {2,3,},
+			signup_spend_id = {4,5,6,},
 			rank_id = 2,
 			everyday_rank_id = 2,
 			enable = 1,
@@ -29,7 +29,7 @@ return {
 			name = "500福利券赛",
 			cfg_id = 3,
 			data_id = 3,
-			signup_spend_id = {4,},
+			signup_spend_id = {7,8,9,},
 			rank_id = 3,
 			everyday_rank_id = 3,
 			enable = 1,
@@ -40,21 +40,10 @@ return {
 			name = "1000福利券赛",
 			cfg_id = 4,
 			data_id = 4,
-			signup_spend_id = {5,},
+			signup_spend_id = {11,12,13,},
 			rank_id = 4,
 			everyday_rank_id = 4,
 			enable = 1,
-		},
-		[5]=
-		{
-			id = 5,
-			name = "3d捕鱼比赛1",
-			cfg_id = 2,
-			data_id = 2,
-			signup_spend_id = {2,3},
-			rank_id = 1,
-			everyday_rank_id = 1,
-			enable = 0,
 		},
 	},
 	cfg=
@@ -87,13 +76,6 @@ return {
 			game_time = 600,
 			max_concurrency_game = 200,
 		},
-		[5]=
-		{
-			id = 5,
-			type = 2,
-			game_time = 900,
-			max_concurrency_game = 200,
-		},
 	},
 	data=
 	{
@@ -101,6 +83,7 @@ return {
 		{
 			id = 1,
 			game_type = "fishing_3d_game",
+			rank_limit_min = 1201,
 			game_id = 2,
 			bullet_num = 1000,
 			bullet_rate = {1.01,1.02,1.03,1.04,1.05,1.06,1.07,1.08,1.09,1.1},
@@ -109,6 +92,7 @@ return {
 		{
 			id = 2,
 			game_type = "fishing_3d_game",
+			rank_limit_min = 1201,
 			game_id = 3,
 			bullet_num = 1000,
 			bullet_rate = {1.01,1.02,1.03,1.04,1.05,1.06,1.07,1.08,1.09,1.1},
@@ -117,6 +101,7 @@ return {
 		{
 			id = 3,
 			game_type = "fishing_3d_game",
+			rank_limit_min = 1201,
 			game_id = 4,
 			bullet_num = 1000,
 			bullet_rate = {1.01,1.02,1.03,1.04,1.05,1.06,1.07,1.08,1.09,1.1},
@@ -125,17 +110,10 @@ return {
 		{
 			id = 4,
 			game_type = "fishing_3d_game",
+			rank_limit_min = 1201,
 			game_id = 5,
 			bullet_num = 1000,
 			bullet_rate = {1.01,1.02,1.03,1.04,1.05,1.06,1.07,1.08,1.09,1.1},
-		},
-		[5]=
-		{
-			id = 5,
-			game_type = "fishing_game",
-			game_id = 1,
-			bullet_num = 1500,
-			bullet_rate = {1,1,1,1,1,2,3,4,5,7},
 		},
 	},
 	rank=
@@ -243,15 +221,15 @@ return {
 		{
 			id = 1,
 			signup_spend_id = 1,
-			asset_type = "jing_bi",
-			value = 5000,
+			asset_type = "obj_3d_50flq",
+			value = 1,
 			condi_type = 1,
 		},
 		[2]=
 		{
 			id = 2,
 			signup_spend_id = 2,
-			asset_type = "prop_gns_ticket",
+			asset_type = "prop_3d_50flq",
 			value = 1,
 			condi_type = 1,
 		},
@@ -260,21 +238,77 @@ return {
 			id = 3,
 			signup_spend_id = 3,
 			asset_type = "jing_bi",
-			value = 20000,
+			value = 5000,
 			condi_type = 1,
 		},
 		[4]=
 		{
 			id = 4,
 			signup_spend_id = 4,
-			asset_type = "jing_bi",
-			value = 50000,
+			asset_type = "obj_3d_200flq",
+			value = 1,
 			condi_type = 1,
 		},
 		[5]=
 		{
 			id = 5,
 			signup_spend_id = 5,
+			asset_type = "prop_3d_200flq",
+			value = 1,
+			condi_type = 1,
+		},
+		[6]=
+		{
+			id = 6,
+			signup_spend_id = 6,
+			asset_type = "jing_bi",
+			value = 20000,
+			condi_type = 1,
+		},
+		[7]=
+		{
+			id = 7,
+			signup_spend_id = 7,
+			asset_type = "obj_3d_500flq",
+			value = 1,
+			condi_type = 1,
+		},
+		[8]=
+		{
+			id = 8,
+			signup_spend_id = 8,
+			asset_type = "prop_3d_500flq",
+			value = 1,
+			condi_type = 1,
+		},
+		[9]=
+		{
+			id = 9,
+			signup_spend_id = 9,
+			asset_type = "jing_bi",
+			value = 50000,
+			condi_type = 1,
+		},
+		[10]=
+		{
+			id = 10,
+			signup_spend_id = 10,
+			asset_type = "obj_3d_1000flq",
+			value = 1,
+			condi_type = 1,
+		},
+		[11]=
+		{
+			id = 11,
+			signup_spend_id = 11,
+			asset_type = "prop_3d_1000flq",
+			value = 1,
+			condi_type = 1,
+		},
+		[12]=
+		{
+			id = 12,
+			signup_spend_id = 12,
 			asset_type = "jing_bi",
 			value = 100000,
 			condi_type = 1,

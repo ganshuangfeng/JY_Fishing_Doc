@@ -1202,8 +1202,7 @@ return {
 		{
 			id = 19,
 			award_id = 1010,
-			asset_type = "jing_bi",
-			asset_count = 5000,
+			asset_type = "obj_3d_50flq_86400",
 			get_weight = 1,
 		},
 		[20]=

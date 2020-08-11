@@ -8366,28 +8366,28 @@ return {
 		[1]=
 		{
 			id = 1,
-			condition_group = {{max_jing_bi=10000,prop_hammer=0,hammer_ground=3,play_times=1}},
+			condition_group = {{max_jing_bi=100000,prop_hammer=0,hammer_ground=3,play_times=1}},
 			limit = 1,
 			duration = 3600,
 		},
 		[2]=
 		{
 			id = 2,
-			condition_group = {{max_jing_bi=100000,prop_hammer=0,hammer_ground=4,play_times=1}},
+			condition_group = {{max_jing_bi=1000000,prop_hammer=0,hammer_ground=4,play_times=1}},
 			limit = 1,
 			duration = 3600,
 		},
 		[3]=
 		{
 			id = 3,
-			condition_group = {{max_jing_bi=10000,max_fish_coin=10000,fish_ground=2,play_times=1}},
+			condition_group = {{max_jing_bi=100000,max_fish_coin=100000,fish_ground=2,play_times=1}},
 			limit = 1,
 			duration = 7200,
 		},
 		[4]=
 		{
 			id = 4,
-			condition_group = {{max_jing_bi=100000,max_fish_coin=100000,fish_ground=3,play_times=1}},
+			condition_group = {{max_jing_bi=1000000,max_fish_coin=1000000,fish_ground=3,play_times=1}},
 			limit = 1,
 			duration = 7200,
 		},
@@ -8464,7 +8464,7 @@ return {
 		[15]=
 		{
 			id = 15,
-			condition_group = {{max_jing_bi=1000,max_fish_coin=1000,fish_ground=1,play_times=1}},
+			condition_group = {{max_jing_bi=10000,max_fish_coin=10000,fish_ground=1,play_times=1}},
 			limit = 1,
 			duration = 7200,
 		},
