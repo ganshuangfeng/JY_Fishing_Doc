@@ -517,7 +517,7 @@ return {
 			id = 21,
 			process_id = 12521,
 			source_id = 21,
-			process = 10,
+			process = 100,
 			awards = 1010,
 			get_award_type = "nor",
 		},
