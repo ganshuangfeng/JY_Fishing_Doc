@@ -18,7 +18,7 @@ return {
 			tag = "hot",
 			beginTime = 1597102200,
 			endTime = 1597679999,
-			condi_key = "summer_gift",
+			condi_key = "Sign_in_popup_old",
 		},
 		[2]=
 		{
@@ -37,7 +37,7 @@ return {
 			tag = "hot",
 			beginTime = 1597102200,
 			endTime = 1597679999,
-			condi_key = "summer_gift",
+			condi_key = "Sign_in_popup_old",
 		},
 		[3]=
 		{

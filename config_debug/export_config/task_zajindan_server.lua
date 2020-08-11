@@ -16879,7 +16879,7 @@ return {
 		{
 			id = 423,
 			condition_id = 277,
-			condition_name = "task_own_type",
+			condition_name = "task_id",
 			condition_value = {21315,21316,21317,21318},
 			judge_type = 2,
 		},

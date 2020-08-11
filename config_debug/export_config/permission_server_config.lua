@@ -1660,12 +1660,6 @@ return {
 			name = "VIP4直通礼包（只有VIP2显示）",
 			condi = 244,
 		},
-		summer_gift=
-		{
-			key = "summer_gift",
-			name = "夏日送好礼（非新玩家）",
-			condi = 245,
-		},
 	},
 	act_permission=
 	{
@@ -4770,7 +4764,7 @@ return {
 			id = 259,
 			enable = 1,
 			key = "actp_own_task_p_summer_lgfl1",
-			name = "盛夏送好礼-盛夏礼包（V1-V3）",
+			name = "盛夏送好礼-盛夏礼包（免费，小额，V1-V3）",
 			condi = 246,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -11019,6 +11013,26 @@ return {
 		[621]=
 		{
 			no = 621,
+			id = 246,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给免费用户标签",
+		},
+		[622]=
+		{
+			no = 622,
+			id = 246,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "只展示给小额标签用户",
+		},
+		[623]=
+		{
+			no = 623,
 			id = 247,
 			var = "vip_level",
 			value = 4,
@@ -11026,9 +11040,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户可进行游戏",
 		},
-		[622]=
+		[624]=
 		{
-			no = 622,
+			no = 624,
 			id = 247,
 			var = "vip_level",
 			value = 10,
@@ -11036,9 +11050,9 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[623]=
+		[625]=
 		{
-			no = 623,
+			no = 625,
 			id = 247,
 			var = "tag_type",
 			value = "tag_class_new_player",

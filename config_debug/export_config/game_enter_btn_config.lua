@@ -37,7 +37,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;11#",
+			group_list = "16;31#",
 		},
 		[3]=
 		{
@@ -63,7 +63,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;11#",
+			group_list = "16;31#",
 		},
 		[3]=
 		{
@@ -83,7 +83,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "16;31;11#26#",
+			group_list = "16;31#26#",
 		},
 	},
 	fishing_hall=
@@ -118,7 +118,7 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "36#58#30#",
+			group_list = "36#11#58#30#",
 		},
 		[3]=
 		{
@@ -266,12 +266,6 @@ return {
 		[5]=
 		{
 			id = 5,
-			area = "top2",
-			group_list = "64#",
-		},
-		[6]=
-		{
-			id = 6,
 			area = "Right_down",
 			group_list = "86#",
 		},
@@ -334,29 +328,6 @@ return {
 		{
 			id = 1,
 			area = "top",
-		},
-	},
-	Sheet3=
-	{
-		[1]=
-		{
-			id = 1,
-			area = "left_down",
-		},
-		[2]=
-		{
-			id = 2,
-			area = "left_top",
-		},
-		[3]=
-		{
-			id = 3,
-			area = "left_enter",
-		},
-		[4]=
-		{
-			id = 4,
-			area = "center",
 		},
 	},
 	all_enter=
