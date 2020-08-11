@@ -158,7 +158,7 @@ return {
 			award_id = 1,
 			permission_key = "lxdh_025_notnew",
 			asset_type = {"prop_web_chip_huafei",},
-			asset_count = "1000，",
+			asset_count = {1000,},
 			use_num = 1200,
 			me_limit_day_num = 1,
 		},

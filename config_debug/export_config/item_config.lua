@@ -1725,7 +1725,7 @@ return {
 		{
 			id = 131,
 			item_id = 131,
-			item_key = "prop_jrth_1",
+			item_key = "prop_cjlb_1",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "com_award_icon_dhq",
@@ -1738,7 +1738,7 @@ return {
 		{
 			id = 132,
 			item_id = 132,
-			item_key = "prop_jrth_2",
+			item_key = "prop_cjlb_2",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "com_award_icon_dhq",
@@ -1751,7 +1751,7 @@ return {
 		{
 			id = 133,
 			item_id = 133,
-			item_key = "prop_jrth_3",
+			item_key = "prop_cjlb_3",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "com_award_icon_dhq",
@@ -1764,7 +1764,7 @@ return {
 		{
 			id = 134,
 			item_id = 134,
-			item_key = "prop_jrth_4",
+			item_key = "prop_cjlb_4",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "com_award_icon_dhq",
@@ -1777,7 +1777,7 @@ return {
 		{
 			id = 135,
 			item_id = 135,
-			item_key = "prop_jrth_5",
+			item_key = "prop_cjlb_5",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "com_award_icon_dhq",
@@ -1790,7 +1790,7 @@ return {
 		{
 			id = 136,
 			item_id = 136,
-			item_key = "prop_jrth_6",
+			item_key = "prop_cjlb_6",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "com_award_icon_dhq",
@@ -1803,7 +1803,7 @@ return {
 		{
 			id = 137,
 			item_id = 137,
-			item_key = "prop_jrth_7",
+			item_key = "prop_cjlb_7",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "com_award_icon_dhq",
@@ -1816,7 +1816,7 @@ return {
 		{
 			id = 138,
 			item_id = 138,
-			item_key = "prop_jrth_8",
+			item_key = "prop_cjlb_8",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "com_award_icon_dhq",
@@ -1829,7 +1829,7 @@ return {
 		{
 			id = 139,
 			item_id = 139,
-			item_key = "prop_jrth_9",
+			item_key = "prop_cjlb_9",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "com_award_icon_dhq",

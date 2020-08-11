@@ -24,7 +24,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			task = 21359,
+			task = 1000001,
 			total = 10,
 			task_name = "3D捕鱼中任意场次，获得10张小龙虾券",
 			level = 1,
@@ -35,7 +35,7 @@ return {
 		[2]=
 		{
 			id = 2,
-			task = 21359,
+			task = 1000001,
 			total = 20,
 			task_name = "3D捕鱼中任意场次，获得20张小龙虾券",
 			level = 2,
@@ -46,7 +46,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			task = 21359,
+			task = 1000001,
 			total = 30,
 			task_name = "3D捕鱼中任意场次，获得30张小龙虾券",
 			level = 3,
@@ -57,7 +57,7 @@ return {
 		[4]=
 		{
 			id = 4,
-			task = 21360,
+			task = 1000002,
 			total = 1,
 			task_name = "3D捕鱼中任意场次，击杀1只龙虾BOSS",
 			level = 1,
@@ -68,7 +68,7 @@ return {
 		[5]=
 		{
 			id = 5,
-			task = 21360,
+			task = 1000002,
 			total = 2,
 			task_name = "3D捕鱼中任意场次，击杀2只龙虾BOSS",
 			level = 2,
@@ -79,7 +79,7 @@ return {
 		[6]=
 		{
 			id = 6,
-			task = 21360,
+			task = 1000002,
 			total = 3,
 			task_name = "3D捕鱼中任意场次，击杀3只龙虾BOSS",
 			level = 3,
@@ -90,7 +90,7 @@ return {
 		[7]=
 		{
 			id = 7,
-			task = 21361,
+			task = 1000003,
 			total = 1,
 			task_name = "水果消消乐使用24万及以上档次出现1次幸运时刻",
 			level = 1,

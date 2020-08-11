@@ -562,63 +562,63 @@ return {
 		{
 			id = 23,
 			use_id = 23,
-			use_item = "prop_jrth_1",
+			use_item = "prop_cjlb_1",
 			use_num = 1,
 		},
 		[24]=
 		{
 			id = 24,
 			use_id = 24,
-			use_item = "prop_jrth_2",
+			use_item = "prop_cjlb_2",
 			use_num = 1,
 		},
 		[25]=
 		{
 			id = 25,
 			use_id = 25,
-			use_item = "prop_jrth_3",
+			use_item = "prop_cjlb_3",
 			use_num = 1,
 		},
 		[26]=
 		{
 			id = 26,
 			use_id = 26,
-			use_item = "prop_jrth_4",
+			use_item = "prop_cjlb_4",
 			use_num = 1,
 		},
 		[27]=
 		{
 			id = 27,
 			use_id = 27,
-			use_item = "prop_jrth_5",
+			use_item = "prop_cjlb_5",
 			use_num = 1,
 		},
 		[28]=
 		{
 			id = 28,
 			use_id = 28,
-			use_item = "prop_jrth_6",
+			use_item = "prop_cjlb_6",
 			use_num = 1,
 		},
 		[29]=
 		{
 			id = 29,
 			use_id = 29,
-			use_item = "prop_jrth_7",
+			use_item = "prop_cjlb_7",
 			use_num = 1,
 		},
 		[30]=
 		{
 			id = 30,
 			use_id = 30,
-			use_item = "prop_jrth_8",
+			use_item = "prop_cjlb_8",
 			use_num = 1,
 		},
 		[31]=
 		{
 			id = 31,
 			use_id = 31,
-			use_item = "prop_jrth_9",
+			use_item = "prop_cjlb_9",
 			use_num = 1,
 		},
 	},
