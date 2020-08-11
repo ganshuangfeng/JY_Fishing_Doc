@@ -1666,6 +1666,12 @@ return {
 			name = "vivo渠道的用户屏蔽绑定手机和实名认证",
 			condi = 248,
 		},
+		lxdh_025_notnew=
+		{
+			key = "lxdh_025_notnew",
+			name = "龙虾兑换（非新人显示）",
+			condi = 256,
+		},
 	},
 	act_permission=
 	{
@@ -11302,6 +11308,16 @@ return {
 		{
 			no = 642,
 			id = 255,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[643]=
+		{
+			no = 643,
+			id = 256,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,
