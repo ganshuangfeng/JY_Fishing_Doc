@@ -105,7 +105,7 @@ return {
 			title = "龙虾兑换",
 			noCloseUI = 0,
 			order = 2,
-			key = " act_025_lxdh",
+			key = "act_025_lxdh",
 			type = "activity",
 			isOnOff = 1,
 			showType = "prefab",
