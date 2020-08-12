@@ -111,7 +111,7 @@ return {
 			showType = "prefab",
 			parmData = "activity_task",
 			is_local_icon = 1,
-			gotoUI = {" act_025_lxdh","panel"},
+			gotoUI = {"act_025_lxdh","panel"},
 			tag = "normal",
 			beginTime = 1597707000,
 			endTime = 1598284799,
