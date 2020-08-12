@@ -2640,7 +2640,7 @@ return {
 		{
 			id = 44,
 			acti_type = 9,
-			num = {0,200,},
+			num = {0,0.2,},
 			show = 0,
 			enter_bag = 0,
 			value = 200,
@@ -2649,7 +2649,7 @@ return {
 		{
 			id = 45,
 			acti_type = 9,
-			num = {0,60,},
+			num = {0,0.06,},
 			show = 1,
 			enter_bag = 0,
 			value = 60,
@@ -2658,7 +2658,7 @@ return {
 		{
 			id = 46,
 			acti_type = 9,
-			num = {0,40,},
+			num = {0,0.04,},
 			show = 1,
 			enter_bag = 0,
 			value = 40,
@@ -2667,7 +2667,7 @@ return {
 		{
 			id = 47,
 			acti_type = 9,
-			num = {0,25,},
+			num = {0,0.02,},
 			show = 1,
 			enter_bag = 0,
 			value = 25,
@@ -2676,7 +2676,7 @@ return {
 		{
 			id = 48,
 			acti_type = 9,
-			num = {0,15,},
+			num = {0,0.01,},
 			show = 1,
 			enter_bag = 0,
 			value = 15,
