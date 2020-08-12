@@ -437,21 +437,25 @@ return {
 		{
 			id = 80,
 			fish_id = 18,
+			attr_id = 9,
 		},
 		[81]=
 		{
 			id = 81,
 			fish_id = 17,
+			attr_id = 9,
 		},
 		[82]=
 		{
 			id = 82,
 			fish_id = 14,
+			attr_id = 9,
 		},
 		[83]=
 		{
 			id = 83,
 			fish_id = 11,
+			attr_id = 9,
 		},
 	},
 }
