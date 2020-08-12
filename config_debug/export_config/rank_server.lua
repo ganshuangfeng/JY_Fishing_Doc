@@ -333,14 +333,14 @@ return {
 		{
 			id = 23,
 			source_id = 13,
-			source_type = "buyu_get_use_item",
+			source_type = "buyu_3d_get_use_item",
 			condtion_id = 15,
 		},
 		[24]=
 		{
 			id = 24,
 			source_id = 14,
-			source_type = "buyu_target_yu_award",
+			source_type = "buyu_3d_target_yu_award",
 			condtion_id = 16,
 		},
 	},
