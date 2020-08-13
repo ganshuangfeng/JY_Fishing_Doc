@@ -5741,9 +5741,9 @@ return {
 			end_valid_time = 1597679999,
 			time_limit = -1,
 		},
-		[21359]=
+		[1000001]=
 		{
-			id = 21359,
+			id = 1000001,
 			enable = 1,
 			name = "捕虾福利",
 			own_type = "p_0818_bxfl",
@@ -5755,9 +5755,9 @@ return {
 			end_valid_time = 1598284799,
 			time_limit = -1,
 		},
-		[21360]=
+		[1000002]=
 		{
-			id = 21360,
+			id = 1000002,
 			enable = 1,
 			name = "捕虾福利",
 			own_type = "p_0818_bxfl",
@@ -5769,9 +5769,9 @@ return {
 			end_valid_time = 1598284799,
 			time_limit = -1,
 		},
-		[21361]=
+		[1000003]=
 		{
-			id = 21361,
+			id = 1000003,
 			enable = 1,
 			name = "捕虾福利",
 			own_type = "p_0818_bxfl",

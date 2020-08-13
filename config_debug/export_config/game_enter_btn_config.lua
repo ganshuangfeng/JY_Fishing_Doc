@@ -261,7 +261,7 @@ return {
 		{
 			id = 4,
 			area = "down2",
-			group_list = "74#87#11#",
+			group_list = "8#87#36#11#",
 		},
 		[5]=
 		{
