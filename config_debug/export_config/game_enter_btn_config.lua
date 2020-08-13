@@ -77,13 +77,22 @@ return {
 			area = "center",
 		},
 	},
+	zpg_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left_top",
+			group_list = "11#",
+		},
+	},
 	fishing_game=
 	{
 		[1]=
 		{
 			id = 1,
 			area = "down",
-			group_list = "16;31#26#",
+			group_list = "11;16;31#26#",
 		},
 	},
 	fishing_hall=
@@ -326,6 +335,7 @@ return {
 		{
 			id = 1,
 			area = "top",
+			group_list = "11#",
 		},
 	},
 	crazy_fish_game=
@@ -334,6 +344,7 @@ return {
 		{
 			id = 1,
 			area = "top",
+			group_list = "11#",
 		},
 	},
 	all_enter=
