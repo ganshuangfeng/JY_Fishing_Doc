@@ -37,7 +37,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31#",
+			group_list = "11;16;31#",
 		},
 		[3]=
 		{
@@ -63,7 +63,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31#",
+			group_list = "11;16;31#",
 		},
 		[3]=
 		{
@@ -225,7 +225,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "16;31;#",
+			group_list = "11;16;31;#",
 		},
 	},
 	fishing_match_bm=
