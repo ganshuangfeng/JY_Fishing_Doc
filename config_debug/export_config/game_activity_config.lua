@@ -210,5 +210,23 @@ return {
 			gotoUI = {"sys_011_yueka_new","panel1"},
 			tag = "hot",
 		},
+		[13]=
+		{
+			id = 13,
+			ID = 13,
+			title = "龙虾兑换",
+			order = -11,
+			key = "act_025_lxdh",
+			isOnOff = 1,
+			condi_key = "lxdh_025_new",
+			beginTime = 1597707000,
+			endTime = 1598284799,
+			noCloseUI = 1,
+			type = "activity",
+			showType = "prefab",
+			parmData = "act_025_lxdh",
+			is_local_icon = 1,
+			gotoUI = {"act_025_lxdh","panel"},
+		},
 	},
 }
