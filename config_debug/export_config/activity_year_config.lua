@@ -129,6 +129,7 @@ return {
 			isOnOff = 1,
 			showType = "prefab",
 			parmData = "activity_task",
+			activity_config = "activity_025_bxfl_config",
 			is_local_icon = 1,
 			gotoUI = {"GameComAct1","activity_025_bxfl_config"},
 			tag = "hot",
