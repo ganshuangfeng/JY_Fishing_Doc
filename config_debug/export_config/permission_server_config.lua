@@ -1672,6 +1672,12 @@ return {
 			name = "龙虾兑换（非新人显示）",
 			condi = 256,
 		},
+		lxdh_025_new=
+		{
+			key = "lxdh_025_new",
+			name = "龙虾兑换（新人显示）",
+			condi = 257,
+		},
 	},
 	act_permission=
 	{
@@ -11323,6 +11329,16 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是新用户",
+		},
+		[644]=
+		{
+			no = 644,
+			id = 257,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
 		},
 	},
 	share_condition=
