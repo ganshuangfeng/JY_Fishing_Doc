@@ -448,13 +448,13 @@ return {
 		[82]=
 		{
 			id = 82,
-			fish_id = 14,
+			fish_id = 15,
 			attr_id = 9,
 		},
 		[83]=
 		{
 			id = 83,
-			fish_id = 11,
+			fish_id = 13,
 			attr_id = 9,
 		},
 	},
