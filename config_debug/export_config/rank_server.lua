@@ -2234,114 +2234,142 @@ return {
 		[72]=
 		{
 			id = 72,
+			award_id = 71,
+			award_name = "麻辣小龙虾5斤",
+			get_weight = 1,
+		},
+		[73]=
+		{
+			id = 73,
 			award_id = 72,
 			award_name = "10000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 10000,
 			get_weight = 1,
 		},
-		[73]=
+		[74]=
 		{
-			id = 73,
+			id = 74,
+			award_id = 72,
+			award_name = "雪花啤酒一箱",
+			get_weight = 1,
+		},
+		[75]=
+		{
+			id = 75,
 			award_id = 73,
 			award_name = "5000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 5000,
 			get_weight = 1,
 		},
-		[74]=
+		[76]=
 		{
-			id = 74,
+			id = 76,
 			award_id = 74,
 			award_name = "3000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 3000,
 			get_weight = 1,
 		},
-		[75]=
+		[77]=
 		{
-			id = 75,
+			id = 77,
 			award_id = 75,
 			award_name = "2000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 2000,
 			get_weight = 1,
 		},
-		[76]=
+		[78]=
 		{
-			id = 76,
+			id = 78,
 			award_id = 76,
 			award_name = "1000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 1000,
 			get_weight = 1,
 		},
-		[77]=
+		[79]=
 		{
-			id = 77,
+			id = 79,
 			award_id = 77,
 			award_name = "500福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 500,
 			get_weight = 1,
 		},
-		[78]=
+		[80]=
 		{
-			id = 78,
+			id = 80,
 			award_id = 78,
 			award_name = "20000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 20000,
 			get_weight = 1,
 		},
-		[79]=
+		[81]=
 		{
-			id = 79,
+			id = 81,
+			award_id = 78,
+			award_name = "麻辣小龙虾5斤",
+			get_weight = 1,
+		},
+		[82]=
+		{
+			id = 82,
 			award_id = 79,
 			award_name = "10000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 10000,
 			get_weight = 1,
 		},
-		[80]=
+		[83]=
 		{
-			id = 80,
+			id = 83,
+			award_id = 79,
+			award_name = "雪花啤酒一箱",
+			get_weight = 1,
+		},
+		[84]=
+		{
+			id = 84,
 			award_id = 80,
 			award_name = "5000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 5000,
 			get_weight = 1,
 		},
-		[81]=
+		[85]=
 		{
-			id = 81,
+			id = 85,
 			award_id = 81,
 			award_name = "3000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 3000,
 			get_weight = 1,
 		},
-		[82]=
+		[86]=
 		{
-			id = 82,
+			id = 86,
 			award_id = 82,
 			award_name = "2000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 2000,
 			get_weight = 1,
 		},
-		[83]=
+		[87]=
 		{
-			id = 83,
+			id = 87,
 			award_id = 83,
 			award_name = "1000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 1000,
 			get_weight = 1,
 		},
-		[84]=
+		[88]=
 		{
-			id = 84,
+			id = 88,
 			award_id = 84,
 			award_name = "500福利券",
 			asset_type = "shop_gold_sum",
