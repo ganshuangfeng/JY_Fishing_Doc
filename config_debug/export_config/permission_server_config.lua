@@ -4927,6 +4927,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1598311800,
 		},
+		[271]=
+		{
+			id = 271,
+			enable = 1,
+			key = "actp_own_task_p_026_sgxxl_yd",
+			name = "水果消消乐（新玩家）",
+			condi = 261,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598311800,
+		},
 	},
 	condi=
 	{
@@ -11409,6 +11421,16 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是新用户",
+		},
+		[649]=
+		{
+			no = 649,
+			id = 261,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
 		},
 	},
 	share_condition=
