@@ -808,5 +808,17 @@ return {
 			srartTime = -1,
 			endTime = -1,
 		},
+		[72]=
+		{
+			id = 72,
+			bannerID = 72,
+			isOnOff = 1,
+			order = 100,
+			condi_key = "Sign_in_popup_old",
+			gotoUI = {"sys_act_base","panel"},
+			model = "LoginUp",
+			srartTime = 1597707000,
+			endTime = 1598284799,
+		},
 	},
 }

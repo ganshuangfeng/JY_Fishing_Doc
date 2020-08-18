@@ -51,6 +51,30 @@ return {
 			area = "center",
 		},
 	},
+	xxlcs_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left_down",
+		},
+		[2]=
+		{
+			id = 2,
+			area = "left_top",
+			group_list = "59;16;31;11;79#",
+		},
+		[3]=
+		{
+			id = 3,
+			area = "left_enter",
+		},
+		[4]=
+		{
+			id = 4,
+			area = "center",
+		},
+	},
 	xxl_game=
 	{
 		[1]=
