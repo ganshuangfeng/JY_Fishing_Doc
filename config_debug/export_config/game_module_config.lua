@@ -2589,5 +2589,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[265]=
+		{
+			id = 265,
+			key = "act_026_zabd",
+			desc = "真爱榜单",
+			lua = "Act_026_ZABDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
