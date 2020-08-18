@@ -1715,11 +1715,11 @@ return {
 			item_key = "prop_fish_drop_act_0",
 			lose_time = -1,
 			is_local_icon = 1,
-			image = "lxdh_icon_4",
+			image = "bblb_icon_xin",
 			is_show_bag = 0,
 			order = 1,
-			name = "小龙虾券",
-			desc = "捕获龙虾活动鱼获得",
+			name = "爱心",
+			desc = "浪漫七夕活动道具",
 		},
 		[131]=
 		{
@@ -1876,19 +1876,6 @@ return {
 			order = 33,
 			name = "黄金抽奖券",
 			desc = "用于新人抽大奖中的黄金抽奖",
-		},
-		[143]=
-		{
-			id = 143,
-			item_id = 143,
-			item_key = "prop_love_heart",
-			lose_time = -1,
-			is_local_icon = 1,
-			image = "bblb_icon_xin",
-			is_show_bag = 0,
-			order = 33,
-			name = "爱心",
-			desc = "浪漫七夕活动道具",
 		},
 	},
 }
