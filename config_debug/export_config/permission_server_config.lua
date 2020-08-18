@@ -1678,6 +1678,12 @@ return {
 			name = "龙虾兑换（新人显示）",
 			condi = 257,
 		},
+		cpl_xrcdj=
+		{
+			key = "cpl_xrcdj",
+			name = "新人抽大奖（CPL新用户）",
+			condi = 258,
+		},
 	},
 	act_permission=
 	{
@@ -11339,6 +11345,26 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是新用户",
+		},
+		[645]=
+		{
+			no = 645,
+			id = 258,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[646]=
+		{
+			no = 646,
+			id = 258,
+			var = "share_condition",
+			value = "wqp_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
 	},
 	share_condition=
