@@ -11454,7 +11454,7 @@ return {
 			id = 5,
 			name = "3dby_cpl",
 			var = "market_channel",
-			value = {"pceggs","xianwan"},
+			value = {"pceggs","xianwan","pdd","duoliang"},
 			judge = 2,
 			group = 1,
 		},
