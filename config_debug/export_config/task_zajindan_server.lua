@@ -14695,62 +14695,69 @@ return {
 		[605]=
 		{
 			id = 605,
-			source_id = 430,
-			source_type = "buy_gift",
-			condition_id = 295,
+			source_id = 429,
+			source_type = "guess_apple_award",
+			condition_id = 0,
 		},
 		[606]=
 		{
 			id = 606,
-			source_id = 431,
+			source_id = 430,
 			source_type = "buy_gift",
-			condition_id = 296,
+			condition_id = 295,
 		},
 		[607]=
 		{
 			id = 607,
-			source_id = 432,
+			source_id = 431,
 			source_type = "buy_gift",
-			condition_id = 297,
+			condition_id = 296,
 		},
 		[608]=
 		{
 			id = 608,
-			source_id = 433,
+			source_id = 432,
 			source_type = "buy_gift",
-			condition_id = 298,
+			condition_id = 297,
 		},
 		[609]=
 		{
 			id = 609,
-			source_id = 434,
+			source_id = 433,
 			source_type = "buy_gift",
-			condition_id = 299,
+			condition_id = 298,
 		},
 		[610]=
 		{
 			id = 610,
-			source_id = 435,
+			source_id = 434,
 			source_type = "buy_gift",
-			condition_id = 300,
+			condition_id = 299,
 		},
 		[611]=
 		{
 			id = 611,
-			source_id = 436,
+			source_id = 435,
 			source_type = "buy_gift",
-			condition_id = 301,
+			condition_id = 300,
 		},
 		[612]=
 		{
 			id = 612,
-			source_id = 437,
+			source_id = 436,
 			source_type = "buy_gift",
-			condition_id = 302,
+			condition_id = 301,
 		},
 		[613]=
 		{
 			id = 613,
+			source_id = 437,
+			source_type = "buy_gift",
+			condition_id = 302,
+		},
+		[614]=
+		{
+			id = 614,
 			source_id = 438,
 			source_type = "buy_gift",
 			condition_id = 303,
