@@ -4927,6 +4927,30 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1598311800,
 		},
+		[271]=
+		{
+			id = 271,
+			enable = 1,
+			key = "actp_own_task_p_026_sgxxl_yd",
+			name = "水果消消乐（新玩家）",
+			condi = 261,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598311800,
+		},
+		[272]=
+		{
+			id = 272,
+			enable = 1,
+			key = "actp_rank_true_love_026_rank",
+			name = "浪漫七夕-真爱榜单（非新玩家）",
+			condi = 262,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598311800,
+		},
 	},
 	condi=
 	{
@@ -11410,6 +11434,26 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
+		[649]=
+		{
+			no = 649,
+			id = 261,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[650]=
+		{
+			no = 650,
+			id = 262,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
 	},
 	share_condition=
 	{
@@ -11454,7 +11498,7 @@ return {
 			id = 5,
 			name = "3dby_cpl",
 			var = "market_channel",
-			value = {"pceggs","xianwan"},
+			value = {"pceggs","xianwan","pdd","duoliang"},
 			judge = 2,
 			group = 1,
 		},
