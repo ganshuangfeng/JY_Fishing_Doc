@@ -4903,6 +4903,30 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1597707000,
 		},
+		[269]=
+		{
+			id = 269,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_lmqx_026_bblb",
+			name = "浪漫七夕-表白礼包（非新玩家）",
+			condi = 259,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598311800,
+		},
+		[270]=
+		{
+			id = 270,
+			enable = 1,
+			key = "actp_own_task_p_026_dove_gift",
+			name = "浪漫七夕-表白礼包购买1314和520礼包领取德芙巧克力（非新玩家）",
+			condi = 260,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598311800,
+		},
 	},
 	condi=
 	{
@@ -11365,6 +11389,26 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
+		},
+		[647]=
+		{
+			no = 647,
+			id = 259,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[648]=
+		{
+			no = 648,
+			id = 260,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
 		},
 	},
 	share_condition=

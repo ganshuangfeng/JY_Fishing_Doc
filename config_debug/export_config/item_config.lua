@@ -1877,5 +1877,18 @@ return {
 			name = "黄金抽奖券",
 			desc = "用于新人抽大奖中的黄金抽奖",
 		},
+		[143]=
+		{
+			id = 143,
+			item_id = 143,
+			item_key = "prop_love_heart",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "bblb_icon_xin",
+			is_show_bag = 0,
+			order = 33,
+			name = "爱心",
+			desc = "浪漫七夕活动道具",
+		},
 	},
 }

@@ -5979,6 +5979,20 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
+		[1000018]=
+		{
+			id = 1000018,
+			enable = 1,
+			name = "表白礼包",
+			own_type = "p_026_dove_gift",
+			task_enum = "common",
+			process_id = 21376,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1598311800,
+			end_valid_time = 1598889599,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -10057,9 +10071,17 @@ return {
 		{
 			id = 427,
 			process_id = 21375,
-			source_id = 423,
 			process = 3,
 			awards = 630,
+			get_award_type = "nor",
+		},
+		[428]=
+		{
+			id = 428,
+			process_id = 21376,
+			source_id = 423,
+			process = 2,
+			awards = 631,
 			get_award_type = "nor",
 		},
 	},
@@ -14239,6 +14261,13 @@ return {
 			source_type = "box_exchange",
 			condition_id = 288,
 		},
+		[592]=
+		{
+			id = 592,
+			source_id = 423,
+			source_type = "buy_gift",
+			condition_id = 289,
+		},
 	},
 	condition=
 	{
@@ -17480,6 +17509,14 @@ return {
 			condition_id = 288,
 			condition_name = "box_exchange_type",
 			condition_value = "box_exchange_39",
+			judge_type = 2,
+		},
+		[436]=
+		{
+			id = 436,
+			condition_id = 289,
+			condition_name = "gift_id",
+			condition_value = {10281,10282},
 			judge_type = 2,
 		},
 	},
@@ -24593,6 +24630,14 @@ return {
 			asset_type = "prop_web_chip_huafei",
 			asset_count = 1000,
 			get_weight = 1,
+		},
+		[889]=
+		{
+			id = 889,
+			award_id = 631,
+			award_name = "德芙巧克力",
+			get_weight = 1,
+			is_send_email = 1,
 		},
 	},
 }
