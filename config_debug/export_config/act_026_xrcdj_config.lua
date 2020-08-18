@@ -108,7 +108,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			id = 1,
+			id = -1,
 			icon = "ty_icon_jb_2498y",
 			scale = 1,
 			desc = "50万金币",
@@ -117,7 +117,7 @@ return {
 		[2]=
 		{
 			line = 2,
-			id = 2,
+			id = -1,
 			icon = "ty_icon_jb_18y",
 			scale = 1,
 			desc = "2000金币",
@@ -126,7 +126,7 @@ return {
 		[3]=
 		{
 			line = 3,
-			id = 3,
+			id = 11701,
 			icon = "ty_icon_jb_18y",
 			scale = 1,
 			desc = "3000金币",
@@ -135,7 +135,7 @@ return {
 		[4]=
 		{
 			line = 4,
-			id = 4,
+			id = 11702,
 			icon = "ty_icon_jb_30y",
 			scale = 1,
 			desc = "4000金币",
@@ -144,7 +144,7 @@ return {
 		[5]=
 		{
 			line = 5,
-			id = 5,
+			id = -1,
 			icon = "com_award_icon_hfsp",
 			scale = 1,
 			desc = "10元话费",
@@ -153,7 +153,7 @@ return {
 		[6]=
 		{
 			line = 6,
-			id = 6,
+			id = 11703,
 			icon = "ty_icon_jb_30y",
 			scale = 1,
 			desc = "5000金币",
@@ -162,7 +162,7 @@ return {
 		[7]=
 		{
 			line = 7,
-			id = 7,
+			id = 11704,
 			icon = "ty_icon_jb_50y",
 			scale = 1,
 			desc = "6000金币",
@@ -171,7 +171,7 @@ return {
 		[8]=
 		{
 			line = 8,
-			id = 8,
+			id = -1,
 			icon = "ty_icon_flq4",
 			scale = 1,
 			desc = "2000福利券",
@@ -180,7 +180,7 @@ return {
 		[9]=
 		{
 			line = 9,
-			id = 9,
+			id = 11705,
 			icon = "ty_icon_jb_50y",
 			scale = 1,
 			desc = "7000金币",
@@ -189,7 +189,7 @@ return {
 		[10]=
 		{
 			line = 10,
-			id = 10,
+			id = 11706,
 			icon = "ty_icon_jb_98y",
 			scale = 1,
 			desc = "8000金币",
@@ -198,7 +198,7 @@ return {
 		[11]=
 		{
 			line = 11,
-			id = 11,
+			id = 11707,
 			icon = "ty_icon_jb_98y",
 			scale = 1,
 			desc = "9000金币",
@@ -207,7 +207,7 @@ return {
 		[12]=
 		{
 			line = 12,
-			id = 12,
+			id = -1,
 			icon = "ty_icon_flq5",
 			scale = 1,
 			desc = "5000福利券",
@@ -216,7 +216,7 @@ return {
 		[13]=
 		{
 			line = 13,
-			id = 13,
+			id = 11708,
 			icon = "ty_icon_jb_198y",
 			scale = 1,
 			desc = "10000金币",
@@ -225,7 +225,7 @@ return {
 		[14]=
 		{
 			line = 14,
-			id = 14,
+			id = 11709,
 			icon = "ty_icon_jb_198y",
 			scale = 1,
 			desc = "11000金币",
@@ -237,7 +237,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			id = 1,
+			id = -1,
 			icon = "ty_icon_jb_2498y",
 			scale = 1,
 			desc = "100万金币",
@@ -246,7 +246,7 @@ return {
 		[2]=
 		{
 			line = 2,
-			id = 2,
+			id = -1,
 			icon = "com_award_icon_hfsp",
 			scale = 1,
 			desc = "8元话费",
@@ -255,7 +255,7 @@ return {
 		[3]=
 		{
 			line = 3,
-			id = 3,
+			id = 11710,
 			icon = "ty_icon_jb_30y",
 			scale = 1,
 			desc = "4000金币",
@@ -264,7 +264,7 @@ return {
 		[4]=
 		{
 			line = 4,
-			id = 4,
+			id = 11711,
 			icon = "ty_icon_flq1",
 			scale = 1,
 			desc = "6福利券",
@@ -273,7 +273,7 @@ return {
 		[5]=
 		{
 			line = 5,
-			id = 5,
+			id = -1,
 			icon = "ty_icon_flq4",
 			scale = 1,
 			desc = "2000福利券",
@@ -282,7 +282,7 @@ return {
 		[6]=
 		{
 			line = 6,
-			id = 6,
+			id = 11712,
 			icon = "ty_icon_flq1",
 			scale = 1,
 			desc = "8福利券",
@@ -291,7 +291,7 @@ return {
 		[7]=
 		{
 			line = 7,
-			id = 7,
+			id = 11713,
 			icon = "ty_icon_flq2",
 			scale = 1,
 			desc = "10福利券",
@@ -300,7 +300,7 @@ return {
 		[8]=
 		{
 			line = 8,
-			id = 8,
+			id = -1,
 			icon = "ty_icon_flq5",
 			scale = 1,
 			desc = "8000福利券",
@@ -309,7 +309,7 @@ return {
 		[9]=
 		{
 			line = 9,
-			id = 9,
+			id = 11714,
 			icon = "ty_icon_jb_98y",
 			scale = 1,
 			desc = "20000金币",
@@ -318,7 +318,7 @@ return {
 		[10]=
 		{
 			line = 10,
-			id = 10,
+			id = 11715,
 			icon = "ty_icon_flq2",
 			scale = 1,
 			desc = "30福利券",
@@ -327,7 +327,7 @@ return {
 		[11]=
 		{
 			line = 11,
-			id = 11,
+			id = 11716,
 			icon = "ty_icon_jb_198y",
 			scale = 1,
 			desc = "4万金币",
@@ -336,7 +336,7 @@ return {
 		[12]=
 		{
 			line = 12,
-			id = 12,
+			id = -1,
 			icon = "activity_icon_gift123_500jdk",
 			scale = 1,
 			desc = "500元京东卡",
@@ -345,7 +345,7 @@ return {
 		[13]=
 		{
 			line = 13,
-			id = 13,
+			id = 11717,
 			icon = "ty_icon_flq3",
 			scale = 1,
 			desc = "50福利券",
@@ -354,7 +354,7 @@ return {
 		[14]=
 		{
 			line = 14,
-			id = 14,
+			id = 11718,
 			icon = "ty_icon_flq3",
 			scale = 1,
 			desc = "60福利券",
@@ -366,7 +366,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			id = 1,
+			id = -1,
 			icon = "com_award_icon_hfsp",
 			scale = 1,
 			desc = "20元话费",
@@ -375,7 +375,7 @@ return {
 		[2]=
 		{
 			line = 2,
-			id = 2,
+			id = -1,
 			icon = "ty_icon_flq1",
 			scale = 1,
 			desc = "20福利券",
@@ -384,7 +384,7 @@ return {
 		[3]=
 		{
 			line = 3,
-			id = 3,
+			id = 11719,
 			icon = "ty_icon_flq1",
 			scale = 1,
 			desc = "30福利券",
@@ -393,7 +393,7 @@ return {
 		[4]=
 		{
 			line = 4,
-			id = 4,
+			id = 11720,
 			icon = "ty_icon_flq2",
 			scale = 1,
 			desc = "40福利券",
@@ -402,7 +402,7 @@ return {
 		[5]=
 		{
 			line = 5,
-			id = 5,
+			id = -1,
 			icon = "com_award_icon_hfsp",
 			scale = 1,
 			desc = "50元话费",
@@ -411,7 +411,7 @@ return {
 		[6]=
 		{
 			line = 6,
-			id = 6,
+			id = 11721,
 			icon = "ty_icon_flq2",
 			scale = 1,
 			desc = "50福利券",
@@ -420,7 +420,7 @@ return {
 		[7]=
 		{
 			line = 7,
-			id = 7,
+			id = 11722,
 			icon = "ty_icon_flq3",
 			scale = 1,
 			desc = "80福利券",
@@ -429,7 +429,7 @@ return {
 		[8]=
 		{
 			line = 8,
-			id = 8,
+			id = -1,
 			icon = "com_award_icon_hfsp",
 			scale = 1,
 			desc = "100元话费",
@@ -438,7 +438,7 @@ return {
 		[9]=
 		{
 			line = 9,
-			id = 9,
+			id = 11723,
 			icon = "ty_icon_flq3",
 			scale = 1,
 			desc = "100福利券",
@@ -447,7 +447,7 @@ return {
 		[10]=
 		{
 			line = 10,
-			id = 10,
+			id = 11724,
 			icon = "ty_icon_flq3",
 			scale = 1,
 			desc = "120福利券",
@@ -456,7 +456,7 @@ return {
 		[11]=
 		{
 			line = 11,
-			id = 11,
+			id = 11725,
 			icon = "ty_icon_flq4",
 			scale = 1,
 			desc = "150福利券",
@@ -465,7 +465,7 @@ return {
 		[12]=
 		{
 			line = 12,
-			id = 12,
+			id = -1,
 			icon = "ty_icon_flq5",
 			scale = 1,
 			desc = "80000福利券",
@@ -474,7 +474,7 @@ return {
 		[13]=
 		{
 			line = 13,
-			id = 13,
+			id = 11726,
 			icon = "ty_icon_flq4",
 			scale = 1,
 			desc = "160福利券",
@@ -483,7 +483,7 @@ return {
 		[14]=
 		{
 			line = 14,
-			id = 14,
+			id = 11727,
 			icon = "ty_icon_flq4",
 			scale = 1,
 			desc = "170福利券",
