@@ -2579,5 +2579,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[264]=
+		{
+			id = 264,
+			key = "act_026_xrcdj",
+			desc = "新人抽大奖",
+			lua = "Act_026_XRCDJManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
