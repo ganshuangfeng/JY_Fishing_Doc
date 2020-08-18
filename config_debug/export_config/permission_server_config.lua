@@ -11361,10 +11361,10 @@ return {
 			no = 646,
 			id = 258,
 			var = "share_condition",
-			value = "wqp_cpl",
+			value = "3dby_cpl",
 			judge = 2,
 			group = 1,
-			error_desc = "是玩棋牌渠道玩家才可游戏",
+			error_desc = "是cpl玩家才可游戏",
 		},
 	},
 	share_condition=
@@ -11402,6 +11402,15 @@ return {
 			name = "wqp_cpl",
 			var = "market_channel",
 			value = {"wqp_pceggs","wqp_xianwan","wqp_dandanzhuan"},
+			judge = 2,
+			group = 1,
+		},
+		[5]=
+		{
+			id = 5,
+			name = "3dby_cpl",
+			var = "market_channel",
+			value = {"pceggs","xianwan"},
 			judge = 2,
 			group = 1,
 		},
