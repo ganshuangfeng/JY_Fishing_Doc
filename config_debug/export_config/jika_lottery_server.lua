@@ -12,9 +12,9 @@ return {
 		[2]=
 		{
 			award_id = 2,
-			award_name = "召唤*3",
-			award_value = 3,
-			award_type = "prop_3d_fish_summon_fish",
+			award_name = "30万鱼币",
+			award_value = 300000,
+			award_type = "discount_fish_coin",
 			power = 2500,
 		},
 		[3]=

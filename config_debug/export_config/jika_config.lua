@@ -61,8 +61,8 @@ return {
 		{
 			Index = 9,
 			award_id = 2,
-			award_text = "召唤*3",
-			award_image = "3dby_btn_zh",
+			award_text = "30万鱼币",
+			award_image = "com_icon_yb",
 		},
 	},
 	help_info=
