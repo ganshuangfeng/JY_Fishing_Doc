@@ -1877,5 +1877,18 @@ return {
 			name = "黄金抽奖券",
 			desc = "用于新人抽大奖中的黄金抽奖",
 		},
+		[143]=
+		{
+			id = 143,
+			item_id = 143,
+			item_key = "_common_rank_true_love_026_rank",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "bblb_icon_xin",
+			is_show_bag = 0,
+			order = 33,
+			name = "真爱排行榜积分",
+			desc = "真爱排行榜积分道具",
+		},
 	},
 }
