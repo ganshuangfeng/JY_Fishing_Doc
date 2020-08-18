@@ -150,7 +150,7 @@ return {
 			showType = "prefab",
 			parmData = "activity_task",
 			is_local_icon = 1,
-			gotoUI = {“act_026_bblb”,"panel"},
+			gotoUI = {"act_026_bblb","panel"},
 			tag = "hot",
 			beginTime = 1598311800,
 			endTime = 1598889599,
