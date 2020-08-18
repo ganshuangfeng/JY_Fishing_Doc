@@ -1666,6 +1666,24 @@ return {
 			name = "vivo渠道的用户屏蔽绑定手机和实名认证",
 			condi = 248,
 		},
+		lxdh_025_notnew=
+		{
+			key = "lxdh_025_notnew",
+			name = "龙虾兑换（非新人显示）",
+			condi = 256,
+		},
+		lxdh_025_new=
+		{
+			key = "lxdh_025_new",
+			name = "龙虾兑换（新人显示）",
+			condi = 257,
+		},
+		cpl_xrcdj=
+		{
+			key = "cpl_xrcdj",
+			name = "新人抽大奖（CPL新用户）",
+			condi = 258,
+		},
 	},
 	act_permission=
 	{
@@ -4812,6 +4830,78 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 1597075200,
+		},
+		[263]=
+		{
+			id = 263,
+			enable = 1,
+			key = "actp_rank_xiaolongxiaquan_025_rank",
+			name = "龙虾啤酒节-龙虾券排行榜（非新玩家）",
+			condi = 250,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1597707000,
+		},
+		[264]=
+		{
+			id = 264,
+			enable = 1,
+			key = "actp_rank_xiaolongxia_boss_025_rank",
+			name = "龙虾啤酒节-龙虾BOSS击杀排行榜（非新玩家）",
+			condi = 251,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1597707000,
+		},
+		[265]=
+		{
+			id = 265,
+			enable = 1,
+			key = "actp_own_task_p_0818_bxfl",
+			name = "龙虾啤酒节-捕虾福利（非新玩家）",
+			condi = 252,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1597680000,
+		},
+		[266]=
+		{
+			id = 266,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_jrth_025_nor",
+			name = "龙虾啤酒节-节日特惠（免费小额用户，V1-V3用户）",
+			condi = 253,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1597707000,
+		},
+		[267]=
+		{
+			id = 267,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_jrth_025_v4",
+			name = "龙虾啤酒节-节日特惠（V4-V7）",
+			condi = 254,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1597707000,
+		},
+		[268]=
+		{
+			id = 268,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_jrth_025_v8",
+			name = "龙虾啤酒节-节日特惠（V8-V10）",
+			condi = 255,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1597707000,
 		},
 	},
 	condi=
@@ -11095,6 +11185,186 @@ return {
 			judge = 3,
 			group = 2,
 			error_desc = "Lv20开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[629]=
+		{
+			no = 629,
+			id = 250,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[630]=
+		{
+			no = 630,
+			id = 251,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[631]=
+		{
+			no = 631,
+			id = 252,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[632]=
+		{
+			no = 632,
+			id = 253,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上的用户可进行游戏",
+		},
+		[633]=
+		{
+			no = 633,
+			id = 253,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP3及以下的用户可进行游戏",
+		},
+		[634]=
+		{
+			no = 634,
+			id = 253,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[635]=
+		{
+			no = 635,
+			id = 253,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给免费用户标签",
+		},
+		[636]=
+		{
+			no = 636,
+			id = 253,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "只展示给小额标签用户",
+		},
+		[637]=
+		{
+			no = 637,
+			id = 254,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上的用户可进行游戏",
+		},
+		[638]=
+		{
+			no = 638,
+			id = 254,
+			var = "vip_level",
+			value = 7,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP7及以下的用户可进行游戏",
+		},
+		[639]=
+		{
+			no = 639,
+			id = 254,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[640]=
+		{
+			no = 640,
+			id = 255,
+			var = "vip_level",
+			value = 8,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP8及以上的用户可进行游戏",
+		},
+		[641]=
+		{
+			no = 641,
+			id = 255,
+			var = "vip_level",
+			value = 10,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP10及以下的用户可进行游戏",
+		},
+		[642]=
+		{
+			no = 642,
+			id = 255,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[643]=
+		{
+			no = 643,
+			id = 256,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[644]=
+		{
+			no = 644,
+			id = 257,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[645]=
+		{
+			no = 645,
+			id = 258,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[646]=
+		{
+			no = 646,
+			id = 258,
+			var = "share_condition",
+			value = "wqp_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
 	},
 	share_condition=

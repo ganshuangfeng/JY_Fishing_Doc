@@ -11,7 +11,7 @@ return {
 			goods_type = 1,
 			email_id = 1,
 			award_id = 1,
-			enable = 1,
+			enable = 0,
 		},
 		[2]=
 		{
@@ -23,6 +23,18 @@ return {
 			goods_type = 1,
 			email_id = 2,
 			award_id = 2,
+			enable = 0,
+		},
+		[3]=
+		{
+			id = 3,
+			name = "龙虾兑换",
+			start_time = 1597707000,
+			end_time = 1598284799,
+			use_goods = "prop_fish_drop_act_0",
+			goods_type = 1,
+			email_id = 3,
+			award_id = 3,
 			enable = 1,
 		},
 	},
@@ -39,6 +51,12 @@ return {
 			id = 2,
 			title = "粽情端午",
 			content = "恭喜您在香粽换好礼活动中获得了%s，请在活动结束后7个工作日内联系%s领取奖励，否则视为自动放弃！",
+		},
+		[3]=
+		{
+			id = 3,
+			title = "龙虾啤酒节",
+			content = "恭喜您在龙虾兑换活动中获得了%s，请在活动结束后7个工作日内请关注公众号《畅游新世界》联系%s领取奖励，否则视为自动放弃！",
 		},
 	},
 	award=
@@ -131,6 +149,76 @@ return {
 			permission_key = "actp_buy_gift_bag_class_zongzi_convert",
 			award_name = "艾草中药香包",
 			use_num = 888,
+			me_limit_day_num = 1,
+		},
+		[10]=
+		{
+			no = 10,
+			award_cfg_id = 3,
+			award_id = 1,
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {1000,},
+			use_num = 1200,
+			me_limit_day_num = 1,
+		},
+		[11]=
+		{
+			no = 11,
+			award_cfg_id = 3,
+			award_id = 2,
+			permission_key = "lxdh_025_notnew",
+			award_name = "麻辣龙虾尾4罐",
+			use_num = 13500,
+			me_limit_day_num = 1,
+		},
+		[12]=
+		{
+			no = 12,
+			award_cfg_id = 3,
+			award_id = 3,
+			permission_key = "lxdh_025_notnew",
+			award_name = "十三香龙虾3.6斤",
+			use_num = 9000,
+			me_limit_day_num = 1,
+		},
+		[13]=
+		{
+			no = 13,
+			award_cfg_id = 3,
+			award_id = 4,
+			permission_key = "lxdh_025_notnew",
+			award_name = "雪花啤酒12罐",
+			use_num = 3500,
+			me_limit_day_num = 1,
+		},
+		[14]=
+		{
+			no = 14,
+			award_cfg_id = 3,
+			award_id = 5,
+			asset_type = {"jing_bi",},
+			asset_count = {10000000,},
+			use_num = 12000,
+			me_limit_day_num = 3,
+		},
+		[15]=
+		{
+			no = 15,
+			award_cfg_id = 3,
+			award_id = 6,
+			asset_type = {"jing_bi",},
+			asset_count = {5000000,},
+			use_num = 6000,
+			me_limit_day_num = 2,
+		},
+		[16]=
+		{
+			no = 16,
+			award_cfg_id = 3,
+			award_id = 7,
+			asset_type = {"jing_bi",},
+			asset_count = {2000000,},
+			use_num = 2300,
 			me_limit_day_num = 1,
 		},
 	},

@@ -51,6 +51,29 @@ return {
 			area = "center",
 		},
 	},
+	xxlcs_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left_down",
+		},
+		[2]=
+		{
+			id = 2,
+			area = "left_top",
+		},
+		[3]=
+		{
+			id = 3,
+			area = "left_enter",
+		},
+		[4]=
+		{
+			id = 4,
+			area = "center",
+		},
+	},
 	xxl_game=
 	{
 		[1]=
@@ -75,6 +98,14 @@ return {
 		{
 			id = 4,
 			area = "center",
+		},
+	},
+	zpg_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left_top",
 		},
 	},
 	fishing_game=
@@ -124,7 +155,7 @@ return {
 		{
 			id = 3,
 			area = "right",
-			group_list = "84#83#",
+			group_list = "84#42#",
 		},
 		[4]=
 		{
@@ -243,7 +274,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "40#43#79#72",
+			group_list = "40#43#79#88",
 		},
 		[2]=
 		{
@@ -261,13 +292,19 @@ return {
 		{
 			id = 4,
 			area = "down2",
-			group_list = "74#87#11#",
+			group_list = "8#87#36#11#",
 		},
 		[5]=
 		{
 			id = 5,
 			area = "Right_down",
 			group_list = "86#",
+		},
+		[6]=
+		{
+			id = 6,
+			area = "Right_down2",
+			group_list = "72#",
 		},
 	},
 	fishing3d_hall=
@@ -852,6 +889,12 @@ return {
 		{
 			id = 87,
 			parm = {"by3d_ad_mfcj",},
+			is_on_off = 1,
+		},
+		[88]=
+		{
+			id = 88,
+			parm = {"gift_czlb",},
 			is_on_off = 1,
 		},
 	},

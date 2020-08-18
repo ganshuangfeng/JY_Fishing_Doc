@@ -12,9 +12,9 @@ return {
 		[2]=
 		{
 			award_id = 2,
-			award_name = "40万小游戏币",
-			award_value = 400000,
-			award_type = "prop_tiny_game_coin",
+			award_name = "30万鱼币",
+			award_value = 300000,
+			award_type = "discount_fish_coin",
 			power = 2500,
 		},
 		[3]=

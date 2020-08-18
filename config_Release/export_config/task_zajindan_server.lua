@@ -5133,9 +5133,9 @@ return {
 			own_type = "normal",
 			task_enum = "buyu_leiji_dapao_new_task",
 			process_id = 21315,
-			is_reset = 0,
+			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1593554400,
+			start_valid_time = 1593532800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5147,9 +5147,9 @@ return {
 			own_type = "normal",
 			task_enum = "buyu_leiji_dapao_new_task",
 			process_id = 21316,
-			is_reset = 0,
+			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1593554400,
+			start_valid_time = 1593532800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5161,9 +5161,9 @@ return {
 			own_type = "normal",
 			task_enum = "buyu_leiji_dapao_new_task",
 			process_id = 21317,
-			is_reset = 0,
+			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1593554400,
+			start_valid_time = 1593532800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5175,9 +5175,9 @@ return {
 			own_type = "normal",
 			task_enum = "buyu_leiji_dapao_new_task",
 			process_id = 21318,
-			is_reset = 0,
+			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1593554400,
+			start_valid_time = 1593532800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5739,6 +5739,48 @@ return {
 			reset_delay = 1,
 			start_valid_time = 1597075200,
 			end_valid_time = 1597679999,
+			time_limit = -1,
+		},
+		[1000001]=
+		{
+			id = 1000001,
+			enable = 1,
+			name = "捕虾福利",
+			own_type = "p_0818_bxfl",
+			task_enum = "common",
+			process_id = 21359,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1597680000,
+			end_valid_time = 1598284799,
+			time_limit = -1,
+		},
+		[1000002]=
+		{
+			id = 1000002,
+			enable = 1,
+			name = "捕虾福利",
+			own_type = "p_0818_bxfl",
+			task_enum = "common",
+			process_id = 21360,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1597680000,
+			end_valid_time = 1598284799,
+			time_limit = -1,
+		},
+		[1000003]=
+		{
+			id = 1000003,
+			enable = 1,
+			name = "捕虾福利",
+			own_type = "p_0818_bxfl",
+			task_enum = "common",
+			process_id = 21361,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1597680000,
+			end_valid_time = 1598284799,
 			time_limit = -1,
 		},
 	},
@@ -9670,6 +9712,33 @@ return {
 			id = 410,
 			process_id = 21358,
 			process = 0,
+		},
+		[411]=
+		{
+			id = 411,
+			process_id = 21359,
+			source_id = 407,
+			process = {10,10,10},
+			awards = {619,620,621},
+			get_award_type = "nor",
+		},
+		[412]=
+		{
+			id = 412,
+			process_id = 21360,
+			source_id = 408,
+			process = {1,1,1},
+			awards = {622,623,624},
+			get_award_type = "nor",
+		},
+		[413]=
+		{
+			id = 413,
+			process_id = 21361,
+			source_id = 409,
+			process = 1,
+			awards = 625,
+			get_award_type = "nor",
 		},
 	},
 	source=
@@ -13736,6 +13805,27 @@ return {
 			source_type = "sh_xxl_xc_num_hero",
 			condition_id = 279,
 		},
+		[576]=
+		{
+			id = 576,
+			source_id = 407,
+			source_type = "get_fish_3d_bullet_item",
+			condition_id = 280,
+		},
+		[577]=
+		{
+			id = 577,
+			source_id = 408,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 281,
+		},
+		[578]=
+		{
+			id = 578,
+			source_id = 409,
+			source_type = "xxl_lucky_award",
+			condition_id = 282,
+		},
 	},
 	condition=
 	{
@@ -16903,6 +16993,30 @@ return {
 		{
 			id = 426,
 			condition_id = 279,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
+		},
+		[427]=
+		{
+			id = 427,
+			condition_id = 280,
+			condition_name = "act_type",
+			condition_value = 9,
+			judge_type = 2,
+		},
+		[428]=
+		{
+			id = 428,
+			condition_id = 281,
+			condition_name = "base_fish_id",
+			condition_value = 51,
+			judge_type = 2,
+		},
+		[429]=
+		{
+			id = 429,
+			condition_id = 282,
 			condition_name = "bet_spend",
 			condition_value = 240000,
 			judge_type = 3,
@@ -23921,6 +24035,62 @@ return {
 			award_id = 618,
 			asset_type = "jing_bi",
 			asset_count = 188888,
+			get_weight = 1,
+		},
+		[877]=
+		{
+			id = 877,
+			award_id = 619,
+			asset_type = "jing_bi",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[878]=
+		{
+			id = 878,
+			award_id = 620,
+			asset_type = "jing_bi",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[879]=
+		{
+			id = 879,
+			award_id = 621,
+			asset_type = "jing_bi",
+			asset_count = 30000,
+			get_weight = 1,
+		},
+		[880]=
+		{
+			id = 880,
+			award_id = 622,
+			asset_type = "jing_bi",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[881]=
+		{
+			id = 881,
+			award_id = 623,
+			asset_type = "jing_bi",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[882]=
+		{
+			id = 882,
+			award_id = 624,
+			asset_type = "jing_bi",
+			asset_count = 30000,
+			get_weight = 1,
+		},
+		[883]=
+		{
+			id = 883,
+			award_id = 625,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 50,
 			get_weight = 1,
 		},
 	},

@@ -1,0 +1,485 @@
+return {
+	config=
+	{
+		[1]=
+		{
+			line = 1,
+			type = 1,
+			name = "青铜抽奖",
+			task_id = {1000004,1000005},
+			award = "award1",
+		},
+		[2]=
+		{
+			line = 2,
+			type = 1,
+			name = "白银抽奖",
+			task_id = {1000006,1000007,1000008},
+			award = "award2",
+		},
+		[3]=
+		{
+			line = 3,
+			type = 1,
+			name = "黄金抽奖",
+			task_id = {1000009,1000010,1000011,1000012,1000013},
+			award = "award3",
+		},
+		[4]=
+		{
+			line = 4,
+			type = 2,
+			name = "10元话费",
+		},
+	},
+	task_content=
+	{
+		[1]=
+		{
+			line = 1,
+			id = 1000004,
+			task_content = "登陆1次游戏",
+		},
+		[2]=
+		{
+			line = 2,
+			id = 1000005,
+			task_content = "在3D捕鱼击杀6只小乌龟",
+		},
+		[3]=
+		{
+			line = 3,
+			id = 1000006,
+			task_content = "在3D捕鱼累计赢金30万",
+		},
+		[4]=
+		{
+			line = 4,
+			id = 1000007,
+			task_content = "在3D捕鱼累计赢金60万",
+		},
+		[5]=
+		{
+			line = 5,
+			id = 1000008,
+			task_content = "在水果消消乐累计赢金80万",
+		},
+		[6]=
+		{
+			line = 6,
+			id = 1000009,
+			task_content = "在商城充值6元",
+		},
+		[7]=
+		{
+			line = 7,
+			id = 1000010,
+			task_content = "在3D捕鱼中累计赢金150万",
+		},
+		[8]=
+		{
+			line = 8,
+			id = 1000011,
+			task_content = "在3D捕鱼累计赢金300万",
+		},
+		[9]=
+		{
+			line = 9,
+			id = 1000012,
+			task_content = "在水果消消乐中累计赢金300万",
+		},
+		[10]=
+		{
+			line = 10,
+			id = 1000013,
+			task_content = "在水果消消乐中使用3万及以上档次出现1次幸运时刻",
+		},
+	},
+	award1=
+	{
+		[1]=
+		{
+			line = 1,
+			id = 1,
+			icon = "ty_icon_jb_18y",
+			scale = 1,
+			desc = "2000金币",
+			is_dj = 0,
+		},
+		[2]=
+		{
+			line = 2,
+			id = 2,
+			icon = "ty_icon_jb_18y",
+			scale = 1,
+			desc = "3000金币",
+			is_dj = 0,
+		},
+		[3]=
+		{
+			line = 3,
+			id = 3,
+			icon = "ty_icon_jb_30y",
+			scale = 1,
+			desc = "4000金币",
+			is_dj = 0,
+		},
+		[4]=
+		{
+			line = 4,
+			id = 4,
+			icon = "ty_icon_jb_30y",
+			scale = 1,
+			desc = "5000金币",
+			is_dj = 0,
+		},
+		[5]=
+		{
+			line = 5,
+			id = 5,
+			icon = "ty_icon_jb_50y",
+			scale = 1,
+			desc = "6000金币",
+			is_dj = 0,
+		},
+		[6]=
+		{
+			line = 6,
+			id = 6,
+			icon = "ty_icon_jb_50y",
+			scale = 1,
+			desc = "7000金币",
+			is_dj = 0,
+		},
+		[7]=
+		{
+			line = 7,
+			id = 7,
+			icon = "ty_icon_jb_98y",
+			scale = 1,
+			desc = "8000金币",
+			is_dj = 0,
+		},
+		[8]=
+		{
+			line = 8,
+			id = 8,
+			icon = "ty_icon_jb_98y",
+			scale = 1,
+			desc = "9000金币",
+			is_dj = 0,
+		},
+		[9]=
+		{
+			line = 9,
+			id = 9,
+			icon = "ty_icon_jb_198y",
+			scale = 1,
+			desc = "10000金币",
+			is_dj = 0,
+		},
+		[10]=
+		{
+			line = 10,
+			id = 10,
+			icon = "ty_icon_jb_198y",
+			scale = 1,
+			desc = "11000金币",
+			is_dj = 0,
+		},
+		[11]=
+		{
+			line = 11,
+			id = 11,
+			icon = "ty_icon_jb_2498y",
+			scale = 1,
+			desc = "50万金币",
+			is_dj = 1,
+		},
+		[12]=
+		{
+			line = 12,
+			id = 12,
+			icon = "com_award_icon_hfsp",
+			scale = 1,
+			desc = "10元话费",
+			is_dj = 1,
+		},
+		[13]=
+		{
+			line = 13,
+			id = 13,
+			icon = "ty_icon_flq4",
+			scale = 1,
+			desc = "2000福利券",
+			is_dj = 1,
+		},
+		[14]=
+		{
+			line = 14,
+			id = 14,
+			icon = "ty_icon_flq5",
+			scale = 1,
+			desc = "5000福利券",
+			is_dj = 1,
+		},
+	},
+	award2=
+	{
+		[1]=
+		{
+			line = 1,
+			id = 1,
+			icon = "com_award_icon_hfsp",
+			scale = 1,
+			desc = "8元话费",
+			is_dj = 0,
+		},
+		[2]=
+		{
+			line = 2,
+			id = 2,
+			icon = "ty_icon_jb_30y",
+			scale = 1,
+			desc = "4000金币",
+			is_dj = 0,
+		},
+		[3]=
+		{
+			line = 3,
+			id = 3,
+			icon = "ty_icon_flq1",
+			scale = 1,
+			desc = "6福利券",
+			is_dj = 0,
+		},
+		[4]=
+		{
+			line = 4,
+			id = 4,
+			icon = "ty_icon_flq1",
+			scale = 1,
+			desc = "8福利券",
+			is_dj = 0,
+		},
+		[5]=
+		{
+			line = 5,
+			id = 5,
+			icon = "ty_icon_flq2",
+			scale = 1,
+			desc = "10福利券",
+			is_dj = 0,
+		},
+		[6]=
+		{
+			line = 6,
+			id = 6,
+			icon = "ty_icon_jb_98y",
+			scale = 1,
+			desc = "20000金币",
+			is_dj = 0,
+		},
+		[7]=
+		{
+			line = 7,
+			id = 7,
+			icon = "ty_icon_flq2",
+			scale = 1,
+			desc = "30福利券",
+			is_dj = 0,
+		},
+		[8]=
+		{
+			line = 8,
+			id = 8,
+			icon = "ty_icon_jb_198y",
+			scale = 1,
+			desc = "4万金币",
+			is_dj = 0,
+		},
+		[9]=
+		{
+			line = 9,
+			id = 9,
+			icon = "ty_icon_flq3",
+			scale = 1,
+			desc = "50福利券",
+			is_dj = 0,
+		},
+		[10]=
+		{
+			line = 10,
+			id = 10,
+			icon = "ty_icon_flq3",
+			scale = 1,
+			desc = "60福利券",
+			is_dj = 0,
+		},
+		[11]=
+		{
+			line = 11,
+			id = 11,
+			icon = "ty_icon_jb_2498y",
+			scale = 1,
+			desc = "100万金币",
+			is_dj = 1,
+		},
+		[12]=
+		{
+			line = 12,
+			id = 12,
+			icon = "ty_icon_flq4",
+			scale = 1,
+			desc = "2000福利券",
+			is_dj = 1,
+		},
+		[13]=
+		{
+			line = 13,
+			id = 13,
+			icon = "ty_icon_flq5",
+			scale = 1,
+			desc = "8000福利券",
+			is_dj = 1,
+		},
+		[14]=
+		{
+			line = 14,
+			id = 14,
+			icon = "activity_icon_gift123_500jdk",
+			scale = 1,
+			desc = "500元京东卡",
+			is_dj = 1,
+		},
+	},
+	award3=
+	{
+		[1]=
+		{
+			line = 1,
+			id = 1,
+			icon = "ty_icon_flq1",
+			scale = 1,
+			desc = "20福利券",
+			is_dj = 0,
+		},
+		[2]=
+		{
+			line = 2,
+			id = 2,
+			icon = "ty_icon_flq1",
+			scale = 1,
+			desc = "30福利券",
+			is_dj = 0,
+		},
+		[3]=
+		{
+			line = 3,
+			id = 3,
+			icon = "ty_icon_flq2",
+			scale = 1,
+			desc = "40福利券",
+			is_dj = 0,
+		},
+		[4]=
+		{
+			line = 4,
+			id = 4,
+			icon = "ty_icon_flq2",
+			scale = 1,
+			desc = "50福利券",
+			is_dj = 0,
+		},
+		[5]=
+		{
+			line = 5,
+			id = 5,
+			icon = "ty_icon_flq3",
+			scale = 1,
+			desc = "80福利券",
+			is_dj = 0,
+		},
+		[6]=
+		{
+			line = 6,
+			id = 6,
+			icon = "ty_icon_flq3",
+			scale = 1,
+			desc = "100福利券",
+			is_dj = 0,
+		},
+		[7]=
+		{
+			line = 7,
+			id = 7,
+			icon = "ty_icon_flq3",
+			scale = 1,
+			desc = "120福利券",
+			is_dj = 0,
+		},
+		[8]=
+		{
+			line = 8,
+			id = 8,
+			icon = "ty_icon_flq4",
+			scale = 1,
+			desc = "150福利券",
+			is_dj = 0,
+		},
+		[9]=
+		{
+			line = 9,
+			id = 9,
+			icon = "ty_icon_flq4",
+			scale = 1,
+			desc = "160福利券",
+			is_dj = 0,
+		},
+		[10]=
+		{
+			line = 10,
+			id = 10,
+			icon = "ty_icon_flq4",
+			scale = 1,
+			desc = "170福利券",
+			is_dj = 0,
+		},
+		[11]=
+		{
+			line = 11,
+			id = 11,
+			icon = "com_award_icon_hfsp",
+			scale = 1,
+			desc = "20元话费",
+			is_dj = 1,
+		},
+		[12]=
+		{
+			line = 12,
+			id = 12,
+			icon = "com_award_icon_hfsp",
+			scale = 1,
+			desc = "50元话费",
+			is_dj = 1,
+		},
+		[13]=
+		{
+			line = 13,
+			id = 13,
+			icon = "com_award_icon_hfsp",
+			scale = 1,
+			desc = "100元话费",
+			is_dj = 1,
+		},
+		[14]=
+		{
+			line = 14,
+			id = 14,
+			icon = "ty_icon_flq5",
+			scale = 1,
+			desc = "80000福利券",
+			is_dj = 1,
+		},
+	},
+}

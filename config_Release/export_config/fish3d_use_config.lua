@@ -428,5 +428,34 @@ return {
 			id = 78,
 			fish_id = 27,
 		},
+		[79]=
+		{
+			id = 79,
+			fish_id = 51,
+		},
+		[80]=
+		{
+			id = 80,
+			fish_id = 18,
+			attr_id = 9,
+		},
+		[81]=
+		{
+			id = 81,
+			fish_id = 17,
+			attr_id = 9,
+		},
+		[82]=
+		{
+			id = 82,
+			fish_id = 15,
+			attr_id = 9,
+		},
+		[83]=
+		{
+			id = 83,
+			fish_id = 13,
+			attr_id = 9,
+		},
 	},
 }

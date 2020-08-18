@@ -586,9 +586,9 @@ return {
 			key = "sys_xsfl",
 			desc = "限时福利",
 			lua = "SYSXSFLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[60]=
 		{
@@ -1416,9 +1416,9 @@ return {
 			key = "act_004_jika",
 			desc = "季卡",
 			lua = "Act_004JIKAManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[143]=
 		{
@@ -2465,7 +2465,7 @@ return {
 			key = "act_024_lgfl",
 			desc = "连购返利",
 			lua = "Act_024_LGFLManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
@@ -2495,6 +2495,76 @@ return {
 			key = "by3d_ad_fish",
 			desc = "广告鱼",
 			lua = "BY3DADFishManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[256]=
+		{
+			id = 256,
+			key = "act_025_jrth",
+			desc = "节日特惠",
+			lua = "Act_025_JRTHManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[257]=
+		{
+			id = 257,
+			key = "act_025_lxdh",
+			desc = "龙虾兑换",
+			lua = "Act_025_LXDHManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[258]=
+		{
+			id = 258,
+			key = "act_025_xlxphb",
+			desc = "小龙虾排行榜",
+			lua = "Act_025_XLXPHBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[259]=
+		{
+			id = 259,
+			key = "gift_czlb",
+			desc = "超值礼包",
+			lua = "GiftCZLBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[260]=
+		{
+			id = 260,
+			key = "sys_fcm",
+			desc = "防沉迷",
+			lua = "SYSFCMManager",
+			is_on_off = 0,
+			enable = 1,
+			state = 1,
+		},
+		[261]=
+		{
+			id = 261,
+			key = "act_009_yk_gz",
+			desc = "活动：贵族月卡",
+			lua = "Act_009_YKGZManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[262]=
+		{
+			id = 262,
+			key = "sys_011_yueka_new",
+			desc = "新月卡",
+			lua = "Sys_011_YuekaManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

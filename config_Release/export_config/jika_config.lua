@@ -61,8 +61,8 @@ return {
 		{
 			Index = 9,
 			award_id = 2,
-			award_text = "40万小游戏币",
-			award_image = "ty_icon_yxb_4",
+			award_text = "30万鱼币",
+			award_image = "com_icon_yb",
 		},
 	},
 	help_info=

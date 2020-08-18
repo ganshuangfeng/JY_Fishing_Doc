@@ -766,7 +766,7 @@ return {
 		[68]=
 		{
 			id = 68,
-			bannerID = 70,
+			bannerID = 68,
 			isOnOff = 1,
 			order = -100,
 			gotoUI = {"sys_binding_phone_award","panel"},
@@ -785,6 +785,40 @@ return {
 			model = "LoginUp",
 			srartTime = 1597102200,
 			endTime = 1597679999,
+		},
+		[70]=
+		{
+			id = 70,
+			bannerID = 70,
+			isOnOff = 1,
+			order = -1000,
+			gotoUI = {"sys_fcm","sm_panel"},
+			model = "LoginUp",
+			srartTime = -1,
+			endTime = -1,
+		},
+		[71]=
+		{
+			id = 71,
+			bannerID = 71,
+			isOnOff = 1,
+			order = 1,
+			gotoUI = {"sys_cqg","panel"},
+			model = "DailyUp",
+			srartTime = -1,
+			endTime = -1,
+		},
+		[72]=
+		{
+			id = 72,
+			bannerID = 72,
+			isOnOff = 1,
+			order = 100,
+			condi_key = "Sign_in_popup_old",
+			gotoUI = {"sys_act_base","panel"},
+			model = "LoginUp",
+			srartTime = 1597707000,
+			endTime = 1598284799,
 		},
 	},
 }
