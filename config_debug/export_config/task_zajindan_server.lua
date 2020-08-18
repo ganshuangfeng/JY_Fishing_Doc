@@ -10048,6 +10048,7 @@ return {
 			process = 1,
 			awards = 629,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[425]=
 		{
@@ -10057,6 +10058,7 @@ return {
 			process = 1,
 			awards = 629,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[426]=
 		{
@@ -10066,6 +10068,7 @@ return {
 			process = 1,
 			awards = 629,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[427]=
 		{
