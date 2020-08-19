@@ -18127,7 +18127,7 @@ return {
 			id = 447,
 			condition_id = 300,
 			condition_name = "gift_id",
-			condition_value = 6,
+			condition_value = 111,
 			judge_type = 2,
 		},
 		[448]=
@@ -18135,7 +18135,7 @@ return {
 			id = 448,
 			condition_id = 301,
 			condition_name = "gift_id",
-			condition_value = 108,
+			condition_value = 6,
 			judge_type = 2,
 		},
 		[449]=
@@ -18143,7 +18143,7 @@ return {
 			id = 449,
 			condition_id = 302,
 			condition_name = "gift_id",
-			condition_value = 111,
+			condition_value = 108,
 			judge_type = 2,
 		},
 		[450]=
