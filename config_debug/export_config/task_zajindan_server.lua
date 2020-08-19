@@ -6068,7 +6068,7 @@ return {
 			id = 1000024,
 			enable = 1,
 			name = "浪漫礼盒",
-			own_type = "p_026_lmqx_lmlh",
+			own_type = "p_026_lmqx_lmlh_yj",
 			task_enum = "common",
 			process_id = 21382,
 			is_reset = 0,

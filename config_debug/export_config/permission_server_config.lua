@@ -4968,8 +4968,20 @@ return {
 			id = 274,
 			enable = 1,
 			key = "actp_own_task_p_026_lmqx_lmlh",
-			name = "浪漫七夕-浪漫礼盒累计赢金（非新玩家）",
+			name = "浪漫七夕-浪漫礼盒充值加赠（非新玩家）",
 			condi = 264,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598284800,
+		},
+		[275]=
+		{
+			id = 275,
+			enable = 1,
+			key = "actp_own_task_p_026_lmqx_lmlh_yj",
+			name = "浪漫七夕-浪漫礼盒累计赢金（非新玩家）",
+			condi = 265,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
@@ -11492,6 +11504,16 @@ return {
 		{
 			no = 652,
 			id = 264,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[653]=
+		{
+			no = 653,
+			id = 265,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,
