@@ -2609,5 +2609,25 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[267]=
+		{
+			id = 267,
+			key = "act_026_xrcdj",
+			desc = "新人抽大奖",
+			lua = "Act_026_XRCDJManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[268]=
+		{
+			id = 268,
+			key = "act_026_sgxxlyd",
+			desc = "水果消消乐引导",
+			lua = "Act_026_SGXXLYDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
