@@ -2525,7 +2525,7 @@ return {
 			key = "act_025_xlxphb",
 			desc = "小龙虾排行榜",
 			lua = "Act_025_XLXPHBManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
