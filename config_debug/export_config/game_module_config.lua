@@ -2465,7 +2465,7 @@ return {
 			key = "act_024_lgfl",
 			desc = "连购返利",
 			lua = "Act_024_LGFLManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
