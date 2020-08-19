@@ -10357,9 +10357,10 @@ return {
 			id = 434,
 			process_id = 21382,
 			source_id = 429,
-			process = 2000000,
+			process = {2000000,-1},
 			awards = 637,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[435]=
 		{
@@ -10368,6 +10369,8 @@ return {
 			source_id = 430,
 			process = 1,
 			awards = 638,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[436]=
 		{
@@ -10376,6 +10379,8 @@ return {
 			source_id = 431,
 			process = 1,
 			awards = 639,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[437]=
 		{
@@ -10384,6 +10389,8 @@ return {
 			source_id = 432,
 			process = 1,
 			awards = 640,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[438]=
 		{
@@ -10392,6 +10399,8 @@ return {
 			source_id = 433,
 			process = 1,
 			awards = 641,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[439]=
 		{
@@ -10400,6 +10409,8 @@ return {
 			source_id = 434,
 			process = 1,
 			awards = 642,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[440]=
 		{
@@ -10408,6 +10419,8 @@ return {
 			source_id = 435,
 			process = 1,
 			awards = 643,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[441]=
 		{
@@ -10416,6 +10429,8 @@ return {
 			source_id = 436,
 			process = 1,
 			awards = 644,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[442]=
 		{
@@ -10424,6 +10439,8 @@ return {
 			source_id = 437,
 			process = 1,
 			awards = 645,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[443]=
 		{
@@ -10432,6 +10449,8 @@ return {
 			source_id = 438,
 			process = 1,
 			awards = 646,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 	},
 	source=
