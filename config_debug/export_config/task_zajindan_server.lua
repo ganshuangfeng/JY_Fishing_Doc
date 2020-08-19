@@ -5793,7 +5793,7 @@ return {
 			process_id = 21362,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1598284800,
+			start_valid_time = 1498284800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5807,7 +5807,7 @@ return {
 			process_id = 21363,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1598284800,
+			start_valid_time = 1498284800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5821,7 +5821,7 @@ return {
 			process_id = 21364,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1598284800,
+			start_valid_time = 1498284800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5835,7 +5835,7 @@ return {
 			process_id = 21365,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1598284800,
+			start_valid_time = 1498284800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5849,7 +5849,7 @@ return {
 			process_id = 21366,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1598284800,
+			start_valid_time = 1498284800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5863,7 +5863,7 @@ return {
 			process_id = 21367,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1598284800,
+			start_valid_time = 1498284800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5877,7 +5877,7 @@ return {
 			process_id = 21368,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1598284800,
+			start_valid_time = 1498284800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5891,7 +5891,7 @@ return {
 			process_id = 21369,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1598284800,
+			start_valid_time = 1498284800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5905,7 +5905,7 @@ return {
 			process_id = 21370,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1598284800,
+			start_valid_time = 1498284800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5919,7 +5919,7 @@ return {
 			process_id = 21371,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1598284800,
+			start_valid_time = 1498284800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5933,7 +5933,7 @@ return {
 			process_id = 21372,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1598284800,
+			start_valid_time = 1498284800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5947,7 +5947,7 @@ return {
 			process_id = 21373,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1598284800,
+			start_valid_time = 1498284800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5961,7 +5961,7 @@ return {
 			process_id = 21374,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1598284800,
+			start_valid_time = 1498284800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -5975,7 +5975,7 @@ return {
 			process_id = 21375,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1598284800,
+			start_valid_time = 1498284800,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -10168,6 +10168,7 @@ return {
 			process = 1,
 			awards = 626,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[415]=
 		{
@@ -10177,6 +10178,7 @@ return {
 			process = 6,
 			awards = 626,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[416]=
 		{
@@ -10186,6 +10188,7 @@ return {
 			process = 300000,
 			awards = 627,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[417]=
 		{
@@ -10195,6 +10198,7 @@ return {
 			process = 600000,
 			awards = 627,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[418]=
 		{
@@ -10204,6 +10208,7 @@ return {
 			process = 800000,
 			awards = 627,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[419]=
 		{
@@ -10213,6 +10218,7 @@ return {
 			process = 600,
 			awards = 628,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[420]=
 		{
@@ -10222,6 +10228,7 @@ return {
 			process = 1500000,
 			awards = 628,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[421]=
 		{
@@ -10231,6 +10238,7 @@ return {
 			process = 3000000,
 			awards = 628,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[422]=
 		{
@@ -10240,6 +10248,7 @@ return {
 			process = 3000000,
 			awards = 628,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[423]=
 		{
@@ -10249,6 +10258,7 @@ return {
 			process = 1,
 			awards = 628,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[424]=
 		{
