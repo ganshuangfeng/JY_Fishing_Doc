@@ -2762,7 +2762,7 @@ return {
 			acti_type = 9,
 			num = {0,0.05,0.1},
 			show = 0,
-			enter_bag = 0,
+			enter_bag = 1,
 			value = 75,
 		},
 		[50]=
@@ -2771,7 +2771,7 @@ return {
 			acti_type = 9,
 			num = {0,0.1,0.2},
 			show = 0,
-			enter_bag = 0,
+			enter_bag = 1,
 			value = 150,
 		},
 		[51]=
@@ -2780,7 +2780,7 @@ return {
 			acti_type = 9,
 			num = {0,0.2,0.3},
 			show = 0,
-			enter_bag = 0,
+			enter_bag = 1,
 			value = 250,
 		},
 	},
