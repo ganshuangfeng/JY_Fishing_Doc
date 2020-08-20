@@ -1684,6 +1684,12 @@ return {
 			name = "新人抽大奖（CPL新用户）",
 			condi = 258,
 		},
+		pt_fcm=
+		{
+			key = "pt_fcm",
+			name = "防沉迷系统（根据平台进行屏蔽）",
+			condi = 266,
+		},
 	},
 	act_permission=
 	{
@@ -11519,6 +11525,26 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是新用户",
+		},
+		[654]=
+		{
+			no = 654,
+			id = 266,
+			var = "tag_type",
+			value = "tag_plat_normal",
+			judge = 2,
+			group = 1,
+			error_desc = "是官方平台",
+		},
+		[655]=
+		{
+			no = 655,
+			id = 266,
+			var = "tag_type",
+			value = "tag_plat_wqp",
+			judge = 2,
+			group = 1,
+			error_desc = "是玩棋牌平台",
 		},
 	},
 	share_condition=

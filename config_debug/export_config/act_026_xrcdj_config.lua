@@ -468,7 +468,7 @@ return {
 			id = -1,
 			icon = "ty_icon_flq5",
 			scale = 1,
-			desc = "80000福利券",
+			desc = "8万福利券",
 			is_dj = 1,
 		},
 		[13]=
