@@ -946,6 +946,42 @@ return {
 			rate = 250,
 			gd_award = 0,
 		},
+		[103]=
+		{
+			ID = 103,
+			fish_type = 1,
+			fish_form = {87,},
+			life = 120,
+			rate = 120,
+			gd_award = 0,
+		},
+		[104]=
+		{
+			ID = 104,
+			fish_type = 1,
+			fish_form = {88,},
+			life = 80,
+			rate = 80,
+			gd_award = 0,
+		},
+		[105]=
+		{
+			ID = 105,
+			fish_type = 1,
+			fish_form = {89,},
+			life = 60,
+			rate = 60,
+			gd_award = 0,
+		},
+		[106]=
+		{
+			ID = 106,
+			fish_type = 1,
+			fish_form = {90,},
+			life = 40,
+			rate = 40,
+			gd_award = 0,
+		},
 	},
 	use_fish=
 	{
@@ -2321,6 +2357,70 @@ return {
 			broadcast = 1,
 			clear_level = 1,
 		},
+		[87]=
+		{
+			id = 87,
+			base_id = 18,
+			act_id = 52,
+			life = 120,
+			shoot = 0.008333,
+			act_type = "activity",
+			rate = 120,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 120,
+			ranking_show_rate = 1,
+			broadcast = 0,
+			clear_level = 1,
+		},
+		[88]=
+		{
+			id = 88,
+			base_id = 17,
+			act_id = 53,
+			life = 80,
+			shoot = 0.012500,
+			act_type = "activity",
+			rate = 80,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 80,
+			ranking_show_rate = 1,
+			broadcast = 0,
+			clear_level = 1,
+		},
+		[89]=
+		{
+			id = 89,
+			base_id = 15,
+			act_id = 54,
+			life = 60,
+			shoot = 0.016667,
+			act_type = "activity",
+			rate = 60,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 60,
+			ranking_show_rate = 1,
+			broadcast = 0,
+			clear_level = 1,
+		},
+		[90]=
+		{
+			id = 90,
+			base_id = 13,
+			act_id = 55,
+			life = 40,
+			shoot = 0.025000,
+			act_type = "activity",
+			rate = 40,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 40,
+			ranking_show_rate = 1,
+			broadcast = 0,
+			clear_level = 1,
+		},
 	},
 	activity=
 	{
@@ -2782,6 +2882,42 @@ return {
 			show = 0,
 			enter_bag = 1,
 			value = 250,
+		},
+		[52]=
+		{
+			id = 52,
+			acti_type = 9,
+			num = {0,0.06,},
+			show = 1,
+			enter_bag = 1,
+			value = 60,
+		},
+		[53]=
+		{
+			id = 53,
+			acti_type = 9,
+			num = {0,0.04,},
+			show = 1,
+			enter_bag = 1,
+			value = 40,
+		},
+		[54]=
+		{
+			id = 54,
+			acti_type = 9,
+			num = {0,0.03,},
+			show = 1,
+			enter_bag = 1,
+			value = 30,
+		},
+		[55]=
+		{
+			id = 55,
+			acti_type = 9,
+			num = {0,0.02,},
+			show = 1,
+			enter_bag = 1,
+			value = 20,
 		},
 	},
 	box_fish_activity=
