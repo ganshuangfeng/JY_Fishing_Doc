@@ -96,7 +96,7 @@ return {
 			level = 1,
 			item = {"prop_fish_drop_act_0",},
 			count = {50,},
-			gotoUI = {"game_Eliminate",},
+			gotoUI = {"game_MiniGame",},
 		},
 	},
 }
