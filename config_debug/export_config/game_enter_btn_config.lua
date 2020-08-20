@@ -11,7 +11,7 @@ return {
 		{
 			id = 2,
 			area = "center1",
-			group_list = "15#",
+			group_list = "91#",
 		},
 		[3]=
 		{
@@ -97,7 +97,7 @@ return {
 		[4]=
 		{
 			id = 4,
-			area = "center",
+			area = "center1",
 		},
 	},
 	zpg_game=
@@ -907,6 +907,12 @@ return {
 		{
 			id = 90,
 			parm = {"act_026_sgxxlyd",},
+			is_on_off = 1,
+		},
+		[91]=
+		{
+			id = 91,
+			parm = {"act_026_sgxxlyd","enter2"},
 			is_on_off = 1,
 		},
 	},
