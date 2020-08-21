@@ -9096,7 +9096,6 @@ return {
 			count = 9999999,
 			start_time = 1598311800,
 			end_time = 1598889599,
-			condition = 42,
 			wx_pay = 1,
 			zfb_pay = 1,
 			is_cg = 1,
@@ -9120,7 +9119,6 @@ return {
 			count = 9999999,
 			start_time = 1598311800,
 			end_time = 1598889599,
-			condition = 42,
 			wx_pay = 1,
 			zfb_pay = 1,
 			is_cg = 1,
@@ -9144,7 +9142,6 @@ return {
 			count = 9999999,
 			start_time = 1598311800,
 			end_time = 1598889599,
-			condition = 42,
 			wx_pay = 1,
 			zfb_pay = 1,
 			is_cg = 1,
@@ -9168,7 +9165,6 @@ return {
 			count = 9999999,
 			start_time = 1598311800,
 			end_time = 1598889599,
-			condition = 42,
 			wx_pay = 1,
 			zfb_pay = 1,
 			is_cg = 1,
@@ -9463,11 +9459,6 @@ return {
 			condition_group = {{type="permission_class",class_value = "lmqx_026_bblb" }},
 			limit = 1,
 			duration = 0,
-		},
-		[42]=
-		{
-			id = 42,
-			condition_group = {{type="permission_class",class_value = "lmqx_026_lmlh" }},
 		},
 	},
 	jing_bi=

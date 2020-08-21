@@ -4961,8 +4961,8 @@ return {
 		{
 			id = 273,
 			enable = 1,
-			key = "actp_buy_gift_bag_class_lmqx_026_lmlh",
-			name = "浪漫七夕-浪漫礼盒（非新玩家）",
+			key = "actp_lmqx_026_lmlh",
+			name = "浪漫七夕-浪漫礼盒（新玩家显示）",
 			condi = 263,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -11502,9 +11502,9 @@ return {
 			id = 263,
 			var = "tag_type",
 			value = "tag_class_new_player",
-			judge = 5,
+			judge = 2,
 			group = 1,
-			error_desc = "不是新用户",
+			error_desc = "是新用户",
 		},
 		[652]=
 		{
