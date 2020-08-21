@@ -11459,17 +11459,17 @@ return {
 		[647]=
 		{
 			no = 647,
-			id = 259,
-			var = "tag_type",
-			value = "tag_class_new_player",
-			judge = 5,
+			id = 258,
+			var = "first_login_time",
+			value = 1598317200,
+			judge = 3,
 			group = 1,
-			error_desc = "不是新用户",
+			error_desc = "是2020年8月25日9点后注册的玩家",
 		},
 		[648]=
 		{
 			no = 648,
-			id = 260,
+			id = 259,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,
@@ -11479,6 +11479,16 @@ return {
 		[649]=
 		{
 			no = 649,
+			id = 260,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[650]=
+		{
+			no = 650,
 			id = 261,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -11486,9 +11496,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[650]=
+		[651]=
 		{
-			no = 650,
+			no = 651,
 			id = 262,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -11496,9 +11506,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[651]=
+		[652]=
 		{
-			no = 651,
+			no = 652,
 			id = 263,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -11506,20 +11516,10 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[652]=
-		{
-			no = 652,
-			id = 264,
-			var = "tag_type",
-			value = "tag_class_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "不是新用户",
-		},
 		[653]=
 		{
 			no = 653,
-			id = 265,
+			id = 264,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,
@@ -11529,6 +11529,16 @@ return {
 		[654]=
 		{
 			no = 654,
+			id = 265,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[655]=
+		{
+			no = 655,
 			id = 266,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -11536,9 +11546,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[655]=
+		[656]=
 		{
-			no = 655,
+			no = 656,
 			id = 266,
 			var = "tag_type",
 			value = "tag_plat_wqp",

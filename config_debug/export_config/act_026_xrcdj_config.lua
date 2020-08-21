@@ -172,7 +172,7 @@ return {
 		{
 			line = 8,
 			id = -1,
-			icon = "ty_icon_flq4",
+			icon = "ty_icon_flq1",
 			scale = 1,
 			desc = "2000福利券",
 			is_dj = 1,
@@ -208,7 +208,7 @@ return {
 		{
 			line = 12,
 			id = -1,
-			icon = "ty_icon_flq5",
+			icon = "ty_icon_flq2",
 			scale = 1,
 			desc = "5000福利券",
 			is_dj = 1,
@@ -301,7 +301,7 @@ return {
 		{
 			line = 8,
 			id = -1,
-			icon = "ty_icon_flq5",
+			icon = "ty_icon_flq3",
 			scale = 1,
 			desc = "8000福利券",
 			is_dj = 1,
@@ -421,7 +421,7 @@ return {
 		{
 			line = 7,
 			id = 11722,
-			icon = "ty_icon_flq3",
+			icon = "ty_icon_flq2",
 			scale = 1,
 			desc = "80福利券",
 			is_dj = 0,
@@ -439,7 +439,7 @@ return {
 		{
 			line = 9,
 			id = 11723,
-			icon = "ty_icon_flq3",
+			icon = "ty_icon_flq2",
 			scale = 1,
 			desc = "100福利券",
 			is_dj = 0,
@@ -448,7 +448,7 @@ return {
 		{
 			line = 10,
 			id = 11724,
-			icon = "ty_icon_flq3",
+			icon = "ty_icon_flq2",
 			scale = 1,
 			desc = "120福利券",
 			is_dj = 0,
@@ -457,7 +457,7 @@ return {
 		{
 			line = 11,
 			id = 11725,
-			icon = "ty_icon_flq4",
+			icon = "ty_icon_flq3",
 			scale = 1,
 			desc = "150福利券",
 			is_dj = 0,
@@ -466,7 +466,7 @@ return {
 		{
 			line = 12,
 			id = -1,
-			icon = "ty_icon_flq5",
+			icon = "ty_icon_flq3",
 			scale = 1,
 			desc = "8万福利券",
 			is_dj = 1,
@@ -475,7 +475,7 @@ return {
 		{
 			line = 13,
 			id = 11726,
-			icon = "ty_icon_flq4",
+			icon = "ty_icon_flq3",
 			scale = 1,
 			desc = "160福利券",
 			is_dj = 0,
@@ -484,7 +484,7 @@ return {
 		{
 			line = 14,
 			id = 11727,
-			icon = "ty_icon_flq4",
+			icon = "ty_icon_flq3",
 			scale = 1,
 			desc = "170福利券",
 			is_dj = 0,

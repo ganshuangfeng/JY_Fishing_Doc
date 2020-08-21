@@ -25285,190 +25285,230 @@ return {
 		[891]=
 		{
 			id = 891,
-			award_id = 633,
-			asset_type = "shop_gold_sum",
-			asset_count = 300,
+			award_id = 632,
+			asset_type = "_cpl_hb_statistics",
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[892]=
 		{
 			id = 892,
-			award_id = 634,
+			award_id = 633,
 			asset_type = "shop_gold_sum",
-			asset_count = 900,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[893]=
 		{
 			id = 893,
-			award_id = 635,
-			asset_type = "shop_gold_sum",
-			asset_count = 3000,
+			award_id = 633,
+			asset_type = "_cpl_hb_statistics",
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[894]=
 		{
 			id = 894,
-			award_id = 636,
+			award_id = 634,
 			asset_type = "shop_gold_sum",
-			asset_count = 8400,
+			asset_count = 900,
 			get_weight = 1,
 		},
 		[895]=
 		{
 			id = 895,
-			award_id = 637,
-			asset_type = "_common_rank_true_love_026_rank",
-			asset_count = 1,
+			award_id = 634,
+			asset_type = "_cpl_hb_statistics",
+			asset_count = 900,
 			get_weight = 1,
 		},
 		[896]=
 		{
 			id = 896,
-			award_id = 637,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 1,
+			award_id = 635,
+			asset_type = "shop_gold_sum",
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[897]=
 		{
 			id = 897,
-			award_id = 638,
-			asset_type = "_common_rank_true_love_026_rank",
-			asset_count = 4,
+			award_id = 635,
+			asset_type = "_cpl_hb_statistics",
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[898]=
 		{
 			id = 898,
-			award_id = 638,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 4,
+			award_id = 636,
+			asset_type = "shop_gold_sum",
+			asset_count = 8400,
 			get_weight = 1,
 		},
 		[899]=
 		{
 			id = 899,
-			award_id = 639,
-			asset_type = "_common_rank_true_love_026_rank",
-			asset_count = 9,
+			award_id = 636,
+			asset_type = "_cpl_hb_statistics",
+			asset_count = 8400,
 			get_weight = 1,
 		},
 		[900]=
 		{
 			id = 900,
-			award_id = 639,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 9,
+			award_id = 637,
+			asset_type = "_common_rank_true_love_026_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[901]=
 		{
 			id = 901,
-			award_id = 640,
-			asset_type = "_common_rank_true_love_026_rank",
-			asset_count = 18,
+			award_id = 637,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[902]=
 		{
 			id = 902,
-			award_id = 640,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 18,
+			award_id = 638,
+			asset_type = "_common_rank_true_love_026_rank",
+			asset_count = 4,
 			get_weight = 1,
 		},
 		[903]=
 		{
 			id = 903,
-			award_id = 641,
-			asset_type = "_common_rank_true_love_026_rank",
-			asset_count = 30,
+			award_id = 638,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 4,
 			get_weight = 1,
 		},
 		[904]=
 		{
 			id = 904,
-			award_id = 641,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 30,
+			award_id = 639,
+			asset_type = "_common_rank_true_love_026_rank",
+			asset_count = 9,
 			get_weight = 1,
 		},
 		[905]=
 		{
 			id = 905,
-			award_id = 642,
-			asset_type = "_common_rank_true_love_026_rank",
-			asset_count = 58,
+			award_id = 639,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 9,
 			get_weight = 1,
 		},
 		[906]=
 		{
 			id = 906,
-			award_id = 642,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 58,
+			award_id = 640,
+			asset_type = "_common_rank_true_love_026_rank",
+			asset_count = 18,
 			get_weight = 1,
 		},
 		[907]=
 		{
 			id = 907,
-			award_id = 643,
-			asset_type = "_common_rank_true_love_026_rank",
-			asset_count = 118,
+			award_id = 640,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 18,
 			get_weight = 1,
 		},
 		[908]=
 		{
 			id = 908,
-			award_id = 643,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 118,
+			award_id = 641,
+			asset_type = "_common_rank_true_love_026_rank",
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[909]=
 		{
 			id = 909,
-			award_id = 644,
-			asset_type = "_common_rank_true_love_026_rank",
-			asset_count = 298,
+			award_id = 641,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[910]=
 		{
 			id = 910,
-			award_id = 644,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 298,
+			award_id = 642,
+			asset_type = "_common_rank_true_love_026_rank",
+			asset_count = 58,
 			get_weight = 1,
 		},
 		[911]=
 		{
 			id = 911,
-			award_id = 645,
-			asset_type = "_common_rank_true_love_026_rank",
-			asset_count = 598,
+			award_id = 642,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 58,
 			get_weight = 1,
 		},
 		[912]=
 		{
 			id = 912,
-			award_id = 645,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 598,
+			award_id = 643,
+			asset_type = "_common_rank_true_love_026_rank",
+			asset_count = 118,
 			get_weight = 1,
 		},
 		[913]=
 		{
 			id = 913,
-			award_id = 646,
-			asset_type = "_common_rank_true_love_026_rank",
-			asset_count = 1498,
+			award_id = 643,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 118,
 			get_weight = 1,
 		},
 		[914]=
 		{
 			id = 914,
+			award_id = 644,
+			asset_type = "_common_rank_true_love_026_rank",
+			asset_count = 298,
+			get_weight = 1,
+		},
+		[915]=
+		{
+			id = 915,
+			award_id = 644,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 298,
+			get_weight = 1,
+		},
+		[916]=
+		{
+			id = 916,
+			award_id = 645,
+			asset_type = "_common_rank_true_love_026_rank",
+			asset_count = 598,
+			get_weight = 1,
+		},
+		[917]=
+		{
+			id = 917,
+			award_id = 645,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 598,
+			get_weight = 1,
+		},
+		[918]=
+		{
+			id = 918,
+			award_id = 646,
+			asset_type = "_common_rank_true_love_026_rank",
+			asset_count = 1498,
+			get_weight = 1,
+		},
+		[919]=
+		{
+			id = 919,
 			award_id = 646,
 			asset_type = "prop_fish_drop_act_0",
 			asset_count = 1498,
