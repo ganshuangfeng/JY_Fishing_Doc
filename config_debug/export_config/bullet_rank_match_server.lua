@@ -293,7 +293,7 @@ return {
 		{
 			id = 1,
 			game_type = "fishing_3d_game",
-			rank_limit_min = 1201,
+			rank_limit_min = 600,
 			game_id = 2,
 			bullet_num = 1000,
 			bullet_rate = {1.01,1.02,1.03,1.04,1.05,1.06,1.07,1.08,1.09,1.1},
@@ -302,7 +302,7 @@ return {
 		{
 			id = 2,
 			game_type = "fishing_3d_game",
-			rank_limit_min = 1201,
+			rank_limit_min = 600,
 			game_id = 3,
 			bullet_num = 1000,
 			bullet_rate = {1.01,1.02,1.03,1.04,1.05,1.06,1.07,1.08,1.09,1.1},
@@ -311,7 +311,7 @@ return {
 		{
 			id = 3,
 			game_type = "fishing_3d_game",
-			rank_limit_min = 1201,
+			rank_limit_min = 600,
 			game_id = 4,
 			bullet_num = 1000,
 			bullet_rate = {1.01,1.02,1.03,1.04,1.05,1.06,1.07,1.08,1.09,1.1},
@@ -320,7 +320,7 @@ return {
 		{
 			id = 4,
 			game_type = "fishing_3d_game",
-			rank_limit_min = 1201,
+			rank_limit_min = 600,
 			game_id = 5,
 			bullet_num = 1000,
 			bullet_rate = {1.01,1.02,1.03,1.04,1.05,1.06,1.07,1.08,1.09,1.1},
@@ -333,7 +333,7 @@ return {
 			id = 1,
 			rank_id = 1,
 			rank_level = 1,
-			score = {1500,99999999999},
+			score = {1300,99999999999},
 			score_award_id = 1,
 		},
 		[2]=
@@ -341,7 +341,7 @@ return {
 			id = 2,
 			rank_id = 1,
 			rank_level = 2,
-			score = {1201,1499},
+			score = {1000,1299},
 			score_award_id = 2,
 		},
 		[3]=
@@ -349,7 +349,7 @@ return {
 			id = 3,
 			rank_id = 1,
 			rank_level = 3,
-			score = {1000,1200},
+			score = {600,999},
 			score_award_id = 3,
 		},
 		[4]=
@@ -357,7 +357,7 @@ return {
 			id = 4,
 			rank_id = 2,
 			rank_level = 1,
-			score = {1500,99999999999},
+			score = {1300,99999999999},
 			score_award_id = 4,
 		},
 		[5]=
@@ -365,7 +365,7 @@ return {
 			id = 5,
 			rank_id = 2,
 			rank_level = 2,
-			score = {1201,1499},
+			score = {1000,1299},
 			score_award_id = 5,
 		},
 		[6]=
@@ -373,7 +373,7 @@ return {
 			id = 6,
 			rank_id = 2,
 			rank_level = 3,
-			score = {1000,1200},
+			score = {600,999},
 			score_award_id = 6,
 		},
 		[7]=
@@ -381,7 +381,7 @@ return {
 			id = 7,
 			rank_id = 3,
 			rank_level = 1,
-			score = {1500,99999999999},
+			score = {1300,99999999999},
 			score_award_id = 7,
 		},
 		[8]=
@@ -389,7 +389,7 @@ return {
 			id = 8,
 			rank_id = 3,
 			rank_level = 2,
-			score = {1201,1499},
+			score = {1000,1299},
 			score_award_id = 8,
 		},
 		[9]=
@@ -397,7 +397,7 @@ return {
 			id = 9,
 			rank_id = 3,
 			rank_level = 3,
-			score = {1000,1200},
+			score = {600,999},
 			score_award_id = 9,
 		},
 		[10]=
@@ -405,7 +405,7 @@ return {
 			id = 10,
 			rank_id = 4,
 			rank_level = 1,
-			score = {1500,99999999999},
+			score = {1300,99999999999},
 			score_award_id = 10,
 		},
 		[11]=
@@ -413,7 +413,7 @@ return {
 			id = 11,
 			rank_id = 4,
 			rank_level = 2,
-			score = {1201,1499},
+			score = {1000,1299},
 			score_award_id = 11,
 		},
 		[12]=
@@ -421,7 +421,7 @@ return {
 			id = 12,
 			rank_id = 4,
 			rank_level = 3,
-			score = {1000,1200},
+			score = {600,999},
 			score_award_id = 12,
 		},
 	},
