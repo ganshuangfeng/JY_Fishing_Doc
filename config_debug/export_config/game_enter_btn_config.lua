@@ -155,7 +155,7 @@ return {
 		{
 			id = 3,
 			area = "right",
-			group_list = "84#42#",
+			group_list = "84#42#92#",
 		},
 		[4]=
 		{
@@ -913,6 +913,12 @@ return {
 		{
 			id = 91,
 			parm = {"act_026_sgxxlyd","enter2"},
+			is_on_off = 1,
+		},
+		[92]=
+		{
+			id = 92,
+			parm = {"sys_tgxt",},
 			is_on_off = 1,
 		},
 	},

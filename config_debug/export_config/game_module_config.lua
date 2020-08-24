@@ -247,9 +247,9 @@ return {
 			key = "sys_cfzx",
 			desc = "财富中心(赚钱)",
 			lua = "GameMoneyCenterLogic",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[26]=
 		{
@@ -2612,9 +2612,9 @@ return {
 		[267]=
 		{
 			id = 267,
-			key = "act_026_xrcdj",
-			desc = "新人抽大奖",
-			lua = "Act_026_XRCDJManager",
+			key = "act_026_sgxxlyd",
+			desc = "水果消消乐引导",
+			lua = "Act_026_SGXXLYDManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -2622,10 +2622,10 @@ return {
 		[268]=
 		{
 			id = 268,
-			key = "act_026_sgxxlyd",
-			desc = "水果消消乐引导",
-			lua = "Act_026_SGXXLYDManager",
-			is_on_off = 1,
+			key = "sys_tgxt",
+			desc = "推广系统",
+			lua = "SYSTGXTManager",
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
