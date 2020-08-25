@@ -86,7 +86,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31#",
+			group_list = "16;31;90#",
 		},
 		[3]=
 		{
@@ -901,6 +901,12 @@ return {
 		{
 			id = 89,
 			parm = {"act_026_xrcdj",},
+			is_on_off = 1,
+		},
+		[90]=
+		{
+			id = 90,
+			parm = {"act_026_sgxxlyd",},
 			is_on_off = 1,
 		},
 	},
