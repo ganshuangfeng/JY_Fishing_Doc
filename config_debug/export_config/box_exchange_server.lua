@@ -3376,7 +3376,7 @@ return {
 		{
 			no = 286,
 			award_id = 40,
-			real_award_id = 11737,
+			real_award_id = 11734,
 			award_name = "100福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = {100,100},
