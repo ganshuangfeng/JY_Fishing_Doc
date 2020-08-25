@@ -3349,7 +3349,7 @@ return {
 			real_award_id = 11731,
 			award_name = "500福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = 500500,
+			asset_count = {500,500},
 			weight = 1,
 		},
 		[284]=
@@ -3359,7 +3359,7 @@ return {
 			real_award_id = 11732,
 			award_name = "300福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = 300300,
+			asset_count = {300,300},
 			weight = 10,
 		},
 		[285]=
@@ -3369,7 +3369,7 @@ return {
 			real_award_id = 11733,
 			award_name = "150福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = 150150,
+			asset_count = {150,150},
 			weight = 55,
 		},
 		[286]=
@@ -3379,7 +3379,7 @@ return {
 			real_award_id = 11737,
 			award_name = "100福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = 100100,
+			asset_count = {100,100},
 			weight = 34,
 		},
 	},
