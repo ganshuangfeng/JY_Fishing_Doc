@@ -5083,6 +5083,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1598916600,
 		},
+		[277]=
+		{
+			id = 277,
+			enable = 1,
+			key = "actp_own_task_p_027_mfflq",
+			name = "金秋送豪礼（非新玩家）",
+			condi = 281,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598889600,
+		},
 	},
 	condi=
 	{
@@ -11825,6 +11837,16 @@ return {
 			judge = 2,
 			group = 3,
 			error_desc = "只展示给小额标签用户",
+		},
+		[675]=
+		{
+			no = 675,
+			id = 281,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
 		},
 	},
 	share_condition=
