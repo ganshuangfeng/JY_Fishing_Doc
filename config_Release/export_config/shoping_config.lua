@@ -4256,7 +4256,7 @@ return {
 		{
 			line_id = 167,
 			id = 10084,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "全返礼包I",
 			content = {"15万金币","7元现金",},
 			gzh_order = -28,
@@ -4280,7 +4280,7 @@ return {
 		{
 			line_id = 168,
 			id = 10085,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "全返礼包II",
 			content = {"100万金币","30元现金",},
 			gzh_order = -28,
@@ -4303,7 +4303,7 @@ return {
 		{
 			line_id = 169,
 			id = 10086,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "全返礼包III",
 			content = {"600万金币","198元现金",},
 			gzh_order = -28,
