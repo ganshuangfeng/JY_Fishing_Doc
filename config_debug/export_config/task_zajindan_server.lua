@@ -18230,6 +18230,14 @@ return {
 			condition_value = "shop_gold_sum",
 			judge_type = 2,
 		},
+		[453]=
+		{
+			id = 453,
+			condition_id = 305,
+			condition_name = "gift_id",
+			condition_value = {1,2,85,3,86,4,87,5,88,6,89,107,109,108,10044,110,10045,101,90,102,103,104,105,106,22,23,24,25,26,27,34,111,10189},
+			judge_type = 2,
+		},
 	},
 	award_data=
 	{
