@@ -2365,7 +2365,7 @@ return {
 			key = "act_022_qflb",
 			desc = "全返礼包",
 			lua = "Act_022_QFLBManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
