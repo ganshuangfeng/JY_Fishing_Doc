@@ -163,7 +163,7 @@ return {
 			end_time = 1591027199,
 			use_asset_id = 11,
 			award_id = 16,
-			enable = 1,
+			enable = 0,
 		},
 		[17]=
 		{
@@ -173,7 +173,7 @@ return {
 			end_time = 1588607999,
 			use_asset_id = 12,
 			award_id = 17,
-			enable = 1,
+			enable = 0,
 		},
 		[18]=
 		{
@@ -183,7 +183,7 @@ return {
 			end_time = 1592841599,
 			use_asset_id = 13,
 			award_id = 18,
-			enable = 1,
+			enable = 0,
 		},
 		[19]=
 		{
@@ -431,6 +431,16 @@ return {
 			award_id = 39,
 			enable = 1,
 		},
+		[40]=
+		{
+			id = 40,
+			name = "免费福利券",
+			start_time = 1598916600,
+			end_time = 1599494399,
+			use_asset_id = 35,
+			award_id = 40,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
@@ -670,6 +680,13 @@ return {
 			id = 34,
 			use_id = 34,
 			use_item = "prop_xrcdj_3",
+			use_num = 1,
+		},
+		[35]=
+		{
+			id = 35,
+			use_id = 35,
+			use_item = "prop_mfcjq",
 			use_num = 1,
 		},
 	},
@@ -3324,6 +3341,46 @@ return {
 			asset_type = "shop_gold_sum",
 			asset_count = {170,170},
 			weight = 166,
+		},
+		[283]=
+		{
+			no = 283,
+			award_id = 40,
+			real_award_id = 11731,
+			award_name = "500福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 500500,
+			weight = 1,
+		},
+		[284]=
+		{
+			no = 284,
+			award_id = 40,
+			real_award_id = 11732,
+			award_name = "300福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 300300,
+			weight = 10,
+		},
+		[285]=
+		{
+			no = 285,
+			award_id = 40,
+			real_award_id = 11733,
+			award_name = "150福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 150150,
+			weight = 55,
+		},
+		[286]=
+		{
+			no = 286,
+			award_id = 40,
+			real_award_id = 11737,
+			award_name = "100福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 100100,
+			weight = 34,
 		},
 	},
 	weight=

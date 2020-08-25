@@ -11,6 +11,8 @@ return {
 			rank_id = 1,
 			everyday_rank_id = 1,
 			enable = 1,
+			fixed_rank_id = 1,
+			rank_time_id = 1,
 		},
 		[2]=
 		{
@@ -22,6 +24,8 @@ return {
 			rank_id = 2,
 			everyday_rank_id = 2,
 			enable = 1,
+			fixed_rank_id = 2,
+			rank_time_id = 2,
 		},
 		[3]=
 		{
@@ -33,6 +37,8 @@ return {
 			rank_id = 3,
 			everyday_rank_id = 3,
 			enable = 1,
+			fixed_rank_id = 3,
+			rank_time_id = 3,
 		},
 		[4]=
 		{
@@ -44,6 +50,210 @@ return {
 			rank_id = 4,
 			everyday_rank_id = 4,
 			enable = 1,
+			fixed_rank_id = 4,
+			rank_time_id = 4,
+		},
+	},
+	fixed_rank=
+	{
+		[1]=
+		{
+			id = 1,
+			fixed_rank_id = 1,
+			rank_range = {1,10},
+			num = 10,
+		},
+		[2]=
+		{
+			id = 2,
+			fixed_rank_id = 1,
+			rank_range = {11,15},
+			num = 2,
+		},
+		[3]=
+		{
+			id = 3,
+			fixed_rank_id = 2,
+			rank_range = {1,10},
+			num = 10,
+		},
+		[4]=
+		{
+			id = 4,
+			fixed_rank_id = 2,
+			rank_range = {11,15},
+			num = 2,
+		},
+		[5]=
+		{
+			id = 5,
+			fixed_rank_id = 3,
+			rank_range = {1,10},
+			num = 10,
+		},
+		[6]=
+		{
+			id = 6,
+			fixed_rank_id = 3,
+			rank_range = {11,15},
+			num = 1,
+		},
+		[7]=
+		{
+			id = 7,
+			fixed_rank_id = 4,
+			rank_range = {1,10},
+			num = 10,
+		},
+		[8]=
+		{
+			id = 8,
+			fixed_rank_id = 4,
+			rank_range = {11,15},
+			num = 1,
+		},
+	},
+	rank_time=
+	{
+		[1]=
+		{
+			id = 1,
+			rank_time_id = 1,
+			time_range = {83640,6720},
+			power = 15,
+		},
+		[2]=
+		{
+			id = 2,
+			rank_time_id = 1,
+			time_range = {6720,29580},
+			power = 5,
+		},
+		[3]=
+		{
+			id = 3,
+			rank_time_id = 1,
+			time_range = {29580,45300},
+			power = 10,
+		},
+		[4]=
+		{
+			id = 4,
+			rank_time_id = 1,
+			time_range = {45300,65580},
+			power = 30,
+		},
+		[5]=
+		{
+			id = 5,
+			rank_time_id = 1,
+			time_range = {65580,83640},
+			power = 40,
+		},
+		[6]=
+		{
+			id = 6,
+			rank_time_id = 2,
+			time_range = {83640,6720},
+			power = 15,
+		},
+		[7]=
+		{
+			id = 7,
+			rank_time_id = 2,
+			time_range = {6720,29580},
+			power = 5,
+		},
+		[8]=
+		{
+			id = 8,
+			rank_time_id = 2,
+			time_range = {29580,45300},
+			power = 10,
+		},
+		[9]=
+		{
+			id = 9,
+			rank_time_id = 2,
+			time_range = {45300,65580},
+			power = 30,
+		},
+		[10]=
+		{
+			id = 10,
+			rank_time_id = 2,
+			time_range = {65580,83640},
+			power = 40,
+		},
+		[11]=
+		{
+			id = 11,
+			rank_time_id = 3,
+			time_range = {83640,6720},
+			power = 15,
+		},
+		[12]=
+		{
+			id = 12,
+			rank_time_id = 3,
+			time_range = {6720,29580},
+			power = 5,
+		},
+		[13]=
+		{
+			id = 13,
+			rank_time_id = 3,
+			time_range = {29580,45300},
+			power = 10,
+		},
+		[14]=
+		{
+			id = 14,
+			rank_time_id = 3,
+			time_range = {45300,65580},
+			power = 30,
+		},
+		[15]=
+		{
+			id = 15,
+			rank_time_id = 3,
+			time_range = {65580,83640},
+			power = 40,
+		},
+		[16]=
+		{
+			id = 16,
+			rank_time_id = 4,
+			time_range = {83640,6720},
+			power = 15,
+		},
+		[17]=
+		{
+			id = 17,
+			rank_time_id = 4,
+			time_range = {6720,29580},
+			power = 5,
+		},
+		[18]=
+		{
+			id = 18,
+			rank_time_id = 4,
+			time_range = {29580,45300},
+			power = 10,
+		},
+		[19]=
+		{
+			id = 19,
+			rank_time_id = 4,
+			time_range = {45300,65580},
+			power = 30,
+		},
+		[20]=
+		{
+			id = 20,
+			rank_time_id = 4,
+			time_range = {65580,83640},
+			power = 40,
 		},
 	},
 	cfg=
@@ -83,7 +293,7 @@ return {
 		{
 			id = 1,
 			game_type = "fishing_3d_game",
-			rank_limit_min = 1201,
+			rank_limit_min = 1000,
 			game_id = 2,
 			bullet_num = 1000,
 			bullet_rate = {1.01,1.02,1.03,1.04,1.05,1.06,1.07,1.08,1.09,1.1},
@@ -92,7 +302,7 @@ return {
 		{
 			id = 2,
 			game_type = "fishing_3d_game",
-			rank_limit_min = 1201,
+			rank_limit_min = 1000,
 			game_id = 3,
 			bullet_num = 1000,
 			bullet_rate = {1.01,1.02,1.03,1.04,1.05,1.06,1.07,1.08,1.09,1.1},
@@ -101,7 +311,7 @@ return {
 		{
 			id = 3,
 			game_type = "fishing_3d_game",
-			rank_limit_min = 1201,
+			rank_limit_min = 1000,
 			game_id = 4,
 			bullet_num = 1000,
 			bullet_rate = {1.01,1.02,1.03,1.04,1.05,1.06,1.07,1.08,1.09,1.1},
@@ -110,7 +320,7 @@ return {
 		{
 			id = 4,
 			game_type = "fishing_3d_game",
-			rank_limit_min = 1201,
+			rank_limit_min = 1000,
 			game_id = 5,
 			bullet_num = 1000,
 			bullet_rate = {1.01,1.02,1.03,1.04,1.05,1.06,1.07,1.08,1.09,1.1},
@@ -131,7 +341,7 @@ return {
 			id = 2,
 			rank_id = 1,
 			rank_level = 2,
-			score = {1201,1499},
+			score = {1300,1499},
 			score_award_id = 2,
 		},
 		[3]=
@@ -139,7 +349,7 @@ return {
 			id = 3,
 			rank_id = 1,
 			rank_level = 3,
-			score = {1000,1200},
+			score = {1000,1299},
 			score_award_id = 3,
 		},
 		[4]=
@@ -155,7 +365,7 @@ return {
 			id = 5,
 			rank_id = 2,
 			rank_level = 2,
-			score = {1201,1499},
+			score = {1300,1499},
 			score_award_id = 5,
 		},
 		[6]=
@@ -163,7 +373,7 @@ return {
 			id = 6,
 			rank_id = 2,
 			rank_level = 3,
-			score = {1000,1200},
+			score = {1000,1299},
 			score_award_id = 6,
 		},
 		[7]=
@@ -179,7 +389,7 @@ return {
 			id = 8,
 			rank_id = 3,
 			rank_level = 2,
-			score = {1201,1499},
+			score = {1300,1499},
 			score_award_id = 8,
 		},
 		[9]=
@@ -187,7 +397,7 @@ return {
 			id = 9,
 			rank_id = 3,
 			rank_level = 3,
-			score = {1000,1200},
+			score = {1000,1299},
 			score_award_id = 9,
 		},
 		[10]=
@@ -203,7 +413,7 @@ return {
 			id = 11,
 			rank_id = 4,
 			rank_level = 2,
-			score = {1201,1499},
+			score = {1300,1499},
 			score_award_id = 11,
 		},
 		[12]=
@@ -211,7 +421,7 @@ return {
 			id = 12,
 			rank_id = 4,
 			rank_level = 3,
-			score = {1000,1200},
+			score = {1000,1299},
 			score_award_id = 12,
 		},
 	},

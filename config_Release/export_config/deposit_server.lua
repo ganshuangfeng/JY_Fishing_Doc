@@ -49,9 +49,9 @@ return {
 			game_type = "fishing_3d_game",
 			rate = 0.003000,
 		},
-		jing_yu_kuai_pao=
+		xiaoxiaole_xiyou=
 		{
-			game_type = "jing_yu_kuai_pao",
+			game_type = "xiaoxiaole_xiyou",
 			rate = 0.003000,
 		},
 	},

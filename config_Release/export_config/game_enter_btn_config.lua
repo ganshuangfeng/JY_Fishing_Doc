@@ -11,7 +11,7 @@ return {
 		{
 			id = 2,
 			area = "center1",
-			group_list = "15#",
+			group_list = "91#",
 		},
 		[3]=
 		{
@@ -86,7 +86,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31#",
+			group_list = "16;31;90#",
 		},
 		[3]=
 		{
@@ -97,7 +97,7 @@ return {
 		[4]=
 		{
 			id = 4,
-			area = "center",
+			area = "center1",
 		},
 	},
 	zpg_game=
@@ -149,13 +149,13 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "36#11#58#30#",
+			group_list = "36;89#11#58#30#",
 		},
 		[3]=
 		{
 			id = 3,
 			area = "right",
-			group_list = "84#42#",
+			group_list = "84#42#92#",
 		},
 		[4]=
 		{
@@ -274,7 +274,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "40#43#79#88",
+			group_list = "40#43#79#88#8#",
 		},
 		[2]=
 		{
@@ -292,7 +292,7 @@ return {
 		{
 			id = 4,
 			area = "down2",
-			group_list = "8#87#36#11#",
+			group_list = "87#36;89#11#",
 		},
 		[5]=
 		{
@@ -895,6 +895,30 @@ return {
 		{
 			id = 88,
 			parm = {"gift_czlb",},
+			is_on_off = 1,
+		},
+		[89]=
+		{
+			id = 89,
+			parm = {"act_026_xrcdj",},
+			is_on_off = 1,
+		},
+		[90]=
+		{
+			id = 90,
+			parm = {"act_026_sgxxlyd",},
+			is_on_off = 1,
+		},
+		[91]=
+		{
+			id = 91,
+			parm = {"act_026_sgxxlyd","enter2"},
+			is_on_off = 1,
+		},
+		[92]=
+		{
+			id = 92,
+			parm = {"sys_tgxt",},
 			is_on_off = 1,
 		},
 	},

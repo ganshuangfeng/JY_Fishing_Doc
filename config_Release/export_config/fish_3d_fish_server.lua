@@ -919,6 +919,69 @@ return {
 			rate = 40,
 			gd_award = 0,
 		},
+		[100]=
+		{
+			ID = 100,
+			fish_type = 1,
+			fish_form = {84,},
+			life = 75,
+			rate = 75,
+			gd_award = 0,
+		},
+		[101]=
+		{
+			ID = 101,
+			fish_type = 1,
+			fish_form = {85,},
+			life = 150,
+			rate = 150,
+			gd_award = 0,
+		},
+		[102]=
+		{
+			ID = 102,
+			fish_type = 1,
+			fish_form = {86,},
+			life = 250,
+			rate = 250,
+			gd_award = 0,
+		},
+		[103]=
+		{
+			ID = 103,
+			fish_type = 1,
+			fish_form = {87,},
+			life = 60,
+			rate = 60,
+			gd_award = 0,
+		},
+		[104]=
+		{
+			ID = 104,
+			fish_type = 1,
+			fish_form = {88,},
+			life = 40,
+			rate = 40,
+			gd_award = 0,
+		},
+		[105]=
+		{
+			ID = 105,
+			fish_type = 1,
+			fish_form = {89,},
+			life = 30,
+			rate = 30,
+			gd_award = 0,
+		},
+		[106]=
+		{
+			ID = 106,
+			fish_type = 1,
+			fish_form = {90,},
+			life = 20,
+			rate = 20,
+			gd_award = 0,
+		},
 	},
 	use_fish=
 	{
@@ -2246,6 +2309,118 @@ return {
 			broadcast = 0,
 			clear_level = 1,
 		},
+		[84]=
+		{
+			id = 84,
+			base_id = 52,
+			act_id = 49,
+			life = 75,
+			shoot = 0.013333,
+			act_type = "activity",
+			rate = 75,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 75,
+			ranking_show_rate = 1,
+			broadcast = 1,
+			clear_level = 1,
+		},
+		[85]=
+		{
+			id = 85,
+			base_id = 52,
+			act_id = 50,
+			life = 150,
+			shoot = 0.006667,
+			act_type = "activity",
+			rate = 150,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 150,
+			ranking_show_rate = 1,
+			broadcast = 1,
+			clear_level = 1,
+		},
+		[86]=
+		{
+			id = 86,
+			base_id = 52,
+			act_id = 51,
+			life = 250,
+			shoot = 0.004000,
+			act_type = "activity",
+			rate = 250,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 250,
+			ranking_show_rate = 1,
+			broadcast = 1,
+			clear_level = 1,
+		},
+		[87]=
+		{
+			id = 87,
+			base_id = 53,
+			act_id = 52,
+			life = 60,
+			shoot = 0.016667,
+			act_type = "activity",
+			rate = 60,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 60,
+			ranking_show_rate = 1,
+			broadcast = 0,
+			clear_level = 1,
+		},
+		[88]=
+		{
+			id = 88,
+			base_id = 54,
+			act_id = 53,
+			life = 40,
+			shoot = 0.025000,
+			act_type = "activity",
+			rate = 40,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 40,
+			ranking_show_rate = 1,
+			broadcast = 0,
+			clear_level = 1,
+		},
+		[89]=
+		{
+			id = 89,
+			base_id = 55,
+			act_id = 54,
+			life = 30,
+			shoot = 0.033333,
+			act_type = "activity",
+			rate = 30,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 30,
+			ranking_show_rate = 1,
+			broadcast = 0,
+			clear_level = 1,
+		},
+		[90]=
+		{
+			id = 90,
+			base_id = 56,
+			act_id = 55,
+			life = 20,
+			shoot = 0.050000,
+			act_type = "activity",
+			rate = 20,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 20,
+			ranking_show_rate = 1,
+			broadcast = 0,
+			clear_level = 1,
+		},
 	},
 	activity=
 	{
@@ -2675,6 +2850,69 @@ return {
 		[48]=
 		{
 			id = 48,
+			acti_type = 9,
+			num = {0,0.02,},
+			show = 1,
+			enter_bag = 1,
+			value = 20,
+		},
+		[49]=
+		{
+			id = 49,
+			acti_type = 9,
+			num = {0,0.05,0.1},
+			show = 0,
+			enter_bag = 1,
+			value = 75,
+		},
+		[50]=
+		{
+			id = 50,
+			acti_type = 9,
+			num = {0,0.1,0.2},
+			show = 0,
+			enter_bag = 1,
+			value = 150,
+		},
+		[51]=
+		{
+			id = 51,
+			acti_type = 9,
+			num = {0,0.2,0.3},
+			show = 0,
+			enter_bag = 1,
+			value = 250,
+		},
+		[52]=
+		{
+			id = 52,
+			acti_type = 9,
+			num = {0,0.06,},
+			show = 1,
+			enter_bag = 1,
+			value = 60,
+		},
+		[53]=
+		{
+			id = 53,
+			acti_type = 9,
+			num = {0,0.04,},
+			show = 1,
+			enter_bag = 1,
+			value = 40,
+		},
+		[54]=
+		{
+			id = 54,
+			acti_type = 9,
+			num = {0,0.03,},
+			show = 1,
+			enter_bag = 1,
+			value = 30,
+		},
+		[55]=
+		{
+			id = 55,
 			acti_type = 9,
 			num = {0,0.02,},
 			show = 1,
@@ -3165,6 +3403,51 @@ return {
 			life = 200,
 			shoot = 0.005000,
 			rate = 200,
+			gd_award = 0,
+		},
+		[52]=
+		{
+			id = 52,
+			type = 1,
+			life = 0,
+			shoot = 0,
+			rate = 0,
+			gd_award = 0,
+		},
+		[53]=
+		{
+			id = 53,
+			type = 1,
+			life = 0,
+			shoot = 0,
+			rate = 0,
+			gd_award = 0,
+		},
+		[54]=
+		{
+			id = 54,
+			type = 1,
+			life = 0,
+			shoot = 0,
+			rate = 0,
+			gd_award = 0,
+		},
+		[55]=
+		{
+			id = 55,
+			type = 1,
+			life = 0,
+			shoot = 0,
+			rate = 0,
+			gd_award = 0,
+		},
+		[56]=
+		{
+			id = 56,
+			type = 1,
+			life = 0,
+			shoot = 0,
+			rate = 0,
 			gd_award = 0,
 		},
 	},

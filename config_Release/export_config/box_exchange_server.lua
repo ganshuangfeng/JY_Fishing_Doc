@@ -401,6 +401,36 @@ return {
 			award_id = 36,
 			enable = 1,
 		},
+		[37]=
+		{
+			id = 37,
+			name = "新人抽大奖-青铜",
+			start_time = 1592841599,
+			end_time = 32503651200,
+			use_asset_id = 32,
+			award_id = 37,
+			enable = 1,
+		},
+		[38]=
+		{
+			id = 38,
+			name = "新人抽大奖-白银",
+			start_time = 1592841599,
+			end_time = 32503651200,
+			use_asset_id = 33,
+			award_id = 38,
+			enable = 1,
+		},
+		[39]=
+		{
+			id = 39,
+			name = "新人抽大奖-黄金",
+			start_time = 1592841599,
+			end_time = 32503651200,
+			use_asset_id = 34,
+			award_id = 39,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
@@ -619,6 +649,27 @@ return {
 			id = 31,
 			use_id = 31,
 			use_item = "prop_cjlb_9",
+			use_num = 1,
+		},
+		[32]=
+		{
+			id = 32,
+			use_id = 32,
+			use_item = "prop_xrcdj_1",
+			use_num = 1,
+		},
+		[33]=
+		{
+			id = 33,
+			use_id = 33,
+			use_item = "prop_xrcdj_2",
+			use_num = 1,
+		},
+		[34]=
+		{
+			id = 34,
+			use_id = 34,
+			use_item = "prop_xrcdj_3",
 			use_num = 1,
 		},
 	},
@@ -3003,6 +3054,276 @@ return {
 			asset_type = "jing_bi",
 			asset_count = {53800000,53800000},
 			weight = 4,
+		},
+		[256]=
+		{
+			no = 256,
+			award_id = 37,
+			real_award_id = 11701,
+			award_name = "3000金币",
+			asset_type = "jing_bi",
+			asset_count = {3000,3000},
+			weight = 1340,
+		},
+		[257]=
+		{
+			no = 257,
+			award_id = 37,
+			real_award_id = 11702,
+			award_name = "4000金币",
+			asset_type = "jing_bi",
+			asset_count = {4000,4000},
+			weight = 1330,
+		},
+		[258]=
+		{
+			no = 258,
+			award_id = 37,
+			real_award_id = 11703,
+			award_name = "5000金币",
+			asset_type = "jing_bi",
+			asset_count = {5000,5000},
+			weight = 1330,
+		},
+		[259]=
+		{
+			no = 259,
+			award_id = 37,
+			real_award_id = 11704,
+			award_name = "6000金币",
+			asset_type = "jing_bi",
+			asset_count = {6000,6000},
+			weight = 1840,
+		},
+		[260]=
+		{
+			no = 260,
+			award_id = 37,
+			real_award_id = 11705,
+			award_name = "7000金币",
+			asset_type = "jing_bi",
+			asset_count = {7000,7000},
+			weight = 1830,
+		},
+		[261]=
+		{
+			no = 261,
+			award_id = 37,
+			real_award_id = 11706,
+			award_name = "8000金币",
+			asset_type = "jing_bi",
+			asset_count = {8000,8000},
+			weight = 1830,
+		},
+		[262]=
+		{
+			no = 262,
+			award_id = 37,
+			real_award_id = 11707,
+			award_name = "9000金币",
+			asset_type = "jing_bi",
+			asset_count = {9000,9000},
+			weight = 167,
+		},
+		[263]=
+		{
+			no = 263,
+			award_id = 37,
+			real_award_id = 11708,
+			award_name = "10000金币",
+			asset_type = "jing_bi",
+			asset_count = {10000,10000},
+			weight = 167,
+		},
+		[264]=
+		{
+			no = 264,
+			award_id = 37,
+			real_award_id = 11709,
+			award_name = "11000金币",
+			asset_type = "jing_bi",
+			asset_count = {11000,11000},
+			weight = 166,
+		},
+		[265]=
+		{
+			no = 265,
+			award_id = 38,
+			real_award_id = 11710,
+			award_name = "4000金币",
+			asset_type = "jing_bi",
+			asset_count = {4000,4000},
+			weight = 1340,
+		},
+		[266]=
+		{
+			no = 266,
+			award_id = 38,
+			real_award_id = 11711,
+			award_name = "6福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {6,6},
+			weight = 1330,
+		},
+		[267]=
+		{
+			no = 267,
+			award_id = 38,
+			real_award_id = 11712,
+			award_name = "8福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {8,8},
+			weight = 1330,
+		},
+		[268]=
+		{
+			no = 268,
+			award_id = 38,
+			real_award_id = 11713,
+			award_name = "10福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {10,10},
+			weight = 1840,
+		},
+		[269]=
+		{
+			no = 269,
+			award_id = 38,
+			real_award_id = 11714,
+			award_name = "20000金币",
+			asset_type = "jing_bi",
+			asset_count = {20000,20000},
+			weight = 1830,
+		},
+		[270]=
+		{
+			no = 270,
+			award_id = 38,
+			real_award_id = 11715,
+			award_name = "30福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {30,30},
+			weight = 1830,
+		},
+		[271]=
+		{
+			no = 271,
+			award_id = 38,
+			real_award_id = 11716,
+			award_name = "4万金币",
+			asset_type = "jing_bi",
+			asset_count = {40000,40000},
+			weight = 167,
+		},
+		[272]=
+		{
+			no = 272,
+			award_id = 38,
+			real_award_id = 11717,
+			award_name = "50福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {50,50},
+			weight = 167,
+		},
+		[273]=
+		{
+			no = 273,
+			award_id = 38,
+			real_award_id = 11718,
+			award_name = "60福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {60,60},
+			weight = 166,
+		},
+		[274]=
+		{
+			no = 274,
+			award_id = 39,
+			real_award_id = 11719,
+			award_name = "30福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {30,30},
+			weight = 1340,
+		},
+		[275]=
+		{
+			no = 275,
+			award_id = 39,
+			real_award_id = 11720,
+			award_name = "40福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {40,40},
+			weight = 1330,
+		},
+		[276]=
+		{
+			no = 276,
+			award_id = 39,
+			real_award_id = 11721,
+			award_name = "50福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {50,50},
+			weight = 1330,
+		},
+		[277]=
+		{
+			no = 277,
+			award_id = 39,
+			real_award_id = 11722,
+			award_name = "80福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {80,80},
+			weight = 1840,
+		},
+		[278]=
+		{
+			no = 278,
+			award_id = 39,
+			real_award_id = 11723,
+			award_name = "100福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {100,100},
+			weight = 1830,
+		},
+		[279]=
+		{
+			no = 279,
+			award_id = 39,
+			real_award_id = 11724,
+			award_name = "120福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {120,120},
+			weight = 1830,
+		},
+		[280]=
+		{
+			no = 280,
+			award_id = 39,
+			real_award_id = 11725,
+			award_name = "150福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {150,150},
+			weight = 167,
+		},
+		[281]=
+		{
+			no = 281,
+			award_id = 39,
+			real_award_id = 11726,
+			award_name = "160福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {160,160},
+			weight = 167,
+		},
+		[282]=
+		{
+			no = 282,
+			award_id = 39,
+			real_award_id = 11727,
+			award_name = "170福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {170,170},
+			weight = 166,
 		},
 	},
 	weight=
