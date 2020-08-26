@@ -414,7 +414,7 @@ return {
 			name = "累计充值",
 			own_type = "normal",
 			task_enum = "common",
-			process_id = 12527,
+			process_id = 12530,
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 946677600,
@@ -428,7 +428,7 @@ return {
 			name = "累计赢金",
 			own_type = "normal",
 			task_enum = "common",
-			process_id = 12528,
+			process_id = 12531,
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 946677600,
@@ -442,7 +442,7 @@ return {
 			name = "击杀高倍鱼",
 			own_type = "normal",
 			task_enum = "common",
-			process_id = 12529,
+			process_id = 12532,
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 946677600,
@@ -456,7 +456,7 @@ return {
 			name = "击杀彩金鱼",
 			own_type = "normal",
 			task_enum = "common",
-			process_id = 12526,
+			process_id = 12533,
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 946677600,
@@ -470,7 +470,7 @@ return {
 			name = "累计充值",
 			own_type = "normal",
 			task_enum = "common",
-			process_id = 12527,
+			process_id = 12534,
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 946677600,
@@ -484,7 +484,21 @@ return {
 			name = "累计赢金",
 			own_type = "normal",
 			task_enum = "common",
-			process_id = 12528,
+			process_id = 12535,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[12536]=
+		{
+			id = 12536,
+			enable = 1,
+			name = "击杀高倍鱼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 12536,
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 946677600,
@@ -826,6 +840,15 @@ return {
 		[36]=
 		{
 			id = 36,
+			process_id = 12536,
+			source_id = 32,
+			process = 8,
+			awards = 1025,
+			get_award_type = "nor",
+		},
+		[37]=
+		{
+			id = 37,
 			process_id = 13000,
 			process = {30,30,30,30,30},
 			awards = {2001,2002,2003,2004,2005},
@@ -1579,7 +1602,7 @@ return {
 			id = 16,
 			award_id = 1008,
 			asset_type = "task_13000",
-			asset_count = 50,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[17]=
@@ -1838,39 +1861,38 @@ return {
 		[49]=
 		{
 			id = 49,
-			award_id = 2001,
-			asset_type = "fish_coin",
-			asset_count = 5000,
+			award_id = 1025,
+			asset_type = "obj_3d_1000flq_86400",
 			get_weight = 1,
 		},
 		[50]=
 		{
 			id = 50,
-			award_id = 2001,
-			asset_type = "prop_3d_fish_lock",
-			asset_count = 2,
+			award_id = 1025,
+			asset_type = "task_13000",
+			asset_count = 20,
 			get_weight = 1,
 		},
 		[51]=
 		{
 			id = 51,
-			award_id = 2002,
+			award_id = 2001,
 			asset_type = "fish_coin",
-			asset_count = 10000,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[52]=
 		{
 			id = 52,
-			award_id = 2002,
-			asset_type = "prop_3d_fish_summon_fish",
-			asset_count = 1,
+			award_id = 2001,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 2,
 			get_weight = 1,
 		},
 		[53]=
 		{
 			id = 53,
-			award_id = 2003,
+			award_id = 2002,
 			asset_type = "fish_coin",
 			asset_count = 10000,
 			get_weight = 1,
@@ -1878,15 +1900,15 @@ return {
 		[54]=
 		{
 			id = 54,
-			award_id = 2003,
-			asset_type = "prop_tiny_game_coin",
-			asset_count = 10000,
+			award_id = 2002,
+			asset_type = "prop_3d_fish_summon_fish",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[55]=
 		{
 			id = 55,
-			award_id = 2004,
+			award_id = 2003,
 			asset_type = "fish_coin",
 			asset_count = 10000,
 			get_weight = 1,
@@ -1894,22 +1916,38 @@ return {
 		[56]=
 		{
 			id = 56,
-			award_id = 2004,
-			asset_type = "shop_gold_sum",
-			asset_count = 10,
+			award_id = 2003,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[57]=
 		{
 			id = 57,
-			award_id = 2005,
-			asset_type = "jing_bi",
-			asset_count = 30000,
+			award_id = 2004,
+			asset_type = "fish_coin",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[58]=
 		{
 			id = 58,
+			award_id = 2004,
+			asset_type = "shop_gold_sum",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[59]=
+		{
+			id = 59,
+			award_id = 2005,
+			asset_type = "jing_bi",
+			asset_count = 30000,
+			get_weight = 1,
+		},
+		[60]=
+		{
+			id = 60,
 			award_id = 2005,
 			asset_type = "shop_gold_sum",
 			asset_count = 30,
