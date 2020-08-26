@@ -945,6 +945,7 @@ return {
 			tips = "25级领炮台",
 			gunlv_tips = "25级解锁",
 			gun_img = "3dby_icon_djpt1",
+			gun_type = 1,
 		},
 		[25]=
 		{
@@ -982,6 +983,7 @@ return {
 			unlock_award_nums = {4800,1,},
 			tips = "30级领头像框",
 			gunlv_tips = "30级解锁",
+			gun_type = 2,
 		},
 		[30]=
 		{
@@ -1055,6 +1057,7 @@ return {
 			tips = "40级领炮台",
 			gunlv_tips = "40级解锁",
 			gun_img = "3dby_icon_djpt2",
+			gun_type = 1,
 		},
 		[40]=
 		{
@@ -1127,6 +1130,7 @@ return {
 			unlock_award_nums = {6800,1,},
 			tips = "50级领头像框",
 			gunlv_tips = "50级解锁",
+			gun_type = 2,
 		},
 		[50]=
 		{
@@ -1200,6 +1204,7 @@ return {
 			tips = "60级领炮台",
 			gunlv_tips = "60级解锁",
 			gun_img = "3dby_icon_djpt3",
+			gun_type = 1,
 		},
 		[60]=
 		{
@@ -1272,6 +1277,7 @@ return {
 			unlock_award_nums = {8800,1,},
 			tips = "70级领头像框",
 			gunlv_tips = "70级解锁",
+			gun_type = 2,
 		},
 		[70]=
 		{
@@ -1345,6 +1351,7 @@ return {
 			tips = "80级领炮台",
 			gunlv_tips = "80级解锁",
 			gun_img = "3dby_icon_djpt4",
+			gun_type = 1,
 		},
 		[80]=
 		{
@@ -1417,6 +1424,7 @@ return {
 			unlock_award_nums = {10000,1,},
 			tips = "90级领头像框",
 			gunlv_tips = "90级解锁",
+			gun_type = 2,
 		},
 		[90]=
 		{
@@ -1490,6 +1498,7 @@ return {
 			tips = "100级领炮台",
 			gunlv_tips = "100级解锁",
 			gun_img = "3dby_icon_djpt5",
+			gun_type = 1,
 		},
 	},
 }
