@@ -5099,7 +5099,7 @@ return {
 		{
 			id = 278,
 			enable = 1,
-			key = "fish_daily_task_1",
+			key = "actp_fish_daily_task_1",
 			name = "捕鱼每日任务（新玩家）",
 			condi = 282,
 			is_dynamic_codi = 1,
@@ -5111,7 +5111,7 @@ return {
 		{
 			id = 279,
 			enable = 1,
-			key = "fish_daily_task_2",
+			key = "actp_fish_daily_task_2",
 			name = "捕鱼每日任务（免费，小额）",
 			condi = 283,
 			is_dynamic_codi = 1,
@@ -5123,7 +5123,7 @@ return {
 		{
 			id = 280,
 			enable = 1,
-			key = "fish_daily_task_3",
+			key = "actp_fish_daily_task_3",
 			name = "捕鱼每日任务（V1-V3）",
 			condi = 284,
 			is_dynamic_codi = 1,
@@ -5135,7 +5135,7 @@ return {
 		{
 			id = 281,
 			enable = 1,
-			key = "fish_daily_task_4",
+			key = "actp_fish_daily_task_4",
 			name = "捕鱼每日任务（V4-V6）",
 			condi = 285,
 			is_dynamic_codi = 1,
@@ -5147,7 +5147,7 @@ return {
 		{
 			id = 282,
 			enable = 1,
-			key = "fish_daily_task_5",
+			key = "actp_fish_daily_task_5",
 			name = "捕鱼每日任务（V7-V10）",
 			condi = 286,
 			is_dynamic_codi = 1,
