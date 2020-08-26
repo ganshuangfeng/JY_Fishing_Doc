@@ -1160,6 +1160,8 @@ return {
 		{
 			id = 47,
 			source_id = 24,
+			source_type = "watch_ad",
+			condition_id = 0,
 		},
 		[48]=
 		{
