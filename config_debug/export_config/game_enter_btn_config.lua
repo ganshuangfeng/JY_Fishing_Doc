@@ -351,6 +351,12 @@ return {
 			area = "center5",
 			group_list = "77#68",
 		},
+		[8]=
+		{
+			id = 8,
+			area = "top_right_1",
+			group_list = "95#",
+		},
 	},
 	ttl_config=
 	{
@@ -782,7 +788,7 @@ return {
 		{
 			id = 69,
 			parm = {"by3d_act_jc","game_hall_enter4"},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[70]=
 		{
@@ -932,6 +938,18 @@ return {
 		{
 			id = 94,
 			parm = {"act_027_mfflq",},
+			is_on_off = 1,
+		},
+		[95]=
+		{
+			id = 95,
+			parm = {"by3d_act_jc","hallEnter"},
+			is_on_off = 1,
+		},
+		[96]=
+		{
+			id = 96,
+			parm = {"by3d_act_jc","gameshow"},
 			is_on_off = 1,
 		},
 	},
