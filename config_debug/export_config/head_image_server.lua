@@ -113,7 +113,7 @@ return {
 			vip_permission = 0,
 			level_permission = 5,
 			level_permission_desc = "5级解锁",
-			level_permission__tips = "Lv5开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv5开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[17]=
 		{
@@ -122,7 +122,7 @@ return {
 			vip_permission = 0,
 			level_permission = 15,
 			level_permission_desc = "15级解锁",
-			level_permission__tips = "Lv15开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv15开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[18]=
 		{
@@ -131,7 +131,7 @@ return {
 			vip_permission = 0,
 			level_permission = 25,
 			level_permission_desc = "25级解锁",
-			level_permission__tips = "Lv25开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv25开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[19]=
 		{
@@ -140,7 +140,7 @@ return {
 			vip_permission = 0,
 			level_permission = 35,
 			level_permission_desc = "35级解锁",
-			level_permission__tips = "Lv35开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv35开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[20]=
 		{
@@ -149,7 +149,7 @@ return {
 			vip_permission = 0,
 			level_permission = 45,
 			level_permission_desc = "45级解锁",
-			level_permission__tips = "Lv45开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv45开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[21]=
 		{
@@ -158,7 +158,7 @@ return {
 			vip_permission = 0,
 			level_permission = 55,
 			level_permission_desc = "55级解锁",
-			level_permission__tips = "Lv55开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv55开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[22]=
 		{
@@ -167,7 +167,7 @@ return {
 			vip_permission = 0,
 			level_permission = 65,
 			level_permission_desc = "65级解锁",
-			level_permission__tips = "Lv65开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv65开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[23]=
 		{
@@ -176,7 +176,7 @@ return {
 			vip_permission = 0,
 			level_permission = 75,
 			level_permission_desc = "75级解锁",
-			level_permission__tips = "Lv75开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv75开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[24]=
 		{
@@ -185,7 +185,7 @@ return {
 			vip_permission = 0,
 			level_permission = 85,
 			level_permission_desc = "85级解锁",
-			level_permission__tips = "Lv85开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv85开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[25]=
 		{
@@ -194,7 +194,7 @@ return {
 			vip_permission = 0,
 			level_permission = 95,
 			level_permission_desc = "95级解锁",
-			level_permission__tips = "Lv95开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv95开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[26]=
 		{
@@ -308,7 +308,7 @@ return {
 			vip_permission = 0,
 			level_permission = 10,
 			level_permission_desc = "10级解锁",
-			level_permission__tips = "Lv10开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv10开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[42]=
 		{
@@ -317,7 +317,7 @@ return {
 			vip_permission = 0,
 			level_permission = 20,
 			level_permission_desc = "20级解锁",
-			level_permission__tips = "Lv20开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv20开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[43]=
 		{
@@ -326,7 +326,7 @@ return {
 			vip_permission = 0,
 			level_permission = 30,
 			level_permission_desc = "30级解锁",
-			level_permission__tips = "Lv30开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv30开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[44]=
 		{
@@ -335,7 +335,7 @@ return {
 			vip_permission = 0,
 			level_permission = 40,
 			level_permission_desc = "40级解锁",
-			level_permission__tips = "Lv40开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv40开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[45]=
 		{
@@ -344,7 +344,7 @@ return {
 			vip_permission = 0,
 			level_permission = 50,
 			level_permission_desc = "50级解锁",
-			level_permission__tips = "Lv50开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv50开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[46]=
 		{
@@ -353,7 +353,7 @@ return {
 			vip_permission = 0,
 			level_permission = 60,
 			level_permission_desc = "60级解锁",
-			level_permission__tips = "Lv60开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv60开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[47]=
 		{
@@ -362,7 +362,7 @@ return {
 			vip_permission = 0,
 			level_permission = 70,
 			level_permission_desc = "70级解锁",
-			level_permission__tips = "Lv70开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv70开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[48]=
 		{
@@ -371,7 +371,7 @@ return {
 			vip_permission = 0,
 			level_permission = 80,
 			level_permission_desc = "80级解锁",
-			level_permission__tips = "Lv80开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv80开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[49]=
 		{
@@ -380,7 +380,7 @@ return {
 			vip_permission = 0,
 			level_permission = 90,
 			level_permission_desc = "90级解锁",
-			level_permission__tips = "Lv90开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv90开启，在3D捕鱼中开炮可提升等级!",
 		},
 		[50]=
 		{
@@ -389,7 +389,7 @@ return {
 			vip_permission = 0,
 			level_permission = 100,
 			level_permission_desc = "100级解锁",
-			level_permission__tips = "Lv100开启，在3D捕鱼中开炮可提升等级!",
+			level_permission_tips = "Lv100开启，在3D捕鱼中开炮可提升等级!",
 		},
 	},
 }

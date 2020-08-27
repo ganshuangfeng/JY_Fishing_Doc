@@ -468,7 +468,7 @@ return {
 			id = -1,
 			icon = "activity_icon_gift_1000jdk",
 			scale = 1,
-			desc = "1000元京东卡",
+			desc = "千元京东卡",
 			is_dj = 1,
 		},
 		[13]=

@@ -127,6 +127,7 @@ return {
 			name = "圣光  I",
 			desc = "25级解锁",
 			desc_get = "25级解锁",
+			use_parm = {"game_Fishing3DHall",},
 		},
 		[9]=
 		{
@@ -141,6 +142,7 @@ return {
 			name = "圣光  II",
 			desc = "40级解锁",
 			desc_get = "40级解锁",
+			use_parm = {"game_Fishing3DHall",},
 		},
 		[10]=
 		{
@@ -155,6 +157,7 @@ return {
 			name = "圣光  III",
 			desc = "60级解锁",
 			desc_get = "60级解锁",
+			use_parm = {"game_Fishing3DHall",},
 		},
 		[11]=
 		{
@@ -169,6 +172,7 @@ return {
 			name = "圣光  IV",
 			desc = "80级解锁",
 			desc_get = "80级解锁",
+			use_parm = {"game_Fishing3DHall",},
 		},
 		[12]=
 		{
@@ -183,6 +187,7 @@ return {
 			name = "圣光  V",
 			desc = "100级解锁",
 			desc_get = "100级解锁",
+			use_parm = {"game_Fishing3DHall",},
 		},
 		[13]=
 		{
@@ -255,10 +260,10 @@ return {
 			type_colour = 1,
 			type = 3,
 			is_local_icon = 1,
+			image = "dt_tx_bg1",
 			order = 1,
-			name = "冒险 I",
-			desc = "30级解锁",
-			desc_get = "30级解锁",
+			name = "基础",
+			desc = "基础头像框",
 		},
 		[18]=
 		{
@@ -268,23 +273,27 @@ return {
 			type_colour = 1,
 			type = 3,
 			is_local_icon = 1,
-			order = 2,
-			name = "冒险 II",
-			desc = "50级解锁",
-			desc_get = "50级解锁",
+			image = "dt_tx_mx1",
+			order = 1,
+			name = "探险 I",
+			desc = "30级解锁",
+			desc_get = "30级解锁",
+			use_parm = {"game_Fishing3DHall",},
 		},
 		[19]=
 		{
 			id = 19,
 			item_id = 3,
 			item_key = "head_frame_3",
-			type_colour = 2,
+			type_colour = 1,
 			type = 3,
 			is_local_icon = 1,
-			order = 3,
-			name = "冒险 III",
-			desc = "70级解锁",
-			desc_get = "70级解锁",
+			image = "dt_tx_mx2",
+			order = 2,
+			name = "探险 II",
+			desc = "50级解锁",
+			desc_get = "50级解锁",
+			use_parm = {"game_Fishing3DHall",},
 		},
 		[20]=
 		{
@@ -294,23 +303,42 @@ return {
 			type_colour = 2,
 			type = 3,
 			is_local_icon = 1,
-			order = 4,
-			name = "冒险 IV",
-			desc = "90级解锁",
-			desc_get = "90级解锁",
+			image = "dt_tx_mx3",
+			order = 3,
+			name = "探险 III",
+			desc = "70级解锁",
+			desc_get = "70级解锁",
+			use_parm = {"game_Fishing3DHall",},
 		},
 		[21]=
 		{
 			id = 21,
 			item_id = 5,
 			item_key = "head_frame_5",
+			type_colour = 2,
+			type = 3,
+			is_local_icon = 1,
+			image = "dt_tx_mx4",
+			order = 4,
+			name = "探险 IV",
+			desc = "90级解锁",
+			desc_get = "90级解锁",
+			use_parm = {"game_Fishing3DHall",},
+		},
+		[22]=
+		{
+			id = 22,
+			item_id = 6,
+			item_key = "head_frame_6",
 			type_colour = 3,
 			type = 3,
 			is_local_icon = 1,
+			image = "dt_tx_mx5",
 			order = 5,
-			name = "冒险 V",
+			name = "探险 V",
 			desc = "100级解锁",
 			desc_get = "100级解锁",
+			use_parm = {"game_Fishing3DHall",},
 		},
 	},
 }
