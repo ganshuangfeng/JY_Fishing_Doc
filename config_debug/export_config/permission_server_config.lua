@@ -11873,24 +11873,14 @@ return {
 			no = 672,
 			id = 280,
 			var = "tag_type",
-			value = "tag_class_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "不是新用户",
-		},
-		[673]=
-		{
-			no = 673,
-			id = 280,
-			var = "tag_type",
 			value = "tag_free_player",
 			judge = 2,
 			group = 2,
 			error_desc = "只展示给免费用户标签",
 		},
-		[674]=
+		[673]=
 		{
-			no = 674,
+			no = 673,
 			id = 280,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -11898,9 +11888,9 @@ return {
 			group = 3,
 			error_desc = "只展示给小额标签用户",
 		},
-		[675]=
+		[674]=
 		{
-			no = 675,
+			no = 674,
 			id = 281,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -11908,9 +11898,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[676]=
+		[675]=
 		{
-			no = 676,
+			no = 675,
 			id = 282,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -11918,9 +11908,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[677]=
+		[676]=
 		{
-			no = 677,
+			no = 676,
 			id = 283,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -11928,9 +11918,9 @@ return {
 			group = 1,
 			error_desc = "只展示给免费用户标签",
 		},
-		[678]=
+		[677]=
 		{
-			no = 678,
+			no = 677,
 			id = 283,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -11938,9 +11928,9 @@ return {
 			group = 2,
 			error_desc = "只展示给小额标签用户",
 		},
-		[679]=
+		[678]=
 		{
-			no = 679,
+			no = 678,
 			id = 284,
 			var = "vip_level",
 			value = 1,
@@ -11948,9 +11938,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[680]=
+		[679]=
 		{
-			no = 680,
+			no = 679,
 			id = 284,
 			var = "vip_level",
 			value = 3,
@@ -11958,9 +11948,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户可进行游戏",
 		},
-		[681]=
+		[680]=
 		{
-			no = 681,
+			no = 680,
 			id = 285,
 			var = "vip_level",
 			value = 4,
@@ -11968,9 +11958,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户可进行游戏",
 		},
-		[682]=
+		[681]=
 		{
-			no = 682,
+			no = 681,
 			id = 285,
 			var = "vip_level",
 			value = 6,
@@ -11978,9 +11968,9 @@ return {
 			group = 1,
 			error_desc = "VIP6及以下的用户可进行游戏",
 		},
-		[683]=
+		[682]=
 		{
-			no = 683,
+			no = 682,
 			id = 286,
 			var = "vip_level",
 			value = 7,
@@ -11988,9 +11978,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以上的用户可进行游戏",
 		},
-		[684]=
+		[683]=
 		{
-			no = 684,
+			no = 683,
 			id = 286,
 			var = "vip_level",
 			value = 10,
