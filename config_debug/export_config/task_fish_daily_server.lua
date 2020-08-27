@@ -505,6 +505,20 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
+		[12537]=
+		{
+			id = 12537,
+			enable = 1,
+			name = "击杀BOSS鱼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 12511,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
 		[13000]=
 		{
 			id = 13000,
@@ -849,6 +863,15 @@ return {
 		[37]=
 		{
 			id = 37,
+			process_id = 12537,
+			source_id = 11,
+			process = 1,
+			awards = 1028,
+			get_award_type = "nor",
+		},
+		[38]=
+		{
+			id = 38,
 			process_id = 13000,
 			process = {30,30,30,30,30},
 			awards = {2001,2002,2003,2004,2005},
@@ -1799,7 +1822,8 @@ return {
 		{
 			id = 41,
 			award_id = 1021,
-			asset_type = "obj_3d_500flq_86400",
+			asset_type = "jing_bi",
+			asset_count = 50000,
 			get_weight = 1,
 		},
 		[42]=
@@ -1862,7 +1886,8 @@ return {
 		{
 			id = 49,
 			award_id = 1025,
-			asset_type = "obj_3d_1000flq_86400",
+			asset_type = "jing_bi",
+			asset_count = 80000,
 			get_weight = 1,
 		},
 		[50]=
@@ -1893,8 +1918,7 @@ return {
 		{
 			id = 53,
 			award_id = 1027,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			asset_type = "obj_3d_500flq_86400",
 			get_weight = 1,
 		},
 		[54]=
@@ -1908,39 +1932,38 @@ return {
 		[55]=
 		{
 			id = 55,
-			award_id = 2001,
-			asset_type = "fish_coin",
-			asset_count = 5000,
+			award_id = 1028,
+			asset_type = "obj_3d_1000flq_86400",
 			get_weight = 1,
 		},
 		[56]=
 		{
 			id = 56,
-			award_id = 2001,
-			asset_type = "prop_3d_fish_lock",
-			asset_count = 2,
+			award_id = 1028,
+			asset_type = "task_13000",
+			asset_count = 20,
 			get_weight = 1,
 		},
 		[57]=
 		{
 			id = 57,
-			award_id = 2002,
+			award_id = 2001,
 			asset_type = "fish_coin",
-			asset_count = 10000,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[58]=
 		{
 			id = 58,
-			award_id = 2002,
-			asset_type = "prop_3d_fish_summon_fish",
-			asset_count = 1,
+			award_id = 2001,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 2,
 			get_weight = 1,
 		},
 		[59]=
 		{
 			id = 59,
-			award_id = 2003,
+			award_id = 2002,
 			asset_type = "fish_coin",
 			asset_count = 10000,
 			get_weight = 1,
@@ -1948,15 +1971,15 @@ return {
 		[60]=
 		{
 			id = 60,
-			award_id = 2003,
-			asset_type = "prop_tiny_game_coin",
-			asset_count = 10000,
+			award_id = 2002,
+			asset_type = "prop_3d_fish_summon_fish",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[61]=
 		{
 			id = 61,
-			award_id = 2004,
+			award_id = 2003,
 			asset_type = "fish_coin",
 			asset_count = 10000,
 			get_weight = 1,
@@ -1964,22 +1987,38 @@ return {
 		[62]=
 		{
 			id = 62,
-			award_id = 2004,
-			asset_type = "shop_gold_sum",
-			asset_count = 10,
+			award_id = 2003,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[63]=
 		{
 			id = 63,
-			award_id = 2005,
-			asset_type = "jing_bi",
-			asset_count = 30000,
+			award_id = 2004,
+			asset_type = "fish_coin",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[64]=
 		{
 			id = 64,
+			award_id = 2004,
+			asset_type = "shop_gold_sum",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[65]=
+		{
+			id = 65,
+			award_id = 2005,
+			asset_type = "jing_bi",
+			asset_count = 30000,
+			get_weight = 1,
+		},
+		[66]=
+		{
+			id = 66,
 			award_id = 2005,
 			asset_type = "shop_gold_sum",
 			asset_count = 30,

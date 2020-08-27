@@ -4651,25 +4651,25 @@ return {
 		{
 			id = 266,
 			real_award_id = 11711,
-			award_name = "6福利券",
-			asset_type = "shop_gold_sum",
-			asset_count = {6,6},
+			award_name = "6000金币",
+			asset_type = "jing_bi",
+			asset_count = {6000,6000},
 		},
 		[267]=
 		{
 			id = 267,
 			real_award_id = 11712,
-			award_name = "8福利券",
-			asset_type = "shop_gold_sum",
-			asset_count = {8,8},
+			award_name = "8000金币",
+			asset_type = "jing_bi",
+			asset_count = {8000,8000},
 		},
 		[268]=
 		{
 			id = 268,
 			real_award_id = 11713,
-			award_name = "10福利券",
-			asset_type = "shop_gold_sum",
-			asset_count = {10,10},
+			award_name = "10000金币",
+			asset_type = "jing_bi",
+			asset_count = {10000,10000},
 		},
 		[269]=
 		{
@@ -4683,15 +4683,15 @@ return {
 		{
 			id = 270,
 			real_award_id = 11715,
-			award_name = "30福利券",
-			asset_type = "shop_gold_sum",
-			asset_count = {30,30},
+			award_name = "30000金币",
+			asset_type = "jing_bi",
+			asset_count = {30000,30000},
 		},
 		[271]=
 		{
 			id = 271,
 			real_award_id = 11716,
-			award_name = "4万金币",
+			award_name = "40000金币",
 			asset_type = "jing_bi",
 			asset_count = {40000,40000},
 		},
@@ -4699,89 +4699,89 @@ return {
 		{
 			id = 272,
 			real_award_id = 11717,
-			award_name = "50福利券",
-			asset_type = "shop_gold_sum",
-			asset_count = {50,50},
+			award_name = "50000金币",
+			asset_type = "jing_bi",
+			asset_count = {50000,50000},
 		},
 		[273]=
 		{
 			id = 273,
 			real_award_id = 11718,
-			award_name = "60福利券",
-			asset_type = "shop_gold_sum",
-			asset_count = {60,60},
+			award_name = "60000金币",
+			asset_type = "jing_bi",
+			asset_count = {60000,60000},
 		},
 		[274]=
 		{
 			id = 274,
 			real_award_id = 11719,
-			award_name = "30福利券",
-			asset_type = "shop_gold_sum",
-			asset_count = {30,30},
+			award_name = "3000金币",
+			asset_type = "jing_bi",
+			asset_count = {3000,3000},
 		},
 		[275]=
 		{
 			id = 275,
 			real_award_id = 11720,
-			award_name = "40福利券",
-			asset_type = "shop_gold_sum",
-			asset_count = {40,40},
+			award_name = "4000金币",
+			asset_type = "jing_bi",
+			asset_count = {4000,4000},
 		},
 		[276]=
 		{
 			id = 276,
 			real_award_id = 11721,
-			award_name = "50福利券",
-			asset_type = "shop_gold_sum",
-			asset_count = {50,50},
+			award_name = "5000金币",
+			asset_type = "jing_bi",
+			asset_count = {5000,5000},
 		},
 		[277]=
 		{
 			id = 277,
 			real_award_id = 11722,
-			award_name = "80福利券",
-			asset_type = "shop_gold_sum",
-			asset_count = {80,80},
+			award_name = "8000金币",
+			asset_type = "jing_bi",
+			asset_count = {8000,8000},
 		},
 		[278]=
 		{
 			id = 278,
 			real_award_id = 11723,
-			award_name = "100福利券",
-			asset_type = "shop_gold_sum",
+			award_name = "1元话费",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {100,100},
 		},
 		[279]=
 		{
 			id = 279,
 			real_award_id = 11724,
-			award_name = "120福利券",
-			asset_type = "shop_gold_sum",
-			asset_count = {120,120},
+			award_name = "120000金币",
+			asset_type = "jing_bi",
+			asset_count = {120000,120000},
 		},
 		[280]=
 		{
 			id = 280,
 			real_award_id = 11725,
-			award_name = "150福利券",
-			asset_type = "shop_gold_sum",
+			award_name = "1.5元话费",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {150,150},
 		},
 		[281]=
 		{
 			id = 281,
 			real_award_id = 11726,
-			award_name = "160福利券",
-			asset_type = "shop_gold_sum",
-			asset_count = {160,160},
+			award_name = "160000金币",
+			asset_type = "jing_bi",
+			asset_count = {160000,160000},
 		},
 		[282]=
 		{
 			id = 282,
 			real_award_id = 11727,
-			award_name = "170福利券",
-			asset_type = "shop_gold_sum",
-			asset_count = {170,170},
+			award_name = "170000金币",
+			asset_type = "jing_bi",
+			asset_count = {170000,170000},
 		},
 		[283]=
 		{
