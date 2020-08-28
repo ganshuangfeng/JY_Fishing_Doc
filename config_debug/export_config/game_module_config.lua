@@ -2625,7 +2625,7 @@ return {
 			key = "sys_tgxt",
 			desc = "推广系统",
 			lua = "SYSTGXTManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},

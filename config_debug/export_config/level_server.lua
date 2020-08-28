@@ -983,6 +983,7 @@ return {
 			unlock_award_nums = {4800,1,},
 			tips = "30级领头像框",
 			gunlv_tips = "30级解锁",
+			gun_img = "dt_tx_mx1",
 			gun_type = 2,
 		},
 		[30]=
@@ -1130,6 +1131,7 @@ return {
 			unlock_award_nums = {6800,1,},
 			tips = "50级领头像框",
 			gunlv_tips = "50级解锁",
+			gun_img = "dt_tx_mx2",
 			gun_type = 2,
 		},
 		[50]=
@@ -1277,6 +1279,7 @@ return {
 			unlock_award_nums = {8800,1,},
 			tips = "70级领头像框",
 			gunlv_tips = "70级解锁",
+			gun_img = "dt_tx_mx3",
 			gun_type = 2,
 		},
 		[70]=
@@ -1424,6 +1427,7 @@ return {
 			unlock_award_nums = {10000,1,},
 			tips = "90级领头像框",
 			gunlv_tips = "90级解锁",
+			gun_img = "dt_tx_mx4",
 			gun_type = 2,
 		},
 		[90]=

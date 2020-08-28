@@ -4,7 +4,7 @@ return {
 		player_vip_0=
 		{
 			key = "player_vip_0",
-			hb_limit = 1000,
+			hb_limit = 1400,
 		},
 		player_vip_1=
 		{

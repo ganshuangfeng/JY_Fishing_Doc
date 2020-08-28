@@ -1616,8 +1616,8 @@ return {
 		{
 			id = 15,
 			award_id = 1008,
-			asset_type = "shop_gold_sum",
-			asset_count = 30,
+			asset_type = "jing_bi",
+			asset_count = 30000,
 			get_weight = 1,
 		},
 		[16]=
@@ -1679,8 +1679,8 @@ return {
 		{
 			id = 23,
 			award_id = 1012,
-			asset_type = "shop_gold_sum",
-			asset_count = 30,
+			asset_type = "jing_bi",
+			asset_count = 30000,
 			get_weight = 1,
 		},
 		[24]=
@@ -1743,8 +1743,8 @@ return {
 		{
 			id = 31,
 			award_id = 1016,
-			asset_type = "shop_gold_sum",
-			asset_count = 50,
+			asset_type = "jing_bi",
+			asset_count = 50000,
 			get_weight = 1,
 		},
 		[32]=
@@ -1790,8 +1790,8 @@ return {
 		{
 			id = 37,
 			award_id = 1019,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
+			asset_type = "jing_bi",
+			asset_count = 150000,
 			get_weight = 1,
 		},
 		[38]=
@@ -1854,8 +1854,8 @@ return {
 		{
 			id = 45,
 			award_id = 1023,
-			asset_type = "shop_gold_sum",
-			asset_count = 500,
+			asset_type = "jing_bi",
+			asset_count = 500000,
 			get_weight = 1,
 		},
 		[46]=
@@ -2004,8 +2004,8 @@ return {
 		{
 			id = 64,
 			award_id = 2004,
-			asset_type = "shop_gold_sum",
-			asset_count = 10,
+			asset_type = "jing_bi",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[65]=
@@ -2013,15 +2013,7 @@ return {
 			id = 65,
 			award_id = 2005,
 			asset_type = "jing_bi",
-			asset_count = 30000,
-			get_weight = 1,
-		},
-		[66]=
-		{
-			id = 66,
-			award_id = 2005,
-			asset_type = "shop_gold_sum",
-			asset_count = 30,
+			asset_count = 60000,
 			get_weight = 1,
 		},
 	},

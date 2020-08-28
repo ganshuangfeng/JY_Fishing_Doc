@@ -27,14 +27,14 @@ return {
 			id = 4,
 			tag = 1,
 			active = 120,
-			award_tip = "1万鱼币，10福利券",
+			award_tip = "1万鱼币，1万金币",
 		},
 		[5]=
 		{
 			id = 5,
 			tag = 1,
 			active = 150,
-			award_tip = "3万金币，30福利券",
+			award_tip = "6万金币",
 		},
 		[6]=
 		{
@@ -62,14 +62,14 @@ return {
 			id = 9,
 			tag = 2,
 			active = 120,
-			award_tip = "1万鱼币，10福利券",
+			award_tip = "1万鱼币，1万金币",
 		},
 		[10]=
 		{
 			id = 10,
 			tag = 2,
 			active = 150,
-			award_tip = "3万金币，30福利券",
+			award_tip = "6万金币",
 		},
 		[11]=
 		{
@@ -97,14 +97,14 @@ return {
 			id = 14,
 			tag = 3,
 			active = 120,
-			award_tip = "1万鱼币，10福利券",
+			award_tip = "1万鱼币，1万金币",
 		},
 		[15]=
 		{
 			id = 15,
 			tag = 3,
 			active = 150,
-			award_tip = "3万金币，30福利券",
+			award_tip = "6万金币",
 		},
 		[16]=
 		{
@@ -132,14 +132,14 @@ return {
 			id = 19,
 			tag = 4,
 			active = 120,
-			award_tip = "1万鱼币，10福利券",
+			award_tip = "1万鱼币，1万金币",
 		},
 		[20]=
 		{
 			id = 20,
 			tag = 4,
 			active = 150,
-			award_tip = "3万金币，30福利券",
+			award_tip = "6万金币",
 		},
 		[21]=
 		{
@@ -167,14 +167,14 @@ return {
 			id = 24,
 			tag = 5,
 			active = 120,
-			award_tip = "1万鱼币，10福利券",
+			award_tip = "1万鱼币，1万金币",
 		},
 		[25]=
 		{
 			id = 25,
 			tag = 5,
 			active = 150,
-			award_tip = "3万金币，30福利券",
+			award_tip = "6万金币",
 		},
 	},
 	active_task_item=
@@ -239,9 +239,9 @@ return {
 			task_name = "累计在线",
 			task_icon = "rw_icon_ljsj",
 			task_instruction = "3D捕鱼中累计在线90分钟",
-			task_award_icon = {"ty_icon_flq1","ty_icon_hytb",},
-			task_award_instruction = {"福利券","活跃度"},
-			task_award_count = {"x30","x30"},
+			task_award_icon = {"ty_icon_jb_50y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x30000","x30"},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[6]=
@@ -265,9 +265,9 @@ return {
 			task_name = "单笔充值",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "单笔充值6元及以上",
-			task_award_icon = {"ty_icon_flq3","ty_icon_hytb",},
-			task_award_instruction = {"福利券","活跃度"},
-			task_award_count = {"x30","x50"},
+			task_award_icon = {"ty_icon_jb_50y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x30000","x50"},
 			gotoui = {"shop_bay","jing_bi"},
 		},
 		[8]=
@@ -330,9 +330,9 @@ return {
 			task_name = "累计在线",
 			task_icon = "rw_icon_ljsj",
 			task_instruction = "3D捕鱼中累计在线90分钟",
-			task_award_icon = {"ty_icon_flq1","ty_icon_hytb",},
-			task_award_instruction = {"福利券","活跃度"},
-			task_award_count = {"x30","x30"},
+			task_award_icon = {"ty_icon_jb_50y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x30000","x30"},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[13]=
@@ -356,9 +356,9 @@ return {
 			task_name = "单笔充值",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "单笔充值6元及以上",
-			task_award_icon = {"ty_icon_flq3","ty_icon_hytb",},
-			task_award_instruction = {"福利券","活跃度"},
-			task_award_count = {"x30","x50"},
+			task_award_icon = {"ty_icon_jb_50y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x30000","x50"},
 			gotoui = {"shop_bay","jing_bi"},
 		},
 		[15]=
@@ -421,9 +421,9 @@ return {
 			task_name = "累计在线",
 			task_icon = "rw_icon_ljsj",
 			task_instruction = "3D捕鱼中累计在线90分钟",
-			task_award_icon = {"ty_icon_flq1","ty_icon_hytb",},
-			task_award_instruction = {"福利券","活跃度"},
-			task_award_count = {"x30","x30"},
+			task_award_icon = {"ty_icon_jb_50y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x30000","x30"},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[20]=
@@ -447,9 +447,9 @@ return {
 			task_name = "累计充值",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "累计充值10元及以上",
-			task_award_icon = {"ty_icon_flq3","ty_icon_hytb",},
-			task_award_instruction = {"福利券","活跃度"},
-			task_award_count = {"x50","x50"},
+			task_award_icon = {"ty_icon_jb_50y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x50000","x50"},
 			gotoui = {"shop_bay","jing_bi"},
 		},
 		[22]=
@@ -512,9 +512,9 @@ return {
 			task_name = "累计在线",
 			task_icon = "rw_icon_ljsj",
 			task_instruction = "3D捕鱼中累计在线90分钟",
-			task_award_icon = {"ty_icon_flq1","ty_icon_hytb",},
-			task_award_instruction = {"福利券","活跃度"},
-			task_award_count = {"x30","x30"},
+			task_award_icon = {"ty_icon_jb_50y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x30000","x30"},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[27]=
@@ -538,9 +538,9 @@ return {
 			task_name = "累计充值",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "累计充值30元及以上",
-			task_award_icon = {"ty_icon_flq3","ty_icon_hytb",},
-			task_award_instruction = {"福利券","活跃度"},
-			task_award_count = {"x150","x50"},
+			task_award_icon = {"ty_icon_jb_50y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x150000","x50"},
 			gotoui = {"shop_bay","jing_bi"},
 		},
 		[29]=
@@ -603,9 +603,9 @@ return {
 			task_name = "累计在线",
 			task_icon = "rw_icon_ljsj",
 			task_instruction = "3D捕鱼中累计在线90分钟",
-			task_award_icon = {"ty_icon_flq1","ty_icon_hytb",},
-			task_award_instruction = {"福利券","活跃度"},
-			task_award_count = {"x30","x30"},
+			task_award_icon = {"ty_icon_jb_50y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x30000","x30"},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[34]=
@@ -629,9 +629,9 @@ return {
 			task_name = "累计充值",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "累计充值100元及以上",
-			task_award_icon = {"ty_icon_flq3","ty_icon_hytb",},
-			task_award_instruction = {"福利券","活跃度"},
-			task_award_count = {"x500","x50"},
+			task_award_icon = {"ty_icon_jb_50y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x500000","x50"},
 			gotoui = {"shop_bay","jing_bi"},
 		},
 	},
