@@ -5056,7 +5056,7 @@ return {
 			condi = 264,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
+			refresh_type = "now",
 			start_deal_time = 1598284800,
 		},
 		[275]=
@@ -5068,7 +5068,7 @@ return {
 			condi = 265,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
+			refresh_type = "now",
 			start_deal_time = 1598284800,
 		},
 		[276]=
@@ -11704,13 +11704,23 @@ return {
 			id = 264,
 			var = "tag_type",
 			value = "tag_class_new_player",
-			judge = 5,
+			judge = 2,
 			group = 1,
-			error_desc = "不是新用户",
+			error_desc = "是新用户",
 		},
 		[656]=
 		{
 			no = 656,
+			id = 264,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 2,
+			error_desc = "不是新用户",
+		},
+		[657]=
+		{
+			no = 657,
 			id = 265,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -11718,9 +11728,19 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[657]=
+		[658]=
 		{
-			no = 657,
+			no = 658,
+			id = 265,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 2,
+			error_desc = "是新用户",
+		},
+		[659]=
+		{
+			no = 659,
 			id = 266,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -11728,9 +11748,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[658]=
+		[660]=
 		{
-			no = 658,
+			no = 660,
 			id = 266,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -11738,9 +11758,9 @@ return {
 			group = 1,
 			error_desc = "是玩棋牌平台",
 		},
-		[659]=
+		[661]=
 		{
-			no = 659,
+			no = 661,
 			id = 267,
 			var = "vip_level",
 			value = 0,
@@ -11748,9 +11768,9 @@ return {
 			group = 1,
 			error_desc = "V0权限",
 		},
-		[660]=
+		[662]=
 		{
-			no = 660,
+			no = 662,
 			id = 268,
 			var = "vip_level",
 			value = 1,
@@ -11758,9 +11778,9 @@ return {
 			group = 1,
 			error_desc = "V1权限",
 		},
-		[661]=
+		[663]=
 		{
-			no = 661,
+			no = 663,
 			id = 269,
 			var = "vip_level",
 			value = 2,
@@ -11768,9 +11788,9 @@ return {
 			group = 1,
 			error_desc = "V2权限",
 		},
-		[662]=
+		[664]=
 		{
-			no = 662,
+			no = 664,
 			id = 270,
 			var = "vip_level",
 			value = 3,
@@ -11778,9 +11798,9 @@ return {
 			group = 1,
 			error_desc = "V3权限",
 		},
-		[663]=
+		[665]=
 		{
-			no = 663,
+			no = 665,
 			id = 271,
 			var = "vip_level",
 			value = 4,
@@ -11788,9 +11808,9 @@ return {
 			group = 1,
 			error_desc = "V4权限",
 		},
-		[664]=
+		[666]=
 		{
-			no = 664,
+			no = 666,
 			id = 272,
 			var = "vip_level",
 			value = 5,
@@ -11798,9 +11818,9 @@ return {
 			group = 1,
 			error_desc = "V5权限",
 		},
-		[665]=
+		[667]=
 		{
-			no = 665,
+			no = 667,
 			id = 273,
 			var = "vip_level",
 			value = 6,
@@ -11808,9 +11828,9 @@ return {
 			group = 1,
 			error_desc = "V6权限",
 		},
-		[666]=
+		[668]=
 		{
-			no = 666,
+			no = 668,
 			id = 274,
 			var = "vip_level",
 			value = 7,
@@ -11818,9 +11838,9 @@ return {
 			group = 1,
 			error_desc = "V7权限",
 		},
-		[667]=
+		[669]=
 		{
-			no = 667,
+			no = 669,
 			id = 275,
 			var = "vip_level",
 			value = 8,
@@ -11828,9 +11848,9 @@ return {
 			group = 1,
 			error_desc = "V8权限",
 		},
-		[668]=
+		[670]=
 		{
-			no = 668,
+			no = 670,
 			id = 276,
 			var = "vip_level",
 			value = 9,
@@ -11838,9 +11858,9 @@ return {
 			group = 1,
 			error_desc = "V9权限",
 		},
-		[669]=
+		[671]=
 		{
-			no = 669,
+			no = 671,
 			id = 277,
 			var = "vip_level",
 			value = 10,
@@ -11848,9 +11868,9 @@ return {
 			group = 1,
 			error_desc = "V10权限",
 		},
-		[670]=
+		[672]=
 		{
-			no = 670,
+			no = 672,
 			id = 278,
 			var = "vip_level",
 			value = 11,
@@ -11858,9 +11878,9 @@ return {
 			group = 1,
 			error_desc = "V11权限",
 		},
-		[671]=
+		[673]=
 		{
-			no = 671,
+			no = 673,
 			id = 279,
 			var = "vip_level",
 			value = 12,
@@ -11868,9 +11888,9 @@ return {
 			group = 1,
 			error_desc = "V12权限",
 		},
-		[672]=
+		[674]=
 		{
-			no = 672,
+			no = 674,
 			id = 280,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -11878,9 +11898,9 @@ return {
 			group = 2,
 			error_desc = "只展示给免费用户标签",
 		},
-		[673]=
+		[675]=
 		{
-			no = 673,
+			no = 675,
 			id = 280,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -11888,9 +11908,9 @@ return {
 			group = 3,
 			error_desc = "只展示给小额标签用户",
 		},
-		[674]=
+		[676]=
 		{
-			no = 674,
+			no = 676,
 			id = 281,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -11898,9 +11918,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[675]=
+		[677]=
 		{
-			no = 675,
+			no = 677,
 			id = 282,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -11908,9 +11928,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[676]=
+		[678]=
 		{
-			no = 676,
+			no = 678,
 			id = 283,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -11918,9 +11938,9 @@ return {
 			group = 1,
 			error_desc = "只展示给免费用户标签",
 		},
-		[677]=
+		[679]=
 		{
-			no = 677,
+			no = 679,
 			id = 283,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -11928,9 +11948,9 @@ return {
 			group = 2,
 			error_desc = "只展示给小额标签用户",
 		},
-		[678]=
+		[680]=
 		{
-			no = 678,
+			no = 680,
 			id = 284,
 			var = "vip_level",
 			value = 1,
@@ -11938,9 +11958,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[679]=
+		[681]=
 		{
-			no = 679,
+			no = 681,
 			id = 284,
 			var = "vip_level",
 			value = 3,
@@ -11948,9 +11968,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户可进行游戏",
 		},
-		[680]=
+		[682]=
 		{
-			no = 680,
+			no = 682,
 			id = 285,
 			var = "vip_level",
 			value = 4,
@@ -11958,9 +11978,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户可进行游戏",
 		},
-		[681]=
+		[683]=
 		{
-			no = 681,
+			no = 683,
 			id = 285,
 			var = "vip_level",
 			value = 6,
@@ -11968,9 +11988,9 @@ return {
 			group = 1,
 			error_desc = "VIP6及以下的用户可进行游戏",
 		},
-		[682]=
+		[684]=
 		{
-			no = 682,
+			no = 684,
 			id = 286,
 			var = "vip_level",
 			value = 7,
@@ -11978,9 +11998,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以上的用户可进行游戏",
 		},
-		[683]=
+		[685]=
 		{
-			no = 683,
+			no = 685,
 			id = 286,
 			var = "vip_level",
 			value = 10,
