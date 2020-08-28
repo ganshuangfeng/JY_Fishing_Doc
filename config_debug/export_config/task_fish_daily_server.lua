@@ -775,7 +775,7 @@ return {
 			id = 27,
 			process_id = 12527,
 			source_id = 27,
-			process = 1,
+			process = 1000,
 			awards = 1016,
 			get_award_type = "nor",
 		},
@@ -802,7 +802,7 @@ return {
 			id = 30,
 			process_id = 12530,
 			source_id = 30,
-			process = 1,
+			process = 3000,
 			awards = 1019,
 			get_award_type = "nor",
 		},
@@ -838,7 +838,7 @@ return {
 			id = 34,
 			process_id = 12534,
 			source_id = 34,
-			process = 1,
+			process = 10000,
 			awards = 1023,
 			get_award_type = "nor",
 		},
@@ -1228,7 +1228,7 @@ return {
 			id = 50,
 			source_id = 27,
 			source_type = "charge_any",
-			condition_id = 1023,
+			condition_id = 0,
 		},
 		[51]=
 		{
@@ -1242,14 +1242,14 @@ return {
 			id = 52,
 			source_id = 29,
 			source_type = "buyu_3d_target_yu",
-			condition_id = 1024,
+			condition_id = 1023,
 		},
 		[53]=
 		{
 			id = 53,
 			source_id = 30,
 			source_type = "charge_any",
-			condition_id = 1025,
+			condition_id = 0,
 		},
 		[54]=
 		{
@@ -1261,29 +1261,127 @@ return {
 		[55]=
 		{
 			id = 55,
-			source_id = 32,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 1010,
+			source_id = 31,
+			source_type = "buyu_award",
+			condition_id = 0,
 		},
 		[56]=
 		{
 			id = 56,
-			source_id = 33,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 1018,
+			source_id = 31,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
 		},
 		[57]=
 		{
 			id = 57,
-			source_id = 34,
-			source_type = "charge_any",
-			condition_id = 1026,
+			source_id = 31,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
 		},
 		[58]=
 		{
 			id = 58,
+			source_id = 31,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[59]=
+		{
+			id = 59,
+			source_id = 31,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[60]=
+		{
+			id = 60,
+			source_id = 31,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[61]=
+		{
+			id = 61,
+			source_id = 31,
+			source_type = "jykp_award",
+			condition_id = 0,
+		},
+		[62]=
+		{
+			id = 62,
+			source_id = 32,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 1010,
+		},
+		[63]=
+		{
+			id = 63,
+			source_id = 33,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 1018,
+		},
+		[64]=
+		{
+			id = 64,
+			source_id = 34,
+			source_type = "charge_any",
+			condition_id = 0,
+		},
+		[65]=
+		{
+			id = 65,
 			source_id = 35,
 			source_type = "buyu_3d_award",
+			condition_id = 0,
+		},
+		[66]=
+		{
+			id = 66,
+			source_id = 35,
+			source_type = "buyu_award",
+			condition_id = 0,
+		},
+		[67]=
+		{
+			id = 67,
+			source_id = 35,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[68]=
+		{
+			id = 68,
+			source_id = 35,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[69]=
+		{
+			id = 69,
+			source_id = 35,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[70]=
+		{
+			id = 70,
+			source_id = 35,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[71]=
+		{
+			id = 71,
+			source_id = 35,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[72]=
+		{
+			id = 72,
+			source_id = 35,
+			source_type = "jykp_award",
 			condition_id = 0,
 		},
 	},
@@ -1398,7 +1496,7 @@ return {
 			id = 14,
 			condition_id = 1014,
 			condition_name = "base_fish_id",
-			condition_value = {47,48,49,50,},
+			condition_value = {46,47,48,49,},
 			judge_type = 2,
 		},
 		[15]=
@@ -1465,37 +1563,13 @@ return {
 			condition_value = {1,2,3,4,5},
 			judge_type = 2,
 		},
-		[23]=
-		{
-			id = 23,
-			condition_id = 1023,
-			condition_name = "pay_money",
-			condition_value = 1000,
-			judge_type = 3,
-		},
 		[24]=
 		{
 			id = 24,
-			condition_id = 1024,
+			condition_id = 1023,
 			condition_name = "base_fish_id",
 			condition_value = {18,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49},
 			judge_type = 2,
-		},
-		[25]=
-		{
-			id = 25,
-			condition_id = 1025,
-			condition_name = "pay_money",
-			condition_value = 3000,
-			judge_type = 3,
-		},
-		[26]=
-		{
-			id = 26,
-			condition_id = 1026,
-			condition_name = "pay_money",
-			condition_value = 10000,
-			judge_type = 3,
 		},
 	},
 	award_data=

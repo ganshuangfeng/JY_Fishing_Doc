@@ -475,7 +475,7 @@ return {
 			task_instruction = "参与任意三种小游戏",
 			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x10000","x20"},
+			task_award_count = {"x10000","x30"},
 			gotoui = {"game_MiniGame",},
 		},
 		[24]=
@@ -498,10 +498,10 @@ return {
 			task_id = 12531,
 			task_name = "累计赢金",
 			task_icon = "rw_icon_ljyj",
-			task_instruction = "3D捕鱼中累计赢金100万",
+			task_instruction = "游戏中累计赢金100万",
 			task_award_icon = {"ty_icon_jb_50y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x2万","x30"},
+			task_award_count = {"x2万","x20"},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[26]=
@@ -566,7 +566,7 @@ return {
 			task_instruction = "参与任意三种小游戏",
 			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x10000","x20"},
+			task_award_count = {"x10000","x30"},
 			gotoui = {"game_MiniGame",},
 		},
 		[31]=
@@ -589,10 +589,10 @@ return {
 			task_id = 12535,
 			task_name = "累计赢金",
 			task_icon = "rw_icon_ljyj",
-			task_instruction = "3D捕鱼中累计赢金1000万",
+			task_instruction = "游戏中累计赢金1000万",
 			task_award_icon = {"ty_icon_jb_50y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x5万","x30"},
+			task_award_count = {"x5万","x20"},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[33]=
@@ -612,7 +612,7 @@ return {
 		{
 			id = 34,
 			tag = 5,
-			task_id = 12511,
+			task_id = 12537,
 			task_name = "击杀BOSS",
 			task_icon = "rw_icon_boss",
 			task_instruction = "3D捕鱼中击杀BOSS鱼1条",
