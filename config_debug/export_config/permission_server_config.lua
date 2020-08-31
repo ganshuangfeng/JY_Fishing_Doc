@@ -1771,7 +1771,7 @@ return {
 		gfpt_tgxt=
 		{
 			key = "gfpt_tgxt",
-			name = "推广系统（官方平台才显示）",
+			name = "推广系统（官方渠道才显示）",
 			condi = 287,
 		},
 	},
@@ -12018,11 +12018,11 @@ return {
 		{
 			no = 686,
 			id = 287,
-			var = "tag_type",
-			value = "tag_plat_normal",
+			var = "share_condition",
+			value = "3dby_official",
 			judge = 2,
 			group = 1,
-			error_desc = "是官方平台",
+			error_desc = "是官方渠道",
 		},
 	},
 	share_condition=
@@ -12069,6 +12069,15 @@ return {
 			name = "3dby_cpl",
 			var = "market_channel",
 			value = {"pceggs","xianwan","pdd","duoliang"},
+			judge = 2,
+			group = 1,
+		},
+		[6]=
+		{
+			id = 6,
+			name = "3dby_official",
+			var = "market_channel",
+			value = {"normal",},
 			judge = 2,
 			group = 1,
 		},
