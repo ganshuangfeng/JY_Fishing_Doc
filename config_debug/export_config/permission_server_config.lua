@@ -1768,6 +1768,12 @@ return {
 			name = "防沉迷系统（根据平台进行屏蔽）",
 			condi = 266,
 		},
+		gfpt_tgxt=
+		{
+			key = "gfpt_tgxt",
+			name = "推广系统（官方平台才显示）",
+			condi = 287,
+		},
 	},
 	act_permission=
 	{
@@ -12007,6 +12013,16 @@ return {
 			judge = 4,
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
+		},
+		[686]=
+		{
+			no = 686,
+			id = 287,
+			var = "tag_type",
+			value = "tag_plat_normal",
+			judge = 2,
+			group = 1,
+			error_desc = "是官方平台",
 		},
 	},
 	share_condition=

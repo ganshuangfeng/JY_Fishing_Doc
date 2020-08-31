@@ -512,7 +512,7 @@ return {
 			name = "击杀BOSS鱼",
 			own_type = "normal",
 			task_enum = "common",
-			process_id = 12511,
+			process_id = "s",
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 946677600,
@@ -1528,7 +1528,7 @@ return {
 			id = 18,
 			condition_id = 1018,
 			condition_name = "base_fish_id",
-			condition_value = {20,21,22,23,24,25,26,27},
+			condition_value = {20,21,22,23,24,25,26,27,38,39,40,41,43,46,47,48,49,},
 			judge_type = 2,
 		},
 		[19]=
