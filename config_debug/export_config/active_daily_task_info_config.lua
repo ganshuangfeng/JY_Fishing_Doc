@@ -384,7 +384,7 @@ return {
 			task_instruction = "3D捕鱼中击杀活动鱼1次",
 			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x10000","x20"},
+			task_award_count = {"x10000","x30"},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[17]=
@@ -410,7 +410,7 @@ return {
 			task_instruction = "3D捕鱼中累计赢金50万",
 			task_award_icon = {"ty_icon_jb_50y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x1.5万","x30"},
+			task_award_count = {"x1.5万","x20"},
 			gotoui = {"game_Fishing3DHall",},
 		},
 		[19]=
