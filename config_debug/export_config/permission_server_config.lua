@@ -769,6 +769,84 @@ return {
 			name = "V10及以上权限",
 			condi = 17,
 		},
+		web_2_vip0=
+		{
+			key = "web_2_vip0",
+			name = "V0权限",
+			condi = 267,
+		},
+		web_2_vip1=
+		{
+			key = "web_2_vip1",
+			name = "V1权限",
+			condi = 268,
+		},
+		web_2_vip2=
+		{
+			key = "web_2_vip2",
+			name = "V2权限",
+			condi = 269,
+		},
+		web_2_vip3=
+		{
+			key = "web_2_vip3",
+			name = "V3权限",
+			condi = 270,
+		},
+		web_2_vip4=
+		{
+			key = "web_2_vip4",
+			name = "V4权限",
+			condi = 271,
+		},
+		web_2_vip5=
+		{
+			key = "web_2_vip5",
+			name = "V5权限",
+			condi = 272,
+		},
+		web_2_vip6=
+		{
+			key = "web_2_vip6",
+			name = "V6权限",
+			condi = 273,
+		},
+		web_2_vip7=
+		{
+			key = "web_2_vip7",
+			name = "V7权限",
+			condi = 274,
+		},
+		web_2_vip8=
+		{
+			key = "web_2_vip8",
+			name = "V8权限",
+			condi = 275,
+		},
+		web_2_vip9=
+		{
+			key = "web_2_vip9",
+			name = "V9权限",
+			condi = 276,
+		},
+		web_2_vip10=
+		{
+			key = "web_2_vip10",
+			name = "V10权限",
+			condi = 277,
+		},
+		web_2_vip11=
+		{
+			key = "web_2_vip11",
+			name = "V11权限",
+			condi = 278,
+		},
+		web_2_vip12=
+		{
+			key = "web_2_vip12",
+			name = "V12权限",
+			condi = 279,
+		},
 		task_21071=
 		{
 			key = "task_21071",
@@ -11555,6 +11633,136 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是玩棋牌平台",
+		},
+		[657]=
+		{
+			no = 657,
+			id = 267,
+			var = "vip_level",
+			value = 0,
+			judge = 2,
+			group = 1,
+			error_desc = "V0权限",
+		},
+		[658]=
+		{
+			no = 658,
+			id = 268,
+			var = "vip_level",
+			value = 1,
+			judge = 2,
+			group = 1,
+			error_desc = "V1权限",
+		},
+		[659]=
+		{
+			no = 659,
+			id = 269,
+			var = "vip_level",
+			value = 2,
+			judge = 2,
+			group = 1,
+			error_desc = "V2权限",
+		},
+		[660]=
+		{
+			no = 660,
+			id = 270,
+			var = "vip_level",
+			value = 3,
+			judge = 2,
+			group = 1,
+			error_desc = "V3权限",
+		},
+		[661]=
+		{
+			no = 661,
+			id = 271,
+			var = "vip_level",
+			value = 4,
+			judge = 2,
+			group = 1,
+			error_desc = "V4权限",
+		},
+		[662]=
+		{
+			no = 662,
+			id = 272,
+			var = "vip_level",
+			value = 5,
+			judge = 2,
+			group = 1,
+			error_desc = "V5权限",
+		},
+		[663]=
+		{
+			no = 663,
+			id = 273,
+			var = "vip_level",
+			value = 6,
+			judge = 2,
+			group = 1,
+			error_desc = "V6权限",
+		},
+		[664]=
+		{
+			no = 664,
+			id = 274,
+			var = "vip_level",
+			value = 7,
+			judge = 2,
+			group = 1,
+			error_desc = "V7权限",
+		},
+		[665]=
+		{
+			no = 665,
+			id = 275,
+			var = "vip_level",
+			value = 8,
+			judge = 2,
+			group = 1,
+			error_desc = "V8权限",
+		},
+		[666]=
+		{
+			no = 666,
+			id = 276,
+			var = "vip_level",
+			value = 9,
+			judge = 2,
+			group = 1,
+			error_desc = "V9权限",
+		},
+		[667]=
+		{
+			no = 667,
+			id = 277,
+			var = "vip_level",
+			value = 10,
+			judge = 2,
+			group = 1,
+			error_desc = "V10权限",
+		},
+		[668]=
+		{
+			no = 668,
+			id = 278,
+			var = "vip_level",
+			value = 11,
+			judge = 2,
+			group = 1,
+			error_desc = "V11权限",
+		},
+		[669]=
+		{
+			no = 669,
+			id = 279,
+			var = "vip_level",
+			value = 12,
+			judge = 2,
+			group = 1,
+			error_desc = "V12权限",
 		},
 	},
 	share_condition=
