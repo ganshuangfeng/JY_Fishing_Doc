@@ -29,6 +29,20 @@ return {
 			start_time = 1589844600,
 			recycle_time = 1590422400,
 		},
+		[5]=
+		{
+			id = 5,
+			prop_type = "prop_fish_drop_act_0",
+			start_time = 1598310000,
+			recycle_time = 1598889599,
+		},
+		[6]=
+		{
+			id = 6,
+			prop_type = "prop_mfcjq",
+			start_time = 1598916600,
+			recycle_time = 1599494399,
+		},
 	},
 	player_asset=
 	{

@@ -303,7 +303,7 @@ return {
 			lottery_type = 1,
 			reset_time = 0,
 			award_id = 28,
-			enable = 1,
+			enable = 0,
 		},
 		[29]=
 		{
@@ -315,7 +315,7 @@ return {
 			lottery_type = 1,
 			reset_time = 0,
 			award_id = 29,
-			enable = 1,
+			enable = 0,
 		},
 		[30]=
 		{
@@ -327,7 +327,7 @@ return {
 			lottery_type = 1,
 			reset_time = 0,
 			award_id = 30,
-			enable = 1,
+			enable = 0,
 		},
 		[31]=
 		{
@@ -339,7 +339,7 @@ return {
 			lottery_type = 1,
 			reset_time = 0,
 			award_id = 31,
-			enable = 1,
+			enable = 0,
 		},
 		[32]=
 		{
@@ -351,7 +351,7 @@ return {
 			lottery_type = 1,
 			reset_time = 0,
 			award_id = 32,
-			enable = 1,
+			enable = 0,
 		},
 		[33]=
 		{
@@ -363,7 +363,7 @@ return {
 			lottery_type = 1,
 			reset_time = 0,
 			award_id = 33,
-			enable = 1,
+			enable = 0,
 		},
 		[34]=
 		{
@@ -375,7 +375,7 @@ return {
 			lottery_type = 1,
 			reset_time = 0,
 			award_id = 34,
-			enable = 1,
+			enable = 0,
 		},
 		[35]=
 		{
@@ -387,7 +387,7 @@ return {
 			lottery_type = 1,
 			reset_time = 0,
 			award_id = 35,
-			enable = 1,
+			enable = 0,
 		},
 		[36]=
 		{
@@ -399,7 +399,7 @@ return {
 			lottery_type = 1,
 			reset_time = 0,
 			award_id = 36,
-			enable = 1,
+			enable = 0,
 		},
 		[37]=
 		{
@@ -439,6 +439,16 @@ return {
 			end_time = 1599494399,
 			use_asset_id = 35,
 			award_id = 40,
+			enable = 1,
+		},
+		[41]=
+		{
+			id = 41,
+			name = "免费话费",
+			start_time = 1599523200,
+			end_time = 1600099199,
+			use_asset_id = 36,
+			award_id = 41,
 			enable = 1,
 		},
 	},
@@ -686,6 +696,13 @@ return {
 		{
 			id = 35,
 			use_id = 35,
+			use_item = "prop_mfcjq",
+			use_num = 1,
+		},
+		[36]=
+		{
+			id = 36,
+			use_id = 36,
 			use_item = "prop_mfcjq",
 			use_num = 1,
 		},
@@ -2702,6 +2719,34 @@ return {
 			award_id = 40,
 			real_award_id = 11734,
 			weight = 34,
+		},
+		[287]=
+		{
+			no = 287,
+			award_id = 41,
+			real_award_id = 11741,
+			weight = 1,
+		},
+		[288]=
+		{
+			no = 288,
+			award_id = 41,
+			real_award_id = 11742,
+			weight = 10,
+		},
+		[289]=
+		{
+			no = 289,
+			award_id = 41,
+			real_award_id = 11743,
+			weight = 39,
+		},
+		[290]=
+		{
+			no = 290,
+			award_id = 41,
+			real_award_id = 11744,
+			weight = 50,
 		},
 	},
 	award_item=
@@ -4813,6 +4858,38 @@ return {
 			real_award_id = 11734,
 			award_name = "100福利券",
 			asset_type = "shop_gold_sum",
+			asset_count = {100,100},
+		},
+		[287]=
+		{
+			id = 287,
+			real_award_id = 11741,
+			award_name = "5元话费",
+			asset_type = "prop_web_chip_huafei",
+			asset_count = {500,500},
+		},
+		[288]=
+		{
+			id = 288,
+			real_award_id = 11742,
+			award_name = "2元话费",
+			asset_type = "prop_web_chip_huafei",
+			asset_count = {200,200},
+		},
+		[289]=
+		{
+			id = 289,
+			real_award_id = 11743,
+			award_name = "1.5元话费",
+			asset_type = "prop_web_chip_huafei",
+			asset_count = {150,150},
+		},
+		[290]=
+		{
+			id = 290,
+			real_award_id = 11744,
+			award_name = "1元话费",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {100,100},
 		},
 	},

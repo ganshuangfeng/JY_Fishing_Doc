@@ -2649,5 +2649,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[271]=
+		{
+			id = 271,
+			key = "CommonPrefab",
+			desc = "通用头像模板",
+			lua = "CommonHeadInstancePrafab",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

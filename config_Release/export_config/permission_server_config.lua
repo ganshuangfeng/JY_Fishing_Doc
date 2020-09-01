@@ -1768,6 +1768,12 @@ return {
 			name = "防沉迷系统（根据平台进行屏蔽）",
 			condi = 266,
 		},
+		gfpt_tgxt=
+		{
+			key = "gfpt_tgxt",
+			name = "推广系统（官方渠道才显示）",
+			condi = 287,
+		},
 	},
 	act_permission=
 	{
@@ -5070,6 +5076,90 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
 			start_deal_time = 1598284800,
+		},
+		[276]=
+		{
+			id = 276,
+			enable = 1,
+			key = "actp_buy_gift_bag_10290",
+			name = "免费福利券（免费，小额玩家，非新玩家）",
+			condi = 280,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
+		[277]=
+		{
+			id = 277,
+			enable = 1,
+			key = "actp_own_task_p_027_mfflq",
+			name = "金秋送豪礼（非新玩家）",
+			condi = 281,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598889600,
+		},
+		[278]=
+		{
+			id = 278,
+			enable = 1,
+			key = "actp_fish_daily_task_1",
+			name = "捕鱼每日任务（新玩家）",
+			condi = 282,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
+		[279]=
+		{
+			id = 279,
+			enable = 1,
+			key = "actp_fish_daily_task_2",
+			name = "捕鱼每日任务（免费，小额）",
+			condi = 283,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
+		[280]=
+		{
+			id = 280,
+			enable = 1,
+			key = "actp_fish_daily_task_3",
+			name = "捕鱼每日任务（V1-V3）",
+			condi = 284,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
+		[281]=
+		{
+			id = 281,
+			enable = 1,
+			key = "actp_fish_daily_task_4",
+			name = "捕鱼每日任务（V4-V6）",
+			condi = 285,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
+		[282]=
+		{
+			id = 282,
+			enable = 1,
+			key = "actp_fish_daily_task_5",
+			name = "捕鱼每日任务（V7-V10）",
+			condi = 286,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
 		},
 	},
 	condi=
@@ -11804,6 +11894,146 @@ return {
 			group = 1,
 			error_desc = "V12权限",
 		},
+		[674]=
+		{
+			no = 674,
+			id = 280,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给免费用户标签",
+		},
+		[675]=
+		{
+			no = 675,
+			id = 280,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "只展示给小额标签用户",
+		},
+		[676]=
+		{
+			no = 676,
+			id = 281,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[677]=
+		{
+			no = 677,
+			id = 282,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[678]=
+		{
+			no = 678,
+			id = 283,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 1,
+			error_desc = "只展示给免费用户标签",
+		},
+		[679]=
+		{
+			no = 679,
+			id = 283,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给小额标签用户",
+		},
+		[680]=
+		{
+			no = 680,
+			id = 284,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上的用户可进行游戏",
+		},
+		[681]=
+		{
+			no = 681,
+			id = 284,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP3及以下的用户可进行游戏",
+		},
+		[682]=
+		{
+			no = 682,
+			id = 285,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上的用户可进行游戏",
+		},
+		[683]=
+		{
+			no = 683,
+			id = 285,
+			var = "vip_level",
+			value = 6,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP6及以下的用户可进行游戏",
+		},
+		[684]=
+		{
+			no = 684,
+			id = 286,
+			var = "vip_level",
+			value = 7,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP7及以上的用户可进行游戏",
+		},
+		[685]=
+		{
+			no = 685,
+			id = 286,
+			var = "vip_level",
+			value = 10,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP10及以下的用户可进行游戏",
+		},
+		[686]=
+		{
+			no = 686,
+			id = 287,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是官方渠道",
+		},
+		[687]=
+		{
+			no = 687,
+			id = 287,
+			var = "tag_type",
+			value = "tag_plat_normal",
+			judge = 2,
+			group = 1,
+			error_desc = "是官方平台",
+		},
 	},
 	share_condition=
 	{
@@ -11849,6 +12079,15 @@ return {
 			name = "3dby_cpl",
 			var = "market_channel",
 			value = {"pceggs","xianwan","pdd","duoliang"},
+			judge = 2,
+			group = 1,
+		},
+		[6]=
+		{
+			id = 6,
+			name = "3dby_official",
+			var = "market_channel",
+			value = {"normal",},
 			judge = 2,
 			group = 1,
 		},

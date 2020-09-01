@@ -6203,6 +6203,34 @@ return {
 			end_valid_time = 1598889599,
 			time_limit = -1,
 		},
+		[1000034]=
+		{
+			id = 1000034,
+			enable = 1,
+			name = "金秋送豪礼",
+			own_type = "p_027_mfflq",
+			task_enum = "common",
+			process_id = 21392,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1598889600,
+			end_valid_time = 1599494399,
+			time_limit = -1,
+		},
+		[1000035]=
+		{
+			id = 1000035,
+			enable = 1,
+			name = "金秋送豪礼",
+			own_type = "p_027_mfflq",
+			task_enum = "common",
+			process_id = 21393,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1598889600,
+			end_valid_time = 1599494399,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -10451,6 +10479,24 @@ return {
 			awards = 646,
 			get_award_type = "nor",
 			is_auto_get_award = 1,
+		},
+		[444]=
+		{
+			id = 444,
+			process_id = 21392,
+			source_id = 439,
+			process = {3,3,4,10,90,200,300,600,800,2000,4000,7000,35000,50000},
+			awards = {647,648,649,650,651,652,653,654,655,656,657,658,659,660},
+			get_award_type = "nor",
+		},
+		[445]=
+		{
+			id = 445,
+			process_id = 21393,
+			source_id = 440,
+			process = {600,4200,15000,30200,199800},
+			awards = {661,662,663,664,665},
+			get_award_type = "nor",
 		},
 	},
 	source=
@@ -14791,6 +14837,20 @@ return {
 			source_type = "buy_gift",
 			condition_id = 303,
 		},
+		[615]=
+		{
+			id = 615,
+			source_id = 439,
+			source_type = "task_award_receive",
+			condition_id = 304,
+		},
+		[616]=
+		{
+			id = 616,
+			source_id = 440,
+			source_type = "charge_any",
+			condition_id = 305,
+		},
 	},
 	condition=
 	{
@@ -18152,6 +18212,30 @@ return {
 			condition_id = 303,
 			condition_name = "gift_id",
 			condition_value = 110,
+			judge_type = 2,
+		},
+		[451]=
+		{
+			id = 451,
+			condition_id = 304,
+			condition_name = "task_id",
+			condition_value = {21315,21316,21317,21318},
+			judge_type = 2,
+		},
+		[452]=
+		{
+			id = 452,
+			condition_id = 304,
+			condition_name = "asset_type",
+			condition_value = "shop_gold_sum",
+			judge_type = 2,
+		},
+		[453]=
+		{
+			id = 453,
+			condition_id = 305,
+			condition_name = "gift_id",
+			condition_value = {1,2,85,3,86,4,87,5,88,6,89,107,109,108,10044,110,10045,101,90,102,103,104,105,106,22,23,24,25,26,27,34,111,10189},
 			judge_type = 2,
 		},
 	},
@@ -25512,6 +25596,158 @@ return {
 			award_id = 646,
 			asset_type = "prop_fish_drop_act_0",
 			asset_count = 1498,
+			get_weight = 1,
+		},
+		[920]=
+		{
+			id = 920,
+			award_id = 647,
+			asset_type = "jing_bi",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[921]=
+		{
+			id = 921,
+			award_id = 648,
+			asset_type = "jing_bi",
+			asset_count = 2000,
+			get_weight = 1,
+		},
+		[922]=
+		{
+			id = 922,
+			award_id = 649,
+			asset_type = "shop_gold_sum",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[923]=
+		{
+			id = 923,
+			award_id = 650,
+			asset_type = "shop_gold_sum",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[924]=
+		{
+			id = 924,
+			award_id = 651,
+			asset_type = "shop_gold_sum",
+			asset_count = 40,
+			get_weight = 1,
+		},
+		[925]=
+		{
+			id = 925,
+			award_id = 652,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[926]=
+		{
+			id = 926,
+			award_id = 653,
+			asset_type = "shop_gold_sum",
+			asset_count = 150,
+			get_weight = 1,
+		},
+		[927]=
+		{
+			id = 927,
+			award_id = 654,
+			asset_type = "shop_gold_sum",
+			asset_count = 300,
+			get_weight = 1,
+		},
+		[928]=
+		{
+			id = 928,
+			award_id = 655,
+			asset_type = "shop_gold_sum",
+			asset_count = 400,
+			get_weight = 1,
+		},
+		[929]=
+		{
+			id = 929,
+			award_id = 656,
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[930]=
+		{
+			id = 930,
+			award_id = 657,
+			asset_type = "shop_gold_sum",
+			asset_count = 2000,
+			get_weight = 1,
+		},
+		[931]=
+		{
+			id = 931,
+			award_id = 658,
+			asset_type = "shop_gold_sum",
+			asset_count = 3500,
+			get_weight = 1,
+		},
+		[932]=
+		{
+			id = 932,
+			award_id = 659,
+			asset_type = "shop_gold_sum",
+			asset_count = 17000,
+			get_weight = 1,
+		},
+		[933]=
+		{
+			id = 933,
+			award_id = 660,
+			asset_type = "shop_gold_sum",
+			asset_count = 32500,
+			get_weight = 1,
+		},
+		[934]=
+		{
+			id = 934,
+			award_id = 661,
+			asset_type = "shop_gold_sum",
+			asset_count = 30,
+			get_weight = 1,
+		},
+		[935]=
+		{
+			id = 935,
+			award_id = 662,
+			asset_type = "shop_gold_sum",
+			asset_count = 180,
+			get_weight = 1,
+		},
+		[936]=
+		{
+			id = 936,
+			award_id = 663,
+			asset_type = "shop_gold_sum",
+			asset_count = 700,
+			get_weight = 1,
+		},
+		[937]=
+		{
+			id = 937,
+			award_id = 664,
+			asset_type = "shop_gold_sum",
+			asset_count = 1500,
+			get_weight = 1,
+		},
+		[938]=
+		{
+			id = 938,
+			award_id = 665,
+			asset_type = "shop_gold_sum",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 	},

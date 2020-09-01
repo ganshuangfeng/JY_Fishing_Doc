@@ -149,18 +149,19 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "36;89#11#58#30#",
+			group_list = "36;89#93;11#58#30#",
 		},
 		[3]=
 		{
 			id = 3,
 			area = "right",
-			group_list = "84#42#92#",
+			group_list = "92#84#42#",
 		},
 		[4]=
 		{
 			id = 4,
 			area = "top",
+			group_list = "94#",
 		},
 		[5]=
 		{
@@ -292,7 +293,7 @@ return {
 		{
 			id = 4,
 			area = "down2",
-			group_list = "87#36;89#11#",
+			group_list = "87#36;89#93;11#94#",
 		},
 		[5]=
 		{
@@ -349,6 +350,12 @@ return {
 			id = 7,
 			area = "center5",
 			group_list = "77#68",
+		},
+		[8]=
+		{
+			id = 8,
+			area = "top_right_1",
+			group_list = "95#",
 		},
 	},
 	ttl_config=
@@ -781,7 +788,7 @@ return {
 		{
 			id = 69,
 			parm = {"by3d_act_jc","game_hall_enter4"},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[70]=
 		{
@@ -919,6 +926,30 @@ return {
 		{
 			id = 92,
 			parm = {"sys_tgxt",},
+			is_on_off = 1,
+		},
+		[93]=
+		{
+			id = 93,
+			parm = {"act_027_jqshl",},
+			is_on_off = 1,
+		},
+		[94]=
+		{
+			id = 94,
+			parm = {"act_027_mfflq",},
+			is_on_off = 1,
+		},
+		[95]=
+		{
+			id = 95,
+			parm = {"by3d_act_jc","hallEnter"},
+			is_on_off = 1,
+		},
+		[96]=
+		{
+			id = 96,
+			parm = {"by3d_act_jc","gameshow"},
 			is_on_off = 1,
 		},
 	},

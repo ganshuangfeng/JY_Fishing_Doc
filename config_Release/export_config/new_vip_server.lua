@@ -458,6 +458,11 @@ return {
 			id = 9,
 			lb_id = 10088,
 		},
+		[10]=
+		{
+			id = 10,
+			lb_id = 10290,
+		},
 	},
 	buy_jingbi_add_products=
 	{

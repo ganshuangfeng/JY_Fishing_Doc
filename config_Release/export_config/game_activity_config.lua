@@ -235,7 +235,7 @@ return {
 			ID = 14,
 			title = "九月狂欢惠",
 			order = 3,
-			isOnOff = 1,
+			isOnOff = 0,
 			beginTime = 1598916600,
 			endTime = 1599494399,
 			noCloseUI = 1,

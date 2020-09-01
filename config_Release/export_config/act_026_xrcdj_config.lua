@@ -109,18 +109,18 @@ return {
 		{
 			line = 1,
 			id = -1,
-			icon = "ty_icon_jb_2498y",
+			icon = "ty_icon_flq1",
 			scale = 1,
-			desc = "50万金币",
+			desc = "500福利券",
 			is_dj = 1,
 		},
 		[2]=
 		{
 			line = 2,
 			id = -1,
-			icon = "ty_icon_jb_18y",
+			icon = "ty_icon_flq1",
 			scale = 1,
-			desc = "2000金币",
+			desc = "20福利券",
 			is_dj = 0,
 		},
 		[3]=
@@ -172,7 +172,7 @@ return {
 		{
 			line = 8,
 			id = -1,
-			icon = "ty_icon_flq1",
+			icon = "ty_icon_flq2",
 			scale = 1,
 			desc = "2000福利券",
 			is_dj = 1,
@@ -238,18 +238,18 @@ return {
 		{
 			line = 1,
 			id = -1,
-			icon = "ty_icon_jb_2498y",
+			icon = "ty_icon_flq2",
 			scale = 1,
-			desc = "100万金币",
+			desc = "1000福利券",
 			is_dj = 1,
 		},
 		[2]=
 		{
 			line = 2,
 			id = -1,
-			icon = "com_award_icon_hfsp",
+			icon = "ty_icon_flq1",
 			scale = 1,
-			desc = "8元话费",
+			desc = "800福利券",
 			is_dj = 0,
 		},
 		[3]=
@@ -265,9 +265,9 @@ return {
 		{
 			line = 4,
 			id = 11711,
-			icon = "ty_icon_flq1",
+			icon = "ty_icon_jb_30y",
 			scale = 1,
-			desc = "6福利券",
+			desc = "6000金币",
 			is_dj = 0,
 		},
 		[5]=
@@ -283,27 +283,27 @@ return {
 		{
 			line = 6,
 			id = 11712,
-			icon = "ty_icon_flq1",
+			icon = "ty_icon_jb_48y",
 			scale = 1,
-			desc = "8福利券",
+			desc = "8000金币",
 			is_dj = 0,
 		},
 		[7]=
 		{
 			line = 7,
 			id = 11713,
-			icon = "ty_icon_flq2",
+			icon = "ty_icon_jb_48y",
 			scale = 1,
-			desc = "10福利券",
+			desc = "10000金币",
 			is_dj = 0,
 		},
 		[8]=
 		{
 			line = 8,
 			id = -1,
-			icon = "ty_icon_flq3",
+			icon = "com_award_icon_hfsp",
 			scale = 1,
-			desc = "8000福利券",
+			desc = "100元话费",
 			is_dj = 1,
 		},
 		[9]=
@@ -319,9 +319,9 @@ return {
 		{
 			line = 10,
 			id = 11715,
-			icon = "ty_icon_flq2",
+			icon = "ty_icon_jb_98y",
 			scale = 1,
-			desc = "30福利券",
+			desc = "30000金币",
 			is_dj = 0,
 		},
 		[11]=
@@ -330,7 +330,7 @@ return {
 			id = 11716,
 			icon = "ty_icon_jb_198y",
 			scale = 1,
-			desc = "4万金币",
+			desc = "40000金币",
 			is_dj = 0,
 		},
 		[12]=
@@ -346,18 +346,18 @@ return {
 		{
 			line = 13,
 			id = 11717,
-			icon = "ty_icon_flq3",
+			icon = "ty_icon_jb_198y",
 			scale = 1,
-			desc = "50福利券",
+			desc = "50000金币",
 			is_dj = 0,
 		},
 		[14]=
 		{
 			line = 14,
 			id = 11718,
-			icon = "ty_icon_flq3",
+			icon = "ty_icon_jb_198y",
 			scale = 1,
-			desc = "60福利券",
+			desc = "60000金币",
 			is_dj = 0,
 		},
 	},
@@ -367,9 +367,9 @@ return {
 		{
 			line = 1,
 			id = -1,
-			icon = "com_award_icon_hfsp",
+			icon = "ty_icon_flq2",
 			scale = 1,
-			desc = "20元话费",
+			desc = "2000福利券",
 			is_dj = 1,
 		},
 		[2]=
@@ -385,45 +385,45 @@ return {
 		{
 			line = 3,
 			id = 11719,
-			icon = "ty_icon_flq1",
+			icon = "ty_icon_jb_30y",
 			scale = 1,
-			desc = "30福利券",
+			desc = "3000金币",
 			is_dj = 0,
 		},
 		[4]=
 		{
 			line = 4,
 			id = 11720,
-			icon = "ty_icon_flq2",
+			icon = "ty_icon_jb_30y",
 			scale = 1,
-			desc = "40福利券",
+			desc = "4000金币",
 			is_dj = 0,
 		},
 		[5]=
 		{
 			line = 5,
 			id = -1,
-			icon = "com_award_icon_hfsp",
+			icon = "ty_icon_flq3",
 			scale = 1,
-			desc = "50元话费",
+			desc = "5000福利券",
 			is_dj = 1,
 		},
 		[6]=
 		{
 			line = 6,
 			id = 11721,
-			icon = "ty_icon_flq2",
+			icon = "ty_icon_jb_48y",
 			scale = 1,
-			desc = "50福利券",
+			desc = "5000金币",
 			is_dj = 0,
 		},
 		[7]=
 		{
 			line = 7,
 			id = 11722,
-			icon = "ty_icon_flq2",
+			icon = "ty_icon_jb_48y",
 			scale = 1,
-			desc = "80福利券",
+			desc = "8000金币",
 			is_dj = 0,
 		},
 		[8]=
@@ -439,54 +439,54 @@ return {
 		{
 			line = 9,
 			id = 11723,
-			icon = "ty_icon_flq2",
+			icon = "com_award_icon_hfsp",
 			scale = 1,
-			desc = "100福利券",
+			desc = "1元话费",
 			is_dj = 0,
 		},
 		[10]=
 		{
 			line = 10,
 			id = 11724,
-			icon = "ty_icon_flq2",
+			icon = "ty_icon_jb_98y",
 			scale = 1,
-			desc = "120福利券",
+			desc = "12万金币",
 			is_dj = 0,
 		},
 		[11]=
 		{
 			line = 11,
 			id = 11725,
-			icon = "ty_icon_flq3",
+			icon = "com_award_icon_hfsp",
 			scale = 1,
-			desc = "150福利券",
+			desc = "1.5元话费",
 			is_dj = 0,
 		},
 		[12]=
 		{
 			line = 12,
 			id = -1,
-			icon = "ty_icon_flq3",
+			icon = "activity_icon_gift_1000jdk",
 			scale = 1,
-			desc = "8万福利券",
+			desc = "千元京东卡",
 			is_dj = 1,
 		},
 		[13]=
 		{
 			line = 13,
 			id = 11726,
-			icon = "ty_icon_flq3",
+			icon = "ty_icon_jb_198y",
 			scale = 1,
-			desc = "160福利券",
+			desc = "16万金币",
 			is_dj = 0,
 		},
 		[14]=
 		{
 			line = 14,
 			id = 11727,
-			icon = "ty_icon_flq3",
+			icon = "ty_icon_jb_198y",
 			scale = 1,
-			desc = "170福利券",
+			desc = "17万金币",
 			is_dj = 0,
 		},
 	},
