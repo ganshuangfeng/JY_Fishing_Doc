@@ -1278,7 +1278,7 @@ return {
 			id = 17,
 			bannerID = 17,
 			key = "hall_activity",
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 4,
 			condi_key = "Sign_in_popup_old",
 			gotoUI = {"hall_activity","panel"},
