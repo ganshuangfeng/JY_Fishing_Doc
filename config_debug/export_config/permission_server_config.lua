@@ -12024,6 +12024,16 @@ return {
 			group = 1,
 			error_desc = "是官方渠道",
 		},
+		[687]=
+		{
+			no = 687,
+			id = 287,
+			var = "tag_type",
+			value = "tag_plat_normal",
+			judge = 2,
+			group = 1,
+			error_desc = "是官方平台",
+		},
 	},
 	share_condition=
 	{

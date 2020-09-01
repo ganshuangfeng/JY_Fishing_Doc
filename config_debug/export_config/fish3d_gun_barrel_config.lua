@@ -334,7 +334,7 @@ return {
 			id = 1,
 			gun_rate = 10,
 			power_max_rate = 900,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[2]=
 		{
@@ -342,7 +342,7 @@ return {
 			id = 1,
 			gun_rate = 20,
 			power_max_rate = 1800,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[3]=
 		{
@@ -350,7 +350,7 @@ return {
 			id = 1,
 			gun_rate = 30,
 			power_max_rate = 2700,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[4]=
 		{
@@ -358,7 +358,7 @@ return {
 			id = 1,
 			gun_rate = 40,
 			power_max_rate = 3600,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[5]=
 		{
@@ -366,7 +366,7 @@ return {
 			id = 1,
 			gun_rate = 50,
 			power_max_rate = 4500,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[6]=
 		{
@@ -374,7 +374,7 @@ return {
 			id = 1,
 			gun_rate = 60,
 			power_max_rate = 5400,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[7]=
 		{
@@ -382,7 +382,7 @@ return {
 			id = 1,
 			gun_rate = 70,
 			power_max_rate = 6300,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[8]=
 		{
@@ -390,7 +390,7 @@ return {
 			id = 1,
 			gun_rate = 80,
 			power_max_rate = 7200,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[9]=
 		{
@@ -398,7 +398,7 @@ return {
 			id = 1,
 			gun_rate = 90,
 			power_max_rate = 8100,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[10]=
 		{
@@ -406,7 +406,7 @@ return {
 			id = 1,
 			gun_rate = 100,
 			power_max_rate = 9000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[11]=
 		{
@@ -414,7 +414,7 @@ return {
 			id = 1,
 			gun_rate = 100,
 			power_max_rate = 9000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[12]=
 		{
@@ -422,7 +422,7 @@ return {
 			id = 1,
 			gun_rate = 200,
 			power_max_rate = 18000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[13]=
 		{
@@ -430,7 +430,7 @@ return {
 			id = 1,
 			gun_rate = 300,
 			power_max_rate = 27000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[14]=
 		{
@@ -438,7 +438,7 @@ return {
 			id = 1,
 			gun_rate = 400,
 			power_max_rate = 36000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[15]=
 		{
@@ -446,7 +446,7 @@ return {
 			id = 1,
 			gun_rate = 500,
 			power_max_rate = 45000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[16]=
 		{
@@ -454,7 +454,7 @@ return {
 			id = 1,
 			gun_rate = 600,
 			power_max_rate = 54000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[17]=
 		{
@@ -462,7 +462,7 @@ return {
 			id = 1,
 			gun_rate = 700,
 			power_max_rate = 63000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[18]=
 		{
@@ -470,7 +470,7 @@ return {
 			id = 1,
 			gun_rate = 800,
 			power_max_rate = 72000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[19]=
 		{
@@ -478,7 +478,7 @@ return {
 			id = 1,
 			gun_rate = 900,
 			power_max_rate = 81000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[20]=
 		{
@@ -486,7 +486,7 @@ return {
 			id = 1,
 			gun_rate = 1000,
 			power_max_rate = 90000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[21]=
 		{
@@ -494,7 +494,7 @@ return {
 			id = 1,
 			gun_rate = 1000,
 			power_max_rate = 90000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[22]=
 		{
@@ -502,7 +502,7 @@ return {
 			id = 1,
 			gun_rate = 2000,
 			power_max_rate = 180000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[23]=
 		{
@@ -510,7 +510,7 @@ return {
 			id = 1,
 			gun_rate = 3000,
 			power_max_rate = 270000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[24]=
 		{
@@ -518,7 +518,7 @@ return {
 			id = 1,
 			gun_rate = 4000,
 			power_max_rate = 360000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[25]=
 		{
@@ -526,7 +526,7 @@ return {
 			id = 1,
 			gun_rate = 5000,
 			power_max_rate = 450000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[26]=
 		{
@@ -534,7 +534,7 @@ return {
 			id = 1,
 			gun_rate = 6000,
 			power_max_rate = 540000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[27]=
 		{
@@ -542,7 +542,7 @@ return {
 			id = 1,
 			gun_rate = 7000,
 			power_max_rate = 630000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[28]=
 		{
@@ -550,7 +550,7 @@ return {
 			id = 1,
 			gun_rate = 8000,
 			power_max_rate = 720000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[29]=
 		{
@@ -558,7 +558,7 @@ return {
 			id = 1,
 			gun_rate = 9000,
 			power_max_rate = 810000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[30]=
 		{
@@ -566,7 +566,7 @@ return {
 			id = 1,
 			gun_rate = 10000,
 			power_max_rate = 900000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[31]=
 		{
@@ -574,7 +574,7 @@ return {
 			id = 1,
 			gun_rate = 10000,
 			power_max_rate = 900000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[32]=
 		{
@@ -582,7 +582,7 @@ return {
 			id = 1,
 			gun_rate = 20000,
 			power_max_rate = 1800000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[33]=
 		{
@@ -590,7 +590,7 @@ return {
 			id = 1,
 			gun_rate = 30000,
 			power_max_rate = 2700000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[34]=
 		{
@@ -598,7 +598,7 @@ return {
 			id = 1,
 			gun_rate = 40000,
 			power_max_rate = 3600000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[35]=
 		{
@@ -606,7 +606,7 @@ return {
 			id = 1,
 			gun_rate = 50000,
 			power_max_rate = 4500000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[36]=
 		{
@@ -614,7 +614,7 @@ return {
 			id = 1,
 			gun_rate = 60000,
 			power_max_rate = 5400000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[37]=
 		{
@@ -622,7 +622,7 @@ return {
 			id = 1,
 			gun_rate = 70000,
 			power_max_rate = 6300000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[38]=
 		{
@@ -630,7 +630,7 @@ return {
 			id = 1,
 			gun_rate = 80000,
 			power_max_rate = 7200000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[39]=
 		{
@@ -638,7 +638,7 @@ return {
 			id = 1,
 			gun_rate = 90000,
 			power_max_rate = 8100000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[40]=
 		{
@@ -646,7 +646,7 @@ return {
 			id = 1,
 			gun_rate = 100000,
 			power_max_rate = 9000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[41]=
 		{
@@ -654,7 +654,7 @@ return {
 			id = 1,
 			gun_rate = 100000,
 			power_max_rate = 9000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[42]=
 		{
@@ -662,7 +662,7 @@ return {
 			id = 1,
 			gun_rate = 200000,
 			power_max_rate = 18000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[43]=
 		{
@@ -670,7 +670,7 @@ return {
 			id = 1,
 			gun_rate = 300000,
 			power_max_rate = 27000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[44]=
 		{
@@ -678,7 +678,7 @@ return {
 			id = 1,
 			gun_rate = 400000,
 			power_max_rate = 36000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[45]=
 		{
@@ -686,7 +686,7 @@ return {
 			id = 1,
 			gun_rate = 500000,
 			power_max_rate = 45000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[46]=
 		{
@@ -694,7 +694,7 @@ return {
 			id = 1,
 			gun_rate = 600000,
 			power_max_rate = 54000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[47]=
 		{
@@ -702,7 +702,7 @@ return {
 			id = 1,
 			gun_rate = 700000,
 			power_max_rate = 63000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[48]=
 		{
@@ -710,7 +710,7 @@ return {
 			id = 1,
 			gun_rate = 800000,
 			power_max_rate = 72000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[49]=
 		{
@@ -718,7 +718,7 @@ return {
 			id = 1,
 			gun_rate = 900000,
 			power_max_rate = 81000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[50]=
 		{
@@ -726,7 +726,7 @@ return {
 			id = 1,
 			gun_rate = 1000000,
 			power_max_rate = 90000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[51]=
 		{
@@ -734,7 +734,7 @@ return {
 			id = 2,
 			gun_rate = 10,
 			power_max_rate = 3000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[52]=
 		{
@@ -742,7 +742,7 @@ return {
 			id = 2,
 			gun_rate = 20,
 			power_max_rate = 6000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[53]=
 		{
@@ -750,7 +750,7 @@ return {
 			id = 2,
 			gun_rate = 30,
 			power_max_rate = 9000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[54]=
 		{
@@ -758,7 +758,7 @@ return {
 			id = 2,
 			gun_rate = 40,
 			power_max_rate = 12000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[55]=
 		{
@@ -766,7 +766,7 @@ return {
 			id = 2,
 			gun_rate = 50,
 			power_max_rate = 15000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[56]=
 		{
@@ -774,7 +774,7 @@ return {
 			id = 2,
 			gun_rate = 60,
 			power_max_rate = 18000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[57]=
 		{
@@ -782,7 +782,7 @@ return {
 			id = 2,
 			gun_rate = 70,
 			power_max_rate = 21000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[58]=
 		{
@@ -790,7 +790,7 @@ return {
 			id = 2,
 			gun_rate = 80,
 			power_max_rate = 24000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[59]=
 		{
@@ -798,7 +798,7 @@ return {
 			id = 2,
 			gun_rate = 90,
 			power_max_rate = 27000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[60]=
 		{
@@ -806,7 +806,7 @@ return {
 			id = 2,
 			gun_rate = 100,
 			power_max_rate = 30000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[61]=
 		{
@@ -814,7 +814,7 @@ return {
 			id = 2,
 			gun_rate = 100,
 			power_max_rate = 30000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[62]=
 		{
@@ -822,7 +822,7 @@ return {
 			id = 2,
 			gun_rate = 200,
 			power_max_rate = 60000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[63]=
 		{
@@ -830,7 +830,7 @@ return {
 			id = 2,
 			gun_rate = 300,
 			power_max_rate = 90000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[64]=
 		{
@@ -838,7 +838,7 @@ return {
 			id = 2,
 			gun_rate = 400,
 			power_max_rate = 120000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[65]=
 		{
@@ -846,7 +846,7 @@ return {
 			id = 2,
 			gun_rate = 500,
 			power_max_rate = 150000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[66]=
 		{
@@ -854,7 +854,7 @@ return {
 			id = 2,
 			gun_rate = 600,
 			power_max_rate = 180000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[67]=
 		{
@@ -862,7 +862,7 @@ return {
 			id = 2,
 			gun_rate = 700,
 			power_max_rate = 210000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[68]=
 		{
@@ -870,7 +870,7 @@ return {
 			id = 2,
 			gun_rate = 800,
 			power_max_rate = 240000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[69]=
 		{
@@ -878,7 +878,7 @@ return {
 			id = 2,
 			gun_rate = 900,
 			power_max_rate = 270000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[70]=
 		{
@@ -886,7 +886,7 @@ return {
 			id = 2,
 			gun_rate = 1000,
 			power_max_rate = 300000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[71]=
 		{
@@ -894,7 +894,7 @@ return {
 			id = 2,
 			gun_rate = 1000,
 			power_max_rate = 300000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[72]=
 		{
@@ -902,7 +902,7 @@ return {
 			id = 2,
 			gun_rate = 2000,
 			power_max_rate = 600000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[73]=
 		{
@@ -910,7 +910,7 @@ return {
 			id = 2,
 			gun_rate = 3000,
 			power_max_rate = 900000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[74]=
 		{
@@ -918,7 +918,7 @@ return {
 			id = 2,
 			gun_rate = 4000,
 			power_max_rate = 1200000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[75]=
 		{
@@ -926,7 +926,7 @@ return {
 			id = 2,
 			gun_rate = 5000,
 			power_max_rate = 1500000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[76]=
 		{
@@ -934,7 +934,7 @@ return {
 			id = 2,
 			gun_rate = 6000,
 			power_max_rate = 1800000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[77]=
 		{
@@ -942,7 +942,7 @@ return {
 			id = 2,
 			gun_rate = 7000,
 			power_max_rate = 2100000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[78]=
 		{
@@ -950,7 +950,7 @@ return {
 			id = 2,
 			gun_rate = 8000,
 			power_max_rate = 2400000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[79]=
 		{
@@ -958,7 +958,7 @@ return {
 			id = 2,
 			gun_rate = 9000,
 			power_max_rate = 2700000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[80]=
 		{
@@ -966,7 +966,7 @@ return {
 			id = 2,
 			gun_rate = 10000,
 			power_max_rate = 3000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[81]=
 		{
@@ -974,7 +974,7 @@ return {
 			id = 2,
 			gun_rate = 10000,
 			power_max_rate = 3000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[82]=
 		{
@@ -982,7 +982,7 @@ return {
 			id = 2,
 			gun_rate = 20000,
 			power_max_rate = 6000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[83]=
 		{
@@ -990,7 +990,7 @@ return {
 			id = 2,
 			gun_rate = 30000,
 			power_max_rate = 9000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[84]=
 		{
@@ -998,7 +998,7 @@ return {
 			id = 2,
 			gun_rate = 40000,
 			power_max_rate = 12000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[85]=
 		{
@@ -1006,7 +1006,7 @@ return {
 			id = 2,
 			gun_rate = 50000,
 			power_max_rate = 15000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[86]=
 		{
@@ -1014,7 +1014,7 @@ return {
 			id = 2,
 			gun_rate = 60000,
 			power_max_rate = 18000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[87]=
 		{
@@ -1022,7 +1022,7 @@ return {
 			id = 2,
 			gun_rate = 70000,
 			power_max_rate = 21000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[88]=
 		{
@@ -1030,7 +1030,7 @@ return {
 			id = 2,
 			gun_rate = 80000,
 			power_max_rate = 24000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[89]=
 		{
@@ -1038,7 +1038,7 @@ return {
 			id = 2,
 			gun_rate = 90000,
 			power_max_rate = 27000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[90]=
 		{
@@ -1046,7 +1046,7 @@ return {
 			id = 2,
 			gun_rate = 100000,
 			power_max_rate = 30000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[91]=
 		{
@@ -1054,7 +1054,7 @@ return {
 			id = 2,
 			gun_rate = 100000,
 			power_max_rate = 30000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[92]=
 		{
@@ -1062,7 +1062,7 @@ return {
 			id = 2,
 			gun_rate = 200000,
 			power_max_rate = 60000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[93]=
 		{
@@ -1070,7 +1070,7 @@ return {
 			id = 2,
 			gun_rate = 300000,
 			power_max_rate = 90000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[94]=
 		{
@@ -1078,7 +1078,7 @@ return {
 			id = 2,
 			gun_rate = 400000,
 			power_max_rate = 120000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[95]=
 		{
@@ -1086,7 +1086,7 @@ return {
 			id = 2,
 			gun_rate = 500000,
 			power_max_rate = 150000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[96]=
 		{
@@ -1094,7 +1094,7 @@ return {
 			id = 2,
 			gun_rate = 600000,
 			power_max_rate = 180000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[97]=
 		{
@@ -1102,7 +1102,7 @@ return {
 			id = 2,
 			gun_rate = 700000,
 			power_max_rate = 210000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[98]=
 		{
@@ -1110,7 +1110,7 @@ return {
 			id = 2,
 			gun_rate = 800000,
 			power_max_rate = 240000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[99]=
 		{
@@ -1118,7 +1118,7 @@ return {
 			id = 2,
 			gun_rate = 900000,
 			power_max_rate = 270000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 		[100]=
 		{
@@ -1126,7 +1126,7 @@ return {
 			id = 2,
 			gun_rate = 1000000,
 			power_max_rate = 300000000,
-			speed = 0.006000,
+			speed = 0.060000,
 		},
 	},
 	skill=
