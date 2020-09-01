@@ -1768,6 +1768,12 @@ return {
 			name = "防沉迷系统（根据平台进行屏蔽）",
 			condi = 266,
 		},
+		gfpt_tgxt=
+		{
+			key = "gfpt_tgxt",
+			name = "推广系统（官方渠道才显示）",
+			condi = 287,
+		},
 	},
 	act_permission=
 	{
@@ -5161,7 +5167,7 @@ return {
 			enable = 1,
 			key = "actp_buy_gift_bag_10291",
 			name = "免费话费（免费、小额玩家）",
-			condi = 287,
+			condi = 288,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
@@ -12024,16 +12030,26 @@ return {
 		{
 			no = 686,
 			id = 287,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是官方渠道",
+		},
+		[687]=
+		{
+			no = 687,
+			id = 288,
 			var = "tag_type",
 			value = "tag_free_player",
 			judge = 2,
 			group = 1,
 			error_desc = "只展示给免费用户标签",
 		},
-		[687]=
+		[688]=
 		{
-			no = 687,
-			id = 287,
+			no = 688,
+			id = 288,
 			var = "tag_type",
 			value = "tag_stingy_player",
 			judge = 2,
@@ -12085,6 +12101,15 @@ return {
 			name = "3dby_cpl",
 			var = "market_channel",
 			value = {"pceggs","xianwan","pdd","duoliang"},
+			judge = 2,
+			group = 1,
+		},
+		[6]=
+		{
+			id = 6,
+			name = "3dby_official",
+			var = "market_channel",
+			value = {"normal",},
 			judge = 2,
 			group = 1,
 		},
