@@ -5173,6 +5173,42 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1599523200,
 		},
+		[284]=
+		{
+			id = 284,
+			enable = 1,
+			key = "actp_own_task_p_028_xycd",
+			name = "幸运彩蛋赢金及首次商城充值获得阳光（V1-V10，非新玩家）",
+			condi = 289,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1599494400,
+		},
+		[285]=
+		{
+			id = 285,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_xycd_028_xycd_v1",
+			name = "幸运彩蛋（V1-V3，非新玩家）",
+			condi = 290,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1599523200,
+		},
+		[286]=
+		{
+			id = 286,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_xycd_028_xycd_v4",
+			name = "幸运彩蛋（V4-V10，非新玩家）",
+			condi = 291,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1599523200,
+		},
 	},
 	condi=
 	{
@@ -12055,6 +12091,96 @@ return {
 			judge = 2,
 			group = 2,
 			error_desc = "只展示给小额标签用户",
+		},
+		[689]=
+		{
+			no = 689,
+			id = 289,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上的用户可进行游戏",
+		},
+		[690]=
+		{
+			no = 690,
+			id = 289,
+			var = "vip_level",
+			value = 10,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP10及以下的用户可进行游戏",
+		},
+		[691]=
+		{
+			no = 691,
+			id = 289,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[692]=
+		{
+			no = 692,
+			id = 290,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[693]=
+		{
+			no = 693,
+			id = 290,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上的用户可进行游戏",
+		},
+		[694]=
+		{
+			no = 694,
+			id = 290,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP3及以下的用户可进行游戏",
+		},
+		[695]=
+		{
+			no = 695,
+			id = 291,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上的用户可进行游戏",
+		},
+		[696]=
+		{
+			no = 696,
+			id = 291,
+			var = "vip_level",
+			value = 10,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP10及以下的用户可进行游戏",
+		},
+		[697]=
+		{
+			no = 697,
+			id = 291,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
 		},
 	},
 	share_condition=
