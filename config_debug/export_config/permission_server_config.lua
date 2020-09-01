@@ -1774,6 +1774,12 @@ return {
 			name = "推广系统（官方渠道才显示）",
 			condi = 287,
 		},
+		cps_ggxt=
+		{
+			key = "cps_ggxt",
+			name = "广告系统（CPS渠道不显示）",
+			condi = 292,
+		},
 	},
 	act_permission=
 	{
@@ -12075,6 +12081,16 @@ return {
 		[687]=
 		{
 			no = 687,
+			id = 287,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 2,
+			error_desc = "是CPS渠道",
+		},
+		[688]=
+		{
+			no = 688,
 			id = 288,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -12082,9 +12098,9 @@ return {
 			group = 1,
 			error_desc = "只展示给免费用户标签",
 		},
-		[688]=
+		[689]=
 		{
-			no = 688,
+			no = 689,
 			id = 288,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -12092,9 +12108,9 @@ return {
 			group = 2,
 			error_desc = "只展示给小额标签用户",
 		},
-		[689]=
+		[690]=
 		{
-			no = 689,
+			no = 690,
 			id = 289,
 			var = "vip_level",
 			value = 4,
@@ -12102,9 +12118,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户可进行游戏",
 		},
-		[690]=
+		[691]=
 		{
-			no = 690,
+			no = 691,
 			id = 289,
 			var = "vip_level",
 			value = 10,
@@ -12112,20 +12128,10 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[691]=
-		{
-			no = 691,
-			id = 289,
-			var = "tag_type",
-			value = "tag_class_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "不是新用户",
-		},
 		[692]=
 		{
 			no = 692,
-			id = 290,
+			id = 289,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,
@@ -12136,15 +12142,25 @@ return {
 		{
 			no = 693,
 			id = 290,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[694]=
+		{
+			no = 694,
+			id = 290,
 			var = "vip_level",
 			value = 1,
 			judge = 3,
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[694]=
+		[695]=
 		{
-			no = 694,
+			no = 695,
 			id = 290,
 			var = "vip_level",
 			value = 3,
@@ -12152,9 +12168,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户可进行游戏",
 		},
-		[695]=
+		[696]=
 		{
-			no = 695,
+			no = 696,
 			id = 291,
 			var = "vip_level",
 			value = 4,
@@ -12162,9 +12178,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户可进行游戏",
 		},
-		[696]=
+		[697]=
 		{
-			no = 696,
+			no = 697,
 			id = 291,
 			var = "vip_level",
 			value = 10,
@@ -12172,15 +12188,25 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[697]=
+		[698]=
 		{
-			no = 697,
+			no = 698,
 			id = 291,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,
 			group = 1,
 			error_desc = "不是新用户",
+		},
+		[699]=
+		{
+			no = 699,
+			id = 292,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPS渠道",
 		},
 	},
 	share_condition=
@@ -12236,6 +12262,15 @@ return {
 			name = "3dby_official",
 			var = "market_channel",
 			value = {"normal",},
+			judge = 2,
+			group = 1,
+		},
+		[7]=
+		{
+			id = 7,
+			name = "3dby_cps",
+			var = "market_channel",
+			value = {"vivo",},
 			judge = 2,
 			group = 1,
 		},

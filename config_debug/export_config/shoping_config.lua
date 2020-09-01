@@ -2247,7 +2247,7 @@ return {
 			id = 96,
 			on_off = 1,
 			pay_title = "新手礼包",
-			content = {"60万金币","10万-120万随机金币","话费碎片*20"},
+			content = {"100万金币","10万-120万随机金币","话费碎片*20"},
 			gzh_order = -20,
 			gzh_show = 0,
 			web_show = 0,
