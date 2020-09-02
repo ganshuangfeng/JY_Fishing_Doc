@@ -10646,7 +10646,7 @@ return {
 			process = {1500000,-1},
 			awards = 666,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 2,
 		},
 		[447]=
 		{
@@ -26194,7 +26194,7 @@ return {
 		{
 			id = 939,
 			award_id = 666,
-			asset_type = "prop_xycd_ sunshine",
+			asset_type = "prop_xycd_sunshine",
 			asset_count = 1,
 			get_weight = 1,
 		},
@@ -26202,7 +26202,7 @@ return {
 		{
 			id = 940,
 			award_id = 667,
-			asset_type = "prop_xycd_ sunshine",
+			asset_type = "prop_xycd_sunshine",
 			asset_count = 5,
 			get_weight = 1,
 		},
@@ -26210,7 +26210,7 @@ return {
 		{
 			id = 941,
 			award_id = 668,
-			asset_type = "prop_xycd_ sunshine",
+			asset_type = "prop_xycd_sunshine",
 			asset_count = 12,
 			get_weight = 1,
 		},
@@ -26218,7 +26218,7 @@ return {
 		{
 			id = 942,
 			award_id = 669,
-			asset_type = "prop_xycd_ sunshine",
+			asset_type = "prop_xycd_sunshine",
 			asset_count = 25,
 			get_weight = 1,
 		},
@@ -26226,7 +26226,7 @@ return {
 		{
 			id = 943,
 			award_id = 670,
-			asset_type = "prop_xycd_ sunshine",
+			asset_type = "prop_xycd_sunshine",
 			asset_count = 38,
 			get_weight = 1,
 		},
@@ -26234,7 +26234,7 @@ return {
 		{
 			id = 944,
 			award_id = 671,
-			asset_type = "prop_xycd_ sunshine",
+			asset_type = "prop_xycd_sunshine",
 			asset_count = 78,
 			get_weight = 1,
 		},
@@ -26242,7 +26242,7 @@ return {
 		{
 			id = 945,
 			award_id = 672,
-			asset_type = "prop_xycd_ sunshine",
+			asset_type = "prop_xycd_sunshine",
 			asset_count = 158,
 			get_weight = 1,
 		},
@@ -26250,7 +26250,7 @@ return {
 		{
 			id = 946,
 			award_id = 673,
-			asset_type = "prop_xycd_ sunshine",
+			asset_type = "prop_xycd_sunshine",
 			asset_count = 398,
 			get_weight = 1,
 		},
@@ -26258,7 +26258,7 @@ return {
 		{
 			id = 947,
 			award_id = 674,
-			asset_type = "prop_xycd_ sunshine",
+			asset_type = "prop_xycd_sunshine",
 			asset_count = 798,
 			get_weight = 1,
 		},
@@ -26266,7 +26266,7 @@ return {
 		{
 			id = 948,
 			award_id = 675,
-			asset_type = "prop_xycd_ sunshine",
+			asset_type = "prop_xycd_sunshine",
 			asset_count = 1998,
 			get_weight = 1,
 		},
