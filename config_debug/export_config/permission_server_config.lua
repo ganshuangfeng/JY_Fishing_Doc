@@ -5184,7 +5184,7 @@ return {
 			id = 284,
 			enable = 1,
 			key = "actp_own_task_p_028_xycd",
-			name = "幸运彩蛋赢金及首次商城充值获得阳光（V1-V10，非新玩家）",
+			name = "幸运彩蛋首次商城充值获得阳光（V1-V10，非新玩家）",
 			condi = 289,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -5214,6 +5214,18 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 1599523200,
+		},
+		[287]=
+		{
+			id = 287,
+			enable = 1,
+			key = "actp_own_task_p_028_xycd_ljyj",
+			name = "幸运彩蛋累计赢金获得阳光（V1-V10，非新玩家）",
+			condi = 293,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1599494400,
 		},
 	},
 	condi=
@@ -12207,6 +12219,36 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是CPS渠道",
+		},
+		[700]=
+		{
+			no = 700,
+			id = 293,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[701]=
+		{
+			no = 701,
+			id = 293,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上的用户可进行游戏",
+		},
+		[702]=
+		{
+			no = 702,
+			id = 293,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP3及以下的用户可进行游戏",
 		},
 	},
 	share_condition=

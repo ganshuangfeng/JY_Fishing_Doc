@@ -6236,7 +6236,7 @@ return {
 			id = 1000036,
 			enable = 1,
 			name = "幸运彩蛋",
-			own_type = "p_028_xycd",
+			own_type = "p_028_xycd_ljyj",
 			task_enum = "common",
 			process_id = 21394,
 			is_reset = 1,
