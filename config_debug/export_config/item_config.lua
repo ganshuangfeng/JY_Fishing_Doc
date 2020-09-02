@@ -1894,7 +1894,7 @@ return {
 		{
 			id = 144,
 			item_id = 144,
-			item_key = "prop_xycd_ sunshine",
+			item_key = "prop_xycd_sunshine",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "xycd_icon_ty2",
