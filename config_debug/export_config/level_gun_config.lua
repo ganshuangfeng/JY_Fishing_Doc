@@ -9,7 +9,7 @@ return {
 			gun_img = "3dby_icon_djpt1",
 			bullet_img = "3dby_icon_dan_dj1",
 			net_img = "3dby_icon_wang_dj1",
-			url = "http://jydown.jyhd919.cn/head_images3/jy/girl/new_girl_head018.jpg",
+			url = {"http://jydown.jyhd919.cn/head_images3/jy/boy/new_boy_head010.jpg",},
 		},
 		[2]=
 		{
@@ -19,7 +19,7 @@ return {
 			gun_img = "3dby_icon_djpt2",
 			bullet_img = "3dby_icon_dan_dj2",
 			net_img = "3dby_icon_wang_dj2",
-			url = "http://jydown.jyhd919.cn/head_images3/jy/boy/new_boy_head019.jpg",
+			url = {"http://jydown.jyhd919.cn/head_images3/jy/boy/new_boy_head013.jpg",},
 		},
 		[3]=
 		{
@@ -29,7 +29,7 @@ return {
 			gun_img = "3dby_icon_djpt3",
 			bullet_img = "3dby_icon_dan_dj3",
 			net_img = "3dby_icon_wang_dj3",
-			url = "http://jydown.jyhd919.cn/head_images3/jy/boy/new_boy_head021.jpg",
+			url = {"http://jydown.jyhd919.cn/head_images3/jy/boy/new_boy_head017.jpg",},
 		},
 		[4]=
 		{
@@ -39,7 +39,7 @@ return {
 			gun_img = "3dby_icon_djpt4",
 			bullet_img = "3dby_icon_dan_dj4",
 			net_img = "3dby_icon_wang_dj4",
-			url = "http://jydown.jyhd919.cn/head_images3/jy/boy/new_boy_head023.jpg",
+			url = {"http://jydown.jyhd919.cn/head_images3/jy/boy/new_boy_head021.jpg",},
 		},
 		[5]=
 		{
@@ -49,8 +49,9 @@ return {
 			gun_img = "3dby_icon_djpt5",
 			bullet_img = "3dby_icon_dan_dj5",
 			net_img = "3dby_icon_wang_dj5",
-			url = "http://jydown.jyhd919.cn/head_images3/jy/boy/new_boy_head025.jpg",
+			url = {"http://jydown.jyhd919.cn/head_images3/jy/boy/new_boy_head025.jpg",},
 			head_frame_img = "dt_tx_mx5",
+			head_frame_name = "头像框（永久）",
 		},
 	},
 }
