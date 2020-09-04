@@ -414,7 +414,7 @@ return {
 			open_day = {7,},
 			need_min_num = 4,
 			max_num = 15,
-			sub_num = 2,
+			sub_num = 1,
 			enable = 1,
 		},
 	},
