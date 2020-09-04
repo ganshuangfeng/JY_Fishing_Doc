@@ -55,8 +55,8 @@ return {
 			bullet_img = "3dby_icon_dan_dj5",
 			net_img = "3dby_icon_wang_dj5",
 			url = {"http://jydown.jyhd919.cn/head_images3/jy/boy/new_boy_head025.jpg",},
-			head_frame_img = "dt_tx_mx5",
-			head_frame_name = "头像框（永久）",
+			head_frame_img = {"dt_tx_mx5",},
+			head_frame_name = {"头像框（永久）",},
 		},
 	},
 }
