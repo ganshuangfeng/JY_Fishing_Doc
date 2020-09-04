@@ -151,7 +151,7 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "36;89#98;11#58#30#",
+			group_list = "36;89#97;98;11#58#30#",
 		},
 		[3]=
 		{
@@ -163,7 +163,6 @@ return {
 		{
 			id = 4,
 			area = "top",
-			group_list = "97#",
 		},
 		[5]=
 		{
