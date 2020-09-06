@@ -12125,10 +12125,10 @@ return {
 			no = 690,
 			id = 289,
 			var = "vip_level",
-			value = 4,
+			value = 1,
 			judge = 3,
 			group = 1,
-			error_desc = "VIP4及以上的用户可进行游戏",
+			error_desc = "VIP1及以上的用户可进行游戏",
 		},
 		[691]=
 		{
@@ -12245,10 +12245,10 @@ return {
 			no = 702,
 			id = 293,
 			var = "vip_level",
-			value = 3,
+			value = 10,
 			judge = 4,
 			group = 1,
-			error_desc = "VIP3及以下的用户可进行游戏",
+			error_desc = "VIP10及以下的用户可进行游戏",
 		},
 	},
 	share_condition=
