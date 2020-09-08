@@ -6413,6 +6413,20 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
+		[1000049]=
+		{
+			id = 1000049,
+			enable = 1,
+			name = "小游戏累计赢金",
+			own_type = "normal",
+			task_enum = "little_game_yingjin_task",
+			process_id = 21407,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -10805,6 +10819,15 @@ return {
 			source_id = 453,
 			process = {300000000,950000000,4500000000,},
 			awards = {682,683,684},
+			get_award_type = "random",
+		},
+		[459]=
+		{
+			id = 459,
+			process_id = 21407,
+			source_id = 454,
+			process = {1000000,5000000,10000000,20000000,50000000,100000000,500000000,1000000000,2000000000,},
+			awards = {685,686,687,688,689,690,691,692,693},
 			get_award_type = "random",
 		},
 	},
@@ -15308,6 +15331,63 @@ return {
 			source_id = 453,
 			source_type = "buyu_spend",
 			condition_id = 317,
+		},
+		[638]=
+		{
+			id = 638,
+			source_id = 454,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[639]=
+		{
+			id = 639,
+			source_id = 454,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[640]=
+		{
+			id = 640,
+			source_id = 454,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[641]=
+		{
+			id = 641,
+			source_id = 454,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[642]=
+		{
+			id = 642,
+			source_id = 454,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[643]=
+		{
+			id = 643,
+			source_id = 454,
+			source_type = "jykp_award",
+			condition_id = 0,
+		},
+		[644]=
+		{
+			id = 644,
+			source_id = 454,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[645]=
+		{
+			id = 645,
+			source_id = 454,
+			source_type = "xiaoxiaole_xiyou_award",
+			condition_id = 0,
 		},
 	},
 	condition=
@@ -26599,6 +26679,222 @@ return {
 			asset_type = "shop_gold_sum",
 			asset_count = 60000,
 			get_weight = 25,
+		},
+		[976]=
+		{
+			id = 976,
+			award_id = 685,
+			asset_type = "shop_gold_sum",
+			asset_count = 5,
+			get_weight = 20,
+		},
+		[977]=
+		{
+			id = 977,
+			award_id = 685,
+			asset_type = "shop_gold_sum",
+			asset_count = 8,
+			get_weight = 30,
+		},
+		[978]=
+		{
+			id = 978,
+			award_id = 685,
+			asset_type = "shop_gold_sum",
+			asset_count = 10,
+			get_weight = 50,
+		},
+		[979]=
+		{
+			id = 979,
+			award_id = 686,
+			asset_type = "shop_gold_sum",
+			asset_count = 30,
+			get_weight = 20,
+		},
+		[980]=
+		{
+			id = 980,
+			award_id = 686,
+			asset_type = "shop_gold_sum",
+			asset_count = 40,
+			get_weight = 30,
+		},
+		[981]=
+		{
+			id = 981,
+			award_id = 686,
+			asset_type = "shop_gold_sum",
+			asset_count = 50,
+			get_weight = 50,
+		},
+		[982]=
+		{
+			id = 982,
+			award_id = 687,
+			asset_type = "shop_gold_sum",
+			asset_count = 50,
+			get_weight = 20,
+		},
+		[983]=
+		{
+			id = 983,
+			award_id = 687,
+			asset_type = "shop_gold_sum",
+			asset_count = 80,
+			get_weight = 30,
+		},
+		[984]=
+		{
+			id = 984,
+			award_id = 687,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
+			get_weight = 50,
+		},
+		[985]=
+		{
+			id = 985,
+			award_id = 688,
+			asset_type = "shop_gold_sum",
+			asset_count = 150,
+			get_weight = 20,
+		},
+		[986]=
+		{
+			id = 986,
+			award_id = 688,
+			asset_type = "shop_gold_sum",
+			asset_count = 180,
+			get_weight = 30,
+		},
+		[987]=
+		{
+			id = 987,
+			award_id = 688,
+			asset_type = "shop_gold_sum",
+			asset_count = 200,
+			get_weight = 50,
+		},
+		[988]=
+		{
+			id = 988,
+			award_id = 689,
+			asset_type = "shop_gold_sum",
+			asset_count = 300,
+			get_weight = 20,
+		},
+		[989]=
+		{
+			id = 989,
+			award_id = 689,
+			asset_type = "shop_gold_sum",
+			asset_count = 400,
+			get_weight = 30,
+		},
+		[990]=
+		{
+			id = 990,
+			award_id = 689,
+			asset_type = "shop_gold_sum",
+			asset_count = 500,
+			get_weight = 50,
+		},
+		[991]=
+		{
+			id = 991,
+			award_id = 690,
+			asset_type = "shop_gold_sum",
+			asset_count = 800,
+			get_weight = 20,
+		},
+		[992]=
+		{
+			id = 992,
+			award_id = 690,
+			asset_type = "shop_gold_sum",
+			asset_count = 900,
+			get_weight = 30,
+		},
+		[993]=
+		{
+			id = 993,
+			award_id = 690,
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
+			get_weight = 50,
+		},
+		[994]=
+		{
+			id = 994,
+			award_id = 691,
+			asset_type = "shop_gold_sum",
+			asset_count = 4500,
+			get_weight = 20,
+		},
+		[995]=
+		{
+			id = 995,
+			award_id = 691,
+			asset_type = "shop_gold_sum",
+			asset_count = 4800,
+			get_weight = 30,
+		},
+		[996]=
+		{
+			id = 996,
+			award_id = 691,
+			asset_type = "shop_gold_sum",
+			asset_count = 5000,
+			get_weight = 50,
+		},
+		[997]=
+		{
+			id = 997,
+			award_id = 692,
+			asset_type = "shop_gold_sum",
+			asset_count = 8000,
+			get_weight = 20,
+		},
+		[998]=
+		{
+			id = 998,
+			award_id = 692,
+			asset_type = "shop_gold_sum",
+			asset_count = 9000,
+			get_weight = 30,
+		},
+		[999]=
+		{
+			id = 999,
+			award_id = 692,
+			asset_type = "shop_gold_sum",
+			asset_count = 10000,
+			get_weight = 50,
+		},
+		[1000]=
+		{
+			id = 1000,
+			award_id = 693,
+			asset_type = "shop_gold_sum",
+			asset_count = 15000,
+			get_weight = 20,
+		},
+		[1001]=
+		{
+			id = 1001,
+			award_id = 693,
+			asset_type = "shop_gold_sum",
+			asset_count = 18000,
+			get_weight = 30,
+		},
+		[1002]=
+		{
+			id = 1002,
+			award_id = 693,
+			asset_type = "shop_gold_sum",
+			asset_count = 20000,
+			get_weight = 50,
 		},
 	},
 }
