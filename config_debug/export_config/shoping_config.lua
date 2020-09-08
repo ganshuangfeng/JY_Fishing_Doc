@@ -9979,21 +9979,21 @@ return {
 		[44]=
 		{
 			id = 44,
-			condition_group = {{type="permission_class",class_value = "xycd_029_hlqjd_v1" }},
+			condition_group = {{type="permission_class",class_value = "hlqjd_029_hlqjd_v1" }},
 			limit = 1,
 			duration = 0,
 		},
 		[45]=
 		{
 			id = 45,
-			condition_group = {{type="permission_class",class_value = "xycd_029_hlqjd_v4" }},
+			condition_group = {{type="permission_class",class_value = "hlqjd_029_hlqjd_v4" }},
 			limit = 1,
 			duration = 0,
 		},
 		[46]=
 		{
 			id = 46,
-			condition_group = {{type="permission_class",class_value = "xycd_029_hlqjd_v8" }},
+			condition_group = {{type="permission_class",class_value = "hlqjd_029_hlqjd_v8" }},
 			limit = 1,
 			duration = 0,
 		},
