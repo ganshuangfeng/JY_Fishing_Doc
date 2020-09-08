@@ -6231,6 +6231,146 @@ return {
 			end_valid_time = 1599494399,
 			time_limit = -1,
 		},
+		[1000036]=
+		{
+			id = 1000036,
+			enable = 1,
+			name = "幸运彩蛋",
+			own_type = "p_028_xycd_ljyj",
+			task_enum = "common",
+			process_id = 21394,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1599521400,
+			end_valid_time = 1600099199,
+			time_limit = -1,
+		},
+		[1000037]=
+		{
+			id = 1000037,
+			enable = 1,
+			name = "幸运彩蛋",
+			own_type = "p_028_xycd",
+			task_enum = "common",
+			process_id = 21395,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1599494400,
+			end_valid_time = 1600099199,
+			time_limit = -1,
+		},
+		[1000038]=
+		{
+			id = 1000038,
+			enable = 1,
+			name = "幸运彩蛋",
+			own_type = "p_028_xycd",
+			task_enum = "common",
+			process_id = 21396,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1599494400,
+			end_valid_time = 1600099199,
+			time_limit = -1,
+		},
+		[1000039]=
+		{
+			id = 1000039,
+			enable = 1,
+			name = "幸运彩蛋",
+			own_type = "p_028_xycd",
+			task_enum = "common",
+			process_id = 21397,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1599494400,
+			end_valid_time = 1600099199,
+			time_limit = -1,
+		},
+		[1000040]=
+		{
+			id = 1000040,
+			enable = 1,
+			name = "幸运彩蛋",
+			own_type = "p_028_xycd",
+			task_enum = "common",
+			process_id = 21398,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1599494400,
+			end_valid_time = 1600099199,
+			time_limit = -1,
+		},
+		[1000041]=
+		{
+			id = 1000041,
+			enable = 1,
+			name = "幸运彩蛋",
+			own_type = "p_028_xycd",
+			task_enum = "common",
+			process_id = 21399,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1599494400,
+			end_valid_time = 1600099199,
+			time_limit = -1,
+		},
+		[1000042]=
+		{
+			id = 1000042,
+			enable = 1,
+			name = "幸运彩蛋",
+			own_type = "p_028_xycd",
+			task_enum = "common",
+			process_id = 21400,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1599494400,
+			end_valid_time = 1600099199,
+			time_limit = -1,
+		},
+		[1000043]=
+		{
+			id = 1000043,
+			enable = 1,
+			name = "幸运彩蛋",
+			own_type = "p_028_xycd",
+			task_enum = "common",
+			process_id = 21401,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1599494400,
+			end_valid_time = 1600099199,
+			time_limit = -1,
+		},
+		[1000044]=
+		{
+			id = 1000044,
+			enable = 1,
+			name = "幸运彩蛋",
+			own_type = "p_028_xycd",
+			task_enum = "common",
+			process_id = 21402,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1599494400,
+			end_valid_time = 1600099199,
+			time_limit = -1,
+		},
+		[1000045]=
+		{
+			id = 1000045,
+			enable = 1,
+			name = "幸运彩蛋",
+			own_type = "p_028_xycd",
+			task_enum = "common",
+			process_id = 21403,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1599494400,
+			end_valid_time = 1600099199,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -10497,6 +10637,106 @@ return {
 			process = {600,4200,15000,30200,199800},
 			awards = {661,662,663,664,665},
 			get_award_type = "nor",
+		},
+		[446]=
+		{
+			id = 446,
+			process_id = 21394,
+			source_id = 441,
+			process = {1500000,-1},
+			awards = 666,
+			get_award_type = "nor",
+			is_auto_get_award = 2,
+		},
+		[447]=
+		{
+			id = 447,
+			process_id = 21395,
+			source_id = 442,
+			process = 1,
+			awards = 667,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[448]=
+		{
+			id = 448,
+			process_id = 21396,
+			source_id = 443,
+			process = 1,
+			awards = 668,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[449]=
+		{
+			id = 449,
+			process_id = 21397,
+			source_id = 444,
+			process = 1,
+			awards = 669,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[450]=
+		{
+			id = 450,
+			process_id = 21398,
+			source_id = 445,
+			process = 1,
+			awards = 670,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[451]=
+		{
+			id = 451,
+			process_id = 21399,
+			source_id = 446,
+			process = 1,
+			awards = 671,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[452]=
+		{
+			id = 452,
+			process_id = 21400,
+			source_id = 447,
+			process = 1,
+			awards = 672,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[453]=
+		{
+			id = 453,
+			process_id = 21401,
+			source_id = 448,
+			process = 1,
+			awards = 673,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[454]=
+		{
+			id = 454,
+			process_id = 21402,
+			source_id = 449,
+			process = 1,
+			awards = 674,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[455]=
+		{
+			id = 455,
+			process_id = 21403,
+			source_id = 450,
+			process = 1,
+			awards = 675,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 	},
 	source=
@@ -14851,6 +15091,134 @@ return {
 			source_type = "charge_any",
 			condition_id = 305,
 		},
+		[617]=
+		{
+			id = 617,
+			source_id = 441,
+			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[618]=
+		{
+			id = 618,
+			source_id = 441,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[619]=
+		{
+			id = 619,
+			source_id = 441,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[620]=
+		{
+			id = 620,
+			source_id = 441,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[621]=
+		{
+			id = 621,
+			source_id = 441,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[622]=
+		{
+			id = 622,
+			source_id = 441,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[623]=
+		{
+			id = 623,
+			source_id = 441,
+			source_type = "buyu_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[624]=
+		{
+			id = 624,
+			source_id = 441,
+			source_type = "jykp_award",
+			condition_id = 0,
+		},
+		[625]=
+		{
+			id = 625,
+			source_id = 441,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[626]=
+		{
+			id = 626,
+			source_id = 442,
+			source_type = "buy_gift",
+			condition_id = 306,
+		},
+		[627]=
+		{
+			id = 627,
+			source_id = 443,
+			source_type = "buy_gift",
+			condition_id = 307,
+		},
+		[628]=
+		{
+			id = 628,
+			source_id = 444,
+			source_type = "buy_gift",
+			condition_id = 308,
+		},
+		[629]=
+		{
+			id = 629,
+			source_id = 445,
+			source_type = "buy_gift",
+			condition_id = 309,
+		},
+		[630]=
+		{
+			id = 630,
+			source_id = 446,
+			source_type = "buy_gift",
+			condition_id = 310,
+		},
+		[631]=
+		{
+			id = 631,
+			source_id = 447,
+			source_type = "buy_gift",
+			condition_id = 311,
+		},
+		[632]=
+		{
+			id = 632,
+			source_id = 448,
+			source_type = "buy_gift",
+			condition_id = 312,
+		},
+		[633]=
+		{
+			id = 633,
+			source_id = 449,
+			source_type = "buy_gift",
+			condition_id = 313,
+		},
+		[634]=
+		{
+			id = 634,
+			source_id = 450,
+			source_type = "buy_gift",
+			condition_id = 314,
+		},
 	},
 	condition=
 	{
@@ -18236,6 +18604,78 @@ return {
 			condition_id = 305,
 			condition_name = "gift_id",
 			condition_value = {1,2,85,3,86,4,87,5,88,6,89,107,109,108,10044,110,10045,101,90,102,103,104,105,106,22,23,24,25,26,27,34,111,10189},
+			judge_type = 2,
+		},
+		[454]=
+		{
+			id = 454,
+			condition_id = 306,
+			condition_name = "gift_id",
+			condition_value = 1,
+			judge_type = 2,
+		},
+		[455]=
+		{
+			id = 455,
+			condition_id = 307,
+			condition_name = "gift_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[456]=
+		{
+			id = 456,
+			condition_id = 308,
+			condition_name = "gift_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[457]=
+		{
+			id = 457,
+			condition_id = 309,
+			condition_name = "gift_id",
+			condition_value = 4,
+			judge_type = 2,
+		},
+		[458]=
+		{
+			id = 458,
+			condition_id = 310,
+			condition_name = "gift_id",
+			condition_value = 5,
+			judge_type = 2,
+		},
+		[459]=
+		{
+			id = 459,
+			condition_id = 311,
+			condition_name = "gift_id",
+			condition_value = 111,
+			judge_type = 2,
+		},
+		[460]=
+		{
+			id = 460,
+			condition_id = 312,
+			condition_name = "gift_id",
+			condition_value = 6,
+			judge_type = 2,
+		},
+		[461]=
+		{
+			id = 461,
+			condition_id = 313,
+			condition_name = "gift_id",
+			condition_value = 108,
+			judge_type = 2,
+		},
+		[462]=
+		{
+			id = 462,
+			condition_id = 314,
+			condition_name = "gift_id",
+			condition_value = 110,
 			judge_type = 2,
 		},
 	},
@@ -25748,6 +26188,86 @@ return {
 			award_id = 665,
 			asset_type = "shop_gold_sum",
 			asset_count = 10000,
+			get_weight = 1,
+		},
+		[939]=
+		{
+			id = 939,
+			award_id = 666,
+			asset_type = "prop_xycd_sunshine",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[940]=
+		{
+			id = 940,
+			award_id = 667,
+			asset_type = "prop_xycd_sunshine",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[941]=
+		{
+			id = 941,
+			award_id = 668,
+			asset_type = "prop_xycd_sunshine",
+			asset_count = 12,
+			get_weight = 1,
+		},
+		[942]=
+		{
+			id = 942,
+			award_id = 669,
+			asset_type = "prop_xycd_sunshine",
+			asset_count = 25,
+			get_weight = 1,
+		},
+		[943]=
+		{
+			id = 943,
+			award_id = 670,
+			asset_type = "prop_xycd_sunshine",
+			asset_count = 38,
+			get_weight = 1,
+		},
+		[944]=
+		{
+			id = 944,
+			award_id = 671,
+			asset_type = "prop_xycd_sunshine",
+			asset_count = 78,
+			get_weight = 1,
+		},
+		[945]=
+		{
+			id = 945,
+			award_id = 672,
+			asset_type = "prop_xycd_sunshine",
+			asset_count = 158,
+			get_weight = 1,
+		},
+		[946]=
+		{
+			id = 946,
+			award_id = 673,
+			asset_type = "prop_xycd_sunshine",
+			asset_count = 398,
+			get_weight = 1,
+		},
+		[947]=
+		{
+			id = 947,
+			award_id = 674,
+			asset_type = "prop_xycd_sunshine",
+			asset_count = 798,
+			get_weight = 1,
+		},
+		[948]=
+		{
+			id = 948,
+			award_id = 675,
+			asset_type = "prop_xycd_sunshine",
+			asset_count = 1998,
 			get_weight = 1,
 		},
 	},

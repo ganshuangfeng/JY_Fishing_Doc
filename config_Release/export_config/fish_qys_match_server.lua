@@ -2813,7 +2813,7 @@ return {
 		[20000]=
 		{
 			game_id = 20000,
-			begin_signup_time = 1593608100,
+			begin_signup_time = 1598963400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2824,7 +2824,7 @@ return {
 		[20001]=
 		{
 			game_id = 20001,
-			begin_signup_time = 1594212900,
+			begin_signup_time = 1599136200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2835,7 +2835,7 @@ return {
 		[20002]=
 		{
 			game_id = 20002,
-			begin_signup_time = 1594817700,
+			begin_signup_time = 1599309000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2846,7 +2846,7 @@ return {
 		[20003]=
 		{
 			game_id = 20003,
-			begin_signup_time = 1595422500,
+			begin_signup_time = 1599568200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2857,7 +2857,7 @@ return {
 		[20004]=
 		{
 			game_id = 20004,
-			begin_signup_time = 1596027300,
+			begin_signup_time = 1599741000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2868,7 +2868,7 @@ return {
 		[20005]=
 		{
 			game_id = 20005,
-			begin_signup_time = 1596632100,
+			begin_signup_time = 1599913800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2879,7 +2879,7 @@ return {
 		[20006]=
 		{
 			game_id = 20006,
-			begin_signup_time = 1597236900,
+			begin_signup_time = 1600173000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2890,7 +2890,7 @@ return {
 		[20007]=
 		{
 			game_id = 20007,
-			begin_signup_time = 1597841700,
+			begin_signup_time = 1600345800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2901,7 +2901,7 @@ return {
 		[20008]=
 		{
 			game_id = 20008,
-			begin_signup_time = 1598446500,
+			begin_signup_time = 1600518600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2912,7 +2912,7 @@ return {
 		[20009]=
 		{
 			game_id = 20009,
-			begin_signup_time = 1599051300,
+			begin_signup_time = 1600777800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2923,7 +2923,7 @@ return {
 		[20010]=
 		{
 			game_id = 20010,
-			begin_signup_time = 1599656100,
+			begin_signup_time = 1600950600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2934,7 +2934,7 @@ return {
 		[20011]=
 		{
 			game_id = 20011,
-			begin_signup_time = 1600260900,
+			begin_signup_time = 1601123400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2945,7 +2945,7 @@ return {
 		[20012]=
 		{
 			game_id = 20012,
-			begin_signup_time = 1600865700,
+			begin_signup_time = 1601382600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2956,7 +2956,7 @@ return {
 		[20013]=
 		{
 			game_id = 20013,
-			begin_signup_time = 1601470500,
+			begin_signup_time = 1601555400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2967,7 +2967,7 @@ return {
 		[20014]=
 		{
 			game_id = 20014,
-			begin_signup_time = 1602075300,
+			begin_signup_time = 1601728200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2978,7 +2978,7 @@ return {
 		[20015]=
 		{
 			game_id = 20015,
-			begin_signup_time = 1602680100,
+			begin_signup_time = 1601987400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -2989,7 +2989,7 @@ return {
 		[20016]=
 		{
 			game_id = 20016,
-			begin_signup_time = 1603284900,
+			begin_signup_time = 1602160200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3000,7 +3000,7 @@ return {
 		[20017]=
 		{
 			game_id = 20017,
-			begin_signup_time = 1603889700,
+			begin_signup_time = 1602333000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3011,7 +3011,7 @@ return {
 		[20018]=
 		{
 			game_id = 20018,
-			begin_signup_time = 1604494500,
+			begin_signup_time = 1602592200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3022,7 +3022,7 @@ return {
 		[20019]=
 		{
 			game_id = 20019,
-			begin_signup_time = 1605099300,
+			begin_signup_time = 1602765000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3033,7 +3033,7 @@ return {
 		[20020]=
 		{
 			game_id = 20020,
-			begin_signup_time = 1605704100,
+			begin_signup_time = 1602937800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3044,7 +3044,7 @@ return {
 		[20021]=
 		{
 			game_id = 20021,
-			begin_signup_time = 1606308900,
+			begin_signup_time = 1603197000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3055,7 +3055,7 @@ return {
 		[20022]=
 		{
 			game_id = 20022,
-			begin_signup_time = 1606913700,
+			begin_signup_time = 1603369800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3066,7 +3066,7 @@ return {
 		[20023]=
 		{
 			game_id = 20023,
-			begin_signup_time = 1607518500,
+			begin_signup_time = 1603542600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3077,7 +3077,7 @@ return {
 		[20024]=
 		{
 			game_id = 20024,
-			begin_signup_time = 1608123300,
+			begin_signup_time = 1603801800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3088,7 +3088,7 @@ return {
 		[20025]=
 		{
 			game_id = 20025,
-			begin_signup_time = 1608728100,
+			begin_signup_time = 1603974600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3099,7 +3099,7 @@ return {
 		[20026]=
 		{
 			game_id = 20026,
-			begin_signup_time = 1609332900,
+			begin_signup_time = 1604147400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3110,7 +3110,7 @@ return {
 		[20027]=
 		{
 			game_id = 20027,
-			begin_signup_time = 1609937700,
+			begin_signup_time = 1604406600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3121,7 +3121,7 @@ return {
 		[20028]=
 		{
 			game_id = 20028,
-			begin_signup_time = 1610542500,
+			begin_signup_time = 1604579400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3132,7 +3132,7 @@ return {
 		[20029]=
 		{
 			game_id = 20029,
-			begin_signup_time = 1611147300,
+			begin_signup_time = 1604752200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3143,7 +3143,7 @@ return {
 		[20030]=
 		{
 			game_id = 20030,
-			begin_signup_time = 1611752100,
+			begin_signup_time = 1605011400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3154,7 +3154,7 @@ return {
 		[20031]=
 		{
 			game_id = 20031,
-			begin_signup_time = 1612356900,
+			begin_signup_time = 1605184200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3165,7 +3165,7 @@ return {
 		[20032]=
 		{
 			game_id = 20032,
-			begin_signup_time = 1612961700,
+			begin_signup_time = 1605357000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3176,7 +3176,7 @@ return {
 		[20033]=
 		{
 			game_id = 20033,
-			begin_signup_time = 1613566500,
+			begin_signup_time = 1605616200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3187,7 +3187,7 @@ return {
 		[20034]=
 		{
 			game_id = 20034,
-			begin_signup_time = 1614171300,
+			begin_signup_time = 1605789000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3198,7 +3198,7 @@ return {
 		[20035]=
 		{
 			game_id = 20035,
-			begin_signup_time = 1614776100,
+			begin_signup_time = 1605961800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3209,7 +3209,7 @@ return {
 		[20036]=
 		{
 			game_id = 20036,
-			begin_signup_time = 1615380900,
+			begin_signup_time = 1606221000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3220,7 +3220,7 @@ return {
 		[20037]=
 		{
 			game_id = 20037,
-			begin_signup_time = 1615985700,
+			begin_signup_time = 1606393800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3231,7 +3231,7 @@ return {
 		[20038]=
 		{
 			game_id = 20038,
-			begin_signup_time = 1616590500,
+			begin_signup_time = 1606566600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3242,7 +3242,7 @@ return {
 		[20039]=
 		{
 			game_id = 20039,
-			begin_signup_time = 1617195300,
+			begin_signup_time = 1606825800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3253,7 +3253,7 @@ return {
 		[20040]=
 		{
 			game_id = 20040,
-			begin_signup_time = 1617800100,
+			begin_signup_time = 1606998600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3264,7 +3264,7 @@ return {
 		[20041]=
 		{
 			game_id = 20041,
-			begin_signup_time = 1618404900,
+			begin_signup_time = 1607171400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3275,7 +3275,7 @@ return {
 		[20042]=
 		{
 			game_id = 20042,
-			begin_signup_time = 1619009700,
+			begin_signup_time = 1607430600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3286,7 +3286,7 @@ return {
 		[20043]=
 		{
 			game_id = 20043,
-			begin_signup_time = 1619614500,
+			begin_signup_time = 1607603400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3297,7 +3297,7 @@ return {
 		[20044]=
 		{
 			game_id = 20044,
-			begin_signup_time = 1620219300,
+			begin_signup_time = 1607776200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3308,7 +3308,7 @@ return {
 		[20045]=
 		{
 			game_id = 20045,
-			begin_signup_time = 1620824100,
+			begin_signup_time = 1608035400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3319,7 +3319,7 @@ return {
 		[20046]=
 		{
 			game_id = 20046,
-			begin_signup_time = 1621428900,
+			begin_signup_time = 1608208200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3330,7 +3330,7 @@ return {
 		[20047]=
 		{
 			game_id = 20047,
-			begin_signup_time = 1622033700,
+			begin_signup_time = 1608381000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3341,7 +3341,7 @@ return {
 		[20048]=
 		{
 			game_id = 20048,
-			begin_signup_time = 1622638500,
+			begin_signup_time = 1608640200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3352,7 +3352,7 @@ return {
 		[20049]=
 		{
 			game_id = 20049,
-			begin_signup_time = 1623243300,
+			begin_signup_time = 1608813000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3363,7 +3363,7 @@ return {
 		[20050]=
 		{
 			game_id = 20050,
-			begin_signup_time = 1623848100,
+			begin_signup_time = 1608985800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3374,7 +3374,7 @@ return {
 		[20051]=
 		{
 			game_id = 20051,
-			begin_signup_time = 1624452900,
+			begin_signup_time = 1609245000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3385,7 +3385,7 @@ return {
 		[20052]=
 		{
 			game_id = 20052,
-			begin_signup_time = 1625057700,
+			begin_signup_time = 1609417800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3396,7 +3396,7 @@ return {
 		[20053]=
 		{
 			game_id = 20053,
-			begin_signup_time = 1625662500,
+			begin_signup_time = 1609590600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3407,7 +3407,7 @@ return {
 		[20054]=
 		{
 			game_id = 20054,
-			begin_signup_time = 1626267300,
+			begin_signup_time = 1609849800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3418,7 +3418,7 @@ return {
 		[20055]=
 		{
 			game_id = 20055,
-			begin_signup_time = 1626872100,
+			begin_signup_time = 1610022600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3429,7 +3429,7 @@ return {
 		[20056]=
 		{
 			game_id = 20056,
-			begin_signup_time = 1627476900,
+			begin_signup_time = 1610195400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3440,7 +3440,7 @@ return {
 		[20057]=
 		{
 			game_id = 20057,
-			begin_signup_time = 1628081700,
+			begin_signup_time = 1610454600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3451,7 +3451,7 @@ return {
 		[20058]=
 		{
 			game_id = 20058,
-			begin_signup_time = 1628686500,
+			begin_signup_time = 1610627400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3462,7 +3462,7 @@ return {
 		[20059]=
 		{
 			game_id = 20059,
-			begin_signup_time = 1629291300,
+			begin_signup_time = 1610800200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3473,7 +3473,7 @@ return {
 		[20060]=
 		{
 			game_id = 20060,
-			begin_signup_time = 1629896100,
+			begin_signup_time = 1611059400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3484,7 +3484,7 @@ return {
 		[20061]=
 		{
 			game_id = 20061,
-			begin_signup_time = 1630500900,
+			begin_signup_time = 1611232200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3495,7 +3495,7 @@ return {
 		[20062]=
 		{
 			game_id = 20062,
-			begin_signup_time = 1631105700,
+			begin_signup_time = 1611405000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3506,7 +3506,7 @@ return {
 		[20063]=
 		{
 			game_id = 20063,
-			begin_signup_time = 1631710500,
+			begin_signup_time = 1611664200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3517,7 +3517,7 @@ return {
 		[20064]=
 		{
 			game_id = 20064,
-			begin_signup_time = 1632315300,
+			begin_signup_time = 1611837000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3528,7 +3528,7 @@ return {
 		[20065]=
 		{
 			game_id = 20065,
-			begin_signup_time = 1632920100,
+			begin_signup_time = 1612009800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3539,7 +3539,7 @@ return {
 		[20066]=
 		{
 			game_id = 20066,
-			begin_signup_time = 1633524900,
+			begin_signup_time = 1612269000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3550,7 +3550,7 @@ return {
 		[20067]=
 		{
 			game_id = 20067,
-			begin_signup_time = 1634129700,
+			begin_signup_time = 1612441800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3561,7 +3561,7 @@ return {
 		[20068]=
 		{
 			game_id = 20068,
-			begin_signup_time = 1634734500,
+			begin_signup_time = 1612614600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3572,7 +3572,7 @@ return {
 		[20069]=
 		{
 			game_id = 20069,
-			begin_signup_time = 1635339300,
+			begin_signup_time = 1612873800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3583,7 +3583,7 @@ return {
 		[20070]=
 		{
 			game_id = 20070,
-			begin_signup_time = 1635944100,
+			begin_signup_time = 1613046600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3594,7 +3594,7 @@ return {
 		[20071]=
 		{
 			game_id = 20071,
-			begin_signup_time = 1636548900,
+			begin_signup_time = 1613219400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3605,7 +3605,7 @@ return {
 		[20072]=
 		{
 			game_id = 20072,
-			begin_signup_time = 1637153700,
+			begin_signup_time = 1613478600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3616,7 +3616,7 @@ return {
 		[20073]=
 		{
 			game_id = 20073,
-			begin_signup_time = 1637758500,
+			begin_signup_time = 1613651400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3627,7 +3627,7 @@ return {
 		[20074]=
 		{
 			game_id = 20074,
-			begin_signup_time = 1638363300,
+			begin_signup_time = 1613824200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3638,7 +3638,7 @@ return {
 		[20075]=
 		{
 			game_id = 20075,
-			begin_signup_time = 1638968100,
+			begin_signup_time = 1614083400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3649,7 +3649,7 @@ return {
 		[20076]=
 		{
 			game_id = 20076,
-			begin_signup_time = 1639572900,
+			begin_signup_time = 1614256200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3660,7 +3660,7 @@ return {
 		[20077]=
 		{
 			game_id = 20077,
-			begin_signup_time = 1640177700,
+			begin_signup_time = 1614429000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3671,7 +3671,7 @@ return {
 		[20078]=
 		{
 			game_id = 20078,
-			begin_signup_time = 1640782500,
+			begin_signup_time = 1614688200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3682,7 +3682,7 @@ return {
 		[20079]=
 		{
 			game_id = 20079,
-			begin_signup_time = 1641387300,
+			begin_signup_time = 1614861000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3693,7 +3693,7 @@ return {
 		[20080]=
 		{
 			game_id = 20080,
-			begin_signup_time = 1641992100,
+			begin_signup_time = 1615033800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3704,7 +3704,7 @@ return {
 		[20081]=
 		{
 			game_id = 20081,
-			begin_signup_time = 1642596900,
+			begin_signup_time = 1615293000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3715,7 +3715,7 @@ return {
 		[20082]=
 		{
 			game_id = 20082,
-			begin_signup_time = 1643201700,
+			begin_signup_time = 1615465800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3726,7 +3726,7 @@ return {
 		[20083]=
 		{
 			game_id = 20083,
-			begin_signup_time = 1643806500,
+			begin_signup_time = 1615638600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3737,7 +3737,7 @@ return {
 		[20084]=
 		{
 			game_id = 20084,
-			begin_signup_time = 1644411300,
+			begin_signup_time = 1615897800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3748,7 +3748,7 @@ return {
 		[20085]=
 		{
 			game_id = 20085,
-			begin_signup_time = 1645016100,
+			begin_signup_time = 1616070600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3759,7 +3759,7 @@ return {
 		[20086]=
 		{
 			game_id = 20086,
-			begin_signup_time = 1645620900,
+			begin_signup_time = 1616243400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3770,7 +3770,7 @@ return {
 		[20087]=
 		{
 			game_id = 20087,
-			begin_signup_time = 1646225700,
+			begin_signup_time = 1616502600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3781,7 +3781,7 @@ return {
 		[20088]=
 		{
 			game_id = 20088,
-			begin_signup_time = 1646830500,
+			begin_signup_time = 1616675400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3792,7 +3792,7 @@ return {
 		[20089]=
 		{
 			game_id = 20089,
-			begin_signup_time = 1647435300,
+			begin_signup_time = 1616848200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3803,7 +3803,7 @@ return {
 		[20090]=
 		{
 			game_id = 20090,
-			begin_signup_time = 1648040100,
+			begin_signup_time = 1617107400,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3814,7 +3814,7 @@ return {
 		[20091]=
 		{
 			game_id = 20091,
-			begin_signup_time = 1648644900,
+			begin_signup_time = 1617280200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3825,7 +3825,7 @@ return {
 		[20092]=
 		{
 			game_id = 20092,
-			begin_signup_time = 1649249700,
+			begin_signup_time = 1617453000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3836,7 +3836,7 @@ return {
 		[20093]=
 		{
 			game_id = 20093,
-			begin_signup_time = 1649854500,
+			begin_signup_time = 1617712200,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3847,7 +3847,7 @@ return {
 		[20094]=
 		{
 			game_id = 20094,
-			begin_signup_time = 1650459300,
+			begin_signup_time = 1617885000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3858,7 +3858,7 @@ return {
 		[20095]=
 		{
 			game_id = 20095,
-			begin_signup_time = 1651064100,
+			begin_signup_time = 1618057800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3869,7 +3869,7 @@ return {
 		[20096]=
 		{
 			game_id = 20096,
-			begin_signup_time = 1651668900,
+			begin_signup_time = 1618317000,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3880,7 +3880,7 @@ return {
 		[20097]=
 		{
 			game_id = 20097,
-			begin_signup_time = 1652273700,
+			begin_signup_time = 1618489800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3891,7 +3891,7 @@ return {
 		[20098]=
 		{
 			game_id = 20098,
-			begin_signup_time = 1652878500,
+			begin_signup_time = 1618662600,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,
@@ -3902,7 +3902,7 @@ return {
 		[20099]=
 		{
 			game_id = 20099,
-			begin_signup_time = 1653483300,
+			begin_signup_time = 1618921800,
 			signup_dur = 1800,
 			begin_game_condi = 1,
 			max_signup_person = 5000,

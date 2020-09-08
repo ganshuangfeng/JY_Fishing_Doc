@@ -118,6 +118,12 @@ return {
 			area = "down",
 			group_list = "16;98;31#26#",
 		},
+		[2]=
+		{
+			id = 2,
+			area = "top",
+			group_list = "99#",
+		},
 	},
 	fishing_hall=
 	{
@@ -965,6 +971,12 @@ return {
 		{
 			id = 98,
 			parm = {"act_028_xycd",},
+			is_on_off = 1,
+		},
+		[99]=
+		{
+			id = 99,
+			parm = {"by3d_top_qh","jj_enter"},
 			is_on_off = 1,
 		},
 	},

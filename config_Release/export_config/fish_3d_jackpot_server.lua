@@ -6,8 +6,7 @@ return {
 			game_id = 4,
 			game_name = "藏宝海湾",
 			init_prize = 15000000,
-			pct_award_id = {1,2},
-			fx_award_id = {1,2},
+			fx_award_id = {1,2,3},
 			award_pool_id = 1,
 			award_pool_limit_id = 1,
 			award_pool_add_id = 1,
@@ -21,13 +20,12 @@ return {
 			game_id = 5,
 			game_name = "深海沉船",
 			init_prize = 15000000,
-			pct_award_id = {1,2},
-			fx_award_id = {3,4},
+			fx_award_id = {1,2,3},
 			award_pool_id = 2,
 			award_pool_limit_id = 2,
 			award_pool_add_id = 2,
 			award_pool_bullet_id = 1,
-			min_value_for_robot = 2600000000,
+			min_value_for_robot = 1200000000,
 			double_time = {0,0},
 			enable = 1,
 		},
@@ -50,7 +48,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			rate = {50,50},
+			rate = {20,20},
 		},
 		[2]=
 		{
@@ -60,11 +58,6 @@ return {
 		[3]=
 		{
 			id = 3,
-			rate = {50,50},
-		},
-		[4]=
-		{
-			id = 4,
 			rate = {20,20},
 		},
 	},
@@ -76,7 +69,7 @@ return {
 			id = 1,
 			range = {0,25919997},
 			pct_rate = {0,0},
-			fx_rate = {0,0},
+			fx_rate = {0,0,0},
 		},
 		[2]=
 		{
@@ -84,15 +77,15 @@ return {
 			id = 1,
 			range = {25919998,259200000},
 			pct_rate = {0,0},
-			fx_rate = {0.00000661376,0.0000462963},
+			fx_rate = {0.0000740740,0.0001111111,0.0002222222},
 		},
 		[3]=
 		{
 			no = 3,
 			id = 1,
 			range = {259200001,359199979},
-			pct_rate = {0.000000771605,0.00000115741},
-			fx_rate = {0.00000661376,0.0000462963},
+			pct_rate = {0,0},
+			fx_rate = {0.0000740740,0.0001111111,0.0002222222},
 		},
 		[4]=
 		{
@@ -100,7 +93,7 @@ return {
 			id = 2,
 			range = {0,25919997},
 			pct_rate = {0,0},
-			fx_rate = {0,0},
+			fx_rate = {0,0,0},
 		},
 		[5]=
 		{
@@ -108,15 +101,39 @@ return {
 			id = 2,
 			range = {25919997,2592000000},
 			pct_rate = {0,0},
-			fx_rate = {0.00000661376,0.0000462963},
+			fx_rate = {0.0000740740,0.0001111111,0.0002222222},
 		},
 		[6]=
 		{
 			no = 6,
 			id = 2,
 			range = {259200001,3591999793},
-			pct_rate = {0.000000771605,0.00000115741},
-			fx_rate = {0.00000661376,0.0000462963},
+			pct_rate = {0,0},
+			fx_rate = {0.0000740740,0.0001111111,0.0002222222},
+		},
+		[7]=
+		{
+			no = 7,
+			id = 3,
+			range = {0,25919997},
+			pct_rate = {0,0},
+			fx_rate = {0,0,0},
+		},
+		[8]=
+		{
+			no = 8,
+			id = 3,
+			range = {25919997,2592000000},
+			pct_rate = {0,0},
+			fx_rate = {0.0000740740,0.0001111111,0.0002222222},
+		},
+		[9]=
+		{
+			no = 9,
+			id = 3,
+			range = {259200001,3591999793},
+			pct_rate = {0,0},
+			fx_rate = {0.0000740740,0.0001111111,0.0002222222},
 		},
 	},
 	award_pool_limit=
@@ -135,7 +152,7 @@ return {
 			limit_id = 1,
 			id = 2,
 			time = 24,
-			fx_num = {10,10},
+			fx_num = {10,10,10},
 		},
 		[3]=
 		{
@@ -151,7 +168,7 @@ return {
 			limit_id = 2,
 			id = 2,
 			time = 24,
-			fx_num = {10,10},
+			fx_num = {10,10,10},
 		},
 	},
 	award_pool_add=
@@ -387,6 +404,39 @@ return {
 		{
 			id = 1,
 			rate = 0.002500,
+		},
+	},
+	lottery_data=
+	{
+		[1]=
+		{
+			no = 1,
+			open_day = {7,},
+			need_min_num = 4,
+			max_num = 15,
+			sub_num = 1,
+			enable = 1,
+		},
+	},
+	lottery_power=
+	{
+		[1]=
+		{
+			no = 1,
+			rate = {10,70},
+			fx_award_id = 1,
+		},
+		[2]=
+		{
+			no = 2,
+			rate = {70,130},
+			fx_award_id = 2,
+		},
+		[3]=
+		{
+			no = 3,
+			rate = {130,190},
+			fx_award_id = 3,
 		},
 	},
 }

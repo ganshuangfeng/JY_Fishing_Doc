@@ -106,7 +106,7 @@ return {
 			ID = 7,
 			title = "开炮送红包",
 			order = 1,
-			isOnOff = 1,
+			isOnOff = 0,
 			beginTime = -1,
 			endTime = -1,
 			noCloseUI = 1,

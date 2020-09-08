@@ -325,7 +325,7 @@ return {
 		{
 			line = 41,
 			index = 41,
-			gun_rate = 100,
+			gun_rate = 10,
 			gun_icon = "bygame_icon_pao12",
 			bullet_prefab = "BulletPrefab_z_1",
 			laser_max_rate = 900,
@@ -338,7 +338,7 @@ return {
 		{
 			line = 42,
 			index = 42,
-			gun_rate = 500,
+			gun_rate = 50,
 			gun_icon = "bygame_icon_pao13",
 			bullet_prefab = "BulletPrefab_z_2",
 			laser_max_rate = 900,
@@ -351,7 +351,7 @@ return {
 		{
 			line = 43,
 			index = 43,
-			gun_rate = 1000,
+			gun_rate = 100,
 			gun_icon = "bygame_icon_pao14",
 			bullet_prefab = "BulletPrefab_z_3",
 			laser_max_rate = 900,
@@ -364,7 +364,7 @@ return {
 		{
 			line = 44,
 			index = 44,
-			gun_rate = 2000,
+			gun_rate = 200,
 			gun_icon = "bygame_icon_pao15",
 			bullet_prefab = "BulletPrefab_z_4",
 			laser_max_rate = 900,
@@ -377,7 +377,7 @@ return {
 		{
 			line = 45,
 			index = 45,
-			gun_rate = 100,
+			gun_rate = 10,
 			gun_icon = "bygame_icon_pao1",
 			net_prefab = "FishNetPrefab_f_2",
 			bullet_prefab = "BulletPrefab_f_1",
@@ -391,7 +391,7 @@ return {
 		{
 			line = 46,
 			index = 46,
-			gun_rate = 200,
+			gun_rate = 20,
 			gun_icon = "bygame_icon_pao2",
 			net_prefab = "FishNetPrefab_f_2",
 			bullet_prefab = "BulletPrefab_f_2",
@@ -405,7 +405,7 @@ return {
 		{
 			line = 47,
 			index = 47,
-			gun_rate = 300,
+			gun_rate = 30,
 			gun_icon = "bygame_icon_pao3",
 			net_prefab = "FishNetPrefab_f_2",
 			bullet_prefab = "BulletPrefab_f_3",
@@ -419,7 +419,7 @@ return {
 		{
 			line = 48,
 			index = 48,
-			gun_rate = 600,
+			gun_rate = 60,
 			gun_icon = "bygame_icon_pao4",
 			net_prefab = "FishNetPrefab_f_2",
 			bullet_prefab = "BulletPrefab_f_1",
@@ -433,7 +433,7 @@ return {
 		{
 			line = 49,
 			index = 49,
-			gun_rate = 500,
+			gun_rate = 50,
 			gun_icon = "bygame_icon_pao5",
 			net_prefab = "FishNetPrefab_f_2",
 			bullet_prefab = "BulletPrefab_f_2",
@@ -447,7 +447,7 @@ return {
 		{
 			line = 50,
 			index = 50,
-			gun_rate = 1500,
+			gun_rate = 150,
 			gun_icon = "bygame_icon_pao6",
 			net_prefab = "FishNetPrefab_f_2",
 			bullet_prefab = "BulletPrefab_f_3",
@@ -461,7 +461,7 @@ return {
 		{
 			line = 51,
 			index = 51,
-			gun_rate = 2000,
+			gun_rate = 200,
 			gun_icon = "bygame_icon_pao7",
 			net_prefab = "FishNetPrefab_f_2",
 			bullet_prefab = "BulletPrefab_f_1",
@@ -475,7 +475,7 @@ return {
 		{
 			line = 52,
 			index = 52,
-			gun_rate = 1500,
+			gun_rate = 150,
 			gun_icon = "bygame_icon_pao7",
 			net_prefab = "FishNetPrefab_f_2",
 			bullet_prefab = "BulletPrefab_f_2",
@@ -489,7 +489,7 @@ return {
 		{
 			line = 53,
 			index = 53,
-			gun_rate = 3500,
+			gun_rate = 350,
 			gun_icon = "bygame_icon_pao8",
 			net_prefab = "FishNetPrefab_f_2",
 			bullet_prefab = "BulletPrefab_f_3",

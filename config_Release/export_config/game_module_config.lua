@@ -2649,5 +2649,25 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[271]=
+		{
+			id = 271,
+			key = "act_028_mfhf",
+			desc = "免费话费",
+			lua = "Act_028_MFHFManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[272]=
+		{
+			id = 272,
+			key = "act_028_xycd",
+			desc = "幸运彩蛋",
+			lua = "Act_028_XYCDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

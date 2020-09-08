@@ -77,6 +77,56 @@ return {
 			lock_id = 1,
 			collocation = "6元购买",
 		},
+		[8]=
+		{
+			id = 8,
+			name = "圣光  I",
+			level = 1,
+			skin_id = 8,
+			power_id = 1,
+			skill_id = 1,
+			lock_id = 5,
+		},
+		[9]=
+		{
+			id = 9,
+			name = "圣光  II",
+			level = 2,
+			skin_id = 9,
+			power_id = 1,
+			skill_id = 1,
+			lock_id = 6,
+		},
+		[10]=
+		{
+			id = 10,
+			name = "圣光  III",
+			level = 2,
+			skin_id = 10,
+			power_id = 1,
+			skill_id = 1,
+			lock_id = 7,
+		},
+		[11]=
+		{
+			id = 11,
+			name = "圣光  IV",
+			level = 2,
+			skin_id = 11,
+			power_id = 1,
+			skill_id = 1,
+			lock_id = 8,
+		},
+		[12]=
+		{
+			id = 12,
+			name = "圣光  V",
+			level = 3,
+			skin_id = 12,
+			power_id = 1,
+			skill_id = 1,
+			lock_id = 9,
+		},
 	},
 	skin=
 	{
@@ -206,6 +256,71 @@ return {
 			gunprefab = "GunPrefab11",
 			net_prefab = "FishNetPrefab_3d_7",
 			bullet_prefab = "BulletPrefab_3d_10",
+			bullet_move_speed = 15,
+			fire_speed = 0.180000,
+			is_fx_net = 1,
+		},
+		[11]=
+		{
+			line = 11,
+			id = 11,
+			skin_id = 8,
+			gun_index = {1,10},
+			gunprefab = "GunPrefab17",
+			net_prefab = "FishNetPrefab_3d_10",
+			bullet_prefab = "BulletPrefab_3d_13",
+			bullet_move_speed = 15,
+			fire_speed = 0.180000,
+			is_fx_net = 1,
+		},
+		[12]=
+		{
+			line = 12,
+			id = 12,
+			skin_id = 9,
+			gun_index = {1,10},
+			gunprefab = "GunPrefab18",
+			net_prefab = "FishNetPrefab_3d_11",
+			bullet_prefab = "BulletPrefab_3d_14",
+			bullet_move_speed = 15,
+			fire_speed = 0.180000,
+			is_fx_net = 1,
+		},
+		[13]=
+		{
+			line = 13,
+			id = 13,
+			skin_id = 10,
+			gun_index = {1,10},
+			gunprefab = "GunPrefab19",
+			net_prefab = "FishNetPrefab_3d_12",
+			bullet_prefab = "BulletPrefab_3d_15",
+			bullet_move_speed = 15,
+			fire_speed = 0.180000,
+			is_fx_net = 1,
+		},
+		[14]=
+		{
+			line = 14,
+			id = 14,
+			skin_id = 11,
+			gun_index = {1,10},
+			gunprefab = "GunPrefab20",
+			net_prefab = "FishNetPrefab_3d_13",
+			bullet_prefab = "BulletPrefab_3d_16",
+			bullet_move_speed = 15,
+			fire_speed = 0.180000,
+			is_fx_net = 1,
+		},
+		[15]=
+		{
+			line = 15,
+			id = 15,
+			skin_id = 12,
+			gun_index = {1,10},
+			gunprefab = "GunPrefab21",
+			net_prefab = "FishNetPrefab_3d_14",
+			bullet_prefab = "BulletPrefab_3d_17",
 			bullet_move_speed = 15,
 			fire_speed = 0.180000,
 			is_fx_net = 1,
@@ -1076,6 +1191,41 @@ return {
 			line = 4,
 			id = 4,
 			type = 3,
+		},
+		[5]=
+		{
+			line = 5,
+			id = 5,
+			type = 4,
+			data = 25,
+		},
+		[6]=
+		{
+			line = 6,
+			id = 6,
+			type = 4,
+			data = 40,
+		},
+		[7]=
+		{
+			line = 7,
+			id = 7,
+			type = 4,
+			data = 60,
+		},
+		[8]=
+		{
+			line = 8,
+			id = 8,
+			type = 4,
+			data = 80,
+		},
+		[9]=
+		{
+			line = 9,
+			id = 9,
+			type = 4,
+			data = 100,
 		},
 	},
 }

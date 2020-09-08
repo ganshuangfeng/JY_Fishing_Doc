@@ -40,8 +40,15 @@ return {
 		{
 			id = 6,
 			prop_type = "prop_mfcjq",
-			start_time = 1598916600,
-			recycle_time = 1599494399,
+			start_time = 1599523200,
+			recycle_time = 1600099199,
+		},
+		[7]=
+		{
+			id = 7,
+			prop_type = "prop_xycd_sunshine",
+			start_time = 1599523200,
+			recycle_time = 1600099199,
 		},
 	},
 	player_asset=

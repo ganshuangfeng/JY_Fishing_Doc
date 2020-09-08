@@ -856,5 +856,29 @@ return {
 			srartTime = 1598916600,
 			endTime = 1599494399,
 		},
+		[76]=
+		{
+			id = 76,
+			bannerID = 76,
+			isOnOff = 1,
+			order = 100,
+			condi_key = "actp_buy_gift_bag_10291",
+			gotoUI = {"act_028_mfhf","panel"},
+			model = "LoginUp",
+			srartTime = 1599521400,
+			endTime = 1600099199,
+		},
+		[77]=
+		{
+			id = 77,
+			bannerID = 77,
+			isOnOff = 1,
+			order = 100,
+			condi_key = "actp_own_task_p_028_xycd_ljyj",
+			gotoUI = {"act_028_xycd","panel"},
+			model = "LoginUp",
+			srartTime = 1599521400,
+			endTime = 1600099199,
+		},
 	},
 }
