@@ -2689,5 +2689,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[275]=
+		{
+			id = 275,
+			key = "act_029_hlqjd",
+			desc = "欢乐敲金蛋",
+			lua = "Act_029_HLQJDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
