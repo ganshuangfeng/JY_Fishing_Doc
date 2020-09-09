@@ -1780,6 +1780,12 @@ return {
 			name = "广告系统（CPS渠道不显示）",
 			condi = 292,
 		},
+		cps_xycj=
+		{
+			key = "cps_xycj",
+			name = "幸运抽奖（CPS渠道不显示）",
+			condi = 311,
+		},
 	},
 	act_permission=
 	{
@@ -13238,6 +13244,16 @@ return {
 		{
 			no = 781,
 			id = 310,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[782]=
+		{
+			no = 782,
+			id = 311,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
