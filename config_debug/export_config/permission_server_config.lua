@@ -5116,7 +5116,7 @@ return {
 		[278]=
 		{
 			id = 278,
-			enable = 1,
+			enable = 0,
 			key = "actp_fish_daily_task_1",
 			name = "捕鱼每日任务（新玩家）",
 			condi = 282,
@@ -5128,7 +5128,7 @@ return {
 		[279]=
 		{
 			id = 279,
-			enable = 1,
+			enable = 0,
 			key = "actp_fish_daily_task_2",
 			name = "捕鱼每日任务（免费，小额）",
 			condi = 283,
@@ -5140,7 +5140,7 @@ return {
 		[280]=
 		{
 			id = 280,
-			enable = 1,
+			enable = 0,
 			key = "actp_fish_daily_task_3",
 			name = "捕鱼每日任务（V1-V3）",
 			condi = 284,
@@ -5152,7 +5152,7 @@ return {
 		[281]=
 		{
 			id = 281,
-			enable = 1,
+			enable = 0,
 			key = "actp_fish_daily_task_4",
 			name = "捕鱼每日任务（V4-V6）",
 			condi = 285,
@@ -5164,7 +5164,7 @@ return {
 		[282]=
 		{
 			id = 282,
-			enable = 1,
+			enable = 0,
 			key = "actp_fish_daily_task_5",
 			name = "捕鱼每日任务（V7-V10）",
 			condi = 286,
@@ -5432,6 +5432,54 @@ return {
 			key = "actp_own_task_p_task_fish_daily_no_cps",
 			name = "捕鱼每日任务（不是CPS）",
 			condi = 310,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
+		[305]=
+		{
+			id = 305,
+			enable = 1,
+			key = "actp_own_task_p_task_fish_daily_1_2_no_cps",
+			name = "捕鱼每日任务（新玩家，免费，小额）",
+			condi = 311,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
+		[306]=
+		{
+			id = 306,
+			enable = 1,
+			key = "actp_own_task_p_task_fish_daily_3_no_cps",
+			name = "捕鱼每日任务（V1-V3）",
+			condi = 312,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
+		[307]=
+		{
+			id = 307,
+			enable = 1,
+			key = "actp_own_task_p_task_fish_daily_4_no_cps",
+			name = "捕鱼每日任务（V4-V6）",
+			condi = 313,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
+		[308]=
+		{
+			id = 308,
+			enable = 1,
+			key = "actp_own_task_p_task_fish_daily_5_no_cps",
+			name = "捕鱼每日任务（V7-V10）",
+			condi = 314,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
@@ -12850,16 +12898,6 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[742]=
-		{
-			no = 742,
-			id = 298,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
-		},
 		[743]=
 		{
 			no = 743,
@@ -12870,16 +12908,6 @@ return {
 			group = 1,
 			error_desc = "只展示给免费用户标签",
 		},
-		[744]=
-		{
-			no = 744,
-			id = 299,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
-		},
 		[745]=
 		{
 			no = 745,
@@ -12889,16 +12917,6 @@ return {
 			judge = 2,
 			group = 2,
 			error_desc = "只展示给小额标签用户",
-		},
-		[746]=
-		{
-			no = 746,
-			id = 299,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 2,
-			error_desc = "不是CPS渠道",
 		},
 		[747]=
 		{
@@ -12920,16 +12938,6 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户可进行游戏",
 		},
-		[749]=
-		{
-			no = 749,
-			id = 300,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
-		},
 		[750]=
 		{
 			no = 750,
@@ -12949,16 +12957,6 @@ return {
 			judge = 4,
 			group = 1,
 			error_desc = "VIP6及以下的用户可进行游戏",
-		},
-		[752]=
-		{
-			no = 752,
-			id = 301,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
 		},
 		[753]=
 		{
@@ -12980,16 +12978,6 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[755]=
-		{
-			no = 755,
-			id = 302,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
-		},
 		[756]=
 		{
 			no = 756,
@@ -12999,16 +12987,6 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是新用户",
-		},
-		[757]=
-		{
-			no = 757,
-			id = 303,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
 		},
 		[758]=
 		{
@@ -13020,16 +12998,6 @@ return {
 			group = 2,
 			error_desc = "只展示给免费用户标签",
 		},
-		[759]=
-		{
-			no = 759,
-			id = 303,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 2,
-			error_desc = "不是CPS渠道",
-		},
 		[760]=
 		{
 			no = 760,
@@ -13039,16 +13007,6 @@ return {
 			judge = 2,
 			group = 3,
 			error_desc = "只展示给小额标签用户",
-		},
-		[761]=
-		{
-			no = 761,
-			id = 303,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 3,
-			error_desc = "不是CPS渠道",
 		},
 		[762]=
 		{
@@ -13069,16 +13027,6 @@ return {
 			judge = 4,
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
-		},
-		[764]=
-		{
-			no = 764,
-			id = 304,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
 		},
 		[765]=
 		{
@@ -13254,6 +13202,146 @@ return {
 		{
 			no = 782,
 			id = 311,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[783]=
+		{
+			no = 783,
+			id = 311,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[784]=
+		{
+			no = 784,
+			id = 311,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给免费用户标签",
+		},
+		[785]=
+		{
+			no = 785,
+			id = 311,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 2,
+			error_desc = "不是CPS渠道",
+		},
+		[786]=
+		{
+			no = 786,
+			id = 311,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "只展示给小额标签用户",
+		},
+		[787]=
+		{
+			no = 787,
+			id = 311,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 3,
+			error_desc = "不是CPS渠道",
+		},
+		[788]=
+		{
+			no = 788,
+			id = 312,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上的用户可进行游戏",
+		},
+		[789]=
+		{
+			no = 789,
+			id = 312,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP3及以下的用户可进行游戏",
+		},
+		[790]=
+		{
+			no = 790,
+			id = 312,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[791]=
+		{
+			no = 791,
+			id = 313,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上的用户可进行游戏",
+		},
+		[792]=
+		{
+			no = 792,
+			id = 313,
+			var = "vip_level",
+			value = 6,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP6及以下的用户可进行游戏",
+		},
+		[793]=
+		{
+			no = 793,
+			id = 313,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[794]=
+		{
+			no = 794,
+			id = 314,
+			var = "vip_level",
+			value = 7,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP7及以上的用户可进行游戏",
+		},
+		[795]=
+		{
+			no = 795,
+			id = 314,
+			var = "vip_level",
+			value = 10,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP10及以下的用户可进行游戏",
+		},
+		[796]=
+		{
+			no = 796,
+			id = 314,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
