@@ -2615,9 +2615,9 @@ return {
 			key = "act_026_sgxxlyd",
 			desc = "水果消消乐引导",
 			lua = "Act_026_SGXXLYDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[268]=
 		{

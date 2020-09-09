@@ -10,81 +10,81 @@ return {
 	},
 	bet=
 	{
-		xxl_bet_1=
+		[1]=
 		{
-			id = "xxl_bet_1",
+			id = 1,
 			bet_money = 1000,
 			jindan_progress = 8000,
 		},
-		xxl_bet_2=
+		[2]=
 		{
-			id = "xxl_bet_2",
+			id = 2,
 			bet_money = 5000,
 			jindan_progress = 40000,
 		},
-		xxl_bet_3=
+		[3]=
 		{
-			id = "xxl_bet_3",
+			id = 3,
 			bet_money = 10000,
 			jindan_progress = 80000,
 		},
-		xxl_bet_4=
+		[4]=
 		{
-			id = "xxl_bet_4",
+			id = 4,
 			bet_money = 30000,
 			jindan_progress = 240000,
 		},
-		xxl_bet_5=
+		[5]=
 		{
-			id = "xxl_bet_5",
+			id = 5,
 			bet_money = 60000,
 			jindan_progress = 480000,
 		},
-		xxl_bet_6=
+		[6]=
 		{
-			id = "xxl_bet_6",
+			id = 6,
 			bet_money = 120000,
 			jindan_progress = 960000,
 		},
-		xxl_bet_7=
+		[7]=
 		{
-			id = "xxl_bet_7",
+			id = 7,
 			bet_money = 240000,
 			jindan_progress = 1920000,
 		},
-		xxl_bet_8=
+		[8]=
 		{
-			id = "xxl_bet_8",
+			id = 8,
 			bet_money = 480000,
 			jindan_progress = 3840000,
 		},
-		xxl_bet_9=
+		[9]=
 		{
-			id = "xxl_bet_9",
+			id = 9,
 			bet_money = 960000,
 			jindan_progress = 7680000,
 		},
-		xxl_bet_10=
+		[10]=
 		{
-			id = "xxl_bet_10",
+			id = 10,
 			bet_money = 1920000,
 			jindan_progress = 15360000,
 		},
-		xxl_bet_11=
+		[11]=
 		{
-			id = "xxl_bet_11",
+			id = 11,
 			bet_money = 5120000,
 			jindan_progress = 40960000,
 		},
-		xxl_bet_12=
+		[12]=
 		{
-			id = "xxl_bet_12",
+			id = 12,
 			bet_money = 10240000,
 			jindan_progress = 81920000,
 		},
-		xxl_bet_13=
+		[13]=
 		{
-			id = "xxl_bet_13",
+			id = 13,
 			bet_money = 20480000,
 			jindan_progress = 163840000,
 		},
