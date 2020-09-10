@@ -16,17 +16,17 @@ return {
 	},
 	event_map=
 	{
-		[2]=
+		[1]=
 		{
-			game_id = 2,
+			game_id = 1,
 			event_config = "fish_event_map",
 		},
 	},
 	match_data_config=
 	{
-		[2]=
+		[1]=
 		{
-			game_id = 2,
+			game_id = 1,
 			init_prel_score = 10000,
 			enter_config_id = {4,1,2,3,},
 			game_config_id = 1,

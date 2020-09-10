@@ -49,7 +49,7 @@ return {
 		[2]=
 		{
 			id = 2,
-			key = "p_task_fish_daily_1",
+			key = "actp_own_task_p_task_fish_daily_1",
 			task_id = 12520,
 			task_name = "使用技能",
 			task_icon = "rw_icon_jn",
@@ -62,7 +62,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			key = "p_task_fish_daily_1_2",
+			key = "actp_own_task_p_task_fish_daily_1_2",
 			task_id = 12521,
 			task_name = "累计捕鱼",
 			task_icon = "rw_icon_bh",
@@ -75,7 +75,7 @@ return {
 		[4]=
 		{
 			id = 4,
-			key = "p_task_fish_daily_1",
+			key = "actp_own_task_p_task_fish_daily_1",
 			task_id = 12522,
 			task_name = "累计开炮",
 			task_icon = "rw_icon_ljpd",
@@ -88,7 +88,7 @@ return {
 		[5]=
 		{
 			id = 5,
-			key = "p_task_fish_daily_no_cps",
+			key = "actp_own_task_p_task_fish_daily_no_cps",
 			task_id = 12523,
 			task_name = "累计在线",
 			task_icon = "rw_icon_ljsj",
@@ -101,7 +101,7 @@ return {
 		[6]=
 		{
 			id = 6,
-			key = "p_task_fish_daily_1",
+			key = "actp_own_task_p_task_fish_daily_1",
 			task_id = 12516,
 			task_name = "捕获彩金",
 			task_icon = "rw_icon_js",
@@ -114,7 +114,7 @@ return {
 		[7]=
 		{
 			id = 7,
-			key = "p_task_fish_daily_1_2_no_cps",
+			key = "actp_own_task_p_task_fish_daily_1_2_no_cps",
 			task_id = 12519,
 			task_name = "单笔充值",
 			task_icon = "rw_icon_mrzz",
@@ -127,7 +127,7 @@ return {
 		[8]=
 		{
 			id = 8,
-			key = "p_task_fish_daily_2",
+			key = "actp_own_task_p_task_fish_daily_2",
 			task_id = 12524,
 			task_name = "观看广告",
 			task_icon = "rw_icon_ljyj",
@@ -140,7 +140,7 @@ return {
 		[9]=
 		{
 			id = 9,
-			key = "p_task_fish_daily_2",
+			key = "actp_own_task_p_task_fish_daily_2",
 			task_id = 12525,
 			task_name = "累计赢金",
 			task_icon = "rw_icon_ljyj",
@@ -153,7 +153,7 @@ return {
 		[10]=
 		{
 			id = 10,
-			key = "p_task_fish_daily_3",
+			key = "actp_own_task_p_task_fish_daily_3",
 			task_id = 12508,
 			task_name = "击杀活动鱼",
 			task_icon = "rw_icon_jn",
@@ -166,7 +166,7 @@ return {
 		[11]=
 		{
 			id = 11,
-			key = "p_task_fish_daily_3",
+			key = "actp_own_task_p_task_fish_daily_3",
 			task_id = 12529,
 			task_name = "击杀高倍鱼",
 			task_icon = "rw_icon_bh",
@@ -179,7 +179,7 @@ return {
 		[12]=
 		{
 			id = 12,
-			key = "p_task_fish_daily_3",
+			key = "actp_own_task_p_task_fish_daily_3",
 			task_id = 12528,
 			task_name = "累计赢金",
 			task_icon = "rw_icon_ljyj",
@@ -192,7 +192,7 @@ return {
 		[13]=
 		{
 			id = 13,
-			key = "p_task_fish_daily_3",
+			key = "actp_own_task_p_task_fish_daily_3",
 			task_id = 12526,
 			task_name = "捕获彩金",
 			task_icon = "rw_icon_js",
@@ -205,7 +205,7 @@ return {
 		[14]=
 		{
 			id = 14,
-			key = "p_task_fish_daily_3_no_cps",
+			key = "actp_own_task_p_task_fish_daily_3_no_cps",
 			task_id = 12527,
 			task_name = "累计充值",
 			task_icon = "rw_icon_mrzz",
@@ -218,7 +218,7 @@ return {
 		[15]=
 		{
 			id = 15,
-			key = "p_task_fish_daily_4_5",
+			key = "actp_own_task_p_task_fish_daily_4_5",
 			task_id = 12517,
 			task_name = "参与游戏",
 			task_icon = "rw_icon_jn",
@@ -231,7 +231,7 @@ return {
 		[16]=
 		{
 			id = 16,
-			key = "p_task_fish_daily_4",
+			key = "actp_own_task_p_task_fish_daily_4",
 			task_id = 12532,
 			task_name = "击杀高倍鱼",
 			task_icon = "rw_icon_bh",
@@ -244,7 +244,7 @@ return {
 		[17]=
 		{
 			id = 17,
-			key = "p_task_fish_daily_4",
+			key = "actp_own_task_p_task_fish_daily_4",
 			task_id = 12531,
 			task_name = "累计赢金",
 			task_icon = "rw_icon_ljyj",
@@ -257,7 +257,7 @@ return {
 		[18]=
 		{
 			id = 18,
-			key = "p_task_fish_daily_4",
+			key = "actp_own_task_p_task_fish_daily_4",
 			task_id = 12511,
 			task_name = "击杀BOSS",
 			task_icon = "rw_icon_boss",
@@ -270,7 +270,7 @@ return {
 		[19]=
 		{
 			id = 19,
-			key = "p_task_fish_daily_4_no_cps",
+			key = "actp_own_task_p_task_fish_daily_4_no_cps",
 			task_id = 12530,
 			task_name = "累计充值",
 			task_icon = "rw_icon_mrzz",
@@ -283,7 +283,7 @@ return {
 		[20]=
 		{
 			id = 20,
-			key = "p_task_fish_daily_5",
+			key = "actp_own_task_p_task_fish_daily_5",
 			task_id = 12536,
 			task_name = "击杀高倍鱼",
 			task_icon = "rw_icon_bh",
@@ -296,7 +296,7 @@ return {
 		[21]=
 		{
 			id = 21,
-			key = "p_task_fish_daily_5",
+			key = "actp_own_task_p_task_fish_daily_5",
 			task_id = 12535,
 			task_name = "累计赢金",
 			task_icon = "rw_icon_ljyj",
@@ -309,7 +309,7 @@ return {
 		[22]=
 		{
 			id = 22,
-			key = "p_task_fish_daily_5",
+			key = "actp_own_task_p_task_fish_daily_5",
 			task_id = 12537,
 			task_name = "击杀BOSS",
 			task_icon = "rw_icon_boss",
@@ -322,7 +322,7 @@ return {
 		[23]=
 		{
 			id = 23,
-			key = "p_task_fish_daily_5_no_cps",
+			key = "actp_own_task_p_task_fish_daily_5_no_cps",
 			task_id = 12534,
 			task_name = "累计充值",
 			task_icon = "rw_icon_mrzz",
@@ -335,7 +335,7 @@ return {
 		[24]=
 		{
 			id = 24,
-			key = "p_task_fish_daily_cps",
+			key = "actp_own_task_p_task_fish_daily_cps",
 			task_id = 12538,
 			task_name = "累计在线",
 			task_icon = "rw_icon_ljsj",
@@ -348,7 +348,7 @@ return {
 		[25]=
 		{
 			id = 25,
-			key = "p_task_fish_daily_1_2_cps",
+			key = "actp_own_task_p_task_fish_daily_1_2_cps",
 			task_id = 12539,
 			task_name = "单笔充值",
 			task_icon = "rw_icon_mrzz",
@@ -361,7 +361,7 @@ return {
 		[26]=
 		{
 			id = 26,
-			key = "p_task_fish_daily_3_cps",
+			key = "actp_own_task_p_task_fish_daily_3_cps",
 			task_id = 12540,
 			task_name = "累计充值",
 			task_icon = "rw_icon_mrzz",
@@ -374,7 +374,7 @@ return {
 		[27]=
 		{
 			id = 27,
-			key = "p_task_fish_daily_4_cps",
+			key = "actp_own_task_p_task_fish_daily_4_cps",
 			task_id = 12541,
 			task_name = "累计充值",
 			task_icon = "rw_icon_mrzz",
@@ -387,7 +387,7 @@ return {
 		[28]=
 		{
 			id = 28,
-			key = "p_task_fish_daily_5_cps",
+			key = "actp_own_task_p_task_fish_daily_5_cps",
 			task_id = 12542,
 			task_name = "累计充值",
 			task_icon = "rw_icon_mrzz",
