@@ -5485,6 +5485,78 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1598916600,
 		},
+		[309]=
+		{
+			id = 309,
+			enable = 1,
+			key = "actp_own_task_p_kpshb_nor",
+			name = "3D捕鱼开炮送红包（非CPS渠道）",
+			condi = 315,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
+		[310]=
+		{
+			id = 310,
+			enable = 1,
+			key = "actp_own_task_p_kpshb_cps",
+			name = "3D捕鱼开炮送红包（CPS渠道）",
+			condi = 316,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
+		[311]=
+		{
+			id = 311,
+			enable = 1,
+			key = "actp_own_task_p_xyxyj_nor",
+			name = "小游戏累计赢金（非CPS渠道）",
+			condi = 317,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
+		[312]=
+		{
+			id = 312,
+			enable = 1,
+			key = "actp_own_task_p_xyxyj_cps",
+			name = "小游戏累计赢金（CPS渠道）",
+			condi = 318,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
+		[313]=
+		{
+			id = 313,
+			enable = 1,
+			key = "actp_own_task_p_jjkpshb_nor",
+			name = "街机捕鱼开炮送红包（非CPS渠道）",
+			condi = 319,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
+		[314]=
+		{
+			id = 314,
+			enable = 1,
+			key = "actp_own_task_p_jjkpshb_cps",
+			name = "街机捕鱼开炮送红包（CPS渠道）",
+			condi = 320,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
 	},
 	condi=
 	{
@@ -13347,6 +13419,66 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是CPS渠道",
+		},
+		[797]=
+		{
+			no = 797,
+			id = 315,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[798]=
+		{
+			no = 798,
+			id = 316,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPS渠道",
+		},
+		[799]=
+		{
+			no = 799,
+			id = 317,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[800]=
+		{
+			no = 800,
+			id = 318,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPS渠道",
+		},
+		[801]=
+		{
+			no = 801,
+			id = 319,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[802]=
+		{
+			no = 802,
+			id = 320,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPS渠道",
 		},
 	},
 	share_condition=
