@@ -1780,7 +1780,7 @@ return {
 		{
 			key = "cps_xycj",
 			name = "幸运抽奖（CPS渠道不显示）",
-			condi = 311,
+			condi = 319,
 		},
 	},
 	act_permission=
