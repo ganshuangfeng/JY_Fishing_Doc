@@ -5653,6 +5653,16 @@ return {
 		[10]=
 		{
 			no = 10,
+			id = 7,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[11]=
+		{
+			no = 11,
 			id = 8,
 			var = "vip_level",
 			value = 1,
@@ -5660,9 +5670,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip1及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[11]=
+		[12]=
 		{
-			no = 11,
+			no = 12,
 			id = 9,
 			var = "vip_level",
 			value = 2,
@@ -5670,9 +5680,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip2及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[12]=
+		[13]=
 		{
-			no = 12,
+			no = 13,
 			id = 10,
 			var = "vip_level",
 			value = 3,
@@ -5680,9 +5690,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip3及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[13]=
+		[14]=
 		{
-			no = 13,
+			no = 14,
 			id = 11,
 			var = "vip_level",
 			value = 4,
@@ -5690,9 +5700,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip4及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[14]=
+		[15]=
 		{
-			no = 14,
+			no = 15,
 			id = 12,
 			var = "vip_level",
 			value = 5,
@@ -5700,9 +5710,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip5及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[15]=
+		[16]=
 		{
-			no = 15,
+			no = 16,
 			id = 13,
 			var = "vip_level",
 			value = 6,
@@ -5710,9 +5720,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip6及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[16]=
+		[17]=
 		{
-			no = 16,
+			no = 17,
 			id = 14,
 			var = "vip_level",
 			value = 7,
@@ -5720,9 +5730,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip7及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[17]=
+		[18]=
 		{
-			no = 17,
+			no = 18,
 			id = 15,
 			var = "vip_level",
 			value = 8,
@@ -5730,9 +5740,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip8及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[18]=
+		[19]=
 		{
-			no = 18,
+			no = 19,
 			id = 16,
 			var = "vip_level",
 			value = 9,
@@ -5740,9 +5750,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip9及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[19]=
+		[20]=
 		{
-			no = 19,
+			no = 20,
 			id = 17,
 			var = "vip_level",
 			value = 10,
@@ -5750,9 +5760,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip10才可体验，商城充值可以提升Vip等级！",
 		},
-		[20]=
+		[21]=
 		{
-			no = 20,
+			no = 21,
 			id = 18,
 			var = "first_login_time",
 			value = 1583769600,
@@ -5760,20 +5770,10 @@ return {
 			group = 1,
 			error_desc = "只有2020年3月10日以后首次登录的用户才可购买全返礼包1",
 		},
-		[21]=
-		{
-			no = 21,
-			id = 19,
-			var = "acount_age",
-			value = 604800,
-			judge = 3,
-			group = 1,
-			error_desc = "距离第一次登录时间超过7天的用户",
-		},
 		[22]=
 		{
 			no = 22,
-			id = 20,
+			id = 19,
 			var = "acount_age",
 			value = 604800,
 			judge = 3,
@@ -5784,15 +5784,25 @@ return {
 		{
 			no = 23,
 			id = 20,
+			var = "acount_age",
+			value = 604800,
+			judge = 3,
+			group = 1,
+			error_desc = "距离第一次登录时间超过7天的用户",
+		},
+		[24]=
+		{
+			no = 24,
+			id = 20,
 			var = "share_condition",
 			value = "jjddz_cpl",
 			judge = 5,
 			group = 1,
 			error_desc = "不是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[24]=
+		[25]=
 		{
-			no = 24,
+			no = 25,
 			id = 21,
 			var = "register_time",
 			value = 1576684800,
@@ -5800,9 +5810,9 @@ return {
 			group = 1,
 			error_desc = "2019年12月19日之前注册的",
 		},
-		[25]=
+		[26]=
 		{
-			no = 25,
+			no = 26,
 			id = 21,
 			var = "last_login_time",
 			value = 1576684800,
@@ -5810,9 +5820,9 @@ return {
 			group = 1,
 			error_desc = "2019年12月19日之后没有登录",
 		},
-		[26]=
+		[27]=
 		{
-			no = 26,
+			no = 27,
 			id = 22,
 			var = "vip_level",
 			value = 1,
@@ -5820,9 +5830,9 @@ return {
 			group = 1,
 			error_desc = "该档次需要Vip1及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[27]=
+		[28]=
 		{
-			no = 27,
+			no = 28,
 			id = 23,
 			var = "vip_level",
 			value = 2,
@@ -5830,9 +5840,9 @@ return {
 			group = 1,
 			error_desc = "该档次需要Vip2及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[28]=
+		[29]=
 		{
-			no = 28,
+			no = 29,
 			id = 24,
 			var = "vip_level",
 			value = 3,
@@ -5840,9 +5850,9 @@ return {
 			group = 1,
 			error_desc = "该档次需要Vip3及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[29]=
+		[30]=
 		{
-			no = 29,
+			no = 30,
 			id = 25,
 			var = "vip_level",
 			value = 4,
@@ -5850,9 +5860,9 @@ return {
 			group = 1,
 			error_desc = "该档次需要Vip4及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[30]=
+		[31]=
 		{
-			no = 30,
+			no = 31,
 			id = 26,
 			var = "vip_level",
 			value = 5,
@@ -5860,9 +5870,9 @@ return {
 			group = 1,
 			error_desc = "该档次需要Vip5及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[31]=
+		[32]=
 		{
-			no = 31,
+			no = 32,
 			id = 27,
 			var = "vip_level",
 			value = 6,
@@ -5870,9 +5880,9 @@ return {
 			group = 1,
 			error_desc = "该档次需要Vip6及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[32]=
+		[33]=
 		{
-			no = 32,
+			no = 33,
 			id = 28,
 			var = "vip_level",
 			value = 7,
@@ -5880,9 +5890,9 @@ return {
 			group = 1,
 			error_desc = "该档次需要Vip7及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[33]=
+		[34]=
 		{
-			no = 33,
+			no = 34,
 			id = 29,
 			var = "vip_level",
 			value = 8,
@@ -5890,9 +5900,9 @@ return {
 			group = 1,
 			error_desc = "该档次需要Vip8及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[34]=
+		[35]=
 		{
-			no = 34,
+			no = 35,
 			id = 30,
 			var = "vip_level",
 			value = 9,
@@ -5900,9 +5910,9 @@ return {
 			group = 1,
 			error_desc = "该档次需要Vip9及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[35]=
+		[36]=
 		{
-			no = 35,
+			no = 36,
 			id = 31,
 			var = "vip_level",
 			value = 10,
@@ -5910,9 +5920,9 @@ return {
 			group = 1,
 			error_desc = "该档次需要Vip10才可体验，商城充值可以提升Vip等级！",
 		},
-		[36]=
+		[37]=
 		{
-			no = 36,
+			no = 37,
 			id = 32,
 			var = "pay_sum",
 			value = 600,
@@ -5920,9 +5930,9 @@ return {
 			group = 1,
 			error_desc = "该档次需要充值6元以上才可体验，\n成为VIP1即可畅玩游戏哦！",
 		},
-		[37]=
+		[38]=
 		{
-			no = 37,
+			no = 38,
 			id = 32,
 			var = "vip_level",
 			value = 1,
@@ -5930,9 +5940,9 @@ return {
 			group = 2,
 			error_desc = "需要Vip1及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[38]=
+		[39]=
 		{
-			no = 38,
+			no = 39,
 			id = 33,
 			var = "acount_age",
 			value = 604800,
@@ -5940,9 +5950,9 @@ return {
 			group = 1,
 			error_desc = "距离第一次登录时间超过7天的用户",
 		},
-		[39]=
+		[40]=
 		{
-			no = 39,
+			no = 40,
 			id = 33,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -5950,9 +5960,9 @@ return {
 			group = 1,
 			error_desc = "不是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[40]=
+		[41]=
 		{
-			no = 40,
+			no = 41,
 			id = 34,
 			var = "vip_level",
 			value = 0,
@@ -5960,9 +5970,9 @@ return {
 			group = 1,
 			error_desc = "Vip0的用户才可进行任务",
 		},
-		[41]=
+		[42]=
 		{
-			no = 41,
+			no = 42,
 			id = 35,
 			var = "vip_level",
 			value = 1,
@@ -5970,9 +5980,9 @@ return {
 			group = 1,
 			error_desc = "Vip1以上的用户才可进行任务",
 		},
-		[42]=
+		[43]=
 		{
-			no = 42,
+			no = 43,
 			id = 35,
 			var = "vip_level",
 			value = 2,
@@ -5980,9 +5990,9 @@ return {
 			group = 2,
 			error_desc = "Vip1以上的用户才可进行任务",
 		},
-		[43]=
+		[44]=
 		{
-			no = 43,
+			no = 44,
 			id = 36,
 			var = "vip_level",
 			value = 3,
@@ -5990,9 +6000,9 @@ return {
 			group = 1,
 			error_desc = "Vip3以上的用户才可进行任务",
 		},
-		[44]=
+		[45]=
 		{
-			no = 44,
+			no = 45,
 			id = 36,
 			var = "vip_level",
 			value = 4,
@@ -6000,9 +6010,9 @@ return {
 			group = 2,
 			error_desc = "Vip3以上的用户才可进行任务",
 		},
-		[45]=
+		[46]=
 		{
-			no = 45,
+			no = 46,
 			id = 36,
 			var = "vip_level",
 			value = 5,
@@ -6010,9 +6020,9 @@ return {
 			group = 3,
 			error_desc = "Vip3以上的用户才可进行任务",
 		},
-		[46]=
+		[47]=
 		{
-			no = 46,
+			no = 47,
 			id = 36,
 			var = "vip_level",
 			value = 6,
@@ -6020,9 +6030,9 @@ return {
 			group = 4,
 			error_desc = "Vip3以上的用户才可进行任务",
 		},
-		[47]=
+		[48]=
 		{
-			no = 47,
+			no = 48,
 			id = 37,
 			var = "vip_level",
 			value = 7,
@@ -6030,9 +6040,9 @@ return {
 			group = 1,
 			error_desc = "Vip7以上的用户才可进行任务",
 		},
-		[48]=
+		[49]=
 		{
-			no = 48,
+			no = 49,
 			id = 37,
 			var = "vip_level",
 			value = 8,
@@ -6040,9 +6050,9 @@ return {
 			group = 2,
 			error_desc = "Vip7以上的用户才可进行任务",
 		},
-		[49]=
+		[50]=
 		{
-			no = 49,
+			no = 50,
 			id = 37,
 			var = "vip_level",
 			value = 9,
@@ -6050,9 +6060,9 @@ return {
 			group = 3,
 			error_desc = "Vip7以上的用户才可进行任务",
 		},
-		[50]=
+		[51]=
 		{
-			no = 50,
+			no = 51,
 			id = 37,
 			var = "vip_level",
 			value = 10,
@@ -6060,9 +6070,9 @@ return {
 			group = 4,
 			error_desc = "Vip7以上的用户才可进行任务",
 		},
-		[51]=
+		[52]=
 		{
-			no = 51,
+			no = 52,
 			id = 38,
 			var = "tag_type",
 			value = "tag_class_stingy_player",
@@ -6070,9 +6080,9 @@ return {
 			group = 1,
 			error_desc = "只展示给小额标签用户",
 		},
-		[52]=
+		[53]=
 		{
-			no = 52,
+			no = 53,
 			id = 38,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6080,9 +6090,9 @@ return {
 			group = 1,
 			error_desc = "新用户没有此任务",
 		},
-		[53]=
+		[54]=
 		{
-			no = 53,
+			no = 54,
 			id = 38,
 			var = "tag_type",
 			value = "tag_class_free_player",
@@ -6090,9 +6100,9 @@ return {
 			group = 2,
 			error_desc = "只展示给免费用户标签",
 		},
-		[54]=
+		[55]=
 		{
-			no = 54,
+			no = 55,
 			id = 38,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6100,9 +6110,9 @@ return {
 			group = 2,
 			error_desc = "新用户没有此任务",
 		},
-		[55]=
+		[56]=
 		{
-			no = 55,
+			no = 56,
 			id = 39,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6110,9 +6120,9 @@ return {
 			group = 1,
 			error_desc = "新用户没有此任务",
 		},
-		[56]=
+		[57]=
 		{
-			no = 56,
+			no = 57,
 			id = 40,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6120,9 +6130,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[57]=
+		[58]=
 		{
-			no = 57,
+			no = 58,
 			id = 40,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -6130,9 +6140,9 @@ return {
 			group = 1,
 			error_desc = "不是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[58]=
+		[59]=
 		{
-			no = 58,
+			no = 59,
 			id = 41,
 			var = "tag_type",
 			value = "tag_class_stingy_player",
@@ -6140,9 +6150,9 @@ return {
 			group = 1,
 			error_desc = "只展示给小额标签用户",
 		},
-		[59]=
+		[60]=
 		{
-			no = 59,
+			no = 60,
 			id = 41,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6150,9 +6160,9 @@ return {
 			group = 1,
 			error_desc = "新用户没有此任务",
 		},
-		[60]=
+		[61]=
 		{
-			no = 60,
+			no = 61,
 			id = 41,
 			var = "tag_type",
 			value = "tag_class_free_player",
@@ -6160,9 +6170,9 @@ return {
 			group = 2,
 			error_desc = "只展示给免费用户标签",
 		},
-		[61]=
+		[62]=
 		{
-			no = 61,
+			no = 62,
 			id = 41,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6170,9 +6180,9 @@ return {
 			group = 2,
 			error_desc = "新用户没有此任务",
 		},
-		[62]=
+		[63]=
 		{
-			no = 62,
+			no = 63,
 			id = 42,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -6180,9 +6190,9 @@ return {
 			group = 1,
 			error_desc = "不是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[63]=
+		[64]=
 		{
-			no = 63,
+			no = 64,
 			id = 42,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6190,9 +6200,9 @@ return {
 			group = 1,
 			error_desc = "新用户没有此任务",
 		},
-		[64]=
+		[65]=
 		{
-			no = 64,
+			no = 65,
 			id = 43,
 			var = "register_time",
 			value = 1579536000,
@@ -6200,9 +6210,9 @@ return {
 			group = 1,
 			error_desc = "2020年1月21日之前注册的",
 		},
-		[65]=
+		[66]=
 		{
-			no = 65,
+			no = 66,
 			id = 43,
 			var = "last_login_time",
 			value = 1579536000,
@@ -6210,9 +6220,9 @@ return {
 			group = 1,
 			error_desc = "2020年1月21日之后没有登录",
 		},
-		[66]=
+		[67]=
 		{
-			no = 66,
+			no = 67,
 			id = 44,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6220,9 +6230,9 @@ return {
 			group = 1,
 			error_desc = "不展示给新玩家",
 		},
-		[67]=
+		[68]=
 		{
-			no = 67,
+			no = 68,
 			id = 44,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -6230,20 +6240,10 @@ return {
 			group = 1,
 			error_desc = "不是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[68]=
-		{
-			no = 68,
-			id = 45,
-			var = "tag_type",
-			value = "tag_class_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "不展示给新玩家",
-		},
 		[69]=
 		{
 			no = 69,
-			id = 46,
+			id = 45,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,
@@ -6253,6 +6253,16 @@ return {
 		[70]=
 		{
 			no = 70,
+			id = 46,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不展示给新玩家",
+		},
+		[71]=
+		{
+			no = 71,
 			id = 47,
 			var = "tag_type",
 			value = "2020_neibuyuangong",
@@ -6260,9 +6270,9 @@ return {
 			group = 1,
 			error_desc = "只有特定玩家才可以进入",
 		},
-		[71]=
+		[72]=
 		{
-			no = 71,
+			no = 72,
 			id = 48,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -6270,9 +6280,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[72]=
+		[73]=
 		{
-			no = 72,
+			no = 73,
 			id = 48,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -6280,9 +6290,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[73]=
+		[74]=
 		{
-			no = 73,
+			no = 74,
 			id = 48,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6290,9 +6300,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[74]=
+		[75]=
 		{
-			no = 74,
+			no = 75,
 			id = 49,
 			var = "vip_level",
 			value = 1,
@@ -6300,9 +6310,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip1及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[75]=
+		[76]=
 		{
-			no = 75,
+			no = 76,
 			id = 49,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6310,9 +6320,9 @@ return {
 			group = 1,
 			error_desc = "只展示给新玩家",
 		},
-		[76]=
+		[77]=
 		{
-			no = 76,
+			no = 77,
 			id = 50,
 			var = "vip_level",
 			value = 1,
@@ -6320,9 +6330,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip1及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[77]=
+		[78]=
 		{
-			no = 77,
+			no = 78,
 			id = 50,
 			var = "tag_type",
 			value = "tag_plat_hw_cymj",
@@ -6330,9 +6340,9 @@ return {
 			group = 1,
 			error_desc = "华为版本无该功能",
 		},
-		[78]=
+		[79]=
 		{
-			no = 78,
+			no = 79,
 			id = 50,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6340,9 +6350,9 @@ return {
 			group = 1,
 			error_desc = "只有老用户才可体验",
 		},
-		[79]=
+		[80]=
 		{
-			no = 79,
+			no = 80,
 			id = 50,
 			var = "tag_type",
 			value = "2020_neibuyuangong",
@@ -6350,9 +6360,9 @@ return {
 			group = 2,
 			error_desc = "只有特定玩家才可以进入",
 		},
-		[80]=
+		[81]=
 		{
-			no = 80,
+			no = 81,
 			id = 51,
 			var = "vip_level",
 			value = 3,
@@ -6360,39 +6370,39 @@ return {
 			group = 1,
 			error_desc = "需要Vip3及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[81]=
+		[82]=
 		{
-			no = 81,
+			no = 82,
 			id = 51,
 			var = "tag_type",
 			value = "tag_plat_hw_cymj",
 			judge = 5,
 			group = 1,
 			error_desc = "华为版本无该功能",
-		},
-		[82]=
-		{
-			no = 82,
-			id = 51,
-			var = "tag_type",
-			value = "tag_class_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "只有老用户才可体验",
 		},
 		[83]=
 		{
 			no = 83,
 			id = 51,
 			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "只有老用户才可体验",
+		},
+		[84]=
+		{
+			no = 84,
+			id = 51,
+			var = "tag_type",
 			value = "2020_neibuyuangong",
 			judge = 2,
 			group = 2,
 			error_desc = "只有特定玩家才可以进入",
 		},
-		[84]=
+		[85]=
 		{
-			no = 84,
+			no = 85,
 			id = 52,
 			var = "tag_type",
 			value = "tag_plat_hw_cymj",
@@ -6400,9 +6410,9 @@ return {
 			group = 1,
 			error_desc = "华为版本无该功能",
 		},
-		[85]=
+		[86]=
 		{
-			no = 85,
+			no = 86,
 			id = 52,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6410,9 +6420,9 @@ return {
 			group = 1,
 			error_desc = "只有老用户才可体验",
 		},
-		[86]=
+		[87]=
 		{
-			no = 86,
+			no = 87,
 			id = 52,
 			var = "tag_type",
 			value = "2020_neibuyuangong",
@@ -6420,39 +6430,39 @@ return {
 			group = 2,
 			error_desc = "只有特定玩家才可以进入",
 		},
-		[87]=
+		[88]=
 		{
-			no = 87,
+			no = 88,
 			id = 53,
 			var = "tag_type",
 			value = "tag_plat_normal",
 			judge = 2,
 			group = 1,
 			error_desc = "是官方平台",
-		},
-		[88]=
-		{
-			no = 88,
-			id = 53,
-			var = "share_condition",
-			value = "jjddz_official",
-			judge = 2,
-			group = 1,
-			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
 		[89]=
 		{
 			no = 89,
 			id = 53,
+			var = "share_condition",
+			value = "jjddz_official",
+			judge = 2,
+			group = 1,
+			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
+		},
+		[90]=
+		{
+			no = 90,
+			id = 53,
 			var = "tag_type",
 			value = "tag_plat_wqp",
 			judge = 2,
 			group = 2,
 			error_desc = "是玩棋牌平台",
 		},
-		[90]=
+		[91]=
 		{
-			no = 90,
+			no = 91,
 			id = 53,
 			var = "share_condition",
 			value = "wqp_official",
@@ -6460,9 +6470,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌官方玩家才可游戏",
 		},
-		[91]=
+		[92]=
 		{
-			no = 91,
+			no = 92,
 			id = 54,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -6470,9 +6480,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[92]=
+		[93]=
 		{
-			no = 92,
+			no = 93,
 			id = 54,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -6480,9 +6490,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[93]=
+		[94]=
 		{
-			no = 93,
+			no = 94,
 			id = 54,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -6490,9 +6500,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌平台",
 		},
-		[94]=
+		[95]=
 		{
-			no = 94,
+			no = 95,
 			id = 54,
 			var = "share_condition",
 			value = "wqp_official",
@@ -6500,9 +6510,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌官方玩家才可游戏",
 		},
-		[95]=
+		[96]=
 		{
-			no = 95,
+			no = 96,
 			id = 55,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -6510,9 +6520,9 @@ return {
 			group = 1,
 			error_desc = "不是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[96]=
+		[97]=
 		{
-			no = 96,
+			no = 97,
 			id = 55,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6520,9 +6530,9 @@ return {
 			group = 1,
 			error_desc = "新用户没有此任务",
 		},
-		[97]=
+		[98]=
 		{
-			no = 97,
+			no = 98,
 			id = 56,
 			var = "tag_type",
 			value = "tag_newplayer_buy_activation_gift",
@@ -6530,9 +6540,9 @@ return {
 			group = 1,
 			error_desc = "购买激活礼包后开启",
 		},
-		[98]=
+		[99]=
 		{
-			no = 98,
+			no = 99,
 			id = 57,
 			var = "vip_level",
 			value = 1,
@@ -6540,9 +6550,9 @@ return {
 			group = 1,
 			error_desc = "Vip1以上的用户才可进行游戏",
 		},
-		[99]=
+		[100]=
 		{
-			no = 99,
+			no = 100,
 			id = 57,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -6550,20 +6560,10 @@ return {
 			group = 1,
 			error_desc = "鲸鱼斗地主用户专享游戏",
 		},
-		[100]=
-		{
-			no = 100,
-			id = 58,
-			var = "vip_level",
-			value = 3,
-			judge = 3,
-			group = 1,
-			error_desc = "Vip3以上的用户才可进行游戏",
-		},
 		[101]=
 		{
 			no = 101,
-			id = 59,
+			id = 58,
 			var = "vip_level",
 			value = 3,
 			judge = 3,
@@ -6573,6 +6573,16 @@ return {
 		[102]=
 		{
 			no = 102,
+			id = 59,
+			var = "vip_level",
+			value = 3,
+			judge = 3,
+			group = 1,
+			error_desc = "Vip3以上的用户才可进行游戏",
+		},
+		[103]=
+		{
+			no = 103,
 			id = 60,
 			var = "first_login_time",
 			value = 1581955200,
@@ -6580,9 +6590,9 @@ return {
 			group = 1,
 			error_desc = "需要玩家在2020年2月18号之前注册",
 		},
-		[103]=
+		[104]=
 		{
-			no = 103,
+			no = 104,
 			id = 60,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -6590,9 +6600,9 @@ return {
 			group = 2,
 			error_desc = "是官方平台",
 		},
-		[104]=
+		[105]=
 		{
-			no = 104,
+			no = 105,
 			id = 60,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -6600,9 +6610,9 @@ return {
 			group = 2,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[105]=
+		[106]=
 		{
-			no = 105,
+			no = 106,
 			id = 60,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -6610,9 +6620,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌平台",
 		},
-		[106]=
+		[107]=
 		{
-			no = 106,
+			no = 107,
 			id = 60,
 			var = "share_condition",
 			value = "wqp_official",
@@ -6620,9 +6630,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌官方玩家才可游戏",
 		},
-		[107]=
+		[108]=
 		{
-			no = 107,
+			no = 108,
 			id = 60,
 			var = "first_login_time",
 			value = 1586215800,
@@ -6630,9 +6640,9 @@ return {
 			group = 4,
 			error_desc = "需要玩家在2020年4月7号之前注册",
 		},
-		[108]=
+		[109]=
 		{
-			no = 108,
+			no = 109,
 			id = 60,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -6640,9 +6650,9 @@ return {
 			group = 4,
 			error_desc = "是官方平台",
 		},
-		[109]=
+		[110]=
 		{
-			no = 109,
+			no = 110,
 			id = 60,
 			var = "market_channel",
 			value = {"xiaozhuo","juxiang"},
@@ -6650,9 +6660,9 @@ return {
 			group = 4,
 			error_desc = "是xiaozhuo、juxiang渠道",
 		},
-		[110]=
+		[111]=
 		{
-			no = 110,
+			no = 111,
 			id = 61,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -6660,9 +6670,9 @@ return {
 			group = 1,
 			error_desc = "不是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[111]=
+		[112]=
 		{
-			no = 111,
+			no = 112,
 			id = 61,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6670,9 +6680,9 @@ return {
 			group = 1,
 			error_desc = "新用户没有此任务",
 		},
-		[112]=
+		[113]=
 		{
-			no = 112,
+			no = 113,
 			id = 61,
 			var = "tag_type",
 			value = "tag_plat_xw_clby",
@@ -6680,9 +6690,9 @@ return {
 			group = 1,
 			error_desc = "不是闲玩潮流捕鱼的用户",
 		},
-		[113]=
+		[114]=
 		{
-			no = 113,
+			no = 114,
 			id = 62,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6690,9 +6700,9 @@ return {
 			group = 1,
 			error_desc = "新用户没有此任务",
 		},
-		[114]=
+		[115]=
 		{
-			no = 114,
+			no = 115,
 			id = 62,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -6700,9 +6710,9 @@ return {
 			group = 1,
 			error_desc = "只有未充值的用户才可体验！",
 		},
-		[115]=
+		[116]=
 		{
-			no = 115,
+			no = 116,
 			id = 63,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6710,9 +6720,9 @@ return {
 			group = 1,
 			error_desc = "新用户没有此任务",
 		},
-		[116]=
+		[117]=
 		{
-			no = 116,
+			no = 117,
 			id = 63,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -6720,9 +6730,9 @@ return {
 			group = 1,
 			error_desc = "只有充值6元及以上的用户才可体验！",
 		},
-		[117]=
+		[118]=
 		{
-			no = 117,
+			no = 118,
 			id = 64,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6730,9 +6740,9 @@ return {
 			group = 1,
 			error_desc = "新用户没有此任务",
 		},
-		[118]=
+		[119]=
 		{
-			no = 118,
+			no = 119,
 			id = 64,
 			var = "tag_type",
 			value = "tag_vip_low",
@@ -6740,9 +6750,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip1及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[119]=
+		[120]=
 		{
-			no = 119,
+			no = 120,
 			id = 65,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6750,9 +6760,9 @@ return {
 			group = 1,
 			error_desc = "新用户没有此任务",
 		},
-		[120]=
+		[121]=
 		{
-			no = 120,
+			no = 121,
 			id = 65,
 			var = "vip_level",
 			value = 3,
@@ -6760,9 +6770,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip3及以上才可体验，商城充值可以提升Vip等级！",
 		},
-		[121]=
+		[122]=
 		{
-			no = 121,
+			no = 122,
 			id = 66,
 			var = "register_time",
 			value = 1581955200,
@@ -6770,9 +6780,9 @@ return {
 			group = 1,
 			error_desc = "2020年2月18日之前注册的",
 		},
-		[122]=
+		[123]=
 		{
-			no = 122,
+			no = 123,
 			id = 66,
 			var = "last_login_time",
 			value = 1581955200,
@@ -6780,9 +6790,9 @@ return {
 			group = 1,
 			error_desc = "2020年2月18日之后没有登录",
 		},
-		[123]=
+		[124]=
 		{
-			no = 123,
+			no = 124,
 			id = 67,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -6790,9 +6800,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[124]=
+		[125]=
 		{
-			no = 124,
+			no = 125,
 			id = 67,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -6800,9 +6810,9 @@ return {
 			group = 1,
 			error_desc = "不是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[125]=
+		[126]=
 		{
-			no = 125,
+			no = 126,
 			id = 67,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6810,9 +6820,9 @@ return {
 			group = 1,
 			error_desc = "新用户没有此任务",
 		},
-		[126]=
+		[127]=
 		{
-			no = 126,
+			no = 127,
 			id = 68,
 			var = "tag_type",
 			value = "tag_plat_xw_clby",
@@ -6820,9 +6830,9 @@ return {
 			group = 1,
 			error_desc = "是闲玩潮流捕鱼的用户",
 		},
-		[127]=
+		[128]=
 		{
-			no = 127,
+			no = 128,
 			id = 68,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6830,9 +6840,9 @@ return {
 			group = 1,
 			error_desc = "新用户没有此任务",
 		},
-		[128]=
+		[129]=
 		{
-			no = 128,
+			no = 129,
 			id = 68,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -6840,9 +6850,9 @@ return {
 			group = 1,
 			error_desc = "不对针对免费用户",
 		},
-		[129]=
+		[130]=
 		{
-			no = 129,
+			no = 130,
 			id = 68,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -6850,9 +6860,9 @@ return {
 			group = 2,
 			error_desc = "是官方平台",
 		},
-		[130]=
+		[131]=
 		{
-			no = 130,
+			no = 131,
 			id = 68,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -6860,9 +6870,9 @@ return {
 			group = 2,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[131]=
+		[132]=
 		{
-			no = 131,
+			no = 132,
 			id = 68,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6870,25 +6880,15 @@ return {
 			group = 2,
 			error_desc = "新用户没有此任务",
 		},
-		[132]=
+		[133]=
 		{
-			no = 132,
+			no = 133,
 			id = 68,
 			var = "tag_type",
 			value = "tag_free_player",
 			judge = 5,
 			group = 2,
 			error_desc = "不对针对免费用户",
-		},
-		[133]=
-		{
-			no = 133,
-			id = 69,
-			var = "tag_type",
-			value = "tag_plat_xw_clby",
-			judge = 5,
-			group = 1,
-			error_desc = "自动开炮需要VIP等级达到1级，请提升您的VIP等级。",
 		},
 		[134]=
 		{
@@ -6896,13 +6896,23 @@ return {
 			id = 69,
 			var = "tag_type",
 			value = "tag_plat_xw_clby",
-			judge = 2,
-			group = 2,
+			judge = 5,
+			group = 1,
 			error_desc = "自动开炮需要VIP等级达到1级，请提升您的VIP等级。",
 		},
 		[135]=
 		{
 			no = 135,
+			id = 69,
+			var = "tag_type",
+			value = "tag_plat_xw_clby",
+			judge = 2,
+			group = 2,
+			error_desc = "自动开炮需要VIP等级达到1级，请提升您的VIP等级。",
+		},
+		[136]=
+		{
+			no = 136,
 			id = 69,
 			var = "vip_level",
 			value = 1,
@@ -6910,9 +6920,9 @@ return {
 			group = 2,
 			error_desc = "自动开炮需要VIP等级达到1级，请提升您的VIP等级。",
 		},
-		[136]=
+		[137]=
 		{
-			no = 136,
+			no = 137,
 			id = 70,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -6920,9 +6930,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[137]=
+		[138]=
 		{
-			no = 137,
+			no = 138,
 			id = 70,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -6930,9 +6940,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[138]=
+		[139]=
 		{
-			no = 138,
+			no = 139,
 			id = 70,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6940,9 +6950,9 @@ return {
 			group = 1,
 			error_desc = "新用户没有此任务",
 		},
-		[139]=
+		[140]=
 		{
-			no = 139,
+			no = 140,
 			id = 70,
 			var = "tag_type",
 			value = {"tag_plat_hw_cymj","tag_plat_xw_clby"},
@@ -6950,9 +6960,9 @@ return {
 			group = 2,
 			error_desc = "是华为彩云麻将和闲玩潮流捕鱼的用户",
 		},
-		[140]=
+		[141]=
 		{
-			no = 140,
+			no = 141,
 			id = 70,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6960,9 +6970,9 @@ return {
 			group = 2,
 			error_desc = "新用户没有此任务",
 		},
-		[141]=
+		[142]=
 		{
-			no = 141,
+			no = 142,
 			id = 71,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -6970,9 +6980,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[142]=
+		[143]=
 		{
-			no = 142,
+			no = 143,
 			id = 71,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -6980,9 +6990,9 @@ return {
 			group = 1,
 			error_desc = "不是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[143]=
+		[144]=
 		{
-			no = 143,
+			no = 144,
 			id = 71,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -6990,9 +7000,9 @@ return {
 			group = 1,
 			error_desc = "新用户没有此任务",
 		},
-		[144]=
+		[145]=
 		{
-			no = 144,
+			no = 145,
 			id = 72,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -7000,39 +7010,39 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[145]=
+		[146]=
 		{
-			no = 145,
+			no = 146,
 			id = 72,
 			var = "share_condition",
 			value = "jjddz_cpl",
 			judge = 2,
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
-		},
-		[146]=
-		{
-			no = 146,
-			id = 72,
-			var = "tag_type",
-			value = "tag_plat_xw_clby",
-			judge = 2,
-			group = 2,
-			error_desc = "是闲玩潮流捕鱼的用户",
 		},
 		[147]=
 		{
 			no = 147,
 			id = 72,
 			var = "tag_type",
+			value = "tag_plat_xw_clby",
+			judge = 2,
+			group = 2,
+			error_desc = "是闲玩潮流捕鱼的用户",
+		},
+		[148]=
+		{
+			no = 148,
+			id = 72,
+			var = "tag_type",
 			value = "tag_plat_wqp",
 			judge = 2,
 			group = 3,
 			error_desc = "是玩棋牌平台的用户",
 		},
-		[148]=
+		[149]=
 		{
-			no = 148,
+			no = 149,
 			id = 72,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -7040,9 +7050,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[149]=
+		[150]=
 		{
-			no = 149,
+			no = 150,
 			id = 73,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -7050,39 +7060,39 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[150]=
+		[151]=
 		{
-			no = 150,
+			no = 151,
 			id = 73,
 			var = "share_condition",
 			value = "jjddz_cpl",
 			judge = 2,
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
-		},
-		[151]=
-		{
-			no = 151,
-			id = 73,
-			var = "tag_type",
-			value = "tag_plat_xw_clby",
-			judge = 2,
-			group = 2,
-			error_desc = "是闲玩潮流捕鱼的用户",
 		},
 		[152]=
 		{
 			no = 152,
 			id = 73,
 			var = "tag_type",
+			value = "tag_plat_xw_clby",
+			judge = 2,
+			group = 2,
+			error_desc = "是闲玩潮流捕鱼的用户",
+		},
+		[153]=
+		{
+			no = 153,
+			id = 73,
+			var = "tag_type",
 			value = "tag_plat_wqp",
 			judge = 2,
 			group = 3,
 			error_desc = "是玩棋牌平台的用户",
 		},
-		[153]=
+		[154]=
 		{
-			no = 153,
+			no = 154,
 			id = 73,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -7090,9 +7100,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[154]=
+		[155]=
 		{
-			no = 154,
+			no = 155,
 			id = 74,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -7100,39 +7110,39 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[155]=
+		[156]=
 		{
-			no = 155,
+			no = 156,
 			id = 74,
 			var = "share_condition",
 			value = "jjddz_cpl",
 			judge = 2,
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
-		},
-		[156]=
-		{
-			no = 156,
-			id = 74,
-			var = "tag_type",
-			value = "tag_plat_xw_clby",
-			judge = 2,
-			group = 2,
-			error_desc = "是闲玩潮流捕鱼的用户",
 		},
 		[157]=
 		{
 			no = 157,
 			id = 74,
 			var = "tag_type",
+			value = "tag_plat_xw_clby",
+			judge = 2,
+			group = 2,
+			error_desc = "是闲玩潮流捕鱼的用户",
+		},
+		[158]=
+		{
+			no = 158,
+			id = 74,
+			var = "tag_type",
 			value = "tag_plat_wqp",
 			judge = 2,
 			group = 3,
 			error_desc = "是玩棋牌平台的用户",
 		},
-		[158]=
+		[159]=
 		{
-			no = 158,
+			no = 159,
 			id = 74,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -7140,9 +7150,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[159]=
+		[160]=
 		{
-			no = 159,
+			no = 160,
 			id = 75,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -7150,39 +7160,39 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[160]=
+		[161]=
 		{
-			no = 160,
+			no = 161,
 			id = 75,
 			var = "share_condition",
 			value = "jjddz_cpl",
 			judge = 2,
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
-		},
-		[161]=
-		{
-			no = 161,
-			id = 75,
-			var = "tag_type",
-			value = "tag_plat_xw_clby",
-			judge = 2,
-			group = 2,
-			error_desc = "是闲玩潮流捕鱼的用户",
 		},
 		[162]=
 		{
 			no = 162,
 			id = 75,
 			var = "tag_type",
+			value = "tag_plat_xw_clby",
+			judge = 2,
+			group = 2,
+			error_desc = "是闲玩潮流捕鱼的用户",
+		},
+		[163]=
+		{
+			no = 163,
+			id = 75,
+			var = "tag_type",
 			value = "tag_plat_wqp",
 			judge = 2,
 			group = 3,
 			error_desc = "是玩棋牌平台的用户",
 		},
-		[163]=
+		[164]=
 		{
-			no = 163,
+			no = 164,
 			id = 75,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -7190,9 +7200,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[164]=
+		[165]=
 		{
-			no = 164,
+			no = 165,
 			id = 76,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -7200,39 +7210,39 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[165]=
+		[166]=
 		{
-			no = 165,
+			no = 166,
 			id = 76,
 			var = "share_condition",
 			value = "jjddz_cpl",
 			judge = 2,
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
-		},
-		[166]=
-		{
-			no = 166,
-			id = 76,
-			var = "tag_type",
-			value = "tag_plat_xw_clby",
-			judge = 2,
-			group = 2,
-			error_desc = "是闲玩潮流捕鱼的用户",
 		},
 		[167]=
 		{
 			no = 167,
 			id = 76,
 			var = "tag_type",
+			value = "tag_plat_xw_clby",
+			judge = 2,
+			group = 2,
+			error_desc = "是闲玩潮流捕鱼的用户",
+		},
+		[168]=
+		{
+			no = 168,
+			id = 76,
+			var = "tag_type",
 			value = "tag_plat_wqp",
 			judge = 2,
 			group = 3,
 			error_desc = "是玩棋牌平台的用户",
 		},
-		[168]=
+		[169]=
 		{
-			no = 168,
+			no = 169,
 			id = 76,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -7240,9 +7250,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[169]=
+		[170]=
 		{
-			no = 169,
+			no = 170,
 			id = 77,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -7250,59 +7260,59 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[170]=
+		[171]=
 		{
-			no = 170,
+			no = 171,
 			id = 77,
 			var = "share_condition",
 			value = "jjddz_cpl",
 			judge = 2,
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
-		},
-		[171]=
-		{
-			no = 171,
-			id = 77,
-			var = "tag_type",
-			value = "tag_class_new_player",
-			judge = 2,
-			group = 1,
-			error_desc = "是新用户",
 		},
 		[172]=
 		{
 			no = 172,
 			id = 77,
 			var = "tag_type",
-			value = "tag_plat_xw_clby",
+			value = "tag_class_new_player",
 			judge = 2,
-			group = 2,
-			error_desc = "是闲玩潮流捕鱼的用户",
+			group = 1,
+			error_desc = "是新用户",
 		},
 		[173]=
 		{
 			no = 173,
 			id = 77,
 			var = "tag_type",
-			value = "tag_class_new_player",
+			value = "tag_plat_xw_clby",
 			judge = 2,
 			group = 2,
-			error_desc = "是新用户",
+			error_desc = "是闲玩潮流捕鱼的用户",
 		},
 		[174]=
 		{
 			no = 174,
 			id = 77,
 			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 2,
+			error_desc = "是新用户",
+		},
+		[175]=
+		{
+			no = 175,
+			id = 77,
+			var = "tag_type",
 			value = "tag_plat_wqp",
 			judge = 2,
 			group = 3,
 			error_desc = "是玩棋牌平台的用户",
 		},
-		[175]=
+		[176]=
 		{
-			no = 175,
+			no = 176,
 			id = 77,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -7310,9 +7320,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[176]=
+		[177]=
 		{
-			no = 176,
+			no = 177,
 			id = 77,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -7320,9 +7330,9 @@ return {
 			group = 3,
 			error_desc = "是新用户",
 		},
-		[177]=
+		[178]=
 		{
-			no = 177,
+			no = 178,
 			id = 77,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -7330,9 +7340,9 @@ return {
 			group = 4,
 			error_desc = "是3D捕鱼游戏渠道玩家",
 		},
-		[178]=
+		[179]=
 		{
-			no = 178,
+			no = 179,
 			id = 78,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -7340,39 +7350,39 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[179]=
+		[180]=
 		{
-			no = 179,
+			no = 180,
 			id = 78,
 			var = "share_condition",
 			value = "jjddz_cpl",
 			judge = 2,
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
-		},
-		[180]=
-		{
-			no = 180,
-			id = 78,
-			var = "tag_type",
-			value = "tag_class_new_player",
-			judge = 2,
-			group = 1,
-			error_desc = "是新用户",
 		},
 		[181]=
 		{
 			no = 181,
 			id = 78,
 			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[182]=
+		{
+			no = 182,
+			id = 78,
+			var = "tag_type",
 			value = "tag_plat_xw_clby",
 			judge = 2,
 			group = 2,
 			error_desc = "是闲玩潮流捕鱼的用户",
 		},
-		[182]=
+		[183]=
 		{
-			no = 182,
+			no = 183,
 			id = 78,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -7380,9 +7390,9 @@ return {
 			group = 2,
 			error_desc = "是新用户",
 		},
-		[183]=
+		[184]=
 		{
-			no = 183,
+			no = 184,
 			id = 78,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -7390,9 +7400,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌平台的用户",
 		},
-		[184]=
+		[185]=
 		{
-			no = 184,
+			no = 185,
 			id = 78,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -7400,9 +7410,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[185]=
+		[186]=
 		{
-			no = 185,
+			no = 186,
 			id = 78,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -7410,9 +7420,9 @@ return {
 			group = 3,
 			error_desc = "是新用户",
 		},
-		[186]=
+		[187]=
 		{
-			no = 186,
+			no = 187,
 			id = 79,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -7420,9 +7430,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[187]=
+		[188]=
 		{
-			no = 187,
+			no = 188,
 			id = 79,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -7430,9 +7440,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[188]=
+		[189]=
 		{
-			no = 188,
+			no = 189,
 			id = 79,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -7440,9 +7450,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[189]=
+		[190]=
 		{
-			no = 189,
+			no = 190,
 			id = 79,
 			var = "tag_type",
 			value = "tag_plat_xw_clby",
@@ -7450,9 +7460,9 @@ return {
 			group = 2,
 			error_desc = "是闲玩潮流捕鱼的用户",
 		},
-		[190]=
+		[191]=
 		{
-			no = 190,
+			no = 191,
 			id = 79,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -7460,9 +7470,9 @@ return {
 			group = 2,
 			error_desc = "是新用户",
 		},
-		[191]=
+		[192]=
 		{
-			no = 191,
+			no = 192,
 			id = 79,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -7470,9 +7480,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌平台的用户",
 		},
-		[192]=
+		[193]=
 		{
-			no = 192,
+			no = 193,
 			id = 79,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -7480,9 +7490,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[193]=
+		[194]=
 		{
-			no = 193,
+			no = 194,
 			id = 79,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -7490,9 +7500,9 @@ return {
 			group = 3,
 			error_desc = "是新用户",
 		},
-		[194]=
+		[195]=
 		{
-			no = 194,
+			no = 195,
 			id = 79,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -7500,9 +7510,9 @@ return {
 			group = 4,
 			error_desc = "是3D捕鱼游戏渠道玩家",
 		},
-		[195]=
+		[196]=
 		{
-			no = 195,
+			no = 196,
 			id = 80,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -7510,9 +7520,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[196]=
+		[197]=
 		{
-			no = 196,
+			no = 197,
 			id = 80,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -7520,9 +7530,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[197]=
+		[198]=
 		{
-			no = 197,
+			no = 198,
 			id = 80,
 			var = "vip_level",
 			value = 0,
@@ -7530,9 +7540,9 @@ return {
 			group = 1,
 			error_desc = "Vip1以下的用户",
 		},
-		[198]=
+		[199]=
 		{
-			no = 198,
+			no = 199,
 			id = 80,
 			var = "tag_type",
 			value = "tag_plat_xw_clby",
@@ -7540,9 +7550,9 @@ return {
 			group = 2,
 			error_desc = "是闲玩潮流捕鱼的用户",
 		},
-		[199]=
+		[200]=
 		{
-			no = 199,
+			no = 200,
 			id = 80,
 			var = "vip_level",
 			value = 0,
@@ -7550,9 +7560,9 @@ return {
 			group = 2,
 			error_desc = "Vip1以下的用户",
 		},
-		[200]=
+		[201]=
 		{
-			no = 200,
+			no = 201,
 			id = 80,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -7560,9 +7570,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌平台的用户",
 		},
-		[201]=
+		[202]=
 		{
-			no = 201,
+			no = 202,
 			id = 80,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -7570,9 +7580,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[202]=
+		[203]=
 		{
-			no = 202,
+			no = 203,
 			id = 80,
 			var = "vip_level",
 			value = 0,
@@ -7580,9 +7590,9 @@ return {
 			group = 3,
 			error_desc = "Vip1以下的用户",
 		},
-		[203]=
+		[204]=
 		{
-			no = 203,
+			no = 204,
 			id = 81,
 			var = "tag_type",
 			value = "tag_plat_xw_clby",
@@ -7590,39 +7600,39 @@ return {
 			group = 1,
 			error_desc = "是闲玩潮流捕鱼的用户",
 		},
-		[204]=
+		[205]=
 		{
-			no = 204,
+			no = 205,
 			id = 82,
 			var = "tag_type",
 			value = "tag_plat_normal",
 			judge = 2,
 			group = 1,
 			error_desc = "是官方平台",
-		},
-		[205]=
-		{
-			no = 205,
-			id = 82,
-			var = "share_condition",
-			value = "jjddz_cpl",
-			judge = 2,
-			group = 1,
-			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
 		[206]=
 		{
 			no = 206,
 			id = 82,
+			var = "share_condition",
+			value = "jjddz_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
+		},
+		[207]=
+		{
+			no = 207,
+			id = 82,
 			var = "vip_level",
 			value = 0,
 			judge = 4,
 			group = 1,
 			error_desc = "Vip1以下的用户",
 		},
-		[207]=
+		[208]=
 		{
-			no = 207,
+			no = 208,
 			id = 82,
 			var = "tag_type",
 			value = "tag_plat_xw_clby",
@@ -7630,9 +7640,9 @@ return {
 			group = 2,
 			error_desc = "是闲玩潮流捕鱼的用户",
 		},
-		[208]=
+		[209]=
 		{
-			no = 208,
+			no = 209,
 			id = 82,
 			var = "vip_level",
 			value = 0,
@@ -7640,9 +7650,9 @@ return {
 			group = 2,
 			error_desc = "Vip1以下的用户",
 		},
-		[209]=
+		[210]=
 		{
-			no = 209,
+			no = 210,
 			id = 82,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -7650,9 +7660,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌平台的用户",
 		},
-		[210]=
+		[211]=
 		{
-			no = 210,
+			no = 211,
 			id = 82,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -7660,9 +7670,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[211]=
+		[212]=
 		{
-			no = 211,
+			no = 212,
 			id = 82,
 			var = "vip_level",
 			value = 0,
@@ -7670,9 +7680,9 @@ return {
 			group = 3,
 			error_desc = "Vip1以下的用户",
 		},
-		[212]=
+		[213]=
 		{
-			no = 212,
+			no = 213,
 			id = 83,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -7680,9 +7690,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[213]=
+		[214]=
 		{
-			no = 213,
+			no = 214,
 			id = 83,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -7690,9 +7700,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[214]=
+		[215]=
 		{
-			no = 214,
+			no = 215,
 			id = 83,
 			var = "acount_age",
 			value = 86400,
@@ -7700,9 +7710,9 @@ return {
 			group = 1,
 			error_desc = "首次登陆后第二天",
 		},
-		[215]=
+		[216]=
 		{
-			no = 215,
+			no = 216,
 			id = 83,
 			var = "pay_sum",
 			value = 600,
@@ -7710,9 +7720,9 @@ return {
 			group = 1,
 			error_desc = "充值小于6元",
 		},
-		[216]=
+		[217]=
 		{
-			no = 216,
+			no = 217,
 			id = 83,
 			var = "tag_type",
 			value = "tag_plat_xw_clby",
@@ -7720,9 +7730,9 @@ return {
 			group = 2,
 			error_desc = "是闲玩潮流捕鱼的用户",
 		},
-		[217]=
+		[218]=
 		{
-			no = 217,
+			no = 218,
 			id = 83,
 			var = "acount_age",
 			value = 86400,
@@ -7730,9 +7740,9 @@ return {
 			group = 2,
 			error_desc = "首次登陆后第二天",
 		},
-		[218]=
+		[219]=
 		{
-			no = 218,
+			no = 219,
 			id = 83,
 			var = "pay_sum",
 			value = 600,
@@ -7740,9 +7750,9 @@ return {
 			group = 2,
 			error_desc = "充值小于6元",
 		},
-		[219]=
+		[220]=
 		{
-			no = 219,
+			no = 220,
 			id = 83,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -7750,9 +7760,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌平台的用户",
 		},
-		[220]=
+		[221]=
 		{
-			no = 220,
+			no = 221,
 			id = 83,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -7760,9 +7770,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[221]=
+		[222]=
 		{
-			no = 221,
+			no = 222,
 			id = 83,
 			var = "acount_age",
 			value = 86400,
@@ -7770,39 +7780,39 @@ return {
 			group = 3,
 			error_desc = "首次登陆后第二天",
 		},
-		[222]=
+		[223]=
 		{
-			no = 222,
+			no = 223,
 			id = 83,
 			var = "pay_sum",
 			value = 600,
 			judge = 4,
 			group = 3,
 			error_desc = "充值小于6元",
-		},
-		[223]=
-		{
-			no = 223,
-			id = 84,
-			var = "tag_type",
-			value = "tag_plat_xw_clby",
-			judge = 2,
-			group = 1,
-			error_desc = "是闲玩潮流捕鱼的用户",
 		},
 		[224]=
 		{
 			no = 224,
 			id = 84,
 			var = "tag_type",
+			value = "tag_plat_xw_clby",
+			judge = 2,
+			group = 1,
+			error_desc = "是闲玩潮流捕鱼的用户",
+		},
+		[225]=
+		{
+			no = 225,
+			id = 84,
+			var = "tag_type",
 			value = "tag_plat_wqp",
 			judge = 2,
 			group = 2,
 			error_desc = "是玩棋牌平台的用户",
 		},
-		[225]=
+		[226]=
 		{
-			no = 225,
+			no = 226,
 			id = 84,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -7810,9 +7820,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[226]=
+		[227]=
 		{
-			no = 226,
+			no = 227,
 			id = 85,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -7820,9 +7830,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[227]=
+		[228]=
 		{
-			no = 227,
+			no = 228,
 			id = 85,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -7830,9 +7840,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[228]=
+		[229]=
 		{
-			no = 228,
+			no = 229,
 			id = 85,
 			var = "first_login_time",
 			value = 1584401400,
@@ -7840,9 +7850,9 @@ return {
 			group = 1,
 			error_desc = "需要玩家在2020年3月17号7:30之后登陆",
 		},
-		[229]=
+		[230]=
 		{
-			no = 229,
+			no = 230,
 			id = 85,
 			var = "tag_type",
 			value = "tag_plat_xw_clby",
@@ -7850,9 +7860,9 @@ return {
 			group = 2,
 			error_desc = "是闲玩潮流捕鱼的用户",
 		},
-		[230]=
+		[231]=
 		{
-			no = 230,
+			no = 231,
 			id = 85,
 			var = "first_login_time",
 			value = 1584401400,
@@ -7860,9 +7870,9 @@ return {
 			group = 2,
 			error_desc = "需要玩家在2020年3月17号7:30之后登陆",
 		},
-		[231]=
+		[232]=
 		{
-			no = 231,
+			no = 232,
 			id = 85,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -7870,9 +7880,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌平台的用户",
 		},
-		[232]=
+		[233]=
 		{
-			no = 232,
+			no = 233,
 			id = 85,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -7880,9 +7890,9 @@ return {
 			group = 3,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[233]=
+		[234]=
 		{
-			no = 233,
+			no = 234,
 			id = 85,
 			var = "first_login_time",
 			value = 1584401400,
@@ -7890,39 +7900,39 @@ return {
 			group = 3,
 			error_desc = "需要玩家在2020年3月17号7:30之后登陆",
 		},
-		[234]=
+		[235]=
 		{
-			no = 234,
+			no = 235,
 			id = 86,
 			var = "tag_type",
 			value = "tag_plat_normal",
 			judge = 2,
 			group = 1,
 			error_desc = "是官方平台",
-		},
-		[235]=
-		{
-			no = 235,
-			id = 86,
-			var = "tag_type",
-			value = "tag_free_player",
-			judge = 2,
-			group = 1,
-			error_desc = "是免费玩家",
 		},
 		[236]=
 		{
 			no = 236,
 			id = 86,
 			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是免费玩家",
+		},
+		[237]=
+		{
+			no = 237,
+			id = 86,
+			var = "tag_type",
 			value = "tag_plat_normal",
 			judge = 2,
 			group = 2,
 			error_desc = "是官方平台",
 		},
-		[237]=
+		[238]=
 		{
-			no = 237,
+			no = 238,
 			id = 86,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -7930,9 +7940,9 @@ return {
 			group = 2,
 			error_desc = "是新用户",
 		},
-		[238]=
+		[239]=
 		{
-			no = 238,
+			no = 239,
 			id = 86,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -7940,9 +7950,9 @@ return {
 			group = 3,
 			error_desc = "是官方平台",
 		},
-		[239]=
+		[240]=
 		{
-			no = 239,
+			no = 240,
 			id = 86,
 			var = "vip_level",
 			value = 0,
@@ -7950,9 +7960,9 @@ return {
 			group = 3,
 			error_desc = "Vip1以下的用户",
 		},
-		[240]=
+		[241]=
 		{
-			no = 240,
+			no = 241,
 			id = 86,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -7960,9 +7970,9 @@ return {
 			group = 4,
 			error_desc = "是官方平台",
 		},
-		[241]=
+		[242]=
 		{
-			no = 241,
+			no = 242,
 			id = 86,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -7970,9 +7980,9 @@ return {
 			group = 4,
 			error_desc = "是免费玩家",
 		},
-		[242]=
+		[243]=
 		{
-			no = 242,
+			no = 243,
 			id = 86,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -7980,9 +7990,9 @@ return {
 			group = 5,
 			error_desc = "是官方平台",
 		},
-		[243]=
+		[244]=
 		{
-			no = 243,
+			no = 244,
 			id = 86,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -7990,9 +8000,9 @@ return {
 			group = 5,
 			error_desc = "是新用户",
 		},
-		[244]=
+		[245]=
 		{
-			no = 244,
+			no = 245,
 			id = 86,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -8000,9 +8010,9 @@ return {
 			group = 6,
 			error_desc = "是官方平台",
 		},
-		[245]=
+		[246]=
 		{
-			no = 245,
+			no = 246,
 			id = 86,
 			var = "vip_level",
 			value = 0,
@@ -8010,9 +8020,9 @@ return {
 			group = 6,
 			error_desc = "Vip1以下的用户",
 		},
-		[246]=
+		[247]=
 		{
-			no = 246,
+			no = 247,
 			id = 87,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -8020,9 +8030,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[247]=
+		[248]=
 		{
-			no = 247,
+			no = 248,
 			id = 87,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -8030,9 +8040,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[248]=
+		[249]=
 		{
-			no = 248,
+			no = 249,
 			id = 87,
 			var = "vip_level",
 			value = 1,
@@ -8040,9 +8050,9 @@ return {
 			group = 1,
 			error_desc = "Vip1以上的用户",
 		},
-		[249]=
+		[250]=
 		{
-			no = 249,
+			no = 250,
 			id = 87,
 			var = "tag_type",
 			value = "tag_plat_xw_clby",
@@ -8050,9 +8060,9 @@ return {
 			group = 2,
 			error_desc = "是闲玩潮流捕鱼的用户",
 		},
-		[250]=
+		[251]=
 		{
-			no = 250,
+			no = 251,
 			id = 87,
 			var = "vip_level",
 			value = 1,
@@ -8060,9 +8070,9 @@ return {
 			group = 2,
 			error_desc = "Vip1以下的用户",
 		},
-		[251]=
+		[252]=
 		{
-			no = 251,
+			no = 252,
 			id = 87,
 			var = "tag_type",
 			value = "tag_plat_hw_cymj",
@@ -8070,9 +8080,9 @@ return {
 			group = 3,
 			error_desc = "是华为彩云麻将的用户",
 		},
-		[252]=
+		[253]=
 		{
-			no = 252,
+			no = 253,
 			id = 87,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -8080,9 +8090,9 @@ return {
 			group = 4,
 			error_desc = "是官方平台",
 		},
-		[253]=
+		[254]=
 		{
-			no = 253,
+			no = 254,
 			id = 87,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -8090,9 +8100,9 @@ return {
 			group = 4,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[254]=
+		[255]=
 		{
-			no = 254,
+			no = 255,
 			id = 88,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -8100,39 +8110,39 @@ return {
 			group = 1,
 			error_desc = "不是免费玩家",
 		},
-		[255]=
+		[256]=
 		{
-			no = 255,
+			no = 256,
 			id = 88,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,
 			group = 1,
 			error_desc = "不是新用户",
-		},
-		[256]=
-		{
-			no = 256,
-			id = 89,
-			var = "tag_type",
-			value = "tag_free_player",
-			judge = 5,
-			group = 1,
-			error_desc = "不是免费玩家",
 		},
 		[257]=
 		{
 			no = 257,
 			id = 89,
 			var = "tag_type",
+			value = "tag_free_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是免费玩家",
+		},
+		[258]=
+		{
+			no = 258,
+			id = 89,
+			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[258]=
+		[259]=
 		{
-			no = 258,
+			no = 259,
 			id = 90,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -8140,9 +8150,9 @@ return {
 			group = 1,
 			error_desc = "不是免费玩家",
 		},
-		[259]=
+		[260]=
 		{
-			no = 259,
+			no = 260,
 			id = 90,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8150,9 +8160,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[260]=
+		[261]=
 		{
-			no = 260,
+			no = 261,
 			id = 91,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8160,9 +8170,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[261]=
+		[262]=
 		{
-			no = 261,
+			no = 262,
 			id = 92,
 			var = "vip_level",
 			value = 1,
@@ -8170,9 +8180,9 @@ return {
 			group = 1,
 			error_desc = "Vip1以上的用户",
 		},
-		[262]=
+		[263]=
 		{
-			no = 262,
+			no = 263,
 			id = 93,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8180,9 +8190,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[263]=
+		[264]=
 		{
-			no = 263,
+			no = 264,
 			id = 94,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8190,9 +8200,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[264]=
+		[265]=
 		{
-			no = 264,
+			no = 265,
 			id = 94,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -8200,9 +8210,9 @@ return {
 			group = 4,
 			error_desc = "是官方平台",
 		},
-		[265]=
+		[266]=
 		{
-			no = 265,
+			no = 266,
 			id = 94,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -8210,9 +8220,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[266]=
+		[267]=
 		{
-			no = 266,
+			no = 267,
 			id = 94,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -8220,9 +8230,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌平台的用户",
 		},
-		[267]=
+		[268]=
 		{
-			no = 267,
+			no = 268,
 			id = 94,
 			var = "share_condition",
 			value = "wqp_official",
@@ -8230,9 +8240,9 @@ return {
 			group = 2,
 			error_desc = "不是玩棋牌官方玩家才可游戏",
 		},
-		[268]=
+		[269]=
 		{
-			no = 268,
+			no = 269,
 			id = 94,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8240,9 +8250,9 @@ return {
 			group = 2,
 			error_desc = "是新用户",
 		},
-		[269]=
+		[270]=
 		{
-			no = 269,
+			no = 270,
 			id = 95,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8250,9 +8260,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[270]=
+		[271]=
 		{
-			no = 270,
+			no = 271,
 			id = 96,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -8260,9 +8270,9 @@ return {
 			group = 1,
 			error_desc = "免费玩家可购买",
 		},
-		[271]=
+		[272]=
 		{
-			no = 271,
+			no = 272,
 			id = 97,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8270,9 +8280,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[272]=
+		[273]=
 		{
-			no = 272,
+			no = 273,
 			id = 98,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -8280,9 +8290,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[273]=
+		[274]=
 		{
-			no = 273,
+			no = 274,
 			id = 98,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -8290,9 +8300,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[274]=
+		[275]=
 		{
-			no = 274,
+			no = 275,
 			id = 98,
 			var = "vip_level",
 			value = 1,
@@ -8300,9 +8310,9 @@ return {
 			group = 1,
 			error_desc = "Vip1以上的用户",
 		},
-		[275]=
+		[276]=
 		{
-			no = 275,
+			no = 276,
 			id = 98,
 			var = "tag_type",
 			value = "tag_plat_xw_clby",
@@ -8310,9 +8320,9 @@ return {
 			group = 2,
 			error_desc = "是闲玩潮流捕鱼的用户",
 		},
-		[276]=
+		[277]=
 		{
-			no = 276,
+			no = 277,
 			id = 98,
 			var = "vip_level",
 			value = 1,
@@ -8320,9 +8330,9 @@ return {
 			group = 2,
 			error_desc = "Vip1以上的用户",
 		},
-		[277]=
+		[278]=
 		{
-			no = 277,
+			no = 278,
 			id = 99,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -8330,9 +8340,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[278]=
+		[279]=
 		{
-			no = 278,
+			no = 279,
 			id = 99,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -8340,9 +8350,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[279]=
+		[280]=
 		{
-			no = 279,
+			no = 280,
 			id = 99,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8350,9 +8360,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[280]=
+		[281]=
 		{
-			no = 280,
+			no = 281,
 			id = 100,
 			var = "last_login_time_dist",
 			value = 604800,
@@ -8360,9 +8370,9 @@ return {
 			group = 1,
 			error_desc = "距离上次登录小于7天",
 		},
-		[281]=
+		[282]=
 		{
-			no = 281,
+			no = 282,
 			id = 100,
 			var = "last_login_time",
 			value = 0,
@@ -8370,9 +8380,9 @@ return {
 			group = 1,
 			error_desc = "不是第一次登陆的玩家",
 		},
-		[282]=
+		[283]=
 		{
-			no = 282,
+			no = 283,
 			id = 101,
 			var = "regress_time_dist",
 			value = 604800,
@@ -8380,9 +8390,9 @@ return {
 			group = 1,
 			error_desc = "回归活动7天内",
 		},
-		[283]=
+		[284]=
 		{
-			no = 283,
+			no = 284,
 			id = 101,
 			var = "regress_time",
 			value = 0,
@@ -8390,9 +8400,9 @@ return {
 			group = 1,
 			error_desc = "不是第一次登陆的玩家",
 		},
-		[284]=
+		[285]=
 		{
-			no = 284,
+			no = 285,
 			id = 102,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8400,9 +8410,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[285]=
+		[286]=
 		{
-			no = 285,
+			no = 286,
 			id = 103,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -8410,20 +8420,10 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[286]=
-		{
-			no = 286,
-			id = 104,
-			var = "tag_type",
-			value = "tag_class_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "不是新用户",
-		},
 		[287]=
 		{
 			no = 287,
-			id = 105,
+			id = 104,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,
@@ -8433,6 +8433,16 @@ return {
 		[288]=
 		{
 			no = 288,
+			id = 105,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[289]=
+		{
+			no = 289,
 			id = 106,
 			var = "vip_level",
 			value = 2,
@@ -8440,9 +8450,9 @@ return {
 			group = 1,
 			error_desc = "是VIP2的用户",
 		},
-		[289]=
+		[290]=
 		{
-			no = 289,
+			no = 290,
 			id = 107,
 			var = "vip_level",
 			value = 3,
@@ -8450,9 +8460,9 @@ return {
 			group = 1,
 			error_desc = "是VIP4的用户",
 		},
-		[290]=
+		[291]=
 		{
-			no = 290,
+			no = 291,
 			id = 108,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -8460,9 +8470,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[291]=
+		[292]=
 		{
-			no = 291,
+			no = 292,
 			id = 108,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -8470,9 +8480,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[292]=
+		[293]=
 		{
-			no = 292,
+			no = 293,
 			id = 108,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -8480,9 +8490,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌平台",
 		},
-		[293]=
+		[294]=
 		{
-			no = 293,
+			no = 294,
 			id = 108,
 			var = "share_condition",
 			value = "wqp_official",
@@ -8490,9 +8500,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌官方玩家才可游戏",
 		},
-		[294]=
+		[295]=
 		{
-			no = 294,
+			no = 295,
 			id = 109,
 			var = "tag_type",
 			value = "tag_plat_xw_clby",
@@ -8500,9 +8510,9 @@ return {
 			group = 2,
 			error_desc = "是闲玩潮流捕鱼的用户",
 		},
-		[295]=
+		[296]=
 		{
-			no = 295,
+			no = 296,
 			id = 110,
 			var = "tag_type",
 			value = "tag_class_free_player",
@@ -8510,9 +8520,9 @@ return {
 			group = 1,
 			error_desc = "只展示给免费用户标签",
 		},
-		[296]=
+		[297]=
 		{
-			no = 296,
+			no = 297,
 			id = 110,
 			var = "tag_type",
 			value = "tag_class_stingy_player",
@@ -8520,9 +8530,9 @@ return {
 			group = 1,
 			error_desc = "只展示给小额标签用户",
 		},
-		[297]=
+		[298]=
 		{
-			no = 297,
+			no = 298,
 			id = 111,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -8530,9 +8540,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[298]=
+		[299]=
 		{
-			no = 298,
+			no = 299,
 			id = 111,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -8540,9 +8550,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[299]=
+		[300]=
 		{
-			no = 299,
+			no = 300,
 			id = 111,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8550,9 +8560,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[300]=
+		[301]=
 		{
-			no = 300,
+			no = 301,
 			id = 111,
 			var = "tag_type",
 			value = "tag_plat_xw_clby",
@@ -8560,9 +8570,9 @@ return {
 			group = 2,
 			error_desc = "是闲玩潮流捕鱼的用户",
 		},
-		[301]=
+		[302]=
 		{
-			no = 301,
+			no = 302,
 			id = 111,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8570,9 +8580,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[302]=
+		[303]=
 		{
-			no = 302,
+			no = 303,
 			id = 112,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -8580,9 +8590,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[303]=
+		[304]=
 		{
-			no = 303,
+			no = 304,
 			id = 112,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -8590,9 +8600,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[304]=
+		[305]=
 		{
-			no = 304,
+			no = 305,
 			id = 112,
 			var = "tag_type",
 			value = "tag_class_free_player",
@@ -8600,9 +8610,9 @@ return {
 			group = 1,
 			error_desc = "只有未充值的用户才可体验！",
 		},
-		[305]=
+		[306]=
 		{
-			no = 305,
+			no = 306,
 			id = 112,
 			var = "vip_level",
 			value = 0,
@@ -8610,9 +8620,9 @@ return {
 			group = 1,
 			error_desc = "VIP小于等于0级",
 		},
-		[306]=
+		[307]=
 		{
-			no = 306,
+			no = 307,
 			id = 112,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8620,9 +8630,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[307]=
+		[308]=
 		{
-			no = 307,
+			no = 308,
 			id = 113,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -8630,9 +8640,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[308]=
+		[309]=
 		{
-			no = 308,
+			no = 309,
 			id = 113,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -8640,9 +8650,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[309]=
+		[310]=
 		{
-			no = 309,
+			no = 310,
 			id = 113,
 			var = "tag_type",
 			value = "tag_class_stingy_player",
@@ -8650,9 +8660,9 @@ return {
 			group = 1,
 			error_desc = "只有充值6元及以上的用户才可体验！",
 		},
-		[310]=
+		[311]=
 		{
-			no = 310,
+			no = 311,
 			id = 113,
 			var = "vip_level",
 			value = 0,
@@ -8660,9 +8670,9 @@ return {
 			group = 1,
 			error_desc = "VIP小于等于0级",
 		},
-		[311]=
+		[312]=
 		{
-			no = 311,
+			no = 312,
 			id = 113,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8670,9 +8680,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[312]=
+		[313]=
 		{
-			no = 312,
+			no = 313,
 			id = 114,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -8680,9 +8690,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[313]=
+		[314]=
 		{
-			no = 313,
+			no = 314,
 			id = 114,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -8690,9 +8700,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[314]=
+		[315]=
 		{
-			no = 314,
+			no = 315,
 			id = 114,
 			var = "vip_level",
 			value = 1,
@@ -8700,9 +8710,9 @@ return {
 			group = 1,
 			error_desc = "VIP1以上的用户",
 		},
-		[315]=
+		[316]=
 		{
-			no = 315,
+			no = 316,
 			id = 114,
 			var = "vip_level",
 			value = 3,
@@ -8710,9 +8720,9 @@ return {
 			group = 1,
 			error_desc = "VIP3以下的用户",
 		},
-		[316]=
+		[317]=
 		{
-			no = 316,
+			no = 317,
 			id = 114,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8720,9 +8730,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[317]=
+		[318]=
 		{
-			no = 317,
+			no = 318,
 			id = 115,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -8730,9 +8740,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[318]=
+		[319]=
 		{
-			no = 318,
+			no = 319,
 			id = 115,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -8740,9 +8750,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[319]=
+		[320]=
 		{
-			no = 319,
+			no = 320,
 			id = 115,
 			var = "vip_level",
 			value = 4,
@@ -8750,9 +8760,9 @@ return {
 			group = 1,
 			error_desc = "VIP4以上的用户",
 		},
-		[320]=
+		[321]=
 		{
-			no = 320,
+			no = 321,
 			id = 115,
 			var = "vip_level",
 			value = 6,
@@ -8760,9 +8770,9 @@ return {
 			group = 1,
 			error_desc = "VIP6以下的用户",
 		},
-		[321]=
+		[322]=
 		{
-			no = 321,
+			no = 322,
 			id = 115,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8770,9 +8780,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[322]=
+		[323]=
 		{
-			no = 322,
+			no = 323,
 			id = 116,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -8780,9 +8790,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[323]=
+		[324]=
 		{
-			no = 323,
+			no = 324,
 			id = 116,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -8790,9 +8800,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[324]=
+		[325]=
 		{
-			no = 324,
+			no = 325,
 			id = 116,
 			var = "vip_level",
 			value = 7,
@@ -8800,9 +8810,9 @@ return {
 			group = 1,
 			error_desc = "VIP7以上的用户",
 		},
-		[325]=
+		[326]=
 		{
-			no = 325,
+			no = 326,
 			id = 116,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8810,23 +8820,13 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[326]=
+		[327]=
 		{
-			no = 326,
+			no = 327,
 			id = 117,
 			var = "vip_level",
 			value = 0,
 			judge = 4,
-			group = 1,
-			error_desc = "种植已达到上限，提升VIP等级可提高种植量",
-		},
-		[327]=
-		{
-			no = 327,
-			id = 118,
-			var = "vip_level",
-			value = 1,
-			judge = 3,
 			group = 1,
 			error_desc = "种植已达到上限，提升VIP等级可提高种植量",
 		},
@@ -8835,18 +8835,18 @@ return {
 			no = 328,
 			id = 118,
 			var = "vip_level",
-			value = 3,
-			judge = 4,
+			value = 1,
+			judge = 3,
 			group = 1,
 			error_desc = "种植已达到上限，提升VIP等级可提高种植量",
 		},
 		[329]=
 		{
 			no = 329,
-			id = 119,
+			id = 118,
 			var = "vip_level",
-			value = 4,
-			judge = 3,
+			value = 3,
+			judge = 4,
 			group = 1,
 			error_desc = "种植已达到上限，提升VIP等级可提高种植量",
 		},
@@ -8855,14 +8855,24 @@ return {
 			no = 330,
 			id = 119,
 			var = "vip_level",
-			value = 6,
-			judge = 4,
+			value = 4,
+			judge = 3,
 			group = 1,
 			error_desc = "种植已达到上限，提升VIP等级可提高种植量",
 		},
 		[331]=
 		{
 			no = 331,
+			id = 119,
+			var = "vip_level",
+			value = 6,
+			judge = 4,
+			group = 1,
+			error_desc = "种植已达到上限，提升VIP等级可提高种植量",
+		},
+		[332]=
+		{
+			no = 332,
 			id = 120,
 			var = "vip_level",
 			value = 7,
@@ -8870,9 +8880,9 @@ return {
 			group = 1,
 			error_desc = "种植量已达到上限",
 		},
-		[332]=
+		[333]=
 		{
-			no = 332,
+			no = 333,
 			id = 121,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -8880,9 +8890,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[333]=
+		[334]=
 		{
-			no = 333,
+			no = 334,
 			id = 121,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -8890,9 +8900,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[334]=
+		[335]=
 		{
-			no = 334,
+			no = 335,
 			id = 121,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8900,9 +8910,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[335]=
+		[336]=
 		{
-			no = 335,
+			no = 336,
 			id = 121,
 			var = "tag_type",
 			value = "tag_plat_xw_clby",
@@ -8910,9 +8920,9 @@ return {
 			group = 2,
 			error_desc = "是闲玩潮流捕鱼的用户",
 		},
-		[336]=
+		[337]=
 		{
-			no = 336,
+			no = 337,
 			id = 121,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8920,9 +8930,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[337]=
+		[338]=
 		{
-			no = 337,
+			no = 338,
 			id = 122,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -8930,9 +8940,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[338]=
+		[339]=
 		{
-			no = 338,
+			no = 339,
 			id = 122,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -8940,9 +8950,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[339]=
+		[340]=
 		{
-			no = 339,
+			no = 340,
 			id = 122,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8950,9 +8960,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[340]=
+		[341]=
 		{
-			no = 340,
+			no = 341,
 			id = 123,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -8960,9 +8970,9 @@ return {
 			group = 1,
 			error_desc = "只展示给免费用户标签",
 		},
-		[341]=
+		[342]=
 		{
-			no = 341,
+			no = 342,
 			id = 123,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -8970,9 +8980,9 @@ return {
 			group = 2,
 			error_desc = "只展示给小额标签用户",
 		},
-		[342]=
+		[343]=
 		{
-			no = 342,
+			no = 343,
 			id = 124,
 			var = "vip_level",
 			value = 1,
@@ -8980,9 +8990,9 @@ return {
 			group = 1,
 			error_desc = "VIP1以上的用户",
 		},
-		[343]=
+		[344]=
 		{
-			no = 343,
+			no = 344,
 			id = 124,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -8990,9 +9000,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[344]=
+		[345]=
 		{
-			no = 344,
+			no = 345,
 			id = 125,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -9000,9 +9010,9 @@ return {
 			group = 1,
 			error_desc = "需要是官方平台才可游戏",
 		},
-		[345]=
+		[346]=
 		{
-			no = 345,
+			no = 346,
 			id = 125,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -9010,20 +9020,10 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[346]=
-		{
-			no = 346,
-			id = 125,
-			var = "vip_level",
-			value = 1,
-			judge = 3,
-			group = 1,
-			error_desc = "需要VIP1以上的用户才可游戏",
-		},
 		[347]=
 		{
 			no = 347,
-			id = 126,
+			id = 125,
 			var = "vip_level",
 			value = 1,
 			judge = 3,
@@ -9033,6 +9033,16 @@ return {
 		[348]=
 		{
 			no = 348,
+			id = 126,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "需要VIP1以上的用户才可游戏",
+		},
+		[349]=
+		{
+			no = 349,
 			id = 127,
 			var = "vip_level",
 			value = 0,
@@ -9040,9 +9050,9 @@ return {
 			group = 1,
 			error_desc = "培养已达到上限，提升VIP等级可提高培养数量",
 		},
-		[349]=
+		[350]=
 		{
-			no = 349,
+			no = 350,
 			id = 128,
 			var = "vip_level",
 			value = 1,
@@ -9050,9 +9060,9 @@ return {
 			group = 1,
 			error_desc = "培养已达到上限，提升VIP等级可提高培养数量",
 		},
-		[350]=
+		[351]=
 		{
-			no = 350,
+			no = 351,
 			id = 129,
 			var = "vip_level",
 			value = 2,
@@ -9060,9 +9070,9 @@ return {
 			group = 1,
 			error_desc = "培养已达到上限，提升VIP等级可提高培养数量",
 		},
-		[351]=
+		[352]=
 		{
-			no = 351,
+			no = 352,
 			id = 130,
 			var = "vip_level",
 			value = 3,
@@ -9070,9 +9080,9 @@ return {
 			group = 1,
 			error_desc = "培养已达到上限，提升VIP等级可提高培养数量",
 		},
-		[352]=
+		[353]=
 		{
-			no = 352,
+			no = 353,
 			id = 131,
 			var = "vip_level",
 			value = 4,
@@ -9080,9 +9090,9 @@ return {
 			group = 1,
 			error_desc = "培养已达到上限，提升VIP等级可提高培养数量",
 		},
-		[353]=
+		[354]=
 		{
-			no = 353,
+			no = 354,
 			id = 132,
 			var = "vip_level",
 			value = 5,
@@ -9090,9 +9100,9 @@ return {
 			group = 1,
 			error_desc = "培养已达到上限，提升VIP等级可提高培养数量",
 		},
-		[354]=
+		[355]=
 		{
-			no = 354,
+			no = 355,
 			id = 133,
 			var = "vip_level",
 			value = 6,
@@ -9100,9 +9110,9 @@ return {
 			group = 1,
 			error_desc = "培养已达到上限，提升VIP等级可提高培养数量",
 		},
-		[355]=
+		[356]=
 		{
-			no = 355,
+			no = 356,
 			id = 134,
 			var = "vip_level",
 			value = 7,
@@ -9110,9 +9120,9 @@ return {
 			group = 1,
 			error_desc = "培养已达到上限，提升VIP等级可提高培养数量",
 		},
-		[356]=
+		[357]=
 		{
-			no = 356,
+			no = 357,
 			id = 135,
 			var = "vip_level",
 			value = 8,
@@ -9120,9 +9130,9 @@ return {
 			group = 1,
 			error_desc = "培养已达到上限",
 		},
-		[357]=
+		[358]=
 		{
-			no = 357,
+			no = 358,
 			id = 136,
 			var = "vip_level",
 			value = 3,
@@ -9130,9 +9140,9 @@ return {
 			group = 1,
 			error_desc = "VIP3以上的用户才可体验",
 		},
-		[358]=
+		[359]=
 		{
-			no = 358,
+			no = 359,
 			id = 136,
 			var = "vip_level",
 			value = 6,
@@ -9140,9 +9150,9 @@ return {
 			group = 1,
 			error_desc = "VIP6以下的用户才可体验",
 		},
-		[359]=
+		[360]=
 		{
-			no = 359,
+			no = 360,
 			id = 137,
 			var = "vip_level",
 			value = 7,
@@ -9150,9 +9160,9 @@ return {
 			group = 1,
 			error_desc = "VIP7以上的用户才可体验",
 		},
-		[360]=
+		[361]=
 		{
-			no = 360,
+			no = 361,
 			id = 138,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -9160,9 +9170,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[361]=
+		[362]=
 		{
-			no = 361,
+			no = 362,
 			id = 138,
 			var = "vip_level",
 			value = 3,
@@ -9170,9 +9180,9 @@ return {
 			group = 1,
 			error_desc = "VIP3以上的用户才可体验",
 		},
-		[362]=
+		[363]=
 		{
-			no = 362,
+			no = 363,
 			id = 138,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9180,9 +9190,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[363]=
+		[364]=
 		{
-			no = 363,
+			no = 364,
 			id = 138,
 			var = "share_condition",
 			value = "wqp_official",
@@ -9190,9 +9200,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌官方玩家才可游戏",
 		},
-		[364]=
+		[365]=
 		{
-			no = 364,
+			no = 365,
 			id = 138,
 			var = "vip_level",
 			value = 3,
@@ -9200,9 +9210,9 @@ return {
 			group = 2,
 			error_desc = "VIP3以上的用户才可体验",
 		},
-		[365]=
+		[366]=
 		{
-			no = 365,
+			no = 366,
 			id = 138,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9210,9 +9220,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[366]=
+		[367]=
 		{
-			no = 366,
+			no = 367,
 			id = 139,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -9220,9 +9230,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主官方渠道玩家才可游戏",
 		},
-		[367]=
+		[368]=
 		{
-			no = 367,
+			no = 368,
 			id = 139,
 			var = "vip_level",
 			value = 3,
@@ -9230,9 +9240,9 @@ return {
 			group = 1,
 			error_desc = "VIP3以上的用户才可体验",
 		},
-		[368]=
+		[369]=
 		{
-			no = 368,
+			no = 369,
 			id = 139,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9240,9 +9250,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[369]=
+		[370]=
 		{
-			no = 369,
+			no = 370,
 			id = 139,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -9250,9 +9260,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌渠道才可游戏",
 		},
-		[370]=
+		[371]=
 		{
-			no = 370,
+			no = 371,
 			id = 139,
 			var = "vip_level",
 			value = 3,
@@ -9260,9 +9270,9 @@ return {
 			group = 2,
 			error_desc = "VIP3以上的用户才可体验",
 		},
-		[371]=
+		[372]=
 		{
-			no = 371,
+			no = 372,
 			id = 139,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9270,9 +9280,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[372]=
+		[373]=
 		{
-			no = 372,
+			no = 373,
 			id = 140,
 			var = "vip_level",
 			value = 11,
@@ -9280,9 +9290,9 @@ return {
 			group = 1,
 			error_desc = "VIP11的用户才可体验",
 		},
-		[373]=
+		[374]=
 		{
-			no = 373,
+			no = 374,
 			id = 141,
 			var = "vip_level",
 			value = 12,
@@ -9290,9 +9300,9 @@ return {
 			group = 1,
 			error_desc = "VIP12的用户才可体验",
 		},
-		[374]=
+		[375]=
 		{
-			no = 374,
+			no = 375,
 			id = 142,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -9300,9 +9310,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[375]=
+		[376]=
 		{
-			no = 375,
+			no = 376,
 			id = 142,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -9310,9 +9320,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[376]=
+		[377]=
 		{
-			no = 376,
+			no = 377,
 			id = 142,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -9320,9 +9330,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌平台",
 		},
-		[377]=
+		[378]=
 		{
-			no = 377,
+			no = 378,
 			id = 142,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -9330,9 +9340,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[378]=
+		[379]=
 		{
-			no = 378,
+			no = 379,
 			id = 143,
 			var = "vip_level",
 			value = 3,
@@ -9340,9 +9350,9 @@ return {
 			group = 1,
 			error_desc = "VIP3以上的用户才可体验",
 		},
-		[379]=
+		[380]=
 		{
-			no = 379,
+			no = 380,
 			id = 143,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9350,9 +9360,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[380]=
+		[381]=
 		{
-			no = 380,
+			no = 381,
 			id = 143,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -9360,9 +9370,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[381]=
+		[382]=
 		{
-			no = 381,
+			no = 382,
 			id = 143,
 			var = "vip_level",
 			value = 3,
@@ -9370,9 +9380,9 @@ return {
 			group = 2,
 			error_desc = "VIP3以上的用户才可体验",
 		},
-		[382]=
+		[383]=
 		{
-			no = 382,
+			no = 383,
 			id = 143,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9380,9 +9390,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[383]=
+		[384]=
 		{
-			no = 383,
+			no = 384,
 			id = 143,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -9390,9 +9400,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌平台",
 		},
-		[384]=
+		[385]=
 		{
-			no = 384,
+			no = 385,
 			id = 144,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -9400,9 +9410,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台才可游戏",
 		},
-		[385]=
+		[386]=
 		{
-			no = 385,
+			no = 386,
 			id = 144,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -9410,9 +9420,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[386]=
+		[387]=
 		{
-			no = 386,
+			no = 387,
 			id = 144,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -9420,9 +9430,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌平台才可游戏",
 		},
-		[387]=
+		[388]=
 		{
-			no = 387,
+			no = 388,
 			id = 144,
 			var = "share_condition",
 			value = "wqp_official",
@@ -9430,9 +9440,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌官方玩家才可游戏",
 		},
-		[388]=
+		[389]=
 		{
-			no = 388,
+			no = 389,
 			id = 145,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -9440,9 +9450,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[389]=
+		[390]=
 		{
-			no = 389,
+			no = 390,
 			id = 146,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9450,9 +9460,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[390]=
+		[391]=
 		{
-			no = 390,
+			no = 391,
 			id = 147,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -9460,9 +9470,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台才可游戏",
 		},
-		[391]=
+		[392]=
 		{
-			no = 391,
+			no = 392,
 			id = 147,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -9470,9 +9480,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[392]=
+		[393]=
 		{
-			no = 392,
+			no = 393,
 			id = 147,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9480,9 +9490,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[393]=
+		[394]=
 		{
-			no = 393,
+			no = 394,
 			id = 147,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -9490,9 +9500,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌平台才可游戏",
 		},
-		[394]=
+		[395]=
 		{
-			no = 394,
+			no = 395,
 			id = 147,
 			var = "share_condition",
 			value = "wqp_official",
@@ -9500,9 +9510,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌官方玩家才可游戏",
 		},
-		[395]=
+		[396]=
 		{
-			no = 395,
+			no = 396,
 			id = 147,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9510,9 +9520,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[396]=
+		[397]=
 		{
-			no = 396,
+			no = 397,
 			id = 148,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9520,9 +9530,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[397]=
+		[398]=
 		{
-			no = 397,
+			no = 398,
 			id = 149,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -9530,9 +9540,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台才可游戏",
 		},
-		[398]=
+		[399]=
 		{
-			no = 398,
+			no = 399,
 			id = 149,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9540,9 +9550,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[399]=
+		[400]=
 		{
-			no = 399,
+			no = 400,
 			id = 149,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -9550,9 +9560,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌",
 		},
-		[400]=
+		[401]=
 		{
-			no = 400,
+			no = 401,
 			id = 149,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9560,9 +9570,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[401]=
+		[402]=
 		{
-			no = 401,
+			no = 402,
 			id = 150,
 			var = "vip_level",
 			value = 1,
@@ -9570,9 +9580,9 @@ return {
 			group = 1,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[402]=
+		[403]=
 		{
-			no = 402,
+			no = 403,
 			id = 150,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9580,9 +9590,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[403]=
+		[404]=
 		{
-			no = 403,
+			no = 404,
 			id = 150,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -9590,9 +9600,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[404]=
+		[405]=
 		{
-			no = 404,
+			no = 405,
 			id = 150,
 			var = "vip_level",
 			value = 1,
@@ -9600,9 +9610,9 @@ return {
 			group = 2,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[405]=
+		[406]=
 		{
-			no = 405,
+			no = 406,
 			id = 150,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9610,9 +9620,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[406]=
+		[407]=
 		{
-			no = 406,
+			no = 407,
 			id = 150,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -9620,9 +9630,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌平台",
 		},
-		[407]=
+		[408]=
 		{
-			no = 407,
+			no = 408,
 			id = 151,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -9630,9 +9640,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方平台才可游戏",
 		},
-		[408]=
+		[409]=
 		{
-			no = 408,
+			no = 409,
 			id = 151,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -9640,9 +9650,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[409]=
+		[410]=
 		{
-			no = 409,
+			no = 410,
 			id = 151,
 			var = "vip_level",
 			value = 1,
@@ -9650,9 +9660,9 @@ return {
 			group = 1,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[410]=
+		[411]=
 		{
-			no = 410,
+			no = 411,
 			id = 151,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9660,9 +9670,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[411]=
+		[412]=
 		{
-			no = 411,
+			no = 412,
 			id = 151,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -9670,9 +9680,9 @@ return {
 			group = 2,
 			error_desc = "需要是玩棋牌官方平台才可游戏",
 		},
-		[412]=
+		[413]=
 		{
-			no = 412,
+			no = 413,
 			id = 151,
 			var = "share_condition",
 			value = "wqp_official",
@@ -9680,9 +9690,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌官方玩家才可游戏",
 		},
-		[413]=
+		[414]=
 		{
-			no = 413,
+			no = 414,
 			id = 151,
 			var = "vip_level",
 			value = 1,
@@ -9690,9 +9700,9 @@ return {
 			group = 2,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[414]=
+		[415]=
 		{
-			no = 414,
+			no = 415,
 			id = 151,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9700,9 +9710,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[415]=
+		[416]=
 		{
-			no = 415,
+			no = 416,
 			id = 152,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -9710,9 +9720,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台才可游戏",
 		},
-		[416]=
+		[417]=
 		{
-			no = 416,
+			no = 417,
 			id = 152,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -9720,9 +9730,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[417]=
+		[418]=
 		{
-			no = 417,
+			no = 418,
 			id = 152,
 			var = "vip_level",
 			value = 1,
@@ -9730,9 +9740,9 @@ return {
 			group = 1,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[418]=
+		[419]=
 		{
-			no = 418,
+			no = 419,
 			id = 152,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9740,9 +9750,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[419]=
+		[420]=
 		{
-			no = 419,
+			no = 420,
 			id = 152,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -9750,9 +9760,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌平台才可游戏",
 		},
-		[420]=
+		[421]=
 		{
-			no = 420,
+			no = 421,
 			id = 152,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -9760,9 +9770,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[421]=
+		[422]=
 		{
-			no = 421,
+			no = 422,
 			id = 152,
 			var = "vip_level",
 			value = 1,
@@ -9770,39 +9780,39 @@ return {
 			group = 2,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[422]=
+		[423]=
 		{
-			no = 422,
+			no = 423,
 			id = 152,
 			var = "tag_type",
 			value = "tag_new_player",
 			judge = 5,
 			group = 2,
 			error_desc = "不是新用户",
-		},
-		[423]=
-		{
-			no = 423,
-			id = 153,
-			var = "vip_level",
-			value = 1,
-			judge = 3,
-			group = 1,
-			error_desc = "VIP1以上的用户才可体验",
 		},
 		[424]=
 		{
 			no = 424,
 			id = 153,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1以上的用户才可体验",
+		},
+		[425]=
+		{
+			no = 425,
+			id = 153,
 			var = "tag_type",
 			value = "tag_new_player",
 			judge = 5,
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[425]=
+		[426]=
 		{
-			no = 425,
+			no = 426,
 			id = 153,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -9810,9 +9820,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[426]=
+		[427]=
 		{
-			no = 426,
+			no = 427,
 			id = 153,
 			var = "vip_level",
 			value = 1,
@@ -9820,9 +9830,9 @@ return {
 			group = 2,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[427]=
+		[428]=
 		{
-			no = 427,
+			no = 428,
 			id = 153,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9830,9 +9840,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[428]=
+		[429]=
 		{
-			no = 428,
+			no = 429,
 			id = 153,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -9840,9 +9850,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌平台",
 		},
-		[429]=
+		[430]=
 		{
-			no = 429,
+			no = 430,
 			id = 154,
 			var = "vip_level",
 			value = 0,
@@ -9850,9 +9860,9 @@ return {
 			group = 1,
 			error_desc = "不是VIP的用户",
 		},
-		[430]=
+		[431]=
 		{
-			no = 430,
+			no = 431,
 			id = 155,
 			var = "vip_level",
 			value = 1,
@@ -9860,9 +9870,9 @@ return {
 			group = 1,
 			error_desc = "VIP1以上的用户",
 		},
-		[431]=
+		[432]=
 		{
-			no = 431,
+			no = 432,
 			id = 155,
 			var = "vip_level",
 			value = 4,
@@ -9870,9 +9880,9 @@ return {
 			group = 1,
 			error_desc = "VIP4以下的用户",
 		},
-		[432]=
+		[433]=
 		{
-			no = 432,
+			no = 433,
 			id = 156,
 			var = "vip_level",
 			value = 5,
@@ -9880,9 +9890,9 @@ return {
 			group = 1,
 			error_desc = "VIP5以上的用户",
 		},
-		[433]=
+		[434]=
 		{
-			no = 433,
+			no = 434,
 			id = 157,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -9890,9 +9900,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[434]=
+		[435]=
 		{
-			no = 434,
+			no = 435,
 			id = 158,
 			var = "vip_level",
 			value = 2,
@@ -9900,9 +9910,9 @@ return {
 			group = 1,
 			error_desc = "VIP2以上的用户可以进入",
 		},
-		[435]=
+		[436]=
 		{
-			no = 435,
+			no = 436,
 			id = 159,
 			var = "vip_level",
 			value = 1,
@@ -9910,9 +9920,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户",
 		},
-		[436]=
+		[437]=
 		{
-			no = 436,
+			no = 437,
 			id = 159,
 			var = "vip_level",
 			value = 3,
@@ -9920,9 +9930,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户",
 		},
-		[437]=
+		[438]=
 		{
-			no = 437,
+			no = 438,
 			id = 160,
 			var = "vip_level",
 			value = 4,
@@ -9930,9 +9940,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户",
 		},
-		[438]=
+		[439]=
 		{
-			no = 438,
+			no = 439,
 			id = 160,
 			var = "vip_level",
 			value = 12,
@@ -9940,9 +9950,9 @@ return {
 			group = 1,
 			error_desc = "VIP12及以下的用户",
 		},
-		[439]=
+		[440]=
 		{
-			no = 439,
+			no = 440,
 			id = 161,
 			var = "tag_type",
 			value = "tag_plat_own_wqp",
@@ -9950,9 +9960,9 @@ return {
 			group = 1,
 			error_desc = "在玩棋牌平台没有账号",
 		},
-		[440]=
+		[441]=
 		{
-			no = 440,
+			no = 441,
 			id = 161,
 			var = "tag_type",
 			value = "tag_plat_own_normal",
@@ -9960,9 +9970,9 @@ return {
 			group = 1,
 			error_desc = "在鲸鱼斗地主有账号",
 		},
-		[441]=
+		[442]=
 		{
-			no = 441,
+			no = 442,
 			id = 161,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -9970,9 +9980,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[442]=
+		[443]=
 		{
-			no = 442,
+			no = 443,
 			id = 161,
 			var = "pay_sum",
 			value = 600,
@@ -9980,9 +9990,9 @@ return {
 			group = 1,
 			error_desc = "充值大于6元",
 		},
-		[443]=
+		[444]=
 		{
-			no = 443,
+			no = 444,
 			id = 162,
 			var = "tag_type",
 			value = "tag_plat_own_wqp",
@@ -9990,9 +10000,9 @@ return {
 			group = 1,
 			error_desc = "在玩棋牌平台有账号",
 		},
-		[444]=
+		[445]=
 		{
-			no = 444,
+			no = 445,
 			id = 162,
 			var = "tag_type",
 			value = "tag_plat_own_normal",
@@ -10000,9 +10010,9 @@ return {
 			group = 1,
 			error_desc = "在鲸鱼斗地主没有有账号",
 		},
-		[445]=
+		[446]=
 		{
-			no = 445,
+			no = 446,
 			id = 162,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -10010,9 +10020,9 @@ return {
 			group = 1,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[446]=
+		[447]=
 		{
-			no = 446,
+			no = 447,
 			id = 162,
 			var = "pay_sum",
 			value = 600,
@@ -10020,9 +10030,9 @@ return {
 			group = 1,
 			error_desc = "充值大于6元",
 		},
-		[447]=
+		[448]=
 		{
-			no = 447,
+			no = 448,
 			id = 163,
 			var = "tag_type",
 			value = "tag_class_free_player",
@@ -10030,69 +10040,69 @@ return {
 			group = 1,
 			error_desc = "不是免费用户",
 		},
-		[448]=
+		[449]=
 		{
-			no = 448,
+			no = 449,
 			id = 164,
 			var = "vip_level",
 			value = 1,
 			judge = 3,
 			group = 1,
 			error_desc = "VIP1以上的用户才可体验",
-		},
-		[449]=
-		{
-			no = 449,
-			id = 164,
-			var = "tag_type",
-			value = "tag_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "不是新用户",
 		},
 		[450]=
 		{
 			no = 450,
 			id = 164,
 			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[451]=
+		{
+			no = 451,
+			id = 164,
+			var = "tag_type",
 			value = "tag_plat_normal",
 			judge = 2,
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[451]=
+		[452]=
 		{
-			no = 451,
+			no = 452,
 			id = 164,
 			var = "vip_level",
 			value = 1,
 			judge = 3,
 			group = 2,
 			error_desc = "VIP1以上的用户才可体验",
-		},
-		[452]=
-		{
-			no = 452,
-			id = 164,
-			var = "tag_type",
-			value = "tag_new_player",
-			judge = 5,
-			group = 2,
-			error_desc = "不是新用户",
 		},
 		[453]=
 		{
 			no = 453,
 			id = 164,
 			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 2,
+			error_desc = "不是新用户",
+		},
+		[454]=
+		{
+			no = 454,
+			id = 164,
+			var = "tag_type",
 			value = "tag_plat_wqp",
 			judge = 2,
 			group = 2,
 			error_desc = "是玩棋牌平台",
 		},
-		[454]=
+		[455]=
 		{
-			no = 454,
+			no = 455,
 			id = 165,
 			var = "vip_level",
 			value = 1,
@@ -10100,9 +10110,9 @@ return {
 			group = 1,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[455]=
+		[456]=
 		{
-			no = 455,
+			no = 456,
 			id = 165,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10110,9 +10120,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[456]=
+		[457]=
 		{
-			no = 456,
+			no = 457,
 			id = 165,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -10120,9 +10130,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[457]=
+		[458]=
 		{
-			no = 457,
+			no = 458,
 			id = 165,
 			var = "vip_level",
 			value = 1,
@@ -10130,9 +10140,9 @@ return {
 			group = 2,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[458]=
+		[459]=
 		{
-			no = 458,
+			no = 459,
 			id = 165,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10140,9 +10150,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[459]=
+		[460]=
 		{
-			no = 459,
+			no = 460,
 			id = 165,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -10150,9 +10160,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌平台",
 		},
-		[460]=
+		[461]=
 		{
-			no = 460,
+			no = 461,
 			id = 166,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -10160,9 +10170,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方平台才可游戏",
 		},
-		[461]=
+		[462]=
 		{
-			no = 461,
+			no = 462,
 			id = 166,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -10170,9 +10180,9 @@ return {
 			group = 1,
 			error_desc = "需要是鲸鱼斗地主官方玩家才可游戏",
 		},
-		[462]=
+		[463]=
 		{
-			no = 462,
+			no = 463,
 			id = 166,
 			var = "vip_level",
 			value = 1,
@@ -10180,9 +10190,9 @@ return {
 			group = 1,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[463]=
+		[464]=
 		{
-			no = 463,
+			no = 464,
 			id = 166,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10190,9 +10200,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[464]=
+		[465]=
 		{
-			no = 464,
+			no = 465,
 			id = 166,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -10200,9 +10210,9 @@ return {
 			group = 2,
 			error_desc = "需要是玩棋牌官方平台才可游戏",
 		},
-		[465]=
+		[466]=
 		{
-			no = 465,
+			no = 466,
 			id = 166,
 			var = "share_condition",
 			value = "wqp_official",
@@ -10210,9 +10220,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌官方玩家才可游戏",
 		},
-		[466]=
+		[467]=
 		{
-			no = 466,
+			no = 467,
 			id = 166,
 			var = "vip_level",
 			value = 1,
@@ -10220,9 +10230,9 @@ return {
 			group = 2,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[467]=
+		[468]=
 		{
-			no = 467,
+			no = 468,
 			id = 166,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10230,9 +10240,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[468]=
+		[469]=
 		{
-			no = 468,
+			no = 469,
 			id = 167,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -10240,9 +10250,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台才可游戏",
 		},
-		[469]=
+		[470]=
 		{
-			no = 469,
+			no = 470,
 			id = 167,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -10250,9 +10260,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[470]=
+		[471]=
 		{
-			no = 470,
+			no = 471,
 			id = 167,
 			var = "vip_level",
 			value = 1,
@@ -10260,9 +10270,9 @@ return {
 			group = 1,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[471]=
+		[472]=
 		{
-			no = 471,
+			no = 472,
 			id = 167,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10270,9 +10280,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[472]=
+		[473]=
 		{
-			no = 472,
+			no = 473,
 			id = 167,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -10280,9 +10290,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌平台才可游戏",
 		},
-		[473]=
+		[474]=
 		{
-			no = 473,
+			no = 474,
 			id = 167,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -10290,9 +10300,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[474]=
+		[475]=
 		{
-			no = 474,
+			no = 475,
 			id = 167,
 			var = "vip_level",
 			value = 1,
@@ -10300,79 +10310,79 @@ return {
 			group = 2,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[475]=
+		[476]=
 		{
-			no = 475,
+			no = 476,
 			id = 167,
 			var = "tag_type",
 			value = "tag_new_player",
 			judge = 5,
 			group = 2,
 			error_desc = "不是新用户",
-		},
-		[476]=
-		{
-			no = 476,
-			id = 168,
-			var = "vip_level",
-			value = 1,
-			judge = 3,
-			group = 1,
-			error_desc = "VIP1以上的用户才可体验",
 		},
 		[477]=
 		{
 			no = 477,
 			id = 168,
-			var = "tag_type",
-			value = "tag_new_player",
-			judge = 5,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
 			group = 1,
-			error_desc = "不是新用户",
+			error_desc = "VIP1以上的用户才可体验",
 		},
 		[478]=
 		{
 			no = 478,
 			id = 168,
 			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[479]=
+		{
+			no = 479,
+			id = 168,
+			var = "tag_type",
 			value = "tag_plat_normal",
 			judge = 2,
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[479]=
+		[480]=
 		{
-			no = 479,
+			no = 480,
 			id = 168,
 			var = "vip_level",
 			value = 1,
 			judge = 3,
 			group = 2,
 			error_desc = "VIP1以上的用户才可体验",
-		},
-		[480]=
-		{
-			no = 480,
-			id = 168,
-			var = "tag_type",
-			value = "tag_new_player",
-			judge = 5,
-			group = 2,
-			error_desc = "不是新用户",
 		},
 		[481]=
 		{
 			no = 481,
 			id = 168,
 			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 2,
+			error_desc = "不是新用户",
+		},
+		[482]=
+		{
+			no = 482,
+			id = 168,
+			var = "tag_type",
 			value = "tag_plat_wqp",
 			judge = 2,
 			group = 2,
 			error_desc = "是玩棋牌平台",
 		},
-		[482]=
+		[483]=
 		{
-			no = 482,
+			no = 483,
 			id = 169,
 			var = "vip_level",
 			value = 1,
@@ -10380,9 +10390,9 @@ return {
 			group = 1,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[483]=
+		[484]=
 		{
-			no = 483,
+			no = 484,
 			id = 169,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10390,9 +10400,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[484]=
+		[485]=
 		{
-			no = 484,
+			no = 485,
 			id = 169,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -10400,9 +10410,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[485]=
+		[486]=
 		{
-			no = 485,
+			no = 486,
 			id = 169,
 			var = "vip_level",
 			value = 1,
@@ -10410,9 +10420,9 @@ return {
 			group = 2,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[486]=
+		[487]=
 		{
-			no = 486,
+			no = 487,
 			id = 169,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10420,9 +10430,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[487]=
+		[488]=
 		{
-			no = 487,
+			no = 488,
 			id = 169,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -10430,9 +10440,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌平台",
 		},
-		[488]=
+		[489]=
 		{
-			no = 488,
+			no = 489,
 			id = 170,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10440,9 +10450,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[489]=
+		[490]=
 		{
-			no = 489,
+			no = 490,
 			id = 170,
 			var = "vip_level",
 			value = 1,
@@ -10450,9 +10460,9 @@ return {
 			group = 1,
 			error_desc = "VIP1以上的用户才可体验",
 		},
-		[490]=
+		[491]=
 		{
-			no = 490,
+			no = 491,
 			id = 170,
 			var = "vip_level",
 			value = 3,
@@ -10460,9 +10470,9 @@ return {
 			group = 1,
 			error_desc = "VIP3以下的用户才可体验",
 		},
-		[491]=
+		[492]=
 		{
-			no = 491,
+			no = 492,
 			id = 171,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10470,9 +10480,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[492]=
+		[493]=
 		{
-			no = 492,
+			no = 493,
 			id = 171,
 			var = "vip_level",
 			value = 4,
@@ -10480,9 +10490,9 @@ return {
 			group = 1,
 			error_desc = "VIP4以上的用户才可体验",
 		},
-		[493]=
+		[494]=
 		{
-			no = 493,
+			no = 494,
 			id = 172,
 			var = "vip_level",
 			value = 1,
@@ -10490,9 +10500,9 @@ return {
 			group = 1,
 			error_desc = "只有VIP1的用户可见",
 		},
-		[494]=
+		[495]=
 		{
-			no = 494,
+			no = 495,
 			id = 173,
 			var = "vip_level",
 			value = 2,
@@ -10500,9 +10510,9 @@ return {
 			group = 1,
 			error_desc = "只有VIP2以上的用户可游戏",
 		},
-		[495]=
+		[496]=
 		{
-			no = 495,
+			no = 496,
 			id = 173,
 			var = "asset_prop_100y",
 			value = 1,
@@ -10510,20 +10520,10 @@ return {
 			group = 2,
 			error_desc = "有门票就可以参赛",
 		},
-		[496]=
-		{
-			no = 496,
-			id = 174,
-			var = "vip_level",
-			value = 0,
-			judge = 2,
-			group = 1,
-			error_desc = "只有VIP0的用户可见",
-		},
 		[497]=
 		{
 			no = 497,
-			id = 175,
+			id = 174,
 			var = "vip_level",
 			value = 0,
 			judge = 2,
@@ -10533,6 +10533,16 @@ return {
 		[498]=
 		{
 			no = 498,
+			id = 175,
+			var = "vip_level",
+			value = 0,
+			judge = 2,
+			group = 1,
+			error_desc = "只有VIP0的用户可见",
+		},
+		[499]=
+		{
+			no = 499,
 			id = 176,
 			var = "vip_level",
 			value = 1,
@@ -10540,9 +10550,9 @@ return {
 			group = 1,
 			error_desc = "只有VIP1以上的用户才可使用",
 		},
-		[499]=
+		[500]=
 		{
-			no = 499,
+			no = 500,
 			id = 177,
 			var = "vip_level",
 			value = 0,
@@ -10550,9 +10560,9 @@ return {
 			group = 1,
 			error_desc = "只有小额付费用户才可见",
 		},
-		[500]=
+		[501]=
 		{
-			no = 500,
+			no = 501,
 			id = 178,
 			var = "vip_level",
 			value = 1,
@@ -10560,9 +10570,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户才可体验",
 		},
-		[501]=
+		[502]=
 		{
-			no = 501,
+			no = 502,
 			id = 178,
 			var = "vip_level",
 			value = 2,
@@ -10570,9 +10580,9 @@ return {
 			group = 1,
 			error_desc = "VIP2及以下的用户才可体验",
 		},
-		[502]=
+		[503]=
 		{
-			no = 502,
+			no = 503,
 			id = 179,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -10580,9 +10590,9 @@ return {
 			group = 1,
 			error_desc = "只展示给免费用户标签",
 		},
-		[503]=
+		[504]=
 		{
-			no = 503,
+			no = 504,
 			id = 179,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -10590,9 +10600,9 @@ return {
 			group = 2,
 			error_desc = "只展示给小额标签用户",
 		},
-		[504]=
+		[505]=
 		{
-			no = 504,
+			no = 505,
 			id = 180,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10600,9 +10610,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[505]=
+		[506]=
 		{
-			no = 505,
+			no = 506,
 			id = 180,
 			var = "vip_level",
 			value = 1,
@@ -10610,9 +10620,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户才可体验",
 		},
-		[506]=
+		[507]=
 		{
-			no = 506,
+			no = 507,
 			id = 180,
 			var = "vip_level",
 			value = 3,
@@ -10620,9 +10630,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户才可体验",
 		},
-		[507]=
+		[508]=
 		{
-			no = 507,
+			no = 508,
 			id = 181,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10630,9 +10640,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[508]=
+		[509]=
 		{
-			no = 508,
+			no = 509,
 			id = 181,
 			var = "vip_level",
 			value = 4,
@@ -10640,20 +10650,10 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户才可体验",
 		},
-		[509]=
-		{
-			no = 509,
-			id = 182,
-			var = "tag_type",
-			value = "tag_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "不是新用户",
-		},
 		[510]=
 		{
 			no = 510,
-			id = 183,
+			id = 182,
 			var = "tag_type",
 			value = "tag_new_player",
 			judge = 5,
@@ -10663,7 +10663,7 @@ return {
 		[511]=
 		{
 			no = 511,
-			id = 184,
+			id = 183,
 			var = "tag_type",
 			value = "tag_new_player",
 			judge = 5,
@@ -10673,7 +10673,7 @@ return {
 		[512]=
 		{
 			no = 512,
-			id = 185,
+			id = 184,
 			var = "tag_type",
 			value = "tag_new_player",
 			judge = 5,
@@ -10684,15 +10684,25 @@ return {
 		{
 			no = 513,
 			id = 185,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[514]=
+		{
+			no = 514,
+			id = 185,
 			var = "vip_level",
 			value = 1,
 			judge = 3,
 			group = 1,
 			error_desc = "VIP1及以上的用户才可体验",
 		},
-		[514]=
+		[515]=
 		{
-			no = 514,
+			no = 515,
 			id = 186,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10700,9 +10710,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[515]=
+		[516]=
 		{
-			no = 515,
+			no = 516,
 			id = 187,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10710,39 +10720,39 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[516]=
+		[517]=
 		{
-			no = 516,
+			no = 517,
 			id = 187,
 			var = "vip_level",
 			value = 1,
 			judge = 3,
 			group = 1,
 			error_desc = "VIP1及以上的用户才可体验",
-		},
-		[517]=
-		{
-			no = 517,
-			id = 188,
-			var = "tag_type",
-			value = "tag_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "不是新用户",
 		},
 		[518]=
 		{
 			no = 518,
 			id = 188,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[519]=
+		{
+			no = 519,
+			id = 188,
 			var = "vip_level",
 			value = 1,
 			judge = 3,
 			group = 1,
 			error_desc = "VIP1及以上的用户才可体验",
 		},
-		[519]=
+		[520]=
 		{
-			no = 519,
+			no = 520,
 			id = 189,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10750,9 +10760,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[520]=
+		[521]=
 		{
-			no = 520,
+			no = 521,
 			id = 189,
 			var = "vip_level",
 			value = 1,
@@ -10760,9 +10770,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户才可体验",
 		},
-		[521]=
+		[522]=
 		{
-			no = 521,
+			no = 522,
 			id = 189,
 			var = "vip_level",
 			value = 2,
@@ -10770,9 +10780,9 @@ return {
 			group = 1,
 			error_desc = "VIP2及以下的用户才可体验",
 		},
-		[522]=
+		[523]=
 		{
-			no = 522,
+			no = 523,
 			id = 190,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10780,9 +10790,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[523]=
+		[524]=
 		{
-			no = 523,
+			no = 524,
 			id = 190,
 			var = "vip_level",
 			value = 3,
@@ -10790,9 +10800,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以上的用户才可体验",
 		},
-		[524]=
+		[525]=
 		{
-			no = 524,
+			no = 525,
 			id = 190,
 			var = "vip_level",
 			value = 6,
@@ -10800,9 +10810,9 @@ return {
 			group = 1,
 			error_desc = "VIP6及以下的用户才可体验",
 		},
-		[525]=
+		[526]=
 		{
-			no = 525,
+			no = 526,
 			id = 191,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10810,9 +10820,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[526]=
+		[527]=
 		{
-			no = 526,
+			no = 527,
 			id = 191,
 			var = "vip_level",
 			value = 7,
@@ -10820,9 +10830,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以上的用户才可体验",
 		},
-		[527]=
+		[528]=
 		{
-			no = 527,
+			no = 528,
 			id = 192,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10830,9 +10840,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[528]=
+		[529]=
 		{
-			no = 528,
+			no = 529,
 			id = 192,
 			var = "vip_level",
 			value = 1,
@@ -10840,9 +10850,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户才可体验",
 		},
-		[529]=
+		[530]=
 		{
-			no = 529,
+			no = 530,
 			id = 193,
 			var = "vip_level",
 			value = 0,
@@ -10850,9 +10860,9 @@ return {
 			group = 1,
 			error_desc = "只有VIP0的用户可见",
 		},
-		[530]=
+		[531]=
 		{
-			no = 530,
+			no = 531,
 			id = 194,
 			var = "vip_level",
 			value = 3,
@@ -10860,39 +10870,39 @@ return {
 			group = 1,
 			error_desc = "只有VIP3的用户可见",
 		},
-		[531]=
+		[532]=
 		{
-			no = 531,
+			no = 532,
 			id = 195,
 			var = "acount_age",
 			value = 1209600,
 			judge = 4,
 			group = 1,
 			error_desc = "首次登陆后14天内",
-		},
-		[532]=
-		{
-			no = 532,
-			id = 195,
-			var = "share_condition",
-			value = "jjddz_cpl",
-			judge = 2,
-			group = 1,
-			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
 		[533]=
 		{
 			no = 533,
 			id = 195,
+			var = "share_condition",
+			value = "jjddz_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
+		},
+		[534]=
+		{
+			no = 534,
+			id = 195,
 			var = "acount_age",
 			value = 1209600,
 			judge = 4,
 			group = 2,
 			error_desc = "首次登陆后14天内",
 		},
-		[534]=
+		[535]=
 		{
-			no = 534,
+			no = 535,
 			id = 195,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -10900,9 +10910,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[535]=
+		[536]=
 		{
-			no = 535,
+			no = 536,
 			id = 196,
 			var = "acount_age",
 			value = 1209600,
@@ -10910,9 +10920,9 @@ return {
 			group = 1,
 			error_desc = "首次登陆后14天内",
 		},
-		[536]=
+		[537]=
 		{
-			no = 536,
+			no = 537,
 			id = 196,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -10920,9 +10930,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[537]=
+		[538]=
 		{
-			no = 537,
+			no = 538,
 			id = 196,
 			var = "acount_age",
 			value = 1209600,
@@ -10930,9 +10940,9 @@ return {
 			group = 2,
 			error_desc = "首次登陆后14天内",
 		},
-		[538]=
+		[539]=
 		{
-			no = 538,
+			no = 539,
 			id = 196,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -10940,9 +10950,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[539]=
+		[540]=
 		{
-			no = 539,
+			no = 540,
 			id = 197,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -10950,9 +10960,9 @@ return {
 			group = 1,
 			error_desc = "只展示给免费用户标签",
 		},
-		[540]=
+		[541]=
 		{
-			no = 540,
+			no = 541,
 			id = 197,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -10960,9 +10970,9 @@ return {
 			group = 2,
 			error_desc = "只展示给小额标签用户",
 		},
-		[541]=
+		[542]=
 		{
-			no = 541,
+			no = 542,
 			id = 197,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10970,9 +10980,9 @@ return {
 			group = 3,
 			error_desc = "只展示给新玩家",
 		},
-		[542]=
+		[543]=
 		{
-			no = 542,
+			no = 543,
 			id = 198,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -10980,9 +10990,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[543]=
+		[544]=
 		{
-			no = 543,
+			no = 544,
 			id = 199,
 			var = "share_condition",
 			value = "jjddz_official",
@@ -10990,9 +11000,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主官方玩家",
 		},
-		[544]=
+		[545]=
 		{
-			no = 544,
+			no = 545,
 			id = 199,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -11000,9 +11010,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[545]=
+		[546]=
 		{
-			no = 545,
+			no = 546,
 			id = 199,
 			var = "share_condition",
 			value = "wqp_official",
@@ -11010,9 +11020,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌官方玩家",
 		},
-		[546]=
+		[547]=
 		{
-			no = 546,
+			no = 547,
 			id = 199,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -11020,9 +11030,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[547]=
+		[548]=
 		{
-			no = 547,
+			no = 548,
 			id = 200,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -11030,9 +11040,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[548]=
+		[549]=
 		{
-			no = 548,
+			no = 549,
 			id = 200,
 			var = "share_condition",
 			value = "jjddz_cpl",
@@ -11040,9 +11050,9 @@ return {
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
-		[549]=
+		[550]=
 		{
-			no = 549,
+			no = 550,
 			id = 200,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -11050,9 +11060,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[550]=
+		[551]=
 		{
-			no = 550,
+			no = 551,
 			id = 200,
 			var = "share_condition",
 			value = "wqp_cpl",
@@ -11060,9 +11070,9 @@ return {
 			group = 2,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[551]=
+		[552]=
 		{
-			no = 551,
+			no = 552,
 			id = 201,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -11070,9 +11080,9 @@ return {
 			group = 2,
 			error_desc = "不是新用户",
 		},
-		[552]=
+		[553]=
 		{
-			no = 552,
+			no = 553,
 			id = 202,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -11080,9 +11090,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[553]=
+		[554]=
 		{
-			no = 553,
+			no = 554,
 			id = 203,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -11090,9 +11100,9 @@ return {
 			group = 1,
 			error_desc = "只展示给免费用户标签",
 		},
-		[554]=
+		[555]=
 		{
-			no = 554,
+			no = 555,
 			id = 203,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -11100,9 +11110,9 @@ return {
 			group = 2,
 			error_desc = "只展示给小额标签用户",
 		},
-		[555]=
+		[556]=
 		{
-			no = 555,
+			no = 556,
 			id = 203,
 			var = "vip_level",
 			value = 1,
@@ -11110,20 +11120,10 @@ return {
 			group = 3,
 			error_desc = "VIP1及以上的用户才可体验",
 		},
-		[556]=
-		{
-			no = 556,
-			id = 204,
-			var = "player_level",
-			value = 1,
-			judge = 3,
-			group = 1,
-			error_desc = "Lv1开启，在3D捕鱼中开炮可提升等级！",
-		},
 		[557]=
 		{
 			no = 557,
-			id = 205,
+			id = 204,
 			var = "player_level",
 			value = 1,
 			judge = 3,
@@ -11133,7 +11133,7 @@ return {
 		[558]=
 		{
 			no = 558,
-			id = 206,
+			id = 205,
 			var = "player_level",
 			value = 1,
 			judge = 3,
@@ -11143,7 +11143,7 @@ return {
 		[559]=
 		{
 			no = 559,
-			id = 207,
+			id = 206,
 			var = "player_level",
 			value = 1,
 			judge = 3,
@@ -11153,7 +11153,7 @@ return {
 		[560]=
 		{
 			no = 560,
-			id = 208,
+			id = 207,
 			var = "player_level",
 			value = 1,
 			judge = 3,
@@ -11163,7 +11163,7 @@ return {
 		[561]=
 		{
 			no = 561,
-			id = 209,
+			id = 208,
 			var = "player_level",
 			value = 1,
 			judge = 3,
@@ -11173,6 +11173,16 @@ return {
 		[562]=
 		{
 			no = 562,
+			id = 209,
+			var = "player_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv1开启，在3D捕鱼中开炮可提升等级！",
+		},
+		[563]=
+		{
+			no = 563,
 			id = 210,
 			var = "player_level",
 			value = 2,
@@ -11180,9 +11190,9 @@ return {
 			group = 1,
 			error_desc = "Lv2开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[563]=
+		[564]=
 		{
-			no = 563,
+			no = 564,
 			id = 210,
 			var = "vip_level",
 			value = 1,
@@ -11190,9 +11200,9 @@ return {
 			group = 2,
 			error_desc = "Lv2开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[564]=
+		[565]=
 		{
-			no = 564,
+			no = 565,
 			id = 211,
 			var = "player_level",
 			value = 3,
@@ -11200,9 +11210,9 @@ return {
 			group = 1,
 			error_desc = "Lv3开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[565]=
+		[566]=
 		{
-			no = 565,
+			no = 566,
 			id = 211,
 			var = "vip_level",
 			value = 1,
@@ -11210,9 +11220,9 @@ return {
 			group = 2,
 			error_desc = "Lv3开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[566]=
+		[567]=
 		{
-			no = 566,
+			no = 567,
 			id = 212,
 			var = "player_level",
 			value = 4,
@@ -11220,9 +11230,9 @@ return {
 			group = 1,
 			error_desc = "Lv4开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[567]=
+		[568]=
 		{
-			no = 567,
+			no = 568,
 			id = 212,
 			var = "vip_level",
 			value = 1,
@@ -11230,9 +11240,9 @@ return {
 			group = 2,
 			error_desc = "Lv4开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[568]=
+		[569]=
 		{
-			no = 568,
+			no = 569,
 			id = 213,
 			var = "player_level",
 			value = 5,
@@ -11240,9 +11250,9 @@ return {
 			group = 1,
 			error_desc = "Lv5开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[569]=
+		[570]=
 		{
-			no = 569,
+			no = 570,
 			id = 213,
 			var = "vip_level",
 			value = 1,
@@ -11250,9 +11260,9 @@ return {
 			group = 2,
 			error_desc = "Lv5开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[570]=
+		[571]=
 		{
-			no = 570,
+			no = 571,
 			id = 214,
 			var = "player_level",
 			value = 6,
@@ -11260,9 +11270,9 @@ return {
 			group = 1,
 			error_desc = "Lv6开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[571]=
+		[572]=
 		{
-			no = 571,
+			no = 572,
 			id = 214,
 			var = "vip_level",
 			value = 1,
@@ -11270,49 +11280,49 @@ return {
 			group = 2,
 			error_desc = "Lv6开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[572]=
+		[573]=
 		{
-			no = 572,
+			no = 573,
 			id = 215,
 			var = "player_level",
 			value = 7,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
-		},
-		[573]=
-		{
-			no = 573,
-			id = 215,
-			var = "vip_level",
-			value = 1,
-			judge = 3,
-			group = 2,
 			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[574]=
 		{
 			no = 574,
-			id = 216,
-			var = "player_level",
-			value = 7,
+			id = 215,
+			var = "vip_level",
+			value = 1,
 			judge = 3,
-			group = 1,
+			group = 2,
 			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[575]=
 		{
 			no = 575,
 			id = 216,
+			var = "player_level",
+			value = 7,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[576]=
+		{
+			no = 576,
+			id = 216,
 			var = "vip_level",
 			value = 1,
 			judge = 3,
 			group = 2,
 			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[576]=
+		[577]=
 		{
-			no = 576,
+			no = 577,
 			id = 217,
 			var = "player_level",
 			value = 8,
@@ -11320,9 +11330,9 @@ return {
 			group = 1,
 			error_desc = "Lv8开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[577]=
+		[578]=
 		{
-			no = 577,
+			no = 578,
 			id = 217,
 			var = "vip_level",
 			value = 1,
@@ -11330,9 +11340,9 @@ return {
 			group = 2,
 			error_desc = "Lv8开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[578]=
+		[579]=
 		{
-			no = 578,
+			no = 579,
 			id = 218,
 			var = "player_level",
 			value = 9,
@@ -11340,9 +11350,9 @@ return {
 			group = 1,
 			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[579]=
+		[580]=
 		{
-			no = 579,
+			no = 580,
 			id = 218,
 			var = "vip_level",
 			value = 1,
@@ -11350,9 +11360,9 @@ return {
 			group = 2,
 			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[580]=
+		[581]=
 		{
-			no = 580,
+			no = 581,
 			id = 219,
 			var = "player_level",
 			value = 10,
@@ -11360,9 +11370,9 @@ return {
 			group = 1,
 			error_desc = "Lv10开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[581]=
+		[582]=
 		{
-			no = 581,
+			no = 582,
 			id = 219,
 			var = "vip_level",
 			value = 1,
@@ -11370,9 +11380,9 @@ return {
 			group = 2,
 			error_desc = "Lv10开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[582]=
+		[583]=
 		{
-			no = 582,
+			no = 583,
 			id = 220,
 			var = "player_level",
 			value = 11,
@@ -11380,9 +11390,9 @@ return {
 			group = 1,
 			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[583]=
+		[584]=
 		{
-			no = 583,
+			no = 584,
 			id = 220,
 			var = "vip_level",
 			value = 1,
@@ -11390,9 +11400,9 @@ return {
 			group = 2,
 			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[584]=
+		[585]=
 		{
-			no = 584,
+			no = 585,
 			id = 221,
 			var = "player_level",
 			value = 12,
@@ -11400,9 +11410,9 @@ return {
 			group = 1,
 			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[585]=
+		[586]=
 		{
-			no = 585,
+			no = 586,
 			id = 221,
 			var = "vip_level",
 			value = 1,
@@ -11410,9 +11420,9 @@ return {
 			group = 2,
 			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[586]=
+		[587]=
 		{
-			no = 586,
+			no = 587,
 			id = 222,
 			var = "player_level",
 			value = 13,
@@ -11420,9 +11430,9 @@ return {
 			group = 1,
 			error_desc = "Lv13开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[587]=
+		[588]=
 		{
-			no = 587,
+			no = 588,
 			id = 222,
 			var = "vip_level",
 			value = 1,
@@ -11430,9 +11440,9 @@ return {
 			group = 2,
 			error_desc = "Lv13开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[588]=
+		[589]=
 		{
-			no = 588,
+			no = 589,
 			id = 223,
 			var = "player_level",
 			value = 14,
@@ -11440,9 +11450,9 @@ return {
 			group = 1,
 			error_desc = "Lv14开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[589]=
+		[590]=
 		{
-			no = 589,
+			no = 590,
 			id = 223,
 			var = "vip_level",
 			value = 1,
@@ -11450,9 +11460,9 @@ return {
 			group = 2,
 			error_desc = "Lv14开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[590]=
+		[591]=
 		{
-			no = 590,
+			no = 591,
 			id = 224,
 			var = "player_level",
 			value = 15,
@@ -11460,9 +11470,9 @@ return {
 			group = 1,
 			error_desc = "Lv15开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[591]=
+		[592]=
 		{
-			no = 591,
+			no = 592,
 			id = 224,
 			var = "vip_level",
 			value = 1,
@@ -11470,9 +11480,9 @@ return {
 			group = 2,
 			error_desc = "Lv15开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[592]=
+		[593]=
 		{
-			no = 592,
+			no = 593,
 			id = 225,
 			var = "player_level",
 			value = 16,
@@ -11480,9 +11490,9 @@ return {
 			group = 1,
 			error_desc = "Lv16开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[593]=
+		[594]=
 		{
-			no = 593,
+			no = 594,
 			id = 225,
 			var = "vip_level",
 			value = 1,
@@ -11490,9 +11500,9 @@ return {
 			group = 2,
 			error_desc = "Lv16开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[594]=
+		[595]=
 		{
-			no = 594,
+			no = 595,
 			id = 226,
 			var = "vip_level",
 			value = 1,
@@ -11500,9 +11510,9 @@ return {
 			group = 1,
 			error_desc = "Lv5开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[595]=
+		[596]=
 		{
-			no = 595,
+			no = 596,
 			id = 226,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -11510,9 +11520,9 @@ return {
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[596]=
+		[597]=
 		{
-			no = 596,
+			no = 597,
 			id = 226,
 			var = "player_level",
 			value = 5,
@@ -11520,9 +11530,9 @@ return {
 			group = 2,
 			error_desc = "Lv5开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[597]=
+		[598]=
 		{
-			no = 597,
+			no = 598,
 			id = 226,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -11530,9 +11540,9 @@ return {
 			group = 2,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[598]=
+		[599]=
 		{
-			no = 598,
+			no = 599,
 			id = 227,
 			var = "vip_level",
 			value = 1,
@@ -11540,9 +11550,9 @@ return {
 			group = 1,
 			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[599]=
+		[600]=
 		{
-			no = 599,
+			no = 600,
 			id = 227,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -11550,25 +11560,15 @@ return {
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[600]=
+		[601]=
 		{
-			no = 600,
+			no = 601,
 			id = 227,
 			var = "player_level",
 			value = 7,
 			judge = 3,
 			group = 2,
 			error_desc = "Lv7开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
-		},
-		[601]=
-		{
-			no = 601,
-			id = 227,
-			var = "share_condition",
-			value = "3dby_cpl",
-			judge = 5,
-			group = 2,
-			error_desc = "是cpl玩家才可游戏",
 		},
 		[602]=
 		{
@@ -11576,13 +11576,23 @@ return {
 			id = 227,
 			var = "share_condition",
 			value = "3dby_cpl",
-			judge = 2,
-			group = 3,
+			judge = 5,
+			group = 2,
 			error_desc = "是cpl玩家才可游戏",
 		},
 		[603]=
 		{
 			no = 603,
+			id = 227,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[604]=
+		{
+			no = 604,
 			id = 228,
 			var = "vip_level",
 			value = 1,
@@ -11590,9 +11600,9 @@ return {
 			group = 1,
 			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[604]=
+		[605]=
 		{
-			no = 604,
+			no = 605,
 			id = 228,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -11600,25 +11610,15 @@ return {
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[605]=
+		[606]=
 		{
-			no = 605,
+			no = 606,
 			id = 228,
 			var = "player_level",
 			value = 9,
 			judge = 3,
 			group = 2,
 			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
-		},
-		[606]=
-		{
-			no = 606,
-			id = 228,
-			var = "share_condition",
-			value = "3dby_cpl",
-			judge = 5,
-			group = 2,
-			error_desc = "是cpl玩家才可游戏",
 		},
 		[607]=
 		{
@@ -11626,13 +11626,23 @@ return {
 			id = 228,
 			var = "share_condition",
 			value = "3dby_cpl",
-			judge = 2,
-			group = 3,
+			judge = 5,
+			group = 2,
 			error_desc = "是cpl玩家才可游戏",
 		},
 		[608]=
 		{
 			no = 608,
+			id = 228,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[609]=
+		{
+			no = 609,
 			id = 229,
 			var = "player_level",
 			value = 12,
@@ -11640,9 +11650,9 @@ return {
 			group = 1,
 			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[609]=
+		[610]=
 		{
-			no = 609,
+			no = 610,
 			id = 229,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -11650,9 +11660,9 @@ return {
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[610]=
+		[611]=
 		{
-			no = 610,
+			no = 611,
 			id = 229,
 			var = "vip_level",
 			value = 1,
@@ -11660,9 +11670,9 @@ return {
 			group = 2,
 			error_desc = "Lv12开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[611]=
+		[612]=
 		{
-			no = 611,
+			no = 612,
 			id = 229,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -11670,9 +11680,9 @@ return {
 			group = 2,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[612]=
+		[613]=
 		{
-			no = 612,
+			no = 613,
 			id = 229,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -11680,9 +11690,9 @@ return {
 			group = 3,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[613]=
+		[614]=
 		{
-			no = 613,
+			no = 614,
 			id = 230,
 			var = "vip_level",
 			value = 1,
@@ -11690,9 +11700,9 @@ return {
 			group = 1,
 			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[614]=
+		[615]=
 		{
-			no = 614,
+			no = 615,
 			id = 230,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -11700,9 +11710,9 @@ return {
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[615]=
+		[616]=
 		{
-			no = 615,
+			no = 616,
 			id = 230,
 			var = "player_level",
 			value = 11,
@@ -11710,9 +11720,9 @@ return {
 			group = 2,
 			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[616]=
+		[617]=
 		{
-			no = 616,
+			no = 617,
 			id = 230,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -11720,9 +11730,9 @@ return {
 			group = 2,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[617]=
+		[618]=
 		{
-			no = 617,
+			no = 618,
 			id = 230,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -11730,9 +11740,9 @@ return {
 			group = 3,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[618]=
+		[619]=
 		{
-			no = 618,
+			no = 619,
 			id = 231,
 			var = "vip_level",
 			value = 1,
@@ -11740,9 +11750,9 @@ return {
 			group = 1,
 			error_desc = "Lv14开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[619]=
+		[620]=
 		{
-			no = 619,
+			no = 620,
 			id = 231,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -11750,9 +11760,9 @@ return {
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[620]=
+		[621]=
 		{
-			no = 620,
+			no = 621,
 			id = 231,
 			var = "player_level",
 			value = 14,
@@ -11760,9 +11770,9 @@ return {
 			group = 2,
 			error_desc = "Lv14开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[621]=
+		[622]=
 		{
-			no = 621,
+			no = 622,
 			id = 231,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -11770,9 +11780,9 @@ return {
 			group = 2,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[622]=
+		[623]=
 		{
-			no = 622,
+			no = 623,
 			id = 231,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -11780,9 +11790,9 @@ return {
 			group = 3,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[623]=
+		[624]=
 		{
-			no = 623,
+			no = 624,
 			id = 232,
 			var = "vip_level",
 			value = 1,
@@ -11790,9 +11800,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip1及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[624]=
+		[625]=
 		{
-			no = 624,
+			no = 625,
 			id = 233,
 			var = "vip_level",
 			value = 2,
@@ -11800,9 +11810,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip2及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[625]=
+		[626]=
 		{
-			no = 625,
+			no = 626,
 			id = 234,
 			var = "vip_level",
 			value = 3,
@@ -11810,9 +11820,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip3及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[626]=
+		[627]=
 		{
-			no = 626,
+			no = 627,
 			id = 235,
 			var = "vip_level",
 			value = 4,
@@ -11820,9 +11830,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip4及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[627]=
+		[628]=
 		{
-			no = 627,
+			no = 628,
 			id = 236,
 			var = "vip_level",
 			value = 5,
@@ -11830,9 +11840,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip5及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[628]=
+		[629]=
 		{
-			no = 628,
+			no = 629,
 			id = 237,
 			var = "vip_level",
 			value = 6,
@@ -11840,9 +11850,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip6及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[629]=
+		[630]=
 		{
-			no = 629,
+			no = 630,
 			id = 238,
 			var = "vip_level",
 			value = 7,
@@ -11850,9 +11860,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip7及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[630]=
+		[631]=
 		{
-			no = 630,
+			no = 631,
 			id = 239,
 			var = "vip_level",
 			value = 8,
@@ -11860,9 +11870,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip8及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[631]=
+		[632]=
 		{
-			no = 631,
+			no = 632,
 			id = 240,
 			var = "vip_level",
 			value = 9,
@@ -11870,9 +11880,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip9及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[632]=
+		[633]=
 		{
-			no = 632,
+			no = 633,
 			id = 241,
 			var = "vip_level",
 			value = 10,
@@ -11880,9 +11890,9 @@ return {
 			group = 1,
 			error_desc = "需要Vip10及以上才可购买，商城充值可以提升Vip等级！",
 		},
-		[633]=
+		[634]=
 		{
-			no = 633,
+			no = 634,
 			id = 242,
 			var = "vip_level",
 			value = 1,
@@ -11890,9 +11900,9 @@ return {
 			group = 1,
 			error_desc = "是VIP1的用户",
 		},
-		[634]=
+		[635]=
 		{
-			no = 634,
+			no = 635,
 			id = 243,
 			var = "vip_level",
 			value = 2,
@@ -11900,9 +11910,9 @@ return {
 			group = 1,
 			error_desc = "是VIP2的用户",
 		},
-		[635]=
+		[636]=
 		{
-			no = 635,
+			no = 636,
 			id = 244,
 			var = "vip_level",
 			value = 3,
@@ -11910,9 +11920,9 @@ return {
 			group = 1,
 			error_desc = "是VIP3的用户",
 		},
-		[636]=
+		[637]=
 		{
-			no = 636,
+			no = 637,
 			id = 245,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -11920,9 +11930,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[637]=
+		[638]=
 		{
-			no = 637,
+			no = 638,
 			id = 246,
 			var = "vip_level",
 			value = 1,
@@ -11930,9 +11940,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[638]=
+		[639]=
 		{
-			no = 638,
+			no = 639,
 			id = 246,
 			var = "vip_level",
 			value = 3,
@@ -11940,9 +11950,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户可进行游戏",
 		},
-		[639]=
+		[640]=
 		{
-			no = 639,
+			no = 640,
 			id = 246,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -11950,9 +11960,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[640]=
+		[641]=
 		{
-			no = 640,
+			no = 641,
 			id = 246,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -11960,9 +11970,9 @@ return {
 			group = 2,
 			error_desc = "只展示给免费用户标签",
 		},
-		[641]=
+		[642]=
 		{
-			no = 641,
+			no = 642,
 			id = 246,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -11970,9 +11980,9 @@ return {
 			group = 3,
 			error_desc = "只展示给小额标签用户",
 		},
-		[642]=
+		[643]=
 		{
-			no = 642,
+			no = 643,
 			id = 247,
 			var = "vip_level",
 			value = 4,
@@ -11980,9 +11990,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户可进行游戏",
 		},
-		[643]=
+		[644]=
 		{
-			no = 643,
+			no = 644,
 			id = 247,
 			var = "vip_level",
 			value = 10,
@@ -11990,9 +12000,9 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[644]=
+		[645]=
 		{
-			no = 644,
+			no = 645,
 			id = 247,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12000,9 +12010,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[645]=
+		[646]=
 		{
-			no = 645,
+			no = 646,
 			id = 248,
 			var = "market_channel",
 			value = "vivo",
@@ -12010,9 +12020,9 @@ return {
 			group = 1,
 			error_desc = "是VIVO渠道的用户",
 		},
-		[646]=
+		[647]=
 		{
-			no = 646,
+			no = 647,
 			id = 249,
 			var = "player_level",
 			value = 20,
@@ -12020,9 +12030,9 @@ return {
 			group = 1,
 			error_desc = "Lv20开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[647]=
+		[648]=
 		{
-			no = 647,
+			no = 648,
 			id = 249,
 			var = "vip_level",
 			value = 1,
@@ -12030,20 +12040,10 @@ return {
 			group = 2,
 			error_desc = "Lv20开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
-		[648]=
-		{
-			no = 648,
-			id = 250,
-			var = "tag_type",
-			value = "tag_class_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "不是新用户",
-		},
 		[649]=
 		{
 			no = 649,
-			id = 251,
+			id = 250,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,
@@ -12053,7 +12053,7 @@ return {
 		[650]=
 		{
 			no = 650,
-			id = 252,
+			id = 251,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,
@@ -12063,6 +12063,16 @@ return {
 		[651]=
 		{
 			no = 651,
+			id = 252,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[652]=
+		{
+			no = 652,
 			id = 253,
 			var = "vip_level",
 			value = 1,
@@ -12070,9 +12080,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[652]=
+		[653]=
 		{
-			no = 652,
+			no = 653,
 			id = 253,
 			var = "vip_level",
 			value = 3,
@@ -12080,9 +12090,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户可进行游戏",
 		},
-		[653]=
+		[654]=
 		{
-			no = 653,
+			no = 654,
 			id = 253,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12090,9 +12100,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[654]=
+		[655]=
 		{
-			no = 654,
+			no = 655,
 			id = 253,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -12100,9 +12110,9 @@ return {
 			group = 2,
 			error_desc = "只展示给免费用户标签",
 		},
-		[655]=
+		[656]=
 		{
-			no = 655,
+			no = 656,
 			id = 253,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -12110,9 +12120,9 @@ return {
 			group = 3,
 			error_desc = "只展示给小额标签用户",
 		},
-		[656]=
+		[657]=
 		{
-			no = 656,
+			no = 657,
 			id = 254,
 			var = "vip_level",
 			value = 4,
@@ -12120,9 +12130,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户可进行游戏",
 		},
-		[657]=
+		[658]=
 		{
-			no = 657,
+			no = 658,
 			id = 254,
 			var = "vip_level",
 			value = 7,
@@ -12130,9 +12140,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以下的用户可进行游戏",
 		},
-		[658]=
+		[659]=
 		{
-			no = 658,
+			no = 659,
 			id = 254,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12140,9 +12150,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[659]=
+		[660]=
 		{
-			no = 659,
+			no = 660,
 			id = 255,
 			var = "vip_level",
 			value = 8,
@@ -12150,9 +12160,9 @@ return {
 			group = 1,
 			error_desc = "VIP8及以上的用户可进行游戏",
 		},
-		[660]=
+		[661]=
 		{
-			no = 660,
+			no = 661,
 			id = 255,
 			var = "vip_level",
 			value = 10,
@@ -12160,20 +12170,10 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[661]=
-		{
-			no = 661,
-			id = 255,
-			var = "tag_type",
-			value = "tag_class_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "不是新用户",
-		},
 		[662]=
 		{
 			no = 662,
-			id = 256,
+			id = 255,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,
@@ -12183,19 +12183,19 @@ return {
 		[663]=
 		{
 			no = 663,
-			id = 257,
+			id = 256,
 			var = "tag_type",
 			value = "tag_class_new_player",
-			judge = 2,
+			judge = 5,
 			group = 1,
-			error_desc = "是新用户",
+			error_desc = "不是新用户",
 		},
 		[664]=
 		{
 			no = 664,
-			id = 258,
+			id = 257,
 			var = "tag_type",
-			value = "tag_new_player",
+			value = "tag_class_new_player",
 			judge = 2,
 			group = 1,
 			error_desc = "是新用户",
@@ -12204,15 +12204,25 @@ return {
 		{
 			no = 665,
 			id = 258,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[666]=
+		{
+			no = 666,
+			id = 258,
 			var = "share_condition",
 			value = "3dby_cpl",
 			judge = 2,
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[666]=
+		[667]=
 		{
-			no = 666,
+			no = 667,
 			id = 258,
 			var = "first_login_time",
 			value = 1598317200,
@@ -12220,20 +12230,10 @@ return {
 			group = 1,
 			error_desc = "是2020年8月25日9点后注册的玩家",
 		},
-		[667]=
-		{
-			no = 667,
-			id = 259,
-			var = "tag_type",
-			value = "tag_class_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "不是新用户",
-		},
 		[668]=
 		{
 			no = 668,
-			id = 260,
+			id = 259,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,
@@ -12243,6 +12243,16 @@ return {
 		[669]=
 		{
 			no = 669,
+			id = 260,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[670]=
+		{
+			no = 670,
 			id = 261,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12250,9 +12260,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[670]=
+		[671]=
 		{
-			no = 670,
+			no = 671,
 			id = 262,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12260,20 +12270,10 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[671]=
-		{
-			no = 671,
-			id = 263,
-			var = "tag_type",
-			value = "tag_class_new_player",
-			judge = 2,
-			group = 1,
-			error_desc = "是新用户",
-		},
 		[672]=
 		{
 			no = 672,
-			id = 264,
+			id = 263,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 2,
@@ -12286,18 +12286,18 @@ return {
 			id = 264,
 			var = "tag_type",
 			value = "tag_class_new_player",
-			judge = 5,
-			group = 2,
-			error_desc = "不是新用户",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
 		},
 		[674]=
 		{
 			no = 674,
-			id = 265,
+			id = 264,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 5,
-			group = 1,
+			group = 2,
 			error_desc = "不是新用户",
 		},
 		[675]=
@@ -12306,13 +12306,23 @@ return {
 			id = 265,
 			var = "tag_type",
 			value = "tag_class_new_player",
-			judge = 2,
-			group = 2,
-			error_desc = "是新用户",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
 		},
 		[676]=
 		{
 			no = 676,
+			id = 265,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 2,
+			error_desc = "是新用户",
+		},
+		[677]=
+		{
+			no = 677,
 			id = 266,
 			var = "tag_type",
 			value = "tag_plat_normal",
@@ -12320,9 +12330,9 @@ return {
 			group = 1,
 			error_desc = "是官方平台",
 		},
-		[677]=
+		[678]=
 		{
-			no = 677,
+			no = 678,
 			id = 266,
 			var = "tag_type",
 			value = "tag_plat_wqp",
@@ -12330,9 +12340,9 @@ return {
 			group = 1,
 			error_desc = "是玩棋牌平台",
 		},
-		[678]=
+		[679]=
 		{
-			no = 678,
+			no = 679,
 			id = 267,
 			var = "vip_level",
 			value = 0,
@@ -12340,9 +12350,9 @@ return {
 			group = 1,
 			error_desc = "V0权限",
 		},
-		[679]=
+		[680]=
 		{
-			no = 679,
+			no = 680,
 			id = 268,
 			var = "vip_level",
 			value = 1,
@@ -12350,9 +12360,9 @@ return {
 			group = 1,
 			error_desc = "V1权限",
 		},
-		[680]=
+		[681]=
 		{
-			no = 680,
+			no = 681,
 			id = 269,
 			var = "vip_level",
 			value = 2,
@@ -12360,9 +12370,9 @@ return {
 			group = 1,
 			error_desc = "V2权限",
 		},
-		[681]=
+		[682]=
 		{
-			no = 681,
+			no = 682,
 			id = 270,
 			var = "vip_level",
 			value = 3,
@@ -12370,9 +12380,9 @@ return {
 			group = 1,
 			error_desc = "V3权限",
 		},
-		[682]=
+		[683]=
 		{
-			no = 682,
+			no = 683,
 			id = 271,
 			var = "vip_level",
 			value = 4,
@@ -12380,9 +12390,9 @@ return {
 			group = 1,
 			error_desc = "V4权限",
 		},
-		[683]=
+		[684]=
 		{
-			no = 683,
+			no = 684,
 			id = 272,
 			var = "vip_level",
 			value = 5,
@@ -12390,9 +12400,9 @@ return {
 			group = 1,
 			error_desc = "V5权限",
 		},
-		[684]=
+		[685]=
 		{
-			no = 684,
+			no = 685,
 			id = 273,
 			var = "vip_level",
 			value = 6,
@@ -12400,9 +12410,9 @@ return {
 			group = 1,
 			error_desc = "V6权限",
 		},
-		[685]=
+		[686]=
 		{
-			no = 685,
+			no = 686,
 			id = 274,
 			var = "vip_level",
 			value = 7,
@@ -12410,9 +12420,9 @@ return {
 			group = 1,
 			error_desc = "V7权限",
 		},
-		[686]=
+		[687]=
 		{
-			no = 686,
+			no = 687,
 			id = 275,
 			var = "vip_level",
 			value = 8,
@@ -12420,9 +12430,9 @@ return {
 			group = 1,
 			error_desc = "V8权限",
 		},
-		[687]=
+		[688]=
 		{
-			no = 687,
+			no = 688,
 			id = 276,
 			var = "vip_level",
 			value = 9,
@@ -12430,9 +12440,9 @@ return {
 			group = 1,
 			error_desc = "V9权限",
 		},
-		[688]=
+		[689]=
 		{
-			no = 688,
+			no = 689,
 			id = 277,
 			var = "vip_level",
 			value = 10,
@@ -12440,9 +12450,9 @@ return {
 			group = 1,
 			error_desc = "V10权限",
 		},
-		[689]=
+		[690]=
 		{
-			no = 689,
+			no = 690,
 			id = 278,
 			var = "vip_level",
 			value = 11,
@@ -12450,9 +12460,9 @@ return {
 			group = 1,
 			error_desc = "V11权限",
 		},
-		[690]=
+		[691]=
 		{
-			no = 690,
+			no = 691,
 			id = 279,
 			var = "vip_level",
 			value = 12,
@@ -12460,9 +12470,9 @@ return {
 			group = 1,
 			error_desc = "V12权限",
 		},
-		[691]=
+		[692]=
 		{
-			no = 691,
+			no = 692,
 			id = 280,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -12470,9 +12480,9 @@ return {
 			group = 2,
 			error_desc = "只展示给免费用户标签",
 		},
-		[692]=
+		[693]=
 		{
-			no = 692,
+			no = 693,
 			id = 280,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -12480,9 +12490,9 @@ return {
 			group = 3,
 			error_desc = "只展示给小额标签用户",
 		},
-		[693]=
+		[694]=
 		{
-			no = 693,
+			no = 694,
 			id = 281,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12490,9 +12500,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[694]=
+		[695]=
 		{
-			no = 694,
+			no = 695,
 			id = 282,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12500,9 +12510,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[695]=
+		[696]=
 		{
-			no = 695,
+			no = 696,
 			id = 283,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -12510,9 +12520,9 @@ return {
 			group = 1,
 			error_desc = "只展示给免费用户标签",
 		},
-		[696]=
+		[697]=
 		{
-			no = 696,
+			no = 697,
 			id = 283,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -12520,9 +12530,9 @@ return {
 			group = 2,
 			error_desc = "只展示给小额标签用户",
 		},
-		[697]=
+		[698]=
 		{
-			no = 697,
+			no = 698,
 			id = 284,
 			var = "vip_level",
 			value = 1,
@@ -12530,9 +12540,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[698]=
+		[699]=
 		{
-			no = 698,
+			no = 699,
 			id = 284,
 			var = "vip_level",
 			value = 3,
@@ -12540,9 +12550,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户可进行游戏",
 		},
-		[699]=
+		[700]=
 		{
-			no = 699,
+			no = 700,
 			id = 285,
 			var = "vip_level",
 			value = 4,
@@ -12550,9 +12560,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户可进行游戏",
 		},
-		[700]=
+		[701]=
 		{
-			no = 700,
+			no = 701,
 			id = 285,
 			var = "vip_level",
 			value = 6,
@@ -12560,9 +12570,9 @@ return {
 			group = 1,
 			error_desc = "VIP6及以下的用户可进行游戏",
 		},
-		[701]=
+		[702]=
 		{
-			no = 701,
+			no = 702,
 			id = 286,
 			var = "vip_level",
 			value = 7,
@@ -12570,9 +12580,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以上的用户可进行游戏",
 		},
-		[702]=
+		[703]=
 		{
-			no = 702,
+			no = 703,
 			id = 286,
 			var = "vip_level",
 			value = 10,
@@ -12580,9 +12590,9 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[703]=
+		[704]=
 		{
-			no = 703,
+			no = 704,
 			id = 287,
 			var = "share_condition",
 			value = "3dby_official",
@@ -12590,9 +12600,9 @@ return {
 			group = 1,
 			error_desc = "是官方渠道",
 		},
-		[704]=
+		[705]=
 		{
-			no = 704,
+			no = 705,
 			id = 287,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -12600,9 +12610,9 @@ return {
 			group = 2,
 			error_desc = "是CPS渠道",
 		},
-		[705]=
+		[706]=
 		{
-			no = 705,
+			no = 706,
 			id = 288,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -12610,9 +12620,9 @@ return {
 			group = 1,
 			error_desc = "只展示给免费用户标签",
 		},
-		[706]=
+		[707]=
 		{
-			no = 706,
+			no = 707,
 			id = 288,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -12620,9 +12630,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[707]=
+		[708]=
 		{
-			no = 707,
+			no = 708,
 			id = 288,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -12630,9 +12640,9 @@ return {
 			group = 2,
 			error_desc = "只展示给小额标签用户",
 		},
-		[708]=
+		[709]=
 		{
-			no = 708,
+			no = 709,
 			id = 288,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -12640,9 +12650,9 @@ return {
 			group = 2,
 			error_desc = "不是CPS渠道",
 		},
-		[709]=
+		[710]=
 		{
-			no = 709,
+			no = 710,
 			id = 289,
 			var = "vip_level",
 			value = 1,
@@ -12650,9 +12660,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[710]=
+		[711]=
 		{
-			no = 710,
+			no = 711,
 			id = 289,
 			var = "vip_level",
 			value = 10,
@@ -12660,9 +12670,9 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[711]=
+		[712]=
 		{
-			no = 711,
+			no = 712,
 			id = 289,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12670,9 +12680,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[712]=
+		[713]=
 		{
-			no = 712,
+			no = 713,
 			id = 289,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -12680,9 +12690,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[713]=
+		[714]=
 		{
-			no = 713,
+			no = 714,
 			id = 290,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12690,9 +12700,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[714]=
+		[715]=
 		{
-			no = 714,
+			no = 715,
 			id = 290,
 			var = "vip_level",
 			value = 1,
@@ -12700,9 +12710,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[715]=
+		[716]=
 		{
-			no = 715,
+			no = 716,
 			id = 290,
 			var = "vip_level",
 			value = 3,
@@ -12710,9 +12720,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户可进行游戏",
 		},
-		[716]=
+		[717]=
 		{
-			no = 716,
+			no = 717,
 			id = 290,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -12720,9 +12730,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[717]=
+		[718]=
 		{
-			no = 717,
+			no = 718,
 			id = 291,
 			var = "vip_level",
 			value = 4,
@@ -12730,9 +12740,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户可进行游戏",
 		},
-		[718]=
+		[719]=
 		{
-			no = 718,
+			no = 719,
 			id = 291,
 			var = "vip_level",
 			value = 10,
@@ -12740,9 +12750,9 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[719]=
+		[720]=
 		{
-			no = 719,
+			no = 720,
 			id = 291,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12750,9 +12760,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[720]=
+		[721]=
 		{
-			no = 720,
+			no = 721,
 			id = 291,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -12760,9 +12770,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[721]=
+		[722]=
 		{
-			no = 721,
+			no = 722,
 			id = 292,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -12770,9 +12780,9 @@ return {
 			group = 1,
 			error_desc = "是CPS渠道",
 		},
-		[722]=
+		[723]=
 		{
-			no = 722,
+			no = 723,
 			id = 293,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12780,9 +12790,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[723]=
+		[724]=
 		{
-			no = 723,
+			no = 724,
 			id = 293,
 			var = "vip_level",
 			value = 1,
@@ -12790,9 +12800,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[724]=
+		[725]=
 		{
-			no = 724,
+			no = 725,
 			id = 293,
 			var = "vip_level",
 			value = 10,
@@ -12800,9 +12810,9 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[725]=
+		[726]=
 		{
-			no = 725,
+			no = 726,
 			id = 293,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -12810,9 +12820,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[726]=
+		[727]=
 		{
-			no = 726,
+			no = 727,
 			id = 294,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12820,9 +12830,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[727]=
+		[728]=
 		{
-			no = 727,
+			no = 728,
 			id = 294,
 			var = "vip_level",
 			value = 1,
@@ -12830,9 +12840,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[728]=
+		[729]=
 		{
-			no = 728,
+			no = 729,
 			id = 294,
 			var = "vip_level",
 			value = 3,
@@ -12840,9 +12850,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户可进行游戏",
 		},
-		[729]=
+		[730]=
 		{
-			no = 729,
+			no = 730,
 			id = 294,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -12850,9 +12860,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[730]=
+		[731]=
 		{
-			no = 730,
+			no = 731,
 			id = 295,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12860,9 +12870,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[731]=
+		[732]=
 		{
-			no = 731,
+			no = 732,
 			id = 295,
 			var = "vip_level",
 			value = 4,
@@ -12870,9 +12880,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户可进行游戏",
 		},
-		[732]=
+		[733]=
 		{
-			no = 732,
+			no = 733,
 			id = 295,
 			var = "vip_level",
 			value = 7,
@@ -12880,9 +12890,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以下的用户可进行游戏",
 		},
-		[733]=
+		[734]=
 		{
-			no = 733,
+			no = 734,
 			id = 295,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -12890,9 +12900,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[734]=
+		[735]=
 		{
-			no = 734,
+			no = 735,
 			id = 296,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12900,9 +12910,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[735]=
+		[736]=
 		{
-			no = 735,
+			no = 736,
 			id = 296,
 			var = "vip_level",
 			value = 8,
@@ -12910,9 +12920,9 @@ return {
 			group = 1,
 			error_desc = "VIP8及以上的用户可进行游戏",
 		},
-		[736]=
+		[737]=
 		{
-			no = 736,
+			no = 737,
 			id = 296,
 			var = "vip_level",
 			value = 10,
@@ -12920,9 +12930,9 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[737]=
+		[738]=
 		{
-			no = 737,
+			no = 738,
 			id = 296,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -12930,9 +12940,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[738]=
+		[739]=
 		{
-			no = 738,
+			no = 739,
 			id = 297,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12940,9 +12950,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[739]=
+		[740]=
 		{
-			no = 739,
+			no = 740,
 			id = 297,
 			var = "vip_level",
 			value = 1,
@@ -12950,9 +12960,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[740]=
+		[741]=
 		{
-			no = 740,
+			no = 741,
 			id = 297,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -12960,9 +12970,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[741]=
+		[742]=
 		{
-			no = 741,
+			no = 742,
 			id = 298,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12980,9 +12990,9 @@ return {
 			group = 1,
 			error_desc = "只展示给免费用户标签",
 		},
-		[745]=
+		[744]=
 		{
-			no = 745,
+			no = 744,
 			id = 299,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -12990,9 +13000,9 @@ return {
 			group = 2,
 			error_desc = "只展示给小额标签用户",
 		},
-		[747]=
+		[745]=
 		{
-			no = 747,
+			no = 745,
 			id = 300,
 			var = "vip_level",
 			value = 1,
@@ -13000,9 +13010,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[748]=
+		[746]=
 		{
-			no = 748,
+			no = 746,
 			id = 300,
 			var = "vip_level",
 			value = 3,
@@ -13010,9 +13020,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户可进行游戏",
 		},
-		[750]=
+		[747]=
 		{
-			no = 750,
+			no = 747,
 			id = 301,
 			var = "vip_level",
 			value = 4,
@@ -13020,9 +13030,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户可进行游戏",
 		},
-		[751]=
+		[748]=
 		{
-			no = 751,
+			no = 748,
 			id = 301,
 			var = "vip_level",
 			value = 6,
@@ -13030,9 +13040,9 @@ return {
 			group = 1,
 			error_desc = "VIP6及以下的用户可进行游戏",
 		},
-		[753]=
+		[749]=
 		{
-			no = 753,
+			no = 749,
 			id = 302,
 			var = "vip_level",
 			value = 7,
@@ -13040,10 +13050,60 @@ return {
 			group = 1,
 			error_desc = "VIP7及以上的用户可进行游戏",
 		},
+		[750]=
+		{
+			no = 750,
+			id = 302,
+			var = "vip_level",
+			value = 10,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP10及以下的用户可进行游戏",
+		},
+		[751]=
+		{
+			no = 751,
+			id = 303,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[752]=
+		{
+			no = 752,
+			id = 303,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给免费用户标签",
+		},
+		[753]=
+		{
+			no = 753,
+			id = 303,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "只展示给小额标签用户",
+		},
 		[754]=
 		{
 			no = 754,
-			id = 302,
+			id = 304,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上的用户可进行游戏",
+		},
+		[755]=
+		{
+			no = 755,
+			id = 304,
 			var = "vip_level",
 			value = 10,
 			judge = 4,
@@ -13053,116 +13113,66 @@ return {
 		[756]=
 		{
 			no = 756,
-			id = 303,
+			id = 305,
 			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 2,
 			group = 1,
 			error_desc = "是新用户",
+		},
+		[757]=
+		{
+			no = 757,
+			id = 305,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPS渠道",
 		},
 		[758]=
 		{
 			no = 758,
-			id = 303,
+			id = 305,
 			var = "tag_type",
 			value = "tag_free_player",
 			judge = 2,
 			group = 2,
 			error_desc = "只展示给免费用户标签",
+		},
+		[759]=
+		{
+			no = 759,
+			id = 305,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 2,
+			error_desc = "是CPS渠道",
 		},
 		[760]=
 		{
 			no = 760,
-			id = 303,
+			id = 305,
 			var = "tag_type",
 			value = "tag_stingy_player",
 			judge = 2,
 			group = 3,
 			error_desc = "只展示给小额标签用户",
+		},
+		[761]=
+		{
+			no = 761,
+			id = 305,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 3,
+			error_desc = "是CPS渠道",
 		},
 		[762]=
 		{
 			no = 762,
-			id = 304,
-			var = "vip_level",
-			value = 4,
-			judge = 3,
-			group = 1,
-			error_desc = "VIP4及以上的用户可进行游戏",
-		},
-		[763]=
-		{
-			no = 763,
-			id = 304,
-			var = "vip_level",
-			value = 10,
-			judge = 4,
-			group = 1,
-			error_desc = "VIP10及以下的用户可进行游戏",
-		},
-		[765]=
-		{
-			no = 765,
-			id = 305,
-			var = "tag_type",
-			value = "tag_class_new_player",
-			judge = 2,
-			group = 1,
-			error_desc = "是新用户",
-		},
-		[766]=
-		{
-			no = 766,
-			id = 305,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 2,
-			group = 1,
-			error_desc = "是CPS渠道",
-		},
-		[767]=
-		{
-			no = 767,
-			id = 305,
-			var = "tag_type",
-			value = "tag_free_player",
-			judge = 2,
-			group = 2,
-			error_desc = "只展示给免费用户标签",
-		},
-		[768]=
-		{
-			no = 768,
-			id = 305,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 2,
-			group = 2,
-			error_desc = "是CPS渠道",
-		},
-		[769]=
-		{
-			no = 769,
-			id = 305,
-			var = "tag_type",
-			value = "tag_stingy_player",
-			judge = 2,
-			group = 3,
-			error_desc = "只展示给小额标签用户",
-		},
-		[770]=
-		{
-			no = 770,
-			id = 305,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 2,
-			group = 3,
-			error_desc = "是CPS渠道",
-		},
-		[771]=
-		{
-			no = 771,
 			id = 306,
 			var = "vip_level",
 			value = 1,
@@ -13170,9 +13180,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[772]=
+		[763]=
 		{
-			no = 772,
+			no = 763,
 			id = 306,
 			var = "vip_level",
 			value = 3,
@@ -13180,9 +13190,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户可进行游戏",
 		},
-		[773]=
+		[764]=
 		{
-			no = 773,
+			no = 764,
 			id = 306,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -13190,9 +13200,9 @@ return {
 			group = 1,
 			error_desc = "是CPS渠道",
 		},
-		[774]=
+		[765]=
 		{
-			no = 774,
+			no = 765,
 			id = 307,
 			var = "vip_level",
 			value = 4,
@@ -13200,9 +13210,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户可进行游戏",
 		},
-		[775]=
+		[766]=
 		{
-			no = 775,
+			no = 766,
 			id = 307,
 			var = "vip_level",
 			value = 6,
@@ -13210,9 +13220,9 @@ return {
 			group = 1,
 			error_desc = "VIP6及以下的用户可进行游戏",
 		},
-		[776]=
+		[767]=
 		{
-			no = 776,
+			no = 767,
 			id = 307,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -13220,9 +13230,9 @@ return {
 			group = 1,
 			error_desc = "是CPS渠道",
 		},
-		[777]=
+		[768]=
 		{
-			no = 777,
+			no = 768,
 			id = 308,
 			var = "vip_level",
 			value = 7,
@@ -13230,9 +13240,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以上的用户可进行游戏",
 		},
-		[778]=
+		[769]=
 		{
-			no = 778,
+			no = 769,
 			id = 308,
 			var = "vip_level",
 			value = 10,
@@ -13240,9 +13250,9 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[779]=
+		[770]=
 		{
-			no = 779,
+			no = 770,
 			id = 308,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -13250,9 +13260,9 @@ return {
 			group = 1,
 			error_desc = "是CPS渠道",
 		},
-		[780]=
+		[771]=
 		{
-			no = 780,
+			no = 771,
 			id = 309,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -13260,10 +13270,100 @@ return {
 			group = 1,
 			error_desc = "是CPS渠道",
 		},
+		[772]=
+		{
+			no = 772,
+			id = 310,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[773]=
+		{
+			no = 773,
+			id = 311,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[774]=
+		{
+			no = 774,
+			id = 311,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[775]=
+		{
+			no = 775,
+			id = 311,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给免费用户标签",
+		},
+		[776]=
+		{
+			no = 776,
+			id = 311,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 2,
+			error_desc = "不是CPS渠道",
+		},
+		[777]=
+		{
+			no = 777,
+			id = 311,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "只展示给小额标签用户",
+		},
+		[778]=
+		{
+			no = 778,
+			id = 311,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 3,
+			error_desc = "不是CPS渠道",
+		},
+		[779]=
+		{
+			no = 779,
+			id = 312,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上的用户可进行游戏",
+		},
+		[780]=
+		{
+			no = 780,
+			id = 312,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP3及以下的用户可进行游戏",
+		},
 		[781]=
 		{
 			no = 781,
-			id = 310,
+			id = 312,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
@@ -13273,87 +13373,87 @@ return {
 		[782]=
 		{
 			no = 782,
-			id = 311,
-			var = "tag_type",
-			value = "tag_class_new_player",
-			judge = 2,
+			id = 313,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
 			group = 1,
-			error_desc = "是新用户",
+			error_desc = "VIP4及以上的用户可进行游戏",
 		},
 		[783]=
 		{
 			no = 783,
-			id = 311,
+			id = 313,
+			var = "vip_level",
+			value = 6,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP6及以下的用户可进行游戏",
+		},
+		[784]=
+		{
+			no = 784,
+			id = 313,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[784]=
-		{
-			no = 784,
-			id = 311,
-			var = "tag_type",
-			value = "tag_free_player",
-			judge = 2,
-			group = 2,
-			error_desc = "只展示给免费用户标签",
-		},
 		[785]=
 		{
 			no = 785,
-			id = 311,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 2,
-			error_desc = "不是CPS渠道",
+			id = 314,
+			var = "vip_level",
+			value = 7,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP7及以上的用户可进行游戏",
 		},
 		[786]=
 		{
 			no = 786,
-			id = 311,
-			var = "tag_type",
-			value = "tag_stingy_player",
-			judge = 2,
-			group = 3,
-			error_desc = "只展示给小额标签用户",
+			id = 314,
+			var = "vip_level",
+			value = 10,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP10及以下的用户可进行游戏",
 		},
 		[787]=
 		{
 			no = 787,
-			id = 311,
+			id = 314,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
-			group = 3,
+			group = 1,
 			error_desc = "不是CPS渠道",
 		},
 		[788]=
 		{
 			no = 788,
-			id = 312,
-			var = "vip_level",
-			value = 1,
-			judge = 3,
+			id = 315,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
 			group = 1,
-			error_desc = "VIP1及以上的用户可进行游戏",
+			error_desc = "不是CPS渠道",
 		},
 		[789]=
 		{
 			no = 789,
-			id = 312,
-			var = "vip_level",
-			value = 3,
-			judge = 4,
+			id = 316,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
 			group = 1,
-			error_desc = "VIP3及以下的用户可进行游戏",
+			error_desc = "是CPS渠道",
 		},
 		[790]=
 		{
 			no = 790,
-			id = 312,
+			id = 317,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
@@ -13363,96 +13463,6 @@ return {
 		[791]=
 		{
 			no = 791,
-			id = 313,
-			var = "vip_level",
-			value = 4,
-			judge = 3,
-			group = 1,
-			error_desc = "VIP4及以上的用户可进行游戏",
-		},
-		[792]=
-		{
-			no = 792,
-			id = 313,
-			var = "vip_level",
-			value = 6,
-			judge = 4,
-			group = 1,
-			error_desc = "VIP6及以下的用户可进行游戏",
-		},
-		[793]=
-		{
-			no = 793,
-			id = 313,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
-		},
-		[794]=
-		{
-			no = 794,
-			id = 314,
-			var = "vip_level",
-			value = 7,
-			judge = 3,
-			group = 1,
-			error_desc = "VIP7及以上的用户可进行游戏",
-		},
-		[795]=
-		{
-			no = 795,
-			id = 314,
-			var = "vip_level",
-			value = 10,
-			judge = 4,
-			group = 1,
-			error_desc = "VIP10及以下的用户可进行游戏",
-		},
-		[796]=
-		{
-			no = 796,
-			id = 314,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
-		},
-		[797]=
-		{
-			no = 797,
-			id = 315,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
-		},
-		[798]=
-		{
-			no = 798,
-			id = 316,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 2,
-			group = 1,
-			error_desc = "是CPS渠道",
-		},
-		[799]=
-		{
-			no = 799,
-			id = 317,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
-		},
-		[800]=
-		{
-			no = 800,
 			id = 318,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -13460,9 +13470,9 @@ return {
 			group = 1,
 			error_desc = "是CPS渠道",
 		},
-		[801]=
+		[792]=
 		{
-			no = 801,
+			no = 792,
 			id = 319,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -13470,9 +13480,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[802]=
+		[793]=
 		{
-			no = 802,
+			no = 793,
 			id = 320,
 			var = "share_condition",
 			value = "3dby_cps",
