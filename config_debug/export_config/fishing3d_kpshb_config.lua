@@ -11,6 +11,8 @@ return {
 			show_hb = 60,
 			hb_show = "1;3;5#5;10;15#40;50;60",
 			key = "actp_own_task_p_kpshb_nor",
+			asset_value = {1,3,5,5,10,15,40,50,60},
+			asset_type = {"shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum"},
 		},
 		[2]=
 		{
@@ -22,6 +24,8 @@ return {
 			show_hb = 600,
 			hb_show = "10;30;50#50;100;150#400;500;600",
 			key = "actp_own_task_p_kpshb_nor",
+			asset_value = {10,30,50,50,100,150,400,500,600},
+			asset_type = {"shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum"},
 		},
 		[3]=
 		{
@@ -33,6 +37,8 @@ return {
 			show_hb = 6000,
 			hb_show = "100;300;500#500;1000;1500#4000;5000;6000",
 			key = "actp_own_task_p_kpshb_nor",
+			asset_value = {100,300,500,500,1000,1500,4000,5000,6000},
+			asset_type = {"shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum"},
 		},
 		[4]=
 		{
@@ -44,6 +50,8 @@ return {
 			show_hb = 60000,
 			hb_show = "1000;3000;5000#5000;10000;15000#40000;50000;60000",
 			key = "actp_own_task_p_kpshb_nor",
+			asset_value = {1000,4000,5000,5000,10000,15000,40000,50000,60000},
+			asset_type = {"shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum"},
 		},
 		[5]=
 		{
@@ -55,6 +63,8 @@ return {
 			show_hb = 60,
 			hb_show = "1000金币;3福利券;5福利券#5000金币;10福利券;15福利券#4万金币;50福利券;60福利券",
 			key = "actp_own_task_p_kpshb_cps",
+			asset_value = {1000,3,5,5000,10,15,40000,50,60},
+			asset_type = {"jing_bi","shop_gold_sum","shop_gold_sum","jing_bi","shop_gold_sum","shop_gold_sum","jing_bi","shop_gold_sum","shop_gold_sum"},
 		},
 		[6]=
 		{
@@ -66,6 +76,8 @@ return {
 			show_hb = 600,
 			hb_show = "1万金币;30福利券;50福利券#5万金币;100福利券;150福利券#40万金币;500福利券;600福利券",
 			key = "actp_own_task_p_kpshb_cps",
+			asset_value = {10000,30,50,50000,100,150,400000,500,600},
+			asset_type = {"jing_bi","shop_gold_sum","shop_gold_sum","jing_bi","shop_gold_sum","shop_gold_sum","jing_bi","shop_gold_sum","shop_gold_sum"},
 		},
 		[7]=
 		{
@@ -77,6 +89,8 @@ return {
 			show_hb = 6000,
 			hb_show = "10万金币;300福利券;500福利券#50万金币;1000福利券;1500福利券#400万金币;5000福利券;6000福利券",
 			key = "actp_own_task_p_kpshb_cps",
+			asset_value = {100000,300,500,500000,1000,1500,4000000,5000,6000},
+			asset_type = {"jing_bi","shop_gold_sum","shop_gold_sum","jing_bi","shop_gold_sum","shop_gold_sum","jing_bi","shop_gold_sum","shop_gold_sum"},
 		},
 		[8]=
 		{
@@ -88,6 +102,8 @@ return {
 			show_hb = 60000,
 			hb_show = "100万金币;3000福利券;5000福利券#500万金币;1万福利券;1.5万福利券#4000万金币;5万福利券;6万福利券",
 			key = "actp_own_task_p_kpshb_cps",
+			asset_value = {1000000,3000,5000,5000000,10000,15000,40000000,50000,60000},
+			asset_type = {"jing_bi","shop_gold_sum","shop_gold_sum","jing_bi","shop_gold_sum","shop_gold_sum","jing_bi","shop_gold_sum","shop_gold_sum"},
 		},
 	},
 	jjconfig=
@@ -102,6 +118,8 @@ return {
 			show_hb = 600,
 			hb_show = "10;30;50#50;100;150#400;500;600",
 			key = "actp_own_task_p_jjkpshb_nor",
+			asset_value = {10,30,50,50,100,150,400,500,600},
+			asset_type = {"shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum"},
 		},
 		[2]=
 		{
@@ -113,6 +131,8 @@ return {
 			show_hb = 6000,
 			hb_show = "100;300;500#500;1000;1500#4000;5000;6000",
 			key = "actp_own_task_p_jjkpshb_nor",
+			asset_value = {100,300,500,500,1000,1500,4000,5000,6000},
+			asset_type = {"shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum"},
 		},
 		[3]=
 		{
@@ -124,6 +144,8 @@ return {
 			show_hb = 60000,
 			hb_show = "1000;3000;5000#5000;10000;15000#40000;50000;60000",
 			key = "actp_own_task_p_jjkpshb_nor",
+			asset_value = {1000,3000,5000,5000,10000,15000,40000,50000,60000},
+			asset_type = {"shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum"},
 		},
 		[4]=
 		{
@@ -135,6 +157,8 @@ return {
 			show_hb = 600,
 			hb_show = "1万金币;30福利券;50福利券#5万金币;100福利券;150福利券#40万金币;500福利券;600福利券",
 			key = "actp_own_task_p_jjkpshb_cps",
+			asset_value = {10000,30,50,50000,100,150,400000,500,600},
+			asset_type = {"jing_bi","shop_gold_sum","shop_gold_sum","jing_bi","shop_gold_sum","shop_gold_sum","jing_bi","shop_gold_sum","shop_gold_sum"},
 		},
 		[5]=
 		{
@@ -146,6 +170,8 @@ return {
 			show_hb = 6000,
 			hb_show = "10万金币;300福利券;500福利券#50万金币;1000福利券;1500福利券#400万金币;5000福利券;6000福利券",
 			key = "actp_own_task_p_jjkpshb_cps",
+			asset_value = {100000,300,500,500000,1000,1500,4000000,5000,6000},
+			asset_type = {"jing_bi","shop_gold_sum","shop_gold_sum","jing_bi","shop_gold_sum","shop_gold_sum","jing_bi","shop_gold_sum","shop_gold_sum"},
 		},
 		[6]=
 		{
@@ -155,8 +181,10 @@ return {
 			hb = {5000,15000,60000},
 			jd = {300000000,950000000,4500000000,},
 			show_hb = 60000,
-			hb_show = "100万金币;300福利券;500福利券#500万金币;1万福利券;1.5万福利券#4000万金币;5万福利券;6万福利券",
+			hb_show = "100万金币;3000福利券;5000福利券#500万金币;1万福利券;1.5万福利券#4000万金币;5万福利券;6万福利券",
 			key = "actp_own_task_p_jjkpshb_cps",
+			asset_value = {1000000,3000,5000,5000000,10000,15000,40000000,50000,60000},
+			asset_type = {"jing_bi","shop_gold_sum","shop_gold_sum","jing_bi","shop_gold_sum","shop_gold_sum","jing_bi","shop_gold_sum","shop_gold_sum"},
 		},
 	},
 }
