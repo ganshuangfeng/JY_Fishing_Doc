@@ -27576,7 +27576,7 @@ return {
 		{
 			id = 1036,
 			award_id = 705,
-			asset_type = "shop_gold_sum",
+			asset_type = "jing_bi",
 			asset_count = 40000000,
 			get_weight = 333,
 		},
