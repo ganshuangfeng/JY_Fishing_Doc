@@ -4,7 +4,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			icon = "ty_icon_flq2",
+			icon = "ty_icon_jb_30y",
 			name = "12000金币",
 			asset_type = "jing_bi",
 			value = 12000,
@@ -20,7 +20,7 @@ return {
 		[3]=
 		{
 			line = 3,
-			icon = "ty_icon_flq2",
+			icon = "ty_icon_jb_198y",
 			name = "20000金币",
 			asset_type = "jing_bi",
 			value = 20000,
@@ -28,7 +28,7 @@ return {
 		[4]=
 		{
 			line = 4,
-			icon = "ty_icon_flq2",
+			icon = "ty_icon_flq3",
 			name = "30福利券",
 			asset_type = "shop_gold_sum",
 			value = 30,
@@ -36,7 +36,7 @@ return {
 		[5]=
 		{
 			line = 5,
-			icon = "ty_icon_flq2",
+			icon = "ty_icon_jb_2498y",
 			name = "50000金币",
 			asset_type = "jing_bi",
 			value = 50000,
@@ -44,7 +44,7 @@ return {
 		[6]=
 		{
 			line = 6,
-			icon = "ty_icon_flq2",
+			icon = "com_award_icon_hfsp",
 			name = "100元话费",
 			asset_type = "prop_web_chip_huafei",
 			value = 10000,
