@@ -37,7 +37,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;98#",
+			group_list = "16;31;101#",
 		},
 		[3]=
 		{
@@ -62,7 +62,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "98#",
+			group_list = "101#",
 		},
 		[3]=
 		{
@@ -87,7 +87,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;90;98#",
+			group_list = "16;31;90;101#",
 		},
 		[3]=
 		{
@@ -107,7 +107,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "98#",
+			group_list = "101#",
 		},
 	},
 	fishing_game=
@@ -116,7 +116,13 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "16;98;31#26#",
+			group_list = "16;100;31#26#",
+		},
+		[2]=
+		{
+			id = 2,
+			area = "top",
+			group_list = "99#",
 		},
 	},
 	fishing_hall=
@@ -151,7 +157,7 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "36;89#97;98;11#58#30#",
+			group_list = "36;89#97;100;11#58#30#",
 		},
 		[3]=
 		{
@@ -258,7 +264,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "16;98;31;#",
+			group_list = "16;101;31;#",
 		},
 	},
 	fishing_match_bm=
@@ -294,7 +300,7 @@ return {
 		{
 			id = 4,
 			area = "down2",
-			group_list = "87#36;89#98;11#97#",
+			group_list = "87#36;89#100;11#97#",
 		},
 		[5]=
 		{
@@ -365,7 +371,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "98#",
+			group_list = "101#",
 		},
 	},
 	crazy_fish_game=
@@ -374,7 +380,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "98#",
+			group_list = "101#",
 		},
 	},
 	all_enter=
@@ -965,6 +971,24 @@ return {
 		{
 			id = 98,
 			parm = {"act_028_xycd",},
+			is_on_off = 1,
+		},
+		[99]=
+		{
+			id = 99,
+			parm = {"by3d_top_qh","jj_enter"},
+			is_on_off = 1,
+		},
+		[100]=
+		{
+			id = 100,
+			parm = {"act_029_hlqjd",},
+			is_on_off = 1,
+		},
+		[101]=
+		{
+			id = 101,
+			parm = {"cpl_ljyjcfk",},
 			is_on_off = 1,
 		},
 	},

@@ -2295,9 +2295,9 @@ return {
 			key = "by3d_act_jc",
 			desc = "3D捕鱼奖池",
 			lua = "BY3DJCManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[236]=
 		{
@@ -2615,9 +2615,9 @@ return {
 			key = "act_026_sgxxlyd",
 			desc = "水果消消乐引导",
 			lua = "Act_026_SGXXLYDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[268]=
 		{
@@ -2665,6 +2665,36 @@ return {
 			key = "act_028_xycd",
 			desc = "幸运彩蛋",
 			lua = "Act_028_XYCDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[273]=
+		{
+			id = 273,
+			key = "cpl_ljyjcfk",
+			desc = "小游戏累计赢金抽福卡",
+			lua = "CPL_LJYJCFKManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[274]=
+		{
+			id = 274,
+			key = "by_task",
+			desc = "捕鱼任务系统",
+			lua = "BYTaskManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[275]=
+		{
+			id = 275,
+			key = "act_029_hlqjd",
+			desc = "欢乐敲金蛋",
+			lua = "Act_029_HLQJDManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

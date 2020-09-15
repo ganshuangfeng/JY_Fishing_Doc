@@ -118,7 +118,7 @@ return {
 		{
 			ID = 12,
 			fish_type = 3,
-			fish_form = {4,9,4,},
+			fish_form = {4,11,4,},
 			life = 18,
 			rate = 18,
 			gd_award = 0,
@@ -145,7 +145,7 @@ return {
 		{
 			ID = 15,
 			fish_type = 3,
-			fish_form = {7,9,7,},
+			fish_form = {7,11,7,},
 			life = 24,
 			rate = 24,
 			gd_award = 0,
@@ -154,7 +154,7 @@ return {
 		{
 			ID = 16,
 			fish_type = 3,
-			fish_form = {9,12,9,},
+			fish_form = {5,12,5,},
 			life = 38,
 			rate = 38,
 			gd_award = 0,
@@ -163,7 +163,7 @@ return {
 		{
 			ID = 17,
 			fish_type = 3,
-			fish_form = {4,9,4,},
+			fish_form = {4,11,4,},
 			life = 18,
 			rate = 18,
 			gd_award = 0,

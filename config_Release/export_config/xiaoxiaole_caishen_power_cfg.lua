@@ -19,74 +19,74 @@ return {
 		[2]=
 		{
 			id = 2,
-			bet_money = 2000,
-			jindan_progress = 16000,
+			bet_money = 5000,
+			jindan_progress = 40000,
 		},
 		[3]=
 		{
 			id = 3,
-			bet_money = 5000,
-			jindan_progress = 40000,
+			bet_money = 10000,
+			jindan_progress = 80000,
 		},
 		[4]=
 		{
 			id = 4,
-			bet_money = 10000,
-			jindan_progress = 80000,
+			bet_money = 30000,
+			jindan_progress = 240000,
 		},
 		[5]=
 		{
 			id = 5,
-			bet_money = 30000,
-			jindan_progress = 240000,
+			bet_money = 60000,
+			jindan_progress = 480000,
 		},
 		[6]=
 		{
 			id = 6,
-			bet_money = 60000,
-			jindan_progress = 480000,
+			bet_money = 120000,
+			jindan_progress = 960000,
 		},
 		[7]=
 		{
 			id = 7,
-			bet_money = 120000,
-			jindan_progress = 960000,
+			bet_money = 240000,
+			jindan_progress = 1920000,
 		},
 		[8]=
 		{
 			id = 8,
-			bet_money = 240000,
-			jindan_progress = 1920000,
+			bet_money = 480000,
+			jindan_progress = 3840000,
 		},
 		[9]=
 		{
 			id = 9,
-			bet_money = 480000,
-			jindan_progress = 3840000,
+			bet_money = 960000,
+			jindan_progress = 7680000,
 		},
 		[10]=
 		{
 			id = 10,
-			bet_money = 960000,
-			jindan_progress = 7680000,
+			bet_money = 1920000,
+			jindan_progress = 15360000,
 		},
 		[11]=
 		{
 			id = 11,
-			bet_money = 1920000,
-			jindan_progress = 15360000,
+			bet_money = 5120000,
+			jindan_progress = 40960000,
 		},
 		[12]=
 		{
 			id = 12,
-			bet_money = 5120000,
-			jindan_progress = 40960000,
+			bet_money = 10240000,
+			jindan_progress = 81920000,
 		},
 		[13]=
 		{
 			id = 13,
-			bet_money = 10240000,
-			jindan_progress = 81920000,
+			bet_money = 20480000,
+			jindan_progress = 163840000,
 		},
 	},
 	progress_bar_lottery=

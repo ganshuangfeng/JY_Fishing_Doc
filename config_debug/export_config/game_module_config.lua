@@ -2699,5 +2699,24 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[276]=
+		{
+			id = 276,
+			key = "act_030_hd_zjm",
+			desc = "小游戏福利",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[277]=
+		{
+			id = 277,
+			key = "act_030_cwlb",
+			desc = "畅玩礼包",
+			lua = "Act_030_CWLBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
