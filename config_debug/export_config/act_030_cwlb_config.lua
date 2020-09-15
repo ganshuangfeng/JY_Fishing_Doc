@@ -8,6 +8,7 @@ return {
 			name = "12000金币",
 			asset_type = "jing_bi",
 			value = 12000,
+			award_id = 11751,
 		},
 		[2]=
 		{
@@ -16,6 +17,7 @@ return {
 			name = "15福利券",
 			asset_type = "shop_gold_sum",
 			value = 15,
+			award_id = 11752,
 		},
 		[3]=
 		{
@@ -24,6 +26,7 @@ return {
 			name = "20000金币",
 			asset_type = "jing_bi",
 			value = 20000,
+			award_id = 11753,
 		},
 		[4]=
 		{
@@ -32,6 +35,7 @@ return {
 			name = "30福利券",
 			asset_type = "shop_gold_sum",
 			value = 30,
+			award_id = 11754,
 		},
 		[5]=
 		{
@@ -40,6 +44,7 @@ return {
 			name = "50000金币",
 			asset_type = "jing_bi",
 			value = 50000,
+			award_id = 11755,
 		},
 		[6]=
 		{
