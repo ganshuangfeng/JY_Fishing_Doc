@@ -210,8 +210,8 @@ return {
 			is_local_icon = 1,
 			gotoUI = {"GameComAct1","activity_030_xyxfl_config"},
 			tag = "hot",
-			beginTime = 1597707000,
-			endTime = 1598284799,
+			beginTime = 1600732800,
+			endTime = 1601308799,
 		},
 	},
 }

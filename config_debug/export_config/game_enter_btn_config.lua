@@ -389,7 +389,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = 130,
+			group_list = 102,
 		},
 	},
 	all_enter=
