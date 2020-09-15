@@ -383,6 +383,15 @@ return {
 			group_list = "101#",
 		},
 	},
+	year_panel=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left",
+			group_list = 130,
+		},
+	},
 	all_enter=
 	{
 		[1]=
@@ -991,8 +1000,11 @@ return {
 			parm = {"cpl_ljyjcfk",},
 			is_on_off = 1,
 		},
-	},
-	Sheet1=
-	{
+		[102]=
+		{
+			id = 102,
+			parm = {"act_030_cwlb",},
+			is_on_off = 1,
+		},
 	},
 }
