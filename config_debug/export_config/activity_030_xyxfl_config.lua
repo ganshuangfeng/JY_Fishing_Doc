@@ -4,7 +4,7 @@ return {
 		[1]=
 		{
 			index = 1,
-			icon = "yxfl_bg_1",
+			icon = "xyxfl_bg_1",
 			name = "小游戏福利",
 		},
 	},
