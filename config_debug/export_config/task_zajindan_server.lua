@@ -11192,7 +11192,7 @@ return {
 			id = 472,
 			process_id = 21420,
 			source_id = 464,
-			process = 1,
+			process = 3,
 			awards = 724,
 			get_award_type = "nor",
 		},
@@ -11201,7 +11201,7 @@ return {
 			id = 473,
 			process_id = 21421,
 			source_id = 465,
-			process = 1,
+			process = 3,
 			awards = 724,
 			get_award_type = "nor",
 		},
@@ -15917,7 +15917,7 @@ return {
 		{
 			id = 662,
 			source_id = 464,
-			source_type = "sh_xxl_xc_num_hero",
+			source_type = "sh_xxl_xc_target_hero",
 			condition_id = 326,
 		},
 		[663]=
@@ -19515,7 +19515,7 @@ return {
 			id = 475,
 			condition_id = 326,
 			condition_name = "hero_num",
-			condition_value = 3,
+			condition_value = 1,
 			judge_type = 3,
 		},
 		[476]=
