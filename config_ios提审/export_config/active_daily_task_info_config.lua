@@ -5,31 +5,31 @@ return {
 		{
 			id = 1,
 			active = 30,
-			award_tip = "5000鱼币，锁定*2",
+			award_tip = "2万金币，锁定*2",
 		},
 		[2]=
 		{
 			id = 2,
 			active = 60,
-			award_tip = "1万鱼币，召唤*1",
+			award_tip = "5万金币，10福利券",
 		},
 		[3]=
 		{
 			id = 3,
 			active = 90,
-			award_tip = "1万鱼币，1万小游戏币",
+			award_tip = "5万金币，召唤*3",
 		},
 		[4]=
 		{
 			id = 4,
 			active = 120,
-			award_tip = "1万鱼币，10福利券",
+			award_tip = "10万金币，20福利券",
 		},
 		[5]=
 		{
 			id = 5,
 			active = 150,
-			award_tip = "3万金币，30福利券",
+			award_tip = "10万金币，10万鱼币",
 		},
 	},
 	active_task_item=
