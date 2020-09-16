@@ -15917,7 +15917,7 @@ return {
 		{
 			id = 662,
 			source_id = 464,
-			source_type = "sh_xxl_xc_target_hero",
+			source_type = "sh_xxl_xc_num_hero",
 			condition_id = 326,
 		},
 		[663]=

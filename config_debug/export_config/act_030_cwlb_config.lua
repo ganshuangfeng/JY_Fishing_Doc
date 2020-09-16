@@ -63,7 +63,7 @@ return {
 			gift_id = 10311,
 			name = "6元礼包",
 			order = 1,
-			pay_icon = {"ty_icon_jb_30y","ty_icon_yxb_3","com_award_icon_dhq",},
+			pay_icon = {"ty_icon_jb_30y","ty_icon_yxb_3","ty_icon_cjq",},
 			pay_name = {"60万","3000","抽奖券*1",},
 		},
 		[2]=
@@ -72,7 +72,7 @@ return {
 			gift_id = 10312,
 			name = "20元礼包",
 			order = 2,
-			pay_icon = {"ty_icon_jb_48y","ty_icon_yxb_2","com_award_icon_dhq",},
+			pay_icon = {"ty_icon_jb_48y","ty_icon_yxb_2","ty_icon_cjq",},
 			pay_name = {"200万","1万","抽奖券*4",},
 		},
 		[3]=
@@ -81,7 +81,7 @@ return {
 			gift_id = 10313,
 			name = "48元礼包",
 			order = 3,
-			pay_icon = {"ty_icon_jb_50y","ty_icon_yxb_2","com_award_icon_dhq",},
+			pay_icon = {"ty_icon_jb_50y","ty_icon_yxb_2","ty_icon_cjq",},
 			pay_name = {"480万","3万","抽奖券*10",},
 		},
 		[4]=
@@ -90,7 +90,7 @@ return {
 			gift_id = 10314,
 			name = "98元礼包",
 			order = 4,
-			pay_icon = {"ty_icon_jb_98y","ty_icon_yxb_4","com_award_icon_dhq",},
+			pay_icon = {"ty_icon_jb_98y","ty_icon_yxb_4","ty_icon_cjq",},
 			pay_name = {"980万","10万","抽奖券*20",},
 		},
 		[5]=
@@ -99,7 +99,7 @@ return {
 			gift_id = 10315,
 			name = "198元礼包",
 			order = 5,
-			pay_icon = {"ty_icon_jb_198y","ty_icon_yxb_5","com_award_icon_dhq",},
+			pay_icon = {"ty_icon_jb_198y","ty_icon_yxb_5","ty_icon_cjq",},
 			pay_name = {"1980万","50万","抽奖券*30",},
 		},
 		[6]=
@@ -108,7 +108,7 @@ return {
 			gift_id = 10316,
 			name = "498元礼包",
 			order = 6,
-			pay_icon = {"ty_icon_jb_498y","ty_icon_yxb_5","com_award_icon_dhq",},
+			pay_icon = {"ty_icon_jb_498y","ty_icon_yxb_5","ty_icon_cjq",},
 			pay_name = {"4980万","200万","抽奖券*50",},
 		},
 	},
