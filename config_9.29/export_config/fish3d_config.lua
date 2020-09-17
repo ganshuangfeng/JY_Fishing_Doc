@@ -1800,7 +1800,7 @@ return {
 			id = 57,
 			prefab = "Fish3D087",
 			icon = "by_icon_xxboss",
-			name = "接吻鱼",
+			name = "星星鱼",
 			name_image = "by_imgf_zp53",
 			reward_image = "by_imgf_zp53",
 			reward_level = {1,},
