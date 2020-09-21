@@ -19601,7 +19601,7 @@ return {
 			id = 482,
 			condition_id = 332,
 			condition_name = "gift_id",
-			condition_value = 10317103181031900441070704961519616,
+			condition_value = {10317,10318,10319,10320,10321,10322,10323},
 			judge_type = 2,
 		},
 	},
@@ -27896,7 +27896,7 @@ return {
 		{
 			id = 1036,
 			award_id = 705,
-			asset_type = "shop_gold_sum",
+			asset_type = "jing_bi",
 			asset_count = 40000000,
 			get_weight = 333,
 		},
