@@ -5589,6 +5589,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1601335800,
 		},
+		[318]=
+		{
+			id = 318,
+			enable = 1,
+			key = "actp_own_task_p_031_gqfd_cumulative",
+			name = "国庆福袋累计购买（非CPS渠道）",
+			condi = 323,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1601335800,
+		},
 	},
 	condi=
 	{
