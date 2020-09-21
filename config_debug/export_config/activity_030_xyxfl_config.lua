@@ -37,7 +37,7 @@ return {
 			id = 2,
 			task = 1000062,
 			total = 3,
-			task_name = "水浒消消乐使用1万及以上档次，累计召唤3个英雄",
+			task_name = "水浒消消乐使用1万及以上档次，累计出现3次英雄",
 			level = 1,
 			item = {"jing_bi",},
 			count = {10000,},
