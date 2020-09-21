@@ -227,7 +227,7 @@ return {
 			showType = "prefab",
 			parmData = "activity_task",
 			is_local_icon = 1,
-			gotoUI = {“act_031_wxhhl","panel"},
+			gotoUI = {"act_031_wxhhl","panel"},
 			tag = "normal",
 			beginTime = 1601335800,
 			endTime = 1601913599,
