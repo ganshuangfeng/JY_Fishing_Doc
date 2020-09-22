@@ -5553,6 +5553,30 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1598916600,
 		},
+		[315]=
+		{
+			id = 315,
+			enable = 1,
+			key = "actp_own_task_p_030_xyxfl",
+			name = "小游戏福利（非CPS渠道）",
+			condi = 319,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1600731000,
+		},
+		[316]=
+		{
+			id = 316,
+			enable = 1,
+			key = "actp_own_task_p_task_fish_daily_2_no_cps",
+			name = "捕鱼每日任务（新玩家，免费，小额）（非CPS渠道）",
+			condi = 322,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
 	},
 	condi=
 	{
@@ -13605,6 +13629,66 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "需要Vip0才可体验！",
+		},
+		[806]=
+		{
+			no = 806,
+			id = 322,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[807]=
+		{
+			no = 807,
+			id = 322,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "是CPS渠道",
+		},
+		[808]=
+		{
+			no = 808,
+			id = 322,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给免费用户标签",
+		},
+		[809]=
+		{
+			no = 809,
+			id = 322,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 2,
+			error_desc = "是CPS渠道",
+		},
+		[810]=
+		{
+			no = 810,
+			id = 322,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "只展示给小额标签用户",
+		},
+		[811]=
+		{
+			no = 811,
+			id = 322,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 3,
+			error_desc = "是CPS渠道",
 		},
 	},
 	share_condition=

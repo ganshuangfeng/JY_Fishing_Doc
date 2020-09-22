@@ -114,7 +114,7 @@ return {
 			recycle_time = 1600703999,
 		},
 	},
-	player_asset=
+	player_ext_status=
 	{
 	},
 }

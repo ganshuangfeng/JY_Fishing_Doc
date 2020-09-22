@@ -4,7 +4,7 @@ return {
 		[1]=
 		{
 			no = 1,
-			tax = 0.030000,
+			tax = 0.035000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -12,7 +12,7 @@ return {
 		[2]=
 		{
 			no = 2,
-			tax = 0.030000,
+			tax = 0.035000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -20,7 +20,7 @@ return {
 		[3]=
 		{
 			no = 3,
-			tax = 0.030000,
+			tax = 0.035000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -28,7 +28,7 @@ return {
 		[4]=
 		{
 			no = 4,
-			tax = 0.030000,
+			tax = 0.035000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -36,7 +36,7 @@ return {
 		[5]=
 		{
 			no = 5,
-			tax = 0.030000,
+			tax = 0.035000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -44,7 +44,7 @@ return {
 		[6]=
 		{
 			no = 6,
-			tax = 0.030000,
+			tax = 0.035000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -52,7 +52,7 @@ return {
 		[7]=
 		{
 			no = 7,
-			tax = 0.030000,
+			tax = 0.035000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -60,7 +60,7 @@ return {
 		[8]=
 		{
 			no = 8,
-			tax = 0.030000,
+			tax = 0.035000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -68,7 +68,7 @@ return {
 		[9]=
 		{
 			no = 9,
-			tax = 0.030000,
+			tax = 0.035000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,
@@ -76,7 +76,7 @@ return {
 		[10]=
 		{
 			no = 10,
-			tax = 0.030000,
+			tax = 0.035000,
 			fire_interval = 0.160000,
 			storage = 0.030000,
 			random_wave_js_limit = -1,

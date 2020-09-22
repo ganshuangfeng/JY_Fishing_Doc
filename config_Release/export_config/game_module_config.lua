@@ -2575,9 +2575,9 @@ return {
 			key = "act_026_bblb",
 			desc = "表白礼包",
 			lua = "Act_026_BBLBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[264]=
 		{
@@ -2595,9 +2595,9 @@ return {
 			key = "act_026_zabd",
 			desc = "真爱榜单",
 			lua = "Act_026_ZABDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[266]=
 		{
@@ -2605,9 +2605,9 @@ return {
 			key = "act_026_lmlh",
 			desc = "浪漫礼盒",
 			lua = "Act_026_LMLHManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[267]=
 		{
@@ -2695,6 +2695,25 @@ return {
 			key = "act_029_hlqjd",
 			desc = "欢乐敲金蛋",
 			lua = "Act_029_HLQJDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[276]=
+		{
+			id = 276,
+			key = "act_030_hd_zjm",
+			desc = "小游戏福利",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[277]=
+		{
+			id = 277,
+			key = "act_030_cwlb",
+			desc = "畅玩礼包",
+			lua = "Act_030_CWLBManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

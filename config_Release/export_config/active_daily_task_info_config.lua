@@ -75,7 +75,7 @@ return {
 		[4]=
 		{
 			id = 4,
-			key = "actp_own_task_p_task_fish_daily_1",
+			key = "actp_own_task_p_task_fish_daily_1_2",
 			task_id = 12522,
 			task_name = "累计开炮",
 			task_icon = "rw_icon_ljpd",
@@ -101,7 +101,7 @@ return {
 		[6]=
 		{
 			id = 6,
-			key = "actp_own_task_p_task_fish_daily_1",
+			key = "actp_own_task_p_task_fish_daily_1_2",
 			task_id = 12516,
 			task_name = "捕获彩金",
 			task_icon = "rw_icon_js",
@@ -127,7 +127,7 @@ return {
 		[8]=
 		{
 			id = 8,
-			key = "actp_own_task_p_task_fish_daily_2",
+			key = "actp_own_task_p_task_fish_daily_2_no_cps",
 			task_id = 12524,
 			task_name = "观看广告",
 			task_icon = "rw_icon_ljyj",

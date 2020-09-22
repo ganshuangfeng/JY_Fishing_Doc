@@ -1426,7 +1426,6 @@ return {
 			order = 34,
 			name = "小游戏币",
 			desc = "用于小游戏消耗",
-			use_parm = {"game_MiniGame",},
 		},
 		[110]=
 		{
@@ -2019,6 +2018,19 @@ return {
 			order = 33,
 			name = "金锤",
 			desc = "欢乐敲金蛋金锤（v8-v10)",
+		},
+		[154]=
+		{
+			id = 154,
+			item_id = 154,
+			item_key = "prop_cwlb_cjq",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "ty_icon_cjq",
+			is_show_bag = 0,
+			order = 33,
+			name = "抽奖券",
+			desc = "畅玩礼包抽奖券",
 		},
 	},
 }
