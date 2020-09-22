@@ -1426,6 +1426,7 @@ return {
 			order = 34,
 			name = "小游戏币",
 			desc = "用于小游戏消耗",
+			use_parm = {"game_MiniGame",},
 		},
 		[110]=
 		{
@@ -2031,6 +2032,19 @@ return {
 			order = 33,
 			name = "抽奖券",
 			desc = "畅玩礼包抽奖券",
+		},
+		[155]=
+		{
+			id = 155,
+			item_id = 155,
+			item_key = "prop_031_aster",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "by_icon_xx2",
+			is_show_bag = 0,
+			order = 33,
+			name = "星星",
+			desc = "国庆快乐活动掉落",
 		},
 	},
 }

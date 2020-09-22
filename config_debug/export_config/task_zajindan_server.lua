@@ -6207,28 +6207,28 @@ return {
 		{
 			id = 1000034,
 			enable = 1,
-			name = "金秋送豪礼",
+			name = "国庆送豪礼",
 			own_type = "p_027_mfflq",
 			task_enum = "common",
 			process_id = 21392,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1598889600,
-			end_valid_time = 1599494399,
+			start_valid_time = 1601942400,
+			end_valid_time = 1602518399,
 			time_limit = -1,
 		},
 		[1000035]=
 		{
 			id = 1000035,
 			enable = 1,
-			name = "金秋送豪礼",
+			name = "国庆送豪礼",
 			own_type = "p_027_mfflq",
 			task_enum = "common",
 			process_id = 21393,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1598889600,
-			end_valid_time = 1599494399,
+			start_valid_time = 1601942400,
+			end_valid_time = 1602518399,
 			time_limit = -1,
 		},
 		[1000036]=
@@ -6423,8 +6423,8 @@ return {
 			process_id = 21407,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1600099200,
-			end_valid_time = 1600703999,
+			start_valid_time = 1602547200,
+			end_valid_time = 1603123199,
 			time_limit = -1,
 		},
 		[1000050]=
@@ -6437,8 +6437,8 @@ return {
 			process_id = 21408,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1600099200,
-			end_valid_time = 1600703999,
+			start_valid_time = 1602547200,
+			end_valid_time = 1603123199,
 			time_limit = -1,
 		},
 		[1000051]=
@@ -6451,8 +6451,8 @@ return {
 			process_id = 21409,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1600099200,
-			end_valid_time = 1600703999,
+			start_valid_time = 1602547200,
+			end_valid_time = 1603123199,
 			time_limit = -1,
 		},
 		[1000052]=
@@ -6677,6 +6677,20 @@ return {
 			reset_delay = 1,
 			start_valid_time = 1600704000,
 			end_valid_time = 1601308799,
+			time_limit = -1,
+		},
+		[1000068]=
+		{
+			id = 1000068,
+			enable = 1,
+			name = "国庆福袋",
+			own_type = "p_031_gqfd_cumulative",
+			task_enum = "common",
+			process_id = 21426,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1601308800,
+			end_valid_time = 1601913599,
 			time_limit = -1,
 		},
 	},
@@ -10934,7 +10948,7 @@ return {
 			process_id = 21392,
 			source_id = 439,
 			process = {3,3,4,10,30,50,200,300,600,800,2000,4000,7000,35000,50000},
-			awards = {647,648,649,650,651,652,653,654,655,656,657,658,659,660,725},
+			awards = {647,648,649,650,651,652,653,654,655,656,657,658,659,660,728},
 			get_award_type = "nor",
 		},
 		[445]=
@@ -10943,7 +10957,7 @@ return {
 			process_id = 21393,
 			source_id = 440,
 			process = {300,700,3800,15000,30200,199800},
-			awards = {661,662,663,664,665,726},
+			awards = {661,662,663,664,665,729},
 			get_award_type = "nor",
 		},
 		[446]=
@@ -11240,6 +11254,15 @@ return {
 			process = 1,
 			awards = 724,
 			get_award_type = "nor",
+		},
+		[478]=
+		{
+			id = 478,
+			process_id = 21426,
+			source_id = 470,
+			process = {3,2,2},
+			awards = {725,726,727},
+			get_award_type = "random",
 		},
 	},
 	source=
@@ -15955,6 +15978,13 @@ return {
 			source_type = "guess_apple_award_kaijiang_type",
 			condition_id = 331,
 		},
+		[668]=
+		{
+			id = 668,
+			source_id = 470,
+			source_type = "buy_gift",
+			condition_id = 332,
+		},
 	},
 	condition=
 	{
@@ -19323,7 +19353,7 @@ return {
 			id = 451,
 			condition_id = 304,
 			condition_name = "task_id",
-			condition_value = {21315,21316,21317,21318},
+			condition_value = {21315,21316,21317,21318,1000046,1000047,1000048,1000052,1000053,1000054,1000055,1000056,1000057,1000058,1000059,1000060},
 			judge_type = 2,
 		},
 		[452]=
@@ -19564,6 +19594,14 @@ return {
 			condition_id = 331,
 			condition_name = "kaijiang_type",
 			condition_value = 2,
+			judge_type = 2,
+		},
+		[482]=
+		{
+			id = 482,
+			condition_id = 332,
+			condition_name = "gift_id",
+			condition_value = {10317,10318,10319,10320,10321,10322,10323},
 			judge_type = 2,
 		},
 	},
@@ -26963,7 +27001,7 @@ return {
 			id = 924,
 			award_id = 651,
 			asset_type = "shop_gold_sum",
-			asset_count = 15,
+			asset_count = 40,
 			get_weight = 1,
 		},
 		[925]=
@@ -26971,7 +27009,7 @@ return {
 			id = 925,
 			award_id = 652,
 			asset_type = "shop_gold_sum",
-			asset_count = 25,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[926]=
@@ -26979,7 +27017,7 @@ return {
 			id = 926,
 			award_id = 653,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 150,
 			get_weight = 1,
 		},
 		[927]=
@@ -26987,7 +27025,7 @@ return {
 			id = 927,
 			award_id = 654,
 			asset_type = "shop_gold_sum",
-			asset_count = 150,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[928]=
@@ -26995,7 +27033,7 @@ return {
 			id = 928,
 			award_id = 655,
 			asset_type = "shop_gold_sum",
-			asset_count = 300,
+			asset_count = 400,
 			get_weight = 1,
 		},
 		[929]=
@@ -27003,7 +27041,7 @@ return {
 			id = 929,
 			award_id = 656,
 			asset_type = "shop_gold_sum",
-			asset_count = 400,
+			asset_count = 1000,
 			get_weight = 1,
 		},
 		[930]=
@@ -27011,7 +27049,7 @@ return {
 			id = 930,
 			award_id = 657,
 			asset_type = "shop_gold_sum",
-			asset_count = 1000,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[931]=
@@ -27019,7 +27057,7 @@ return {
 			id = 931,
 			award_id = 658,
 			asset_type = "shop_gold_sum",
-			asset_count = 2000,
+			asset_count = 3500,
 			get_weight = 1,
 		},
 		[932]=
@@ -27027,7 +27065,7 @@ return {
 			id = 932,
 			award_id = 659,
 			asset_type = "shop_gold_sum",
-			asset_count = 3500,
+			asset_count = 17000,
 			get_weight = 1,
 		},
 		[933]=
@@ -27035,7 +27073,7 @@ return {
 			id = 933,
 			award_id = 660,
 			asset_type = "shop_gold_sum",
-			asset_count = 17000,
+			asset_count = 32500,
 			get_weight = 1,
 		},
 		[934]=
@@ -27043,7 +27081,7 @@ return {
 			id = 934,
 			award_id = 661,
 			asset_type = "shop_gold_sum",
-			asset_count = 15,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[935]=
@@ -27051,7 +27089,7 @@ return {
 			id = 935,
 			award_id = 662,
 			asset_type = "shop_gold_sum",
-			asset_count = 50,
+			asset_count = 180,
 			get_weight = 1,
 		},
 		[936]=
@@ -27059,7 +27097,7 @@ return {
 			id = 936,
 			award_id = 663,
 			asset_type = "shop_gold_sum",
-			asset_count = 180,
+			asset_count = 700,
 			get_weight = 1,
 		},
 		[937]=
@@ -27067,7 +27105,7 @@ return {
 			id = 937,
 			award_id = 664,
 			asset_type = "shop_gold_sum",
-			asset_count = 700,
+			asset_count = 1500,
 			get_weight = 1,
 		},
 		[938]=
@@ -27075,7 +27113,7 @@ return {
 			id = 938,
 			award_id = 665,
 			asset_type = "shop_gold_sum",
-			asset_count = 1500,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[939]=
@@ -28322,14 +28360,38 @@ return {
 		{
 			id = 1094,
 			award_id = 725,
-			asset_type = "shop_gold_sum",
-			asset_count = 32500,
+			asset_type = "jing_bi",
+			asset_count = {300000,500000},
 			get_weight = 1,
 		},
 		[1095]=
 		{
 			id = 1095,
 			award_id = 726,
+			asset_type = "jing_bi",
+			asset_count = {800000,1200000},
+			get_weight = 1,
+		},
+		[1096]=
+		{
+			id = 1096,
+			award_id = 727,
+			asset_type = "jing_bi",
+			asset_count = {2000000,4000000},
+			get_weight = 1,
+		},
+		[1097]=
+		{
+			id = 1097,
+			award_id = 728,
+			asset_type = "shop_gold_sum",
+			asset_count = 32500,
+			get_weight = 1,
+		},
+		[1098]=
+		{
+			id = 1098,
+			award_id = 729,
 			asset_type = "shop_gold_sum",
 			asset_count = 10000,
 			get_weight = 1,

@@ -2575,9 +2575,9 @@ return {
 			key = "act_026_bblb",
 			desc = "表白礼包",
 			lua = "Act_026_BBLBManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[264]=
 		{
@@ -2595,9 +2595,9 @@ return {
 			key = "act_026_zabd",
 			desc = "真爱榜单",
 			lua = "Act_026_ZABDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[266]=
 		{
@@ -2605,9 +2605,9 @@ return {
 			key = "act_026_lmlh",
 			desc = "浪漫礼盒",
 			lua = "Act_026_LMLHManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[267]=
 		{
@@ -2714,6 +2714,55 @@ return {
 			key = "act_030_cwlb",
 			desc = "畅玩礼包",
 			lua = "Act_030_CWLBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[278]=
+		{
+			id = 278,
+			key = "act_031_gqfl",
+			desc = "国庆福利",
+			lua = "act_031_gqflManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[279]=
+		{
+			id = 279,
+			key = "act_031_gqkl",
+			desc = "国庆快乐",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[280]=
+		{
+			id = 280,
+			key = "act_031_wxhhl",
+			desc = "五星换好礼",
+			lua = "Act_031_WXHHLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[281]=
+		{
+			id = 281,
+			key = "act_031_gqfd",
+			desc = "国庆福袋",
+			lua = "Act_030_GQFDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[282]=
+		{
+			id = 282,
+			key = "act_031_gqkl_ani",
+			desc = "星星掉落脚本",
+			lua = " Act_031_GQKLManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

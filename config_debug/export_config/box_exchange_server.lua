@@ -435,8 +435,8 @@ return {
 		{
 			id = 40,
 			name = "免费福利券",
-			start_time = 1598916600,
-			end_time = 1599494399,
+			start_time = 1602547200,
+			end_time = 1603123199,
 			use_asset_id = 35,
 			award_id = 40,
 			enable = 1,
