@@ -6693,6 +6693,20 @@ return {
 			end_valid_time = 1601913599,
 			time_limit = -1,
 		},
+		[1000069]=
+		{
+			id = 1000069,
+			enable = 1,
+			name = "五星掉落",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21427,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1601335800,
+			end_valid_time = 1601913599,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -11263,6 +11277,15 @@ return {
 			process = {3,2,2},
 			awards = {725,726,727},
 			get_award_type = "random",
+		},
+		[479]=
+		{
+			id = 479,
+			process_id = 21427,
+			source_id = 471,
+			process = {1000000,-1},
+			awards = 730,
+			get_award_type = "nor",
 		},
 	},
 	source=
@@ -15984,6 +16007,63 @@ return {
 			source_id = 470,
 			source_type = "buy_gift",
 			condition_id = 332,
+		},
+		[669]=
+		{
+			id = 669,
+			source_id = 471,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[670]=
+		{
+			id = 670,
+			source_id = 471,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[671]=
+		{
+			id = 671,
+			source_id = 471,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[672]=
+		{
+			id = 672,
+			source_id = 471,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[673]=
+		{
+			id = 673,
+			source_id = 471,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[674]=
+		{
+			id = 674,
+			source_id = 471,
+			source_type = "jykp_award",
+			condition_id = 0,
+		},
+		[675]=
+		{
+			id = 675,
+			source_id = 471,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[676]=
+		{
+			id = 676,
+			source_id = 471,
+			source_type = "buyu_award",
+			condition_id = 0,
+			process_discount = 0.500000,
 		},
 	},
 	condition=
@@ -28394,6 +28474,14 @@ return {
 			award_id = 729,
 			asset_type = "shop_gold_sum",
 			asset_count = 10000,
+			get_weight = 1,
+		},
+		[1099]=
+		{
+			id = 1099,
+			award_id = 730,
+			asset_type = "prop_031_aster",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
