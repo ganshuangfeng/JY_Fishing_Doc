@@ -3205,6 +3205,33 @@ return {
 			enter_bag = 1,
 			value = 10,
 		},
+		[60]=
+		{
+			id = 60,
+			acti_type = 40,
+			num = {1,1000,},
+			show = 0,
+			enter_bag = 1,
+			value = 1000,
+		},
+		[61]=
+		{
+			id = 61,
+			acti_type = 41,
+			num = {1,5000,},
+			show = 0,
+			enter_bag = 1,
+			value = 5000,
+		},
+		[62]=
+		{
+			id = 62,
+			acti_type = 42,
+			num = {1,10000,},
+			show = 0,
+			enter_bag = 1,
+			value = 10000,
+		},
 	},
 	box_fish_activity=
 	{
