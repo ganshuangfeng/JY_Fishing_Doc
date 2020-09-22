@@ -3209,7 +3209,7 @@ return {
 		{
 			id = 60,
 			acti_type = 40,
-			num = {1,1000,},
+			num = {1,1000,10000},
 			show = 0,
 			enter_bag = 1,
 			value = 1000,
@@ -3218,7 +3218,7 @@ return {
 		{
 			id = 61,
 			acti_type = 41,
-			num = {1,5000,},
+			num = {1,5000,10000},
 			show = 0,
 			enter_bag = 1,
 			value = 5000,
@@ -3227,7 +3227,7 @@ return {
 		{
 			id = 62,
 			acti_type = 42,
-			num = {1,10000,},
+			num = {1,10000,10000},
 			show = 0,
 			enter_bag = 1,
 			value = 10000,

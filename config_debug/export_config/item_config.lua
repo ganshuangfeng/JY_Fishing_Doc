@@ -2058,6 +2058,7 @@ return {
 			order = 34,
 			name = "初级核弹碎片",
 			desc = "初级核弹碎片",
+			use_parm = {"by3d_hd","hecheng",1},
 		},
 		[157]=
 		{
@@ -2071,6 +2072,7 @@ return {
 			order = 34,
 			name = "中级核弹碎片",
 			desc = "中级核弹碎片",
+			use_parm = {"by3d_hd","hecheng",2},
 		},
 		[158]=
 		{
@@ -2084,6 +2086,7 @@ return {
 			order = 34,
 			name = "高级核弹碎片",
 			desc = "高级核弹碎片",
+			use_parm = {"by3d_hd","hecheng",3},
 		},
 		[159]=
 		{
