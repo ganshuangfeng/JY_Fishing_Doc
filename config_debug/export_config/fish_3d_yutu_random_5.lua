@@ -303,22 +303,22 @@ return {
 		[1]=
 		{
 			no = 1,
-			min_time = 99999,
-			max_time = 99999,
+			min_time = 30,
+			max_time = 40,
 			type = 1,
 		},
 		[2]=
 		{
 			no = 2,
-			min_time = 99999,
-			max_time = 99999,
+			min_time = 25,
+			max_time = 30,
 			type = 2,
 		},
 		[3]=
 		{
 			no = 3,
-			min_time = 99999,
-			max_time = 99999,
+			min_time = 10,
+			max_time = 25,
 			type = 3,
 		},
 	},

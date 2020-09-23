@@ -768,7 +768,7 @@ return {
 		{
 			line = 31,
 			id = 31,
-			prefab = "Fish032",
+			prefab = "Fish3D087",
 			icon = "by_icon_xxboss",
 			name = "星星鱼",
 			name_image = "by_imgf_zp53",
@@ -789,6 +789,7 @@ return {
 			blood_pos = {0,-100},
 			blood_scale = {0.4,0.5},
 			close_rota = 1,
+			animator_node = "fish3d",
 		},
 	},
 }
