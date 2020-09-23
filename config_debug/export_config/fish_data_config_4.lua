@@ -4929,7 +4929,7 @@ return {
 		{
 			id = 30,
 			acti_type = 9,
-			num = {"prop_031_aster",0,0.05,},
+			num = {"prop_031_aster",0,0.005,},
 			show = 1,
 			enter_bag = 1,
 			value = 5,
