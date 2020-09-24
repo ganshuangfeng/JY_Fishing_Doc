@@ -258,7 +258,6 @@ return {
 			title = "国庆福利",
 			noCloseUI = 0,
 			order = 3,
-			key = "act_031_gqfl",
 			type = "activity",
 			isOnOff = 1,
 			showType = "image",
