@@ -257,7 +257,7 @@ return {
 			id = 14,
 			ID = 14,
 			title = "国庆福利",
-			noCloseUI = 0,
+			noCloseUI = 1,
 			order = 3,
 			type = "activity",
 			isOnOff = 1,
