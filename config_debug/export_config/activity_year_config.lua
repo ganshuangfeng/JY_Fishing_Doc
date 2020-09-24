@@ -231,6 +231,7 @@ return {
 			tag = "normal",
 			beginTime = 1601335800,
 			endTime = 1601913599,
+			condi_key = "actp_buy_gift_bag_class_031_gqfd_gift",
 		},
 		[13]=
 		{
