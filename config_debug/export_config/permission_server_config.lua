@@ -5601,6 +5601,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1601335800,
 		},
+		[319]=
+		{
+			id = 319,
+			enable = 1,
+			key = "actp_own_task_p_task_fish_daily_2_no_cps",
+			name = "捕鱼每日任务（新玩家，免费，小额）（非CPS渠道）",
+			condi = 324,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
 	},
 	condi=
 	{
@@ -13703,6 +13715,66 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是CPS渠道",
+		},
+		[811]=
+		{
+			no = 811,
+			id = 324,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[812]=
+		{
+			no = 812,
+			id = 324,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "是CPS渠道",
+		},
+		[813]=
+		{
+			no = 813,
+			id = 324,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给免费用户标签",
+		},
+		[814]=
+		{
+			no = 814,
+			id = 324,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 2,
+			error_desc = "是CPS渠道",
+		},
+		[815]=
+		{
+			no = 815,
+			id = 324,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "只展示给小额标签用户",
+		},
+		[816]=
+		{
+			no = 816,
+			id = 324,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 3,
+			error_desc = "是CPS渠道",
 		},
 	},
 	share_condition=
