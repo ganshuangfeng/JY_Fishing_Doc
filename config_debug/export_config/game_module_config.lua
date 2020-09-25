@@ -2773,7 +2773,7 @@ return {
 			key = "by3d_hd",
 			desc = "核弹",
 			lua = "BY3DHDManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
