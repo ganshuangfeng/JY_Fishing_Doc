@@ -841,7 +841,7 @@ return {
 			condi_key = "actp_own_task_p_027_mfflq",
 			gotoUI = {"act_027_jqshl","panel"},
 			model = "LoginUp",
-			srartTime = 1601942400,
+			srartTime = 1601913600,
 			endTime = 1602518399,
 		},
 		[75]=
