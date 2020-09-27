@@ -5613,6 +5613,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1598916600,
 		},
+		[320]=
+		{
+			id = 320,
+			enable = 1,
+			key = "actp_031_xxy_show",
+			name = "星星鱼刷新（非CPS渠道）",
+			condi = 325,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1601335800,
+		},
 	},
 	condi=
 	{
@@ -13754,7 +13766,7 @@ return {
 			value = "3dby_cps",
 			judge = 5,
 			group = 2,
-			error_desc = "是CPS渠道",
+			error_desc = "不是CPS渠道",
 		},
 		[815]=
 		{
@@ -13774,7 +13786,17 @@ return {
 			value = "3dby_cps",
 			judge = 5,
 			group = 3,
-			error_desc = "是CPS渠道",
+			error_desc = "不是CPS渠道",
+		},
+		[817]=
+		{
+			no = 817,
+			id = 325,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
 		},
 	},
 	share_condition=

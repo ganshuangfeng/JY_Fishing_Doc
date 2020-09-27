@@ -788,46 +788,54 @@ return {
 		{
 			id = 149,
 			fish_id = 31,
+			cond_key = "actp_031_xxy_show",
 		},
 		[150]=
 		{
 			id = 150,
 			fish_id = 31,
+			cond_key = "actp_031_xxy_show",
 		},
 		[151]=
 		{
 			id = 151,
 			fish_id = 31,
+			cond_key = "actp_031_xxy_show",
 		},
 		[152]=
 		{
 			id = 152,
 			fish_id = 5,
 			attr_id = 9,
+			cond_key = "actp_031_xxy_show",
 		},
 		[153]=
 		{
 			id = 153,
 			fish_id = 6,
 			attr_id = 9,
+			cond_key = "actp_031_xxy_show",
 		},
 		[154]=
 		{
 			id = 154,
 			fish_id = 7,
 			attr_id = 9,
+			cond_key = "actp_031_xxy_show",
 		},
 		[155]=
 		{
 			id = 155,
 			fish_id = 8,
 			attr_id = 9,
+			cond_key = "actp_031_xxy_show",
 		},
 		[156]=
 		{
 			id = 156,
 			fish_id = 9,
 			attr_id = 9,
+			cond_key = "actp_031_xxy_show",
 		},
 	},
 }

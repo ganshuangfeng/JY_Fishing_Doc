@@ -463,58 +463,68 @@ return {
 		{
 			id = 91,
 			fish_id = 57,
+			cond_key = "actp_031_xxy_show",
 		},
 		[92]=
 		{
 			id = 92,
 			fish_id = 57,
+			cond_key = "actp_031_xxy_show",
 		},
 		[93]=
 		{
 			id = 93,
 			fish_id = 57,
+			cond_key = "actp_031_xxy_show",
 		},
 		[94]=
 		{
 			id = 94,
 			fish_id = 11,
 			attr_id = 9,
+			cond_key = "actp_031_xxy_show",
 		},
 		[95]=
 		{
 			id = 95,
 			fish_id = 12,
 			attr_id = 9,
+			cond_key = "actp_031_xxy_show",
 		},
 		[96]=
 		{
 			id = 96,
 			fish_id = 13,
 			attr_id = 9,
+			cond_key = "actp_031_xxy_show",
 		},
 		[97]=
 		{
 			id = 97,
 			fish_id = 14,
 			attr_id = 9,
+			cond_key = "actp_031_xxy_show",
 		},
 		[98]=
 		{
 			id = 98,
 			fish_id = 15,
 			attr_id = 9,
+			cond_key = "actp_031_xxy_show",
 		},
 		[99]=
 		{
 			id = 99,
 			fish_id = 16,
 			attr_id = 9,
+			cond_key = "actp_031_xxy_show",
 		},
 		[100]=
 		{
 			id = 100,
 			fish_id = 17,
 			attr_id = 9,
+			cond_key = "actp_031_xxy_show",
 		},
 	},
 }
