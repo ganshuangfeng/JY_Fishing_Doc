@@ -6698,7 +6698,7 @@ return {
 			id = 1000069,
 			enable = 1,
 			name = "五星掉落",
-			own_type = "normal",
+			own_type = "p_031_gqfd_cumulative",
 			task_enum = "common",
 			process_id = 21427,
 			is_reset = 0,

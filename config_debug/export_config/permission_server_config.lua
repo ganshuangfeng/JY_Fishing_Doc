@@ -5594,7 +5594,7 @@ return {
 			id = 318,
 			enable = 1,
 			key = "actp_own_task_p_031_gqfd_cumulative",
-			name = "国庆福袋累计购买（非CPS渠道）",
+			name = "国庆福袋累计购买五星掉落（非CPS渠道）",
 			condi = 323,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
