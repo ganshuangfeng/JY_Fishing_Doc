@@ -1785,8 +1785,14 @@ return {
 		cpl_cjj=
 		{
 			key = "cpl_cjj",
-			name = "冲金鸡（CPL渠道）",
+			name = "冲金鸡",
 			condi = 326,
+		},
+		cpl_notcjj=
+		{
+			key = "cpl_notcjj",
+			name = "非冲金鸡",
+			condi = 327,
 		},
 	},
 	act_permission=
@@ -13813,6 +13819,16 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是冲金鸡渠道",
+		},
+		[819]=
+		{
+			no = 819,
+			id = 327,
+			var = "share_condition",
+			value = "3dby_cjj_cpl",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡渠道",
 		},
 	},
 	share_condition=
