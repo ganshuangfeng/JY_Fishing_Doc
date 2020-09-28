@@ -1782,6 +1782,12 @@ return {
 			name = "幸运抽奖（CPS渠道不显示）",
 			condi = 319,
 		},
+		cpl_cjj=
+		{
+			key = "cpl_cjj",
+			name = "冲金鸡（CPL渠道）",
+			condi = 326,
+		},
 	},
 	act_permission=
 	{
@@ -13798,6 +13804,16 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
+		[818]=
+		{
+			no = 818,
+			id = 326,
+			var = "share_condition",
+			value = "3dby_cjj_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是冲金鸡渠道",
+		},
 	},
 	share_condition=
 	{
@@ -13842,7 +13858,7 @@ return {
 			id = 5,
 			name = "3dby_cpl",
 			var = "market_channel",
-			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu"},
+			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd"},
 			judge = 2,
 			group = 1,
 		},
@@ -13860,7 +13876,16 @@ return {
 			id = 7,
 			name = "3dby_cps",
 			var = "market_channel",
-			value = {"vivo",},
+			value = {"vivo","xiaomi",},
+			judge = 2,
+			group = 1,
+		},
+		[8]=
+		{
+			id = 8,
+			name = "3dby_cjj_cpl",
+			var = "market_channel",
+			value = {"cjj",},
 			judge = 2,
 			group = 1,
 		},
