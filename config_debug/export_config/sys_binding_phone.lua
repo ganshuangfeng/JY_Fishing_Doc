@@ -20,15 +20,15 @@ return {
 			line = 3,
 			id = 3,
 			icon = "3dby_btn_sd",
-			desc = "锁定 x2",
+			desc = "锁定x2",
 			condi_key = "cpl_notcjj",
 		},
 		[4]=
 		{
 			line = 4,
 			id = 3,
-			icon = "3dby_btn_sd",
-			desc = "玩具锤 x1",
+			icon = "zjd_icon14",
+			desc = "玩具锤x1",
 			condi_key = "cpl_cjj",
 		},
 	},
