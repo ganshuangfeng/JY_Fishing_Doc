@@ -836,13 +836,13 @@ return {
 		{
 			id = 74,
 			bannerID = 74,
-			isOnOff = 0,
+			isOnOff = 1,
 			order = 100,
 			condi_key = "actp_own_task_p_027_mfflq",
 			gotoUI = {"act_027_jqshl","panel"},
 			model = "LoginUp",
-			srartTime = 1598916600,
-			endTime = 1599494399,
+			srartTime = 1601913600,
+			endTime = 1602518399,
 		},
 		[75]=
 		{
@@ -872,7 +872,7 @@ return {
 		{
 			id = 77,
 			bannerID = 77,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 100,
 			condi_key = "actp_own_task_p_028_xycd_ljyj",
 			gotoUI = {"act_028_xycd","panel"},
@@ -891,6 +891,18 @@ return {
 			model = "LoginUp",
 			srartTime = 1600128000,
 			endTime = 1600703999,
+		},
+		[79]=
+		{
+			id = 79,
+			bannerID = 79,
+			isOnOff = 1,
+			order = 100,
+			condi_key = "actp_buy_gift_bag_class_031_gqfd_gift",
+			gotoUI = {"sys_act_base","panel"},
+			model = "LoginUp",
+			srartTime = 1601337600,
+			endTime = 1601913599,
 		},
 	},
 }

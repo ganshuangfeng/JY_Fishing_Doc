@@ -116,7 +116,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "16;100;31#26#",
+			group_list = "16;11;31;93#26#",
 		},
 		[2]=
 		{
@@ -157,7 +157,7 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "36;89#97;100;11#58#30#",
+			group_list = "36;89#97;100;11;93#58#30#",
 		},
 		[3]=
 		{
@@ -300,7 +300,7 @@ return {
 		{
 			id = 4,
 			area = "down2",
-			group_list = "87#100;11#36;89#97#",
+			group_list = "103#87#100;11;93#36;89#",
 		},
 		[5]=
 		{
@@ -1004,6 +1004,12 @@ return {
 		{
 			id = 102,
 			parm = {"act_030_cwlb",},
+			is_on_off = 1,
+		},
+		[103]=
+		{
+			id = 103,
+			parm = {"by3d_hd",},
 			is_on_off = 1,
 		},
 	},

@@ -1782,6 +1782,18 @@ return {
 			name = "幸运抽奖（CPS渠道不显示）",
 			condi = 319,
 		},
+		cpl_cjj=
+		{
+			key = "cpl_cjj",
+			name = "冲金鸡",
+			condi = 326,
+		},
+		cpl_notcjj=
+		{
+			key = "cpl_notcjj",
+			name = "非冲金鸡",
+			condi = 327,
+		},
 	},
 	act_permission=
 	{
@@ -5569,13 +5581,61 @@ return {
 		{
 			id = 316,
 			enable = 1,
-			key = "actp_own_task_p_task_fish_daily_2_no_cps",
-			name = "捕鱼每日任务（新玩家，免费，小额）（非CPS渠道）",
+			key = "actp_gqkl_031_aster_exchange",
+			name = "五星送好礼（非CPS渠道，V4-V10玩家，非新用户）",
 			condi = 322,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
+			start_deal_time = 1601335800,
+		},
+		[317]=
+		{
+			id = 317,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_031_gqfd_gift",
+			name = "国庆福袋（非CPS渠道）",
+			condi = 323,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1601335800,
+		},
+		[318]=
+		{
+			id = 318,
+			enable = 1,
+			key = "actp_own_task_p_031_gqfd_cumulative",
+			name = "国庆福袋累计购买五星掉落（非CPS渠道）",
+			condi = 323,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1601335800,
+		},
+		[319]=
+		{
+			id = 319,
+			enable = 1,
+			key = "actp_own_task_p_task_fish_daily_2_no_cps",
+			name = "捕鱼每日任务（新玩家，免费，小额）（非CPS渠道）",
+			condi = 324,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
 			start_deal_time = 1598916600,
+		},
+		[320]=
+		{
+			id = 320,
+			enable = 1,
+			key = "actp_031_xxy_show",
+			name = "星星鱼刷新（非CPS渠道）",
+			condi = 325,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1601335800,
 		},
 	},
 	condi=
@@ -13634,61 +13694,141 @@ return {
 		{
 			no = 806,
 			id = 322,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[807]=
+		{
+			no = 807,
+			id = 322,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[808]=
+		{
+			no = 808,
+			id = 322,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上的用户可进行游戏",
+		},
+		[809]=
+		{
+			no = 809,
+			id = 322,
+			var = "vip_level",
+			value = 10,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP10及以下的用户可进行游戏",
+		},
+		[810]=
+		{
+			no = 810,
+			id = 323,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[811]=
+		{
+			no = 811,
+			id = 324,
 			var = "tag_type",
 			value = "tag_new_player",
 			judge = 2,
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[807]=
+		[812]=
 		{
-			no = 807,
-			id = 322,
+			no = 812,
+			id = 324,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
 			group = 1,
 			error_desc = "是CPS渠道",
 		},
-		[808]=
+		[813]=
 		{
-			no = 808,
-			id = 322,
+			no = 813,
+			id = 324,
 			var = "tag_type",
 			value = "tag_free_player",
 			judge = 2,
 			group = 2,
 			error_desc = "只展示给免费用户标签",
 		},
-		[809]=
+		[814]=
 		{
-			no = 809,
-			id = 322,
+			no = 814,
+			id = 324,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
 			group = 2,
-			error_desc = "是CPS渠道",
+			error_desc = "不是CPS渠道",
 		},
-		[810]=
+		[815]=
 		{
-			no = 810,
-			id = 322,
+			no = 815,
+			id = 324,
 			var = "tag_type",
 			value = "tag_stingy_player",
 			judge = 2,
 			group = 3,
 			error_desc = "只展示给小额标签用户",
 		},
-		[811]=
+		[816]=
 		{
-			no = 811,
-			id = 322,
+			no = 816,
+			id = 324,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
 			group = 3,
-			error_desc = "是CPS渠道",
+			error_desc = "不是CPS渠道",
+		},
+		[817]=
+		{
+			no = 817,
+			id = 325,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[818]=
+		{
+			no = 818,
+			id = 326,
+			var = "share_condition",
+			value = "3dby_cjj_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是冲金鸡渠道",
+		},
+		[819]=
+		{
+			no = 819,
+			id = 327,
+			var = "share_condition",
+			value = "3dby_cjj_cpl",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡渠道",
 		},
 	},
 	share_condition=
@@ -13734,7 +13874,7 @@ return {
 			id = 5,
 			name = "3dby_cpl",
 			var = "market_channel",
-			value = {"pceggs","xianwan","pdd","duoliang"},
+			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd"},
 			judge = 2,
 			group = 1,
 		},
@@ -13752,7 +13892,16 @@ return {
 			id = 7,
 			name = "3dby_cps",
 			var = "market_channel",
-			value = {"vivo",},
+			value = {"vivo","xiaomi",},
+			judge = 2,
+			group = 1,
+		},
+		[8]=
+		{
+			id = 8,
+			name = "3dby_cjj_cpl",
+			var = "market_channel",
+			value = {"cjj",},
 			judge = 2,
 			group = 1,
 		},

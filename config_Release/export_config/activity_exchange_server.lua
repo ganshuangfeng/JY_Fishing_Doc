@@ -37,6 +37,18 @@ return {
 			award_id = 3,
 			enable = 0,
 		},
+		[4]=
+		{
+			id = 4,
+			name = "五星换好礼",
+			start_time = 1601335800,
+			end_time = 1601913599,
+			use_goods = {"prop_031_aster",},
+			goods_type = 1,
+			email_id = 4,
+			award_id = 4,
+			enable = 1,
+		},
 	},
 	email=
 	{
@@ -57,6 +69,12 @@ return {
 			id = 3,
 			title = "龙虾啤酒节",
 			content = "恭喜您在龙虾兑换活动中获得了%s，请在活动结束后7个工作日内请关注公众号《畅游新世界》联系%s领取奖励，否则视为自动放弃！",
+		},
+		[4]=
+		{
+			id = 4,
+			title = "国庆狂欢",
+			content = "恭喜您在五星换好礼活动中获得了%s，请在活动结束后7个工作日内联系公众号《畅游新世界》客服领取，逾期视为自动放弃！",
 		},
 	},
 	award=
@@ -219,6 +237,86 @@ return {
 			asset_type = {"jing_bi",},
 			asset_count = {2000000,},
 			use_num = {2300,},
+			me_limit_day_num = 1,
+		},
+		[17]=
+		{
+			no = 17,
+			award_cfg_id = 4,
+			award_id = 1,
+			permission_key = "actp_gqkl_031_aster_exchange",
+			award_name = "双肩背包",
+			use_num = {15000,},
+			me_limit_day_num = 1,
+		},
+		[18]=
+		{
+			no = 18,
+			award_cfg_id = 4,
+			award_id = 2,
+			permission_key = "actp_gqkl_031_aster_exchange",
+			award_name = "U型颈枕",
+			use_num = {8000,},
+			me_limit_day_num = 1,
+		},
+		[19]=
+		{
+			no = 19,
+			award_cfg_id = 4,
+			award_id = 3,
+			permission_key = "actp_gqkl_031_aster_exchange",
+			award_name = "早餐饼干",
+			use_num = {5000,},
+			me_limit_day_num = 1,
+		},
+		[20]=
+		{
+			no = 20,
+			award_cfg_id = 4,
+			award_id = 4,
+			asset_type = {"jing_bi",},
+			asset_count = {20000000,},
+			use_num = {24000,},
+		},
+		[21]=
+		{
+			no = 21,
+			award_cfg_id = 4,
+			award_id = 5,
+			asset_type = {"jing_bi",},
+			asset_count = {10000000,},
+			use_num = {12000,},
+			me_limit_day_num = 3,
+		},
+		[22]=
+		{
+			no = 22,
+			award_cfg_id = 4,
+			award_id = 6,
+			asset_type = {"jing_bi",},
+			asset_count = {5000000,},
+			use_num = {6000,},
+			me_limit_day_num = 2,
+		},
+		[23]=
+		{
+			no = 23,
+			award_cfg_id = 4,
+			award_id = 7,
+			asset_type = {"jing_bi",},
+			asset_count = {2000000,},
+			use_num = {2400,},
+			me_limit_day_num = 1,
+		},
+		[24]=
+		{
+			no = 24,
+			award_cfg_id = 4,
+			award_id = 8,
+			permission_key = "actp_gqkl_031_aster_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {1000000,},
+			use_num = {1200,},
 			me_limit_day_num = 1,
 		},
 	},

@@ -247,6 +247,12 @@ return {
 			audio_name = "bzsl_firecracker.mp3",
 			desc = "爆竹送礼，爆炸音效",
 		},
+		bgm_by_jiangchijinbi_fly=
+		{
+			name = "bgm_by_jiangchijinbi_fly",
+			audio_name = "bgm_by_jiangchijinbi_fly.mp3",
+			desc = "奖池界面金币飞行音效",
+		},
 	},
 	player=
 	{

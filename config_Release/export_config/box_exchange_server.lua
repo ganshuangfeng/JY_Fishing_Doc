@@ -435,8 +435,8 @@ return {
 		{
 			id = 40,
 			name = "免费福利券",
-			start_time = 1598916600,
-			end_time = 1599494399,
+			start_time = 1602547200,
+			end_time = 1603123199,
 			use_asset_id = 35,
 			award_id = 40,
 			enable = 1,
@@ -459,6 +459,36 @@ return {
 			end_time = 1601308799,
 			use_asset_id = 37,
 			award_id = 42,
+			enable = 1,
+		},
+		[43]=
+		{
+			id = 43,
+			name = "初级核弹",
+			start_time = 1592841599,
+			end_time = 32503651200,
+			use_asset_id = 38,
+			award_id = 43,
+			enable = 1,
+		},
+		[44]=
+		{
+			id = 44,
+			name = "中级核弹",
+			start_time = 1592841599,
+			end_time = 32503651200,
+			use_asset_id = 39,
+			award_id = 44,
+			enable = 1,
+		},
+		[45]=
+		{
+			id = 45,
+			name = "高级核弹",
+			start_time = 1592841599,
+			end_time = 32503651200,
+			use_asset_id = 40,
+			award_id = 45,
 			enable = 1,
 		},
 	},
@@ -722,6 +752,27 @@ return {
 			use_id = 37,
 			use_item = "prop_cwlb_cjq",
 			use_num = 1,
+		},
+		[38]=
+		{
+			id = 38,
+			use_id = 38,
+			use_item = "prop_3d_fish_nuclear_bomb_fragment_1",
+			use_num = 100,
+		},
+		[39]=
+		{
+			id = 39,
+			use_id = 39,
+			use_item = "prop_3d_fish_nuclear_bomb_fragment_2",
+			use_num = 100,
+		},
+		[40]=
+		{
+			id = 40,
+			use_id = 40,
+			use_item = "prop_3d_fish_nuclear_bomb_fragment_3",
+			use_num = 100,
 		},
 	},
 	lottery_credit=
@@ -2799,6 +2850,27 @@ return {
 			award_id = 42,
 			real_award_id = 11755,
 			weight = 3,
+		},
+		[296]=
+		{
+			no = 296,
+			award_id = 43,
+			real_award_id = 11761,
+			weight = 1,
+		},
+		[297]=
+		{
+			no = 297,
+			award_id = 44,
+			real_award_id = 11762,
+			weight = 1,
+		},
+		[298]=
+		{
+			no = 298,
+			award_id = 45,
+			real_award_id = 11763,
+			weight = 1,
 		},
 	},
 	award_item=
@@ -4983,6 +5055,30 @@ return {
 			award_name = "50000金币",
 			asset_type = "jing_bi",
 			asset_count = {50000,50000},
+		},
+		[296]=
+		{
+			id = 296,
+			real_award_id = 11761,
+			award_name = "初级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_1",
+			asset_count = {1,1},
+		},
+		[297]=
+		{
+			id = 297,
+			real_award_id = 11762,
+			award_name = "中级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_2",
+			asset_count = {1,1},
+		},
+		[298]=
+		{
+			id = 298,
+			real_award_id = 11763,
+			award_name = "高级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_3",
+			asset_count = {1,1},
 		},
 	},
 	weight=

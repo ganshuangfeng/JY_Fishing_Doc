@@ -85,6 +85,46 @@ return {
 			start_time = 1569886200,
 			end_time = 2555555555,
 		},
+		[8]=
+		{
+			no = 8,
+			act_type = "activity",
+			act_id = 56,
+			judge_type = 2,
+			max_num = 1,
+			start_time = 1601335800,
+			end_time = 1601913599,
+		},
+		[9]=
+		{
+			no = 9,
+			act_type = "activity",
+			act_id = 57,
+			judge_type = 2,
+			max_num = 1,
+			start_time = 1601335800,
+			end_time = 1601913599,
+		},
+		[10]=
+		{
+			no = 10,
+			act_type = "activity",
+			act_id = 58,
+			judge_type = 2,
+			max_num = 1,
+			start_time = 1601335800,
+			end_time = 1601913599,
+		},
+		[11]=
+		{
+			no = 11,
+			act_type = "activity",
+			act_id = 59,
+			judge_type = 2,
+			max_num = 5,
+			start_time = 1601335800,
+			end_time = 1601913599,
+		},
 	},
 	change_style=
 	{
@@ -166,28 +206,28 @@ return {
 		[2]=
 		{
 			no = 2,
-			choose_group = {1,},
+			choose_group = {110,111,112,},
 			create_pro = {30,40,30},
 			create_config = "create_weight1",
 		},
 		[3]=
 		{
 			no = 3,
-			choose_group = {1,},
+			choose_group = {113,114,115,},
 			create_pro = {30,40,30},
 			create_config = "create_weight2",
 		},
 		[4]=
 		{
 			no = 4,
-			choose_group = {1,},
+			choose_group = {116,},
 			create_pro = {20,60,5},
 			create_config = "create_weight3",
 		},
 		[5]=
 		{
 			no = 5,
-			choose_group = {1,},
+			choose_group = {107,108,109,},
 			create_pro = {10,10,5},
 			create_config = "create_weight4",
 		},
@@ -263,22 +303,22 @@ return {
 		[1]=
 		{
 			no = 1,
-			min_time = 99999,
-			max_time = 99999,
+			min_time = 30,
+			max_time = 40,
 			type = 1,
 		},
 		[2]=
 		{
 			no = 2,
-			min_time = 99999,
-			max_time = 99999,
+			min_time = 25,
+			max_time = 30,
 			type = 2,
 		},
 		[3]=
 		{
 			no = 3,
-			min_time = 99999,
-			max_time = 99999,
+			min_time = 10,
+			max_time = 25,
 			type = 3,
 		},
 	},
@@ -452,38 +492,30 @@ return {
 		[6]=
 		{
 			no = 6,
-			group_id = {12,13,14,15,16,17,},
-			min_time = 40,
-			max_time = 60,
-			path = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,},
-		},
-		[7]=
-		{
-			no = 7,
 			group_id = {35,35,42,43,44,},
 			min_time = 600,
 			max_time = 800,
 			path = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,},
 		},
-		[8]=
+		[7]=
 		{
-			no = 8,
+			no = 7,
 			group_id = {1,2,3,4,5,6,7,8,9,10,11,64,65,66,1,2,3,4,5,6,7,8,9,10,11,26,27,},
 			min_time = 20,
 			max_time = 30,
 			path = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,},
 		},
-		[9]=
+		[8]=
 		{
-			no = 9,
+			no = 8,
 			group_id = {28,29,30,31,32,33,},
 			min_time = 50,
 			max_time = 80,
 			path = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,},
 		},
-		[10]=
+		[9]=
 		{
-			no = 10,
+			no = 9,
 			group_id = {68,69,70,71,72,73,74,82,83,84,85,86,87,88,67,81,75,76,77,78,79,80,89,90,91,92,93,94,},
 			min_time = 500,
 			max_time = 700,

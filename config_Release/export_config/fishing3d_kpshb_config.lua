@@ -50,7 +50,7 @@ return {
 			show_hb = 60000,
 			hb_show = "1000;3000;5000#5000;10000;15000#40000;50000;60000",
 			key = "actp_own_task_p_kpshb_nor",
-			asset_value = {1000,4000,5000,5000,10000,15000,40000,50000,60000},
+			asset_value = {1000,3000,5000,5000,10000,15000,40000,50000,60000},
 			asset_type = {"shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum","shop_gold_sum"},
 		},
 		[5]=
