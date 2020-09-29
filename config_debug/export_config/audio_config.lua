@@ -4302,7 +4302,7 @@ return {
 		bgm_lwzb_kaishicn=
 		{
 			name = "bgm_lwzb_kaishicn",
-			audio_name = "bgm_pgdz_kaishi.mp3",
+			audio_name = "bgm_lwzb_kaishi.mp3",
 			desc = "开始充能",
 		},
 		bgm_lwzb_kaipao=
@@ -4314,7 +4314,7 @@ return {
 		bgm_lwzb_yazhu=
 		{
 			name = "bgm_lwzb_yazhu",
-			audio_name = "bgm_pgdz_zhongzhi.mp3",
+			audio_name = "bgm_lwzb_zhongzhi.mp3",
 			desc = "其他玩家充能声音",
 		},
 		bgm_lwzb_jiguang=
@@ -4332,7 +4332,7 @@ return {
 		bgm_lwzb_jieshu=
 		{
 			name = "bgm_lwzb_jieshu",
-			audio_name = "bgm_lwzb_tingzhi.mp3",
+			audio_name = "bgm_lwzb_jieshu.mp3",
 			desc = "停止充能",
 		},
 		bgm_lwzb_bipaibg=
@@ -4374,19 +4374,19 @@ return {
 		bgm_lwzb_jiesuan_1=
 		{
 			name = "bgm_lwzb_jiesuan_1",
-			audio_name = "bgm_shxxl_jiangli2.mp3",
+			audio_name = "bgm_lwzb_jiangli2.mp3",
 			desc = "结算界面-赢钱",
 		},
 		bgm_lwzb_jiesuan_2=
 		{
 			name = "bgm_lwzb_jiesuan_2",
-			audio_name = "bgm_shxxl_jiangli3.mp3",
+			audio_name = "bgm_lwzb_jiangli3.mp3",
 			desc = "结算界面-数钱",
 		},
 		bgm_lwzb_cs_bg=
 		{
 			name = "bgm_lwzb_cs_bg",
-			audio_name = "bgm_csxxl_caishenyaojiang.mp3",
+			audio_name = "bgm_lwzb_caishenyaojiang.mp3",
 			desc = "财神大奖开奖界面音效",
 		},
 		bgm_lwzb_cs_zhuandong=
