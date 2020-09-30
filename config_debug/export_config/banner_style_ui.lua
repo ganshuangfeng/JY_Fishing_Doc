@@ -902,7 +902,7 @@ return {
 			gotoUI = {"sys_act_base","panel"},
 			model = "LoginUp",
 			srartTime = 1601337600,
-			endTime = 1601884799,
+			endTime = 1601913599,
 		},
 	},
 }
