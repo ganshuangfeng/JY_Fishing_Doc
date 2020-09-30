@@ -2575,9 +2575,9 @@ return {
 			key = "act_026_bblb",
 			desc = "表白礼包",
 			lua = "Act_026_BBLBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[264]=
 		{
@@ -2595,9 +2595,9 @@ return {
 			key = "act_026_zabd",
 			desc = "真爱榜单",
 			lua = "Act_026_ZABDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[266]=
 		{
@@ -2605,9 +2605,9 @@ return {
 			key = "act_026_lmlh",
 			desc = "浪漫礼盒",
 			lua = "Act_026_LMLHManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[267]=
 		{
@@ -2762,7 +2762,17 @@ return {
 			id = 282,
 			key = "act_031_gqkl_ani",
 			desc = "星星掉落脚本",
-			lua = " Act_031_GQKLManager",
+			lua = "Act_031_GQKLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[283]=
+		{
+			id = 283,
+			key = "by3d_hd",
+			desc = "核弹",
+			lua = "BY3DHDManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
