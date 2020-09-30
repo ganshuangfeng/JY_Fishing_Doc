@@ -13853,7 +13853,7 @@ return {
 			no = 820,
 			id = 328,
 			var = "market_channel",
-			value = ""xiaomi"",
+			value = "xiaomi",
 			judge = 5,
 			group = 1,
 			error_desc = "非小米的全渠道",
