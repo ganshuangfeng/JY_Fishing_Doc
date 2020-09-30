@@ -12094,11 +12094,11 @@ return {
 		{
 			no = 646,
 			id = 248,
-			var = "market_channel",
-			value = "vivo",
+			var = "share_condition",
+			value = "3dby_cps",
 			judge = 2,
 			group = 1,
-			error_desc = "是VIVO渠道的用户",
+			error_desc = "是CPS用户",
 		},
 		[647]=
 		{
