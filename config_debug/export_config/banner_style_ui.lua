@@ -901,7 +901,7 @@ return {
 			condi_key = "actp_buy_gift_bag_class_031_gqfd_gift",
 			gotoUI = {"sys_act_base","panel"},
 			model = "LoginUp",
-			srartTime = 1601307000,
+			srartTime = 1601337600,
 			endTime = 1601884799,
 		},
 	},
