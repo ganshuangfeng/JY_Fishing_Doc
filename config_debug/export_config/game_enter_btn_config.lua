@@ -163,7 +163,7 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "36;89#97;100;11;93#58#30#",
+			group_list = "36;89#97;100;102;11;93#58#30#",
 		},
 		[3]=
 		{
@@ -187,12 +187,6 @@ return {
 			id = 6,
 			area = "fish3d_node",
 			group_list = "65#",
-		},
-		[7]=
-		{
-			id = 7,
-			area = "left",
-			group_list = "102#",
 		},
 	},
 	freehall_config=
@@ -312,7 +306,7 @@ return {
 		{
 			id = 4,
 			area = "down2",
-			group_list = "103#87#100;11;93#36;89#",
+			group_list = "103#87#100;102;11;93#36;89#",
 		},
 		[5]=
 		{
@@ -381,12 +375,6 @@ return {
 			id = 9,
 			area = "top_c",
 			group_list = "104#",
-		},
-		[10]=
-		{
-			id = 10,
-			area = "left",
-			group_list = "102#",
 		},
 	},
 	ttl_config=
