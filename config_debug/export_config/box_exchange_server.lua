@@ -2782,28 +2782,28 @@ return {
 			no = 283,
 			award_id = 40,
 			real_award_id = 11731,
-			weight = 1,
+			weight = 2,
 		},
 		[284]=
 		{
 			no = 284,
 			award_id = 40,
 			real_award_id = 11732,
-			weight = 10,
+			weight = 150,
 		},
 		[285]=
 		{
 			no = 285,
 			award_id = 40,
 			real_award_id = 11733,
-			weight = 55,
+			weight = 500,
 		},
 		[286]=
 		{
 			no = 286,
 			award_id = 40,
 			real_award_id = 11734,
-			weight = 34,
+			weight = 348,
 		},
 		[287]=
 		{
@@ -5015,25 +5015,25 @@ return {
 		{
 			id = 283,
 			real_award_id = 11731,
-			award_name = "500福利券",
+			award_name = "1000福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = {500,500},
+			asset_count = {1000,1000},
 		},
 		[284]=
 		{
 			id = 284,
 			real_award_id = 11732,
-			award_name = "300福利券",
+			award_name = "500福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = {300,300},
+			asset_count = {500,500},
 		},
 		[285]=
 		{
 			id = 285,
 			real_award_id = 11733,
-			award_name = "150福利券",
+			award_name = "300福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = {150,150},
+			asset_count = {300,300},
 		},
 		[286]=
 		{
