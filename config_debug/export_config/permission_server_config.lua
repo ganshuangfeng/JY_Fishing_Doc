@@ -5570,7 +5570,7 @@ return {
 			id = 316,
 			enable = 1,
 			key = "actp_gqkl_031_aster_exchange",
-			name = "五星送好礼（非CPS渠道，非新玩家）",
+			name = "五星送好礼（非CPS渠道，V4-V10玩家，非新用户）",
 			condi = 322,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -13677,6 +13677,26 @@ return {
 		[808]=
 		{
 			no = 808,
+			id = 322,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上的用户可进行游戏",
+		},
+		[809]=
+		{
+			no = 809,
+			id = 322,
+			var = "vip_level",
+			value = 10,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP10及以下的用户可进行游戏",
+		},
+		[810]=
+		{
+			no = 810,
 			id = 323,
 			var = "share_condition",
 			value = "3dby_cps",
