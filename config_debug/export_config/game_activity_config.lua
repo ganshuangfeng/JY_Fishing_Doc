@@ -280,7 +280,7 @@ return {
 			showType = "prefab",
 			parmData = "act_005_yzqj",
 			is_local_icon = 1,
-			gotoUI = {"act_005_yzqj ","panel"},
+			gotoUI = {"act_005_yzqj","panel"},
 			tag = "normal",
 		},
 	},
