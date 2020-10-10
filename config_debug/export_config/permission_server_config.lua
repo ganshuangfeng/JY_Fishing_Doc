@@ -5655,6 +5655,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1603152000,
 		},
+		[322]=
+		{
+			id = 322,
+			enable = 1,
+			key = "actp_own_task_1000070",
+			name = "非小米的渠道",
+			condi = 329,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1603152000,
+		},
 	},
 	condi=
 	{
@@ -13812,6 +13824,16 @@ return {
 		{
 			no = 816,
 			id = 328,
+			var = "market_channel",
+			value = "xiaomi",
+			judge = 5,
+			group = 1,
+			error_desc = "非小米的全渠道",
+		},
+		[817]=
+		{
+			no = 817,
+			id = 329,
 			var = "market_channel",
 			value = "xiaomi",
 			judge = 5,
