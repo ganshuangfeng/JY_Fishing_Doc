@@ -6790,7 +6790,7 @@ return {
 			shop_type = "gift_bag",
 			price = 19800,
 			buy_asset_type = {"jing_bi",},
-			buy_asset_count = {20388888,},
+			buy_asset_count = {20400000,},
 			buy_limt = {9999999999,1,0},
 			count = 99999999,
 			start_time = 0,
