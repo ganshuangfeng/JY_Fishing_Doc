@@ -1800,6 +1800,12 @@ return {
 			name = "除小米外全渠道",
 			condi = 328,
 		},
+		vip_notcps=
+		{
+			key = "vip_notcps",
+			name = "VIP权限信息（CPS渠道不显示）",
+			condi = 319,
+		},
 	},
 	act_permission=
 	{

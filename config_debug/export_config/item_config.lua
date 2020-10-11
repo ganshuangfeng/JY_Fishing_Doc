@@ -1426,7 +1426,6 @@ return {
 			order = 34,
 			name = "小游戏币",
 			desc = "用于小游戏消耗",
-			use_parm = {"game_MiniGame",},
 		},
 		[110]=
 		{
