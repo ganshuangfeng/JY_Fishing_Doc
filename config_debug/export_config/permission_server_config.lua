@@ -5673,6 +5673,30 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1603152000,
 		},
+		[323]=
+		{
+			id = 323,
+			enable = 1,
+			key = "actp_own_task_p_task_fish_daily_cpl_cjj",
+			name = "冲金鸡的渠道",
+			condi = 326,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
+		[324]=
+		{
+			id = 324,
+			enable = 1,
+			key = "actp_own_task_p_task_fish_daily_cpl_notcjj",
+			name = "非冲金鸡的渠道",
+			condi = 327,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598916600,
+		},
 	},
 	condi=
 	{
