@@ -12686,7 +12686,7 @@ return {
 			id = 287,
 			var = "share_condition",
 			value = "3dby_cps",
-			judge = 2,
+			judge = 5,
 			group = 2,
 			error_desc = "是CPS渠道",
 		},
