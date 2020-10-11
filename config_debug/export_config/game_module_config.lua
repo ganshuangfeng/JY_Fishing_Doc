@@ -1506,9 +1506,9 @@ return {
 			key = "act_005_yzqj",
 			desc = "一字千金",
 			lua = "Act_005YZQJManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[152]=
 		{
