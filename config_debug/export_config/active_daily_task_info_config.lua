@@ -1,35 +1,21 @@
 return {
-	active_award_config=
+	config=
 	{
 		[1]=
 		{
 			id = 1,
-			active = 30,
-			award_tip = "5000鱼币，锁定*2",
+			key = "notcjj",
+			task = "active_task_item",
+			award = "active_award_config",
+			award_task = 13000,
 		},
 		[2]=
 		{
 			id = 2,
-			active = 60,
-			award_tip = "1万鱼币，召唤*1",
-		},
-		[3]=
-		{
-			id = 3,
-			active = 90,
-			award_tip = "1万鱼币，1万小游戏币",
-		},
-		[4]=
-		{
-			id = 4,
-			active = 120,
-			award_tip = "1万鱼币，1万金币",
-		},
-		[5]=
-		{
-			id = 5,
-			active = 150,
-			award_tip = "6万金币",
+			key = "cjj",
+			task = "active_task_item_cjj",
+			award = "active_award_config_cjj",
+			award_task = 13001,
 		},
 	},
 	active_task_item=
@@ -396,6 +382,159 @@ return {
 			task_award_instruction = {"福利券","活跃度"},
 			task_award_count = {"x500","x50"},
 			gotoui = {"shop_bay","jing_bi"},
+		},
+	},
+	active_award_config=
+	{
+		[1]=
+		{
+			id = 1,
+			active = 30,
+			award_tip = "5000鱼币，锁定*2",
+		},
+		[2]=
+		{
+			id = 2,
+			active = 60,
+			award_tip = "1万鱼币，召唤*1",
+		},
+		[3]=
+		{
+			id = 3,
+			active = 90,
+			award_tip = "1万鱼币，1万小游戏币",
+		},
+		[4]=
+		{
+			id = 4,
+			active = 120,
+			award_tip = "1万鱼币，1万金币",
+		},
+		[5]=
+		{
+			id = 5,
+			active = 150,
+			award_tip = "6万金币",
+		},
+	},
+	active_task_item_cjj=
+	{
+		[1]=
+		{
+			id = 1,
+			task_id = 12600,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金5万",
+			task_award_icon = {"ty_icon_flq1","ty_icon_hytb",},
+			task_award_instruction = {"福利券","活跃度"},
+			task_award_count = {"x1","x10"},
+			gotoui = {"game_MniGame",},
+		},
+		[2]=
+		{
+			id = 2,
+			task_id = 12601,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金10万",
+			task_award_icon = {"ty_icon_flq1","ty_icon_hytb",},
+			task_award_instruction = {"福利券","活跃度"},
+			task_award_count = {"x5","x10"},
+			gotoui = {"game_MniGame",},
+		},
+		[3]=
+		{
+			id = 3,
+			task_id = 12602,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金50万",
+			task_award_icon = {"ty_icon_flq2","ty_icon_hytb",},
+			task_award_instruction = {"福利券","活跃度"},
+			task_award_count = {"x10","x20"},
+			gotoui = {"game_MniGame",},
+		},
+		[4]=
+		{
+			id = 4,
+			task_id = 12603,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金100万",
+			task_award_icon = {"ty_icon_flq2","ty_icon_hytb",},
+			task_award_instruction = {"福利券","活跃度"},
+			task_award_count = {"x30","x20"},
+			gotoui = {"game_MniGame",},
+		},
+		[5]=
+		{
+			id = 5,
+			task_id = 12604,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金200万",
+			task_award_icon = {"ty_icon_flq2","ty_icon_hytb",},
+			task_award_instruction = {"福利券","活跃度"},
+			task_award_count = {"x60","x30"},
+			gotoui = {"game_MniGame",},
+		},
+		[6]=
+		{
+			id = 6,
+			task_id = 12605,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金500万",
+			task_award_icon = {"ty_icon_flq3","ty_icon_hytb",},
+			task_award_instruction = {"福利券","活跃度"},
+			task_award_count = {"x150","x30"},
+			gotoui = {"game_MniGame",},
+		},
+		[7]=
+		{
+			id = 7,
+			task_id = 12606,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金1000万",
+			task_award_icon = {"ty_icon_flq3","ty_icon_hytb",},
+			task_award_instruction = {"福利券","活跃度"},
+			task_award_count = {"x300","x50"},
+			gotoui = {"game_MniGame",},
+		},
+	},
+	active_award_config_cjj=
+	{
+		[1]=
+		{
+			id = 1,
+			active = 30,
+			award_tip = "5000小游戏币",
+		},
+		[2]=
+		{
+			id = 2,
+			active = 60,
+			award_tip = "1万小游戏币，玩具锤*1",
+		},
+		[3]=
+		{
+			id = 3,
+			active = 90,
+			award_tip = "1万金币，1万小游戏币",
+		},
+		[4]=
+		{
+			id = 4,
+			active = 120,
+			award_tip = "2万金币，2万小游戏币",
+		},
+		[5]=
+		{
+			id = 5,
+			active = 150,
+			award_tip = "5万金币",
 		},
 	},
 }
