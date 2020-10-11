@@ -27,7 +27,7 @@ return {
 		{
 			line = 4,
 			id = 3,
-			icon = "zjd_icon14",
+			icon = "zjd_icon_wjc",
 			desc = "玩具锤x1",
 			condi_key = "cpl_cjj",
 		},
