@@ -1159,17 +1159,17 @@ return {
 			awards = 1040,
 			get_award_type = "nor",
 		},
-		[53]=
+		[50]=
 		{
-			id = 53,
+			id = 50,
 			process_id = 13000,
 			process = {30,30,30,30,30},
 			awards = {2001,2002,2003,2004,2005},
 			get_award_type = "nor",
 		},
-		[54]=
+		[51]=
 		{
-			id = 54,
+			id = 51,
 			process_id = 13001,
 			process = {30,30,30,30,30},
 			awards = {2006,2007,2008,2009,2010},
