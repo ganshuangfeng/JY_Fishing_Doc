@@ -1806,6 +1806,60 @@ return {
 			name = "VIP权限信息（CPS渠道不显示）",
 			condi = 319,
 		},
+		lwzb_bet_limit_1=
+		{
+			key = "lwzb_bet_limit_1",
+			name = "龙王争霸V0培育上限",
+			condi = 127,
+		},
+		lwzb_bet_limit_2=
+		{
+			key = "lwzb_bet_limit_2",
+			name = "龙王争霸V1培育上限",
+			condi = 128,
+		},
+		lwzb_bet_limit_3=
+		{
+			key = "lwzb_bet_limit_3",
+			name = "龙王争霸V2培育上限",
+			condi = 129,
+		},
+		lwzb_bet_limit_4=
+		{
+			key = "lwzb_bet_limit_4",
+			name = "龙王争霸V3培育上限",
+			condi = 130,
+		},
+		lwzb_bet_limit_5=
+		{
+			key = "lwzb_bet_limit_5",
+			name = "龙王争霸V4培育上限",
+			condi = 131,
+		},
+		lwzb_bet_limit_6=
+		{
+			key = "lwzb_bet_limit_6",
+			name = "龙王争霸V5培育上限",
+			condi = 132,
+		},
+		lwzb_bet_limit_7=
+		{
+			key = "lwzb_bet_limit_7",
+			name = "龙王争霸V6培育上限",
+			condi = 133,
+		},
+		lwzb_bet_limit_8=
+		{
+			key = "lwzb_bet_limit_8",
+			name = "龙王争霸V7培育上限",
+			condi = 134,
+		},
+		lwzb_bet_limit_9=
+		{
+			key = "lwzb_bet_limit_9",
+			name = "龙王争霸V8以上培育上限",
+			condi = 135,
+		},
 	},
 	act_permission=
 	{

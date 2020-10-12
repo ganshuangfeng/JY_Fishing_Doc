@@ -2787,5 +2787,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[285]=
+		{
+			id = 285,
+			key = "sys_jjsl",
+			desc = "金鸡送礼",
+			lua = "SYSJJSLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
