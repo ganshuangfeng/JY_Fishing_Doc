@@ -11,7 +11,7 @@ return {
 		{
 			line = 2,
 			condi_key = "quanxianzhi2",
-			gun_rate = {5000,10000,50000,100000},
+			gun_rate = {10000,50000,100000,1000000},
 		},
 	},
 	ground1 =
