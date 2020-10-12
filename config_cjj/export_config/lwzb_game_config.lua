@@ -22,7 +22,7 @@ return {
 			type = 1,
 			px_name = "lwzb_imgf_wzjl",
 			px  = {11,12,13,13,13},
-			rate = 5,
+			rate = 10,
 		},
 		[2]=
 		{
@@ -30,7 +30,7 @@ return {
 			type = 1,
 			px_name = "lwzb_imgf_sfss",
 			px  = {8,8,8,8,6},
-			rate = 4,
+			rate = 10,
 		},
 		[3]=
 		{
@@ -38,7 +38,7 @@ return {
 			type = 1,
 			px_name = "lwzb_imgf_sl",
 			px  = {7,2,1,6,4},
-			rate = 3,
+			rate = 10,
 		},
 		[4]=
 		{
@@ -46,7 +46,7 @@ return {
 			type = 1,
 			px_name = "lwzb_imgf_l9",
 			px  = {8,2,7,3,9},
-			rate = 2,
+			rate = 9,
 		},
 		[5]=
 		{
@@ -54,7 +54,7 @@ return {
 			type = 1,
 			px_name = "lwzb_imgf_l8",
 			px  = {8,2,7,3,8},
-			rate = 2,
+			rate = 8,
 		},
 		[6]=
 		{
@@ -62,7 +62,7 @@ return {
 			type = 1,
 			px_name = "lwzb_imgf_l7",
 			px  = {8,2,7,3,7},
-			rate = 2,
+			rate = 7,
 		},
 		[7]=
 		{
@@ -70,7 +70,7 @@ return {
 			type = 1,
 			px_name = "lwzb_imgf_l6",
 			px  = {8,2,7,3,6},
-			rate = 1,
+			rate = 6,
 		},
 		[8]=
 		{
@@ -78,7 +78,7 @@ return {
 			type = 1,
 			px_name = "lwzb_imgf_l5",
 			px  = {8,2,7,3,5},
-			rate = 1,
+			rate = 5,
 		},
 		[9]=
 		{
@@ -86,7 +86,7 @@ return {
 			type = 1,
 			px_name = "lwzb_imgf_l4",
 			px  = {8,2,7,3,4},
-			rate = 1,
+			rate = 4,
 		},
 		[10]=
 		{
@@ -94,7 +94,7 @@ return {
 			type = 1,
 			px_name = "lwzb_imgf_l3",
 			px  = {8,2,7,3,3},
-			rate = 1,
+			rate = 3,
 		},
 		[11]=
 		{
@@ -102,7 +102,7 @@ return {
 			type = 1,
 			px_name = "lwzb_imgf_l2",
 			px  = {8,2,7,3,2},
-			rate = 1,
+			rate = 2,
 		},
 		[12]=
 		{

@@ -10154,27 +10154,6 @@ return {
 			wx_pay = 1,
 			zfb_pay = 1,
 		},
-		[414]=
-		{
-			line_id = 414,
-			id = 10331,
-			on_off = 1,
-			pay_title = "金鸡送礼",
-			content = {"1万",},
-			gzh_order = -31,
-			gzh_show = 0,
-			web_show = 0,
-			shop_type = "gift_bag",
-			price = 1000,
-			buy_asset_type = {"jing_bi",},
-			buy_asset_count = {10000,},
-			buy_limt = {9999999999,1,0},
-			count = 99999999,
-			start_time = 0,
-			end_time = 2552233600,
-			wx_pay = 1,
-			zfb_pay = 1,
-		},
 	},
 	gift_bag_condition=
 	{
