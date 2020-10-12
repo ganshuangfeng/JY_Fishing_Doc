@@ -163,7 +163,7 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "36;89#97;100;102;11;93;94#58#30#",
+			group_list = "36;89;105#97;100;102;11;93;94#58#30#",
 		},
 		[3]=
 		{
@@ -400,7 +400,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			area = "top",
+			area = "left_top",
 			group_list = "101#",
 		},
 	},
@@ -1037,6 +1037,12 @@ return {
 		{
 			id = 104,
 			parm = {"by_xyxyd",},
+			is_on_off = 1,
+		},
+		[105]=
+		{
+			id = 105,
+			parm = {"sys_jjsl",},
 			is_on_off = 1,
 		},
 	},
