@@ -338,7 +338,7 @@ return {
 		{
 			id = 3,
 			area = "top_right",
-			group_list = "72#",
+			group_list = "104#95#72#",
 		},
 		[4]=
 		{
@@ -363,18 +363,6 @@ return {
 			id = 7,
 			area = "center5",
 			group_list = "77#68",
-		},
-		[8]=
-		{
-			id = 8,
-			area = "top_right_1",
-			group_list = "95#",
-		},
-		[9]=
-		{
-			id = 9,
-			area = "top_c",
-			group_list = "104#",
 		},
 	},
 	ttl_config=
