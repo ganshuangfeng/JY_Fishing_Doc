@@ -3,6 +3,7 @@ return {
 	{
 		[1]=
 		{
+			id = 1,
 			award_id = 1,
 			award_name = "40万鱼币",
 			award_value = 400000,
@@ -13,6 +14,7 @@ return {
 		},
 		[2]=
 		{
+			id = 2,
 			award_id = 2,
 			award_name = "30万鱼币",
 			award_value = 300000,
@@ -23,6 +25,7 @@ return {
 		},
 		[3]=
 		{
+			id = 3,
 			award_id = 3,
 			award_name = "45万鱼币",
 			award_value = 450000,
@@ -33,6 +36,7 @@ return {
 		},
 		[4]=
 		{
+			id = 4,
 			award_id = 4,
 			award_name = "50万金币",
 			award_value = 500000,
@@ -43,6 +47,7 @@ return {
 		},
 		[5]=
 		{
+			id = 5,
 			award_id = 5,
 			award_name = "60万鱼币",
 			award_value = 600000,
@@ -53,6 +58,7 @@ return {
 		},
 		[6]=
 		{
+			id = 6,
 			award_id = 6,
 			award_name = "话费碎片*100",
 			award_value = 100,
@@ -63,6 +69,7 @@ return {
 		},
 		[7]=
 		{
+			id = 7,
 			award_id = 7,
 			award_name = "500万鱼币",
 			award_value = 5000000,
@@ -73,6 +80,7 @@ return {
 		},
 		[8]=
 		{
+			id = 8,
 			award_id = 8,
 			award_name = "1000万金币",
 			award_value = 10000000,
@@ -83,6 +91,7 @@ return {
 		},
 		[9]=
 		{
+			id = 9,
 			award_id = 9,
 			award_name = "19800福利券",
 			award_value = 19800,
@@ -93,7 +102,8 @@ return {
 		},
 		[10]=
 		{
-			award_id = 10,
+			id = 10,
+			award_id = 1,
 			award_name = "40万小游戏币",
 			award_value = 400000,
 			award_type = "prop_tiny_game_coin",
@@ -103,7 +113,8 @@ return {
 		},
 		[11]=
 		{
-			award_id = 11,
+			id = 11,
+			award_id = 2,
 			award_name = "30万小游戏币",
 			award_value = 300000,
 			award_type = "prop_tiny_game_coin",
@@ -113,7 +124,8 @@ return {
 		},
 		[12]=
 		{
-			award_id = 12,
+			id = 12,
+			award_id = 3,
 			award_name = "45万小游戏币",
 			award_value = 450000,
 			award_type = "prop_tiny_game_coin",
@@ -123,7 +135,8 @@ return {
 		},
 		[13]=
 		{
-			award_id = 13,
+			id = 13,
+			award_id = 4,
 			award_name = "50万金币",
 			award_value = 500000,
 			award_type = "jing_bi",
@@ -133,7 +146,8 @@ return {
 		},
 		[14]=
 		{
-			award_id = 14,
+			id = 14,
+			award_id = 5,
 			award_name = "60万小游戏币",
 			award_value = 600000,
 			award_type = "prop_tiny_game_coin",
@@ -143,7 +157,8 @@ return {
 		},
 		[15]=
 		{
-			award_id = 15,
+			id = 15,
+			award_id = 6,
 			award_name = "话费碎片*100",
 			award_value = 100,
 			award_type = "prop_web_chip_huafei",
@@ -153,7 +168,8 @@ return {
 		},
 		[16]=
 		{
-			award_id = 16,
+			id = 16,
+			award_id = 7,
 			award_name = "500万小游戏币",
 			award_value = 5000000,
 			award_type = "prop_tiny_game_coin",
@@ -163,7 +179,8 @@ return {
 		},
 		[17]=
 		{
-			award_id = 17,
+			id = 17,
+			award_id = 8,
 			award_name = "1000万金币",
 			award_value = 10000000,
 			award_type = "jing_bi",
@@ -173,7 +190,8 @@ return {
 		},
 		[18]=
 		{
-			award_id = 18,
+			id = 18,
+			award_id = 9,
 			award_name = "19800福利券",
 			award_value = 19800,
 			award_type = "shop_gold_sum",
