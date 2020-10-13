@@ -41,7 +41,7 @@ return {
 			id = 6,
 			prop_type = "prop_mfcjq",
 			start_time = 1599523200,
-			recycle_time = 1600099199,
+			recycle_time = 1603123199,
 		},
 		[7]=
 		{
