@@ -233,21 +233,21 @@ return {
 		[1]=
 		{
 			line = 1,
-			type_name = "五爪金龙",
+			type_name = "财神巨奖",
 			type_image = "lwzb_imgf_wzjl",
 			rate = 5,
 		},
 		[2]=
 		{
 			line = 2,
-			type_name = "四方神兽",
+			type_name = "财神大奖",
 			type_image = "lwzb_imgf_sfss",
 			rate = 3,
 		},
 		[3]=
 		{
 			line = 3,
-			type_name = "神龙",
+			type_name = "财神奖",
 			type_image = "lwzb_imgf_sl",
 			rate = 1,
 		},
