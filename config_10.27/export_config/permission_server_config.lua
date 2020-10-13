@@ -1716,10 +1716,16 @@ return {
 			name = "关注有礼-福利中心 （新人才展示）",
 			condi = 91,
 		},
+		vip0_buygift=
+		{
+			key = "vip0_buygift",
+			name = "VIP1直通礼包（只有VIP0显示）",
+			condi = 332,
+		},
 		vip1_buygift=
 		{
 			key = "vip1_buygift",
-			name = "VIP2直通礼包（只有VIP2显示）",
+			name = "VIP2直通礼包（只有VIP1显示）",
 			condi = 242,
 		},
 		vip2_buygift=
@@ -1731,7 +1737,7 @@ return {
 		vip3_buygift=
 		{
 			key = "vip3_buygift",
-			name = "VIP4直通礼包（只有VIP2显示）",
+			name = "VIP4直通礼包（只有VIP3显示）",
 			condi = 244,
 		},
 		drt_block_phonenum_realname=
@@ -14067,6 +14073,16 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "非新用户",
+		},
+		[830]=
+		{
+			no = 830,
+			id = 332,
+			var = "vip_level",
+			value = 0,
+			judge = 2,
+			group = 1,
+			error_desc = "v0及以下",
 		},
 	},
 	share_condition=
