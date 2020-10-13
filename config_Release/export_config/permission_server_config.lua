@@ -12094,11 +12094,11 @@ return {
 		{
 			no = 646,
 			id = 248,
-			var = "market_channel",
-			value = "vivo",
+			var = "share_condition",
+			value = "3dby_cps",
 			judge = 2,
 			group = 1,
-			error_desc = "是VIVO渠道的用户",
+			error_desc = "是CPS用户",
 		},
 		[647]=
 		{
@@ -12686,7 +12686,7 @@ return {
 			id = 287,
 			var = "share_condition",
 			value = "3dby_cps",
-			judge = 2,
+			judge = 5,
 			group = 2,
 			error_desc = "是CPS渠道",
 		},
@@ -12933,16 +12933,6 @@ return {
 		[730]=
 		{
 			no = 730,
-			id = 294,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
-		},
-		[731]=
-		{
-			no = 731,
 			id = 295,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12950,9 +12940,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[732]=
+		[731]=
 		{
-			no = 732,
+			no = 731,
 			id = 295,
 			var = "vip_level",
 			value = 4,
@@ -12960,9 +12950,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户可进行游戏",
 		},
-		[733]=
+		[732]=
 		{
-			no = 733,
+			no = 732,
 			id = 295,
 			var = "vip_level",
 			value = 7,
@@ -12970,19 +12960,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以下的用户可进行游戏",
 		},
-		[734]=
+		[733]=
 		{
-			no = 734,
-			id = 295,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
-		},
-		[735]=
-		{
-			no = 735,
+			no = 733,
 			id = 296,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -12990,9 +12970,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[736]=
+		[734]=
 		{
-			no = 736,
+			no = 734,
 			id = 296,
 			var = "vip_level",
 			value = 8,
@@ -13000,9 +12980,9 @@ return {
 			group = 1,
 			error_desc = "VIP8及以上的用户可进行游戏",
 		},
-		[737]=
+		[735]=
 		{
-			no = 737,
+			no = 735,
 			id = 296,
 			var = "vip_level",
 			value = 10,
@@ -13010,19 +12990,9 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[738]=
+		[736]=
 		{
-			no = 738,
-			id = 296,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
-		},
-		[739]=
-		{
-			no = 739,
+			no = 736,
 			id = 297,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -13030,9 +13000,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[740]=
+		[737]=
 		{
-			no = 740,
+			no = 737,
 			id = 297,
 			var = "vip_level",
 			value = 1,
@@ -13040,19 +13010,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[741]=
+		[738]=
 		{
-			no = 741,
-			id = 297,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
-		},
-		[742]=
-		{
-			no = 742,
+			no = 738,
 			id = 298,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -13060,9 +13020,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[743]=
+		[739]=
 		{
-			no = 743,
+			no = 739,
 			id = 299,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -13070,9 +13030,9 @@ return {
 			group = 1,
 			error_desc = "只展示给免费用户标签",
 		},
-		[744]=
+		[740]=
 		{
-			no = 744,
+			no = 740,
 			id = 299,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -13080,9 +13040,9 @@ return {
 			group = 2,
 			error_desc = "只展示给小额标签用户",
 		},
-		[745]=
+		[741]=
 		{
-			no = 745,
+			no = 741,
 			id = 300,
 			var = "vip_level",
 			value = 1,
@@ -13090,9 +13050,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[746]=
+		[742]=
 		{
-			no = 746,
+			no = 742,
 			id = 300,
 			var = "vip_level",
 			value = 3,
@@ -13100,9 +13060,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户可进行游戏",
 		},
-		[747]=
+		[743]=
 		{
-			no = 747,
+			no = 743,
 			id = 300,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -13110,9 +13070,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[748]=
+		[744]=
 		{
-			no = 748,
+			no = 744,
 			id = 301,
 			var = "vip_level",
 			value = 4,
@@ -13120,9 +13080,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户可进行游戏",
 		},
-		[749]=
+		[745]=
 		{
-			no = 749,
+			no = 745,
 			id = 301,
 			var = "vip_level",
 			value = 6,
@@ -13130,9 +13090,9 @@ return {
 			group = 1,
 			error_desc = "VIP6及以下的用户可进行游戏",
 		},
-		[750]=
+		[746]=
 		{
-			no = 750,
+			no = 746,
 			id = 301,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -13140,9 +13100,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[751]=
+		[747]=
 		{
-			no = 751,
+			no = 747,
 			id = 302,
 			var = "vip_level",
 			value = 7,
@@ -13150,9 +13110,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以上的用户可进行游戏",
 		},
-		[752]=
+		[748]=
 		{
-			no = 752,
+			no = 748,
 			id = 302,
 			var = "vip_level",
 			value = 10,
@@ -13160,9 +13120,9 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[753]=
+		[749]=
 		{
-			no = 753,
+			no = 749,
 			id = 302,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -13170,9 +13130,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[754]=
+		[750]=
 		{
-			no = 754,
+			no = 750,
 			id = 303,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -13180,9 +13140,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[755]=
+		[751]=
 		{
-			no = 755,
+			no = 751,
 			id = 303,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -13190,9 +13150,9 @@ return {
 			group = 2,
 			error_desc = "只展示给免费用户标签",
 		},
-		[756]=
+		[752]=
 		{
-			no = 756,
+			no = 752,
 			id = 303,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -13200,9 +13160,9 @@ return {
 			group = 3,
 			error_desc = "只展示给小额标签用户",
 		},
-		[757]=
+		[753]=
 		{
-			no = 757,
+			no = 753,
 			id = 304,
 			var = "vip_level",
 			value = 4,
@@ -13210,9 +13170,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上的用户可进行游戏",
 		},
-		[758]=
+		[754]=
 		{
-			no = 758,
+			no = 754,
 			id = 304,
 			var = "vip_level",
 			value = 10,
@@ -13220,9 +13180,9 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[759]=
+		[755]=
 		{
-			no = 759,
+			no = 755,
 			id = 304,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -13230,15 +13190,55 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[760]=
+		[756]=
 		{
-			no = 760,
+			no = 756,
 			id = 305,
 			var = "tag_type",
 			value = "tag_new_player",
 			judge = 2,
 			group = 1,
 			error_desc = "是新用户",
+		},
+		[757]=
+		{
+			no = 757,
+			id = 305,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPS渠道",
+		},
+		[758]=
+		{
+			no = 758,
+			id = 305,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给免费用户标签",
+		},
+		[759]=
+		{
+			no = 759,
+			id = 305,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 2,
+			error_desc = "是CPS渠道",
+		},
+		[760]=
+		{
+			no = 760,
+			id = 305,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "只展示给小额标签用户",
 		},
 		[761]=
 		{
@@ -13247,52 +13247,12 @@ return {
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 2,
-			group = 1,
+			group = 3,
 			error_desc = "是CPS渠道",
 		},
 		[762]=
 		{
 			no = 762,
-			id = 305,
-			var = "tag_type",
-			value = "tag_free_player",
-			judge = 2,
-			group = 2,
-			error_desc = "只展示给免费用户标签",
-		},
-		[763]=
-		{
-			no = 763,
-			id = 305,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 2,
-			group = 2,
-			error_desc = "是CPS渠道",
-		},
-		[764]=
-		{
-			no = 764,
-			id = 305,
-			var = "tag_type",
-			value = "tag_stingy_player",
-			judge = 2,
-			group = 3,
-			error_desc = "只展示给小额标签用户",
-		},
-		[765]=
-		{
-			no = 765,
-			id = 305,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 2,
-			group = 3,
-			error_desc = "是CPS渠道",
-		},
-		[766]=
-		{
-			no = 766,
 			id = 306,
 			var = "vip_level",
 			value = 1,
@@ -13300,9 +13260,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[767]=
+		[763]=
 		{
-			no = 767,
+			no = 763,
 			id = 306,
 			var = "vip_level",
 			value = 3,
@@ -13310,10 +13270,50 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户可进行游戏",
 		},
+		[764]=
+		{
+			no = 764,
+			id = 306,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPS渠道",
+		},
+		[765]=
+		{
+			no = 765,
+			id = 306,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[766]=
+		{
+			no = 766,
+			id = 307,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上的用户可进行游戏",
+		},
+		[767]=
+		{
+			no = 767,
+			id = 307,
+			var = "vip_level",
+			value = 6,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP6及以下的用户可进行游戏",
+		},
 		[768]=
 		{
 			no = 768,
-			id = 306,
+			id = 307,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 2,
@@ -13323,7 +13323,7 @@ return {
 		[769]=
 		{
 			no = 769,
-			id = 306,
+			id = 307,
 			var = "tag_type",
 			value = "tag_new_player",
 			judge = 5,
@@ -13333,46 +13333,6 @@ return {
 		[770]=
 		{
 			no = 770,
-			id = 307,
-			var = "vip_level",
-			value = 4,
-			judge = 3,
-			group = 1,
-			error_desc = "VIP4及以上的用户可进行游戏",
-		},
-		[771]=
-		{
-			no = 771,
-			id = 307,
-			var = "vip_level",
-			value = 6,
-			judge = 4,
-			group = 1,
-			error_desc = "VIP6及以下的用户可进行游戏",
-		},
-		[772]=
-		{
-			no = 772,
-			id = 307,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 2,
-			group = 1,
-			error_desc = "是CPS渠道",
-		},
-		[773]=
-		{
-			no = 773,
-			id = 307,
-			var = "tag_type",
-			value = "tag_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "不是新用户",
-		},
-		[774]=
-		{
-			no = 774,
 			id = 308,
 			var = "vip_level",
 			value = 7,
@@ -13380,9 +13340,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以上的用户可进行游戏",
 		},
-		[775]=
+		[771]=
 		{
-			no = 775,
+			no = 771,
 			id = 308,
 			var = "vip_level",
 			value = 10,
@@ -13390,9 +13350,9 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[776]=
+		[772]=
 		{
-			no = 776,
+			no = 772,
 			id = 308,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -13400,9 +13360,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[777]=
+		[773]=
 		{
-			no = 777,
+			no = 773,
 			id = 308,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -13410,9 +13370,9 @@ return {
 			group = 1,
 			error_desc = "是CPS渠道",
 		},
-		[778]=
+		[774]=
 		{
-			no = 778,
+			no = 774,
 			id = 309,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -13420,9 +13380,9 @@ return {
 			group = 1,
 			error_desc = "是CPS渠道",
 		},
-		[779]=
+		[775]=
 		{
-			no = 779,
+			no = 775,
 			id = 310,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -13430,15 +13390,55 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[780]=
+		[776]=
 		{
-			no = 780,
+			no = 776,
 			id = 311,
 			var = "tag_type",
 			value = "tag_new_player",
 			judge = 2,
 			group = 1,
 			error_desc = "是新用户",
+		},
+		[777]=
+		{
+			no = 777,
+			id = 311,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[778]=
+		{
+			no = 778,
+			id = 311,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给免费用户标签",
+		},
+		[779]=
+		{
+			no = 779,
+			id = 311,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 2,
+			error_desc = "不是CPS渠道",
+		},
+		[780]=
+		{
+			no = 780,
+			id = 311,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "只展示给小额标签用户",
 		},
 		[781]=
 		{
@@ -13447,52 +13447,12 @@ return {
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
-			group = 1,
+			group = 3,
 			error_desc = "不是CPS渠道",
 		},
 		[782]=
 		{
 			no = 782,
-			id = 311,
-			var = "tag_type",
-			value = "tag_free_player",
-			judge = 2,
-			group = 2,
-			error_desc = "只展示给免费用户标签",
-		},
-		[783]=
-		{
-			no = 783,
-			id = 311,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 2,
-			error_desc = "不是CPS渠道",
-		},
-		[784]=
-		{
-			no = 784,
-			id = 311,
-			var = "tag_type",
-			value = "tag_stingy_player",
-			judge = 2,
-			group = 3,
-			error_desc = "只展示给小额标签用户",
-		},
-		[785]=
-		{
-			no = 785,
-			id = 311,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 3,
-			error_desc = "不是CPS渠道",
-		},
-		[786]=
-		{
-			no = 786,
 			id = 312,
 			var = "vip_level",
 			value = 1,
@@ -13500,9 +13460,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上的用户可进行游戏",
 		},
-		[787]=
+		[783]=
 		{
-			no = 787,
+			no = 783,
 			id = 312,
 			var = "vip_level",
 			value = 3,
@@ -13510,10 +13470,50 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下的用户可进行游戏",
 		},
+		[784]=
+		{
+			no = 784,
+			id = 312,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[785]=
+		{
+			no = 785,
+			id = 312,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[786]=
+		{
+			no = 786,
+			id = 313,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上的用户可进行游戏",
+		},
+		[787]=
+		{
+			no = 787,
+			id = 313,
+			var = "vip_level",
+			value = 6,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP6及以下的用户可进行游戏",
+		},
 		[788]=
 		{
 			no = 788,
-			id = 312,
+			id = 313,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
@@ -13523,7 +13523,7 @@ return {
 		[789]=
 		{
 			no = 789,
-			id = 312,
+			id = 313,
 			var = "tag_type",
 			value = "tag_new_player",
 			judge = 5,
@@ -13533,46 +13533,6 @@ return {
 		[790]=
 		{
 			no = 790,
-			id = 313,
-			var = "vip_level",
-			value = 4,
-			judge = 3,
-			group = 1,
-			error_desc = "VIP4及以上的用户可进行游戏",
-		},
-		[791]=
-		{
-			no = 791,
-			id = 313,
-			var = "vip_level",
-			value = 6,
-			judge = 4,
-			group = 1,
-			error_desc = "VIP6及以下的用户可进行游戏",
-		},
-		[792]=
-		{
-			no = 792,
-			id = 313,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
-		},
-		[793]=
-		{
-			no = 793,
-			id = 313,
-			var = "tag_type",
-			value = "tag_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "不是新用户",
-		},
-		[794]=
-		{
-			no = 794,
 			id = 314,
 			var = "vip_level",
 			value = 7,
@@ -13580,9 +13540,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以上的用户可进行游戏",
 		},
-		[795]=
+		[791]=
 		{
-			no = 795,
+			no = 791,
 			id = 314,
 			var = "vip_level",
 			value = 10,
@@ -13590,9 +13550,9 @@ return {
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
 		},
-		[796]=
+		[792]=
 		{
-			no = 796,
+			no = 792,
 			id = 314,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -13600,9 +13560,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[797]=
+		[793]=
 		{
-			no = 797,
+			no = 793,
 			id = 314,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -13610,10 +13570,50 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
+		[794]=
+		{
+			no = 794,
+			id = 315,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[795]=
+		{
+			no = 795,
+			id = 316,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPS渠道",
+		},
+		[796]=
+		{
+			no = 796,
+			id = 317,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[797]=
+		{
+			no = 797,
+			id = 318,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPS渠道",
+		},
 		[798]=
 		{
 			no = 798,
-			id = 315,
+			id = 319,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
@@ -13623,7 +13623,7 @@ return {
 		[799]=
 		{
 			no = 799,
-			id = 316,
+			id = 320,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 2,
@@ -13633,7 +13633,7 @@ return {
 		[800]=
 		{
 			no = 800,
-			id = 317,
+			id = 321,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
@@ -13643,17 +13643,17 @@ return {
 		[801]=
 		{
 			no = 801,
-			id = 318,
-			var = "share_condition",
-			value = "3dby_cps",
+			id = 321,
+			var = "vip_level",
+			value = 0,
 			judge = 2,
 			group = 1,
-			error_desc = "是CPS渠道",
+			error_desc = "需要Vip0才可体验！",
 		},
 		[802]=
 		{
 			no = 802,
-			id = 319,
+			id = 322,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
@@ -13663,37 +13663,37 @@ return {
 		[803]=
 		{
 			no = 803,
-			id = 320,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 2,
+			id = 322,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
 			group = 1,
-			error_desc = "是CPS渠道",
+			error_desc = "不是新用户",
 		},
 		[804]=
 		{
 			no = 804,
-			id = 321,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
+			id = 322,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
 			group = 1,
-			error_desc = "不是CPS渠道",
+			error_desc = "VIP4及以上的用户可进行游戏",
 		},
 		[805]=
 		{
 			no = 805,
-			id = 321,
+			id = 322,
 			var = "vip_level",
-			value = 0,
-			judge = 2,
+			value = 10,
+			judge = 4,
 			group = 1,
-			error_desc = "需要Vip0才可体验！",
+			error_desc = "VIP10及以下的用户可进行游戏",
 		},
 		[806]=
 		{
 			no = 806,
-			id = 322,
+			id = 323,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
@@ -13703,41 +13703,41 @@ return {
 		[807]=
 		{
 			no = 807,
-			id = 322,
+			id = 324,
 			var = "tag_type",
 			value = "tag_new_player",
-			judge = 5,
+			judge = 2,
 			group = 1,
-			error_desc = "不是新用户",
+			error_desc = "是新用户",
 		},
 		[808]=
 		{
 			no = 808,
-			id = 322,
-			var = "vip_level",
-			value = 4,
-			judge = 3,
-			group = 1,
-			error_desc = "VIP4及以上的用户可进行游戏",
-		},
-		[809]=
-		{
-			no = 809,
-			id = 322,
-			var = "vip_level",
-			value = 10,
-			judge = 4,
-			group = 1,
-			error_desc = "VIP10及以下的用户可进行游戏",
-		},
-		[810]=
-		{
-			no = 810,
-			id = 323,
+			id = 324,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
 			group = 1,
+			error_desc = "是CPS渠道",
+		},
+		[809]=
+		{
+			no = 809,
+			id = 324,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给免费用户标签",
+		},
+		[810]=
+		{
+			no = 810,
+			id = 324,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 2,
 			error_desc = "不是CPS渠道",
 		},
 		[811]=
@@ -13745,10 +13745,10 @@ return {
 			no = 811,
 			id = 324,
 			var = "tag_type",
-			value = "tag_new_player",
+			value = "tag_stingy_player",
 			judge = 2,
-			group = 1,
-			error_desc = "是新用户",
+			group = 3,
+			error_desc = "只展示给小额标签用户",
 		},
 		[812]=
 		{
@@ -13757,52 +13757,12 @@ return {
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
-			group = 1,
-			error_desc = "是CPS渠道",
+			group = 3,
+			error_desc = "不是CPS渠道",
 		},
 		[813]=
 		{
 			no = 813,
-			id = 324,
-			var = "tag_type",
-			value = "tag_free_player",
-			judge = 2,
-			group = 2,
-			error_desc = "只展示给免费用户标签",
-		},
-		[814]=
-		{
-			no = 814,
-			id = 324,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 2,
-			error_desc = "不是CPS渠道",
-		},
-		[815]=
-		{
-			no = 815,
-			id = 324,
-			var = "tag_type",
-			value = "tag_stingy_player",
-			judge = 2,
-			group = 3,
-			error_desc = "只展示给小额标签用户",
-		},
-		[816]=
-		{
-			no = 816,
-			id = 324,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 3,
-			error_desc = "不是CPS渠道",
-		},
-		[817]=
-		{
-			no = 817,
 			id = 325,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -13810,9 +13770,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[818]=
+		[814]=
 		{
-			no = 818,
+			no = 814,
 			id = 326,
 			var = "share_condition",
 			value = "3dby_cjj_cpl",
@@ -13820,9 +13780,9 @@ return {
 			group = 1,
 			error_desc = "是冲金鸡渠道",
 		},
-		[819]=
+		[815]=
 		{
-			no = 819,
+			no = 815,
 			id = 327,
 			var = "share_condition",
 			value = "3dby_cjj_cpl",

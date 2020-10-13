@@ -96,30 +96,65 @@ return {
 		[2]=
 		{
 			line = 2,
-			id = 2,
-			type = 4,
-			data = 50,
+			id = 1,
+			type = 5,
+			data = "cpl_notcjj",
 		},
 		[3]=
 		{
 			line = 3,
-			id = 3,
+			id = 2,
 			type = 4,
-			data = 70,
+			data = 50,
 		},
 		[4]=
 		{
 			line = 4,
-			id = 4,
-			type = 4,
-			data = 90,
+			id = 2,
+			type = 5,
+			data = "cpl_notcjj",
 		},
 		[5]=
 		{
 			line = 5,
+			id = 3,
+			type = 4,
+			data = 70,
+		},
+		[6]=
+		{
+			line = 6,
+			id = 3,
+			type = 5,
+			data = "cpl_notcjj",
+		},
+		[7]=
+		{
+			line = 7,
+			id = 4,
+			type = 4,
+			data = 90,
+		},
+		[8]=
+		{
+			line = 8,
+			id = 4,
+			type = 5,
+			data = "cpl_notcjj",
+		},
+		[9]=
+		{
+			line = 9,
 			id = 5,
 			type = 4,
 			data = 100,
+		},
+		[10]=
+		{
+			line = 10,
+			id = 5,
+			type = 5,
+			data = "cpl_notcjj",
 		},
 	},
 }

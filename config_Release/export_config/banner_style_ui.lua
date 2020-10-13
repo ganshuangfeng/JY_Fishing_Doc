@@ -848,13 +848,13 @@ return {
 		{
 			id = 75,
 			bannerID = 75,
-			isOnOff = 0,
+			isOnOff = 1,
 			order = 100,
 			condi_key = "actp_buy_gift_bag_10290",
 			gotoUI = {"act_027_mfflq","panel"},
 			model = "LoginUp",
-			srartTime = 1598916600,
-			endTime = 1599494399,
+			srartTime = 1602547200,
+			endTime = 1603123199,
 		},
 		[76]=
 		{
@@ -889,8 +889,8 @@ return {
 			condi_key = "actp_own_task_p_029_hlqjd_hammer",
 			gotoUI = {"act_029_hlqjd","panel"},
 			model = "LoginUp",
-			srartTime = 1600128000,
-			endTime = 1600703999,
+			srartTime = 1602547200,
+			endTime = 1603123199,
 		},
 		[79]=
 		{
