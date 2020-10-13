@@ -501,6 +501,66 @@ return {
 			award_id = 46,
 			enable = 1,
 		},
+		[47]=
+		{
+			id = 47,
+			name = "白银宝箱v1-v3",
+			start_time = 1603756800,
+			end_time = 1604332799,
+			use_asset_id = 42,
+			lottery_type = 1,
+			award_id = 47,
+		},
+		[48]=
+		{
+			id = 48,
+			name = "黄金宝箱v1-v3",
+			start_time = 1603756800,
+			end_time = 1604332799,
+			use_asset_id = 43,
+			lottery_type = 1,
+			award_id = 48,
+		},
+		[49]=
+		{
+			id = 49,
+			name = "钻石宝箱v1-v3",
+			start_time = 1603756800,
+			end_time = 1604332799,
+			use_asset_id = 44,
+			lottery_type = 1,
+			award_id = 49,
+		},
+		[50]=
+		{
+			id = 50,
+			name = "白银宝箱v4-v10",
+			start_time = 1603756800,
+			end_time = 1604332799,
+			use_asset_id = 45,
+			lottery_type = 1,
+			award_id = 50,
+		},
+		[51]=
+		{
+			id = 51,
+			name = "黄金宝箱v4-v10",
+			start_time = 1603756800,
+			end_time = 1604332799,
+			use_asset_id = 46,
+			lottery_type = 1,
+			award_id = 51,
+		},
+		[52]=
+		{
+			id = 52,
+			name = "钻石宝箱v4-v10",
+			start_time = 1603756800,
+			end_time = 1604332799,
+			use_asset_id = 47,
+			lottery_type = 1,
+			award_id = 52,
+		},
 	},
 	use_asset=
 	{
