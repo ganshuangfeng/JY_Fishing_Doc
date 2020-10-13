@@ -2793,9 +2793,9 @@ return {
 			key = "sys_jjsl",
 			desc = "金鸡送礼",
 			lua = "SYSJJSLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 	},
 }
