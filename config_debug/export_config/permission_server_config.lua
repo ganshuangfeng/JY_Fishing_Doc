@@ -1794,6 +1794,12 @@ return {
 			name = "非冲金鸡",
 			condi = 327,
 		},
+		cps_xiaomi=
+		{
+			key = "cps_xiaomi",
+			name = "除小米外全渠道",
+			condi = 328,
+		},
 	},
 	act_permission=
 	{
@@ -13829,6 +13835,16 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是冲金鸡渠道",
+		},
+		[820]=
+		{
+			no = 820,
+			id = 328,
+			var = "market_channel",
+			value = ""xiaomi"",
+			judge = 5,
+			group = 1,
+			error_desc = "非小米的全渠道",
 		},
 	},
 	share_condition=

@@ -188,6 +188,12 @@ return {
 			area = "fish3d_node",
 			group_list = "65#",
 		},
+		[7]=
+		{
+			id = 7,
+			area = "left",
+			group_list = "102#",
+		},
 	},
 	freehall_config=
 	{
@@ -375,6 +381,12 @@ return {
 			id = 9,
 			area = "top_c",
 			group_list = "104#",
+		},
+		[10]=
+		{
+			id = 10,
+			area = "left",
+			group_list = "102#",
 		},
 	},
 	ttl_config=
