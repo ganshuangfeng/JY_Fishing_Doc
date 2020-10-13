@@ -2797,5 +2797,25 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[286]=
+		{
+			id = 286,
+			key = "act_033_vip1ztlb",
+			desc = "VIP1直通礼包",
+			lua = "Act_033_VIP1ZTLBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[287]=
+		{
+			id = 287,
+			key = "act_033_xrzxlb",
+			desc = "新人专享",
+			lua = "XRZXGiftManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
