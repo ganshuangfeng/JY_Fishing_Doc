@@ -9174,7 +9174,7 @@ return {
 			id = 10290,
 			on_off = 1,
 			pay_title = "免费福利券",
-			content = {"30万金币",},
+			content = {"60万金币",},
 			gzh_order = -31,
 			gzh_show = 0,
 			web_show = 0,
