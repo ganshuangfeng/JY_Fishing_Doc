@@ -11144,8 +11144,8 @@ return {
 			id = 462,
 			process_id = 21410,
 			source_id = 454,
-			process = {1000000,4000000,5000000,10000000,30000000,50000000,400000000,500000000,1000000000},
-			awards = {685,686,687,688,689,690,691,692,693},
+			process = {300000,700000,4000000,5000000,10000000,30000000,50000000,400000000,500000000,1000000000},
+			awards = {732,685,686,687,688,689,690,691,692,693},
 			get_award_type = "random",
 		},
 		[463]=
@@ -28584,6 +28584,30 @@ return {
 			asset_type = "jing_bi",
 			asset_count = {60000,69999},
 			get_weight = 20,
+		},
+		[1106]=
+		{
+			id = 1106,
+			award_id = 732,
+			asset_type = "shop_gold_sum",
+			asset_count = 1,
+			get_weight = 33,
+		},
+		[1107]=
+		{
+			id = 1107,
+			award_id = 732,
+			asset_type = "shop_gold_sum",
+			asset_count = 2,
+			get_weight = 34,
+		},
+		[1108]=
+		{
+			id = 1108,
+			award_id = 732,
+			asset_type = "shop_gold_sum",
+			asset_count = 3,
+			get_weight = 33,
 		},
 	},
 }
