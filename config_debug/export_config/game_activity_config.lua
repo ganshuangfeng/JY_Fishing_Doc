@@ -276,6 +276,7 @@ return {
 			condi_key = "actp_own_task_1000070",
 			beginTime = 1603152000,
 			endTime = 1603727999,
+			noCloseUI = 1,
 			type = "activity",
 			showType = "prefab",
 			parmData = "act_005_yzqj",
