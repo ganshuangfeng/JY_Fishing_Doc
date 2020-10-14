@@ -1678,7 +1678,7 @@ return {
 		[72]=
 		{
 			id = 72,
-			source_id = 36,
+			source_id = 35,
 			source_type = "jykp_award",
 			condition_id = 0,
 		},
