@@ -13971,7 +13971,7 @@ return {
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 2,
-			group = 1,
+			group = 2,
 			error_desc = "是CPS渠道",
 		},
 		[820]=
@@ -13981,7 +13981,7 @@ return {
 			var = "share_condition",
 			value = "3dby_official",
 			judge = 2,
-			group = 1,
+			group = 3,
 			error_desc = "是官方渠道",
 		},
 		[821]=
