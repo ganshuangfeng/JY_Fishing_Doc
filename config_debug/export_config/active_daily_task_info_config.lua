@@ -4,7 +4,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			key = "notcjj",
+			key = "cpl_notcjj",
 			task = "active_task_item",
 			award = "active_award_config",
 			award_task = 13000,
@@ -12,7 +12,7 @@ return {
 		[2]=
 		{
 			id = 2,
-			key = "cjj",
+			key = "cpl_cjj",
 			task = "active_task_item_cjj",
 			award = "active_award_config_cjj",
 			award_task = 13001,
