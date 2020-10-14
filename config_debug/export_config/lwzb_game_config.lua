@@ -5,13 +5,13 @@ return {
 		{
 			line = 1,
 			condi_key = "quanxianzhi1",
-			gun_rate = {1000,5000,10000,50000},
+			gun_rate = {100,1000,10000,100000},
 		},
 		[2]=
 		{
 			line = 2,
 			condi_key = "quanxianzhi2",
-			gun_rate = {10000,100000,500000,1000000},
+			gun_rate = {10000,100000,500000,5000000},
 		},
 	},
 	ground1 =

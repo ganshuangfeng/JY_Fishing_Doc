@@ -91,14 +91,14 @@ return {
 		{
 			id = 1,
 			bet_id = 1,
-			bet_value = 1000,
+			bet_value = 100,
 			equal_asset_type = "prop_lwzb_bet_1",
 		},
 		[2]=
 		{
 			id = 2,
 			bet_id = 1,
-			bet_value = 5000,
+			bet_value = 1000,
 			equal_asset_type = "prop_lwzb_bet_2",
 		},
 		[3]=
@@ -112,7 +112,7 @@ return {
 		{
 			id = 4,
 			bet_id = 1,
-			bet_value = 50000,
+			bet_value = 100000,
 			equal_asset_type = "prop_lwzb_bet_4",
 		},
 		[5]=
@@ -140,7 +140,7 @@ return {
 		{
 			id = 8,
 			bet_id = 2,
-			bet_value = 1000000,
+			bet_value = 5000000,
 			equal_asset_type = "prop_lwzb_bet_14",
 		},
 	},
