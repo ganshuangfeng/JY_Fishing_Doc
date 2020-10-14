@@ -511,6 +511,7 @@ return {
 			lottery_type = 1,
 			reset_time = 0,
 			award_id = 47,
+			enable = 1,
 		},
 		[48]=
 		{
@@ -522,6 +523,7 @@ return {
 			lottery_type = 1,
 			reset_time = 0,
 			award_id = 48,
+			enable = 1,
 		},
 		[49]=
 		{
@@ -533,6 +535,7 @@ return {
 			lottery_type = 1,
 			reset_time = 0,
 			award_id = 49,
+			enable = 1,
 		},
 		[50]=
 		{
@@ -544,6 +547,7 @@ return {
 			lottery_type = 1,
 			reset_time = 0,
 			award_id = 50,
+			enable = 1,
 		},
 		[51]=
 		{
@@ -555,6 +559,7 @@ return {
 			lottery_type = 1,
 			reset_time = 0,
 			award_id = 51,
+			enable = 1,
 		},
 		[52]=
 		{
@@ -566,6 +571,7 @@ return {
 			lottery_type = 1,
 			reset_time = 0,
 			award_id = 52,
+			enable = 1,
 		},
 	},
 	use_asset=
