@@ -270,7 +270,7 @@ return {
 			id = 16,
 			ID = 16,
 			title = "建议收集",
-			order = 1,
+			order = -11,
 			key = "act_005_yzqj",
 			isOnOff = 1,
 			condi_key = "actp_own_task_1000070",
