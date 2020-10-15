@@ -9,7 +9,7 @@ return {
 			cd_time = 72000,
 			level_money = 1000,
 			add_jingbi = 1000,
-			max_level = 2000,
+			max_level = 1991,
 		},
 	},
 }
