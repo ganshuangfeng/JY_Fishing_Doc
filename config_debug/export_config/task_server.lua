@@ -2159,7 +2159,7 @@ return {
 		{
 			id = 90,
 			process_id = 90,
-			source_id = 78,
+			source_id = 90,
 			process = 50000,
 			awards = 107,
 			get_award_type = "nor",
@@ -2168,7 +2168,7 @@ return {
 		{
 			id = 91,
 			process_id = 91,
-			source_id = 79,
+			source_id = 91,
 			process = 500000,
 			awards = 108,
 			get_award_type = "nor",
@@ -2177,7 +2177,7 @@ return {
 		{
 			id = 92,
 			process_id = 92,
-			source_id = 80,
+			source_id = 92,
 			process = 2000000,
 			awards = 109,
 			get_award_type = "nor",
