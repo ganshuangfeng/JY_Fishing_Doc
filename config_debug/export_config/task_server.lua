@@ -2790,108 +2790,85 @@ return {
 		[87]=
 		{
 			id = 87,
-			source_id = 80,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_id = 81,
+			source_type = "xiaoxiaole_spend",
 			condition_id = 0,
 		},
 		[88]=
 		{
 			id = 88,
-			source_id = 80,
-			source_type = "xiaoxiaole_caishen_award",
-			condition_id = 0,
+			source_id = 82,
+			source_type = "buyu_3d_spend",
+			condition_id = 33,
 		},
 		[89]=
 		{
 			id = 89,
-			source_id = 80,
-			source_type = "tantanle_award",
-			condition_id = 0,
+			source_id = 83,
+			source_type = "buyu_3d_spend",
+			condition_id = 34,
 		},
 		[90]=
 		{
 			id = 90,
-			source_id = 80,
-			source_type = "zajindan_award",
-			condition_id = 0,
+			source_id = 84,
+			source_type = "buyu_3d_spend",
+			condition_id = 35,
 		},
 		[91]=
 		{
 			id = 91,
-			source_id = 80,
-			source_type = "buyu_award",
+			source_id = 85,
+			source_type = "xiyou_task_money",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[92]=
 		{
 			id = 92,
-			source_id = 80,
-			source_type = "jykp_award",
+			source_id = 86,
+			source_type = "children_task",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[93]=
 		{
 			id = 93,
-			source_id = 81,
-			source_type = "xiaoxiaole_spend",
+			source_id = 87,
+			source_type = "children_task",
 			condition_id = 0,
 		},
 		[94]=
 		{
 			id = 94,
-			source_id = 82,
-			source_type = "buyu_3d_spend",
-			condition_id = 33,
+			source_id = 88,
+			source_type = "children_task",
+			condition_id = 0,
 		},
 		[95]=
 		{
 			id = 95,
-			source_id = 83,
-			source_type = "buyu_3d_spend",
-			condition_id = 34,
+			source_id = 89,
+			source_type = "children_task",
+			condition_id = 0,
 		},
 		[96]=
 		{
 			id = 96,
-			source_id = 84,
-			source_type = "buyu_3d_spend",
-			condition_id = 35,
+			source_id = 90,
+			source_type = "lwzb_game_award",
+			condition_id = 0,
 		},
 		[97]=
 		{
 			id = 97,
-			source_id = 85,
-			source_type = "xiyou_task_money",
+			source_id = 91,
+			source_type = "lwzb_game_award",
 			condition_id = 0,
 		},
 		[98]=
 		{
 			id = 98,
-			source_id = 86,
-			source_type = "children_task",
-			condition_id = 0,
-		},
-		[99]=
-		{
-			id = 99,
-			source_id = 87,
-			source_type = "children_task",
-			condition_id = 0,
-		},
-		[100]=
-		{
-			id = 100,
-			source_id = 88,
-			source_type = "children_task",
-			condition_id = 0,
-		},
-		[101]=
-		{
-			id = 101,
-			source_id = 89,
-			source_type = "children_task",
+			source_id = 92,
+			source_type = "lwzb_game_award",
 			condition_id = 0,
 		},
 	},
