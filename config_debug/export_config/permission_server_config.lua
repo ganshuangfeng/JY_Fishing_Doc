@@ -1860,6 +1860,36 @@ return {
 			name = "龙王争霸V8以上培育上限",
 			condi = 135,
 		},
+		task_21341=
+		{
+			key = "task_21341",
+			name = "VIP富豪福利（冲金鸡不增加进度）",
+			condi = 330,
+		},
+		task_21314=
+		{
+			key = "task_21314",
+			name = "vip2周任务（冲金鸡不增加进度）",
+			condi = 330,
+		},
+		task_21016=
+		{
+			key = "task_21016",
+			name = "vip3~5周任务（冲金鸡不增加进度）",
+			condi = 330,
+		},
+		task_21017=
+		{
+			key = "task_21017",
+			name = "vip6及以上周任务（冲金鸡不增加进度）",
+			condi = 330,
+		},
+		task_21340=
+		{
+			key = "task_21340",
+			name = "VIP赢金挑战第三期（冲金鸡不增加进度）",
+			condi = 330,
+		},
 	},
 	act_permission=
 	{
@@ -13983,6 +14013,16 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "非小米的全渠道",
+		},
+		[824]=
+		{
+			no = 824,
+			id = 330,
+			var = "market_channel",
+			value = "cjj",
+			judge = 5,
+			group = 1,
+			error_desc = "非冲金鸡的全渠道",
 		},
 	},
 	share_condition=
