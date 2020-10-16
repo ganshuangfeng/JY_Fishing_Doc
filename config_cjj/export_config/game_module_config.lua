@@ -2425,7 +2425,7 @@ return {
 			key = "sys_change_head_and_name",
 			desc = "设置头像和改变昵称",
 			lua = "SYSChangeHeadAndNameManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
