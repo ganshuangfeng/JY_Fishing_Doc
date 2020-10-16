@@ -14,18 +14,27 @@ return {
 			id = 2,
 			icon = "ty_icon_yb_3",
 			desc = "鱼币×1万",
+			condi_key = "cpl_notcjj",
 		},
 		[3]=
 		{
 			line = 3,
+			id = 2,
+			icon = "ty_icon_yxb_4",
+			desc = "小游戏币×1万",
+			condi_key = "cpl_cjj",
+		},
+		[4]=
+		{
+			line = 4,
 			id = 3,
 			icon = "3dby_btn_bd",
 			desc = "冰冻x2",
 			condi_key = "cpl_notcjj",
 		},
-		[4]=
+		[5]=
 		{
-			line = 4,
+			line = 5,
 			id = 3,
 			icon = "zjd_icon_wjc",
 			desc = "玩具锤x1",
