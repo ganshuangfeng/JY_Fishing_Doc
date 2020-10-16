@@ -14007,9 +14007,9 @@ return {
 		[823]=
 		{
 			no = 823,
-			id = 329,
+			id = 328,
 			var = "market_channel",
-			value = "xiaomi",
+			value = "cjj",
 			judge = 5,
 			group = 1,
 			error_desc = "非小米的全渠道",
@@ -14017,6 +14017,26 @@ return {
 		[824]=
 		{
 			no = 824,
+			id = 329,
+			var = "market_channel",
+			value = "xiaomi",
+			judge = 5,
+			group = 1,
+			error_desc = "非小米的全渠道",
+		},
+		[825]=
+		{
+			no = 825,
+			id = 329,
+			var = "market_channel",
+			value = "cjj",
+			judge = 5,
+			group = 1,
+			error_desc = "非小米的全渠道",
+		},
+		[826]=
+		{
+			no = 826,
 			id = 330,
 			var = "market_channel",
 			value = "cjj",
