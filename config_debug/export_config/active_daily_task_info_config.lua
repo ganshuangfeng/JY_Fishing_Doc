@@ -428,7 +428,7 @@ return {
 			task_instruction = "龙王争霸累计赢金1万",
 			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x200","x10"},
+			task_award_count = {"x200","x5"},
 			gotoui = {"game_LWZBHall",},
 		},
 		[2]=
@@ -440,7 +440,7 @@ return {
 			task_instruction = "龙王争霸累计赢金5万",
 			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x1000","x10"},
+			task_award_count = {"x1000","x5"},
 			gotoui = {"game_LWZBHall",},
 		},
 		[3]=
@@ -452,7 +452,7 @@ return {
 			task_instruction = "龙王争霸累计赢金10万",
 			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x2000","x20"},
+			task_award_count = {"x2000","x10"},
 			gotoui = {"game_LWZBHall",},
 		},
 		[4]=
@@ -464,7 +464,7 @@ return {
 			task_instruction = "龙王争霸累计赢金50万",
 			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x10000","x20"},
+			task_award_count = {"x10000","x10"},
 			gotoui = {"game_LWZBHall",},
 		},
 		[5]=
@@ -476,7 +476,7 @@ return {
 			task_instruction = "龙王争霸累计赢金100万",
 			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x20000","x30"},
+			task_award_count = {"x20000","x10"},
 			gotoui = {"game_LWZBHall",},
 		},
 		[6]=
@@ -488,7 +488,7 @@ return {
 			task_instruction = "龙王争霸累计赢金500万",
 			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x100000","x30"},
+			task_award_count = {"x100000","x20"},
 			gotoui = {"game_LWZBHall",},
 		},
 		[7]=
@@ -500,7 +500,7 @@ return {
 			task_instruction = "龙王争霸累计赢金1000万",
 			task_award_icon = {"ty_icon_jb_2498y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x200000","x50"},
+			task_award_count = {"x200000","x30"},
 			gotoui = {"game_LWZBHall",},
 		},
 		[8]=
@@ -512,7 +512,7 @@ return {
 			task_instruction = "红包场累计赢金1万",
 			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x200","x10"},
+			task_award_count = {"x200","x5"},
 			gotoui = {"game_MiniGame",},
 		},
 		[9]=
@@ -524,7 +524,7 @@ return {
 			task_instruction = "红包场累计赢金5万",
 			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x1000","x10"},
+			task_award_count = {"x1000","x5"},
 			gotoui = {"game_MiniGame",},
 		},
 		[10]=
@@ -536,7 +536,7 @@ return {
 			task_instruction = "红包场累计赢金10万",
 			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x2000","x20"},
+			task_award_count = {"x2000","x10"},
 			gotoui = {"game_MiniGame",},
 		},
 		[11]=
@@ -548,7 +548,7 @@ return {
 			task_instruction = "红包场累计赢金50万",
 			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x10000","x20"},
+			task_award_count = {"x10000","x10"},
 			gotoui = {"game_MiniGame",},
 		},
 		[12]=
@@ -560,7 +560,7 @@ return {
 			task_instruction = "红包场累计赢金100万",
 			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x20000","x30"},
+			task_award_count = {"x20000","x10"},
 			gotoui = {"game_MiniGame",},
 		},
 		[13]=
@@ -572,7 +572,7 @@ return {
 			task_instruction = "红包场累计赢金500万",
 			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x100000","x30"},
+			task_award_count = {"x100000","x20"},
 			gotoui = {"game_MiniGame",},
 		},
 		[14]=
@@ -584,7 +584,7 @@ return {
 			task_instruction = "红包场累计赢金1000万",
 			task_award_icon = {"ty_icon_jb_2498y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x200000","x50"},
+			task_award_count = {"x200000","x30"},
 			gotoui = {"game_MiniGame",},
 		},
 	},
