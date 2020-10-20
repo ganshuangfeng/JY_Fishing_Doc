@@ -1716,10 +1716,16 @@ return {
 			name = "关注有礼-福利中心 （新人才展示）",
 			condi = 91,
 		},
+		vip0_buygift=
+		{
+			key = "vip0_buygift",
+			name = "VIP1直通礼包（只有VIP0显示）",
+			condi = 332,
+		},
 		vip1_buygift=
 		{
 			key = "vip1_buygift",
-			name = "VIP2直通礼包（只有VIP2显示）",
+			name = "VIP2直通礼包（只有VIP1显示）",
 			condi = 242,
 		},
 		vip2_buygift=
@@ -1731,7 +1737,7 @@ return {
 		vip3_buygift=
 		{
 			key = "vip3_buygift",
-			name = "VIP4直通礼包（只有VIP2显示）",
+			name = "VIP4直通礼包（只有VIP3显示）",
 			condi = 244,
 		},
 		drt_block_phonenum_realname=
@@ -1791,7 +1797,7 @@ return {
 		cpl_notcjj=
 		{
 			key = "cpl_notcjj",
-			name = "CPL。CPS。官方",
+			name = "非冲金鸡",
 			condi = 327,
 		},
 		cps_xiaomi=
@@ -1864,31 +1870,31 @@ return {
 		{
 			key = "task_21341",
 			name = "VIP富豪福利（冲金鸡不增加进度）",
-			condi = 330,
+			condi = 333,
 		},
 		task_21314=
 		{
 			key = "task_21314",
 			name = "vip2周任务（冲金鸡不增加进度）",
-			condi = 330,
+			condi = 333,
 		},
 		task_21016=
 		{
 			key = "task_21016",
 			name = "vip3~5周任务（冲金鸡不增加进度）",
-			condi = 330,
+			condi = 333,
 		},
 		task_21017=
 		{
 			key = "task_21017",
 			name = "vip6及以上周任务（冲金鸡不增加进度）",
-			condi = 330,
+			condi = 333,
 		},
 		task_21340=
 		{
 			key = "task_21340",
 			name = "VIP赢金挑战第三期（冲金鸡不增加进度）",
-			condi = 330,
+			condi = 333,
 		},
 	},
 	act_permission=
@@ -5780,6 +5786,30 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 1598916600,
+		},
+		[325]=
+		{
+			id = 325,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_wsj_v1v3_040",
+			name = "万圣节礼包v1-v3、及免费、小额玩家",
+			condi = 330,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1603756800,
+		},
+		[326]=
+		{
+			id = 326,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_wsj_v4v10_040",
+			name = "万圣节礼包v4-v10",
+			condi = 331,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1603756800,
 		},
 	},
 	condi=
@@ -13792,7 +13822,7 @@ return {
 			value = "cjj",
 			judge = 5,
 			group = 1,
-			error_desc = "不是冲金鸡渠道",
+			error_desc = "是冲金鸡渠道",
 		},
 		[802]=
 		{
@@ -13818,21 +13848,21 @@ return {
 		{
 			no = 804,
 			id = 321,
-			var = "market_channel",
-			value = "cjj",
-			judge = 5,
-			group = 1,
-			error_desc = "不是冲金鸡渠道",
-		},
-		[805]=
-		{
-			no = 805,
-			id = 321,
 			var = "vip_level",
 			value = 0,
 			judge = 2,
 			group = 1,
 			error_desc = "需要Vip0才可体验！",
+		},
+		[805]=
+		{
+			no = 805,
+			id = 321,
+			var = "market_channel",
+			value = "cjj",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡渠道",
 		},
 		[806]=
 		{
@@ -14007,16 +14037,6 @@ return {
 		[823]=
 		{
 			no = 823,
-			id = 328,
-			var = "market_channel",
-			value = "cjj",
-			judge = 5,
-			group = 1,
-			error_desc = "非小米的全渠道",
-		},
-		[824]=
-		{
-			no = 824,
 			id = 329,
 			var = "market_channel",
 			value = "xiaomi",
@@ -14024,20 +14044,120 @@ return {
 			group = 1,
 			error_desc = "非小米的全渠道",
 		},
+		[824]=
+		{
+			no = 824,
+			id = 330,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "v1及以上",
+		},
 		[825]=
 		{
 			no = 825,
-			id = 329,
-			var = "market_channel",
-			value = "cjj",
-			judge = 5,
+			id = 330,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
 			group = 1,
-			error_desc = "非小米的全渠道",
+			error_desc = "v3及以下",
 		},
 		[826]=
 		{
 			no = 826,
 			id = 330,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "非新用户",
+		},
+		[827]=
+		{
+			no = 827,
+			id = 330,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "免费玩家",
+		},
+		[828]=
+		{
+			no = 828,
+			id = 330,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 2,
+			error_desc = "非新用户",
+		},
+		[829]=
+		{
+			no = 829,
+			id = 330,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "小额玩家",
+		},
+		[830]=
+		{
+			no = 830,
+			id = 330,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 3,
+			error_desc = "非新用户",
+		},
+		[831]=
+		{
+			no = 831,
+			id = 331,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "v4及以上",
+		},
+		[832]=
+		{
+			no = 832,
+			id = 331,
+			var = "vip_level",
+			value = 10,
+			judge = 4,
+			group = 1,
+			error_desc = "v10及以下",
+		},
+		[833]=
+		{
+			no = 833,
+			id = 331,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "非新用户",
+		},
+		[834]=
+		{
+			no = 834,
+			id = 332,
+			var = "vip_level",
+			value = 0,
+			judge = 2,
+			group = 1,
+			error_desc = "v0及以下",
+		},
+		[835]=
+		{
+			no = 835,
+			id = 333,
 			var = "market_channel",
 			value = "cjj",
 			judge = 5,
@@ -14088,7 +14208,7 @@ return {
 			id = 5,
 			name = "3dby_cpl",
 			var = "market_channel",
-			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","cjj","juxiang","xiaozhuo","aibianxian","juju","qwxq",},
+			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","cjj",},
 			judge = 2,
 			group = 1,
 		},
@@ -14115,7 +14235,7 @@ return {
 			id = 8,
 			name = "3dby_special_cpl",
 			var = "market_channel",
-			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","juxiang","xiaozhuo","aibianxian","juju","qwxq",},
+			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd",},
 			judge = 2,
 			group = 1,
 		},

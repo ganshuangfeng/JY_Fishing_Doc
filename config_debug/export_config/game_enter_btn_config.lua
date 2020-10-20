@@ -163,7 +163,7 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "36;89;105#97;100;102;11;93;94#58#30#",
+			group_list = "36;89;105#97;100;102;106;11;93;94#58;107#30#",
 		},
 		[3]=
 		{
@@ -306,7 +306,7 @@ return {
 		{
 			id = 4,
 			area = "down2",
-			group_list = "103#87#100;102;11;93;94#36;89#",
+			group_list = "103#87#100;102;106;11;93;94#36;89#",
 		},
 		[5]=
 		{
@@ -384,15 +384,6 @@ return {
 		},
 	},
 	lwzb_game=
-	{
-		[1]=
-		{
-			id = 1,
-			area = "left_top",
-			group_list = "101#",
-		},
-	},
-	lwzb_game_hall=
 	{
 		[1]=
 		{
@@ -1040,6 +1031,18 @@ return {
 		{
 			id = 105,
 			parm = {"sys_jjsl",},
+			is_on_off = 1,
+		},
+		[106]=
+		{
+			id = 106,
+			parm = {"act_025_jrth","enter"},
+			is_on_off = 1,
+		},
+		[107]=
+		{
+			id = 107,
+			parm = {"act_033_xrzxlb","enter"},
 			is_on_off = 1,
 		},
 	},

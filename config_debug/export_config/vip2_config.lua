@@ -67,250 +67,266 @@ return {
 			vip = 3,
 			total = 500,
 			key = "vip_notcps",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>10次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			info = "可获得<color=#DA2020>闪耀风暴</color>炮台，有几率捕获激光范围内的任意鱼类",
 		},
 		[10]=
 		{
 			line = 10,
 			vip = 3,
 			total = 500,
-			info = "福利券容量提升为<color=#DA2020>10万福利券</color>",
+			key = "vip_notcps",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>10次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 		},
 		[11]=
 		{
 			line = 11,
 			vip = 3,
 			total = 500,
-			info = "享受vip2所有特权并提高部分特权奖励",
+			info = "福利券容量提升为<color=#DA2020>10万福利券</color>",
 		},
 		[12]=
 		{
 			line = 12,
 			vip = 3,
 			total = 500,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛6次",
+			info = "享受vip2所有特权并提高部分特权奖励",
 		},
 		[13]=
 		{
 			line = 13,
-			vip = 4,
-			total = 1000,
-			key = "vip_notcps",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>20次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			vip = 3,
+			total = 500,
+			key = "cpl_notcjj",
+			info = "每日最多可参加排名挑战赛6次",
 		},
 		[14]=
 		{
 			line = 14,
 			vip = 4,
 			total = 1000,
-			info = "福利券容量提升为<color=#DA2020>15万福利券</color>",
+			key = "vip_notcps",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>20次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 		},
 		[15]=
 		{
 			line = 15,
 			vip = 4,
 			total = 1000,
-			info = "享受vip3所有特权并提高部分特权奖励",
+			info = "福利券容量提升为<color=#DA2020>15万福利券</color>",
 		},
 		[16]=
 		{
 			line = 16,
 			vip = 4,
 			total = 1000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛7次",
+			info = "享受vip3所有特权并提高部分特权奖励",
 		},
 		[17]=
 		{
 			line = 17,
-			vip = 5,
-			total = 2000,
-			key = "vip_notcps",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>30次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			vip = 4,
+			total = 1000,
+			key = "cpl_notcjj",
+			info = "每日最多可参加排名挑战赛7次",
 		},
 		[18]=
 		{
 			line = 18,
 			vip = 5,
 			total = 2000,
-			info = "福利券容量提升为<color=#DA2020>30万福利券</color>",
+			key = "vip_notcps",
+			info = "可获得<color=#DA2020>金币使者</color>炮台，可捕获同移动线上的任意鱼类",
 		},
 		[19]=
 		{
 			line = 19,
 			vip = 5,
 			total = 2000,
-			info = "畅玩所有游戏",
+			key = "vip_notcps",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>30次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 		},
 		[20]=
 		{
 			line = 20,
 			vip = 5,
 			total = 2000,
-			info = "享受vip4所有特权并提高部分特权奖励",
+			info = "福利券容量提升为<color=#DA2020>30万福利券</color>",
 		},
 		[21]=
 		{
 			line = 21,
 			vip = 5,
 			total = 2000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛8次",
+			info = "畅玩所有游戏",
 		},
 		[22]=
 		{
 			line = 22,
-			vip = 6,
-			total = 5000,
-			key = "vip_notcps",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			vip = 5,
+			total = 2000,
+			info = "享受vip4所有特权并提高部分特权奖励",
 		},
 		[23]=
 		{
 			line = 23,
-			vip = 6,
-			total = 5000,
-			info = "福利券容量提升为<color=#DA2020>50万福利券</color>",
+			vip = 5,
+			total = 2000,
+			key = "cpl_notcjj",
+			info = "每日最多可参加排名挑战赛8次",
 		},
 		[24]=
 		{
 			line = 24,
 			vip = 6,
 			total = 5000,
-			info = "享受vip5所有特权并提高部分特权奖励",
+			key = "vip_notcps",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 		},
 		[25]=
 		{
 			line = 25,
 			vip = 6,
 			total = 5000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛9次",
+			info = "福利券容量提升为<color=#DA2020>50万福利券</color>",
 		},
 		[26]=
 		{
 			line = 26,
-			vip = 7,
-			total = 10000,
-			key = "vip_notcps",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			vip = 6,
+			total = 5000,
+			info = "享受vip5所有特权并提高部分特权奖励",
 		},
 		[27]=
 		{
 			line = 27,
-			vip = 7,
-			total = 10000,
-			info = "福利券容量提升为<color=#DA2020>100万福利券</color>",
+			vip = 6,
+			total = 5000,
+			key = "cpl_notcjj",
+			info = "每日最多可参加排名挑战赛9次",
 		},
 		[28]=
 		{
 			line = 28,
 			vip = 7,
 			total = 10000,
-			info = "享受vip6所有特权并提高部分特权奖励",
+			key = "vip_notcps",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 		},
 		[29]=
 		{
 			line = 29,
 			vip = 7,
 			total = 10000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛10次",
+			info = "福利券容量提升为<color=#DA2020>100万福利券</color>",
 		},
 		[30]=
 		{
 			line = 30,
-			vip = 8,
-			total = 20000,
-			key = "vip_notcps",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			vip = 7,
+			total = 10000,
+			info = "享受vip6所有特权并提高部分特权奖励",
 		},
 		[31]=
 		{
 			line = 31,
-			vip = 8,
-			total = 20000,
-			info = "福利券容量提升为<color=#DA2020>200万福利券</color>",
+			vip = 7,
+			total = 10000,
+			key = "cpl_notcjj",
+			info = "每日最多可参加排名挑战赛10次",
 		},
 		[32]=
 		{
 			line = 32,
 			vip = 8,
 			total = 20000,
-			info = "享受vip7所有特权并提高部分特权奖励",
+			key = "vip_notcps",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 		},
 		[33]=
 		{
 			line = 33,
 			vip = 8,
 			total = 20000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛11次",
+			info = "福利券容量提升为<color=#DA2020>200万福利券</color>",
 		},
 		[34]=
 		{
 			line = 34,
-			vip = 9,
-			total = 30000,
-			key = "vip_notcps",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			vip = 8,
+			total = 20000,
+			info = "享受vip7所有特权并提高部分特权奖励",
 		},
 		[35]=
 		{
 			line = 35,
-			vip = 9,
-			total = 30000,
-			info = "福利券容量提升为<color=#DA2020>300万福利券</color>",
+			vip = 8,
+			total = 20000,
+			key = "cpl_notcjj",
+			info = "每日最多可参加排名挑战赛11次",
 		},
 		[36]=
 		{
 			line = 36,
 			vip = 9,
 			total = 30000,
-			info = "享受vip8所有特权并提高部分特权奖励",
+			key = "vip_notcps",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 		},
 		[37]=
 		{
 			line = 37,
 			vip = 9,
 			total = 30000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛12次",
+			info = "福利券容量提升为<color=#DA2020>300万福利券</color>",
 		},
 		[38]=
 		{
 			line = 38,
-			vip = 10,
-			total = 50000,
-			key = "vip_notcps",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
+			vip = 9,
+			total = 30000,
+			info = "享受vip8所有特权并提高部分特权奖励",
 		},
 		[39]=
 		{
 			line = 39,
-			vip = 10,
-			total = 50000,
-			info = "福利券容量提升为<color=#DA2020>500万福利券</color>",
+			vip = 9,
+			total = 30000,
+			key = "cpl_notcjj",
+			info = "每日最多可参加排名挑战赛12次",
 		},
 		[40]=
 		{
 			line = 40,
 			vip = 10,
 			total = 50000,
-			info = "享受vip9所有特权并提高部分特权奖励",
+			key = "vip_notcps",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			gotoUI = {"sys_flqcj","panel"},
 		},
 		[41]=
 		{
 			line = 41,
+			vip = 10,
+			total = 50000,
+			info = "福利券容量提升为<color=#DA2020>500万福利券</color>",
+		},
+		[42]=
+		{
+			line = 42,
+			vip = 10,
+			total = 50000,
+			info = "享受vip9所有特权并提高部分特权奖励",
+		},
+		[43]=
+		{
+			line = 43,
 			vip = 10,
 			total = 50000,
 			key = "cpl_notcjj",
