@@ -392,6 +392,15 @@ return {
 			group_list = "101#",
 		},
 	},
+	lwzb_game_hall=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left_top",
+			group_list = "101#",
+		},
+	},
 	year_panel=
 	{
 		[1]=

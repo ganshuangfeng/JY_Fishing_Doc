@@ -13848,21 +13848,21 @@ return {
 		{
 			no = 804,
 			id = 321,
-			var = "vip_level",
-			value = 0,
-			judge = 2,
-			group = 1,
-			error_desc = "需要Vip0才可体验！",
-		},
-		[805]=
-		{
-			no = 805,
-			id = 321,
 			var = "market_channel",
 			value = "cjj",
 			judge = 5,
 			group = 1,
 			error_desc = "不是冲金鸡渠道",
+		},
+		[805]=
+		{
+			no = 805,
+			id = 321,
+			var = "vip_level",
+			value = 0,
+			judge = 2,
+			group = 1,
+			error_desc = "需要Vip0才可体验！",
 		},
 		[806]=
 		{
@@ -14037,6 +14037,16 @@ return {
 		[823]=
 		{
 			no = 823,
+			id = 333,
+			var = "market_channel",
+			value = "cjj",
+			judge = 5,
+			group = 1,
+			error_desc = "非冲金鸡的全渠道",
+		},
+		[824]=
+		{
+			no = 824,
 			id = 329,
 			var = "market_channel",
 			value = "xiaomi",
@@ -14044,9 +14054,19 @@ return {
 			group = 1,
 			error_desc = "非小米的全渠道",
 		},
-		[824]=
+		[825]=
 		{
-			no = 824,
+			no = 825,
+			id = 333,
+			var = "market_channel",
+			value = "cjj",
+			judge = 5,
+			group = 1,
+			error_desc = "非冲金鸡的全渠道",
+		},
+		[826]=
+		{
+			no = 826,
 			id = 330,
 			var = "vip_level",
 			value = 1,
@@ -14054,35 +14074,15 @@ return {
 			group = 1,
 			error_desc = "v1及以上",
 		},
-		[825]=
+		[827]=
 		{
-			no = 825,
+			no = 827,
 			id = 330,
 			var = "vip_level",
 			value = 3,
 			judge = 4,
 			group = 1,
 			error_desc = "v3及以下",
-		},
-		[826]=
-		{
-			no = 826,
-			id = 330,
-			var = "tag_type",
-			value = "tag_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "非新用户",
-		},
-		[827]=
-		{
-			no = 827,
-			id = 330,
-			var = "tag_type",
-			value = "tag_free_player",
-			judge = 2,
-			group = 2,
-			error_desc = "免费玩家",
 		},
 		[828]=
 		{
@@ -14091,7 +14091,7 @@ return {
 			var = "tag_type",
 			value = "tag_new_player",
 			judge = 5,
-			group = 2,
+			group = 1,
 			error_desc = "非新用户",
 		},
 		[829]=
@@ -14099,10 +14099,10 @@ return {
 			no = 829,
 			id = 330,
 			var = "tag_type",
-			value = "tag_stingy_player",
+			value = "tag_free_player",
 			judge = 2,
-			group = 3,
-			error_desc = "小额玩家",
+			group = 2,
+			error_desc = "免费玩家",
 		},
 		[830]=
 		{
@@ -14111,12 +14111,32 @@ return {
 			var = "tag_type",
 			value = "tag_new_player",
 			judge = 5,
-			group = 3,
+			group = 2,
 			error_desc = "非新用户",
 		},
 		[831]=
 		{
 			no = 831,
+			id = 330,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "小额玩家",
+		},
+		[832]=
+		{
+			no = 832,
+			id = 330,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 3,
+			error_desc = "非新用户",
+		},
+		[833]=
+		{
+			no = 833,
 			id = 331,
 			var = "vip_level",
 			value = 4,
@@ -14124,9 +14144,9 @@ return {
 			group = 1,
 			error_desc = "v4及以上",
 		},
-		[832]=
+		[834]=
 		{
-			no = 832,
+			no = 834,
 			id = 331,
 			var = "vip_level",
 			value = 10,
@@ -14134,9 +14154,9 @@ return {
 			group = 1,
 			error_desc = "v10及以下",
 		},
-		[833]=
+		[835]=
 		{
-			no = 833,
+			no = 835,
 			id = 331,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -14144,9 +14164,9 @@ return {
 			group = 1,
 			error_desc = "非新用户",
 		},
-		[834]=
+		[836]=
 		{
-			no = 834,
+			no = 836,
 			id = 332,
 			var = "vip_level",
 			value = 0,
@@ -14154,9 +14174,9 @@ return {
 			group = 1,
 			error_desc = "v0及以下",
 		},
-		[835]=
+		[837]=
 		{
-			no = 835,
+			no = 837,
 			id = 333,
 			var = "market_channel",
 			value = "cjj",
@@ -14208,7 +14228,7 @@ return {
 			id = 5,
 			name = "3dby_cpl",
 			var = "market_channel",
-			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","cjj",},
+			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","cjj","juxiang","xiaozhuo","aibianxian","juju","qwxq",},
 			judge = 2,
 			group = 1,
 		},
@@ -14235,7 +14255,7 @@ return {
 			id = 8,
 			name = "3dby_special_cpl",
 			var = "market_channel",
-			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd",},
+			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","juxiang","xiaozhuo","aibianxian","juju","qwxq",},
 			judge = 2,
 			group = 1,
 		},
