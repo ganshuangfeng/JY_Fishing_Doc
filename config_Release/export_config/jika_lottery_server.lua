@@ -1,152 +1,203 @@
 return {
-	real_cfg=
+	main=
 	{
 		[1]=
 		{
+			id = 1,
 			award_id = 1,
 			award_name = "40万鱼币",
 			award_value = 400000,
 			award_type = "discount_fish_coin",
-			power = 2500,
+			real_power = 2500,
+			false_power = 1000,
+			permission_key = "cpl_notcjj",
 		},
 		[2]=
 		{
+			id = 2,
 			award_id = 2,
 			award_name = "30万鱼币",
 			award_value = 300000,
 			award_type = "discount_fish_coin",
-			power = 2500,
+			real_power = 2500,
+			false_power = 1000,
+			permission_key = "cpl_notcjj",
 		},
 		[3]=
 		{
+			id = 3,
 			award_id = 3,
 			award_name = "45万鱼币",
 			award_value = 450000,
 			award_type = "discount_fish_coin",
-			power = 2000,
+			real_power = 2000,
+			false_power = 1100,
+			permission_key = "cpl_notcjj",
 		},
 		[4]=
 		{
+			id = 4,
 			award_id = 4,
 			award_name = "50万金币",
 			award_value = 500000,
 			award_type = "jing_bi",
-			power = 500,
+			real_power = 500,
+			false_power = 2000,
+			permission_key = "cpl_notcjj",
 		},
 		[5]=
 		{
+			id = 5,
 			award_id = 5,
 			award_name = "60万鱼币",
 			award_value = 600000,
 			award_type = "discount_fish_coin",
-			power = 500,
+			real_power = 500,
+			false_power = 2000,
+			permission_key = "cpl_notcjj",
 		},
 		[6]=
 		{
+			id = 6,
 			award_id = 6,
 			award_name = "话费碎片*100",
 			award_value = 100,
 			award_type = "prop_web_chip_huafei",
-			power = 2000,
+			real_power = 2000,
+			false_power = 1500,
+			permission_key = "cpl_notcjj",
 		},
 		[7]=
 		{
+			id = 7,
 			award_id = 7,
 			award_name = "500万鱼币",
 			award_value = 5000000,
 			award_type = "fish_coin",
-			power = 0,
+			real_power = 0,
+			false_power = 1000,
+			permission_key = "cpl_notcjj",
 		},
 		[8]=
 		{
+			id = 8,
 			award_id = 8,
 			award_name = "1000万金币",
 			award_value = 10000000,
 			award_type = "jing_bi",
-			power = 0,
+			real_power = 0,
+			false_power = 300,
+			permission_key = "cpl_notcjj",
 		},
 		[9]=
 		{
+			id = 9,
 			award_id = 9,
 			award_name = "19800福利券",
 			award_value = 19800,
 			award_type = "shop_gold_sum",
-			power = 0,
+			real_power = 0,
+			false_power = 100,
+			permission_key = "cpl_notcjj",
 		},
-	},
-	false_cfg=
-	{
-		[1]=
+		[10]=
 		{
+			id = 10,
 			award_id = 1,
-			award_name = "40万特殊鱼币",
-			award_value = 400000,
-			award_type = "discount_fish_coin",
-			power = 1000,
-		},
-		[2]=
-		{
-			award_id = 2,
 			award_name = "40万小游戏币",
 			award_value = 400000,
 			award_type = "prop_tiny_game_coin",
-			power = 1000,
+			real_power = 2500,
+			false_power = 1000,
+			permission_key = "cpl_cjj",
 		},
-		[3]=
+		[11]=
 		{
+			id = 11,
+			award_id = 2,
+			award_name = "30万小游戏币",
+			award_value = 300000,
+			award_type = "prop_tiny_game_coin",
+			real_power = 2500,
+			false_power = 1000,
+			permission_key = "cpl_cjj",
+		},
+		[12]=
+		{
+			id = 12,
 			award_id = 3,
-			award_name = "45万特殊鱼币",
+			award_name = "45万小游戏币",
 			award_value = 450000,
-			award_type = "discount_fish_coin",
-			power = 1100,
+			award_type = "prop_tiny_game_coin",
+			real_power = 2000,
+			false_power = 1100,
+			permission_key = "cpl_cjj",
 		},
-		[4]=
+		[13]=
 		{
+			id = 13,
 			award_id = 4,
-			award_name = "50万鲸币",
+			award_name = "50万金币",
 			award_value = 500000,
 			award_type = "jing_bi",
-			power = 2000,
+			real_power = 500,
+			false_power = 2000,
+			permission_key = "cpl_cjj",
 		},
-		[5]=
+		[14]=
 		{
+			id = 14,
 			award_id = 5,
-			award_name = "60万特殊鱼币",
+			award_name = "60万小游戏币",
 			award_value = 600000,
-			award_type = "discount_fish_coin",
-			power = 2000,
+			award_type = "prop_tiny_game_coin",
+			real_power = 500,
+			false_power = 2000,
+			permission_key = "cpl_cjj",
 		},
-		[6]=
+		[15]=
 		{
+			id = 15,
 			award_id = 6,
 			award_name = "话费碎片*100",
 			award_value = 100,
 			award_type = "prop_web_chip_huafei",
-			power = 1500,
+			real_power = 2000,
+			false_power = 1500,
+			permission_key = "cpl_cjj",
 		},
-		[7]=
+		[16]=
 		{
+			id = 16,
 			award_id = 7,
-			award_name = "500万鱼币",
+			award_name = "500万小游戏币",
 			award_value = 5000000,
-			award_type = "fish_coin",
-			power = 1000,
+			award_type = "prop_tiny_game_coin",
+			real_power = 0,
+			false_power = 1000,
+			permission_key = "cpl_cjj",
 		},
-		[8]=
+		[17]=
 		{
+			id = 17,
 			award_id = 8,
-			award_name = "1000万鲸币",
+			award_name = "1000万金币",
 			award_value = 10000000,
 			award_type = "jing_bi",
-			power = 300,
+			real_power = 0,
+			false_power = 300,
+			permission_key = "cpl_cjj",
 		},
-		[9]=
+		[18]=
 		{
+			id = 18,
 			award_id = 9,
-			award_name = "19800红包券",
+			award_name = "19800福利券",
 			award_value = 19800,
 			award_type = "shop_gold_sum",
-			power = 100,
+			real_power = 0,
+			false_power = 100,
+			permission_key = "cpl_cjj",
 		},
 	},
 }

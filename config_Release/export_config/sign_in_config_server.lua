@@ -80,6 +80,7 @@ return {
 			no = 5,
 			acc_day = "M",
 			award_id = 12,
+			permission_award_id = {"cpl_cjj",13},
 		},
 	},
 	award=
@@ -167,6 +168,13 @@ return {
 			award_id = 12,
 			asset_type = "gun_barrel_2",
 			asset_count = 604800,
+		},
+		[13]=
+		{
+			no = 13,
+			award_id = 13,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
 		},
 	},
 }

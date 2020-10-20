@@ -904,5 +904,17 @@ return {
 			srartTime = 1601337600,
 			endTime = 1601913599,
 		},
+		[80]=
+		{
+			id = 80,
+			bannerID = 80,
+			isOnOff = 1,
+			order = 100,
+			condi_key = "actp_buy_gift_bag_class_cyfl_034_cylb",
+			gotoUI = {"act_030_cwlb","panel"},
+			model = "LoginUp",
+			srartTime = 1603152000,
+			endTime = 1603727999,
+		},
 	},
 }

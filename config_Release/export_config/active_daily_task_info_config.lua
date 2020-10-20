@@ -1,35 +1,21 @@
 return {
-	active_award_config=
+	config=
 	{
 		[1]=
 		{
 			id = 1,
-			active = 30,
-			award_tip = "5000鱼币，锁定*2",
+			key = "cpl_notcjj",
+			task = "active_task_item",
+			award = "active_award_config",
+			award_task = 13000,
 		},
 		[2]=
 		{
 			id = 2,
-			active = 60,
-			award_tip = "1万鱼币，召唤*1",
-		},
-		[3]=
-		{
-			id = 3,
-			active = 90,
-			award_tip = "1万鱼币，1万小游戏币",
-		},
-		[4]=
-		{
-			id = 4,
-			active = 120,
-			award_tip = "1万鱼币，1万金币",
-		},
-		[5]=
-		{
-			id = 5,
-			active = 150,
-			award_tip = "6万金币",
+			key = "cpl_cjj",
+			task = "active_task_item_cjj",
+			award = "active_award_config_cjj",
+			award_task = 13001,
 		},
 	},
 	active_task_item=
@@ -396,6 +382,243 @@ return {
 			task_award_instruction = {"福利券","活跃度"},
 			task_award_count = {"x500","x50"},
 			gotoui = {"shop_bay","jing_bi"},
+		},
+	},
+	active_award_config=
+	{
+		[1]=
+		{
+			id = 1,
+			active = 30,
+			award_tip = "5000鱼币，锁定*2",
+		},
+		[2]=
+		{
+			id = 2,
+			active = 60,
+			award_tip = "1万鱼币，召唤*1",
+		},
+		[3]=
+		{
+			id = 3,
+			active = 90,
+			award_tip = "1万鱼币，1万小游戏币",
+		},
+		[4]=
+		{
+			id = 4,
+			active = 120,
+			award_tip = "1万鱼币，1万金币",
+		},
+		[5]=
+		{
+			id = 5,
+			active = 150,
+			award_tip = "6万金币",
+		},
+	},
+	active_task_item_cjj=
+	{
+		[1]=
+		{
+			id = 1,
+			task_id = 12600,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "龙王争霸累计赢金1万",
+			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x200","x5"},
+			gotoui = {"game_LWZBHall",},
+		},
+		[2]=
+		{
+			id = 2,
+			task_id = 12601,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "龙王争霸累计赢金5万",
+			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x1000","x5"},
+			gotoui = {"game_LWZBHall",},
+		},
+		[3]=
+		{
+			id = 3,
+			task_id = 12602,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "龙王争霸累计赢金10万",
+			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x2000","x10"},
+			gotoui = {"game_LWZBHall",},
+		},
+		[4]=
+		{
+			id = 4,
+			task_id = 12603,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "龙王争霸累计赢金50万",
+			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x10000","x10"},
+			gotoui = {"game_LWZBHall",},
+		},
+		[5]=
+		{
+			id = 5,
+			task_id = 12604,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "龙王争霸累计赢金100万",
+			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x20000","x10"},
+			gotoui = {"game_LWZBHall",},
+		},
+		[6]=
+		{
+			id = 6,
+			task_id = 12605,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "龙王争霸累计赢金500万",
+			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x100000","x20"},
+			gotoui = {"game_LWZBHall",},
+		},
+		[7]=
+		{
+			id = 7,
+			task_id = 12606,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "龙王争霸累计赢金1000万",
+			task_award_icon = {"ty_icon_jb_2498y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x200000","x30"},
+			gotoui = {"game_LWZBHall",},
+		},
+		[8]=
+		{
+			id = 8,
+			task_id = 12607,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金1万",
+			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x200","x5"},
+			gotoui = {"game_MiniGame",},
+		},
+		[9]=
+		{
+			id = 9,
+			task_id = 12608,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金5万",
+			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x1000","x5"},
+			gotoui = {"game_MiniGame",},
+		},
+		[10]=
+		{
+			id = 10,
+			task_id = 12609,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金10万",
+			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x2000","x10"},
+			gotoui = {"game_MiniGame",},
+		},
+		[11]=
+		{
+			id = 11,
+			task_id = 12610,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金50万",
+			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x10000","x10"},
+			gotoui = {"game_MiniGame",},
+		},
+		[12]=
+		{
+			id = 12,
+			task_id = 12611,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金100万",
+			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x20000","x10"},
+			gotoui = {"game_MiniGame",},
+		},
+		[13]=
+		{
+			id = 13,
+			task_id = 12612,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金500万",
+			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x100000","x20"},
+			gotoui = {"game_MiniGame",},
+		},
+		[14]=
+		{
+			id = 14,
+			task_id = 12613,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金1000万",
+			task_award_icon = {"ty_icon_jb_2498y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x200000","x30"},
+			gotoui = {"game_MiniGame",},
+		},
+	},
+	active_award_config_cjj=
+	{
+		[1]=
+		{
+			id = 1,
+			active = 30,
+			award_tip = "5000小游戏币",
+		},
+		[2]=
+		{
+			id = 2,
+			active = 60,
+			award_tip = "1万小游戏币，玩具锤*1",
+		},
+		[3]=
+		{
+			id = 3,
+			active = 90,
+			award_tip = "1万金币，1万小游戏币",
+		},
+		[4]=
+		{
+			id = 4,
+			active = 120,
+			award_tip = "2万金币，2万小游戏币",
+		},
+		[5]=
+		{
+			id = 5,
+			active = 150,
+			award_tip = "5万金币",
 		},
 	},
 }

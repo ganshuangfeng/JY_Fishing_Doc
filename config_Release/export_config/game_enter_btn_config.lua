@@ -144,6 +144,12 @@ return {
 			area = "top",
 			group_list = "72#",
 		},
+		[4]=
+		{
+			id = 4,
+			area = "top_c",
+			group_list = "284#",
+		},
 	},
 	hall_config=
 	{
@@ -157,7 +163,7 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "36;89#97;100;11;93;94#58#30#",
+			group_list = "36;89;105#97;100;102;11;93;94#58#30#",
 		},
 		[3]=
 		{
@@ -300,7 +306,7 @@ return {
 		{
 			id = 4,
 			area = "down2",
-			group_list = "103#87#100;11;93;94#36;89#",
+			group_list = "103#87#100;102;11;93;94#36;89#",
 		},
 		[5]=
 		{
@@ -332,7 +338,7 @@ return {
 		{
 			id = 3,
 			area = "top_right",
-			group_list = "72#",
+			group_list = "104#95#72#",
 		},
 		[4]=
 		{
@@ -358,12 +364,6 @@ return {
 			area = "center5",
 			group_list = "77#68",
 		},
-		[8]=
-		{
-			id = 8,
-			area = "top_right_1",
-			group_list = "95#",
-		},
 	},
 	ttl_config=
 	{
@@ -380,6 +380,24 @@ return {
 		{
 			id = 1,
 			area = "top",
+			group_list = "101#",
+		},
+	},
+	lwzb_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left_top",
+			group_list = "101#",
+		},
+	},
+	lwzb_game_hall=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left_top",
 			group_list = "101#",
 		},
 	},
@@ -1010,6 +1028,18 @@ return {
 		{
 			id = 103,
 			parm = {"by3d_hd",},
+			is_on_off = 1,
+		},
+		[104]=
+		{
+			id = 104,
+			parm = {"by_xyxyd",},
+			is_on_off = 1,
+		},
+		[105]=
+		{
+			id = 105,
+			parm = {"sys_jjsl",},
 			is_on_off = 1,
 		},
 	},

@@ -1506,9 +1506,9 @@ return {
 			key = "act_005_yzqj",
 			desc = "一字千金",
 			lua = "Act_005YZQJManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[152]=
 		{
@@ -2776,6 +2776,26 @@ return {
 			is_on_off = 0,
 			enable = 1,
 			state = 1,
+		},
+		[284]=
+		{
+			id = 284,
+			key = "by_xyxyd",
+			desc = "大额福利券（跳转小游戏入口）",
+			lua = "BYXyxydManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[285]=
+		{
+			id = 285,
+			key = "sys_jjsl",
+			desc = "金鸡送礼",
+			lua = "SYSJJSLManager",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 	},
 }

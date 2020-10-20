@@ -54,6 +54,11 @@ return {
 			game_type = "xiaoxiaole_xiyou",
 			rate = 0.003000,
 		},
+		lwzb_game=
+		{
+			game_type = "lwzb_game",
+			rate = 0.003000,
+		},
 	},
 	vip=
 	{

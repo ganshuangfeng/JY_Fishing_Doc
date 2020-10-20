@@ -113,6 +113,13 @@ return {
 			start_time = 1602547200,
 			recycle_time = 1603123199,
 		},
+		[17]=
+		{
+			id = 17,
+			prop_type = "prop_cyj_cjq",
+			start_time = 1603152000,
+			recycle_time = 1603727999,
+		},
 	},
 	player_ext_status=
 	{

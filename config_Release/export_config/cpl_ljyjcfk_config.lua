@@ -5,6 +5,19 @@ return {
 		{
 			id = 1,
 			task = 1000052,
+			total = 300000,
+			task_name = "小游戏累计赢金30万",
+			show_hb = 3,
+			hb = {1,2,3},
+			asset_value = {1,2,3},
+			asset_type = {"shop_gold_sum","shop_gold_sum","shop_gold_sum"},
+			hb_image = "ty_icon_flq1",
+			key = "actp_own_task_p_xyxyj_nor",
+		},
+		[2]=
+		{
+			id = 2,
+			task = 1000052,
 			total = 1000000,
 			task_name = "小游戏累计赢金100万",
 			show_hb = 10,
@@ -14,9 +27,9 @@ return {
 			hb_image = "ty_icon_flq1",
 			key = "actp_own_task_p_xyxyj_nor",
 		},
-		[2]=
+		[3]=
 		{
-			id = 2,
+			id = 3,
 			task = 1000052,
 			total = 5000000,
 			task_name = "小游戏累计赢金500万",
@@ -27,9 +40,9 @@ return {
 			hb_image = "ty_icon_flq1",
 			key = "actp_own_task_p_xyxyj_nor",
 		},
-		[3]=
+		[4]=
 		{
-			id = 3,
+			id = 4,
 			task = 1000052,
 			total = 10000000,
 			task_name = "小游戏累计赢金1000万",
@@ -40,9 +53,9 @@ return {
 			hb_image = "ty_icon_flq2",
 			key = "actp_own_task_p_xyxyj_nor",
 		},
-		[4]=
+		[5]=
 		{
-			id = 4,
+			id = 5,
 			task = 1000052,
 			total = 20000000,
 			task_name = "小游戏累计赢金2000万",
@@ -53,9 +66,9 @@ return {
 			hb_image = "ty_icon_flq2",
 			key = "actp_own_task_p_xyxyj_nor",
 		},
-		[5]=
+		[6]=
 		{
-			id = 5,
+			id = 6,
 			task = 1000052,
 			total = 50000000,
 			task_name = "小游戏累计赢金5000万",
@@ -66,9 +79,9 @@ return {
 			hb_image = "ty_icon_flq3",
 			key = "actp_own_task_p_xyxyj_nor",
 		},
-		[6]=
+		[7]=
 		{
-			id = 6,
+			id = 7,
 			task = 1000052,
 			total = 100000000,
 			task_name = "小游戏累计赢金1亿",
@@ -79,9 +92,9 @@ return {
 			hb_image = "ty_icon_flq3",
 			key = "actp_own_task_p_xyxyj_nor",
 		},
-		[7]=
+		[8]=
 		{
-			id = 7,
+			id = 8,
 			task = 1000052,
 			total = 500000000,
 			task_name = "小游戏累计赢金5亿",
@@ -92,9 +105,9 @@ return {
 			hb_image = "ty_icon_flq4",
 			key = "actp_own_task_p_xyxyj_nor",
 		},
-		[8]=
+		[9]=
 		{
-			id = 8,
+			id = 9,
 			task = 1000052,
 			total = 1000000000,
 			task_name = "小游戏累计赢金10亿",
@@ -105,9 +118,9 @@ return {
 			hb_image = "ty_icon_flq4",
 			key = "actp_own_task_p_xyxyj_nor",
 		},
-		[9]=
+		[10]=
 		{
-			id = 9,
+			id = 10,
 			task = 1000052,
 			total = 2000000000,
 			task_name = "小游戏累计赢金20亿",
@@ -118,9 +131,9 @@ return {
 			hb_image = "ty_icon_flq5",
 			key = "actp_own_task_p_xyxyj_nor",
 		},
-		[10]=
+		[11]=
 		{
-			id = 10,
+			id = 11,
 			task = 1000057,
 			total = 1000000,
 			task_name = "小游戏累计赢金100万",
@@ -131,9 +144,9 @@ return {
 			hb_image = "ty_icon_flq1",
 			key = "actp_own_task_p_xyxyj_cps",
 		},
-		[11]=
+		[12]=
 		{
-			id = 11,
+			id = 12,
 			task = 1000057,
 			total = 5000000,
 			task_name = "小游戏累计赢金500万",
@@ -144,9 +157,9 @@ return {
 			hb_image = "ty_icon_flq1",
 			key = "actp_own_task_p_xyxyj_cps",
 		},
-		[12]=
+		[13]=
 		{
-			id = 12,
+			id = 13,
 			task = 1000057,
 			total = 10000000,
 			task_name = "小游戏累计赢金1000万",
@@ -157,9 +170,9 @@ return {
 			hb_image = "ty_icon_flq2",
 			key = "actp_own_task_p_xyxyj_cps",
 		},
-		[13]=
+		[14]=
 		{
-			id = 13,
+			id = 14,
 			task = 1000057,
 			total = 20000000,
 			task_name = "小游戏累计赢金2000万",
@@ -170,9 +183,9 @@ return {
 			hb_image = "ty_icon_flq2",
 			key = "actp_own_task_p_xyxyj_cps",
 		},
-		[14]=
+		[15]=
 		{
-			id = 14,
+			id = 15,
 			task = 1000057,
 			total = 50000000,
 			task_name = "小游戏累计赢金5000万",
@@ -183,9 +196,9 @@ return {
 			hb_image = "ty_icon_flq3",
 			key = "actp_own_task_p_xyxyj_cps",
 		},
-		[15]=
+		[16]=
 		{
-			id = 15,
+			id = 16,
 			task = 1000057,
 			total = 100000000,
 			task_name = "小游戏累计赢金1亿",
@@ -196,9 +209,9 @@ return {
 			hb_image = "ty_icon_flq3",
 			key = "actp_own_task_p_xyxyj_cps",
 		},
-		[16]=
+		[17]=
 		{
-			id = 16,
+			id = 17,
 			task = 1000057,
 			total = 500000000,
 			task_name = "小游戏累计赢金5亿",
@@ -209,9 +222,9 @@ return {
 			hb_image = "ty_icon_flq4",
 			key = "actp_own_task_p_xyxyj_cps",
 		},
-		[17]=
+		[18]=
 		{
-			id = 17,
+			id = 18,
 			task = 1000057,
 			total = 1000000000,
 			task_name = "小游戏累计赢金10亿",
@@ -222,9 +235,9 @@ return {
 			hb_image = "ty_icon_flq4",
 			key = "actp_own_task_p_xyxyj_cps",
 		},
-		[18]=
+		[19]=
 		{
-			id = 18,
+			id = 19,
 			task = 1000057,
 			total = 2000000000,
 			task_name = "小游戏累计赢金20亿",

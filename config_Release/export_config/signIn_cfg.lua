@@ -54,6 +54,7 @@ return {
 	{
 		[1]=
 		{
+			line = 1,
 			id = 1,
 			img = "ty_icon_flq2",
 			info = "10福利券",
@@ -61,6 +62,7 @@ return {
 		},
 		[2]=
 		{
+			line = 2,
 			id = 2,
 			img = "ty_icon_jb_50y",
 			info = "金币x20000",
@@ -68,6 +70,7 @@ return {
 		},
 		[3]=
 		{
+			line = 3,
 			id = 3,
 			img = "ty_icon_flq3",
 			info = "30福利券",
@@ -75,6 +78,7 @@ return {
 		},
 		[4]=
 		{
+			line = 4,
 			id = 4,
 			img = "ty_icon_jb_198y",
 			info = "金币x50000",
@@ -82,10 +86,21 @@ return {
 		},
 		[5]=
 		{
+			line = 5,
 			id = 5,
 			img = "3dby_icon_p1",
 			info = "七日雷霆幻影",
 			day = "M",
+			key = "cpl_notcjj",
+		},
+		[6]=
+		{
+			line = 6,
+			id = 5,
+			img = "ty_icon_flq3",
+			info = "100福利券",
+			day = "M",
+			key = "cpl_cjj",
 		},
 	},
 }

@@ -1426,7 +1426,6 @@ return {
 			order = 34,
 			name = "小游戏币",
 			desc = "用于小游戏消耗",
-			use_parm = {"game_MiniGame",},
 		},
 		[110]=
 		{
@@ -2173,7 +2172,7 @@ return {
 			item_key = "prop_cyj_cjq",
 			lose_time = -1,
 			is_local_icon = 1,
-			image = "ty_icon_cjq",
+			image = "cwzp_icon_cjq",
 			is_show_bag = 0,
 			order = 33,
 			name = "重阳节抽奖券",

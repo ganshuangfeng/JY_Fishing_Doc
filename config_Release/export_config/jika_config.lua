@@ -65,6 +65,72 @@ return {
 			award_image = "com_icon_yb",
 		},
 	},
+	base_cjj=
+	{
+		[1]=
+		{
+			Index = 1,
+			award_id = 1,
+			award_text = "40万小游戏币",
+			award_image = "ty_icon_yxb_2",
+		},
+		[2]=
+		{
+			Index = 2,
+			award_id = 9,
+			award_text = "1.98万福利券",
+			award_image = "ls_icon_hb1",
+		},
+		[3]=
+		{
+			Index = 3,
+			award_id = 3,
+			award_text = "45万小游戏币",
+			award_image = "ty_icon_yxb_4",
+		},
+		[4]=
+		{
+			Index = 4,
+			award_id = 4,
+			award_text = "50万金币",
+			award_image = "pay_icon_gold3",
+		},
+		[5]=
+		{
+			Index = 5,
+			award_id = 5,
+			award_text = "60万小游戏币",
+			award_image = "ty_icon_yxb_4",
+		},
+		[6]=
+		{
+			Index = 6,
+			award_id = 6,
+			award_text = "话费碎片*100",
+			award_image = "com_award_icon_hfsp",
+		},
+		[7]=
+		{
+			Index = 7,
+			award_id = 7,
+			award_text = "500万小游戏币",
+			award_image = "ty_icon_yxb_5",
+		},
+		[8]=
+		{
+			Index = 8,
+			award_id = 8,
+			award_text = "1000万金币",
+			award_image = "pay_icon_gold8",
+		},
+		[9]=
+		{
+			Index = 9,
+			award_id = 2,
+			award_text = "30万小游戏币",
+			award_image = "ty_icon_yxb_3",
+		},
+	},
 	help_info=
 	{
 		[1]=

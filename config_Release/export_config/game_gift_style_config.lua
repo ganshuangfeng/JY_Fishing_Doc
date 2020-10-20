@@ -48,6 +48,7 @@ return {
 			line = 4,
 			gift_key = "gift_cglb",
 			temp = "T4",
+			key = "cpl_notcjj",
 			gift_id = {10087,10088,10089,},
 			bg_img = "mrth_bg_mrth",
 			db_img = "mrth_dk_mrth",
@@ -67,6 +68,7 @@ return {
 			line = 5,
 			gift_key = "gift_cglb",
 			temp = "T4",
+			key = "cpl_notcjj",
 			gift_id = {10090,10091,10092,},
 			bg_img = "mrth_bg_mrth",
 			db_img = "mrth_dk_mrth",
@@ -143,6 +145,46 @@ return {
 			line = 9,
 			gift_key = "gift_cglb",
 			temp = "T4",
+			key = "cpl_cjj",
+			gift_id = {10331,10332,10333,},
+			bg_img = "mrth_bg_mrth",
+			db_img = "mrth_dk_mrth",
+			enter_icon = "mrth_btn_mrth",
+			is_hz = 1,
+			name_c = "FFF0DFFF",
+			name_outline = "9A201FFF",
+			font_c = "CB5D11FF",
+			outline_c = "FFFFFFFF",
+			gift_c = "FFEABFFF",
+			pay_name = {"10万","10万","1","30万","20万","2","60万","30万","3",},
+			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","com_award_icon_cz1","ty_icon_jb_998y","ty_icon_jb_50y","com_award_icon_cz1","ty_icon_jb_2498y","ty_icon_jb_198y","com_award_icon_cz1",},
+			isOnOff = 1,
+		},
+		[10]=
+		{
+			line = 10,
+			gift_key = "gift_cglb",
+			temp = "T4",
+			key = "cpl_cjj",
+			gift_id = {10334,10091,10092,},
+			bg_img = "mrth_bg_mrth",
+			db_img = "mrth_dk_mrth",
+			enter_icon = "mrth_btn_mrth",
+			is_hz = 1,
+			name_c = "FFF0DFFF",
+			name_outline = "9A201FFF",
+			font_c = "CB5D11FF",
+			outline_c = "FFFFFFFF",
+			gift_c = "FFEABFFF",
+			pay_name = {"60万","20万","3","100万","20万","10万","180万","20万","20万",},
+			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","com_award_icon_cz1","ty_icon_jb_998y","ty_icon_jb_50y","ty_icon_yxb_2","ty_icon_jb_2498y","ty_icon_jb_198y","ty_icon_yxb_4",},
+			isOnOff = 1,
+		},
+		[11]=
+		{
+			line = 11,
+			gift_key = "gift_cglb",
+			temp = "T4",
 			gift_id = {10103,10104,10105,},
 			bg_img = "cjslb_bg_1",
 			db_img = "cjslb_dk_1",
@@ -157,9 +199,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","bag_icon_jipaiqi","ty_icon_jb_998y","ty_icon_jb_50y","bag_icon_jipaiqi","ty_icon_jb_2498y","ty_icon_jb_198y","bag_icon_jipaiqi",},
 			isOnOff = 0,
 		},
-		[10]=
+		[12]=
 		{
-			line = 10,
+			line = 12,
 			gift_key = "gift_cglb",
 			temp = "T4",
 			gift_id = {10106,10107,10108,},
@@ -176,9 +218,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","bag_icon_jipaiqi","ty_icon_jb_998y","ty_icon_jb_50y","com_award_icon_yb1","ty_icon_jb_2498y","ty_icon_jb_198y","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
-		[11]=
+		[13]=
 		{
-			line = 11,
+			line = 13,
 			gift_key = "gift_cglb",
 			temp = "T4",
 			gift_id = {10109,10110,10111,},
@@ -195,9 +237,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","com_icon_yb","ty_icon_jb_998y","ty_icon_jb_50y","com_award_icon_yb1","ty_icon_jb_2498y","ty_icon_jb_198y","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
-		[12]=
+		[14]=
 		{
-			line = 12,
+			line = 14,
 			gift_key = "gift_cglb",
 			temp = "T4",
 			gift_id = {10112,10113,10114,},
@@ -214,9 +256,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","com_icon_yb","ty_icon_jb_998y","ty_icon_jb_50y","com_award_icon_yb1","ty_icon_jb_2498y","ty_icon_jb_198y","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
-		[13]=
+		[15]=
 		{
-			line = 13,
+			line = 15,
 			gift_key = "gift_cglb",
 			temp = "T4",
 			gift_id = {10115,10116,10117,},
@@ -233,9 +275,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","com_icon_yb","ty_icon_jb_998y","ty_icon_jb_50y","com_award_icon_yb1","ty_icon_jb_2498y","ty_icon_jb_198y","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
-		[14]=
+		[16]=
 		{
-			line = 14,
+			line = 16,
 			gift_key = "gift_cglb",
 			temp = "T4",
 			gift_id = {10118,10119,10120,},
@@ -250,9 +292,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","bag_icon_jipaiqi","ty_icon_jb_998y","ty_icon_jb_50y","bag_icon_jipaiqi","ty_icon_jb_2498y","ty_icon_jb_198y","bag_icon_jipaiqi",},
 			isOnOff = 0,
 		},
-		[15]=
+		[17]=
 		{
-			line = 15,
+			line = 17,
 			gift_key = "gift_cglb",
 			temp = "T4",
 			gift_id = {10121,10122,10123,},
@@ -267,9 +309,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","bag_icon_jipaiqi","ty_icon_jb_998y","ty_icon_jb_50y","com_award_icon_yb1","ty_icon_jb_2498y","ty_icon_jb_198y","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
-		[16]=
+		[18]=
 		{
-			line = 16,
+			line = 18,
 			gift_key = "gift_cglb",
 			temp = "T4",
 			gift_id = {10124,10125,10126,},
@@ -284,9 +326,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","com_icon_yb","ty_icon_jb_998y","ty_icon_jb_50y","com_award_icon_yb1","ty_icon_jb_2498y","ty_icon_jb_198y","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
-		[17]=
+		[19]=
 		{
-			line = 17,
+			line = 19,
 			gift_key = "gift_cglb",
 			temp = "T4",
 			gift_id = {10127,10128,10129,},
@@ -301,9 +343,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","com_icon_yb","ty_icon_jb_998y","ty_icon_jb_50y","com_award_icon_yb1","ty_icon_jb_2498y","ty_icon_jb_198y","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
-		[18]=
+		[20]=
 		{
-			line = 18,
+			line = 20,
 			gift_key = "gift_cglb",
 			temp = "T4",
 			gift_id = {10130,10131,10132,},
@@ -318,9 +360,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","com_icon_yb","ty_icon_jb_998y","ty_icon_jb_50y","com_award_icon_yb1","ty_icon_jb_2498y","ty_icon_jb_198y","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
-		[19]=
+		[21]=
 		{
-			line = 19,
+			line = 21,
 			gift_key = "gift_cglb_mini",
 			temp = "T4",
 			gift_id = {10210,10211,10212,},
@@ -335,9 +377,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","bag_icon_jipaiqi","com_award_icon_chanz1","ty_icon_jb_998y","bag_icon_jipaiqi","com_award_icon_chanz2","ty_icon_jb_2498y","bag_icon_jipaiqi","com_award_icon_chanz3",},
 			isOnOff = 0,
 		},
-		[20]=
+		[22]=
 		{
-			line = 20,
+			line = 22,
 			gift_key = "gift_cglb_mini",
 			temp = "T4",
 			gift_id = {10213,10214,10215,},
@@ -352,9 +394,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","bag_icon_jipaiqi","com_award_icon_chanz1","ty_icon_jb_998y","com_award_icon_yb1","com_award_icon_chanz2","ty_icon_jb_2498y","com_award_icon_yb2","com_award_icon_chanz3",},
 			isOnOff = 0,
 		},
-		[21]=
+		[23]=
 		{
-			line = 21,
+			line = 23,
 			gift_key = "gift_cglb_mini",
 			temp = "T4",
 			gift_id = {10216,10217,10218,},
@@ -369,9 +411,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","com_icon_yb","com_award_icon_chanz1","ty_icon_jb_998y","com_award_icon_yb1","com_award_icon_chanz2","ty_icon_jb_2498y","com_award_icon_yb2","com_award_icon_chanz3",},
 			isOnOff = 0,
 		},
-		[22]=
+		[24]=
 		{
-			line = 22,
+			line = 24,
 			gift_key = "gift_cglb_mini",
 			temp = "T4",
 			gift_id = {10219,10220,10221,},
@@ -386,9 +428,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","com_icon_yb","com_award_icon_chanz1","ty_icon_jb_998y","com_award_icon_yb1","com_award_icon_chanz2","ty_icon_jb_2498y","com_award_icon_yb2","com_award_icon_chanz3",},
 			isOnOff = 0,
 		},
-		[23]=
+		[25]=
 		{
-			line = 23,
+			line = 25,
 			gift_key = "gift_cglb_mini",
 			temp = "T4",
 			gift_id = {10222,10223,10224,},
@@ -403,9 +445,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","com_icon_yb","com_award_icon_chanz1","ty_icon_jb_998y","com_award_icon_yb1","com_award_icon_chanz2","ty_icon_jb_2498y","com_award_icon_yb2","com_award_icon_chanz3",},
 			isOnOff = 0,
 		},
-		[24]=
+		[26]=
 		{
-			line = 24,
+			line = 26,
 			gift_key = "gift_cglb",
 			temp = "T4",
 			gift_id = {10148,10149,10150,},
@@ -422,9 +464,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","bag_icon_jipaiqi","ty_icon_jb_998y","ty_icon_jb_50y","bag_icon_jipaiqi","ty_icon_jb_2498y","ty_icon_jb_198y","bag_icon_jipaiqi",},
 			isOnOff = 0,
 		},
-		[25]=
+		[27]=
 		{
-			line = 25,
+			line = 27,
 			gift_key = "gift_cglb",
 			temp = "T4",
 			gift_id = {10151,10152,10153,},
@@ -441,9 +483,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","bag_icon_jipaiqi","ty_icon_jb_998y","ty_icon_jb_50y","com_award_icon_yb1","ty_icon_jb_2498y","ty_icon_jb_198y","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
-		[26]=
+		[28]=
 		{
-			line = 26,
+			line = 28,
 			gift_key = "gift_cglb",
 			temp = "T4",
 			gift_id = {10154,10155,10156,},
@@ -460,9 +502,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","com_icon_yb","ty_icon_jb_998y","ty_icon_jb_50y","com_award_icon_yb1","ty_icon_jb_2498y","ty_icon_jb_198y","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
-		[27]=
+		[29]=
 		{
-			line = 27,
+			line = 29,
 			gift_key = "gift_cglb",
 			temp = "T4",
 			gift_id = {10157,10158,10159,},
@@ -479,9 +521,9 @@ return {
 			icon_img = {"ty_icon_jb_498y","ty_icon_jb_30y","com_icon_yb","ty_icon_jb_998y","ty_icon_jb_50y","com_award_icon_yb1","ty_icon_jb_2498y","ty_icon_jb_198y","com_award_icon_yb2",},
 			isOnOff = 0,
 		},
-		[28]=
+		[30]=
 		{
-			line = 28,
+			line = 30,
 			gift_key = "gift_cglb",
 			temp = "T4",
 			gift_id = {10160,10161,10162,},

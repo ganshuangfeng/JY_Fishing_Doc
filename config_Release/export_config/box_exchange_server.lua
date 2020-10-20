@@ -491,6 +491,16 @@ return {
 			award_id = 45,
 			enable = 1,
 		},
+		[46]=
+		{
+			id = 46,
+			name = "重阳抽奖",
+			start_time = 1603152000,
+			end_time = 1603727999,
+			use_asset_id = 41,
+			award_id = 46,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
@@ -773,6 +783,13 @@ return {
 			use_id = 40,
 			use_item = "prop_3d_fish_nuclear_bomb_fragment_3",
 			use_num = 100,
+		},
+		[41]=
+		{
+			id = 41,
+			use_id = 41,
+			use_item = "prop_cyj_cjq",
+			use_num = 1,
 		},
 	},
 	lottery_credit=
@@ -2871,6 +2888,48 @@ return {
 			award_id = 45,
 			real_award_id = 11763,
 			weight = 1,
+		},
+		[299]=
+		{
+			no = 299,
+			award_id = 46,
+			real_award_id = 11773,
+			weight = 20,
+		},
+		[300]=
+		{
+			no = 300,
+			award_id = 46,
+			real_award_id = 11774,
+			weight = 25,
+		},
+		[301]=
+		{
+			no = 301,
+			award_id = 46,
+			real_award_id = 11775,
+			weight = 25,
+		},
+		[302]=
+		{
+			no = 302,
+			award_id = 46,
+			real_award_id = 11776,
+			weight = 27,
+		},
+		[303]=
+		{
+			no = 303,
+			award_id = 46,
+			real_award_id = 11777,
+			weight = 3,
+		},
+		[304]=
+		{
+			no = 304,
+			award_id = 46,
+			real_award_id = 11778,
+			weight = 0,
 		},
 	},
 	award_item=
@@ -5079,6 +5138,52 @@ return {
 			award_name = "高级核弹",
 			asset_type = "prop_3d_fish_nuclear_bomb_3",
 			asset_count = {1,1},
+		},
+		[299]=
+		{
+			id = 299,
+			real_award_id = 11773,
+			award_name = "12000金币",
+			asset_type = "jing_bi",
+			asset_count = {12000,12000},
+		},
+		[300]=
+		{
+			id = 300,
+			real_award_id = 11774,
+			award_name = "15福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {15,15},
+		},
+		[301]=
+		{
+			id = 301,
+			real_award_id = 11775,
+			award_name = "20000金币",
+			asset_type = "jing_bi",
+			asset_count = {20000,20000},
+		},
+		[302]=
+		{
+			id = 302,
+			real_award_id = 11776,
+			award_name = "30福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {30,30},
+		},
+		[303]=
+		{
+			id = 303,
+			real_award_id = 11777,
+			award_name = "50000金币",
+			asset_type = "jing_bi",
+			asset_count = {50000,50000},
+		},
+		[304]=
+		{
+			id = 304,
+			real_award_id = 11778,
+			award_name = "500京东卡",
 		},
 	},
 	weight=
