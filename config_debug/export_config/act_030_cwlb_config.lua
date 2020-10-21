@@ -54,7 +54,7 @@ return {
 		[6]=
 		{
 			line = 6,
-			icon = "cychl_iocn_jdk",
+			icon = "ty_icon_jdk",
 			name = "500京东卡",
 			award_id = 11778,
 			key = "cps_xiaomi",
