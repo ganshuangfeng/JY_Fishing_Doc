@@ -1101,7 +1101,7 @@ return {
 			id = 43,
 			process_id = 12560,
 			source_id = 36,
-			process = 10000,
+			process = 50000,
 			awards = 1034,
 			get_award_type = "nor",
 		},
@@ -1110,7 +1110,7 @@ return {
 			id = 44,
 			process_id = 12561,
 			source_id = 36,
-			process = 50000,
+			process = 100000,
 			awards = 1035,
 			get_award_type = "nor",
 		},
@@ -1678,7 +1678,7 @@ return {
 		[72]=
 		{
 			id = 72,
-			source_id = 36,
+			source_id = 35,
 			source_type = "jykp_award",
 			condition_id = 0,
 		},
