@@ -77,7 +77,7 @@ return {
 			gift_id = 10325,
 			name = "20元礼包",
 			order = 2,
-			pay_icon = {"ty_icon_jb_48y","ty_icon_yb_1_1","ty_icon_cjq",},
+			pay_icon = {"ty_icon_jb_48y","ty_icon_yb_1","ty_icon_cjq",},
 			pay_name = {"200万","1万","抽奖券*4",},
 		},
 		[3]=
