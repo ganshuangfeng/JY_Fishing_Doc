@@ -498,6 +498,8 @@ return {
 			start_time = 1603152000,
 			end_time = 1603727999,
 			use_asset_id = 41,
+			lottery_type = 1,
+			reset_time = 0,
 			award_id = 46,
 			enable = 1,
 		},
