@@ -5513,7 +5513,7 @@ return {
 			real_award_id = 11773,
 			award_name = "12000金币",
 			asset_type = "jing_bi",
-			asset_count = "12000，12000",
+			asset_count = {12000,12000},
 		},
 		[300]=
 		{
