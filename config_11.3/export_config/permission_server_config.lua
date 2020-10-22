@@ -5869,25 +5869,13 @@ return {
 		{
 			id = 331,
 			enable = 1,
-			key = "actp_own_task_wsj_tc_040",
-			name = "非新玩家",
+			key = "actp_own_task_p_034_xyxfl",
+			name = "小游戏福利（非CPS渠道）",
 			condi = 336,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1603756800,
-		},
-		[332]=
-		{
-			id = 332,
-			enable = 1,
-			key = "actp_own_task_p_task_xyxfl_041",
-			name = "小游戏福利（11.2）",
-			condi = 337,
-			is_dynamic_codi = 1,
-			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
-			start_deal_time = 1604359800,
+			start_deal_time = 1604332800,
 		},
 	},
 	condi=
@@ -14306,31 +14294,11 @@ return {
 		{
 			no = 842,
 			id = 336,
-			var = "tag_type",
-			value = "tag_new_player",
+			var = "share_condition",
+			value = "3dby_cps",
 			judge = 5,
 			group = 1,
-			error_desc = "非新用户",
-		},
-		[843]=
-		{
-			no = 843,
-			id = 337,
-			var = "market_channel",
-			value = "xiaomi",
-			judge = 5,
-			group = 1,
-			error_desc = "非小米渠道",
-		},
-		[844]=
-		{
-			no = 844,
-			id = 337,
-			var = "market_channel",
-			value = "vivo",
-			judge = 5,
-			group = 1,
-			error_desc = "非vivo渠道",
+			error_desc = "非CPS",
 		},
 	},
 	share_condition=
