@@ -1332,7 +1332,7 @@ return {
 		{
 			id = 58,
 			process_id = 13001,
-			process = {30,30,30,30,30},
+			process = {30,30,30,30,30,30},
 			awards = {2006,2007,2008,2009,2010},
 			get_award_type = "nor",
 		},
