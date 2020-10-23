@@ -934,7 +934,7 @@ return {
 			bannerID = 82,
 			isOnOff = 1,
 			order = 100,
-			gotoUI = {act_034_ldfd,"panel"},
+			gotoUI = {"sys_act_base","panel"},
 			model = "LoginUp",
 			srartTime = 1604359800,
 			endTime = 1604937599,
