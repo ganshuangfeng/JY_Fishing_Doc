@@ -1324,7 +1324,7 @@ return {
 		{
 			id = 57,
 			process_id = 13000,
-			process = {30,30,30,30,1000},
+			process = {30,30,30,30,30,1000},
 			awards = {2001,2002,2003,2004,2005},
 			get_award_type = "nor",
 		},
