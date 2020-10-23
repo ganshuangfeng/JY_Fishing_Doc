@@ -488,6 +488,34 @@ return {
 			source_id = 16,
 			source_type = "buyu_3d_award",
 		},
+		[35]=
+		{
+			id = 35,
+			source_id = 17,
+			source_type = "buyu_3d_target_yu_award",
+			condtion_id = 18,
+		},
+		[36]=
+		{
+			id = 36,
+			source_id = 18,
+			source_type = "buyu_3d_target_yu_award",
+			condtion_id = 19,
+		},
+		[37]=
+		{
+			id = 37,
+			source_id = 19,
+			source_type = "buyu_3d_target_yu_award",
+			condtion_id = 20,
+		},
+		[38]=
+		{
+			id = 38,
+			source_id = 20,
+			source_type = "buyu_3d_target_yu_award",
+			condtion_id = 21,
+		},
 	},
 	source_condition=
 	{
@@ -649,6 +677,38 @@ return {
 			condition_id = 17,
 			condition_name = "act_type",
 			condition_value = 9,
+			judge_type = 2,
+		},
+		[21]=
+		{
+			id = 21,
+			condition_id = 18,
+			condition_name = "base_fish_id",
+			condition_value = {38,46},
+			judge_type = 2,
+		},
+		[22]=
+		{
+			id = 22,
+			condition_id = 19,
+			condition_name = "base_fish_id",
+			condition_value = {41,47},
+			judge_type = 2,
+		},
+		[23]=
+		{
+			id = 23,
+			condition_id = 20,
+			condition_name = "base_fish_id",
+			condition_value = {43,48},
+			judge_type = 2,
+		},
+		[24]=
+		{
+			id = 24,
+			condition_id = 21,
+			condition_name = "base_fish_id",
+			condition_value = {40,49},
 			judge_type = 2,
 		},
 	},
