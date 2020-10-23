@@ -69,7 +69,7 @@ return {
 			name = "6元礼包",
 			order = 1,
 			pay_icon = {"ty_icon_jb_30y","ty_icon_yb_1","cwzp_icon_cjq",},
-			pay_name = {"金币*60万","福利券*3000","抽奖券*1",},
+			pay_name = {"金币*60万","鱼币*3000","抽奖券*1",},
 		},
 		[2]=
 		{
@@ -78,7 +78,7 @@ return {
 			name = "20元礼包",
 			order = 2,
 			pay_icon = {"ty_icon_jb_48y","ty_icon_yb_1","cwzp_icon_cjq",},
-			pay_name = {"金币*200万","福利券*1万","抽奖券*4",},
+			pay_name = {"金币*200万","鱼币*1万","抽奖券*4",},
 		},
 		[3]=
 		{
@@ -87,7 +87,7 @@ return {
 			name = "48元礼包",
 			order = 3,
 			pay_icon = {"ty_icon_jb_50y","ty_icon_yb_2","cwzp_icon_cjq",},
-			pay_name = {"金币*480万","福利券*3万","抽奖券*10",},
+			pay_name = {"金币*480万","鱼币*3万","抽奖券*10",},
 		},
 		[4]=
 		{
@@ -96,7 +96,7 @@ return {
 			name = "98元礼包",
 			order = 4,
 			pay_icon = {"ty_icon_jb_98y","ty_icon_yb_3","cwzp_icon_cjq",},
-			pay_name = {"金币*980万","福利券*10万","抽奖券*20",},
+			pay_name = {"金币*980万","鱼币*10万","抽奖券*20",},
 		},
 		[5]=
 		{
@@ -105,7 +105,7 @@ return {
 			name = "198元礼包",
 			order = 5,
 			pay_icon = {"ty_icon_jb_198y","ty_icon_yb_4","cwzp_icon_cjq",},
-			pay_name = {"金币*1980万","福利券*50万","抽奖券*30",},
+			pay_name = {"金币*1980万","鱼币*50万","抽奖券*30",},
 		},
 		[6]=
 		{
@@ -114,7 +114,7 @@ return {
 			name = "498元礼包",
 			order = 6,
 			pay_icon = {"ty_icon_jb_498y","ty_icon_yb_5","cwzp_icon_cjq",},
-			pay_name = {"金币*4980万","福利券*200万","抽奖券*50",},
+			pay_name = {"金币*4980万","鱼币*200万","抽奖券*50",},
 		},
 	},
 }
