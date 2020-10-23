@@ -19,7 +19,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = {捕获彩金鱼,可以进行彩金抽奖哦},
+			decs = {"捕获彩金鱼,可以进行彩金抽奖哦"},
 		},
 		[3]=
 		{
@@ -29,7 +29,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "我的发型帅吗?",
+			decs = ""我的发型帅吗?"",
 		},
 		[4]=
 		{
@@ -39,7 +39,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "听说打BOSS鱼会掉高级彩贝哦~",
+			decs = ""听说打BOSS鱼会掉高级彩贝哦~"",
 		},
 		[5]=
 		{
@@ -49,7 +49,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "你也太狠了吧",
+			decs = ""你也太狠了吧"",
 		},
 		[6]=
 		{
@@ -59,7 +59,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = {别惹我,我可是会爆炸的!},
+			decs = {"别惹我,我可是会爆炸的!"},
 		},
 		[7]=
 		{
@@ -69,7 +69,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = {让开,让开,炸弹可是不长眼的!},
+			decs = {"让开,让开,炸弹可是不长眼的!"},
 		},
 		[8]=
 		{
@@ -79,7 +79,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "捕获BOSS鱼可以进入海怪榜，获得奖励哦",
+			decs = ""捕获BOSS鱼可以进入海怪榜，获得奖励哦"",
 		},
 		[9]=
 		{
@@ -89,7 +89,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "不要这么对我嘛",
+			decs = ""不要这么对我嘛"",
 		},
 		[10]=
 		{
@@ -99,7 +99,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = {哼,都欺负我},
+			decs = {"哼,都欺负我"},
 		},
 		[11]=
 		{
@@ -109,7 +109,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "使用锁定可以提高捕获的几率哦",
+			decs = ""使用锁定可以提高捕获的几率哦"",
 		},
 		[12]=
 		{
@@ -119,7 +119,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "使用冰冻可以防止鱼类逃跑哦",
+			decs = ""使用冰冻可以防止鱼类逃跑哦"",
 		},
 		[13]=
 		{
@@ -129,7 +129,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "团结就是力量",
+			decs = ""团结就是力量"",
 		},
 		[14]=
 		{
@@ -139,7 +139,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "穿云弹可以进行穿透，最后还会进行大爆炸",
+			decs = ""穿云弹可以进行穿透，最后还会进行大爆炸"",
 		},
 		[15]=
 		{
@@ -149,7 +149,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "使用电磁炮捕获更多的鱼吧",
+			decs = ""使用电磁炮捕获更多的鱼吧"",
 		},
 		[16]=
 		{
@@ -159,7 +159,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "强击炮可以获得双倍奖励哦",
+			decs = ""强击炮可以获得双倍奖励哦"",
 		},
 		[17]=
 		{
@@ -169,7 +169,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "充值可以获得特殊炮台，拥有特殊的技能哦",
+			decs = ""充值可以获得特殊炮台，拥有特殊的技能哦"",
 		},
 	},
 }
