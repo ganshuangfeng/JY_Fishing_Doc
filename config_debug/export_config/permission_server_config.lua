@@ -1713,7 +1713,7 @@ return {
 		lwzb_level=
 		{
 			key = "lwzb_level",
-			name = "龙王争霸 V1",
+			name = "龙王争霸  V1",
 			condi = 8,
 		},
 		gzyl_newplayer=
