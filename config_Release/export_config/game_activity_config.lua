@@ -89,7 +89,7 @@ return {
 			ID = 6,
 			title = "关注公众号",
 			order = 4,
-			isOnOff = 1,
+			isOnOff = 0,
 			beginTime = -1,
 			endTime = -1,
 			noCloseUI = 1,
