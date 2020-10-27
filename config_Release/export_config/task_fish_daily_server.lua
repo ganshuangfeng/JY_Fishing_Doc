@@ -1199,7 +1199,7 @@ return {
 			id = 43,
 			process_id = 12600,
 			source_id = 36,
-			process = 10000,
+			process = 50,
 			awards = 1034,
 			get_award_type = "nor",
 		},
@@ -1207,8 +1207,8 @@ return {
 		{
 			id = 44,
 			process_id = 12601,
-			source_id = 36,
-			process = 50000,
+			source_id = 38,
+			process = 200,
 			awards = 1035,
 			get_award_type = "nor",
 		},
@@ -1216,8 +1216,8 @@ return {
 		{
 			id = 45,
 			process_id = 12602,
-			source_id = 36,
-			process = 100000,
+			source_id = 39,
+			process = 200,
 			awards = 1036,
 			get_award_type = "nor",
 		},
@@ -1225,8 +1225,8 @@ return {
 		{
 			id = 46,
 			process_id = 12603,
-			source_id = 36,
-			process = 500000,
+			source_id = 40,
+			process = 200,
 			awards = 1037,
 			get_award_type = "nor",
 		},
@@ -1234,8 +1234,8 @@ return {
 		{
 			id = 47,
 			process_id = 12604,
-			source_id = 36,
-			process = 1000000,
+			source_id = 41,
+			process = 100,
 			awards = 1038,
 			get_award_type = "nor",
 		},
@@ -1243,8 +1243,8 @@ return {
 		{
 			id = 48,
 			process_id = 12605,
-			source_id = 36,
-			process = 5000000,
+			source_id = 42,
+			process = 1000000,
 			awards = 1039,
 			get_award_type = "nor",
 		},
@@ -1252,8 +1252,8 @@ return {
 		{
 			id = 49,
 			process_id = 12606,
-			source_id = 36,
-			process = 10000000,
+			source_id = 43,
+			process = 1,
 			awards = 1040,
 			get_award_type = "nor",
 		},
@@ -1324,7 +1324,7 @@ return {
 		{
 			id = 57,
 			process_id = 13000,
-			process = {30,30,30,30,30},
+			process = {30,30,30,30,30,1000},
 			awards = {2001,2002,2003,2004,2005},
 			get_award_type = "nor",
 		},
@@ -1332,7 +1332,7 @@ return {
 		{
 			id = 58,
 			process_id = 13001,
-			process = {30,30,30,30,30},
+			process = {30,30,30,30,30,1000},
 			awards = {2006,2007,2008,2009,2010},
 			get_award_type = "nor",
 		},
@@ -1847,7 +1847,7 @@ return {
 		{
 			id = 73,
 			source_id = 36,
-			source_type = "lwzb_game_award",
+			source_type = "xiaoxiaole_game_num",
 			condition_id = 0,
 		},
 		[74]=
@@ -1891,6 +1891,48 @@ return {
 			source_id = 37,
 			source_type = "jykp_award",
 			condition_id = 0,
+		},
+		[80]=
+		{
+			id = 80,
+			source_id = 38,
+			source_type = "xxl_xc_target_item",
+			condition_id = 1024,
+		},
+		[81]=
+		{
+			id = 81,
+			source_id = 39,
+			source_type = "xxl_xc_target_item",
+			condition_id = 1025,
+		},
+		[82]=
+		{
+			id = 82,
+			source_id = 40,
+			source_type = "xxl_xc_target_item",
+			condition_id = 1026,
+		},
+		[83]=
+		{
+			id = 83,
+			source_id = 41,
+			source_type = "xxl_xc_target_item",
+			condition_id = 1027,
+		},
+		[84]=
+		{
+			id = 84,
+			source_id = 42,
+			source_type = "xiaoxiaole_award",
+			condition_id = 1028,
+		},
+		[85]=
+		{
+			id = 85,
+			source_id = 43,
+			source_type = "xxl_lucky_award",
+			condition_id = 1029,
 		},
 	},
 	condition=
@@ -2078,6 +2120,54 @@ return {
 			condition_name = "base_fish_id",
 			condition_value = {18,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49},
 			judge_type = 2,
+		},
+		[24]=
+		{
+			id = 24,
+			condition_id = 1024,
+			condition_name = "item_id",
+			condition_value = 1,
+			judge_type = 2,
+		},
+		[25]=
+		{
+			id = 25,
+			condition_id = 1025,
+			condition_name = "item_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[26]=
+		{
+			id = 26,
+			condition_id = 1026,
+			condition_name = "item_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[27]=
+		{
+			id = 27,
+			condition_id = 1027,
+			condition_name = "item_id",
+			condition_value = 5,
+			judge_type = 2,
+		},
+		[28]=
+		{
+			id = 28,
+			condition_id = 1028,
+			condition_name = "bet_spend",
+			condition_value = 5000,
+			judge_type = 3,
+		},
+		[29]=
+		{
+			id = 29,
+			condition_id = 1029,
+			condition_name = "bet_spend",
+			condition_value = 30000,
+			judge_type = 3,
 		},
 	},
 	award_data=
@@ -2611,7 +2701,7 @@ return {
 			id = 67,
 			award_id = 1034,
 			asset_type = "jing_bi",
-			asset_count = 200,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[68]=
@@ -2627,7 +2717,7 @@ return {
 			id = 69,
 			award_id = 1035,
 			asset_type = "jing_bi",
-			asset_count = 1000,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[70]=
@@ -2643,7 +2733,7 @@ return {
 			id = 71,
 			award_id = 1036,
 			asset_type = "jing_bi",
-			asset_count = 2000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[72]=
@@ -2659,7 +2749,7 @@ return {
 			id = 73,
 			award_id = 1037,
 			asset_type = "jing_bi",
-			asset_count = 10000,
+			asset_count = 20000,
 			get_weight = 1,
 		},
 		[74]=
@@ -2675,7 +2765,7 @@ return {
 			id = 75,
 			award_id = 1038,
 			asset_type = "jing_bi",
-			asset_count = 20000,
+			asset_count = 30000,
 			get_weight = 1,
 		},
 		[76]=
@@ -2691,7 +2781,7 @@ return {
 			id = 77,
 			award_id = 1039,
 			asset_type = "jing_bi",
-			asset_count = 100000,
+			asset_count = 20000,
 			get_weight = 1,
 		},
 		[78]=
@@ -2707,7 +2797,7 @@ return {
 			id = 79,
 			award_id = 1040,
 			asset_type = "jing_bi",
-			asset_count = 200000,
+			asset_count = 30000,
 			get_weight = 1,
 		},
 		[80]=

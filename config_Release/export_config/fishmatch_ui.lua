@@ -4,7 +4,8 @@ return {
 		[1]=
 		{
 			id = 1,
-			game_name = "VIP超级大奖赛第一期",
+			match_type = "djs",
+			game_name = "VIP超级大奖赛",
 			game_id = 1,
 			game_type = "game_FishingMatch",
 			game_type_name = "捕鱼比赛",
@@ -12,7 +13,8 @@ return {
 			is_local_icon = 1,
 			game_icon = "ty_icon_flq4",
 			time_data = {1,73800,75600,3,73800,75600,5,73800,75600,},
-			ignore_data = {"2018-6-25",},
+			ignore_data = {"2020-10-16",},
+			fix_data = {"2020-10-16",},
 			start_time = 1599049800,
 			over_time = 1599051600,
 			show_time = 1598889600,
@@ -186,6 +188,7 @@ return {
 		[1]=
 		{
 			id = 1,
+			match_type = "qys",
 			game_name = "千元大奖赛第一期",
 			game_id = 1,
 			game_type = "game_FishingMatch",
@@ -194,7 +197,8 @@ return {
 			is_local_icon = 1,
 			game_icon = "ty_icon_flq4",
 			time_data = {2,73800,75600,4,73800,75600,6,73800,75600,},
-			ignore_data = {"2018-6-25",},
+			ignore_data = {"2020-10-16",},
+			fix_data = {"2020-10-16",},
 			start_time = 1598963400,
 			over_time = 1598965200,
 			show_time = 1598716800,

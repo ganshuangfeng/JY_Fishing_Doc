@@ -21,12 +21,28 @@ return {
 			game_id = 1,
 			event_config = "fish_event_map",
 		},
+		[2]=
+		{
+			game_id = 2,
+			event_config = "fish_event_map",
+		},
 	},
 	match_data_config=
 	{
 		[1]=
 		{
 			game_id = 1,
+			init_prel_score = 10000,
+			enter_config_id = {4,1,2,3,},
+			game_config_id = 1,
+			award_pool_proportion = 100,
+			award_config_id = 1,
+			goods_supply_id = 1,
+			buy_act_cfg = {1,},
+		},
+		[2]=
+		{
+			game_id = 2,
 			init_prel_score = 10000,
 			enter_config_id = {4,1,2,3,},
 			game_config_id = 1,
@@ -42,7 +58,6 @@ return {
 		{
 			game_id = 1,
 			time_data = {1,73800,75600,3,73800,75600,5,73800,75600,},
-			ignore_data = {"2018-6-25",},
 			begin_game_condi = 1,
 			max_signup_person = 5000,
 			close_time = 864000,

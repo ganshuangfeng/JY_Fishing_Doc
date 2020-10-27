@@ -163,7 +163,7 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "36;89;105#97;100;102;106;11;93;94#58;107#30#",
+			group_list = "36;89;105#97;100;102;108;11;93;94#58;107#30#",
 		},
 		[3]=
 		{
@@ -189,6 +189,15 @@ return {
 			group_list = "65#",
 		},
 	},
+	ddz_free_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "right_top",
+			group_list = "26#18#",
+		},
+	},
 	freehall_config=
 	{
 		[1]=
@@ -205,15 +214,6 @@ return {
 			id = 1,
 			area = "left_top",
 			group_list = "29#",
-		},
-	},
-	ddz_free_game=
-	{
-		[1]=
-		{
-			id = 1,
-			area = "right_top",
-			group_list = "26#18#",
 		},
 	},
 	ddz_free_js=
@@ -306,7 +306,7 @@ return {
 		{
 			id = 4,
 			area = "down2",
-			group_list = "103#87#100;102;106;11;93;94#36;89#",
+			group_list = "103#87#100;102;108;11;93;94#36;89#",
 		},
 		[5]=
 		{

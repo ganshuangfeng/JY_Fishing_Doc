@@ -498,7 +498,111 @@ return {
 			start_time = 1603152000,
 			end_time = 1603727999,
 			use_asset_id = 41,
+			lottery_type = 1,
+			reset_time = 0,
 			award_id = 46,
+			enable = 1,
+		},
+		[47]=
+		{
+			id = 47,
+			name = "白银宝箱v1-v3",
+			start_time = 1603756800,
+			end_time = 1604332799,
+			use_asset_id = 42,
+			lottery_type = 1,
+			reset_time = 0,
+			award_id = 47,
+			enable = 1,
+		},
+		[48]=
+		{
+			id = 48,
+			name = "黄金宝箱v1-v3",
+			start_time = 1603756800,
+			end_time = 1604332799,
+			use_asset_id = 43,
+			lottery_type = 1,
+			reset_time = 0,
+			award_id = 48,
+			enable = 1,
+		},
+		[49]=
+		{
+			id = 49,
+			name = "钻石宝箱v1-v3",
+			start_time = 1603756800,
+			end_time = 1604332799,
+			use_asset_id = 44,
+			lottery_type = 1,
+			reset_time = 0,
+			award_id = 49,
+			enable = 1,
+		},
+		[50]=
+		{
+			id = 50,
+			name = "白银宝箱v4-v10",
+			start_time = 1603756800,
+			end_time = 1604332799,
+			use_asset_id = 45,
+			lottery_type = 1,
+			reset_time = 0,
+			award_id = 50,
+			enable = 1,
+		},
+		[51]=
+		{
+			id = 51,
+			name = "黄金宝箱v4-v10",
+			start_time = 1603756800,
+			end_time = 1604332799,
+			use_asset_id = 46,
+			lottery_type = 1,
+			reset_time = 0,
+			award_id = 51,
+			enable = 1,
+		},
+		[52]=
+		{
+			id = 52,
+			name = "钻石宝箱v4-v10",
+			start_time = 1603756800,
+			end_time = 1604332799,
+			use_asset_id = 47,
+			lottery_type = 1,
+			reset_time = 0,
+			award_id = 52,
+			enable = 1,
+		},
+		[53]=
+		{
+			id = 53,
+			name = "新手宝箱",
+			start_time = 1603756800,
+			end_time = 2552233600,
+			use_asset_id = 48,
+			award_id = 53,
+			enable = 1,
+		},
+		[54]=
+		{
+			id = 54,
+			name = "高级宝箱",
+			start_time = 1603756800,
+			end_time = 2552233600,
+			use_asset_id = 49,
+			award_id = 54,
+			enable = 1,
+		},
+		[55]=
+		{
+			id = 55,
+			name = "豪华宝箱",
+			start_time = 1603756800,
+			end_time = 2552233600,
+			use_asset_id = 50,
+			award_id = 55,
 			enable = 1,
 		},
 	},
@@ -789,6 +893,69 @@ return {
 			id = 41,
 			use_id = 41,
 			use_item = "prop_cyj_cjq",
+			use_num = 1,
+		},
+		[42]=
+		{
+			id = 42,
+			use_id = 42,
+			use_item = "prop_cjlb_1",
+			use_num = 1,
+		},
+		[43]=
+		{
+			id = 43,
+			use_id = 43,
+			use_item = "prop_cjlb_2",
+			use_num = 1,
+		},
+		[44]=
+		{
+			id = 44,
+			use_id = 44,
+			use_item = "prop_cjlb_3",
+			use_num = 1,
+		},
+		[45]=
+		{
+			id = 45,
+			use_id = 45,
+			use_item = "prop_cjlb_4",
+			use_num = 1,
+		},
+		[46]=
+		{
+			id = 46,
+			use_id = 46,
+			use_item = "prop_cjlb_5",
+			use_num = 1,
+		},
+		[47]=
+		{
+			id = 47,
+			use_id = 47,
+			use_item = "prop_cjlb_6",
+			use_num = 1,
+		},
+		[48]=
+		{
+			id = 48,
+			use_id = 48,
+			use_item = "prop_cjlb_10",
+			use_num = 1,
+		},
+		[49]=
+		{
+			id = 49,
+			use_id = 49,
+			use_item = "prop_cjlb_11",
+			use_num = 1,
+		},
+		[50]=
+		{
+			id = 50,
+			use_id = 50,
+			use_item = "prop_cjlb_12",
 			use_num = 1,
 		},
 	},
@@ -2930,6 +3097,279 @@ return {
 			award_id = 46,
 			real_award_id = 11778,
 			weight = 0,
+		},
+		[305]=
+		{
+			no = 305,
+			award_id = 47,
+			real_award_id = 11779,
+			weight = 3200,
+		},
+		[306]=
+		{
+			no = 306,
+			award_id = 47,
+			real_award_id = 11780,
+			weight = 3200,
+		},
+		[307]=
+		{
+			no = 307,
+			award_id = 47,
+			real_award_id = 11781,
+			weight = 3200,
+		},
+		[308]=
+		{
+			no = 308,
+			award_id = 47,
+			real_award_id = 11782,
+			weight = 400,
+		},
+		[309]=
+		{
+			no = 309,
+			award_id = 47,
+			real_award_id = 11783,
+			weight = 0,
+		},
+		[310]=
+		{
+			no = 310,
+			award_id = 47,
+			real_award_id = 11784,
+			weight = 0,
+		},
+		[311]=
+		{
+			no = 311,
+			award_id = 48,
+			real_award_id = 11785,
+			weight = 3200,
+		},
+		[312]=
+		{
+			no = 312,
+			award_id = 48,
+			real_award_id = 11786,
+			weight = 3200,
+		},
+		[313]=
+		{
+			no = 313,
+			award_id = 48,
+			real_award_id = 11787,
+			weight = 3200,
+		},
+		[314]=
+		{
+			no = 314,
+			award_id = 48,
+			real_award_id = 11788,
+			weight = 400,
+		},
+		[315]=
+		{
+			no = 315,
+			award_id = 48,
+			real_award_id = 11789,
+			weight = 0,
+		},
+		[316]=
+		{
+			no = 316,
+			award_id = 48,
+			real_award_id = 11790,
+			weight = 0,
+		},
+		[317]=
+		{
+			no = 317,
+			award_id = 49,
+			real_award_id = 11791,
+			weight = 3200,
+		},
+		[318]=
+		{
+			no = 318,
+			award_id = 49,
+			real_award_id = 11792,
+			weight = 3200,
+		},
+		[319]=
+		{
+			no = 319,
+			award_id = 49,
+			real_award_id = 11793,
+			weight = 3200,
+		},
+		[320]=
+		{
+			no = 320,
+			award_id = 49,
+			real_award_id = 11794,
+			weight = 400,
+		},
+		[321]=
+		{
+			no = 321,
+			award_id = 49,
+			real_award_id = 11795,
+			weight = 0,
+		},
+		[322]=
+		{
+			no = 322,
+			award_id = 49,
+			real_award_id = 11796,
+			weight = 0,
+		},
+		[323]=
+		{
+			no = 323,
+			award_id = 50,
+			real_award_id = 11797,
+			weight = 3200,
+		},
+		[324]=
+		{
+			no = 324,
+			award_id = 50,
+			real_award_id = 11798,
+			weight = 3200,
+		},
+		[325]=
+		{
+			no = 325,
+			award_id = 50,
+			real_award_id = 11799,
+			weight = 3200,
+		},
+		[326]=
+		{
+			no = 326,
+			award_id = 50,
+			real_award_id = 11800,
+			weight = 400,
+		},
+		[327]=
+		{
+			no = 327,
+			award_id = 50,
+			real_award_id = 11801,
+			weight = 0,
+		},
+		[328]=
+		{
+			no = 328,
+			award_id = 50,
+			real_award_id = 11802,
+			weight = 0,
+		},
+		[329]=
+		{
+			no = 329,
+			award_id = 51,
+			real_award_id = 11803,
+			weight = 3200,
+		},
+		[330]=
+		{
+			no = 330,
+			award_id = 51,
+			real_award_id = 11804,
+			weight = 3200,
+		},
+		[331]=
+		{
+			no = 331,
+			award_id = 51,
+			real_award_id = 11805,
+			weight = 3200,
+		},
+		[332]=
+		{
+			no = 332,
+			award_id = 51,
+			real_award_id = 11806,
+			weight = 400,
+		},
+		[333]=
+		{
+			no = 333,
+			award_id = 51,
+			real_award_id = 11807,
+			weight = 0,
+		},
+		[334]=
+		{
+			no = 334,
+			award_id = 51,
+			real_award_id = 11808,
+			weight = 0,
+		},
+		[335]=
+		{
+			no = 335,
+			award_id = 52,
+			real_award_id = 11809,
+			weight = 3200,
+		},
+		[336]=
+		{
+			no = 336,
+			award_id = 52,
+			real_award_id = 11810,
+			weight = 3200,
+		},
+		[337]=
+		{
+			no = 337,
+			award_id = 52,
+			real_award_id = 11811,
+			weight = 3200,
+		},
+		[338]=
+		{
+			no = 338,
+			award_id = 52,
+			real_award_id = 11812,
+			weight = 400,
+		},
+		[339]=
+		{
+			no = 339,
+			award_id = 52,
+			real_award_id = 11813,
+			weight = 0,
+		},
+		[340]=
+		{
+			no = 340,
+			award_id = 52,
+			real_award_id = 11814,
+			weight = 0,
+		},
+		[341]=
+		{
+			no = 341,
+			award_id = 53,
+			real_award_id = 11815,
+			weight = 1,
+		},
+		[342]=
+		{
+			no = 342,
+			award_id = 54,
+			real_award_id = 11816,
+			weight = 1,
+		},
+		[343]=
+		{
+			no = 343,
+			award_id = 55,
+			real_award_id = 11817,
+			weight = 1,
 		},
 	},
 	award_item=
@@ -5184,6 +5624,318 @@ return {
 			id = 304,
 			real_award_id = 11778,
 			award_name = "500京东卡",
+		},
+		[305]=
+		{
+			id = 305,
+			real_award_id = 11779,
+			award_name = "65万金币",
+			asset_type = "jing_bi",
+			asset_count = {650000,650000},
+		},
+		[306]=
+		{
+			id = 306,
+			real_award_id = 11780,
+			award_name = "68万金币",
+			asset_type = "jing_bi",
+			asset_count = {680000,680000},
+		},
+		[307]=
+		{
+			id = 307,
+			real_award_id = 11781,
+			award_name = "70万金币",
+			asset_type = "jing_bi",
+			asset_count = {700000,700000},
+		},
+		[308]=
+		{
+			id = 308,
+			real_award_id = 11782,
+			award_name = "80万金币",
+			asset_type = "jing_bi",
+			asset_count = {800000,800000},
+		},
+		[309]=
+		{
+			id = 309,
+			real_award_id = 11783,
+			award_name = "100万金币",
+			asset_type = "jing_bi",
+			asset_count = {1000000,1000000},
+		},
+		[310]=
+		{
+			id = 310,
+			real_award_id = 11784,
+			award_name = "300万金币",
+			asset_type = "jing_bi",
+			asset_count = {3000000,3000000},
+		},
+		[311]=
+		{
+			id = 311,
+			real_award_id = 11785,
+			award_name = "190万金币",
+			asset_type = "jing_bi",
+			asset_count = {1900000,1900000},
+		},
+		[312]=
+		{
+			id = 312,
+			real_award_id = 11786,
+			award_name = "195万金币",
+			asset_type = "jing_bi",
+			asset_count = {1950000,1950000},
+		},
+		[313]=
+		{
+			id = 313,
+			real_award_id = 11787,
+			award_name = "200万金币",
+			asset_type = "jing_bi",
+			asset_count = {2000000,2000000},
+		},
+		[314]=
+		{
+			id = 314,
+			real_award_id = 11788,
+			award_name = "220万金币",
+			asset_type = "jing_bi",
+			asset_count = {2200000,2200000},
+		},
+		[315]=
+		{
+			id = 315,
+			real_award_id = 11789,
+			award_name = "400万金币",
+			asset_type = "jing_bi",
+			asset_count = {4000000,4000000},
+		},
+		[316]=
+		{
+			id = 316,
+			real_award_id = 11790,
+			award_name = "500万金币",
+			asset_type = "jing_bi",
+			asset_count = {5000000,5000000},
+		},
+		[317]=
+		{
+			id = 317,
+			real_award_id = 11791,
+			award_name = "500万金币",
+			asset_type = "jing_bi",
+			asset_count = {5000000,5000000},
+		},
+		[318]=
+		{
+			id = 318,
+			real_award_id = 11792,
+			award_name = "510万金币",
+			asset_type = "jing_bi",
+			asset_count = {5100000,5100000},
+		},
+		[319]=
+		{
+			id = 319,
+			real_award_id = 11793,
+			award_name = "520万金币",
+			asset_type = "jing_bi",
+			asset_count = {5200000,5200000},
+		},
+		[320]=
+		{
+			id = 320,
+			real_award_id = 11794,
+			award_name = "530万金币",
+			asset_type = "jing_bi",
+			asset_count = {5300000,5300000},
+		},
+		[321]=
+		{
+			id = 321,
+			real_award_id = 11795,
+			award_name = "800万金币",
+			asset_type = "jing_bi",
+			asset_count = {8000000,8000000},
+		},
+		[322]=
+		{
+			id = 322,
+			real_award_id = 11796,
+			award_name = "1000万金币",
+			asset_type = "jing_bi",
+			asset_count = {10000000,10000000},
+		},
+		[323]=
+		{
+			id = 323,
+			real_award_id = 11797,
+			award_name = "1020万金币",
+			asset_type = "jing_bi",
+			asset_count = {10200000,10200000},
+		},
+		[324]=
+		{
+			id = 324,
+			real_award_id = 11798,
+			award_name = "1030万金币",
+			asset_type = "jing_bi",
+			asset_count = {10300000,10300000},
+		},
+		[325]=
+		{
+			id = 325,
+			real_award_id = 11799,
+			award_name = "1040万金币",
+			asset_type = "jing_bi",
+			asset_count = {10400000,10400000},
+		},
+		[326]=
+		{
+			id = 326,
+			real_award_id = 11800,
+			award_name = "1060万金币",
+			asset_type = "jing_bi",
+			asset_count = {10600000,10600000},
+		},
+		[327]=
+		{
+			id = 327,
+			real_award_id = 11801,
+			award_name = "1500万金币",
+			asset_type = "jing_bi",
+			asset_count = {15000000,15000000},
+		},
+		[328]=
+		{
+			id = 328,
+			real_award_id = 11802,
+			award_name = "2000万金币",
+			asset_type = "jing_bi",
+			asset_count = {20000000,20000000},
+		},
+		[329]=
+		{
+			id = 329,
+			real_award_id = 11803,
+			award_name = "2050万金币",
+			asset_type = "jing_bi",
+			asset_count = {20500000,20500000},
+		},
+		[330]=
+		{
+			id = 330,
+			real_award_id = 11804,
+			award_name = "2080万金币",
+			asset_type = "jing_bi",
+			asset_count = {20800000,20800000},
+		},
+		[331]=
+		{
+			id = 331,
+			real_award_id = 11805,
+			award_name = "2100万金币",
+			asset_type = "jing_bi",
+			asset_count = {21000000,21000000},
+		},
+		[332]=
+		{
+			id = 332,
+			real_award_id = 11806,
+			award_name = "2150万金币",
+			asset_type = "jing_bi",
+			asset_count = {21500000,21500000},
+		},
+		[333]=
+		{
+			id = 333,
+			real_award_id = 11807,
+			award_name = "3000万金币",
+			asset_type = "jing_bi",
+			asset_count = {30000000,30000000},
+		},
+		[334]=
+		{
+			id = 334,
+			real_award_id = 11808,
+			award_name = "5000万金币",
+			asset_type = "jing_bi",
+			asset_count = {50000000,50000000},
+		},
+		[335]=
+		{
+			id = 335,
+			real_award_id = 11809,
+			award_name = "5180万金币",
+			asset_type = "jing_bi",
+			asset_count = {51800000,51800000},
+		},
+		[336]=
+		{
+			id = 336,
+			real_award_id = 11810,
+			award_name = "5250万金币",
+			asset_type = "jing_bi",
+			asset_count = {52500000,52500000},
+		},
+		[337]=
+		{
+			id = 337,
+			real_award_id = 11811,
+			award_name = "5280万金币",
+			asset_type = "jing_bi",
+			asset_count = {52800000,52800000},
+		},
+		[338]=
+		{
+			id = 338,
+			real_award_id = 11812,
+			award_name = "5380万金币",
+			asset_type = "jing_bi",
+			asset_count = {53800000,53800000},
+		},
+		[339]=
+		{
+			id = 339,
+			real_award_id = 11813,
+			award_name = "6000万金币",
+			asset_type = "jing_bi",
+			asset_count = {60000000,60000000},
+		},
+		[340]=
+		{
+			id = 340,
+			real_award_id = 11814,
+			award_name = "1亿金币",
+			asset_type = "jing_bi",
+			asset_count = {100000000,100000000},
+		},
+		[341]=
+		{
+			id = 341,
+			real_award_id = 11815,
+			award_name = "10-14万金币",
+			asset_type = "jing_bi",
+			asset_count = {100000,140000},
+		},
+		[342]=
+		{
+			id = 342,
+			real_award_id = 11816,
+			award_name = "30-40万金币",
+			asset_type = "jing_bi",
+			asset_count = {300000,400000},
+		},
+		[343]=
+		{
+			id = 343,
+			real_award_id = 11817,
+			award_name = "65-85万金币",
+			asset_type = "jing_bi",
+			asset_count = {650000,850000},
 		},
 	},
 	weight=

@@ -2505,7 +2505,7 @@ return {
 			key = "act_025_jrth",
 			desc = "节日特惠",
 			lua = "Act_025_JRTHManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
@@ -2645,9 +2645,9 @@ return {
 			key = "act_027_mfflq",
 			desc = "免费福利券",
 			lua = "Act_027_MFFLQManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[271]=
 		{
@@ -2695,9 +2695,9 @@ return {
 			key = "act_029_hlqjd",
 			desc = "欢乐敲金蛋",
 			lua = "Act_029_HLQJDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[276]=
 		{
@@ -2794,8 +2794,8 @@ return {
 			desc = "金鸡送礼",
 			lua = "SYSJJSLManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[286]=
 		{
@@ -2813,6 +2813,25 @@ return {
 			key = "act_033_xrzxlb",
 			desc = "新人专享",
 			lua = "XRZXGiftManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[288]=
+		{
+			id = 288,
+			key = "act_034_ldfd",
+			desc = "立冬福袋",
+			lua = "Act_034_LDFDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[289]=
+		{
+			id = 289,
+			key = "act_034_ldfl",
+			desc = "立冬福利（小游戏）",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

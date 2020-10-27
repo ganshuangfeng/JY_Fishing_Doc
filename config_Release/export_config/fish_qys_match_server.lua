@@ -42,7 +42,6 @@ return {
 		{
 			game_id = 1,
 			time_data = {2,73800,75600,4,73800,75600,6,73800,75600,},
-			ignore_data = {"2018-6-25",},
 			begin_game_condi = 1,
 			max_signup_person = 5000,
 			close_time = 864000,

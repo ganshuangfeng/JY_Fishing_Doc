@@ -916,5 +916,17 @@ return {
 			srartTime = 1603152000,
 			endTime = 1603727999,
 		},
+		[81]=
+		{
+			id = 81,
+			bannerID = 81,
+			isOnOff = 1,
+			order = 100,
+			condi_key = "Sign_in_popup_old",
+			gotoUI = {"act_025_jrth","panel"},
+			model = "LoginUp",
+			srartTime = 1603756800,
+			endTime = 1604332799,
+		},
 	},
 }

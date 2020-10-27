@@ -46,6 +46,12 @@ return {
 			desc_get = "VIP3开启",
 			use_parm = {"vip","hint"},
 			buy_anniu_hint = "获取",
+			gift_id = 10345,
+			attribute = {"<color=#fff173>激光炮：直线方向释放激光，有几率捕获激光所发射范围内的任意鱼类</color>",},
+			attribute_img = {"3dby_icon_jg_skill",},
+			pre_name = "GunPrefab6_ui",
+			net_prefab = "FishNetPrefab_3d_3",
+			bullet_prefab = "BulletPrefab_3d_6_ui",
 		},
 		[4]=
 		{
@@ -62,6 +68,12 @@ return {
 			desc_get = "VIP5开启",
 			use_parm = {"vip","hint"},
 			buy_anniu_hint = "获取",
+			gift_id = 10344,
+			attribute = {"<color=#fff173>穿透弹：发射一发穿透弹，可捕获同移动线上的任意鱼类</color>",},
+			attribute_img = {"3dby_icon_ct_skill",},
+			pre_name = "GunPrefab9_ui",
+			net_prefab = "FishNetPrefab_3d_4",
+			bullet_prefab = "BulletPrefab_3d_7_ui",
 		},
 		[5]=
 		{
@@ -76,9 +88,15 @@ return {
 			name = "核能风暴",
 			desc = "核能炮：在屏幕中间释放一颗小型原子弹，随机捕获炸弹范围内的任意鱼类",
 			desc_get = "购买礼包获得",
-			use_parm = {"buygift",10237,},
-			buy_hint = "是否花费98元购买980万金币+【核能风暴】永久使用权",
+			use_parm = {"buygift",10343,},
+			buy_hint = "是否花费98元购买【核能风暴】永久使用权",
 			buy_anniu_hint = "获取",
+			gift_id = 10343,
+			attribute = {"<color=#fff173>核能炮：在屏幕中间释放一颗小型原子弹，随机捕获炸弹范围内的任意鱼类</color>",},
+			attribute_img = {"3dby_icon_hn_skill",},
+			pre_name = "GunPrefab8_ui",
+			net_prefab = "FishNetPrefab_3d_5",
+			bullet_prefab = "BulletPrefab_3d_8_ui",
 		},
 		[6]=
 		{
@@ -96,6 +114,12 @@ return {
 			use_parm = {"buyitem",26,},
 			buy_hint = "是否花费30万金币购买【死灵之光】30天使用权",
 			buy_anniu_hint = "获取",
+			gift_id = 10342,
+			attribute = {"<color=#fff173>死亡之灵：攻击指定点，捕获周围鱼类</color>","<color=#00fff0>被动效果：提高捕获奖金鱼后获得高倍的几率</color>"},
+			attribute_img = {"3dby_icon_sw_skill",},
+			pre_name = "GunPrefab10_ui",
+			net_prefab = "FishNetPrefab_3d_6",
+			bullet_prefab = "BulletPrefab_3d_9_ui",
 		},
 		[7]=
 		{
@@ -110,9 +134,15 @@ return {
 			name = "神龙之力",
 			desc = "神龙杀：瞬间提高子弹250%的杀伤力\n被动效果：提高击杀龙王的概率",
 			desc_get = "购买礼包获得",
-			use_parm = {"buygift",10238,},
-			buy_hint = "是否花费198元购买【神龙之力】永久使用权",
+			use_parm = {"buygift",10341,},
+			buy_hint = "是否花费498元购买【神龙之力】永久使用权",
 			buy_anniu_hint = "获取",
+			gift_id = 10341,
+			attribute = {"<color=#fff173>神龙杀：瞬间提高子弹250%的杀伤力</color>","<color=#00fff0>被动效果：提高击杀龙王的概率</color>"},
+			attribute_img = {"3dby_icon_sl_skill",},
+			pre_name = "GunPrefab11_ui",
+			net_prefab = "FishNetPrefab_3d_7",
+			bullet_prefab = "BulletPrefab_3d_10_ui",
 		},
 		[8]=
 		{
