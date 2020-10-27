@@ -575,6 +575,42 @@ return {
 			award_id = 52,
 			enable = 1,
 		},
+		[53]=
+		{
+			id = 53,
+			name = "新手宝箱",
+			start_time = 1603756800,
+			end_time = 2552233600,
+			use_asset_id = 48,
+			lottery_type = 1,
+			reset_time = 0,
+			award_id = 53,
+			enable = 1,
+		},
+		[54]=
+		{
+			id = 54,
+			name = "高级宝箱",
+			start_time = 1603756800,
+			end_time = 2552233600,
+			use_asset_id = 49,
+			lottery_type = 1,
+			reset_time = 0,
+			award_id = 54,
+			enable = 1,
+		},
+		[55]=
+		{
+			id = 55,
+			name = "豪华宝箱",
+			start_time = 1603756800,
+			end_time = 2552233600,
+			use_asset_id = 50,
+			lottery_type = 1,
+			reset_time = 0,
+			award_id = 55,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
@@ -905,6 +941,27 @@ return {
 			id = 47,
 			use_id = 47,
 			use_item = "prop_cjlb_6",
+			use_num = 1,
+		},
+		[48]=
+		{
+			id = 48,
+			use_id = 48,
+			use_item = "porp_033_xsbx",
+			use_num = 1,
+		},
+		[49]=
+		{
+			id = 49,
+			use_id = 49,
+			use_item = "porp_033_gjbx",
+			use_num = 1,
+		},
+		[50]=
+		{
+			id = 50,
+			use_id = 50,
+			use_item = "porp_033_hhbx",
 			use_num = 1,
 		},
 	},
@@ -3298,6 +3355,27 @@ return {
 			award_id = 52,
 			real_award_id = 11814,
 			weight = 0,
+		},
+		[341]=
+		{
+			no = 341,
+			award_id = 53,
+			real_award_id = 11815,
+			weight = 1,
+		},
+		[342]=
+		{
+			no = 342,
+			award_id = 54,
+			real_award_id = 11816,
+			weight = 1,
+		},
+		[343]=
+		{
+			no = 343,
+			award_id = 55,
+			real_award_id = 11817,
+			weight = 1,
 		},
 	},
 	award_item=
@@ -5840,6 +5918,30 @@ return {
 			award_name = "1亿金币",
 			asset_type = "jing_bi",
 			asset_count = {100000000,100000000},
+		},
+		[341]=
+		{
+			id = 341,
+			real_award_id = 11815,
+			award_name = "10-14万金币",
+			asset_type = "jing_bi",
+			asset_count = {100000,140000},
+		},
+		[342]=
+		{
+			id = 342,
+			real_award_id = 11816,
+			award_name = "30-40万金币",
+			asset_type = "jing_bi",
+			asset_count = {300000,400000},
+		},
+		[343]=
+		{
+			id = 343,
+			real_award_id = 11817,
+			award_name = "65-85万金币",
+			asset_type = "jing_bi",
+			asset_count = {650000,850000},
 		},
 	},
 	weight=
