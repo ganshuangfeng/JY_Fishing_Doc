@@ -14103,7 +14103,7 @@ return {
 		[823]=
 		{
 			no = 823,
-			id = 333,
+			id = 328,
 			var = "market_channel",
 			value = "cjj",
 			judge = 5,
@@ -14123,7 +14123,7 @@ return {
 		[825]=
 		{
 			no = 825,
-			id = 333,
+			id = 329,
 			var = "market_channel",
 			value = "cjj",
 			judge = 5,
