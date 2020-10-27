@@ -1896,6 +1896,12 @@ return {
 			name = "VIP赢金挑战第三期（冲金鸡不增加进度）",
 			condi = 333,
 		},
+		xrzx_newplayer=
+		{
+			key = "xrzx_newplayer",
+			name = "新人专享（新人才展示）",
+			condi = 91,
+		},
 	},
 	act_permission=
 	{
