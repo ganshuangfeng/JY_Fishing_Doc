@@ -941,21 +941,21 @@ return {
 		{
 			id = 48,
 			use_id = 48,
-			use_item = "porp_033_xsbx",
+			use_item = "prop_cjlb_10",
 			use_num = 1,
 		},
 		[49]=
 		{
 			id = 49,
 			use_id = 49,
-			use_item = "porp_033_gjbx",
+			use_item = "prop_cjlb_11",
 			use_num = 1,
 		},
 		[50]=
 		{
 			id = 50,
 			use_id = 50,
-			use_item = "porp_033_hhbx",
+			use_item = "prop_cjlb_12",
 			use_num = 1,
 		},
 	},
