@@ -302,7 +302,7 @@ return {
 			parmData = "activity_task",
 			activity_config = "activity_034_xyxfl_config",
 			is_local_icon = 1,
-			gotoUI = {GameComAct1,"activity_030_xyxfl_config"},
+			gotoUI = {"GameComAct1","activity_034_xyxfl_config"},
 			tag = "normal",
 			beginTime = 1604359800,
 			endTime = 1604937599,
