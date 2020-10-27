@@ -498,6 +498,8 @@ return {
 			start_time = 1603152000,
 			end_time = 1603727999,
 			use_asset_id = 41,
+			lottery_type = 1,
+			reset_time = 0,
 			award_id = 46,
 			enable = 1,
 		},
@@ -5511,7 +5513,7 @@ return {
 			real_award_id = 11773,
 			award_name = "12000金币",
 			asset_type = "jing_bi",
-			asset_count = "12000，12000",
+			asset_count = {12000,12000},
 		},
 		[300]=
 		{

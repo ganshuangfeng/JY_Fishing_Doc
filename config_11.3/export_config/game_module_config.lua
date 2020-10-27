@@ -2820,6 +2820,21 @@ return {
 		[288]=
 		{
 			id = 288,
+			key = "act_034_ldfd",
+			desc = "立冬福袋",
+			lua = "Act_034_LDFDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[289]=
+		{
+			id = 289,
+			key = "act_034_ldfl",
+			desc = "立冬福利（小游戏）",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 	},
 }

@@ -2505,7 +2505,7 @@ return {
 			key = "act_025_jrth",
 			desc = "节日特惠",
 			lua = "Act_025_JRTHManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
