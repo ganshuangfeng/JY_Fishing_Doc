@@ -2172,7 +2172,7 @@ return {
 			item_key = "prop_cyj_cjq",
 			lose_time = -1,
 			is_local_icon = 1,
-			image = "prop_cyj_cjq",
+			image = "cwzp_icon_cjq",
 			is_show_bag = 0,
 			order = 33,
 			name = "重阳节抽奖券",
