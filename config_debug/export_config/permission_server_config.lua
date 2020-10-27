@@ -5870,6 +5870,7 @@ return {
 			id = 331,
 			enable = 1,
 			key = "actp_own_task_wsj_tc_040",
+			name = "非新玩家",
 			condi = 336,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -14288,6 +14289,16 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "冲金鸡的全渠道",
+		},
+		[842]=
+		{
+			no = 842,
+			id = 336,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "非新用户",
 		},
 	},
 	share_condition=
