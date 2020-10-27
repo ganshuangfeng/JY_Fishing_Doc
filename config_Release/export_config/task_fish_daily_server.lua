@@ -1854,82 +1854,75 @@ return {
 		{
 			id = 74,
 			source_id = 37,
-			source_type = "xiaoxiaole_award",
+			source_type = "xiaoxiaole_shuihu_award",
 			condition_id = 0,
 		},
 		[75]=
 		{
 			id = 75,
 			source_id = 37,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_type = "xiaoxiaole_caishen_award",
 			condition_id = 0,
 		},
 		[76]=
 		{
 			id = 76,
 			source_id = 37,
-			source_type = "xiaoxiaole_caishen_award",
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[77]=
 		{
 			id = 77,
 			source_id = 37,
-			source_type = "tantanle_award",
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[78]=
 		{
 			id = 78,
 			source_id = 37,
-			source_type = "zajindan_award",
+			source_type = "jykp_award",
 			condition_id = 0,
 		},
 		[79]=
 		{
 			id = 79,
-			source_id = 37,
-			source_type = "jykp_award",
-			condition_id = 0,
-		},
-		[80]=
-		{
-			id = 80,
 			source_id = 38,
 			source_type = "xxl_xc_target_item",
 			condition_id = 1024,
 		},
-		[81]=
+		[80]=
 		{
-			id = 81,
+			id = 80,
 			source_id = 39,
 			source_type = "xxl_xc_target_item",
 			condition_id = 1025,
 		},
-		[82]=
+		[81]=
 		{
-			id = 82,
+			id = 81,
 			source_id = 40,
 			source_type = "xxl_xc_target_item",
 			condition_id = 1026,
 		},
-		[83]=
+		[82]=
 		{
-			id = 83,
+			id = 82,
 			source_id = 41,
 			source_type = "xxl_xc_target_item",
 			condition_id = 1027,
 		},
-		[84]=
+		[83]=
 		{
-			id = 84,
+			id = 83,
 			source_id = 42,
 			source_type = "xiaoxiaole_award",
 			condition_id = 1028,
 		},
-		[85]=
+		[84]=
 		{
-			id = 85,
+			id = 84,
 			source_id = 43,
 			source_type = "xxl_lucky_award",
 			condition_id = 1029,
