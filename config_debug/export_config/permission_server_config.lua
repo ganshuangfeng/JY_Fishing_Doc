@@ -5817,6 +5817,54 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1603756800,
 		},
+		[327]=
+		{
+			id = 327,
+			enable = 1,
+			key = "actp_buy_gift_bag_10346",
+			name = "每日特惠礼包_免费用户   （冲金鸡）",
+			condi = 334,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 0,
+		},
+		[328]=
+		{
+			id = 328,
+			enable = 1,
+			key = "actp_buy_gift_bag_10347",
+			name = "每日特惠礼包_免费用户 （冲金鸡）",
+			condi = 334,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 0,
+		},
+		[329]=
+		{
+			id = 329,
+			enable = 1,
+			key = "actp_buy_gift_bag_10348",
+			name = "每日特惠礼包_免费用户 （冲金鸡）",
+			condi = 334,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 0,
+		},
+		[330]=
+		{
+			id = 330,
+			enable = 1,
+			key = "actp_buy_gift_bag_10349",
+			name = "每日特惠礼包_小额用户 （冲金鸡）",
+			condi = 335,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 0,
+		},
 	},
 	condi=
 	{
@@ -14189,6 +14237,46 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "非冲金鸡的全渠道",
+		},
+		[838]=
+		{
+			no = 838,
+			id = 334,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 1,
+			error_desc = "只有未充值的用户才可体验！",
+		},
+		[839]=
+		{
+			no = 839,
+			id = 334,
+			var = "market_channel",
+			value = "cjj",
+			judge = 2,
+			group = 1,
+			error_desc = "冲金鸡的全渠道",
+		},
+		[840]=
+		{
+			no = 840,
+			id = 335,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 1,
+			error_desc = "只有充值6元及以上的用户才可体验！",
+		},
+		[841]=
+		{
+			no = 841,
+			id = 335,
+			var = "market_channel",
+			value = "cjj",
+			judge = 2,
+			group = 1,
+			error_desc = "冲金鸡的全渠道",
 		},
 	},
 	share_condition=
