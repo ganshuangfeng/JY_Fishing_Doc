@@ -14267,6 +14267,16 @@ return {
 		[840]=
 		{
 			no = 840,
+			id = 334,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[841]=
+		{
+			no = 841,
 			id = 335,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -14274,15 +14284,25 @@ return {
 			group = 1,
 			error_desc = "只有充值6元及以上的用户才可体验！",
 		},
-		[841]=
+		[842]=
 		{
-			no = 841,
+			no = 842,
 			id = 335,
 			var = "market_channel",
 			value = "cjj",
 			judge = 2,
 			group = 1,
 			error_desc = "冲金鸡的全渠道",
+		},
+		[843]=
+		{
+			no = 843,
+			id = 335,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
 		},
 	},
 	share_condition=
