@@ -922,7 +922,7 @@ return {
 			bannerID = 81,
 			isOnOff = 1,
 			order = 100,
-			condi_key = "actp_own_task_wsj_tc_040",
+			condi_key = "Sign_in_popup_old",
 			gotoUI = {"act_025_jrth","panel"},
 			model = "LoginUp",
 			srartTime = 1603756800,
