@@ -2773,7 +2773,7 @@ return {
 			key = "by3d_hd",
 			desc = "核弹",
 			lua = "BY3DHDManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
@@ -2794,8 +2794,8 @@ return {
 			desc = "金鸡送礼",
 			lua = "SYSJJSLManager",
 			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			enable = 1,
+			state = 1,
 		},
 		[286]=
 		{
