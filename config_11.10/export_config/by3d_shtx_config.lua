@@ -18,6 +18,7 @@ return {
 		[1]=
 		{
 			id = 1,
+			layer = 5,
 			extra_award_img = {"3dby_btn_sd",},
 			extra_award_txt = {"锁定*1",},
 		},
