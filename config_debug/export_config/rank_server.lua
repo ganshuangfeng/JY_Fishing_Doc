@@ -213,7 +213,7 @@ return {
 		[16]=
 		{
 			id = 16,
-			enable = 1,
+			enable = 0,
 			rank_type = "ground_1_boss_rank",
 			name = "场次1 BOSS排行榜",
 			begin_time = 1598311800,
@@ -227,7 +227,7 @@ return {
 		[17]=
 		{
 			id = 17,
-			enable = 1,
+			enable = 0,
 			rank_type = "ground_2_boss_rank",
 			name = "场次2 BOSS排行榜",
 			begin_time = 1598311800,
@@ -241,7 +241,7 @@ return {
 		[18]=
 		{
 			id = 18,
-			enable = 1,
+			enable = 0,
 			rank_type = "ground_3_boss_rank",
 			name = "场次3 BOSS排行榜",
 			begin_time = 1598311800,
@@ -255,7 +255,7 @@ return {
 		[19]=
 		{
 			id = 19,
-			enable = 1,
+			enable = 0,
 			rank_type = "ground_4_boss_rank",
 			name = "场次4 BOSS排行榜",
 			begin_time = 1598311800,
