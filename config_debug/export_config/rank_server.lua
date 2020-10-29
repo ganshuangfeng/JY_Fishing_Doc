@@ -202,7 +202,7 @@ return {
 			enable = 1,
 			rank_type = "leijiyingjin_rank",
 			name = "累计赢金排行榜",
-			begin_time = 1604332800,
+			begin_time = 1604246399,
 			end_time = 2555555555,
 			data_deal_type = "nor_add",
 			data_save_type = "single",
