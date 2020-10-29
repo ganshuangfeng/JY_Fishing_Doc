@@ -19,7 +19,7 @@ return {
 		{
 			id = 15002,
 			enable = 1,
-			name = "累计开炮数1000发",
+			name = "累计开炮数500发",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -47,7 +47,7 @@ return {
 		{
 			id = 15004,
 			enable = 1,
-			name = "捕获小牛角10条",
+			name = "使用3次锁定",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -61,7 +61,7 @@ return {
 		{
 			id = 15005,
 			enable = 1,
-			name = "捕获小气泡10条",
+			name = "使用3次冰冻",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -75,7 +75,7 @@ return {
 		{
 			id = 15006,
 			enable = 1,
-			name = "捕获小丑鱼8条",
+			name = "捕获小丑鱼10条",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -89,7 +89,7 @@ return {
 		{
 			id = 15007,
 			enable = 1,
-			name = "捕获小燕鱼8条",
+			name = "捕获小燕鱼10条",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -103,7 +103,7 @@ return {
 		{
 			id = 15008,
 			enable = 1,
-			name = "捕获小黄鳍8条",
+			name = "捕获小黄鳍10条",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -159,7 +159,7 @@ return {
 		{
 			id = 15012,
 			enable = 1,
-			name = "捕获黄金鱼8条",
+			name = "捕获任意黄金鱼8条",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -201,7 +201,7 @@ return {
 		{
 			id = 15015,
 			enable = 1,
-			name = "累计开炮数5000发",
+			name = "累计开炮数1000发",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -355,7 +355,7 @@ return {
 		{
 			id = 15026,
 			enable = 1,
-			name = "捕鱼活动鱼1条",
+			name = "捕鱼活动鱼3条",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -369,7 +369,7 @@ return {
 		{
 			id = 15027,
 			enable = 1,
-			name = "捕鱼获得金币300万",
+			name = "捕鱼获得金币300万（500倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -383,7 +383,7 @@ return {
 		{
 			id = 15028,
 			enable = 1,
-			name = "累计开炮数5000发",
+			name = "累计开炮数2000发（500倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -397,7 +397,7 @@ return {
 		{
 			id = 15029,
 			enable = 1,
-			name = "捕鱼任意鱼200条",
+			name = "捕鱼任意鱼200条（500倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -411,7 +411,7 @@ return {
 		{
 			id = 15030,
 			enable = 1,
-			name = "捕获小海龟20条",
+			name = "捕获狮子鱼20条（500倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -425,7 +425,7 @@ return {
 		{
 			id = 15031,
 			enable = 1,
-			name = "捕获狮子鱼20条",
+			name = "捕获蝴蝶鱼20条（500倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -439,7 +439,7 @@ return {
 		{
 			id = 15032,
 			enable = 1,
-			name = "捕获蝴蝶鱼20条",
+			name = "捕获20倍以上的鱼20条（500倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -453,7 +453,7 @@ return {
 		{
 			id = 15033,
 			enable = 1,
-			name = "捕获20倍以上的鱼20条",
+			name = "捕获30倍以上的鱼10条（500倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -467,7 +467,7 @@ return {
 		{
 			id = 15034,
 			enable = 1,
-			name = "捕获30倍以上的鱼10条",
+			name = "捕获黄金狮子鱼8条（500倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -481,7 +481,7 @@ return {
 		{
 			id = 15035,
 			enable = 1,
-			name = "捕获黄金狮子鱼8条",
+			name = "捕获黄金海龟8只（500倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -495,7 +495,7 @@ return {
 		{
 			id = 15036,
 			enable = 1,
-			name = "捕获黄金海龟8只",
+			name = "捕获大金鲨5条（500倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -509,7 +509,7 @@ return {
 		{
 			id = 15037,
 			enable = 1,
-			name = "捕获大金鲨5条",
+			name = "捕获黄金鱼15条（500倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -523,7 +523,7 @@ return {
 		{
 			id = 15038,
 			enable = 1,
-			name = "捕获黄金鱼15条",
+			name = "捕鱼活动鱼3条（500倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -537,7 +537,7 @@ return {
 		{
 			id = 15039,
 			enable = 1,
-			name = "捕鱼活动鱼1条",
+			name = "捕获BOSS鱼1只（500倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -551,7 +551,7 @@ return {
 		{
 			id = 15040,
 			enable = 1,
-			name = "捕鱼获得金币500万",
+			name = "捕鱼获得金币500万（1000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -565,7 +565,7 @@ return {
 		{
 			id = 15041,
 			enable = 1,
-			name = "累计开炮数5000发",
+			name = "累计开炮数3000发（1000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -579,7 +579,7 @@ return {
 		{
 			id = 15042,
 			enable = 1,
-			name = "捕鱼任意鱼300条",
+			name = "捕鱼任意鱼300条（1000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -593,7 +593,7 @@ return {
 		{
 			id = 15043,
 			enable = 1,
-			name = "捕获巨大小丑鱼20条",
+			name = "捕获巨大小丑鱼20条（1000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -607,7 +607,7 @@ return {
 		{
 			id = 15044,
 			enable = 1,
-			name = "捕获巨大灯笼鱼20条",
+			name = "捕获巨大灯笼鱼20条（1000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -621,7 +621,7 @@ return {
 		{
 			id = 15045,
 			enable = 1,
-			name = "捕获巨大燕鱼20条",
+			name = "捕获巨大燕鱼20条（1000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -635,7 +635,7 @@ return {
 		{
 			id = 15046,
 			enable = 1,
-			name = "捕获30倍以上的鱼30条",
+			name = "捕获30倍以上的鱼30条（1000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -649,7 +649,7 @@ return {
 		{
 			id = 15047,
 			enable = 1,
-			name = "捕获50倍以上的鱼20条",
+			name = "捕获50倍以上的鱼20条（1000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -663,7 +663,7 @@ return {
 		{
 			id = 15048,
 			enable = 1,
-			name = "捕获金蟾10只",
+			name = "捕获金蟾10只（1000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -677,7 +677,7 @@ return {
 		{
 			id = 15049,
 			enable = 1,
-			name = "捕获黄金锤头鲨10条",
+			name = "捕获黄金锤头鲨10条（1000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -691,7 +691,7 @@ return {
 		{
 			id = 15050,
 			enable = 1,
-			name = "捕获boss鱼1条",
+			name = "捕获宝藏鳄鱼3只（1000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -705,7 +705,7 @@ return {
 		{
 			id = 15051,
 			enable = 1,
-			name = "捕获黄金鱼20条",
+			name = "捕获黄金鱼20条（1000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -719,7 +719,7 @@ return {
 		{
 			id = 15052,
 			enable = 1,
-			name = "捕鱼活动鱼3条",
+			name = "捕鱼活动鱼5条（1000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -733,7 +733,7 @@ return {
 		{
 			id = 15053,
 			enable = 1,
-			name = "捕鱼获得金币1000万",
+			name = "捕鱼获得金币1000万（5000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -747,7 +747,7 @@ return {
 		{
 			id = 15054,
 			enable = 1,
-			name = "累计开炮数10000发",
+			name = "累计开炮数5000发（5000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -761,7 +761,7 @@ return {
 		{
 			id = 15055,
 			enable = 1,
-			name = "捕鱼任意鱼500条",
+			name = "捕鱼任意鱼500条（5000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -775,7 +775,7 @@ return {
 		{
 			id = 15056,
 			enable = 1,
-			name = "捕获魔鬼鱼30条",
+			name = "捕获魔鬼鱼30条（5000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -789,7 +789,7 @@ return {
 		{
 			id = 15057,
 			enable = 1,
-			name = "捕获虎鲸30条",
+			name = "捕获虎鲸30条（5000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -803,7 +803,7 @@ return {
 		{
 			id = 15058,
 			enable = 1,
-			name = "捕获100倍以上的鱼20条",
+			name = "捕获100倍以上的鱼20条（5000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -817,64 +817,183 @@ return {
 		{
 			id = 15059,
 			enable = 1,
-			name = "捕获大金鲨20只",
+			name = "捕获大金鲨20只（5000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
+			is_reset = "FLASE",
+			reset_delay = 1,
+			start_valid_time = 1603641600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
 		},
 		[15060]=
 		{
 			id = 15060,
 			enable = 1,
-			name = "捕获80倍以上的鱼20条",
+			name = "捕获80倍以上的鱼20条（5000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
+			is_reset = "FLASE",
+			reset_delay = 1,
+			start_valid_time = 1603641600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
 		},
 		[15061]=
 		{
 			id = 15061,
 			enable = 1,
-			name = "捕获金蟾20只",
+			name = "捕获金蟾20只（5000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
+			is_reset = "FLASE",
+			reset_delay = 1,
+			start_valid_time = 1603641600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
 		},
 		[15062]=
 		{
 			id = 15062,
 			enable = 1,
-			name = "捕获黄金锤头鲨20条",
+			name = "捕获黄金锤头鲨20条（5000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
+			is_reset = "FLASE",
+			reset_delay = 1,
+			start_valid_time = 1603641600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
 		},
 		[15063]=
 		{
 			id = 15063,
 			enable = 1,
-			name = "捕获boss鱼1条",
+			name = "捕获boss鱼5条（5000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
+			is_reset = "FLASE",
+			reset_delay = 1,
+			start_valid_time = 1603641600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
 		},
 		[15064]=
 		{
 			id = 15064,
 			enable = 1,
-			name = "捕获黄金鱼30条",
+			name = "捕获黄金鱼50条（5000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
+			is_reset = "FLASE",
+			reset_delay = 1,
+			start_valid_time = 1603641600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
 		},
 		[15065]=
 		{
 			id = 15065,
 			enable = 1,
-			name = "捕鱼活动鱼3条",
+			name = "捕鱼活动鱼10条（5000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
+			is_reset = "FLASE",
+			reset_delay = 1,
+			start_valid_time = 1603641600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[15066]=
+		{
+			id = 15066,
+			enable = 1,
+			name = "捕鱼获得金币1亿（10000倍炮以上）",
+			own_type = "ocean_explore_week_children_task",
+			task_enum = "common",
+			process_id = 15001,
+			is_reset = "FLASE",
+			reset_delay = 1,
+			start_valid_time = 1603641600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[15067]=
+		{
+			id = 15067,
+			enable = 1,
+			name = "捕获100倍以上的鱼50条（10000倍炮以上）",
+			own_type = "ocean_explore_week_children_task",
+			task_enum = "common",
+			process_id = 15001,
+			is_reset = "FLASE",
+			reset_delay = 1,
+			start_valid_time = 1603641600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[15068]=
+		{
+			id = 15068,
+			enable = 1,
+			name = "捕获boss鱼5条（10000倍炮以上）",
+			own_type = "ocean_explore_week_children_task",
+			task_enum = "common",
+			process_id = 15001,
+			is_reset = "FLASE",
+			reset_delay = 1,
+			start_valid_time = 1603641600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[15069]=
+		{
+			id = 15069,
+			enable = 1,
+			name = "捕获黄金鱼50条（10000倍炮以上）",
+			own_type = "ocean_explore_week_children_task",
+			task_enum = "common",
+			process_id = 15001,
+			is_reset = "FLASE",
+			reset_delay = 1,
+			start_valid_time = 1603641600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[15070]=
+		{
+			id = 15070,
+			enable = 1,
+			name = "捕鱼任意鱼1000条（10000倍炮以上）",
+			own_type = "ocean_explore_week_children_task",
+			task_enum = "common",
+			process_id = 15001,
+			is_reset = "FLASE",
+			reset_delay = 1,
+			start_valid_time = 1603641600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[15071]=
+		{
+			id = 15071,
+			enable = 1,
+			name = "捕鱼活动鱼10条（10000倍炮以上）",
+			own_type = "ocean_explore_week_children_task",
+			task_enum = "common",
+			process_id = 15001,
+			is_reset = "FLASE",
+			reset_delay = 1,
+			start_valid_time = 1603641600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
 		},
 	},
 	process_data=
@@ -885,7 +1004,7 @@ return {
 			process_id = 15001,
 			source_id = 1,
 			process = 100000,
-			awards = 1001,
+			awards = 1,
 			get_award_type = "nor",
 		},
 		[2]=
@@ -893,8 +1012,8 @@ return {
 			id = 2,
 			process_id = 15002,
 			source_id = 2,
-			process = 1,
-			awards = 1002,
+			process = 500,
+			awards = 2,
 			get_award_type = "nor",
 		},
 		[3]=
@@ -902,8 +1021,8 @@ return {
 			id = 3,
 			process_id = 15003,
 			source_id = 3,
-			process = 50000,
-			awards = 1003,
+			process = 30,
+			awards = 3,
 			get_award_type = "nor",
 		},
 		[4]=
@@ -911,8 +1030,8 @@ return {
 			id = 4,
 			process_id = 15004,
 			source_id = 4,
-			process = 900,
-			awards = 1004,
+			process = 3,
+			awards = 4,
 			get_award_type = "nor",
 		},
 		[5]=
@@ -920,8 +1039,8 @@ return {
 			id = 5,
 			process_id = 15005,
 			source_id = 5,
-			process = 1000,
-			awards = 1005,
+			process = 3,
+			awards = 5,
 			get_award_type = "nor",
 		},
 		[6]=
@@ -929,8 +1048,8 @@ return {
 			id = 6,
 			process_id = 15006,
 			source_id = 6,
-			process = 300,
-			awards = 1006,
+			process = 10,
+			awards = 6,
 			get_award_type = "nor",
 		},
 		[7]=
@@ -938,8 +1057,8 @@ return {
 			id = 7,
 			process_id = 15007,
 			source_id = 7,
-			process = 5,
-			awards = 1007,
+			process = 10,
+			awards = 7,
 			get_award_type = "nor",
 		},
 		[8]=
@@ -947,8 +1066,8 @@ return {
 			id = 8,
 			process_id = 15008,
 			source_id = 8,
-			process = 1,
-			awards = 1026,
+			process = 10,
+			awards = 8,
 			get_award_type = "nor",
 		},
 		[9]=
@@ -957,7 +1076,7 @@ return {
 			process_id = 15009,
 			source_id = 9,
 			process = 5,
-			awards = 1009,
+			awards = 9,
 			get_award_type = "nor",
 		},
 		[10]=
@@ -965,8 +1084,8 @@ return {
 			id = 10,
 			process_id = 15010,
 			source_id = 10,
-			process = 1,
-			awards = 1010,
+			process = 5,
+			awards = 10,
 			get_award_type = "nor",
 		},
 		[11]=
@@ -974,8 +1093,8 @@ return {
 			id = 11,
 			process_id = 15011,
 			source_id = 11,
-			process = 1,
-			awards = 1027,
+			process = 3,
+			awards = 11,
 			get_award_type = "nor",
 		},
 		[12]=
@@ -983,8 +1102,8 @@ return {
 			id = 12,
 			process_id = 15012,
 			source_id = 12,
-			process = 1,
-			awards = 1001,
+			process = 8,
+			awards = 12,
 			get_award_type = "nor",
 		},
 		[13]=
@@ -992,8 +1111,8 @@ return {
 			id = 13,
 			process_id = 15013,
 			source_id = 13,
-			process = 500000,
-			awards = 1002,
+			process = 1,
+			awards = 13,
 			get_award_type = "nor",
 		},
 		[14]=
@@ -1001,8 +1120,8 @@ return {
 			id = 14,
 			process_id = 15014,
 			source_id = 14,
-			process = 1,
-			awards = 1003,
+			process = 500000,
+			awards = 14,
 			get_award_type = "nor",
 		},
 		[15]=
@@ -1010,8 +1129,8 @@ return {
 			id = 15,
 			process_id = 15015,
 			source_id = 15,
-			process = 2,
-			awards = 1004,
+			process = 1000,
+			awards = 15,
 			get_award_type = "nor",
 		},
 		[16]=
@@ -1019,8 +1138,8 @@ return {
 			id = 16,
 			process_id = 15016,
 			source_id = 16,
-			process = 3,
-			awards = 1005,
+			process = 100,
+			awards = 16,
 			get_award_type = "nor",
 		},
 		[17]=
@@ -1028,8 +1147,8 @@ return {
 			id = 17,
 			process_id = 15017,
 			source_id = 17,
-			process = 3,
-			awards = 1006,
+			process = 20,
+			awards = 17,
 			get_award_type = "nor",
 		},
 		[18]=
@@ -1037,8 +1156,8 @@ return {
 			id = 18,
 			process_id = 15018,
 			source_id = 18,
-			process = 5,
-			awards = 1007,
+			process = 20,
+			awards = 18,
 			get_award_type = "nor",
 		},
 		[19]=
@@ -1046,8 +1165,8 @@ return {
 			id = 19,
 			process_id = 15019,
 			source_id = 19,
-			process = 1,
-			awards = 1008,
+			process = 20,
+			awards = 19,
 			get_award_type = "nor",
 		},
 		[20]=
@@ -1055,8 +1174,8 @@ return {
 			id = 20,
 			process_id = 15020,
 			source_id = 20,
-			process = 3,
-			awards = 1009,
+			process = 10,
+			awards = 20,
 			get_award_type = "nor",
 		},
 		[21]=
@@ -1064,8 +1183,8 @@ return {
 			id = 21,
 			process_id = 15021,
 			source_id = 21,
-			process = 100,
-			awards = 1010,
+			process = 10,
+			awards = 21,
 			get_award_type = "nor",
 		},
 		[22]=
@@ -1073,8 +1192,8 @@ return {
 			id = 22,
 			process_id = 15022,
 			source_id = 22,
-			process = 1000,
-			awards = 1011,
+			process = 8,
+			awards = 22,
 			get_award_type = "nor",
 		},
 		[23]=
@@ -1082,8 +1201,8 @@ return {
 			id = 23,
 			process_id = 15023,
 			source_id = 23,
-			process = 5400,
-			awards = 1012,
+			process = 8,
+			awards = 23,
 			get_award_type = "nor",
 		},
 		[24]=
@@ -1091,8 +1210,8 @@ return {
 			id = 24,
 			process_id = 15024,
 			source_id = 24,
-			process = 2,
-			awards = 1013,
+			process = 5,
+			awards = 24,
 			get_award_type = "nor",
 		},
 		[25]=
@@ -1100,8 +1219,8 @@ return {
 			id = 25,
 			process_id = 15025,
 			source_id = 25,
-			process = 200000,
-			awards = 1014,
+			process = 10,
+			awards = 25,
 			get_award_type = "nor",
 		},
 		[26]=
@@ -1109,8 +1228,8 @@ return {
 			id = 26,
 			process_id = 15026,
 			source_id = 26,
-			process = 5,
-			awards = 1015,
+			process = 3,
+			awards = 26,
 			get_award_type = "nor",
 		},
 		[27]=
@@ -1118,8 +1237,8 @@ return {
 			id = 27,
 			process_id = 15027,
 			source_id = 27,
-			process = 1000,
-			awards = 1016,
+			process = 3000000,
+			awards = 27,
 			get_award_type = "nor",
 		},
 		[28]=
@@ -1127,8 +1246,8 @@ return {
 			id = 28,
 			process_id = 15028,
 			source_id = 28,
-			process = 500000,
-			awards = 1017,
+			process = 2000,
+			awards = 28,
 			get_award_type = "nor",
 		},
 		[29]=
@@ -1136,8 +1255,8 @@ return {
 			id = 29,
 			process_id = 15029,
 			source_id = 29,
-			process = 5,
-			awards = 1018,
+			process = 200,
+			awards = 29,
 			get_award_type = "nor",
 		},
 		[30]=
@@ -1145,8 +1264,8 @@ return {
 			id = 30,
 			process_id = 15030,
 			source_id = 30,
-			process = 3000,
-			awards = 1019,
+			process = 20,
+			awards = 30,
 			get_award_type = "nor",
 		},
 		[31]=
@@ -1154,8 +1273,8 @@ return {
 			id = 31,
 			process_id = 15031,
 			source_id = 31,
-			process = 1000000,
-			awards = 1020,
+			process = 20,
+			awards = 31,
 			get_award_type = "nor",
 		},
 		[32]=
@@ -1163,8 +1282,8 @@ return {
 			id = 32,
 			process_id = 15032,
 			source_id = 32,
-			process = 5,
-			awards = 1021,
+			process = 20,
+			awards = 32,
 			get_award_type = "nor",
 		},
 		[33]=
@@ -1173,7 +1292,7 @@ return {
 			process_id = 15033,
 			source_id = 33,
 			process = 10,
-			awards = 1022,
+			awards = 33,
 			get_award_type = "nor",
 		},
 		[34]=
@@ -1181,8 +1300,8 @@ return {
 			id = 34,
 			process_id = 15034,
 			source_id = 34,
-			process = 10000,
-			awards = 1023,
+			process = 8,
+			awards = 34,
 			get_award_type = "nor",
 		},
 		[35]=
@@ -1190,8 +1309,8 @@ return {
 			id = 35,
 			process_id = 15035,
 			source_id = 35,
-			process = 10000000,
-			awards = 1024,
+			process = 8,
+			awards = 35,
 			get_award_type = "nor",
 		},
 		[36]=
@@ -1199,8 +1318,8 @@ return {
 			id = 36,
 			process_id = 15036,
 			source_id = 36,
-			process = 8,
-			awards = 1025,
+			process = 5,
+			awards = 36,
 			get_award_type = "nor",
 		},
 		[37]=
@@ -1208,8 +1327,8 @@ return {
 			id = 37,
 			process_id = 15037,
 			source_id = 37,
-			process = 1,
-			awards = 1028,
+			process = 15,
+			awards = 37,
 			get_award_type = "nor",
 		},
 		[38]=
@@ -1217,8 +1336,8 @@ return {
 			id = 38,
 			process_id = 15038,
 			source_id = 38,
-			process = 5400,
-			awards = 1029,
+			process = 3,
+			awards = 38,
 			get_award_type = "nor",
 		},
 		[39]=
@@ -1227,7 +1346,7 @@ return {
 			process_id = 15039,
 			source_id = 39,
 			process = 1,
-			awards = 1030,
+			awards = 39,
 			get_award_type = "nor",
 		},
 		[40]=
@@ -1235,8 +1354,8 @@ return {
 			id = 40,
 			process_id = 15040,
 			source_id = 40,
-			process = 1000,
-			awards = 1031,
+			process = 5000000,
+			awards = 40,
 			get_award_type = "nor",
 		},
 		[41]=
@@ -1245,7 +1364,7 @@ return {
 			process_id = 15041,
 			source_id = 41,
 			process = 3000,
-			awards = 1032,
+			awards = 41,
 			get_award_type = "nor",
 		},
 		[42]=
@@ -1253,8 +1372,8 @@ return {
 			id = 42,
 			process_id = 15042,
 			source_id = 42,
-			process = 10000,
-			awards = 1033,
+			process = 300,
+			awards = 42,
 			get_award_type = "nor",
 		},
 		[43]=
@@ -1262,8 +1381,8 @@ return {
 			id = 43,
 			process_id = 15043,
 			source_id = 43,
-			process = 50,
-			awards = 1034,
+			process = 20,
+			awards = 43,
 			get_award_type = "nor",
 		},
 		[44]=
@@ -1271,8 +1390,8 @@ return {
 			id = 44,
 			process_id = 15044,
 			source_id = 44,
-			process = 200,
-			awards = 1035,
+			process = 20,
+			awards = 44,
 			get_award_type = "nor",
 		},
 		[45]=
@@ -1280,8 +1399,8 @@ return {
 			id = 45,
 			process_id = 15045,
 			source_id = 45,
-			process = 200,
-			awards = 1036,
+			process = 20,
+			awards = 45,
 			get_award_type = "nor",
 		},
 		[46]=
@@ -1289,8 +1408,8 @@ return {
 			id = 46,
 			process_id = 15046,
 			source_id = 46,
-			process = 200,
-			awards = 1037,
+			process = 20,
+			awards = 46,
 			get_award_type = "nor",
 		},
 		[47]=
@@ -1298,8 +1417,8 @@ return {
 			id = 47,
 			process_id = 15047,
 			source_id = 47,
-			process = 100,
-			awards = 1038,
+			process = 20,
+			awards = 47,
 			get_award_type = "nor",
 		},
 		[48]=
@@ -1307,8 +1426,8 @@ return {
 			id = 48,
 			process_id = 15048,
 			source_id = 48,
-			process = 1000000,
-			awards = 1039,
+			process = 10,
+			awards = 48,
 			get_award_type = "nor",
 		},
 		[49]=
@@ -1316,8 +1435,8 @@ return {
 			id = 49,
 			process_id = 15049,
 			source_id = 49,
-			process = 1,
-			awards = 1040,
+			process = 10,
+			awards = 49,
 			get_award_type = "nor",
 		},
 		[50]=
@@ -1325,8 +1444,8 @@ return {
 			id = 50,
 			process_id = 15050,
 			source_id = 50,
-			process = 10000,
-			awards = 1041,
+			process = 3,
+			awards = 50,
 			get_award_type = "nor",
 		},
 		[51]=
@@ -1334,8 +1453,8 @@ return {
 			id = 51,
 			process_id = 15051,
 			source_id = 51,
-			process = 50000,
-			awards = 1042,
+			process = 20,
+			awards = 51,
 			get_award_type = "nor",
 		},
 		[52]=
@@ -1343,8 +1462,8 @@ return {
 			id = 52,
 			process_id = 15052,
 			source_id = 52,
-			process = 100000,
-			awards = 1043,
+			process = 5,
+			awards = 52,
 			get_award_type = "nor",
 		},
 		[53]=
@@ -1352,8 +1471,8 @@ return {
 			id = 53,
 			process_id = 15053,
 			source_id = 53,
-			process = 500000,
-			awards = 1044,
+			process = 10000000,
+			awards = 53,
 			get_award_type = "nor",
 		},
 		[54]=
@@ -1361,8 +1480,8 @@ return {
 			id = 54,
 			process_id = 15054,
 			source_id = 54,
-			process = 1000000,
-			awards = 1045,
+			process = 5000,
+			awards = 54,
 			get_award_type = "nor",
 		},
 		[55]=
@@ -1370,8 +1489,8 @@ return {
 			id = 55,
 			process_id = 15055,
 			source_id = 55,
-			process = 5000000,
-			awards = 1046,
+			process = 500,
+			awards = 55,
 			get_award_type = "nor",
 		},
 		[56]=
@@ -1379,24 +1498,143 @@ return {
 			id = 56,
 			process_id = 15056,
 			source_id = 56,
-			process = 10000000,
-			awards = 1047,
+			process = 30,
+			awards = 56,
 			get_award_type = "nor",
 		},
 		[57]=
 		{
 			id = 57,
 			process_id = 15057,
-			process = {30,30,30,30,30,1000},
-			awards = {2006,2007,2008,2009,2010},
+			source_id = 57,
+			process = 30,
+			awards = 57,
 			get_award_type = "nor",
 		},
 		[58]=
 		{
 			id = 58,
 			process_id = 15058,
-			process = {30,30,30,30,30,1000},
-			awards = {2001,2002,2003,2004,2005},
+			source_id = 58,
+			process = 20,
+			awards = 58,
+			get_award_type = "nor",
+		},
+		[59]=
+		{
+			id = 59,
+			process_id = 15059,
+			source_id = 59,
+			process = 20,
+			awards = 59,
+			get_award_type = "nor",
+		},
+		[60]=
+		{
+			id = 60,
+			process_id = 15060,
+			source_id = 60,
+			process = 20,
+			awards = 60,
+			get_award_type = "nor",
+		},
+		[61]=
+		{
+			id = 61,
+			process_id = 15061,
+			source_id = 61,
+			process = 20,
+			awards = 61,
+			get_award_type = "nor",
+		},
+		[62]=
+		{
+			id = 62,
+			process_id = 15062,
+			source_id = 62,
+			process = 20,
+			awards = 62,
+			get_award_type = "nor",
+		},
+		[63]=
+		{
+			id = 63,
+			process_id = 15063,
+			source_id = 63,
+			process = 5,
+			awards = 63,
+			get_award_type = "nor",
+		},
+		[64]=
+		{
+			id = 64,
+			process_id = 15064,
+			source_id = 64,
+			process = 50,
+			awards = 64,
+			get_award_type = "nor",
+		},
+		[65]=
+		{
+			id = 65,
+			process_id = 15065,
+			source_id = 65,
+			process = 10,
+			awards = 65,
+			get_award_type = "nor",
+		},
+		[66]=
+		{
+			id = 66,
+			process_id = 15066,
+			source_id = 66,
+			process = 100000000,
+			awards = 66,
+			get_award_type = "nor",
+		},
+		[67]=
+		{
+			id = 67,
+			process_id = 15067,
+			source_id = 67,
+			process = 50,
+			awards = 67,
+			get_award_type = "nor",
+		},
+		[68]=
+		{
+			id = 68,
+			process_id = 15068,
+			source_id = 68,
+			process = 5,
+			awards = 68,
+			get_award_type = "nor",
+		},
+		[69]=
+		{
+			id = 69,
+			process_id = 15069,
+			source_id = 69,
+			process = 50,
+			awards = 69,
+			get_award_type = "nor",
+		},
+		[70]=
+		{
+			id = 70,
+			process_id = 15070,
+			source_id = 70,
+			process = 1000,
+			awards = 70,
+			get_award_type = "nor",
+		},
+		[71]=
+		{
+			id = 71,
+			process_id = 15071,
+			source_id = 71,
+			process = 20,
+			awards = 71,
 			get_award_type = "nor",
 		},
 	},
@@ -1407,588 +1645,495 @@ return {
 			id = 1,
 			source_id = 1,
 			source_type = "buyu_3d_award",
-			condition_id = 1001,
+			condition_id = 1,
 		},
 		[2]=
 		{
 			id = 2,
-			source_id = 1,
-			source_type = "enter_buyu_3d_game",
-			condition_id = 1002,
+			source_id = 2,
+			source_type = "buyu_3d_spend",
+			condition_id = 2,
 		},
 		[3]=
 		{
 			id = 3,
-			source_id = 2,
-			source_type = "use_fish_bullet_item",
-			condition_id = 1003,
+			source_id = 3,
+			source_type = "buyu_3d_target_yu",
 		},
 		[4]=
 		{
 			id = 4,
-			source_id = 2,
-			source_type = "use_fish_3d_bullet_item",
-			condition_id = 1004,
+			source_id = 4,
+			source_type = "use_fish_bullet_item",
+			condition_id = 3,
 		},
 		[5]=
 		{
 			id = 5,
-			source_id = 3,
-			source_type = "buyu_award",
-			condition_id = 0,
+			source_id = 5,
+			source_type = "use_fish_bullet_item",
+			condition_id = 4,
 		},
 		[6]=
 		{
 			id = 6,
-			source_id = 3,
-			source_type = "buyu_3d_award",
-			condition_id = 0,
+			source_id = 6,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 5,
 		},
 		[7]=
 		{
 			id = 7,
-			source_id = 4,
-			source_type = "buyu_gaming_time_long",
-			condition_id = 1005,
+			source_id = 7,
+			source_type = "buyu_4d_target_yu",
+			condition_id = 6,
 		},
 		[8]=
 		{
 			id = 8,
-			source_id = 4,
-			source_type = "buyu_3d_gaming_time_long",
-			condition_id = 1006,
+			source_id = 8,
+			source_type = "buyu_5d_target_yu",
+			condition_id = 7,
 		},
 		[9]=
 		{
 			id = 9,
-			source_id = 5,
-			source_type = "buyu_spend_num",
-			condition_id = 1007,
+			source_id = 9,
+			source_type = "buyu_6d_target_yu",
+			condition_id = 8,
 		},
 		[10]=
 		{
 			id = 10,
-			source_id = 5,
-			source_type = "buyu_3d_spend_num",
-			condition_id = 1008,
+			source_id = 10,
+			source_type = "buyu_7d_target_yu",
+			condition_id = 9,
 		},
 		[11]=
 		{
 			id = 11,
-			source_id = 6,
-			source_type = "buyu_target_yu",
-			condition_id = 0,
+			source_id = 11,
+			source_type = "buyu_8d_target_yu",
+			condition_id = 10,
 		},
 		[12]=
 		{
 			id = 12,
-			source_id = 6,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 0,
+			source_id = 12,
+			source_type = "buyu_9d_target_yu",
+			condition_id = 11,
 		},
 		[13]=
 		{
 			id = 13,
-			source_id = 7,
-			source_type = "buyu_target_yu",
-			condition_id = 1009,
+			source_id = 13,
+			source_type = "buyu_10d_target_yu",
+			condition_id = 12,
 		},
 		[14]=
 		{
 			id = 14,
-			source_id = 7,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 1010,
+			source_id = 14,
+			source_type = "buyu_3d_award",
+			condition_id = 13,
 		},
 		[15]=
 		{
 			id = 15,
-			source_id = 8,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 1011,
+			source_id = 15,
+			source_type = "buyu_3d_spend",
+			condition_id = 14,
 		},
 		[16]=
 		{
 			id = 16,
-			source_id = 9,
+			source_id = 16,
 			source_type = "buyu_3d_target_yu",
-			condition_id = 1012,
 		},
 		[17]=
 		{
 			id = 17,
-			source_id = 9,
-			source_type = "buyu_target_yu",
-			condition_id = 1013,
+			source_id = 17,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 15,
 		},
 		[18]=
 		{
 			id = 18,
-			source_id = 11,
+			source_id = 18,
 			source_type = "buyu_3d_target_yu",
-			condition_id = 1014,
+			condition_id = 16,
 		},
 		[19]=
 		{
 			id = 19,
-			source_id = 12,
-			source_type = "enter_buyu_game",
-			condition_id = 1015,
+			source_id = 19,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 17,
 		},
 		[20]=
 		{
 			id = 20,
-			source_id = 12,
-			source_type = "enter_buyu_3d_game",
-			condition_id = 1015,
+			source_id = 20,
+			source_type = "buyu_4d_target_yu",
+			condition_id = 18,
 		},
 		[21]=
 		{
 			id = 21,
-			source_id = 13,
-			source_type = "buyu_award",
-			condition_id = 0,
+			source_id = 21,
+			source_type = "buyu_5d_target_yu",
+			condition_id = 19,
 		},
 		[22]=
 		{
 			id = 22,
-			source_id = 13,
-			source_type = "buyu_3d_award",
-			condition_id = 0,
+			source_id = 22,
+			source_type = "buyu_6d_target_yu",
+			condition_id = 20,
 		},
 		[23]=
 		{
 			id = 23,
-			source_id = 13,
-			source_type = "xiaoxiaole_award",
-			condition_id = 0,
+			source_id = 23,
+			source_type = "buyu_7d_target_yu",
+			condition_id = 21,
 		},
 		[24]=
 		{
 			id = 24,
-			source_id = 13,
-			source_type = "xiaoxiaole_shuihu_award",
-			condition_id = 0,
+			source_id = 24,
+			source_type = "buyu_8d_target_yu",
+			condition_id = 22,
 		},
 		[25]=
 		{
 			id = 25,
-			source_id = 13,
-			source_type = "xiaoxiaole_caishen_award",
-			condition_id = 0,
+			source_id = 25,
+			source_type = "buyu_9d_target_yu",
+			condition_id = 23,
 		},
 		[26]=
 		{
 			id = 26,
-			source_id = 13,
-			source_type = "tantanle_award",
-			condition_id = 0,
+			source_id = 26,
+			source_type = "buyu_10d_target_yu",
+			condition_id = 24,
 		},
 		[27]=
 		{
 			id = 27,
-			source_id = 13,
-			source_type = "zajindan_award",
-			condition_id = 0,
+			source_id = 27,
+			source_type = "buyu_3d_award",
+			condition_id = 25,
 		},
 		[28]=
 		{
 			id = 28,
-			source_id = 13,
-			source_type = "jykp_award",
-			condition_id = 0,
+			source_id = 28,
+			source_type = "buyu_3d_spend",
+			condition_id = 26,
 		},
 		[29]=
 		{
 			id = 29,
-			source_id = 14,
-			source_type = "share_game",
-			condition_id = 1016,
+			source_id = 29,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 27,
 		},
 		[30]=
 		{
 			id = 30,
-			source_id = 15,
+			source_id = 30,
 			source_type = "buyu_3d_target_yu",
-			condition_id = 1017,
+			condition_id = 28,
 		},
 		[31]=
 		{
 			id = 31,
-			source_id = 16,
+			source_id = 31,
 			source_type = "buyu_3d_target_yu",
-			condition_id = 1018,
+			condition_id = 29,
 		},
 		[32]=
 		{
 			id = 32,
-			source_id = 17,
-			source_type = "enter_game_xiaoxiaole",
-			condition_id = 0,
+			source_id = 32,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 30,
 		},
 		[33]=
 		{
 			id = 33,
-			source_id = 17,
-			source_type = "enter_game_xiaoxiaole_shuihu",
-			condition_id = 0,
+			source_id = 33,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 31,
 		},
 		[34]=
 		{
 			id = 34,
-			source_id = 17,
-			source_type = "enter_game_xiaoxiaole_caishen",
-			condition_id = 0,
+			source_id = 34,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 32,
 		},
 		[35]=
 		{
 			id = 35,
-			source_id = 17,
-			source_type = "enter_game_zajindan",
-			condition_id = 0,
+			source_id = 35,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 33,
 		},
 		[36]=
 		{
 			id = 36,
-			source_id = 17,
-			source_type = "enter_game_tantanle",
-			condition_id = 0,
+			source_id = 36,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 34,
 		},
 		[37]=
 		{
 			id = 37,
-			source_id = 17,
-			source_type = "enter_game_jykp",
-			condition_id = 0,
+			source_id = 37,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 35,
 		},
 		[38]=
 		{
 			id = 38,
-			source_id = 17,
-			source_type = "enter_game_guess_apple",
-			condition_id = 0,
+			source_id = 38,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 36,
 		},
 		[39]=
 		{
 			id = 39,
-			source_id = 17,
-			source_type = "enter_buyu_game",
-			condition_id = 0,
+			source_id = 39,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 37,
 		},
 		[40]=
 		{
 			id = 40,
-			source_id = 17,
-			source_type = "enter_buyu_3d_game",
-			condition_id = 0,
+			source_id = 40,
+			source_type = "buyu_3d_award",
+			condition_id = 38,
 		},
 		[41]=
 		{
 			id = 41,
-			source_id = 18,
-			source_type = "complete_caibei_game",
-			condition_id = 0,
+			source_id = 41,
+			source_type = "buyu_3d_spend",
+			condition_id = 39,
 		},
 		[42]=
 		{
 			id = 42,
-			source_id = 19,
-			source_type = "charge_any",
-			condition_id = 1019,
+			source_id = 42,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 40,
 		},
 		[43]=
 		{
 			id = 43,
-			source_id = 20,
-			source_type = "use_fish_3d_bullet_item",
-			condition_id = 1020,
+			source_id = 43,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 41,
 		},
 		[44]=
 		{
 			id = 44,
-			source_id = 21,
+			source_id = 44,
 			source_type = "buyu_3d_target_yu",
-			condition_id = 0,
+			condition_id = 42,
 		},
 		[45]=
 		{
 			id = 45,
-			source_id = 22,
-			source_type = "buyu_3d_spend_num",
-			condition_id = 1021,
+			source_id = 45,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 43,
 		},
 		[46]=
 		{
 			id = 46,
-			source_id = 23,
-			source_type = "buyu_3d_gaming_time_long",
-			condition_id = 1022,
+			source_id = 46,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 44,
 		},
 		[47]=
 		{
 			id = 47,
-			source_id = 24,
-			source_type = "watch_ad",
-			condition_id = 0,
+			source_id = 47,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 45,
 		},
 		[48]=
 		{
 			id = 48,
-			source_id = 25,
-			source_type = "buyu_3d_award",
-			condition_id = 0,
+			source_id = 48,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 46,
 		},
 		[49]=
 		{
 			id = 49,
-			source_id = 26,
+			source_id = 49,
 			source_type = "buyu_3d_target_yu",
-			condition_id = 1018,
+			condition_id = 47,
 		},
 		[50]=
 		{
 			id = 50,
-			source_id = 27,
-			source_type = "charge_any",
-			condition_id = 0,
+			source_id = 50,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 48,
 		},
 		[51]=
 		{
 			id = 51,
-			source_id = 28,
-			source_type = "buyu_3d_award",
-			condition_id = 0,
+			source_id = 51,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 49,
 		},
 		[52]=
 		{
 			id = 52,
-			source_id = 29,
+			source_id = 52,
 			source_type = "buyu_3d_target_yu",
-			condition_id = 1023,
+			condition_id = 50,
 		},
 		[53]=
 		{
 			id = 53,
-			source_id = 30,
-			source_type = "charge_any",
-			condition_id = 0,
+			source_id = 53,
+			source_type = "buyu_3d_award",
+			condition_id = 51,
 		},
 		[54]=
 		{
 			id = 54,
-			source_id = 31,
-			source_type = "buyu_3d_award",
-			condition_id = 0,
+			source_id = 54,
+			source_type = "buyu_3d_spend",
+			condition_id = 52,
 		},
 		[55]=
 		{
 			id = 55,
-			source_id = 31,
-			source_type = "buyu_award",
-			condition_id = 0,
+			source_id = 55,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 53,
 		},
 		[56]=
 		{
 			id = 56,
-			source_id = 31,
-			source_type = "xiaoxiaole_award",
-			condition_id = 0,
+			source_id = 56,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 54,
 		},
 		[57]=
 		{
 			id = 57,
-			source_id = 31,
-			source_type = "xiaoxiaole_shuihu_award",
-			condition_id = 0,
+			source_id = 57,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 55,
 		},
 		[58]=
 		{
 			id = 58,
-			source_id = 31,
-			source_type = "xiaoxiaole_caishen_award",
-			condition_id = 0,
+			source_id = 58,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 56,
 		},
 		[59]=
 		{
 			id = 59,
-			source_id = 31,
-			source_type = "tantanle_award",
-			condition_id = 0,
+			source_id = 59,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 57,
 		},
 		[60]=
 		{
 			id = 60,
-			source_id = 31,
-			source_type = "zajindan_award",
-			condition_id = 0,
+			source_id = 60,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 58,
 		},
 		[61]=
 		{
 			id = 61,
-			source_id = 31,
-			source_type = "jykp_award",
-			condition_id = 0,
+			source_id = 61,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 59,
 		},
 		[62]=
 		{
 			id = 62,
-			source_id = 32,
+			source_id = 62,
 			source_type = "buyu_3d_target_yu",
-			condition_id = 1010,
+			condition_id = 60,
 		},
 		[63]=
 		{
 			id = 63,
-			source_id = 33,
+			source_id = 63,
 			source_type = "buyu_3d_target_yu",
-			condition_id = 1018,
+			condition_id = 61,
 		},
 		[64]=
 		{
 			id = 64,
-			source_id = 34,
-			source_type = "charge_any",
-			condition_id = 0,
+			source_id = 64,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 62,
 		},
 		[65]=
 		{
 			id = 65,
-			source_id = 35,
-			source_type = "buyu_3d_award",
-			condition_id = 0,
+			source_id = 65,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 63,
 		},
 		[66]=
 		{
 			id = 66,
-			source_id = 35,
-			source_type = "buyu_award",
-			condition_id = 0,
+			source_id = 66,
+			source_type = "buyu_3d_award",
+			condition_id = 64,
 		},
 		[67]=
 		{
 			id = 67,
-			source_id = 35,
-			source_type = "xiaoxiaole_award",
-			condition_id = 0,
+			source_id = 67,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 65,
 		},
 		[68]=
 		{
 			id = 68,
-			source_id = 35,
-			source_type = "xiaoxiaole_shuihu_award",
-			condition_id = 0,
+			source_id = 68,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 66,
 		},
 		[69]=
 		{
 			id = 69,
-			source_id = 35,
-			source_type = "xiaoxiaole_caishen_award",
-			condition_id = 0,
+			source_id = 69,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 67,
 		},
 		[70]=
 		{
 			id = 70,
-			source_id = 35,
-			source_type = "tantanle_award",
-			condition_id = 0,
+			source_id = 70,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 68,
 		},
 		[71]=
 		{
 			id = 71,
-			source_id = 35,
-			source_type = "zajindan_award",
-			condition_id = 0,
-		},
-		[72]=
-		{
-			id = 72,
-			source_id = 35,
-			source_type = "jykp_award",
-			condition_id = 0,
-		},
-		[73]=
-		{
-			id = 73,
-			source_id = 36,
-			source_type = "xiaoxiaole_game_num",
-			condition_id = 0,
-		},
-		[74]=
-		{
-			id = 74,
-			source_id = 37,
-			source_type = "xiaoxiaole_shuihu_award",
-			condition_id = 0,
-		},
-		[75]=
-		{
-			id = 75,
-			source_id = 37,
-			source_type = "xiaoxiaole_caishen_award",
-			condition_id = 0,
-		},
-		[76]=
-		{
-			id = 76,
-			source_id = 37,
-			source_type = "tantanle_award",
-			condition_id = 0,
-		},
-		[77]=
-		{
-			id = 77,
-			source_id = 37,
-			source_type = "zajindan_award",
-			condition_id = 0,
-		},
-		[78]=
-		{
-			id = 78,
-			source_id = 37,
-			source_type = "jykp_award",
-			condition_id = 0,
-		},
-		[79]=
-		{
-			id = 79,
-			source_id = 38,
-			source_type = "xxl_xc_target_item",
-			condition_id = 1024,
-		},
-		[80]=
-		{
-			id = 80,
-			source_id = 39,
-			source_type = "xxl_xc_target_item",
-			condition_id = 1025,
-		},
-		[81]=
-		{
-			id = 81,
-			source_id = 40,
-			source_type = "xxl_xc_target_item",
-			condition_id = 1026,
-		},
-		[82]=
-		{
-			id = 82,
-			source_id = 41,
-			source_type = "xxl_xc_target_item",
-			condition_id = 1027,
-		},
-		[83]=
-		{
-			id = 83,
-			source_id = 42,
-			source_type = "xiaoxiaole_award",
-			condition_id = 1028,
-		},
-		[84]=
-		{
-			id = 84,
-			source_id = 43,
-			source_type = "xxl_lucky_award",
-			condition_id = 1029,
+			source_id = 71,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 69,
 		},
 	},
 	condition=
@@ -1996,233 +2141,881 @@ return {
 		[1]=
 		{
 			id = 1,
-			condition_id = 1001,
+			condition_id = 1,
 			condition_name = "game_id",
-			condition_value = {1,2,3,4,5},
+			condition_value = {2,3,4,5},
 			judge_type = 2,
 		},
 		[2]=
 		{
 			id = 2,
-			condition_id = 1002,
-			condition_name = "game_id",
-			condition_value = {1,2,3,4,5},
+			condition_id = 2,
+			condition_name = "fish_game_id",
+			condition_value = {2,3,4,5},
 			judge_type = 2,
 		},
 		[3]=
 		{
 			id = 3,
-			condition_id = 1003,
+			condition_id = 3,
 			condition_name = "fish_prop",
-			condition_value = {"prop_fish_summon_fish","prop_fish_lock","prop_fish_frozen"},
+			condition_value = {"prop_3d_fish_lock",},
 			judge_type = 2,
 		},
 		[4]=
 		{
 			id = 4,
-			condition_id = 1004,
+			condition_id = 4,
 			condition_name = "fish_prop",
-			condition_value = {"prop_3d_fish_frozen","prop_3d_fish_lock","prop_3d_fish_summon_fish"},
+			condition_value = {"prop_3d_fish_frozen",},
 			judge_type = 2,
 		},
 		[5]=
 		{
 			id = 5,
-			condition_id = 1005,
-			condition_name = "game_id",
-			condition_value = {1,2,3,4},
+			condition_id = 5,
+			condition_name = "base_fish_id",
+			condition_value = {3,},
 			judge_type = 2,
 		},
 		[6]=
 		{
 			id = 6,
-			condition_id = 1006,
-			condition_name = "game_id",
-			condition_value = {1,2,3,4,5},
+			condition_id = 6,
+			condition_name = "base_fish_id",
+			condition_value = {4,},
 			judge_type = 2,
 		},
 		[7]=
 		{
 			id = 7,
-			condition_id = 1007,
-			condition_name = "fish_game_id",
-			condition_value = {1,2,3,4},
+			condition_id = 7,
+			condition_name = "base_fish_id",
+			condition_value = {5,},
 			judge_type = 2,
 		},
 		[8]=
 		{
 			id = 8,
-			condition_id = 1008,
-			condition_name = "fish_game_id",
-			condition_value = {1,2,3,4,5},
+			condition_id = 8,
+			condition_name = "base_fish_id",
+			condition_value = {20,},
 			judge_type = 2,
 		},
 		[9]=
 		{
 			id = 9,
-			condition_id = 1009,
+			condition_id = 9,
 			condition_name = "base_fish_id",
-			condition_value = {12,13,15,16,17,18,20,29,},
+			condition_value = {23,},
 			judge_type = 2,
 		},
 		[10]=
 		{
 			id = 10,
-			condition_id = 1010,
+			condition_id = 10,
 			condition_name = "base_fish_id",
-			condition_value = {22,23,24,26,27,38,39,40,41,42,43,44,45,46,47,48,49,50,},
+			condition_value = {26,},
 			judge_type = 2,
 		},
 		[11]=
 		{
 			id = 11,
-			condition_id = 1011,
+			condition_id = 11,
 			condition_name = "base_fish_id",
-			condition_value = {28,29,30,31,32,33,34,35,36,},
+			condition_value = {20,22,23,24,25,26,27,},
 			judge_type = 2,
 		},
 		[12]=
 		{
 			id = 12,
-			condition_id = 1012,
+			condition_id = 12,
 			condition_name = "base_fish_id",
-			condition_value = {20,21,22,23,24,25,26,27,38,},
+			condition_value = {28,29,30,31,32,33,34,35,36,21,},
 			judge_type = 2,
 		},
 		[13]=
 		{
 			id = 13,
-			condition_id = 1013,
-			condition_name = "base_fish_id",
-			condition_value = {14,15,16,17,18,20,28,},
+			condition_id = 13,
+			condition_name = "game_id",
+			condition_value = {2,3,4,5},
 			judge_type = 2,
 		},
 		[14]=
 		{
 			id = 14,
-			condition_id = 1014,
-			condition_name = "base_fish_id",
-			condition_value = {46,47,48,49,},
+			condition_id = 14,
+			condition_name = "fish_game_id",
+			condition_value = {2,3,4,5},
 			judge_type = 2,
 		},
 		[15]=
 		{
 			id = 15,
-			condition_id = 1015,
-			condition_name = "game_id",
-			condition_value = {1,2,3,4,5},
+			condition_id = 15,
+			condition_name = "base_fish_id",
+			condition_value = {6,},
 			judge_type = 2,
 		},
 		[16]=
 		{
 			id = 16,
-			condition_id = 1016,
-			condition_name = "share_type",
-			condition_value = "game",
+			condition_id = 16,
+			condition_name = "base_fish_id",
+			condition_value = {7,},
 			judge_type = 2,
 		},
 		[17]=
 		{
 			id = 17,
-			condition_id = 1017,
+			condition_id = 17,
 			condition_name = "base_fish_id",
-			condition_value = {21,28,29,30,31,32,33,34,35,36,37},
+			condition_value = {8,},
 			judge_type = 2,
 		},
 		[18]=
 		{
 			id = 18,
-			condition_id = 1018,
+			condition_id = 18,
 			condition_name = "base_fish_id",
-			condition_value = {20,21,22,23,24,25,26,27,38,39,40,41,43,46,47,48,49,},
+			condition_value = {9,},
 			judge_type = 2,
 		},
 		[19]=
 		{
 			id = 19,
-			condition_id = 1019,
-			condition_name = "pay_money",
-			condition_value = 600,
-			judge_type = 3,
+			condition_id = 19,
+			condition_name = "base_fish_id",
+			condition_value = {10,},
+			judge_type = 2,
 		},
 		[20]=
 		{
 			id = 20,
-			condition_id = 1020,
-			condition_name = "fish_prop",
-			condition_value = {"prop_3d_fish_frozen","prop_3d_fish_lock","prop_3d_fish_summon_fish"},
+			condition_id = 20,
+			condition_name = "base_fish_id",
+			condition_value = {20,},
 			judge_type = 2,
 		},
 		[21]=
 		{
 			id = 21,
-			condition_id = 1021,
-			condition_name = "game_id",
-			condition_value = {1,2,3,4,5},
+			condition_id = 21,
+			condition_name = "base_fish_id",
+			condition_value = {23,},
 			judge_type = 2,
 		},
 		[22]=
 		{
 			id = 22,
-			condition_id = 1022,
-			condition_name = "fish_game_id",
-			condition_value = {1,2,3,4,5},
+			condition_id = 22,
+			condition_name = "base_fish_id",
+			condition_value = {26,},
 			judge_type = 2,
 		},
 		[23]=
 		{
 			id = 23,
-			condition_id = 1023,
+			condition_id = 23,
 			condition_name = "base_fish_id",
-			condition_value = {18,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49},
+			condition_value = {20,22,23,24,25,26,27,},
 			judge_type = 2,
 		},
 		[24]=
 		{
 			id = 24,
-			condition_id = 1024,
-			condition_name = "item_id",
-			condition_value = 1,
+			condition_id = 24,
+			condition_name = "base_fish_id",
+			condition_value = {28,29,30,31,32,33,34,35,36,21,},
 			judge_type = 2,
 		},
 		[25]=
 		{
 			id = 25,
-			condition_id = 1025,
-			condition_name = "item_id",
-			condition_value = 2,
+			condition_id = 25,
+			condition_name = "game_id",
+			condition_value = {2,3,4,5},
 			judge_type = 2,
 		},
 		[26]=
 		{
 			id = 26,
-			condition_id = 1026,
-			condition_name = "item_id",
-			condition_value = 3,
-			judge_type = 2,
+			condition_id = 25,
+			condition_name = "gun_rate",
+			condition_value = 500,
+			judge_type = 3,
 		},
 		[27]=
 		{
 			id = 27,
-			condition_id = 1027,
-			condition_name = "item_id",
-			condition_value = 5,
+			condition_id = 26,
+			condition_name = "fish_game_id",
+			condition_value = {2,3,4,5},
 			judge_type = 2,
 		},
 		[28]=
 		{
 			id = 28,
-			condition_id = 1028,
-			condition_name = "bet_spend",
-			condition_value = 5000,
+			condition_id = 26,
+			condition_name = "gun_rate",
+			condition_value = 500,
 			judge_type = 3,
 		},
 		[29]=
 		{
 			id = 29,
-			condition_id = 1029,
-			condition_name = "bet_spend",
-			condition_value = 30000,
+			condition_id = 27,
+			condition_name = "gun_rate",
+			condition_value = 500,
+			judge_type = 3,
+		},
+		[30]=
+		{
+			id = 30,
+			condition_id = 28,
+			condition_name = "base_fish_id",
+			condition_value = {12,},
+			judge_type = 2,
+		},
+		[31]=
+		{
+			id = 31,
+			condition_id = 28,
+			condition_name = "gun_rate",
+			condition_value = 500,
+			judge_type = 3,
+		},
+		[32]=
+		{
+			id = 32,
+			condition_id = 29,
+			condition_name = "base_fish_id",
+			condition_value = {13,},
+			judge_type = 2,
+		},
+		[33]=
+		{
+			id = 33,
+			condition_id = 29,
+			condition_name = "gun_rate",
+			condition_value = 500,
+			judge_type = 3,
+		},
+		[34]=
+		{
+			id = 34,
+			condition_id = 30,
+			condition_name = "base_fish_id",
+			condition_value = {13,},
+			judge_type = 3,
+		},
+		[35]=
+		{
+			id = 35,
+			condition_id = 30,
+			condition_name = "gun_rate",
+			condition_value = 500,
+			judge_type = 3,
+		},
+		[36]=
+		{
+			id = 36,
+			condition_id = 31,
+			condition_name = "base_fish_id",
+			condition_value = {15,},
+			judge_type = 3,
+		},
+		[37]=
+		{
+			id = 37,
+			condition_id = 31,
+			condition_name = "gun_rate",
+			condition_value = 500,
+			judge_type = 3,
+		},
+		[38]=
+		{
+			id = 38,
+			condition_id = 32,
+			condition_name = "base_fish_id",
+			condition_value = {22,},
+			judge_type = 2,
+		},
+		[39]=
+		{
+			id = 39,
+			condition_id = 32,
+			condition_name = "gun_rate",
+			condition_value = 500,
+			judge_type = 3,
+		},
+		[40]=
+		{
+			id = 40,
+			condition_id = 33,
+			condition_name = "base_fish_id",
+			condition_value = {23,},
+			judge_type = 2,
+		},
+		[41]=
+		{
+			id = 41,
+			condition_id = 33,
+			condition_name = "gun_rate",
+			condition_value = 500,
+			judge_type = 3,
+		},
+		[42]=
+		{
+			id = 42,
+			condition_id = 34,
+			condition_name = "base_fish_id",
+			condition_value = {26,},
+			judge_type = 2,
+		},
+		[43]=
+		{
+			id = 43,
+			condition_id = 34,
+			condition_name = "gun_rate",
+			condition_value = 500,
+			judge_type = 3,
+		},
+		[44]=
+		{
+			id = 44,
+			condition_id = 35,
+			condition_name = "base_fish_id",
+			condition_value = {27,},
+			judge_type = 2,
+		},
+		[45]=
+		{
+			id = 45,
+			condition_id = 35,
+			condition_name = "gun_rate",
+			condition_value = 500,
+			judge_type = 3,
+		},
+		[46]=
+		{
+			id = 46,
+			condition_id = 36,
+			condition_name = "base_fish_id",
+			condition_value = {28,29,30,31,32,33,34,35,36,21,},
+			judge_type = 2,
+		},
+		[47]=
+		{
+			id = 47,
+			condition_id = 36,
+			condition_name = "gun_rate",
+			condition_value = 500,
+			judge_type = 3,
+		},
+		[48]=
+		{
+			id = 48,
+			condition_id = 37,
+			condition_name = "base_fish_id",
+			condition_value = {38,40,41,43,46,47,48,49,},
+			judge_type = 2,
+		},
+		[49]=
+		{
+			id = 49,
+			condition_id = 37,
+			condition_name = "gun_rate",
+			condition_value = 500,
+			judge_type = 3,
+		},
+		[50]=
+		{
+			id = 50,
+			condition_id = 38,
+			condition_name = "game_id",
+			condition_value = {2,3,4,5},
+			judge_type = 2,
+		},
+		[51]=
+		{
+			id = 51,
+			condition_id = 38,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
+		},
+		[52]=
+		{
+			id = 52,
+			condition_id = 39,
+			condition_name = "fish_game_id",
+			condition_value = {2,3,4,5},
+			judge_type = 2,
+		},
+		[53]=
+		{
+			id = 53,
+			condition_id = 39,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
+		},
+		[54]=
+		{
+			id = 54,
+			condition_id = 40,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
+		},
+		[55]=
+		{
+			id = 55,
+			condition_id = 41,
+			condition_name = "base_fish_id",
+			condition_value = {14,},
+			judge_type = 2,
+		},
+		[56]=
+		{
+			id = 56,
+			condition_id = 41,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
+		},
+		[57]=
+		{
+			id = 57,
+			condition_id = 42,
+			condition_name = "base_fish_id",
+			condition_value = {15,},
+			judge_type = 2,
+		},
+		[58]=
+		{
+			id = 58,
+			condition_id = 42,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
+		},
+		[59]=
+		{
+			id = 59,
+			condition_id = 43,
+			condition_name = "base_fish_id",
+			condition_value = {16,},
+			judge_type = 2,
+		},
+		[60]=
+		{
+			id = 60,
+			condition_id = 43,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
+		},
+		[61]=
+		{
+			id = 61,
+			condition_id = 44,
+			condition_name = "base_fish_id",
+			condition_value = {15,},
+			judge_type = 2,
+		},
+		[62]=
+		{
+			id = 62,
+			condition_id = 44,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
+		},
+		[63]=
+		{
+			id = 63,
+			condition_id = 45,
+			condition_name = "base_fish_id",
+			condition_value = {18,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,38,40,41,43,46,47,48,49,50,},
+			judge_type = 2,
+		},
+		[64]=
+		{
+			id = 64,
+			condition_id = 45,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
+		},
+		[65]=
+		{
+			id = 65,
+			condition_id = 46,
+			condition_name = "base_fish_id",
+			condition_value = {25,},
+			judge_type = 2,
+		},
+		[66]=
+		{
+			id = 66,
+			condition_id = 46,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
+		},
+		[67]=
+		{
+			id = 67,
+			condition_id = 47,
+			condition_name = "base_fish_id",
+			condition_value = {27,},
+			judge_type = 2,
+		},
+		[68]=
+		{
+			id = 68,
+			condition_id = 47,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
+		},
+		[69]=
+		{
+			id = 69,
+			condition_id = 48,
+			condition_name = "base_fish_id",
+			condition_value = {48,},
+			judge_type = 2,
+		},
+		[70]=
+		{
+			id = 70,
+			condition_id = 48,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
+		},
+		[71]=
+		{
+			id = 71,
+			condition_id = 49,
+			condition_name = "base_fish_id",
+			condition_value = {20,22,23,24,25,26,27,},
+			judge_type = 2,
+		},
+		[72]=
+		{
+			id = 72,
+			condition_id = 49,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
+		},
+		[73]=
+		{
+			id = 73,
+			condition_id = 50,
+			condition_name = "base_fish_id",
+			condition_value = {28,29,30,31,32,33,34,35,36,21,},
+			judge_type = 2,
+		},
+		[74]=
+		{
+			id = 74,
+			condition_id = 50,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
+		},
+		[75]=
+		{
+			id = 75,
+			condition_id = 51,
+			condition_name = "game_id",
+			condition_value = {2,3,4,5},
+			judge_type = 2,
+		},
+		[76]=
+		{
+			id = 76,
+			condition_id = 51,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
+		},
+		[77]=
+		{
+			id = 77,
+			condition_id = 52,
+			condition_name = "fish_game_id",
+			condition_value = {2,3,4,5},
+			judge_type = 2,
+		},
+		[78]=
+		{
+			id = 78,
+			condition_id = 52,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
+		},
+		[79]=
+		{
+			id = 79,
+			condition_id = 53,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
+		},
+		[80]=
+		{
+			id = 80,
+			condition_id = 54,
+			condition_name = "base_fish_id",
+			condition_value = {17,},
+			judge_type = 2,
+		},
+		[81]=
+		{
+			id = 81,
+			condition_id = 54,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
+		},
+		[82]=
+		{
+			id = 82,
+			condition_id = 55,
+			condition_name = "base_fish_id",
+			condition_value = {18,},
+			judge_type = 2,
+		},
+		[83]=
+		{
+			id = 83,
+			condition_id = 55,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
+		},
+		[84]=
+		{
+			id = 84,
+			condition_id = 56,
+			condition_name = "base_fish_id",
+			condition_value = {23,26,27,28,29,30,31,32,33,34,35,36,38,40,41,43,46,47,48,49,50,},
+			judge_type = 2,
+		},
+		[85]=
+		{
+			id = 85,
+			condition_id = 56,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
+		},
+		[86]=
+		{
+			id = 86,
+			condition_id = 57,
+			condition_name = "base_fish_id",
+			condition_value = {15,},
+			judge_type = 2,
+		},
+		[87]=
+		{
+			id = 87,
+			condition_id = 57,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
+		},
+		[88]=
+		{
+			id = 88,
+			condition_id = 58,
+			condition_name = "base_fish_id",
+			condition_value = {22,23,25,26,27,28,29,30,31,32,33,34,35,36,38,40,41,43,46,47,48,49,50,},
+			judge_type = 2,
+		},
+		[89]=
+		{
+			id = 89,
+			condition_id = 58,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
+		},
+		[90]=
+		{
+			id = 90,
+			condition_id = 59,
+			condition_name = "base_fish_id",
+			condition_value = {25,},
+			judge_type = 2,
+		},
+		[91]=
+		{
+			id = 91,
+			condition_id = 59,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
+		},
+		[92]=
+		{
+			id = 92,
+			condition_id = 60,
+			condition_name = "base_fish_id",
+			condition_value = {27,},
+			judge_type = 2,
+		},
+		[93]=
+		{
+			id = 93,
+			condition_id = 60,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
+		},
+		[94]=
+		{
+			id = 94,
+			condition_id = 61,
+			condition_name = "base_fish_id",
+			condition_value = {38,40,41,43,46,47,48,49,},
+			judge_type = 2,
+		},
+		[95]=
+		{
+			id = 95,
+			condition_id = 61,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
+		},
+		[96]=
+		{
+			id = 96,
+			condition_id = 62,
+			condition_name = "base_fish_id",
+			condition_value = {20,22,23,24,25,26,27,},
+			judge_type = 2,
+		},
+		[97]=
+		{
+			id = 97,
+			condition_id = 62,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
+		},
+		[98]=
+		{
+			id = 98,
+			condition_id = 63,
+			condition_name = "base_fish_id",
+			condition_value = {28,29,30,31,32,33,34,35,36,21,},
+			judge_type = 2,
+		},
+		[99]=
+		{
+			id = 99,
+			condition_id = 63,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
+		},
+		[100]=
+		{
+			id = 100,
+			condition_id = 64,
+			condition_name = "game_id",
+			condition_value = {2,3,4,5},
+			judge_type = 2,
+		},
+		[101]=
+		{
+			id = 101,
+			condition_id = 64,
+			condition_name = "gun_rate",
+			condition_value = 10000,
+			judge_type = 3,
+		},
+		[102]=
+		{
+			id = 102,
+			condition_id = 65,
+			condition_name = "base_fish_id",
+			condition_value = {23,26,27,28,29,30,31,32,33,34,35,36,38,40,41,43,46,47,48,49,50,},
+			judge_type = 2,
+		},
+		[103]=
+		{
+			id = 103,
+			condition_id = 65,
+			condition_name = "gun_rate",
+			condition_value = 10000,
+			judge_type = 3,
+		},
+		[104]=
+		{
+			id = 104,
+			condition_id = 66,
+			condition_name = "base_fish_id",
+			condition_value = {38,40,41,43,46,47,48,49,},
+			judge_type = 2,
+		},
+		[105]=
+		{
+			id = 105,
+			condition_id = 66,
+			condition_name = "gun_rate",
+			condition_value = 10000,
+			judge_type = 3,
+		},
+		[106]=
+		{
+			id = 106,
+			condition_id = 67,
+			condition_name = "base_fish_id",
+			condition_value = {20,22,23,24,25,26,27,},
+			judge_type = 2,
+		},
+		[107]=
+		{
+			id = 107,
+			condition_id = 67,
+			condition_name = "gun_rate",
+			condition_value = 10000,
+			judge_type = 3,
+		},
+		[108]=
+		{
+			id = 108,
+			condition_id = 68,
+			condition_name = "gun_rate",
+			condition_value = 10000,
+			judge_type = 3,
+		},
+		[109]=
+		{
+			id = 109,
+			condition_id = 69,
+			condition_name = "base_fish_id",
+			condition_value = {28,29,30,31,32,33,34,35,36,21,},
+			judge_type = 2,
+		},
+		[110]=
+		{
+			id = 110,
+			condition_id = 69,
+			condition_name = "gun_rate",
+			condition_value = 10000,
 			judge_type = 3,
 		},
 	},
@@ -2231,15 +3024,15 @@ return {
 		[1]=
 		{
 			id = 1,
-			award_id = 1001,
-			asset_type = "jing_bi",
-			asset_count = 100,
+			award_id = 1,
+			asset_type = "fish_coin",
+			asset_count = 1000,
 			get_weight = 1,
 		},
 		[2]=
 		{
 			id = 2,
-			award_id = 1001,
+			award_id = 1,
 			asset_type = "_common_rank_ocean_explore_week_rank",
 			asset_count = 1,
 			get_weight = 1,
@@ -2247,7 +3040,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			award_id = 1001,
+			award_id = 1,
 			asset_type = "task_93",
 			asset_count = 1,
 			get_weight = 1,
@@ -2255,771 +3048,775 @@ return {
 		[4]=
 		{
 			id = 4,
-			award_id = 1002,
-			asset_type = "jing_bi",
-			asset_count = 2500,
+			award_id = 2,
+			asset_type = "fish_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[5]=
 		{
 			id = 5,
-			award_id = 1002,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 2,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[6]=
 		{
 			id = 6,
-			award_id = 1003,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			award_id = 2,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[7]=
 		{
 			id = 7,
-			award_id = 1003,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 3,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[8]=
 		{
 			id = 8,
-			award_id = 1004,
-			asset_type = "jing_bi",
-			asset_count = 2000,
+			award_id = 3,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[9]=
 		{
 			id = 9,
-			award_id = 1004,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 3,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[10]=
 		{
 			id = 10,
-			award_id = 1005,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			award_id = 4,
+			asset_type = "prop_3d_fish_frozen",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[11]=
 		{
 			id = 11,
-			award_id = 1005,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 4,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[12]=
 		{
 			id = 12,
-			award_id = 1006,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			award_id = 4,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[13]=
 		{
 			id = 13,
-			award_id = 1006,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 5,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[14]=
 		{
 			id = 14,
-			award_id = 1007,
-			asset_type = "jing_bi",
-			asset_count = 2500,
+			award_id = 5,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[15]=
 		{
 			id = 15,
-			award_id = 1007,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 5,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[16]=
 		{
 			id = 16,
-			award_id = 1008,
-			asset_type = "jing_bi",
-			asset_count = 30000,
+			award_id = 6,
+			asset_type = "prop_3d_fish_frozen",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[17]=
 		{
 			id = 17,
-			award_id = 1008,
-			asset_type = "task_13000",
-			asset_count = 50,
+			award_id = 6,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[18]=
 		{
 			id = 18,
-			award_id = 1009,
-			asset_type = "jing_bi",
-			asset_count = 5000,
+			award_id = 6,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[19]=
 		{
 			id = 19,
-			award_id = 1009,
-			asset_type = "task_13000",
-			asset_count = 20,
+			award_id = 7,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[20]=
 		{
 			id = 20,
-			award_id = 1010,
-			asset_type = "obj_3d_50flq_86400",
+			award_id = 7,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[21]=
 		{
 			id = 21,
-			award_id = 1010,
-			asset_type = "task_13000",
-			asset_count = 20,
+			award_id = 7,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[22]=
 		{
 			id = 22,
-			award_id = 1011,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			award_id = 8,
+			asset_type = "prop_3d_fish_frozen",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[23]=
 		{
 			id = 23,
-			award_id = 1011,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 8,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[24]=
 		{
 			id = 24,
-			award_id = 1012,
-			asset_type = "jing_bi",
-			asset_count = 30000,
+			award_id = 8,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[25]=
 		{
 			id = 25,
-			award_id = 1012,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 9,
+			asset_type = "fish_coin",
+			asset_count = 1000,
 			get_weight = 1,
 		},
 		[26]=
 		{
 			id = 26,
-			award_id = 1013,
-			asset_type = "jing_bi",
-			asset_count = 5000,
+			award_id = 9,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[27]=
 		{
 			id = 27,
-			award_id = 1013,
-			asset_type = "task_13000",
-			asset_count = 20,
+			award_id = 9,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[28]=
 		{
 			id = 28,
-			award_id = 1014,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			award_id = 10,
+			asset_type = "fish_coin",
+			asset_count = 1000,
 			get_weight = 1,
 		},
 		[29]=
 		{
 			id = 29,
-			award_id = 1014,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 10,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[30]=
 		{
 			id = 30,
-			award_id = 1015,
-			asset_type = "jing_bi",
-			asset_count = 15000,
+			award_id = 10,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[31]=
 		{
 			id = 31,
-			award_id = 1015,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 11,
+			asset_type = "fish_coin",
+			asset_count = 1000,
 			get_weight = 1,
 		},
 		[32]=
 		{
 			id = 32,
-			award_id = 1016,
-			asset_type = "jing_bi",
-			asset_count = 50000,
+			award_id = 11,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[33]=
 		{
 			id = 33,
-			award_id = 1016,
-			asset_type = "task_13000",
-			asset_count = 50,
+			award_id = 11,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[34]=
 		{
 			id = 34,
-			award_id = 1017,
-			asset_type = "jing_bi",
-			asset_count = 15000,
+			award_id = 12,
+			asset_type = "fish_coin",
+			asset_count = 1000,
 			get_weight = 1,
 		},
 		[35]=
 		{
 			id = 35,
-			award_id = 1017,
-			asset_type = "task_13000",
-			asset_count = 20,
+			award_id = 12,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[36]=
 		{
 			id = 36,
-			award_id = 1018,
-			asset_type = "obj_3d_200flq_86400",
+			award_id = 12,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[37]=
 		{
 			id = 37,
-			award_id = 1018,
-			asset_type = "task_13000",
-			asset_count = 20,
+			award_id = 13,
+			asset_type = "fish_coin",
+			asset_count = 1000,
 			get_weight = 1,
 		},
 		[38]=
 		{
 			id = 38,
-			award_id = 1019,
-			asset_type = "jing_bi",
-			asset_count = 150000,
+			award_id = 13,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[39]=
 		{
 			id = 39,
-			award_id = 1019,
-			asset_type = "task_13000",
-			asset_count = 50,
+			award_id = 13,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[40]=
 		{
 			id = 40,
-			award_id = 1020,
-			asset_type = "jing_bi",
-			asset_count = 20000,
+			award_id = 14,
+			asset_type = "fish_coin",
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[41]=
 		{
 			id = 41,
-			award_id = 1020,
-			asset_type = "task_13000",
-			asset_count = 20,
+			award_id = 14,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[42]=
 		{
 			id = 42,
-			award_id = 1021,
-			asset_type = "jing_bi",
-			asset_count = 50000,
+			award_id = 14,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[43]=
 		{
 			id = 43,
-			award_id = 1021,
-			asset_type = "task_13000",
-			asset_count = 20,
+			award_id = 15,
+			asset_type = "fish_coin",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[44]=
 		{
 			id = 44,
-			award_id = 1022,
-			asset_type = "jing_bi",
-			asset_count = 15000,
+			award_id = 15,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[45]=
 		{
 			id = 45,
-			award_id = 1022,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 15,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[46]=
 		{
 			id = 46,
-			award_id = 1023,
-			asset_type = "jing_bi",
-			asset_count = 500000,
+			award_id = 16,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 5,
 			get_weight = 1,
 		},
 		[47]=
 		{
 			id = 47,
-			award_id = 1023,
-			asset_type = "task_13000",
-			asset_count = 50,
+			award_id = 16,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[48]=
 		{
 			id = 48,
-			award_id = 1024,
-			asset_type = "jing_bi",
-			asset_count = 50000,
+			award_id = 16,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[49]=
 		{
 			id = 49,
-			award_id = 1024,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 17,
+			asset_type = "prop_3d_fish_frozen",
+			asset_count = 5,
 			get_weight = 1,
 		},
 		[50]=
 		{
 			id = 50,
-			award_id = 1025,
-			asset_type = "jing_bi",
-			asset_count = 80000,
+			award_id = 17,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[51]=
 		{
 			id = 51,
-			award_id = 1025,
-			asset_type = "task_13000",
-			asset_count = 20,
+			award_id = 17,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[52]=
 		{
 			id = 52,
-			award_id = 1026,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			award_id = 18,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 5,
 			get_weight = 1,
 		},
 		[53]=
 		{
 			id = 53,
-			award_id = 1026,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 18,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[54]=
 		{
 			id = 54,
-			award_id = 1027,
-			asset_type = "obj_3d_500flq_86400",
+			award_id = 18,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[55]=
 		{
 			id = 55,
-			award_id = 1027,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 19,
+			asset_type = "prop_3d_fish_frozen",
+			asset_count = 5,
 			get_weight = 1,
 		},
 		[56]=
 		{
 			id = 56,
-			award_id = 1028,
-			asset_type = "obj_3d_1000flq_86400",
+			award_id = 19,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[57]=
 		{
 			id = 57,
-			award_id = 1028,
-			asset_type = "task_13000",
-			asset_count = 20,
+			award_id = 19,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[58]=
 		{
 			id = 58,
-			award_id = 1029,
-			asset_type = "shop_gold_sum",
-			asset_count = 30,
+			award_id = 20,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 5,
 			get_weight = 1,
 		},
 		[59]=
 		{
 			id = 59,
-			award_id = 1029,
-			asset_type = "task_13000",
-			asset_count = 30,
+			award_id = 20,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[60]=
 		{
 			id = 60,
-			award_id = 1030,
-			asset_type = "shop_gold_sum",
-			asset_count = 30,
+			award_id = 20,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[61]=
 		{
 			id = 61,
-			award_id = 1030,
-			asset_type = "task_13000",
-			asset_count = 50,
+			award_id = 21,
+			asset_type = "prop_3d_fish_frozen",
+			asset_count = 5,
 			get_weight = 1,
 		},
 		[62]=
 		{
 			id = 62,
-			award_id = 1031,
-			asset_type = "shop_gold_sum",
-			asset_count = 50,
+			award_id = 21,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[63]=
 		{
 			id = 63,
-			award_id = 1031,
-			asset_type = "task_13000",
-			asset_count = 50,
+			award_id = 21,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[64]=
 		{
 			id = 64,
-			award_id = 1032,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
+			award_id = 22,
+			asset_type = "fish_coin",
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[65]=
 		{
 			id = 65,
-			award_id = 1032,
-			asset_type = "task_13000",
-			asset_count = 50,
+			award_id = 22,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[66]=
 		{
 			id = 66,
-			award_id = 1033,
-			asset_type = "shop_gold_sum",
-			asset_count = 500,
+			award_id = 22,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[67]=
 		{
 			id = 67,
-			award_id = 1033,
-			asset_type = "task_13000",
-			asset_count = 50,
+			award_id = 23,
+			asset_type = "fish_coin",
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[68]=
 		{
 			id = 68,
-			award_id = 1034,
-			asset_type = "jing_bi",
-			asset_count = 2000,
+			award_id = 23,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[69]=
 		{
 			id = 69,
-			award_id = 1034,
-			asset_type = "task_12999",
-			asset_count = 5,
+			award_id = 23,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[70]=
 		{
 			id = 70,
-			award_id = 1035,
-			asset_type = "jing_bi",
-			asset_count = 5000,
+			award_id = 24,
+			asset_type = "fish_coin",
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[71]=
 		{
 			id = 71,
-			award_id = 1035,
-			asset_type = "task_12999",
-			asset_count = 5,
+			award_id = 24,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[72]=
 		{
 			id = 72,
-			award_id = 1036,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			award_id = 24,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[73]=
 		{
 			id = 73,
-			award_id = 1036,
-			asset_type = "task_12999",
-			asset_count = 10,
+			award_id = 25,
+			asset_type = "fish_coin",
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[74]=
 		{
 			id = 74,
-			award_id = 1037,
-			asset_type = "jing_bi",
-			asset_count = 20000,
+			award_id = 25,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[75]=
 		{
 			id = 75,
-			award_id = 1037,
-			asset_type = "task_12999",
-			asset_count = 10,
+			award_id = 25,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[76]=
 		{
 			id = 76,
-			award_id = 1038,
-			asset_type = "jing_bi",
-			asset_count = 30000,
+			award_id = 26,
+			asset_type = "fish_coin",
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[77]=
 		{
 			id = 77,
-			award_id = 1038,
-			asset_type = "task_12999",
-			asset_count = 10,
+			award_id = 26,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[78]=
 		{
 			id = 78,
-			award_id = 1039,
-			asset_type = "jing_bi",
-			asset_count = 20000,
+			award_id = 26,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[79]=
 		{
 			id = 79,
-			award_id = 1039,
-			asset_type = "_common_rank_xxxx",
-			asset_count = 1,
+			award_id = 27,
+			asset_type = "fish_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[80]=
 		{
 			id = 80,
-			award_id = 1040,
-			asset_type = "jing_bi",
-			asset_count = 30000,
+			award_id = 27,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[81]=
 		{
 			id = 81,
-			award_id = 1040,
-			asset_type = "task_12999",
-			asset_count = 30,
+			award_id = 27,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[82]=
 		{
 			id = 82,
-			award_id = 1041,
-			asset_type = "jing_bi",
-			asset_count = 200,
+			award_id = 28,
+			asset_type = "fish_coin",
+			asset_count = 20000,
 			get_weight = 1,
 		},
 		[83]=
 		{
 			id = 83,
-			award_id = 1041,
-			asset_type = "task_12999",
-			asset_count = 5,
+			award_id = 28,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[84]=
 		{
 			id = 84,
-			award_id = 1042,
-			asset_type = "jing_bi",
-			asset_count = 1000,
+			award_id = 28,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[85]=
 		{
 			id = 85,
-			award_id = 1042,
-			asset_type = "task_12999",
-			asset_count = 5,
+			award_id = 29,
+			asset_type = "fish_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[86]=
 		{
 			id = 86,
-			award_id = 1043,
-			asset_type = "jing_bi",
-			asset_count = 2000,
+			award_id = 29,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[87]=
 		{
 			id = 87,
-			award_id = 1043,
-			asset_type = "task_12999",
-			asset_count = 10,
+			award_id = 29,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[88]=
 		{
 			id = 88,
-			award_id = 1044,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			award_id = 30,
+			asset_type = "fish_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[89]=
 		{
 			id = 89,
-			award_id = 1044,
-			asset_type = "task_12999",
-			asset_count = 10,
+			award_id = 30,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[90]=
 		{
 			id = 90,
-			award_id = 1045,
-			asset_type = "jing_bi",
-			asset_count = 20000,
+			award_id = 30,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[91]=
 		{
 			id = 91,
-			award_id = 1045,
-			asset_type = "task_12999",
-			asset_count = 10,
+			award_id = 31,
+			asset_type = "fish_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[92]=
 		{
 			id = 92,
-			award_id = 1046,
-			asset_type = "jing_bi",
-			asset_count = 100000,
+			award_id = 31,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[93]=
 		{
 			id = 93,
-			award_id = 1046,
-			asset_type = "task_12999",
-			asset_count = 20,
+			award_id = 31,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[94]=
 		{
 			id = 94,
-			award_id = 1047,
-			asset_type = "jing_bi",
-			asset_count = 200000,
+			award_id = 32,
+			asset_type = "fish_coin",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[95]=
 		{
 			id = 95,
-			award_id = 1047,
-			asset_type = "task_12999",
-			asset_count = 30,
+			award_id = 32,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[96]=
 		{
 			id = 96,
-			award_id = 2001,
-			asset_type = "fish_coin",
-			asset_count = 5000,
+			award_id = 32,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[97]=
 		{
 			id = 97,
-			award_id = 2001,
-			asset_type = "prop_3d_fish_lock",
-			asset_count = 2,
+			award_id = 33,
+			asset_type = "fish_coin",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[98]=
 		{
 			id = 98,
-			award_id = 2002,
-			asset_type = "fish_coin",
-			asset_count = 10000,
+			award_id = 33,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[99]=
 		{
 			id = 99,
-			award_id = 2002,
-			asset_type = "prop_3d_fish_summon_fish",
+			award_id = 33,
+			asset_type = "task_93",
 			asset_count = 1,
 			get_weight = 1,
 		},
 		[100]=
 		{
 			id = 100,
-			award_id = 2003,
+			award_id = 34,
 			asset_type = "fish_coin",
 			asset_count = 10000,
 			get_weight = 1,
@@ -3027,97 +3824,905 @@ return {
 		[101]=
 		{
 			id = 101,
-			award_id = 2003,
-			asset_type = "prop_tiny_game_coin",
-			asset_count = 10000,
+			award_id = 34,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[102]=
 		{
 			id = 102,
-			award_id = 2004,
-			asset_type = "fish_coin",
-			asset_count = 10000,
+			award_id = 34,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[103]=
 		{
 			id = 103,
-			award_id = 2004,
-			asset_type = "jing_bi",
+			award_id = 35,
+			asset_type = "fish_coin",
 			asset_count = 10000,
 			get_weight = 1,
 		},
 		[104]=
 		{
 			id = 104,
-			award_id = 2005,
-			asset_type = "jing_bi",
-			asset_count = 60000,
+			award_id = 35,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[105]=
 		{
 			id = 105,
-			award_id = 2006,
-			asset_type = "prop_tiny_game_coin",
-			asset_count = 5000,
+			award_id = 35,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[106]=
 		{
 			id = 106,
-			award_id = 2007,
-			asset_type = "prop_hammer_1",
-			asset_count = 1,
+			award_id = 36,
+			asset_type = "fish_coin",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[107]=
 		{
 			id = 107,
-			award_id = 2007,
-			asset_type = "prop_tiny_game_coin",
-			asset_count = 10000,
+			award_id = 36,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[108]=
 		{
 			id = 108,
-			award_id = 2008,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			award_id = 36,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[109]=
 		{
 			id = 109,
-			award_id = 2008,
-			asset_type = "prop_tiny_game_coin",
+			award_id = 37,
+			asset_type = "fish_coin",
 			asset_count = 10000,
 			get_weight = 1,
 		},
 		[110]=
 		{
 			id = 110,
-			award_id = 2009,
-			asset_type = "prop_tiny_game_coin",
-			asset_count = 20000,
+			award_id = 37,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[111]=
 		{
 			id = 111,
-			award_id = 2009,
-			asset_type = "jing_bi",
-			asset_count = 20000,
+			award_id = 37,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[112]=
 		{
 			id = 112,
-			award_id = 2010,
-			asset_type = "jing_bi",
+			award_id = 38,
+			asset_type = "fish_coin",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[113]=
+		{
+			id = 113,
+			award_id = 38,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[114]=
+		{
+			id = 114,
+			award_id = 38,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[115]=
+		{
+			id = 115,
+			award_id = 39,
+			asset_type = "fish_coin",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[116]=
+		{
+			id = 116,
+			award_id = 39,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[117]=
+		{
+			id = 117,
+			award_id = 39,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[118]=
+		{
+			id = 118,
+			award_id = 40,
+			asset_type = "fish_coin",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[119]=
+		{
+			id = 119,
+			award_id = 40,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[120]=
+		{
+			id = 120,
+			award_id = 40,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[121]=
+		{
+			id = 121,
+			award_id = 41,
+			asset_type = "fish_coin",
+			asset_count = 30000,
+			get_weight = 1,
+		},
+		[122]=
+		{
+			id = 122,
+			award_id = 41,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[123]=
+		{
+			id = 123,
+			award_id = 41,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[124]=
+		{
+			id = 124,
+			award_id = 42,
+			asset_type = "fish_coin",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[125]=
+		{
+			id = 125,
+			award_id = 42,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[126]=
+		{
+			id = 126,
+			award_id = 42,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[127]=
+		{
+			id = 127,
+			award_id = 43,
+			asset_type = "fish_coin",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[128]=
+		{
+			id = 128,
+			award_id = 43,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[129]=
+		{
+			id = 129,
+			award_id = 43,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[130]=
+		{
+			id = 130,
+			award_id = 44,
+			asset_type = "fish_coin",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[131]=
+		{
+			id = 131,
+			award_id = 44,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[132]=
+		{
+			id = 132,
+			award_id = 44,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[133]=
+		{
+			id = 133,
+			award_id = 45,
+			asset_type = "fish_coin",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[134]=
+		{
+			id = 134,
+			award_id = 45,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[135]=
+		{
+			id = 135,
+			award_id = 45,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[136]=
+		{
+			id = 136,
+			award_id = 46,
+			asset_type = "fish_coin",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[137]=
+		{
+			id = 137,
+			award_id = 46,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[138]=
+		{
+			id = 138,
+			award_id = 46,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[139]=
+		{
+			id = 139,
+			award_id = 47,
+			asset_type = "fish_coin",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[140]=
+		{
+			id = 140,
+			award_id = 47,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[141]=
+		{
+			id = 141,
+			award_id = 47,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[142]=
+		{
+			id = 142,
+			award_id = 48,
+			asset_type = "fish_coin",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[143]=
+		{
+			id = 143,
+			award_id = 48,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[144]=
+		{
+			id = 144,
+			award_id = 48,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[145]=
+		{
+			id = 145,
+			award_id = 49,
+			asset_type = "fish_coin",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[146]=
+		{
+			id = 146,
+			award_id = 49,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[147]=
+		{
+			id = 147,
+			award_id = 49,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[148]=
+		{
+			id = 148,
+			award_id = 50,
+			asset_type = "fish_coin",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[149]=
+		{
+			id = 149,
+			award_id = 50,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[150]=
+		{
+			id = 150,
+			award_id = 50,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[151]=
+		{
+			id = 151,
+			award_id = 51,
+			asset_type = "fish_coin",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[152]=
+		{
+			id = 152,
+			award_id = 51,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[153]=
+		{
+			id = 153,
+			award_id = 51,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[154]=
+		{
+			id = 154,
+			award_id = 52,
+			asset_type = "fish_coin",
+			asset_count = 30000,
+			get_weight = 1,
+		},
+		[155]=
+		{
+			id = 155,
+			award_id = 52,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[156]=
+		{
+			id = 156,
+			award_id = 52,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[157]=
+		{
+			id = 157,
+			award_id = 53,
+			asset_type = "fish_coin",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[158]=
+		{
+			id = 158,
+			award_id = 53,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[159]=
+		{
+			id = 159,
+			award_id = 53,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[160]=
+		{
+			id = 160,
+			award_id = 54,
+			asset_type = "fish_coin",
 			asset_count = 50000,
+			get_weight = 1,
+		},
+		[161]=
+		{
+			id = 161,
+			award_id = 54,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[162]=
+		{
+			id = 162,
+			award_id = 54,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[163]=
+		{
+			id = 163,
+			award_id = 55,
+			asset_type = "fish_coin",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[164]=
+		{
+			id = 164,
+			award_id = 55,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[165]=
+		{
+			id = 165,
+			award_id = 55,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[166]=
+		{
+			id = 166,
+			award_id = 56,
+			asset_type = "fish_coin",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[167]=
+		{
+			id = 167,
+			award_id = 56,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[168]=
+		{
+			id = 168,
+			award_id = 56,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[169]=
+		{
+			id = 169,
+			award_id = 57,
+			asset_type = "fish_coin",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[170]=
+		{
+			id = 170,
+			award_id = 57,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[171]=
+		{
+			id = 171,
+			award_id = 57,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[172]=
+		{
+			id = 172,
+			award_id = 58,
+			asset_type = "fish_coin",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[173]=
+		{
+			id = 173,
+			award_id = 58,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[174]=
+		{
+			id = 174,
+			award_id = 58,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[175]=
+		{
+			id = 175,
+			award_id = 59,
+			asset_type = "fish_coin",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[176]=
+		{
+			id = 176,
+			award_id = 59,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[177]=
+		{
+			id = 177,
+			award_id = 59,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[178]=
+		{
+			id = 178,
+			award_id = 60,
+			asset_type = "fish_coin",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[179]=
+		{
+			id = 179,
+			award_id = 60,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[180]=
+		{
+			id = 180,
+			award_id = 60,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[181]=
+		{
+			id = 181,
+			award_id = 61,
+			asset_type = "fish_coin",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[182]=
+		{
+			id = 182,
+			award_id = 61,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[183]=
+		{
+			id = 183,
+			award_id = 61,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[184]=
+		{
+			id = 184,
+			award_id = 62,
+			asset_type = "fish_coin",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[185]=
+		{
+			id = 185,
+			award_id = 62,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[186]=
+		{
+			id = 186,
+			award_id = 62,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[187]=
+		{
+			id = 187,
+			award_id = 63,
+			asset_type = "fish_coin",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[188]=
+		{
+			id = 188,
+			award_id = 63,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[189]=
+		{
+			id = 189,
+			award_id = 63,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[190]=
+		{
+			id = 190,
+			award_id = 64,
+			asset_type = "fish_coin",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[191]=
+		{
+			id = 191,
+			award_id = 64,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[192]=
+		{
+			id = 192,
+			award_id = 64,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[193]=
+		{
+			id = 193,
+			award_id = 65,
+			asset_type = "fish_coin",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[194]=
+		{
+			id = 194,
+			award_id = 65,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[195]=
+		{
+			id = 195,
+			award_id = 65,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[196]=
+		{
+			id = 196,
+			award_id = 66,
+			asset_type = "fish_coin",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[197]=
+		{
+			id = 197,
+			award_id = 66,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[198]=
+		{
+			id = 198,
+			award_id = 66,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[199]=
+		{
+			id = 199,
+			award_id = 67,
+			asset_type = "fish_coin",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[200]=
+		{
+			id = 200,
+			award_id = 67,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[201]=
+		{
+			id = 201,
+			award_id = 67,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[202]=
+		{
+			id = 202,
+			award_id = 68,
+			asset_type = "fish_coin",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[203]=
+		{
+			id = 203,
+			award_id = 68,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[204]=
+		{
+			id = 204,
+			award_id = 68,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[205]=
+		{
+			id = 205,
+			award_id = 69,
+			asset_type = "fish_coin",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[206]=
+		{
+			id = 206,
+			award_id = 69,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[207]=
+		{
+			id = 207,
+			award_id = 69,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[208]=
+		{
+			id = 208,
+			award_id = 70,
+			asset_type = "fish_coin",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[209]=
+		{
+			id = 209,
+			award_id = 70,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[210]=
+		{
+			id = 210,
+			award_id = 70,
+			asset_type = "task_93",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[211]=
+		{
+			id = 211,
+			award_id = 71,
+			asset_type = "fish_coin",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[212]=
+		{
+			id = 212,
+			award_id = 71,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[213]=
+		{
+			id = 213,
+			award_id = 71,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
