@@ -475,7 +475,7 @@ return {
 			id = 32,
 			source_id = 16,
 			source_type = "guess_apple_award",
-			condtion_id = 0.500000,
+			source_discount = 0.500000,
 		},
 		[33]=
 		{
