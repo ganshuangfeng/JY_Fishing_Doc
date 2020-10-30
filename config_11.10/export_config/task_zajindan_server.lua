@@ -7323,6 +7323,20 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
+		[1000114]=
+		{
+			id = 1000114,
+			enable = 1,
+			name = "新人七天乐总任务",
+			own_type = "new_player_seven_day_1",
+			task_enum = "common",
+			process_id = 21472,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1604937600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -12298,6 +12312,14 @@ return {
 			source_id = 515,
 			process = 3,
 			awards = 771,
+			get_award_type = "nor",
+		},
+		[524]=
+		{
+			id = 524,
+			process_id = 21472,
+			process = {10,40,100,150,100,100},
+			awards = 772773774775776000,
 			get_award_type = "nor",
 		},
 	},
@@ -30820,6 +30842,54 @@ return {
 			award_id = 771,
 			asset_type = "task_1000114",
 			asset_count = 20,
+			get_weight = 1,
+		},
+		[1183]=
+		{
+			id = 1183,
+			award_id = 772,
+			asset_type = "gun_barrel_6",
+			asset_count = "259200‬",
+			get_weight = 1,
+		},
+		[1184]=
+		{
+			id = 1184,
+			award_id = 773,
+			asset_type = "prop_3d_fish_nuclear_bomb_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1185]=
+		{
+			id = 1185,
+			award_id = 774,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[1186]=
+		{
+			id = 1186,
+			award_id = 775,
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[1187]=
+		{
+			id = 1187,
+			award_id = 776,
+			asset_type = "shop_gold_sum",
+			asset_count = 3000,
+			get_weight = 1,
+		},
+		[1188]=
+		{
+			id = 1188,
+			award_id = 777,
+			award_name = "50京东卡",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
