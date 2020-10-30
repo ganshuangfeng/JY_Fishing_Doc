@@ -335,7 +335,7 @@ return {
 			goto_scene = "game_MiniGame",
 		},
 	},
-	jifen=
+	day8=
 	{
 		[1]=
 		{
