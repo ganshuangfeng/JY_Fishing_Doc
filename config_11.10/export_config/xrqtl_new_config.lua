@@ -8,6 +8,7 @@ return {
 			task_info = "等级达到3级",
 			task_award_image = {{"ty_icon_jb_6y","ty_icon_hytb"}},
 			task_award_number = {{"x500","x5"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[2]=
 		{
@@ -16,6 +17,7 @@ return {
 			task_info = "等级达到6级",
 			task_award_image = {{"ty_icon_jb_15y","ty_icon_hytb"}},
 			task_award_number = {{"x1000","x5"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[3]=
 		{
@@ -24,6 +26,7 @@ return {
 			task_info = "等级达到8级",
 			task_award_image = {{"ty_icon_jb_15y","ty_icon_hytb"}},
 			task_award_number = {{"x1000","x5"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[4]=
 		{
@@ -32,6 +35,7 @@ return {
 			task_info = "等级达到10级",
 			task_award_image = {{"ty_icon_jb_15y","ty_icon_hytb"}},
 			task_award_number = {{"x1000","x5"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[5]=
 		{
@@ -40,6 +44,7 @@ return {
 			task_info = "等级达到13级",
 			task_award_image = {{"ty_icon_jb_18y","ty_icon_hytb"}},
 			task_award_number = {{"x2000","x10"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 	},
 	day2=
@@ -51,6 +56,7 @@ return {
 			task_info = "累计捕获任意鱼100条",
 			task_award_image = {{"ty_icon_jb_15y","ty_icon_hytb"}},
 			task_award_number = {{"x1000","x5"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[2]=
 		{
@@ -59,6 +65,7 @@ return {
 			task_info = "累计捕获任意鱼300条",
 			task_award_image = {{"ty_icon_jb_18y","ty_icon_hytb"}},
 			task_award_number = {{"x2000","x10"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[3]=
 		{
@@ -67,6 +74,7 @@ return {
 			task_info = "累计捕获任意鱼500条",
 			task_award_image = {{"ty_icon_jb_18y","ty_icon_hytb"}},
 			task_award_number = {{"x2000","x10"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[4]=
 		{
@@ -75,6 +83,7 @@ return {
 			task_info = "累计捕获任意鱼1000条",
 			task_award_image = {{"ty_icon_jb_30y","ty_icon_hytb"}},
 			task_award_number = {{"x5000","x10"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[5]=
 		{
@@ -83,6 +92,7 @@ return {
 			task_info = "累计捕获任意鱼2000条",
 			task_award_image = {{"ty_icon_jb_98y","ty_icon_hytb"}},
 			task_award_number = {{"x8000","x20"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 	},
 	day3=
@@ -94,6 +104,7 @@ return {
 			task_info = "累计使用锁定卡3次",
 			task_award_image = {{"ty_icon_jb_6y","ty_icon_hytb"}},
 			task_award_number = {{"x500","x5"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[2]=
 		{
@@ -102,6 +113,7 @@ return {
 			task_info = "累计使用冰冻卡3次",
 			task_award_image = {{"ty_icon_jb_6y","ty_icon_hytb"}},
 			task_award_number = {{"x500","x5"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[3]=
 		{
@@ -110,6 +122,7 @@ return {
 			task_info = "累计使用召唤卡3次",
 			task_award_image = {{"ty_icon_jb_6y","ty_icon_hytb"}},
 			task_award_number = {{"x500","x5"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[4]=
 		{
@@ -118,6 +131,7 @@ return {
 			task_info = "累计使用锁定卡10次",
 			task_award_image = {{"ty_icon_jb_15y","ty_icon_hytb"}},
 			task_award_number = {{"x1000","x10"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[5]=
 		{
@@ -126,6 +140,7 @@ return {
 			task_info = "累计使用冰冻卡10次",
 			task_award_image = {{"ty_icon_jb_15y","ty_icon_hytb"}},
 			task_award_number = {{"x1000","x10"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 	},
 	day4=
@@ -137,6 +152,7 @@ return {
 			task_info = "累计进行彩金鱼抽奖2次",
 			task_award_image = {{"ty_icon_jb_15y","ty_icon_hytb"}},
 			task_award_number = {{"x1000","x5"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[2]=
 		{
@@ -145,6 +161,7 @@ return {
 			task_info = "累计进行彩金鱼抽奖5次",
 			task_award_image = {{"ty_icon_jb_18y","ty_icon_hytb"}},
 			task_award_number = {{"x2000","x10"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[3]=
 		{
@@ -153,6 +170,7 @@ return {
 			task_info = "累计进行彩金鱼抽奖10次",
 			task_award_image = {{"ty_icon_jb_18y","ty_icon_hytb"}},
 			task_award_number = {{"x3000","x10"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[4]=
 		{
@@ -161,6 +179,7 @@ return {
 			task_info = "累计进行彩金鱼抽奖20次",
 			task_award_image = {{"ty_icon_jb_30y","ty_icon_hytb"}},
 			task_award_number = {{"x4000","x10"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[5]=
 		{
@@ -169,6 +188,7 @@ return {
 			task_info = "累计进行彩金鱼抽奖35次",
 			task_award_image = {{"ty_icon_jb_98y","ty_icon_hytb"}},
 			task_award_number = {{"x10000","x30"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 	},
 	day5=
@@ -180,6 +200,7 @@ return {
 			task_info = "累计捕获2只深海狂鲨",
 			task_award_image = {{"ty_icon_jb_18y","ty_icon_hytb"}},
 			task_award_number = {{"x3000","x10"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[2]=
 		{
@@ -188,6 +209,7 @@ return {
 			task_info = "累计捕获2只宝藏鳄鱼",
 			task_award_image = {{"ty_icon_jb_18y","ty_icon_hytb"}},
 			task_award_number = {{"x3000","x10"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[3]=
 		{
@@ -196,6 +218,7 @@ return {
 			task_info = "累计捕获5只宝藏鳄鱼",
 			task_award_image = {{"ty_icon_jb_98y","ty_icon_hytb"}},
 			task_award_number = {{"x8000","x20"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[4]=
 		{
@@ -204,6 +227,7 @@ return {
 			task_info = "累计捕获10只宝藏鳄鱼",
 			task_award_image = {{"ty_icon_jb_98y","ty_icon_hytb"}},
 			task_award_number = {{"x10000","x40"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[5]=
 		{
@@ -212,6 +236,7 @@ return {
 			task_info = "累计捕获20只宝藏鳄鱼",
 			task_award_image = {{"ty_icon_jb_198y","ty_icon_hytb"}},
 			task_award_number = {{"x20000","x80"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 	},
 	day6=
@@ -220,41 +245,46 @@ return {
 		{
 			ID = 1,
 			task_id = 1000104,
-			task_info = "3d捕鱼累计开炮抽取福利券500",
+			task_info = "3D捕鱼累计开炮抽取福利券500",
 			task_award_image = {{"ty_icon_jb_18y","ty_icon_hytb"}},
 			task_award_number = {{"x3000","x10"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[2]=
 		{
 			ID = 2,
 			task_id = 1000105,
-			task_info = "3d捕鱼累计开炮抽取福利券800",
+			task_info = "3D捕鱼累计开炮抽取福利券800",
 			task_award_image = {{"ty_icon_jb_30y","ty_icon_hytb"}},
 			task_award_number = {{"x5000","x10"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[3]=
 		{
 			ID = 3,
 			task_id = 1000106,
-			task_info = "3d捕鱼累计开炮抽取福利券1000",
+			task_info = "3D捕鱼累计开炮抽取福利券1000",
 			task_award_image = {{"ty_icon_jb_98y","ty_icon_hytb"}},
 			task_award_number = {{"x8000","x20"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[4]=
 		{
 			ID = 4,
 			task_id = 1000107,
-			task_info = "3d捕鱼累计开炮抽取福利券2000",
+			task_info = "3D捕鱼累计开炮抽取福利券2000",
 			task_award_image = {{"ty_icon_jb_98y","ty_icon_hytb"}},
 			task_award_number = {{"x10000","x20"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 		[5]=
 		{
 			ID = 5,
 			task_id = 1000108,
-			task_info = "3d捕鱼累计开炮抽取福利券3000",
+			task_info = "3D捕鱼累计开炮抽取福利券3000",
 			task_award_image = {{"ty_icon_jb_198y","ty_icon_hytb"}},
 			task_award_number = {{"x20000","x30"}},
+			goto_scene = "game_Fishing3DHall",
 		},
 	},
 	day7=
@@ -266,6 +296,7 @@ return {
 			task_info = "水果消消乐投入96万及以上档次出现1次幸运时刻",
 			task_award_image = {{"ty_icon_jb_6y","ty_icon_hytb"}},
 			task_award_number = {{"x1000","x10"}},
+			goto_scene = "game_MiniGame",
 		},
 		[2]=
 		{
@@ -274,6 +305,7 @@ return {
 			task_info = "水浒消消乐投入96万及以上档次出现1次英雄",
 			task_award_image = {{"ty_icon_jb_98y","ty_icon_hytb"}},
 			task_award_number = {{"x10000","x10"}},
+			goto_scene = "game_MiniGame",
 		},
 		[3]=
 		{
@@ -282,6 +314,7 @@ return {
 			task_info = "水果消消乐投入96万及以上档次出现3次幸运时刻",
 			task_award_image = {{"ty_icon_jb_198y","ty_icon_hytb"}},
 			task_award_number = {{"x20000","x20"}},
+			goto_scene = "game_MiniGame",
 		},
 		[4]=
 		{
@@ -290,6 +323,7 @@ return {
 			task_info = "水浒消消乐投入96万及以上档次出现3次英雄",
 			task_award_image = {{"ty_icon_jb_198y","ty_icon_hytb"}},
 			task_award_number = {{"x20000","x20"}},
+			goto_scene = "game_MiniGame",
 		},
 		[5]=
 		{
@@ -298,9 +332,10 @@ return {
 			task_info = "财神消消乐投入96万及以上档次出现3次天女散花",
 			task_award_image = {{"ty_icon_jb_198y","ty_icon_hytb"}},
 			task_award_number = {{"x20000","x20"}},
+			goto_scene = "game_MiniGame",
 		},
 	},
-	Sheet6=
+	jifen=
 	{
 		[1]=
 		{
