@@ -785,20 +785,6 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
-		[12999]=
-		{
-			id = 12999,
-			enable = 1,
-			name = "活跃度",
-			own_type = "p_task_fish_daily_cpl_cjj",
-			task_enum = "common",
-			process_id = 12999,
-			is_reset = 1,
-			reset_delay = 1,
-			start_valid_time = 946656000,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
 		[13000]=
 		{
 			id = 13000,
@@ -807,6 +793,20 @@ return {
 			own_type = "p_task_fish_daily_cpl_notcjj",
 			task_enum = "common",
 			process_id = 13000,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 946656000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[13001]=
+		{
+			id = 13001,
+			enable = 1,
+			name = "活跃度",
+			own_type = "p_task_fish_daily_cpl_cjj",
+			task_enum = "common",
+			process_id = 13001,
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 946656000,
@@ -1323,17 +1323,17 @@ return {
 		[57]=
 		{
 			id = 57,
-			process_id = 12999,
+			process_id = 13000,
 			process = {30,30,30,30,30,1000},
-			awards = {2006,2007,2008,2009,2010},
+			awards = {2001,2002,2003,2004,2005},
 			get_award_type = "nor",
 		},
 		[58]=
 		{
 			id = 58,
-			process_id = 13000,
+			process_id = 13001,
 			process = {30,30,30,30,30,1000},
-			awards = {2001,2002,2003,2004,2005},
+			awards = {2006,2007,2008,2009,2010},
 			get_award_type = "nor",
 		},
 	},
@@ -2701,7 +2701,7 @@ return {
 		{
 			id = 68,
 			award_id = 1034,
-			asset_type = "task_12999",
+			asset_type = "task_13001",
 			asset_count = 5,
 			get_weight = 1,
 		},
@@ -2717,7 +2717,7 @@ return {
 		{
 			id = 70,
 			award_id = 1035,
-			asset_type = "task_12999",
+			asset_type = "task_13001",
 			asset_count = 5,
 			get_weight = 1,
 		},
@@ -2733,7 +2733,7 @@ return {
 		{
 			id = 72,
 			award_id = 1036,
-			asset_type = "task_12999",
+			asset_type = "task_13001",
 			asset_count = 10,
 			get_weight = 1,
 		},
@@ -2749,7 +2749,7 @@ return {
 		{
 			id = 74,
 			award_id = 1037,
-			asset_type = "task_12999",
+			asset_type = "task_13001",
 			asset_count = 10,
 			get_weight = 1,
 		},
@@ -2765,7 +2765,7 @@ return {
 		{
 			id = 76,
 			award_id = 1038,
-			asset_type = "task_12999",
+			asset_type = "task_13001",
 			asset_count = 10,
 			get_weight = 1,
 		},
@@ -2781,7 +2781,7 @@ return {
 		{
 			id = 78,
 			award_id = 1039,
-			asset_type = "task_12999",
+			asset_type = "task_13001",
 			asset_count = 20,
 			get_weight = 1,
 		},
@@ -2797,7 +2797,7 @@ return {
 		{
 			id = 80,
 			award_id = 1040,
-			asset_type = "task_12999",
+			asset_type = "task_13001",
 			asset_count = 30,
 			get_weight = 1,
 		},
@@ -2813,7 +2813,7 @@ return {
 		{
 			id = 82,
 			award_id = 1041,
-			asset_type = "task_12999",
+			asset_type = "task_13001",
 			asset_count = 5,
 			get_weight = 1,
 		},
@@ -2829,7 +2829,7 @@ return {
 		{
 			id = 84,
 			award_id = 1042,
-			asset_type = "task_12999",
+			asset_type = "task_13001",
 			asset_count = 5,
 			get_weight = 1,
 		},
@@ -2845,7 +2845,7 @@ return {
 		{
 			id = 86,
 			award_id = 1043,
-			asset_type = "task_12999",
+			asset_type = "task_13001",
 			asset_count = 10,
 			get_weight = 1,
 		},
@@ -2861,7 +2861,7 @@ return {
 		{
 			id = 88,
 			award_id = 1044,
-			asset_type = "task_12999",
+			asset_type = "task_13001",
 			asset_count = 10,
 			get_weight = 1,
 		},
@@ -2877,7 +2877,7 @@ return {
 		{
 			id = 90,
 			award_id = 1045,
-			asset_type = "task_12999",
+			asset_type = "task_13001",
 			asset_count = 10,
 			get_weight = 1,
 		},
@@ -2893,7 +2893,7 @@ return {
 		{
 			id = 92,
 			award_id = 1046,
-			asset_type = "task_12999",
+			asset_type = "task_13001",
 			asset_count = 20,
 			get_weight = 1,
 		},
@@ -2909,7 +2909,7 @@ return {
 		{
 			id = 94,
 			award_id = 1047,
-			asset_type = "task_12999",
+			asset_type = "task_13001",
 			asset_count = 30,
 			get_weight = 1,
 		},
