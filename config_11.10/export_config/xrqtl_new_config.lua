@@ -375,8 +375,8 @@ return {
 		[6]=
 		{
 			id = 6,
-			image_dj = "com_award_icon_jdk",
-			des = "50元京东卡",
+			image_dj = "com_award_icon_hfsp",
+			des = "50元话费",
 			stage = 500,
 		},
 	},
