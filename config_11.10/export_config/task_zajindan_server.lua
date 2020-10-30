@@ -21174,7 +21174,7 @@ return {
 			id = 500,
 			condition_id = 348,
 			condition_name = "fish_prop",
-			condition_value = """prop_fish_frozen""",
+			condition_value = ""prop_fish_frozen"",
 			judge_type = 2,
 		},
 		[501]=
@@ -21198,7 +21198,7 @@ return {
 			id = 503,
 			condition_id = 351,
 			condition_name = "fish_prop",
-			condition_value = """prop_fish_frozen""",
+			condition_value = ""prop_fish_frozen"",
 			judge_type = 2,
 		},
 		[504]=
