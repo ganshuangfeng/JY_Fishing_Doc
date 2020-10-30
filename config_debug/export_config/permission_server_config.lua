@@ -1710,6 +1710,12 @@ return {
 			name = "财神消消乐  V1orLV18",
 			condi = 231,
 		},
+		lwzb_level=
+		{
+			key = "lwzb_level",
+			name = "龙王争霸  V1",
+			condi = 8,
+		},
 		gzyl_newplayer=
 		{
 			key = "gzyl_newplayer",
