@@ -7323,20 +7323,6 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
-		[1000114]=
-		{
-			id = 1000114,
-			enable = 1,
-			name = "新人七天乐（积分换取）",
-			own_type = "normal",
-			task_enum = "common",
-			process_id = 21472,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
 	},
 	process_data=
 	{
@@ -21166,7 +21152,7 @@ return {
 			id = 499,
 			condition_id = 347,
 			condition_name = "fish_prop",
-			condition_value = ""prop_fish_lock"",
+			condition_value = "prop_fish_lock",
 			judge_type = 2,
 		},
 		[500]=
@@ -21174,7 +21160,7 @@ return {
 			id = 500,
 			condition_id = 348,
 			condition_name = "fish_prop",
-			condition_value = ""prop_fish_frozen"",
+			condition_value = "prop_fish_frozen",
 			judge_type = 2,
 		},
 		[501]=
@@ -21182,7 +21168,7 @@ return {
 			id = 501,
 			condition_id = 349,
 			condition_name = "fish_prop",
-			condition_value = ""prop_3d_fish_summon_fish"",
+			condition_value = "prop_3d_fish_summon_fish",
 			judge_type = 2,
 		},
 		[502]=
@@ -21190,7 +21176,7 @@ return {
 			id = 502,
 			condition_id = 350,
 			condition_name = "fish_prop",
-			condition_value = ""prop_fish_lock"",
+			condition_value = "prop_fish_lock",
 			judge_type = 2,
 		},
 		[503]=
@@ -21198,7 +21184,7 @@ return {
 			id = 503,
 			condition_id = 351,
 			condition_name = "fish_prop",
-			condition_value = ""prop_fish_frozen"",
+			condition_value = "prop_fish_frozen",
 			judge_type = 2,
 		},
 		[504]=
