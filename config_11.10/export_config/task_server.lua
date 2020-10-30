@@ -2204,6 +2204,7 @@ return {
 			process = {5,5,5,5,5,-1,},
 			awards = {110,111,112,113,114,115,},
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 	},
 	source=
