@@ -2201,8 +2201,10 @@ return {
 			id = 93,
 			process_id = 93,
 			source_id = 93,
-			process = 50,
+			process = {5,5,5,5,5,-1,},
+			awards = {110,111,112,113,114,115,},
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 	},
 	source=
@@ -4343,6 +4345,54 @@ return {
 			id = 114,
 			award_id = 109,
 			asset_type = "prop_hammer_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[115]=
+		{
+			id = 115,
+			award_id = 110,
+			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[116]=
+		{
+			id = 116,
+			award_id = 111,
+			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[117]=
+		{
+			id = 117,
+			award_id = 112,
+			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[118]=
+		{
+			id = 118,
+			award_id = 113,
+			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[119]=
+		{
+			id = 119,
+			award_id = 114,
+			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[120]=
+		{
+			id = 120,
+			award_id = 115,
+			asset_type = "prop_3d_fish_nuclear_bomb_fragment_2",
 			asset_count = 1,
 			get_weight = 1,
 		},

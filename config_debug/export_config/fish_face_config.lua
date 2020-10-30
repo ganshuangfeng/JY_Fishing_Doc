@@ -86,7 +86,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "捕获BOSS鱼可以进入海怪榜，获得奖励哦",
+			decs = "捕获BOSS鱼可进入海怪排行榜",
 		},
 		[9]=
 		{
@@ -119,7 +119,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "使用锁定可以提高捕获的几率哦",
+			decs = "锁定提高捕获概率哦",
 		},
 		[12]=
 		{
@@ -130,7 +130,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "使用冰冻可以防止鱼类逃跑哦",
+			decs = "冰冻防止鱼类逃跑哦",
 		},
 		[13]=
 		{
@@ -152,7 +152,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "穿云弹可以进行穿透，最后还会进行大爆炸",
+			decs = "穿云弹可以进行穿透，最后还会大爆炸",
 		},
 		[15]=
 		{
@@ -185,7 +185,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "充值可以获得特殊炮台，拥有特殊的技能哦",
+			decs = "充值获得特殊炮台，拥有特殊技能把",
 		},
 	},
 }
