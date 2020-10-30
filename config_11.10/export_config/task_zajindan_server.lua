@@ -7323,20 +7323,6 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
-		[1000114]=
-		{
-			id = 1000114,
-			enable = 1,
-			name = "新人七天乐（积分换取）",
-			own_type = "normal",
-			task_enum = "common",
-			process_id = 21472,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
 	},
 	process_data=
 	{
