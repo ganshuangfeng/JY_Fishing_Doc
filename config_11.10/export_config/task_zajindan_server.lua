@@ -21166,7 +21166,7 @@ return {
 			id = 499,
 			condition_id = 347,
 			condition_name = "fish_prop",
-			condition_value = ""prop_fish_lock"",
+			condition_value = "prop_fish_lock",
 			judge_type = 2,
 		},
 		[500]=
@@ -21174,7 +21174,7 @@ return {
 			id = 500,
 			condition_id = 348,
 			condition_name = "fish_prop",
-			condition_value = ""prop_fish_frozen"",
+			condition_value = "prop_fish_frozen",
 			judge_type = 2,
 		},
 		[501]=
@@ -21182,7 +21182,7 @@ return {
 			id = 501,
 			condition_id = 349,
 			condition_name = "fish_prop",
-			condition_value = ""prop_3d_fish_summon_fish"",
+			condition_value = "prop_3d_fish_summon_fish",
 			judge_type = 2,
 		},
 		[502]=
@@ -21190,7 +21190,7 @@ return {
 			id = 502,
 			condition_id = 350,
 			condition_name = "fish_prop",
-			condition_value = ""prop_fish_lock"",
+			condition_value = "prop_fish_lock",
 			judge_type = 2,
 		},
 		[503]=
@@ -21198,7 +21198,7 @@ return {
 			id = 503,
 			condition_id = 351,
 			condition_name = "fish_prop",
-			condition_value = ""prop_fish_frozen"",
+			condition_value = "prop_fish_frozen",
 			judge_type = 2,
 		},
 		[504]=
