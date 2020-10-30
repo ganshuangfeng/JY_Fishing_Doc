@@ -3182,36 +3182,36 @@ return {
 		{
 			id = 97,
 			award_id = 93,
-			award_name = "4万福利券",
+			award_name = "3万福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = 40000,
+			asset_count = 30000,
 			get_weight = 1,
 		},
 		[98]=
 		{
 			id = 98,
 			award_id = 94,
-			award_name = "3万福利券",
+			award_name = "1万福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = 30000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[99]=
 		{
 			id = 99,
 			award_id = 95,
-			award_name = "1万福利券",
+			award_name = "5千福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = 10000,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[100]=
 		{
 			id = 100,
 			award_id = 96,
-			award_name = "5千福利券",
+			award_name = "3千福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = 5000,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[101]=
