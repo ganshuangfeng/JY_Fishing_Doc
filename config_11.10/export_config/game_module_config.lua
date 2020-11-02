@@ -2836,5 +2836,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[290]=
+		{
+			id = 290,
+			key = "by3d_shtx",
+			desc = "深海探险",
+			lua = "BY3DSHTXManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
