@@ -3209,9 +3209,9 @@ return {
 		{
 			id = 100,
 			award_id = 96,
-			award_name = "3千福利券",
+			award_name = "2千福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = 3000,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[101]=

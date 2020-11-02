@@ -30888,8 +30888,8 @@ return {
 		{
 			id = 1188,
 			award_id = 777,
-			award_name = "50京东卡",
-			asset_count = 1,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 	},
