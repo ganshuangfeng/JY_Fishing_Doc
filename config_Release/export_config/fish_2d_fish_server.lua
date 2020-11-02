@@ -4322,7 +4322,7 @@ return {
 		[31]=
 		{
 			id = 31,
-			acti_type = 28,
+			acti_type = 48,
 			num = {1,95,},
 			show = 1,
 			enter_bag = 1,
@@ -4330,7 +4330,7 @@ return {
 		[32]=
 		{
 			id = 32,
-			acti_type = 29,
+			acti_type = 49,
 			num = {1,475,},
 			show = 1,
 			enter_bag = 1,
@@ -4338,7 +4338,7 @@ return {
 		[33]=
 		{
 			id = 33,
-			acti_type = 30,
+			acti_type = 50,
 			num = {1,95,},
 			show = 1,
 			enter_bag = 1,
@@ -4346,7 +4346,7 @@ return {
 		[34]=
 		{
 			id = 34,
-			acti_type = 31,
+			acti_type = 51,
 			num = {1,285,},
 			show = 1,
 			enter_bag = 1,

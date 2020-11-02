@@ -6851,8 +6851,8 @@ return {
 		{
 			id = 1000080,
 			enable = 1,
-			name = "新人七天乐（day1）",
-			own_type = "new_player_seven_day_1",
+			name = "新人七天乐（day2）",
+			own_type = "new_player_seven_day_2",
 			task_enum = "common",
 			process_id = 21438,
 			is_reset = 0,
@@ -6865,8 +6865,8 @@ return {
 		{
 			id = 1000081,
 			enable = 1,
-			name = "新人七天乐（day1）",
-			own_type = "new_player_seven_day_1",
+			name = "新人七天乐（day3）",
+			own_type = "new_player_seven_day_3",
 			task_enum = "common",
 			process_id = 21439,
 			is_reset = 0,
@@ -6879,8 +6879,8 @@ return {
 		{
 			id = 1000082,
 			enable = 1,
-			name = "新人七天乐（day1）",
-			own_type = "new_player_seven_day_1",
+			name = "新人七天乐（day3）",
+			own_type = "new_player_seven_day_3",
 			task_enum = "common",
 			process_id = 21440,
 			is_reset = 0,
@@ -6893,8 +6893,8 @@ return {
 		{
 			id = 1000083,
 			enable = 1,
-			name = "新人七天乐（day1）",
-			own_type = "new_player_seven_day_1",
+			name = "新人七天乐（day3）",
+			own_type = "new_player_seven_day_3",
 			task_enum = "common",
 			process_id = 21441,
 			is_reset = 0,
@@ -6907,8 +6907,8 @@ return {
 		{
 			id = 1000084,
 			enable = 1,
-			name = "新人七天乐（day2）",
-			own_type = "new_player_seven_day_2",
+			name = "新人七天乐（day3）",
+			own_type = "new_player_seven_day_3",
 			task_enum = "common",
 			process_id = 21442,
 			is_reset = 0,
@@ -6921,8 +6921,8 @@ return {
 		{
 			id = 1000085,
 			enable = 1,
-			name = "新人七天乐（day2）",
-			own_type = "new_player_seven_day_2",
+			name = "新人七天乐（day3）",
+			own_type = "new_player_seven_day_3",
 			task_enum = "common",
 			process_id = 21443,
 			is_reset = 0,
@@ -6935,8 +6935,8 @@ return {
 		{
 			id = 1000086,
 			enable = 1,
-			name = "新人七天乐（day2）",
-			own_type = "new_player_seven_day_2",
+			name = "新人七天乐（day4）",
+			own_type = "new_player_seven_day_4",
 			task_enum = "common",
 			process_id = 21444,
 			is_reset = 0,
@@ -6949,8 +6949,8 @@ return {
 		{
 			id = 1000087,
 			enable = 1,
-			name = "新人七天乐（day2）",
-			own_type = "new_player_seven_day_2",
+			name = "新人七天乐（day5）",
+			own_type = "new_player_seven_day_5",
 			task_enum = "common",
 			process_id = 21445,
 			is_reset = 0,
@@ -6963,8 +6963,8 @@ return {
 		{
 			id = 1000088,
 			enable = 1,
-			name = "新人七天乐（day2）",
-			own_type = "new_player_seven_day_2",
+			name = "新人七天乐（day5）",
+			own_type = "new_player_seven_day_5",
 			task_enum = "common",
 			process_id = 21446,
 			is_reset = 0,
@@ -6977,8 +6977,8 @@ return {
 		{
 			id = 1000089,
 			enable = 1,
-			name = "新人七天乐（day3）",
-			own_type = "new_player_seven_day_3",
+			name = "新人七天乐（day6）",
+			own_type = "new_player_seven_day_6",
 			task_enum = "common",
 			process_id = 21447,
 			is_reset = 0,
@@ -6991,8 +6991,8 @@ return {
 		{
 			id = 1000090,
 			enable = 1,
-			name = "新人七天乐（day3）",
-			own_type = "new_player_seven_day_3",
+			name = "新人七天乐（day7）",
+			own_type = "new_player_seven_day_7",
 			task_enum = "common",
 			process_id = 21448,
 			is_reset = 0,
@@ -7005,8 +7005,8 @@ return {
 		{
 			id = 1000091,
 			enable = 1,
-			name = "新人七天乐（day3）",
-			own_type = "new_player_seven_day_3",
+			name = "新人七天乐（day7）",
+			own_type = "new_player_seven_day_7",
 			task_enum = "common",
 			process_id = 21449,
 			is_reset = 0,
@@ -7019,8 +7019,8 @@ return {
 		{
 			id = 1000092,
 			enable = 1,
-			name = "新人七天乐（day3）",
-			own_type = "new_player_seven_day_3",
+			name = "新人七天乐（day7）",
+			own_type = "new_player_seven_day_7",
 			task_enum = "common",
 			process_id = 21450,
 			is_reset = 0,
@@ -7033,8 +7033,8 @@ return {
 		{
 			id = 1000093,
 			enable = 1,
-			name = "新人七天乐（day3）",
-			own_type = "new_player_seven_day_3",
+			name = "新人七天乐（day7）",
+			own_type = "new_player_seven_day_7",
 			task_enum = "common",
 			process_id = 21451,
 			is_reset = 0,
@@ -7047,8 +7047,8 @@ return {
 		{
 			id = 1000094,
 			enable = 1,
-			name = "新人七天乐（day4）",
-			own_type = "new_player_seven_day_4",
+			name = "新人七天乐（day7）",
+			own_type = "new_player_seven_day_7",
 			task_enum = "common",
 			process_id = 21452,
 			is_reset = 0,
@@ -7060,272 +7060,6 @@ return {
 		[1000095]=
 		{
 			id = 1000095,
-			enable = 1,
-			name = "新人七天乐（day4）",
-			own_type = "new_player_seven_day_4",
-			task_enum = "common",
-			process_id = 21453,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000096]=
-		{
-			id = 1000096,
-			enable = 1,
-			name = "新人七天乐（day4）",
-			own_type = "new_player_seven_day_4",
-			task_enum = "common",
-			process_id = 21454,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000097]=
-		{
-			id = 1000097,
-			enable = 1,
-			name = "新人七天乐（day4）",
-			own_type = "new_player_seven_day_4",
-			task_enum = "common",
-			process_id = 21455,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000098]=
-		{
-			id = 1000098,
-			enable = 1,
-			name = "新人七天乐（day4）",
-			own_type = "new_player_seven_day_4",
-			task_enum = "common",
-			process_id = 21456,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000099]=
-		{
-			id = 1000099,
-			enable = 1,
-			name = "新人七天乐（day5）",
-			own_type = "new_player_seven_day_5",
-			task_enum = "common",
-			process_id = 21457,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000100]=
-		{
-			id = 1000100,
-			enable = 1,
-			name = "新人七天乐（day5）",
-			own_type = "new_player_seven_day_5",
-			task_enum = "common",
-			process_id = 21458,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000101]=
-		{
-			id = 1000101,
-			enable = 1,
-			name = "新人七天乐（day5）",
-			own_type = "new_player_seven_day_5",
-			task_enum = "common",
-			process_id = 21459,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000102]=
-		{
-			id = 1000102,
-			enable = 1,
-			name = "新人七天乐（day5）",
-			own_type = "new_player_seven_day_5",
-			task_enum = "common",
-			process_id = 21460,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000103]=
-		{
-			id = 1000103,
-			enable = 1,
-			name = "新人七天乐（day5）",
-			own_type = "new_player_seven_day_5",
-			task_enum = "common",
-			process_id = 21461,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000104]=
-		{
-			id = 1000104,
-			enable = 1,
-			name = "新人七天乐（day6）",
-			own_type = "new_player_seven_day_6",
-			task_enum = "common",
-			process_id = 21462,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000105]=
-		{
-			id = 1000105,
-			enable = 1,
-			name = "新人七天乐（day6）",
-			own_type = "new_player_seven_day_6",
-			task_enum = "common",
-			process_id = 21463,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000106]=
-		{
-			id = 1000106,
-			enable = 1,
-			name = "新人七天乐（day6）",
-			own_type = "new_player_seven_day_6",
-			task_enum = "common",
-			process_id = 21464,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000107]=
-		{
-			id = 1000107,
-			enable = 1,
-			name = "新人七天乐（day6）",
-			own_type = "new_player_seven_day_6",
-			task_enum = "common",
-			process_id = 21465,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000108]=
-		{
-			id = 1000108,
-			enable = 1,
-			name = "新人七天乐（day6）",
-			own_type = "new_player_seven_day_6",
-			task_enum = "common",
-			process_id = 21466,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000109]=
-		{
-			id = 1000109,
-			enable = 1,
-			name = "新人七天乐（day7）",
-			own_type = "new_player_seven_day_7",
-			task_enum = "common",
-			process_id = 21467,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000110]=
-		{
-			id = 1000110,
-			enable = 1,
-			name = "新人七天乐（day7）",
-			own_type = "new_player_seven_day_7",
-			task_enum = "common",
-			process_id = 21468,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000111]=
-		{
-			id = 1000111,
-			enable = 1,
-			name = "新人七天乐（day7）",
-			own_type = "new_player_seven_day_7",
-			task_enum = "common",
-			process_id = 21469,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000112]=
-		{
-			id = 1000112,
-			enable = 1,
-			name = "新人七天乐（day7）",
-			own_type = "new_player_seven_day_7",
-			task_enum = "common",
-			process_id = 21470,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000113]=
-		{
-			id = 1000113,
-			enable = 1,
-			name = "新人七天乐（day7）",
-			own_type = "new_player_seven_day_7",
-			task_enum = "common",
-			process_id = 21471,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 1604937600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
-		[1000114]=
-		{
-			id = 1000114,
 			enable = 1,
 			name = "新人七天乐总任务",
 			own_type = "new_player_seven_day_1",
@@ -12004,8 +11738,8 @@ return {
 			id = 489,
 			process_id = 21437,
 			source_id = 481,
-			process = 1,
-			awards = 737,
+			process = {3,3,2,2,3},
+			awards = 737738739740741,
 			get_award_type = "nor",
 		},
 		[490]=
@@ -12013,8 +11747,8 @@ return {
 			id = 490,
 			process_id = 21438,
 			source_id = 482,
-			process = 1,
-			awards = 738,
+			process = {100,200,200,500,1000},
+			awards = 742743744745746,
 			get_award_type = "nor",
 		},
 		[491]=
@@ -12022,8 +11756,8 @@ return {
 			id = 491,
 			process_id = 21439,
 			source_id = 483,
-			process = 1,
-			awards = 739,
+			process = 3,
+			awards = 747,
 			get_award_type = "nor",
 		},
 		[492]=
@@ -12031,8 +11765,8 @@ return {
 			id = 492,
 			process_id = 21440,
 			source_id = 484,
-			process = 1,
-			awards = 740,
+			process = 3,
+			awards = 748,
 			get_award_type = "nor",
 		},
 		[493]=
@@ -12040,8 +11774,8 @@ return {
 			id = 493,
 			process_id = 21441,
 			source_id = 485,
-			process = 1,
-			awards = 741,
+			process = 3,
+			awards = 749,
 			get_award_type = "nor",
 		},
 		[494]=
@@ -12049,8 +11783,8 @@ return {
 			id = 494,
 			process_id = 21442,
 			source_id = 486,
-			process = 100,
-			awards = 742,
+			process = 10,
+			awards = 750,
 			get_award_type = "nor",
 		},
 		[495]=
@@ -12058,8 +11792,8 @@ return {
 			id = 495,
 			process_id = 21443,
 			source_id = 487,
-			process = 300,
-			awards = 743,
+			process = 10,
+			awards = 751,
 			get_award_type = "nor",
 		},
 		[496]=
@@ -12067,8 +11801,8 @@ return {
 			id = 496,
 			process_id = 21444,
 			source_id = 488,
-			process = 500,
-			awards = 744,
+			process = {2,3,5,10,15},
+			awards = 752753754755756,
 			get_award_type = "nor",
 		},
 		[497]=
@@ -12076,8 +11810,8 @@ return {
 			id = 497,
 			process_id = 21445,
 			source_id = 489,
-			process = 1000,
-			awards = 745,
+			process = 2,
+			awards = 757,
 			get_award_type = "nor",
 		},
 		[498]=
@@ -12085,8 +11819,8 @@ return {
 			id = 498,
 			process_id = 21446,
 			source_id = 490,
-			process = 2000,
-			awards = 746,
+			process = {2,3,5,10},
+			awards = 758759760761,
 			get_award_type = "nor",
 		},
 		[499]=
@@ -12094,8 +11828,8 @@ return {
 			id = 499,
 			process_id = 21447,
 			source_id = 491,
-			process = 3,
-			awards = 747,
+			process = {500,300,200,1000,1000},
+			awards = 762763764765766,
 			get_award_type = "nor",
 		},
 		[500]=
@@ -12103,8 +11837,8 @@ return {
 			id = 500,
 			process_id = 21448,
 			source_id = 492,
-			process = 3,
-			awards = 748,
+			process = 1,
+			awards = 767,
 			get_award_type = "nor",
 		},
 		[501]=
@@ -12112,8 +11846,8 @@ return {
 			id = 501,
 			process_id = 21449,
 			source_id = 493,
-			process = 3,
-			awards = 749,
+			process = 1,
+			awards = 768,
 			get_award_type = "nor",
 		},
 		[502]=
@@ -12121,8 +11855,8 @@ return {
 			id = 502,
 			process_id = 21450,
 			source_id = 494,
-			process = 10,
-			awards = 750,
+			process = 3,
+			awards = 769,
 			get_award_type = "nor",
 		},
 		[503]=
@@ -12130,8 +11864,8 @@ return {
 			id = 503,
 			process_id = 21451,
 			source_id = 495,
-			process = 10,
-			awards = 751,
+			process = 3,
+			awards = 770,
 			get_award_type = "nor",
 		},
 		[504]=
@@ -12139,185 +11873,14 @@ return {
 			id = 504,
 			process_id = 21452,
 			source_id = 496,
-			process = 2,
-			awards = 752,
+			process = 3,
+			awards = 771,
 			get_award_type = "nor",
 		},
 		[505]=
 		{
 			id = 505,
 			process_id = 21453,
-			source_id = 497,
-			process = 5,
-			awards = 753,
-			get_award_type = "nor",
-		},
-		[506]=
-		{
-			id = 506,
-			process_id = 21454,
-			source_id = 498,
-			process = 10,
-			awards = 754,
-			get_award_type = "nor",
-		},
-		[507]=
-		{
-			id = 507,
-			process_id = 21455,
-			source_id = 499,
-			process = 20,
-			awards = 755,
-			get_award_type = "nor",
-		},
-		[508]=
-		{
-			id = 508,
-			process_id = 21456,
-			source_id = 500,
-			process = 35,
-			awards = 756,
-			get_award_type = "nor",
-		},
-		[509]=
-		{
-			id = 509,
-			process_id = 21457,
-			source_id = 501,
-			process = 2,
-			awards = 757,
-			get_award_type = "nor",
-		},
-		[510]=
-		{
-			id = 510,
-			process_id = 21458,
-			source_id = 502,
-			process = 2,
-			awards = 758,
-			get_award_type = "nor",
-		},
-		[511]=
-		{
-			id = 511,
-			process_id = 21459,
-			source_id = 503,
-			process = 5,
-			awards = 759,
-			get_award_type = "nor",
-		},
-		[512]=
-		{
-			id = 512,
-			process_id = 21460,
-			source_id = 504,
-			process = 10,
-			awards = 760,
-			get_award_type = "nor",
-		},
-		[513]=
-		{
-			id = 513,
-			process_id = 21461,
-			source_id = 505,
-			process = 20,
-			awards = 761,
-			get_award_type = "nor",
-		},
-		[514]=
-		{
-			id = 514,
-			process_id = 21462,
-			source_id = 506,
-			process = 500,
-			awards = 762,
-			get_award_type = "nor",
-		},
-		[515]=
-		{
-			id = 515,
-			process_id = 21463,
-			source_id = 507,
-			process = 800,
-			awards = 763,
-			get_award_type = "nor",
-		},
-		[516]=
-		{
-			id = 516,
-			process_id = 21464,
-			source_id = 508,
-			process = 1000,
-			awards = 764,
-			get_award_type = "nor",
-		},
-		[517]=
-		{
-			id = 517,
-			process_id = 21465,
-			source_id = 509,
-			process = 2000,
-			awards = 765,
-			get_award_type = "nor",
-		},
-		[518]=
-		{
-			id = 518,
-			process_id = 21466,
-			source_id = 510,
-			process = 3000,
-			awards = 766,
-			get_award_type = "nor",
-		},
-		[519]=
-		{
-			id = 519,
-			process_id = 21467,
-			source_id = 511,
-			process = 1,
-			awards = 767,
-			get_award_type = "nor",
-		},
-		[520]=
-		{
-			id = 520,
-			process_id = 21468,
-			source_id = 512,
-			process = 1,
-			awards = 768,
-			get_award_type = "nor",
-		},
-		[521]=
-		{
-			id = 521,
-			process_id = 21469,
-			source_id = 513,
-			process = 3,
-			awards = 769,
-			get_award_type = "nor",
-		},
-		[522]=
-		{
-			id = 522,
-			process_id = 21470,
-			source_id = 514,
-			process = 3,
-			awards = 770,
-			get_award_type = "nor",
-		},
-		[523]=
-		{
-			id = 523,
-			process_id = 21471,
-			source_id = 515,
-			process = 3,
-			awards = 771,
-			get_award_type = "nor",
-		},
-		[524]=
-		{
-			id = 524,
-			process_id = 21472,
 			process = {10,40,100,150,100,100},
 			awards = 772773774775776000,
 			get_award_type = "nor",
@@ -17188,239 +16751,106 @@ return {
 		{
 			id = 689,
 			source_id = 482,
-			source_type = "duiju",
-			condition_id = 343,
+			source_type = "buyu_target_yu",
+			condition_id = 0,
 		},
 		[690]=
 		{
 			id = 690,
 			source_id = 483,
-			source_type = "duiju",
-			condition_id = 344,
+			source_type = "use_fish_bullet_item",
+			condition_id = 343,
 		},
 		[691]=
 		{
 			id = 691,
 			source_id = 484,
-			source_type = "duiju",
-			condition_id = 345,
+			source_type = "use_fish_bullet_item",
+			condition_id = 344,
 		},
 		[692]=
 		{
 			id = 692,
 			source_id = 485,
-			source_type = "duiju",
-			condition_id = 346,
+			source_type = "use_fish_bullet_item",
+			condition_id = 345,
 		},
 		[693]=
 		{
 			id = 693,
 			source_id = 486,
-			source_type = "buyu_target_yu",
-			condition_id = 0,
+			source_type = "use_fish_bullet_item",
+			condition_id = 346,
 		},
 		[694]=
 		{
 			id = 694,
 			source_id = 487,
-			source_type = "buyu_target_yu",
-			condition_id = 0,
+			source_type = "use_fish_bullet_item",
+			condition_id = 347,
 		},
 		[695]=
 		{
 			id = 695,
 			source_id = 488,
-			source_type = "buyu_target_yu",
-			condition_id = 0,
+			source_type = "buyu_caijin_lottery",
+			condition_id = 348,
 		},
 		[696]=
 		{
 			id = 696,
 			source_id = 489,
-			source_type = "buyu_target_yu",
-			condition_id = 0,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 349,
 		},
 		[697]=
 		{
 			id = 697,
 			source_id = 490,
-			source_type = "buyu_target_yu",
-			condition_id = 0,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 350,
 		},
 		[698]=
 		{
 			id = 698,
 			source_id = 491,
-			source_type = "use_fish_bullet_item",
-			condition_id = 347,
+			source_type = "task_award_receive",
+			condition_id = 351,
 		},
 		[699]=
 		{
 			id = 699,
 			source_id = 492,
-			source_type = "use_fish_bullet_item",
-			condition_id = 348,
+			source_type = "xxl_lucky_award",
+			condition_id = 352,
 		},
 		[700]=
 		{
 			id = 700,
 			source_id = 493,
-			source_type = "use_fish_bullet_item",
-			condition_id = 349,
+			source_type = "sh_xxl_xc_num_hero",
+			condition_id = 353,
 		},
 		[701]=
 		{
 			id = 701,
 			source_id = 494,
-			source_type = "use_fish_bullet_item",
-			condition_id = 350,
+			source_type = "xxl_lucky_award",
+			condition_id = 354,
 		},
 		[702]=
 		{
 			id = 702,
 			source_id = 495,
-			source_type = "use_fish_bullet_item",
-			condition_id = 351,
+			source_type = "sh_xxl_xc_num_hero",
+			condition_id = 355,
 		},
 		[703]=
 		{
 			id = 703,
 			source_id = 496,
-			source_type = "buyu_caijin_lottery",
-			condition_id = 352,
-		},
-		[704]=
-		{
-			id = 704,
-			source_id = 497,
-			source_type = "buyu_caijin_lottery",
-			condition_id = 353,
-		},
-		[705]=
-		{
-			id = 705,
-			source_id = 498,
-			source_type = "buyu_caijin_lottery",
-			condition_id = 354,
-		},
-		[706]=
-		{
-			id = 706,
-			source_id = 499,
-			source_type = "buyu_caijin_lottery",
-			condition_id = 355,
-		},
-		[707]=
-		{
-			id = 707,
-			source_id = 500,
-			source_type = "buyu_caijin_lottery",
-			condition_id = 356,
-		},
-		[708]=
-		{
-			id = 708,
-			source_id = 501,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 357,
-		},
-		[709]=
-		{
-			id = 709,
-			source_id = 502,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 358,
-		},
-		[710]=
-		{
-			id = 710,
-			source_id = 503,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 359,
-		},
-		[711]=
-		{
-			id = 711,
-			source_id = 504,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 360,
-		},
-		[712]=
-		{
-			id = 712,
-			source_id = 505,
-			source_type = "buyu_3d_target_yu",
-			condition_id = 361,
-		},
-		[713]=
-		{
-			id = 713,
-			source_id = 506,
-			source_type = "task_award_receive",
-			condition_id = 362,
-		},
-		[714]=
-		{
-			id = 714,
-			source_id = 507,
-			source_type = "task_award_receive",
-			condition_id = 363,
-		},
-		[715]=
-		{
-			id = 715,
-			source_id = 508,
-			source_type = "task_award_receive",
-			condition_id = 364,
-		},
-		[716]=
-		{
-			id = 716,
-			source_id = 509,
-			source_type = "task_award_receive",
-			condition_id = 365,
-		},
-		[717]=
-		{
-			id = 717,
-			source_id = 510,
-			source_type = "task_award_receive",
-			condition_id = 366,
-		},
-		[718]=
-		{
-			id = 718,
-			source_id = 511,
-			source_type = "xxl_lucky_award",
-			condition_id = 367,
-		},
-		[719]=
-		{
-			id = 719,
-			source_id = 512,
-			source_type = "sh_xxl_xc_num_hero",
-			condition_id = 368,
-		},
-		[720]=
-		{
-			id = 720,
-			source_id = 513,
-			source_type = "xxl_lucky_award",
-			condition_id = 369,
-		},
-		[721]=
-		{
-			id = 721,
-			source_id = 514,
-			source_type = "sh_xxl_xc_num_hero",
-			condition_id = 370,
-		},
-		[722]=
-		{
-			id = 722,
-			source_id = 515,
 			source_type = "xiaoxiaole_caishen_sky_girl",
-			condition_id = 371,
+			condition_id = 356,
 		},
 	},
 	condition=
@@ -21134,248 +20564,132 @@ return {
 			id = 494,
 			condition_id = 342,
 			condition_name = "game_level",
-			condition_value = 3,
+			condition_value = {3,6,8,10,13},
 			judge_type = 3,
 		},
 		[495]=
 		{
 			id = 495,
 			condition_id = 343,
-			condition_name = "game_level",
-			condition_value = 6,
-			judge_type = 3,
+			condition_name = "fish_prop",
+			condition_value = "prop_fish_lock",
+			judge_type = 2,
 		},
 		[496]=
 		{
 			id = 496,
 			condition_id = 344,
-			condition_name = "game_level",
-			condition_value = 8,
-			judge_type = 3,
+			condition_name = "fish_prop",
+			condition_value = "prop_fish_frozen",
+			judge_type = 2,
 		},
 		[497]=
 		{
 			id = 497,
 			condition_id = 345,
-			condition_name = "game_level",
-			condition_value = 10,
-			judge_type = 3,
+			condition_name = "fish_prop",
+			condition_value = "prop_3d_fish_summon_fish",
+			judge_type = 2,
 		},
 		[498]=
 		{
 			id = 498,
 			condition_id = 346,
-			condition_name = "game_level",
-			condition_value = 13,
-			judge_type = 3,
+			condition_name = "fish_prop",
+			condition_value = "prop_fish_lock",
+			judge_type = 2,
 		},
 		[499]=
 		{
 			id = 499,
 			condition_id = 347,
 			condition_name = "fish_prop",
-			condition_value = "prop_fish_lock",
+			condition_value = "prop_fish_frozen",
 			judge_type = 2,
 		},
 		[500]=
 		{
 			id = 500,
 			condition_id = 348,
-			condition_name = "fish_prop",
-			condition_value = "prop_fish_frozen",
+			condition_name = "buyu_3d_caijin_lottery",
 			judge_type = 2,
 		},
 		[501]=
 		{
 			id = 501,
 			condition_id = 349,
-			condition_name = "fish_prop",
-			condition_value = "prop_3d_fish_summon_fish",
+			condition_name = "base_fish_id",
+			condition_value = 47,
 			judge_type = 2,
 		},
 		[502]=
 		{
 			id = 502,
 			condition_id = 350,
-			condition_name = "fish_prop",
-			condition_value = "prop_fish_lock",
+			condition_name = "base_fish_id",
+			condition_value = 48,
 			judge_type = 2,
 		},
 		[503]=
 		{
 			id = 503,
 			condition_id = 351,
-			condition_name = "fish_prop",
-			condition_value = "prop_fish_frozen",
+			condition_name = "task_id",
+			condition_value = {21315,21316,21317,21318},
 			judge_type = 2,
 		},
 		[504]=
 		{
 			id = 504,
 			condition_id = 352,
-			condition_name = "buyu_3d_caijin_lottery",
-			judge_type = 2,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
 		},
 		[505]=
 		{
 			id = 505,
 			condition_id = 353,
-			condition_name = "buyu_3d_caijin_lottery",
-			judge_type = 2,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
 		},
 		[506]=
 		{
 			id = 506,
 			condition_id = 354,
-			condition_name = "buyu_3d_caijin_lottery",
-			judge_type = 2,
+			condition_name = "hero_num",
+			condition_value = 1,
+			judge_type = 3,
 		},
 		[507]=
 		{
 			id = 507,
 			condition_id = 355,
-			condition_name = "buyu_3d_caijin_lottery",
-			judge_type = 2,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
 		},
 		[508]=
 		{
 			id = 508,
 			condition_id = 356,
-			condition_name = "buyu_3d_caijin_lottery",
-			judge_type = 2,
+			condition_name = "hero_num",
+			condition_value = 1,
+			judge_type = 3,
 		},
 		[509]=
 		{
 			id = 509,
 			condition_id = 357,
-			condition_name = "base_fish_id",
-			condition_value = 47,
-			judge_type = 2,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
 		},
 		[510]=
 		{
 			id = 510,
 			condition_id = 358,
-			condition_name = "base_fish_id",
-			condition_value = 48,
-			judge_type = 2,
-		},
-		[511]=
-		{
-			id = 511,
-			condition_id = 359,
-			condition_name = "base_fish_id",
-			condition_value = 48,
-			judge_type = 2,
-		},
-		[512]=
-		{
-			id = 512,
-			condition_id = 360,
-			condition_name = "base_fish_id",
-			condition_value = 48,
-			judge_type = 2,
-		},
-		[513]=
-		{
-			id = 513,
-			condition_id = 361,
-			condition_name = "base_fish_id",
-			condition_value = 48,
-			judge_type = 2,
-		},
-		[514]=
-		{
-			id = 514,
-			condition_id = 362,
-			condition_name = "task_id",
-			condition_value = {21315,21316,21317,21318},
-			judge_type = 2,
-		},
-		[515]=
-		{
-			id = 515,
-			condition_id = 363,
-			condition_name = "task_id",
-			condition_value = {21315,21316,21317,21318},
-			judge_type = 2,
-		},
-		[516]=
-		{
-			id = 516,
-			condition_id = 364,
-			condition_name = "task_id",
-			condition_value = {21315,21316,21317,21318},
-			judge_type = 2,
-		},
-		[517]=
-		{
-			id = 517,
-			condition_id = 365,
-			condition_name = "task_id",
-			condition_value = {21315,21316,21317,21318},
-			judge_type = 2,
-		},
-		[518]=
-		{
-			id = 518,
-			condition_id = 366,
-			condition_name = "task_id",
-			condition_value = {21315,21316,21317,21318},
-			judge_type = 2,
-		},
-		[519]=
-		{
-			id = 519,
-			condition_id = 367,
-			condition_name = "bet_spend",
-			condition_value = 960000,
-			judge_type = 3,
-		},
-		[520]=
-		{
-			id = 520,
-			condition_id = 368,
-			condition_name = "bet_spend",
-			condition_value = 960000,
-			judge_type = 3,
-		},
-		[521]=
-		{
-			id = 521,
-			condition_id = 368,
-			condition_name = "hero_num",
-			condition_value = 1,
-			judge_type = 3,
-		},
-		[522]=
-		{
-			id = 522,
-			condition_id = 369,
-			condition_name = "bet_spend",
-			condition_value = 960000,
-			judge_type = 3,
-		},
-		[523]=
-		{
-			id = 523,
-			condition_id = 370,
-			condition_name = "hero_num",
-			condition_value = 1,
-			judge_type = 3,
-		},
-		[524]=
-		{
-			id = 524,
-			condition_id = 370,
-			condition_name = "bet_spend",
-			condition_value = 960000,
-			judge_type = 3,
-		},
-		[525]=
-		{
-			id = 525,
-			condition_id = 371,
 			condition_name = "sky_girl_type",
 			condition_value = 960000,
 			judge_type = 3,
