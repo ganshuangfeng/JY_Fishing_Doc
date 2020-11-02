@@ -4319,6 +4319,38 @@ return {
 			enter_bag = 1,
 			value = 5,
 		},
+		[31]=
+		{
+			id = 31,
+			acti_type = 28,
+			num = {1,95,},
+			show = 1,
+			enter_bag = 1,
+		},
+		[32]=
+		{
+			id = 32,
+			acti_type = 29,
+			num = {1,475,},
+			show = 1,
+			enter_bag = 1,
+		},
+		[33]=
+		{
+			id = 33,
+			acti_type = 30,
+			num = {1,95,},
+			show = 1,
+			enter_bag = 1,
+		},
+		[34]=
+		{
+			id = 34,
+			acti_type = 31,
+			num = {1,285,},
+			show = 1,
+			enter_bag = 1,
+		},
 	},
 	box_fish_activity=
 	{
