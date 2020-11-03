@@ -30,7 +30,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {10000,},
-			gotoUI = {"game_ZPG",},
+			gotoUI = {"game_MiniGame",},
 		},
 		[2]=
 		{
@@ -41,7 +41,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {10000,},
-			gotoUI = {"game_Zjd",},
+			gotoUI = {"game_MiniGame",},
 		},
 		[3]=
 		{
@@ -52,7 +52,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {10000,},
-			gotoUI = {"game_Zjd",},
+			gotoUI = {"game_MiniGame",},
 		},
 		[4]=
 		{
@@ -63,7 +63,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {10000,},
-			gotoUI = {"game_EliminateCS",},
+			gotoUI = {"game_MiniGame",},
 		},
 		[5]=
 		{
@@ -74,7 +74,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {10000,},
-			gotoUI = {"game_EliminateSH",},
+			gotoUI = {"game_MiniGame",},
 		},
 		[6]=
 		{
@@ -85,7 +85,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {10000,},
-			gotoUI = {"game_Eliminate",},
+			gotoUI = {"game_MiniGame",},
 		},
 		[7]=
 		{
@@ -96,7 +96,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {10000,},
-			gotoUI = {"game_ZPG",},
+			gotoUI = {"game_MiniGame",},
 		},
 	},
 }

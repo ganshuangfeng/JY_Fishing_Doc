@@ -1902,12 +1902,6 @@ return {
 			name = "新人专享（新人才展示）",
 			condi = 91,
 		},
-		cpl_xyxfl=
-		{
-			key = "cpl_xyxfl",
-			name = "非小米、vivo才显示",
-			condi = 337,
-		},
 	},
 	act_permission=
 	{
@@ -5870,6 +5864,18 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 0,
+		},
+		[331]=
+		{
+			id = 331,
+			enable = 1,
+			key = "actp_own_task_p_034_xyxfl",
+			name = "小游戏福利（非CPS渠道）",
+			condi = 336,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1604359800,
 		},
 	},
 	condi=
@@ -14288,16 +14294,6 @@ return {
 		{
 			no = 842,
 			id = 336,
-			var = "tag_type",
-			value = "tag_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "非新用户",
-		},
-		[843]=
-		{
-			no = 843,
-			id = 337,
 			var = "market_channel",
 			value = "3dby_cps",
 			judge = 5,
