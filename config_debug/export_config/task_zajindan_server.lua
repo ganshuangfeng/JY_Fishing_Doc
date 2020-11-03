@@ -11739,7 +11739,7 @@ return {
 			process_id = 21437,
 			source_id = 481,
 			process = {3,3,2,2,3},
-			awards = 737738739740741,
+			awards = {737,738,739,740,741},
 			get_award_type = "nor",
 		},
 		[490]=
@@ -11748,7 +11748,7 @@ return {
 			process_id = 21438,
 			source_id = 482,
 			process = {100,200,200,500,1000},
-			awards = 742743744745746,
+			awards = {742,743,744,745,746},
 			get_award_type = "nor",
 		},
 		[491]=
@@ -11802,7 +11802,7 @@ return {
 			process_id = 21444,
 			source_id = 488,
 			process = {2,3,5,10,15},
-			awards = 752753754755756,
+			awards = {752,753,754,755,756},
 			get_award_type = "nor",
 		},
 		[497]=
@@ -11820,7 +11820,7 @@ return {
 			process_id = 21446,
 			source_id = 490,
 			process = {2,3,5,10},
-			awards = 758759760761,
+			awards = {758,759,760,761},
 			get_award_type = "nor",
 		},
 		[499]=
@@ -11829,7 +11829,7 @@ return {
 			process_id = 21447,
 			source_id = 491,
 			process = {500,300,200,1000,1000},
-			awards = 762763764765766,
+			awards = {762,763,764,765,766},
 			get_award_type = "nor",
 		},
 		[500]=
@@ -11882,7 +11882,7 @@ return {
 			id = 505,
 			process_id = 21453,
 			process = {10,40,100,150,100,100},
-			awards = 772773774775776000,
+			awards = {772,773,774,775,776,777},
 			get_award_type = "nor",
 		},
 	},
