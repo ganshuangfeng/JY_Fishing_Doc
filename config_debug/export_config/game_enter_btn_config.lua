@@ -17,7 +17,7 @@ return {
 		{
 			id = 3,
 			area = "top_right",
-			group_list = "72#",
+			group_list = "108#72#",
 		},
 		[4]=
 		{
@@ -338,7 +338,7 @@ return {
 		{
 			id = 3,
 			area = "top_right",
-			group_list = "104#95#72#",
+			group_list = "108#104#95#72#",
 		},
 		[4]=
 		{
@@ -1052,6 +1052,12 @@ return {
 		{
 			id = 107,
 			parm = {"act_033_xrzxlb","enter"},
+			is_on_off = 1,
+		},
+		[108]=
+		{
+			id = 108,
+			parm = {"by3d_phb","enter"},
 			is_on_off = 1,
 		},
 	},
