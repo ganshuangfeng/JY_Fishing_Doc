@@ -16758,64 +16758,64 @@ return {
 		{
 			id = 690,
 			source_id = 483,
-			source_type = "use_fish_bullet_item",
+			source_type = "use_fish_3d_bullet_item",
 			condition_id = 342,
 		},
 		[691]=
 		{
 			id = 691,
 			source_id = 484,
-			source_type = "use_fish_bullet_item",
+			source_type = "use_fish_3d_bullet_item",
 			condition_id = 343,
 		},
 		[692]=
 		{
 			id = 692,
 			source_id = 485,
-			source_type = "use_fish_bullet_item",
+			source_type = "use_fish_3d_bullet_item",
 			condition_id = 344,
 		},
 		[693]=
 		{
 			id = 693,
 			source_id = 486,
-			source_type = "use_fish_bullet_item",
+			source_type = "use_fish_3d_bullet_item",
 			condition_id = 345,
 		},
 		[694]=
 		{
 			id = 694,
 			source_id = 487,
-			source_type = "use_fish_bullet_item",
+			source_type = "use_fish_3d_bullet_item",
 			condition_id = 346,
 		},
 		[695]=
 		{
 			id = 695,
 			source_id = 488,
-			source_type = "buyu_caijin_lottery",
-			condition_id = 347,
+			source_type = "buyu_3d_caijin_lottery",
+			condition_id = 0,
 		},
 		[696]=
 		{
 			id = 696,
 			source_id = 489,
 			source_type = "buyu_3d_target_yu",
-			condition_id = 348,
+			condition_id = 347,
 		},
 		[697]=
 		{
 			id = 697,
 			source_id = 490,
 			source_type = "buyu_3d_target_yu",
-			condition_id = 349,
+			condition_id = 348,
 		},
 		[698]=
 		{
 			id = 698,
 			source_id = 491,
 			source_type = "task_award_receive",
-			condition_id = 0,
+			condition_id = 349,
 		},
 		[699]=
 		{
@@ -20564,7 +20564,7 @@ return {
 			id = 494,
 			condition_id = 342,
 			condition_name = "fish_prop",
-			condition_value = "prop_fish_lock",
+			condition_value = "prop_3d_fish_lock",
 			judge_type = 2,
 		},
 		[495]=
@@ -20572,7 +20572,7 @@ return {
 			id = 495,
 			condition_id = 343,
 			condition_name = "fish_prop",
-			condition_value = "prop_fish_frozen",
+			condition_value = "prop_3d_fish_frozen",
 			judge_type = 2,
 		},
 		[496]=
@@ -20588,7 +20588,7 @@ return {
 			id = 497,
 			condition_id = 345,
 			condition_name = "fish_prop",
-			condition_value = "prop_fish_lock",
+			condition_value = "prop_3d_fish_lock",
 			judge_type = 2,
 		},
 		[498]=
@@ -20596,14 +20596,15 @@ return {
 			id = 498,
 			condition_id = 346,
 			condition_name = "fish_prop",
-			condition_value = "prop_fish_frozen",
+			condition_value = "prop_3d_fish_frozen",
 			judge_type = 2,
 		},
 		[499]=
 		{
 			id = 499,
 			condition_id = 347,
-			condition_name = "buyu_3d_caijin_lottery",
+			condition_name = "base_fish_id",
+			condition_value = 47,
 			judge_type = 2,
 		},
 		[500]=
@@ -20611,15 +20612,15 @@ return {
 			id = 500,
 			condition_id = 348,
 			condition_name = "base_fish_id",
-			condition_value = 47,
+			condition_value = 48,
 			judge_type = 2,
 		},
 		[501]=
 		{
 			id = 501,
 			condition_id = 349,
-			condition_name = "base_fish_id",
-			condition_value = 48,
+			condition_name = "task_id",
+			condition_value = {21315,21316,21317,21318},
 			judge_type = 2,
 		},
 		[502]=
@@ -20634,22 +20635,22 @@ return {
 		{
 			id = 503,
 			condition_id = 351,
-			condition_name = "bet_spend",
-			condition_value = 960000,
+			condition_name = "hero_num",
+			condition_value = 1,
 			judge_type = 3,
 		},
 		[504]=
 		{
 			id = 504,
-			condition_id = 352,
-			condition_name = "hero_num",
-			condition_value = 1,
+			condition_id = 351,
+			condition_name = "bet_spend",
+			condition_value = 960000,
 			judge_type = 3,
 		},
 		[505]=
 		{
 			id = 505,
-			condition_id = 353,
+			condition_id = 352,
 			condition_name = "bet_spend",
 			condition_value = 960000,
 			judge_type = 3,
@@ -20657,7 +20658,7 @@ return {
 		[506]=
 		{
 			id = 506,
-			condition_id = 354,
+			condition_id = 353,
 			condition_name = "hero_num",
 			condition_value = 1,
 			judge_type = 3,
@@ -20665,7 +20666,7 @@ return {
 		[507]=
 		{
 			id = 507,
-			condition_id = 355,
+			condition_id = 353,
 			condition_name = "bet_spend",
 			condition_value = 960000,
 			judge_type = 3,
@@ -20673,8 +20674,8 @@ return {
 		[508]=
 		{
 			id = 508,
-			condition_id = 356,
-			condition_name = "sky_girl_type",
+			condition_id = 354,
+			condition_name = "bet_spend",
 			condition_value = 960000,
 			judge_type = 3,
 		},
@@ -30147,7 +30148,7 @@ return {
 			id = 1183,
 			award_id = 772,
 			asset_type = "gun_barrel_6",
-			asset_count = "259200‬",
+			asset_count = 259200,
 			get_weight = 1,
 		},
 		[1184]=
