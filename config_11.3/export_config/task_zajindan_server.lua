@@ -11428,7 +11428,7 @@ return {
 			id = 481,
 			process_id = 21429,
 			source_id = 473,
-			process = {3,2,2,},
+			process = {2,1,2},
 			awards = {733,734,735},
 			get_award_type = "random",
 		},
