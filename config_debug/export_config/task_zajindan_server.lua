@@ -16751,7 +16751,7 @@ return {
 		{
 			id = 689,
 			source_id = 482,
-			source_type = "buyu_target_yu",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 0,
 		},
 		[690]=
