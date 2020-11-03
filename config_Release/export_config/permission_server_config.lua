@@ -1905,7 +1905,7 @@ return {
 		xrzx_newplayer=
 		{
 			key = "xrzx_newplayer",
-			name = "新人专享礼包 （新人才展示）",
+			name = "新人专享（新人才展示）",
 			condi = 91,
 		},
 	},
@@ -5870,6 +5870,18 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 0,
+		},
+		[331]=
+		{
+			id = 331,
+			enable = 1,
+			key = "actp_own_task_p_034_xyxfl",
+			name = "小游戏福利（非CPS渠道）",
+			condi = 336,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1604332800,
 		},
 	},
 	condi=
@@ -14097,7 +14109,7 @@ return {
 		[823]=
 		{
 			no = 823,
-			id = 333,
+			id = 328,
 			var = "market_channel",
 			value = "cjj",
 			judge = 5,
@@ -14117,7 +14129,7 @@ return {
 		[825]=
 		{
 			no = 825,
-			id = 333,
+			id = 329,
 			var = "market_channel",
 			value = "cjj",
 			judge = 5,
@@ -14267,16 +14279,6 @@ return {
 		[840]=
 		{
 			no = 840,
-			id = 334,
-			var = "tag_type",
-			value = "tag_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "不是新用户",
-		},
-		[841]=
-		{
-			no = 841,
 			id = 335,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -14284,9 +14286,9 @@ return {
 			group = 1,
 			error_desc = "只有充值6元及以上的用户才可体验！",
 		},
-		[842]=
+		[841]=
 		{
-			no = 842,
+			no = 841,
 			id = 335,
 			var = "market_channel",
 			value = "cjj",
@@ -14294,15 +14296,15 @@ return {
 			group = 1,
 			error_desc = "冲金鸡的全渠道",
 		},
-		[843]=
+		[842]=
 		{
-			no = 843,
-			id = 335,
-			var = "tag_type",
-			value = "tag_new_player",
+			no = 842,
+			id = 336,
+			var = "share_condition",
+			value = "3dby_cps",
 			judge = 5,
 			group = 1,
-			error_desc = "不是新用户",
+			error_desc = "非CPS",
 		},
 	},
 	share_condition=

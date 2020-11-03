@@ -1506,9 +1506,9 @@ return {
 			key = "act_005_yzqj",
 			desc = "一字千金",
 			lua = "Act_005YZQJManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[152]=
 		{
@@ -2505,7 +2505,7 @@ return {
 			key = "act_025_jrth",
 			desc = "节日特惠",
 			lua = "Act_025_JRTHManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
@@ -2714,9 +2714,9 @@ return {
 			key = "act_030_cwlb",
 			desc = "畅玩礼包",
 			lua = "Act_030_CWLBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[278]=
 		{
@@ -2813,6 +2813,35 @@ return {
 			key = "act_033_xrzxlb",
 			desc = "新人专享",
 			lua = "XRZXGiftManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[288]=
+		{
+			id = 288,
+			key = "act_034_ldfd",
+			desc = "立冬福袋",
+			lua = "Act_034_LDFDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[289]=
+		{
+			id = 289,
+			key = "act_034_ldfl",
+			desc = "立冬福利（小游戏）",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[290]=
+		{
+			id = 290,
+			key = "by3d_phb",
+			desc = "排行榜总入口",
+			lua = "BY3DPHBManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

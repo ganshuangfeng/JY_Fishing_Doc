@@ -35,7 +35,7 @@ return {
 		[2]=
 		{
 			id = 2,
-			key = "actp_own_task_p_task_fish_daily_1",
+			key = "actp_own_task_p_task_fish_daily_1_2",
 			task_id = 12520,
 			task_name = "使用技能",
 			task_icon = "rw_icon_jn",
@@ -113,19 +113,6 @@ return {
 		[8]=
 		{
 			id = 8,
-			key = "actp_own_task_p_task_fish_daily_2_no_cps",
-			task_id = 12524,
-			task_name = "观看广告",
-			task_icon = "rw_icon_ljyj",
-			task_instruction = "观看两次广告",
-			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
-			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x5000","x20"},
-			gotoui = {"game_Fishing3DHall",},
-		},
-		[9]=
-		{
-			id = 9,
 			key = "actp_own_task_p_task_fish_daily_2",
 			task_id = 12525,
 			task_name = "累计赢金",
@@ -136,9 +123,9 @@ return {
 			task_award_count = {"x1万","x30"},
 			gotoui = {"game_Fishing3DHall",},
 		},
-		[10]=
+		[9]=
 		{
-			id = 10,
+			id = 9,
 			key = "actp_own_task_p_task_fish_daily_3",
 			task_id = 12508,
 			task_name = "击杀活动鱼",
@@ -149,9 +136,9 @@ return {
 			task_award_count = {"x10000","x30"},
 			gotoui = {"game_Fishing3DHall",},
 		},
-		[11]=
+		[10]=
 		{
-			id = 11,
+			id = 10,
 			key = "actp_own_task_p_task_fish_daily_3",
 			task_id = 12529,
 			task_name = "击杀高倍鱼",
@@ -162,9 +149,9 @@ return {
 			task_award_count = {"x1","x20"},
 			gotoui = {"game_Fishing3DHall",},
 		},
-		[12]=
+		[11]=
 		{
-			id = 12,
+			id = 11,
 			key = "actp_own_task_p_task_fish_daily_3",
 			task_id = 12528,
 			task_name = "累计赢金",
@@ -175,9 +162,9 @@ return {
 			task_award_count = {"x1.5万","x20"},
 			gotoui = {"game_Fishing3DHall",},
 		},
-		[13]=
+		[12]=
 		{
-			id = 13,
+			id = 12,
 			key = "actp_own_task_p_task_fish_daily_3",
 			task_id = 12526,
 			task_name = "捕获彩金",
@@ -188,9 +175,9 @@ return {
 			task_award_count = {"x1.5万","x30"},
 			gotoui = {"game_Fishing3DHall",},
 		},
-		[14]=
+		[13]=
 		{
-			id = 14,
+			id = 13,
 			key = "actp_own_task_p_task_fish_daily_3_no_cps",
 			task_id = 12527,
 			task_name = "累计充值",
@@ -201,9 +188,9 @@ return {
 			task_award_count = {"x50000","x50"},
 			gotoui = {"shop_bay","jing_bi"},
 		},
-		[15]=
+		[14]=
 		{
-			id = 15,
+			id = 14,
 			key = "actp_own_task_p_task_fish_daily_4_5",
 			task_id = 12517,
 			task_name = "参与游戏",
@@ -214,9 +201,9 @@ return {
 			task_award_count = {"x10000","x30"},
 			gotoui = {"game_MiniGame",},
 		},
-		[16]=
+		[15]=
 		{
-			id = 16,
+			id = 15,
 			key = "actp_own_task_p_task_fish_daily_4",
 			task_id = 12532,
 			task_name = "击杀高倍鱼",
@@ -227,9 +214,9 @@ return {
 			task_award_count = {"x50000","x20"},
 			gotoui = {"game_Fishing3DHall",},
 		},
-		[17]=
+		[16]=
 		{
-			id = 17,
+			id = 16,
 			key = "actp_own_task_p_task_fish_daily_4",
 			task_id = 12531,
 			task_name = "累计赢金",
@@ -240,9 +227,9 @@ return {
 			task_award_count = {"x2万","x20"},
 			gotoui = {"game_Fishing3DHall",},
 		},
-		[18]=
+		[17]=
 		{
-			id = 18,
+			id = 17,
 			key = "actp_own_task_p_task_fish_daily_4",
 			task_id = 12511,
 			task_name = "击杀BOSS",
@@ -253,9 +240,9 @@ return {
 			task_award_count = {"x1","x30"},
 			gotoui = {"game_Fishing3DHall",},
 		},
-		[19]=
+		[18]=
 		{
-			id = 19,
+			id = 18,
 			key = "actp_own_task_p_task_fish_daily_4_no_cps",
 			task_id = 12530,
 			task_name = "累计充值",
@@ -266,9 +253,9 @@ return {
 			task_award_count = {"x150000","x50"},
 			gotoui = {"shop_bay","jing_bi"},
 		},
-		[20]=
+		[19]=
 		{
-			id = 20,
+			id = 19,
 			key = "actp_own_task_p_task_fish_daily_5",
 			task_id = 12536,
 			task_name = "击杀高倍鱼",
@@ -279,9 +266,9 @@ return {
 			task_award_count = {"x80000","x20"},
 			gotoui = {"game_Fishing3DHall",},
 		},
-		[21]=
+		[20]=
 		{
-			id = 21,
+			id = 20,
 			key = "actp_own_task_p_task_fish_daily_5",
 			task_id = 12535,
 			task_name = "累计赢金",
@@ -292,9 +279,9 @@ return {
 			task_award_count = {"x5万","x20"},
 			gotoui = {"game_Fishing3DHall",},
 		},
-		[22]=
+		[21]=
 		{
-			id = 22,
+			id = 21,
 			key = "actp_own_task_p_task_fish_daily_5",
 			task_id = 12537,
 			task_name = "击杀BOSS",
@@ -305,9 +292,9 @@ return {
 			task_award_count = {"x1","x30"},
 			gotoui = {"game_Fishing3DHall",},
 		},
-		[23]=
+		[22]=
 		{
-			id = 23,
+			id = 22,
 			key = "actp_own_task_p_task_fish_daily_5_no_cps",
 			task_id = 12534,
 			task_name = "累计充值",
@@ -318,9 +305,9 @@ return {
 			task_award_count = {"x500000","x50"},
 			gotoui = {"shop_bay","jing_bi"},
 		},
-		[24]=
+		[23]=
 		{
-			id = 24,
+			id = 23,
 			key = "actp_own_task_p_task_fish_daily_cps",
 			task_id = 12538,
 			task_name = "累计在线",
@@ -331,9 +318,9 @@ return {
 			task_award_count = {"x30","x30"},
 			gotoui = {"game_Fishing3DHall",},
 		},
-		[25]=
+		[24]=
 		{
-			id = 25,
+			id = 24,
 			key = "actp_own_task_p_task_fish_daily_1_2_cps",
 			task_id = 12539,
 			task_name = "单笔充值",
@@ -344,9 +331,9 @@ return {
 			task_award_count = {"x30","x50"},
 			gotoui = {"shop_bay","jing_bi"},
 		},
-		[26]=
+		[25]=
 		{
-			id = 26,
+			id = 25,
 			key = "actp_own_task_p_task_fish_daily_3_cps",
 			task_id = 12540,
 			task_name = "累计充值",
@@ -357,9 +344,9 @@ return {
 			task_award_count = {"x50","x50"},
 			gotoui = {"shop_bay","jing_bi"},
 		},
-		[27]=
+		[26]=
 		{
-			id = 27,
+			id = 26,
 			key = "actp_own_task_p_task_fish_daily_4_cps",
 			task_id = 12541,
 			task_name = "累计充值",
@@ -370,9 +357,9 @@ return {
 			task_award_count = {"x150","x50"},
 			gotoui = {"shop_bay","jing_bi"},
 		},
-		[28]=
+		[27]=
 		{
-			id = 28,
+			id = 27,
 			key = "actp_own_task_p_task_fish_daily_5_cps",
 			task_id = 12542,
 			task_name = "累计充值",
