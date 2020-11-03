@@ -5875,7 +5875,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1604359800,
+			start_deal_time = 1604332800,
 		},
 	},
 	condi=
@@ -14294,7 +14294,7 @@ return {
 		{
 			no = 842,
 			id = 336,
-			var = "market_channel",
+			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
 			group = 1,
