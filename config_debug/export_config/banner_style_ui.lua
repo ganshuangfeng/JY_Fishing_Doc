@@ -939,5 +939,16 @@ return {
 			srartTime = 1604359800,
 			endTime = 1604937599,
 		},
+		[83]=
+		{
+			id = 83,
+			bannerID = 83,
+			isOnOff = 1,
+			order = 100,
+			gotoUI = {"act_030_cwlb","panel"},
+			model = "LoginUp",
+			srartTime = 1604966400,
+			endTime = 1605542399,
+		},
 	},
 }
