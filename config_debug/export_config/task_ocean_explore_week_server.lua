@@ -1685,49 +1685,49 @@ return {
 		{
 			id = 7,
 			source_id = 7,
-			source_type = "buyu_4d_target_yu",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 6,
 		},
 		[8]=
 		{
 			id = 8,
 			source_id = 8,
-			source_type = "buyu_5d_target_yu",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 7,
 		},
 		[9]=
 		{
 			id = 9,
 			source_id = 9,
-			source_type = "buyu_6d_target_yu",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 8,
 		},
 		[10]=
 		{
 			id = 10,
 			source_id = 10,
-			source_type = "buyu_7d_target_yu",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 9,
 		},
 		[11]=
 		{
 			id = 11,
 			source_id = 11,
-			source_type = "buyu_8d_target_yu",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 10,
 		},
 		[12]=
 		{
 			id = 12,
 			source_id = 12,
-			source_type = "buyu_9d_target_yu",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 11,
 		},
 		[13]=
 		{
 			id = 13,
 			source_id = 13,
-			source_type = "buyu_10d_target_yu",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 12,
 		},
 		[14]=
@@ -1775,49 +1775,49 @@ return {
 		{
 			id = 20,
 			source_id = 20,
-			source_type = "buyu_4d_target_yu",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 18,
 		},
 		[21]=
 		{
 			id = 21,
 			source_id = 21,
-			source_type = "buyu_5d_target_yu",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 19,
 		},
 		[22]=
 		{
 			id = 22,
 			source_id = 22,
-			source_type = "buyu_6d_target_yu",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 20,
 		},
 		[23]=
 		{
 			id = 23,
 			source_id = 23,
-			source_type = "buyu_7d_target_yu",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 21,
 		},
 		[24]=
 		{
 			id = 24,
 			source_id = 24,
-			source_type = "buyu_8d_target_yu",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 22,
 		},
 		[25]=
 		{
 			id = 25,
 			source_id = 25,
-			source_type = "buyu_9d_target_yu",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 23,
 		},
 		[26]=
 		{
 			id = 26,
 			source_id = 26,
-			source_type = "buyu_10d_target_yu",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 24,
 		},
 		[27]=
