@@ -2846,5 +2846,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[291]=
+		{
+			id = 291,
+			key = "act_xrqtl_old",
+			desc = "新人七天乐（老版）",
+			lua = "XRQTLManager_Old",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
