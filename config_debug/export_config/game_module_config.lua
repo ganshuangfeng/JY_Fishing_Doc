@@ -1506,9 +1506,9 @@ return {
 			key = "act_005_yzqj",
 			desc = "一字千金",
 			lua = "Act_005YZQJManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[152]=
 		{
@@ -2645,9 +2645,9 @@ return {
 			key = "act_027_mfflq",
 			desc = "免费福利券",
 			lua = "Act_027_MFFLQManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[271]=
 		{
@@ -2695,9 +2695,9 @@ return {
 			key = "act_029_hlqjd",
 			desc = "欢乐敲金蛋",
 			lua = "Act_029_HLQJDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[276]=
 		{
@@ -2839,9 +2839,9 @@ return {
 		[290]=
 		{
 			id = 290,
-			key = "by3d_shtx",
-			desc = "深海探险",
-			lua = "BY3DSHTXManager",
+			key = "by3d_phb",
+			desc = "排行榜总入口",
+			lua = "BY3DPHBManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -2852,6 +2852,16 @@ return {
 			key = "act_xrqtl_old",
 			desc = "新人七天乐（老版）",
 			lua = "XRQTLManager_Old",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[292]=
+		{
+			id = 292,
+			key = "by3d_shtx",
+			desc = "深海探险",
+			lua = "BY3DSHTXManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
