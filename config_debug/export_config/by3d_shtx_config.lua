@@ -11,7 +11,7 @@ return {
 			total = 10000000,
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*1000",},
+			award_txt = {"X1000",},
 		},
 		[2]=
 		{
@@ -22,7 +22,7 @@ return {
 			text = "累计开炮数500发",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*5000",},
+			award_txt = {"X5000",},
 		},
 		[3]=
 		{
@@ -33,7 +33,7 @@ return {
 			text = "捕鱼任意鱼30条",
 			random = 0,
 			award_img = {"prop_3d_fish_lock",},
-			award_txt = {"锁定*3",},
+			award_txt = {"X3",},
 		},
 		[4]=
 		{
@@ -44,7 +44,7 @@ return {
 			text = "使用3次锁定",
 			random = 0,
 			award_img = {"prop_3d_fish_frozen",},
-			award_txt = {"冰冻*3",},
+			award_txt = {"X3",},
 		},
 		[5]=
 		{
@@ -55,7 +55,7 @@ return {
 			text = "使用3次冰冻",
 			random = 0,
 			award_img = {"prop_3d_fish_lock",},
-			award_txt = {"锁定*3",},
+			award_txt = {"X3",},
 		},
 		[6]=
 		{
@@ -66,7 +66,7 @@ return {
 			text = "捕获小丑鱼10条",
 			random = 0,
 			award_img = {"prop_3d_fish_frozen",},
-			award_txt = {"冰冻*3",},
+			award_txt = {"X3",},
 		},
 		[7]=
 		{
@@ -77,7 +77,7 @@ return {
 			text = "捕获小燕鱼10条",
 			random = 0,
 			award_img = {"prop_3d_fish_lock",},
-			award_txt = {"锁定*3",},
+			award_txt = {"X3",},
 		},
 		[8]=
 		{
@@ -88,7 +88,7 @@ return {
 			text = "捕获小黄鳍10条",
 			random = 0,
 			award_img = {"prop_3d_fish_frozen",},
-			award_txt = {"冰冻*3",},
+			award_txt = {"X3",},
 		},
 		[9]=
 		{
@@ -99,7 +99,7 @@ return {
 			text = "捕获黄金灯笼鱼5条",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*1000",},
+			award_txt = {"X1000",},
 		},
 		[10]=
 		{
@@ -110,7 +110,7 @@ return {
 			text = "捕获黄金海龟5只",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*1000",},
+			award_txt = {"X1000",},
 		},
 		[11]=
 		{
@@ -121,7 +121,7 @@ return {
 			text = "捕获大金鲨3条",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*1000",},
+			award_txt = {"X1000",},
 		},
 		[12]=
 		{
@@ -132,7 +132,7 @@ return {
 			text = "捕获任意黄金鱼8条",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*1000",},
+			award_txt = {"X1000",},
 		},
 		[13]=
 		{
@@ -143,7 +143,7 @@ return {
 			text = "捕鱼活动鱼1条",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*1000",},
+			award_txt = {"X1000",},
 		},
 		[14]=
 		{
@@ -154,7 +154,7 @@ return {
 			text = "捕鱼获得金币50万",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*2000",},
+			award_txt = {"X2000",},
 		},
 		[15]=
 		{
@@ -165,7 +165,7 @@ return {
 			text = "累计开炮数1000发",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*10000",},
+			award_txt = {"X10000",},
 		},
 		[16]=
 		{
@@ -176,7 +176,7 @@ return {
 			text = "捕鱼任意鱼100条",
 			random = 0,
 			award_img = {"prop_3d_fish_lock",},
-			award_txt = {"锁定*5",},
+			award_txt = {"X5",},
 		},
 		[17]=
 		{
@@ -187,7 +187,7 @@ return {
 			text = "捕获河豚20条",
 			random = 0,
 			award_img = {"prop_3d_fish_frozen",},
-			award_txt = {"冰冻*5",},
+			award_txt = {"X5",},
 		},
 		[18]=
 		{
@@ -198,7 +198,7 @@ return {
 			text = "捕获小灯笼20条",
 			random = 0,
 			award_img = {"prop_3d_fish_lock",},
-			award_txt = {"锁定*5",},
+			award_txt = {"X5",},
 		},
 		[19]=
 		{
@@ -209,7 +209,7 @@ return {
 			text = "捕获小旗鱼20条",
 			random = 0,
 			award_img = {"prop_3d_fish_frozen",},
-			award_txt = {"冰冻*5",},
+			award_txt = {"X5",},
 		},
 		[20]=
 		{
@@ -220,7 +220,7 @@ return {
 			text = "捕获小水母10条",
 			random = 0,
 			award_img = {"prop_3d_fish_lock",},
-			award_txt = {"锁定*5",},
+			award_txt = {"X5",},
 		},
 		[21]=
 		{
@@ -231,7 +231,7 @@ return {
 			text = "捕获小章鱼10条",
 			random = 0,
 			award_img = {"prop_3d_fish_frozen",},
-			award_txt = {"冰冻*5",},
+			award_txt = {"X5",},
 		},
 		[22]=
 		{
@@ -242,7 +242,7 @@ return {
 			text = "捕获黄金灯笼鱼8条",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*2000",},
+			award_txt = {"X2000",},
 		},
 		[23]=
 		{
@@ -253,7 +253,7 @@ return {
 			text = "捕获黄金海龟8只",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*2000",},
+			award_txt = {"X2000",},
 		},
 		[24]=
 		{
@@ -264,7 +264,7 @@ return {
 			text = "捕获大金鲨5条",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*2000",},
+			award_txt = {"X2000",},
 		},
 		[25]=
 		{
@@ -275,7 +275,7 @@ return {
 			text = "捕获黄金鱼10条",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*2000",},
+			award_txt = {"X2000",},
 		},
 		[26]=
 		{
@@ -286,7 +286,7 @@ return {
 			text = "捕鱼活动鱼3条",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*2000",},
+			award_txt = {"X2000",},
 		},
 		[27]=
 		{
@@ -297,7 +297,7 @@ return {
 			text = "捕鱼获得金币300万（500倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*5000",},
+			award_txt = {"X5000",},
 		},
 		[28]=
 		{
@@ -308,7 +308,7 @@ return {
 			text = "累计开炮数2000发（500倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*20000",},
+			award_txt = {"X20000",},
 		},
 		[29]=
 		{
@@ -319,7 +319,7 @@ return {
 			text = "捕鱼任意鱼200条（500倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*5000",},
+			award_txt = {"X5000",},
 		},
 		[30]=
 		{
@@ -330,7 +330,7 @@ return {
 			text = "捕获狮子鱼20条（500倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*5000",},
+			award_txt = {"X5000",},
 		},
 		[31]=
 		{
@@ -341,7 +341,7 @@ return {
 			text = "捕获蝴蝶鱼20条（500倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*5000",},
+			award_txt = {"X5000",},
 		},
 		[32]=
 		{
@@ -352,7 +352,7 @@ return {
 			text = "捕获20倍以上的鱼20条（500倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*10000",},
+			award_txt = {"X10000",},
 		},
 		[33]=
 		{
@@ -363,7 +363,7 @@ return {
 			text = "捕获30倍以上的鱼10条（500倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*10000",},
+			award_txt = {"X10000",},
 		},
 		[34]=
 		{
@@ -374,7 +374,7 @@ return {
 			text = "捕获黄金狮子鱼8条（500倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*10000",},
+			award_txt = {"X10000",},
 		},
 		[35]=
 		{
@@ -385,7 +385,7 @@ return {
 			text = "捕获黄金海龟8只（500倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*10000",},
+			award_txt = {"X10000",},
 		},
 		[36]=
 		{
@@ -396,7 +396,7 @@ return {
 			text = "捕获大金鲨5条（500倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*10000",},
+			award_txt = {"X10000",},
 		},
 		[37]=
 		{
@@ -407,7 +407,7 @@ return {
 			text = "捕获黄金鱼15条（500倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*10000",},
+			award_txt = {"X10000",},
 		},
 		[38]=
 		{
@@ -418,7 +418,7 @@ return {
 			text = "捕鱼活动鱼3条（500倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*10000",},
+			award_txt = {"X10000",},
 		},
 		[39]=
 		{
@@ -429,7 +429,7 @@ return {
 			text = "捕获BOSS鱼1只（500倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*10000",},
+			award_txt = {"X10000",},
 		},
 		[40]=
 		{
@@ -440,7 +440,7 @@ return {
 			text = "捕鱼获得金币500万（1000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*10000",},
+			award_txt = {"X10000",},
 		},
 		[41]=
 		{
@@ -451,7 +451,7 @@ return {
 			text = "累计开炮数3000发（1000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*30000",},
+			award_txt = {"X30000",},
 		},
 		[42]=
 		{
@@ -462,7 +462,7 @@ return {
 			text = "捕鱼任意鱼300条（1000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*10000",},
+			award_txt = {"X10000",},
 		},
 		[43]=
 		{
@@ -473,7 +473,7 @@ return {
 			text = "捕获巨大小丑鱼20条（1000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*10000",},
+			award_txt = {"X10000",},
 		},
 		[44]=
 		{
@@ -484,7 +484,7 @@ return {
 			text = "捕获巨大灯笼鱼20条（1000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*10000",},
+			award_txt = {"X10000",},
 		},
 		[45]=
 		{
@@ -495,7 +495,7 @@ return {
 			text = "捕获巨大燕鱼20条（1000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*10000",},
+			award_txt = {"X10000",},
 		},
 		[46]=
 		{
@@ -506,7 +506,7 @@ return {
 			text = "捕获30倍以上的鱼30条（1000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*20000",},
+			award_txt = {"X20000",},
 		},
 		[47]=
 		{
@@ -517,7 +517,7 @@ return {
 			text = "捕获50倍以上的鱼20条（1000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*20000",},
+			award_txt = {"X20000",},
 		},
 		[48]=
 		{
@@ -528,7 +528,7 @@ return {
 			text = "捕获金蟾10只（1000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*20000",},
+			award_txt = {"X20000",},
 		},
 		[49]=
 		{
@@ -539,7 +539,7 @@ return {
 			text = "捕获黄金锤头鲨10条（1000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*20000",},
+			award_txt = {"X20000",},
 		},
 		[50]=
 		{
@@ -550,7 +550,7 @@ return {
 			text = "捕获宝藏鳄鱼3只（1000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*20000",},
+			award_txt = {"X20000",},
 		},
 		[51]=
 		{
@@ -561,7 +561,7 @@ return {
 			text = "捕获黄金鱼20条（1000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*20000",},
+			award_txt = {"X20000",},
 		},
 		[52]=
 		{
@@ -572,7 +572,7 @@ return {
 			text = "捕鱼活动鱼5条（1000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*30000",},
+			award_txt = {"X30000",},
 		},
 		[53]=
 		{
@@ -583,7 +583,7 @@ return {
 			text = "捕鱼获得金币1000万（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*20000",},
+			award_txt = {"X20000",},
 		},
 		[54]=
 		{
@@ -594,7 +594,7 @@ return {
 			text = "累计开炮数5000发（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*50000",},
+			award_txt = {"X50000",},
 		},
 		[55]=
 		{
@@ -605,7 +605,7 @@ return {
 			text = "捕鱼任意鱼500条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*50000",},
+			award_txt = {"X50000",},
 		},
 		[56]=
 		{
@@ -616,7 +616,7 @@ return {
 			text = "捕获魔鬼鱼30条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*50000",},
+			award_txt = {"X50000",},
 		},
 		[57]=
 		{
@@ -627,7 +627,7 @@ return {
 			text = "捕获虎鲸30条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*50000",},
+			award_txt = {"X50000",},
 		},
 		[58]=
 		{
@@ -638,7 +638,7 @@ return {
 			text = "捕获100倍以上的鱼20条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*50000",},
+			award_txt = {"X50000",},
 		},
 		[59]=
 		{
@@ -649,7 +649,7 @@ return {
 			text = "捕获大金鲨20只（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*50000",},
+			award_txt = {"X50000",},
 		},
 		[60]=
 		{
@@ -660,7 +660,7 @@ return {
 			text = "捕获80倍以上的鱼20条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*50000",},
+			award_txt = {"X50000",},
 		},
 		[61]=
 		{
@@ -671,7 +671,7 @@ return {
 			text = "捕获金蟾20只（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*50000",},
+			award_txt = {"X50000",},
 		},
 		[62]=
 		{
@@ -682,7 +682,7 @@ return {
 			text = "捕获黄金锤头鲨20条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*50000",},
+			award_txt = {"X50000",},
 		},
 		[63]=
 		{
@@ -693,7 +693,7 @@ return {
 			text = "捕获boss鱼5条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*50000",},
+			award_txt = {"X50000",},
 		},
 		[64]=
 		{
@@ -704,7 +704,7 @@ return {
 			text = "捕获黄金鱼50条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*50000",},
+			award_txt = {"X50000",},
 		},
 		[65]=
 		{
@@ -715,7 +715,7 @@ return {
 			text = "捕鱼活动鱼10条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*50000",},
+			award_txt = {"X50000",},
 		},
 		[66]=
 		{
@@ -726,7 +726,7 @@ return {
 			text = "捕鱼获得金币1亿（10000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*100000",},
+			award_txt = {"X100000",},
 		},
 		[67]=
 		{
@@ -737,7 +737,7 @@ return {
 			text = "捕获100倍以上的鱼50条（10000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*100000",},
+			award_txt = {"X100000",},
 		},
 		[68]=
 		{
@@ -748,7 +748,7 @@ return {
 			text = "捕获boss鱼5条（10000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*100000",},
+			award_txt = {"X100000",},
 		},
 		[69]=
 		{
@@ -759,7 +759,7 @@ return {
 			text = "捕获黄金鱼50条（10000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*100000",},
+			award_txt = {"X100000",},
 		},
 		[70]=
 		{
@@ -770,7 +770,7 @@ return {
 			text = "捕鱼任意鱼1000条（10000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*100000",},
+			award_txt = {"X100000",},
 		},
 		[71]=
 		{
@@ -781,7 +781,7 @@ return {
 			text = "捕鱼活动鱼10条（10000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"鱼币*100000",},
+			award_txt = {"X100000",},
 		},
 	},
 	extra_award=
