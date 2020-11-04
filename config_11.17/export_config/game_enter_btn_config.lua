@@ -169,7 +169,7 @@ return {
 		{
 			id = 3,
 			area = "right",
-			group_list = "92#84#42#",
+			group_list = "110#84#42#",
 		},
 		[4]=
 		{
@@ -187,6 +187,12 @@ return {
 			id = 6,
 			area = "fish3d_node",
 			group_list = "65#",
+		},
+		[7]=
+		{
+			id = 7,
+			area = "left_bottom",
+			group_list = "92#",
 		},
 	},
 	ddz_free_game=
