@@ -30156,8 +30156,8 @@ return {
 		{
 			id = 1184,
 			award_id = 773,
-			asset_type = "prop_3d_fish_nuclear_bomb_1",
-			asset_count = 1,
+			asset_type = "jing_bi",
+			asset_count = 80000,
 			get_weight = 1,
 		},
 		[1185]=
