@@ -288,7 +288,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "40#43#79#88#8#",
+			group_list = "111#112#79#88#8#",
 		},
 		[2]=
 		{
@@ -1076,6 +1076,24 @@ return {
 		{
 			id = 109,
 			parm = {"by3d_shtx",},
+			is_on_off = 1,
+		},
+		[110]=
+		{
+			id = 110,
+			parm = {"act_035_ybwl",},
+			is_on_off = 1,
+		},
+		[111]=
+		{
+			id = 111,
+			parm = {"sys_by3d_jchd",},
+			is_on_off = 1,
+		},
+		[112]=
+		{
+			id = 112,
+			parm = {"sys_by3d_hqjb",},
 			is_on_off = 1,
 		},
 	},
