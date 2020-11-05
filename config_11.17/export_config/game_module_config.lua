@@ -2896,5 +2896,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[296]=
+		{
+			id = 296,
+			key = "by3d_phb",
+			desc = "排行榜总入口",
+			lua = "BY3DPHBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
