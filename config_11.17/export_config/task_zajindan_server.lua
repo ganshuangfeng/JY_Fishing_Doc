@@ -17190,393 +17190,449 @@ return {
 		[713]=
 		{
 			id = 713,
-			source_id = 499,
-			source_type = "xiaoxiaole_award",
+			source_id = 498,
+			source_type = "buyu_award",
 			condition_id = 0,
 		},
 		[714]=
 		{
 			id = 714,
 			source_id = 499,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 		[715]=
 		{
 			id = 715,
 			source_id = 499,
-			source_type = "xiaoxiaole_caishen_award",
+			source_type = "xiaoxiaole_shuihu_award",
 			condition_id = 0,
 		},
 		[716]=
 		{
 			id = 716,
 			source_id = 499,
-			source_type = "tantanle_award",
+			source_type = "xiaoxiaole_caishen_award",
 			condition_id = 0,
 		},
 		[717]=
 		{
 			id = 717,
 			source_id = 499,
-			source_type = "guess_apple_award",
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[718]=
 		{
 			id = 718,
 			source_id = 499,
-			source_type = "jykp_award",
+			source_type = "guess_apple_award",
 			condition_id = 0,
 		},
 		[719]=
 		{
 			id = 719,
 			source_id = 499,
-			source_type = "zajindan_award",
+			source_type = "jykp_award",
 			condition_id = 0,
 		},
 		[720]=
 		{
 			id = 720,
 			source_id = 499,
-			source_type = "buyu_3d_award",
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[721]=
 		{
 			id = 721,
-			source_id = 500,
-			source_type = "xiaoxiaole_award",
+			source_id = 499,
+			source_type = "buyu_3d_award",
 			condition_id = 0,
 		},
 		[722]=
 		{
 			id = 722,
-			source_id = 500,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_id = 499,
+			source_type = "buyu_award",
 			condition_id = 0,
 		},
 		[723]=
 		{
 			id = 723,
 			source_id = 500,
-			source_type = "xiaoxiaole_caishen_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 		[724]=
 		{
 			id = 724,
 			source_id = 500,
-			source_type = "tantanle_award",
+			source_type = "xiaoxiaole_shuihu_award",
 			condition_id = 0,
 		},
 		[725]=
 		{
 			id = 725,
 			source_id = 500,
-			source_type = "guess_apple_award",
+			source_type = "xiaoxiaole_caishen_award",
 			condition_id = 0,
 		},
 		[726]=
 		{
 			id = 726,
 			source_id = 500,
-			source_type = "jykp_award",
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[727]=
 		{
 			id = 727,
 			source_id = 500,
-			source_type = "zajindan_award",
+			source_type = "guess_apple_award",
 			condition_id = 0,
 		},
 		[728]=
 		{
 			id = 728,
 			source_id = 500,
-			source_type = "buyu_3d_award",
+			source_type = "jykp_award",
 			condition_id = 0,
 		},
 		[729]=
 		{
 			id = 729,
-			source_id = 501,
-			source_type = "xiaoxiaole_award",
+			source_id = 500,
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[730]=
 		{
 			id = 730,
-			source_id = 501,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_id = 500,
+			source_type = "buyu_3d_award",
 			condition_id = 0,
 		},
 		[731]=
 		{
 			id = 731,
-			source_id = 501,
-			source_type = "xiaoxiaole_caishen_award",
+			source_id = 500,
+			source_type = "buyu_award",
 			condition_id = 0,
 		},
 		[732]=
 		{
 			id = 732,
 			source_id = 501,
-			source_type = "tantanle_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 		[733]=
 		{
 			id = 733,
 			source_id = 501,
-			source_type = "guess_apple_award",
+			source_type = "xiaoxiaole_shuihu_award",
 			condition_id = 0,
 		},
 		[734]=
 		{
 			id = 734,
 			source_id = 501,
-			source_type = "jykp_award",
+			source_type = "xiaoxiaole_caishen_award",
 			condition_id = 0,
 		},
 		[735]=
 		{
 			id = 735,
 			source_id = 501,
-			source_type = "zajindan_award",
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[736]=
 		{
 			id = 736,
 			source_id = 501,
-			source_type = "buyu_3d_award",
+			source_type = "guess_apple_award",
 			condition_id = 0,
 		},
 		[737]=
 		{
 			id = 737,
-			source_id = 502,
-			source_type = "xiaoxiaole_award",
+			source_id = 501,
+			source_type = "jykp_award",
 			condition_id = 0,
 		},
 		[738]=
 		{
 			id = 738,
-			source_id = 502,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_id = 501,
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[739]=
 		{
 			id = 739,
-			source_id = 502,
-			source_type = "xiaoxiaole_caishen_award",
+			source_id = 501,
+			source_type = "buyu_3d_award",
 			condition_id = 0,
 		},
 		[740]=
 		{
 			id = 740,
-			source_id = 502,
-			source_type = "tantanle_award",
+			source_id = 501,
+			source_type = "buyu_award",
 			condition_id = 0,
 		},
 		[741]=
 		{
 			id = 741,
 			source_id = 502,
-			source_type = "guess_apple_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 		[742]=
 		{
 			id = 742,
 			source_id = 502,
-			source_type = "jykp_award",
+			source_type = "xiaoxiaole_shuihu_award",
 			condition_id = 0,
 		},
 		[743]=
 		{
 			id = 743,
 			source_id = 502,
-			source_type = "zajindan_award",
+			source_type = "xiaoxiaole_caishen_award",
 			condition_id = 0,
 		},
 		[744]=
 		{
 			id = 744,
 			source_id = 502,
-			source_type = "buyu_3d_award",
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[745]=
 		{
 			id = 745,
-			source_id = 503,
-			source_type = "xiaoxiaole_award",
+			source_id = 502,
+			source_type = "guess_apple_award",
 			condition_id = 0,
 		},
 		[746]=
 		{
 			id = 746,
-			source_id = 503,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_id = 502,
+			source_type = "jykp_award",
 			condition_id = 0,
 		},
 		[747]=
 		{
 			id = 747,
-			source_id = 503,
-			source_type = "xiaoxiaole_caishen_award",
+			source_id = 502,
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[748]=
 		{
 			id = 748,
-			source_id = 503,
-			source_type = "tantanle_award",
+			source_id = 502,
+			source_type = "buyu_3d_award",
 			condition_id = 0,
 		},
 		[749]=
 		{
 			id = 749,
-			source_id = 503,
-			source_type = "guess_apple_award",
+			source_id = 502,
+			source_type = "buyu_award",
 			condition_id = 0,
 		},
 		[750]=
 		{
 			id = 750,
 			source_id = 503,
-			source_type = "jykp_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 		[751]=
 		{
 			id = 751,
 			source_id = 503,
-			source_type = "zajindan_award",
+			source_type = "xiaoxiaole_shuihu_award",
 			condition_id = 0,
 		},
 		[752]=
 		{
 			id = 752,
 			source_id = 503,
-			source_type = "buyu_3d_award",
+			source_type = "xiaoxiaole_caishen_award",
 			condition_id = 0,
 		},
 		[753]=
 		{
 			id = 753,
-			source_id = 504,
-			source_type = "xiaoxiaole_award",
+			source_id = 503,
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[754]=
 		{
 			id = 754,
-			source_id = 504,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_id = 503,
+			source_type = "guess_apple_award",
 			condition_id = 0,
 		},
 		[755]=
 		{
 			id = 755,
-			source_id = 504,
-			source_type = "xiaoxiaole_caishen_award",
+			source_id = 503,
+			source_type = "jykp_award",
 			condition_id = 0,
 		},
 		[756]=
 		{
 			id = 756,
-			source_id = 504,
-			source_type = "tantanle_award",
+			source_id = 503,
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[757]=
 		{
 			id = 757,
-			source_id = 504,
-			source_type = "guess_apple_award",
+			source_id = 503,
+			source_type = "buyu_3d_award",
 			condition_id = 0,
 		},
 		[758]=
 		{
 			id = 758,
-			source_id = 504,
-			source_type = "jykp_award",
+			source_id = 503,
+			source_type = "buyu_award",
 			condition_id = 0,
 		},
 		[759]=
 		{
 			id = 759,
 			source_id = 504,
-			source_type = "zajindan_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 		[760]=
 		{
 			id = 760,
 			source_id = 504,
-			source_type = "buyu_3d_award",
+			source_type = "xiaoxiaole_shuihu_award",
 			condition_id = 0,
 		},
 		[761]=
 		{
 			id = 761,
-			source_id = 505,
-			source_type = "xiaoxiaole_award",
+			source_id = 504,
+			source_type = "xiaoxiaole_caishen_award",
 			condition_id = 0,
 		},
 		[762]=
 		{
 			id = 762,
-			source_id = 505,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_id = 504,
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[763]=
 		{
 			id = 763,
-			source_id = 505,
-			source_type = "xiaoxiaole_caishen_award",
+			source_id = 504,
+			source_type = "guess_apple_award",
 			condition_id = 0,
 		},
 		[764]=
 		{
 			id = 764,
-			source_id = 505,
-			source_type = "tantanle_award",
+			source_id = 504,
+			source_type = "jykp_award",
 			condition_id = 0,
 		},
 		[765]=
 		{
 			id = 765,
-			source_id = 505,
-			source_type = "guess_apple_award",
+			source_id = 504,
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[766]=
 		{
 			id = 766,
-			source_id = 505,
-			source_type = "jykp_award",
+			source_id = 504,
+			source_type = "buyu_3d_award",
 			condition_id = 0,
 		},
 		[767]=
 		{
 			id = 767,
-			source_id = 505,
-			source_type = "zajindan_award",
+			source_id = 504,
+			source_type = "buyu_award",
 			condition_id = 0,
 		},
 		[768]=
 		{
 			id = 768,
 			source_id = 505,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[769]=
+		{
+			id = 769,
+			source_id = 505,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[770]=
+		{
+			id = 770,
+			source_id = 505,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[771]=
+		{
+			id = 771,
+			source_id = 505,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[772]=
+		{
+			id = 772,
+			source_id = 505,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[773]=
+		{
+			id = 773,
+			source_id = 505,
+			source_type = "jykp_award",
+			condition_id = 0,
+		},
+		[774]=
+		{
+			id = 774,
+			source_id = 505,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[775]=
+		{
+			id = 775,
+			source_id = 505,
 			source_type = "buyu_3d_award",
+			condition_id = 0,
+		},
+		[776]=
+		{
+			id = 776,
+			source_id = 505,
+			source_type = "buyu_award",
 			condition_id = 0,
 		},
 	},
