@@ -2886,5 +2886,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[295]=
+		{
+			id = 295,
+			key = "act_035_jhs",
+			desc = "聚划算",
+			lua = "Act_035_JHSManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
