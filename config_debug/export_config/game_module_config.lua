@@ -2585,9 +2585,9 @@ return {
 			key = "act_026_xrcdj",
 			desc = "新人抽大奖",
 			lua = "Act_026_XRCDJManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[265]=
 		{
