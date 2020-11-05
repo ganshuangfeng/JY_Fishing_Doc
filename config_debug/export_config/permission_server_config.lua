@@ -1908,12 +1908,6 @@ return {
 			name = "新人专享（新人才展示）",
 			condi = 91,
 		},
-		xrqtl_new=
-		{
-			key = "xrqtl_new",
-			name = "新人七天乐（新版）",
-			condi = 337,
-		},
 	},
 	act_permission=
 	{
@@ -5888,6 +5882,18 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 1604332800,
+		},
+		[332]=
+		{
+			id = 332,
+			enable = 1,
+			key = "actp_own_task_p_xrqtl_new",
+			name = "新人七天乐（新版）",
+			condi = 337,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
 		},
 	},
 	condi=

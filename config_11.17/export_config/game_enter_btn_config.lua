@@ -169,7 +169,7 @@ return {
 		{
 			id = 3,
 			area = "right",
-			group_list = "110#84#42#",
+			group_list = "110#84#114#42#",
 		},
 		[4]=
 		{
@@ -1105,6 +1105,12 @@ return {
 		{
 			id = 113,
 			parm = {"sys_by3d_hqjb",},
+			is_on_off = 1,
+		},
+		[114]=
+		{
+			id = 114,
+			parm = {"act_035_jhs",},
 			is_on_off = 1,
 		},
 	},

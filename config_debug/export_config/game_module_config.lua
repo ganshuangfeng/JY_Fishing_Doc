@@ -2506,8 +2506,8 @@ return {
 			desc = "节日特惠",
 			lua = "Act_025_JRTHManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[257]=
 		{

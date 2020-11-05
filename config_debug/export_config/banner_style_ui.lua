@@ -480,7 +480,7 @@ return {
 			bannerID = 45,
 			isOnOff = 1,
 			order = 3,
-			condi_key = "xrqtl_new",
+			condi_key = "actp_own_task_p_xrqtl_new",
 			gotoUI = {"act_xrqtl","panel"},
 			model = "LoginUp",
 			srartTime = -1,
