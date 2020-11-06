@@ -17128,7 +17128,7 @@ return {
 		{
 			id = 704,
 			source_id = 497,
-			source_type = "buy_gift",
+			source_type = "agent_charge_any",
 			condition_id = 355,
 		},
 		[705]=
