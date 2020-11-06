@@ -21467,7 +21467,7 @@ return {
 			id = 509,
 			condition_id = 355,
 			condition_name = "gift_id",
-			condition_value = {10384,10385,10386,10387,10388,10389},
+			condition_value = {10384,10385,10386,10387,10388,10389,10390,10391},
 			judge_type = 2,
 		},
 	},
