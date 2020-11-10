@@ -49,6 +49,18 @@ return {
 			award_id = 4,
 			enable = 1,
 		},
+		[5]=
+		{
+			id = 5,
+			name = "火鸡换好礼",
+			start_time = 1606176000,
+			end_time = 1606751999,
+			use_goods = {"prop_gej_hj",},
+			goods_type = 1,
+			email_id = 5,
+			award_id = 5,
+			enable = 1,
+		},
 	},
 	email=
 	{
@@ -75,6 +87,12 @@ return {
 			id = 4,
 			title = "国庆狂欢",
 			content = "恭喜您在五星换好礼活动中获得了%s，请在活动结束后7个工作日内联系公众号《畅游新世界》客服领取，逾期视为自动放弃！",
+		},
+		[5]=
+		{
+			id = 5,
+			title = "火鸡换好礼",
+			content = "恭喜您在火鸡换好礼活动中获得了%s，请在活动结束后7个工作日内联系公众号《畅游新世界》客服领取，逾期视为自动放弃！",
 		},
 	},
 	award=
@@ -316,6 +334,82 @@ return {
 			permission_key = "actp_gqkl_031_aster_exchange",
 			asset_type = {"jing_bi",},
 			asset_count = {1000000,},
+			use_num = {1200,},
+			me_limit_day_num = 1,
+		},
+		[25]=
+		{
+			no = 25,
+			award_cfg_id = 5,
+			award_id = 1,
+			award_name = "金龙鱼大豆油4L",
+			use_num = {15000,},
+			me_limit_day_num = 1,
+		},
+		[26]=
+		{
+			no = 26,
+			award_cfg_id = 5,
+			award_id = 2,
+			award_name = "仓鼠抱枕",
+			use_num = {8000,},
+			me_limit_day_num = 1,
+		},
+		[27]=
+		{
+			no = 27,
+			award_cfg_id = 5,
+			award_id = 3,
+			award_name = "金龙鱼大米",
+			use_num = {5000,},
+			me_limit_day_num = 1,
+		},
+		[28]=
+		{
+			no = 28,
+			award_cfg_id = 5,
+			award_id = 4,
+			asset_type = {"jing_bi",},
+			asset_count = 20000000,
+			use_num = {24000,},
+		},
+		[29]=
+		{
+			no = 29,
+			award_cfg_id = 5,
+			award_id = 5,
+			asset_type = {"jing_bi",},
+			asset_count = 10000000,
+			use_num = {12000,},
+			me_limit_day_num = 3,
+		},
+		[30]=
+		{
+			no = 30,
+			award_cfg_id = 5,
+			award_id = 6,
+			asset_type = {"jing_bi",},
+			asset_count = 5000000,
+			use_num = {6000,},
+			me_limit_day_num = 2,
+		},
+		[31]=
+		{
+			no = 31,
+			award_cfg_id = 5,
+			award_id = 7,
+			asset_type = {"jing_bi",},
+			asset_count = 2000000,
+			use_num = {2400,},
+			me_limit_day_num = 1,
+		},
+		[32]=
+		{
+			no = 32,
+			award_cfg_id = 5,
+			award_id = 8,
+			asset_type = {"jing_bi",},
+			asset_count = 1000000,
 			use_num = {1200,},
 			me_limit_day_num = 1,
 		},

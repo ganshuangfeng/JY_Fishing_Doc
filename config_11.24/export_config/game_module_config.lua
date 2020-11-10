@@ -2733,9 +2733,9 @@ return {
 			id = 279,
 			key = "act_031_gqkl",
 			desc = "国庆快乐",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[280]=
 		{
@@ -2763,9 +2763,9 @@ return {
 			key = "act_031_gqkl_ani",
 			desc = "星星掉落脚本",
 			lua = "Act_031_GQKLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[283]=
 		{
