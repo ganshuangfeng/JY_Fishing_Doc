@@ -272,7 +272,7 @@ return {
 			id = 12520,
 			enable = 1,
 			name = "捕鱼技能",
-			own_type = "p_task_fish_daily_1",
+			own_type = "p_task_fish_daily_1_2",
 			task_enum = "common",
 			process_id = 12520,
 			is_reset = 1,
@@ -326,7 +326,7 @@ return {
 		[12524]=
 		{
 			id = 12524,
-			enable = 1,
+			enable = 0,
 			name = "观看广告",
 			own_type = "p_task_fish_daily_2_no_cps",
 			task_enum = "common",
