@@ -204,7 +204,7 @@ return {
 		[13]=
 		{
 			id = 13,
-			power = 2560.000000,
+			power = 2560,
 			award = 0,
 			show_power = 0,
 			name = "空",
@@ -272,47 +272,47 @@ return {
 		[1]=
 		{
 			id = 1,
-			power = 50,
+			power = 47,
 		},
 		[2]=
 		{
 			id = 2,
-			power = 200,
+			power = 190,
 		},
 		[3]=
 		{
 			id = 3,
-			power = 350.000000,
+			power = 340,
 		},
 		[4]=
 		{
 			id = 4,
-			power = 510.000000,
+			power = 490,
 		},
 		[5]=
 		{
 			id = 5,
-			power = 610,
+			power = 590,
 		},
 		[6]=
 		{
 			id = 6,
-			power = 720,
+			power = 690,
 		},
 		[7]=
 		{
 			id = 7,
-			power = 900,
+			power = 880,
 		},
 		[8]=
 		{
 			id = 8,
-			power = 900,
+			power = 880,
 		},
 		[9]=
 		{
 			id = 9,
-			power = 900,
+			power = 880,
 		},
 		[10]=
 		{
@@ -332,7 +332,7 @@ return {
 		[13]=
 		{
 			id = 13,
-			power = 1170.000000,
+			power = 1323,
 		},
 	},
 	award_power2=
@@ -340,47 +340,47 @@ return {
 		[1]=
 		{
 			id = 1,
-			power = 50,
+			power = 47,
 		},
 		[2]=
 		{
 			id = 2,
-			power = 200,
+			power = 190,
 		},
 		[3]=
 		{
 			id = 3,
-			power = 350.000000,
+			power = 340,
 		},
 		[4]=
 		{
 			id = 4,
-			power = 510.000000,
+			power = 490,
 		},
 		[5]=
 		{
 			id = 5,
-			power = 610,
+			power = 590,
 		},
 		[6]=
 		{
 			id = 6,
-			power = 720,
+			power = 690,
 		},
 		[7]=
 		{
 			id = 7,
-			power = 900,
+			power = 880,
 		},
 		[8]=
 		{
 			id = 8,
-			power = 900,
+			power = 880,
 		},
 		[9]=
 		{
 			id = 9,
-			power = 900,
+			power = 880,
 		},
 		[10]=
 		{
@@ -400,7 +400,7 @@ return {
 		[13]=
 		{
 			id = 13,
-			power = 1170.000000,
+			power = 1323,
 		},
 	},
 	award_power3=
@@ -408,47 +408,47 @@ return {
 		[1]=
 		{
 			id = 1,
-			power = 50,
+			power = 47,
 		},
 		[2]=
 		{
 			id = 2,
-			power = 200,
+			power = 190,
 		},
 		[3]=
 		{
 			id = 3,
-			power = 350.000000,
+			power = 340,
 		},
 		[4]=
 		{
 			id = 4,
-			power = 510.000000,
+			power = 490,
 		},
 		[5]=
 		{
 			id = 5,
-			power = 610,
+			power = 590,
 		},
 		[6]=
 		{
 			id = 6,
-			power = 720,
+			power = 690,
 		},
 		[7]=
 		{
 			id = 7,
-			power = 900,
+			power = 880,
 		},
 		[8]=
 		{
 			id = 8,
-			power = 900,
+			power = 880,
 		},
 		[9]=
 		{
 			id = 9,
-			power = 900,
+			power = 880,
 		},
 		[10]=
 		{
@@ -468,7 +468,7 @@ return {
 		[13]=
 		{
 			id = 13,
-			power = 1170.000000,
+			power = 1323,
 		},
 	},
 	award_power4=
@@ -476,32 +476,32 @@ return {
 		[1]=
 		{
 			id = 1,
-			power = 50,
+			power = 47,
 		},
 		[2]=
 		{
 			id = 2,
-			power = 200,
+			power = 190,
 		},
 		[3]=
 		{
 			id = 3,
-			power = 350.000000,
+			power = 340,
 		},
 		[4]=
 		{
 			id = 4,
-			power = 500,
+			power = 490,
 		},
 		[5]=
 		{
 			id = 5,
-			power = 600,
+			power = 590,
 		},
 		[6]=
 		{
 			id = 6,
-			power = 710.000000,
+			power = 690,
 		},
 		[7]=
 		{
@@ -536,7 +536,7 @@ return {
 		[13]=
 		{
 			id = 13,
-			power = 1260.000000,
+			power = 1323,
 		},
 	},
 }
