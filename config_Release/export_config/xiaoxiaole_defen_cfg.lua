@@ -243,25 +243,28 @@ return {
 			line = 5,
 			dw = 5,
 			jb = 60000,
+			vip = 1,
 		},
 		[6]=
 		{
 			line = 6,
 			dw = 6,
 			jb = 120000,
+			vip = 1,
 		},
 		[7]=
 		{
 			line = 7,
 			dw = 7,
 			jb = 240000,
+			vip = 1,
 		},
 		[8]=
 		{
 			line = 8,
 			dw = 8,
 			jb = 480000,
-			vip = 1,
+			vip = 2,
 		},
 		[9]=
 		{

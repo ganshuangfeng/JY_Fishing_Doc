@@ -439,4 +439,35 @@ return {
 			fx_award_id = 3,
 		},
 	},
+	tg_get_award=
+	{
+		[1]=
+		{
+			no = 1,
+			award_pool_limit = 15,
+			interval = 24,
+			week_interval = 24,
+		},
+		[2]=
+		{
+			no = 2,
+			award_pool_limit = 100,
+			interval = 12,
+			week_interval = 12,
+		},
+		[3]=
+		{
+			no = 3,
+			award_pool_limit = 500,
+			interval = 3,
+			week_interval = 3,
+		},
+		[4]=
+		{
+			no = 4,
+			award_pool_limit = 1000,
+			interval = 1,
+			week_interval = 1,
+		},
+	},
 }

@@ -31,5 +31,20 @@ return {
 			id = "fish_3d_game_challenge_award",
 			listen = 0,
 		},
+		luck_lottery_1=
+		{
+			id = "luck_lottery_1",
+			listen = 0,
+		},
+		luck_lottery_2=
+		{
+			id = "luck_lottery_2",
+			listen = 0,
+		},
+		buyu_task_get_award =
+		{
+			id = "buyu_task_get_award ",
+			listen = 0,
+		},
 	},
 }

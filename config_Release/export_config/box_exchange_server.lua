@@ -605,6 +605,16 @@ return {
 			award_id = 55,
 			enable = 1,
 		},
+		[56]=
+		{
+			id = 56,
+			name = "双十一抽奖",
+			start_time = 1604966400,
+			end_time = 1605542399,
+			use_asset_id = 51,
+			award_id = 56,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
@@ -956,6 +966,13 @@ return {
 			id = 50,
 			use_id = 50,
 			use_item = "prop_cjlb_12",
+			use_num = 1,
+		},
+		[51]=
+		{
+			id = 51,
+			use_id = 51,
+			use_item = "prop_11.11_cjq",
 			use_num = 1,
 		},
 	},
@@ -3370,6 +3387,48 @@ return {
 			award_id = 55,
 			real_award_id = 11817,
 			weight = 1,
+		},
+		[344]=
+		{
+			no = 344,
+			award_id = 56,
+			real_award_id = 11818,
+			weight = 20,
+		},
+		[345]=
+		{
+			no = 345,
+			award_id = 56,
+			real_award_id = 11819,
+			weight = 25,
+		},
+		[346]=
+		{
+			no = 346,
+			award_id = 56,
+			real_award_id = 11820,
+			weight = 25,
+		},
+		[347]=
+		{
+			no = 347,
+			award_id = 56,
+			real_award_id = 11821,
+			weight = 27,
+		},
+		[348]=
+		{
+			no = 348,
+			award_id = 56,
+			real_award_id = 11822,
+			weight = 3,
+		},
+		[349]=
+		{
+			no = 349,
+			award_id = 56,
+			real_award_id = 11823,
+			weight = 0,
 		},
 	},
 	award_item=
@@ -5936,6 +5995,52 @@ return {
 			award_name = "65-85万金币",
 			asset_type = "jing_bi",
 			asset_count = {650000,850000},
+		},
+		[344]=
+		{
+			id = 344,
+			real_award_id = 11818,
+			award_name = "12000金币",
+			asset_type = "jing_bi",
+			asset_count = {12000,12000},
+		},
+		[345]=
+		{
+			id = 345,
+			real_award_id = 11819,
+			award_name = "15福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {15,15},
+		},
+		[346]=
+		{
+			id = 346,
+			real_award_id = 11820,
+			award_name = "20000金币",
+			asset_type = "jing_bi",
+			asset_count = {20000,20000},
+		},
+		[347]=
+		{
+			id = 347,
+			real_award_id = 11821,
+			award_name = "30福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {30,30},
+		},
+		[348]=
+		{
+			id = 348,
+			real_award_id = 11822,
+			award_name = "50000金币",
+			asset_type = "jing_bi",
+			asset_count = {50000,50000},
+		},
+		[349]=
+		{
+			id = 349,
+			real_award_id = 11823,
+			award_name = "华为P40",
 		},
 	},
 	weight=

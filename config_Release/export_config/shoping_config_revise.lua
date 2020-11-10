@@ -185,19 +185,6 @@ return {
 		{
 			line_id = 1,
 			id = 1,
-			platform = "android",
-			xz_type = {"permission",},
-			permission = {"actp_buy_gift_bag_10242",},
-			tj_type = {"gift_bag",},
-			tj_id = {10242,},
-			sort = 0,
-			replace_type = {"gift_bag",},
-			replace_id = {84,},
-		},
-		[2]=
-		{
-			line_id = 2,
-			id = 1,
 			platform = "ios",
 			xz_type = {"permission",},
 			permission = {"actp_buy_gift_bag_10242",},

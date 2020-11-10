@@ -2506,8 +2506,8 @@ return {
 			desc = "节日特惠",
 			lua = "Act_025_JRTHManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[257]=
 		{
@@ -2714,9 +2714,9 @@ return {
 			key = "act_030_cwlb",
 			desc = "畅玩礼包",
 			lua = "Act_030_CWLBManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[278]=
 		{
@@ -2794,8 +2794,8 @@ return {
 			desc = "金鸡送礼",
 			lua = "SYSJJSLManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[286]=
 		{
@@ -2845,6 +2845,26 @@ return {
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
+		},
+		[291]=
+		{
+			id = 291,
+			key = "act_xrqtl_old",
+			desc = "新人七天乐（老版）",
+			lua = "XRQTLManager_Old",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[292]=
+		{
+			id = 292,
+			key = "by3d_shtx",
+			desc = "深海探险",
+			lua = "BY3DSHTXManager",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 	},
 }
