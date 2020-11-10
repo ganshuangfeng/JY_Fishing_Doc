@@ -320,7 +320,12 @@ return {
 			type = "activity",
 			isOnOff = 1,
 			showType = "prefab",
-			parmData = "Act_036_GELBManager",
+			parmData = "activity_task",
+			is_local_icon = 1,
+			gotoUI = {"act_036_gelb","panel"},
+			tag = "normal",
+			beginTime = 1606176000,
+			endTime = 1606751999,
 		},
 		[18]=
 		{
@@ -333,7 +338,12 @@ return {
 			type = "activity",
 			isOnOff = 1,
 			showType = "prefab",
-			parmData = "Act_036_HJHHLManager",
+			parmData = "activity_task",
+			is_local_icon = 1,
+			gotoUI = {"act_036_hjhhl","panel"},
+			tag = "normal",
+			beginTime = 1606176000,
+			endTime = 1606751999,
 		},
 	},
 }

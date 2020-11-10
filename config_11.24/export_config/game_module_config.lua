@@ -2906,5 +2906,35 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[297]=
+		{
+			id = 297,
+			key = "act_036_hjhhl",
+			desc = "火鸡换好礼",
+			lua = "Act_036_HJHHLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[298]=
+		{
+			id = 298,
+			key = "act_036_hjhhl_drop_ani",
+			desc = "火鸡掉落需求",
+			lua = "Act_036_HJHHLDROPManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[299]=
+		{
+			id = 299,
+			key = "act_036_gelb",
+			desc = "感恩礼包",
+			lua = "Act_036_GELBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
