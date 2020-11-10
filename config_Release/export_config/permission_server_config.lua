@@ -1903,12 +1903,6 @@ return {
 			name = "VIP赢金挑战第三期（冲金鸡不增加进度）",
 			condi = 333,
 		},
-		xrzx_newplayer=
-		{
-			key = "xrzx_newplayer",
-			name = "新人专享（新人才展示）",
-			condi = 91,
-		},
 	},
 	act_permission=
 	{
@@ -5883,6 +5877,18 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 1604332800,
+		},
+		[332]=
+		{
+			id = 332,
+			enable = 1,
+			key = "actp_own_task_p_xrqtl_new",
+			name = "新人七天乐（新版）",
+			condi = 337,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
 		},
 	},
 	condi=
@@ -14376,6 +14382,36 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "冲金鸡的全渠道",
+		},
+		[850]=
+		{
+			no = 850,
+			id = 337,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是cpl渠道",
+		},
+		[851]=
+		{
+			no = 851,
+			id = 337,
+			var = "first_login_time",
+			value = 1604968200,
+			judge = 3,
+			group = 1,
+			error_desc = "必须在2020年11月10日8:30后第一次登录",
+		},
+		[852]=
+		{
+			no = 852,
+			id = 337,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "新用户",
 		},
 	},
 	share_condition=
