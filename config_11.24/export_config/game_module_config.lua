@@ -2743,9 +2743,9 @@ return {
 			key = "act_031_wxhhl",
 			desc = "五星换好礼",
 			lua = "Act_031_WXHHLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[281]=
 		{
