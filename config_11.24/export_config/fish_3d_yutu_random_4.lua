@@ -122,7 +122,6 @@ return {
 			act_id = 68,
 			judge_type = 2,
 			max_num = 5,
-			create_delay = 50,
 			start_time = 1606176000,
 			end_time = 1606751999,
 		},

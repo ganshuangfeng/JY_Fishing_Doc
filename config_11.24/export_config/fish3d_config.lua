@@ -1860,7 +1860,7 @@ return {
 			line = 58,
 			id = 58,
 			prefab = "Fish3D088",
-			icon = "by_icon_xxboss",
+			icon = "by_iocn_hjboss",
 			name = "火鸡鱼",
 			name_image = "by_imgf_zp54",
 			reward_image = "by_imgf_zp54",
