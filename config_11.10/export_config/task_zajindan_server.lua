@@ -7064,7 +7064,7 @@ return {
 			name = "新人七天乐总任务",
 			own_type = "new_player_seven_day_1",
 			task_enum = "common",
-			process_id = 21472,
+			process_id = 21453,
 			is_reset = 0,
 			reset_delay = 1,
 			start_valid_time = 1604937600,
