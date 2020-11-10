@@ -7057,9 +7057,9 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
-		[1000114]=
+		[1000095]=
 		{
-			id = 1000114,
+			id = 1000095,
 			enable = 1,
 			name = "新人七天乐总任务",
 			own_type = "new_player_seven_day_1",
@@ -11877,10 +11877,10 @@ return {
 			awards = 771,
 			get_award_type = "nor",
 		},
-		[524]=
+		[505]=
 		{
-			id = 524,
-			process_id = 21472,
+			id = 505,
+			process_id = 21453,
 			process = {10,40,100,150,100,100},
 			awards = 772773774775776000,
 			get_award_type = "nor",
