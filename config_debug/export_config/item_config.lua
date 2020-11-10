@@ -2217,31 +2217,5 @@ return {
 			name = "豪华宝箱",
 			desc = "新人专享豪华宝箱",
 		},
-		[169]=
-		{
-			id = 169,
-			item_id = 169,
-			item_key = "prop_guess_apple_sd",
-			lose_time = -1,
-			is_local_icon = 1,
-			image = "ldfd_icon_shui",
-			is_show_bag = 0,
-			order = 36,
-			name = "水滴",
-			desc = "用于苹果大战种植",
-		},
-		[170]=
-		{
-			id = 170,
-			item_id = 170,
-			item_key = "prop_guess_apple_cz",
-			lose_time = -1,
-			is_local_icon = 1,
-			image = "ldfd_zpg_icon_cc",
-			is_show_bag = 0,
-			order = 38,
-			name = "铲子",
-			desc = "用于苹果大战种植",
-		},
 	},
 }
