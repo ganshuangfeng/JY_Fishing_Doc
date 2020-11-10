@@ -120,18 +120,18 @@ return {
 		[1]=
 		{
 			no = 1,
-			min_rate = 10,
+			min_rate = 20,
 			max_rate = 50,
-			show_rate_min = 25,
-			show_rate_max = 35,
+			show_rate_min = 15,
+			show_rate_max = 25,
 		},
 		[2]=
 		{
 			no = 2,
 			min_rate = 51,
 			max_rate = 150,
-			show_rate_min = 30,
-			show_rate_max = 40,
+			show_rate_min = 25,
+			show_rate_max = 35,
 		},
 		[3]=
 		{
@@ -148,13 +148,13 @@ return {
 		{
 			no = 1,
 			rate = 0,
-			power = 0.111000,
+			power = 0.116000,
 		},
 		[2]=
 		{
 			no = 2,
 			rate = 0.500000,
-			power = 0.404400,
+			power = 0.406250,
 		},
 		[3]=
 		{
@@ -166,13 +166,13 @@ return {
 		{
 			no = 4,
 			rate = 20,
-			power = 0.131000,
+			power = 0.124000,
 		},
 		[5]=
 		{
 			no = 5,
 			rate = 100,
-			power = 0.003000,
+			power = 0.003150,
 		},
 	},
 	fanjiang_1=
