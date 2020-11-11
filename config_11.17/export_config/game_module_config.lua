@@ -1506,9 +1506,9 @@ return {
 			key = "act_005_yzqj",
 			desc = "一字千金",
 			lua = "Act_005YZQJManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[152]=
 		{
@@ -2635,9 +2635,9 @@ return {
 			key = "act_027_jqshl",
 			desc = "金秋送豪礼",
 			lua = "Act_027_JQSHLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[270]=
 		{
@@ -2645,9 +2645,9 @@ return {
 			key = "act_027_mfflq",
 			desc = "免费福利券",
 			lua = "Act_027_MFFLQManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[271]=
 		{
