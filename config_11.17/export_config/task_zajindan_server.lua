@@ -17128,7 +17128,7 @@ return {
 		{
 			id = 704,
 			source_id = 497,
-			source_type = "buy_gift",
+			source_type = "agent_charge_any",
 			condition_id = 355,
 		},
 		[705]=
@@ -21467,7 +21467,7 @@ return {
 			id = 509,
 			condition_id = 355,
 			condition_name = "gift_id",
-			condition_value = {10384,10385,10386,10387,10388,10389},
+			condition_value = {10384,10385,10386,10387,10388,10389,10390,10391},
 			judge_type = 2,
 		},
 	},

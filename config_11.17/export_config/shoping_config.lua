@@ -11407,7 +11407,7 @@ return {
 			price = 600,
 			buy_asset_type = {"jing_bi",},
 			buy_asset_count = {600000,},
-			buy_limt = {86400,1,0},
+			buy_limt = {5,1,0},
 			count = 9999999,
 			start_time = 1605571200,
 			end_time = 2552233600,
@@ -11430,7 +11430,7 @@ return {
 			price = 3000,
 			buy_asset_type = {"jing_bi",},
 			buy_asset_count = {3000000,},
-			buy_limt = {86400,1,0},
+			buy_limt = {5,1,0},
 			count = 9999999,
 			start_time = 1605571200,
 			end_time = 2552233600,
@@ -11453,7 +11453,7 @@ return {
 			price = 6800,
 			buy_asset_type = {"jing_bi",},
 			buy_asset_count = {6800000,},
-			buy_limt = {86400,1,0},
+			buy_limt = {5,1,0},
 			count = 9999999,
 			start_time = 1605571200,
 			end_time = 2552233600,
@@ -11476,7 +11476,7 @@ return {
 			price = 9800,
 			buy_asset_type = {"jing_bi",},
 			buy_asset_count = {9800000,},
-			buy_limt = {86400,1,0},
+			buy_limt = {5,1,0},
 			count = 9999999,
 			start_time = 1605571200,
 			end_time = 2552233600,
@@ -11499,7 +11499,7 @@ return {
 			price = 19800,
 			buy_asset_type = {"jing_bi",},
 			buy_asset_count = {19800000,},
-			buy_limt = {86400,1,0},
+			buy_limt = {5,1,0},
 			count = 9999999,
 			start_time = 1605571200,
 			end_time = 2552233600,
@@ -11522,7 +11522,7 @@ return {
 			price = 49800,
 			buy_asset_type = {"jing_bi",},
 			buy_asset_count = {49800000,},
-			buy_limt = {86400,1,0},
+			buy_limt = {5,1,0},
 			count = 9999999,
 			start_time = 1605571200,
 			end_time = 2552233600,
@@ -11545,7 +11545,7 @@ return {
 			price = 99800,
 			buy_asset_type = {"jing_bi",},
 			buy_asset_count = {99800000,},
-			buy_limt = {86400,1,0},
+			buy_limt = {5,1,0},
 			count = 9999999,
 			start_time = 1605571200,
 			end_time = 2552233600,
@@ -11568,7 +11568,7 @@ return {
 			price = 249800,
 			buy_asset_type = {"jing_bi",},
 			buy_asset_count = {249800000,},
-			buy_limt = {86400,1,0},
+			buy_limt = {5,1,0},
 			count = 9999999,
 			start_time = 1605571200,
 			end_time = 2552233600,
@@ -11940,100 +11940,100 @@ return {
 		[52]=
 		{
 			id = 52,
-			condition_group = {{next=10365,reset_time=0}},
+			condition_group = {{next=10365,trigger="start_trigger",reset_time=0}},
 			limit = 1,
-			duration = 600,
+			duration = 0,
 		},
 		[53]=
 		{
 			id = 53,
 			condition_group = {{last=10363,reset_time=0}},
 			limit = 1,
-			duration = 0,
+			duration = 600,
 		},
 		[54]=
 		{
 			id = 54,
-			condition_group = {{next=10368,reset_time=0}},
+			condition_group = {{next=10368,trigger="start_trigger",reset_time=0}},
 			limit = 1,
-			duration = 600,
+			duration = 0,
 		},
 		[55]=
 		{
 			id = 55,
 			condition_group = {{last=10366,reset_time=0}},
 			limit = 1,
-			duration = 0,
+			duration = 600,
 		},
 		[56]=
 		{
 			id = 56,
-			condition_group = {{next=10371,reset_time=0}},
+			condition_group = {{next=10371,trigger="start_trigger",reset_time=0}},
 			limit = 1,
-			duration = 600,
+			duration = 0,
 		},
 		[57]=
 		{
 			id = 57,
 			condition_group = {{last=10369,reset_time=0}},
 			limit = 1,
-			duration = 0,
+			duration = 600,
 		},
 		[58]=
 		{
 			id = 58,
-			condition_group = {{next=10374,reset_time=0}},
+			condition_group = {{next=10374,trigger="start_trigger",reset_time=0}},
 			limit = 1,
-			duration = 600,
+			duration = 0,
 		},
 		[59]=
 		{
 			id = 59,
 			condition_group = {{last=10372,reset_time=0}},
 			limit = 1,
-			duration = 0,
+			duration = 600,
 		},
 		[60]=
 		{
 			id = 60,
-			condition_group = {{next=10377,reset_time=0}},
+			condition_group = {{next=10377,trigger="start_trigger",reset_time=0}},
 			limit = 1,
-			duration = 600,
+			duration = 0,
 		},
 		[61]=
 		{
 			id = 61,
 			condition_group = {{last=10375,reset_time=0}},
 			limit = 1,
-			duration = 0,
+			duration = 600,
 		},
 		[62]=
 		{
 			id = 62,
-			condition_group = {{next=10380,reset_time=0}},
+			condition_group = {{next=10380,trigger="start_trigger",reset_time=0}},
 			limit = 1,
-			duration = 600,
+			duration = 0,
 		},
 		[63]=
 		{
 			id = 63,
 			condition_group = {{last=10378,reset_time=0}},
 			limit = 1,
-			duration = 0,
+			duration = 600,
 		},
 		[64]=
 		{
 			id = 64,
-			condition_group = {{next=10383,reset_time=0}},
+			condition_group = {{next=10383,trigger="start_trigger",reset_time=0}},
 			limit = 1,
-			duration = 600,
+			duration = 0,
 		},
 		[65]=
 		{
 			id = 65,
 			condition_group = {{last=10381,reset_time=0}},
 			limit = 1,
-			duration = 0,
+			duration = 600,
 		},
 	},
 	jing_bi=
