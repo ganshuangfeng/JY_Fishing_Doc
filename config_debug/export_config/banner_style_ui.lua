@@ -945,6 +945,7 @@ return {
 			bannerID = 83,
 			isOnOff = 1,
 			order = 100,
+			condi_key = "cpl_notcjj",
 			gotoUI = {"act_030_cwlb","panel"},
 			model = "LoginUp",
 			srartTime = 1604966400,

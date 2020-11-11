@@ -1104,7 +1104,7 @@ return {
 		[113]=
 		{
 			id = 113,
-			parm = {"sys_by3d_hqjb",},
+			parm = {"act_xrqtl_old",},
 			is_on_off = 1,
 		},
 		[114]=
