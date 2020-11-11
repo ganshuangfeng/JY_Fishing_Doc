@@ -369,22 +369,25 @@ return {
 		{
 			key = "xxl_bet_5",
 			name = "消消乐下注6000鲸币",
+			condi = 22,
 		},
 		xxl_bet_6=
 		{
 			key = "xxl_bet_6",
 			name = "消消乐下注12万鲸币",
+			condi = 22,
 		},
 		xxl_bet_7=
 		{
 			key = "xxl_bet_7",
 			name = "消消乐下注24万鲸币",
+			condi = 22,
 		},
 		xxl_bet_8=
 		{
 			key = "xxl_bet_8",
 			name = "消消乐下注48万鲸币",
-			condi = 22,
+			condi = 23,
 		},
 		xxl_bet_9=
 		{
@@ -440,22 +443,25 @@ return {
 		{
 			key = "sh_xxl_bet_5",
 			name = "水浒消消乐下注8000鲸币",
+			condi = 22,
 		},
 		sh_xxl_bet_6=
 		{
 			key = "sh_xxl_bet_6",
 			name = "水浒消消乐下注1.5万鲸币",
+			condi = 22,
 		},
 		sh_xxl_bet_7=
 		{
 			key = "sh_xxl_bet_7",
 			name = "水浒消消乐下注3万鲸币",
+			condi = 22,
 		},
 		sh_xxl_bet_8=
 		{
 			key = "sh_xxl_bet_8",
 			name = "水浒消消乐下注6万鲸币",
-			condi = 22,
+			condi = 23,
 		},
 		sh_xxl_bet_9=
 		{
