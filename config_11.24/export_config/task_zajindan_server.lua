@@ -17381,6 +17381,7 @@ return {
 			source_id = 498,
 			source_type = "guess_apple_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[710]=
 		{
@@ -17444,6 +17445,7 @@ return {
 			source_id = 499,
 			source_type = "guess_apple_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[719]=
 		{
@@ -17507,6 +17509,7 @@ return {
 			source_id = 500,
 			source_type = "guess_apple_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[728]=
 		{
@@ -17570,6 +17573,7 @@ return {
 			source_id = 501,
 			source_type = "guess_apple_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[737]=
 		{
@@ -17633,6 +17637,7 @@ return {
 			source_id = 502,
 			source_type = "guess_apple_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[746]=
 		{
@@ -17696,6 +17701,7 @@ return {
 			source_id = 503,
 			source_type = "guess_apple_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[755]=
 		{
@@ -17759,6 +17765,7 @@ return {
 			source_id = 504,
 			source_type = "guess_apple_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[764]=
 		{
@@ -17822,6 +17829,7 @@ return {
 			source_id = 505,
 			source_type = "guess_apple_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[773]=
 		{
