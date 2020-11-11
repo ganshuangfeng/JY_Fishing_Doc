@@ -7351,6 +7351,20 @@ return {
 			end_valid_time = 1606751999,
 			time_limit = -1,
 		},
+		[1000116]=
+		{
+			id = 1000116,
+			enable = 1,
+			name = "火鸡掉落",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21474,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1606147200,
+			end_valid_time = 1606751999,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -12346,6 +12360,16 @@ return {
 			source_id = 513,
 			process = 1,
 			awards = 841,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[526]=
+		{
+			id = 526,
+			process_id = 21474,
+			source_id = 514,
+			process = {1000000,-1},
+			awards = 842,
 			get_award_type = "nor",
 			is_auto_get_award = 1,
 		},
@@ -17882,6 +17906,55 @@ return {
 			source_id = 513,
 			source_type = "buy_gift",
 			condition_id = 363,
+		},
+		[785]=
+		{
+			id = 785,
+			source_id = 514,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[786]=
+		{
+			id = 786,
+			source_id = 514,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[787]=
+		{
+			id = 787,
+			source_id = 514,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[788]=
+		{
+			id = 788,
+			source_id = 514,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[789]=
+		{
+			id = 789,
+			source_id = 514,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[790]=
+		{
+			id = 790,
+			source_id = 514,
+			source_type = "jykp_award",
+			condition_id = 0,
+		},
+		[791]=
+		{
+			id = 791,
+			source_id = 514,
+			source_type = "zajindan_award",
+			condition_id = 0,
 		},
 	},
 	condition=
@@ -31804,6 +31877,14 @@ return {
 			award_id = 841,
 			asset_type = "prop_gej_hj",
 			asset_count = 7494,
+			get_weight = 1,
+		},
+		[1253]=
+		{
+			id = 1253,
+			award_id = 842,
+			asset_type = "prop_gej_hj",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
