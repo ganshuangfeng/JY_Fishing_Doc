@@ -1909,6 +1909,12 @@ return {
 			name = "新人专享（新人才展示）",
 			condi = 91,
 		},
+		rank_leijiyingjin_rank=
+		{
+			key = "rank_leijiyingjin_rank",
+			name = "不展示给冲金鸡",
+			condi = 338,
+		},
 	},
 	act_permission=
 	{
@@ -14418,6 +14424,16 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "新用户",
+		},
+		[853]=
+		{
+			no = 853,
+			id = 338,
+			var = "share_condition",
+			value = "3dby_cjj",
+			judge = 5,
+			group = 1,
+			error_desc = "不展示给cjj",
 		},
 	},
 	share_condition=
