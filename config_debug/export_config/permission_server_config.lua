@@ -1915,12 +1915,6 @@ return {
 			name = "新人专享（新人才展示）",
 			condi = 91,
 		},
-		rank_leijiyingjin_rank=
-		{
-			key = "rank_leijiyingjin_rank",
-			name = "不展示给冲金鸡",
-			condi = 338,
-		},
 	},
 	act_permission=
 	{
@@ -5906,6 +5900,18 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
+			start_deal_time = 0,
+		},
+		[333]=
+		{
+			id = 333,
+			enable = 1,
+			key = "actp_rank_leijiyingjin_rank",
+			name = "cjj关闭累计赢金榜",
+			condi = 338,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
 			start_deal_time = 0,
 		},
 	},
