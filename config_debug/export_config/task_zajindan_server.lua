@@ -16758,35 +16758,35 @@ return {
 		{
 			id = 690,
 			source_id = 483,
-			source_type = "use_fish_bullet_item",
+			source_type = "use_fish_3d_bullet_item",
 			condition_id = 342,
 		},
 		[691]=
 		{
 			id = 691,
 			source_id = 484,
-			source_type = "use_fish_bullet_item",
+			source_type = "use_fish_3d_bullet_item",
 			condition_id = 343,
 		},
 		[692]=
 		{
 			id = 692,
 			source_id = 485,
-			source_type = "use_fish_bullet_item",
+			source_type = "use_fish_3d_bullet_item",
 			condition_id = 344,
 		},
 		[693]=
 		{
 			id = 693,
 			source_id = 486,
-			source_type = "use_fish_bullet_item",
+			source_type = "use_fish_3d_bullet_item",
 			condition_id = 345,
 		},
 		[694]=
 		{
 			id = 694,
 			source_id = 487,
-			source_type = "use_fish_bullet_item",
+			source_type = "use_fish_3d_bullet_item",
 			condition_id = 346,
 		},
 		[695]=
@@ -20564,7 +20564,7 @@ return {
 			id = 494,
 			condition_id = 342,
 			condition_name = "fish_prop",
-			condition_value = "prop_fish_lock",
+			condition_value = "prop_3d_fish_lock",
 			judge_type = 2,
 		},
 		[495]=
@@ -20572,7 +20572,7 @@ return {
 			id = 495,
 			condition_id = 343,
 			condition_name = "fish_prop",
-			condition_value = "prop_fish_frozen",
+			condition_value = "prop_3d_fish_frozen",
 			judge_type = 2,
 		},
 		[496]=
@@ -20588,7 +20588,7 @@ return {
 			id = 497,
 			condition_id = 345,
 			condition_name = "fish_prop",
-			condition_value = "prop_fish_lock",
+			condition_value = "prop_3d_fish_lock",
 			judge_type = 2,
 		},
 		[498]=
@@ -20596,7 +20596,7 @@ return {
 			id = 498,
 			condition_id = 346,
 			condition_name = "fish_prop",
-			condition_value = "prop_fish_frozen",
+			condition_value = "prop_3d_fish_frozen",
 			judge_type = 2,
 		},
 		[499]=
