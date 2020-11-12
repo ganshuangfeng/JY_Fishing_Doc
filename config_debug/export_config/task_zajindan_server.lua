@@ -30147,7 +30147,7 @@ return {
 			id = 1183,
 			award_id = 772,
 			asset_type = "gun_barrel_6",
-			asset_count = "259200‬",
+			asset_count = 259200,
 			get_weight = 1,
 		},
 		[1184]=
