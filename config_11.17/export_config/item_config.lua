@@ -2091,6 +2091,34 @@ return {
 		{
 			id = 159,
 			item_id = 159,
+			item_key = "prop_3d_fish_nuclear_bomb_fragment_4",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "3dby_icon_hedansp_4_1",
+			is_show_bag = 1,
+			order = 34,
+			name = "顶级核弹碎片",
+			desc = "顶级核弹碎片",
+			use_parm = {"by3d_hd","hecheng",4},
+		},
+		[160]=
+		{
+			id = 160,
+			item_id = 160,
+			item_key = "prop_3d_fish_nuclear_bomb_fragment_5",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "3dby_icon_hedansp_5_1",
+			is_show_bag = 1,
+			order = 34,
+			name = "终极核弹碎片",
+			desc = "终极核弹碎片",
+			use_parm = {"by3d_hd","hecheng",5},
+		},
+		[161]=
+		{
+			id = 161,
+			item_id = 161,
 			item_key = "prop_3d_fish_nuclear_bomb_1",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2100,10 +2128,10 @@ return {
 			name = "初级核弹",
 			desc = "初级核弹",
 		},
-		[160]=
+		[162]=
 		{
-			id = 160,
-			item_id = 160,
+			id = 162,
+			item_id = 162,
 			item_key = "prop_3d_fish_nuclear_bomb_2",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2113,10 +2141,10 @@ return {
 			name = "中级核弹",
 			desc = "中级核弹",
 		},
-		[161]=
+		[163]=
 		{
-			id = 161,
-			item_id = 161,
+			id = 163,
+			item_id = 163,
 			item_key = "prop_3d_fish_nuclear_bomb_3",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2126,10 +2154,36 @@ return {
 			name = "高级核弹",
 			desc = "高级核弹",
 		},
-		[162]=
+		[164]=
 		{
-			id = 162,
-			item_id = 162,
+			id = 164,
+			item_id = 164,
+			item_key = "prop_3d_fish_nuclear_bomb_4",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "3dby_icon_hedan_4_1",
+			is_show_bag = 1,
+			order = 34,
+			name = "顶级核弹",
+			desc = "顶级核弹",
+		},
+		[165]=
+		{
+			id = 165,
+			item_id = 165,
+			item_key = "prop_3d_fish_nuclear_bomb_5",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "3dby_icon_hedan_5_1",
+			is_show_bag = 1,
+			order = 34,
+			name = "终极核弹",
+			desc = "终极核弹",
+		},
+		[166]=
+		{
+			id = 166,
+			item_id = 166,
 			item_key = "prop_3d_fish_nuclear_bomb_give_1",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2139,10 +2193,10 @@ return {
 			name = "初级核弹(赠送)",
 			desc = "初级核弹(赠送)",
 		},
-		[163]=
+		[167]=
 		{
-			id = 163,
-			item_id = 163,
+			id = 167,
+			item_id = 167,
 			item_key = "prop_3d_fish_nuclear_bomb_give_2",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2152,10 +2206,10 @@ return {
 			name = "中级核弹(赠送)",
 			desc = "中级核弹(赠送)",
 		},
-		[164]=
+		[168]=
 		{
-			id = 164,
-			item_id = 164,
+			id = 168,
+			item_id = 168,
 			item_key = "prop_3d_fish_nuclear_bomb_give_3",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2165,10 +2219,36 @@ return {
 			name = "高级核弹(赠送)",
 			desc = "高级核弹(赠送)",
 		},
-		[165]=
+		[169]=
 		{
-			id = 165,
-			item_id = 165,
+			id = 169,
+			item_id = 169,
+			item_key = "prop_3d_fish_nuclear_bomb_give_4",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "3dby_icon_hedan_4_1",
+			is_show_bag = 1,
+			order = 34,
+			name = "顶级核弹(赠送)",
+			desc = "顶级核弹(赠送)",
+		},
+		[170]=
+		{
+			id = 170,
+			item_id = 170,
+			item_key = "prop_3d_fish_nuclear_bomb_give_5",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "3dby_icon_hedan_5_1",
+			is_show_bag = 1,
+			order = 34,
+			name = "终极核弹(赠送)",
+			desc = "终极核弹(赠送)",
+		},
+		[171]=
+		{
+			id = 171,
+			item_id = 171,
 			item_key = "prop_cyj_cjq",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2178,10 +2258,10 @@ return {
 			name = "重阳节抽奖券",
 			desc = "重阳节抽奖券",
 		},
-		[166]=
+		[172]=
 		{
-			id = 166,
-			item_id = 166,
+			id = 172,
+			item_id = 172,
 			item_key = "prop_cjlb_10",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2191,10 +2271,10 @@ return {
 			name = "新手宝箱",
 			desc = "新人专享新手宝箱",
 		},
-		[167]=
+		[173]=
 		{
-			id = 167,
-			item_id = 167,
+			id = 173,
+			item_id = 173,
 			item_key = "prop_cjlb_11",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2204,10 +2284,10 @@ return {
 			name = "高级宝箱",
 			desc = "新人专享高级宝箱",
 		},
-		[168]=
+		[174]=
 		{
-			id = 168,
-			item_id = 168,
+			id = 174,
+			item_id = 174,
 			item_key = "prop_cjlb_12",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2216,6 +2296,100 @@ return {
 			order = 33,
 			name = "豪华宝箱",
 			desc = "新人专享豪华宝箱",
+		},
+		[175]=
+		{
+			id = 175,
+			item_id = 175,
+			item_key = "prop_guess_apple_sd",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "ldfd_icon_shui",
+			is_show_bag = 0,
+			order = 36,
+			name = "水滴",
+			desc = "用于苹果大战种植",
+		},
+		[176]=
+		{
+			id = 176,
+			item_id = 176,
+			item_key = "prop_guess_apple_cz",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "ldfd_zpg_icon_cc",
+			is_show_bag = 0,
+			order = 38,
+			name = "铲子",
+			desc = "用于苹果大战种植",
+		},
+		[177]=
+		{
+			id = 177,
+			item_id = 177,
+			item_key = "prop_11.11_cjq",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "cwzp_icon_cjq",
+			is_show_bag = 0,
+			order = 33,
+			name = "双十一抽奖券",
+			desc = "双十一抽奖券",
+		},
+		[178]=
+		{
+			id = 178,
+			item_id = 178,
+			item_key = "task_1000114",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "ty_icon_hytb",
+			is_show_bag = 0,
+			order = 33,
+			name = "积分",
+			desc = "新人七天乐积分",
+		},
+		[179]=
+		{
+			id = 179,
+			item_id = 179,
+			item_key = "prop_3d_fish_accelerate",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "3dby_btn_js",
+			is_show_bag = 1,
+			order = 32,
+			name = "加速卡",
+			desc = "以1.5倍的速度进行发炮，持续15秒。",
+			tag = 9,
+		},
+		[180]=
+		{
+			id = 180,
+			item_id = 180,
+			item_key = "prop_3d_fish_wild",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "3dby_btn_kb",
+			is_show_bag = 1,
+			order = 33,
+			name = "狂暴卡",
+			desc = "捕鱼将获得双倍奖励，同时会提升消耗，持续15秒。",
+			tag = 9,
+		},
+		[181]=
+		{
+			id = 181,
+			item_id = 181,
+			item_key = "prop_3d_fish_doubled",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "3dby_btn_jb",
+			is_show_bag = 1,
+			order = 33,
+			name = "双倍卡",
+			desc = "子弹获得双倍威力，同时会提升消耗，持续15秒。",
+			tag = 9,
 		},
 	},
 }
