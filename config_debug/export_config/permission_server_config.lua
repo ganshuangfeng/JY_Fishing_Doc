@@ -14422,6 +14422,16 @@ return {
 			group = 1,
 			error_desc = "必须在2020年11月10日8:30后第一次登录",
 		},
+		[854]=
+		{
+			no = 854,
+			id = 337,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "新用户",
+		},
 	},
 	share_condition=
 	{
