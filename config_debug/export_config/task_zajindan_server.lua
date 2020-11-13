@@ -11738,7 +11738,7 @@ return {
 			id = 489,
 			process_id = 21437,
 			source_id = 481,
-			process = {3,3,2,2,3},
+			process = {1,5,2,2,3},
 			pre_add_process = 1,
 			awards = {737,738,739,740,741},
 			get_award_type = "nor",

@@ -480,7 +480,7 @@ return {
 			bannerID = 45,
 			isOnOff = 1,
 			order = 3,
-			condi_key = "Sign_in_popup_new",
+			condi_key = "xrqtl_new",
 			gotoUI = {"act_xrqtl","panel"},
 			model = "LoginUp",
 			srartTime = -1,
@@ -949,6 +949,18 @@ return {
 			model = "LoginUp",
 			srartTime = 1604966400,
 			endTime = 1605542399,
+		},
+		[84]=
+		{
+			id = 84,
+			bannerID = 84,
+			isOnOff = 1,
+			order = 100,
+			condi_key = "drt_block_new_player_happy_seven_day",
+			gotoUI = {"act_xrqtl_old","panel"},
+			model = "LoginUp",
+			srartTime = -1,
+			endTime = -1,
 		},
 	},
 }
