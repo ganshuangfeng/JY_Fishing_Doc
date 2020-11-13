@@ -169,6 +169,69 @@ return {
 			start_time = 1604966400,
 			recycle_time = 1605542399,
 		},
+		[25]=
+		{
+			id = 25,
+			prop_type = "prop_brass_hammer_1",
+			start_time = 1605571200,
+			recycle_time = 1606147199,
+		},
+		[26]=
+		{
+			id = 26,
+			prop_type = "prop_silver_hammer_1",
+			start_time = 1605571200,
+			recycle_time = 1606147199,
+		},
+		[27]=
+		{
+			id = 27,
+			prop_type = "prop_gold_hammer_1",
+			start_time = 1605571200,
+			recycle_time = 1606147199,
+		},
+		[28]=
+		{
+			id = 28,
+			prop_type = "prop_brass_hammer_2",
+			start_time = 1605571200,
+			recycle_time = 1606147199,
+		},
+		[29]=
+		{
+			id = 29,
+			prop_type = "prop_silver_hammer_2",
+			start_time = 1605571200,
+			recycle_time = 1606147199,
+		},
+		[30]=
+		{
+			id = 30,
+			prop_type = "prop_gold_hammer_2",
+			start_time = 1605571200,
+			recycle_time = 1606147199,
+		},
+		[31]=
+		{
+			id = 31,
+			prop_type = "prop_brass_hammer_3",
+			start_time = 1605571200,
+			recycle_time = 1606147199,
+		},
+		[32]=
+		{
+			id = 32,
+			prop_type = "prop_silver_hammer_3",
+			start_time = 1605571200,
+			recycle_time = 1606147199,
+		},
+		[33]=
+		{
+			id = 33,
+			prop_type = "prop_gold_hammer_3",
+			start_time = 1605571200,
+			recycle_time = 1606147199,
+		},
 	},
 	player_ext_status=
 	{
