@@ -16815,42 +16815,42 @@ return {
 			id = 698,
 			source_id = 491,
 			source_type = "task_award_receive",
-			condition_id = 0,
+			condition_id = 349,
 		},
 		[699]=
 		{
 			id = 699,
 			source_id = 492,
 			source_type = "xxl_lucky_award",
-			condition_id = 349,
+			condition_id = 350,
 		},
 		[700]=
 		{
 			id = 700,
 			source_id = 493,
 			source_type = "sh_xxl_xc_num_hero",
-			condition_id = 350,
+			condition_id = 351,
 		},
 		[701]=
 		{
 			id = 701,
 			source_id = 494,
 			source_type = "xxl_lucky_award",
-			condition_id = 351,
+			condition_id = 352,
 		},
 		[702]=
 		{
 			id = 702,
 			source_id = 495,
 			source_type = "sh_xxl_xc_num_hero",
-			condition_id = 352,
+			condition_id = 353,
 		},
 		[703]=
 		{
 			id = 703,
 			source_id = 496,
 			source_type = "xiaoxiaole_caishen_sky_girl",
-			condition_id = 353,
+			condition_id = 354,
 		},
 	},
 	condition=
@@ -20619,9 +20619,9 @@ return {
 		{
 			id = 501,
 			condition_id = 349,
-			condition_name = "bet_spend",
-			condition_value = 960000,
-			judge_type = 3,
+			condition_name = "task_id",
+			condition_value = {21315,21316,21317,21318},
+			judge_type = 2,
 		},
 		[502]=
 		{
@@ -20642,7 +20642,7 @@ return {
 		[504]=
 		{
 			id = 504,
-			condition_id = 352,
+			condition_id = 351,
 			condition_name = "bet_spend",
 			condition_value = 960000,
 			judge_type = 3,
@@ -20650,23 +20650,31 @@ return {
 		[505]=
 		{
 			id = 505,
-			condition_id = 353,
-			condition_name = "hero_num",
-			condition_value = 1,
+			condition_id = 352,
+			condition_name = "bet_spend",
+			condition_value = 960000,
 			judge_type = 3,
 		},
 		[506]=
 		{
 			id = 506,
-			condition_id = 354,
-			condition_name = "bet_spend",
-			condition_value = 960000,
+			condition_id = 353,
+			condition_name = "hero_num",
+			condition_value = 1,
 			judge_type = 3,
 		},
 		[507]=
 		{
 			id = 507,
-			condition_id = 355,
+			condition_id = 353,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[508]=
+		{
+			id = 508,
+			condition_id = 354,
 			condition_name = "sky_girl_type",
 			condition_value = 960000,
 			judge_type = 3,
