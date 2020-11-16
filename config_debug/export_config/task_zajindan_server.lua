@@ -20675,7 +20675,7 @@ return {
 		{
 			id = 508,
 			condition_id = 354,
-			condition_name = "sky_girl_type",
+			condition_name = "bet_spend",
 			condition_value = 960000,
 			judge_type = 3,
 		},
