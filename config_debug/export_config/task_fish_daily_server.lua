@@ -2694,7 +2694,7 @@ return {
 			id = 67,
 			award_id = 1034,
 			asset_type = "jing_bi",
-			asset_count = 2000,
+			asset_count = 500,
 			get_weight = 1,
 		},
 		[68]=
@@ -2710,7 +2710,7 @@ return {
 			id = 69,
 			award_id = 1035,
 			asset_type = "jing_bi",
-			asset_count = 5000,
+			asset_count = 1000,
 			get_weight = 1,
 		},
 		[70]=
@@ -2726,7 +2726,7 @@ return {
 			id = 71,
 			award_id = 1036,
 			asset_type = "jing_bi",
-			asset_count = 10000,
+			asset_count = 1000,
 			get_weight = 1,
 		},
 		[72]=
@@ -2742,7 +2742,7 @@ return {
 			id = 73,
 			award_id = 1037,
 			asset_type = "jing_bi",
-			asset_count = 20000,
+			asset_count = 1000,
 			get_weight = 1,
 		},
 		[74]=
@@ -2758,7 +2758,7 @@ return {
 			id = 75,
 			award_id = 1038,
 			asset_type = "jing_bi",
-			asset_count = 30000,
+			asset_count = 1000,
 			get_weight = 1,
 		},
 		[76]=
@@ -2774,7 +2774,7 @@ return {
 			id = 77,
 			award_id = 1039,
 			asset_type = "jing_bi",
-			asset_count = 20000,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[78]=
@@ -2790,7 +2790,7 @@ return {
 			id = 79,
 			award_id = 1040,
 			asset_type = "jing_bi",
-			asset_count = 30000,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[80]=
@@ -2854,7 +2854,7 @@ return {
 			id = 87,
 			award_id = 1044,
 			asset_type = "jing_bi",
-			asset_count = 3000,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[88]=
@@ -2870,7 +2870,7 @@ return {
 			id = 89,
 			award_id = 1045,
 			asset_type = "jing_bi",
-			asset_count = 5000,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[90]=
@@ -2886,7 +2886,7 @@ return {
 			id = 91,
 			award_id = 1046,
 			asset_type = "jing_bi",
-			asset_count = 10000,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[92]=
@@ -2902,7 +2902,7 @@ return {
 			id = 93,
 			award_id = 1047,
 			asset_type = "jing_bi",
-			asset_count = 20000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[94]=
@@ -2990,7 +2990,7 @@ return {
 			id = 104,
 			award_id = 2006,
 			asset_type = "prop_tiny_game_coin",
-			asset_count = 5000,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[105]=
@@ -3006,7 +3006,7 @@ return {
 			id = 106,
 			award_id = 2007,
 			asset_type = "prop_tiny_game_coin",
-			asset_count = 10000,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[107]=
@@ -3014,7 +3014,7 @@ return {
 			id = 107,
 			award_id = 2008,
 			asset_type = "jing_bi",
-			asset_count = 10000,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[108]=
@@ -3022,7 +3022,7 @@ return {
 			id = 108,
 			award_id = 2008,
 			asset_type = "prop_tiny_game_coin",
-			asset_count = 10000,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[109]=
@@ -3030,7 +3030,7 @@ return {
 			id = 109,
 			award_id = 2009,
 			asset_type = "prop_tiny_game_coin",
-			asset_count = 20000,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[110]=
@@ -3038,7 +3038,7 @@ return {
 			id = 110,
 			award_id = 2009,
 			asset_type = "jing_bi",
-			asset_count = 20000,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[111]=
@@ -3046,7 +3046,7 @@ return {
 			id = 111,
 			award_id = 2010,
 			asset_type = "jing_bi",
-			asset_count = 50000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 	},
