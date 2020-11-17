@@ -3073,8 +3073,8 @@ return {
 		{
 			id = 7,
 			award_id = 3,
-			asset_type = "prop_3d_fish_lock",
-			asset_count = 3,
+			asset_type = "prop_3d_fish_wild",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[8]=
@@ -3097,8 +3097,8 @@ return {
 		{
 			id = 10,
 			award_id = 4,
-			asset_type = "prop_3d_fish_frozen",
-			asset_count = 3,
+			asset_type = "prop_3d_fish_doubled",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[11]=
@@ -3121,8 +3121,8 @@ return {
 		{
 			id = 13,
 			award_id = 5,
-			asset_type = "prop_3d_fish_lock",
-			asset_count = 3,
+			asset_type = "prop_3d_fish_wild",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[14]=
@@ -3145,8 +3145,8 @@ return {
 		{
 			id = 16,
 			award_id = 6,
-			asset_type = "prop_3d_fish_frozen",
-			asset_count = 3,
+			asset_type = "prop_3d_fish_doubled",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[17]=
@@ -3169,8 +3169,8 @@ return {
 		{
 			id = 19,
 			award_id = 7,
-			asset_type = "prop_3d_fish_lock",
-			asset_count = 3,
+			asset_type = "prop_3d_fish_wild",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[20]=
@@ -3193,8 +3193,8 @@ return {
 		{
 			id = 22,
 			award_id = 8,
-			asset_type = "prop_3d_fish_frozen",
-			asset_count = 3,
+			asset_type = "prop_3d_fish_doubled",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[23]=
@@ -3385,8 +3385,8 @@ return {
 		{
 			id = 46,
 			award_id = 16,
-			asset_type = "prop_3d_fish_lock",
-			asset_count = 5,
+			asset_type = "prop_3d_fish_wild",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[47]=
@@ -3409,8 +3409,8 @@ return {
 		{
 			id = 49,
 			award_id = 17,
-			asset_type = "prop_3d_fish_frozen",
-			asset_count = 5,
+			asset_type = "prop_3d_fish_doubled",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[50]=
@@ -3433,8 +3433,8 @@ return {
 		{
 			id = 52,
 			award_id = 18,
-			asset_type = "prop_3d_fish_lock",
-			asset_count = 5,
+			asset_type = "prop_3d_fish_wild",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[53]=
@@ -3457,8 +3457,8 @@ return {
 		{
 			id = 55,
 			award_id = 19,
-			asset_type = "prop_3d_fish_frozen",
-			asset_count = 5,
+			asset_type = "prop_3d_fish_doubled",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[56]=
@@ -3481,8 +3481,8 @@ return {
 		{
 			id = 58,
 			award_id = 20,
-			asset_type = "prop_3d_fish_lock",
-			asset_count = 5,
+			asset_type = "prop_3d_fish_wild",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[59]=
@@ -3505,8 +3505,8 @@ return {
 		{
 			id = 61,
 			award_id = 21,
-			asset_type = "prop_3d_fish_frozen",
-			asset_count = 5,
+			asset_type = "prop_3d_fish_doubled",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[62]=

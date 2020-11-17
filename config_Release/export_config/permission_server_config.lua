@@ -284,7 +284,7 @@ return {
 		{
 			key = "zajindan_lv_4",
 			name = "砸金蛋10万鲸币",
-			condi = 23,
+			condi = 22,
 		},
 		zajindan_cs_bet_1=
 		{
@@ -370,22 +370,25 @@ return {
 		{
 			key = "xxl_bet_5",
 			name = "消消乐下注6000鲸币",
+			condi = 22,
 		},
 		xxl_bet_6=
 		{
 			key = "xxl_bet_6",
 			name = "消消乐下注12万鲸币",
+			condi = 22,
 		},
 		xxl_bet_7=
 		{
 			key = "xxl_bet_7",
 			name = "消消乐下注24万鲸币",
+			condi = 22,
 		},
 		xxl_bet_8=
 		{
 			key = "xxl_bet_8",
 			name = "消消乐下注48万鲸币",
-			condi = 22,
+			condi = 23,
 		},
 		xxl_bet_9=
 		{
@@ -441,22 +444,25 @@ return {
 		{
 			key = "sh_xxl_bet_5",
 			name = "水浒消消乐下注8000鲸币",
+			condi = 22,
 		},
 		sh_xxl_bet_6=
 		{
 			key = "sh_xxl_bet_6",
 			name = "水浒消消乐下注1.5万鲸币",
+			condi = 22,
 		},
 		sh_xxl_bet_7=
 		{
 			key = "sh_xxl_bet_7",
 			name = "水浒消消乐下注3万鲸币",
+			condi = 22,
 		},
 		sh_xxl_bet_8=
 		{
 			key = "sh_xxl_bet_8",
 			name = "水浒消消乐下注6万鲸币",
-			condi = 22,
+			condi = 23,
 		},
 		sh_xxl_bet_9=
 		{
@@ -5366,7 +5372,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1600128000,
+			start_deal_time = 1605542400,
 		},
 		[289]=
 		{
@@ -5378,7 +5384,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1600128000,
+			start_deal_time = 1605542400,
 		},
 		[290]=
 		{
@@ -5390,7 +5396,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1600128000,
+			start_deal_time = 1605542400,
 		},
 		[291]=
 		{
@@ -5402,7 +5408,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1600099200,
+			start_deal_time = 1605542400,
 		},
 		[292]=
 		{
@@ -5901,7 +5907,7 @@ return {
 			id = 333,
 			enable = 1,
 			key = "actp_rank_leijiyingjin_rank",
-			name = "cjj关闭累计赢金",
+			name = "cjj关闭累计赢金榜",
 			condi = 338,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,

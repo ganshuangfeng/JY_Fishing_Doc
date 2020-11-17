@@ -2885,21 +2885,21 @@ return {
 		{
 			id = 97,
 			source_id = 90,
-			source_type = "lwzb_game_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 		[98]=
 		{
 			id = 98,
 			source_id = 91,
-			source_type = "lwzb_game_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 		[99]=
 		{
 			id = 99,
 			source_id = 92,
-			source_type = "lwzb_game_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 	},

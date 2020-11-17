@@ -889,8 +889,8 @@ return {
 			condi_key = "actp_own_task_p_029_hlqjd_hammer",
 			gotoUI = {"act_029_hlqjd","panel"},
 			model = "LoginUp",
-			srartTime = 1602547200,
-			endTime = 1603123199,
+			srartTime = 1605571200,
+			endTime = 1606147199,
 		},
 		[79]=
 		{

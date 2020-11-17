@@ -4378,6 +4378,27 @@ return {
 			time = 20,
 			cd_time = 0,
 		},
+		[3]=
+		{
+			no = 3,
+			skill = "accelerate",
+			time = 15,
+			cd_time = 0,
+		},
+		[4]=
+		{
+			no = 4,
+			skill = "wild",
+			time = 15,
+			cd_time = 0,
+		},
+		[5]=
+		{
+			no = 5,
+			skill = "doubled",
+			time = 15,
+			cd_time = 0,
+		},
 	},
 	dead_mode=
 	{

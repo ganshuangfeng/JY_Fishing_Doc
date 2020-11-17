@@ -163,13 +163,13 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "36;109;89;105#97;100;102;11;93;94#58;107#30#",
+			group_list = "36;113;89;105#97;100;102;11;93;94#58;107#30#",
 		},
 		[3]=
 		{
 			id = 3,
 			area = "right",
-			group_list = "92#84#42#",
+			group_list = "110#84#114#42#",
 		},
 		[4]=
 		{
@@ -187,6 +187,12 @@ return {
 			id = 6,
 			area = "fish3d_node",
 			group_list = "65#",
+		},
+		[7]=
+		{
+			id = 7,
+			area = "left_bottom",
+			group_list = "92#",
 		},
 	},
 	ddz_free_game=
@@ -288,7 +294,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "40#43#79#88#8#",
+			group_list = "111#112#53#79#100;36;113;89;11#",
 		},
 		[2]=
 		{
@@ -299,26 +305,37 @@ return {
 		[3]=
 		{
 			id = 3,
-			area = "Right_top",
-			group_list = "69#73#",
+			area = "down2",
 		},
 		[4]=
 		{
 			id = 4,
-			area = "down2",
-			group_list = "103#87#100;102;11;93;94#36;109;89#",
+			area = "Right_down",
+			group_list = "86#",
 		},
 		[5]=
 		{
 			id = 5,
-			area = "Right_down",
-			group_list = "86#",
+			area = "Right_down2",
+			group_list = "72#",
 		},
 		[6]=
 		{
 			id = 6,
-			area = "Right_down2",
-			group_list = "72#",
+			area = "Right_shtx",
+			group_list = "109#",
+		},
+		[7]=
+		{
+			id = 7,
+			area = "Right_hd",
+			group_list = "103#",
+		},
+		[8]=
+		{
+			id = 8,
+			area = "Right_boss",
+			group_list = "69#73#",
 		},
 	},
 	fishing3d_hall=
@@ -1063,7 +1080,37 @@ return {
 		[109]=
 		{
 			id = 109,
-			parm = {"act_xrqtl_old","enter"},
+			parm = {"by3d_shtx",},
+			is_on_off = 1,
+		},
+		[110]=
+		{
+			id = 110,
+			parm = {"act_035_ybwl",},
+			is_on_off = 1,
+		},
+		[111]=
+		{
+			id = 111,
+			parm = {"sys_by3d_jchd",},
+			is_on_off = 1,
+		},
+		[112]=
+		{
+			id = 112,
+			parm = {"sys_by3d_hqjb",},
+			is_on_off = 1,
+		},
+		[113]=
+		{
+			id = 113,
+			parm = {"act_xrqtl_old",},
+			is_on_off = 1,
+		},
+		[114]=
+		{
+			id = 114,
+			parm = {"act_035_jhs",},
 			is_on_off = 1,
 		},
 	},

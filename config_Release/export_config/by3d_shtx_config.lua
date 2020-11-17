@@ -32,8 +32,8 @@ return {
 			icon_id = 1,
 			text = "捕鱼任意鱼30条",
 			random = 0,
-			award_img = {"prop_3d_fish_lock",},
-			award_txt = {"X3",},
+			award_img = {"3dby_btn_kb",},
+			award_txt = {"X1",},
 		},
 		[4]=
 		{
@@ -43,8 +43,8 @@ return {
 			icon_id = 1,
 			text = "使用3次锁定",
 			random = 0,
-			award_img = {"prop_3d_fish_frozen",},
-			award_txt = {"X3",},
+			award_img = {"3dby_btn_jb",},
+			award_txt = {"X1",},
 		},
 		[5]=
 		{
@@ -54,8 +54,8 @@ return {
 			icon_id = 1,
 			text = "使用3次冰冻",
 			random = 0,
-			award_img = {"prop_3d_fish_lock",},
-			award_txt = {"X3",},
+			award_img = {"3dby_btn_kb",},
+			award_txt = {"X1",},
 		},
 		[6]=
 		{
@@ -65,8 +65,8 @@ return {
 			icon_id = 2,
 			text = "捕获小丑鱼10条",
 			random = 0,
-			award_img = {"prop_3d_fish_frozen",},
-			award_txt = {"X3",},
+			award_img = {"3dby_btn_jb",},
+			award_txt = {"X1",},
 		},
 		[7]=
 		{
@@ -76,8 +76,8 @@ return {
 			icon_id = 2,
 			text = "捕获小燕鱼10条",
 			random = 0,
-			award_img = {"prop_3d_fish_lock",},
-			award_txt = {"X3",},
+			award_img = {"3dby_btn_kb",},
+			award_txt = {"X1",},
 		},
 		[8]=
 		{
@@ -87,8 +87,8 @@ return {
 			icon_id = 2,
 			text = "捕获小黄鳍10条",
 			random = 0,
-			award_img = {"prop_3d_fish_frozen",},
-			award_txt = {"X3",},
+			award_img = {"3dby_btn_jb",},
+			award_txt = {"X1",},
 		},
 		[9]=
 		{
@@ -175,8 +175,8 @@ return {
 			icon_id = 1,
 			text = "捕鱼任意鱼100条",
 			random = 0,
-			award_img = {"prop_3d_fish_lock",},
-			award_txt = {"X5",},
+			award_img = {"3dby_btn_kb",},
+			award_txt = {"X3",},
 		},
 		[17]=
 		{
@@ -186,8 +186,8 @@ return {
 			icon_id = 2,
 			text = "捕获河豚20条",
 			random = 0,
-			award_img = {"prop_3d_fish_frozen",},
-			award_txt = {"X5",},
+			award_img = {"3dby_btn_jb",},
+			award_txt = {"X3",},
 		},
 		[18]=
 		{
@@ -197,8 +197,8 @@ return {
 			icon_id = 2,
 			text = "捕获小灯笼20条",
 			random = 0,
-			award_img = {"prop_3d_fish_lock",},
-			award_txt = {"X5",},
+			award_img = {"3dby_btn_kb",},
+			award_txt = {"X3",},
 		},
 		[19]=
 		{
@@ -208,8 +208,8 @@ return {
 			icon_id = 2,
 			text = "捕获小旗鱼20条",
 			random = 0,
-			award_img = {"prop_3d_fish_frozen",},
-			award_txt = {"X5",},
+			award_img = {"3dby_btn_jb",},
+			award_txt = {"X3",},
 		},
 		[20]=
 		{
@@ -219,8 +219,8 @@ return {
 			icon_id = 2,
 			text = "捕获小水母10条",
 			random = 0,
-			award_img = {"prop_3d_fish_lock",},
-			award_txt = {"X5",},
+			award_img = {"3dby_btn_kb",},
+			award_txt = {"X3",},
 		},
 		[21]=
 		{
@@ -230,8 +230,8 @@ return {
 			icon_id = 2,
 			text = "捕获小章鱼10条",
 			random = 0,
-			award_img = {"prop_3d_fish_frozen",},
-			award_txt = {"X5",},
+			award_img = {"3dby_btn_jb",},
+			award_txt = {"X3",},
 		},
 		[22]=
 		{
