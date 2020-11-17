@@ -1921,6 +1921,12 @@ return {
 			name = "周常活动新人展示位置",
 			condi = 339,
 		},
+		drt_cjj_little_game_discount=
+		{
+			key = "drt_cjj_little_game_discount",
+			name = "冲金鸡小游戏打折",
+			condi = 326,
+		},
 	},
 	act_permission=
 	{
