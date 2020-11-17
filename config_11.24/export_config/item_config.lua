@@ -2399,7 +2399,7 @@ return {
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "hjhhl_iocn_jt",
-			is_show_bag = 1,
+			is_show_bag = 0,
 			order = 33,
 			name = "火鸡掉落物",
 			desc = "感恩节火鸡道具",

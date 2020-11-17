@@ -169,6 +169,34 @@ return {
 			start_time = 1604966400,
 			recycle_time = 1605542399,
 		},
+		[25]=
+		{
+			id = 25,
+			prop_type = "prop_gej_hj",
+			start_time = 1606176000,
+			recycle_time = 1606751999,
+		},
+		[26]=
+		{
+			id = 26,
+			prop_type = "prop_gej_xy",
+			start_time = 1606176000,
+			recycle_time = 1606751999,
+		},
+		[27]=
+		{
+			id = 27,
+			prop_type = "prop_gej_ss",
+			start_time = 1606176000,
+			recycle_time = 1606751999,
+		},
+		[28]=
+		{
+			id = 28,
+			prop_type = "prop_gej_cs",
+			start_time = 1606176000,
+			recycle_time = 1606751999,
+		},
 	},
 	player_ext_status=
 	{
