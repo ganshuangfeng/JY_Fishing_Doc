@@ -1915,6 +1915,12 @@ return {
 			name = "新人专享（新人才展示）",
 			condi = 91,
 		},
+		drt_cjj_little_game_discount=
+		{
+			key = "drt_cjj_little_game_discount",
+			name = "冲金鸡小游戏打折",
+			condi = 326,
+		},
 	},
 	act_permission=
 	{
