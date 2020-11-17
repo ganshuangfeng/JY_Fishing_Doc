@@ -11884,21 +11884,21 @@ return {
 		[44]=
 		{
 			id = 44,
-			condition_group = {{type="permission_class",class_value = "hlqjd_042_v1v3" }},
+			condition_group = {{type="permission_class",class_value = "hlqjd_029_v1v3" }},
 			limit = 1,
 			duration = 0,
 		},
 		[45]=
 		{
 			id = 45,
-			condition_group = {{type="permission_class",class_value = "hlqjd_042_v4v7" }},
+			condition_group = {{type="permission_class",class_value = "hlqjd_029_v4v7" }},
 			limit = 1,
 			duration = 0,
 		},
 		[46]=
 		{
 			id = 46,
-			condition_group = {{type="permission_class",class_value = "hlqjd_042_v8v10" }},
+			condition_group = {{type="permission_class",class_value = "hlqjd_029_v8v10" }},
 			limit = 1,
 			duration = 0,
 		},

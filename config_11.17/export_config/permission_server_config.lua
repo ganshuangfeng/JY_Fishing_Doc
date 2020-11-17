@@ -5377,7 +5377,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1600128000,
+			start_deal_time = 1605542400,
 		},
 		[289]=
 		{
@@ -5389,7 +5389,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1600128000,
+			start_deal_time = 1605542400,
 		},
 		[290]=
 		{
@@ -5401,7 +5401,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1600128000,
+			start_deal_time = 1605542400,
 		},
 		[291]=
 		{
@@ -5894,42 +5894,6 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 1604332800,
-		},
-		[332]=
-		{
-			id = 332,
-			enable = 1,
-			key = "actp_buy_gift_bag_hlqjd_042_v1v3",
-			name = "欢乐敲金蛋v1-v3",
-			condi = 338,
-			is_dynamic_codi = 1,
-			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
-			start_deal_time = 1605571200,
-		},
-		[333]=
-		{
-			id = 333,
-			enable = 1,
-			key = "actp_buy_gift_bag_hlqjd_042_v4v7",
-			name = "欢乐敲金蛋v4-v7",
-			condi = 339,
-			is_dynamic_codi = 1,
-			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
-			start_deal_time = 1605571200,
-		},
-		[334]=
-		{
-			id = 334,
-			enable = 1,
-			key = "actp_buy_gift_bag_hlqjd_042_v8v10",
-			name = "欢乐敲金蛋v8-v10",
-			condi = 340,
-			is_dynamic_codi = 1,
-			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
-			start_deal_time = 1605571200,
 		},
 	},
 	condi=
@@ -14473,96 +14437,6 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "新用户",
-		},
-		[855]=
-		{
-			no = 855,
-			id = 338,
-			var = "vip_level",
-			value = 1,
-			judge = 3,
-			group = 1,
-			error_desc = "v1及以上",
-		},
-		[856]=
-		{
-			no = 856,
-			id = 338,
-			var = "vip_level",
-			value = 3,
-			judge = 4,
-			group = 1,
-			error_desc = "v3及以下",
-		},
-		[857]=
-		{
-			no = 857,
-			id = 338,
-			var = "tag_type",
-			value = "tag_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "非新用户",
-		},
-		[858]=
-		{
-			no = 858,
-			id = 339,
-			var = "vip_level",
-			value = 4,
-			judge = 3,
-			group = 1,
-			error_desc = "v4及以上",
-		},
-		[859]=
-		{
-			no = 859,
-			id = 339,
-			var = "vip_level",
-			value = 7,
-			judge = 4,
-			group = 1,
-			error_desc = "v7及以下",
-		},
-		[860]=
-		{
-			no = 860,
-			id = 339,
-			var = "tag_type",
-			value = "tag_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "非新用户",
-		},
-		[861]=
-		{
-			no = 861,
-			id = 340,
-			var = "vip_level",
-			value = 8,
-			judge = 3,
-			group = 1,
-			error_desc = "v8及以上",
-		},
-		[862]=
-		{
-			no = 862,
-			id = 340,
-			var = "vip_level",
-			value = 10,
-			judge = 4,
-			group = 1,
-			error_desc = "v10及以下",
-		},
-		[863]=
-		{
-			no = 863,
-			id = 340,
-			var = "tag_type",
-			value = "tag_new_player",
-			judge = 5,
-			group = 1,
-			error_desc = "非新用户",
 		},
 	},
 	share_condition=
