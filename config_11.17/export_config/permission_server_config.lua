@@ -5931,6 +5931,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1605571200,
 		},
+		[335]=
+		{
+			id = 335,
+			enable = 1,
+			key = "actp_own_task_p_042_hlqjd_hammer",
+			name = "欢乐敲金蛋活动使用锤子（V1以上，非新玩家）",
+			condi = 341,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1605571200,
+		},
 	},
 	condi=
 	{
@@ -14563,6 +14575,26 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "非新用户",
+		},
+		[864]=
+		{
+			no = 864,
+			id = 341,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[865]=
+		{
+			no = 865,
+			id = 341,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上的用户可进行游戏",
 		},
 	},
 	share_condition=
