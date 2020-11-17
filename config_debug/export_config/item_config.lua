@@ -2336,18 +2336,5 @@ return {
 			name = "双十一抽奖券",
 			desc = "双十一抽奖券",
 		},
-		[178]=
-		{
-			id = 178,
-			item_id = 178,
-			item_key = "task_1000114",
-			lose_time = -1,
-			is_local_icon = 1,
-			image = "ty_icon_hytb",
-			is_show_bag = 0,
-			order = 33,
-			name = "积分",
-			desc = "新人七天乐积分",
-		},
 	},
 }
