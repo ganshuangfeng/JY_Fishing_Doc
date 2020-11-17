@@ -2390,6 +2390,8 @@ return {
 			order = 33,
 			name = "稀有宝箱",
 			desc = "感恩节稀有",
+			use_parm = {"act_036_gelb","prop_gej_xy"},
+			tag = 57,
 		},
 		[182]=
 		{
@@ -2403,6 +2405,8 @@ return {
 			order = 33,
 			name = "史诗宝箱",
 			desc = "感恩节史诗",
+			use_parm = {"act_036_gelb","prop_gej_ss"},
+			tag = 58,
 		},
 		[183]=
 		{
@@ -2416,6 +2420,8 @@ return {
 			order = 33,
 			name = "传说宝箱",
 			desc = "感恩节传说",
+			use_parm = {"act_036_gelb","prop_gej_cs"},
+			tag = 59,
 		},
 	},
 }
