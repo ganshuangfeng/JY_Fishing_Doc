@@ -2753,9 +2753,9 @@ return {
 			key = "act_031_gqfd",
 			desc = "国庆福袋",
 			lua = "Act_030_GQFDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[282]=
 		{
@@ -2773,9 +2773,9 @@ return {
 			key = "by3d_hd",
 			desc = "核弹",
 			lua = "BY3DHDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[284]=
 		{
@@ -2823,18 +2823,18 @@ return {
 			key = "act_034_ldfd",
 			desc = "立冬福袋",
 			lua = "Act_034_LDFDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[289]=
 		{
 			id = 289,
 			key = "act_034_ldfl",
 			desc = "立冬福利（小游戏）",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[290]=
 		{
@@ -2842,9 +2842,9 @@ return {
 			key = "by3d_shtx",
 			desc = "深海探险",
 			lua = "BY3DSHTXManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[291]=
 		{
@@ -2909,6 +2909,36 @@ return {
 		[297]=
 		{
 			id = 297,
+			key = "act_036_hjhhl",
+			desc = "火鸡换好礼",
+			lua = "Act_036_HJHHLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[298]=
+		{
+			id = 298,
+			key = "act_036_hjhhl_drop_ani",
+			desc = "火鸡掉落需求",
+			lua = "Act_036_HJHHLDROPManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[299]=
+		{
+			id = 299,
+			key = "act_036_gelb",
+			desc = "感恩礼包",
+			lua = "Act_036_GELBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[300]=
+		{
+			id = 300,
 			key = "sys_by3d_shop_enter",
 			desc = "3D捕鱼商城入口(获取金币中)",
 			lua = "SYSBY3DShopManager",
