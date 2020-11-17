@@ -12277,6 +12277,7 @@ return {
 			process = 1,
 			awards = 834,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[519]=
 		{
@@ -12286,6 +12287,7 @@ return {
 			process = 1,
 			awards = 835,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[520]=
 		{
@@ -12295,6 +12297,7 @@ return {
 			process = 1,
 			awards = 836,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[521]=
 		{
@@ -12304,6 +12307,7 @@ return {
 			process = 1,
 			awards = 837,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[522]=
 		{
@@ -12313,6 +12317,7 @@ return {
 			process = 1,
 			awards = 838,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[523]=
 		{
@@ -12322,6 +12327,7 @@ return {
 			process = 1,
 			awards = 839,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[524]=
 		{
@@ -12331,6 +12337,7 @@ return {
 			process = 1,
 			awards = 840,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[525]=
 		{
@@ -12340,6 +12347,7 @@ return {
 			process = 1,
 			awards = 841,
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 	},
 	source=
@@ -21747,7 +21755,7 @@ return {
 			id = 514,
 			condition_id = 360,
 			condition_name = "gift_id",
-			condition_value = 6,
+			condition_value = 111,
 			judge_type = 2,
 		},
 		[515]=
@@ -21755,7 +21763,7 @@ return {
 			id = 515,
 			condition_id = 361,
 			condition_name = "gift_id",
-			condition_value = 107,
+			condition_value = 6,
 			judge_type = 2,
 		},
 		[516]=
