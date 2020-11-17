@@ -2301,32 +2301,6 @@ return {
 		{
 			id = 175,
 			item_id = 175,
-			item_key = "prop_guess_apple_sd",
-			lose_time = -1,
-			is_local_icon = 1,
-			image = "ldfd_icon_shui",
-			is_show_bag = 0,
-			order = 36,
-			name = "水滴",
-			desc = "用于苹果大战种植",
-		},
-		[176]=
-		{
-			id = 176,
-			item_id = 176,
-			item_key = "prop_guess_apple_cz",
-			lose_time = -1,
-			is_local_icon = 1,
-			image = "ldfd_zpg_icon_cc",
-			is_show_bag = 0,
-			order = 38,
-			name = "铲子",
-			desc = "用于苹果大战种植",
-		},
-		[177]=
-		{
-			id = 177,
-			item_id = 177,
 			item_key = "prop_11.11_cjq",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2336,10 +2310,10 @@ return {
 			name = "双十一抽奖券",
 			desc = "双十一抽奖券",
 		},
-		[178]=
+		[176]=
 		{
-			id = 178,
-			item_id = 178,
+			id = 176,
+			item_id = 176,
 			item_key = "task_1000114",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2349,10 +2323,10 @@ return {
 			name = "积分",
 			desc = "新人七天乐积分",
 		},
-		[179]=
+		[177]=
 		{
-			id = 179,
-			item_id = 179,
+			id = 177,
+			item_id = 177,
 			item_key = "prop_3d_fish_accelerate",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2363,10 +2337,10 @@ return {
 			desc = "以1.5倍的速度进行发炮，持续15秒。",
 			tag = 9,
 		},
-		[180]=
+		[178]=
 		{
-			id = 180,
-			item_id = 180,
+			id = 178,
+			item_id = 178,
 			item_key = "prop_3d_fish_wild",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2377,10 +2351,10 @@ return {
 			desc = "捕鱼将获得双倍奖励，同时会提升消耗，持续15秒。",
 			tag = 9,
 		},
-		[181]=
+		[179]=
 		{
-			id = 181,
-			item_id = 181,
+			id = 179,
+			item_id = 179,
 			item_key = "prop_3d_fish_doubled",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2391,10 +2365,10 @@ return {
 			desc = "子弹获得双倍威力，同时会提升消耗，持续15秒。",
 			tag = 9,
 		},
-		[182]=
+		[180]=
 		{
-			id = 182,
-			item_id = 182,
+			id = 180,
+			item_id = 180,
 			item_key = "prop_gej_hj",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2404,10 +2378,10 @@ return {
 			name = "火鸡掉落物",
 			desc = "感恩节火鸡道具",
 		},
-		[183]=
+		[181]=
 		{
-			id = 183,
-			item_id = 183,
+			id = 181,
+			item_id = 181,
 			item_key = "prop_gej_xy",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2416,10 +2390,10 @@ return {
 			name = "稀有宝箱",
 			desc = "感恩节稀有",
 		},
-		[184]=
+		[182]=
 		{
-			id = 184,
-			item_id = 184,
+			id = 182,
+			item_id = 182,
 			item_key = "prop_gej_ss",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2428,10 +2402,10 @@ return {
 			name = "史诗宝箱",
 			desc = "感恩节史诗",
 		},
-		[185]=
+		[183]=
 		{
-			id = 185,
-			item_id = 185,
+			id = 183,
+			item_id = 183,
 			item_key = "prop_gej_cs",
 			lose_time = -1,
 			is_local_icon = 1,

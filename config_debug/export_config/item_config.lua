@@ -2301,32 +2301,6 @@ return {
 		{
 			id = 175,
 			item_id = 175,
-			item_key = "prop_guess_apple_sd",
-			lose_time = -1,
-			is_local_icon = 1,
-			image = "ldfd_icon_shui",
-			is_show_bag = 0,
-			order = 36,
-			name = "水滴",
-			desc = "用于苹果大战种植",
-		},
-		[176]=
-		{
-			id = 176,
-			item_id = 176,
-			item_key = "prop_guess_apple_cz",
-			lose_time = -1,
-			is_local_icon = 1,
-			image = "ldfd_zpg_icon_cc",
-			is_show_bag = 0,
-			order = 38,
-			name = "铲子",
-			desc = "用于苹果大战种植",
-		},
-		[177]=
-		{
-			id = 177,
-			item_id = 177,
 			item_key = "prop_11.11_cjq",
 			lose_time = -1,
 			is_local_icon = 1,
