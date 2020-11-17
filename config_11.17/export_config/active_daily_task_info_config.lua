@@ -415,7 +415,7 @@ return {
 			task_instruction = "水果消消乐游戏50次",
 			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x2000","x5"},
+			task_award_count = {"x500","x5"},
 			gotoui = {"game_MiniGame",},
 		},
 		[2]=
@@ -427,7 +427,7 @@ return {
 			task_instruction = "水果消消乐累计消除苹果200个",
 			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x5000","x5"},
+			task_award_count = {"x1000","x5"},
 			gotoui = {"game_MiniGame",},
 		},
 		[3]=
@@ -439,7 +439,7 @@ return {
 			task_instruction = "水果消消乐累计消除铃铛200个",
 			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x10000","x10"},
+			task_award_count = {"x1000","x10"},
 			gotoui = {"game_MiniGame",},
 		},
 		[4]=
@@ -451,7 +451,7 @@ return {
 			task_instruction = "水果消消乐累计消除西瓜200个",
 			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x20000","x10"},
+			task_award_count = {"x1000","x10"},
 			gotoui = {"game_MiniGame",},
 		},
 		[5]=
@@ -463,7 +463,7 @@ return {
 			task_instruction = "水果消消乐累计消除BAR100个",
 			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x30000","x10"},
+			task_award_count = {"x1000","x10"},
 			gotoui = {"game_MiniGame",},
 		},
 		[6]=
@@ -475,7 +475,7 @@ return {
 			task_instruction = "累计赢金100万(单局至少投入5千)",
 			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x20000","x20"},
+			task_award_count = {"x2000","x20"},
 			gotoui = {"game_MiniGame",},
 		},
 		[7]=
@@ -487,7 +487,7 @@ return {
 			task_instruction = "出现幸运时刻(单局至少投入3万)",
 			task_award_icon = {"ty_icon_jb_2498y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x30000","x30"},
+			task_award_count = {"x3000","x30"},
 			gotoui = {"game_MiniGame",},
 		},
 		[8]=
@@ -535,7 +535,7 @@ return {
 			task_instruction = "红包场累计赢金50万",
 			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x3000","x10"},
+			task_award_count = {"x2000","x10"},
 			gotoui = {"game_MiniGame",},
 		},
 		[12]=
@@ -547,7 +547,7 @@ return {
 			task_instruction = "红包场累计赢金100万",
 			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x5000","x10"},
+			task_award_count = {"x3000","x10"},
 			gotoui = {"game_MiniGame",},
 		},
 		[13]=
@@ -559,7 +559,7 @@ return {
 			task_instruction = "红包场累计赢金500万",
 			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x10000","x20"},
+			task_award_count = {"x5000","x20"},
 			gotoui = {"game_MiniGame",},
 		},
 		[14]=
@@ -571,7 +571,7 @@ return {
 			task_instruction = "红包场累计赢金1000万",
 			task_award_icon = {"ty_icon_jb_2498y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
-			task_award_count = {"x20000","x30"},
+			task_award_count = {"x10000","x30"},
 			gotoui = {"game_MiniGame",},
 		},
 	},
@@ -581,31 +581,31 @@ return {
 		{
 			id = 1,
 			active = 30,
-			award_tip = "5000小游戏币",
+			award_tip = "2000小游戏币",
 		},
 		[2]=
 		{
 			id = 2,
 			active = 60,
-			award_tip = "1万小游戏币，玩具锤*1",
+			award_tip = "3000小游戏币，玩具锤*1",
 		},
 		[3]=
 		{
 			id = 3,
 			active = 90,
-			award_tip = "1万金币，1万小游戏币",
+			award_tip = "3000万金币，5000小游戏币",
 		},
 		[4]=
 		{
 			id = 4,
 			active = 120,
-			award_tip = "2万金币，2万小游戏币",
+			award_tip = "5000金币，5000小游戏币",
 		},
 		[5]=
 		{
 			id = 5,
 			active = 150,
-			award_tip = "5万金币",
+			award_tip = "1万金币",
 		},
 	},
 }
