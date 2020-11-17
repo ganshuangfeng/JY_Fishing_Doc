@@ -416,7 +416,7 @@ return {
 			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
 			task_award_count = {"x2000","x5"},
-			gotoui = {"game_MiniGame",},
+			gotoui = {"game_Eliminate",},
 		},
 		[2]=
 		{
@@ -428,7 +428,7 @@ return {
 			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
 			task_award_count = {"x5000","x5"},
-			gotoui = {"game_MiniGame",},
+			gotoui = {"game_Eliminate",},
 		},
 		[3]=
 		{
@@ -440,7 +440,7 @@ return {
 			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
 			task_award_count = {"x10000","x10"},
-			gotoui = {"game_MiniGame",},
+			gotoui = {"game_Eliminate",},
 		},
 		[4]=
 		{
@@ -452,7 +452,7 @@ return {
 			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
 			task_award_count = {"x20000","x10"},
-			gotoui = {"game_MiniGame",},
+			gotoui = {"game_Eliminate",},
 		},
 		[5]=
 		{
@@ -464,7 +464,7 @@ return {
 			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
 			task_award_count = {"x30000","x10"},
-			gotoui = {"game_MiniGame",},
+			gotoui = {"game_Eliminate",},
 		},
 		[6]=
 		{
@@ -476,7 +476,7 @@ return {
 			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
 			task_award_count = {"x20000","x20"},
-			gotoui = {"game_MiniGame",},
+			gotoui = {"game_Eliminate",},
 		},
 		[7]=
 		{
@@ -488,7 +488,7 @@ return {
 			task_award_icon = {"ty_icon_jb_2498y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
 			task_award_count = {"x30000","x30"},
-			gotoui = {"game_MiniGame",},
+			gotoui = {"game_Eliminate",},
 		},
 		[8]=
 		{
