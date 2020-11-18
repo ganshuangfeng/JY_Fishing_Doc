@@ -7365,6 +7365,34 @@ return {
 			end_valid_time = 1606751999,
 			time_limit = -1,
 		},
+		[1000117]=
+		{
+			id = 1000117,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_normal_task",
+			task_enum = "common",
+			process_id = 21475,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[1000118]=
+		{
+			id = 1000118,
+			enable = 1,
+			name = "小游戏畅玩卡",
+			own_type = "chang_wan_ka_children_special_task",
+			task_enum = "common",
+			process_id = 21476,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1592236800,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -12372,6 +12400,24 @@ return {
 			awards = 842,
 			get_award_type = "nor",
 			is_auto_get_award = 1,
+		},
+		[527]=
+		{
+			id = 527,
+			process_id = 21475,
+			source_id = 515,
+			process = 10000000,
+			awards = 581,
+			get_award_type = "nor",
+		},
+		[528]=
+		{
+			id = 528,
+			process_id = 21476,
+			source_id = 516,
+			process = 80000000,
+			awards = 582,
+			get_award_type = "nor",
 		},
 	},
 	source=
@@ -17962,6 +18008,20 @@ return {
 			id = 791,
 			source_id = 514,
 			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[792]=
+		{
+			id = 792,
+			source_id = 515,
+			source_type = "lwzb_game_award",
+			condition_id = 0,
+		},
+		[793]=
+		{
+			id = 793,
+			source_id = 516,
+			source_type = "lwzb_game_award",
 			condition_id = 0,
 		},
 	},
