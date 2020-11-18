@@ -2913,10 +2913,10 @@ return {
 			desc = "可放入水族馆中进行喂养，每次喂养即可产出货币",
 			tag = 16,
 		},
-		[221]=
+		[219]=
 		{
-			id = 221,
-			item_id = 221,
+			id = 219,
+			item_id = 219,
 			item_key = "prop_fishbowl_fry_fragment1",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2927,10 +2927,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[222]=
+		[220]=
 		{
-			id = 222,
-			item_id = 222,
+			id = 220,
+			item_id = 220,
 			item_key = "prop_fishbowl_fry_fragment2",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2941,10 +2941,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[223]=
+		[221]=
 		{
-			id = 223,
-			item_id = 223,
+			id = 221,
+			item_id = 221,
 			item_key = "prop_fishbowl_fry_fragment3",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2955,10 +2955,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[224]=
+		[222]=
 		{
-			id = 224,
-			item_id = 224,
+			id = 222,
+			item_id = 222,
 			item_key = "prop_fishbowl_fry_fragment4",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2969,10 +2969,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[225]=
+		[223]=
 		{
-			id = 225,
-			item_id = 225,
+			id = 223,
+			item_id = 223,
 			item_key = "prop_fishbowl_fry_fragment5",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2983,10 +2983,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[226]=
+		[224]=
 		{
-			id = 226,
-			item_id = 226,
+			id = 224,
+			item_id = 224,
 			item_key = "prop_fishbowl_fry_fragment6",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -2997,10 +2997,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[227]=
+		[225]=
 		{
-			id = 227,
-			item_id = 227,
+			id = 225,
+			item_id = 225,
 			item_key = "prop_fishbowl_fry_fragment7",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3011,10 +3011,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[228]=
+		[226]=
 		{
-			id = 228,
-			item_id = 228,
+			id = 226,
+			item_id = 226,
 			item_key = "prop_fishbowl_fry_fragment8",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3025,10 +3025,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[229]=
+		[227]=
 		{
-			id = 229,
-			item_id = 229,
+			id = 227,
+			item_id = 227,
 			item_key = "prop_fishbowl_fry_fragment9",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3039,10 +3039,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[230]=
+		[228]=
 		{
-			id = 230,
-			item_id = 230,
+			id = 228,
+			item_id = 228,
 			item_key = "prop_fishbowl_fry_fragment10",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3053,10 +3053,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[231]=
+		[229]=
 		{
-			id = 231,
-			item_id = 231,
+			id = 229,
+			item_id = 229,
 			item_key = "prop_fishbowl_fry_fragment11",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3067,10 +3067,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[232]=
+		[230]=
 		{
-			id = 232,
-			item_id = 232,
+			id = 230,
+			item_id = 230,
 			item_key = "prop_fishbowl_fry_fragment12",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3081,10 +3081,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[233]=
+		[231]=
 		{
-			id = 233,
-			item_id = 233,
+			id = 231,
+			item_id = 231,
 			item_key = "prop_fishbowl_fry_fragment13",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3095,10 +3095,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[234]=
+		[232]=
 		{
-			id = 234,
-			item_id = 234,
+			id = 232,
+			item_id = 232,
 			item_key = "prop_fishbowl_fry_fragment14",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3109,10 +3109,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[235]=
+		[233]=
 		{
-			id = 235,
-			item_id = 235,
+			id = 233,
+			item_id = 233,
 			item_key = "prop_fishbowl_fry_fragment15",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3123,10 +3123,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[236]=
+		[234]=
 		{
-			id = 236,
-			item_id = 236,
+			id = 234,
+			item_id = 234,
 			item_key = "prop_fishbowl_fry_fragment16",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3137,10 +3137,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[237]=
+		[235]=
 		{
-			id = 237,
-			item_id = 237,
+			id = 235,
+			item_id = 235,
 			item_key = "prop_fishbowl_fry_fragment17",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3151,10 +3151,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[238]=
+		[236]=
 		{
-			id = 238,
-			item_id = 238,
+			id = 236,
+			item_id = 236,
 			item_key = "prop_fishbowl_fry_fragment18",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3165,10 +3165,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[239]=
+		[237]=
 		{
-			id = 239,
-			item_id = 239,
+			id = 237,
+			item_id = 237,
 			item_key = "prop_fishbowl_fry_fragment19",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3179,10 +3179,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[240]=
+		[238]=
 		{
-			id = 240,
-			item_id = 240,
+			id = 238,
+			item_id = 238,
 			item_key = "prop_fishbowl_fry_fragment20",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3193,10 +3193,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[241]=
+		[239]=
 		{
-			id = 241,
-			item_id = 241,
+			id = 239,
+			item_id = 239,
 			item_key = "prop_fishbowl_fry_fragment21",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3207,10 +3207,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[242]=
+		[240]=
 		{
-			id = 242,
-			item_id = 242,
+			id = 240,
+			item_id = 240,
 			item_key = "prop_fishbowl_fry_fragment22",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3221,10 +3221,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[243]=
+		[241]=
 		{
-			id = 243,
-			item_id = 243,
+			id = 241,
+			item_id = 241,
 			item_key = "prop_fishbowl_fry_fragment23",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3235,10 +3235,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[244]=
+		[242]=
 		{
-			id = 244,
-			item_id = 244,
+			id = 242,
+			item_id = 242,
 			item_key = "prop_fishbowl_fry_fragment24",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3249,10 +3249,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[245]=
+		[243]=
 		{
-			id = 245,
-			item_id = 245,
+			id = 243,
+			item_id = 243,
 			item_key = "prop_fishbowl_fry_fragment25",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3263,10 +3263,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[246]=
+		[244]=
 		{
-			id = 246,
-			item_id = 246,
+			id = 244,
+			item_id = 244,
 			item_key = "prop_fishbowl_fry_fragment26",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3277,10 +3277,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[247]=
+		[245]=
 		{
-			id = 247,
-			item_id = 247,
+			id = 245,
+			item_id = 245,
 			item_key = "prop_fishbowl_fry_fragment27",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3291,10 +3291,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[248]=
+		[246]=
 		{
-			id = 248,
-			item_id = 248,
+			id = 246,
+			item_id = 246,
 			item_key = "prop_fishbowl_fry_fragment28",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3305,10 +3305,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[249]=
+		[247]=
 		{
-			id = 249,
-			item_id = 249,
+			id = 247,
+			item_id = 247,
 			item_key = "prop_fishbowl_fry_fragment29",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3319,10 +3319,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[250]=
+		[248]=
 		{
-			id = 250,
-			item_id = 250,
+			id = 248,
+			item_id = 248,
 			item_key = "prop_fishbowl_fry_fragment30",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3333,10 +3333,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[251]=
+		[249]=
 		{
-			id = 251,
-			item_id = 251,
+			id = 249,
+			item_id = 249,
 			item_key = "prop_fishbowl_fry_fragment31",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3347,10 +3347,10 @@ return {
 			desc = "用于合成鱼苗，也可以直接售卖",
 			tag = 16,
 		},
-		[252]=
+		[250]=
 		{
-			id = 252,
-			item_id = 252,
+			id = 250,
+			item_id = 250,
 			item_key = "prop_fishbowl_fish1",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3361,10 +3361,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[253]=
+		[251]=
 		{
-			id = 253,
-			item_id = 253,
+			id = 251,
+			item_id = 251,
 			item_key = "prop_fishbowl_fish2",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3375,10 +3375,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[254]=
+		[252]=
 		{
-			id = 254,
-			item_id = 254,
+			id = 252,
+			item_id = 252,
 			item_key = "prop_fishbowl_fish3",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3389,10 +3389,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[255]=
+		[253]=
 		{
-			id = 255,
-			item_id = 255,
+			id = 253,
+			item_id = 253,
 			item_key = "prop_fishbowl_fish4",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3403,10 +3403,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[256]=
+		[254]=
 		{
-			id = 256,
-			item_id = 256,
+			id = 254,
+			item_id = 254,
 			item_key = "prop_fishbowl_fish5",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3417,10 +3417,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[257]=
+		[255]=
 		{
-			id = 257,
-			item_id = 257,
+			id = 255,
+			item_id = 255,
 			item_key = "prop_fishbowl_fish6",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3431,10 +3431,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[258]=
+		[256]=
 		{
-			id = 258,
-			item_id = 258,
+			id = 256,
+			item_id = 256,
 			item_key = "prop_fishbowl_fish7",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3445,10 +3445,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[259]=
+		[257]=
 		{
-			id = 259,
-			item_id = 259,
+			id = 257,
+			item_id = 257,
 			item_key = "prop_fishbowl_fish8",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3459,10 +3459,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[260]=
+		[258]=
 		{
-			id = 260,
-			item_id = 260,
+			id = 258,
+			item_id = 258,
 			item_key = "prop_fishbowl_fish9",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3473,10 +3473,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[261]=
+		[259]=
 		{
-			id = 261,
-			item_id = 261,
+			id = 259,
+			item_id = 259,
 			item_key = "prop_fishbowl_fish10",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3487,10 +3487,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[262]=
+		[260]=
 		{
-			id = 262,
-			item_id = 262,
+			id = 260,
+			item_id = 260,
 			item_key = "prop_fishbowl_fish11",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3501,10 +3501,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[263]=
+		[261]=
 		{
-			id = 263,
-			item_id = 263,
+			id = 261,
+			item_id = 261,
 			item_key = "prop_fishbowl_fish12",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3515,10 +3515,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[264]=
+		[262]=
 		{
-			id = 264,
-			item_id = 264,
+			id = 262,
+			item_id = 262,
 			item_key = "prop_fishbowl_fish13",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3529,10 +3529,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[265]=
+		[263]=
 		{
-			id = 265,
-			item_id = 265,
+			id = 263,
+			item_id = 263,
 			item_key = "prop_fishbowl_fish14",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3543,10 +3543,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[266]=
+		[264]=
 		{
-			id = 266,
-			item_id = 266,
+			id = 264,
+			item_id = 264,
 			item_key = "prop_fishbowl_fish15",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3557,10 +3557,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[267]=
+		[265]=
 		{
-			id = 267,
-			item_id = 267,
+			id = 265,
+			item_id = 265,
 			item_key = "prop_fishbowl_fish16",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3571,10 +3571,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[268]=
+		[266]=
 		{
-			id = 268,
-			item_id = 268,
+			id = 266,
+			item_id = 266,
 			item_key = "prop_fishbowl_fish17",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3585,10 +3585,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[269]=
+		[267]=
 		{
-			id = 269,
-			item_id = 269,
+			id = 267,
+			item_id = 267,
 			item_key = "prop_fishbowl_fish18",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3599,10 +3599,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[270]=
+		[268]=
 		{
-			id = 270,
-			item_id = 270,
+			id = 268,
+			item_id = 268,
 			item_key = "prop_fishbowl_fish19",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3613,10 +3613,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[271]=
+		[269]=
 		{
-			id = 271,
-			item_id = 271,
+			id = 269,
+			item_id = 269,
 			item_key = "prop_fishbowl_fish20",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3627,10 +3627,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[272]=
+		[270]=
 		{
-			id = 272,
-			item_id = 272,
+			id = 270,
+			item_id = 270,
 			item_key = "prop_fishbowl_fish21",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3641,10 +3641,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[273]=
+		[271]=
 		{
-			id = 273,
-			item_id = 273,
+			id = 271,
+			item_id = 271,
 			item_key = "prop_fishbowl_fish22",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3655,10 +3655,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[274]=
+		[272]=
 		{
-			id = 274,
-			item_id = 274,
+			id = 272,
+			item_id = 272,
 			item_key = "prop_fishbowl_fish23",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3669,10 +3669,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[275]=
+		[273]=
 		{
-			id = 275,
-			item_id = 275,
+			id = 273,
+			item_id = 273,
 			item_key = "prop_fishbowl_fish24",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3683,10 +3683,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[276]=
+		[274]=
 		{
-			id = 276,
-			item_id = 276,
+			id = 274,
+			item_id = 274,
 			item_key = "prop_fishbowl_fish25",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3697,10 +3697,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[277]=
+		[275]=
 		{
-			id = 277,
-			item_id = 277,
+			id = 275,
+			item_id = 275,
 			item_key = "prop_fishbowl_fish26",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3711,10 +3711,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[278]=
+		[276]=
 		{
-			id = 278,
-			item_id = 278,
+			id = 276,
+			item_id = 276,
 			item_key = "prop_fishbowl_fish27",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3725,10 +3725,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[279]=
+		[277]=
 		{
-			id = 279,
-			item_id = 279,
+			id = 277,
+			item_id = 277,
 			item_key = "prop_fishbowl_fish28",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3739,10 +3739,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[280]=
+		[278]=
 		{
-			id = 280,
-			item_id = 280,
+			id = 278,
+			item_id = 278,
 			item_key = "prop_fishbowl_fish29",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3753,10 +3753,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[281]=
+		[279]=
 		{
-			id = 281,
-			item_id = 281,
+			id = 279,
+			item_id = 279,
 			item_key = "prop_fishbowl_fish30",
 			lose_time = -1,
 			is_local_icon = 1,
@@ -3767,10 +3767,10 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
-		[282]=
+		[280]=
 		{
-			id = 282,
-			item_id = 282,
+			id = 280,
+			item_id = 280,
 			item_key = "prop_fishbowl_fish31",
 			lose_time = -1,
 			is_local_icon = 1,

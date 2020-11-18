@@ -29676,7 +29676,7 @@ return {
 			id = 976,
 			award_id = 685,
 			asset_type = "shop_gold_sum",
-			asset_count = 5,
+			asset_count = 3,
 			get_weight = 80,
 		},
 		[977]=
@@ -29684,7 +29684,7 @@ return {
 			id = 977,
 			award_id = 685,
 			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_count = 5,
 			get_weight = 15,
 		},
 		[978]=
