@@ -2335,7 +2335,7 @@ return {
 			key = "act_016_xyxcwk",
 			desc = "畅玩卡",
 			lua = "Act_016_XYXCWKManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
