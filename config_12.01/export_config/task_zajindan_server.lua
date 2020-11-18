@@ -12427,7 +12427,7 @@ return {
 			process = {1000000,-1},
 			awards = 842,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 2,
 		},
 		[527]=
 		{
