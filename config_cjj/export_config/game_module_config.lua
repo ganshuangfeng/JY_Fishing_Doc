@@ -2846,5 +2846,25 @@ return {
 			enable = 0,
 			state = 0,
 		},
+		[291]=
+		{
+			id = 291,
+			key = "act_035_ybwl",
+			desc = "一本万利",
+			lua = "Act_035_YBWLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[292]=
+		{
+			id = 292,
+			key = "act_035_jhs",
+			desc = "聚划算",
+			lua = "Act_035_JHSManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
