@@ -18115,27 +18115,34 @@ return {
 		[800]=
 		{
 			id = 800,
-			source_id = 515,
+			source_id = 514,
 			source_type = "lwzb_game_award",
 			condition_id = 0,
 		},
 		[801]=
 		{
 			id = 801,
-			source_id = 516,
+			source_id = 515,
 			source_type = "lwzb_game_award",
 			condition_id = 0,
 		},
 		[802]=
 		{
 			id = 802,
-			source_id = 517,
-			source_type = "task_award_receive",
-			condition_id = 364,
+			source_id = 516,
+			source_type = "lwzb_game_award",
+			condition_id = 0,
 		},
 		[803]=
 		{
 			id = 803,
+			source_id = 517,
+			source_type = "task_award_receive",
+			condition_id = 364,
+		},
+		[804]=
+		{
+			id = 804,
 			source_id = 518,
 			source_type = "charge_any",
 			condition_id = 365,

@@ -18069,13 +18069,20 @@ return {
 		[800]=
 		{
 			id = 800,
-			source_id = 515,
+			source_id = 514,
 			source_type = "lwzb_game_award",
 			condition_id = 0,
 		},
 		[801]=
 		{
 			id = 801,
+			source_id = 515,
+			source_type = "lwzb_game_award",
+			condition_id = 0,
+		},
+		[802]=
+		{
+			id = 802,
 			source_id = 516,
 			source_type = "lwzb_game_award",
 			condition_id = 0,
