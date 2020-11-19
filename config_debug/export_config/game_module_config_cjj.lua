@@ -626,7 +626,7 @@ return {
 			key = "sys_qd",
 			desc = "签到",
 			lua = "SYSQDManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
