@@ -5926,6 +5926,30 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 0,
 		},
+		[334]=
+		{
+			id = 334,
+			enable = 1,
+			key = "actp_no_cjj_gej_exchange",
+			name = "非cjj",
+			condi = 340,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1606176000,
+		},
+		[335]=
+		{
+			id = 335,
+			enable = 1,
+			key = "actp_cjj_gej_exchange",
+			name = "cjj",
+			condi = 341,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1606176000,
+		},
 	},
 	condi=
 	{
@@ -14468,6 +14492,26 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是新玩家",
+		},
+		[855]=
+		{
+			no = 855,
+			id = 340,
+			var = "share_condition",
+			value = "3dby_cjj",
+			judge = 5,
+			group = 1,
+			error_desc = "cjj",
+		},
+		[856]=
+		{
+			no = 856,
+			id = 341,
+			var = "share_condition",
+			value = "3dby_cjj",
+			judge = 2,
+			group = 1,
+			error_desc = "非cjj",
 		},
 	},
 	share_condition=
