@@ -4631,7 +4631,7 @@ return {
 		{
 			id = 39,
 			acti_type = 9,
-			num = {"prop_web_chip_huafei",0,0.02,0.05},
+			num = {"prop_web_chip_huafei",10,0.02,0.05},
 			show = 1,
 			enter_bag = 1,
 			value = 75,
@@ -4640,7 +4640,7 @@ return {
 		{
 			id = 40,
 			acti_type = 9,
-			num = {"jing_bi",0,50,100},
+			num = {"jing_bi",10,50,100},
 			show = 1,
 			enter_bag = 1,
 			value = 75,
