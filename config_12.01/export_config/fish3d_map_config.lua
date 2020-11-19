@@ -713,5 +713,18 @@ return {
 			prefab = "turntable_ywdj_3d",
 			tips = "一群命运共同体的鱼，不过任意一条标记有“一网打尽”的鱼，其他的将同时被捕获。",
 		},
+		[51]=
+		{
+			line = 51,
+			order = 51,
+			tag = 2,
+			icon = "by_iocn_hfy",
+			name = "话费鱼",
+			game_id = {2,3,4,5,},
+			scale = 2,
+			rotation = {0,0,0},
+			prefab = "Fish3D089",
+			tips = "背负话费的特殊鱼类，击杀后有概率获得话费碎片",
+		},
 	},
 }
