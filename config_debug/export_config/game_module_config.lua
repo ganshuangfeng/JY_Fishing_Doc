@@ -2823,9 +2823,9 @@ return {
 			key = "act_034_ldfd",
 			desc = "立冬福袋",
 			lua = "Act_034_LDFDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[289]=
 		{
