@@ -32583,56 +32583,120 @@ return {
 		[1276]=
 		{
 			id = 1276,
-			award_id = 865,
-			asset_type = "prop_12_12_lh",
-			asset_count = 90,
+			award_id = 864,
+			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_count = 45,
 			get_weight = 1,
 		},
 		[1277]=
 		{
 			id = 1277,
-			award_id = 866,
+			award_id = 865,
 			asset_type = "prop_12_12_lh",
-			asset_count = 150,
+			asset_count = 90,
 			get_weight = 1,
 		},
 		[1278]=
 		{
 			id = 1278,
-			award_id = 867,
-			asset_type = "prop_12_12_lh",
-			asset_count = 294,
+			award_id = 865,
+			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_count = 90,
 			get_weight = 1,
 		},
 		[1279]=
 		{
 			id = 1279,
-			award_id = 868,
+			award_id = 866,
 			asset_type = "prop_12_12_lh",
-			asset_count = 594,
+			asset_count = 150,
 			get_weight = 1,
 		},
 		[1280]=
 		{
 			id = 1280,
-			award_id = 869,
-			asset_type = "prop_12_12_lh",
-			asset_count = 1494,
+			award_id = 866,
+			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_count = 150,
 			get_weight = 1,
 		},
 		[1281]=
 		{
 			id = 1281,
-			award_id = 870,
+			award_id = 867,
 			asset_type = "prop_12_12_lh",
-			asset_count = 2994,
+			asset_count = 294,
 			get_weight = 1,
 		},
 		[1282]=
 		{
 			id = 1282,
+			award_id = 867,
+			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_count = 294,
+			get_weight = 1,
+		},
+		[1283]=
+		{
+			id = 1283,
+			award_id = 868,
+			asset_type = "prop_12_12_lh",
+			asset_count = 594,
+			get_weight = 1,
+		},
+		[1284]=
+		{
+			id = 1284,
+			award_id = 868,
+			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_count = 594,
+			get_weight = 1,
+		},
+		[1285]=
+		{
+			id = 1285,
+			award_id = 869,
+			asset_type = "prop_12_12_lh",
+			asset_count = 1494,
+			get_weight = 1,
+		},
+		[1286]=
+		{
+			id = 1286,
+			award_id = 869,
+			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_count = 1494,
+			get_weight = 1,
+		},
+		[1287]=
+		{
+			id = 1287,
+			award_id = 870,
+			asset_type = "prop_12_12_lh",
+			asset_count = 2994,
+			get_weight = 1,
+		},
+		[1288]=
+		{
+			id = 1288,
+			award_id = 870,
+			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_count = 2994,
+			get_weight = 1,
+		},
+		[1289]=
+		{
+			id = 1289,
 			award_id = 871,
 			asset_type = "prop_12_12_lh",
+			asset_count = 7494,
+			get_weight = 1,
+		},
+		[1290]=
+		{
+			id = 1290,
+			award_id = 871,
+			asset_type = "_common_rank_12_12_lhsjb_rank",
 			asset_count = 7494,
 			get_weight = 1,
 		},

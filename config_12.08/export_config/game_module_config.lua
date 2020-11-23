@@ -2956,5 +2956,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[302]=
+		{
+			id = 302,
+			key = "act_038_s12lhsjb",
+			desc = "双十二礼盒收集榜",
+			lua = "Act_038_S12LHSJBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

@@ -363,5 +363,23 @@ return {
 			beginTime = 1607385600,
 			endTime = 1607961599,
 		},
+		[20]=
+		{
+			id = 20,
+			ID = 20,
+			title = "双十二礼盒收集榜",
+			noCloseUI = 0,
+			order = 2,
+			key = "act_038_s12lhsjb",
+			type = "activity",
+			isOnOff = 1,
+			showType = "prefab",
+			parmData = "activity_task",
+			is_local_icon = 1,
+			gotoUI = {"act_038_s12lhsjb","panel"},
+			tag = "normal",
+			beginTime = 1607385600,
+			endTime = 1607961599,
+		},
 	},
 }
