@@ -2695,9 +2695,9 @@ return {
 			key = "act_029_hlqjd",
 			desc = "欢乐敲金蛋",
 			lua = "Act_029_HLQJDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[276]=
 		{
@@ -2912,9 +2912,9 @@ return {
 			key = "act_036_hjhhl",
 			desc = "火鸡换好礼",
 			lua = "Act_036_HJHHLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[298]=
 		{
@@ -2922,9 +2922,9 @@ return {
 			key = "act_036_hjhhl_drop_ani",
 			desc = "火鸡掉落需求",
 			lua = "Act_036_HJHHLDROPManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[299]=
 		{
@@ -2932,9 +2932,9 @@ return {
 			key = "act_036_gelb",
 			desc = "感恩礼包",
 			lua = "Act_036_GELBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[300]=
 		{
@@ -2942,6 +2942,16 @@ return {
 			key = "sys_by3d_shop_enter",
 			desc = "3D捕鱼商城入口(获取金币中)",
 			lua = "SYSBY3DShopManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[301]=
+		{
+			id = 301,
+			key = "act_038_s12dhhl",
+			desc = "双十二兑换好礼",
+			lua = "Act_038_S12DHHLManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

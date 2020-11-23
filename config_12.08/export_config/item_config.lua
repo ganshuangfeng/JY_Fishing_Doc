@@ -3782,5 +3782,18 @@ return {
 			desc = "已经成熟的鱼，可以进行售卖",
 			tag = 16,
 		},
+		[281]=
+		{
+			id = 281,
+			item_id = 281,
+			item_key = "prop_12_12_lh",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "dhhl_iocn_lh",
+			is_show_bag = 0,
+			order = 33,
+			name = "礼盒掉落物",
+			desc = "双十二礼盒道具",
+		},
 	},
 }

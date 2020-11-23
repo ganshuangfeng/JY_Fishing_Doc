@@ -2896,5 +2896,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[296]=
+		{
+			id = 296,
+			key = "act_038_s12dhhl",
+			desc = "双十二兑换好礼",
+			lua = "Act_038_S12DHHLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
