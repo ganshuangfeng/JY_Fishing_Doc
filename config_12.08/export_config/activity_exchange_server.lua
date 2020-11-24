@@ -562,7 +562,7 @@ return {
 		[41]=
 		{
 			no = 41,
-			award_cfg_id = 5,
+			award_cfg_id = 7,
 			award_id = 1,
 			permission_key = "actp_no_cjj_gej_exchange",
 			award_name = "金龙鱼玉米油4L",
@@ -572,7 +572,7 @@ return {
 		[42]=
 		{
 			no = 42,
-			award_cfg_id = 5,
+			award_cfg_id = 7,
 			award_id = 2,
 			permission_key = "actp_no_cjj_gej_exchange",
 			award_name = "奥克斯煮蛋器",
@@ -582,7 +582,7 @@ return {
 		[43]=
 		{
 			no = 43,
-			award_cfg_id = 5,
+			award_cfg_id = 7,
 			award_id = 3,
 			permission_key = "actp_no_cjj_gej_exchange",
 			award_name = "灯影牛肉",
@@ -592,7 +592,7 @@ return {
 		[44]=
 		{
 			no = 44,
-			award_cfg_id = 5,
+			award_cfg_id = 7,
 			award_id = 4,
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
@@ -602,7 +602,7 @@ return {
 		[45]=
 		{
 			no = 45,
-			award_cfg_id = 5,
+			award_cfg_id = 7,
 			award_id = 5,
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
@@ -613,7 +613,7 @@ return {
 		[46]=
 		{
 			no = 46,
-			award_cfg_id = 5,
+			award_cfg_id = 7,
 			award_id = 6,
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
@@ -624,7 +624,7 @@ return {
 		[47]=
 		{
 			no = 47,
-			award_cfg_id = 5,
+			award_cfg_id = 7,
 			award_id = 7,
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
@@ -635,7 +635,7 @@ return {
 		[48]=
 		{
 			no = 48,
-			award_cfg_id = 5,
+			award_cfg_id = 7,
 			award_id = 8,
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
@@ -646,7 +646,7 @@ return {
 		[49]=
 		{
 			no = 49,
-			award_cfg_id = 6,
+			award_cfg_id = 8,
 			award_id = 1,
 			permission_key = "actp_cjj_gej_exchange",
 			award_name = "金龙鱼玉米油4L",
@@ -656,7 +656,7 @@ return {
 		[50]=
 		{
 			no = 50,
-			award_cfg_id = 6,
+			award_cfg_id = 8,
 			award_id = 2,
 			permission_key = "actp_cjj_gej_exchange",
 			award_name = "奥克斯煮蛋器",
@@ -666,7 +666,7 @@ return {
 		[51]=
 		{
 			no = 51,
-			award_cfg_id = 6,
+			award_cfg_id = 8,
 			award_id = 3,
 			permission_key = "actp_cjj_gej_exchange",
 			award_name = "灯影牛肉",
@@ -676,7 +676,7 @@ return {
 		[52]=
 		{
 			no = 52,
-			award_cfg_id = 6,
+			award_cfg_id = 8,
 			award_id = 4,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
@@ -686,7 +686,7 @@ return {
 		[53]=
 		{
 			no = 53,
-			award_cfg_id = 6,
+			award_cfg_id = 8,
 			award_id = 5,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
@@ -697,7 +697,7 @@ return {
 		[54]=
 		{
 			no = 54,
-			award_cfg_id = 6,
+			award_cfg_id = 8,
 			award_id = 6,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
@@ -708,7 +708,7 @@ return {
 		[55]=
 		{
 			no = 55,
-			award_cfg_id = 6,
+			award_cfg_id = 8,
 			award_id = 7,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
@@ -719,7 +719,7 @@ return {
 		[56]=
 		{
 			no = 56,
-			award_cfg_id = 6,
+			award_cfg_id = 8,
 			award_id = 8,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
