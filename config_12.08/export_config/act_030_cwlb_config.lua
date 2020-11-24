@@ -4,7 +4,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			icon = "s12xylb_iocn_mdkt",
+			icon = "s12xylb_icon_mdkt",
 			name = "美的空调",
 			award_id = 11856,
 		},
