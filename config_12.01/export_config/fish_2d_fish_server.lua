@@ -4365,7 +4365,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 75,
 			ranking_show_rate = 1,
-			broadcast = 0,
+			broadcast = 1,
 		},
 		[170]=
 		{
@@ -4380,7 +4380,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 75,
 			ranking_show_rate = 1,
-			broadcast = 0,
+			broadcast = 1,
 		},
 	},
 	activity=
@@ -4727,7 +4727,7 @@ return {
 		{
 			id = 39,
 			acti_type = 9,
-			num = {"prop_web_chip_huafei",0,0.025,0.05},
+			num = {"prop_web_chip_huafei",0,0.02,0.05},
 			show = 1,
 			enter_bag = 1,
 			value = 75,

@@ -823,7 +823,7 @@ return {
 			line = 33,
 			id = 33,
 			prefab = "Fish3D089",
-			icon = "by_iocn_hjboss",
+			icon = "by_iocn_hfy_1",
 			name = "话费鱼",
 			name_image = "by_imgf_zp55",
 			size_w = 2.640000,
