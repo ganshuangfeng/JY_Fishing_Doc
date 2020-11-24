@@ -6,7 +6,7 @@ return {
 			line = 1,
 			icon = "s12xylb_iocn_mdkt",
 			name = "美的空调",
-			award_id = 11851,
+			award_id = 11856,
 		},
 		[2]=
 		{
@@ -15,7 +15,7 @@ return {
 			name = "15福利券",
 			asset_type = "shop_gold_sum",
 			value = 15,
-			award_id = 11852,
+			award_id = 11855,
 		},
 		[3]=
 		{
@@ -24,7 +24,7 @@ return {
 			name = "20000金币",
 			asset_type = "jing_bi",
 			value = 20000,
-			award_id = 11853,
+			award_id = 11854,
 		},
 		[4]=
 		{
@@ -33,7 +33,7 @@ return {
 			name = "30福利券",
 			asset_type = "shop_gold_sum",
 			value = 30,
-			award_id = 11854,
+			award_id = 11853,
 		},
 		[5]=
 		{
@@ -42,7 +42,7 @@ return {
 			name = "50000金币",
 			asset_type = "jing_bi",
 			value = 50000,
-			award_id = 11855,
+			award_id = 11852,
 		},
 		[6]=
 		{
@@ -51,7 +51,7 @@ return {
 			name = "12000金币",
 			asset_type = "jing_bi",
 			value = 12000,
-			award_id = 11856,
+			award_id = 11851,
 		},
 	},
 	gift=
