@@ -7533,6 +7533,20 @@ return {
 			end_valid_time = 1592841599,
 			time_limit = -1,
 		},
+		[1000129]=
+		{
+			id = 1000129,
+			enable = 1,
+			name = "礼盒掉落",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21487,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1606176000,
+			end_valid_time = 1592841599,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -12656,6 +12670,16 @@ return {
 			awards = 871,
 			get_award_type = "nor",
 			is_auto_get_award = 1,
+		},
+		[539]=
+		{
+			id = 539,
+			process_id = 21487,
+			source_id = 527,
+			process = {1000000,-1},
+			awards = 872,
+			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 	},
 	source=
@@ -18384,6 +18408,62 @@ return {
 			source_id = 526,
 			source_type = "buy_gift",
 			condition_id = 373,
+		},
+		[813]=
+		{
+			id = 813,
+			source_id = 527,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[814]=
+		{
+			id = 814,
+			source_id = 527,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[815]=
+		{
+			id = 815,
+			source_id = 527,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[816]=
+		{
+			id = 816,
+			source_id = 527,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[817]=
+		{
+			id = 817,
+			source_id = 527,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[818]=
+		{
+			id = 818,
+			source_id = 527,
+			source_type = "jykp_award",
+			condition_id = 0,
+		},
+		[819]=
+		{
+			id = 819,
+			source_id = 527,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[820]=
+		{
+			id = 820,
+			source_id = 527,
+			source_type = "lwzb_game_award",
+			condition_id = 0,
 		},
 	},
 	condition=
@@ -32698,6 +32778,22 @@ return {
 			award_id = 871,
 			asset_type = "_common_rank_12_12_lhsjb_rank",
 			asset_count = 7494,
+			get_weight = 1,
+		},
+		[1291]=
+		{
+			id = 1291,
+			award_id = 872,
+			asset_type = "prop_12_12_lh",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1292]=
+		{
+			id = 1292,
+			award_id = 872,
+			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
