@@ -17482,6 +17482,7 @@ return {
 		[754]=
 		{
 			id = 754,
+			source_id = 502,
 			source_type = "lwzb_game_award",
 			condition_id = 0,
 		},
