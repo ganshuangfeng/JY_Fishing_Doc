@@ -8,6 +8,7 @@ return {
 			text = "在财神消消乐中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "csxxl",
 		},
 		[2]=
 		{
@@ -16,6 +17,7 @@ return {
 			text = "在水浒消消乐中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "shxxl",
 		},
 		[3]=
 		{
@@ -24,6 +26,7 @@ return {
 			text = "在水果消消乐中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "xxl",
 		},
 		[4]=
 		{
@@ -32,6 +35,7 @@ return {
 			text = "在苹果大战中累计纯赢1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "zpg",
 		},
 		[5]=
 		{
@@ -40,6 +44,7 @@ return {
 			text = "在街机捕鱼中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "by",
 		},
 		[6]=
 		{
@@ -48,6 +53,7 @@ return {
 			text = "在疯狂捕鱼中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "fkby",
 		},
 		[7]=
 		{
@@ -56,6 +62,7 @@ return {
 			text = "在弹弹乐中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "ttl",
 		},
 		[8]=
 		{
@@ -64,6 +71,7 @@ return {
 			text = "在敲敲乐中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "qql",
 		},
 		[9]=
 		{
@@ -72,6 +80,7 @@ return {
 			text = "在敲敲乐财神模式中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "qql_cs",
 		},
 		[10]=
 		{
@@ -80,6 +89,7 @@ return {
 			text = "苹果大战中累计纯赢8000万",
 			total = 80000000,
 			award = 4,
+			game_type = "zpg",
 		},
 		[11]=
 		{
@@ -88,6 +98,7 @@ return {
 			text = "苹果大战使用500万及以上档次，种出1次金苹果",
 			total = 1,
 			award = 4,
+			game_type = "zpg",
 		},
 		[12]=
 		{
@@ -96,6 +107,7 @@ return {
 			text = "街机捕鱼使用10万以上炮倍击杀一条黄金龙",
 			total = 1,
 			award = 4,
+			game_type = "by",
 		},
 		[13]=
 		{
@@ -104,6 +116,7 @@ return {
 			text = "敲敲乐财神模式中累计赢金8000万",
 			total = 80000000,
 			award = 4,
+			game_type = "qql_cs",
 		},
 		[14]=
 		{
@@ -112,6 +125,7 @@ return {
 			text = "弹弹乐中累计赢金8000万",
 			total = 80000000,
 			award = 4,
+			game_type = "ttl",
 		},
 		[15]=
 		{
@@ -120,6 +134,7 @@ return {
 			text = "水果消消乐使用48万及以上档次，出现1次幸运时刻",
 			total = 1,
 			award = 4,
+			game_type = "xxl",
 		},
 		[16]=
 		{
@@ -128,6 +143,7 @@ return {
 			text = "水浒消消乐中累计赢金8000万",
 			total = 80000000,
 			award = 4,
+			game_type = "shxxl",
 		},
 		[17]=
 		{
@@ -136,6 +152,7 @@ return {
 			text = "财神消消乐使用96万以上档次，打出1次天女散花",
 			total = 1,
 			award = 4,
+			game_type = "csxxl",
 		},
 		[18]=
 		{
@@ -144,6 +161,7 @@ return {
 			text = "敲敲乐使用10万及以上档次，敲出2次38倍财神",
 			total = 2,
 			award = 4,
+			game_type = "qql",
 		},
 	},
 	task_info_cjj=
@@ -155,6 +173,7 @@ return {
 			text = "在财神消消乐中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "csxxl",
 		},
 		[2]=
 		{
@@ -163,6 +182,7 @@ return {
 			text = "在水浒消消乐中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "shxxl",
 		},
 		[3]=
 		{
@@ -171,6 +191,7 @@ return {
 			text = "在水果消消乐中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "xxl",
 		},
 		[4]=
 		{
@@ -179,6 +200,7 @@ return {
 			text = "在苹果大战中累计纯赢1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "zpg",
 		},
 		[5]=
 		{
@@ -187,6 +209,7 @@ return {
 			text = "在龙王争霸中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "lwzb",
 		},
 		[6]=
 		{
@@ -195,6 +218,7 @@ return {
 			text = "在疯狂捕鱼中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "fkby",
 		},
 		[7]=
 		{
@@ -203,6 +227,7 @@ return {
 			text = "在弹弹乐中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "ttl",
 		},
 		[8]=
 		{
@@ -211,6 +236,7 @@ return {
 			text = "在敲敲乐中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "qql",
 		},
 		[9]=
 		{
@@ -219,6 +245,7 @@ return {
 			text = "在敲敲乐财神模式中累计赢金1000万",
 			total = 10000000,
 			award = 1,
+			game_type = "qql_cs",
 		},
 		[10]=
 		{
@@ -227,6 +254,7 @@ return {
 			text = "苹果大战中累计纯赢8000万",
 			total = 80000000,
 			award = 4,
+			game_type = "zpg",
 		},
 		[11]=
 		{
@@ -235,6 +263,7 @@ return {
 			text = "苹果大战使用500万及以上档次，种出1次金苹果",
 			total = 1,
 			award = 4,
+			game_type = "zpg",
 		},
 		[12]=
 		{
@@ -243,6 +272,7 @@ return {
 			text = "在龙王争霸中累计赢金8000万",
 			total = 80000000,
 			award = 4,
+			game_type = "lwzb",
 		},
 		[13]=
 		{
@@ -251,6 +281,7 @@ return {
 			text = "敲敲乐财神模式中累计赢金8000万",
 			total = 80000000,
 			award = 4,
+			game_type = "qql_cs",
 		},
 		[14]=
 		{
@@ -259,6 +290,7 @@ return {
 			text = "弹弹乐中累计赢金8000万",
 			total = 80000000,
 			award = 4,
+			game_type = "ttl",
 		},
 		[15]=
 		{
@@ -267,6 +299,7 @@ return {
 			text = "水果消消乐使用48万及以上档次，出现1次幸运时刻",
 			total = 1,
 			award = 4,
+			game_type = "xxl",
 		},
 		[16]=
 		{
@@ -275,6 +308,7 @@ return {
 			text = "水浒消消乐中累计赢金8000万",
 			total = 80000000,
 			award = 4,
+			game_type = "shxxl",
 		},
 		[17]=
 		{
@@ -283,6 +317,7 @@ return {
 			text = "财神消消乐使用96万以上档次，打出1次天女散花",
 			total = 1,
 			award = 4,
+			game_type = "csxxl",
 		},
 		[18]=
 		{
@@ -291,6 +326,7 @@ return {
 			text = "敲敲乐使用10万及以上档次，敲出2次38倍财神",
 			total = 2,
 			award = 4,
+			game_type = "qql",
 		},
 	},
 	help_info=
