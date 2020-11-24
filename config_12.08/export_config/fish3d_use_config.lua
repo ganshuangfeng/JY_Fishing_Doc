@@ -565,17 +565,17 @@ return {
 		[107]=
 		{
 			id = 107,
-			fish_id = 58,
+			fish_id = 60,
 		},
 		[108]=
 		{
 			id = 108,
-			fish_id = 58,
+			fish_id = 60,
 		},
 		[109]=
 		{
 			id = 109,
-			fish_id = 58,
+			fish_id = 60,
 		},
 		[110]=
 		{
@@ -586,57 +586,6 @@ return {
 		{
 			id = 111,
 			fish_id = 59,
-		},
-		[112]=
-		{
-			id = 112,
-			fish_id = 13,
-			attr_id = 9,
-		},
-		[113]=
-		{
-			id = 113,
-			fish_id = 14,
-			attr_id = 9,
-		},
-		[114]=
-		{
-			id = 114,
-			fish_id = 15,
-			attr_id = 9,
-		},
-		[115]=
-		{
-			id = 115,
-			fish_id = 16,
-			attr_id = 9,
-		},
-		[116]=
-		{
-			id = 116,
-			fish_id = 17,
-			attr_id = 9,
-		},
-		[117]=
-		{
-			id = 117,
-			fish_id = 18,
-			attr_id = 9,
-		},
-		[118]=
-		{
-			id = 118,
-			fish_id = 58,
-		},
-		[119]=
-		{
-			id = 119,
-			fish_id = 58,
-		},
-		[120]=
-		{
-			id = 120,
-			fish_id = 58,
 		},
 	},
 }

@@ -3126,7 +3126,7 @@ return {
 		[118]=
 		{
 			id = 118,
-			base_id = 58,
+			base_id = 60,
 			act_id = 71,
 			life = 75,
 			shoot = 0.013333,
@@ -3142,7 +3142,7 @@ return {
 		[119]=
 		{
 			id = 119,
-			base_id = 58,
+			base_id = 60,
 			act_id = 72,
 			life = 150,
 			shoot = 0.006667,
@@ -3158,7 +3158,7 @@ return {
 		[120]=
 		{
 			id = 120,
-			base_id = 58,
+			base_id = 60,
 			act_id = 73,
 			life = 250,
 			shoot = 0.004000,
