@@ -15,5 +15,12 @@ return {
 			order = 2,
 			gotoui = {"sys_active_daily_task",},
 		},
+		[3]=
+		{
+			line = 3,
+			isOnOff = 1,
+			order = 3,
+			gotoui = {"act_035_ybwl",},
+		},
 	},
 }
