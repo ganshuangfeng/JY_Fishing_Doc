@@ -2733,9 +2733,9 @@ return {
 			id = 279,
 			key = "act_031_gqkl",
 			desc = "国庆快乐",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[280]=
 		{
@@ -2743,9 +2743,9 @@ return {
 			key = "act_031_wxhhl",
 			desc = "五星换好礼",
 			lua = "Act_031_WXHHLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[281]=
 		{
@@ -2753,9 +2753,9 @@ return {
 			key = "act_031_gqfd",
 			desc = "国庆福袋",
 			lua = "Act_030_GQFDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[282]=
 		{
@@ -2763,9 +2763,9 @@ return {
 			key = "act_031_gqkl_ani",
 			desc = "星星掉落脚本",
 			lua = "Act_031_GQKLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[283]=
 		{
@@ -2823,18 +2823,18 @@ return {
 			key = "act_034_ldfd",
 			desc = "立冬福袋",
 			lua = "Act_034_LDFDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[289]=
 		{
 			id = 289,
 			key = "act_034_ldfl",
 			desc = "立冬福利（小游戏）",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[290]=
 		{
