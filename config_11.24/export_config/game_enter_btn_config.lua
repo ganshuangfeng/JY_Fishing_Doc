@@ -157,7 +157,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3#2#8#61#",
+			group_list = "3#2#8#61#115",
 		},
 		[2]=
 		{
@@ -950,6 +950,7 @@ return {
 			id = 87,
 			parm = {"by3d_ad_mfcj",},
 			is_on_off = 1,
+			condi_key = "cps_ggxt",
 		},
 		[88]=
 		{
@@ -1112,6 +1113,13 @@ return {
 			id = 114,
 			parm = {"act_035_jhs",},
 			is_on_off = 1,
+		},
+		[115]=
+		{
+			id = 115,
+			parm = {"by3d_ad_mfcj",},
+			is_on_off = 1,
+			condi_key = "cpl_cjj",
 		},
 	},
 }
