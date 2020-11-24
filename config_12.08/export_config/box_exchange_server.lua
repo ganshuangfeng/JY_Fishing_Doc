@@ -648,7 +648,7 @@ return {
 		[60]=
 		{
 			id = 60,
-			name = "双十一抽奖",
+			name = "双十二抽奖",
 			start_time = 1607385600,
 			end_time = 1607961599,
 			use_asset_id = 55,
