@@ -4032,7 +4032,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 50,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[149]=
 		{
@@ -4047,7 +4047,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 75,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[150]=
 		{
@@ -4062,7 +4062,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 150,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[151]=
 		{
@@ -4077,7 +4077,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 250,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[152]=
 		{
@@ -4092,7 +4092,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 20,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[153]=
 		{
@@ -4107,7 +4107,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 25,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[154]=
 		{
@@ -4122,7 +4122,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 35,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[155]=
 		{
@@ -4137,7 +4137,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 45,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[156]=
 		{
@@ -4152,7 +4152,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 55,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[157]=
 		{
@@ -4167,7 +4167,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 30,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[158]=
 		{
@@ -4182,7 +4182,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 40,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[159]=
 		{
@@ -4197,7 +4197,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 50,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[160]=
 		{
@@ -4212,7 +4212,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 60,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[161]=
 		{
@@ -4227,7 +4227,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 70,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[162]=
 		{
@@ -4242,7 +4242,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 60,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[163]=
 		{
@@ -4257,7 +4257,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 60,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[164]=
 		{
@@ -4272,7 +4272,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 60,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[165]=
 		{
@@ -4287,7 +4287,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 60,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[166]=
 		{
@@ -4302,7 +4302,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 75,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[167]=
 		{
@@ -4317,7 +4317,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 150,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 		[168]=
 		{
@@ -4332,7 +4332,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 250,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 		},
 	},
 	activity=

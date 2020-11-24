@@ -2861,7 +2861,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 75,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 			clear_level = 1,
 		},
 		[108]=
@@ -2877,7 +2877,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 150,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 			clear_level = 1,
 		},
 		[109]=
@@ -2893,7 +2893,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 250,
 			ranking_show_rate = 1,
-			broadcast = 1,
+			broadcast = 0,
 			clear_level = 1,
 		},
 	},
