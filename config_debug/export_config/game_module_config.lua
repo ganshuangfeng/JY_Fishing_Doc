@@ -2906,5 +2906,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[297]=
+		{
+			id = 297,
+			key = "sys_by3d_shop_enter",
+			desc = "3D捕鱼商城入口(获取金币中)",
+			lua = "SYSBY3DShopManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

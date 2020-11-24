@@ -34,6 +34,13 @@ return {
 			line = 5,
 			isOnOff = 1,
 			order = 5,
+			gotoui = {"sys_by3d_shop_enter",},
+		},
+		[6]=
+		{
+			line = 6,
+			isOnOff = 1,
+			order = 6,
 			gotoui = {"by3d_ad_mfcj",},
 		},
 	},
