@@ -1915,6 +1915,12 @@ return {
 			name = "新人专享（新人才展示）",
 			condi = 91,
 		},
+		zchd_new=
+		{
+			key = "zchd_new",
+			name = "周常活动新人展示位置",
+			condi = 339,
+		},
 	},
 	act_permission=
 	{
@@ -14446,6 +14452,16 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不展示给cjj",
+		},
+		[854]=
+		{
+			no = 854,
+			id = 339,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新玩家",
 		},
 	},
 	share_condition=
