@@ -645,6 +645,16 @@ return {
 			award_id = 59,
 			enable = 1,
 		},
+		[60]=
+		{
+			id = 60,
+			name = "双十一抽奖",
+			start_time = 1607385600,
+			end_time = 1607961599,
+			use_asset_id = 55,
+			award_id = 60,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
@@ -1024,6 +1034,13 @@ return {
 			id = 54,
 			use_id = 54,
 			use_item = "prop_gej_cs",
+			use_num = 1,
+		},
+		[55]=
+		{
+			id = 55,
+			use_id = 55,
+			use_item = "prop_12_12_cjq",
 			use_num = 1,
 		},
 	},
@@ -3669,6 +3686,48 @@ return {
 			award_id = 59,
 			real_award_id = 11850,
 			weight = 5,
+		},
+		[377]=
+		{
+			no = 377,
+			award_id = 60,
+			real_award_id = 11851,
+			weight = 20,
+		},
+		[378]=
+		{
+			no = 378,
+			award_id = 60,
+			real_award_id = 11852,
+			weight = 25,
+		},
+		[379]=
+		{
+			no = 379,
+			award_id = 60,
+			real_award_id = 11853,
+			weight = 25,
+		},
+		[380]=
+		{
+			no = 380,
+			award_id = 60,
+			real_award_id = 11854,
+			weight = 27,
+		},
+		[381]=
+		{
+			no = 381,
+			award_id = 60,
+			real_award_id = 11855,
+			weight = 3,
+		},
+		[382]=
+		{
+			no = 382,
+			award_id = 60,
+			real_award_id = 11856,
+			weight = 0,
 		},
 	},
 	award_item=
@@ -6497,6 +6556,52 @@ return {
 			award_name = "200-300话费碎片",
 			asset_type = "prop_web_chip_huafei",
 			asset_count = {200,300},
+		},
+		[377]=
+		{
+			id = 377,
+			real_award_id = 11851,
+			award_name = "12000金币",
+			asset_type = "jing_bi",
+			asset_count = {12000,12000},
+		},
+		[378]=
+		{
+			id = 378,
+			real_award_id = 11852,
+			award_name = "15福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {15,15},
+		},
+		[379]=
+		{
+			id = 379,
+			real_award_id = 11853,
+			award_name = "20000金币",
+			asset_type = "jing_bi",
+			asset_count = {20000,20000},
+		},
+		[380]=
+		{
+			id = 380,
+			real_award_id = 11854,
+			award_name = "30福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {30,30},
+		},
+		[381]=
+		{
+			id = 381,
+			real_award_id = 11855,
+			award_name = "50000金币",
+			asset_type = "jing_bi",
+			asset_count = {50000,50000},
+		},
+		[382]=
+		{
+			id = 382,
+			real_award_id = 11856,
+			award_name = "美的空调",
 		},
 	},
 	weight=

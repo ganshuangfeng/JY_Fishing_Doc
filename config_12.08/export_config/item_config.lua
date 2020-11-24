@@ -3795,5 +3795,18 @@ return {
 			name = "礼盒掉落物",
 			desc = "双十二礼盒道具",
 		},
+		[282]=
+		{
+			id = 282,
+			item_id = 282,
+			item_key = "prop_12_12_cjq",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "cwzp_icon_cjq",
+			is_show_bag = 0,
+			order = 33,
+			name = "双十二抽奖券",
+			desc = "双十二抽奖券",
+		},
 	},
 }

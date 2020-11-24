@@ -2712,7 +2712,7 @@ return {
 		{
 			id = 277,
 			key = "act_030_cwlb",
-			desc = "畅玩礼包",
+			desc = "双十二",
 			lua = "Act_030_CWLBManager",
 			is_on_off = 1,
 			enable = 1,
@@ -2962,6 +2962,15 @@ return {
 			key = "act_038_s12lhsjb",
 			desc = "双十二礼盒收集榜",
 			lua = "Act_038_S12LHSJBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[303]=
+		{
+			id = 303,
+			key = "act_038_s12",
+			desc = "双十二页签",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
