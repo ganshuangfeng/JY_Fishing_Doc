@@ -2975,5 +2975,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[304]=
+		{
+			id = 304,
+			key = "act_038_s12lh_drop_ani",
+			desc = "双12礼盒掉落",
+			lua = "Act_038_S12LHDROPManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
