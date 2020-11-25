@@ -22048,7 +22048,7 @@ return {
 		{
 			id = 519,
 			condition_id = 364,
-			condition_name = "gift_id",
+			condition_name = "asset_type",
 			condition_value = "shop_gold_sum",
 			judge_type = 2,
 		},
