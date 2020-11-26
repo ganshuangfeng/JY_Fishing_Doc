@@ -2487,7 +2487,7 @@ return {
 			id = 44,
 			condition_id = 35,
 			condition_name = "base_fish_id",
-			condition_value = {27,},
+			condition_value = {20,22,23,24,25,26,27,},
 			judge_type = 2,
 		},
 		[45]=
