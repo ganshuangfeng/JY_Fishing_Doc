@@ -4275,6 +4275,7 @@ return {
 		{
 			id = 166,
 			base_id = 33,
+			append_life_rate = {50,100},
 			life = 0,
 			shoot = 0,
 			act_type = "activity",

@@ -1167,8 +1167,8 @@ return {
 			ID = 127,
 			fish_type = 1,
 			fish_form = {111,},
-			life = 75,
-			rate = 75,
+			life = 0,
+			rate = 0,
 			gd_award = 0,
 		},
 		[128]=
@@ -3231,14 +3231,15 @@ return {
 		{
 			id = 111,
 			base_id = 59,
-			act_id = 70,
-			life = 75,
-			shoot = 0.013333,
+			act_id = 0,
+			append_life_rate = {50,100},
+			life = 0,
+			shoot = 0,
 			act_type = "activity",
-			rate = 75,
+			rate = 0,
 			dead_mode = 1,
 			gd_award = 0,
-			ranking_rate = 75,
+			ranking_rate = 0,
 			ranking_show_rate = 1,
 			broadcast = 1,
 			clear_level = 1,
@@ -3247,7 +3248,7 @@ return {
 		{
 			id = 112,
 			base_id = 13,
-			act_id = 74,
+			act_id = 73,
 			life = 30,
 			shoot = 0.033333,
 			act_type = "activity",
@@ -3263,7 +3264,7 @@ return {
 		{
 			id = 113,
 			base_id = 14,
-			act_id = 74,
+			act_id = 73,
 			life = 35,
 			shoot = 0.028571,
 			act_type = "activity",
@@ -3279,7 +3280,7 @@ return {
 		{
 			id = 114,
 			base_id = 15,
-			act_id = 74,
+			act_id = 73,
 			life = 40,
 			shoot = 0.025000,
 			act_type = "activity",
@@ -3295,7 +3296,7 @@ return {
 		{
 			id = 115,
 			base_id = 16,
-			act_id = 74,
+			act_id = 73,
 			life = 45,
 			shoot = 0.022222,
 			act_type = "activity",
@@ -3311,7 +3312,7 @@ return {
 		{
 			id = 116,
 			base_id = 17,
-			act_id = 74,
+			act_id = 73,
 			life = 50,
 			shoot = 0.020000,
 			act_type = "activity",
@@ -3327,7 +3328,7 @@ return {
 		{
 			id = 117,
 			base_id = 18,
-			act_id = 74,
+			act_id = 73,
 			life = 70,
 			shoot = 0.014286,
 			act_type = "activity",
@@ -3343,7 +3344,7 @@ return {
 		{
 			id = 118,
 			base_id = 60,
-			act_id = 71,
+			act_id = 70,
 			life = 75,
 			shoot = 0.013333,
 			act_type = "activity",
@@ -3359,7 +3360,7 @@ return {
 		{
 			id = 119,
 			base_id = 60,
-			act_id = 72,
+			act_id = 71,
 			life = 150,
 			shoot = 0.006667,
 			act_type = "activity",
@@ -3375,7 +3376,7 @@ return {
 		{
 			id = 120,
 			base_id = 60,
-			act_id = 73,
+			act_id = 72,
 			life = 250,
 			shoot = 0.004000,
 			act_type = "activity",
@@ -4423,8 +4424,8 @@ return {
 		{
 			id = 70,
 			acti_type = 9,
-			num = {"jing_bi",10,50,100},
-			show = 1,
+			num = {"prop_12_12_lh",0,0.05,0.1},
+			show = 0,
 			enter_bag = 1,
 			value = 75,
 		},
@@ -4432,32 +4433,23 @@ return {
 		{
 			id = 71,
 			acti_type = 9,
-			num = {"prop_12_12_lh",0,0.05,0.1},
-			show = 0,
-			enter_bag = 1,
-			value = 75,
-		},
-		[72]=
-		{
-			id = 72,
-			acti_type = 9,
 			num = {"prop_12_12_lh",0,0.1,0.2},
 			show = 0,
 			enter_bag = 1,
 			value = 150,
 		},
-		[73]=
+		[72]=
 		{
-			id = 73,
+			id = 72,
 			acti_type = 9,
 			num = {"prop_12_12_lh",0,0.2,0.3},
 			show = 0,
 			enter_bag = 1,
 			value = 250,
 		},
-		[74]=
+		[73]=
 		{
-			id = 74,
+			id = 73,
 			acti_type = 9,
 			num = {"prop_12_12_lh",0,0.01,},
 			show = 1,
