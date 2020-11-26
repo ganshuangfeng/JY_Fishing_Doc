@@ -22,7 +22,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			page_name = "深海探险榜",
+			page_name = "探险榜",
 			panelName = "BY3DPHBRightPanel_shtxb",
 			itemName = "BY3DPHBRightItemBase_shtxb",
 			order = 3,
