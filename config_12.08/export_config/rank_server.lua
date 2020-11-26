@@ -495,45 +495,51 @@ return {
 		{
 			id = 33,
 			source_id = 16,
-			source_type = "buyu_award",
+			source_type = "xiaoxiaole_xiyou_award",
 		},
 		[34]=
 		{
 			id = 34,
 			source_id = 16,
-			source_type = "buyu_3d_award",
+			source_type = "buyu_award",
 		},
 		[35]=
 		{
 			id = 35,
-			source_id = 17,
-			source_type = "buyu_3d_target_yu_award",
-			condtion_id = 18,
+			source_id = 16,
+			source_type = "buyu_3d_award",
 		},
 		[36]=
 		{
 			id = 36,
-			source_id = 18,
+			source_id = 17,
 			source_type = "buyu_3d_target_yu_award",
-			condtion_id = 19,
+			condtion_id = 18,
 		},
 		[37]=
 		{
 			id = 37,
-			source_id = 19,
+			source_id = 18,
 			source_type = "buyu_3d_target_yu_award",
-			condtion_id = 20,
+			condtion_id = 19,
 		},
 		[38]=
 		{
 			id = 38,
-			source_id = 20,
+			source_id = 19,
 			source_type = "buyu_3d_target_yu_award",
-			condtion_id = 21,
+			condtion_id = 20,
 		},
 		[39]=
 		{
 			id = 39,
+			source_id = 20,
+			source_type = "buyu_3d_target_yu_award",
+			condtion_id = 21,
+		},
+		[40]=
+		{
+			id = 40,
 			source_id = 21,
 			source_type = "buyu_3d_get_use_item",
 			condtion_id = 22,
