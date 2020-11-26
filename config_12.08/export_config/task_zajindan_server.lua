@@ -8955,7 +8955,7 @@ return {
 			id = 142,
 			process_id = 21090,
 			condition_type = "little_game_award_half_buyu",
-			source_id = 142,
+			source_id = 530,
 			process = 1000000,
 			awards = 254,
 			get_award_type = "nor",
@@ -9005,7 +9005,7 @@ return {
 			id = 147,
 			process_id = 21095,
 			condition_type = "little_game_award_half_buyu",
-			source_id = 147,
+			source_id = 530,
 			process = 5000000,
 			awards = 259,
 			get_award_type = "nor",
@@ -9055,7 +9055,7 @@ return {
 			id = 152,
 			process_id = 21100,
 			condition_type = "little_game_award_half_buyu",
-			source_id = 152,
+			source_id = 530,
 			process = 10000000,
 			awards = 264,
 			get_award_type = "nor",
@@ -9371,7 +9371,7 @@ return {
 			id = 184,
 			process_id = 21132,
 			condition_type = "little_game_award_half_buyu",
-			source_id = 184,
+			source_id = 531,
 			process = 500000,
 			awards = 300,
 			get_award_type = "nor",
@@ -9381,7 +9381,7 @@ return {
 			id = 185,
 			process_id = 21133,
 			condition_type = "little_game_award_half_buyu",
-			source_id = 185,
+			source_id = 531,
 			process = 1000000,
 			awards = 301,
 			get_award_type = "nor",
@@ -9391,7 +9391,7 @@ return {
 			id = 186,
 			process_id = 21134,
 			condition_type = "little_game_award_half_buyu",
-			source_id = 186,
+			source_id = 531,
 			process = 2000000,
 			awards = 302,
 			get_award_type = "nor",
@@ -9401,7 +9401,7 @@ return {
 			id = 187,
 			process_id = 21135,
 			condition_type = "little_game_award_half_buyu",
-			source_id = 187,
+			source_id = 531,
 			process = 5000000,
 			awards = 303,
 			get_award_type = "nor",
@@ -9411,7 +9411,7 @@ return {
 			id = 188,
 			process_id = 21136,
 			condition_type = "little_game_award_half_buyu",
-			source_id = 188,
+			source_id = 531,
 			process = 10000000,
 			awards = 304,
 			get_award_type = "nor",
@@ -9421,7 +9421,7 @@ return {
 			id = 189,
 			process_id = 21137,
 			condition_type = "little_game_award_half_buyu",
-			source_id = 189,
+			source_id = 531,
 			process = 20000000,
 			awards = 305,
 			get_award_type = "nor",
@@ -9431,7 +9431,7 @@ return {
 			id = 190,
 			process_id = 21138,
 			condition_type = "little_game_award_half_buyu",
-			source_id = 190,
+			source_id = 531,
 			process = 50000000,
 			awards = 306,
 			get_award_type = "nor",
@@ -9485,7 +9485,7 @@ return {
 		{
 			id = 196,
 			process_id = 21144,
-			source_id = 196,
+			source_id = 528,
 			process = 1000000,
 			awards = 312,
 			get_award_type = "nor",
@@ -10089,7 +10089,7 @@ return {
 			id = 257,
 			process_id = 21205,
 			condition_type = "little_game_award_half_buyu",
-			source_id = 257,
+			source_id = 530,
 			process = {100000,400000,1500000,3000000,15000000,80000000,200000000,700000000,1800000000},
 			awards = {375,376,377,378,379,380,381,382,383},
 			get_award_type = "nor",
@@ -10465,7 +10465,7 @@ return {
 		{
 			id = 297,
 			process_id = 21245,
-			source_id = 297,
+			source_id = 530,
 			process = {100000,-1},
 			awards = {483,483},
 			get_award_type = "nor",
@@ -10474,7 +10474,7 @@ return {
 		{
 			id = 298,
 			process_id = 21246,
-			source_id = 298,
+			source_id = 530,
 			process = {200000,-1},
 			awards = {484,484},
 			get_award_type = "nor",
@@ -10627,7 +10627,7 @@ return {
 		{
 			id = 315,
 			process_id = 21263,
-			source_id = 315,
+			source_id = 530,
 			process = {2000000,-1},
 			awards = {506,506},
 			get_award_type = "nor",
@@ -10699,7 +10699,7 @@ return {
 		{
 			id = 323,
 			process_id = 21271,
-			source_id = 323,
+			source_id = 530,
 			process = {100000,-1},
 			awards = {514,514},
 			get_award_type = "nor",
@@ -10708,7 +10708,7 @@ return {
 		{
 			id = 324,
 			process_id = 21272,
-			source_id = 324,
+			source_id = 530,
 			process = {200000,-1},
 			awards = {515,515},
 			get_award_type = "nor",
@@ -10898,7 +10898,7 @@ return {
 		{
 			id = 344,
 			process_id = 21292,
-			source_id = 344,
+			source_id = 530,
 			process = {100000,-1},
 			awards = {535,535},
 			get_award_type = "nor",
@@ -10907,7 +10907,7 @@ return {
 		{
 			id = 345,
 			process_id = 21293,
-			source_id = 345,
+			source_id = 530,
 			process = {200000,-1},
 			awards = {536,536},
 			get_award_type = "nor",
@@ -11700,7 +11700,7 @@ return {
 		{
 			id = 434,
 			process_id = 21382,
-			source_id = 429,
+			source_id = 529,
 			process = {2000000,-1},
 			awards = 637,
 			get_award_type = "nor",
@@ -11818,7 +11818,7 @@ return {
 		{
 			id = 446,
 			process_id = 21394,
-			source_id = 441,
+			source_id = 531,
 			process = {1500000,-1},
 			awards = 666,
 			get_award_type = "nor",
@@ -12122,7 +12122,7 @@ return {
 		{
 			id = 479,
 			process_id = 21427,
-			source_id = 471,
+			source_id = 529,
 			process = {1000000,-1},
 			awards = 730,
 			get_award_type = "nor",
@@ -12397,7 +12397,7 @@ return {
 		{
 			id = 510,
 			process_id = 21458,
-			source_id = 498,
+			source_id = 528,
 			process = {100000,200000,300000,400000,4000000,5000000,40000000},
 			awards = {778,779,780,781,782,783,784},
 			get_award_type = "nor",
@@ -12406,7 +12406,7 @@ return {
 		{
 			id = 511,
 			process_id = 21459,
-			source_id = 499,
+			source_id = 528,
 			process = {500000,500000,4000000,5000000,10000000,30000000,50000000},
 			awards = {785,786,787,788,789,790,791},
 			get_award_type = "nor",
@@ -12415,7 +12415,7 @@ return {
 		{
 			id = 512,
 			process_id = 21460,
-			source_id = 500,
+			source_id = 528,
 			process = {1000000,4000000,5000000,20000000,20000000,30000000,70000000},
 			awards = {792,793,794,795,796,797,798},
 			get_award_type = "nor",
@@ -12424,7 +12424,7 @@ return {
 		{
 			id = 513,
 			process_id = 21461,
-			source_id = 501,
+			source_id = 528,
 			process = {1000000,4000000,5000000,10000000,30000000,50000000,200000000},
 			awards = {799,800,801,802,803,804,805},
 			get_award_type = "nor",
@@ -12433,7 +12433,7 @@ return {
 		{
 			id = 514,
 			process_id = 21462,
-			source_id = 502,
+			source_id = 528,
 			process = {5000000,5000000,10000000,30000000,50000000,100000000,200000000},
 			awards = {806,807,808,809,810,811,812},
 			get_award_type = "nor",
@@ -12442,7 +12442,7 @@ return {
 		{
 			id = 515,
 			process_id = 21463,
-			source_id = 503,
+			source_id = 528,
 			process = {5000000,5000000,10000000,30000000,50000000,200000000,300000000},
 			awards = {813,814,815,816,817,818,819},
 			get_award_type = "nor",
@@ -12451,7 +12451,7 @@ return {
 		{
 			id = 516,
 			process_id = 21464,
-			source_id = 504,
+			source_id = 528,
 			process = {10000000,20000000,20000000,50000000,200000000,200000000,500000000},
 			awards = {820,821,822,823,824,825,826},
 			get_award_type = "nor",
@@ -12460,7 +12460,7 @@ return {
 		{
 			id = 517,
 			process_id = 21465,
-			source_id = 505,
+			source_id = 528,
 			process = {20000000,30000000,50000000,400000000,500000000,2000000000,2000000000},
 			awards = {827,828,829,830,831,832,833},
 			get_award_type = "nor",
@@ -12549,7 +12549,7 @@ return {
 		{
 			id = 526,
 			process_id = 21474,
-			source_id = 514,
+			source_id = 528,
 			process = {1000000,-1},
 			awards = 842,
 			get_award_type = "nor",
@@ -18469,6 +18469,399 @@ return {
 		{
 			id = 821,
 			source_id = 527,
+			source_type = "xiaoxiaole_xiyou_award",
+			condition_id = 0,
+		},
+		[822]=
+		{
+			id = 822,
+			source_id = 528,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[823]=
+		{
+			id = 823,
+			source_id = 528,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[824]=
+		{
+			id = 824,
+			source_id = 528,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[825]=
+		{
+			id = 825,
+			source_id = 528,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[826]=
+		{
+			id = 826,
+			source_id = 528,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[827]=
+		{
+			id = 827,
+			source_id = 528,
+			source_type = "jykp_award",
+			condition_id = 0,
+		},
+		[828]=
+		{
+			id = 828,
+			source_id = 528,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[829]=
+		{
+			id = 829,
+			source_id = 528,
+			source_type = "buyu_3d_award",
+			condition_id = 0,
+		},
+		[830]=
+		{
+			id = 830,
+			source_id = 528,
+			source_type = "buyu_award",
+			condition_id = 0,
+		},
+		[831]=
+		{
+			id = 831,
+			source_id = 528,
+			source_type = "lwzb_game_award",
+			condition_id = 0,
+		},
+		[832]=
+		{
+			id = 832,
+			source_id = 528,
+			source_type = "xiaoxiaole_xiyou_award",
+			condition_id = 0,
+		},
+		[833]=
+		{
+			id = 833,
+			source_id = 529,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[834]=
+		{
+			id = 834,
+			source_id = 529,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[835]=
+		{
+			id = 835,
+			source_id = 529,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[836]=
+		{
+			id = 836,
+			source_id = 529,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[837]=
+		{
+			id = 837,
+			source_id = 529,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[838]=
+		{
+			id = 838,
+			source_id = 529,
+			source_type = "jykp_award",
+			condition_id = 0,
+		},
+		[839]=
+		{
+			id = 839,
+			source_id = 529,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[840]=
+		{
+			id = 840,
+			source_id = 529,
+			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[841]=
+		{
+			id = 841,
+			source_id = 529,
+			source_type = "buyu_award",
+			condition_id = 0,
+		},
+		[842]=
+		{
+			id = 842,
+			source_id = 529,
+			source_type = "lwzb_game_award",
+			condition_id = 0,
+		},
+		[843]=
+		{
+			id = 843,
+			source_id = 529,
+			source_type = "xiaoxiaole_xiyou_award",
+			condition_id = 0,
+		},
+		[844]=
+		{
+			id = 844,
+			source_id = 530,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[845]=
+		{
+			id = 845,
+			source_id = 530,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[846]=
+		{
+			id = 846,
+			source_id = 530,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[847]=
+		{
+			id = 847,
+			source_id = 530,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[848]=
+		{
+			id = 848,
+			source_id = 530,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[849]=
+		{
+			id = 849,
+			source_id = 530,
+			source_type = "jykp_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[850]=
+		{
+			id = 850,
+			source_id = 530,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[851]=
+		{
+			id = 851,
+			source_id = 530,
+			source_type = "buyu_3d_award",
+			condition_id = 0,
+		},
+		[852]=
+		{
+			id = 852,
+			source_id = 530,
+			source_type = "buyu_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[853]=
+		{
+			id = 853,
+			source_id = 530,
+			source_type = "lwzb_game_award",
+			condition_id = 0,
+		},
+		[854]=
+		{
+			id = 854,
+			source_id = 530,
+			source_type = "xiaoxiaole_xiyou_award",
+			condition_id = 0,
+		},
+		[855]=
+		{
+			id = 855,
+			source_id = 531,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[856]=
+		{
+			id = 856,
+			source_id = 531,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[857]=
+		{
+			id = 857,
+			source_id = 531,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[858]=
+		{
+			id = 858,
+			source_id = 531,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[859]=
+		{
+			id = 859,
+			source_id = 531,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[860]=
+		{
+			id = 860,
+			source_id = 531,
+			source_type = "jykp_award",
+			condition_id = 0,
+		},
+		[861]=
+		{
+			id = 861,
+			source_id = 531,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[862]=
+		{
+			id = 862,
+			source_id = 531,
+			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[863]=
+		{
+			id = 863,
+			source_id = 531,
+			source_type = "buyu_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[864]=
+		{
+			id = 864,
+			source_id = 531,
+			source_type = "lwzb_game_award",
+			condition_id = 0,
+		},
+		[865]=
+		{
+			id = 865,
+			source_id = 531,
+			source_type = "xiaoxiaole_xiyou_award",
+			condition_id = 0,
+		},
+		[866]=
+		{
+			id = 866,
+			source_id = 532,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[867]=
+		{
+			id = 867,
+			source_id = 532,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[868]=
+		{
+			id = 868,
+			source_id = 532,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[869]=
+		{
+			id = 869,
+			source_id = 532,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[870]=
+		{
+			id = 870,
+			source_id = 532,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[871]=
+		{
+			id = 871,
+			source_id = 532,
+			source_type = "jykp_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[872]=
+		{
+			id = 872,
+			source_id = 532,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[873]=
+		{
+			id = 873,
+			source_id = 532,
+			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[874]=
+		{
+			id = 874,
+			source_id = 532,
+			source_type = "buyu_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[875]=
+		{
+			id = 875,
+			source_id = 532,
+			source_type = "lwzb_game_award",
+			condition_id = 0,
+		},
+		[876]=
+		{
+			id = 876,
+			source_id = 532,
 			source_type = "xiaoxiaole_xiyou_award",
 			condition_id = 0,
 		},
