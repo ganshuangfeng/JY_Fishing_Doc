@@ -1651,7 +1651,7 @@ return {
 		{
 			id = 2,
 			source_id = 2,
-			source_type = "buyu_3d_spend",
+			source_type = "buyu_3d_spend_num",
 			condition_id = 2,
 		},
 		[3]=
@@ -1741,7 +1741,7 @@ return {
 		{
 			id = 15,
 			source_id = 15,
-			source_type = "buyu_3d_spend",
+			source_type = "buyu_3d_spend_num",
 			condition_id = 14,
 		},
 		[16]=
@@ -1831,7 +1831,7 @@ return {
 		{
 			id = 28,
 			source_id = 28,
-			source_type = "buyu_3d_spend",
+			source_type = "buyu_3d_spend_num",
 			condition_id = 26,
 		},
 		[29]=
@@ -1922,7 +1922,7 @@ return {
 		{
 			id = 41,
 			source_id = 41,
-			source_type = "buyu_3d_spend",
+			source_type = "buyu_3d_spend_num",
 			condition_id = 39,
 		},
 		[42]=
@@ -2013,7 +2013,7 @@ return {
 		{
 			id = 54,
 			source_id = 54,
-			source_type = "buyu_3d_spend",
+			source_type = "buyu_3d_spend_num",
 			condition_id = 52,
 		},
 		[55]=
