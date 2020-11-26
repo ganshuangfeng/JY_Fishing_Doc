@@ -1810,8 +1810,8 @@ return {
 			ID = 192,
 			fish_type = 1,
 			fish_form = {166,},
-			life = 75,
-			rate = 75,
+			life = 0,
+			rate = 0,
 			gd_award = 0,
 		},
 		[193]=
@@ -4347,14 +4347,13 @@ return {
 		{
 			id = 166,
 			base_id = 33,
-			act_id = 40,
-			life = 75,
-			shoot = 0.013333,
+			append_life_rate = {50,100},
+			life = 0,
 			act_type = "activity",
-			rate = 75,
+			rate = 0,
 			dead_mode = 1,
 			gd_award = 0,
-			ranking_rate = 75,
+			ranking_rate = 0,
 			ranking_show_rate = 1,
 			broadcast = 1,
 		},
@@ -4362,7 +4361,7 @@ return {
 		{
 			id = 167,
 			base_id = 6,
-			act_id = 44,
+			act_id = 43,
 			life = 30,
 			shoot = 0.033333,
 			act_type = "activity",
@@ -4377,7 +4376,7 @@ return {
 		{
 			id = 168,
 			base_id = 7,
-			act_id = 44,
+			act_id = 43,
 			life = 40,
 			shoot = 0.025000,
 			act_type = "activity",
@@ -4392,7 +4391,7 @@ return {
 		{
 			id = 169,
 			base_id = 8,
-			act_id = 44,
+			act_id = 43,
 			life = 50,
 			shoot = 0.020000,
 			act_type = "activity",
@@ -4407,7 +4406,7 @@ return {
 		{
 			id = 170,
 			base_id = 9,
-			act_id = 44,
+			act_id = 43,
 			life = 60,
 			shoot = 0.016667,
 			act_type = "activity",
@@ -4422,7 +4421,7 @@ return {
 		{
 			id = 171,
 			base_id = 10,
-			act_id = 44,
+			act_id = 43,
 			life = 70,
 			shoot = 0.014286,
 			act_type = "activity",
@@ -4437,7 +4436,7 @@ return {
 		{
 			id = 172,
 			base_id = 34,
-			act_id = 41,
+			act_id = 40,
 			life = 75,
 			shoot = 0.013333,
 			act_type = "activity",
@@ -4452,7 +4451,7 @@ return {
 		{
 			id = 173,
 			base_id = 34,
-			act_id = 42,
+			act_id = 41,
 			life = 150,
 			shoot = 0.006667,
 			act_type = "activity",
@@ -4467,7 +4466,7 @@ return {
 		{
 			id = 174,
 			base_id = 34,
-			act_id = 43,
+			act_id = 42,
 			life = 250,
 			shoot = 0.004000,
 			act_type = "activity",
@@ -4832,8 +4831,8 @@ return {
 		{
 			id = 40,
 			acti_type = 9,
-			num = {"jing_bi",10,50,100},
-			show = 1,
+			num = {"prop_12_12_lh",0,0.05,0.1},
+			show = 0,
 			enter_bag = 1,
 			value = 75,
 		},
@@ -4841,32 +4840,23 @@ return {
 		{
 			id = 41,
 			acti_type = 9,
-			num = {"prop_12_12_lh",0,0.05,0.1},
-			show = 0,
-			enter_bag = 1,
-			value = 75,
-		},
-		[42]=
-		{
-			id = 42,
-			acti_type = 9,
 			num = {"prop_12_12_lh",0,0.1,0.2},
 			show = 0,
 			enter_bag = 1,
 			value = 150,
 		},
-		[43]=
+		[42]=
 		{
-			id = 43,
+			id = 42,
 			acti_type = 9,
 			num = {"prop_12_12_lh",0,0.2,0.3},
 			show = 0,
 			enter_bag = 1,
 			value = 250,
 		},
-		[44]=
+		[43]=
 		{
-			id = 44,
+			id = 43,
 			acti_type = 9,
 			num = {"prop_12_12_lh",0,0.01,},
 			show = 1,
