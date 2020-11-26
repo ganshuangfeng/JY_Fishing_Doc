@@ -1289,20 +1289,6 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
-		[94]=
-		{
-			id = 94,
-			enable = 1,
-			name = "西游白骨精进度",
-			own_type = "normal",
-			task_enum = "common",
-			process_id = 94,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 946677600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-		},
 	},
 	process_data=
 	{
@@ -2142,7 +2128,7 @@ return {
 			id = 85,
 			process_id = 85,
 			source_id = 85,
-			process = {800000,2500000,12500000,25000000,75000000,230000000,-1},
+			process = {8000000,25000000,125000000,250000000,750000000,2300000000,-1},
 			awards = {101,102,103,104,105,106,},
 			get_award_type = "nor",
 			is_auto_get_award = 1,
@@ -2219,16 +2205,6 @@ return {
 			awards = {110,111,112,113,114,115,},
 			get_award_type = "nor",
 			is_auto_get_award = 2,
-		},
-		[94]=
-		{
-			id = 94,
-			process_id = 94,
-			source_id = 94,
-			process = {8000000,25000000,125000000,250000000,750000000,2300000000,-1},
-			awards = {116,117,118,119,120,121,},
-			get_award_type = "nor",
-			is_auto_get_award = 1,
 		},
 	},
 	source=
@@ -2839,98 +2815,98 @@ return {
 		{
 			id = 87,
 			source_id = 80,
-			source_type = "guess_apple_award",
+			source_type = "xiaoxiaole_xiyou_award",
 			condition_id = 0,
 		},
 		[88]=
 		{
 			id = 88,
-			source_id = 81,
-			source_type = "xiaoxiaole_spend",
+			source_id = 80,
+			source_type = "guess_apple_award",
 			condition_id = 0,
 		},
 		[89]=
 		{
 			id = 89,
-			source_id = 82,
-			source_type = "buyu_3d_spend",
-			condition_id = 33,
+			source_id = 81,
+			source_type = "xiaoxiaole_spend",
+			condition_id = 0,
 		},
 		[90]=
 		{
 			id = 90,
-			source_id = 83,
+			source_id = 82,
 			source_type = "buyu_3d_spend",
-			condition_id = 34,
+			condition_id = 33,
 		},
 		[91]=
 		{
 			id = 91,
-			source_id = 84,
+			source_id = 83,
 			source_type = "buyu_3d_spend",
-			condition_id = 35,
+			condition_id = 34,
 		},
 		[92]=
 		{
 			id = 92,
-			source_id = 85,
-			source_type = "xiyou_task_money",
-			condition_id = 0,
+			source_id = 84,
+			source_type = "buyu_3d_spend",
+			condition_id = 35,
 		},
 		[93]=
 		{
 			id = 93,
-			source_id = 86,
-			source_type = "children_task",
+			source_id = 85,
+			source_type = "xiyou_task_money",
 			condition_id = 0,
 		},
 		[94]=
 		{
 			id = 94,
-			source_id = 87,
+			source_id = 86,
 			source_type = "children_task",
 			condition_id = 0,
 		},
 		[95]=
 		{
 			id = 95,
-			source_id = 88,
+			source_id = 87,
 			source_type = "children_task",
 			condition_id = 0,
 		},
 		[96]=
 		{
 			id = 96,
-			source_id = 89,
+			source_id = 88,
 			source_type = "children_task",
 			condition_id = 0,
 		},
 		[97]=
 		{
 			id = 97,
-			source_id = 90,
-			source_type = "xiaoxiaole_award",
+			source_id = 89,
+			source_type = "children_task",
 			condition_id = 0,
 		},
 		[98]=
 		{
 			id = 98,
-			source_id = 91,
+			source_id = 90,
 			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 		[99]=
 		{
 			id = 99,
-			source_id = 92,
+			source_id = 91,
 			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 		[100]=
 		{
 			id = 100,
-			source_id = 94,
-			source_type = "xiyou_task_money",
+			source_id = 92,
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 	},
@@ -4425,54 +4401,6 @@ return {
 			award_id = 115,
 			asset_type = "prop_3d_fish_nuclear_bomb_fragment_2",
 			asset_count = 1,
-			get_weight = 1,
-		},
-		[121]=
-		{
-			id = 121,
-			award_id = 116,
-			asset_type = "shop_gold_sum",
-			asset_count = 30,
-			get_weight = 1,
-		},
-		[122]=
-		{
-			id = 122,
-			award_id = 117,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[123]=
-		{
-			id = 123,
-			award_id = 118,
-			asset_type = "shop_gold_sum",
-			asset_count = 500,
-			get_weight = 1,
-		},
-		[124]=
-		{
-			id = 124,
-			award_id = 119,
-			asset_type = "shop_gold_sum",
-			asset_count = 1000,
-			get_weight = 1,
-		},
-		[125]=
-		{
-			id = 125,
-			award_id = 120,
-			asset_type = "shop_gold_sum",
-			asset_count = 3000,
-			get_weight = 1,
-		},
-		[126]=
-		{
-			id = 126,
-			award_id = 121,
-			asset_type = "shop_gold_sum",
-			asset_count = 10000,
 			get_weight = 1,
 		},
 	},
