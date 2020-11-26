@@ -1570,7 +1570,7 @@ return {
 			id = 64,
 			process_id = 15064,
 			source_id = 64,
-			process = 50,
+			process = 30,
 			awards = 64,
 			get_award_type = "nor",
 		},
