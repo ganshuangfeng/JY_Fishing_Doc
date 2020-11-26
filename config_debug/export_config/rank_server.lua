@@ -266,6 +266,19 @@ return {
 			show_model = 19,
 			settle_model = 17,
 		},
+		[20]=
+		{
+			id = 20,
+			enable = 1,
+			rank_type = "ocean_explore_week_rank",
+			name = "深海探险排行榜",
+			begin_time = 1604246400,
+			end_time = 2555555555,
+			data_deal_type = "nor_add",
+			data_save_type = "single",
+			show_model = 20,
+			settle_model = 18,
+		},
 	},
 	score_source=
 	{
@@ -938,6 +951,16 @@ return {
 			show_refresh_delay = 180,
 			show_refresh_self_delay = 10,
 		},
+		[20]=
+		{
+			id = 20,
+			show_limit = 1,
+			max_show_num = 20,
+			max_rank_num = 100,
+			max_award_num = 20,
+			show_refresh_delay = 180,
+			show_refresh_self_delay = 10,
+		},
 	},
 	settle_model=
 	{
@@ -1058,6 +1081,13 @@ return {
 			settle_time_model = 21,
 			is_clear = 0,
 			award_model = 17,
+		},
+		[18]=
+		{
+			id = 18,
+			settle_time_model = 22,
+			is_clear = 0,
+			award_model = 18,
 		},
 	},
 	settle_time_model=
@@ -1185,6 +1215,12 @@ return {
 		[21]=
 		{
 			id = 21,
+			reset_type = "week",
+			reset_value = 1,
+		},
+		[22]=
+		{
+			id = 22,
 			reset_type = "week",
 			reset_value = 1,
 		},
@@ -2325,6 +2361,51 @@ return {
 			award_id = 101,
 			award_type = "nor",
 		},
+		[127]=
+		{
+			id = 127,
+			model_id = 20,
+			start_rank = 1,
+			end_rank = 1,
+			award_id = 102,
+			award_type = "nor",
+		},
+		[128]=
+		{
+			id = 128,
+			model_id = 20,
+			start_rank = 2,
+			end_rank = 2,
+			award_id = 103,
+			award_type = "nor",
+		},
+		[129]=
+		{
+			id = 129,
+			model_id = 20,
+			start_rank = 3,
+			end_rank = 3,
+			award_id = 104,
+			award_type = "nor",
+		},
+		[130]=
+		{
+			id = 130,
+			model_id = 20,
+			start_rank = 4,
+			end_rank = 10,
+			award_id = 105,
+			award_type = "nor",
+		},
+		[131]=
+		{
+			id = 131,
+			model_id = 20,
+			start_rank = 11,
+			end_rank = 20,
+			award_id = 106,
+			award_type = "nor",
+		},
 	},
 	awards=
 	{
@@ -3263,6 +3344,60 @@ return {
 			award_name = "3千福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 3000,
+			get_weight = 1,
+		},
+		[106]=
+		{
+			id = 106,
+			award_id = 102,
+			award_name = "5个高级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_3",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[107]=
+		{
+			id = 107,
+			award_id = 103,
+			award_name = "1个高级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_3",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[108]=
+		{
+			id = 108,
+			award_id = 103,
+			award_name = "4个中级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_2",
+			asset_count = 4,
+			get_weight = 1,
+		},
+		[109]=
+		{
+			id = 109,
+			award_id = 104,
+			award_name = "2个中级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_2",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[110]=
+		{
+			id = 110,
+			award_id = 105,
+			award_name = "5个初级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_1",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[111]=
+		{
+			id = 111,
+			award_id = 106,
+			award_name = "2个初级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_1",
+			asset_count = 2,
 			get_weight = 1,
 		},
 	},
