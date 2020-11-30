@@ -2994,5 +2994,25 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[306]=
+		{
+			id = 306,
+			key = "act_039_jzhhl",
+			desc = "饺子换好礼",
+			lua = "Act_039_JZHHLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[307]=
+		{
+			id = 307,
+			key = "act_039_jzsjb",
+			desc = "饺子收集榜",
+			lua = "Act_039_JZSJBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
