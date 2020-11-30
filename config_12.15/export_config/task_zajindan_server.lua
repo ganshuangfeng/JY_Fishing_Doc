@@ -7547,6 +7547,20 @@ return {
 			end_valid_time = 1607961599,
 			time_limit = -1,
 		},
+		[1000130]=
+		{
+			id = 1000130,
+			enable = 1,
+			name = "饺子掉落",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21488,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1607990400,
+			end_valid_time = 1608566399,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -12678,6 +12692,16 @@ return {
 			source_id = 527,
 			process = {1000000,-1},
 			awards = 872,
+			get_award_type = "nor",
+			is_auto_get_award = 2,
+		},
+		[540]=
+		{
+			id = 540,
+			process_id = 21488,
+			source_id = 533,
+			process = {1000000,-1},
+			awards = 873,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
 		},
@@ -18865,6 +18889,62 @@ return {
 			source_type = "xiaoxiaole_xiyou_award",
 			condition_id = 0,
 		},
+		[877]=
+		{
+			id = 877,
+			source_id = 533,
+			source_type = "buy_gift",
+			condition_id = 374,
+		},
+		[878]=
+		{
+			id = 878,
+			source_id = 533,
+			source_type = "buy_gift",
+			condition_id = 375,
+		},
+		[879]=
+		{
+			id = 879,
+			source_id = 533,
+			source_type = "buy_gift",
+			condition_id = 376,
+		},
+		[880]=
+		{
+			id = 880,
+			source_id = 533,
+			source_type = "buy_gift",
+			condition_id = 377,
+		},
+		[881]=
+		{
+			id = 881,
+			source_id = 533,
+			source_type = "buy_gift",
+			condition_id = 378,
+		},
+		[882]=
+		{
+			id = 882,
+			source_id = 533,
+			source_type = "buy_gift",
+			condition_id = 379,
+		},
+		[883]=
+		{
+			id = 883,
+			source_id = 533,
+			source_type = "buy_gift",
+			condition_id = 380,
+		},
+		[884]=
+		{
+			id = 884,
+			source_id = 533,
+			source_type = "buy_gift",
+			condition_id = 381,
+		},
 	},
 	condition=
 	{
@@ -22856,6 +22936,70 @@ return {
 		{
 			id = 529,
 			condition_id = 373,
+			condition_name = "gift_id",
+			condition_value = 110,
+			judge_type = 2,
+		},
+		[530]=
+		{
+			id = 530,
+			condition_id = 374,
+			condition_name = "gift_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[531]=
+		{
+			id = 531,
+			condition_id = 375,
+			condition_name = "gift_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[532]=
+		{
+			id = 532,
+			condition_id = 376,
+			condition_name = "gift_id",
+			condition_value = 4,
+			judge_type = 2,
+		},
+		[533]=
+		{
+			id = 533,
+			condition_id = 377,
+			condition_name = "gift_id",
+			condition_value = 5,
+			judge_type = 2,
+		},
+		[534]=
+		{
+			id = 534,
+			condition_id = 378,
+			condition_name = "gift_id",
+			condition_value = 111,
+			judge_type = 2,
+		},
+		[535]=
+		{
+			id = 535,
+			condition_id = 379,
+			condition_name = "gift_id",
+			condition_value = 6,
+			judge_type = 2,
+		},
+		[536]=
+		{
+			id = 536,
+			condition_id = 380,
+			condition_name = "gift_id",
+			condition_value = 108,
+			judge_type = 2,
+		},
+		[537]=
+		{
+			id = 537,
+			condition_id = 381,
 			condition_name = "gift_id",
 			condition_value = 110,
 			judge_type = 2,
@@ -33201,6 +33345,22 @@ return {
 			id = 1292,
 			award_id = 872,
 			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1293]=
+		{
+			id = 1293,
+			award_id = 873,
+			asset_type = "prop_dz_jz",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1294]=
+		{
+			id = 1294,
+			award_id = 873,
+			asset_type = "_common_rank_dz_jzsjb_rank",
 			asset_count = 1,
 			get_weight = 1,
 		},
