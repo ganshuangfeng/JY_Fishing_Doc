@@ -418,6 +418,15 @@ return {
 			group_list = "101#",
 		},
 	},
+	xxlxy_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "top",
+			group_list = "101#",
+		},
+	},
 	year_panel=
 	{
 		[1]=
