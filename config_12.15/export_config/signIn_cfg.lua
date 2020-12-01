@@ -69,12 +69,14 @@ return {
 			vip = 1,
 			vipinfo = "金币x20000",
 			vip_desc = "VIP1双倍",
+			key = "signin_notcpl",
 		},
 		[9]=
 		{
 			id = 9,
 			img = "ty_icon_jb_18y",
 			info = "金币x15000",
+			key = "signin_notcpl",
 		},
 		[10]=
 		{
@@ -84,12 +86,14 @@ return {
 			vip = 2,
 			vipinfo = "金币x40000",
 			vip_desc = "VIP2双倍",
+			key = "signin_notcpl",
 		},
 		[11]=
 		{
 			id = 11,
 			img = "ty_icon_jb_30y",
 			info = "金币x25000",
+			key = "signin_notcpl",
 		},
 		[12]=
 		{
@@ -99,18 +103,21 @@ return {
 			vip = 3,
 			vipinfo = "金币x60000",
 			vip_desc = "VIP3双倍",
+			key = "signin_notcpl",
 		},
 		[13]=
 		{
 			id = 13,
 			img = "ty_icon_jb_50y",
 			info = "金币x35000",
+			key = "signin_notcpl",
 		},
 		[14]=
 		{
 			id = 14,
 			img = "ty_icon_jb_198y",
 			info = "金币x50000",
+			key = "signin_notcpl",
 		},
 	},
 	month=

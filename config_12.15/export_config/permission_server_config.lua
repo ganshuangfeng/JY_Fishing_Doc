@@ -2037,6 +2037,12 @@ return {
 			name = "3D捕鱼CPL用户",
 			condi = 347,
 		},
+		signin_notcpl=
+		{
+			key = "signin_notcpl",
+			name = "3D捕鱼非CPL用户",
+			condi = 348,
+		},
 	},
 	act_permission=
 	{
@@ -14850,6 +14856,16 @@ return {
 			var = "share_condition",
 			value = "3dby_cpl",
 			judge = 2,
+			group = 1,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[880]=
+		{
+			no = 880,
+			id = 348,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 5,
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
 		},
