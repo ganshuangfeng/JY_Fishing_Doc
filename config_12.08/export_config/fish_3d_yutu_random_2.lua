@@ -4,12 +4,12 @@ return {
 		[1]=
 		{
 			no = 1,
-			max_num = 50,
-			max_act = 3,
+			max_num = 25,
+			max_act = 2,
 			max_hide = 1,
 			ywdj_max = 1,
 			boss_max = 1,
-			gsd_max = 2,
+			gsd_max = 1,
 		},
 	},
 	act_fish_limit=
@@ -89,7 +89,7 @@ return {
 		{
 			no = 8,
 			act_type = "activity",
-			act_id = 35,
+			act_id = 65,
 			judge_type = 2,
 			max_num = 1,
 			start_time = 1606176000,
@@ -99,7 +99,7 @@ return {
 		{
 			no = 9,
 			act_type = "activity",
-			act_id = 36,
+			act_id = 66,
 			judge_type = 2,
 			max_num = 1,
 			start_time = 1606176000,
@@ -109,7 +109,7 @@ return {
 		{
 			no = 10,
 			act_type = "activity",
-			act_id = 37,
+			act_id = 67,
 			judge_type = 2,
 			max_num = 1,
 			start_time = 1606176000,
@@ -119,7 +119,7 @@ return {
 		{
 			no = 11,
 			act_type = "activity",
-			act_id = 38,
+			act_id = 68,
 			judge_type = 2,
 			max_num = 5,
 			start_time = 1606176000,
@@ -129,7 +129,7 @@ return {
 		{
 			no = 12,
 			act_type = "activity",
-			act_id = 40,
+			act_id = 70,
 			judge_type = 2,
 			max_num = 1,
 			start_time = 1607385600,
@@ -139,7 +139,7 @@ return {
 		{
 			no = 13,
 			act_type = "activity",
-			act_id = 41,
+			act_id = 71,
 			judge_type = 2,
 			max_num = 1,
 			start_time = 1607385600,
@@ -149,7 +149,7 @@ return {
 		{
 			no = 14,
 			act_type = "activity",
-			act_id = 42,
+			act_id = 72,
 			judge_type = 2,
 			max_num = 1,
 			start_time = 1607385600,
@@ -159,51 +159,11 @@ return {
 		{
 			no = 15,
 			act_type = "activity",
-			act_id = 43,
+			act_id = 73,
 			judge_type = 2,
 			max_num = 5,
 			start_time = 1607385600,
 			end_time = 1607961599,
-		},
-		[16]=
-		{
-			no = 16,
-			act_type = "activity",
-			act_id = 44,
-			judge_type = 2,
-			max_num = 1,
-			start_time = 1607990400,
-			end_time = 1608566399,
-		},
-		[17]=
-		{
-			no = 17,
-			act_type = "activity",
-			act_id = 45,
-			judge_type = 2,
-			max_num = 1,
-			start_time = 1607990400,
-			end_time = 1608566399,
-		},
-		[18]=
-		{
-			no = 18,
-			act_type = "activity",
-			act_id = 46,
-			judge_type = 2,
-			max_num = 1,
-			start_time = 1607990400,
-			end_time = 1608566399,
-		},
-		[19]=
-		{
-			no = 19,
-			act_type = "activity",
-			act_id = 47,
-			judge_type = 2,
-			max_num = 5,
-			start_time = 1607990400,
-			end_time = 1608566399,
 		},
 	},
 	change_style=
@@ -279,44 +239,37 @@ return {
 		[1]=
 		{
 			no = 1,
-			choose_group = {129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,167,168,169,170,},
+			choose_group = {1,},
 			create_pro = {5,5,5,},
 			create_config = "create_weight6",
 		},
 		[2]=
 		{
 			no = 2,
-			choose_group = {1,2,3,4,5,6,7,8,9,10,11,183,128,129,130,128,129,130,201,202,203,201,202,203,},
+			choose_group = {128,129,130,128,129,130,},
 			create_pro = {30,40,30},
 			create_config = "create_weight1",
 		},
 		[3]=
 		{
 			no = 3,
-			choose_group = {12,13,14,15,18,19,20,21,184,185,131,132,204,205,},
+			choose_group = {131,132,},
 			create_pro = {30,40,30},
 			create_config = "create_weight2",
 		},
 		[4]=
 		{
 			no = 4,
-			choose_group = {16,17,22,23,24,25,35,36,37,48,49,55,56,58,64,65,66,74,75,76,77,116,117,118,121,155,156,157,162,163,167,168,169,187,192,186,187,133,134,134,206,},
+			choose_group = {133,134,134,},
 			create_pro = {20,60,5},
 			create_config = "create_weight3",
 		},
 		[5]=
 		{
 			no = 5,
-			choose_group = {26,28,29,30,33,34,38,39,40,41,42,43,44,45,46,47,50,51,52,53,54,57,61,62,63,67,68,71,72,73,83,84,8135,136,5,91,92,93,94,95,101,102,103,105,111,112,113,119,126,158,159,160,161,164,165,166,167,168,169,170,188,189,206,207,207},
-			create_pro = {60,10,5},
+			choose_group = {135,136,},
+			create_pro = {10,10,5},
 			create_config = "create_weight4",
-		},
-		[6]=
-		{
-			no = 6,
-			choose_group = {27,31,32,59,60,69,70,78,79,80,81,82,86,87,88,89,90,96,97,98,99,100,104,106,107,108,109,110,114,115,120,122,123,124,125,127,128,167,168,169,170,190,208,},
-			create_pro = {10,10,10},
-			create_config = "create_weight5",
 		},
 	},
 	create_style=
@@ -326,19 +279,19 @@ return {
 			no = 1,
 			low = 1,
 			medium = 2,
-			high = 3,
+			high = 2,
 		},
 		[2]=
 		{
 			no = 2,
-			low = 4,
+			low = 3,
 			medium = 1,
 			high = 1,
 		},
 		[3]=
 		{
 			no = 3,
-			low = 3,
+			low = 2,
 			medium = 2,
 			high = 1,
 		},
@@ -346,42 +299,42 @@ return {
 		{
 			no = 4,
 			low = 2,
-			medium = 3,
+			medium = 2,
 			high = 1,
 		},
 		[5]=
 		{
 			no = 5,
 			low = 1,
-			medium = 4,
+			medium = 3,
 			high = 1,
 		},
 		[6]=
 		{
 			no = 6,
 			low = 0,
-			medium = 5,
+			medium = 4,
 			high = 1,
 		},
 		[7]=
 		{
 			no = 7,
 			low = 0,
-			medium = 4,
+			medium = 3,
 			high = 2,
 		},
 		[8]=
 		{
 			no = 8,
 			low = 1,
-			medium = 3,
+			medium = 2,
 			high = 2,
 		},
 		[9]=
 		{
 			no = 9,
 			low = 2,
-			medium = 2,
+			medium = 1,
 			high = 2,
 		},
 	},
@@ -537,39 +490,114 @@ return {
 		[1]=
 		{
 			no = 1,
-			group_id = {148,},
-			min_time = 1800,
-			max_time = 3000,
-			path = {49,},
+			group_id = {52,},
+			min_time = 1500,
+			max_time = 1800,
+			path = {61,},
+			max_create_num = 1,
 		},
 		[2]=
 		{
 			no = 2,
-			group_id = {149,},
-			min_time = 600,
-			max_time = 1800,
-			path = {55,},
+			group_id = {52,},
+			min_time = 3000,
+			max_time = 3300,
+			path = {61,},
+			max_create_num = 1,
 		},
 		[3]=
 		{
 			no = 3,
-			group_id = {150,},
-			min_time = 600,
-			max_time = 1200,
-			path = {56,},
+			group_id = {52,},
+			min_time = 4500,
+			max_time = 4800,
+			path = {61,},
+			max_create_num = 1,
 		},
 		[4]=
 		{
 			no = 4,
-			group_id = {150,},
-			min_time = 1800,
-			max_time = 2400,
-			path = {57,},
+			group_id = {34,137},
+			min_time = 180,
+			max_time = 220,
+			path = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,},
 		},
 		[5]=
 		{
 			no = 5,
-			group_id = {191,192,},
+			group_id = {37,139},
+			min_time = 180,
+			max_time = 220,
+			path = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,},
+		},
+		[6]=
+		{
+			no = 6,
+			group_id = {40,141},
+			min_time = 200,
+			max_time = 250,
+			path = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,},
+		},
+		[7]=
+		{
+			no = 7,
+			group_id = {35,35,42,43,44,},
+			min_time = 400,
+			max_time = 600,
+			path = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,},
+		},
+		[8]=
+		{
+			no = 8,
+			group_id = {1,2,3,4,5,6,7,8,9,10,},
+			min_time = 20,
+			max_time = 30,
+			path = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,},
+		},
+		[9]=
+		{
+			no = 9,
+			group_id = {28,29,30,31,32,33,},
+			min_time = 40,
+			max_time = 80,
+			path = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,},
+		},
+		[10]=
+		{
+			no = 10,
+			group_id = {28,29,30,31,32,33,},
+			min_time = 50,
+			max_time = 100,
+			path = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,},
+		},
+		[11]=
+		{
+			no = 11,
+			group_id = {26,27,64,65,66},
+			min_time = 280,
+			max_time = 300,
+			path = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,},
+		},
+		[12]=
+		{
+			no = 12,
+			group_id = {18,19,20,21,22,23,24,25,},
+			min_time = 300,
+			max_time = 500,
+			path = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,},
+		},
+		[13]=
+		{
+			no = 13,
+			group_id = {68,69,70,71,72,73,74,82,83,84,85,86,87,88,67,81,75,76,77,78,79,80,89,90,91,92,93,94,},
+			min_time = 500,
+			max_time = 700,
+			path = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,},
+		},
+		[14]=
+		{
+			no = 14,
+			group_id = {126,127,},
 			min_time = 2000,
 			max_time = 4000,
 			path = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,},
