@@ -14557,7 +14557,7 @@ return {
 			value = 1,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[856]=
 		{
@@ -14577,7 +14577,7 @@ return {
 			value = 9,
 			judge = 3,
 			group = 2,
-			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[858]=
 		{
@@ -14680,7 +14680,7 @@ return {
 			id = 8,
 			name = "3dby_cjj",
 			var = "market_channel",
-			value = {"cjj","cjj_juxiang","cjj_pceggs","cjj_xianwan","cjj_aibianxian","cjj_juxiangpc",},
+			value = {"cjj","cjj_juxiang","cjj_pceggs","cjj_xianwan","cjj_aibianxian","cjj_juxiangpc","cjj_zhuankebao",},
 			judge = 2,
 			group = 1,
 		},
