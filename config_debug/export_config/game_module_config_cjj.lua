@@ -2712,9 +2712,9 @@ return {
 		{
 			id = 277,
 			key = "act_030_cwlb",
-			desc = "畅玩礼包",
+			desc = "双十二",
 			lua = "Act_030_CWLBManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
@@ -2892,6 +2892,54 @@ return {
 			key = "act_036_gelb",
 			desc = "感恩礼包",
 			lua = "Act_036_GELBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[296]=
+		{
+			id = 296,
+			key = "act_038_s12dhhl",
+			desc = "双十二兑换好礼",
+			lua = "Act_038_S12DHHLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[297]=
+		{
+			id = 297,
+			key = "act_038_s12lhsjb",
+			desc = "双十二礼盒收集榜",
+			lua = "Act_038_S12LHSJBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[298]=
+		{
+			id = 298,
+			key = "act_038_s12",
+			desc = "双十二页签",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[299]=
+		{
+			id = 299,
+			key = "act_038_s12lh_drop_ani",
+			desc = "双12礼盒掉落",
+			lua = "Act_038_S12LHDROPManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[300]=
+		{
+			id = 300,
+			key = "act_038_by_and_cjj_conduct",
+			lua = "Act_038_BY_AND_CJJ_CONDUCTManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

@@ -4233,7 +4233,6 @@ return {
 		bgm_sdbgj_jiangli1=
 		{
 			name = "bgm_sdbgj_jiangli1",
-			audio_name = "bgm_sdbgj_jiangli1.mp3",
 			desc = "结算1",
 		},
 		bgm_sdbgj_jiangli2=
@@ -4289,6 +4288,24 @@ return {
 			name = "bgm_sdbgj_jinru",
 			audio_name = "bgm_sdbgj_jinru.mp3",
 			desc = "打开游戏，孙悟空说话",
+		},
+		bgm_sdbgj_disanpai_yj=
+		{
+			name = "bgm_sdbgj_disanpai_yj",
+			audio_name = "bgm_sdbgj_disanpai_yj.mp3",
+			desc = "第三排摇奖",
+		},
+		bgm_sdbgj_down=
+		{
+			name = "bgm_sdbgj_down",
+			audio_name = "bgm_sdbgj_down.mp3",
+			desc = "元素栏落下声音",
+		},
+		bgm_sdbgj_ts_free=
+		{
+			name = "bgm_sdbgj_ts_free",
+			audio_name = "bgm_sdbgj_ts_free.mp3",
+			desc = "摇到3个唐僧触发音效",
 		},
 	},
 	lwzb=

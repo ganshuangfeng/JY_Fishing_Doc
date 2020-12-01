@@ -185,7 +185,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "充值获得特殊炮台，拥有特殊技能把",
+			decs = "充值可获得特殊炮台，拥有特殊技能！",
 		},
 	},
 }

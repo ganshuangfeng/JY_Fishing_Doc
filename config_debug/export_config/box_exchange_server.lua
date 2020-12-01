@@ -648,21 +648,11 @@ return {
 		[60]=
 		{
 			id = 60,
-			name = "顶级核弹",
-			start_time = 1592841599,
-			end_time = 32503651200,
+			name = "双十二抽奖",
+			start_time = 1607385600,
+			end_time = 1607961599,
 			use_asset_id = 55,
 			award_id = 60,
-			enable = 1,
-		},
-		[61]=
-		{
-			id = 61,
-			name = "终极核弹",
-			start_time = 1592841599,
-			end_time = 32503651200,
-			use_asset_id = 56,
-			award_id = 61,
 			enable = 1,
 		},
 	},
@@ -1050,15 +1040,8 @@ return {
 		{
 			id = 55,
 			use_id = 55,
-			use_item = "prop_3d_fish_nuclear_bomb_fragment_4",
-			use_num = 100,
-		},
-		[56]=
-		{
-			id = 56,
-			use_id = 56,
-			use_item = "prop_3d_fish_nuclear_bomb_fragment_5",
-			use_num = 100,
+			use_item = "prop_12_12_cjq",
+			use_num = 1,
 		},
 	},
 	lottery_credit=
@@ -3709,14 +3692,42 @@ return {
 			no = 377,
 			award_id = 60,
 			real_award_id = 11851,
-			weight = 1,
+			weight = 20,
 		},
 		[378]=
 		{
 			no = 378,
-			award_id = 61,
+			award_id = 60,
 			real_award_id = 11852,
-			weight = 1,
+			weight = 25,
+		},
+		[379]=
+		{
+			no = 379,
+			award_id = 60,
+			real_award_id = 11853,
+			weight = 25,
+		},
+		[380]=
+		{
+			no = 380,
+			award_id = 60,
+			real_award_id = 11854,
+			weight = 27,
+		},
+		[381]=
+		{
+			no = 381,
+			award_id = 60,
+			real_award_id = 11855,
+			weight = 3,
+		},
+		[382]=
+		{
+			no = 382,
+			award_id = 60,
+			real_award_id = 11856,
+			weight = 0,
 		},
 	},
 	award_item=
@@ -6550,17 +6561,47 @@ return {
 		{
 			id = 377,
 			real_award_id = 11851,
-			award_name = "顶级核弹",
-			asset_type = "prop_3d_fish_nuclear_bomb_4",
-			asset_count = {1,1},
+			award_name = "12000金币",
+			asset_type = "jing_bi",
+			asset_count = {12000,12000},
 		},
 		[378]=
 		{
 			id = 378,
 			real_award_id = 11852,
-			award_name = "终极核弹",
-			asset_type = "prop_3d_fish_nuclear_bomb_5",
-			asset_count = {1,1},
+			award_name = "15福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {15,15},
+		},
+		[379]=
+		{
+			id = 379,
+			real_award_id = 11853,
+			award_name = "20000金币",
+			asset_type = "jing_bi",
+			asset_count = {20000,20000},
+		},
+		[380]=
+		{
+			id = 380,
+			real_award_id = 11854,
+			award_name = "30福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = {30,30},
+		},
+		[381]=
+		{
+			id = 381,
+			real_award_id = 11855,
+			award_name = "50000金币",
+			asset_type = "jing_bi",
+			asset_count = {50000,50000},
+		},
+		[382]=
+		{
+			id = 382,
+			real_award_id = 11856,
+			award_name = "美的空调",
 		},
 	},
 	weight=

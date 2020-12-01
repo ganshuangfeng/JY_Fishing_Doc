@@ -8,7 +8,6 @@ return {
 			task_icon = "rw_icon_mrzz",
 			icon_id = 1,
 			text = "捕鱼获得金币10万",
-			total = 10000000,
 			random = 0,
 			award_img = {"com_icon_yb",},
 			award_txt = {"X1000",},
@@ -50,7 +49,7 @@ return {
 		{
 			line = 5,
 			task_id = 15005,
-			task_icon = "rw_icon_jn",
+			task_icon = "rw_icon_bd",
 			icon_id = 1,
 			text = "使用3次冰冻",
 			random = 0,
@@ -503,7 +502,7 @@ return {
 			task_id = 15046,
 			task_icon = "rw_icon_gb",
 			icon_id = 1,
-			text = "捕获30倍以上的鱼30条（1000倍炮以上）",
+			text = "捕获30倍以上的鱼20条（1000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
 			award_txt = {"X20000",},
@@ -605,7 +604,7 @@ return {
 			text = "捕鱼任意鱼500条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"X50000",},
+			award_txt = {"X20000",},
 		},
 		[56]=
 		{
@@ -616,7 +615,7 @@ return {
 			text = "捕获魔鬼鱼30条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"X50000",},
+			award_txt = {"X20000",},
 		},
 		[57]=
 		{
@@ -627,7 +626,7 @@ return {
 			text = "捕获虎鲸30条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"X50000",},
+			award_txt = {"X20000",},
 		},
 		[58]=
 		{
@@ -701,7 +700,7 @@ return {
 			task_id = 15064,
 			task_icon = "rw_icon_js",
 			icon_id = 1,
-			text = "捕获黄金鱼50条（5000倍炮以上）",
+			text = "捕获黄金鱼30条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
 			award_txt = {"X50000",},
@@ -778,7 +777,7 @@ return {
 			task_id = 15071,
 			task_icon = "rw_icon_hd",
 			icon_id = 1,
-			text = "捕鱼活动鱼10条（10000倍炮以上）",
+			text = "捕鱼活动鱼20条（10000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
 			award_txt = {"X100000",},

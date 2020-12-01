@@ -985,7 +985,7 @@ return {
 		{
 			id = 15071,
 			enable = 1,
-			name = "捕鱼活动鱼10条（10000倍炮以上）",
+			name = "捕鱼活动鱼20条（10000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15071,
@@ -1570,7 +1570,7 @@ return {
 			id = 64,
 			process_id = 15064,
 			source_id = 64,
-			process = 50,
+			process = 30,
 			awards = 64,
 			get_award_type = "nor",
 		},
@@ -1651,7 +1651,7 @@ return {
 		{
 			id = 2,
 			source_id = 2,
-			source_type = "buyu_3d_spend",
+			source_type = "buyu_3d_spend_num",
 			condition_id = 2,
 		},
 		[3]=
@@ -1664,14 +1664,14 @@ return {
 		{
 			id = 4,
 			source_id = 4,
-			source_type = "use_fish_bullet_item",
+			source_type = "use_fish_3d_bullet_item",
 			condition_id = 3,
 		},
 		[5]=
 		{
 			id = 5,
 			source_id = 5,
-			source_type = "use_fish_bullet_item",
+			source_type = "use_fish_3d_bullet_item",
 			condition_id = 4,
 		},
 		[6]=
@@ -1741,7 +1741,7 @@ return {
 		{
 			id = 15,
 			source_id = 15,
-			source_type = "buyu_3d_spend",
+			source_type = "buyu_3d_spend_num",
 			condition_id = 14,
 		},
 		[16]=
@@ -1831,7 +1831,7 @@ return {
 		{
 			id = 28,
 			source_id = 28,
-			source_type = "buyu_3d_spend",
+			source_type = "buyu_3d_spend_num",
 			condition_id = 26,
 		},
 		[29]=
@@ -1922,7 +1922,7 @@ return {
 		{
 			id = 41,
 			source_id = 41,
-			source_type = "buyu_3d_spend",
+			source_type = "buyu_3d_spend_num",
 			condition_id = 39,
 		},
 		[42]=
@@ -2013,7 +2013,7 @@ return {
 		{
 			id = 54,
 			source_id = 54,
-			source_type = "buyu_3d_spend",
+			source_type = "buyu_3d_spend_num",
 			condition_id = 52,
 		},
 		[55]=
@@ -2231,7 +2231,7 @@ return {
 			id = 12,
 			condition_id = 12,
 			condition_name = "base_fish_id",
-			condition_value = {28,29,30,31,32,33,34,35,36,21,},
+			condition_value = {28,29,30,31,32,33,34,35,36,21,59,},
 			judge_type = 2,
 		},
 		[13]=
@@ -2327,21 +2327,21 @@ return {
 			id = 24,
 			condition_id = 24,
 			condition_name = "base_fish_id",
-			condition_value = {28,29,30,31,32,33,34,35,36,21,},
+			condition_value = {28,29,30,31,32,33,34,35,36,21,59,},
 			judge_type = 2,
 		},
 		[25]=
 		{
 			id = 25,
 			condition_id = 25,
-			condition_name = "game_id",
-			condition_value = {2,3,4,5},
-			judge_type = 2,
+			condition_name = "gun_rate",
+			condition_value = 500,
+			judge_type = 3,
 		},
 		[26]=
 		{
 			id = 26,
-			condition_id = 25,
+			condition_id = 26,
 			condition_name = "gun_rate",
 			condition_value = 500,
 			judge_type = 3,
@@ -2349,23 +2349,23 @@ return {
 		[27]=
 		{
 			id = 27,
-			condition_id = 26,
-			condition_name = "fish_game_id",
-			condition_value = {2,3,4,5},
-			judge_type = 2,
-		},
-		[28]=
-		{
-			id = 28,
-			condition_id = 26,
+			condition_id = 27,
 			condition_name = "gun_rate",
 			condition_value = 500,
 			judge_type = 3,
 		},
+		[28]=
+		{
+			id = 28,
+			condition_id = 28,
+			condition_name = "base_fish_id",
+			condition_value = {12,},
+			judge_type = 2,
+		},
 		[29]=
 		{
 			id = 29,
-			condition_id = 27,
+			condition_id = 28,
 			condition_name = "gun_rate",
 			condition_value = 500,
 			judge_type = 3,
@@ -2373,15 +2373,15 @@ return {
 		[30]=
 		{
 			id = 30,
-			condition_id = 28,
+			condition_id = 29,
 			condition_name = "base_fish_id",
-			condition_value = {12,},
+			condition_value = {13,},
 			judge_type = 2,
 		},
 		[31]=
 		{
 			id = 31,
-			condition_id = 28,
+			condition_id = 29,
 			condition_name = "gun_rate",
 			condition_value = 500,
 			judge_type = 3,
@@ -2389,15 +2389,15 @@ return {
 		[32]=
 		{
 			id = 32,
-			condition_id = 29,
+			condition_id = 30,
 			condition_name = "base_fish_id",
 			condition_value = {13,},
-			judge_type = 2,
+			judge_type = 3,
 		},
 		[33]=
 		{
 			id = 33,
-			condition_id = 29,
+			condition_id = 30,
 			condition_name = "gun_rate",
 			condition_value = 500,
 			judge_type = 3,
@@ -2405,15 +2405,15 @@ return {
 		[34]=
 		{
 			id = 34,
-			condition_id = 30,
+			condition_id = 31,
 			condition_name = "base_fish_id",
-			condition_value = {13,},
+			condition_value = {15,},
 			judge_type = 3,
 		},
 		[35]=
 		{
 			id = 35,
-			condition_id = 30,
+			condition_id = 31,
 			condition_name = "gun_rate",
 			condition_value = 500,
 			judge_type = 3,
@@ -2421,15 +2421,15 @@ return {
 		[36]=
 		{
 			id = 36,
-			condition_id = 31,
+			condition_id = 32,
 			condition_name = "base_fish_id",
-			condition_value = {15,},
-			judge_type = 3,
+			condition_value = {22,},
+			judge_type = 2,
 		},
 		[37]=
 		{
 			id = 37,
-			condition_id = 31,
+			condition_id = 32,
 			condition_name = "gun_rate",
 			condition_value = 500,
 			judge_type = 3,
@@ -2437,15 +2437,15 @@ return {
 		[38]=
 		{
 			id = 38,
-			condition_id = 32,
+			condition_id = 33,
 			condition_name = "base_fish_id",
-			condition_value = {22,},
+			condition_value = {23,},
 			judge_type = 2,
 		},
 		[39]=
 		{
 			id = 39,
-			condition_id = 32,
+			condition_id = 33,
 			condition_name = "gun_rate",
 			condition_value = 500,
 			judge_type = 3,
@@ -2453,15 +2453,15 @@ return {
 		[40]=
 		{
 			id = 40,
-			condition_id = 33,
+			condition_id = 34,
 			condition_name = "base_fish_id",
-			condition_value = {23,},
+			condition_value = {26,},
 			judge_type = 2,
 		},
 		[41]=
 		{
 			id = 41,
-			condition_id = 33,
+			condition_id = 34,
 			condition_name = "gun_rate",
 			condition_value = 500,
 			judge_type = 3,
@@ -2469,15 +2469,15 @@ return {
 		[42]=
 		{
 			id = 42,
-			condition_id = 34,
+			condition_id = 35,
 			condition_name = "base_fish_id",
-			condition_value = {26,},
+			condition_value = {20,22,23,24,25,26,27,},
 			judge_type = 2,
 		},
 		[43]=
 		{
 			id = 43,
-			condition_id = 34,
+			condition_id = 35,
 			condition_name = "gun_rate",
 			condition_value = 500,
 			judge_type = 3,
@@ -2485,15 +2485,15 @@ return {
 		[44]=
 		{
 			id = 44,
-			condition_id = 35,
+			condition_id = 36,
 			condition_name = "base_fish_id",
-			condition_value = {27,},
+			condition_value = {28,29,30,31,32,33,34,35,36,21,59,},
 			judge_type = 2,
 		},
 		[45]=
 		{
 			id = 45,
-			condition_id = 35,
+			condition_id = 36,
 			condition_name = "gun_rate",
 			condition_value = 500,
 			judge_type = 3,
@@ -2501,15 +2501,15 @@ return {
 		[46]=
 		{
 			id = 46,
-			condition_id = 36,
+			condition_id = 37,
 			condition_name = "base_fish_id",
-			condition_value = {28,29,30,31,32,33,34,35,36,21,},
+			condition_value = {38,40,41,43,46,47,48,49,},
 			judge_type = 2,
 		},
 		[47]=
 		{
 			id = 47,
-			condition_id = 36,
+			condition_id = 37,
 			condition_name = "gun_rate",
 			condition_value = 500,
 			judge_type = 3,
@@ -2517,55 +2517,55 @@ return {
 		[48]=
 		{
 			id = 48,
-			condition_id = 37,
-			condition_name = "base_fish_id",
-			condition_value = {38,40,41,43,46,47,48,49,},
-			judge_type = 2,
+			condition_id = 38,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
 		},
 		[49]=
 		{
 			id = 49,
-			condition_id = 37,
+			condition_id = 39,
 			condition_name = "gun_rate",
-			condition_value = 500,
+			condition_value = 1000,
 			judge_type = 3,
 		},
 		[50]=
 		{
 			id = 50,
-			condition_id = 38,
-			condition_name = "game_id",
-			condition_value = {2,3,4,5},
-			judge_type = 2,
+			condition_id = 40,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
 		},
 		[51]=
 		{
 			id = 51,
-			condition_id = 38,
-			condition_name = "gun_rate",
-			condition_value = 1000,
-			judge_type = 3,
+			condition_id = 41,
+			condition_name = "base_fish_id",
+			condition_value = {14,},
+			judge_type = 2,
 		},
 		[52]=
 		{
 			id = 52,
-			condition_id = 39,
-			condition_name = "fish_game_id",
-			condition_value = {2,3,4,5},
-			judge_type = 2,
-		},
-		[53]=
-		{
-			id = 53,
-			condition_id = 39,
+			condition_id = 41,
 			condition_name = "gun_rate",
 			condition_value = 1000,
 			judge_type = 3,
 		},
+		[53]=
+		{
+			id = 53,
+			condition_id = 42,
+			condition_name = "base_fish_id",
+			condition_value = {15,},
+			judge_type = 2,
+		},
 		[54]=
 		{
 			id = 54,
-			condition_id = 40,
+			condition_id = 42,
 			condition_name = "gun_rate",
 			condition_value = 1000,
 			judge_type = 3,
@@ -2573,15 +2573,15 @@ return {
 		[55]=
 		{
 			id = 55,
-			condition_id = 41,
+			condition_id = 43,
 			condition_name = "base_fish_id",
-			condition_value = {14,},
+			condition_value = {16,},
 			judge_type = 2,
 		},
 		[56]=
 		{
 			id = 56,
-			condition_id = 41,
+			condition_id = 43,
 			condition_name = "gun_rate",
 			condition_value = 1000,
 			judge_type = 3,
@@ -2589,15 +2589,15 @@ return {
 		[57]=
 		{
 			id = 57,
-			condition_id = 42,
+			condition_id = 44,
 			condition_name = "base_fish_id",
 			condition_value = {15,},
-			judge_type = 2,
+			judge_type = 3,
 		},
 		[58]=
 		{
 			id = 58,
-			condition_id = 42,
+			condition_id = 44,
 			condition_name = "gun_rate",
 			condition_value = 1000,
 			judge_type = 3,
@@ -2605,15 +2605,15 @@ return {
 		[59]=
 		{
 			id = 59,
-			condition_id = 43,
+			condition_id = 45,
 			condition_name = "base_fish_id",
-			condition_value = {16,},
+			condition_value = {18,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,38,40,41,43,46,47,48,49,50,},
 			judge_type = 2,
 		},
 		[60]=
 		{
 			id = 60,
-			condition_id = 43,
+			condition_id = 45,
 			condition_name = "gun_rate",
 			condition_value = 1000,
 			judge_type = 3,
@@ -2621,15 +2621,15 @@ return {
 		[61]=
 		{
 			id = 61,
-			condition_id = 44,
+			condition_id = 46,
 			condition_name = "base_fish_id",
-			condition_value = {15,},
+			condition_value = {25,},
 			judge_type = 2,
 		},
 		[62]=
 		{
 			id = 62,
-			condition_id = 44,
+			condition_id = 46,
 			condition_name = "gun_rate",
 			condition_value = 1000,
 			judge_type = 3,
@@ -2637,15 +2637,15 @@ return {
 		[63]=
 		{
 			id = 63,
-			condition_id = 45,
+			condition_id = 47,
 			condition_name = "base_fish_id",
-			condition_value = {18,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,38,40,41,43,46,47,48,49,50,},
+			condition_value = {27,},
 			judge_type = 2,
 		},
 		[64]=
 		{
 			id = 64,
-			condition_id = 45,
+			condition_id = 47,
 			condition_name = "gun_rate",
 			condition_value = 1000,
 			judge_type = 3,
@@ -2653,15 +2653,15 @@ return {
 		[65]=
 		{
 			id = 65,
-			condition_id = 46,
+			condition_id = 48,
 			condition_name = "base_fish_id",
-			condition_value = {25,},
+			condition_value = {48,},
 			judge_type = 2,
 		},
 		[66]=
 		{
 			id = 66,
-			condition_id = 46,
+			condition_id = 48,
 			condition_name = "gun_rate",
 			condition_value = 1000,
 			judge_type = 3,
@@ -2669,15 +2669,15 @@ return {
 		[67]=
 		{
 			id = 67,
-			condition_id = 47,
+			condition_id = 49,
 			condition_name = "base_fish_id",
-			condition_value = {27,},
+			condition_value = {20,22,23,24,25,26,27,},
 			judge_type = 2,
 		},
 		[68]=
 		{
 			id = 68,
-			condition_id = 47,
+			condition_id = 49,
 			condition_name = "gun_rate",
 			condition_value = 1000,
 			judge_type = 3,
@@ -2685,15 +2685,15 @@ return {
 		[69]=
 		{
 			id = 69,
-			condition_id = 48,
+			condition_id = 50,
 			condition_name = "base_fish_id",
-			condition_value = {48,},
+			condition_value = {28,29,30,31,32,33,34,35,36,21,59,},
 			judge_type = 2,
 		},
 		[70]=
 		{
 			id = 70,
-			condition_id = 48,
+			condition_id = 50,
 			condition_name = "gun_rate",
 			condition_value = 1000,
 			judge_type = 3,
@@ -2701,71 +2701,71 @@ return {
 		[71]=
 		{
 			id = 71,
-			condition_id = 49,
-			condition_name = "base_fish_id",
-			condition_value = {20,22,23,24,25,26,27,},
-			judge_type = 2,
+			condition_id = 51,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
 		},
 		[72]=
 		{
 			id = 72,
-			condition_id = 49,
+			condition_id = 52,
 			condition_name = "gun_rate",
-			condition_value = 1000,
+			condition_value = 5000,
 			judge_type = 3,
 		},
 		[73]=
 		{
 			id = 73,
-			condition_id = 50,
-			condition_name = "base_fish_id",
-			condition_value = {28,29,30,31,32,33,34,35,36,21,},
-			judge_type = 2,
+			condition_id = 53,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
 		},
 		[74]=
 		{
 			id = 74,
-			condition_id = 50,
-			condition_name = "gun_rate",
-			condition_value = 1000,
-			judge_type = 3,
+			condition_id = 54,
+			condition_name = "base_fish_id",
+			condition_value = {17,},
+			judge_type = 2,
 		},
 		[75]=
 		{
 			id = 75,
-			condition_id = 51,
-			condition_name = "game_id",
-			condition_value = {2,3,4,5},
-			judge_type = 2,
+			condition_id = 54,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
 		},
 		[76]=
 		{
 			id = 76,
-			condition_id = 51,
-			condition_name = "gun_rate",
-			condition_value = 5000,
-			judge_type = 3,
+			condition_id = 55,
+			condition_name = "base_fish_id",
+			condition_value = {18,},
+			judge_type = 2,
 		},
 		[77]=
 		{
 			id = 77,
-			condition_id = 52,
-			condition_name = "fish_game_id",
-			condition_value = {2,3,4,5},
-			judge_type = 2,
-		},
-		[78]=
-		{
-			id = 78,
-			condition_id = 52,
+			condition_id = 55,
 			condition_name = "gun_rate",
 			condition_value = 5000,
 			judge_type = 3,
 		},
+		[78]=
+		{
+			id = 78,
+			condition_id = 56,
+			condition_name = "base_fish_id",
+			condition_value = {23,26,27,28,29,30,31,32,33,34,35,36,38,40,41,43,46,47,48,49,50,},
+			judge_type = 2,
+		},
 		[79]=
 		{
 			id = 79,
-			condition_id = 53,
+			condition_id = 56,
 			condition_name = "gun_rate",
 			condition_value = 5000,
 			judge_type = 3,
@@ -2773,15 +2773,15 @@ return {
 		[80]=
 		{
 			id = 80,
-			condition_id = 54,
+			condition_id = 57,
 			condition_name = "base_fish_id",
-			condition_value = {17,},
+			condition_value = {26,},
 			judge_type = 2,
 		},
 		[81]=
 		{
 			id = 81,
-			condition_id = 54,
+			condition_id = 57,
 			condition_name = "gun_rate",
 			condition_value = 5000,
 			judge_type = 3,
@@ -2789,15 +2789,15 @@ return {
 		[82]=
 		{
 			id = 82,
-			condition_id = 55,
+			condition_id = 58,
 			condition_name = "base_fish_id",
-			condition_value = {18,},
+			condition_value = {22,23,25,26,27,28,29,30,31,32,33,34,35,36,38,40,41,43,46,47,48,49,50,},
 			judge_type = 2,
 		},
 		[83]=
 		{
 			id = 83,
-			condition_id = 55,
+			condition_id = 58,
 			condition_name = "gun_rate",
 			condition_value = 5000,
 			judge_type = 3,
@@ -2805,15 +2805,15 @@ return {
 		[84]=
 		{
 			id = 84,
-			condition_id = 56,
+			condition_id = 59,
 			condition_name = "base_fish_id",
-			condition_value = {23,26,27,28,29,30,31,32,33,34,35,36,38,40,41,43,46,47,48,49,50,},
+			condition_value = {25,},
 			judge_type = 2,
 		},
 		[85]=
 		{
 			id = 85,
-			condition_id = 56,
+			condition_id = 59,
 			condition_name = "gun_rate",
 			condition_value = 5000,
 			judge_type = 3,
@@ -2821,15 +2821,15 @@ return {
 		[86]=
 		{
 			id = 86,
-			condition_id = 57,
+			condition_id = 60,
 			condition_name = "base_fish_id",
-			condition_value = {15,},
+			condition_value = {27,},
 			judge_type = 2,
 		},
 		[87]=
 		{
 			id = 87,
-			condition_id = 57,
+			condition_id = 60,
 			condition_name = "gun_rate",
 			condition_value = 5000,
 			judge_type = 3,
@@ -2837,15 +2837,15 @@ return {
 		[88]=
 		{
 			id = 88,
-			condition_id = 58,
+			condition_id = 61,
 			condition_name = "base_fish_id",
-			condition_value = {22,23,25,26,27,28,29,30,31,32,33,34,35,36,38,40,41,43,46,47,48,49,50,},
+			condition_value = {38,40,41,43,46,47,48,49,},
 			judge_type = 2,
 		},
 		[89]=
 		{
 			id = 89,
-			condition_id = 58,
+			condition_id = 61,
 			condition_name = "gun_rate",
 			condition_value = 5000,
 			judge_type = 3,
@@ -2853,15 +2853,15 @@ return {
 		[90]=
 		{
 			id = 90,
-			condition_id = 59,
+			condition_id = 62,
 			condition_name = "base_fish_id",
-			condition_value = {25,},
+			condition_value = {20,22,23,24,25,26,27,},
 			judge_type = 2,
 		},
 		[91]=
 		{
 			id = 91,
-			condition_id = 59,
+			condition_id = 62,
 			condition_name = "gun_rate",
 			condition_value = 5000,
 			judge_type = 3,
@@ -2869,15 +2869,15 @@ return {
 		[92]=
 		{
 			id = 92,
-			condition_id = 60,
+			condition_id = 63,
 			condition_name = "base_fish_id",
-			condition_value = {27,},
+			condition_value = {28,29,30,31,32,33,34,35,36,21,59,},
 			judge_type = 2,
 		},
 		[93]=
 		{
 			id = 93,
-			condition_id = 60,
+			condition_id = 63,
 			condition_name = "gun_rate",
 			condition_value = 5000,
 			judge_type = 3,
@@ -2885,63 +2885,63 @@ return {
 		[94]=
 		{
 			id = 94,
-			condition_id = 61,
-			condition_name = "base_fish_id",
-			condition_value = {38,40,41,43,46,47,48,49,},
-			judge_type = 2,
+			condition_id = 64,
+			condition_name = "gun_rate",
+			condition_value = 10000,
+			judge_type = 3,
 		},
 		[95]=
 		{
 			id = 95,
-			condition_id = 61,
-			condition_name = "gun_rate",
-			condition_value = 5000,
-			judge_type = 3,
+			condition_id = 65,
+			condition_name = "base_fish_id",
+			condition_value = {23,26,27,28,29,30,31,32,33,34,35,36,38,40,41,43,46,47,48,49,50,},
+			judge_type = 2,
 		},
 		[96]=
 		{
 			id = 96,
-			condition_id = 62,
-			condition_name = "base_fish_id",
-			condition_value = {20,22,23,24,25,26,27,},
-			judge_type = 2,
+			condition_id = 65,
+			condition_name = "gun_rate",
+			condition_value = 10000,
+			judge_type = 3,
 		},
 		[97]=
 		{
 			id = 97,
-			condition_id = 62,
-			condition_name = "gun_rate",
-			condition_value = 5000,
-			judge_type = 3,
+			condition_id = 66,
+			condition_name = "base_fish_id",
+			condition_value = {38,40,41,43,46,47,48,49,},
+			judge_type = 2,
 		},
 		[98]=
 		{
 			id = 98,
-			condition_id = 63,
-			condition_name = "base_fish_id",
-			condition_value = {28,29,30,31,32,33,34,35,36,21,},
-			judge_type = 2,
+			condition_id = 66,
+			condition_name = "gun_rate",
+			condition_value = 10000,
+			judge_type = 3,
 		},
 		[99]=
 		{
 			id = 99,
-			condition_id = 63,
-			condition_name = "gun_rate",
-			condition_value = 5000,
-			judge_type = 3,
+			condition_id = 67,
+			condition_name = "base_fish_id",
+			condition_value = {20,22,23,24,25,26,27,},
+			judge_type = 2,
 		},
 		[100]=
 		{
 			id = 100,
-			condition_id = 64,
-			condition_name = "game_id",
-			condition_value = {2,3,4,5},
-			judge_type = 2,
+			condition_id = 67,
+			condition_name = "gun_rate",
+			condition_value = 10000,
+			judge_type = 3,
 		},
 		[101]=
 		{
 			id = 101,
-			condition_id = 64,
+			condition_id = 68,
 			condition_name = "gun_rate",
 			condition_value = 10000,
 			judge_type = 3,
@@ -2949,70 +2949,14 @@ return {
 		[102]=
 		{
 			id = 102,
-			condition_id = 65,
+			condition_id = 69,
 			condition_name = "base_fish_id",
-			condition_value = {23,26,27,28,29,30,31,32,33,34,35,36,38,40,41,43,46,47,48,49,50,},
+			condition_value = {28,29,30,31,32,33,34,35,36,21,59,},
 			judge_type = 2,
 		},
 		[103]=
 		{
 			id = 103,
-			condition_id = 65,
-			condition_name = "gun_rate",
-			condition_value = 10000,
-			judge_type = 3,
-		},
-		[104]=
-		{
-			id = 104,
-			condition_id = 66,
-			condition_name = "base_fish_id",
-			condition_value = {38,40,41,43,46,47,48,49,},
-			judge_type = 2,
-		},
-		[105]=
-		{
-			id = 105,
-			condition_id = 66,
-			condition_name = "gun_rate",
-			condition_value = 10000,
-			judge_type = 3,
-		},
-		[106]=
-		{
-			id = 106,
-			condition_id = 67,
-			condition_name = "base_fish_id",
-			condition_value = {20,22,23,24,25,26,27,},
-			judge_type = 2,
-		},
-		[107]=
-		{
-			id = 107,
-			condition_id = 67,
-			condition_name = "gun_rate",
-			condition_value = 10000,
-			judge_type = 3,
-		},
-		[108]=
-		{
-			id = 108,
-			condition_id = 68,
-			condition_name = "gun_rate",
-			condition_value = 10000,
-			judge_type = 3,
-		},
-		[109]=
-		{
-			id = 109,
-			condition_id = 69,
-			condition_name = "base_fish_id",
-			condition_value = {28,29,30,31,32,33,34,35,36,21,},
-			judge_type = 2,
-		},
-		[110]=
-		{
-			id = 110,
 			condition_id = 69,
 			condition_name = "gun_rate",
 			condition_value = 10000,

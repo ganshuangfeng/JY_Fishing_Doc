@@ -645,6 +645,26 @@ return {
 			award_id = 59,
 			enable = 1,
 		},
+		[60]=
+		{
+			id = 60,
+			name = "顶级核弹",
+			start_time = 1592841599,
+			end_time = 32503651200,
+			use_asset_id = 55,
+			award_id = 60,
+			enable = 1,
+		},
+		[61]=
+		{
+			id = 61,
+			name = "终极核弹",
+			start_time = 1592841599,
+			end_time = 32503651200,
+			use_asset_id = 56,
+			award_id = 61,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
@@ -1025,6 +1045,20 @@ return {
 			use_id = 54,
 			use_item = "prop_gej_cs",
 			use_num = 1,
+		},
+		[55]=
+		{
+			id = 55,
+			use_id = 55,
+			use_item = "prop_3d_fish_nuclear_bomb_fragment_4",
+			use_num = 100,
+		},
+		[56]=
+		{
+			id = 56,
+			use_id = 56,
+			use_item = "prop_3d_fish_nuclear_bomb_fragment_5",
+			use_num = 100,
 		},
 	},
 	lottery_credit=
@@ -3669,6 +3703,20 @@ return {
 			award_id = 59,
 			real_award_id = 11850,
 			weight = 5,
+		},
+		[377]=
+		{
+			no = 377,
+			award_id = 60,
+			real_award_id = 11851,
+			weight = 1,
+		},
+		[378]=
+		{
+			no = 378,
+			award_id = 61,
+			real_award_id = 11852,
+			weight = 1,
 		},
 	},
 	award_item=
@@ -6497,6 +6545,22 @@ return {
 			award_name = "200-300话费碎片",
 			asset_type = "prop_web_chip_huafei",
 			asset_count = {200,300},
+		},
+		[377]=
+		{
+			id = 377,
+			real_award_id = 11851,
+			award_name = "顶级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_4",
+			asset_count = {1,1},
+		},
+		[378]=
+		{
+			id = 378,
+			real_award_id = 11852,
+			award_name = "终极核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_5",
+			asset_count = {1,1},
 		},
 	},
 	weight=

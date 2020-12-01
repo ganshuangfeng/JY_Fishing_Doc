@@ -349,70 +349,69 @@ return {
 		xxl_bet_1=
 		{
 			key = "xxl_bet_1",
-			name = 5000,
+			name = "消消乐下注1000鲸币",
 		},
 		xxl_bet_2=
 		{
 			key = "xxl_bet_2",
-			name = 10000,
+			name = "消消乐下注5000鲸币",
 		},
 		xxl_bet_3=
 		{
 			key = "xxl_bet_3",
-			name = 30000,
+			name = "消消乐下注10000鲸币",
 		},
 		xxl_bet_4=
 		{
 			key = "xxl_bet_4",
-			name = 60000,
-			condi = 22,
+			name = "消消乐下注30000鲸币",
 		},
 		xxl_bet_5=
 		{
 			key = "xxl_bet_5",
-			name = 120000,
+			name = "消消乐下注6000鲸币",
 			condi = 22,
 		},
 		xxl_bet_6=
 		{
 			key = "xxl_bet_6",
-			name = 240000,
+			name = "消消乐下注12万鲸币",
 			condi = 22,
 		},
 		xxl_bet_7=
 		{
 			key = "xxl_bet_7",
-			name = 480000,
-			condi = 23,
+			name = "消消乐下注24万鲸币",
+			condi = 22,
 		},
 		xxl_bet_8=
 		{
 			key = "xxl_bet_8",
-			name = 960000,
+			name = "消消乐下注48万鲸币",
 			condi = 23,
 		},
 		xxl_bet_9=
 		{
 			key = "xxl_bet_9",
-			name = 1920000,
-			condi = 24,
+			name = "消消乐下注96万鲸币",
+			condi = 23,
 		},
 		xxl_bet_10=
 		{
 			key = "xxl_bet_10",
-			name = 5120000,
-			condi = 25,
+			name = "消消乐下注192万鲸币",
+			condi = 24,
 		},
 		xxl_bet_11=
 		{
 			key = "xxl_bet_11",
-			name = 10240000,
-			condi = 26,
+			name = "消消乐下注512万鲸币",
+			condi = 25,
 		},
 		xxl_bet_12=
 		{
 			key = "xxl_bet_12",
-			name = 20480000,
+			name = "消消乐下注1024万鲸币",
 			condi = 26,
 		},
 		xxl_bet_13=
@@ -424,70 +423,69 @@ return {
 		sh_xxl_bet_1=
 		{
 			key = "sh_xxl_bet_1",
-			name = 5000,
+			name = "水浒消消乐下注500鲸币",
 		},
 		sh_xxl_bet_2=
 		{
 			key = "sh_xxl_bet_2",
-			name = 10000,
+			name = "水浒消消乐下注1000鲸币",
 		},
 		sh_xxl_bet_3=
 		{
 			key = "sh_xxl_bet_3",
-			name = 30000,
+			name = "水浒消消乐下注2000鲸币",
 		},
 		sh_xxl_bet_4=
 		{
 			key = "sh_xxl_bet_4",
-			name = 60000,
-			condi = 22,
+			name = "水浒消消乐下注4000鲸币",
 		},
 		sh_xxl_bet_5=
 		{
 			key = "sh_xxl_bet_5",
-			name = 120000,
+			name = "水浒消消乐下注8000鲸币",
 			condi = 22,
 		},
 		sh_xxl_bet_6=
 		{
 			key = "sh_xxl_bet_6",
-			name = 240000,
+			name = "水浒消消乐下注1.5万鲸币",
 			condi = 22,
 		},
 		sh_xxl_bet_7=
 		{
 			key = "sh_xxl_bet_7",
-			name = 480000,
-			condi = 23,
+			name = "水浒消消乐下注3万鲸币",
+			condi = 22,
 		},
 		sh_xxl_bet_8=
 		{
 			key = "sh_xxl_bet_8",
-			name = 960000,
+			name = "水浒消消乐下注6万鲸币",
 			condi = 23,
 		},
 		sh_xxl_bet_9=
 		{
 			key = "sh_xxl_bet_9",
-			name = 1920000,
-			condi = 24,
+			name = "水浒消消乐下注12万鲸币",
+			condi = 23,
 		},
 		sh_xxl_bet_10=
 		{
 			key = "sh_xxl_bet_10",
-			name = 5120000,
-			condi = 25,
+			name = "水浒消消乐下注24万鲸币",
+			condi = 24,
 		},
 		sh_xxl_bet_11=
 		{
 			key = "sh_xxl_bet_11",
-			name = 10240000,
-			condi = 26,
+			name = "水浒消消乐下注48万鲸币",
+			condi = 25,
 		},
 		sh_xxl_bet_12=
 		{
 			key = "sh_xxl_bet_12",
-			name = 20480000,
+			name = "水浒消消乐下注96万鲸币",
 			condi = 26,
 		},
 		sh_xxl_bet_13=
@@ -2014,6 +2012,24 @@ return {
 			key = "cjj_cqg_viplimit",
 			name = "存钱罐VIP1限制",
 			condi = 342,
+		},
+		cpl_recharge_above=
+		{
+			key = "cpl_recharge_above",
+			name = "欢乐天天捕鱼充值6元以上",
+			condi = 344,
+		},
+		cjj_cpl_recharge_above=
+		{
+			key = "cjj_cpl_recharge_above",
+			name = "冲金鸡平台CPL充值6元以上",
+			condi = 345,
+		},
+		signin_limit=
+		{
+			key = "signin_limit",
+			name = "签到权限-只有欢乐捕鱼和冲金鸡官方渠道展示",
+			condi = 346,
 		},
 	},
 	act_permission=
@@ -7816,7 +7832,7 @@ return {
 			no = 178,
 			id = 77,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 2,
 			group = 5,
 			error_desc = "是冲金鸡平台",
@@ -7996,7 +8012,7 @@ return {
 			no = 196,
 			id = 79,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 2,
 			group = 5,
 			error_desc = "是3D捕鱼冲金鸡平台",
@@ -12046,7 +12062,7 @@ return {
 			no = 601,
 			id = 226,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 2,
 			group = 4,
 			error_desc = "是cpl玩家才可游戏",
@@ -12106,7 +12122,7 @@ return {
 			no = 607,
 			id = 227,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 2,
 			group = 4,
 			error_desc = "是cpl玩家才可游戏",
@@ -12166,7 +12182,7 @@ return {
 			no = 613,
 			id = 228,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 2,
 			group = 4,
 			error_desc = "是cpl玩家才可游戏",
@@ -12226,7 +12242,7 @@ return {
 			no = 619,
 			id = 229,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 2,
 			group = 4,
 			error_desc = "是cpl玩家才可游戏",
@@ -12286,7 +12302,7 @@ return {
 			no = 625,
 			id = 230,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 2,
 			group = 4,
 			error_desc = "是cpl玩家才可游戏",
@@ -12346,7 +12362,7 @@ return {
 			no = 631,
 			id = 231,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 2,
 			group = 4,
 			error_desc = "是cpl玩家才可游戏",
@@ -14106,7 +14122,7 @@ return {
 			no = 807,
 			id = 319,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 5,
 			group = 1,
 			error_desc = "是冲金鸡渠道",
@@ -14136,7 +14152,7 @@ return {
 			no = 810,
 			id = 321,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 5,
 			group = 1,
 			error_desc = "不是冲金鸡渠道",
@@ -14276,7 +14292,7 @@ return {
 			no = 824,
 			id = 326,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 2,
 			group = 1,
 			error_desc = "是冲金鸡渠道",
@@ -14326,7 +14342,7 @@ return {
 			no = 829,
 			id = 328,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 5,
 			group = 1,
 			error_desc = "非冲金鸡的全渠道",
@@ -14346,7 +14362,7 @@ return {
 			no = 831,
 			id = 329,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 5,
 			group = 1,
 			error_desc = "非冲金鸡的全渠道",
@@ -14466,7 +14482,7 @@ return {
 			no = 843,
 			id = 333,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 5,
 			group = 1,
 			error_desc = "非冲金鸡的全渠道",
@@ -14486,7 +14502,7 @@ return {
 			no = 845,
 			id = 334,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 2,
 			group = 1,
 			error_desc = "冲金鸡的全渠道",
@@ -14506,7 +14522,7 @@ return {
 			no = 847,
 			id = 335,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 2,
 			group = 1,
 			error_desc = "冲金鸡的全渠道",
@@ -14526,7 +14542,7 @@ return {
 			no = 849,
 			id = 336,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 5,
 			group = 1,
 			error_desc = "冲金鸡的全渠道",
@@ -14566,7 +14582,7 @@ return {
 			no = 853,
 			id = 338,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 5,
 			group = 1,
 			error_desc = "不展示给cjj",
@@ -14586,7 +14602,7 @@ return {
 			no = 855,
 			id = 340,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 5,
 			group = 1,
 			error_desc = "cjj",
@@ -14596,7 +14612,7 @@ return {
 			no = 856,
 			id = 341,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "cjj_all",
 			judge = 2,
 			group = 1,
 			error_desc = "非cjj",
@@ -14615,15 +14631,35 @@ return {
 		{
 			no = 858,
 			id = 342,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上的用户可进行领取",
+		},
+		[859]=
+		{
+			no = 859,
+			id = 342,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 2,
 			group = 2,
 			error_desc = "是CPS渠道",
 		},
-		[859]=
+		[860]=
 		{
-			no = 859,
+			no = 860,
+			id = 342,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 2,
+			error_desc = "VIP1及以上的用户可进行领取",
+		},
+		[861]=
+		{
+			no = 861,
 			id = 342,
 			var = "share_condition",
 			value = "3dby_official",
@@ -14631,65 +14667,45 @@ return {
 			group = 3,
 			error_desc = "是官方渠道",
 		},
-		[860]=
-		{
-			no = 860,
-			id = 342,
-			var = "share_condition",
-			value = "3dby_cjj",
-			judge = 2,
-			group = 4,
-			error_desc = "VIP1及以上的用户可进行领取",
-		},
-		[861]=
-		{
-			no = 861,
-			id = 342,
-			var = "vip_level",
-			value = 1,
-			judge = 3,
-			group = 4,
-			error_desc = "VIP1及以上的用户可进行领取",
-		},
 		[862]=
 		{
 			no = 862,
-			id = 343,
+			id = 342,
 			var = "vip_level",
 			value = 1,
 			judge = 3,
-			group = 1,
-			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			group = 3,
+			error_desc = "VIP1及以上的用户可进行领取",
 		},
 		[863]=
 		{
 			no = 863,
-			id = 343,
+			id = 342,
 			var = "share_condition",
-			value = "3dby_cpl",
-			judge = 5,
-			group = 1,
-			error_desc = "是cpl玩家才可游戏",
+			value = "cjj_all",
+			judge = 2,
+			group = 4,
+			error_desc = "VIP1及以上的用户可进行领取",
 		},
 		[864]=
 		{
 			no = 864,
-			id = 343,
-			var = "player_level",
-			value = 9,
+			id = 342,
+			var = "vip_level",
+			value = 1,
 			judge = 3,
-			group = 2,
-			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			group = 4,
+			error_desc = "VIP1及以上的用户可进行领取",
 		},
 		[865]=
 		{
 			no = 865,
 			id = 343,
-			var = "share_condition",
-			value = "3dby_cpl",
-			judge = 5,
-			group = 2,
-			error_desc = "是cpl玩家才可游戏",
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[866]=
 		{
@@ -14697,19 +14713,129 @@ return {
 			id = 343,
 			var = "share_condition",
 			value = "3dby_cpl",
-			judge = 2,
-			group = 3,
+			judge = 5,
+			group = 1,
 			error_desc = "是cpl玩家才可游戏",
 		},
 		[867]=
 		{
 			no = 867,
 			id = 343,
+			var = "player_level",
+			value = 9,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[868]=
+		{
+			no = 868,
+			id = 343,
 			var = "share_condition",
-			value = "3dby_cjj",
+			value = "3dby_cpl",
+			judge = 5,
+			group = 2,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[869]=
+		{
+			no = 869,
+			id = 343,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[870]=
+		{
+			no = 870,
+			id = 343,
+			var = "share_condition",
+			value = "cjj_all",
 			judge = 2,
 			group = 4,
 			error_desc = "是冲金鸡玩家才可游戏",
+		},
+		[871]=
+		{
+			no = 871,
+			id = 344,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[872]=
+		{
+			no = 872,
+			id = 344,
+			var = "pay_sum",
+			value = 600,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要充值6元以上",
+		},
+		[873]=
+		{
+			no = 873,
+			id = 345,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[874]=
+		{
+			no = 874,
+			id = 345,
+			var = "pay_sum",
+			value = 600,
+			judge = 3,
+			group = 1,
+			error_desc = "该档次需要充值6元以上",
+		},
+		[875]=
+		{
+			no = 875,
+			id = 346,
+			var = "share_condition",
+			value = "cjj_official",
+			judge = 2,
+			group = 1,
+			error_desc = "冲金鸡官方",
+		},
+		[876]=
+		{
+			no = 876,
+			id = 346,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 2,
+			error_desc = "3D捕鱼官方",
+		},
+		[877]=
+		{
+			no = 877,
+			id = 346,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "3D捕鱼CPL",
+		},
+		[878]=
+		{
+			no = 878,
+			id = 346,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 4,
+			error_desc = "3D捕鱼CPS",
 		},
 	},
 	share_condition=
@@ -14780,9 +14906,27 @@ return {
 		[8]=
 		{
 			id = 8,
-			name = "3dby_cjj",
+			name = "cjj_all",
 			var = "market_channel",
 			value = {"cjj","cjj_juxiang","cjj_pceggs","cjj_xianwan","cjj_aibianxian","cjj_juxiangpc","cjj_zhuankebao",},
+			judge = 2,
+			group = 1,
+		},
+		[9]=
+		{
+			id = 9,
+			name = "cjj_cpl",
+			var = "market_channel",
+			value = {"cjj_juxiang","cjj_pceggs","cjj_xianwan","cjj_aibianxian","cjj_juxiangpc","cjj_zhuankebao",},
+			judge = 2,
+			group = 1,
+		},
+		[10]=
+		{
+			id = 10,
+			name = "cjj_official",
+			var = "market_channel",
+			value = {"cjj",},
 			judge = 2,
 			group = 1,
 		},

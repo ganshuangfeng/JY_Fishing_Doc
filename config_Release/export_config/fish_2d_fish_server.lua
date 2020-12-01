@@ -1796,6 +1796,24 @@ return {
 			rate = 250,
 			gd_award = 0,
 		},
+		[191]=
+		{
+			ID = 191,
+			fish_type = 1,
+			fish_form = {165,},
+			life = 75,
+			rate = 75,
+			gd_award = 0,
+		},
+		[192]=
+		{
+			ID = 192,
+			fish_type = 1,
+			fish_form = {166,},
+			life = 0,
+			rate = 0,
+			gd_award = 0,
+		},
 	},
 	use_fish=
 	{
@@ -4238,6 +4256,36 @@ return {
 			ranking_show_rate = 1,
 			broadcast = 0,
 		},
+		[165]=
+		{
+			id = 165,
+			base_id = 33,
+			act_id = 39,
+			life = 75,
+			shoot = 0.013333,
+			act_type = "activity",
+			rate = 75,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 75,
+			ranking_show_rate = 1,
+			broadcast = 1,
+		},
+		[166]=
+		{
+			id = 166,
+			base_id = 33,
+			append_life_rate = {50,100},
+			life = 0,
+			shoot = 0,
+			act_type = "activity",
+			rate = 0,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 0,
+			ranking_show_rate = 1,
+			broadcast = 1,
+		},
 	},
 	activity=
 	{
@@ -4579,6 +4627,15 @@ return {
 			enter_bag = 1,
 			value = 10,
 		},
+		[39]=
+		{
+			id = 39,
+			acti_type = 9,
+			num = {"prop_web_chip_huafei",10,0.02,0.05},
+			show = 1,
+			enter_bag = 1,
+			value = 75,
+		},
 	},
 	box_fish_activity=
 	{
@@ -4888,6 +4945,15 @@ return {
 		[32]=
 		{
 			id = 32,
+			type = 1,
+			life = 0,
+			shoot = 0,
+			rate = 0,
+			gd_award = 0,
+		},
+		[33]=
+		{
+			id = 33,
 			type = 1,
 			life = 0,
 			shoot = 0,
