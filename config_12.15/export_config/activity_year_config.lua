@@ -431,7 +431,7 @@ return {
 			parmData = "activity_task",
 			is_local_icon = 1,
 			gotoUI = {"act_034_ldfd","panel"},
-			tag = "normal",
+			tag = "hot",
 			beginTime = 1607990400,
 			endTime = 1608566399,
 		},
