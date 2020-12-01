@@ -6066,6 +6066,42 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1606176000,
 		},
+		[336]=
+		{
+			id = 336,
+			enable = 1,
+			key = "actp_own_task_p_task_fish_daily_1_2_cpl",
+			name = "捕鱼每日任务（新玩家，免费，小额） （只是CPL）",
+			condi = 303,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598889600,
+		},
+		[337]=
+		{
+			id = 337,
+			enable = 1,
+			key = "actp_own_task_p_task_fish_daily_no_cps_cpl",
+			name = "捕鱼每日任务（不是CPS）（是CPL）",
+			condi = 310,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598889600,
+		},
+		[338]=
+		{
+			id = 338,
+			enable = 1,
+			key = "actp_own_task_p_task_fish_daily_1_2_no_cps_cpl",
+			name = "捕鱼每日任务（新玩家，免费，小额）（是CPL）",
+			condi = 311,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1598889600,
+		},
 	},
 	condi=
 	{
@@ -14868,6 +14904,106 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
+		},
+		[881]=
+		{
+			no = 881,
+			id = 349,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[882]=
+		{
+			no = 882,
+			id = 349,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给免费用户标签",
+		},
+		[883]=
+		{
+			no = 883,
+			id = 349,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "只展示给小额标签用户",
+		},
+		[884]=
+		{
+			no = 884,
+			id = 350,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[885]=
+		{
+			no = 885,
+			id = 351,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[886]=
+		{
+			no = 886,
+			id = 351,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[887]=
+		{
+			no = 887,
+			id = 351,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给免费用户标签",
+		},
+		[888]=
+		{
+			no = 888,
+			id = 351,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 2,
+			error_desc = "不是CPS渠道",
+		},
+		[889]=
+		{
+			no = 889,
+			id = 351,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "只展示给小额标签用户",
+		},
+		[890]=
+		{
+			no = 890,
+			id = 351,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 3,
+			error_desc = "不是CPS渠道",
 		},
 	},
 	share_condition=
