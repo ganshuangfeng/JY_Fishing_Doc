@@ -14524,7 +14524,7 @@ return {
 			id = 8,
 			name = "3dby_cjj",
 			var = "market_channel",
-			value = {"cjj","cjj_juxiang","cjj_pceggs","cjj_xianwan","cjj_aibianxian",},
+			value = {"cjj","cjj_juxiang","cjj_pceggs","cjj_xianwan","cjj_aibianxian","cjj_juxiangpc",},
 			judge = 2,
 			group = 1,
 		},
