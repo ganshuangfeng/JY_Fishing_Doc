@@ -9,7 +9,7 @@ return {
 			icon = "bk_icon_bmfh",
 			name = "报名",
 			scale = 1,
-			tips = "可使用捕鱼比赛门票*1或鲸币*10万或红包券*10报名参赛",
+			tips = "可使用捕鱼比赛门票*1或金币*10万或福利券*10报名参赛",
 		},
 		[2]=
 		{
@@ -19,7 +19,7 @@ return {
 			icon = "bk_icon_jc",
 			name = "奖池",
 			scale = 1,
-			tips = "所有玩家报名与复活所消耗的财富都将转换为等价红包券计入奖池",
+			tips = "所有玩家报名与复活所消耗的财富都将转换为等价福利券计入奖池",
 		},
 		[3]=
 		{
@@ -501,7 +501,6 @@ return {
 			line = 13,
 			order = 20,
 			tag = 1,
-			rewardfish = "奖金鱼",
 			icon = "bk_fish_14",
 			name = "黄金海龟",
 			scale = 1,
@@ -512,7 +511,6 @@ return {
 			line = 14,
 			order = 18,
 			tag = 1,
-			rewardfish = "奖金鱼",
 			icon = "bk_fish_15",
 			name = "黄金灯笼鱼",
 			scale = 1,
@@ -523,7 +521,6 @@ return {
 			line = 15,
 			order = 16,
 			tag = 1,
-			rewardfish = "奖金鱼",
 			icon = "bk_fish_16",
 			name = "黄金魔鬼鱼",
 			scale = 1,
@@ -534,7 +531,6 @@ return {
 			line = 16,
 			order = 14,
 			tag = 1,
-			rewardfish = "奖金鱼",
 			icon = "bk_fish_17",
 			name = "黄金大白鲨",
 			scale = 1,
@@ -545,7 +541,6 @@ return {
 			line = 17,
 			order = 10,
 			tag = 1,
-			rewardfish = "奖金鱼",
 			icon = "bk_fish_18",
 			name = "黄金锤头鲨",
 			scale = 1,
@@ -656,7 +651,6 @@ return {
 			line = 28,
 			order = 12,
 			tag = 1,
-			rewardfish = "奖金鱼",
 			icon = "bk_icon_ppy",
 			name = "胖胖鱼",
 			scale = 1,
@@ -713,6 +707,16 @@ return {
 			name = "超级原子弹",
 			scale = 0.800000,
 			tips = "多颗原子弹爆炸，毁天灭地，却无辐射残留。",
+		},
+		[34]=
+		{
+			line = 34,
+			order = 35,
+			tag = 2,
+			icon = "by_iocn_hfy_h",
+			name = "话费鱼",
+			scale = 0.800000,
+			tips = "背负话费的特殊鱼类，击杀后有概率获得话费碎片",
 		},
 	},
 }
