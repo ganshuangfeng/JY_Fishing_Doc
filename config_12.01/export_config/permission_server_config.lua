@@ -1723,6 +1723,12 @@ return {
 			name = "龙王争霸  V1",
 			condi = 8,
 		},
+		xyxxl_level=
+		{
+			key = "xyxxl_level",
+			name = "西游消消乐  V1orLV9",
+			condi = 340,
+		},
 		gzyl_newplayer=
 		{
 			key = "gzyl_newplayer",
@@ -14542,6 +14548,66 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是新玩家",
+		},
+		[855]=
+		{
+			no = 855,
+			id = 340,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[856]=
+		{
+			no = 856,
+			id = 340,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 5,
+			group = 1,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[857]=
+		{
+			no = 857,
+			id = 340,
+			var = "player_level",
+			value = 9,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv11开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[858]=
+		{
+			no = 858,
+			id = 340,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 5,
+			group = 2,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[859]=
+		{
+			no = 859,
+			id = 340,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[860]=
+		{
+			no = 860,
+			id = 340,
+			var = "share_condition",
+			value = "3dby_cjj",
+			judge = 2,
+			group = 4,
+			error_desc = "是冲金鸡玩家才可游戏",
 		},
 	},
 	share_condition=
