@@ -8,7 +8,7 @@ return {
 			info = "金币x10000",
 			vip = 1,
 			vipinfo = "金币x20000",
-			vip_desc = "VIP1双倍",
+			vip_desc = "v1双倍",
 			key = "signin_cpl",
 		},
 		[2]=
@@ -25,7 +25,7 @@ return {
 			info = "金币x20000",
 			vip = 2,
 			vipinfo = "金币x40000",
-			vip_desc = "VIP2三倍",
+			vip_desc = "v2三倍",
 			key = "signin_cpl",
 		},
 		[4]=
@@ -49,7 +49,7 @@ return {
 			img = "ty_icon_jb_50y",
 			info = "金币x35000",
 			vip = 3,
-			vip_desc = "VIP3三倍",
+			vip_desc = "v3三倍",
 			key = "signin_cpl",
 		},
 		[7]=
@@ -58,7 +58,7 @@ return {
 			img = "ty_icon_jb_198y",
 			info = "金币x50000",
 			vip = 5,
-			vip_desc = "VIP5三倍",
+			vip_desc = "v5三倍",
 			key = "signin_cpl",
 		},
 		[8]=
@@ -68,7 +68,7 @@ return {
 			info = "金币x10000",
 			vip = 1,
 			vipinfo = "金币x20000",
-			vip_desc = "VIP1双倍",
+			vip_desc = "v1双倍",
 			key = "signin_notcpl",
 		},
 		[9]=
@@ -85,7 +85,7 @@ return {
 			info = "金币x20000",
 			vip = 2,
 			vipinfo = "金币x40000",
-			vip_desc = "VIP2双倍",
+			vip_desc = "v2双倍",
 			key = "signin_notcpl",
 		},
 		[11]=
@@ -102,7 +102,7 @@ return {
 			info = "金币x30000",
 			vip = 3,
 			vipinfo = "金币x60000",
-			vip_desc = "VIP3双倍",
+			vip_desc = "v3双倍",
 			key = "signin_notcpl",
 		},
 		[13]=

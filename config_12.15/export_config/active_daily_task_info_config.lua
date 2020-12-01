@@ -421,6 +421,7 @@ return {
 			id = 1,
 			active = 30,
 			award_tip = "1500鱼币，锁定*1",
+			vip = 1,
 			vip_desc = "v1三倍",
 		},
 		[2]=
@@ -428,6 +429,7 @@ return {
 			id = 2,
 			active = 60,
 			award_tip = "3000鱼币，召唤*1",
+			vip = 2,
 			vip_desc = "v2三倍",
 		},
 		[3]=
@@ -441,6 +443,7 @@ return {
 			id = 4,
 			active = 120,
 			award_tip = "3000鱼币，3000金币",
+			vip = 3,
 			vip_desc = "v3三倍",
 		},
 		[5]=
@@ -448,6 +451,7 @@ return {
 			id = 5,
 			active = 150,
 			award_tip = "2万金币，锁定*1",
+			vip = 5,
 			vip_desc = "v5三倍",
 		},
 	},
