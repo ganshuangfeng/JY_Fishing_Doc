@@ -10414,7 +10414,6 @@ return {
 			end_time = 2552233600,
 			wx_pay = 1,
 			zfb_pay = 1,
-			tag = "热销",
 		},
 		[425]=
 		{
@@ -10457,7 +10456,6 @@ return {
 			end_time = 2552233600,
 			wx_pay = 1,
 			zfb_pay = 1,
-			tag = "热销",
 		},
 		[427]=
 		{
