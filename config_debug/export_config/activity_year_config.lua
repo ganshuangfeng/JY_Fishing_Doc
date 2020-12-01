@@ -331,7 +331,7 @@ return {
 		{
 			id = 18,
 			ID = 18,
-			title = "火鸡换好礼",
+			title = "火鸡换豪礼",
 			noCloseUI = 0,
 			order = 1,
 			key = "act_036_hjhhl",
