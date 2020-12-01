@@ -2935,5 +2935,14 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[300]=
+		{
+			id = 300,
+			key = "act_038_by_and_cjj_conduct",
+			lua = "Act_038_BY_AND_CJJ_CONDUCTManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
