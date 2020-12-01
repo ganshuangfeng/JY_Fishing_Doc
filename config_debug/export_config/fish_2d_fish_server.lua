@@ -1774,8 +1774,8 @@ return {
 			ID = 188,
 			fish_type = 1,
 			fish_form = {162,},
-			life = 60,
-			rate = 60,
+			life = 75,
+			rate = 75,
 			gd_award = 0,
 		},
 		[189]=
@@ -1783,8 +1783,8 @@ return {
 			ID = 189,
 			fish_type = 1,
 			fish_form = {163,},
-			life = 60,
-			rate = 60,
+			life = 150,
+			rate = 150,
 			gd_award = 0,
 		},
 		[190]=
@@ -1792,42 +1792,6 @@ return {
 			ID = 190,
 			fish_type = 1,
 			fish_form = {164,},
-			life = 60,
-			rate = 60,
-			gd_award = 0,
-		},
-		[191]=
-		{
-			ID = 191,
-			fish_type = 1,
-			fish_form = {165,},
-			life = 60,
-			rate = 60,
-			gd_award = 0,
-		},
-		[192]=
-		{
-			ID = 192,
-			fish_type = 1,
-			fish_form = {166,},
-			life = 75,
-			rate = 75,
-			gd_award = 0,
-		},
-		[193]=
-		{
-			ID = 193,
-			fish_type = 1,
-			fish_form = {167,},
-			life = 150,
-			rate = 150,
-			gd_award = 0,
-		},
-		[194]=
-		{
-			ID = 194,
-			fish_type = 1,
-			fish_form = {168,},
 			life = 250,
 			rate = 250,
 			gd_award = 0,
@@ -4232,66 +4196,6 @@ return {
 		[162]=
 		{
 			id = 162,
-			base_id = 22,
-			act_id = 38,
-			life = 60,
-			shoot = 0.016667,
-			act_type = "activity",
-			rate = 60,
-			dead_mode = 1,
-			gd_award = 0,
-			ranking_rate = 60,
-			ranking_show_rate = 1,
-			broadcast = 0,
-		},
-		[163]=
-		{
-			id = 163,
-			base_id = 23,
-			act_id = 38,
-			life = 60,
-			shoot = 0.016667,
-			act_type = "activity",
-			rate = 60,
-			dead_mode = 1,
-			gd_award = 0,
-			ranking_rate = 60,
-			ranking_show_rate = 1,
-			broadcast = 0,
-		},
-		[164]=
-		{
-			id = 164,
-			base_id = 24,
-			act_id = 38,
-			life = 60,
-			shoot = 0.016667,
-			act_type = "activity",
-			rate = 60,
-			dead_mode = 1,
-			gd_award = 0,
-			ranking_rate = 60,
-			ranking_show_rate = 1,
-			broadcast = 0,
-		},
-		[165]=
-		{
-			id = 165,
-			base_id = 25,
-			act_id = 38,
-			life = 60,
-			shoot = 0.016667,
-			act_type = "activity",
-			rate = 60,
-			dead_mode = 1,
-			gd_award = 0,
-			ranking_rate = 60,
-			ranking_show_rate = 1,
-			broadcast = 0,
-		},
-		[166]=
-		{
-			id = 166,
 			base_id = 32,
 			act_id = 35,
 			life = 75,
@@ -4304,9 +4208,9 @@ return {
 			ranking_show_rate = 1,
 			broadcast = 0,
 		},
-		[167]=
+		[163]=
 		{
-			id = 167,
+			id = 163,
 			base_id = 32,
 			act_id = 36,
 			life = 150,
@@ -4319,9 +4223,9 @@ return {
 			ranking_show_rate = 1,
 			broadcast = 0,
 		},
-		[168]=
+		[164]=
 		{
-			id = 168,
+			id = 164,
 			base_id = 32,
 			act_id = 37,
 			life = 250,
