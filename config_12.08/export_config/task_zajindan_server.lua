@@ -21088,102 +21088,102 @@ return {
 		{
 			id = 399,
 			condition_id = 258,
-			condition_name = "bet_spend",
-			condition_value = 5000000,
-			judge_type = 3,
+			condition_name = "kaijiang_type",
+			condition_value = 2,
+			judge_type = 2,
 		},
 		[400]=
 		{
 			id = 400,
-			condition_id = 259,
-			condition_name = "base_fish_id",
-			condition_value = 20,
-			judge_type = 2,
+			condition_id = 258,
+			condition_name = "bet_spend",
+			condition_value = 5000000,
+			judge_type = 3,
 		},
 		[401]=
 		{
 			id = 401,
 			condition_id = 259,
-			condition_name = "gun_rate",
-			condition_value = 100000,
-			judge_type = 3,
+			condition_name = "base_fish_id",
+			condition_value = 20,
+			judge_type = 2,
 		},
 		[402]=
 		{
 			id = 402,
-			condition_id = 260,
-			condition_name = "bet_spend",
-			condition_value = 480000,
+			condition_id = 259,
+			condition_name = "gun_rate",
+			condition_value = 100000,
 			judge_type = 3,
 		},
 		[403]=
 		{
 			id = 403,
-			condition_id = 261,
+			condition_id = 260,
 			condition_name = "bet_spend",
-			condition_value = 960000,
+			condition_value = 480000,
 			judge_type = 3,
 		},
 		[404]=
 		{
 			id = 404,
-			condition_id = 262,
-			condition_name = "hammer_id",
-			condition_value = 10,
+			condition_id = 261,
+			condition_name = "bet_spend",
+			condition_value = 960000,
 			judge_type = 3,
 		},
 		[405]=
 		{
 			id = 405,
+			condition_id = 262,
+			condition_name = "hammer_id",
+			condition_value = 10,
+			judge_type = 3,
+		},
+		[406]=
+		{
+			id = 406,
 			condition_id = 263,
 			condition_name = "asset_type",
 			condition_value = "jing_bi",
 			judge_type = 2,
 		},
-		[406]=
+		[407]=
 		{
-			id = 406,
+			id = 407,
 			condition_id = 264,
 			condition_name = "gift_id",
 			condition_value = {110,10045},
 			judge_type = 2,
 		},
-		[407]=
+		[408]=
 		{
-			id = 407,
+			id = 408,
 			condition_id = 265,
 			condition_name = "gift_id",
 			condition_value = {108,10044},
 			judge_type = 2,
 		},
-		[408]=
+		[409]=
 		{
-			id = 408,
+			id = 409,
 			condition_id = 266,
 			condition_name = "gift_id",
 			condition_value = {6,89},
 			judge_type = 2,
 		},
-		[409]=
+		[410]=
 		{
-			id = 409,
+			id = 410,
 			condition_id = 267,
 			condition_name = "gift_id",
 			condition_value = {111,10189},
 			judge_type = 2,
 		},
-		[410]=
-		{
-			id = 410,
-			condition_id = 268,
-			condition_name = "gift_id",
-			condition_value = {5,88},
-			judge_type = 2,
-		},
 		[411]=
 		{
 			id = 411,
-			condition_id = 269,
+			condition_id = 268,
 			condition_name = "gift_id",
 			condition_value = {5,88},
 			judge_type = 2,
@@ -21191,503 +21191,503 @@ return {
 		[412]=
 		{
 			id = 412,
-			condition_id = 270,
+			condition_id = 269,
 			condition_name = "gift_id",
-			condition_value = {4,87},
+			condition_value = {5,88},
 			judge_type = 2,
 		},
 		[413]=
 		{
 			id = 413,
-			condition_id = 271,
+			condition_id = 270,
 			condition_name = "gift_id",
-			condition_value = {3,86},
+			condition_value = {4,87},
 			judge_type = 2,
 		},
 		[414]=
 		{
 			id = 414,
-			condition_id = 272,
+			condition_id = 271,
 			condition_name = "gift_id",
-			condition_value = {2,85},
+			condition_value = {3,86},
 			judge_type = 2,
 		},
 		[415]=
 		{
 			id = 415,
-			condition_id = 273,
-			condition_name = "base_fish_id",
-			condition_value = {20,22,23,24,25,26,27},
+			condition_id = 272,
+			condition_name = "gift_id",
+			condition_value = {2,85},
 			judge_type = 2,
 		},
 		[416]=
 		{
 			id = 416,
 			condition_id = 273,
-			condition_name = "gun_rate",
-			condition_value = 500,
-			judge_type = 3,
+			condition_name = "base_fish_id",
+			condition_value = {20,22,23,24,25,26,27},
+			judge_type = 2,
 		},
 		[417]=
 		{
 			id = 417,
-			condition_id = 274,
-			condition_name = "base_fish_id",
-			condition_value = {21,28,29,30,31,32,33,34,35,36},
-			judge_type = 2,
+			condition_id = 273,
+			condition_name = "gun_rate",
+			condition_value = 500,
+			judge_type = 3,
 		},
 		[418]=
 		{
 			id = 418,
 			condition_id = 274,
-			condition_name = "gun_rate",
-			condition_value = 500,
-			judge_type = 3,
+			condition_name = "base_fish_id",
+			condition_value = {21,28,29,30,31,32,33,34,35,36},
+			judge_type = 2,
 		},
 		[419]=
 		{
 			id = 419,
-			condition_id = 275,
-			condition_name = "base_fish_id",
-			condition_value = 33,
-			judge_type = 2,
+			condition_id = 274,
+			condition_name = "gun_rate",
+			condition_value = 500,
+			judge_type = 3,
 		},
 		[420]=
 		{
 			id = 420,
 			condition_id = 275,
-			condition_name = "gun_rate",
-			condition_value = 5000,
-			judge_type = 3,
+			condition_name = "base_fish_id",
+			condition_value = 33,
+			judge_type = 2,
 		},
 		[421]=
 		{
 			id = 421,
-			condition_id = 276,
-			condition_name = "base_fish_id",
-			condition_value = 47,
-			judge_type = 2,
+			condition_id = 275,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
 		},
 		[422]=
 		{
 			id = 422,
 			condition_id = 276,
-			condition_name = "gun_rate",
-			condition_value = 5000,
-			judge_type = 3,
+			condition_name = "base_fish_id",
+			condition_value = 47,
+			judge_type = 2,
 		},
 		[423]=
 		{
 			id = 423,
+			condition_id = 276,
+			condition_name = "gun_rate",
+			condition_value = 5000,
+			judge_type = 3,
+		},
+		[424]=
+		{
+			id = 424,
 			condition_id = 277,
 			condition_name = "task_id",
 			condition_value = {21315,21316,21317,21318},
 			judge_type = 2,
 		},
-		[424]=
-		{
-			id = 424,
-			condition_id = 278,
-			condition_name = "bet_spend",
-			condition_value = 240000,
-			judge_type = 3,
-		},
 		[425]=
 		{
 			id = 425,
-			condition_id = 279,
-			condition_name = "hero_num",
-			condition_value = 1,
+			condition_id = 278,
+			condition_name = "bet_spend",
+			condition_value = 240000,
 			judge_type = 3,
 		},
 		[426]=
 		{
 			id = 426,
 			condition_id = 279,
-			condition_name = "bet_spend",
-			condition_value = 240000,
+			condition_name = "hero_num",
+			condition_value = 1,
 			judge_type = 3,
 		},
 		[427]=
 		{
 			id = 427,
+			condition_id = 279,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
+		},
+		[428]=
+		{
+			id = 428,
 			condition_id = 280,
 			condition_name = "act_type",
 			condition_value = 9,
 			judge_type = 2,
 		},
-		[428]=
+		[429]=
 		{
-			id = 428,
+			id = 429,
 			condition_id = 281,
 			condition_name = "base_fish_id",
 			condition_value = 51,
 			judge_type = 2,
 		},
-		[429]=
+		[430]=
 		{
-			id = 429,
+			id = 430,
 			condition_id = 282,
 			condition_name = "bet_spend",
 			condition_value = 240000,
 			judge_type = 3,
 		},
-		[430]=
+		[431]=
 		{
-			id = 430,
+			id = 431,
 			condition_id = 283,
 			condition_name = "base_fish_id",
 			condition_value = 11,
 			judge_type = 2,
 		},
-		[431]=
+		[432]=
 		{
-			id = 431,
+			id = 432,
 			condition_id = 284,
 			condition_name = "gift_id",
 			condition_value = {1,2,3,4,5,6,22,24,25,26,27,84,85,86,87,88,89,90,101,102,103,104,105,106,107,108,109,110,10002,10003,10004,10044,10045,10069,10070,10071,10072,10073,10242},
 			judge_type = 2,
 		},
-		[432]=
+		[433]=
 		{
-			id = 432,
+			id = 433,
 			condition_id = 285,
 			condition_name = "bet_spend",
 			condition_value = 30000,
 			judge_type = 3,
 		},
-		[433]=
+		[434]=
 		{
-			id = 433,
+			id = 434,
 			condition_id = 286,
 			condition_name = "box_exchange_type",
 			condition_value = "box_exchange_37",
 			judge_type = 2,
 		},
-		[434]=
+		[435]=
 		{
-			id = 434,
+			id = 435,
 			condition_id = 287,
 			condition_name = "box_exchange_type",
 			condition_value = "box_exchange_38",
 			judge_type = 2,
 		},
-		[435]=
+		[436]=
 		{
-			id = 435,
+			id = 436,
 			condition_id = 288,
 			condition_name = "box_exchange_type",
 			condition_value = "box_exchange_39",
 			judge_type = 2,
 		},
-		[436]=
+		[437]=
 		{
-			id = 436,
+			id = 437,
 			condition_id = 289,
 			condition_name = "gift_id",
 			condition_value = {10281,10282},
 			judge_type = 2,
 		},
-		[437]=
+		[438]=
 		{
-			id = 437,
+			id = 438,
 			condition_id = 290,
 			condition_name = "bet_spend",
 			condition_value = 5000,
 			judge_type = 3,
 		},
-		[438]=
+		[439]=
 		{
-			id = 438,
+			id = 439,
 			condition_id = 291,
 			condition_name = "bet_spend",
 			condition_value = 10000,
 			judge_type = 3,
 		},
-		[439]=
+		[440]=
 		{
-			id = 439,
+			id = 440,
 			condition_id = 292,
 			condition_name = "bet_spend",
 			condition_value = 30000,
 			judge_type = 3,
 		},
-		[440]=
+		[441]=
 		{
-			id = 440,
+			id = 441,
 			condition_id = 293,
 			condition_name = "bet_spend",
 			condition_value = 60000,
 			judge_type = 3,
 		},
-		[441]=
+		[442]=
 		{
-			id = 441,
+			id = 442,
 			condition_id = 294,
 			condition_name = "bet_spend",
 			condition_value = 120000,
 			judge_type = 3,
 		},
-		[442]=
+		[443]=
 		{
-			id = 442,
+			id = 443,
 			condition_id = 295,
 			condition_name = "gift_id",
 			condition_value = 1,
 			judge_type = 2,
 		},
-		[443]=
+		[444]=
 		{
-			id = 443,
+			id = 444,
 			condition_id = 296,
 			condition_name = "gift_id",
 			condition_value = 2,
 			judge_type = 2,
 		},
-		[444]=
+		[445]=
 		{
-			id = 444,
+			id = 445,
 			condition_id = 297,
 			condition_name = "gift_id",
 			condition_value = 3,
 			judge_type = 2,
 		},
-		[445]=
+		[446]=
 		{
-			id = 445,
+			id = 446,
 			condition_id = 298,
 			condition_name = "gift_id",
 			condition_value = 4,
 			judge_type = 2,
 		},
-		[446]=
+		[447]=
 		{
-			id = 446,
+			id = 447,
 			condition_id = 299,
 			condition_name = "gift_id",
 			condition_value = 5,
 			judge_type = 2,
 		},
-		[447]=
+		[448]=
 		{
-			id = 447,
+			id = 448,
 			condition_id = 300,
 			condition_name = "gift_id",
 			condition_value = 111,
 			judge_type = 2,
 		},
-		[448]=
+		[449]=
 		{
-			id = 448,
+			id = 449,
 			condition_id = 301,
 			condition_name = "gift_id",
 			condition_value = 6,
 			judge_type = 2,
 		},
-		[449]=
+		[450]=
 		{
-			id = 449,
+			id = 450,
 			condition_id = 302,
 			condition_name = "gift_id",
 			condition_value = 108,
 			judge_type = 2,
 		},
-		[450]=
-		{
-			id = 450,
-			condition_id = 303,
-			condition_name = "gift_id",
-			condition_value = 110,
-			judge_type = 2,
-		},
 		[451]=
 		{
 			id = 451,
-			condition_id = 304,
-			condition_name = "task_id",
-			condition_value = {21315,21316,21317,21318,1000046,1000047,1000048,1000052,1000053,1000054,1000055,1000056,1000057,1000058,1000059,1000060},
+			condition_id = 303,
+			condition_name = "gift_id",
+			condition_value = 110,
 			judge_type = 2,
 		},
 		[452]=
 		{
 			id = 452,
 			condition_id = 304,
-			condition_name = "asset_type",
-			condition_value = "shop_gold_sum",
+			condition_name = "task_id",
+			condition_value = {21315,21316,21317,21318,1000046,1000047,1000048,1000052,1000053,1000054,1000055,1000056,1000057,1000058,1000059,1000060},
 			judge_type = 2,
 		},
 		[453]=
 		{
 			id = 453,
-			condition_id = 305,
-			condition_name = "gift_id",
-			condition_value = {1,2,85,3,86,4,87,5,88,6,89,107,109,108,10044,110,10045,101,90,102,103,104,105,106,22,23,24,25,26,27,34,111,10189},
+			condition_id = 304,
+			condition_name = "asset_type",
+			condition_value = "shop_gold_sum",
 			judge_type = 2,
 		},
 		[454]=
 		{
 			id = 454,
-			condition_id = 306,
+			condition_id = 305,
 			condition_name = "gift_id",
-			condition_value = 1,
+			condition_value = {1,2,85,3,86,4,87,5,88,6,89,107,109,108,10044,110,10045,101,90,102,103,104,105,106,22,23,24,25,26,27,34,111,10189},
 			judge_type = 2,
 		},
 		[455]=
 		{
 			id = 455,
-			condition_id = 307,
+			condition_id = 306,
 			condition_name = "gift_id",
-			condition_value = 2,
+			condition_value = 1,
 			judge_type = 2,
 		},
 		[456]=
 		{
 			id = 456,
-			condition_id = 308,
+			condition_id = 307,
 			condition_name = "gift_id",
-			condition_value = 3,
+			condition_value = 2,
 			judge_type = 2,
 		},
 		[457]=
 		{
 			id = 457,
-			condition_id = 309,
+			condition_id = 308,
 			condition_name = "gift_id",
-			condition_value = 4,
+			condition_value = 3,
 			judge_type = 2,
 		},
 		[458]=
 		{
 			id = 458,
-			condition_id = 310,
+			condition_id = 309,
 			condition_name = "gift_id",
-			condition_value = 5,
+			condition_value = 4,
 			judge_type = 2,
 		},
 		[459]=
 		{
 			id = 459,
-			condition_id = 311,
+			condition_id = 310,
 			condition_name = "gift_id",
-			condition_value = 111,
+			condition_value = 5,
 			judge_type = 2,
 		},
 		[460]=
 		{
 			id = 460,
-			condition_id = 312,
+			condition_id = 311,
 			condition_name = "gift_id",
-			condition_value = 6,
+			condition_value = 111,
 			judge_type = 2,
 		},
 		[461]=
 		{
 			id = 461,
-			condition_id = 313,
+			condition_id = 312,
 			condition_name = "gift_id",
-			condition_value = 108,
+			condition_value = 6,
 			judge_type = 2,
 		},
 		[462]=
 		{
 			id = 462,
-			condition_id = 314,
+			condition_id = 313,
 			condition_name = "gift_id",
-			condition_value = 110,
+			condition_value = 108,
 			judge_type = 2,
 		},
 		[463]=
 		{
 			id = 463,
-			condition_id = 315,
-			condition_name = "fish_game_id",
-			condition_value = 1,
+			condition_id = 314,
+			condition_name = "gift_id",
+			condition_value = 110,
 			judge_type = 2,
 		},
 		[464]=
 		{
 			id = 464,
-			condition_id = 316,
+			condition_id = 315,
 			condition_name = "fish_game_id",
-			condition_value = 2,
+			condition_value = 1,
 			judge_type = 2,
 		},
 		[465]=
 		{
 			id = 465,
-			condition_id = 317,
+			condition_id = 316,
 			condition_name = "fish_game_id",
-			condition_value = 3,
+			condition_value = 2,
 			judge_type = 2,
 		},
 		[466]=
 		{
 			id = 466,
-			condition_id = 318,
+			condition_id = 317,
 			condition_name = "fish_game_id",
-			condition_value = 2,
+			condition_value = 3,
 			judge_type = 2,
 		},
 		[467]=
 		{
 			id = 467,
-			condition_id = 319,
+			condition_id = 318,
 			condition_name = "fish_game_id",
-			condition_value = 3,
+			condition_value = 2,
 			judge_type = 2,
 		},
 		[468]=
 		{
 			id = 468,
-			condition_id = 320,
+			condition_id = 319,
 			condition_name = "fish_game_id",
-			condition_value = 4,
+			condition_value = 3,
 			judge_type = 2,
 		},
 		[469]=
 		{
 			id = 469,
-			condition_id = 321,
+			condition_id = 320,
 			condition_name = "fish_game_id",
-			condition_value = 5,
+			condition_value = 4,
 			judge_type = 2,
 		},
 		[470]=
 		{
 			id = 470,
-			condition_id = 322,
+			condition_id = 321,
 			condition_name = "fish_game_id",
-			condition_value = 1,
+			condition_value = 5,
 			judge_type = 2,
 		},
 		[471]=
 		{
 			id = 471,
-			condition_id = 323,
+			condition_id = 322,
 			condition_name = "fish_game_id",
-			condition_value = 2,
+			condition_value = 1,
 			judge_type = 2,
 		},
 		[472]=
 		{
 			id = 472,
-			condition_id = 324,
+			condition_id = 323,
 			condition_name = "fish_game_id",
-			condition_value = 3,
+			condition_value = 2,
 			judge_type = 2,
 		},
 		[473]=
 		{
 			id = 473,
-			condition_id = 325,
-			condition_name = "bet_spend",
-			condition_value = 10000,
-			judge_type = 3,
+			condition_id = 324,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
 		},
 		[474]=
 		{
 			id = 474,
-			condition_id = 326,
+			condition_id = 325,
 			condition_name = "bet_spend",
 			condition_value = 10000,
 			judge_type = 3,
@@ -21696,46 +21696,46 @@ return {
 		{
 			id = 475,
 			condition_id = 326,
-			condition_name = "hero_num",
-			condition_value = 1,
+			condition_name = "bet_spend",
+			condition_value = 10000,
 			judge_type = 3,
 		},
 		[476]=
 		{
 			id = 476,
-			condition_id = 327,
-			condition_name = "bet_spend",
-			condition_value = 10000,
+			condition_id = 326,
+			condition_name = "hero_num",
+			condition_value = 1,
 			judge_type = 3,
 		},
 		[477]=
 		{
 			id = 477,
-			condition_id = 328,
-			condition_name = "award_value",
-			condition_value = 1,
+			condition_id = 327,
+			condition_name = "bet_spend",
+			condition_value = 10000,
 			judge_type = 3,
 		},
 		[478]=
 		{
 			id = 478,
 			condition_id = 328,
-			condition_name = "award_id",
-			condition_value = {2,3},
-			judge_type = 2,
-		},
-		[479]=
-		{
-			id = 479,
-			condition_id = 329,
 			condition_name = "award_value",
 			condition_value = 1,
 			judge_type = 3,
 		},
+		[479]=
+		{
+			id = 479,
+			condition_id = 328,
+			condition_name = "award_id",
+			condition_value = {2,3},
+			judge_type = 2,
+		},
 		[480]=
 		{
 			id = 480,
-			condition_id = 330,
+			condition_id = 329,
 			condition_name = "award_value",
 			condition_value = 1,
 			judge_type = 3,
@@ -21743,95 +21743,95 @@ return {
 		[481]=
 		{
 			id = 481,
+			condition_id = 330,
+			condition_name = "award_value",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[482]=
+		{
+			id = 482,
 			condition_id = 331,
 			condition_name = "kaijiang_type",
 			condition_value = 2,
 			judge_type = 2,
 		},
-		[482]=
+		[483]=
 		{
-			id = 482,
+			id = 483,
 			condition_id = 332,
 			condition_name = "gift_id",
 			condition_value = {10317,10318,10319,10320,10321,10322,10323},
 			judge_type = 2,
 		},
-		[483]=
+		[484]=
 		{
-			id = 483,
+			id = 484,
 			condition_id = 333,
 			condition_name = "word_len",
 			condition_value = 20,
 			judge_type = 3,
 		},
-		[484]=
+		[485]=
 		{
-			id = 484,
+			id = 485,
 			condition_id = 334,
 			condition_name = "gift_id",
 			condition_value = {10350,10351,10352,10353,10354,10355,10356},
 			judge_type = 2,
 		},
-		[485]=
+		[486]=
 		{
-			id = 485,
+			id = 486,
 			condition_id = 335,
 			condition_name = "award_value",
 			condition_value = 1,
 			judge_type = 3,
 		},
-		[486]=
+		[487]=
 		{
-			id = 486,
+			id = 487,
 			condition_id = 336,
 			condition_name = "award_id",
 			condition_value = {2,3},
 			judge_type = 2,
 		},
-		[487]=
+		[488]=
 		{
-			id = 487,
+			id = 488,
 			condition_id = 337,
 			condition_name = "award_value",
 			condition_value = 1,
 			judge_type = 3,
 		},
-		[488]=
+		[489]=
 		{
-			id = 488,
+			id = 489,
 			condition_id = 338,
 			condition_name = "sky_girl_type",
 			condition_value = {1,2,3},
 			judge_type = 2,
 		},
-		[489]=
-		{
-			id = 489,
-			condition_id = 338,
-			condition_name = "bet_spend",
-			condition_value = 10000,
-			judge_type = 3,
-		},
 		[490]=
 		{
 			id = 490,
-			condition_id = 339,
-			condition_name = "hero_num",
-			condition_value = 1,
+			condition_id = 338,
+			condition_name = "bet_spend",
+			condition_value = 10000,
 			judge_type = 3,
 		},
 		[491]=
 		{
 			id = 491,
 			condition_id = 339,
-			condition_name = "bet_spend",
-			condition_value = 10000,
+			condition_name = "hero_num",
+			condition_value = 1,
 			judge_type = 3,
 		},
 		[492]=
 		{
 			id = 492,
-			condition_id = 340,
+			condition_id = 339,
 			condition_name = "bet_spend",
 			condition_value = 10000,
 			judge_type = 3,
@@ -21839,103 +21839,103 @@ return {
 		[493]=
 		{
 			id = 493,
+			condition_id = 340,
+			condition_name = "bet_spend",
+			condition_value = 10000,
+			judge_type = 3,
+		},
+		[494]=
+		{
+			id = 494,
 			condition_id = 341,
 			condition_name = "kaijiang_type",
 			condition_value = 2,
 			judge_type = 2,
 		},
-		[494]=
+		[495]=
 		{
-			id = 494,
+			id = 495,
 			condition_id = 342,
 			condition_name = "fish_prop",
 			condition_value = "prop_3d_fish_lock",
 			judge_type = 2,
 		},
-		[495]=
+		[496]=
 		{
-			id = 495,
+			id = 496,
 			condition_id = 343,
 			condition_name = "fish_prop",
 			condition_value = "prop_3d_fish_frozen",
 			judge_type = 2,
 		},
-		[496]=
+		[497]=
 		{
-			id = 496,
+			id = 497,
 			condition_id = 344,
 			condition_name = "fish_prop",
 			condition_value = "prop_3d_fish_summon_fish",
 			judge_type = 2,
 		},
-		[497]=
+		[498]=
 		{
-			id = 497,
+			id = 498,
 			condition_id = 345,
 			condition_name = "fish_prop",
 			condition_value = "prop_3d_fish_lock",
 			judge_type = 2,
 		},
-		[498]=
+		[499]=
 		{
-			id = 498,
+			id = 499,
 			condition_id = 346,
 			condition_name = "fish_prop",
 			condition_value = "prop_3d_fish_frozen",
 			judge_type = 2,
 		},
-		[499]=
+		[500]=
 		{
-			id = 499,
+			id = 500,
 			condition_id = 347,
 			condition_name = "base_fish_id",
 			condition_value = 47,
 			judge_type = 2,
 		},
-		[500]=
+		[501]=
 		{
-			id = 500,
+			id = 501,
 			condition_id = 348,
 			condition_name = "base_fish_id",
 			condition_value = 48,
 			judge_type = 2,
 		},
-		[501]=
+		[502]=
 		{
-			id = 501,
+			id = 502,
 			condition_id = 349,
 			condition_name = "task_id",
 			condition_value = {21315,21316,21317,21318},
 			judge_type = 2,
 		},
-		[502]=
-		{
-			id = 502,
-			condition_id = 350,
-			condition_name = "bet_spend",
-			condition_value = 960000,
-			judge_type = 3,
-		},
 		[503]=
 		{
 			id = 503,
-			condition_id = 351,
-			condition_name = "hero_num",
-			condition_value = 1,
+			condition_id = 350,
+			condition_name = "bet_spend",
+			condition_value = 960000,
 			judge_type = 3,
 		},
 		[504]=
 		{
 			id = 504,
 			condition_id = 351,
-			condition_name = "bet_spend",
-			condition_value = 960000,
+			condition_name = "hero_num",
+			condition_value = 1,
 			judge_type = 3,
 		},
 		[505]=
 		{
 			id = 505,
-			condition_id = 352,
+			condition_id = 351,
 			condition_name = "bet_spend",
 			condition_value = 960000,
 			judge_type = 3,
@@ -21943,23 +21943,23 @@ return {
 		[506]=
 		{
 			id = 506,
-			condition_id = 353,
-			condition_name = "hero_num",
-			condition_value = 1,
+			condition_id = 352,
+			condition_name = "bet_spend",
+			condition_value = 960000,
 			judge_type = 3,
 		},
 		[507]=
 		{
 			id = 507,
 			condition_id = 353,
-			condition_name = "bet_spend",
-			condition_value = 960000,
+			condition_name = "hero_num",
+			condition_value = 1,
 			judge_type = 3,
 		},
 		[508]=
 		{
 			id = 508,
-			condition_id = 354,
+			condition_id = 353,
 			condition_name = "bet_spend",
 			condition_value = 960000,
 			judge_type = 3,
@@ -21967,86 +21967,94 @@ return {
 		[509]=
 		{
 			id = 509,
+			condition_id = 354,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[510]=
+		{
+			id = 510,
 			condition_id = 355,
 			condition_name = "gift_id",
 			condition_value = {10384,10385,10386,10387,10388,10389,10390,10391},
 			judge_type = 2,
 		},
-		[510]=
+		[511]=
 		{
-			id = 510,
+			id = 511,
 			condition_id = 356,
 			condition_name = "gift_id",
 			condition_value = 2,
 			judge_type = 2,
 		},
-		[511]=
+		[512]=
 		{
-			id = 511,
+			id = 512,
 			condition_id = 357,
 			condition_name = "gift_id",
 			condition_value = 3,
 			judge_type = 2,
 		},
-		[512]=
+		[513]=
 		{
-			id = 512,
+			id = 513,
 			condition_id = 358,
 			condition_name = "gift_id",
 			condition_value = 4,
 			judge_type = 2,
 		},
-		[513]=
+		[514]=
 		{
-			id = 513,
+			id = 514,
 			condition_id = 359,
 			condition_name = "gift_id",
 			condition_value = 5,
 			judge_type = 2,
 		},
-		[514]=
+		[515]=
 		{
-			id = 514,
+			id = 515,
 			condition_id = 360,
 			condition_name = "gift_id",
 			condition_value = 111,
 			judge_type = 2,
 		},
-		[515]=
+		[516]=
 		{
-			id = 515,
+			id = 516,
 			condition_id = 361,
 			condition_name = "gift_id",
 			condition_value = 6,
 			judge_type = 2,
 		},
-		[516]=
+		[517]=
 		{
-			id = 516,
+			id = 517,
 			condition_id = 362,
 			condition_name = "gift_id",
 			condition_value = 108,
 			judge_type = 2,
 		},
-		[517]=
+		[518]=
 		{
-			id = 517,
+			id = 518,
 			condition_id = 363,
 			condition_name = "gift_id",
 			condition_value = 110,
 			judge_type = 2,
 		},
-		[518]=
+		[519]=
 		{
-			id = 518,
+			id = 519,
 			condition_id = 364,
 			condition_name = "gift_id",
 			condition_value = "shop_gold_sum",
 			judge_type = 2,
 		},
-		[519]=
+		[520]=
 		{
-			id = 519,
+			id = 520,
 			condition_id = 365,
 			condition_name = "gift_id",
 			condition_value = {1,2,85,3,86,4,87,5,88,6,89,107,109,108,10044,110,10045,101,90,102,103,104,105,106,22,23,24,25,26,27,34,111,10189},
