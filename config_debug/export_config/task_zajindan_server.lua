@@ -33072,7 +33072,7 @@ return {
 		{
 			id = 1276,
 			award_id = 864,
-			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_type = "_common_rank_s12_12_lhsjb_rank",
 			asset_count = 45,
 			get_weight = 1,
 		},
@@ -33088,7 +33088,7 @@ return {
 		{
 			id = 1278,
 			award_id = 865,
-			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_type = "_common_rank_s12_12_lhsjb_rank",
 			asset_count = 90,
 			get_weight = 1,
 		},
@@ -33104,7 +33104,7 @@ return {
 		{
 			id = 1280,
 			award_id = 866,
-			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_type = "_common_rank_s12_12_lhsjb_rank",
 			asset_count = 150,
 			get_weight = 1,
 		},
@@ -33120,7 +33120,7 @@ return {
 		{
 			id = 1282,
 			award_id = 867,
-			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_type = "_common_rank_s12_12_lhsjb_rank",
 			asset_count = 294,
 			get_weight = 1,
 		},
@@ -33136,7 +33136,7 @@ return {
 		{
 			id = 1284,
 			award_id = 868,
-			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_type = "_common_rank_s12_12_lhsjb_rank",
 			asset_count = 594,
 			get_weight = 1,
 		},
@@ -33152,7 +33152,7 @@ return {
 		{
 			id = 1286,
 			award_id = 869,
-			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_type = "_common_rank_s12_12_lhsjb_rank",
 			asset_count = 1494,
 			get_weight = 1,
 		},
@@ -33168,7 +33168,7 @@ return {
 		{
 			id = 1288,
 			award_id = 870,
-			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_type = "_common_rank_s12_12_lhsjb_rank",
 			asset_count = 2994,
 			get_weight = 1,
 		},
@@ -33184,7 +33184,7 @@ return {
 		{
 			id = 1290,
 			award_id = 871,
-			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_type = "_common_rank_s12_12_lhsjb_rank",
 			asset_count = 7494,
 			get_weight = 1,
 		},
@@ -33200,7 +33200,7 @@ return {
 		{
 			id = 1292,
 			award_id = 872,
-			asset_type = "_common_rank_12_12_lhsjb_rank",
+			asset_type = "_common_rank_s12_12_lhsjb_rank",
 			asset_count = 1,
 			get_weight = 1,
 		},

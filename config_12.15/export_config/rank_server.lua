@@ -270,7 +270,7 @@ return {
 		{
 			id = 20,
 			enable = 0,
-			rank_type = "12_12_lhsjb_rank",
+			rank_type = "s12_12_lhsjb_rank",
 			name = "礼盒收集榜",
 			begin_time = 1607385600,
 			end_time = 1607961599,
