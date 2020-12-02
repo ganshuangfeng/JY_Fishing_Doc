@@ -14625,15 +14625,35 @@ return {
 		{
 			no = 858,
 			id = 342,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上的用户可进行领取",
+		},
+		[859]=
+		{
+			no = 859,
+			id = 342,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 2,
 			group = 2,
 			error_desc = "是CPS渠道",
 		},
-		[859]=
+		[860]=
 		{
-			no = 859,
+			no = 860,
+			id = 342,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 2,
+			error_desc = "VIP1及以上的用户可进行领取",
+		},
+		[861]=
+		{
+			no = 861,
 			id = 342,
 			var = "share_condition",
 			value = "3dby_official",
@@ -14641,9 +14661,19 @@ return {
 			group = 3,
 			error_desc = "是官方渠道",
 		},
-		[860]=
+		[862]=
 		{
-			no = 860,
+			no = 862,
+			id = 342,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 3,
+			error_desc = "VIP1及以上的用户可进行领取",
+		},
+		[863]=
+		{
+			no = 863,
 			id = 342,
 			var = "share_condition",
 			value = "3dby_cjj",
@@ -14651,9 +14681,9 @@ return {
 			group = 4,
 			error_desc = "VIP1及以上的用户可进行领取",
 		},
-		[861]=
+		[864]=
 		{
-			no = 861,
+			no = 864,
 			id = 342,
 			var = "vip_level",
 			value = 1,
@@ -14661,45 +14691,15 @@ return {
 			group = 4,
 			error_desc = "VIP1及以上的用户可进行领取",
 		},
-		[862]=
+		[865]=
 		{
-			no = 862,
+			no = 865,
 			id = 343,
 			var = "vip_level",
 			value = 1,
 			judge = 3,
 			group = 1,
 			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
-		},
-		[863]=
-		{
-			no = 863,
-			id = 343,
-			var = "share_condition",
-			value = "3dby_cpl",
-			judge = 5,
-			group = 1,
-			error_desc = "是cpl玩家才可游戏",
-		},
-		[864]=
-		{
-			no = 864,
-			id = 343,
-			var = "player_level",
-			value = 9,
-			judge = 3,
-			group = 2,
-			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
-		},
-		[865]=
-		{
-			no = 865,
-			id = 343,
-			var = "share_condition",
-			value = "3dby_cpl",
-			judge = 5,
-			group = 2,
-			error_desc = "是cpl玩家才可游戏",
 		},
 		[866]=
 		{
@@ -14707,13 +14707,43 @@ return {
 			id = 343,
 			var = "share_condition",
 			value = "3dby_cpl",
-			judge = 2,
-			group = 3,
+			judge = 5,
+			group = 1,
 			error_desc = "是cpl玩家才可游戏",
 		},
 		[867]=
 		{
 			no = 867,
+			id = 343,
+			var = "player_level",
+			value = 9,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[868]=
+		{
+			no = 868,
+			id = 343,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 5,
+			group = 2,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[869]=
+		{
+			no = 869,
+			id = 343,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[870]=
+		{
+			no = 870,
 			id = 343,
 			var = "share_condition",
 			value = "3dby_cjj",
@@ -14721,9 +14751,9 @@ return {
 			group = 4,
 			error_desc = "是冲金鸡玩家才可游戏",
 		},
-		[868]=
+		[871]=
 		{
-			no = 868,
+			no = 871,
 			id = 344,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -14731,9 +14761,9 @@ return {
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[869]=
+		[872]=
 		{
-			no = 869,
+			no = 872,
 			id = 344,
 			var = "pay_sum",
 			value = 600,
@@ -14741,9 +14771,9 @@ return {
 			group = 1,
 			error_desc = "该档次需要充值6元以上",
 		},
-		[870]=
+		[873]=
 		{
-			no = 870,
+			no = 873,
 			id = 345,
 			var = "share_condition",
 			value = "3dby_cjj",
@@ -14751,9 +14781,9 @@ return {
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[871]=
+		[874]=
 		{
-			no = 871,
+			no = 874,
 			id = 345,
 			var = "pay_sum",
 			value = 600,
