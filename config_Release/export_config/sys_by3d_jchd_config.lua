@@ -22,5 +22,13 @@ return {
 			order = 3,
 			gotoui = {"act_035_ybwl",},
 		},
+		[4]=
+		{
+			line = 4,
+			isOnOff = 1,
+			order = 4,
+			gotoui = {"sys_act_base",},
+			condi_key = "zchd_new",
+		},
 	},
 }

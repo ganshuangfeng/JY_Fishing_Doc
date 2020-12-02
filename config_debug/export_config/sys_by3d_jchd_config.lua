@@ -30,5 +30,13 @@ return {
 			gotoui = {"sys_act_base",},
 			condi_key = "zchd_new",
 		},
+		[5]=
+		{
+			line = 5,
+			isOnOff = 1,
+			order = 5,
+			gotoui = {"act_027_jqshl",},
+			condi_key = "zchd_new",
+		},
 	},
 }

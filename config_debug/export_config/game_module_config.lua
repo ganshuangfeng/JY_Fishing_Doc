@@ -2635,9 +2635,9 @@ return {
 			key = "act_027_jqshl",
 			desc = "金秋送豪礼",
 			lua = "Act_027_JQSHLManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[270]=
 		{
@@ -2714,9 +2714,9 @@ return {
 			key = "act_030_cwlb",
 			desc = "畅玩礼包",
 			lua = "Act_030_CWLBManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[278]=
 		{
@@ -2773,9 +2773,9 @@ return {
 			key = "by3d_hd",
 			desc = "核弹",
 			lua = "BY3DHDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[284]=
 		{
@@ -2832,9 +2832,9 @@ return {
 			id = 289,
 			key = "act_034_ldfl",
 			desc = "立冬福利（小游戏）",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[290]=
 		{
@@ -2842,9 +2842,9 @@ return {
 			key = "by3d_shtx",
 			desc = "深海探险",
 			lua = "BY3DSHTXManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[291]=
 		{

@@ -294,7 +294,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "111#112#53#79#100;36;113;89;11#",
+			group_list = "111#112#53#79#100;36;113;89;93;11#",
 		},
 		[2]=
 		{
@@ -415,6 +415,15 @@ return {
 		{
 			id = 1,
 			area = "left_top",
+			group_list = "101#",
+		},
+	},
+	xxlxy_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "top",
 			group_list = "101#",
 		},
 	},

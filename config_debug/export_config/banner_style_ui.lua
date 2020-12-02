@@ -838,11 +838,10 @@ return {
 			bannerID = 74,
 			isOnOff = 1,
 			order = 100,
-			condi_key = "actp_own_task_p_027_mfflq",
 			gotoUI = {"act_027_jqshl","panel"},
 			model = "LoginUp",
-			srartTime = 1601913600,
-			endTime = 1602518399,
+			srartTime = 1606780800,
+			endTime = 1607356799,
 		},
 		[75]=
 		{

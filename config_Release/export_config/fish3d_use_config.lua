@@ -526,5 +526,56 @@ return {
 			attr_id = 9,
 			cond_key = "actp_031_xxy_show",
 		},
+		[101]=
+		{
+			id = 101,
+			fish_id = 13,
+			attr_id = 9,
+		},
+		[102]=
+		{
+			id = 102,
+			fish_id = 14,
+			attr_id = 9,
+		},
+		[103]=
+		{
+			id = 103,
+			fish_id = 15,
+			attr_id = 9,
+		},
+		[104]=
+		{
+			id = 104,
+			fish_id = 16,
+			attr_id = 9,
+		},
+		[105]=
+		{
+			id = 105,
+			fish_id = 17,
+			attr_id = 9,
+		},
+		[106]=
+		{
+			id = 106,
+			fish_id = 18,
+			attr_id = 9,
+		},
+		[107]=
+		{
+			id = 107,
+			fish_id = 58,
+		},
+		[108]=
+		{
+			id = 108,
+			fish_id = 58,
+		},
+		[109]=
+		{
+			id = 109,
+			fish_id = 58,
+		},
 	},
 }

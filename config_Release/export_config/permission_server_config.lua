@@ -1723,6 +1723,12 @@ return {
 			name = "龙王争霸  V1",
 			condi = 8,
 		},
+		xyxxl_level=
+		{
+			key = "xyxxl_level",
+			name = "西游消消乐  V1orLV9",
+			condi = 343,
+		},
 		gzyl_newplayer=
 		{
 			key = "gzyl_newplayer",
@@ -1915,11 +1921,23 @@ return {
 			name = "新人专享（新人才展示）",
 			condi = 91,
 		},
+		zchd_new=
+		{
+			key = "zchd_new",
+			name = "周常活动新人展示位置",
+			condi = 339,
+		},
 		drt_cjj_little_game_discount=
 		{
 			key = "drt_cjj_little_game_discount",
 			name = "冲金鸡小游戏打折",
 			condi = 326,
+		},
+		cjj_cqg_viplimit=
+		{
+			key = "cjj_cqg_viplimit",
+			name = "存钱罐VIP1限制",
+			condi = 342,
 		},
 	},
 	act_permission=
@@ -5919,6 +5937,30 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 0,
+		},
+		[334]=
+		{
+			id = 334,
+			enable = 1,
+			key = "actp_no_cjj_gej_exchange",
+			name = "非cjj",
+			condi = 340,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1606176000,
+		},
+		[335]=
+		{
+			id = 335,
+			enable = 1,
+			key = "actp_cjj_gej_exchange",
+			name = "cjj",
+			condi = 341,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1606176000,
 		},
 	},
 	condi=
@@ -14453,6 +14495,146 @@ return {
 			group = 1,
 			error_desc = "不展示给cjj",
 		},
+		[854]=
+		{
+			no = 854,
+			id = 339,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新玩家",
+		},
+		[855]=
+		{
+			no = 855,
+			id = 340,
+			var = "share_condition",
+			value = "3dby_cjj",
+			judge = 5,
+			group = 1,
+			error_desc = "cjj",
+		},
+		[856]=
+		{
+			no = 856,
+			id = 341,
+			var = "share_condition",
+			value = "3dby_cjj",
+			judge = 2,
+			group = 1,
+			error_desc = "非cjj",
+		},
+		[857]=
+		{
+			no = 857,
+			id = 342,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPl渠道",
+		},
+		[858]=
+		{
+			no = 858,
+			id = 342,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 2,
+			error_desc = "是CPS渠道",
+		},
+		[859]=
+		{
+			no = 859,
+			id = 342,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 3,
+			error_desc = "是官方渠道",
+		},
+		[860]=
+		{
+			no = 860,
+			id = 342,
+			var = "share_condition",
+			value = "3dby_cjj",
+			judge = 2,
+			group = 4,
+			error_desc = "VIP1及以上的用户可进行领取",
+		},
+		[861]=
+		{
+			no = 861,
+			id = 342,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 4,
+			error_desc = "VIP1及以上的用户可进行领取",
+		},
+		[862]=
+		{
+			no = 862,
+			id = 343,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[863]=
+		{
+			no = 863,
+			id = 343,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 5,
+			group = 1,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[864]=
+		{
+			no = 864,
+			id = 343,
+			var = "player_level",
+			value = 9,
+			judge = 3,
+			group = 2,
+			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+		},
+		[865]=
+		{
+			no = 865,
+			id = 343,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 5,
+			group = 2,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[866]=
+		{
+			no = 866,
+			id = 343,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[867]=
+		{
+			no = 867,
+			id = 343,
+			var = "share_condition",
+			value = "3dby_cjj",
+			judge = 2,
+			group = 4,
+			error_desc = "是冲金鸡玩家才可游戏",
+		},
 	},
 	share_condition=
 	{
@@ -14524,7 +14706,7 @@ return {
 			id = 8,
 			name = "3dby_cjj",
 			var = "market_channel",
-			value = {"cjj","cjj_juxiang","cjj_pceggs","cjj_xianwan","cjj_aibianxian","cjj_juxiangpc",},
+			value = {"cjj","cjj_juxiang","cjj_pceggs","cjj_xianwan","cjj_aibianxian","cjj_juxiangpc","cjj_zhuankebao",},
 			judge = 2,
 			group = 1,
 		},

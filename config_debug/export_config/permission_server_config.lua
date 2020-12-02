@@ -1933,6 +1933,80 @@ return {
 			name = "冲金鸡小游戏打折",
 			condi = 326,
 		},
+		xy_xxl_bet_1=
+		{
+			key = "xy_xxl_bet_1",
+			name = "西游消消乐下注500鲸币",
+		},
+		xy_xxl_bet_2=
+		{
+			key = "xy_xxl_bet_2",
+			name = "西游消消乐下注1000鲸币",
+		},
+		xy_xxl_bet_3=
+		{
+			key = "xy_xxl_bet_3",
+			name = "西游消消乐下注2000鲸币",
+		},
+		xy_xxl_bet_4=
+		{
+			key = "xy_xxl_bet_4",
+			name = "西游消消乐下注4000鲸币",
+		},
+		xy_xxl_bet_5=
+		{
+			key = "xy_xxl_bet_5",
+			name = "西游消消乐下注8000鲸币",
+			condi = 22,
+		},
+		xy_xxl_bet_6=
+		{
+			key = "xy_xxl_bet_6",
+			name = "西游消消乐下注1.5万鲸币",
+			condi = 22,
+		},
+		xy_xxl_bet_7=
+		{
+			key = "xy_xxl_bet_7",
+			name = "西游消消乐下注3万鲸币",
+			condi = 22,
+		},
+		xy_xxl_bet_8=
+		{
+			key = "xy_xxl_bet_8",
+			name = "西游消消乐下注6万鲸币",
+			condi = 23,
+		},
+		xy_xxl_bet_9=
+		{
+			key = "xy_xxl_bet_9",
+			name = "西游消消乐下注12万鲸币",
+			condi = 23,
+		},
+		xy_xxl_bet_10=
+		{
+			key = "xy_xxl_bet_10",
+			name = "西游消消乐下注24万鲸币",
+			condi = 24,
+		},
+		xy_xxl_bet_11=
+		{
+			key = "xy_xxl_bet_11",
+			name = "西游消消乐下注48万鲸币",
+			condi = 25,
+		},
+		xy_xxl_bet_12=
+		{
+			key = "xy_xxl_bet_12",
+			name = "西游消消乐下注96万鲸币",
+			condi = 26,
+		},
+		xy_xxl_bet_13=
+		{
+			key = "xy_xxl_bet_13",
+			name = "西游消消乐下注192万鲸币",
+			condi = 26,
+		},
 		cjj_cqg_viplimit=
 		{
 			key = "cjj_cqg_viplimit",
