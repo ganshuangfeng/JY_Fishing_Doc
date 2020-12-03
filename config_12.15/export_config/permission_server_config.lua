@@ -14990,7 +14990,7 @@ return {
 			id = 351,
 			var = "share_condition",
 			value = "cjj_official",
-			judge = 2,
+			judge = 5,
 			group = 1,
 			error_desc = "冲金鸡官方",
 		},
