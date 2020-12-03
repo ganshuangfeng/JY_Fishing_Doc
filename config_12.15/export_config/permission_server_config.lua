@@ -2043,6 +2043,18 @@ return {
 			name = "3D捕鱼非CPL用户",
 			condi = 348,
 		},
+		jjsl_enter_limit=
+		{
+			key = "jjsl_enter_limit",
+			name = "金鸡送礼",
+			condi = 351,
+		},
+		xycj_enter_limit=
+		{
+			key = "xycj_enter_limit",
+			name = "幸运抽奖",
+			condi = 352,
+		},
 	},
 	act_permission=
 	{
@@ -14198,7 +14210,7 @@ return {
 			no = 811,
 			id = 321,
 			var = "share_condition",
-			value = "cjj_all",
+			value = "cjj_cpl",
 			judge = 5,
 			group = 1,
 			error_desc = "不是冲金鸡渠道",
@@ -14962,6 +14974,46 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
+		},
+		[888]=
+		{
+			no = 888,
+			id = 351,
+			var = "share_condition",
+			value = "cjj_official",
+			judge = 2,
+			group = 1,
+			error_desc = "冲金鸡官方",
+		},
+		[889]=
+		{
+			no = 889,
+			id = 352,
+			var = "share_condition",
+			value = "cjj_official",
+			judge = 2,
+			group = 1,
+			error_desc = "冲金鸡官方",
+		},
+		[890]=
+		{
+			no = 890,
+			id = 352,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 2,
+			error_desc = "3d捕鱼官方",
+		},
+		[891]=
+		{
+			no = 891,
+			id = 352,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "3D捕鱼cpl",
 		},
 	},
 	share_condition=
