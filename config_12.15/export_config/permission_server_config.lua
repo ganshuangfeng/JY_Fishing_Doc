@@ -2058,6 +2058,12 @@ return {
 			name = "幸运抽奖",
 			condi = 352,
 		},
+		cjj_vip_desc=
+		{
+			key = "cjj_vip_desc",
+			name = "冲金鸡VIP描述屏蔽",
+			condi = 353,
+		},
 	},
 	act_permission=
 	{
@@ -15017,6 +15023,16 @@ return {
 			judge = 2,
 			group = 3,
 			error_desc = "3D捕鱼cpl",
+		},
+		[892]=
+		{
+			no = 892,
+			id = 353,
+			var = "share_condition",
+			value = "cjj_official",
+			judge = 2,
+			group = 1,
+			error_desc = "冲金鸡官方",
 		},
 	},
 	share_condition=
