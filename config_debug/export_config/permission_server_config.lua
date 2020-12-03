@@ -14174,7 +14174,7 @@ return {
 			no = 811,
 			id = 321,
 			var = "share_condition",
-			value = "cjj_all",
+			value = "cjj_cpl",
 			judge = 5,
 			group = 1,
 			error_desc = "不是冲金鸡渠道",
