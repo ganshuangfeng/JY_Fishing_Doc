@@ -2294,7 +2294,7 @@ return {
 			id = 20,
 			condition_id = 1020,
 			condition_name = "fish_prop",
-			condition_value = {"prop_3d_fish_frozen","prop_3d_fish_lock","prop_3d_fish_summon_fish"},
+			condition_value = {"prop_3d_fish_frozen","prop_3d_fish_lock","prop_3d_fish_summon_fish","prop_3d_fish_accelerate","prop_3d_fish_wild","prop_3d_fish_doubled"},
 			judge_type = 2,
 		},
 		[21]=
