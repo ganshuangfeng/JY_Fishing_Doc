@@ -2830,15 +2830,6 @@ return {
 		[289]=
 		{
 			id = 289,
-			key = "act_034_ldfl",
-			desc = "立冬福利（小游戏）",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
-		},
-		[290]=
-		{
-			id = 290,
 			key = "by3d_shtx",
 			desc = "深海探险",
 			lua = "BY3DSHTXManager",
@@ -2846,9 +2837,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[291]=
+		[290]=
 		{
-			id = 291,
+			id = 290,
 			key = "act_035_ybwl",
 			desc = "一本万利",
 			lua = "Act_035_YBWLManager",
@@ -2856,9 +2847,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[292]=
+		[291]=
 		{
-			id = 292,
+			id = 291,
 			key = "act_035_jhs",
 			desc = "聚划算",
 			lua = "Act_035_JHSManager",
@@ -2866,9 +2857,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[293]=
+		[292]=
 		{
-			id = 293,
+			id = 292,
 			key = "act_036_hjhhl",
 			desc = "火鸡换好礼",
 			lua = "Act_036_HJHHLManager",
@@ -2876,9 +2867,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[294]=
+		[293]=
 		{
-			id = 294,
+			id = 293,
 			key = "act_036_hjhhl_drop_ani",
 			desc = "火鸡掉落需求",
 			lua = "Act_036_HJHHLDROPManager",
@@ -2886,9 +2877,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[295]=
+		[294]=
 		{
-			id = 295,
+			id = 294,
 			key = "act_036_gelb",
 			desc = "感恩礼包",
 			lua = "Act_036_GELBManager",
