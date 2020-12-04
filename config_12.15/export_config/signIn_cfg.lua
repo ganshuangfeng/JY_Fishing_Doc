@@ -5,9 +5,9 @@ return {
 		{
 			id = 1,
 			img = "ty_icon_jb_18y",
-			info = "金币x10000",
+			info = "3000金币",
 			vip = 1,
-			vipinfo = "金币x20000",
+			vipinfo = "金币x6000",
 			vip_desc = "v1双倍",
 			key = "signin_cpl",
 		},
@@ -15,16 +15,16 @@ return {
 		{
 			id = 2,
 			img = "ty_icon_jb_18y",
-			info = "金币x15000",
+			info = "锁定*3",
 			key = "signin_cpl",
 		},
 		[3]=
 		{
 			id = 3,
 			img = "ty_icon_jb_30y",
-			info = "金币x20000",
+			info = "5000金币",
 			vip = 2,
-			vipinfo = "金币x40000",
+			vipinfo = "金币x15000",
 			vip_desc = "v2三倍",
 			key = "signin_cpl",
 		},
@@ -32,23 +32,23 @@ return {
 		{
 			id = 4,
 			img = "ty_icon_jb_30y",
-			info = "金币x25000",
+			info = "8000金币",
 			key = "signin_cpl",
 		},
 		[5]=
 		{
 			id = 5,
 			img = "ty_icon_jb_50y",
-			info = "金币x30000",
-			vipinfo = "金币x60000",
+			info = "召唤*3",
 			key = "signin_cpl",
 		},
 		[6]=
 		{
 			id = 6,
 			img = "ty_icon_jb_50y",
-			info = "金币x35000",
+			info = "10000金币",
 			vip = 3,
+			vipinfo = "金币x30000",
 			vip_desc = "v3三倍",
 			key = "signin_cpl",
 		},
@@ -56,8 +56,9 @@ return {
 		{
 			id = 7,
 			img = "ty_icon_jb_198y",
-			info = "金币x50000",
+			info = "20000金币",
 			vip = 5,
+			vipinfo = "金币x60000",
 			vip_desc = "v5三倍",
 			key = "signin_cpl",
 		},
