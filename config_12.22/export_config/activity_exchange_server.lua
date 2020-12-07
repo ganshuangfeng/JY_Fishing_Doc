@@ -47,7 +47,7 @@ return {
 			goods_type = 1,
 			email_id = 4,
 			award_id = 4,
-			enable = 1,
+			enable = 0,
 		},
 		[5]=
 		{
@@ -59,7 +59,7 @@ return {
 			goods_type = 1,
 			email_id = 5,
 			award_id = 5,
-			enable = 1,
+			enable = 0,
 		},
 		[6]=
 		{
@@ -71,7 +71,7 @@ return {
 			goods_type = 1,
 			email_id = 6,
 			award_id = 6,
-			enable = 1,
+			enable = 0,
 		},
 		[7]=
 		{
@@ -83,7 +83,7 @@ return {
 			goods_type = 1,
 			email_id = 7,
 			award_id = 7,
-			enable = 1,
+			enable = 0,
 		},
 		[8]=
 		{
@@ -95,7 +95,7 @@ return {
 			goods_type = 1,
 			email_id = 8,
 			award_id = 8,
-			enable = 1,
+			enable = 0,
 		},
 		[9]=
 		{
@@ -119,6 +119,30 @@ return {
 			goods_type = 1,
 			email_id = 10,
 			award_id = 10,
+			enable = 1,
+		},
+		[11]=
+		{
+			id = 11,
+			name = "圣诞福利",
+			start_time = 1608595200,
+			end_time = 1609171199,
+			use_goods = {"prop_sd_lh",},
+			goods_type = 1,
+			email_id = 11,
+			award_id = 11,
+			enable = 1,
+		},
+		[12]=
+		{
+			id = 12,
+			name = "圣诞福利-cjj",
+			start_time = 1608595200,
+			end_time = 1609171199,
+			use_goods = {"prop_sd_lh",},
+			goods_type = 1,
+			email_id = 12,
+			award_id = 12,
 			enable = 1,
 		},
 	},
@@ -182,7 +206,19 @@ return {
 		{
 			id = 10,
 			title = "欢乐冬至",
-			content = "恭喜您在欢乐冬至活动中获得了%s，请在活动结束后7个工作日内联系公众号《鲸鱼初纪元》客服领取，逾期视为自动放弃！",
+			content = "恭喜您在欢乐冬至活动中获得了%s，请在活动结束后7个工作日内联系公众号《彩云新世界》客服领取，逾期视为自动放弃！",
+		},
+		[11]=
+		{
+			id = 11,
+			title = "圣诞福利",
+			content = "恭喜您在圣诞福利活动中获得了%s，请在活动结束后7个工作日内联系公众号《鲸鱼初纪元》客服领取，逾期视为自动放弃！",
+		},
+		[12]=
+		{
+			id = 12,
+			title = "圣诞福利",
+			content = "恭喜您在圣诞福利活动中获得了%s，请在活动结束后7个工作日内联系公众号《彩云新世界》客服领取，逾期视为自动放弃！",
 		},
 	},
 	award=
@@ -924,6 +960,174 @@ return {
 		{
 			no = 72,
 			award_cfg_id = 10,
+			award_id = 8,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {1000000,},
+			use_num = {1200,},
+			me_limit_day_num = 1,
+		},
+		[73]=
+		{
+			no = 73,
+			award_cfg_id = 11,
+			award_id = 1,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "家用电烤炉",
+			use_num = {15000,},
+			me_limit_day_num = 1,
+		},
+		[74]=
+		{
+			no = 74,
+			award_cfg_id = 11,
+			award_id = 2,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "蓝山咖啡",
+			use_num = {8000,},
+			me_limit_day_num = 1,
+		},
+		[75]=
+		{
+			no = 75,
+			award_cfg_id = 11,
+			award_id = 3,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "金龙鱼油",
+			use_num = {5000,},
+			me_limit_day_num = 1,
+		},
+		[76]=
+		{
+			no = 76,
+			award_cfg_id = 11,
+			award_id = 4,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {20000000,},
+			use_num = {24000,},
+		},
+		[77]=
+		{
+			no = 77,
+			award_cfg_id = 11,
+			award_id = 5,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {10000000,},
+			use_num = {12000,},
+			me_limit_day_num = 3,
+		},
+		[78]=
+		{
+			no = 78,
+			award_cfg_id = 11,
+			award_id = 6,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {5000000,},
+			use_num = {6000,},
+			me_limit_day_num = 2,
+		},
+		[79]=
+		{
+			no = 79,
+			award_cfg_id = 11,
+			award_id = 7,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {2000000,},
+			use_num = {2400,},
+			me_limit_day_num = 1,
+		},
+		[80]=
+		{
+			no = 80,
+			award_cfg_id = 11,
+			award_id = 8,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {1000000,},
+			use_num = {1200,},
+			me_limit_day_num = 1,
+		},
+		[81]=
+		{
+			no = 81,
+			award_cfg_id = 12,
+			award_id = 1,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "家用电烤炉",
+			use_num = {15000,},
+			me_limit_day_num = 1,
+		},
+		[82]=
+		{
+			no = 82,
+			award_cfg_id = 12,
+			award_id = 2,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "蓝山咖啡",
+			use_num = {8000,},
+			me_limit_day_num = 1,
+		},
+		[83]=
+		{
+			no = 83,
+			award_cfg_id = 12,
+			award_id = 3,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "金龙鱼油",
+			use_num = {5000,},
+			me_limit_day_num = 1,
+		},
+		[84]=
+		{
+			no = 84,
+			award_cfg_id = 12,
+			award_id = 4,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {20000000,},
+			use_num = {24000,},
+		},
+		[85]=
+		{
+			no = 85,
+			award_cfg_id = 12,
+			award_id = 5,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {10000000,},
+			use_num = {12000,},
+			me_limit_day_num = 3,
+		},
+		[86]=
+		{
+			no = 86,
+			award_cfg_id = 12,
+			award_id = 6,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {5000000,},
+			use_num = {6000,},
+			me_limit_day_num = 2,
+		},
+		[87]=
+		{
+			no = 87,
+			award_cfg_id = 12,
+			award_id = 7,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {2000000,},
+			use_num = {2400,},
+			me_limit_day_num = 1,
+		},
+		[88]=
+		{
+			no = 88,
+			award_cfg_id = 12,
 			award_id = 8,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"jing_bi",},

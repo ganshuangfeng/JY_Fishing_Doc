@@ -3878,5 +3878,18 @@ return {
 			name = "饺子掉落物",
 			desc = "冬至饺子掉落物",
 		},
+		[287]=
+		{
+			id = 287,
+			item_id = 287,
+			item_key = "prop_sd_lh",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "hldz_iocn_jz",
+			is_show_bag = 0,
+			order = 33,
+			name = "礼盒道具",
+			desc = "圣诞节礼盒道具",
+		},
 	},
 }

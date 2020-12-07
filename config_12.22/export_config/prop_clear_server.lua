@@ -218,6 +218,13 @@ return {
 			start_time = 1607990400,
 			recycle_time = 1608566399,
 		},
+		[32]=
+		{
+			id = 32,
+			prop_type = "prop_sd_lh",
+			start_time = 1608595200,
+			recycle_time = 1609171199,
+		},
 	},
 	player_ext_status=
 	{

@@ -7729,6 +7729,118 @@ return {
 			end_valid_time = 1608652799,
 			time_limit = -1,
 		},
+		[1000143]=
+		{
+			id = 1000143,
+			enable = 1,
+			name = "圣诞福利",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21501,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1608566400,
+			end_valid_time = 1608652799,
+			time_limit = -1,
+		},
+		[1000144]=
+		{
+			id = 1000144,
+			enable = 1,
+			name = "圣诞福利",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21502,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1608566400,
+			end_valid_time = 1608652799,
+			time_limit = -1,
+		},
+		[1000145]=
+		{
+			id = 1000145,
+			enable = 1,
+			name = "圣诞福利",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21503,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1608566400,
+			end_valid_time = 1608652799,
+			time_limit = -1,
+		},
+		[1000146]=
+		{
+			id = 1000146,
+			enable = 1,
+			name = "圣诞福利",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21504,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1608566400,
+			end_valid_time = 1608652799,
+			time_limit = -1,
+		},
+		[1000147]=
+		{
+			id = 1000147,
+			enable = 1,
+			name = "圣诞福利",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21505,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1608566400,
+			end_valid_time = 1608652799,
+			time_limit = -1,
+		},
+		[1000148]=
+		{
+			id = 1000148,
+			enable = 1,
+			name = "圣诞福利",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21506,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1608566400,
+			end_valid_time = 1608652799,
+			time_limit = -1,
+		},
+		[1000149]=
+		{
+			id = 1000149,
+			enable = 1,
+			name = "圣诞福利",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21507,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1608566400,
+			end_valid_time = 1608652799,
+			time_limit = -1,
+		},
+		[1000150]=
+		{
+			id = 1000150,
+			enable = 1,
+			name = "圣诞福利",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21508,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1608566400,
+			end_valid_time = 1608652799,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -12985,6 +13097,86 @@ return {
 			process = {1,1,1},
 			pre_add_process = 3,
 			get_award_type = "nor",
+		},
+		[553]=
+		{
+			id = 553,
+			process_id = 21501,
+			source_id = 543,
+			process = 1,
+			awards = 885,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[554]=
+		{
+			id = 554,
+			process_id = 21502,
+			source_id = 544,
+			process = 1,
+			awards = 886,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[555]=
+		{
+			id = 555,
+			process_id = 21503,
+			source_id = 545,
+			process = 1,
+			awards = 887,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[556]=
+		{
+			id = 556,
+			process_id = 21504,
+			source_id = 546,
+			process = 1,
+			awards = 888,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[557]=
+		{
+			id = 557,
+			process_id = 21505,
+			source_id = 547,
+			process = 1,
+			awards = 889,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[558]=
+		{
+			id = 558,
+			process_id = 21506,
+			source_id = 548,
+			process = 1,
+			awards = 890,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[559]=
+		{
+			id = 559,
+			process_id = 21507,
+			source_id = 549,
+			process = 1,
+			awards = 891,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[560]=
+		{
+			id = 560,
+			process_id = 21508,
+			source_id = 550,
+			process = 1,
+			awards = 892,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 	},
 	source=
@@ -19303,6 +19495,62 @@ return {
 			source_type = "xiaoxiaole_xiyou_award",
 			condition_id = 0,
 		},
+		[896]=
+		{
+			id = 896,
+			source_id = 543,
+			source_type = "buy_gift",
+			condition_id = 383,
+		},
+		[897]=
+		{
+			id = 897,
+			source_id = 544,
+			source_type = "buy_gift",
+			condition_id = 384,
+		},
+		[898]=
+		{
+			id = 898,
+			source_id = 545,
+			source_type = "buy_gift",
+			condition_id = 385,
+		},
+		[899]=
+		{
+			id = 899,
+			source_id = 546,
+			source_type = "buy_gift",
+			condition_id = 386,
+		},
+		[900]=
+		{
+			id = 900,
+			source_id = 547,
+			source_type = "buy_gift",
+			condition_id = 387,
+		},
+		[901]=
+		{
+			id = 901,
+			source_id = 548,
+			source_type = "buy_gift",
+			condition_id = 388,
+		},
+		[902]=
+		{
+			id = 902,
+			source_id = 549,
+			source_type = "buy_gift",
+			condition_id = 389,
+		},
+		[903]=
+		{
+			id = 903,
+			source_id = 550,
+			source_type = "buy_gift",
+			condition_id = 390,
+		},
 	},
 	condition=
 	{
@@ -23366,6 +23614,70 @@ return {
 		{
 			id = 538,
 			condition_id = 382,
+			condition_name = "gift_id",
+			condition_value = 110,
+			judge_type = 2,
+		},
+		[539]=
+		{
+			id = 539,
+			condition_id = 383,
+			condition_name = "gift_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[540]=
+		{
+			id = 540,
+			condition_id = 384,
+			condition_name = "gift_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[541]=
+		{
+			id = 541,
+			condition_id = 385,
+			condition_name = "gift_id",
+			condition_value = 4,
+			judge_type = 2,
+		},
+		[542]=
+		{
+			id = 542,
+			condition_id = 386,
+			condition_name = "gift_id",
+			condition_value = 5,
+			judge_type = 2,
+		},
+		[543]=
+		{
+			id = 543,
+			condition_id = 387,
+			condition_name = "gift_id",
+			condition_value = 111,
+			judge_type = 2,
+		},
+		[544]=
+		{
+			id = 544,
+			condition_id = 388,
+			condition_name = "gift_id",
+			condition_value = 6,
+			judge_type = 2,
+		},
+		[545]=
+		{
+			id = 545,
+			condition_id = 389,
+			condition_name = "gift_id",
+			condition_value = 108,
+			judge_type = 2,
+		},
+		[546]=
+		{
+			id = 546,
+			condition_id = 390,
 			condition_name = "gift_id",
 			condition_value = 110,
 			judge_type = 2,
@@ -33879,6 +34191,134 @@ return {
 			id = 1313,
 			award_id = 884,
 			asset_type = "_common_rank_dz_jzsjb_rank",
+			asset_count = 7494,
+			get_weight = 1,
+		},
+		[1314]=
+		{
+			id = 1314,
+			award_id = 885,
+			asset_type = "prop_sd_lh",
+			asset_count = 45,
+			get_weight = 1,
+		},
+		[1315]=
+		{
+			id = 1315,
+			award_id = 885,
+			asset_type = "_common_rank_sd_lhsjb_rank",
+			asset_count = 45,
+			get_weight = 1,
+		},
+		[1316]=
+		{
+			id = 1316,
+			award_id = 886,
+			asset_type = "prop_sd_lh",
+			asset_count = 90,
+			get_weight = 1,
+		},
+		[1317]=
+		{
+			id = 1317,
+			award_id = 886,
+			asset_type = "_common_rank_sd_lhsjb_rank",
+			asset_count = 90,
+			get_weight = 1,
+		},
+		[1318]=
+		{
+			id = 1318,
+			award_id = 887,
+			asset_type = "prop_sd_lh",
+			asset_count = 150,
+			get_weight = 1,
+		},
+		[1319]=
+		{
+			id = 1319,
+			award_id = 887,
+			asset_type = "_common_rank_sd_lhsjb_rank",
+			asset_count = 150,
+			get_weight = 1,
+		},
+		[1320]=
+		{
+			id = 1320,
+			award_id = 888,
+			asset_type = "prop_sd_lh",
+			asset_count = 294,
+			get_weight = 1,
+		},
+		[1321]=
+		{
+			id = 1321,
+			award_id = 888,
+			asset_type = "_common_rank_sd_lhsjb_rank",
+			asset_count = 294,
+			get_weight = 1,
+		},
+		[1322]=
+		{
+			id = 1322,
+			award_id = 889,
+			asset_type = "prop_sd_lh",
+			asset_count = 594,
+			get_weight = 1,
+		},
+		[1323]=
+		{
+			id = 1323,
+			award_id = 889,
+			asset_type = "_common_rank_sd_lhsjb_rank",
+			asset_count = 594,
+			get_weight = 1,
+		},
+		[1324]=
+		{
+			id = 1324,
+			award_id = 890,
+			asset_type = "prop_sd_lh",
+			asset_count = 1494,
+			get_weight = 1,
+		},
+		[1325]=
+		{
+			id = 1325,
+			award_id = 890,
+			asset_type = "_common_rank_sd_lhsjb_rank",
+			asset_count = 1494,
+			get_weight = 1,
+		},
+		[1326]=
+		{
+			id = 1326,
+			award_id = 891,
+			asset_type = "prop_sd_lh",
+			asset_count = 2994,
+			get_weight = 1,
+		},
+		[1327]=
+		{
+			id = 1327,
+			award_id = 891,
+			asset_type = "_common_rank_sd_lhsjb_rank",
+			asset_count = 2994,
+			get_weight = 1,
+		},
+		[1328]=
+		{
+			id = 1328,
+			award_id = 892,
+			asset_type = "prop_sd_lh",
+			asset_count = 7494,
+			get_weight = 1,
+		},
+		[1329]=
+		{
+			id = 1329,
+			award_id = 892,
+			asset_type = "_common_rank_sd_lhsjb_rank",
 			asset_count = 7494,
 			get_weight = 1,
 		},
