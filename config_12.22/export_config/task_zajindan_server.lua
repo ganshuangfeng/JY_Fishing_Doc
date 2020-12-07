@@ -7841,6 +7841,20 @@ return {
 			end_valid_time = 1608652799,
 			time_limit = -1,
 		},
+		[1000151]=
+		{
+			id = 1000151,
+			enable = 1,
+			name = "礼盒掉落",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21509,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1608566400,
+			end_valid_time = 1608652799,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -13175,6 +13189,16 @@ return {
 			source_id = 550,
 			process = 1,
 			awards = 892,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[561]=
+		{
+			id = 561,
+			process_id = 21509,
+			source_id = 542,
+			process = {1000000,-1},
+			awards = 893,
 			get_award_type = "nor",
 			is_auto_get_award = 1,
 		},
@@ -34320,6 +34344,22 @@ return {
 			award_id = 892,
 			asset_type = "_common_rank_sd_lhsjb_rank",
 			asset_count = 7494,
+			get_weight = 1,
+		},
+		[1330]=
+		{
+			id = 1330,
+			award_id = 893,
+			asset_type = "prop_sd_lh",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1331]=
+		{
+			id = 1331,
+			award_id = 893,
+			asset_type = "_common_rank_sd_lhsjb_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
