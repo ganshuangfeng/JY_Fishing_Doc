@@ -2695,9 +2695,9 @@ return {
 			key = "act_029_hlqjd",
 			desc = "欢乐敲金蛋",
 			lua = "Act_029_HLQJDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[276]=
 		{
@@ -2948,7 +2948,7 @@ return {
 		{
 			id = 301,
 			key = "act_039_jzhhl",
-			desc = "饺子换好礼",
+			desc = "饺子换好礼→圣诞福利",
 			lua = "Act_039_JZHHLManager",
 			is_on_off = 1,
 			enable = 1,
