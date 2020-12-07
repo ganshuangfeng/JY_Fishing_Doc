@@ -655,6 +655,26 @@ return {
 			award_id = 60,
 			enable = 1,
 		},
+		[61]=
+		{
+			id = 61,
+			name = "顶级核弹",
+			start_time = 1592841599,
+			end_time = 32503651200,
+			use_asset_id = 56,
+			award_id = 61,
+			enable = 1,
+		},
+		[62]=
+		{
+			id = 62,
+			name = "终极核弹",
+			start_time = 1592841599,
+			end_time = 32503651200,
+			use_asset_id = 57,
+			award_id = 62,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
@@ -1042,6 +1062,20 @@ return {
 			use_id = 55,
 			use_item = "prop_12_12_cjq",
 			use_num = 1,
+		},
+		[56]=
+		{
+			id = 56,
+			use_id = 56,
+			use_item = "prop_3d_fish_nuclear_bomb_fragment_4",
+			use_num = 100,
+		},
+		[57]=
+		{
+			id = 57,
+			use_id = 57,
+			use_item = "prop_3d_fish_nuclear_bomb_fragment_5",
+			use_num = 100,
 		},
 	},
 	lottery_credit=
@@ -3728,6 +3762,20 @@ return {
 			award_id = 60,
 			real_award_id = 11856,
 			weight = 0,
+		},
+		[383]=
+		{
+			no = 383,
+			award_id = 61,
+			real_award_id = 11857,
+			weight = 1,
+		},
+		[384]=
+		{
+			no = 384,
+			award_id = 62,
+			real_award_id = 11858,
+			weight = 1,
 		},
 	},
 	award_item=
@@ -6602,6 +6650,22 @@ return {
 			id = 382,
 			real_award_id = 11856,
 			award_name = "美的空调",
+		},
+		[383]=
+		{
+			id = 383,
+			real_award_id = 11857,
+			award_name = "顶级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_4",
+			asset_count = {1,1},
+		},
+		[384]=
+		{
+			id = 384,
+			real_award_id = 11858,
+			award_name = "终极核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_5",
+			asset_count = {1,1},
 		},
 	},
 	weight=
