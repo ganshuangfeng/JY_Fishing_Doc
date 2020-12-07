@@ -7396,7 +7396,7 @@ return {
 		[1000119]=
 		{
 			id = 1000119,
-			enable = 1,
+			enable = 0,
 			name = "冬日送豪礼",
 			own_type = "normal",
 			task_enum = "common",
@@ -7410,7 +7410,7 @@ return {
 		[1000120]=
 		{
 			id = 1000120,
-			enable = 1,
+			enable = 0,
 			name = "冬日送豪礼",
 			own_type = "normal",
 			task_enum = "common",
@@ -7685,6 +7685,48 @@ return {
 			reset_delay = 1,
 			start_valid_time = 1607961600,
 			end_valid_time = 1608566399,
+			time_limit = -1,
+		},
+		[1000140]=
+		{
+			id = 1000140,
+			enable = 1,
+			name = "欢乐敲金蛋铜锤",
+			own_type = "p_029_hlqjd_hammer",
+			task_enum = "happy_zajindan_act_task",
+			process_id = 21498,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1608566400,
+			end_valid_time = 1608652799,
+			time_limit = -1,
+		},
+		[1000141]=
+		{
+			id = 1000141,
+			enable = 1,
+			name = "欢乐敲金蛋银锤",
+			own_type = "p_029_hlqjd_hammer",
+			task_enum = "happy_zajindan_act_task",
+			process_id = 21499,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1608566400,
+			end_valid_time = 1608652799,
+			time_limit = -1,
+		},
+		[1000142]=
+		{
+			id = 1000142,
+			enable = 1,
+			name = "欢乐敲金蛋金锤",
+			own_type = "p_029_hlqjd_hammer",
+			task_enum = "happy_zajindan_act_task",
+			process_id = 21500,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1608566400,
+			end_valid_time = 1608652799,
 			time_limit = -1,
 		},
 	},
@@ -12919,6 +12961,30 @@ return {
 			awards = 884,
 			get_award_type = "nor",
 			is_auto_get_award = 1,
+		},
+		[550]=
+		{
+			id = 550,
+			process_id = 21498,
+			process = {1,1,1},
+			pre_add_process = 3,
+			get_award_type = "nor",
+		},
+		[551]=
+		{
+			id = 551,
+			process_id = 21499,
+			process = {1,1,1},
+			pre_add_process = 3,
+			get_award_type = "nor",
+		},
+		[552]=
+		{
+			id = 552,
+			process_id = 21500,
+			process = {1,1,1},
+			pre_add_process = 3,
+			get_award_type = "nor",
 		},
 	},
 	source=
