@@ -129,7 +129,7 @@ return {
 		{
 			no = 12,
 			act_type = "activity",
-			act_id = 71,
+			act_id = 41,
 			judge_type = 2,
 			max_num = 1,
 			start_time = 1607385600,
@@ -139,7 +139,7 @@ return {
 		{
 			no = 13,
 			act_type = "activity",
-			act_id = 72,
+			act_id = 42,
 			judge_type = 2,
 			max_num = 1,
 			start_time = 1607385600,
@@ -149,7 +149,7 @@ return {
 		{
 			no = 14,
 			act_type = "activity",
-			act_id = 73,
+			act_id = 43,
 			judge_type = 2,
 			max_num = 1,
 			start_time = 1607385600,
@@ -159,7 +159,7 @@ return {
 		{
 			no = 15,
 			act_type = "activity",
-			act_id = 74,
+			act_id = 44,
 			judge_type = 2,
 			max_num = 5,
 			start_time = 1607385600,

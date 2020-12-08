@@ -18465,6 +18465,13 @@ return {
 			source_type = "lwzb_game_award",
 			condition_id = 0,
 		},
+		[821]=
+		{
+			id = 821,
+			source_id = 527,
+			source_type = "xiaoxiaole_xiyou_award",
+			condition_id = 0,
+		},
 	},
 	condition=
 	{
