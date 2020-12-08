@@ -202,44 +202,44 @@ return {
 	},
 	task=
 	{
-		[800000]=
+		[8000000]=
 		{
-			progress = 800000,
+			progress = 8000000,
 			asset_type = "shop_gold_sum",
 			asset_count = 30,
 			lv = 1,
-		},
-		[2500000]=
-		{
-			progress = 2500000,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			lv = 2,
-		},
-		[12500000]=
-		{
-			progress = 12500000,
-			asset_type = "shop_gold_sum",
-			asset_count = 500,
-			lv = 3,
 		},
 		[25000000]=
 		{
 			progress = 25000000,
 			asset_type = "shop_gold_sum",
+			asset_count = 100,
+			lv = 2,
+		},
+		[125000000]=
+		{
+			progress = 125000000,
+			asset_type = "shop_gold_sum",
+			asset_count = 500,
+			lv = 3,
+		},
+		[250000000]=
+		{
+			progress = 250000000,
+			asset_type = "shop_gold_sum",
 			asset_count = 1000,
 			lv = 4,
 		},
-		[75000000]=
+		[750000000]=
 		{
-			progress = 75000000,
+			progress = 750000000,
 			asset_type = "shop_gold_sum",
 			asset_count = 3000,
 			lv = 5,
 		},
-		[230000000]=
+		[2300000000]=
 		{
-			progress = 230000000,
+			progress = 2300000000,
 			asset_type = "shop_gold_sum",
 			asset_count = 10000,
 			lv = 6,
