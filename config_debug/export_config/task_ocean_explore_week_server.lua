@@ -985,7 +985,7 @@ return {
 		{
 			id = 15071,
 			enable = 1,
-			name = "捕鱼活动鱼10条（10000倍炮以上）",
+			name = "捕鱼活动鱼20条（10000倍炮以上）",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15071,
