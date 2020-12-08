@@ -32,7 +32,7 @@ return {
 		{
 			id = 1,
 			order = 10,
-			task_id = 12512,
+			task_id = 12553,
 			task_name = "进入游戏",
 			task_icon = "rw_icon_hd",
 			task_instruction = "进入3D捕鱼任意场1次",
@@ -60,7 +60,7 @@ return {
 		{
 			id = 3,
 			order = 12,
-			task_id = 12521,
+			task_id = 12554,
 			task_name = "累计捕鱼",
 			task_icon = "rw_icon_bh",
 			task_instruction = "3D捕鱼中捕获任意100条鱼",
