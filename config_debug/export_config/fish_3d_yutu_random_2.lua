@@ -165,6 +165,46 @@ return {
 			start_time = 1607385600,
 			end_time = 1607961599,
 		},
+		[16]=
+		{
+			no = 16,
+			act_type = "activity",
+			act_id = 74,
+			judge_type = 2,
+			max_num = 1,
+			start_time = 1607990400,
+			end_time = 1608566399,
+		},
+		[17]=
+		{
+			no = 17,
+			act_type = "activity",
+			act_id = 75,
+			judge_type = 2,
+			max_num = 1,
+			start_time = 1607990400,
+			end_time = 1608566399,
+		},
+		[18]=
+		{
+			no = 18,
+			act_type = "activity",
+			act_id = 76,
+			judge_type = 2,
+			max_num = 1,
+			start_time = 1607990400,
+			end_time = 1608566399,
+		},
+		[19]=
+		{
+			no = 19,
+			act_type = "activity",
+			act_id = 77,
+			judge_type = 2,
+			max_num = 5,
+			start_time = 1607990400,
+			end_time = 1608566399,
+		},
 	},
 	change_style=
 	{
@@ -246,28 +286,28 @@ return {
 		[2]=
 		{
 			no = 2,
-			choose_group = {128,129,130,128,129,130,},
+			choose_group = {161,162,163,161,162,163,},
 			create_pro = {30,40,30},
 			create_config = "create_weight1",
 		},
 		[3]=
 		{
 			no = 3,
-			choose_group = {131,132,},
+			choose_group = {164,165,},
 			create_pro = {30,40,30},
 			create_config = "create_weight2",
 		},
 		[4]=
 		{
 			no = 4,
-			choose_group = {133,134,134,},
+			choose_group = {166,167,167,},
 			create_pro = {20,60,5},
 			create_config = "create_weight3",
 		},
 		[5]=
 		{
 			no = 5,
-			choose_group = {135,136,},
+			choose_group = {168,169,},
 			create_pro = {10,10,5},
 			create_config = "create_weight4",
 		},

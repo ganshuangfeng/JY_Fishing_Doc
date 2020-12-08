@@ -197,6 +197,20 @@ return {
 			start_time = 1606176000,
 			recycle_time = 1606751999,
 		},
+		[29]=
+		{
+			id = 29,
+			prop_type = "prop_12_12_lh",
+			start_time = 1607385600,
+			recycle_time = 1607961599,
+		},
+		[30]=
+		{
+			id = 30,
+			prop_type = "prop_12_12_cjq",
+			start_time = 1607385600,
+			recycle_time = 1607961599,
+		},
 	},
 	player_ext_status=
 	{

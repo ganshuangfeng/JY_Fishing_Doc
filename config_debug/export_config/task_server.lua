@@ -1289,6 +1289,20 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
+		[94]=
+		{
+			id = 94,
+			enable = 1,
+			name = "图鉴收集任务",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 94,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1603641600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -2206,6 +2220,15 @@ return {
 			get_award_type = "nor",
 			is_auto_get_award = 2,
 		},
+		[94]=
+		{
+			id = 94,
+			process_id = 94,
+			source_id = 94,
+			process = {5,10,20,30,},
+			awards = {116,117,118,119,},
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -2914,6 +2937,13 @@ return {
 			id = 101,
 			source_id = 92,
 			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[102]=
+		{
+			id = 102,
+			source_id = 94,
+			source_type = "fishbowl_handbook_award",
 			condition_id = 0,
 		},
 	},
@@ -4408,6 +4438,70 @@ return {
 			award_id = 115,
 			asset_type = "prop_3d_fish_nuclear_bomb_fragment_2",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[121]=
+		{
+			id = 121,
+			award_id = 107,
+			asset_type = "prop_fishbowl_stars",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[122]=
+		{
+			id = 122,
+			award_id = 107,
+			asset_type = "prop_fishbowl_feed",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[123]=
+		{
+			id = 123,
+			award_id = 108,
+			asset_type = "prop_fishbowl_coin1",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[124]=
+		{
+			id = 124,
+			award_id = 108,
+			asset_type = "prop_fishbowl_feed",
+			asset_count = 200,
+			get_weight = 1,
+		},
+		[125]=
+		{
+			id = 125,
+			award_id = 108,
+			asset_type = "prop_fishbowl_coin1",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[126]=
+		{
+			id = 126,
+			award_id = 109,
+			asset_type = "prop_fishbowl_stars",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[127]=
+		{
+			id = 127,
+			award_id = 109,
+			asset_type = "prop_fishbowl_coin1",
+			asset_count = 20,
+			get_weight = 1,
+		},
+		[128]=
+		{
+			id = 128,
+			award_id = 109,
+			asset_type = "prop_fishbowl_stars",
+			asset_count = 500000,
 			get_weight = 1,
 		},
 	},

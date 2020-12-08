@@ -269,8 +269,8 @@ return {
 		[20]=
 		{
 			id = 20,
-			enable = 0,
-			rank_type = "12_12_lhsjb_rank",
+			enable = 1,
+			rank_type = "s12_12_lhsjb_rank",
 			name = "礼盒收集榜",
 			begin_time = 1607385600,
 			end_time = 1607961599,
@@ -3375,7 +3375,7 @@ return {
 		{
 			id = 106,
 			award_id = 102,
-			award_name = "10万福利券",
+			award_name = "100000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 100000,
 			get_weight = 1,
@@ -3384,7 +3384,7 @@ return {
 		{
 			id = 107,
 			award_id = 103,
-			award_name = "3万福利券",
+			award_name = "30000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 30000,
 			get_weight = 1,
@@ -3393,7 +3393,7 @@ return {
 		{
 			id = 108,
 			award_id = 104,
-			award_name = "1万福利券",
+			award_name = "10000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 10000,
 			get_weight = 1,
@@ -3402,7 +3402,7 @@ return {
 		{
 			id = 109,
 			award_id = 105,
-			award_name = "3千福利券",
+			award_name = "3000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 3000,
 			get_weight = 1,
@@ -3411,7 +3411,7 @@ return {
 		{
 			id = 110,
 			award_id = 106,
-			award_name = "2千福利券",
+			award_name = "2000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 2000,
 			get_weight = 1,
@@ -3420,7 +3420,7 @@ return {
 		{
 			id = 111,
 			award_id = 107,
-			award_name = "1千福利券",
+			award_name = "1000福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 1000,
 			get_weight = 1,
@@ -3429,7 +3429,7 @@ return {
 		{
 			id = 112,
 			award_id = 108,
-			award_name = "5百福利券",
+			award_name = "500福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 500,
 			get_weight = 1,

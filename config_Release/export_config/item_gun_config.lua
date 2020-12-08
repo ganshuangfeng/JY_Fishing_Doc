@@ -97,6 +97,7 @@ return {
 			pre_name = "GunPrefab8_ui",
 			net_prefab = "FishNetPrefab_3d_5",
 			bullet_prefab = "BulletPrefab_3d_8_ui",
+			tag = "热销",
 		},
 		[6]=
 		{
@@ -143,6 +144,7 @@ return {
 			pre_name = "GunPrefab11_ui",
 			net_prefab = "FishNetPrefab_3d_7",
 			bullet_prefab = "BulletPrefab_3d_10_ui",
+			tag = "热销",
 		},
 		[8]=
 		{

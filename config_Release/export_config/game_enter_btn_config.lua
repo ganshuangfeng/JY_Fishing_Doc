@@ -116,7 +116,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "16;31;93#26#",
+			group_list = "11;16;31;93#26#",
 		},
 		[2]=
 		{
@@ -157,13 +157,13 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3#2#8#61#115",
+			group_list = "3;116#2#8#61#115#",
 		},
 		[2]=
 		{
 			id = 2,
 			area = "left",
-			group_list = "36;113;89;105#97;100;102;11;93;94#58;107#30#",
+			group_list = "36;113;89;105#97;100;11;93;94#58;107#30#",
 		},
 		[3]=
 		{
@@ -455,6 +455,7 @@ return {
 			id = 3,
 			parm = {"sys_flqcj",},
 			is_on_off = 1,
+			condi_key = "cps_xycj",
 		},
 		[4]=
 		{
@@ -1068,6 +1069,7 @@ return {
 			id = 105,
 			parm = {"sys_jjsl",},
 			is_on_off = 1,
+			condi_key = "jjsl_enter_limit",
 		},
 		[106]=
 		{
@@ -1129,6 +1131,13 @@ return {
 			parm = {"by3d_ad_mfcj",},
 			is_on_off = 1,
 			condi_key = "cpl_cjj",
+		},
+		[116]=
+		{
+			id = 116,
+			parm = {"xycj",},
+			is_on_off = 1,
+			condi_key = "xycj_enter_limit",
 		},
 	},
 }

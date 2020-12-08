@@ -1814,6 +1814,78 @@ return {
 			rate = 0,
 			gd_award = 0,
 		},
+		[193]=
+		{
+			ID = 193,
+			fish_type = 1,
+			fish_form = {167,},
+			life = 30,
+			rate = 30,
+			gd_award = 0,
+		},
+		[194]=
+		{
+			ID = 194,
+			fish_type = 1,
+			fish_form = {168,},
+			life = 40,
+			rate = 40,
+			gd_award = 0,
+		},
+		[195]=
+		{
+			ID = 195,
+			fish_type = 1,
+			fish_form = {169,},
+			life = 50,
+			rate = 50,
+			gd_award = 0,
+		},
+		[196]=
+		{
+			ID = 196,
+			fish_type = 1,
+			fish_form = {170,},
+			life = 60,
+			rate = 60,
+			gd_award = 0,
+		},
+		[197]=
+		{
+			ID = 197,
+			fish_type = 1,
+			fish_form = {171,},
+			life = 70,
+			rate = 70,
+			gd_award = 0,
+		},
+		[198]=
+		{
+			ID = 198,
+			fish_type = 1,
+			fish_form = {172,},
+			life = 75,
+			rate = 75,
+			gd_award = 0,
+		},
+		[199]=
+		{
+			ID = 199,
+			fish_type = 1,
+			fish_form = {173,},
+			life = 150,
+			rate = 150,
+			gd_award = 0,
+		},
+		[200]=
+		{
+			ID = 200,
+			fish_type = 1,
+			fish_form = {174,},
+			life = 250,
+			rate = 250,
+			gd_award = 0,
+		},
 	},
 	use_fish=
 	{
@@ -4277,7 +4349,6 @@ return {
 			base_id = 33,
 			append_life_rate = {50,100},
 			life = 0,
-			shoot = 0,
 			act_type = "activity",
 			rate = 0,
 			dead_mode = 1,
@@ -4285,6 +4356,126 @@ return {
 			ranking_rate = 0,
 			ranking_show_rate = 1,
 			broadcast = 1,
+		},
+		[167]=
+		{
+			id = 167,
+			base_id = 6,
+			act_id = 43,
+			life = 30,
+			shoot = 0.033333,
+			act_type = "activity",
+			rate = 30,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 30,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
+		[168]=
+		{
+			id = 168,
+			base_id = 7,
+			act_id = 43,
+			life = 40,
+			shoot = 0.025000,
+			act_type = "activity",
+			rate = 40,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 40,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
+		[169]=
+		{
+			id = 169,
+			base_id = 8,
+			act_id = 43,
+			life = 50,
+			shoot = 0.020000,
+			act_type = "activity",
+			rate = 50,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 50,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
+		[170]=
+		{
+			id = 170,
+			base_id = 9,
+			act_id = 43,
+			life = 60,
+			shoot = 0.016667,
+			act_type = "activity",
+			rate = 60,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 60,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
+		[171]=
+		{
+			id = 171,
+			base_id = 10,
+			act_id = 43,
+			life = 70,
+			shoot = 0.014286,
+			act_type = "activity",
+			rate = 70,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 70,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
+		[172]=
+		{
+			id = 172,
+			base_id = 34,
+			act_id = 40,
+			life = 75,
+			shoot = 0.013333,
+			act_type = "activity",
+			rate = 75,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 75,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
+		[173]=
+		{
+			id = 173,
+			base_id = 34,
+			act_id = 41,
+			life = 150,
+			shoot = 0.006667,
+			act_type = "activity",
+			rate = 150,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 150,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
+		[174]=
+		{
+			id = 174,
+			base_id = 34,
+			act_id = 42,
+			life = 250,
+			shoot = 0.004000,
+			act_type = "activity",
+			rate = 250,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 250,
+			ranking_show_rate = 1,
+			broadcast = 0,
 		},
 	},
 	activity=
@@ -4636,6 +4827,42 @@ return {
 			enter_bag = 1,
 			value = 75,
 		},
+		[40]=
+		{
+			id = 40,
+			acti_type = 9,
+			num = {"prop_12_12_lh",0,0.05,0.1},
+			show = 0,
+			enter_bag = 1,
+			value = 75,
+		},
+		[41]=
+		{
+			id = 41,
+			acti_type = 9,
+			num = {"prop_12_12_lh",0,0.1,0.2},
+			show = 0,
+			enter_bag = 1,
+			value = 150,
+		},
+		[42]=
+		{
+			id = 42,
+			acti_type = 9,
+			num = {"prop_12_12_lh",0,0.2,0.3},
+			show = 0,
+			enter_bag = 1,
+			value = 250,
+		},
+		[43]=
+		{
+			id = 43,
+			acti_type = 9,
+			num = {"prop_12_12_lh",0,0.01,},
+			show = 1,
+			enter_bag = 1,
+			value = 10,
+		},
 	},
 	box_fish_activity=
 	{
@@ -4954,6 +5181,15 @@ return {
 		[33]=
 		{
 			id = 33,
+			type = 1,
+			life = 0,
+			shoot = 0,
+			rate = 0,
+			gd_award = 0,
+		},
+		[34]=
+		{
+			id = 34,
 			type = 1,
 			life = 0,
 			shoot = 0,

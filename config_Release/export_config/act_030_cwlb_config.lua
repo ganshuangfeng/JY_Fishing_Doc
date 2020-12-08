@@ -4,9 +4,9 @@ return {
 		[1]=
 		{
 			line = 1,
-			icon = "s11kh_icon_sj",
-			name = "华为P40",
-			award_id = 11823,
+			icon = "s12xylb_icon_mdkt",
+			name = "美的空调",
+			award_id = 11856,
 		},
 		[2]=
 		{
@@ -15,7 +15,7 @@ return {
 			name = "15福利券",
 			asset_type = "shop_gold_sum",
 			value = 15,
-			award_id = 11819,
+			award_id = 11852,
 		},
 		[3]=
 		{
@@ -24,7 +24,7 @@ return {
 			name = "20000金币",
 			asset_type = "jing_bi",
 			value = 20000,
-			award_id = 11820,
+			award_id = 11853,
 		},
 		[4]=
 		{
@@ -33,7 +33,7 @@ return {
 			name = "30福利券",
 			asset_type = "shop_gold_sum",
 			value = 30,
-			award_id = 11821,
+			award_id = 11854,
 		},
 		[5]=
 		{
@@ -42,7 +42,7 @@ return {
 			name = "50000金币",
 			asset_type = "jing_bi",
 			value = 50000,
-			award_id = 11822,
+			award_id = 11855,
 		},
 		[6]=
 		{
@@ -51,7 +51,7 @@ return {
 			name = "12000金币",
 			asset_type = "jing_bi",
 			value = 12000,
-			award_id = 11818,
+			award_id = 11851,
 		},
 	},
 	gift=
@@ -59,7 +59,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			gift_id = 10357,
+			gift_id = 10396,
 			name = "498元礼包",
 			order = 6,
 			pay_icon = {"ty_icon_jb_498y","ty_icon_yxb_5","cwzp_icon_cjq",},
@@ -68,7 +68,7 @@ return {
 		[2]=
 		{
 			line = 2,
-			gift_id = 10358,
+			gift_id = 10397,
 			name = "198元礼包",
 			order = 5,
 			pay_icon = {"ty_icon_jb_198y","ty_icon_yxb_4","cwzp_icon_cjq",},
@@ -77,7 +77,7 @@ return {
 		[3]=
 		{
 			line = 3,
-			gift_id = 10359,
+			gift_id = 10398,
 			name = "98元礼包",
 			order = 4,
 			pay_icon = {"ty_icon_jb_98y","ty_icon_yxb_3","cwzp_icon_cjq",},
@@ -86,7 +86,7 @@ return {
 		[4]=
 		{
 			line = 4,
-			gift_id = 10360,
+			gift_id = 10399,
 			name = "48元礼包",
 			order = 3,
 			pay_icon = {"ty_icon_jb_50y","ty_icon_yxb_2","cwzp_icon_cjq",},
@@ -95,7 +95,7 @@ return {
 		[5]=
 		{
 			line = 5,
-			gift_id = 10361,
+			gift_id = 10400,
 			name = "20元礼包",
 			order = 2,
 			pay_icon = {"ty_icon_jb_48y","ty_icon_yxb_1","cwzp_icon_cjq",},
@@ -104,7 +104,7 @@ return {
 		[6]=
 		{
 			line = 6,
-			gift_id = 10362,
+			gift_id = 10401,
 			name = "6元礼包",
 			order = 1,
 			pay_icon = {"ty_icon_jb_30y","ty_icon_yxb_1","cwzp_icon_cjq",},
