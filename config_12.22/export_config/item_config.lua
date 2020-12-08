@@ -3885,7 +3885,7 @@ return {
 			item_key = "prop_sd_lh",
 			lose_time = -1,
 			is_local_icon = 1,
-			image = "by_sd_icon_lh",
+			image = "by_sd_icon_lh_1",
 			is_show_bag = 0,
 			order = 33,
 			name = "礼盒道具",
