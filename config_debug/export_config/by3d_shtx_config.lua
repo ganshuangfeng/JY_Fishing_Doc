@@ -604,7 +604,7 @@ return {
 			text = "捕鱼任意鱼500条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"X50000",},
+			award_txt = {"X20000",},
 		},
 		[56]=
 		{
@@ -615,7 +615,7 @@ return {
 			text = "捕获魔鬼鱼30条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"X50000",},
+			award_txt = {"X20000",},
 		},
 		[57]=
 		{
@@ -626,7 +626,7 @@ return {
 			text = "捕获虎鲸30条（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"X50000",},
+			award_txt = {"X20000",},
 		},
 		[58]=
 		{
