@@ -19216,16 +19216,16 @@ return {
 			source_type = "zajindan_award",
 			condition_id = 0,
 		},
-		[894]=
+		[893]=
 		{
-			id = 894,
+			id = 893,
 			source_id = 542,
 			source_type = "lwzb_game_award",
 			condition_id = 0,
 		},
-		[895]=
+		[894]=
 		{
-			id = 895,
+			id = 894,
 			source_id = 542,
 			source_type = "xiaoxiaole_xiyou_award",
 			condition_id = 0,
