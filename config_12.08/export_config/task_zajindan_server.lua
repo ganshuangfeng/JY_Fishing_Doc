@@ -22383,77 +22383,85 @@ return {
 		{
 			id = 519,
 			condition_id = 364,
-			condition_name = "gift_id",
+			condition_name = "asset_type",
 			condition_value = "shop_gold_sum",
 			judge_type = 2,
 		},
 		[520]=
 		{
 			id = 520,
-			condition_id = 365,
-			condition_name = "gift_id",
-			condition_value = {1,2,85,3,86,4,87,5,88,6,89,107,109,108,10044,110,10045,101,90,102,103,104,105,106,22,23,24,25,26,27,34,111,10189},
+			condition_id = 364,
+			condition_name = "task_id",
+			condition_value = {21315,21316,21317,21318,1000046,1000047,1000048,1000052,1000053,1000054,1000055,1000056,1000057,1000058,1000059,1000060},
 			judge_type = 2,
 		},
 		[521]=
 		{
 			id = 521,
-			condition_id = 366,
+			condition_id = 365,
 			condition_name = "gift_id",
-			condition_value = 2,
+			condition_value = {1,2,85,3,86,4,87,5,88,6,89,107,109,108,10044,110,10045,101,90,102,103,104,105,106,22,23,24,25,26,27,34,111,10189},
 			judge_type = 2,
 		},
 		[522]=
 		{
 			id = 522,
-			condition_id = 367,
+			condition_id = 366,
 			condition_name = "gift_id",
-			condition_value = 3,
+			condition_value = 2,
 			judge_type = 2,
 		},
 		[523]=
 		{
 			id = 523,
-			condition_id = 368,
+			condition_id = 367,
 			condition_name = "gift_id",
-			condition_value = 4,
+			condition_value = 3,
 			judge_type = 2,
 		},
 		[524]=
 		{
 			id = 524,
-			condition_id = 369,
+			condition_id = 368,
 			condition_name = "gift_id",
-			condition_value = 5,
+			condition_value = 4,
 			judge_type = 2,
 		},
 		[525]=
 		{
 			id = 525,
-			condition_id = 370,
+			condition_id = 369,
 			condition_name = "gift_id",
-			condition_value = 111,
+			condition_value = 5,
 			judge_type = 2,
 		},
 		[526]=
 		{
 			id = 526,
-			condition_id = 371,
+			condition_id = 370,
 			condition_name = "gift_id",
-			condition_value = 6,
+			condition_value = 111,
 			judge_type = 2,
 		},
 		[527]=
 		{
 			id = 527,
-			condition_id = 372,
+			condition_id = 371,
 			condition_name = "gift_id",
-			condition_value = 108,
+			condition_value = 6,
 			judge_type = 2,
 		},
 		[528]=
 		{
 			id = 528,
+			condition_id = 372,
+			condition_name = "gift_id",
+			condition_value = 108,
+			judge_type = 2,
+		},
+		[529]=
+		{
+			id = 529,
 			condition_id = 373,
 			condition_name = "gift_id",
 			condition_value = 110,

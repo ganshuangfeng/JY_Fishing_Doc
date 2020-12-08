@@ -22048,13 +22048,21 @@ return {
 		{
 			id = 519,
 			condition_id = 364,
-			condition_name = "asset_type",
-			condition_value = "shop_gold_sum",
+			condition_name = "task_id",
+			condition_value = {21315,21316,21317,21318,1000046,1000047,1000048,1000052,1000053,1000054,1000055,1000056,1000057,1000058,1000059,1000060},
 			judge_type = 2,
 		},
 		[520]=
 		{
 			id = 520,
+			condition_id = 364,
+			condition_name = "asset_type",
+			condition_value = "shop_gold_sum",
+			judge_type = 2,
+		},
+		[521]=
+		{
+			id = 521,
 			condition_id = 365,
 			condition_name = "gift_id",
 			condition_value = {1,2,85,3,86,4,87,5,88,6,89,107,109,108,10044,110,10045,101,90,102,103,104,105,106,22,23,24,25,26,27,34,111,10189},
