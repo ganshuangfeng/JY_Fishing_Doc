@@ -13568,7 +13568,7 @@ return {
 		{
 			no = 746,
 			id = 297,
-			var = "vip_level",
+			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 2,
 			group = 2,
