@@ -14782,7 +14782,7 @@ return {
 			no = 873,
 			id = 345,
 			var = "share_condition",
-			value = "cjj_all",
+			value = "cjj_cpl",
 			judge = 2,
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
