@@ -19216,13 +19216,6 @@ return {
 			source_type = "zajindan_award",
 			condition_id = 0,
 		},
-		[893]=
-		{
-			id = 893,
-			source_id = 542,
-			source_type = "buyu_3d_award",
-			condition_id = 0,
-		},
 		[894]=
 		{
 			id = 894,

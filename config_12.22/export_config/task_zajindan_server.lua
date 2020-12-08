@@ -19502,75 +19502,68 @@ return {
 		{
 			id = 893,
 			source_id = 542,
-			source_type = "buyu_3d_award",
+			source_type = "lwzb_game_award",
 			condition_id = 0,
 		},
 		[894]=
 		{
 			id = 894,
 			source_id = 542,
-			source_type = "lwzb_game_award",
+			source_type = "xiaoxiaole_xiyou_award",
 			condition_id = 0,
 		},
 		[895]=
 		{
 			id = 895,
-			source_id = 542,
-			source_type = "xiaoxiaole_xiyou_award",
-			condition_id = 0,
-		},
-		[896]=
-		{
-			id = 896,
 			source_id = 543,
 			source_type = "buy_gift",
 			condition_id = 383,
 		},
-		[897]=
+		[896]=
 		{
-			id = 897,
+			id = 896,
 			source_id = 544,
 			source_type = "buy_gift",
 			condition_id = 384,
 		},
-		[898]=
+		[897]=
 		{
-			id = 898,
+			id = 897,
 			source_id = 545,
 			source_type = "buy_gift",
 			condition_id = 385,
 		},
-		[899]=
+		[898]=
 		{
-			id = 899,
+			id = 898,
 			source_id = 546,
 			source_type = "buy_gift",
 			condition_id = 386,
 		},
-		[900]=
+		[899]=
 		{
-			id = 900,
+			id = 899,
 			source_id = 547,
 			source_type = "buy_gift",
 			condition_id = 387,
 		},
-		[901]=
+		[900]=
 		{
-			id = 901,
+			id = 900,
 			source_id = 548,
 			source_type = "buy_gift",
 			condition_id = 388,
 		},
-		[902]=
+		[901]=
 		{
-			id = 902,
+			id = 901,
 			source_id = 549,
 			source_type = "buy_gift",
 			condition_id = 389,
 		},
-		[903]=
+		[902]=
 		{
-			id = 903,
+			id = 902,
 			source_id = 550,
 			source_type = "buy_gift",
 			condition_id = 390,
