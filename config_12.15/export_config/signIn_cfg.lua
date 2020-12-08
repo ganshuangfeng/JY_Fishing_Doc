@@ -14,7 +14,7 @@ return {
 		[2]=
 		{
 			id = 2,
-			img = "ty_icon_jb_18y",
+			img = "3dby_btn_sd",
 			info = "锁定*3",
 			key = "signin_cpl",
 		},
@@ -38,7 +38,7 @@ return {
 		[5]=
 		{
 			id = 5,
-			img = "ty_icon_jb_50y",
+			img = "3dby_btn_zh",
 			info = "召唤*3",
 			key = "signin_cpl",
 		},
