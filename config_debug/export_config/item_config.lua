@@ -2059,6 +2059,7 @@ return {
 			name = "初级核弹碎片",
 			desc = "初级核弹碎片",
 			use_parm = {"by3d_hd","hecheng",1},
+			tag = 9,
 		},
 		[157]=
 		{
@@ -2073,6 +2074,7 @@ return {
 			name = "中级核弹碎片",
 			desc = "中级核弹碎片",
 			use_parm = {"by3d_hd","hecheng",2},
+			tag = 9,
 		},
 		[158]=
 		{
@@ -2087,6 +2089,7 @@ return {
 			name = "高级核弹碎片",
 			desc = "高级核弹碎片",
 			use_parm = {"by3d_hd","hecheng",3},
+			tag = 9,
 		},
 		[159]=
 		{
@@ -2101,6 +2104,7 @@ return {
 			name = "顶级核弹碎片",
 			desc = "顶级核弹碎片",
 			use_parm = {"by3d_hd","hecheng",4},
+			tag = 9,
 		},
 		[160]=
 		{
@@ -2115,6 +2119,7 @@ return {
 			name = "终极核弹碎片",
 			desc = "终极核弹碎片",
 			use_parm = {"by3d_hd","hecheng",5},
+			tag = 9,
 		},
 		[161]=
 		{
@@ -2128,6 +2133,7 @@ return {
 			order = 34,
 			name = "初级核弹",
 			desc = "初级核弹",
+			tag = 9,
 		},
 		[162]=
 		{
@@ -2141,6 +2147,7 @@ return {
 			order = 34,
 			name = "中级核弹",
 			desc = "中级核弹",
+			tag = 9,
 		},
 		[163]=
 		{
@@ -2154,6 +2161,7 @@ return {
 			order = 34,
 			name = "高级核弹",
 			desc = "高级核弹",
+			tag = 9,
 		},
 		[164]=
 		{
@@ -2167,6 +2175,7 @@ return {
 			order = 34,
 			name = "顶级核弹",
 			desc = "顶级核弹",
+			tag = 9,
 		},
 		[165]=
 		{
@@ -2180,6 +2189,7 @@ return {
 			order = 34,
 			name = "终极核弹",
 			desc = "终极核弹",
+			tag = 9,
 		},
 		[166]=
 		{
@@ -2193,6 +2203,7 @@ return {
 			order = 34,
 			name = "初级核弹(赠送)",
 			desc = "初级核弹(赠送)",
+			tag = 9,
 		},
 		[167]=
 		{
@@ -2206,6 +2217,7 @@ return {
 			order = 34,
 			name = "中级核弹(赠送)",
 			desc = "中级核弹(赠送)",
+			tag = 9,
 		},
 		[168]=
 		{
@@ -2219,6 +2231,7 @@ return {
 			order = 34,
 			name = "高级核弹(赠送)",
 			desc = "高级核弹(赠送)",
+			tag = 9,
 		},
 		[169]=
 		{
@@ -2232,6 +2245,7 @@ return {
 			order = 34,
 			name = "顶级核弹(赠送)",
 			desc = "顶级核弹(赠送)",
+			tag = 9,
 		},
 		[170]=
 		{
@@ -2245,6 +2259,7 @@ return {
 			order = 34,
 			name = "终极核弹(赠送)",
 			desc = "终极核弹(赠送)",
+			tag = 9,
 		},
 		[171]=
 		{
