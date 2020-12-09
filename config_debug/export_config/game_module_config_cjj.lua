@@ -2956,5 +2956,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[302]=
+		{
+			id = 302,
+			key = "act_039_ty_by_drop",
+			desc = "捕鱼通用掉落活动",
+			lua = "Act_039_TYBYDROPManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
