@@ -2052,6 +2052,12 @@ return {
 			name = "冲金鸡VIP描述屏蔽",
 			condi = 349,
 		},
+		not_cpl_jjj=
+		{
+			key = "not_cpl_jjj",
+			name = "救济金显示权限（非cpl显示30000，cpl为20000）",
+			condi = 350,
+		},
 	},
 	act_permission=
 	{
@@ -14957,6 +14963,26 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "冲金鸡官方",
+		},
+		[889]=
+		{
+			no = 889,
+			id = 350,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 5,
+			group = 1,
+			error_desc = "3D捕鱼cpl",
+		},
+		[890]=
+		{
+			no = 890,
+			id = 350,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 5,
+			group = 1,
+			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
 	},
 	share_condition=
