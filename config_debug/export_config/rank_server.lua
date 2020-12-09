@@ -269,6 +269,20 @@ return {
 		[20]=
 		{
 			id = 20,
+			enable = 0,
+			rank_type = "12_12_lhsjb_rank",
+			name = "礼盒收集榜",
+			begin_time = 1607385600,
+			end_time = 1607961599,
+			data_deal_type = "nor_add",
+			data_save_type = "single",
+			score_source = 21,
+			show_model = 20,
+			settle_model = 18,
+		},
+		[21]=
+		{
+			id = 21,
 			enable = 1,
 			rank_type = "ocean_explore_week_rank",
 			name = "深海探险排行榜",
@@ -276,8 +290,8 @@ return {
 			end_time = 2555555555,
 			data_deal_type = "nor_add",
 			data_save_type = "single",
-			show_model = 20,
-			settle_model = 18,
+			show_model = 21,
+			settle_model = 19,
 		},
 	},
 	score_source=
@@ -494,13 +508,13 @@ return {
 		{
 			id = 33,
 			source_id = 16,
-			source_type = "buyu_award",
+			source_type = "xiaoxiaole_xiyou_award",
 		},
 		[34]=
 		{
 			id = 34,
 			source_id = 16,
-			source_type = "xiaoxiaole_xiyou_award",
+			source_type = "buyu_award",
 		},
 		[35]=
 		{
@@ -535,6 +549,13 @@ return {
 			source_id = 20,
 			source_type = "buyu_3d_target_yu_award",
 			condtion_id = 21,
+		},
+		[40]=
+		{
+			id = 40,
+			source_id = 21,
+			source_type = "buyu_3d_get_use_item",
+			condtion_id = 22,
 		},
 	},
 	source_condition=
@@ -729,6 +750,14 @@ return {
 			condition_id = 21,
 			condition_name = "base_fish_id",
 			condition_value = {40,49},
+			judge_type = 2,
+		},
+		[25]=
+		{
+			id = 25,
+			condition_id = 22,
+			condition_name = "act_type",
+			condition_value = 9,
 			judge_type = 2,
 		},
 	},
@@ -961,6 +990,16 @@ return {
 			show_refresh_delay = 180,
 			show_refresh_self_delay = 10,
 		},
+		[21]=
+		{
+			id = 21,
+			show_limit = 1,
+			max_show_num = 20,
+			max_rank_num = 100,
+			max_award_num = 20,
+			show_refresh_delay = 180,
+			show_refresh_self_delay = 10,
+		},
 	},
 	settle_model=
 	{
@@ -1086,8 +1125,15 @@ return {
 		{
 			id = 18,
 			settle_time_model = 22,
-			is_clear = 0,
+			is_clear = 1,
 			award_model = 18,
+		},
+		[19]=
+		{
+			id = 19,
+			settle_time_model = 23,
+			is_clear = 1,
+			award_model = 19,
 		},
 	},
 	settle_time_model=
@@ -1221,6 +1267,12 @@ return {
 		[22]=
 		{
 			id = 22,
+			reset_type = "fix_time",
+			reset_value = 1607961599,
+		},
+		[23]=
+		{
+			id = 23,
 			reset_type = "week",
 			reset_value = 1,
 		},
@@ -2277,7 +2329,7 @@ return {
 			model_id = 18,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 97,
+			award_id = 102,
 			award_type = "nor",
 		},
 		[118]=
@@ -2286,7 +2338,7 @@ return {
 			model_id = 18,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 98,
+			award_id = 103,
 			award_type = "nor",
 		},
 		[119]=
@@ -2295,7 +2347,7 @@ return {
 			model_id = 18,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 99,
+			award_id = 104,
 			award_type = "nor",
 		},
 		[120]=
@@ -2303,107 +2355,80 @@ return {
 			id = 120,
 			model_id = 18,
 			start_rank = 4,
-			end_rank = 10,
-			award_id = 100,
+			end_rank = 6,
+			award_id = 105,
 			award_type = "nor",
 		},
 		[121]=
 		{
 			id = 121,
 			model_id = 18,
-			start_rank = 11,
-			end_rank = 20,
-			award_id = 101,
+			start_rank = 7,
+			end_rank = 10,
+			award_id = 106,
 			award_type = "nor",
 		},
 		[122]=
 		{
 			id = 122,
-			model_id = 19,
-			start_rank = 1,
-			end_rank = 1,
-			award_id = 97,
+			model_id = 18,
+			start_rank = 11,
+			end_rank = 15,
+			award_id = 107,
 			award_type = "nor",
 		},
 		[123]=
 		{
 			id = 123,
-			model_id = 19,
-			start_rank = 2,
-			end_rank = 2,
-			award_id = 98,
+			model_id = 18,
+			start_rank = 16,
+			end_rank = 20,
+			award_id = 108,
 			award_type = "nor",
 		},
 		[124]=
 		{
 			id = 124,
 			model_id = 19,
-			start_rank = 3,
-			end_rank = 3,
-			award_id = 99,
+			start_rank = 1,
+			end_rank = 1,
+			award_id = 109,
 			award_type = "nor",
 		},
 		[125]=
 		{
 			id = 125,
 			model_id = 19,
-			start_rank = 4,
-			end_rank = 10,
-			award_id = 100,
+			start_rank = 2,
+			end_rank = 2,
+			award_id = 110,
 			award_type = "nor",
 		},
 		[126]=
 		{
 			id = 126,
 			model_id = 19,
-			start_rank = 11,
-			end_rank = 20,
-			award_id = 101,
+			start_rank = 3,
+			end_rank = 3,
+			award_id = 111,
 			award_type = "nor",
 		},
 		[127]=
 		{
 			id = 127,
-			model_id = 20,
-			start_rank = 1,
-			end_rank = 1,
-			award_id = 102,
+			model_id = 19,
+			start_rank = 4,
+			end_rank = 10,
+			award_id = 112,
 			award_type = "nor",
 		},
 		[128]=
 		{
 			id = 128,
-			model_id = 20,
-			start_rank = 2,
-			end_rank = 2,
-			award_id = 103,
-			award_type = "nor",
-		},
-		[129]=
-		{
-			id = 129,
-			model_id = 20,
-			start_rank = 3,
-			end_rank = 3,
-			award_id = 104,
-			award_type = "nor",
-		},
-		[130]=
-		{
-			id = 130,
-			model_id = 20,
-			start_rank = 4,
-			end_rank = 10,
-			award_id = 105,
-			award_type = "nor",
-		},
-		[131]=
-		{
-			id = 131,
-			model_id = 20,
+			model_id = 19,
 			start_rank = 11,
 			end_rank = 20,
-			award_id = 106,
+			award_id = 113,
 			award_type = "nor",
 		},
 	},
@@ -3350,51 +3375,114 @@ return {
 		{
 			id = 106,
 			award_id = 102,
-			award_name = "5个高级核弹",
-			asset_type = "prop_3d_fish_nuclear_bomb_3",
-			asset_count = 5,
+			award_name = "10万福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 100000,
 			get_weight = 1,
 		},
 		[107]=
 		{
 			id = 107,
 			award_id = 103,
-			award_name = "1个高级核弹",
-			asset_type = "prop_3d_fish_nuclear_bomb_3",
-			asset_count = 1,
+			award_name = "3万福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 30000,
 			get_weight = 1,
 		},
 		[108]=
 		{
 			id = 108,
-			award_id = 103,
-			award_name = "4个中级核弹",
-			asset_type = "prop_3d_fish_nuclear_bomb_2",
-			asset_count = 4,
+			award_id = 104,
+			award_name = "1万福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[109]=
 		{
 			id = 109,
-			award_id = 104,
-			award_name = "2个中级核弹",
-			asset_type = "prop_3d_fish_nuclear_bomb_2",
-			asset_count = 2,
+			award_id = 105,
+			award_name = "3千福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[110]=
 		{
 			id = 110,
-			award_id = 105,
-			award_name = "5个初级核弹",
-			asset_type = "prop_3d_fish_nuclear_bomb_1",
-			asset_count = 5,
+			award_id = 106,
+			award_name = "2千福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[111]=
 		{
 			id = 111,
-			award_id = 106,
+			award_id = 107,
+			award_name = "1千福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[112]=
+		{
+			id = 112,
+			award_id = 108,
+			award_name = "5百福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 500,
+			get_weight = 1,
+		},
+		[113]=
+		{
+			id = 113,
+			award_id = 109,
+			award_name = "5个高级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_3",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[114]=
+		{
+			id = 114,
+			award_id = 110,
+			award_name = "1个高级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_3",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[115]=
+		{
+			id = 115,
+			award_id = 111,
+			award_name = "4个中级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_2",
+			asset_count = 4,
+			get_weight = 1,
+		},
+		[116]=
+		{
+			id = 116,
+			award_id = 112,
+			award_name = "2个中级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_2",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[117]=
+		{
+			id = 117,
+			award_id = 113,
+			award_name = "5个初级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_1",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[118]=
+		{
+			id = 118,
+			award_id = 114,
 			award_name = "2个初级核弹",
 			asset_type = "prop_3d_fish_nuclear_bomb_1",
 			asset_count = 2,
