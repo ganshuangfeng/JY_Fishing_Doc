@@ -7574,8 +7574,8 @@ return {
 		{
 			no = 146,
 			id = 72,
-			var = "tag_type",
-			value = "tag_plat_xw_clby",
+			var = "share_condition",
+			value = "3dby_cpl",
 			judge = 2,
 			group = 2,
 			error_desc = "是闲玩潮流捕鱼的用户",
