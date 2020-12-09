@@ -27,7 +27,7 @@ return {
 			no = 3,
 			award_id = 16,
 			vip_level = 2,
-			rate = 2,
+			rate = 3,
 		},
 		[4]=
 		{
@@ -38,18 +38,20 @@ return {
 		{
 			no = 5,
 			award_id = 18,
-			vip_level = 3,
-			rate = 3,
 		},
 		[6]=
 		{
 			no = 6,
 			award_id = 19,
+			vip_level = 3,
+			rate = 3,
 		},
 		[7]=
 		{
 			no = 7,
 			award_id = 20,
+			vip_level = 5,
+			rate = 3,
 		},
 	},
 	acc=
