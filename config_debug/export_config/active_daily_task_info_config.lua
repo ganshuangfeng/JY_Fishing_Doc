@@ -54,7 +54,7 @@ return {
 			task_award_count = {"x1500","x20"},
 			gotoui = {"game_Fishing3DHall",},
 			vip = 1,
-			vip_desc = {"v1双倍", ""},
+			vip_desc = {"V1双倍", ""},
 		},
 		[3]=
 		{
@@ -82,7 +82,7 @@ return {
 			task_award_count = {"x3000","x30"},
 			gotoui = {"game_Fishing3DHall",},
 			vip = 2,
-			vip_desc = {"v2三倍", ""},
+			vip_desc = {"V2三倍", ""},
 		},
 		[5]=
 		{
@@ -97,7 +97,7 @@ return {
 			task_award_count = {"x8000","x30"},
 			gotoui = {"game_Fishing3DHall",},
 			vip = 3,
-			vip_desc = {"v3三倍", ""},
+			vip_desc = {"V3三倍", ""},
 		},
 		[6]=
 		{
@@ -112,7 +112,7 @@ return {
 			task_award_count = {"x5000","x30"},
 			gotoui = {"game_Fishing3DHall",},
 			vip = 5,
-			vip_desc = {"v5三倍", ""},
+			vip_desc = {"V5三倍", ""},
 		},
 		[7]=
 		{
@@ -136,7 +136,7 @@ return {
 			active = 30,
 			award_tip = "1500鱼币，锁定*1",
 			vip = 1,
-			vip_desc = "v1三倍",
+			vip_desc = "V1三倍",
 		},
 		[2]=
 		{
@@ -144,7 +144,7 @@ return {
 			active = 60,
 			award_tip = "3000鱼币，召唤*1",
 			vip = 2,
-			vip_desc = "v2三倍",
+			vip_desc = "V2三倍",
 		},
 		[3]=
 		{
@@ -158,7 +158,7 @@ return {
 			active = 120,
 			award_tip = "3000鱼币，3000金币",
 			vip = 3,
-			vip_desc = "v3三倍",
+			vip_desc = "V3三倍",
 		},
 		[5]=
 		{
@@ -166,7 +166,7 @@ return {
 			active = 150,
 			award_tip = "2万金币，锁定*1",
 			vip = 5,
-			vip_desc = "v5三倍",
+			vip_desc = "V5三倍",
 		},
 	},
 	active_task_item=
