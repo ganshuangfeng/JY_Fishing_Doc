@@ -2980,6 +2980,7 @@ return {
 		{
 			id = 304,
 			key = "act_038_by_and_cjj_conduct",
+			desc = "cjj互导",
 			lua = "Act_038_BY_AND_CJJ_CONDUCTManager",
 			is_on_off = 1,
 			enable = 1,
