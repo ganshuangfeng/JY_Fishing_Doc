@@ -2830,15 +2830,6 @@ return {
 		[289]=
 		{
 			id = 289,
-			key = "act_034_ldfl",
-			desc = "立冬福利（小游戏）",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
-		},
-		[290]=
-		{
-			id = 290,
 			key = "by3d_shtx",
 			desc = "深海探险",
 			lua = "BY3DSHTXManager",
@@ -2846,9 +2837,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[291]=
+		[290]=
 		{
-			id = 291,
+			id = 290,
 			key = "act_035_ybwl",
 			desc = "一本万利",
 			lua = "Act_035_YBWLManager",
@@ -2856,9 +2847,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[292]=
+		[291]=
 		{
-			id = 292,
+			id = 291,
 			key = "act_035_jhs",
 			desc = "聚划算",
 			lua = "Act_035_JHSManager",
@@ -2866,9 +2857,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[293]=
+		[292]=
 		{
-			id = 293,
+			id = 292,
 			key = "act_036_hjhhl",
 			desc = "火鸡换好礼",
 			lua = "Act_036_HJHHLManager",
@@ -2876,9 +2867,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[294]=
+		[293]=
 		{
-			id = 294,
+			id = 293,
 			key = "act_036_hjhhl_drop_ani",
 			desc = "火鸡掉落需求",
 			lua = "Act_036_HJHHLDROPManager",
@@ -2886,9 +2877,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[295]=
+		[294]=
 		{
-			id = 295,
+			id = 294,
 			key = "act_036_gelb",
 			desc = "感恩礼包",
 			lua = "Act_036_GELBManager",
@@ -2896,9 +2887,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[296]=
+		[295]=
 		{
-			id = 296,
+			id = 295,
 			key = "act_038_s12dhhl",
 			desc = "双十二兑换好礼",
 			lua = "Act_038_S12DHHLManager",
@@ -2906,9 +2897,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[297]=
+		[296]=
 		{
-			id = 297,
+			id = 296,
 			key = "act_038_s12lhsjb",
 			desc = "双十二礼盒收集榜",
 			lua = "Act_038_S12LHSJBManager",
@@ -2916,18 +2907,18 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[298]=
+		[297]=
 		{
-			id = 298,
+			id = 297,
 			key = "act_038_s12",
 			desc = "双十二页签",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
-		[299]=
+		[298]=
 		{
-			id = 299,
+			id = 298,
 			key = "act_038_s12lh_drop_ani",
 			desc = "双12礼盒掉落",
 			lua = "Act_038_S12LHDROPManager",
@@ -2935,18 +2926,18 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[300]=
+		[299]=
 		{
-			id = 300,
+			id = 299,
 			key = "act_038_by_and_cjj_conduct",
 			lua = "Act_038_BY_AND_CJJ_CONDUCTManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
-		[301]=
+		[300]=
 		{
-			id = 301,
+			id = 300,
 			key = "act_039_jzhhl",
 			desc = "饺子换好礼→圣诞福利",
 			lua = "Act_039_JZHHLManager",
@@ -2954,9 +2945,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[302]=
+		[301]=
 		{
-			id = 302,
+			id = 301,
 			key = "act_039_jzsjb",
 			desc = "饺子收集榜",
 			lua = "Act_039_JZSJBManager",
