@@ -349,7 +349,7 @@ return {
 		{
 			id = 19,
 			ID = 19,
-			title = "双十二兑换好礼",
+			title = "兑换好礼",
 			noCloseUI = 0,
 			order = 1,
 			key = "act_038_s12dhhl",
@@ -367,7 +367,7 @@ return {
 		{
 			id = 20,
 			ID = 20,
-			title = "双十二礼盒收集榜",
+			title = "礼盒收集榜",
 			noCloseUI = 0,
 			order = 2,
 			key = "act_038_s12lhsjb",
