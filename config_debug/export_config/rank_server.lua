@@ -3447,42 +3447,33 @@ return {
 		{
 			id = 114,
 			award_id = 110,
-			award_name = "1个高级核弹",
+			award_name = "3个高级核弹",
 			asset_type = "prop_3d_fish_nuclear_bomb_3",
-			asset_count = 1,
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[115]=
 		{
 			id = 115,
 			award_id = 111,
-			award_name = "4个中级核弹",
+			award_name = "2个中级核弹",
 			asset_type = "prop_3d_fish_nuclear_bomb_2",
-			asset_count = 4,
+			asset_count = 2,
 			get_weight = 1,
 		},
 		[116]=
 		{
 			id = 116,
 			award_id = 112,
-			award_name = "2个中级核弹",
-			asset_type = "prop_3d_fish_nuclear_bomb_2",
-			asset_count = 2,
+			award_name = "5个初级核弹",
+			asset_type = "prop_3d_fish_nuclear_bomb_1",
+			asset_count = 5,
 			get_weight = 1,
 		},
 		[117]=
 		{
 			id = 117,
 			award_id = 113,
-			award_name = "5个初级核弹",
-			asset_type = "prop_3d_fish_nuclear_bomb_1",
-			asset_count = 5,
-			get_weight = 1,
-		},
-		[118]=
-		{
-			id = 118,
-			award_id = 114,
 			award_name = "2个初级核弹",
 			asset_type = "prop_3d_fish_nuclear_bomb_1",
 			asset_count = 2,
