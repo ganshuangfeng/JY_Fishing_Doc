@@ -578,6 +578,13 @@ return {
 			source_type = "buyu_3d_get_use_item",
 			condtion_id = 23,
 		},
+		[42]=
+		{
+			id = 42,
+			source_id = 22,
+			source_type = "buyu_get_use_item",
+			condtion_id = 23,
+		},
 	},
 	source_condition=
 	{
