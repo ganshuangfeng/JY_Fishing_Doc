@@ -2237,7 +2237,7 @@ return {
 			web_show = 0,
 			shop_type = "gift_bag",
 			price = 100,
-			buy_asset_type = {"jing_bi","shop_gold_sum","prop_web_chip_huafei"},
+			buy_asset_type = {"jing_bi","prop_web_chip_huafei",},
 			buy_asset_count = {50000,2,},
 			buy_limt = {9999999999,1,0},
 			count = 99999999,
