@@ -5086,7 +5086,7 @@ return {
 		{
 			id = 47,
 			acti_type = 9,
-			num = {"prop_dz_jz",1,0.01,},
+			num = {"prop_dz_jz",0,0.01,},
 			show = 1,
 			enter_bag = 1,
 			value = 10,
