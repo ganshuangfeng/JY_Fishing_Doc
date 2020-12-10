@@ -2099,7 +2099,7 @@ return {
 			jingbi_id = 6,
 			on_off = 0,
 			pay_title = "首冲498元加赠",
-			jz_title = "首充加赠2460万",
+			jz_title = "首充加赠2640万",
 			gzh_order = -4,
 			gzh_show = 0,
 			web_show = 0,
