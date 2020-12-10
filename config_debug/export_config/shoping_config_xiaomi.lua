@@ -12435,6 +12435,7 @@ return {
 			line_id = 1,
 			id = 1,
 			platform = "android",
+			gift_id = 10330,
 			goods_id = 1,
 			use_type = "diamond",
 			use_count = 480,
