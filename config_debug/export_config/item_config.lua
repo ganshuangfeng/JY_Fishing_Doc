@@ -1016,7 +1016,6 @@ return {
 			order = 23,
 			name = "抽奖券",
 			desc = "用于红包大转盘的抽奖",
-			use_parm = {"sys_flqcj","panel",1},
 		},
 		[80]=
 		{
