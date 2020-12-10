@@ -4246,7 +4246,7 @@ return {
 			acti_type = 21,
 			num = {1,0,90,1,10},
 			show = 0,
-			enter_bag = 0,
+			enter_bag = 1,
 			value = 5,
 		},
 		[26]=
@@ -4255,7 +4255,7 @@ return {
 			acti_type = 21,
 			num = {1,0,85,1,10,2,5},
 			show = 0,
-			enter_bag = 0,
+			enter_bag = 1,
 			value = 2,
 		},
 		[27]=
@@ -4264,7 +4264,7 @@ return {
 			acti_type = 21,
 			num = {1,0,70,1,10,2,15,3,5},
 			show = 0,
-			enter_bag = 0,
+			enter_bag = 1,
 			value = 6,
 		},
 		[28]=
@@ -4381,7 +4381,7 @@ return {
 			acti_type = 21,
 			num = {1,0,70,1,0,2,15,3,7,4,3},
 			show = 0,
-			enter_bag = 0,
+			enter_bag = 1,
 			value = 2,
 		},
 		[41]=
@@ -4390,7 +4390,7 @@ return {
 			acti_type = 21,
 			num = {1,0,84,1,0,2,0,3,10,4,5,5,1},
 			show = 0,
-			enter_bag = 0,
+			enter_bag = 1,
 			value = 2,
 		},
 		[42]=
