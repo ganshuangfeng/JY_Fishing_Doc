@@ -1015,8 +1015,7 @@ return {
 			is_show_bag = 1,
 			order = 23,
 			name = "抽奖券",
-			desc = "用于红包大转盘的抽奖",
-			use_parm = {"sys_flqcj","panel",1},
+			desc = "用于福利券转盘中的福利转盘抽奖。",
 		},
 		[80]=
 		{
