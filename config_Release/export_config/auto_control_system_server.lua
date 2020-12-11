@@ -37,6 +37,12 @@ return {
 			game_type = "tantanle_award",
 			permission_model_id = 1,
 		},
+		[7]=
+		{
+			id = 7,
+			game_type = "xxl_xiyou_award",
+			permission_model_id = 1,
+		},
 	},
 	permission_model=
 	{

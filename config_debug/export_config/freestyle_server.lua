@@ -1200,7 +1200,7 @@ return {
 			id = 25,
 			game_id = 25,
 			asset_type = "jing_bi",
-			asset_count = 2000,
+			asset_count = 10000,
 			judge_type = 1,
 		},
 		[26]=
