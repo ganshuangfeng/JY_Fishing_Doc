@@ -225,6 +225,13 @@ return {
 			start_time = 1608595200,
 			recycle_time = 1609171199,
 		},
+		[33]=
+		{
+			id = 33,
+			prop_type = "prop_yd_jyb",
+			start_time = 1609200000,
+			recycle_time = 1609775999,
+		},
 	},
 	player_ext_status=
 	{

@@ -3890,5 +3890,18 @@ return {
 			name = "礼盒道具",
 			desc = "圣诞节礼盒道具",
 		},
+		[288]=
+		{
+			id = 288,
+			item_id = 288,
+			item_key = "prop_yd_jyb",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "hldz_iocn_jyb",
+			is_show_bag = 0,
+			order = 33,
+			name = "金元宝",
+			desc = "元旦活动——金元宝",
+		},
 	},
 }

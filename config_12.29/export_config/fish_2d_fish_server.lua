@@ -1936,8 +1936,8 @@ return {
 			ID = 206,
 			fish_type = 1,
 			fish_form = {180,},
-			life = 75,
-			rate = 75,
+			life = 150,
+			rate = 150,
 			gd_award = 0,
 		},
 		[207]=
@@ -1945,8 +1945,8 @@ return {
 			ID = 207,
 			fish_type = 1,
 			fish_form = {181,},
-			life = 150,
-			rate = 150,
+			life = 250,
+			rate = 250,
 			gd_award = 0,
 		},
 		[208]=
@@ -1954,8 +1954,8 @@ return {
 			ID = 208,
 			fish_type = 1,
 			fish_form = {182,},
-			life = 250,
-			rate = 250,
+			life = 350,
+			rate = 350,
 			gd_award = 0,
 		},
 	},
@@ -4627,23 +4627,8 @@ return {
 		[180]=
 		{
 			id = 180,
-			base_id = 35,
+			base_id = 36,
 			act_id = 44,
-			life = 75,
-			shoot = 0.013333,
-			act_type = "activity",
-			rate = 75,
-			dead_mode = 1,
-			gd_award = 0,
-			ranking_rate = 75,
-			ranking_show_rate = 1,
-			broadcast = 0,
-		},
-		[181]=
-		{
-			id = 181,
-			base_id = 35,
-			act_id = 45,
 			life = 150,
 			shoot = 0.006667,
 			act_type = "activity",
@@ -4654,11 +4639,11 @@ return {
 			ranking_show_rate = 1,
 			broadcast = 0,
 		},
-		[182]=
+		[181]=
 		{
-			id = 182,
-			base_id = 35,
-			act_id = 46,
+			id = 181,
+			base_id = 36,
+			act_id = 45,
 			life = 250,
 			shoot = 0.004000,
 			act_type = "activity",
@@ -4666,6 +4651,21 @@ return {
 			dead_mode = 1,
 			gd_award = 0,
 			ranking_rate = 250,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
+		[182]=
+		{
+			id = 182,
+			base_id = 36,
+			act_id = 46,
+			life = 350,
+			shoot = 0.002857,
+			act_type = "activity",
+			rate = 350,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 350,
 			ranking_show_rate = 1,
 			broadcast = 0,
 		},
@@ -5059,34 +5059,34 @@ return {
 		{
 			id = 44,
 			acti_type = 9,
-			num = {"prop_sd_lh",0,0.05,0.1},
+			num = {"prop_yd_jyb",0,0.1,0.2},
 			show = 0,
 			enter_bag = 1,
-			value = 75,
+			value = 150,
 		},
 		[45]=
 		{
 			id = 45,
 			acti_type = 9,
-			num = {"prop_sd_lh",0,0.1,0.2},
+			num = {"prop_yd_jyb",0,0.2,0.3},
 			show = 0,
 			enter_bag = 1,
-			value = 150,
+			value = 250,
 		},
 		[46]=
 		{
 			id = 46,
 			acti_type = 9,
-			num = {"prop_sd_lh",0,0.2,0.3},
+			num = {"prop_yd_jyb",0,0.3,0.4},
 			show = 0,
 			enter_bag = 1,
-			value = 250,
+			value = 350,
 		},
 		[47]=
 		{
 			id = 47,
 			acti_type = 9,
-			num = {"prop_sd_lh",1,0.01,},
+			num = {"prop_yd_jyb",1,0.01,},
 			show = 1,
 			enter_bag = 1,
 			value = 10,
@@ -5427,6 +5427,15 @@ return {
 		[35]=
 		{
 			id = 35,
+			type = 1,
+			life = 0,
+			shoot = 0,
+			rate = 0,
+			gd_award = 0,
+		},
+		[36]=
+		{
+			id = 36,
 			type = 1,
 			life = 0,
 			shoot = 0,
