@@ -7855,6 +7855,20 @@ return {
 			end_valid_time = 1609171199,
 			time_limit = -1,
 		},
+		[1000152]=
+		{
+			id = 1000152,
+			enable = 1,
+			name = "vip8及以上周任务",
+			own_type = "vip_week_task_8",
+			task_enum = "vip_week_task",
+			process_id = 21510,
+			is_reset = 1,
+			reset_delay = 7,
+			start_valid_time = 1570377600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -13201,6 +13215,16 @@ return {
 			awards = 893,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
+		},
+		[562]=
+		{
+			id = 562,
+			process_id = 21510,
+			condition_type = "asset_observe",
+			source_id = 551,
+			process = 0,
+			awards = 894,
+			get_award_type = "nor",
 		},
 	},
 	source=
@@ -19568,6 +19592,13 @@ return {
 			source_type = "buy_gift",
 			condition_id = 390,
 		},
+		[903]=
+		{
+			id = 903,
+			source_id = 551,
+			source_type = "asset_observe",
+			condition_id = 0,
+		},
 	},
 	condition=
 	{
@@ -25826,7 +25857,7 @@ return {
 		{
 			id = 265,
 			award_id = 151,
-			asset_type = "prop_3d_fish_summon_fish",
+			asset_type = "prop_3d_fish_wild",
 			asset_count = 10,
 			get_weight = 1,
 		},
@@ -25850,8 +25881,8 @@ return {
 		{
 			id = 268,
 			award_id = 152,
-			asset_type = "prop_3d_fish_summon_fish",
-			asset_count = 10,
+			asset_type = "prop_3d_fish_wild",
+			asset_count = 15,
 			get_weight = 1,
 		},
 		[269]=
@@ -29889,8 +29920,8 @@ return {
 		{
 			id = 773,
 			award_id = 567,
-			asset_type = "prop_3d_fish_summon_fish",
-			asset_count = 10,
+			asset_type = "prop_3d_fish_wild",
+			asset_count = 5,
 			get_weight = 1,
 		},
 		[774]=
@@ -34353,6 +34384,30 @@ return {
 			award_id = 893,
 			asset_type = "_common_rank_sd_lhsjb_rank",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[1332]=
+		{
+			id = 1332,
+			award_id = 894,
+			asset_type = "fish_coin",
+			asset_count = 1000000,
+			get_weight = 1,
+		},
+		[1333]=
+		{
+			id = 1333,
+			award_id = 894,
+			asset_type = "prop_guess_apple_bet_2",
+			asset_count = 15,
+			get_weight = 1,
+		},
+		[1334]=
+		{
+			id = 1334,
+			award_id = 894,
+			asset_type = "prop_3d_fish_wild",
+			asset_count = 20,
 			get_weight = 1,
 		},
 	},
