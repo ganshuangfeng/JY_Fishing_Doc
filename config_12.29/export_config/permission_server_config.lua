@@ -2070,6 +2070,12 @@ return {
 			name = "救济金显示权限（非cpl显示30000，cpl为20000）",
 			condi = 354,
 		},
+		by_cjj_cpl_type_plat=
+		{
+			key = "by_cjj_cpl_type_plat",
+			name = "捕鱼&冲金鸡平台的CPL用户（大等1元）",
+			condi = 355,
+		},
 	},
 	act_permission=
 	{
@@ -15019,6 +15025,46 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "是玩棋牌渠道玩家才可游戏",
+		},
+		[891]=
+		{
+			no = 891,
+			id = 355,
+			var = "pay_sum",
+			value = 100,
+			judge = 3,
+			group = 1,
+			error_desc = "充值大等1元",
+		},
+		[892]=
+		{
+			no = 892,
+			id = 355,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是cpl玩家才可游戏",
+		},
+		[893]=
+		{
+			no = 893,
+			id = 355,
+			var = "pay_sum",
+			value = 100,
+			judge = 3,
+			group = 2,
+			error_desc = "充值大等1元",
+		},
+		[894]=
+		{
+			no = 894,
+			id = 355,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 2,
+			error_desc = "是cpl玩家才可游戏",
 		},
 	},
 	share_condition=
