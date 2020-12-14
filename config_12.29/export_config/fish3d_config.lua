@@ -1969,6 +1969,7 @@ return {
 			ice_card = 1,
 			ice_lightning = 0.800000,
 			fish_scale = 0.100000,
+			face_ids = {18,19,20},
 			blood_pos = {0,-100},
 			blood_scale = {0.4,0.5},
 			close_rota = 1,
