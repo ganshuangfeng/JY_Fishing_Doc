@@ -2979,7 +2979,7 @@ return {
 		[304]=
 		{
 			id = 304,
-			key = "act_040_ydfl ",
+			key = "act_040_ydfl",
 			desc = "元旦福利",
 			lua = "Act_013_DLFLManager",
 			is_on_off = 1,
