@@ -602,22 +602,50 @@ return {
 		[41]=
 		{
 			id = 41,
-			source_id = 22,
-			source_type = "buyu_3d_get_use_item",
-			condtion_id = 23,
+			source_id = 21,
+			source_type = "buyu_get_use_item",
+			condtion_id = 22,
 		},
 		[42]=
 		{
 			id = 42,
-			source_id = 23,
+			source_id = 22,
 			source_type = "buyu_3d_get_use_item",
-			condtion_id = 24,
+			condtion_id = 23,
 		},
 		[43]=
 		{
 			id = 43,
+			source_id = 22,
+			source_type = "buyu_get_use_item",
+			condtion_id = 23,
+		},
+		[44]=
+		{
+			id = 44,
+			source_id = 23,
+			source_type = "buyu_3d_get_use_item",
+			condtion_id = 24,
+		},
+		[45]=
+		{
+			id = 45,
+			source_id = 23,
+			source_type = "buyu_get_use_item",
+			condtion_id = 24,
+		},
+		[46]=
+		{
+			id = 46,
 			source_id = 24,
 			source_type = "buyu_3d_get_use_item",
+			condtion_id = 25,
+		},
+		[47]=
+		{
+			id = 47,
+			source_id = 25,
+			source_type = "buyu_get_use_item",
 			condtion_id = 25,
 		},
 	},
@@ -834,17 +862,41 @@ return {
 		[27]=
 		{
 			id = 27,
-			condition_id = 24,
-			condition_name = "act_type",
-			condition_value = 9,
+			condition_id = 23,
+			condition_name = "asset_type",
+			condition_value = "prop_dz_jz",
 			judge_type = 2,
 		},
 		[28]=
 		{
 			id = 28,
+			condition_id = 24,
+			condition_name = "act_type",
+			condition_value = 9,
+			judge_type = 2,
+		},
+		[29]=
+		{
+			id = 29,
+			condition_id = 24,
+			condition_name = "asset_type",
+			condition_value = "prop_sd_lh",
+			judge_type = 2,
+		},
+		[30]=
+		{
+			id = 30,
 			condition_id = 25,
 			condition_name = "act_type",
 			condition_value = 9,
+			judge_type = 2,
+		},
+		[31]=
+		{
+			id = 31,
+			condition_id = 25,
+			condition_name = "asset_type",
+			condition_value = "prop_yd_jyb",
 			judge_type = 2,
 		},
 	},
