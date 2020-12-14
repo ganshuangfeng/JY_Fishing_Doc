@@ -7939,6 +7939,20 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
+		[1000158]=
+		{
+			id = 1000158,
+			enable = 1,
+			name = "金元宝掉落",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21516,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1609171200,
+			end_valid_time = 1609775999,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -13343,6 +13357,16 @@ return {
 			source_id = 390,
 			process = {2000000,3000000,5000000,10000000,30000000,50000000,100000000,300000000,500000000,1000000000,1000000000,2000000000},
 			awards = {914,915,916,917,918,919,920,921,922,923,924,925},
+		},
+		[568]=
+		{
+			id = 568,
+			process_id = 21516,
+			source_id = 542,
+			process = {1000000,-1},
+			awards = 926,
+			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 	},
 	source=
@@ -35029,6 +35053,22 @@ return {
 			id = 1397,
 			award_id = 925,
 			asset_type = "prop_hammer_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1398]=
+		{
+			id = 1398,
+			award_id = 926,
+			asset_type = "prop_yd_jyb",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1399]=
+		{
+			id = 1399,
+			award_id = 926,
+			asset_type = "_common_rank_yd_jyb_rank",
 			asset_count = 1,
 			get_weight = 1,
 		},
