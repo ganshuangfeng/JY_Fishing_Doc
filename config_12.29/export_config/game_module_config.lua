@@ -2503,9 +2503,9 @@ return {
 		{
 			id = 256,
 			key = "act_025_jrth",
-			desc = "节日特惠",
+			desc = "节日特惠→金牛幸运宝箱",
 			lua = "Act_025_JRTHManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
@@ -2960,8 +2960,8 @@ return {
 		[302]=
 		{
 			id = 302,
-			key = "act_038_s12",
-			desc = "双十二页签",
+			key = "a+I303+B303:D+B303:H304",
+			desc = "双十二页签→元旦活动",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
