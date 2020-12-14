@@ -157,7 +157,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#8#61#115#",
+			group_list = "3;116#2#8#117#61#115#",
 		},
 		[2]=
 		{
@@ -1138,6 +1138,12 @@ return {
 			parm = {"xycj",},
 			is_on_off = 1,
 			condi_key = "xycj_enter_limit",
+		},
+		[117]=
+		{
+			id = 117,
+			parm = "act_040_ydfl ",
+			is_on_off = 1,
 		},
 	},
 }
