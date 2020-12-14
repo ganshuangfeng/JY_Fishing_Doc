@@ -2990,7 +2990,7 @@ return {
 		{
 			id = 305,
 			key = "act_039_jzhhl",
-			desc = "饺子换好礼→圣诞福利",
+			desc = "饺子换好礼→圣诞福利→元旦好礼",
 			lua = "Act_039_JZHHLManager",
 			is_on_off = 1,
 			enable = 1,
@@ -3000,7 +3000,7 @@ return {
 		{
 			id = 306,
 			key = "act_039_jzsjb",
-			desc = "饺子收集榜",
+			desc = "饺子收集榜 → 金元宝榜",
 			lua = "Act_039_JZSJBManager",
 			is_on_off = 1,
 			enable = 1,
@@ -3022,6 +3022,16 @@ return {
 			key = "act_040_by_and_cjj_to_ddz_conduct",
 			desc = "游戏互导向斗地主",
 			lua = "Act_040_BY_AND_CJJ_TO_DDZ_CONDUCTManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[309]=
+		{
+			id = 309,
+			key = "act_040_ydfl ",
+			desc = "元旦福利",
+			lua = "Act_013_DLFLManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

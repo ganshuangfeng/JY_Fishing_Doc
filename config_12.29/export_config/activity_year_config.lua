@@ -396,8 +396,8 @@ return {
 			is_local_icon = 1,
 			gotoUI = {"act_039_jzhhl","panel"},
 			tag = "normal",
-			beginTime = 1608595200,
-			endTime = 1609171199,
+			beginTime = 1609200000,
+			endTime = 1609775999,
 		},
 		[22]=
 		{
@@ -414,8 +414,8 @@ return {
 			is_local_icon = 1,
 			gotoUI = {"act_039_jzsjb","panel"},
 			tag = "normal",
-			beginTime = 1608595200,
-			endTime = 1609171199,
+			beginTime = 1609200000,
+			endTime = 1609775999,
 		},
 		[23]=
 		{
