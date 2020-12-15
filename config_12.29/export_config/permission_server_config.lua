@@ -966,12 +966,6 @@ return {
 			name = "新人红包2020春节前改版_进阶_任意小游戏累计赢金5000万(购买礼包后开启)",
 			condi = 56,
 		},
-		task_112=
-		{
-			key = "task_112",
-			name = "vip累积赢金挑战任务",
-			condi = 60,
-		},
 		clby_fish_auto=
 		{
 			key = "clby_fish_auto",
@@ -15388,11 +15382,31 @@ return {
 		{
 			no = 916,
 			id = 364,
+			var = "vip_level",
+			value = 2,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP等级2",
+		},
+		[917]=
+		{
+			no = 917,
+			id = 364,
 			var = "share_condition",
 			value = "3dby_official",
 			judge = 2,
 			group = 2,
 			error_desc = "不等于冲金鸡渠道",
+		},
+		[918]=
+		{
+			no = 918,
+			id = 364,
+			var = "vip_level",
+			value = 2,
+			judge = 3,
+			group = 2,
+			error_desc = "VIP等级2",
 		},
 	},
 	share_condition=
