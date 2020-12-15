@@ -2013,16 +2013,16 @@ return {
 			name = "存钱罐VIP1限制",
 			condi = 342,
 		},
-		cpl_recharge_above=
+		hlby_type_plat=
 		{
-			key = "cpl_recharge_above",
-			name = "欢乐天天捕鱼充值6元以上",
+			key = "hlby_type_plat",
+			name = "欢乐天天捕鱼CPL（小额用户、VIP1及以上）没有下载了玩棋牌游戏（是否有账号）",
 			condi = 344,
 		},
-		cjj_cpl_recharge_above=
+		cjj_type_plat=
 		{
-			key = "cjj_cpl_recharge_above",
-			name = "冲金鸡平台CPL充值6元以上",
+			key = "cjj_type_plat",
+			name = "冲金鸡平台CPL（小额用户、VIP1及以上）没有下载了鲸鱼斗地主游戏（是否有账号）",
 			condi = 345,
 		},
 		signin_limit=
@@ -14807,45 +14807,85 @@ return {
 		{
 			no = 872,
 			id = 344,
-			var = "share_condition",
-			value = "3dby_cpl",
-			judge = 2,
+			var = "tag_type",
+			value = "tag_plat_own_cjj",
+			judge = 5,
 			group = 1,
-			error_desc = "是cpl玩家才可游戏",
+			error_desc = "在玩棋牌平台没有账号",
 		},
 		[873]=
 		{
 			no = 873,
 			id = 344,
-			var = "pay_sum",
-			value = 600,
-			judge = 3,
+			var = "tag_type",
+			value = "tag_plat_own_normal",
+			judge = 2,
 			group = 1,
-			error_desc = "该档次需要充值6元以上",
+			error_desc = "在鲸鱼斗地主有账号",
 		},
 		[874]=
 		{
 			no = 874,
+			id = 344,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
+		},
+		[875]=
+		{
+			no = 875,
+			id = 344,
+			var = "pay_sum",
+			value = 600,
+			judge = 3,
+			group = 1,
+			error_desc = "充值大于6元",
+		},
+		[876]=
+		{
+			no = 876,
+			id = 345,
+			var = "tag_type",
+			value = "tag_plat_own_cjj",
+			judge = 2,
+			group = 1,
+			error_desc = "在玩棋牌平台有账号",
+		},
+		[877]=
+		{
+			no = 877,
+			id = 345,
+			var = "tag_type",
+			value = "tag_plat_own_normal",
+			judge = 5,
+			group = 1,
+			error_desc = "在鲸鱼斗地主没有有账号",
+		},
+		[878]=
+		{
+			no = 878,
 			id = 345,
 			var = "share_condition",
 			value = "cjj_cpl",
 			judge = 2,
 			group = 1,
-			error_desc = "是cpl玩家才可游戏",
+			error_desc = "是玩棋牌渠道玩家才可游戏",
 		},
-		[875]=
+		[879]=
 		{
-			no = 875,
+			no = 879,
 			id = 345,
 			var = "pay_sum",
 			value = 600,
 			judge = 3,
 			group = 1,
-			error_desc = "该档次需要充值6元以上",
+			error_desc = "充值大于6元",
 		},
-		[876]=
+		[880]=
 		{
-			no = 876,
+			no = 880,
 			id = 346,
 			var = "share_condition",
 			value = "cjj_official",
@@ -14853,9 +14893,9 @@ return {
 			group = 1,
 			error_desc = "冲金鸡官方",
 		},
-		[877]=
+		[881]=
 		{
-			no = 877,
+			no = 881,
 			id = 346,
 			var = "share_condition",
 			value = "3dby_official",
@@ -14863,9 +14903,9 @@ return {
 			group = 2,
 			error_desc = "3D捕鱼官方",
 		},
-		[878]=
+		[882]=
 		{
-			no = 878,
+			no = 882,
 			id = 346,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -14873,9 +14913,9 @@ return {
 			group = 3,
 			error_desc = "3D捕鱼CPL",
 		},
-		[879]=
+		[883]=
 		{
-			no = 879,
+			no = 883,
 			id = 346,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -14883,9 +14923,9 @@ return {
 			group = 4,
 			error_desc = "3D捕鱼CPS",
 		},
-		[880]=
+		[884]=
 		{
-			no = 880,
+			no = 884,
 			id = 347,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -14893,9 +14933,9 @@ return {
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[881]=
+		[885]=
 		{
-			no = 881,
+			no = 885,
 			id = 348,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -14903,9 +14943,9 @@ return {
 			group = 1,
 			error_desc = "是cpl玩家才可游戏",
 		},
-		[882]=
+		[886]=
 		{
-			no = 882,
+			no = 886,
 			id = 349,
 			var = "share_condition",
 			value = "3dby_official",
@@ -14913,9 +14953,9 @@ return {
 			group = 1,
 			error_desc = "是官方玩家才可游戏",
 		},
-		[883]=
+		[887]=
 		{
-			no = 883,
+			no = 887,
 			id = 350,
 			var = "share_condition",
 			value = "3dby_cpl",

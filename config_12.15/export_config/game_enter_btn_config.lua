@@ -1068,6 +1068,7 @@ return {
 			id = 105,
 			parm = {"sys_jjsl",},
 			is_on_off = 1,
+			condi_key = "cjj_official_enter_limit",
 		},
 		[106]=
 		{
