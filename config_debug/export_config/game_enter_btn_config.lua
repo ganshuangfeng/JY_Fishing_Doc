@@ -455,6 +455,7 @@ return {
 			id = 3,
 			parm = {"sys_flqcj",},
 			is_on_off = 1,
+			condi_key = "cps_xycj",
 		},
 		[4]=
 		{
