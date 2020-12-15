@@ -157,7 +157,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3#2#8#61#115",
+			group_list = "3;116#2#8#61#115#",
 		},
 		[2]=
 		{
@@ -1068,6 +1068,7 @@ return {
 			id = 105,
 			parm = {"sys_jjsl",},
 			is_on_off = 1,
+			condi_key = "jjsl_enter_limit",
 		},
 		[106]=
 		{
@@ -1129,6 +1130,13 @@ return {
 			parm = {"by3d_ad_mfcj",},
 			is_on_off = 1,
 			condi_key = "cpl_cjj",
+		},
+		[116]=
+		{
+			id = 116,
+			parm = {"xycj",},
+			is_on_off = 1,
+			condi_key = "xycj_enter_limit",
 		},
 	},
 }

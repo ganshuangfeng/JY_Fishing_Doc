@@ -2013,9 +2013,9 @@ return {
 			name = "存钱罐VIP1限制",
 			condi = 342,
 		},
-		3dby_type_plat=
+		hlby_type_plat=
 		{
-			key = "3dby_type_plat",
+			key = "hlby_type_plat",
 			name = "欢乐天天捕鱼CPL（小额用户、VIP1及以上）没有下载了玩棋牌游戏（是否有账号）",
 			condi = 344,
 		},
@@ -2030,6 +2030,18 @@ return {
 			key = "signin_limit",
 			name = "签到权限-只有欢乐捕鱼和冲金鸡官方渠道展示",
 			condi = 346,
+		},
+		jjsl_enter_limit=
+		{
+			key = "jjsl_enter_limit",
+			name = "金鸡送礼",
+			condi = 347,
+		},
+		xycj_enter_limit=
+		{
+			key = "xycj_enter_limit",
+			name = "幸运抽奖",
+			condi = 348,
 		},
 	},
 	act_permission=
@@ -14886,6 +14898,46 @@ return {
 			judge = 2,
 			group = 4,
 			error_desc = "3D捕鱼CPS",
+		},
+		[884]=
+		{
+			no = 884,
+			id = 347,
+			var = "share_condition",
+			value = "cjj_official",
+			judge = 2,
+			group = 1,
+			error_desc = "冲金鸡官方",
+		},
+		[885]=
+		{
+			no = 885,
+			id = 348,
+			var = "share_condition",
+			value = "cjj_official",
+			judge = 2,
+			group = 1,
+			error_desc = "冲金鸡官方",
+		},
+		[886]=
+		{
+			no = 886,
+			id = 348,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 2,
+			error_desc = "3d捕鱼官方",
+		},
+		[887]=
+		{
+			no = 887,
+			id = 348,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "3D捕鱼cpl",
 		},
 	},
 	share_condition=
