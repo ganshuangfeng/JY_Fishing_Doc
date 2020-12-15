@@ -12825,7 +12825,7 @@ return {
 		{
 			id = 540,
 			process_id = 21488,
-			source_id = 533,
+			source_id = 528,
 			process = {1000000,-1},
 			awards = 873,
 			get_award_type = "nor",
@@ -12835,7 +12835,7 @@ return {
 		{
 			id = 541,
 			process_id = 21489,
-			source_id = 534,
+			source_id = 533,
 			process = {2,1,2},
 			awards = {874,875,876},
 			get_award_type = "random",
@@ -12844,7 +12844,7 @@ return {
 		{
 			id = 542,
 			process_id = 21490,
-			source_id = 535,
+			source_id = 534,
 			process = 1,
 			awards = 877,
 			get_award_type = "nor",
@@ -12854,7 +12854,7 @@ return {
 		{
 			id = 543,
 			process_id = 21491,
-			source_id = 536,
+			source_id = 535,
 			process = 1,
 			awards = 878,
 			get_award_type = "nor",
@@ -12864,7 +12864,7 @@ return {
 		{
 			id = 544,
 			process_id = 21492,
-			source_id = 537,
+			source_id = 536,
 			process = 1,
 			awards = 879,
 			get_award_type = "nor",
@@ -12874,7 +12874,7 @@ return {
 		{
 			id = 545,
 			process_id = 21493,
-			source_id = 538,
+			source_id = 537,
 			process = 1,
 			awards = 880,
 			get_award_type = "nor",
@@ -12884,7 +12884,7 @@ return {
 		{
 			id = 546,
 			process_id = 21494,
-			source_id = 539,
+			source_id = 538,
 			process = 1,
 			awards = 881,
 			get_award_type = "nor",
@@ -12894,7 +12894,7 @@ return {
 		{
 			id = 547,
 			process_id = 21495,
-			source_id = 540,
+			source_id = 539,
 			process = 1,
 			awards = 882,
 			get_award_type = "nor",
@@ -12904,7 +12904,7 @@ return {
 		{
 			id = 548,
 			process_id = 21496,
-			source_id = 541,
+			source_id = 540,
 			process = 1,
 			awards = 883,
 			get_award_type = "nor",
@@ -12914,7 +12914,7 @@ return {
 		{
 			id = 549,
 			process_id = 21497,
-			source_id = 542,
+			source_id = 541,
 			process = 1,
 			awards = 884,
 			get_award_type = "nor",
@@ -19114,114 +19114,58 @@ return {
 		[878]=
 		{
 			id = 878,
-			source_id = 533,
+			source_id = 534,
 			source_type = "buy_gift",
 			condition_id = 375,
 		},
 		[879]=
 		{
 			id = 879,
-			source_id = 533,
+			source_id = 535,
 			source_type = "buy_gift",
 			condition_id = 376,
 		},
 		[880]=
 		{
 			id = 880,
-			source_id = 533,
+			source_id = 536,
 			source_type = "buy_gift",
 			condition_id = 377,
 		},
 		[881]=
 		{
 			id = 881,
-			source_id = 533,
+			source_id = 537,
 			source_type = "buy_gift",
 			condition_id = 378,
 		},
 		[882]=
 		{
 			id = 882,
-			source_id = 533,
+			source_id = 538,
 			source_type = "buy_gift",
 			condition_id = 379,
 		},
 		[883]=
 		{
 			id = 883,
-			source_id = 533,
+			source_id = 539,
 			source_type = "buy_gift",
 			condition_id = 380,
 		},
 		[884]=
 		{
 			id = 884,
-			source_id = 533,
+			source_id = 540,
 			source_type = "buy_gift",
 			condition_id = 381,
 		},
 		[885]=
 		{
 			id = 885,
-			source_id = 534,
-			source_type = "buy_gift",
-			condition_id = 382,
-		},
-		[886]=
-		{
-			id = 886,
-			source_id = 535,
-			source_type = "buy_gift",
-			condition_id = 383,
-		},
-		[887]=
-		{
-			id = 887,
-			source_id = 536,
-			source_type = "buy_gift",
-			condition_id = 384,
-		},
-		[888]=
-		{
-			id = 888,
-			source_id = 537,
-			source_type = "buy_gift",
-			condition_id = 385,
-		},
-		[889]=
-		{
-			id = 889,
-			source_id = 538,
-			source_type = "buy_gift",
-			condition_id = 386,
-		},
-		[890]=
-		{
-			id = 890,
-			source_id = 539,
-			source_type = "buy_gift",
-			condition_id = 387,
-		},
-		[891]=
-		{
-			id = 891,
-			source_id = 540,
-			source_type = "buy_gift",
-			condition_id = 388,
-		},
-		[892]=
-		{
-			id = 892,
 			source_id = 541,
 			source_type = "buy_gift",
-			condition_id = 389,
-		},
-		[893]=
-		{
-			id = 893,
-			source_id = 542,
-			source_type = "buy_gift",
-			condition_id = 390,
+			condition_id = 382,
 		},
 	},
 	condition=
@@ -23223,7 +23167,7 @@ return {
 			id = 530,
 			condition_id = 374,
 			condition_name = "gift_id",
-			condition_value = 2,
+			condition_value = {10402,10403,10404,10405,10406,10407,10408},
 			judge_type = 2,
 		},
 		[531]=
@@ -23231,7 +23175,7 @@ return {
 			id = 531,
 			condition_id = 375,
 			condition_name = "gift_id",
-			condition_value = 3,
+			condition_value = 2,
 			judge_type = 2,
 		},
 		[532]=
@@ -23239,7 +23183,7 @@ return {
 			id = 532,
 			condition_id = 376,
 			condition_name = "gift_id",
-			condition_value = 4,
+			condition_value = 3,
 			judge_type = 2,
 		},
 		[533]=
@@ -23247,7 +23191,7 @@ return {
 			id = 533,
 			condition_id = 377,
 			condition_name = "gift_id",
-			condition_value = 5,
+			condition_value = 4,
 			judge_type = 2,
 		},
 		[534]=
@@ -23255,7 +23199,7 @@ return {
 			id = 534,
 			condition_id = 378,
 			condition_name = "gift_id",
-			condition_value = 111,
+			condition_value = 5,
 			judge_type = 2,
 		},
 		[535]=
@@ -23263,7 +23207,7 @@ return {
 			id = 535,
 			condition_id = 379,
 			condition_name = "gift_id",
-			condition_value = 6,
+			condition_value = 111,
 			judge_type = 2,
 		},
 		[536]=
@@ -23271,7 +23215,7 @@ return {
 			id = 536,
 			condition_id = 380,
 			condition_name = "gift_id",
-			condition_value = 108,
+			condition_value = 6,
 			judge_type = 2,
 		},
 		[537]=
@@ -23279,77 +23223,13 @@ return {
 			id = 537,
 			condition_id = 381,
 			condition_name = "gift_id",
-			condition_value = 110,
+			condition_value = 108,
 			judge_type = 2,
 		},
 		[538]=
 		{
 			id = 538,
 			condition_id = 382,
-			condition_name = "gift_id",
-			condition_value = {10402,10403,10404,10405,10406,10407,10408},
-			judge_type = 2,
-		},
-		[539]=
-		{
-			id = 539,
-			condition_id = 383,
-			condition_name = "gift_id",
-			condition_value = 2,
-			judge_type = 2,
-		},
-		[540]=
-		{
-			id = 540,
-			condition_id = 384,
-			condition_name = "gift_id",
-			condition_value = 3,
-			judge_type = 2,
-		},
-		[541]=
-		{
-			id = 541,
-			condition_id = 385,
-			condition_name = "gift_id",
-			condition_value = 4,
-			judge_type = 2,
-		},
-		[542]=
-		{
-			id = 542,
-			condition_id = 386,
-			condition_name = "gift_id",
-			condition_value = 5,
-			judge_type = 2,
-		},
-		[543]=
-		{
-			id = 543,
-			condition_id = 387,
-			condition_name = "gift_id",
-			condition_value = 111,
-			judge_type = 2,
-		},
-		[544]=
-		{
-			id = 544,
-			condition_id = 388,
-			condition_name = "gift_id",
-			condition_value = 6,
-			judge_type = 2,
-		},
-		[545]=
-		{
-			id = 545,
-			condition_id = 389,
-			condition_name = "gift_id",
-			condition_value = 108,
-			judge_type = 2,
-		},
-		[546]=
-		{
-			id = 546,
-			condition_id = 390,
 			condition_name = "gift_id",
 			condition_value = 110,
 			judge_type = 2,
