@@ -44,7 +44,7 @@ return {
 		[2]=
 		{
 			id = 2,
-			order = 10,
+			order = 11,
 			task_id = 12545,
 			task_name = "使用技能",
 			task_icon = "rw_icon_jn",
@@ -59,7 +59,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			order = 10,
+			order = 12,
 			task_award_icon = {"ty_icon_pms_1","ty_icon_hytb",},
 			task_award_instruction = {"250福利券赛门票","活跃度"},
 			task_award_count = {"x1","x20"},
@@ -68,7 +68,7 @@ return {
 		[4]=
 		{
 			id = 4,
-			order = 10,
+			order = 13,
 			task_id = 12546,
 			task_name = "累计开炮",
 			task_icon = "rw_icon_ljpd",
@@ -83,7 +83,7 @@ return {
 		[5]=
 		{
 			id = 5,
-			order = 10,
+			order = 14,
 			task_id = 12547,
 			task_name = "累计在线",
 			task_icon = "rw_icon_ljsj",
@@ -98,7 +98,7 @@ return {
 		[6]=
 		{
 			id = 6,
-			order = 10,
+			order = 15,
 			task_id = 12543,
 			task_name = "捕获彩金",
 			task_icon = "rw_icon_js",
@@ -184,7 +184,7 @@ return {
 		[2]=
 		{
 			id = 2,
-			order = 10,
+			order = 11,
 			task_id = 12520,
 			task_name = "使用技能",
 			task_icon = "rw_icon_jn",
@@ -194,13 +194,11 @@ return {
 			task_award_count = {"x5000","x20"},
 			gotoui = {"game_Fishing3DHall",},
 			gotoui = {"game_Fishing3DHall",},
-			vip = 1,
-			vip_desc = {"vip1双倍", ""},
 		},
 		[3]=
 		{
 			id = 3,
-			order = 10,
+			order = 12,
 			task_id = 12521,
 			task_name = "累计捕鱼",
 			task_icon = "rw_icon_bh",
@@ -214,7 +212,7 @@ return {
 		[4]=
 		{
 			id = 4,
-			order = 10,
+			order = 13,
 			task_id = 12522,
 			task_name = "累计开炮",
 			task_icon = "rw_icon_ljpd",
@@ -224,13 +222,11 @@ return {
 			task_award_count = {"x1万","x30"},
 			gotoui = {"game_Fishing3DHall",},
 			gotoui = {"game_Fishing3DHall",},
-			vip = 2,
-			vip_desc = {"vip2三倍", ""},
 		},
 		[5]=
 		{
 			id = 5,
-			order = 10,
+			order = 14,
 			key = "actp_own_task_p_task_fish_daily_official",
 			task_id = 12523,
 			task_name = "累计在线",
@@ -241,13 +237,11 @@ return {
 			task_award_count = {"x30000","x30"},
 			gotoui = {"game_Fishing3DHall",},
 			gotoui = {"game_Fishing3DHall",},
-			vip = 3,
-			vip_desc = {"vip3三倍", ""},
 		},
 		[6]=
 		{
 			id = 6,
-			order = 10,
+			order = 15,
 			task_id = 12516,
 			task_name = "捕获彩金",
 			task_icon = "rw_icon_js",
@@ -257,8 +251,6 @@ return {
 			task_award_count = {"x1万","x30"},
 			gotoui = {"game_Fishing3DHall",},
 			gotoui = {"game_Fishing3DHall",},
-			vip = 5,
-			vip_desc = {"vip5三倍", ""},
 		},
 		[7]=
 		{
@@ -278,7 +270,7 @@ return {
 		[8]=
 		{
 			id = 8,
-			order = 10,
+			order = 14,
 			key = "actp_own_task_p_task_fish_daily_cps",
 			task_id = 12538,
 			task_name = "累计在线",
