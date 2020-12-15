@@ -6225,6 +6225,30 @@ return {
 			refresh_type = "now",
 			start_deal_time = 1598889600,
 		},
+		[347]=
+		{
+			id = 347,
+			enable = 1,
+			key = "actp_buy_gift_bag_10411",
+			name = "VIP11钜惠礼包",
+			condi = 365,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1588028400,
+		},
+		[348]=
+		{
+			id = 348,
+			enable = 1,
+			key = "actp_buy_gift_bag_10412",
+			name = "VIP12钜惠礼包",
+			condi = 366,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1588028400,
+		},
 	},
 	condi=
 	{
@@ -15407,6 +15431,26 @@ return {
 			judge = 3,
 			group = 2,
 			error_desc = "VIP等级2",
+		},
+		[919]=
+		{
+			no = 919,
+			id = 365,
+			var = "vip_level",
+			value = 11,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP等级11",
+		},
+		[920]=
+		{
+			no = 920,
+			id = 366,
+			var = "vip_level",
+			value = 12,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP等级12",
 		},
 	},
 	share_condition=

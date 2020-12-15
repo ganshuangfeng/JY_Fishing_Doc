@@ -1330,6 +1330,24 @@ return {
 			award_img = {"ty_icon_jb_198y","zpg_icon_shui","com_award_icon_cz1",},
 			award_txt = {"7688万","20","20",},
 		},
+		[11]=
+		{
+			index = 11,
+			gift_id = 10411,
+			title = {"VIP11礼包","(购买条件:<color=#EDD112>VIP等级≥11</color>)",},
+			price = 798,
+			award_img = {"ty_icon_jb_998y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"8888万","30","30",},
+		},
+		[12]=
+		{
+			index = 12,
+			gift_id = 10412,
+			title = {"VIP12礼包","(购买条件:<color=#EDD112>VIP等级≥12</color>)",},
+			price = 898,
+			award_img = {"ty_icon_jb_2498y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"9888万","40","40",},
+		},
 	},
 	fhfl=
 	{
