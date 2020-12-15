@@ -2953,9 +2953,9 @@ return {
 			key = "act_038_s12lhsjb",
 			desc = "双十二礼盒收集榜",
 			lua = "Act_038_S12LHSJBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[302]=
 		{
@@ -2980,7 +2980,38 @@ return {
 		{
 			id = 304,
 			key = "act_038_by_and_cjj_conduct",
+			desc = "cjj互导",
 			lua = "Act_038_BY_AND_CJJ_CONDUCTManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[305]=
+		{
+			id = 305,
+			key = "act_039_jzhhl",
+			desc = "饺子换好礼",
+			lua = "Act_039_JZHHLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[306]=
+		{
+			id = 306,
+			key = "act_039_jzsjb",
+			desc = "饺子收集榜",
+			lua = "Act_039_JZSJBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[307]=
+		{
+			id = 307,
+			key = "act_039_ty_by_drop",
+			desc = "捕鱼通用掉落活动",
+			lua = "Act_039_TYBYDROPManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

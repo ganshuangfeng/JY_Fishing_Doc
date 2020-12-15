@@ -800,7 +800,7 @@ return {
 			game_id = 25,
 			game_level = 1,
 			init_rate = 1,
-			init_stake = 1000,
+			init_stake = 0,
 			max_rate = 1,
 			enter_cfg_id = 25,
 			is_cancel_sign = 1,
@@ -1200,7 +1200,7 @@ return {
 			id = 25,
 			game_id = 25,
 			asset_type = "jing_bi",
-			asset_count = 2000,
+			asset_count = 10000,
 			judge_type = 1,
 		},
 		[26]=

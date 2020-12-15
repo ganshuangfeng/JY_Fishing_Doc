@@ -15,6 +15,7 @@ return {
 			no = 1,
 			award_id = 1,
 			vip_level = 1,
+			rate = 2,
 		},
 		[2]=
 		{
@@ -26,6 +27,7 @@ return {
 			no = 3,
 			award_id = 3,
 			vip_level = 2,
+			rate = 2,
 		},
 		[4]=
 		{
@@ -37,6 +39,7 @@ return {
 			no = 5,
 			award_id = 5,
 			vip_level = 3,
+			rate = 2,
 		},
 		[6]=
 		{
@@ -175,6 +178,55 @@ return {
 			award_id = 13,
 			asset_type = "shop_gold_sum",
 			asset_count = 100,
+		},
+		[14]=
+		{
+			no = 14,
+			award_id = 14,
+			asset_type = "jing_bi",
+			asset_count = 10000,
+		},
+		[15]=
+		{
+			no = 15,
+			award_id = 15,
+			asset_type = "jing_bi",
+			asset_count = 15000,
+		},
+		[16]=
+		{
+			no = 16,
+			award_id = 16,
+			asset_type = "jing_bi",
+			asset_count = 20000,
+		},
+		[17]=
+		{
+			no = 17,
+			award_id = 17,
+			asset_type = "jing_bi",
+			asset_count = 25000,
+		},
+		[18]=
+		{
+			no = 18,
+			award_id = 18,
+			asset_type = "jing_bi",
+			asset_count = 30000,
+		},
+		[19]=
+		{
+			no = 19,
+			award_id = 19,
+			asset_type = "jing_bi",
+			asset_count = 35000,
+		},
+		[20]=
+		{
+			no = 20,
+			award_id = 20,
+			asset_type = "jing_bi",
+			asset_count = 50000,
 		},
 	},
 }

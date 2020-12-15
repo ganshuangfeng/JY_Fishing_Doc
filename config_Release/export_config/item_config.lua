@@ -1015,8 +1015,7 @@ return {
 			is_show_bag = 1,
 			order = 23,
 			name = "抽奖券",
-			desc = "用于红包大转盘的抽奖",
-			use_parm = {"sys_flqcj","panel",1},
+			desc = "用于福利券转盘中的福利转盘抽奖。",
 		},
 		[80]=
 		{
@@ -3864,6 +3863,19 @@ return {
 			order = 33,
 			name = "双十二抽奖券",
 			desc = "双十二抽奖券",
+		},
+		[286]=
+		{
+			id = 286,
+			item_id = 286,
+			item_key = "prop_dz_jz",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "hldz_iocn_jz",
+			is_show_bag = 0,
+			order = 33,
+			name = "饺子掉落物",
+			desc = "冬至饺子掉落物",
 		},
 	},
 }

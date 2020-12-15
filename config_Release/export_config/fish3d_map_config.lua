@@ -500,7 +500,7 @@ return {
 			tag = 3,
 			icon = "3dby_icon_yu18",
 			name = "金龙转盘",
-			game_id = {4,5,},
+			game_id = {4,5},
 			scale = 3,
 			rotation = {0,0,0},
 			rate = "特殊奖励",

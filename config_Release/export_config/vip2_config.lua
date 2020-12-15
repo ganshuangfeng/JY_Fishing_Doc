@@ -37,7 +37,6 @@ return {
 			total = 200,
 			key = "cjj_vip_desc",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>5次</color>",
-			gotoUI = {"sys_flqcj","panel"},
 		},
 		[6]=
 		{
@@ -76,7 +75,6 @@ return {
 			total = 500,
 			key = "cjj_vip_desc",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>10次</color>",
-			gotoUI = {"sys_flqcj","panel"},
 		},
 		[11]=
 		{
@@ -107,7 +105,6 @@ return {
 			total = 1000,
 			key = "cjj_vip_desc",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>20次</color>",
-			gotoUI = {"sys_flqcj","panel"},
 		},
 		[15]=
 		{
@@ -146,7 +143,6 @@ return {
 			total = 2000,
 			key = "cjj_vip_desc",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>30次</color>",
-			gotoUI = {"sys_flqcj","panel"},
 		},
 		[20]=
 		{
@@ -184,7 +180,6 @@ return {
 			total = 5000,
 			key = "cjj_vip_desc",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
 		},
 		[25]=
 		{
@@ -215,7 +210,6 @@ return {
 			total = 10000,
 			key = "cjj_vip_desc",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
 		},
 		[29]=
 		{
@@ -246,7 +240,6 @@ return {
 			total = 20000,
 			key = "cjj_vip_desc",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
 		},
 		[33]=
 		{
@@ -277,7 +270,6 @@ return {
 			total = 30000,
 			key = "cjj_vip_desc",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
 		},
 		[37]=
 		{
@@ -308,7 +300,6 @@ return {
 			total = 50000,
 			key = "cjj_vip_desc",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-			gotoUI = {"sys_flqcj","panel"},
 		},
 		[41]=
 		{

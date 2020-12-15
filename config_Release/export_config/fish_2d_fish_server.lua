@@ -1886,6 +1886,78 @@ return {
 			rate = 250,
 			gd_award = 0,
 		},
+		[201]=
+		{
+			ID = 201,
+			fish_type = 1,
+			fish_form = {175,},
+			life = 30,
+			rate = 30,
+			gd_award = 0,
+		},
+		[202]=
+		{
+			ID = 202,
+			fish_type = 1,
+			fish_form = {176,},
+			life = 40,
+			rate = 40,
+			gd_award = 0,
+		},
+		[203]=
+		{
+			ID = 203,
+			fish_type = 1,
+			fish_form = {177,},
+			life = 50,
+			rate = 50,
+			gd_award = 0,
+		},
+		[204]=
+		{
+			ID = 204,
+			fish_type = 1,
+			fish_form = {178,},
+			life = 60,
+			rate = 60,
+			gd_award = 0,
+		},
+		[205]=
+		{
+			ID = 205,
+			fish_type = 1,
+			fish_form = {179,},
+			life = 70,
+			rate = 70,
+			gd_award = 0,
+		},
+		[206]=
+		{
+			ID = 206,
+			fish_type = 1,
+			fish_form = {180,},
+			life = 75,
+			rate = 75,
+			gd_award = 0,
+		},
+		[207]=
+		{
+			ID = 207,
+			fish_type = 1,
+			fish_form = {181,},
+			life = 150,
+			rate = 150,
+			gd_award = 0,
+		},
+		[208]=
+		{
+			ID = 208,
+			fish_type = 1,
+			fish_form = {182,},
+			life = 250,
+			rate = 250,
+			gd_award = 0,
+		},
 	},
 	use_fish=
 	{
@@ -4477,6 +4549,126 @@ return {
 			ranking_show_rate = 1,
 			broadcast = 0,
 		},
+		[175]=
+		{
+			id = 175,
+			base_id = 6,
+			act_id = 47,
+			life = 30,
+			shoot = 0.033333,
+			act_type = "activity",
+			rate = 30,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 30,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
+		[176]=
+		{
+			id = 176,
+			base_id = 7,
+			act_id = 47,
+			life = 40,
+			shoot = 0.025000,
+			act_type = "activity",
+			rate = 40,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 40,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
+		[177]=
+		{
+			id = 177,
+			base_id = 8,
+			act_id = 47,
+			life = 50,
+			shoot = 0.020000,
+			act_type = "activity",
+			rate = 50,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 50,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
+		[178]=
+		{
+			id = 178,
+			base_id = 9,
+			act_id = 47,
+			life = 60,
+			shoot = 0.016667,
+			act_type = "activity",
+			rate = 60,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 60,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
+		[179]=
+		{
+			id = 179,
+			base_id = 10,
+			act_id = 47,
+			life = 70,
+			shoot = 0.014286,
+			act_type = "activity",
+			rate = 70,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 70,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
+		[180]=
+		{
+			id = 180,
+			base_id = 35,
+			act_id = 44,
+			life = 75,
+			shoot = 0.013333,
+			act_type = "activity",
+			rate = 75,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 75,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
+		[181]=
+		{
+			id = 181,
+			base_id = 35,
+			act_id = 45,
+			life = 150,
+			shoot = 0.006667,
+			act_type = "activity",
+			rate = 150,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 150,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
+		[182]=
+		{
+			id = 182,
+			base_id = 35,
+			act_id = 46,
+			life = 250,
+			shoot = 0.004000,
+			act_type = "activity",
+			rate = 250,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 250,
+			ranking_show_rate = 1,
+			broadcast = 0,
+		},
 	},
 	activity=
 	{
@@ -4863,6 +5055,42 @@ return {
 			enter_bag = 1,
 			value = 10,
 		},
+		[44]=
+		{
+			id = 44,
+			acti_type = 9,
+			num = {"prop_dz_jz",0,0.05,0.1},
+			show = 0,
+			enter_bag = 1,
+			value = 75,
+		},
+		[45]=
+		{
+			id = 45,
+			acti_type = 9,
+			num = {"prop_dz_jz",0,0.1,0.2},
+			show = 0,
+			enter_bag = 1,
+			value = 150,
+		},
+		[46]=
+		{
+			id = 46,
+			acti_type = 9,
+			num = {"prop_dz_jz",0,0.2,0.3},
+			show = 0,
+			enter_bag = 1,
+			value = 250,
+		},
+		[47]=
+		{
+			id = 47,
+			acti_type = 9,
+			num = {"prop_dz_jz",0,0.01,},
+			show = 1,
+			enter_bag = 1,
+			value = 10,
+		},
 	},
 	box_fish_activity=
 	{
@@ -5190,6 +5418,15 @@ return {
 		[34]=
 		{
 			id = 34,
+			type = 1,
+			life = 0,
+			shoot = 0,
+			rate = 0,
+			gd_award = 0,
+		},
+		[35]=
+		{
+			id = 35,
 			type = 1,
 			life = 0,
 			shoot = 0,

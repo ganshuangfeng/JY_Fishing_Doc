@@ -5506,7 +5506,7 @@ return {
 		[21342]=
 		{
 			id = 21342,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_summer_lgfl2",
 			task_enum = "common",
@@ -5520,7 +5520,7 @@ return {
 		[21343]=
 		{
 			id = 21343,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_summer_lgfl2",
 			task_enum = "common",
@@ -5534,7 +5534,7 @@ return {
 		[21344]=
 		{
 			id = 21344,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_summer_lgfl2",
 			task_enum = "common",
@@ -5548,7 +5548,7 @@ return {
 		[21345]=
 		{
 			id = 21345,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_summer_lgfl2",
 			task_enum = "common",
@@ -5562,7 +5562,7 @@ return {
 		[21346]=
 		{
 			id = 21346,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_summer_lgfl2",
 			task_enum = "common",
@@ -5576,7 +5576,7 @@ return {
 		[21347]=
 		{
 			id = 21347,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_summer_lgfl1",
 			task_enum = "common",
@@ -5590,7 +5590,7 @@ return {
 		[21348]=
 		{
 			id = 21348,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_summer_lgfl1",
 			task_enum = "common",
@@ -5604,7 +5604,7 @@ return {
 		[21349]=
 		{
 			id = 21349,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_summer_lgfl1",
 			task_enum = "common",
@@ -5618,7 +5618,7 @@ return {
 		[21350]=
 		{
 			id = 21350,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_summer_lgfl1",
 			task_enum = "common",
@@ -5632,7 +5632,7 @@ return {
 		[21351]=
 		{
 			id = 21351,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",
 			task_enum = "contend_socre_task",
@@ -5646,7 +5646,7 @@ return {
 		[21352]=
 		{
 			id = 21352,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",
 			task_enum = "contend_socre_task",
@@ -5660,7 +5660,7 @@ return {
 		[21353]=
 		{
 			id = 21353,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",
 			task_enum = "contend_socre_task",
@@ -5674,7 +5674,7 @@ return {
 		[21354]=
 		{
 			id = 21354,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",
 			task_enum = "contend_socre_task",
@@ -5688,7 +5688,7 @@ return {
 		[21355]=
 		{
 			id = 21355,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",
 			task_enum = "contend_socre_task",
@@ -5702,7 +5702,7 @@ return {
 		[21356]=
 		{
 			id = 21356,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",
 			task_enum = "contend_socre_task",
@@ -5716,7 +5716,7 @@ return {
 		[21357]=
 		{
 			id = 21357,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",
 			task_enum = "contend_socre_task",
@@ -5730,7 +5730,7 @@ return {
 		[21358]=
 		{
 			id = 21358,
-			enable = 1,
+			enable = 0,
 			name = "盛夏送好礼",
 			own_type = "p_0811_wyzjf",
 			task_enum = "score_free_reset_task",
@@ -6066,7 +6066,7 @@ return {
 		[1000024]=
 		{
 			id = 1000024,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_026_lmqx_lmlh_yj",
 			task_enum = "common",
@@ -6080,7 +6080,7 @@ return {
 		[1000025]=
 		{
 			id = 1000025,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_026_lmqx_lmlh",
 			task_enum = "common",
@@ -6094,7 +6094,7 @@ return {
 		[1000026]=
 		{
 			id = 1000026,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_026_lmqx_lmlh",
 			task_enum = "common",
@@ -6108,7 +6108,7 @@ return {
 		[1000027]=
 		{
 			id = 1000027,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_026_lmqx_lmlh",
 			task_enum = "common",
@@ -6122,7 +6122,7 @@ return {
 		[1000028]=
 		{
 			id = 1000028,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_026_lmqx_lmlh",
 			task_enum = "common",
@@ -6136,7 +6136,7 @@ return {
 		[1000029]=
 		{
 			id = 1000029,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_026_lmqx_lmlh",
 			task_enum = "common",
@@ -6150,7 +6150,7 @@ return {
 		[1000030]=
 		{
 			id = 1000030,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_026_lmqx_lmlh",
 			task_enum = "common",
@@ -6164,7 +6164,7 @@ return {
 		[1000031]=
 		{
 			id = 1000031,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_026_lmqx_lmlh",
 			task_enum = "common",
@@ -6178,7 +6178,7 @@ return {
 		[1000032]=
 		{
 			id = 1000032,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_026_lmqx_lmlh",
 			task_enum = "common",
@@ -6192,7 +6192,7 @@ return {
 		[1000033]=
 		{
 			id = 1000033,
-			enable = 1,
+			enable = 0,
 			name = "浪漫礼盒",
 			own_type = "p_026_lmqx_lmlh",
 			task_enum = "common",
@@ -6206,7 +6206,7 @@ return {
 		[1000034]=
 		{
 			id = 1000034,
-			enable = 1,
+			enable = 0,
 			name = "国庆送豪礼",
 			own_type = "p_027_mfflq",
 			task_enum = "common",
@@ -6220,7 +6220,7 @@ return {
 		[1000035]=
 		{
 			id = 1000035,
-			enable = 1,
+			enable = 0,
 			name = "国庆送豪礼",
 			own_type = "p_027_mfflq",
 			task_enum = "common",
@@ -6234,7 +6234,7 @@ return {
 		[1000036]=
 		{
 			id = 1000036,
-			enable = 1,
+			enable = 0,
 			name = "幸运彩蛋",
 			own_type = "p_028_xycd_ljyj",
 			task_enum = "common",
@@ -6248,7 +6248,7 @@ return {
 		[1000037]=
 		{
 			id = 1000037,
-			enable = 1,
+			enable = 0,
 			name = "幸运彩蛋",
 			own_type = "p_028_xycd",
 			task_enum = "common",
@@ -6262,7 +6262,7 @@ return {
 		[1000038]=
 		{
 			id = 1000038,
-			enable = 1,
+			enable = 0,
 			name = "幸运彩蛋",
 			own_type = "p_028_xycd",
 			task_enum = "common",
@@ -6276,7 +6276,7 @@ return {
 		[1000039]=
 		{
 			id = 1000039,
-			enable = 1,
+			enable = 0,
 			name = "幸运彩蛋",
 			own_type = "p_028_xycd",
 			task_enum = "common",
@@ -6290,7 +6290,7 @@ return {
 		[1000040]=
 		{
 			id = 1000040,
-			enable = 1,
+			enable = 0,
 			name = "幸运彩蛋",
 			own_type = "p_028_xycd",
 			task_enum = "common",
@@ -6304,7 +6304,7 @@ return {
 		[1000041]=
 		{
 			id = 1000041,
-			enable = 1,
+			enable = 0,
 			name = "幸运彩蛋",
 			own_type = "p_028_xycd",
 			task_enum = "common",
@@ -6318,7 +6318,7 @@ return {
 		[1000042]=
 		{
 			id = 1000042,
-			enable = 1,
+			enable = 0,
 			name = "幸运彩蛋",
 			own_type = "p_028_xycd",
 			task_enum = "common",
@@ -6332,7 +6332,7 @@ return {
 		[1000043]=
 		{
 			id = 1000043,
-			enable = 1,
+			enable = 0,
 			name = "幸运彩蛋",
 			own_type = "p_028_xycd",
 			task_enum = "common",
@@ -6346,7 +6346,7 @@ return {
 		[1000044]=
 		{
 			id = 1000044,
-			enable = 1,
+			enable = 0,
 			name = "幸运彩蛋",
 			own_type = "p_028_xycd",
 			task_enum = "common",
@@ -6360,7 +6360,7 @@ return {
 		[1000045]=
 		{
 			id = 1000045,
-			enable = 1,
+			enable = 0,
 			name = "幸运彩蛋",
 			own_type = "p_028_xycd",
 			task_enum = "common",
@@ -6416,7 +6416,7 @@ return {
 		[1000049]=
 		{
 			id = 1000049,
-			enable = 1,
+			enable = 0,
 			name = "欢乐敲金蛋铜锤",
 			own_type = "p_029_hlqjd_hammer",
 			task_enum = "happy_zajindan_act_task",
@@ -6430,7 +6430,7 @@ return {
 		[1000050]=
 		{
 			id = 1000050,
-			enable = 1,
+			enable = 0,
 			name = "欢乐敲金蛋银锤",
 			own_type = "p_029_hlqjd_hammer",
 			task_enum = "happy_zajindan_act_task",
@@ -6444,7 +6444,7 @@ return {
 		[1000051]=
 		{
 			id = 1000051,
-			enable = 1,
+			enable = 0,
 			name = "欢乐敲金蛋金锤",
 			own_type = "p_029_hlqjd_hammer",
 			task_enum = "happy_zajindan_act_task",
@@ -6584,7 +6584,7 @@ return {
 		[1000061]=
 		{
 			id = 1000061,
-			enable = 1,
+			enable = 0,
 			name = "小游戏福利",
 			own_type = "normal",
 			task_enum = "common",
@@ -6598,7 +6598,7 @@ return {
 		[1000062]=
 		{
 			id = 1000062,
-			enable = 1,
+			enable = 0,
 			name = "小游戏福利",
 			own_type = "normal",
 			task_enum = "common",
@@ -6612,7 +6612,7 @@ return {
 		[1000063]=
 		{
 			id = 1000063,
-			enable = 1,
+			enable = 0,
 			name = "小游戏福利",
 			own_type = "normal",
 			task_enum = "common",
@@ -6626,7 +6626,7 @@ return {
 		[1000064]=
 		{
 			id = 1000064,
-			enable = 1,
+			enable = 0,
 			name = "小游戏福利",
 			own_type = "normal",
 			task_enum = "common",
@@ -6640,7 +6640,7 @@ return {
 		[1000065]=
 		{
 			id = 1000065,
-			enable = 1,
+			enable = 0,
 			name = "小游戏福利",
 			own_type = "normal",
 			task_enum = "common",
@@ -6654,7 +6654,7 @@ return {
 		[1000066]=
 		{
 			id = 1000066,
-			enable = 1,
+			enable = 0,
 			name = "小游戏福利",
 			own_type = "normal",
 			task_enum = "common",
@@ -6668,7 +6668,7 @@ return {
 		[1000067]=
 		{
 			id = 1000067,
-			enable = 1,
+			enable = 0,
 			name = "小游戏福利",
 			own_type = "normal",
 			task_enum = "common",
@@ -6682,7 +6682,7 @@ return {
 		[1000068]=
 		{
 			id = 1000068,
-			enable = 1,
+			enable = 0,
 			name = "国庆福袋",
 			own_type = "p_031_gqfd_cumulative",
 			task_enum = "common",
@@ -6696,7 +6696,7 @@ return {
 		[1000069]=
 		{
 			id = 1000069,
-			enable = 1,
+			enable = 0,
 			name = "五星掉落",
 			own_type = "p_031_gqfd_cumulative",
 			task_enum = "common",
@@ -6710,7 +6710,7 @@ return {
 		[1000070]=
 		{
 			id = 1000070,
-			enable = 1,
+			enable = 0,
 			name = "建议收集",
 			own_type = "permission_task",
 			task_enum = "common",
@@ -6724,7 +6724,7 @@ return {
 		[1000071]=
 		{
 			id = 1000071,
-			enable = 1,
+			enable = 0,
 			name = "立冬福袋",
 			own_type = "normal",
 			task_enum = "common",
@@ -6738,7 +6738,7 @@ return {
 		[1000072]=
 		{
 			id = 1000072,
-			enable = 1,
+			enable = 0,
 			name = "小游戏福利",
 			own_type = "p_034_xyxfl",
 			task_enum = "common",
@@ -6752,7 +6752,7 @@ return {
 		[1000073]=
 		{
 			id = 1000073,
-			enable = 1,
+			enable = 0,
 			name = "小游戏福利",
 			own_type = "p_034_xyxfl",
 			task_enum = "common",
@@ -6766,7 +6766,7 @@ return {
 		[1000074]=
 		{
 			id = 1000074,
-			enable = 1,
+			enable = 0,
 			name = "小游戏福利",
 			own_type = "p_034_xyxfl",
 			task_enum = "common",
@@ -6780,7 +6780,7 @@ return {
 		[1000075]=
 		{
 			id = 1000075,
-			enable = 1,
+			enable = 0,
 			name = "小游戏福利",
 			own_type = "p_034_xyxfl",
 			task_enum = "common",
@@ -6794,7 +6794,7 @@ return {
 		[1000076]=
 		{
 			id = 1000076,
-			enable = 1,
+			enable = 0,
 			name = "小游戏福利",
 			own_type = "p_034_xyxfl",
 			task_enum = "common",
@@ -6808,7 +6808,7 @@ return {
 		[1000077]=
 		{
 			id = 1000077,
-			enable = 1,
+			enable = 0,
 			name = "小游戏福利",
 			own_type = "p_034_xyxfl",
 			task_enum = "common",
@@ -6822,7 +6822,7 @@ return {
 		[1000078]=
 		{
 			id = 1000078,
-			enable = 1,
+			enable = 0,
 			name = "小游戏福利",
 			own_type = "p_034_xyxfl",
 			task_enum = "common",
@@ -7074,7 +7074,7 @@ return {
 		[1000096]=
 		{
 			id = 1000096,
-			enable = 1,
+			enable = 0,
 			name = "欢乐敲金蛋铜锤",
 			own_type = "p_029_hlqjd_hammer",
 			task_enum = "happy_zajindan_act_task",
@@ -7088,7 +7088,7 @@ return {
 		[1000097]=
 		{
 			id = 1000097,
-			enable = 1,
+			enable = 0,
 			name = "欢乐敲金蛋银锤",
 			own_type = "p_029_hlqjd_hammer",
 			task_enum = "happy_zajindan_act_task",
@@ -7102,7 +7102,7 @@ return {
 		[1000098]=
 		{
 			id = 1000098,
-			enable = 1,
+			enable = 0,
 			name = "欢乐敲金蛋金锤",
 			own_type = "p_029_hlqjd_hammer",
 			task_enum = "happy_zajindan_act_task",
@@ -7242,7 +7242,7 @@ return {
 		[1000108]=
 		{
 			id = 1000108,
-			enable = 1,
+			enable = 0,
 			name = "火鸡换好礼",
 			own_type = "normal",
 			task_enum = "common",
@@ -7256,7 +7256,7 @@ return {
 		[1000109]=
 		{
 			id = 1000109,
-			enable = 1,
+			enable = 0,
 			name = "火鸡换好礼",
 			own_type = "normal",
 			task_enum = "common",
@@ -7270,7 +7270,7 @@ return {
 		[1000110]=
 		{
 			id = 1000110,
-			enable = 1,
+			enable = 0,
 			name = "火鸡换好礼",
 			own_type = "normal",
 			task_enum = "common",
@@ -7284,7 +7284,7 @@ return {
 		[1000111]=
 		{
 			id = 1000111,
-			enable = 1,
+			enable = 0,
 			name = "火鸡换好礼",
 			own_type = "normal",
 			task_enum = "common",
@@ -7298,7 +7298,7 @@ return {
 		[1000112]=
 		{
 			id = 1000112,
-			enable = 1,
+			enable = 0,
 			name = "火鸡换好礼",
 			own_type = "normal",
 			task_enum = "common",
@@ -7312,7 +7312,7 @@ return {
 		[1000113]=
 		{
 			id = 1000113,
-			enable = 1,
+			enable = 0,
 			name = "火鸡换好礼",
 			own_type = "normal",
 			task_enum = "common",
@@ -7326,7 +7326,7 @@ return {
 		[1000114]=
 		{
 			id = 1000114,
-			enable = 1,
+			enable = 0,
 			name = "火鸡换好礼",
 			own_type = "normal",
 			task_enum = "common",
@@ -7340,7 +7340,7 @@ return {
 		[1000115]=
 		{
 			id = 1000115,
-			enable = 1,
+			enable = 0,
 			name = "火鸡换好礼",
 			own_type = "normal",
 			task_enum = "common",
@@ -7354,7 +7354,7 @@ return {
 		[1000116]=
 		{
 			id = 1000116,
-			enable = 1,
+			enable = 0,
 			name = "火鸡掉落",
 			own_type = "normal",
 			task_enum = "common",
@@ -7545,6 +7545,146 @@ return {
 			reset_delay = 1,
 			start_valid_time = 1607356800,
 			end_valid_time = 1607961599,
+			time_limit = -1,
+		},
+		[1000130]=
+		{
+			id = 1000130,
+			enable = 1,
+			name = "饺子掉落",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21488,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1607990400,
+			end_valid_time = 1608566399,
+			time_limit = -1,
+		},
+		[1000131]=
+		{
+			id = 1000131,
+			enable = 1,
+			name = "冬至福袋",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21489,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1607961600,
+			end_valid_time = 1608566399,
+			time_limit = -1,
+		},
+		[1000132]=
+		{
+			id = 1000132,
+			enable = 1,
+			name = "冬至换好礼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21490,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1607961600,
+			end_valid_time = 1608566399,
+			time_limit = -1,
+		},
+		[1000133]=
+		{
+			id = 1000133,
+			enable = 1,
+			name = "冬至换好礼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21491,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1607961600,
+			end_valid_time = 1608566399,
+			time_limit = -1,
+		},
+		[1000134]=
+		{
+			id = 1000134,
+			enable = 1,
+			name = "冬至换好礼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21492,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1607961600,
+			end_valid_time = 1608566399,
+			time_limit = -1,
+		},
+		[1000135]=
+		{
+			id = 1000135,
+			enable = 1,
+			name = "冬至换好礼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21493,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1607961600,
+			end_valid_time = 1608566399,
+			time_limit = -1,
+		},
+		[1000136]=
+		{
+			id = 1000136,
+			enable = 1,
+			name = "冬至换好礼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21494,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1607961600,
+			end_valid_time = 1608566399,
+			time_limit = -1,
+		},
+		[1000137]=
+		{
+			id = 1000137,
+			enable = 1,
+			name = "冬至换好礼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21495,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1607961600,
+			end_valid_time = 1608566399,
+			time_limit = -1,
+		},
+		[1000138]=
+		{
+			id = 1000138,
+			enable = 1,
+			name = "冬至换好礼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21496,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1607961600,
+			end_valid_time = 1608566399,
+			time_limit = -1,
+		},
+		[1000139]=
+		{
+			id = 1000139,
+			enable = 1,
+			name = "冬至换好礼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21497,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1607961600,
+			end_valid_time = 1608566399,
 			time_limit = -1,
 		},
 	},
@@ -12680,6 +12820,105 @@ return {
 			awards = 872,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
+		},
+		[540]=
+		{
+			id = 540,
+			process_id = 21488,
+			source_id = 542,
+			process = {1000000,-1},
+			awards = 873,
+			get_award_type = "nor",
+			is_auto_get_award = 2,
+		},
+		[541]=
+		{
+			id = 541,
+			process_id = 21489,
+			source_id = 533,
+			process = {2,1,2},
+			awards = {874,875,876},
+			get_award_type = "random",
+		},
+		[542]=
+		{
+			id = 542,
+			process_id = 21490,
+			source_id = 534,
+			process = 1,
+			awards = 877,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[543]=
+		{
+			id = 543,
+			process_id = 21491,
+			source_id = 535,
+			process = 1,
+			awards = 878,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[544]=
+		{
+			id = 544,
+			process_id = 21492,
+			source_id = 536,
+			process = 1,
+			awards = 879,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[545]=
+		{
+			id = 545,
+			process_id = 21493,
+			source_id = 537,
+			process = 1,
+			awards = 880,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[546]=
+		{
+			id = 546,
+			process_id = 21494,
+			source_id = 538,
+			process = 1,
+			awards = 881,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[547]=
+		{
+			id = 547,
+			process_id = 21495,
+			source_id = 539,
+			process = 1,
+			awards = 882,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[548]=
+		{
+			id = 548,
+			process_id = 21496,
+			source_id = 540,
+			process = 1,
+			awards = 883,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[549]=
+		{
+			id = 549,
+			process_id = 21497,
+			source_id = 541,
+			process = 1,
+			awards = 884,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 	},
 	source=
@@ -18865,6 +19104,132 @@ return {
 			source_type = "xiaoxiaole_xiyou_award",
 			condition_id = 0,
 		},
+		[877]=
+		{
+			id = 877,
+			source_id = 533,
+			source_type = "buy_gift",
+			condition_id = 374,
+		},
+		[878]=
+		{
+			id = 878,
+			source_id = 534,
+			source_type = "buy_gift",
+			condition_id = 375,
+		},
+		[879]=
+		{
+			id = 879,
+			source_id = 535,
+			source_type = "buy_gift",
+			condition_id = 376,
+		},
+		[880]=
+		{
+			id = 880,
+			source_id = 536,
+			source_type = "buy_gift",
+			condition_id = 377,
+		},
+		[881]=
+		{
+			id = 881,
+			source_id = 537,
+			source_type = "buy_gift",
+			condition_id = 378,
+		},
+		[882]=
+		{
+			id = 882,
+			source_id = 538,
+			source_type = "buy_gift",
+			condition_id = 379,
+		},
+		[883]=
+		{
+			id = 883,
+			source_id = 539,
+			source_type = "buy_gift",
+			condition_id = 380,
+		},
+		[884]=
+		{
+			id = 884,
+			source_id = 540,
+			source_type = "buy_gift",
+			condition_id = 381,
+		},
+		[885]=
+		{
+			id = 885,
+			source_id = 541,
+			source_type = "buy_gift",
+			condition_id = 382,
+		},
+		[886]=
+		{
+			id = 886,
+			source_id = 542,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[887]=
+		{
+			id = 887,
+			source_id = 542,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[888]=
+		{
+			id = 888,
+			source_id = 542,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[889]=
+		{
+			id = 889,
+			source_id = 542,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[890]=
+		{
+			id = 890,
+			source_id = 542,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[891]=
+		{
+			id = 891,
+			source_id = 542,
+			source_type = "jykp_award",
+			condition_id = 0,
+		},
+		[892]=
+		{
+			id = 892,
+			source_id = 542,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[893]=
+		{
+			id = 893,
+			source_id = 542,
+			source_type = "lwzb_game_award",
+			condition_id = 0,
+		},
+		[894]=
+		{
+			id = 894,
+			source_id = 542,
+			source_type = "xiaoxiaole_xiyou_award",
+			condition_id = 0,
+		},
 	},
 	condition=
 	{
@@ -22856,6 +23221,78 @@ return {
 		{
 			id = 529,
 			condition_id = 373,
+			condition_name = "gift_id",
+			condition_value = 110,
+			judge_type = 2,
+		},
+		[530]=
+		{
+			id = 530,
+			condition_id = 374,
+			condition_name = "gift_id",
+			condition_value = {10402,10403,10404,10405,10406,10407,10408},
+			judge_type = 2,
+		},
+		[531]=
+		{
+			id = 531,
+			condition_id = 375,
+			condition_name = "gift_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[532]=
+		{
+			id = 532,
+			condition_id = 376,
+			condition_name = "gift_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[533]=
+		{
+			id = 533,
+			condition_id = 377,
+			condition_name = "gift_id",
+			condition_value = 4,
+			judge_type = 2,
+		},
+		[534]=
+		{
+			id = 534,
+			condition_id = 378,
+			condition_name = "gift_id",
+			condition_value = 5,
+			judge_type = 2,
+		},
+		[535]=
+		{
+			id = 535,
+			condition_id = 379,
+			condition_name = "gift_id",
+			condition_value = 111,
+			judge_type = 2,
+		},
+		[536]=
+		{
+			id = 536,
+			condition_id = 380,
+			condition_name = "gift_id",
+			condition_value = 6,
+			judge_type = 2,
+		},
+		[537]=
+		{
+			id = 537,
+			condition_id = 381,
+			condition_name = "gift_id",
+			condition_value = 108,
+			judge_type = 2,
+		},
+		[538]=
+		{
+			id = 538,
+			condition_id = 382,
 			condition_name = "gift_id",
 			condition_value = 110,
 			judge_type = 2,
@@ -33202,6 +33639,174 @@ return {
 			award_id = 872,
 			asset_type = "_common_rank_s12_12_lhsjb_rank",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[1293]=
+		{
+			id = 1293,
+			award_id = 873,
+			asset_type = "prop_dz_jz",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1294]=
+		{
+			id = 1294,
+			award_id = 873,
+			asset_type = "_common_rank_dz_jzsjb_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1295]=
+		{
+			id = 1295,
+			award_id = 874,
+			asset_type = "jing_bi",
+			asset_count = {250000,300000},
+			get_weight = 1,
+		},
+		[1296]=
+		{
+			id = 1296,
+			award_id = 875,
+			asset_type = "jing_bi",
+			asset_count = {400000,580000},
+			get_weight = 1,
+		},
+		[1297]=
+		{
+			id = 1297,
+			award_id = 876,
+			asset_type = "jing_bi",
+			asset_count = {2000000,2900000},
+			get_weight = 1,
+		},
+		[1298]=
+		{
+			id = 1298,
+			award_id = 877,
+			asset_type = "prop_dz_jz",
+			asset_count = 45,
+			get_weight = 1,
+		},
+		[1299]=
+		{
+			id = 1299,
+			award_id = 877,
+			asset_type = "_common_rank_dz_jzsjb_rank",
+			asset_count = 45,
+			get_weight = 1,
+		},
+		[1300]=
+		{
+			id = 1300,
+			award_id = 878,
+			asset_type = "prop_dz_jz",
+			asset_count = 90,
+			get_weight = 1,
+		},
+		[1301]=
+		{
+			id = 1301,
+			award_id = 878,
+			asset_type = "_common_rank_dz_jzsjb_rank",
+			asset_count = 90,
+			get_weight = 1,
+		},
+		[1302]=
+		{
+			id = 1302,
+			award_id = 879,
+			asset_type = "prop_dz_jz",
+			asset_count = 150,
+			get_weight = 1,
+		},
+		[1303]=
+		{
+			id = 1303,
+			award_id = 879,
+			asset_type = "_common_rank_dz_jzsjb_rank",
+			asset_count = 150,
+			get_weight = 1,
+		},
+		[1304]=
+		{
+			id = 1304,
+			award_id = 880,
+			asset_type = "prop_dz_jz",
+			asset_count = 294,
+			get_weight = 1,
+		},
+		[1305]=
+		{
+			id = 1305,
+			award_id = 880,
+			asset_type = "_common_rank_dz_jzsjb_rank",
+			asset_count = 294,
+			get_weight = 1,
+		},
+		[1306]=
+		{
+			id = 1306,
+			award_id = 881,
+			asset_type = "prop_dz_jz",
+			asset_count = 594,
+			get_weight = 1,
+		},
+		[1307]=
+		{
+			id = 1307,
+			award_id = 881,
+			asset_type = "_common_rank_dz_jzsjb_rank",
+			asset_count = 594,
+			get_weight = 1,
+		},
+		[1308]=
+		{
+			id = 1308,
+			award_id = 882,
+			asset_type = "prop_dz_jz",
+			asset_count = 1494,
+			get_weight = 1,
+		},
+		[1309]=
+		{
+			id = 1309,
+			award_id = 882,
+			asset_type = "_common_rank_dz_jzsjb_rank",
+			asset_count = 1494,
+			get_weight = 1,
+		},
+		[1310]=
+		{
+			id = 1310,
+			award_id = 883,
+			asset_type = "prop_dz_jz",
+			asset_count = 2994,
+			get_weight = 1,
+		},
+		[1311]=
+		{
+			id = 1311,
+			award_id = 883,
+			asset_type = "_common_rank_dz_jzsjb_rank",
+			asset_count = 2994,
+			get_weight = 1,
+		},
+		[1312]=
+		{
+			id = 1312,
+			award_id = 884,
+			asset_type = "prop_dz_jz",
+			asset_count = 7494,
+			get_weight = 1,
+		},
+		[1313]=
+		{
+			id = 1313,
+			award_id = 884,
+			asset_type = "_common_rank_dz_jzsjb_rank",
+			asset_count = 7494,
 			get_weight = 1,
 		},
 	},

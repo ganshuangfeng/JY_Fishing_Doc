@@ -277,7 +277,7 @@ return {
 		game=
 		{
 			phase = "game",
-			time = 12,
+			time = 32,
 		},
 		settle=
 		{
