@@ -2635,9 +2635,9 @@ return {
 			key = "act_027_jqshl",
 			desc = "金秋送豪礼",
 			lua = "Act_027_JQSHLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[270]=
 		{
