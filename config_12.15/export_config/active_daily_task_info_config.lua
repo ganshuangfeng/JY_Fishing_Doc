@@ -136,7 +136,7 @@ return {
 		[8]=
 		{
 			id = 8,
-			order = 1,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_2",
 			task_id = 12525,
 			task_name = "累计赢金",
@@ -460,6 +460,7 @@ return {
 		[1]=
 		{
 			id = 1,
+			order = 10,
 			task_id = 12512,
 			task_name = "进入游戏",
 			task_icon = "rw_icon_hd",
@@ -473,6 +474,7 @@ return {
 		[2]=
 		{
 			id = 2,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_1_2",
 			task_id = 12520,
 			task_name = "使用技能",
@@ -489,6 +491,7 @@ return {
 		[3]=
 		{
 			id = 3,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_1_2",
 			task_id = 12521,
 			task_name = "累计捕鱼",
@@ -503,6 +506,7 @@ return {
 		[4]=
 		{
 			id = 4,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_1_2",
 			task_id = 12522,
 			task_name = "累计开炮",
@@ -519,6 +523,7 @@ return {
 		[5]=
 		{
 			id = 5,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_no_cps",
 			task_id = 12523,
 			task_name = "累计在线",
@@ -535,6 +540,7 @@ return {
 		[6]=
 		{
 			id = 6,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_1_2",
 			task_id = 12516,
 			task_name = "捕获彩金",
@@ -551,6 +557,7 @@ return {
 		[7]=
 		{
 			id = 7,
+			order = 1,
 			key = "actp_own_task_p_task_fish_daily_1_2_no_cps",
 			task_id = 12519,
 			task_name = "单笔充值",
@@ -565,6 +572,7 @@ return {
 		[8]=
 		{
 			id = 8,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_2",
 			task_id = 12525,
 			task_name = "累计赢金",
@@ -579,6 +587,7 @@ return {
 		[9]=
 		{
 			id = 9,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_3",
 			task_id = 12508,
 			task_name = "击杀活动鱼",
@@ -593,6 +602,7 @@ return {
 		[10]=
 		{
 			id = 10,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_3",
 			task_id = 12529,
 			task_name = "击杀高倍鱼",
@@ -607,6 +617,7 @@ return {
 		[11]=
 		{
 			id = 11,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_3",
 			task_id = 12528,
 			task_name = "累计赢金",
@@ -621,6 +632,7 @@ return {
 		[12]=
 		{
 			id = 12,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_3",
 			task_id = 12526,
 			task_name = "捕获彩金",
@@ -635,6 +647,7 @@ return {
 		[13]=
 		{
 			id = 13,
+			order = 1,
 			key = "actp_own_task_p_task_fish_daily_3_no_cps",
 			task_id = 12527,
 			task_name = "累计充值",
@@ -649,6 +662,7 @@ return {
 		[14]=
 		{
 			id = 14,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_4_5",
 			task_id = 12517,
 			task_name = "参与游戏",
@@ -663,6 +677,7 @@ return {
 		[15]=
 		{
 			id = 15,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_4",
 			task_id = 12532,
 			task_name = "击杀高倍鱼",
@@ -677,6 +692,7 @@ return {
 		[16]=
 		{
 			id = 16,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_4",
 			task_id = 12531,
 			task_name = "累计赢金",
@@ -691,6 +707,7 @@ return {
 		[17]=
 		{
 			id = 17,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_4",
 			task_id = 12511,
 			task_name = "击杀BOSS",
@@ -705,6 +722,7 @@ return {
 		[18]=
 		{
 			id = 18,
+			order = 1,
 			key = "actp_own_task_p_task_fish_daily_4_no_cps",
 			task_id = 12530,
 			task_name = "累计充值",
@@ -719,6 +737,7 @@ return {
 		[19]=
 		{
 			id = 19,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_5",
 			task_id = 12536,
 			task_name = "击杀高倍鱼",
@@ -733,6 +752,7 @@ return {
 		[20]=
 		{
 			id = 20,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_5",
 			task_id = 12535,
 			task_name = "累计赢金",
@@ -747,6 +767,7 @@ return {
 		[21]=
 		{
 			id = 21,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_5",
 			task_id = 12537,
 			task_name = "击杀BOSS",
@@ -761,6 +782,7 @@ return {
 		[22]=
 		{
 			id = 22,
+			order = 1,
 			key = "actp_own_task_p_task_fish_daily_5_no_cps",
 			task_id = 12534,
 			task_name = "累计充值",
@@ -775,6 +797,7 @@ return {
 		[23]=
 		{
 			id = 23,
+			order = 10,
 			key = "actp_own_task_p_task_fish_daily_cps",
 			task_id = 12538,
 			task_name = "累计在线",
@@ -789,6 +812,7 @@ return {
 		[24]=
 		{
 			id = 24,
+			order = 1,
 			key = "actp_own_task_p_task_fish_daily_1_2_cps",
 			task_id = 12539,
 			task_name = "单笔充值",
@@ -803,6 +827,7 @@ return {
 		[25]=
 		{
 			id = 25,
+			order = 1,
 			key = "actp_own_task_p_task_fish_daily_3_cps",
 			task_id = 12540,
 			task_name = "累计充值",
@@ -817,6 +842,7 @@ return {
 		[26]=
 		{
 			id = 26,
+			order = 1,
 			key = "actp_own_task_p_task_fish_daily_4_cps",
 			task_id = 12541,
 			task_name = "累计充值",
@@ -831,6 +857,7 @@ return {
 		[27]=
 		{
 			id = 27,
+			order = 1,
 			key = "actp_own_task_p_task_fish_daily_5_cps",
 			task_id = 12542,
 			task_name = "累计充值",
@@ -882,6 +909,7 @@ return {
 		{
 			id = 1,
 			task_id = 12600,
+			order = 1,
 			task_name = "水果消消乐",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "水果消消乐游戏50次",
@@ -894,6 +922,7 @@ return {
 		{
 			id = 2,
 			task_id = 12601,
+			order = 2,
 			task_name = "水果消消乐",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "水果消消乐累计消除苹果200个",
@@ -906,6 +935,7 @@ return {
 		{
 			id = 3,
 			task_id = 12602,
+			order = 3,
 			task_name = "水果消消乐",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "水果消消乐累计消除铃铛200个",
@@ -918,6 +948,7 @@ return {
 		{
 			id = 4,
 			task_id = 12603,
+			order = 4,
 			task_name = "水果消消乐",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "水果消消乐累计消除西瓜200个",
@@ -930,6 +961,7 @@ return {
 		{
 			id = 5,
 			task_id = 12604,
+			order = 5,
 			task_name = "水果消消乐",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "水果消消乐累计消除BAR100个",
@@ -942,6 +974,7 @@ return {
 		{
 			id = 6,
 			task_id = 12605,
+			order = 6,
 			task_name = "水果消消乐",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "累计赢金100万(单局至少投入5千)",
@@ -954,6 +987,7 @@ return {
 		{
 			id = 7,
 			task_id = 12606,
+			order = 7,
 			task_name = "水果消消乐",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "出现幸运时刻(单局至少投入3万)",
@@ -966,6 +1000,7 @@ return {
 		{
 			id = 8,
 			task_id = 12607,
+			order = 8,
 			task_name = "累计赢金",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "红包场累计赢金1万",
@@ -978,6 +1013,7 @@ return {
 		{
 			id = 9,
 			task_id = 12608,
+			order = 9,
 			task_name = "累计赢金",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "红包场累计赢金5万",
@@ -990,6 +1026,7 @@ return {
 		{
 			id = 10,
 			task_id = 12609,
+			order = 10,
 			task_name = "累计赢金",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "红包场累计赢金10万",
@@ -1002,6 +1039,7 @@ return {
 		{
 			id = 11,
 			task_id = 12610,
+			order = 11,
 			task_name = "累计赢金",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "红包场累计赢金50万",
@@ -1014,6 +1052,7 @@ return {
 		{
 			id = 12,
 			task_id = 12611,
+			order = 12,
 			task_name = "累计赢金",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "红包场累计赢金100万",
@@ -1026,6 +1065,7 @@ return {
 		{
 			id = 13,
 			task_id = 12612,
+			order = 13,
 			task_name = "累计赢金",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "红包场累计赢金500万",
@@ -1038,6 +1078,7 @@ return {
 		{
 			id = 14,
 			task_id = 12613,
+			order = 14,
 			task_name = "累计赢金",
 			task_icon = "rw_icon_mrzz",
 			task_instruction = "红包场累计赢金1000万",
