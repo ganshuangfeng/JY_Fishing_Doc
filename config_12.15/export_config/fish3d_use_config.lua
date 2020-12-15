@@ -641,52 +641,171 @@ return {
 		[121]=
 		{
 			id = 121,
-			fish_id = 13,
-			attr_id = 9,
+			fish_id = 20,
 		},
 		[122]=
 		{
 			id = 122,
-			fish_id = 14,
-			attr_id = 9,
+			fish_id = 22,
 		},
 		[123]=
 		{
 			id = 123,
-			fish_id = 15,
-			attr_id = 9,
+			fish_id = 23,
 		},
 		[124]=
 		{
 			id = 124,
-			fish_id = 16,
-			attr_id = 9,
+			fish_id = 25,
 		},
 		[125]=
 		{
 			id = 125,
-			fish_id = 17,
-			attr_id = 9,
+			fish_id = 26,
 		},
 		[126]=
 		{
 			id = 126,
-			fish_id = 18,
-			attr_id = 9,
+			fish_id = 27,
 		},
 		[127]=
 		{
 			id = 127,
-			fish_id = 61,
+			fish_id = 20,
 		},
 		[128]=
 		{
 			id = 128,
-			fish_id = 61,
+			fish_id = 22,
 		},
 		[129]=
 		{
 			id = 129,
+			fish_id = 23,
+		},
+		[130]=
+		{
+			id = 130,
+			fish_id = 25,
+		},
+		[131]=
+		{
+			id = 131,
+			fish_id = 26,
+		},
+		[132]=
+		{
+			id = 132,
+			fish_id = 27,
+		},
+		[133]=
+		{
+			id = 133,
+			fish_id = 20,
+		},
+		[134]=
+		{
+			id = 134,
+			fish_id = 22,
+		},
+		[135]=
+		{
+			id = 135,
+			fish_id = 23,
+		},
+		[136]=
+		{
+			id = 136,
+			fish_id = 25,
+		},
+		[137]=
+		{
+			id = 137,
+			fish_id = 26,
+		},
+		[138]=
+		{
+			id = 138,
+			fish_id = 27,
+		},
+		[139]=
+		{
+			id = 139,
+			fish_id = 20,
+		},
+		[140]=
+		{
+			id = 140,
+			fish_id = 22,
+		},
+		[141]=
+		{
+			id = 141,
+			fish_id = 23,
+		},
+		[142]=
+		{
+			id = 142,
+			fish_id = 25,
+		},
+		[143]=
+		{
+			id = 143,
+			fish_id = 26,
+		},
+		[144]=
+		{
+			id = 144,
+			fish_id = 27,
+		},
+		[145]=
+		{
+			id = 145,
+			fish_id = 13,
+			attr_id = 9,
+		},
+		[146]=
+		{
+			id = 146,
+			fish_id = 14,
+			attr_id = 9,
+		},
+		[147]=
+		{
+			id = 147,
+			fish_id = 15,
+			attr_id = 9,
+		},
+		[148]=
+		{
+			id = 148,
+			fish_id = 16,
+			attr_id = 9,
+		},
+		[149]=
+		{
+			id = 149,
+			fish_id = 17,
+			attr_id = 9,
+		},
+		[150]=
+		{
+			id = 150,
+			fish_id = 18,
+		},
+		[151]=
+		{
+			id = 151,
+			fish_id = 61,
+		},
+		[152]=
+		{
+			id = 152,
+			fish_id = 61,
+		},
+		[153]=
+		{
+			id = 153,
 			fish_id = 61,
 		},
 	},
