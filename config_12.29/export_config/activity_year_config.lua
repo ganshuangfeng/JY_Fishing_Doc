@@ -403,7 +403,7 @@ return {
 		{
 			id = 22,
 			ID = 22,
-			title = "金元宝榜榜",
+			title = "金元宝榜",
 			noCloseUI = 0,
 			order = 2,
 			key = "act_039_jzsjb",
