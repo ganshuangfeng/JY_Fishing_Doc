@@ -198,7 +198,6 @@ return {
 		{
 			id = 8,
 			area = "right_bottom",
-			group_list = "117#",
 		},
 	},
 	ddz_free_game=
