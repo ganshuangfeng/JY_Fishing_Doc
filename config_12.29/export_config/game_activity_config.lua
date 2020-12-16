@@ -312,6 +312,13 @@ return {
 			isOnOff = 1,
 			beginTime = 1609200000,
 			endTime = 1609775999,
+			noCloseUI = 1,
+			type = "activity",
+			showType = "image",
+			parmData = "act_040_ydfl",
+			is_local_icon = 1,
+			gotoUI = {"act_040_ydfl","panel"},
+			tag = "normal",
 		},
 	},
 }
