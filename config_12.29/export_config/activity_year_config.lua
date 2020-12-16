@@ -385,7 +385,7 @@ return {
 		{
 			id = 21,
 			ID = 21,
-			title = "圣诞福利",
+			title = "元旦福利",
 			noCloseUI = 0,
 			order = 1,
 			key = "act_039_jzhhl",
@@ -403,7 +403,7 @@ return {
 		{
 			id = 22,
 			ID = 22,
-			title = "礼盒收集榜",
+			title = "金元宝榜榜",
 			noCloseUI = 0,
 			order = 2,
 			key = "act_039_jzsjb",
