@@ -4637,7 +4637,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 150,
 			ranking_show_rate = 1,
-			broadcast = 0,
+			broadcast = 1,
 		},
 		[181]=
 		{
@@ -4652,7 +4652,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 250,
 			ranking_show_rate = 1,
-			broadcast = 0,
+			broadcast = 1,
 		},
 		[182]=
 		{
@@ -4667,7 +4667,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 350,
 			ranking_show_rate = 1,
-			broadcast = 0,
+			broadcast = 1,
 		},
 	},
 	activity=
