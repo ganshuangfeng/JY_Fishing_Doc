@@ -317,7 +317,7 @@ return {
 			showType = "image",
 			parmData = "act_040_ydfl",
 			is_local_icon = 1,
-			gotoUI = {"act_040_ydfl","panel"},
+			gotoUI = {"xnfl_bg_1",},
 			tag = "normal",
 		},
 	},
