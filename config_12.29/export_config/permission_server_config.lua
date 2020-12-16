@@ -15514,7 +15514,7 @@ return {
 			id = 7,
 			name = "3dby_cps",
 			var = "market_channel",
-			value = {"vivo","xiaomi",},
+			value = {"vivo","xiaomi","yyb",},
 			judge = 2,
 			group = 1,
 		},
