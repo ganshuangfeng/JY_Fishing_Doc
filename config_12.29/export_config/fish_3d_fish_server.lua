@@ -3986,7 +3986,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 150,
 			ranking_show_rate = 1,
-			broadcast = 0,
+			broadcast = 1,
 			clear_level = 1,
 		},
 		[152]=
@@ -4002,7 +4002,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 250,
 			ranking_show_rate = 1,
-			broadcast = 0,
+			broadcast = 1,
 			clear_level = 1,
 		},
 		[153]=
@@ -4018,7 +4018,7 @@ return {
 			gd_award = 0,
 			ranking_rate = 350,
 			ranking_show_rate = 1,
-			broadcast = 0,
+			broadcast = 1,
 			clear_level = 1,
 		},
 	},
