@@ -2714,9 +2714,9 @@ return {
 			key = "act_030_cwlb",
 			desc = "双十二",
 			lua = "Act_030_CWLBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[278]=
 		{
@@ -2893,9 +2893,9 @@ return {
 			key = "act_038_s12dhhl",
 			desc = "双十二兑换好礼",
 			lua = "Act_038_S12DHHLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[296]=
 		{
@@ -2903,15 +2903,15 @@ return {
 			key = "act_038_s12lhsjb",
 			desc = "双十二礼盒收集榜",
 			lua = "Act_038_S12LHSJBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[297]=
 		{
 			id = 297,
 			key = "act_038_s12",
-			desc = "双十二页签",
+			desc = "双十二页签→元旦活动",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -2922,9 +2922,9 @@ return {
 			key = "act_038_s12lh_drop_ani",
 			desc = "双12礼盒掉落",
 			lua = "Act_038_S12LHDROPManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[299]=
 		{
