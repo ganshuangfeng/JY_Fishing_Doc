@@ -10893,6 +10893,7 @@ return {
 			process = {10000000,-1},
 			awards = {485,485},
 			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 		[300]=
 		{
