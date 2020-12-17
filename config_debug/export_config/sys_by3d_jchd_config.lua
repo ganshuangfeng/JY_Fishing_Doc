@@ -44,7 +44,7 @@ return {
 			isOnOff = 1,
 			order = 6,
 			gotoui = {"by3d_ad_mfcj",},
-			condi_key = "cps_ggxt",
+			condi_key = "cps_xycj",
 		},
 	},
 }
