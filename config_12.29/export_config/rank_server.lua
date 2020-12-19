@@ -644,7 +644,7 @@ return {
 		[47]=
 		{
 			id = 47,
-			source_id = 25,
+			source_id = 24,
 			source_type = "buyu_get_use_item",
 			condtion_id = 25,
 		},
