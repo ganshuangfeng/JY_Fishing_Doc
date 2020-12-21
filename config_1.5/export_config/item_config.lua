@@ -3916,5 +3916,18 @@ return {
 			name = "星星",
 			desc = "欢乐庆典——星星",
 		},
+		[290]=
+		{
+			id = 290,
+			item_id = 290,
+			item_key = "prop_qdlb_cjq",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "cwzp_icon_cjq",
+			is_show_bag = 0,
+			order = 33,
+			name = "庆典礼包抽奖券",
+			desc = "庆典礼包抽奖券",
+		},
 	},
 }
