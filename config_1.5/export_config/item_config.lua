@@ -3903,5 +3903,18 @@ return {
 			name = "金元宝",
 			desc = "元旦活动——金元宝",
 		},
+		[289]=
+		{
+			id = 289,
+			item_id = 289,
+			item_key = "prop_hlqd_xx",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "act_ty_by_drop_7",
+			is_show_bag = 0,
+			order = 33,
+			name = "星星",
+			desc = "欢乐庆典——星星",
+		},
 	},
 }
