@@ -2176,41 +2176,55 @@ return {
 		[80]=
 		{
 			id = 80,
-			source_id = 38,
-			source_type = "xxl_xc_target_item",
-			condition_id = 1024,
+			source_id = 37,
+			source_type = "xiaoxiaole_xiyou_award",
+			condition_id = 0,
 		},
 		[81]=
 		{
 			id = 81,
-			source_id = 39,
-			source_type = "xxl_xc_target_item",
-			condition_id = 1025,
+			source_id = 37,
+			source_type = "lwzb_game_award",
+			condition_id = 0,
 		},
 		[82]=
 		{
 			id = 82,
-			source_id = 40,
+			source_id = 38,
 			source_type = "xxl_xc_target_item",
-			condition_id = 1026,
+			condition_id = 1024,
 		},
 		[83]=
 		{
 			id = 83,
-			source_id = 41,
+			source_id = 39,
 			source_type = "xxl_xc_target_item",
-			condition_id = 1027,
+			condition_id = 1025,
 		},
 		[84]=
 		{
 			id = 84,
-			source_id = 42,
-			source_type = "xiaoxiaole_award",
-			condition_id = 1028,
+			source_id = 40,
+			source_type = "xxl_xc_target_item",
+			condition_id = 1026,
 		},
 		[85]=
 		{
 			id = 85,
+			source_id = 41,
+			source_type = "xxl_xc_target_item",
+			condition_id = 1027,
+		},
+		[86]=
+		{
+			id = 86,
+			source_id = 42,
+			source_type = "xiaoxiaole_award",
+			condition_id = 1028,
+		},
+		[87]=
+		{
+			id = 87,
 			source_id = 43,
 			source_type = "xxl_lucky_award",
 			condition_id = 1029,
