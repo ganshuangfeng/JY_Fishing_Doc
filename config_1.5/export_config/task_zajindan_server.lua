@@ -8079,6 +8079,104 @@ return {
 			end_valid_time = 1610380799,
 			time_limit = -1,
 		},
+		[1000168]=
+		{
+			id = 1000168,
+			enable = 0,
+			name = "小游戏福利",
+			own_type = "p_034_xyxfl",
+			task_enum = "common",
+			process_id = 21526,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1609776000,
+			end_valid_time = 1610380799,
+			time_limit = -1,
+		},
+		[1000169]=
+		{
+			id = 1000169,
+			enable = 0,
+			name = "小游戏福利",
+			own_type = "p_034_xyxfl",
+			task_enum = "common",
+			process_id = 21527,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1609776000,
+			end_valid_time = 1610380799,
+			time_limit = -1,
+		},
+		[1000170]=
+		{
+			id = 1000170,
+			enable = 0,
+			name = "小游戏福利",
+			own_type = "p_034_xyxfl",
+			task_enum = "common",
+			process_id = 21528,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1609776000,
+			end_valid_time = 1610380799,
+			time_limit = -1,
+		},
+		[1000172]=
+		{
+			id = 1000172,
+			enable = 0,
+			name = "小游戏福利",
+			own_type = "p_034_xyxfl",
+			task_enum = "common",
+			process_id = 21529,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1609776000,
+			end_valid_time = 1610380799,
+			time_limit = -1,
+		},
+		[1000171]=
+		{
+			id = 1000171,
+			enable = 0,
+			name = "小游戏福利",
+			own_type = "p_034_xyxfl",
+			task_enum = "common",
+			process_id = 21530,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1609776000,
+			end_valid_time = 1610380799,
+			time_limit = -1,
+		},
+		[1000173]=
+		{
+			id = 1000173,
+			enable = 0,
+			name = "小游戏福利",
+			own_type = "p_034_xyxfl",
+			task_enum = "common",
+			process_id = 21531,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1609776000,
+			end_valid_time = 1610380799,
+			time_limit = -1,
+		},
+		[1000174]=
+		{
+			id = 1000174,
+			enable = 0,
+			name = "小游戏福利",
+			own_type = "p_034_xyxfl",
+			task_enum = "common",
+			process_id = 21532,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1609776000,
+			end_valid_time = 1610380799,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -13585,6 +13683,69 @@ return {
 			get_award_type = "nor",
 			is_auto_get_award = 2,
 		},
+		[578]=
+		{
+			id = 578,
+			process_id = 21526,
+			source_id = 474,
+			process = 2,
+			awards = 936,
+			get_award_type = "nor",
+		},
+		[579]=
+		{
+			id = 579,
+			process_id = 21527,
+			source_id = 475,
+			process = 1,
+			awards = 936,
+			get_award_type = "nor",
+		},
+		[580]=
+		{
+			id = 580,
+			process_id = 21528,
+			source_id = 476,
+			process = 2,
+			awards = 936,
+			get_award_type = "nor",
+		},
+		[581]=
+		{
+			id = 581,
+			process_id = 21529,
+			source_id = 477,
+			process = 3,
+			awards = 936,
+			get_award_type = "nor",
+		},
+		[582]=
+		{
+			id = 582,
+			process_id = 21530,
+			source_id = 478,
+			process = 3,
+			awards = 936,
+			get_award_type = "nor",
+		},
+		[583]=
+		{
+			id = 583,
+			process_id = 21531,
+			source_id = 479,
+			process = 1,
+			awards = 936,
+			get_award_type = "nor",
+		},
+		[584]=
+		{
+			id = 584,
+			process_id = 21532,
+			source_id = 480,
+			process = 1,
+			awards = 936,
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -18393,29 +18554,29 @@ return {
 		{
 			id = 681,
 			source_id = 474,
-			source_type = "agent_guess_continuity_apple_award",
-			condition_id = 335,
+			source_type = "zajindan_game_num",
+			condition_id = 336,
 		},
 		[682]=
 		{
 			id = 682,
 			source_id = 475,
-			source_type = "zajindan_game_num",
-			condition_id = 336,
+			source_type = "zajindan_continuity_caishen_model",
+			condition_id = 337,
 		},
 		[683]=
 		{
 			id = 683,
 			source_id = 476,
-			source_type = "zajindan_continuity_caishen_model",
-			condition_id = 337,
+			source_type = "xiaoxiaole_caishen_sky_girl",
+			condition_id = 338,
 		},
 		[684]=
 		{
 			id = 684,
 			source_id = 477,
-			source_type = "xiaoxiaole_caishen_sky_girl",
-			condition_id = 338,
+			source_type = "xxl_lucky_award",
+			condition_id = 340,
 		},
 		[685]=
 		{
@@ -18428,8 +18589,8 @@ return {
 		{
 			id = 686,
 			source_id = 479,
-			source_type = "xxl_lucky_award",
-			condition_id = 340,
+			source_type = "agent_guess_continuity_apple_award",
+			condition_id = 335,
 		},
 		[687]=
 		{
@@ -35551,6 +35712,14 @@ return {
 			award_id = 935,
 			asset_type = "_common_rank_hlqd_xxphb_rank",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[1418]=
+		{
+			id = 1418,
+			award_id = 936,
+			asset_type = "jing_bi",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 	},
