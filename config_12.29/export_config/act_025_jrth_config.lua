@@ -24,7 +24,7 @@ return {
 			award_ids = {1,2,3,4,5,6},
 			award_descs = {"190万","195万","200万","220万","400","500万"},
 			award_images = {"ty_icon_jb_50y","ty_icon_jb_98y","ty_icon_jb_198y","ty_icon_jb_498y","ty_icon_jb_998y","ty_icon_jb_2498y"},
-			cost_text = "8元",
+			cost_text = "18元",
 			type = 2,
 		},
 		[3]=
