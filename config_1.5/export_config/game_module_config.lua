@@ -3046,5 +3046,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[311]=
+		{
+			id = 311,
+			key = "act_ty_zp1",
+			desc = "通用活动--转盘模板（畅玩礼包）",
+			lua = "Act_Ty_ZP1Manager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
