@@ -186,7 +186,7 @@ return {
 		[112]=
 		{
 			id = 112,
-			enable = 0,
+			enable = 1,
 			name = "vip累积赢金挑战",
 			own_type = "vip_game_award_task",
 			task_enum = "common",
@@ -4176,7 +4176,7 @@ return {
 		[21247]=
 		{
 			id = 21247,
-			enable = 0,
+			enable = 1,
 			name = "VIP升级",
 			own_type = "vip_greater10",
 			task_enum = "common",
@@ -8005,9 +8005,9 @@ return {
 			id = 14,
 			process_id = 112,
 			condition_type = "all_game_award",
-			source_id = 14,
-			process = {1000000,1000000,3000000,5000000,10000000,30000000,50000000,100000000,300000000,500000000,1000000000,3000000000,5000000000,10000000000,30000000000},
-			awards = {58,59,60,61,62,63,64,65,66},
+			source_id = 532,
+			process = {10000000,20000000,50000000,100000000,200000000,500000000,1000000000,2000000000,5000000000,10000000000,20000000000,50000000000,100000000000,200000000000,500000000000,},
+			awards = {895,896,897,898,899,900,901,902,903,904,905,906,907,908,909},
 			get_award_type = "nor",
 		},
 		[15]=
@@ -34409,6 +34409,126 @@ return {
 			asset_type = "prop_3d_fish_wild",
 			asset_count = 20,
 			get_weight = 1,
+		},
+		[1335]=
+		{
+			id = 1335,
+			award_id = 895,
+			asset_type = "jing_bi",
+			asset_count = 30000,
+			get_weight = 1,
+		},
+		[1336]=
+		{
+			id = 1336,
+			award_id = 896,
+			asset_type = "jing_bi",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[1337]=
+		{
+			id = 1337,
+			award_id = 897,
+			asset_type = "shop_gold_sum",
+			asset_count = 50,
+			get_weight = 1,
+		},
+		[1338]=
+		{
+			id = 1338,
+			award_id = 898,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[1339]=
+		{
+			id = 1339,
+			award_id = 899,
+			asset_type = "shop_gold_sum",
+			asset_count = 300,
+			get_weight = 1,
+		},
+		[1340]=
+		{
+			id = 1340,
+			award_id = 900,
+			asset_type = "shop_gold_sum",
+			asset_count = 500,
+			get_weight = 1,
+		},
+		[1341]=
+		{
+			id = 1341,
+			award_id = 901,
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[1342]=
+		{
+			id = 1342,
+			award_id = 902,
+			asset_type = "shop_gold_sum",
+			asset_count = 2000,
+			get_weight = 1,
+		},
+		[1343]=
+		{
+			id = 1343,
+			award_id = 903,
+			asset_type = "shop_gold_sum",
+			asset_count = 5000,
+			get_weight = 1,
+		},
+		[1344]=
+		{
+			id = 1344,
+			award_id = 904,
+			award_name = "四件套",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[1345]=
+		{
+			id = 1345,
+			award_id = 905,
+			award_name = "电饭煲",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[1346]=
+		{
+			id = 1346,
+			award_id = 906,
+			award_name = "黄金幸运珠",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[1347]=
+		{
+			id = 1347,
+			award_id = 907,
+			award_name = "华为荣耀平板",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[1348]=
+		{
+			id = 1348,
+			award_id = 908,
+			award_name = "vivo  X50",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[1349]=
+		{
+			id = 1349,
+			award_id = 909,
+			award_name = "苹果笔记本",
+			get_weight = 1,
+			is_send_email = 1,
 		},
 	},
 }
