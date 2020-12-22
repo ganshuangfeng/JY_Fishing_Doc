@@ -329,23 +329,30 @@ return {
 		[1]=
 		{
 			index = 1,
-			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_zh"},
-			text = {"10万鱼币","太阳*2","召唤*10"},
+			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
+			text = {"10万鱼币","太阳*2","狂暴卡*5"},
 			title = "vip<color=#e41a1a>2</color>福利",
 		},
 		[2]=
 		{
 			index = 2,
-			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_zh"},
-			text = {"30万鱼币","太阳*6","召唤*10"},
+			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
+			text = {"30万鱼币","太阳*6","狂暴卡*10"},
 			title = "vip<color=#e41a1a>3</color>-vip<color=#e41a1a>5</color>福利",
 		},
 		[3]=
 		{
 			index = 3,
-			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_zh"},
-			text = {"66万鱼币","太阳*10","召唤*10"},
-			title = "vip<color=#e41a1a>6</color>及以上福利",
+			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
+			text = {"66万鱼币","太阳*10","狂暴卡*15"},
+			title = "vip<color=#e41a1a>6，7</color>福利",
+		},
+		[4]=
+		{
+			index = 4,
+			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
+			text = {"66万鱼币","太阳*15","狂暴卡*20"},
+			title = "vip<color=#e41a1a>8</color>及以上福利",
 		},
 	},
 	task=
