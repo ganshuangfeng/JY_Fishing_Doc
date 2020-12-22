@@ -7876,7 +7876,7 @@ return {
 			name = "vip2周任务(冲金鸡)",
 			own_type = "vip_week_task_2",
 			task_enum = "vip_week_task",
-			process_id = 21314,
+			process_id = 21511,
 			is_reset = 1,
 			reset_delay = 7,
 			start_valid_time = 1570377600,
@@ -7890,7 +7890,7 @@ return {
 			name = "vip3~5周任务(冲金鸡)",
 			own_type = "vip_week_task_3",
 			task_enum = "vip_week_task",
-			process_id = 21016,
+			process_id = 21512,
 			is_reset = 1,
 			reset_delay = 7,
 			start_valid_time = 1570377600,
@@ -7904,7 +7904,7 @@ return {
 			name = "vip6及以上周任务(冲金鸡)",
 			own_type = "vip_week_task_6",
 			task_enum = "vip_week_task",
-			process_id = 21017,
+			process_id = 21513,
 			is_reset = 1,
 			reset_delay = 7,
 			start_valid_time = 1570377600,
@@ -7918,10 +7918,24 @@ return {
 			name = "vip8及以上周任务(冲金鸡)",
 			own_type = "vip_week_task_8",
 			task_enum = "vip_week_task",
-			process_id = 21510,
+			process_id = 21514,
 			is_reset = 1,
 			reset_delay = 7,
 			start_valid_time = 1570377600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[1000157]=
+		{
+			id = 1000157,
+			enable = 1,
+			name = "VIP富豪福利(冲金鸡)",
+			own_type = "normal",
+			task_enum = "vip_regal_welfare",
+			process_id = 21515,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1588003200,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
@@ -13321,6 +13335,14 @@ return {
 			process = 0,
 			awards = 913,
 			get_award_type = "nor",
+		},
+		[567]=
+		{
+			id = 567,
+			process_id = 21515,
+			source_id = 390,
+			process = {2000000,3000000,5000000,10000000,30000000,50000000,100000000,300000000,500000000,1000000000,1000000000,2000000000},
+			awards = {914,915,916,917,918,919,920,921,922,923,924,925},
 		},
 	},
 	source=
@@ -34720,6 +34742,294 @@ return {
 			award_id = 913,
 			asset_type = "prop_brass_hammer_1",
 			asset_count = 5,
+			get_weight = 1,
+		},
+		[1362]=
+		{
+			id = 1362,
+			award_id = 914,
+			asset_type = "jing_bi",
+			asset_count = 80000,
+			get_weight = 1,
+		},
+		[1363]=
+		{
+			id = 1363,
+			award_id = 914,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1364]=
+		{
+			id = 1364,
+			award_id = 914,
+			asset_type = "prop_hammer_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1365]=
+		{
+			id = 1365,
+			award_id = 915,
+			asset_type = "jing_bi",
+			asset_count = 180000,
+			get_weight = 1,
+		},
+		[1366]=
+		{
+			id = 1366,
+			award_id = 915,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1367]=
+		{
+			id = 1367,
+			award_id = 915,
+			asset_type = "prop_hammer_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1368]=
+		{
+			id = 1368,
+			award_id = 916,
+			asset_type = "jing_bi",
+			asset_count = 280000,
+			get_weight = 1,
+		},
+		[1369]=
+		{
+			id = 1369,
+			award_id = 916,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1370]=
+		{
+			id = 1370,
+			award_id = 916,
+			asset_type = "prop_hammer_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1371]=
+		{
+			id = 1371,
+			award_id = 917,
+			asset_type = "jing_bi",
+			asset_count = 380000,
+			get_weight = 1,
+		},
+		[1372]=
+		{
+			id = 1372,
+			award_id = 917,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1373]=
+		{
+			id = 1373,
+			award_id = 917,
+			asset_type = "prop_hammer_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1374]=
+		{
+			id = 1374,
+			award_id = 918,
+			asset_type = "jing_bi",
+			asset_count = 480000,
+			get_weight = 1,
+		},
+		[1375]=
+		{
+			id = 1375,
+			award_id = 918,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1376]=
+		{
+			id = 1376,
+			award_id = 918,
+			asset_type = "prop_hammer_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1377]=
+		{
+			id = 1377,
+			award_id = 919,
+			asset_type = "jing_bi",
+			asset_count = 880000,
+			get_weight = 1,
+		},
+		[1378]=
+		{
+			id = 1378,
+			award_id = 919,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1379]=
+		{
+			id = 1379,
+			award_id = 919,
+			asset_type = "prop_hammer_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1380]=
+		{
+			id = 1380,
+			award_id = 920,
+			asset_type = "jing_bi",
+			asset_count = 1280000,
+			get_weight = 1,
+		},
+		[1381]=
+		{
+			id = 1381,
+			award_id = 920,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1382]=
+		{
+			id = 1382,
+			award_id = 920,
+			asset_type = "prop_hammer_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1383]=
+		{
+			id = 1383,
+			award_id = 921,
+			asset_type = "jing_bi",
+			asset_count = 1880000,
+			get_weight = 1,
+		},
+		[1384]=
+		{
+			id = 1384,
+			award_id = 921,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1385]=
+		{
+			id = 1385,
+			award_id = 921,
+			asset_type = "prop_hammer_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1386]=
+		{
+			id = 1386,
+			award_id = 922,
+			asset_type = "jing_bi",
+			asset_count = 2880000,
+			get_weight = 1,
+		},
+		[1387]=
+		{
+			id = 1387,
+			award_id = 922,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1388]=
+		{
+			id = 1388,
+			award_id = 922,
+			asset_type = "prop_hammer_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1389]=
+		{
+			id = 1389,
+			award_id = 923,
+			asset_type = "jing_bi",
+			asset_count = 3880000,
+			get_weight = 1,
+		},
+		[1390]=
+		{
+			id = 1390,
+			award_id = 923,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1391]=
+		{
+			id = 1391,
+			award_id = 923,
+			asset_type = "prop_hammer_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1392]=
+		{
+			id = 1392,
+			award_id = 924,
+			asset_type = "jing_bi",
+			asset_count = 4880000,
+			get_weight = 1,
+		},
+		[1393]=
+		{
+			id = 1393,
+			award_id = 924,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1394]=
+		{
+			id = 1394,
+			award_id = 924,
+			asset_type = "prop_hammer_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1395]=
+		{
+			id = 1395,
+			award_id = 925,
+			asset_type = "jing_bi",
+			asset_count = 5880000,
+			get_weight = 1,
+		},
+		[1396]=
+		{
+			id = 1396,
+			award_id = 925,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1397]=
+		{
+			id = 1397,
+			award_id = 925,
+			asset_type = "prop_hammer_1",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
