@@ -124,43 +124,43 @@ return {
 		{
 			id = 18,
 			prop_type = "prop_cjlb_1",
-			start_time = 1603756800,
-			recycle_time = 1604332799,
+			start_time = 1609200000,
+			recycle_time = 1609775999,
 		},
 		[19]=
 		{
 			id = 19,
 			prop_type = "prop_cjlb_2",
-			start_time = 1603756800,
-			recycle_time = 1604332799,
+			start_time = 1609200000,
+			recycle_time = 1609775999,
 		},
 		[20]=
 		{
 			id = 20,
 			prop_type = "prop_cjlb_3",
-			start_time = 1603756800,
-			recycle_time = 1604332799,
+			start_time = 1609200000,
+			recycle_time = 1609775999,
 		},
 		[21]=
 		{
 			id = 21,
 			prop_type = "prop_cjlb_4",
-			start_time = 1603756800,
-			recycle_time = 1604332799,
+			start_time = 1609200000,
+			recycle_time = 1609775999,
 		},
 		[22]=
 		{
 			id = 22,
 			prop_type = "prop_cjlb_5",
-			start_time = 1603756800,
-			recycle_time = 1604332799,
+			start_time = 1609200000,
+			recycle_time = 1609775999,
 		},
 		[23]=
 		{
 			id = 23,
 			prop_type = "prop_cjlb_6",
-			start_time = 1603756800,
-			recycle_time = 1604332799,
+			start_time = 1609200000,
+			recycle_time = 1609775999,
 		},
 		[24]=
 		{
