@@ -1335,6 +1335,7 @@ return {
 	{
 		[1]=
 		{
+			line = 1,
 			index = 1,
 			task_id = 21341,
 			condi_key = "cpl_notcjj",
@@ -1346,6 +1347,7 @@ return {
 		},
 		[2]=
 		{
+			line = 2,
 			index = 2,
 			task_id = 21341,
 			condi_key = "cpl_notcjj",
@@ -1357,6 +1359,7 @@ return {
 		},
 		[3]=
 		{
+			line = 3,
 			index = 3,
 			task_id = 21341,
 			condi_key = "cpl_notcjj",
@@ -1368,6 +1371,7 @@ return {
 		},
 		[4]=
 		{
+			line = 4,
 			index = 4,
 			task_id = 21341,
 			condi_key = "cpl_notcjj",
@@ -1379,6 +1383,7 @@ return {
 		},
 		[5]=
 		{
+			line = 5,
 			index = 5,
 			task_id = 21341,
 			condi_key = "cpl_notcjj",
@@ -1390,6 +1395,7 @@ return {
 		},
 		[6]=
 		{
+			line = 6,
 			index = 6,
 			task_id = 21341,
 			condi_key = "cpl_notcjj",
@@ -1401,6 +1407,7 @@ return {
 		},
 		[7]=
 		{
+			line = 7,
 			index = 7,
 			task_id = 21341,
 			condi_key = "cpl_notcjj",
@@ -1412,6 +1419,7 @@ return {
 		},
 		[8]=
 		{
+			line = 8,
 			index = 8,
 			task_id = 21341,
 			condi_key = "cpl_notcjj",
@@ -1423,6 +1431,7 @@ return {
 		},
 		[9]=
 		{
+			line = 9,
 			index = 9,
 			task_id = 21341,
 			condi_key = "cpl_notcjj",
@@ -1434,6 +1443,7 @@ return {
 		},
 		[10]=
 		{
+			line = 10,
 			index = 10,
 			task_id = 21341,
 			condi_key = "cpl_notcjj",
@@ -1445,6 +1455,7 @@ return {
 		},
 		[11]=
 		{
+			line = 11,
 			index = 11,
 			task_id = 21341,
 			condi_key = "cpl_notcjj",
@@ -1456,6 +1467,7 @@ return {
 		},
 		[12]=
 		{
+			line = 12,
 			index = 12,
 			task_id = 21341,
 			condi_key = "cpl_notcjj",
@@ -1467,7 +1479,8 @@ return {
 		},
 		[13]=
 		{
-			index = 13,
+			line = 13,
+			index = 1,
 			task_id = 1000157,
 			condi_key = "cpl_cjj",
 			title = "身上拥有200万金币",
@@ -1478,7 +1491,8 @@ return {
 		},
 		[14]=
 		{
-			index = 14,
+			line = 14,
+			index = 2,
 			task_id = 1000157,
 			condi_key = "cpl_cjj",
 			title = "身上拥有500万金币",
@@ -1489,7 +1503,8 @@ return {
 		},
 		[15]=
 		{
-			index = 15,
+			line = 15,
+			index = 3,
 			task_id = 1000157,
 			condi_key = "cpl_cjj",
 			title = "身上拥有1000万金币",
@@ -1500,7 +1515,8 @@ return {
 		},
 		[16]=
 		{
-			index = 16,
+			line = 16,
+			index = 4,
 			task_id = 1000157,
 			condi_key = "cpl_cjj",
 			title = "身上拥有2000万金币",
@@ -1511,7 +1527,8 @@ return {
 		},
 		[17]=
 		{
-			index = 17,
+			line = 17,
+			index = 5,
 			task_id = 1000157,
 			condi_key = "cpl_cjj",
 			title = "身上拥有5000万金币",
@@ -1522,7 +1539,8 @@ return {
 		},
 		[18]=
 		{
-			index = 18,
+			line = 18,
+			index = 6,
 			task_id = 1000157,
 			condi_key = "cpl_cjj",
 			title = "身上拥有1亿金币",
@@ -1533,7 +1551,8 @@ return {
 		},
 		[19]=
 		{
-			index = 19,
+			line = 19,
+			index = 7,
 			task_id = 1000157,
 			condi_key = "cpl_cjj",
 			title = "身上拥有2亿金币",
@@ -1544,7 +1563,8 @@ return {
 		},
 		[20]=
 		{
-			index = 20,
+			line = 20,
+			index = 8,
 			task_id = 1000157,
 			condi_key = "cpl_cjj",
 			title = "身上拥有5亿金币",
@@ -1555,7 +1575,8 @@ return {
 		},
 		[21]=
 		{
-			index = 21,
+			line = 21,
+			index = 9,
 			task_id = 1000157,
 			condi_key = "cpl_cjj",
 			title = "身上拥有10亿金币",
@@ -1566,7 +1587,8 @@ return {
 		},
 		[22]=
 		{
-			index = 22,
+			line = 22,
+			index = 10,
 			task_id = 1000157,
 			condi_key = "cpl_cjj",
 			title = "身上拥有20亿金币",
@@ -1577,7 +1599,8 @@ return {
 		},
 		[23]=
 		{
-			index = 23,
+			line = 23,
+			index = 11,
 			task_id = 1000157,
 			condi_key = "cpl_cjj",
 			title = "身上拥有30亿金币",
@@ -1588,7 +1611,8 @@ return {
 		},
 		[24]=
 		{
-			index = 24,
+			line = 24,
+			index = 12,
 			task_id = 1000157,
 			condi_key = "cpl_cjj",
 			title = "身上拥有50亿金币",
