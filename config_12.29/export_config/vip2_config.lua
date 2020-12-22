@@ -330,6 +330,7 @@ return {
 		{
 			index = 1,
 			task_id = 21314,
+			condi_key = "cpl_notcjj",
 			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
 			text = {"10万鱼币","太阳*2","狂暴卡*5"},
 			title = "vip<color=#e41a1a>2</color>福利",
@@ -340,6 +341,7 @@ return {
 		{
 			index = 2,
 			task_id = 21016,
+			condi_key = "cpl_notcjj",
 			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
 			text = {"30万鱼币","太阳*6","狂暴卡*10"},
 			title = "vip<color=#e41a1a>3</color>-vip<color=#e41a1a>5</color>福利",
@@ -350,6 +352,7 @@ return {
 		{
 			index = 3,
 			task_id = 21017,
+			condi_key = "cpl_notcjj",
 			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
 			text = {"66万鱼币","太阳*10","狂暴卡*15"},
 			title = "vip<color=#e41a1a>6，7</color>福利",
@@ -360,10 +363,55 @@ return {
 		{
 			index = 4,
 			task_id = 1000152,
+			condi_key = "cpl_notcjj",
 			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
-			text = {"66万鱼币","太阳*15","狂暴卡*20"},
+			text = {"100万鱼币","太阳*15","狂暴卡*20"},
 			title = "vip<color=#e41a1a>8</color>及以上福利",
 			tips = {"","可以再小游戏苹果大战中使用","在3D捕鱼中提高子弹威力",},
+			desc = "成为VIP8即可领取更丰厚的每周福利!",
+		},
+		[5]=
+		{
+			index = 5,
+			task_id = 1000153,
+			condi_key = "cpl_cjj",
+			image = {"ty_icon_yxb_2","zpg_icon_yg","com_award_icon_cz2"},
+			text = {"10万小游戏币","太阳*2","铜锤*1"},
+			title = "vip<color=#e41a1a>2</color>福利",
+			tips = {"","可以再小游戏苹果大战中使用","在冲金鸡中使用",},
+			desc = "成为VIP2即可领取更丰厚的每周福利!",
+		},
+		[6]=
+		{
+			index = 6,
+			task_id = 1000154,
+			condi_key = "cpl_cjj",
+			image = {"ty_icon_yxb_2","zpg_icon_yg","com_award_icon_cz2"},
+			text = {"30万小游戏币","太阳*6","铜锤*2"},
+			title = "vip<color=#e41a1a>3</color>-vip<color=#e41a1a>5</color>福利",
+			tips = {"","可以再小游戏苹果大战中使用","在冲金鸡中使用",},
+			desc = "成为VIP3即可领取更丰厚的每周福利!",
+		},
+		[7]=
+		{
+			index = 7,
+			task_id = 1000155,
+			condi_key = "cpl_cjj",
+			image = {"ty_icon_yxb_2","zpg_icon_yg","com_award_icon_cz2"},
+			text = {"66万小游戏币","太阳*10","铜锤*3"},
+			title = "vip<color=#e41a1a>6，7</color>福利",
+			tips = {"","可以再小游戏苹果大战中使用","在冲金鸡中使用",},
+			desc = "成为VIP6即可领取更丰厚的每周福利!",
+		},
+		[8]=
+		{
+			index = 8,
+			task_id = 1000156,
+			condi_key = "cpl_cjj",
+			image = {"ty_icon_yxb_2","zpg_icon_yg","com_award_icon_cz2"},
+			text = {"100万小游戏币","太阳*15","铜锤*5"},
+			title = "vip<color=#e41a1a>8</color>及以上福利",
+			tips = {"","可以再小游戏苹果大战中使用","在冲金鸡中使用",},
 			desc = "成为VIP8即可领取更丰厚的每周福利!",
 		},
 	},

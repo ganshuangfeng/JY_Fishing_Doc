@@ -7869,6 +7869,62 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
+		[1000153]=
+		{
+			id = 1000153,
+			enable = 1,
+			name = "vip2周任务(冲金鸡)",
+			own_type = "vip_week_task_2",
+			task_enum = "vip_week_task",
+			process_id = 21314,
+			is_reset = 1,
+			reset_delay = 7,
+			start_valid_time = 1570377600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[1000154]=
+		{
+			id = 1000154,
+			enable = 1,
+			name = "vip3~5周任务(冲金鸡)",
+			own_type = "vip_week_task_3",
+			task_enum = "vip_week_task",
+			process_id = 21016,
+			is_reset = 1,
+			reset_delay = 7,
+			start_valid_time = 1570377600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[1000155]=
+		{
+			id = 1000155,
+			enable = 1,
+			name = "vip6及以上周任务(冲金鸡)",
+			own_type = "vip_week_task_6",
+			task_enum = "vip_week_task",
+			process_id = 21017,
+			is_reset = 1,
+			reset_delay = 7,
+			start_valid_time = 1570377600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[1000156]=
+		{
+			id = 1000156,
+			enable = 1,
+			name = "vip8及以上周任务(冲金鸡)",
+			own_type = "vip_week_task_8",
+			task_enum = "vip_week_task",
+			process_id = 21510,
+			is_reset = 1,
+			reset_delay = 7,
+			start_valid_time = 1570377600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -13224,6 +13280,46 @@ return {
 			source_id = 551,
 			process = 0,
 			awards = 894,
+			get_award_type = "nor",
+		},
+		[563]=
+		{
+			id = 563,
+			process_id = 21511,
+			condition_type = "asset_observe",
+			source_id = 366,
+			process = 0,
+			awards = 910,
+			get_award_type = "nor",
+		},
+		[564]=
+		{
+			id = 564,
+			process_id = 21512,
+			condition_type = "asset_observe",
+			source_id = 68,
+			process = 0,
+			awards = 911,
+			get_award_type = "nor",
+		},
+		[565]=
+		{
+			id = 565,
+			process_id = 21513,
+			condition_type = "asset_observe",
+			source_id = 69,
+			process = 0,
+			awards = 912,
+			get_award_type = "nor",
+		},
+		[566]=
+		{
+			id = 566,
+			process_id = 21514,
+			condition_type = "asset_observe",
+			source_id = 551,
+			process = 0,
+			awards = 913,
 			get_award_type = "nor",
 		},
 	},
@@ -34529,6 +34625,102 @@ return {
 			award_name = "苹果笔记本",
 			get_weight = 1,
 			is_send_email = 1,
+		},
+		[1350]=
+		{
+			id = 1350,
+			award_id = 910,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[1351]=
+		{
+			id = 1351,
+			award_id = 910,
+			asset_type = "prop_guess_apple_bet_2",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[1352]=
+		{
+			id = 1352,
+			award_id = 910,
+			asset_type = "prop_brass_hammer_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1353]=
+		{
+			id = 1353,
+			award_id = 911,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 300000,
+			get_weight = 1,
+		},
+		[1354]=
+		{
+			id = 1354,
+			award_id = 911,
+			asset_type = "prop_guess_apple_bet_2",
+			asset_count = 6,
+			get_weight = 1,
+		},
+		[1355]=
+		{
+			id = 1355,
+			award_id = 911,
+			asset_type = "prop_brass_hammer_1",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[1356]=
+		{
+			id = 1356,
+			award_id = 912,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 660000,
+			get_weight = 1,
+		},
+		[1357]=
+		{
+			id = 1357,
+			award_id = 912,
+			asset_type = "prop_guess_apple_bet_2",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1358]=
+		{
+			id = 1358,
+			award_id = 912,
+			asset_type = "prop_brass_hammer_1",
+			asset_count = 3,
+			get_weight = 1,
+		},
+		[1359]=
+		{
+			id = 1359,
+			award_id = 913,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 1000000,
+			get_weight = 1,
+		},
+		[1360]=
+		{
+			id = 1360,
+			award_id = 913,
+			asset_type = "prop_guess_apple_bet_2",
+			asset_count = 15,
+			get_weight = 1,
+		},
+		[1361]=
+		{
+			id = 1361,
+			award_id = 913,
+			asset_type = "prop_brass_hammer_1",
+			asset_count = 5,
+			get_weight = 1,
 		},
 	},
 }
