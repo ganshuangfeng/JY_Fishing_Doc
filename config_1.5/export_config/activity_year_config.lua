@@ -200,7 +200,7 @@ return {
 			ID = 11,
 			title = "小游戏福利",
 			noCloseUI = 0,
-			order = 1,
+			order = 3,
 			key = "GameComAct1",
 			type = "activity",
 			isOnOff = 1,
@@ -210,8 +210,8 @@ return {
 			is_local_icon = 1,
 			gotoUI = {"GameComAct1","activity_030_xyxfl_config"},
 			tag = "hot",
-			beginTime = 1600732800,
-			endTime = 1601308799,
+			beginTime = 1609804800,
+			endTime = 1610380799,
 			condi_key = "actp_own_task_p_030_xyxfl",
 		},
 		[12]=
@@ -385,7 +385,7 @@ return {
 		{
 			id = 21,
 			ID = 21,
-			title = "元旦福利",
+			title = "元旦福利→欢乐福利",
 			noCloseUI = 0,
 			order = 1,
 			key = "act_039_jzhhl",
@@ -396,14 +396,14 @@ return {
 			is_local_icon = 1,
 			gotoUI = {"act_039_jzhhl","panel"},
 			tag = "normal",
-			beginTime = 1609200000,
-			endTime = 1609775999,
+			beginTime = 1609804800,
+			endTime = 1610380799,
 		},
 		[22]=
 		{
 			id = 22,
 			ID = 22,
-			title = "金元宝榜",
+			title = "金元宝榜→星星排行榜",
 			noCloseUI = 0,
 			order = 2,
 			key = "act_039_jzsjb",
@@ -414,8 +414,8 @@ return {
 			is_local_icon = 1,
 			gotoUI = {"act_039_jzsjb","panel"},
 			tag = "normal",
-			beginTime = 1609200000,
-			endTime = 1609775999,
+			beginTime = 1609804800,
+			endTime = 1610380799,
 		},
 		[23]=
 		{

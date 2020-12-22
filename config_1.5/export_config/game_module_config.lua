@@ -2712,11 +2712,11 @@ return {
 		{
 			id = 277,
 			key = "act_030_cwlb",
-			desc = "双十二",
+			desc = "双十二→庆典礼包",
 			lua = "Act_030_CWLBManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[278]=
 		{
@@ -2961,7 +2961,7 @@ return {
 		{
 			id = 302,
 			key = "act_038_s12",
-			desc = "双十二页签→元旦活动",
+			desc = "双十二页签→元旦活动→欢乐庆典",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -2990,7 +2990,7 @@ return {
 		{
 			id = 305,
 			key = "act_039_jzhhl",
-			desc = "饺子换好礼→圣诞福利→元旦好礼",
+			desc = "饺子换好礼→圣诞福利→元旦好礼→欢乐福利",
 			lua = "Act_039_JZHHLManager",
 			is_on_off = 1,
 			enable = 1,
@@ -3000,7 +3000,7 @@ return {
 		{
 			id = 306,
 			key = "act_039_jzsjb",
-			desc = "饺子收集榜 → 金元宝榜",
+			desc = "饺子收集榜 → 金元宝榜→星星收集榜",
 			lua = "Act_039_JZSJBManager",
 			is_on_off = 1,
 			enable = 1,

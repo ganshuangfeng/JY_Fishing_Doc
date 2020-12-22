@@ -1,4 +1,23 @@
 return {
+	config_infor=
+	{
+		[1]=
+		{
+			line = 1,
+			Channel = "normal",
+			config = "Info",
+			change_type = 15,
+			item_key = "prop_hlqd_xx",
+		},
+		[2]=
+		{
+			line = 2,
+			Channel = "cjj",
+			config = "Info_cjj",
+			change_type = 16,
+			item_key = "prop_hlqd_xx",
+		},
+	},
 	Info=
 	{
 		[1]=
@@ -144,114 +163,50 @@ return {
 		[1000159]=
 		{
 			task_id  = 1000159,
+			shop_id = 2,
 			icon_txt = 45,
 		},
 		[1000160]=
 		{
 			task_id  = 1000160,
+			shop_id = 3,
 			icon_txt = 90,
 		},
 		[1000161]=
 		{
 			task_id  = 1000161,
+			shop_id = 4,
 			icon_txt = 150,
 		},
 		[1000162]=
 		{
 			task_id  = 1000162,
+			shop_id = 5,
 			icon_txt = 290,
 		},
 		[1000163]=
 		{
 			task_id  = 1000163,
+			shop_id = 111,
 			icon_txt = 590,
 		},
 		[1000164]=
 		{
 			task_id  = 1000164,
+			shop_id = 6,
 			icon_txt = 1490,
 		},
 		[1000165]=
 		{
 			task_id  = 1000165,
+			shop_id = 108,
 			icon_txt = 2990,
 		},
 		[1000166]=
 		{
 			task_id  = 1000166,
-			icon_txt = 7500,
-		},
-	},
-	shop_config=
-	{
-		[1]=
-		{
-			id = 1,
-			shop_id = 2,
-			gift_id = 1000159,
-		},
-		[2]=
-		{
-			id = 2,
-			shop_id = 3,
-			gift_id = 1000160,
-		},
-		[3]=
-		{
-			id = 3,
-			shop_id = 4,
-			gift_id = 1000161,
-		},
-		[4]=
-		{
-			id = 4,
-			shop_id = 5,
-			gift_id = 1000162,
-		},
-		[5]=
-		{
-			id = 5,
-			shop_id = 111,
-			gift_id = 1000163,
-		},
-		[6]=
-		{
-			id = 6,
-			shop_id = 6,
-			gift_id = 1000164,
-		},
-		[7]=
-		{
-			id = 7,
-			shop_id = 108,
-			gift_id = 1000165,
-		},
-		[8]=
-		{
-			id = 8,
 			shop_id = 110,
-			gift_id = 1000166,
-		},
-	},
-	item_name=
-	{
-		[1]=
-		{
-			line = 1,
-			item_key = "prop_hlqd_xx",
-		},
-	},
-	act_exchange=
-	{
-		[1]=
-		{
-			line = 1,
-			type = 15,
-		},
-		[2]=
-		{
-			line = 2,
-			type = 16,
+			icon_txt = 7500,
 		},
 	},
 }
