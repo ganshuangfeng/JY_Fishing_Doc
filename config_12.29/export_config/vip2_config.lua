@@ -673,73 +673,73 @@ return {
 		[1]=
 		{
 			index = 1,
-			image = "com_icon_gold",
-			text = "3000鲸币",
-			need = 1000000,
+			image = "ty_icon_jb_6y",
+			text = "3万金币",
+			need = 10000000,
 			isreal = 0,
 		},
 		[2]=
 		{
 			index = 2,
-			image = "com_icon_gold",
-			text = "5000鲸币",
-			need = 2000000,
+			image = "ty_icon_jb_15y",
+			text = "5万金币",
+			need = 20000000,
 			isreal = 0,
 		},
 		[3]=
 		{
 			index = 3,
-			image = "bbsc_icon_hb",
-			text = "0.5红包劵",
-			need = 5000000,
+			image = "ty_icon_flq2",
+			text = "50福利券",
+			need = 50000000,
 			isreal = 0,
 		},
 		[4]=
 		{
 			index = 4,
-			image = "bbsc_icon_hb",
-			text = "1红包劵",
-			need = 10000000,
+			image = "ty_icon_flq2",
+			text = "100福利券",
+			need = 100000000,
 			isreal = 0,
 		},
 		[5]=
 		{
 			index = 5,
-			image = "bbsc_icon_hb",
-			text = "3红包券",
-			need = 20000000,
+			image = "ty_icon_flq2",
+			text = "300福利券",
+			need = 200000000,
 			isreal = 0,
 		},
 		[6]=
 		{
 			index = 6,
-			image = "bbsc_icon_hb",
-			text = "5红包券",
-			need = 50000000,
+			image = "ty_icon_flq2",
+			text = "500福利券",
+			need = 500000000,
 			isreal = 0,
 		},
 		[7]=
 		{
 			index = 7,
-			image = "bbsc_icon_hb",
-			text = "10红包劵",
-			need = 100000000,
+			image = "ty_icon_flq3",
+			text = "1000福利券",
+			need = 1000000000,
 			isreal = 0,
 		},
 		[8]=
 		{
 			index = 8,
-			image = "bbsc_icon_hb",
-			text = "20红包券",
-			need = 200000000,
+			image = "ty_icon_flq3",
+			text = "2000福利券",
+			need = 2000000000,
 			isreal = 0,
 		},
 		[9]=
 		{
 			index = 9,
-			image = "bbsc_icon_hb",
-			text = "50红包券",
-			need = 500000000,
+			image = "ty_icon_flq3",
+			text = "5000福利券",
+			need = 5000000000,
 			isreal = 0,
 		},
 		[10]=
@@ -747,7 +747,7 @@ return {
 			index = 10,
 			image = "vip_zx_icon_1",
 			text = "四件套",
-			need = 1000000000,
+			need = 10000000000,
 			isreal = 1,
 		},
 		[11]=
@@ -755,15 +755,15 @@ return {
 			index = 11,
 			image = "vip_zx_icon_2",
 			text = "电饭煲",
-			need = 2000000000,
+			need = 20000000000,
 			isreal = 1,
 		},
 		[12]=
 		{
 			index = 12,
 			image = "vip_zx_icon_3",
-			text = "黄金转运珠",
-			need = 5000000000,
+			text = "黄金幸运珠",
+			need = 50000000000,
 			isreal = 1,
 		},
 		[13]=
@@ -771,23 +771,23 @@ return {
 			index = 13,
 			image = "vip_zx_icon_4",
 			text = "华为荣耀平板",
-			need = 10000000000,
+			need = 100000000000,
 			isreal = 1,
 		},
 		[14]=
 		{
 			index = 14,
 			image = "vip_zx_icon_5",
-			text = "华为P30",
-			need = 20000000000,
+			text = "vivo  X50",
+			need = 200000000000,
 			isreal = 1,
 		},
 		[15]=
 		{
 			index = 15,
 			image = "vip_zx_icon_6",
-			text = "苹果笔记本电脑",
-			need = 50000000000,
+			text = "苹果笔记本",
+			need = 500000000000,
 			isreal = 1,
 		},
 	},
