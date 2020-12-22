@@ -157,7 +157,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#8#61#115#",
+			group_list = "3;116#2#8#61#117#115#",
 		},
 		[2]=
 		{
@@ -193,6 +193,11 @@ return {
 			id = 7,
 			area = "left_bottom",
 			group_list = "92#",
+		},
+		[8]=
+		{
+			id = 8,
+			area = "right_bottom",
 		},
 	},
 	ddz_free_game=
@@ -433,7 +438,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "100#",
+			group_list = "106#",
 		},
 	},
 	all_enter=
@@ -1138,6 +1143,12 @@ return {
 			parm = {"xycj",},
 			is_on_off = 1,
 			condi_key = "xycj_enter_limit",
+		},
+		[117]=
+		{
+			id = 117,
+			parm = {"act_040_ydfl",},
+			is_on_off = 1,
 		},
 	},
 }
