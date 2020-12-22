@@ -29295,7 +29295,7 @@ return {
 			id = 680,
 			award_id = 486,
 			asset_type = "jing_bi",
-			asset_count = 40000,
+			asset_count = 400000,
 			get_weight = 2500,
 		},
 		[681]=
@@ -29303,7 +29303,7 @@ return {
 			id = 681,
 			award_id = 486,
 			asset_type = "jing_bi",
-			asset_count = 50000,
+			asset_count = 500000,
 			get_weight = 5000,
 		},
 		[682]=
@@ -29311,7 +29311,7 @@ return {
 			id = 682,
 			award_id = 486,
 			asset_type = "jing_bi",
-			asset_count = 60000,
+			asset_count = 600000,
 			get_weight = 2500,
 		},
 		[683]=
@@ -29319,7 +29319,7 @@ return {
 			id = 683,
 			award_id = 487,
 			asset_type = "discount_fish_coin",
-			asset_count = 1000000,
+			asset_count = 10000000,
 			get_weight = 1,
 		},
 		[684]=
@@ -29327,7 +29327,7 @@ return {
 			id = 684,
 			award_id = 488,
 			asset_type = "jing_bi",
-			asset_count = 50000,
+			asset_count = 500000,
 			get_weight = 909,
 		},
 		[685]=
@@ -29335,7 +29335,7 @@ return {
 			id = 685,
 			award_id = 488,
 			asset_type = "jing_bi",
-			asset_count = 60000,
+			asset_count = 600000,
 			get_weight = 909,
 		},
 		[686]=
@@ -29343,7 +29343,7 @@ return {
 			id = 686,
 			award_id = 488,
 			asset_type = "jing_bi",
-			asset_count = 70000,
+			asset_count = 700000,
 			get_weight = 909,
 		},
 		[687]=
@@ -29351,7 +29351,7 @@ return {
 			id = 687,
 			award_id = 488,
 			asset_type = "jing_bi",
-			asset_count = 80000,
+			asset_count = 800000,
 			get_weight = 909,
 		},
 		[688]=
@@ -29359,7 +29359,7 @@ return {
 			id = 688,
 			award_id = 488,
 			asset_type = "jing_bi",
-			asset_count = 90000,
+			asset_count = 900000,
 			get_weight = 909,
 		},
 		[689]=
@@ -29367,7 +29367,7 @@ return {
 			id = 689,
 			award_id = 488,
 			asset_type = "jing_bi",
-			asset_count = 100000,
+			asset_count = 1000000,
 			get_weight = 910,
 		},
 		[690]=
@@ -29375,7 +29375,7 @@ return {
 			id = 690,
 			award_id = 488,
 			asset_type = "jing_bi",
-			asset_count = 110000,
+			asset_count = 1100000,
 			get_weight = 909,
 		},
 		[691]=
@@ -29383,7 +29383,7 @@ return {
 			id = 691,
 			award_id = 488,
 			asset_type = "jing_bi",
-			asset_count = 120000,
+			asset_count = 1200000,
 			get_weight = 909,
 		},
 		[692]=
@@ -29391,7 +29391,7 @@ return {
 			id = 692,
 			award_id = 488,
 			asset_type = "jing_bi",
-			asset_count = 130000,
+			asset_count = 1300000,
 			get_weight = 909,
 		},
 		[693]=
@@ -29399,7 +29399,7 @@ return {
 			id = 693,
 			award_id = 488,
 			asset_type = "jing_bi",
-			asset_count = 140000,
+			asset_count = 1400000,
 			get_weight = 909,
 		},
 		[694]=
@@ -29407,7 +29407,7 @@ return {
 			id = 694,
 			award_id = 488,
 			asset_type = "jing_bi",
-			asset_count = 150000,
+			asset_count = 1500000,
 			get_weight = 909,
 		},
 		[695]=

@@ -323,6 +323,90 @@ return {
 			key = "cpl_notcjj",
 			info = "每日最多可参加排名挑战赛15次",
 		},
+		[44]=
+		{
+			line = 44,
+			vip = 11,
+			key = "cpl_notcjj",
+			info = "每日可免费领取至尊礼包1个",
+		},
+		[45]=
+		{
+			line = 45,
+			vip = 11,
+			key = "cpl_notcjj",
+			info = "每领满30次至尊礼包额外奖励1000万鱼币",
+		},
+		[46]=
+		{
+			line = 46,
+			vip = 11,
+			key = "cpl_notcjj",
+			info = "可使用Vip超级转盘，每日可抽<color=#C86715>70次</color>",
+		},
+		[47]=
+		{
+			line = 47,
+			vip = 11,
+			key = "cpl_notcjj",
+			info = "福卡容量提升为<color=#C86715>800万</color>福利券",
+		},
+		[48]=
+		{
+			line = 48,
+			vip = 11,
+			key = "cpl_notcjj",
+			info = "每日最多可参加排名挑战赛20次",
+		},
+		[49]=
+		{
+			line = 49,
+			vip = 11,
+			key = "cpl_notcjj",
+			info = "享受vip10所有特权并提高部分特权奖励",
+		},
+		[50]=
+		{
+			line = 50,
+			vip = 12,
+			key = "cpl_notcjj",
+			info = "每日可免费领取至尊礼包1个",
+		},
+		[51]=
+		{
+			line = 51,
+			vip = 12,
+			key = "cpl_notcjj",
+			info = "每领满30次至尊礼包额外奖励200元话费",
+		},
+		[52]=
+		{
+			line = 52,
+			vip = 12,
+			key = "cpl_notcjj",
+			info = "可使用Vip超级转盘，每日可抽<color=#C86715>70次</color>",
+		},
+		[53]=
+		{
+			line = 53,
+			vip = 12,
+			key = "cpl_notcjj",
+			info = "福卡容量提升为<color=#C86715>1200万</color>福利券",
+		},
+		[54]=
+		{
+			line = 54,
+			vip = 12,
+			key = "cpl_notcjj",
+			info = "每日最多可参加排名挑战赛30次",
+		},
+		[55]=
+		{
+			line = 55,
+			vip = 12,
+			key = "cpl_notcjj",
+			info = "享受vip11所有特权并提高部分特权奖励",
+		},
 	},
 	vipmzfl=
 	{
