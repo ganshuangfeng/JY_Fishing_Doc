@@ -3036,5 +3036,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[310]=
+		{
+			id = 310,
+			key = "sys_013_ffyd",
+			desc = "大厅小游戏版块上浮弹幕",
+			lua = "Sys_013_FFYDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

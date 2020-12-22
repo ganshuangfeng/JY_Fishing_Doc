@@ -76,7 +76,7 @@ return {
 		[6]=
 		{
 			line = 6,
-			icon = "cwlb_icon_sw_1 ",
+			icon = "cwlb_icon_sw_1",
 			name = "华为P40",
 			award_id = 11900,
 		},
@@ -206,7 +206,7 @@ return {
 		[6]=
 		{
 			line = 6,
-			icon = "cwlb_icon_sw_1 ",
+			icon = "cwlb_icon_sw_1",
 			name = "华为P40",
 			award_id = 11900,
 		},
