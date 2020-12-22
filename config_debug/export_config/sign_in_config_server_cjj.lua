@@ -13,43 +13,43 @@ return {
 		[1]=
 		{
 			no = 1,
-			award_id = 14,
+			award_id = 1,
 			vip_level = 1,
 			rate = 2,
 		},
 		[2]=
 		{
 			no = 2,
-			award_id = 15,
+			award_id = 2,
 		},
 		[3]=
 		{
 			no = 3,
-			award_id = 16,
+			award_id = 3,
 			vip_level = 2,
 			rate = 2,
 		},
 		[4]=
 		{
 			no = 4,
-			award_id = 17,
+			award_id = 4,
 		},
 		[5]=
 		{
 			no = 5,
-			award_id = 18,
+			award_id = 5,
 			vip_level = 3,
 			rate = 2,
 		},
 		[6]=
 		{
 			no = 6,
-			award_id = 19,
+			award_id = 6,
 		},
 		[7]=
 		{
 			no = 7,
-			award_id = 20,
+			award_id = 7,
 		},
 	},
 	acc=
@@ -183,49 +183,49 @@ return {
 			no = 14,
 			award_id = 14,
 			asset_type = "jing_bi",
-			asset_count = 3000,
+			asset_count = 10000,
 		},
 		[15]=
 		{
 			no = 15,
 			award_id = 15,
-			asset_type = "prop_3d_fish_lock",
-			asset_count = 3,
+			asset_type = "jing_bi",
+			asset_count = 15000,
 		},
 		[16]=
 		{
 			no = 16,
 			award_id = 16,
 			asset_type = "jing_bi",
-			asset_count = 5000,
+			asset_count = 20000,
 		},
 		[17]=
 		{
 			no = 17,
 			award_id = 17,
 			asset_type = "jing_bi",
-			asset_count = 8000,
+			asset_count = 25000,
 		},
 		[18]=
 		{
 			no = 18,
 			award_id = 18,
-			asset_type = "prop_3d_fish_summon_fish",
-			asset_count = 3,
+			asset_type = "jing_bi",
+			asset_count = 30000,
 		},
 		[19]=
 		{
 			no = 19,
 			award_id = 19,
 			asset_type = "jing_bi",
-			asset_count = 10000,
+			asset_count = 35000,
 		},
 		[20]=
 		{
 			no = 20,
 			award_id = 20,
 			asset_type = "jing_bi",
-			asset_count = 20000,
+			asset_count = 50000,
 		},
 	},
 }
