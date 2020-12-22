@@ -4190,7 +4190,7 @@ return {
 		[21248]=
 		{
 			id = 21248,
-			enable = 0,
+			enable = 1,
 			name = "VIP11礼包",
 			own_type = "vip_11_everyday_gift_task",
 			task_enum = "common",
@@ -4204,7 +4204,7 @@ return {
 		[21249]=
 		{
 			id = 21249,
-			enable = 0,
+			enable = 1,
 			name = "VIP11礼包",
 			own_type = "vip_11_accumulate_gift_task",
 			task_enum = "complete_clear_task",
@@ -4218,7 +4218,7 @@ return {
 		[21250]=
 		{
 			id = 21250,
-			enable = 0,
+			enable = 1,
 			name = "VIP12礼包",
 			own_type = "vip_12_everyday_gift_task",
 			task_enum = "common",
@@ -4232,7 +4232,7 @@ return {
 		[21251]=
 		{
 			id = 21251,
-			enable = 0,
+			enable = 1,
 			name = "VIP12礼包",
 			own_type = "vip_12_accumulate_gift_task",
 			task_enum = "complete_clear_task",
@@ -10875,8 +10875,8 @@ return {
 		{
 			id = 299,
 			process_id = 21247,
-			source_id = 299,
-			process = {1000000,-1},
+			source_id = 532,
+			process = {10000000,-1},
 			awards = {485,485},
 			get_award_type = "nor",
 		},
