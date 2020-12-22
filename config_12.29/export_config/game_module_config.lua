@@ -3016,5 +3016,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[308]=
+		{
+			id = 308,
+			key = "act_040_by_and_cjj_to_ddz_conduct",
+			desc = "游戏互导向斗地主",
+			lua = "Act_040_BY_AND_CJJ_TO_DDZ_CONDUCTManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
