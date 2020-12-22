@@ -981,8 +981,8 @@ return {
 			order = 100,
 			gotoUI = {"sys_act_base","panel"},
 			model = "LoginUp",
-			srartTime = 1607385600,
-			endTime = 1607961599,
+			srartTime = 1608595200,
+			endTime = 1609171199,
 		},
 		[87]=
 		{

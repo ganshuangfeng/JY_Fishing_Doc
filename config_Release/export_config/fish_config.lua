@@ -878,7 +878,7 @@ return {
 			id = 35,
 			prefab = "Fish3D091",
 			icon = "by_iocn_jzy",
-			name = "饺子BOSS",
+			name = "袜子BOSS",
 			name_image = "by_iocn_jzy",
 			size_w = 2.640000,
 			size_h = 2.380000,

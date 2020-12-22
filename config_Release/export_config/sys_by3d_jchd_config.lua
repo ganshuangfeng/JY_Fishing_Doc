@@ -38,5 +38,13 @@ return {
 			gotoui = {"act_027_jqshl",},
 			condi_key = "zchd_new",
 		},
+		[6]=
+		{
+			line = 6,
+			isOnOff = 1,
+			order = 6,
+			gotoui = {"by3d_ad_mfcj",},
+			condi_key = "cps_xycj",
+		},
 	},
 }

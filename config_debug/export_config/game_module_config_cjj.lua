@@ -2505,7 +2505,7 @@ return {
 			key = "act_025_jrth",
 			desc = "节日特惠",
 			lua = "Act_025_JRTHManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
@@ -2714,9 +2714,9 @@ return {
 			key = "act_030_cwlb",
 			desc = "双十二",
 			lua = "Act_030_CWLBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[278]=
 		{
@@ -2893,9 +2893,9 @@ return {
 			key = "act_038_s12dhhl",
 			desc = "双十二兑换好礼",
 			lua = "Act_038_S12DHHLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[296]=
 		{
@@ -2903,15 +2903,15 @@ return {
 			key = "act_038_s12lhsjb",
 			desc = "双十二礼盒收集榜",
 			lua = "Act_038_S12LHSJBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[297]=
 		{
 			id = 297,
 			key = "act_038_s12",
-			desc = "双十二页签",
+			desc = "双十二页签→元旦活动",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -2922,9 +2922,9 @@ return {
 			key = "act_038_s12lh_drop_ani",
 			desc = "双12礼盒掉落",
 			lua = "Act_038_S12LHDROPManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[299]=
 		{
@@ -2940,7 +2940,7 @@ return {
 		{
 			id = 300,
 			key = "act_039_jzhhl",
-			desc = "饺子换好礼→圣诞福利",
+			desc = "饺子换好礼→圣诞福利→元旦好礼",
 			lua = "Act_039_JZHHLManager",
 			is_on_off = 1,
 			enable = 1,
@@ -2950,7 +2950,7 @@ return {
 		{
 			id = 301,
 			key = "act_039_jzsjb",
-			desc = "饺子收集榜",
+			desc = "饺子收集榜 → 金元宝榜",
 			lua = "Act_039_JZSJBManager",
 			is_on_off = 1,
 			enable = 1,
@@ -2962,6 +2962,26 @@ return {
 			key = "act_039_ty_by_drop",
 			desc = "捕鱼通用掉落活动",
 			lua = "Act_039_TYBYDROPManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[303]=
+		{
+			id = 303,
+			key = "act_040_by_and_cjj_to_ddz_conduct",
+			desc = "游戏互导向斗地主",
+			lua = "Act_040_BY_AND_CJJ_TO_DDZ_CONDUCTManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[304]=
+		{
+			id = 304,
+			key = "act_040_ydfl",
+			desc = "元旦福利",
+			lua = "Act_013_DLFLManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
