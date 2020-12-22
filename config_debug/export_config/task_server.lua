@@ -4443,7 +4443,7 @@ return {
 		[121]=
 		{
 			id = 121,
-			award_id = 107,
+			award_id = 116,
 			asset_type = "prop_fishbowl_stars",
 			asset_count = 50000,
 			get_weight = 1,
@@ -4451,7 +4451,7 @@ return {
 		[122]=
 		{
 			id = 122,
-			award_id = 107,
+			award_id = 116,
 			asset_type = "prop_fishbowl_feed",
 			asset_count = 100,
 			get_weight = 1,
@@ -4459,7 +4459,7 @@ return {
 		[123]=
 		{
 			id = 123,
-			award_id = 108,
+			award_id = 117,
 			asset_type = "prop_fishbowl_coin1",
 			asset_count = 5,
 			get_weight = 1,
@@ -4467,7 +4467,7 @@ return {
 		[124]=
 		{
 			id = 124,
-			award_id = 108,
+			award_id = 117,
 			asset_type = "prop_fishbowl_feed",
 			asset_count = 200,
 			get_weight = 1,
@@ -4475,7 +4475,7 @@ return {
 		[125]=
 		{
 			id = 125,
-			award_id = 108,
+			award_id = 118,
 			asset_type = "prop_fishbowl_coin1",
 			asset_count = 10,
 			get_weight = 1,
@@ -4483,7 +4483,7 @@ return {
 		[126]=
 		{
 			id = 126,
-			award_id = 109,
+			award_id = 118,
 			asset_type = "prop_fishbowl_stars",
 			asset_count = 100000,
 			get_weight = 1,
@@ -4491,7 +4491,7 @@ return {
 		[127]=
 		{
 			id = 127,
-			award_id = 109,
+			award_id = 119,
 			asset_type = "prop_fishbowl_coin1",
 			asset_count = 20,
 			get_weight = 1,
@@ -4499,7 +4499,7 @@ return {
 		[128]=
 		{
 			id = 128,
-			award_id = 109,
+			award_id = 119,
 			asset_type = "prop_fishbowl_stars",
 			asset_count = 500000,
 			get_weight = 1,
