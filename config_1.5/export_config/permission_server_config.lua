@@ -6249,6 +6249,18 @@ return {
 			refresh_type = "now",
 			start_deal_time = 1588028400,
 		},
+		[349]=
+		{
+			id = 349,
+			enable = 1,
+			key = "actp_own_task_p_041_xyxfl",
+			name = "小游戏福利（非CPS渠道）",
+			condi = 367,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1604332800,
+		},
 	},
 	condi=
 	{
@@ -15381,6 +15393,16 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "VIP等级12",
+		},
+		[914]=
+		{
+			no = 914,
+			id = 367,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "非CPS",
 		},
 	},
 	share_condition=
