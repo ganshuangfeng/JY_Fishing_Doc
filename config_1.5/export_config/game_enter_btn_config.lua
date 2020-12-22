@@ -16,14 +16,20 @@ return {
 		[3]=
 		{
 			id = 3,
-			area = "top_right",
-			group_list = "108#72#",
+			area = "top_left",
+			group_list = "118#72#",
 		},
 		[4]=
 		{
 			id = 4,
 			area = "center_top",
 			group_list = "80#",
+		},
+		[5]=
+		{
+			id = 5,
+			area = "top_right",
+			group_list = "108#",
 		},
 	},
 	xxlsh_game=
@@ -1148,6 +1154,12 @@ return {
 		{
 			id = 117,
 			parm = {"act_040_ydfl",},
+			is_on_off = 1,
+		},
+		[118]=
+		{
+			id = 118,
+			parm = {"sys_by3d_shop_enter",},
 			is_on_off = 1,
 		},
 	},
