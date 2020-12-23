@@ -385,7 +385,7 @@ return {
 		{
 			id = 21,
 			ID = 21,
-			title = "元旦福利",
+			title = "元旦好礼",
 			noCloseUI = 0,
 			order = 1,
 			key = "act_039_jzhhl",
