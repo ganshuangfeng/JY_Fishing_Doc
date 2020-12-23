@@ -97,7 +97,7 @@ return {
 			pay_name = {"5180万","抽奖券*50","双倍奖励*15",},
 			Isindefinitely = 0,
 			Isrecommended = 1,
-			tips = {"nil","nil","双倍奖励卡，请在3D捕鱼中使用"},
+			tips = {"","","双倍奖励卡，请在3D捕鱼中使用"},
 		},
 		[2]=
 		{
@@ -109,7 +109,7 @@ return {
 			pay_name = {"2020万","抽奖券*30","双倍奖励*10",},
 			Isindefinitely = 0,
 			Isrecommended = 0,
-			tips = {"nil","nil","双倍奖励卡，请在3D捕鱼中使用"},
+			tips = {"","","双倍奖励卡，请在3D捕鱼中使用"},
 		},
 		[3]=
 		{
@@ -121,7 +121,7 @@ return {
 			pay_name = {"990万","抽奖券*20","双倍奖励*5",},
 			Isindefinitely = 0,
 			Isrecommended = 0,
-			tips = {"nil","nil","双倍奖励卡，请在3D捕鱼中使用"},
+			tips = {"","","双倍奖励卡，请在3D捕鱼中使用"},
 		},
 		[4]=
 		{
@@ -133,7 +133,7 @@ return {
 			pay_name = {"483万","抽奖券*3","双倍奖励*3",},
 			Isindefinitely = 0,
 			Isrecommended = 0,
-			tips = {"nil","nil","双倍奖励卡，请在3D捕鱼中使用"},
+			tips = {"","","双倍奖励卡，请在3D捕鱼中使用"},
 		},
 		[5]=
 		{
@@ -145,7 +145,7 @@ return {
 			pay_name = {"200万","抽奖券*4","双倍奖励*2",},
 			Isindefinitely = 0,
 			Isrecommended = 0,
-			tips = {"nil","nil","双倍奖励卡，请在3D捕鱼中使用"},
+			tips = {"","","双倍奖励卡，请在3D捕鱼中使用"},
 		},
 		[6]=
 		{
@@ -157,7 +157,7 @@ return {
 			pay_name = {"60万","抽奖券*1","双倍奖励*1",},
 			Isindefinitely = 0,
 			Isrecommended = 0,
-			tips = {"nil","nil","双倍奖励卡，请在3D捕鱼中使用"},
+			tips = {"","","双倍奖励卡，请在3D捕鱼中使用"},
 		},
 	},
 	config1=
@@ -227,7 +227,7 @@ return {
 			pay_name = {"5180万","抽奖券*50","太阳*20",},
 			Isindefinitely = 0,
 			Isrecommended = 1,
-			tips = {"nil","nil","请在苹果大战中使用"},
+			tips = {"","","请在苹果大战中使用"},
 		},
 		[2]=
 		{
@@ -239,7 +239,7 @@ return {
 			pay_name = {"2020万","抽奖券*30","太阳*10",},
 			Isindefinitely = 0,
 			Isrecommended = 0,
-			tips = {"nil","nil","请在苹果大战中使用"},
+			tips = {"","","请在苹果大战中使用"},
 		},
 		[3]=
 		{
@@ -251,7 +251,7 @@ return {
 			pay_name = {"990万","抽奖券*20","太阳*2",},
 			Isindefinitely = 0,
 			Isrecommended = 0,
-			tips = {"nil","nil","请在苹果大战中使用"},
+			tips = {"","","请在苹果大战中使用"},
 		},
 		[4]=
 		{
@@ -263,7 +263,7 @@ return {
 			pay_name = {"483万","抽奖券*3","水滴*6",},
 			Isindefinitely = 0,
 			Isrecommended = 0,
-			tips = {"nil","nil","请在苹果大战中使用"},
+			tips = {"","","请在苹果大战中使用"},
 		},
 		[5]=
 		{
@@ -275,7 +275,7 @@ return {
 			pay_name = {"200万","抽奖券*4","水滴*2",},
 			Isindefinitely = 0,
 			Isrecommended = 0,
-			tips = {"nil","nil","请在苹果大战中使用"},
+			tips = {"","","请在苹果大战中使用"},
 		},
 		[6]=
 		{
@@ -287,7 +287,7 @@ return {
 			pay_name = {"60万","抽奖券*1","水滴*1",},
 			Isindefinitely = 0,
 			Isrecommended = 0,
-			tips = {"nil","nil","请在苹果大战中使用"},
+			tips = {"","","请在苹果大战中使用"},
 		},
 	},
 }
