@@ -995,5 +995,17 @@ return {
 			srartTime = 1609804800,
 			endTime = 1610380799,
 		},
+		[88]=
+		{
+			id = 88,
+			bannerID = 88,
+			isOnOff = 1,
+			order = 110,
+			condi_key = "by_cjj_cpl_type_plat",
+			gotoUI = {"act_040_by_and_cjj_to_ddz_conduct","panel"},
+			model = "LoginUp",
+			srartTime = 1607990400,
+			endTime = 1608566399,
+		},
 	},
 }
