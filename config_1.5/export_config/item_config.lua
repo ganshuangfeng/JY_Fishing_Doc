@@ -3923,7 +3923,7 @@ return {
 			item_key = "prop_qdlb_cjq",
 			lose_time = -1,
 			is_local_icon = 1,
-			image = "cwzp_icon_cjq",
+			image = "act_ty_zp1_cjq",
 			is_show_bag = 0,
 			order = 33,
 			name = "庆典礼包抽奖券",

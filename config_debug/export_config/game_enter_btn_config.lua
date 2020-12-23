@@ -198,6 +198,7 @@ return {
 		{
 			id = 8,
 			area = "right_bottom",
+			group_list = "118#",
 		},
 	},
 	ddz_free_game=
@@ -1148,6 +1149,12 @@ return {
 		{
 			id = 117,
 			parm = {"act_040_ydfl",},
+			is_on_off = 1,
+		},
+		[118]=
+		{
+			id = 118,
+			parm = {"act_040_by_and_cjj_to_ddz_conduct",},
 			is_on_off = 1,
 		},
 	},

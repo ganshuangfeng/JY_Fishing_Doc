@@ -77,7 +77,7 @@ return {
 			bx_name = "钻石宝箱",
 			type_img = "jrth_imgf_zsbx",
 			award_ids = {1,2,3,4,5,6},
-			award_descs = {"5080万","5250万","5280万","5380万","6000万","1亿"},
+			award_descs = {"5180万","5250万","5280万","5380万","6000万","1亿"},
 			award_images = {"ty_icon_jb_50y","ty_icon_jb_98y","ty_icon_jb_198y","ty_icon_jb_498y","ty_icon_jb_998y","ty_icon_jb_2498y"},
 			cost_text = "498元",
 			type = 3,
