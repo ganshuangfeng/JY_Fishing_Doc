@@ -2989,9 +2989,9 @@ return {
 		[305]=
 		{
 			id = 305,
-			key = "act_039_jzhhl",
+			key = "act_039_ty_by_hhl",
 			desc = "饺子换好礼→圣诞福利→元旦好礼→欢乐福利",
-			lua = "Act_039_JZHHLManager",
+			lua = "Act_039_TY_BY_HHLManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
