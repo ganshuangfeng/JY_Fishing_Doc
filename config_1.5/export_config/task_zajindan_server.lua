@@ -8082,7 +8082,7 @@ return {
 		[1000168]=
 		{
 			id = 1000168,
-			enable = 0,
+			enable = 1,
 			name = "小游戏福利",
 			own_type = "p_041_xyxfl",
 			task_enum = "common",
@@ -8096,7 +8096,7 @@ return {
 		[1000169]=
 		{
 			id = 1000169,
-			enable = 0,
+			enable = 1,
 			name = "小游戏福利",
 			own_type = "p_041_xyxfl",
 			task_enum = "common",
@@ -8110,7 +8110,7 @@ return {
 		[1000170]=
 		{
 			id = 1000170,
-			enable = 0,
+			enable = 1,
 			name = "小游戏福利",
 			own_type = "p_041_xyxfl",
 			task_enum = "common",
@@ -8124,7 +8124,7 @@ return {
 		[1000172]=
 		{
 			id = 1000172,
-			enable = 0,
+			enable = 1,
 			name = "小游戏福利",
 			own_type = "p_041_xyxfl",
 			task_enum = "common",
@@ -8138,7 +8138,7 @@ return {
 		[1000171]=
 		{
 			id = 1000171,
-			enable = 0,
+			enable = 1,
 			name = "小游戏福利",
 			own_type = "p_041_xyxfl",
 			task_enum = "common",
@@ -8152,7 +8152,7 @@ return {
 		[1000173]=
 		{
 			id = 1000173,
-			enable = 0,
+			enable = 1,
 			name = "小游戏福利",
 			own_type = "p_041_xyxfl",
 			task_enum = "common",
@@ -8166,7 +8166,7 @@ return {
 		[1000174]=
 		{
 			id = 1000174,
-			enable = 0,
+			enable = 1,
 			name = "小游戏福利",
 			own_type = "p_041_xyxfl",
 			task_enum = "common",
