@@ -1950,7 +1950,7 @@ return {
 			line = 61,
 			id = 61,
 			prefab = "Fish3D091",
-			icon = "act_ty_by_drop_3",
+			icon = "act_ty_by_drop_8",
 			name = "金牛boss",
 			name_image = "act_ty_by_drop_8",
 			reward_image = "act_ty_by_drop_9",
