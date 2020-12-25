@@ -137,5 +137,13 @@ return {
 			asset_count = 1000000,
 			judge_type = 3,
 		},
+		[6]=
+		{
+			id = 6,
+			enter_cfg_id = 5,
+			asset_type = "jing_bi",
+			asset_count = 5000000,
+			judge_type = 3,
+		},
 	},
 }
