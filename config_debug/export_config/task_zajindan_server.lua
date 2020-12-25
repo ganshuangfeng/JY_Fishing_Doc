@@ -10889,7 +10889,7 @@ return {
 		{
 			id = 299,
 			process_id = 21247,
-			source_id = 532,
+			source_id = 552,
 			process = {10000000,-1},
 			awards = {485,485},
 			get_award_type = "nor",
@@ -19740,6 +19740,79 @@ return {
 			id = 903,
 			source_id = 551,
 			source_type = "asset_observe",
+			condition_id = 0,
+		},
+		[904]=
+		{
+			id = 904,
+			source_id = 552,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[905]=
+		{
+			id = 905,
+			source_id = 552,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[906]=
+		{
+			id = 906,
+			source_id = 552,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[907]=
+		{
+			id = 907,
+			source_id = 552,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[908]=
+		{
+			id = 908,
+			source_id = 552,
+			source_type = "jykp_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[909]=
+		{
+			id = 909,
+			source_id = 552,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[910]=
+		{
+			id = 910,
+			source_id = 552,
+			source_type = "buyu_3d_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[911]=
+		{
+			id = 911,
+			source_id = 552,
+			source_type = "buyu_award",
+			condition_id = 0,
+			process_discount = 0.500000,
+		},
+		[912]=
+		{
+			id = 912,
+			source_id = 552,
+			source_type = "lwzb_game_award",
+			condition_id = 0,
+		},
+		[913]=
+		{
+			id = 913,
+			source_id = 552,
+			source_type = "xiaoxiaole_xiyou_award",
 			condition_id = 0,
 		},
 	},
