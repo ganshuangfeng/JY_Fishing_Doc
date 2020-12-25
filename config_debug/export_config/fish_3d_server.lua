@@ -46,33 +46,6 @@ return {
 			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
 			enable = 1,
 		},
-		[6]=
-		{
-			id = 6,
-			game_id = 6,
-			game_name = "海底两万里",
-			game_type = "nor_fishing_3d_nor",
-			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
-			enable = 0,
-		},
-		[7]=
-		{
-			id = 7,
-			game_id = 7,
-			game_name = "螃蟹大作战",
-			game_type = "nor_fishing_3d_nor",
-			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
-			enable = 0,
-		},
-		[8]=
-		{
-			id = 8,
-			game_id = 8,
-			game_name = "疯狂激光",
-			game_type = "nor_fishing_3d_nor",
-			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
-			enable = 0,
-		},
 	},
 	game_rule=
 	{
@@ -121,33 +94,6 @@ return {
 			enter_cfg_id = 5,
 			fish_config = "fish_3d_data_config_5",
 		},
-		[6]=
-		{
-			id = 6,
-			game_id = 6,
-			game_level = 6,
-			gun_rate = {10000,20000,30000,40000,50000,60000,70000,80000,90000,100000,},
-			enter_cfg_id = 6,
-			fish_config = "fish_boss_data_config_1",
-		},
-		[7]=
-		{
-			id = 7,
-			game_id = 7,
-			game_level = 7,
-			gun_rate = {100000,200000,300000,400000,500000,600000,700000,800000,900000,1000000,},
-			enter_cfg_id = 7,
-			fish_config = "fish_boss_data_config_2",
-		},
-		[8]=
-		{
-			id = 8,
-			game_id = 8,
-			game_level = 8,
-			gun_rate = {100000,200000,300000,400000,500000,600000,700000,800000,900000,1000000,},
-			enter_cfg_id = 8,
-			fish_config = "fish_boss_data_config_3",
-		},
 	},
 	enter_cfg=
 	{
@@ -189,38 +135,6 @@ return {
 			enter_cfg_id = 4,
 			asset_type = "jing_bi",
 			asset_count = 1000000,
-			judge_type = 3,
-		},
-		[6]=
-		{
-			id = 6,
-			enter_cfg_id = 5,
-			asset_type = "jing_bi",
-			asset_count = 5000000,
-			judge_type = 3,
-		},
-		[7]=
-		{
-			id = 7,
-			enter_cfg_id = 5,
-			asset_type = "jing_bi",
-			asset_count = 1000000,
-			judge_type = 3,
-		},
-		[8]=
-		{
-			id = 8,
-			enter_cfg_id = 5,
-			asset_type = "jing_bi",
-			asset_count = 2000000,
-			judge_type = 3,
-		},
-		[9]=
-		{
-			id = 9,
-			enter_cfg_id = 5,
-			asset_type = "jing_bi",
-			asset_count = 5000000,
 			judge_type = 3,
 		},
 	},
