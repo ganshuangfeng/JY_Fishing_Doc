@@ -1250,13 +1250,13 @@ return {
 		vip11_treasure_to_gift_remain_hard=
 		{
 			key = "vip11_treasure_to_gift_remain_hard",
-			name = "VIP11财富累加渠道CPL渠道（闲玩，pc蛋蛋，聚享玩，小啄）",
+			name = "VIP11财富累加（非官方）",
 			condi = 142,
 		},
 		vip12_treasure_to_gift_remain_hard=
 		{
 			key = "vip12_treasure_to_gift_remain_hard",
-			name = "VIP12财富累加CPL渠道（闲玩，pc蛋蛋，小啄，聚享玩）",
+			name = "VIP12财富累加（非官方）",
 			condi = 142,
 		},
 		fish_caijin_hongbao=
@@ -10023,8 +10023,8 @@ return {
 			no = 377,
 			id = 142,
 			var = "share_condition",
-			value = "3dby_cpl",
-			judge = 2,
+			value = "3dby_official",
+			judge = 5,
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
 		},
