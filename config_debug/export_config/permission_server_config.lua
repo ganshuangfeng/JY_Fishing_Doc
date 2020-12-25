@@ -2070,6 +2070,12 @@ return {
 			name = "捕鱼&冲金鸡平台的CPL用户（大等1元）",
 			condi = 355,
 		},
+		vip_game_award=
+		{
+			key = "vip_game_award",
+			name = "vip赢金挑战（显示）",
+			condi = 367,
+		},
 	},
 	act_permission=
 	{
@@ -15381,6 +15387,26 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "VIP等级12",
+		},
+		[914]=
+		{
+			no = 914,
+			id = 367,
+			var = "share_condition",
+			value = "cjj_official",
+			judge = 2,
+			group = 1,
+			error_desc = "不等于冲金鸡渠道",
+		},
+		[915]=
+		{
+			no = 915,
+			id = 367,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 2,
+			error_desc = "不等于冲金鸡渠道",
 		},
 	},
 	share_condition=
