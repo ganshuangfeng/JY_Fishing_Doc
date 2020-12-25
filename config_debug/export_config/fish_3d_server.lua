@@ -53,7 +53,7 @@ return {
 			game_name = "海底两万里",
 			game_type = "nor_fishing_3d_nor",
 			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
-			enable = 1,
+			enable = 0,
 		},
 		[7]=
 		{
@@ -62,7 +62,7 @@ return {
 			game_name = "螃蟹大作战",
 			game_type = "nor_fishing_3d_nor",
 			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
-			enable = 1,
+			enable = 0,
 		},
 		[8]=
 		{
@@ -71,7 +71,7 @@ return {
 			game_name = "疯狂激光",
 			game_type = "nor_fishing_3d_nor",
 			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
-			enable = 1,
+			enable = 0,
 		},
 	},
 	game_rule=
