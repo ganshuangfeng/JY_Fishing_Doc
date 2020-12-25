@@ -2476,7 +2476,7 @@ return {
 			image = "szg_iocn_jlyb",
 			is_show_bag = 1,
 			order = 3,
-			name = "精灵硬币",
+			name = "普通精灵硬币",
 			desc = "丢入精灵泉水中进行普通祈祷",
 			tag = 16,
 		},
@@ -2491,7 +2491,7 @@ return {
 			is_show_bag = 1,
 			order = 4,
 			name = "高级精灵硬币",
-			desc = "丢入精灵泉水中进行普高级祈祷",
+			desc = "丢入精灵泉水中进行高级祈祷",
 			tag = 16,
 		},
 		[188]=

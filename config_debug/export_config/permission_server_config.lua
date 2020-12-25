@@ -15327,7 +15327,7 @@ return {
 			no = 908,
 			id = 364,
 			var = "share_condition",
-			value = "cjj_all",
+			value = "cjj_official",
 			judge = 2,
 			group = 1,
 			error_desc = "不等于冲金鸡渠道",
