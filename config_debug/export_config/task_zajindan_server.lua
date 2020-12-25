@@ -34766,7 +34766,7 @@ return {
 		{
 			id = 1352,
 			award_id = 910,
-			asset_type = "prop_brass_hammer_1",
+			asset_type = "prop_hammer_2",
 			asset_count = 1,
 			get_weight = 1,
 		},
@@ -34790,7 +34790,7 @@ return {
 		{
 			id = 1355,
 			award_id = 911,
-			asset_type = "prop_brass_hammer_1",
+			asset_type = "prop_hammer_2",
 			asset_count = 2,
 			get_weight = 1,
 		},
@@ -34814,7 +34814,7 @@ return {
 		{
 			id = 1358,
 			award_id = 912,
-			asset_type = "prop_brass_hammer_1",
+			asset_type = "prop_hammer_2",
 			asset_count = 3,
 			get_weight = 1,
 		},
@@ -34838,7 +34838,7 @@ return {
 		{
 			id = 1361,
 			award_id = 913,
-			asset_type = "prop_brass_hammer_1",
+			asset_type = "prop_hammer_2",
 			asset_count = 5,
 			get_weight = 1,
 		},
