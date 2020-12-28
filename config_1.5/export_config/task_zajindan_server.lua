@@ -1124,7 +1124,7 @@ return {
 		[21029]=
 		{
 			id = 21029,
-			enable = 1,
+			enable = 0,
 			name = "系统升级活动",
 			own_type = "normal",
 			task_enum = "common",
@@ -2762,7 +2762,7 @@ return {
 		[21146]=
 		{
 			id = 21146,
-			enable = 1,
+			enable = 0,
 			name = "系统升级活动",
 			own_type = "normal",
 			task_enum = "common",
@@ -8175,6 +8175,20 @@ return {
 			reset_delay = 1,
 			start_valid_time = 1609776000,
 			end_valid_time = 1610380799,
+			time_limit = -1,
+		},
+		[1000175]=
+		{
+			id = 1000175,
+			enable = 1,
+			name = "系统升级活动",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21533,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
 	},
@@ -13744,6 +13758,15 @@ return {
 			source_id = 480,
 			process = 1,
 			awards = 936,
+			get_award_type = "nor",
+		},
+		[585]=
+		{
+			id = 585,
+			process_id = 21533,
+			source_id = 81,
+			process = 1,
+			awards = 937,
 			get_award_type = "nor",
 		},
 	},
@@ -35720,6 +35743,14 @@ return {
 			award_id = 936,
 			asset_type = "jing_bi",
 			asset_count = 10000,
+			get_weight = 1,
+		},
+		[1419]=
+		{
+			id = 1419,
+			award_id = 937,
+			asset_type = "jing_bi",
+			asset_count = 100000,
 			get_weight = 1,
 		},
 	},

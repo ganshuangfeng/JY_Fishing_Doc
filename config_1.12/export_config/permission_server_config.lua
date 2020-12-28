@@ -2094,6 +2094,12 @@ return {
 			name = "免费福利（冲金鸡CPLand捕鱼非cps）",
 			condi = 369,
 		},
+		vip10_email_limit=
+		{
+			key = "vip10_email_limit",
+			name = "V10邮件权限",
+			condi = 374,
+		},
 	},
 	act_permission=
 	{
@@ -6260,6 +6266,54 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 1604332800,
+		},
+		[348]=
+		{
+			id = 348,
+			enable = 1,
+			key = "actp_buy_gift_class_hqjnh_046_nor_hllb",
+			name = "欢乐礼包（欢乐捕鱼）",
+			condi = 370,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1610409600,
+		},
+		[349]=
+		{
+			id = 349,
+			enable = 1,
+			key = "actp_buy_gift_class_hqjnh_046_cjj_hllb",
+			name = "欢乐礼包（冲金鸡）",
+			condi = 371,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1610409600,
+		},
+		[350]=
+		{
+			id = 350,
+			enable = 1,
+			key = "actp_own_task_p_hljnh_046_hlfl_nor",
+			name = "欢乐福利（欢乐捕鱼）",
+			condi = 372,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1610380800,
+		},
+		[351]=
+		{
+			id = 351,
+			enable = 1,
+			key = "actp_own_task_p_hljnh_046_hlfl_cjj",
+			name = "欢乐福利（冲金鸡）",
+			condi = 373,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1610380800,
 		},
 	},
 	condi=
@@ -15412,7 +15466,7 @@ return {
 			value = "cjj_official",
 			judge = 2,
 			group = 1,
-			error_desc = "不等于冲金鸡渠道",
+			error_desc = "等于冲金鸡渠道",
 		},
 		[916]=
 		{
@@ -15432,7 +15486,7 @@ return {
 			value = "cjj_all",
 			judge = 2,
 			group = 1,
-			error_desc = "不等于冲金鸡渠道",
+			error_desc = "等于冲金鸡渠道",
 		},
 		[918]=
 		{
@@ -15443,6 +15497,66 @@ return {
 			judge = 5,
 			group = 2,
 			error_desc = "不等于冲金鸡渠道",
+		},
+		[919]=
+		{
+			no = 919,
+			id = 370,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡渠道",
+		},
+		[920]=
+		{
+			no = 920,
+			id = 371,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是冲金鸡渠道",
+		},
+		[921]=
+		{
+			no = 921,
+			id = 372,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡渠道",
+		},
+		[922]=
+		{
+			no = 922,
+			id = 373,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是冲金鸡渠道",
+		},
+		[923]=
+		{
+			no = 923,
+			id = 374,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不等于冲金鸡渠道",
+		},
+		[924]=
+		{
+			no = 924,
+			id = 374,
+			var = "vip_level",
+			value = 10,
+			judge = 2,
+			group = 1,
+			error_desc = "VIP等级10",
 		},
 	},
 	share_condition=
