@@ -761,7 +761,7 @@ return {
 		{
 			id = 70,
 			name = "欢乐礼包稀有宝箱",
-			start_time = 1610407800,
+			start_time = 1610409600,
 			end_time = 1610985599,
 			use_asset_id = 65,
 			award_id = 70,
@@ -771,7 +771,7 @@ return {
 		{
 			id = 71,
 			name = "欢乐礼包史诗宝箱",
-			start_time = 1610407800,
+			start_time = 1610409600,
 			end_time = 1610985599,
 			use_asset_id = 66,
 			award_id = 71,
@@ -781,7 +781,7 @@ return {
 		{
 			id = 72,
 			name = "欢乐礼包传说宝箱",
-			start_time = 1610407800,
+			start_time = 1610409600,
 			end_time = 1610985599,
 			use_asset_id = 67,
 			award_id = 72,
