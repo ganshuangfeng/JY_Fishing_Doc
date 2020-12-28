@@ -5970,7 +5970,7 @@ return {
 			condi = 326,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
+			refresh_type = "now",
 			start_deal_time = 1598916600,
 		},
 		[324]=
