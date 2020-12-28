@@ -27,7 +27,7 @@ return {
 		[4]=
 		{
 			award_id = 4,
-			award_name = "300万鱼币",
+			award_name = "300万金币",
 			award_value = 3000000,
 			award_type = "jing_bi",
 			power = 2,
@@ -43,7 +43,7 @@ return {
 		[6]=
 		{
 			award_id = 6,
-			award_name = "120万鱼币",
+			award_name = "120万金币",
 			award_value = 1200000,
 			award_type = "jing_bi",
 			power = 12,
@@ -93,7 +93,7 @@ return {
 		[4]=
 		{
 			award_id = 4,
-			award_name = "300万鱼币",
+			award_name = "300万金币",
 			award_value = 3000000,
 			award_type = "jing_bi",
 			power = 10,
@@ -109,7 +109,7 @@ return {
 		[6]=
 		{
 			award_id = 6,
-			award_name = "120万鱼币",
+			award_name = "120万金币",
 			award_value = 1200000,
 			award_type = "jing_bi",
 			power = 25,
