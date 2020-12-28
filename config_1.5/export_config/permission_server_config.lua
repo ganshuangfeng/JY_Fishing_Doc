@@ -2076,6 +2076,18 @@ return {
 			name = "vip赢金挑战（显示）",
 			condi = 368,
 		},
+		vip_week_task_2=
+		{
+			key = "vip_week_task_2",
+			name = "VIP2礼包",
+			condi = 356,
+		},
+		vip_week_task_2_cjj=
+		{
+			key = "vip_week_task_2_cjj",
+			name = "VIP2礼包（冲金鸡）",
+			condi = 360,
+		},
 	},
 	act_permission=
 	{
@@ -6127,9 +6139,9 @@ return {
 		{
 			id = 338,
 			enable = 1,
-			key = "actp_own_task_p_vip_week_task_2",
+			key = "actp_own_task_p_vip_week_task_3",
 			name = "vip2周任务",
-			condi = 356,
+			condi = 357,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
@@ -6139,9 +6151,9 @@ return {
 		{
 			id = 339,
 			enable = 1,
-			key = "actp_own_task_p_vip_week_task_3",
+			key = "actp_own_task_p_vip_week_task_6",
 			name = "vip2周任务",
-			condi = 357,
+			condi = 358,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
@@ -6151,9 +6163,9 @@ return {
 		{
 			id = 340,
 			enable = 1,
-			key = "actp_own_task_p_vip_week_task_6",
+			key = "actp_own_task_p_vip_week_task_8",
 			name = "vip2周任务",
-			condi = 358,
+			condi = 359,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
@@ -6163,9 +6175,9 @@ return {
 		{
 			id = 341,
 			enable = 1,
-			key = "actp_own_task_p_vip_week_task_8",
+			key = "actp_own_task_p_vip_week_task_3_cjj",
 			name = "vip2周任务",
-			condi = 359,
+			condi = 361,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
@@ -6175,9 +6187,9 @@ return {
 		{
 			id = 342,
 			enable = 1,
-			key = "actp_own_task_p_vip_week_task_2_cjj",
+			key = "actp_own_task_p_vip_week_task_6_cjj",
 			name = "vip2周任务",
-			condi = 360,
+			condi = 362,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
@@ -6187,9 +6199,9 @@ return {
 		{
 			id = 343,
 			enable = 1,
-			key = "actp_own_task_p_vip_week_task_3_cjj",
+			key = "actp_own_task_p_vip_week_task_8_cjj",
 			name = "vip2周任务",
-			condi = 361,
+			condi = 363,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
@@ -6199,9 +6211,9 @@ return {
 		{
 			id = 344,
 			enable = 1,
-			key = "actp_own_task_p_vip_week_task_6_cjj",
-			name = "vip2周任务",
-			condi = 362,
+			key = "actp_own_task_p_vip_game_award_task",
+			name = "vip累积赢金挑战",
+			condi = 364,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
@@ -6211,30 +6223,6 @@ return {
 		{
 			id = 345,
 			enable = 1,
-			key = "actp_own_task_p_vip_week_task_8_cjj",
-			name = "vip2周任务",
-			condi = 363,
-			is_dynamic_codi = 1,
-			is_dynamic_cancel = 1,
-			refresh_type = "now",
-			start_deal_time = 1598889600,
-		},
-		[346]=
-		{
-			id = 346,
-			enable = 1,
-			key = "actp_own_task_p_vip_game_award_task",
-			name = "vip累积赢金挑战",
-			condi = 364,
-			is_dynamic_codi = 1,
-			is_dynamic_cancel = 1,
-			refresh_type = "now",
-			start_deal_time = 1598889600,
-		},
-		[347]=
-		{
-			id = 347,
-			enable = 1,
 			key = "actp_buy_gift_bag_10411",
 			name = "VIP11钜惠礼包",
 			condi = 365,
@@ -6243,9 +6231,9 @@ return {
 			refresh_type = "now",
 			start_deal_time = 1588028400,
 		},
-		[348]=
+		[346]=
 		{
-			id = 348,
+			id = 346,
 			enable = 1,
 			key = "actp_buy_gift_bag_10412",
 			name = "VIP12钜惠礼包",
@@ -6255,9 +6243,9 @@ return {
 			refresh_type = "now",
 			start_deal_time = 1588028400,
 		},
-		[349]=
+		[347]=
 		{
-			id = 349,
+			id = 347,
 			enable = 1,
 			key = "actp_own_task_p_041_xyxfl",
 			name = "小游戏福利（非CPS渠道）",

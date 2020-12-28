@@ -672,7 +672,7 @@ return {
 		{
 			id = 60,
 			bannerID = 62,
-			isOnOff = 0,
+			isOnOff = 1,
 			order = 100,
 			gotoUI = {"vip","notice"},
 			model = "LoginUp",
