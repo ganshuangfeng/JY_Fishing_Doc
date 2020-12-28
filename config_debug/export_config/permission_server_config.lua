@@ -2088,6 +2088,12 @@ return {
 			name = "VIP2礼包（冲金鸡）",
 			condi = 360,
 		},
+		vip10_email_limit=
+		{
+			key = "vip10_email_limit",
+			name = "V10邮件权限",
+			condi = 368,
+		},
 	},
 	act_permission=
 	{
@@ -15394,6 +15400,16 @@ return {
 			value = "3dby_official",
 			judge = 2,
 			group = 2,
+			error_desc = "不等于冲金鸡渠道",
+		},
+		[916]=
+		{
+			no = 916,
+			id = 368,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
 			error_desc = "不等于冲金鸡渠道",
 		},
 	},
