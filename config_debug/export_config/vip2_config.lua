@@ -431,7 +431,7 @@ return {
 			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
 			text = {"10万鱼币","太阳*2","狂暴卡*5"},
 			title = "vip<color=#e41a1a>2</color>福利",
-			tips = {"小游戏币","可以再小游戏苹果大战中使用","在3D捕鱼中提高子弹威力",},
+			tips = {"","可以再小游戏苹果大战中使用","在3D捕鱼中提高子弹威力",},
 			desc = "成为VIP2即可领取更丰厚的每周福利!",
 		},
 		[2]=
@@ -443,7 +443,7 @@ return {
 			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
 			text = {"30万鱼币","太阳*6","狂暴卡*10"},
 			title = "vip<color=#e41a1a>3</color>-vip<color=#e41a1a>5</color>福利",
-			tips = {"小游戏币","可以再小游戏苹果大战中使用","在3D捕鱼中提高子弹威力",},
+			tips = {"","可以再小游戏苹果大战中使用","在3D捕鱼中提高子弹威力",},
 			desc = "成为VIP3即可领取更丰厚的每周福利!",
 		},
 		[3]=
@@ -455,7 +455,7 @@ return {
 			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
 			text = {"66万鱼币","太阳*10","狂暴卡*15"},
 			title = "vip<color=#e41a1a>6</color>-vip<color=#e41a1a>7</color>福利",
-			tips = {"小游戏币","可以再小游戏苹果大战中使用","在3D捕鱼中提高子弹威力",},
+			tips = {"","可以再小游戏苹果大战中使用","在3D捕鱼中提高子弹威力",},
 			desc = "成为VIP6即可领取更丰厚的每周福利!",
 		},
 		[4]=
@@ -467,7 +467,7 @@ return {
 			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
 			text = {"100万鱼币","太阳*15","狂暴卡*20"},
 			title = "vip<color=#e41a1a>8</color>及以上福利",
-			tips = {"小游戏币","可以再小游戏苹果大战中使用","在3D捕鱼中提高子弹威力",},
+			tips = {"","可以再小游戏苹果大战中使用","在3D捕鱼中提高子弹威力",},
 			desc = "成为VIP8即可领取更丰厚的每周福利!",
 		},
 		[5]=
@@ -922,7 +922,7 @@ return {
 		{
 			index = 13,
 			image = "vip_zx_icon_4",
-			text = "华为荣耀平板",
+			text = "荣耀平板",
 			need = 100000000000,
 			isreal = 1,
 		},
