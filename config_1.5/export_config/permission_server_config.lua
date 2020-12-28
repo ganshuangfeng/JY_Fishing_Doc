@@ -15434,16 +15434,6 @@ return {
 			group = 1,
 			error_desc = "不等于冲金鸡渠道",
 		},
-		[918]=
-		{
-			no = 918,
-			id = 369,
-			var = "vip_level",
-			value = 10,
-			judge = 2,
-			group = 1,
-			error_desc = "VIP等级10",
-		},
 	},
 	share_condition=
 	{
