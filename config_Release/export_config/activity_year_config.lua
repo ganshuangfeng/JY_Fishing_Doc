@@ -385,7 +385,7 @@ return {
 		{
 			id = 21,
 			ID = 21,
-			title = "圣诞福利",
+			title = "元旦好礼",
 			noCloseUI = 0,
 			order = 1,
 			key = "act_039_jzhhl",
@@ -396,14 +396,14 @@ return {
 			is_local_icon = 1,
 			gotoUI = {"act_039_jzhhl","panel"},
 			tag = "normal",
-			beginTime = 1608595200,
-			endTime = 1609171199,
+			beginTime = 1609200000,
+			endTime = 1609775999,
 		},
 		[22]=
 		{
 			id = 22,
 			ID = 22,
-			title = "礼盒收集榜",
+			title = "金元宝榜",
 			noCloseUI = 0,
 			order = 2,
 			key = "act_039_jzsjb",
@@ -414,8 +414,8 @@ return {
 			is_local_icon = 1,
 			gotoUI = {"act_039_jzsjb","panel"},
 			tag = "normal",
-			beginTime = 1608595200,
-			endTime = 1609171199,
+			beginTime = 1609200000,
+			endTime = 1609775999,
 		},
 		[23]=
 		{

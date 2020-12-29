@@ -303,5 +303,22 @@ return {
 			gotoUI = {"act_033_vip1ztlb","panel"},
 			tag = "hot",
 		},
+		[18]=
+		{
+			id = 18,
+			ID = 18,
+			title = "元旦福利",
+			order = -12,
+			isOnOff = 1,
+			beginTime = 1609200000,
+			endTime = 1609775999,
+			noCloseUI = 1,
+			type = "activity",
+			showType = "image",
+			parmData = "xnfl_bg_1",
+			is_local_icon = 1,
+			gotoUI = {"act_040_ydfl","panel"},
+			tag = "normal",
+		},
 	},
 }

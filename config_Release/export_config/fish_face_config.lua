@@ -187,5 +187,38 @@ return {
 			max_time = 20,
 			decs = "充值可获得特殊炮台，拥有特殊技能！",
 		},
+		[18]=
+		{
+			line = 18,
+			id = 18,
+			type = 2,
+			effect = "by_animator26",
+			run_time = 10,
+			min_time = 10,
+			max_time = 20,
+			decs = "金牛送福，财源滚滚！",
+		},
+		[19]=
+		{
+			line = 19,
+			id = 19,
+			type = 2,
+			effect = "by_animator26",
+			run_time = 10,
+			min_time = 10,
+			max_time = 20,
+			decs = "有本事打倒我，送你金元宝！",
+		},
+		[20]=
+		{
+			line = 20,
+			id = 20,
+			type = 2,
+			effect = "by_animator26",
+			run_time = 10,
+			min_time = 10,
+			max_time = 20,
+			decs = "牛气冲天，大吉大利！",
+		},
 	},
 }

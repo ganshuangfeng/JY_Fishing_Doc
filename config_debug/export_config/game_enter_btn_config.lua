@@ -16,14 +16,20 @@ return {
 		[3]=
 		{
 			id = 3,
-			area = "top_right",
-			group_list = "108#72#",
+			area = "top_left",
+			group_list = "118#72#",
 		},
 		[4]=
 		{
 			id = 4,
 			area = "center_top",
 			group_list = "80#",
+		},
+		[5]=
+		{
+			id = 5,
+			area = "top_right",
+			group_list = "108#",
 		},
 	},
 	xxlsh_game=
@@ -198,7 +204,7 @@ return {
 		{
 			id = 8,
 			area = "right_bottom",
-			group_list = "118#",
+			group_list = "119#",
 		},
 	},
 	ddz_free_game=
@@ -439,7 +445,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "106#",
+			group_list = "120#",
 		},
 	},
 	all_enter=
@@ -1154,7 +1160,19 @@ return {
 		[118]=
 		{
 			id = 118,
+			parm = {"sys_by3d_shop_enter",},
+			is_on_off = 1,
+		},
+		[119]=
+		{
+			id = 119,
 			parm = {"act_040_by_and_cjj_to_ddz_conduct",},
+			is_on_off = 1,
+		},
+		[120]=
+		{
+			id = 120,
+			parm = {"act_ty_zp1",},
 			is_on_off = 1,
 		},
 	},

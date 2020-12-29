@@ -121,6 +121,16 @@ return {
 			vip_level = 10,
 			lucky_lottery_rights = 10,
 		},
+		[11]=
+		{
+			vip_level = 11,
+			lucky_lottery_rights = 11,
+		},
+		[12]=
+		{
+			vip_level = 12,
+			lucky_lottery_rights = 12,
+		},
 	},
 	every_relief_rights=
 	{
@@ -312,6 +322,20 @@ return {
 			rights_id = 10,
 			add_value1 = 0,
 			add_value2 = 50,
+			add_value3 = 0,
+		},
+		[11]=
+		{
+			rights_id = 11,
+			add_value1 = 0,
+			add_value2 = 70,
+			add_value3 = 0,
+		},
+		[12]=
+		{
+			rights_id = 12,
+			add_value1 = 0,
+			add_value2 = 70,
 			add_value3 = 0,
 		},
 	},

@@ -992,8 +992,8 @@ return {
 			order = 100,
 			gotoUI = {"sys_act_base","panel"},
 			model = "LoginUp",
-			srartTime = 1607990400,
-			endTime = 1608566399,
+			srartTime = 1609804800,
+			endTime = 1610380799,
 		},
 		[88]=
 		{
@@ -1004,8 +1004,8 @@ return {
 			condi_key = "by_cjj_cpl_type_plat",
 			gotoUI = {"act_040_by_and_cjj_to_ddz_conduct","panel"},
 			model = "LoginUp",
-			srartTime = 1609200000,
-			endTime = 1609775999,
+			srartTime = 1607990400,
+			endTime = 1608566399,
 		},
 	},
 }

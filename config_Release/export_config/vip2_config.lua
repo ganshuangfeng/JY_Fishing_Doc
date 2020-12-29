@@ -323,29 +323,200 @@ return {
 			key = "cpl_notcjj",
 			info = "每日最多可参加排名挑战赛15次",
 		},
+		[44]=
+		{
+			line = 44,
+			vip = 11,
+			key = "cpl_notcjj",
+			info = "每日可免费领取至尊礼包1个",
+			cfz = 15000,
+		},
+		[45]=
+		{
+			line = 45,
+			vip = 11,
+			key = "cpl_notcjj",
+			info = "每领满30次至尊礼包额外奖励1000万鱼币",
+			cfz = 15000,
+		},
+		[46]=
+		{
+			line = 46,
+			vip = 11,
+			key = "cpl_notcjj",
+			info = "可使用Vip超级转盘，每日可抽<color=#C86715>70次</color>",
+			cfz = 15000,
+		},
+		[47]=
+		{
+			line = 47,
+			vip = 11,
+			key = "cpl_notcjj",
+			info = "福卡容量提升为<color=#C86715>800万</color>福利券",
+			cfz = 15000,
+		},
+		[48]=
+		{
+			line = 48,
+			vip = 11,
+			key = "cpl_notcjj",
+			info = "每日最多可参加排名挑战赛20次",
+			cfz = 15000,
+		},
+		[49]=
+		{
+			line = 49,
+			vip = 11,
+			key = "cpl_notcjj",
+			info = "享受vip10所有特权并提高部分特权奖励",
+			cfz = 15000,
+		},
+		[50]=
+		{
+			line = 50,
+			vip = 12,
+			key = "cpl_notcjj",
+			info = "每日可免费领取至尊礼包1个",
+			cfz = 40000,
+		},
+		[51]=
+		{
+			line = 51,
+			vip = 12,
+			key = "cpl_notcjj",
+			info = "每领满30次至尊礼包额外奖励200元话费",
+			cfz = 40000,
+		},
+		[52]=
+		{
+			line = 52,
+			vip = 12,
+			key = "cpl_notcjj",
+			info = "可使用Vip超级转盘，每日可抽<color=#C86715>70次</color>",
+			cfz = 40000,
+		},
+		[53]=
+		{
+			line = 53,
+			vip = 12,
+			key = "cpl_notcjj",
+			info = "福卡容量提升为<color=#C86715>1200万</color>福利券",
+			cfz = 40000,
+		},
+		[54]=
+		{
+			line = 54,
+			vip = 12,
+			key = "cpl_notcjj",
+			info = "每日最多可参加排名挑战赛30次",
+			cfz = 40000,
+		},
+		[55]=
+		{
+			line = 55,
+			vip = 12,
+			key = "cpl_notcjj",
+			info = "享受vip11所有特权并提高部分特权奖励",
+			cfz = 40000,
+		},
 	},
 	vipmzfl=
 	{
 		[1]=
 		{
 			index = 1,
-			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_zh"},
-			text = {"10万鱼币","太阳*2","召唤*10"},
+			task_id = 21314,
+			condi_key = "cpl_notcjj",
+			vip = 2,
+			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
+			text = {"10万鱼币","太阳*2","狂暴卡*5"},
 			title = "vip<color=#e41a1a>2</color>福利",
+			tips = {"","可以再小游戏苹果大战中使用","在3D捕鱼中提高子弹威力",},
+			desc = "成为VIP2即可领取更丰厚的每周福利!",
 		},
 		[2]=
 		{
 			index = 2,
-			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_zh"},
-			text = {"30万鱼币","太阳*6","召唤*10"},
+			task_id = 21016,
+			condi_key = "cpl_notcjj",
+			vip = 5,
+			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
+			text = {"30万鱼币","太阳*6","狂暴卡*10"},
 			title = "vip<color=#e41a1a>3</color>-vip<color=#e41a1a>5</color>福利",
+			tips = {"","可以再小游戏苹果大战中使用","在3D捕鱼中提高子弹威力",},
+			desc = "成为VIP3即可领取更丰厚的每周福利!",
 		},
 		[3]=
 		{
 			index = 3,
-			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_zh"},
-			text = {"66万鱼币","太阳*10","召唤*10"},
-			title = "vip<color=#e41a1a>6</color>及以上福利",
+			task_id = 21017,
+			condi_key = "cpl_notcjj",
+			vip = 7,
+			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
+			text = {"66万鱼币","太阳*10","狂暴卡*15"},
+			title = "vip<color=#e41a1a>6</color>-vip<color=#e41a1a>7</color>福利",
+			tips = {"","可以再小游戏苹果大战中使用","在3D捕鱼中提高子弹威力",},
+			desc = "成为VIP6即可领取更丰厚的每周福利!",
+		},
+		[4]=
+		{
+			index = 4,
+			task_id = 1000152,
+			condi_key = "cpl_notcjj",
+			vip = 12,
+			image = {"com_award_icon_yb1","zpg_icon_yg","3dby_btn_kb"},
+			text = {"100万鱼币","太阳*15","狂暴卡*20"},
+			title = "vip<color=#e41a1a>8</color>及以上福利",
+			tips = {"","可以再小游戏苹果大战中使用","在3D捕鱼中提高子弹威力",},
+			desc = "成为VIP8即可领取更丰厚的每周福利!",
+		},
+		[5]=
+		{
+			index = 5,
+			task_id = 1000153,
+			condi_key = "cpl_cjj",
+			vip = 2,
+			image = {"ty_icon_yxb_2","zpg_icon_yg","com_award_icon_cz2"},
+			text = {"10万","太阳*2","木锤*1"},
+			title = "vip<color=#e41a1a>2</color>福利",
+			tips = {"小游戏币","可以再小游戏苹果大战中使用","在冲金鸡中使用",},
+			desc = "成为VIP2即可领取更丰厚的每周福利!",
+		},
+		[6]=
+		{
+			index = 6,
+			task_id = 1000154,
+			condi_key = "cpl_cjj",
+			vip = 5,
+			image = {"ty_icon_yxb_2","zpg_icon_yg","com_award_icon_cz2"},
+			text = {"30万","太阳*6","木锤*2"},
+			title = "vip<color=#e41a1a>3</color>-vip<color=#e41a1a>5</color>福利",
+			tips = {"小游戏币","可以再小游戏苹果大战中使用","在冲金鸡中使用",},
+			desc = "成为VIP3即可领取更丰厚的每周福利!",
+		},
+		[7]=
+		{
+			index = 7,
+			task_id = 1000155,
+			condi_key = "cpl_cjj",
+			vip = 7,
+			image = {"ty_icon_yxb_2","zpg_icon_yg","com_award_icon_cz2"},
+			text = {"66万","太阳*10","木锤*3"},
+			title = "vip<color=#e41a1a>6</color>-vip<color=#e41a1a>7</color>福利",
+			tips = {"小游戏币","可以再小游戏苹果大战中使用","在冲金鸡中使用",},
+			desc = "成为VIP6即可领取更丰厚的每周福利!",
+		},
+		[8]=
+		{
+			index = 8,
+			task_id = 1000156,
+			condi_key = "cpl_cjj",
+			vip = 12,
+			image = {"ty_icon_yxb_2","zpg_icon_yg","com_award_icon_cz2"},
+			text = {"100万","太阳*15","木锤*5"},
+			title = "vip<color=#e41a1a>8</color>及以上福利",
+			tips = {"小游戏币","可以再小游戏苹果大战中使用","在冲金鸡中使用",},
+			desc = "成为VIP8即可领取更丰厚的每周福利!",
 		},
 	},
 	task=
@@ -654,73 +825,73 @@ return {
 		[1]=
 		{
 			index = 1,
-			image = "com_icon_gold",
-			text = "3000鲸币",
-			need = 1000000,
+			image = "ty_icon_jb_6y",
+			text = "3万金币",
+			need = 10000000,
 			isreal = 0,
 		},
 		[2]=
 		{
 			index = 2,
-			image = "com_icon_gold",
-			text = "5000鲸币",
-			need = 2000000,
+			image = "ty_icon_jb_15y",
+			text = "5万金币",
+			need = 20000000,
 			isreal = 0,
 		},
 		[3]=
 		{
 			index = 3,
-			image = "bbsc_icon_hb",
-			text = "0.5红包劵",
-			need = 5000000,
+			image = "ty_icon_flq2",
+			text = "50福利券",
+			need = 50000000,
 			isreal = 0,
 		},
 		[4]=
 		{
 			index = 4,
-			image = "bbsc_icon_hb",
-			text = "1红包劵",
-			need = 10000000,
+			image = "ty_icon_flq2",
+			text = "100福利券",
+			need = 100000000,
 			isreal = 0,
 		},
 		[5]=
 		{
 			index = 5,
-			image = "bbsc_icon_hb",
-			text = "3红包券",
-			need = 20000000,
+			image = "ty_icon_flq2",
+			text = "300福利券",
+			need = 200000000,
 			isreal = 0,
 		},
 		[6]=
 		{
 			index = 6,
-			image = "bbsc_icon_hb",
-			text = "5红包券",
-			need = 50000000,
+			image = "ty_icon_flq2",
+			text = "500福利券",
+			need = 500000000,
 			isreal = 0,
 		},
 		[7]=
 		{
 			index = 7,
-			image = "bbsc_icon_hb",
-			text = "10红包劵",
-			need = 100000000,
+			image = "ty_icon_flq3",
+			text = "1000福利券",
+			need = 1000000000,
 			isreal = 0,
 		},
 		[8]=
 		{
 			index = 8,
-			image = "bbsc_icon_hb",
-			text = "20红包券",
-			need = 200000000,
+			image = "ty_icon_flq3",
+			text = "2000福利券",
+			need = 2000000000,
 			isreal = 0,
 		},
 		[9]=
 		{
 			index = 9,
-			image = "bbsc_icon_hb",
-			text = "50红包券",
-			need = 500000000,
+			image = "ty_icon_flq3",
+			text = "5000福利券",
+			need = 5000000000,
 			isreal = 0,
 		},
 		[10]=
@@ -728,7 +899,7 @@ return {
 			index = 10,
 			image = "vip_zx_icon_1",
 			text = "四件套",
-			need = 1000000000,
+			need = 10000000000,
 			isreal = 1,
 		},
 		[11]=
@@ -736,39 +907,39 @@ return {
 			index = 11,
 			image = "vip_zx_icon_2",
 			text = "电饭煲",
-			need = 2000000000,
+			need = 20000000000,
 			isreal = 1,
 		},
 		[12]=
 		{
 			index = 12,
 			image = "vip_zx_icon_3",
-			text = "黄金转运珠",
-			need = 5000000000,
+			text = "黄金幸运珠",
+			need = 50000000000,
 			isreal = 1,
 		},
 		[13]=
 		{
 			index = 13,
 			image = "vip_zx_icon_4",
-			text = "华为荣耀平板",
-			need = 10000000000,
+			text = "荣耀平板",
+			need = 100000000000,
 			isreal = 1,
 		},
 		[14]=
 		{
 			index = 14,
 			image = "vip_zx_icon_5",
-			text = "华为P30",
-			need = 20000000000,
+			text = "vivo  X50",
+			need = 200000000000,
 			isreal = 1,
 		},
 		[15]=
 		{
 			index = 15,
 			image = "vip_zx_icon_6",
-			text = "苹果笔记本电脑",
-			need = 50000000000,
+			text = "苹果笔记本",
+			need = 500000000000,
 			isreal = 1,
 		},
 	},
@@ -1171,13 +1342,35 @@ return {
 			award_img = {"ty_icon_jb_198y","zpg_icon_shui","com_award_icon_cz1",},
 			award_txt = {"7688万","20","20",},
 		},
+		[11]=
+		{
+			index = 11,
+			gift_id = 10411,
+			condi_key = "cpl_notcjj",
+			title = {"VIP11礼包","(购买条件:<color=#EDD112>VIP等级≥11</color>)",},
+			price = 798,
+			award_img = {"ty_icon_jb_998y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"8888万","30","30",},
+		},
+		[12]=
+		{
+			index = 12,
+			gift_id = 10412,
+			condi_key = "cpl_notcjj",
+			title = {"VIP12礼包","(购买条件:<color=#EDD112>VIP等级≥12</color>)",},
+			price = 898,
+			award_img = {"ty_icon_jb_2498y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"9888万","40","40",},
+		},
 	},
 	fhfl=
 	{
 		[1]=
 		{
+			line = 1,
 			index = 1,
 			task_id = 21341,
+			condi_key = "cpl_notcjj",
 			title = "身上拥有200万金币",
 			condition = 2000000,
 			award_img = {"ty_icon_jb_6y","3dby_btn_sd","3dby_btn_bd",},
@@ -1186,8 +1379,10 @@ return {
 		},
 		[2]=
 		{
+			line = 2,
 			index = 2,
 			task_id = 21341,
+			condi_key = "cpl_notcjj",
 			title = "身上拥有500万金币",
 			condition = 5000000,
 			award_img = {"ty_icon_jb_6y","3dby_btn_sd","3dby_btn_bd",},
@@ -1196,8 +1391,10 @@ return {
 		},
 		[3]=
 		{
+			line = 3,
 			index = 3,
 			task_id = 21341,
+			condi_key = "cpl_notcjj",
 			title = "身上拥有1000万金币",
 			condition = 10000000,
 			award_img = {"ty_icon_jb_15y","3dby_btn_sd","3dby_btn_bd",},
@@ -1206,8 +1403,10 @@ return {
 		},
 		[4]=
 		{
+			line = 4,
 			index = 4,
 			task_id = 21341,
+			condi_key = "cpl_notcjj",
 			title = "身上拥有2000万金币",
 			condition = 20000000,
 			award_img = {"ty_icon_jb_18y","3dby_btn_sd","3dby_btn_bd",},
@@ -1216,8 +1415,10 @@ return {
 		},
 		[5]=
 		{
+			line = 5,
 			index = 5,
 			task_id = 21341,
+			condi_key = "cpl_notcjj",
 			title = "身上拥有5000万金币",
 			condition = 50000000,
 			award_img = {"ty_icon_jb_30y","3dby_btn_sd","3dby_btn_bd",},
@@ -1226,8 +1427,10 @@ return {
 		},
 		[6]=
 		{
+			line = 6,
 			index = 6,
 			task_id = 21341,
+			condi_key = "cpl_notcjj",
 			title = "身上拥有1亿金币",
 			condition = 100000000,
 			award_img = {"ty_icon_jb_48y","3dby_btn_sd","3dby_btn_bd",},
@@ -1236,8 +1439,10 @@ return {
 		},
 		[7]=
 		{
+			line = 7,
 			index = 7,
 			task_id = 21341,
+			condi_key = "cpl_notcjj",
 			title = "身上拥有2亿金币",
 			condition = 200000000,
 			award_img = {"ty_icon_jb_50y","3dby_btn_sd","3dby_btn_bd",},
@@ -1246,8 +1451,10 @@ return {
 		},
 		[8]=
 		{
+			line = 8,
 			index = 8,
 			task_id = 21341,
+			condi_key = "cpl_notcjj",
 			title = "身上拥有5亿金币",
 			condition = 500000000,
 			award_img = {"ty_icon_jb_98y","3dby_btn_sd","3dby_btn_bd",},
@@ -1256,8 +1463,10 @@ return {
 		},
 		[9]=
 		{
+			line = 9,
 			index = 9,
 			task_id = 21341,
+			condi_key = "cpl_notcjj",
 			title = "身上拥有10亿金币",
 			condition = 1000000000,
 			award_img = {"ty_icon_jb_198y","3dby_btn_sd","3dby_btn_bd",},
@@ -1266,8 +1475,10 @@ return {
 		},
 		[10]=
 		{
+			line = 10,
 			index = 10,
 			task_id = 21341,
+			condi_key = "cpl_notcjj",
 			title = "身上拥有20亿金币",
 			condition = 2000000000,
 			award_img = {"ty_icon_jb_498y","3dby_btn_sd","3dby_btn_bd",},
@@ -1276,8 +1487,10 @@ return {
 		},
 		[11]=
 		{
+			line = 11,
 			index = 11,
 			task_id = 21341,
+			condi_key = "cpl_notcjj",
 			title = "身上拥有30亿金币",
 			condition = 3000000000,
 			award_img = {"ty_icon_jb_998y","3dby_btn_sd","3dby_btn_bd",},
@@ -1286,12 +1499,158 @@ return {
 		},
 		[12]=
 		{
+			line = 12,
 			index = 12,
 			task_id = 21341,
+			condi_key = "cpl_notcjj",
 			title = "身上拥有50亿金币",
 			condition = 5000000000,
 			award_img = {"ty_icon_jb_2498y","3dby_btn_sd","3dby_btn_bd",},
 			award_txt = {"588万金币","锁定*5","冰冻*5",},
+			award_progress_lv = 12,
+		},
+		[13]=
+		{
+			line = 13,
+			index = 1,
+			task_id = 1000157,
+			condi_key = "cpl_cjj",
+			title = "身上拥有200万金币",
+			condition = 2000000,
+			award_img = {"ty_icon_jb_6y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"8万金币","水滴*1","玩具锤*1",},
+			award_progress_lv = 1,
+		},
+		[14]=
+		{
+			line = 14,
+			index = 2,
+			task_id = 1000157,
+			condi_key = "cpl_cjj",
+			title = "身上拥有500万金币",
+			condition = 5000000,
+			award_img = {"ty_icon_jb_6y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"18万金币","水滴*1","玩具锤*1",},
+			award_progress_lv = 2,
+		},
+		[15]=
+		{
+			line = 15,
+			index = 3,
+			task_id = 1000157,
+			condi_key = "cpl_cjj",
+			title = "身上拥有1000万金币",
+			condition = 10000000,
+			award_img = {"ty_icon_jb_15y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"28万金币","水滴*1","玩具锤*1",},
+			award_progress_lv = 3,
+		},
+		[16]=
+		{
+			line = 16,
+			index = 4,
+			task_id = 1000157,
+			condi_key = "cpl_cjj",
+			title = "身上拥有2000万金币",
+			condition = 20000000,
+			award_img = {"ty_icon_jb_18y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"38万金币","水滴*1","玩具锤*1",},
+			award_progress_lv = 4,
+		},
+		[17]=
+		{
+			line = 17,
+			index = 5,
+			task_id = 1000157,
+			condi_key = "cpl_cjj",
+			title = "身上拥有5000万金币",
+			condition = 50000000,
+			award_img = {"ty_icon_jb_30y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"48万金币","水滴*1","玩具锤*1",},
+			award_progress_lv = 5,
+		},
+		[18]=
+		{
+			line = 18,
+			index = 6,
+			task_id = 1000157,
+			condi_key = "cpl_cjj",
+			title = "身上拥有1亿金币",
+			condition = 100000000,
+			award_img = {"ty_icon_jb_48y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"88万金币","水滴*1","玩具锤*1",},
+			award_progress_lv = 6,
+		},
+		[19]=
+		{
+			line = 19,
+			index = 7,
+			task_id = 1000157,
+			condi_key = "cpl_cjj",
+			title = "身上拥有2亿金币",
+			condition = 200000000,
+			award_img = {"ty_icon_jb_50y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"128万金币","水滴*1","玩具锤*1",},
+			award_progress_lv = 7,
+		},
+		[20]=
+		{
+			line = 20,
+			index = 8,
+			task_id = 1000157,
+			condi_key = "cpl_cjj",
+			title = "身上拥有5亿金币",
+			condition = 500000000,
+			award_img = {"ty_icon_jb_98y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"188万金币","水滴*1","玩具锤*1",},
+			award_progress_lv = 8,
+		},
+		[21]=
+		{
+			line = 21,
+			index = 9,
+			task_id = 1000157,
+			condi_key = "cpl_cjj",
+			title = "身上拥有10亿金币",
+			condition = 1000000000,
+			award_img = {"ty_icon_jb_198y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"288万金币","水滴*1","玩具锤*1",},
+			award_progress_lv = 9,
+		},
+		[22]=
+		{
+			line = 22,
+			index = 10,
+			task_id = 1000157,
+			condi_key = "cpl_cjj",
+			title = "身上拥有20亿金币",
+			condition = 2000000000,
+			award_img = {"ty_icon_jb_498y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"388万金币","水滴*1","玩具锤*1",},
+			award_progress_lv = 10,
+		},
+		[23]=
+		{
+			line = 23,
+			index = 11,
+			task_id = 1000157,
+			condi_key = "cpl_cjj",
+			title = "身上拥有30亿金币",
+			condition = 3000000000,
+			award_img = {"ty_icon_jb_998y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"488万金币","水滴*1","玩具锤*1",},
+			award_progress_lv = 11,
+		},
+		[24]=
+		{
+			line = 24,
+			index = 12,
+			task_id = 1000157,
+			condi_key = "cpl_cjj",
+			title = "身上拥有50亿金币",
+			condition = 5000000000,
+			award_img = {"ty_icon_jb_2498y","zpg_icon_shui","com_award_icon_cz1",},
+			award_txt = {"588万金币","水滴*1","玩具锤*1",},
 			award_progress_lv = 12,
 		},
 	},

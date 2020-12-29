@@ -672,7 +672,7 @@ return {
 		{
 			id = 60,
 			bannerID = 62,
-			isOnOff = 0,
+			isOnOff = 1,
 			order = 100,
 			gotoUI = {"vip","notice"},
 			model = "LoginUp",
@@ -981,8 +981,8 @@ return {
 			order = 100,
 			gotoUI = {"sys_act_base","panel"},
 			model = "LoginUp",
-			srartTime = 1608595200,
-			endTime = 1609171199,
+			srartTime = 1609200000,
+			endTime = 1609775999,
 		},
 		[87]=
 		{
@@ -994,6 +994,18 @@ return {
 			model = "LoginUp",
 			srartTime = 1607990400,
 			endTime = 1608566399,
+		},
+		[88]=
+		{
+			id = 88,
+			bannerID = 88,
+			isOnOff = 1,
+			order = 110,
+			condi_key = "by_cjj_cpl_type_plat",
+			gotoUI = {"act_040_by_and_cjj_to_ddz_conduct","panel"},
+			model = "LoginUp",
+			srartTime = 1609200000,
+			endTime = 1609775999,
 		},
 	},
 }
