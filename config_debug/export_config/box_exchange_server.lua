@@ -7386,7 +7386,7 @@ return {
 			real_award_id = 11895,
 			award_name = "12000金币",
 			asset_type = "jing_bi",
-			asset_count = {12000,},
+			asset_count = {12000,12000},
 		},
 		[422]=
 		{
@@ -7394,7 +7394,7 @@ return {
 			real_award_id = 11896,
 			award_name = "15福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = {15,},
+			asset_count = {15,15},
 		},
 		[423]=
 		{
@@ -7402,7 +7402,7 @@ return {
 			real_award_id = 11897,
 			award_name = "20000金币",
 			asset_type = "jing_bi",
-			asset_count = {20000,},
+			asset_count = {20000,20000},
 		},
 		[424]=
 		{
@@ -7410,7 +7410,7 @@ return {
 			real_award_id = 11898,
 			award_name = "30福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = {30,},
+			asset_count = {30,30},
 		},
 		[425]=
 		{
@@ -7418,7 +7418,7 @@ return {
 			real_award_id = 11899,
 			award_name = "50000金币",
 			asset_type = "jing_bi",
-			asset_count = {50000,},
+			asset_count = {50000,50000},
 		},
 		[426]=
 		{
