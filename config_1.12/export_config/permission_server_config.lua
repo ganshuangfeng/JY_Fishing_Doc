@@ -1358,60 +1358,50 @@ return {
 		tantanle_dc_1=
 		{
 			key = "tantanle_dc_1",
-			name = "弹弹乐500",
+			name = 5000,
 		},
 		tantanle_dc_2=
 		{
 			key = "tantanle_dc_2",
-			name = "弹弹乐1000",
+			name = 10000,
 		},
 		tantanle_dc_3=
 		{
 			key = "tantanle_dc_3",
-			name = 5000,
+			name = 50000,
 		},
 		tantanle_dc_4=
 		{
 			key = "tantanle_dc_4",
-			name = 10000,
+			name = 100000,
 		},
 		tantanle_dc_5=
 		{
 			key = "tantanle_dc_5",
-			name = 50000,
+			name = 500000,
+			condi = 22,
 		},
 		tantanle_dc_6=
 		{
 			key = "tantanle_dc_6",
-			name = 100000,
+			name = 1000000,
+			condi = 23,
 		},
 		tantanle_dc_7=
 		{
 			key = "tantanle_dc_7",
-			name = 500000,
-			condi = 22,
+			name = 5000000,
+			condi = 24,
 		},
 		tantanle_dc_8=
 		{
 			key = "tantanle_dc_8",
-			name = 1000000,
-			condi = 23,
+			name = 10000000,
+			condi = 25,
 		},
 		tantanle_dc_9=
 		{
 			key = "tantanle_dc_9",
-			name = 5000000,
-			condi = 24,
-		},
-		tantanle_dc_10=
-		{
-			key = "tantanle_dc_10",
-			name = 10000000,
-			condi = 25,
-		},
-		tantanle_dc_11=
-		{
-			key = "tantanle_dc_11",
 			name = 20000000,
 			condi = 26,
 		},
