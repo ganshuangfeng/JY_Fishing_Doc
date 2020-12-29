@@ -11986,7 +11986,7 @@ return {
 			buy_asset_type = {"jing_bi",},
 			buy_asset_count = {18800000,},
 			buy_limt = {9999999999,1,0},
-			count = 9999999,
+			count = 200,
 			start_time = 1609200000,
 			end_time = 1609775999,
 			wx_pay = 1,

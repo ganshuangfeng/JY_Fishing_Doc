@@ -157,7 +157,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#8#61#115#",
+			group_list = "3;116#2#8#61#117#115#",
 		},
 		[2]=
 		{
@@ -193,12 +193,6 @@ return {
 			id = 7,
 			area = "left_bottom",
 			group_list = "92#",
-		},
-		[8]=
-		{
-			id = 8,
-			area = "right_bottom",
-			group_list = "117#",
 		},
 	},
 	ddz_free_game=
@@ -1148,7 +1142,7 @@ return {
 		[117]=
 		{
 			id = 117,
-			parm = {"act_040_by_and_cjj_to_ddz_conduct",},
+			parm = {"act_040_ydfl",},
 			is_on_off = 1,
 		},
 	},
