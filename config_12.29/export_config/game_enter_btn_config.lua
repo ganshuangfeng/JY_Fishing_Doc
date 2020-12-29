@@ -194,6 +194,12 @@ return {
 			area = "left_bottom",
 			group_list = "92#",
 		},
+		[8]=
+		{
+			id = 8,
+			area = "right_bottom",
+			group_list = "117#",
+		},
 	},
 	ddz_free_game=
 	{
