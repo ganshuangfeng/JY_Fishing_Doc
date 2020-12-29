@@ -14100,6 +14100,7 @@ return {
 			id = 588,
 			process_id = 21536,
 			source_id = 554,
+			process = 3,
 			awards = 937,
 			get_award_type = "nor",
 		},
@@ -20737,6 +20738,7 @@ return {
 		{
 			id = 915,
 			source_id = 554,
+			source_type = "on_task_progress_change",
 			condition_id = 402,
 		},
 		[916]=
@@ -25088,6 +25090,9 @@ return {
 		{
 			id = 558,
 			condition_id = 402,
+			condition_name = "task_id",
+			condition_value = 93,
+			judge_type = 2,
 		},
 		[559]=
 		{

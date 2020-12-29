@@ -2100,6 +2100,30 @@ return {
 			name = "V10邮件权限",
 			condi = 374,
 		},
+		jjj_3dby_official=
+		{
+			key = "jjj_3dby_official",
+			name = "捕鱼救济金权限（官方-cps-30000 ）",
+			condi = 375,
+		},
+		jjj_3dby_cpl=
+		{
+			key = "jjj_3dby_cpl",
+			name = "捕鱼救济金权限（cpl-10000 ）",
+			condi = 376,
+		},
+		jjj_cjj_official=
+		{
+			key = "jjj_cjj_official",
+			name = "冲金鸡救济金权限（官方-cps-30000 ）",
+			condi = 377,
+		},
+		jjj_cjj_cpl=
+		{
+			key = "jjj_cjj_cpl",
+			name = "冲金鸡救济金权限（cpl-10000 ）",
+			condi = 378,
+		},
 	},
 	act_permission=
 	{
@@ -15547,6 +15571,56 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不等于冲金鸡渠道",
+		},
+		[924]=
+		{
+			no = 924,
+			id = 375,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "等于捕鱼官方",
+		},
+		[925]=
+		{
+			no = 925,
+			id = 375,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 2,
+			error_desc = "等于捕鱼CPS",
+		},
+		[926]=
+		{
+			no = 926,
+			id = 376,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "等于捕鱼CPS",
+		},
+		[927]=
+		{
+			no = 927,
+			id = 377,
+			var = "share_condition",
+			value = "cjj_official",
+			judge = 2,
+			group = 1,
+			error_desc = "等于捕鱼官方",
+		},
+		[928]=
+		{
+			no = 928,
+			id = 378,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "等于捕鱼CPS",
 		},
 	},
 	share_condition=
