@@ -2409,7 +2409,7 @@ return {
 			id = 90,
 			source_id = 46,
 			source_type = "lwzb_game_num",
-			condition_id = 0,
+			condition_id = 1032,
 		},
 		[91]=
 		{
@@ -2723,6 +2723,14 @@ return {
 			condition_id = 1031,
 			condition_name = "bet_spend",
 			condition_value = 60000,
+			judge_type = 3,
+		},
+		[32]=
+		{
+			id = 32,
+			condition_id = 1032,
+			condition_name = "bet_spend",
+			condition_value = 1,
 			judge_type = 3,
 		},
 	},
