@@ -188,7 +188,7 @@ return {
 			id = 112,
 			enable = 1,
 			name = "vip累积赢金挑战",
-			own_type = "vip_game_award_task",
+			own_type = "p_vip_game_award_task",
 			task_enum = "common",
 			process_id = 112,
 			is_reset = 0,

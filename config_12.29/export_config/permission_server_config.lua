@@ -6219,6 +6219,18 @@ return {
 			refresh_type = "now",
 			start_deal_time = 1598889600,
 		},
+		[346]=
+		{
+			id = 346,
+			enable = 1,
+			key = "actp_own_task_p_vip_game_award_task",
+			name = "vip累积赢金挑战",
+			condi = 364,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1598889600,
+		},
 	},
 	condi=
 	{
@@ -15361,6 +15373,26 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "VIP等级2",
+		},
+		[915]=
+		{
+			no = 915,
+			id = 364,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "不等于冲金鸡渠道",
+		},
+		[916]=
+		{
+			no = 916,
+			id = 364,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 2,
+			error_desc = "不等于冲金鸡渠道",
 		},
 	},
 	share_condition=
