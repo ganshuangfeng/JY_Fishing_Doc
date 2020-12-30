@@ -96,7 +96,7 @@ return {
 		[8]=
 		{
 			ID = 8,
-			award_name = "低级核弹",
+			award_name = "初级核弹",
 			award_image = "dhhl_icon_cjhd",
 			item_cost_text = 1200,
 			type = 0,
