@@ -3066,5 +3066,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[313]=
+		{
+			id = 313,
+			key = "sys_act_czzk",
+			desc = "周卡",
+			lua = "Sys_Act_CZZKManager",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
+		},
 	},
 }
