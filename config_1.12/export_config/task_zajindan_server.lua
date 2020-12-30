@@ -8079,6 +8079,7 @@ return {
 			start_valid_time = 1609776000,
 			end_valid_time = 1610380799,
 			time_limit = -1,
+			award_change_type = "task_award_no_show",
 		},
 		[1000168]=
 		{
