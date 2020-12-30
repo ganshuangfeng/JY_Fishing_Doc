@@ -1714,7 +1714,7 @@ return {
 			item_key = "prop_fish_drop_act_0",
 			lose_time = -1,
 			is_local_icon = 1,
-			image = "by_sd_icon_lh_1",
+			image = "act_ty_by_drop_7",
 			is_show_bag = 0,
 			order = 1,
 			name = "礼盒",
