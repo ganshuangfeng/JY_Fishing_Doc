@@ -13711,7 +13711,7 @@ return {
 			id = 579,
 			process_id = 21527,
 			source_id = 475,
-			process = 1,
+			process = 2,
 			awards = 936,
 			get_award_type = "nor",
 		},
