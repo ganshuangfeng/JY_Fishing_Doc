@@ -12611,6 +12611,27 @@ return {
 			is_cg = 1,
 			cg_order = 1,
 		},
+		[519]=
+		{
+			line_id = 519,
+			id = 10436,
+			on_off = 1,
+			pay_title = "周卡",
+			content = {"100万金币","首次救济金为6万金币",},
+			gzh_order = -23,
+			gzh_show = 1,
+			web_show = 0,
+			shop_type = "gift_bag",
+			price = 1000,
+			buy_asset_type = {"jing_bi",},
+			buy_asset_count = {1000000,},
+			buy_limt = {604800,1,0},
+			count = 99999999,
+			start_time = 0,
+			end_time = 2552233600,
+			wx_pay = 1,
+			zfb_pay = 1,
+		},
 	},
 	gift_bag_condition=
 	{
