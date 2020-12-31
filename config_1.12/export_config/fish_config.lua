@@ -878,7 +878,7 @@ return {
 			id = 35,
 			prefab = "Fish3D091",
 			icon = "act_ty_by_drop_8",
-			name = "星星BOSS",
+			name = "小丑BOSS",
 			name_image = "act_ty_by_drop_9",
 			size_w = 2.640000,
 			size_h = 2.380000,

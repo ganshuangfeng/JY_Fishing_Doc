@@ -5,91 +5,109 @@ return {
 		{
 			id = 1,
 			fish_id = 1,
+			attr_id = 42,
 		},
 		[2]=
 		{
 			id = 2,
 			fish_id = 2,
+			attr_id = 42,
 		},
 		[3]=
 		{
 			id = 3,
 			fish_id = 3,
+			attr_id = 42,
 		},
 		[4]=
 		{
 			id = 4,
 			fish_id = 4,
+			attr_id = 42,
 		},
 		[5]=
 		{
 			id = 5,
 			fish_id = 5,
+			attr_id = 42,
 		},
 		[6]=
 		{
 			id = 6,
 			fish_id = 6,
+			attr_id = 42,
 		},
 		[7]=
 		{
 			id = 7,
 			fish_id = 7,
+			attr_id = 42,
 		},
 		[8]=
 		{
 			id = 8,
 			fish_id = 8,
+			attr_id = 42,
 		},
 		[9]=
 		{
 			id = 9,
 			fish_id = 9,
+			attr_id = 42,
 		},
 		[10]=
 		{
 			id = 10,
 			fish_id = 10,
+			attr_id = 42,
 		},
 		[11]=
 		{
 			id = 11,
 			fish_id = 11,
+			attr_id = 42,
 		},
 		[12]=
 		{
 			id = 12,
 			fish_id = 12,
+			attr_id = 42,
 		},
 		[13]=
 		{
 			id = 13,
 			fish_id = 13,
+			attr_id = 42,
 		},
 		[14]=
 		{
 			id = 14,
 			fish_id = 14,
+			attr_id = 42,
 		},
 		[15]=
 		{
 			id = 15,
 			fish_id = 15,
+			attr_id = 42,
 		},
 		[16]=
 		{
 			id = 16,
 			fish_id = 16,
+			attr_id = 42,
 		},
 		[17]=
 		{
 			id = 17,
 			fish_id = 17,
+			attr_id = 42,
 		},
 		[18]=
 		{
 			id = 18,
 			fish_id = 18,
+			attr_id = 42,
 		},
 		[19]=
 		{
@@ -638,16 +656,19 @@ return {
 		{
 			id = 121,
 			fish_id = 20,
+			attr_id = 42,
 		},
 		[122]=
 		{
 			id = 122,
 			fish_id = 21,
+			attr_id = 42,
 		},
 		[123]=
 		{
 			id = 123,
 			fish_id = 28,
+			attr_id = 42,
 		},
 		[124]=
 		{
@@ -981,51 +1002,6 @@ return {
 		{
 			id = 182,
 			fish_id = 36,
-		},
-		[183]=
-		{
-			id = 183,
-			fish_id = 37,
-		},
-		[184]=
-		{
-			id = 184,
-			fish_id = 37,
-		},
-		[185]=
-		{
-			id = 185,
-			fish_id = 37,
-		},
-		[186]=
-		{
-			id = 186,
-			fish_id = 6,
-			attr_id = 9,
-		},
-		[187]=
-		{
-			id = 187,
-			fish_id = 7,
-			attr_id = 9,
-		},
-		[188]=
-		{
-			id = 188,
-			fish_id = 8,
-			attr_id = 9,
-		},
-		[189]=
-		{
-			id = 189,
-			fish_id = 9,
-			attr_id = 9,
-		},
-		[190]=
-		{
-			id = 190,
-			fish_id = 10,
-			attr_id = 9,
 		},
 	},
 }

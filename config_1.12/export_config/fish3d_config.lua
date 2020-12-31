@@ -1951,7 +1951,7 @@ return {
 			id = 61,
 			prefab = "Fish3D091",
 			icon = "act_ty_by_drop_8",
-			name = "金牛boss",
+			name = "小丑boss",
 			name_image = "act_ty_by_drop_9",
 			reward_image = "act_ty_by_drop_9",
 			reward_level = {1,},
