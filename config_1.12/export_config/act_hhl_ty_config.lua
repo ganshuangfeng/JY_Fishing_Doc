@@ -220,7 +220,7 @@ return {
 		{
 			task_id  = 1000197,
 			shop_id = 110,
-			icon_txt = 7500,
+			icon_txt = 7490,
 		},
 	},
 	config=
@@ -271,7 +271,7 @@ return {
 		{
 			task_id  = 1000197,
 			shop_id = 110,
-			icon_txt = 7500,
+			icon_txt = 7490,
 		},
 	},
 	help_info=
