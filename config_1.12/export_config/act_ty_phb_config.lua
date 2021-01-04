@@ -4,7 +4,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			image = "by_sd_icon_lh_1",
+			image = "act_ty_by_drop_7",
 			rank_type = "hqjnh_046_lhsjb_rank",
 			s_time = 1610409600,
 			e_time = 1610985599,
