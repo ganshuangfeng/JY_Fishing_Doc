@@ -14223,7 +14223,7 @@ return {
 		{
 			id = 600,
 			process_id = 21548,
-			source_id = 566,
+			source_id = 534,
 			process = 1,
 			awards = 940,
 			get_award_type = "nor",
@@ -14233,7 +14233,7 @@ return {
 		{
 			id = 601,
 			process_id = 21549,
-			source_id = 567,
+			source_id = 535,
 			process = 1,
 			awards = 941,
 			get_award_type = "nor",
@@ -14243,7 +14243,7 @@ return {
 		{
 			id = 602,
 			process_id = 21550,
-			source_id = 568,
+			source_id = 536,
 			process = 1,
 			awards = 942,
 			get_award_type = "nor",
@@ -14253,7 +14253,7 @@ return {
 		{
 			id = 603,
 			process_id = 21551,
-			source_id = 569,
+			source_id = 537,
 			process = 1,
 			awards = 943,
 			get_award_type = "nor",
@@ -14263,7 +14263,7 @@ return {
 		{
 			id = 604,
 			process_id = 21552,
-			source_id = 570,
+			source_id = 538,
 			process = 1,
 			awards = 944,
 			get_award_type = "nor",
@@ -14273,7 +14273,7 @@ return {
 		{
 			id = 605,
 			process_id = 21553,
-			source_id = 571,
+			source_id = 539,
 			process = 1,
 			awards = 945,
 			get_award_type = "nor",
@@ -14283,7 +14283,7 @@ return {
 		{
 			id = 606,
 			process_id = 21554,
-			source_id = 572,
+			source_id = 540,
 			process = 1,
 			awards = 946,
 			get_award_type = "nor",
@@ -14293,7 +14293,7 @@ return {
 		{
 			id = 607,
 			process_id = 21555,
-			source_id = 573,
+			source_id = 541,
 			process = 1,
 			awards = 947,
 			get_award_type = "nor",
@@ -20622,275 +20622,107 @@ return {
 		[895]=
 		{
 			id = 895,
-			source_id = 543,
-			source_type = "buy_gift",
-			condition_id = 383,
-		},
-		[896]=
-		{
-			id = 896,
-			source_id = 544,
-			source_type = "buy_gift",
-			condition_id = 384,
-		},
-		[897]=
-		{
-			id = 897,
-			source_id = 545,
-			source_type = "buy_gift",
-			condition_id = 385,
-		},
-		[898]=
-		{
-			id = 898,
-			source_id = 546,
-			source_type = "buy_gift",
-			condition_id = 386,
-		},
-		[899]=
-		{
-			id = 899,
-			source_id = 547,
-			source_type = "buy_gift",
-			condition_id = 387,
-		},
-		[900]=
-		{
-			id = 900,
-			source_id = 548,
-			source_type = "buy_gift",
-			condition_id = 388,
-		},
-		[901]=
-		{
-			id = 901,
-			source_id = 549,
-			source_type = "buy_gift",
-			condition_id = 389,
-		},
-		[902]=
-		{
-			id = 902,
-			source_id = 550,
-			source_type = "buy_gift",
-			condition_id = 390,
-		},
-		[903]=
-		{
-			id = 903,
 			source_id = 551,
 			source_type = "asset_observe",
 			condition_id = 0,
 		},
-		[904]=
+		[896]=
 		{
-			id = 904,
-			source_id = 543,
-			source_type = "buy_gift",
-			condition_id = 391,
-		},
-		[905]=
-		{
-			id = 905,
-			source_id = 544,
-			source_type = "buy_gift",
-			condition_id = 392,
-		},
-		[906]=
-		{
-			id = 906,
-			source_id = 545,
-			source_type = "buy_gift",
-			condition_id = 393,
-		},
-		[907]=
-		{
-			id = 907,
-			source_id = 546,
-			source_type = "buy_gift",
-			condition_id = 394,
-		},
-		[908]=
-		{
-			id = 908,
-			source_id = 547,
-			source_type = "buy_gift",
-			condition_id = 395,
-		},
-		[909]=
-		{
-			id = 909,
-			source_id = 548,
-			source_type = "buy_gift",
-			condition_id = 396,
-		},
-		[910]=
-		{
-			id = 910,
-			source_id = 549,
-			source_type = "buy_gift",
-			condition_id = 397,
-		},
-		[911]=
-		{
-			id = 911,
-			source_id = 550,
-			source_type = "buy_gift",
-			condition_id = 398,
-		},
-		[912]=
-		{
-			id = 912,
+			id = 896,
 			source_id = 552,
 			source_type = "use_fish_3d_bullet_item",
 			condition_id = 399,
 		},
-		[913]=
+		[897]=
 		{
-			id = 913,
+			id = 897,
 			source_id = 553,
 			source_type = "use_fish_3d_bullet_item",
 			condition_id = 400,
 		},
-		[914]=
+		[898]=
 		{
-			id = 914,
+			id = 898,
 			source_id = 554,
 			source_type = "use_fish_3d_bullet_item",
 			condition_id = 401,
 		},
-		[915]=
+		[899]=
 		{
-			id = 915,
+			id = 899,
 			source_id = 555,
 			source_type = "on_task_progress_change",
 			condition_id = 402,
 		},
-		[916]=
+		[900]=
 		{
-			id = 916,
+			id = 900,
 			source_id = 556,
 			source_type = "buyu_3d_target_yu",
 			condition_id = 403,
 		},
-		[917]=
+		[901]=
 		{
-			id = 917,
+			id = 901,
 			source_id = 557,
 			source_type = "xxl_lucky_award",
 			condition_id = 404,
 		},
-		[918]=
+		[902]=
 		{
-			id = 918,
+			id = 902,
 			source_id = 558,
 			source_type = "sh_xxl_xc_num_hero",
 			condition_id = 405,
 		},
-		[919]=
+		[903]=
 		{
-			id = 919,
+			id = 903,
 			source_id = 559,
 			source_type = "guess_apple_award_kaijiang_type",
 			condition_id = 406,
 		},
-		[920]=
+		[904]=
 		{
-			id = 920,
+			id = 904,
 			source_id = 560,
 			source_type = "zajindan_continuity_caishen_model",
 			condition_id = 407,
 		},
-		[921]=
+		[905]=
 		{
-			id = 921,
+			id = 905,
 			source_id = 561,
 			source_type = "zajindan_caishen_model",
 			condition_id = 408,
 		},
-		[922]=
+		[906]=
 		{
-			id = 922,
+			id = 906,
 			source_id = 562,
 			source_type = "lwzb_game_award",
 			condition_id = 0,
 		},
-		[923]=
+		[907]=
 		{
-			id = 923,
+			id = 907,
 			source_id = 563,
 			source_type = "lwzb_game_award",
 			condition_id = 0,
 		},
-		[924]=
+		[908]=
 		{
-			id = 924,
+			id = 908,
 			source_id = 564,
 			source_type = "agent_guess_continuity_apple_award",
 			condition_id = 409,
 		},
-		[925]=
+		[909]=
 		{
-			id = 925,
+			id = 909,
 			source_id = 565,
 			source_type = "guess_apple_award_kaijiang_type",
 			condition_id = 406,
-		},
-		[926]=
-		{
-			id = 926,
-			source_id = 566,
-			source_type = "buy_gift",
-			condition_id = 410,
-		},
-		[927]=
-		{
-			id = 927,
-			source_id = 567,
-			source_type = "buy_gift",
-			condition_id = 411,
-		},
-		[928]=
-		{
-			id = 928,
-			source_id = 568,
-			source_type = "buy_gift",
-			condition_id = 412,
-		},
-		[929]=
-		{
-			id = 929,
-			source_id = 569,
-			source_type = "buy_gift",
-			condition_id = 413,
-		},
-		[930]=
-		{
-			id = 930,
-			source_id = 570,
-			source_type = "buy_gift",
-			condition_id = 414,
-		},
-		[931]=
-		{
-			id = 931,
-			source_id = 571,
-			source_type = "buy_gift",
-			condition_id = 415,
-		},
-		[932]=
-		{
-			id = 932,
-			source_id = 572,
-			source_type = "buy_gift",
-			condition_id = 416,
-		},
-		[933]=
-		{
-			id = 933,
-			source_id = 573,
-			source_type = "buy_gift",
-			condition_id = 417,
 		},
 	},
 	condition=
