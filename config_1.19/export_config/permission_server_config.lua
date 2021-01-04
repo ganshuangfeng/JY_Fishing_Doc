@@ -6335,6 +6335,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1610380800,
 		},
+		[352]=
+		{
+			id = 352,
+			enable = 1,
+			key = "actp_own_task_p_system_update",
+			name = "大版本升级权限（CPS渠道屏蔽，除官方IOS渠道以外的IOS渠道屏蔽）",
+			condi = 380,
+			is_dynamic_codi = 0,
+			is_dynamic_cancel = 0,
+			refresh_type = "day_delay",
+			start_deal_time = 0,
+		},
 	},
 	condi=
 	{
@@ -15637,6 +15649,46 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "VIP等级0",
+		},
+		[931]=
+		{
+			no = 931,
+			id = 380,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "非CPS",
+		},
+		[932]=
+		{
+			no = 932,
+			id = 380,
+			var = "systype",
+			value = "android",
+			judge = 2,
+			group = 1,
+			error_desc = "安卓用户",
+		},
+		[933]=
+		{
+			no = 933,
+			id = 380,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 2,
+			error_desc = "3D捕鱼官方",
+		},
+		[934]=
+		{
+			no = 934,
+			id = 380,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 2,
+			error_desc = "IOS用户",
 		},
 	},
 	share_condition=
