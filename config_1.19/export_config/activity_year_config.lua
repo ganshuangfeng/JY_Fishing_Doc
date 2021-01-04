@@ -210,8 +210,8 @@ return {
 			is_local_icon = 1,
 			gotoUI = {"GameComAct1","activity_030_xyxfl_config"},
 			tag = "hot",
-			beginTime = 1609804800,
-			endTime = 1610380799,
+			beginTime = 1610380800,
+			endTime = 1611590399,
 			condi_key = "actp_own_task_p_030_xyxfl",
 		},
 		[12]=
@@ -396,8 +396,8 @@ return {
 			is_local_icon = 1,
 			gotoUI = {"act_039_ty_by_hhl","panel"},
 			tag = "normal",
-			beginTime = 1609804800,
-			endTime = 1610380799,
+			beginTime = 1610380800,
+			endTime = 1611590399,
 		},
 		[22]=
 		{
@@ -414,8 +414,8 @@ return {
 			is_local_icon = 1,
 			gotoUI = {"act_039_jzsjb","panel"},
 			tag = "normal",
-			beginTime = 1609804800,
-			endTime = 1610380799,
+			beginTime = 1610380800,
+			endTime = 1611590399,
 		},
 		[23]=
 		{

@@ -3010,7 +3010,7 @@ return {
 		{
 			id = 307,
 			key = "act_039_ty_by_drop",
-			desc = "捕鱼通用掉落活动",
+			desc = "通用活动--掉落活动",
 			lua = "Act_039_TYBYDROPManager",
 			is_on_off = 1,
 			enable = 1,
@@ -3075,6 +3075,26 @@ return {
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
+		},
+		[314]=
+		{
+			id = 314,
+			key = "act_ty_collect_words",
+			desc = "通用活动--发财礼包模板",
+			lua = "Act_Ty_ Collet_WordsManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[315]=
+		{
+			id = 315,
+			key = "sys_jbp",
+			desc = "聚宝盆",
+			lua = "SYS_JBPManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 	},
 }
