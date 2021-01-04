@@ -7,14 +7,14 @@ return {
 			condiy_key = "cpl_notcjj",
 			shop_config = "config",
 			config = "Info",
-			change_type = 17,
+			change_type = 19,
 			item_key = "prop_fish_drop_act_0",
 			GotoUI = {"game_Fishing3DHall",},
 			help = "help_info",
 			beginTime = 1610409600,
 			endTime = 1610985599,
-			top_desc = "所有游戏有几率得礼盒，玩高倍场可得更多礼盒！",
-			btm_desc = "充值商城中每日首次购买金币，必得宝箱礼盒！",
+			top_desc = "所有游戏有几率得灵珠，玩高倍场可得更多灵珠！",
+			btm_desc = "充值商城中每日首次购买金币，必得宝箱灵珠！",
 		},
 		[2]=
 		{
@@ -22,14 +22,14 @@ return {
 			condiy_key = "cpl_cjj",
 			shop_config = "config_cjj",
 			config = "Info_cjj",
-			change_type = 18,
+			change_type = 20,
 			item_key = "prop_fish_drop_act_0",
 			GotoUI = {"game_MiniGame",},
 			help = "help_info_cjj",
 			beginTime = 1610409600,
 			endTime = 1610985599,
-			top_desc = "所有游戏有几率得礼盒，玩高倍场可得更多礼盒！",
-			btm_desc = "充值商城中每日首次购买金币，必得宝箱礼盒！",
+			top_desc = "所有游戏有几率得灵珠，玩高倍场可得更多灵珠！",
+			btm_desc = "充值商城中每日首次购买金币，必得宝箱灵珠！",
 		},
 	},
 	Info=
@@ -37,28 +37,28 @@ return {
 		[1]=
 		{
 			ID = 1,
-			award_name = "金龙鱼油4L",
+			award_name = "坚果大礼包",
 			award_image = "dhhl_swjl_1",
 			item_cost_text = 15000,
-			tips = "金龙鱼油4L",
+			tips = "坚果大礼包",
 			type = 1,
 		},
 		[2]=
 		{
 			ID = 2,
-			award_name = "金龙鱼大米",
+			award_name = "高档电热水袋",
 			award_image = "dhhl_swjl_2",
 			item_cost_text = 8000,
-			tips = "金龙鱼大米",
+			tips = "高档电热水袋",
 			type = 1,
 		},
 		[3]=
 		{
 			ID = 3,
-			award_name = "椰子汁6瓶",
+			award_name = "花生酥1斤",
 			award_image = "dhhl_swjl_3",
 			item_cost_text = 5000,
-			tips = "椰子汁6瓶",
+			tips = "花生酥1斤",
 			type = 1,
 		},
 		[4]=
@@ -107,28 +107,28 @@ return {
 		[1]=
 		{
 			ID = 1,
-			award_name = "金龙鱼油4L",
+			award_name = "坚果大礼包",
 			award_image = "dhhl_swjl_1",
 			item_cost_text = 15000,
-			tips = "金龙鱼油4L",
+			tips = "坚果大礼包",
 			type = 1,
 		},
 		[2]=
 		{
 			ID = 2,
-			award_name = "金龙鱼大米",
+			award_name = "高档电热水袋",
 			award_image = "dhhl_swjl_2",
 			item_cost_text = 8000,
-			tips = "金龙鱼大米",
+			tips = "高档电热水袋",
 			type = 1,
 		},
 		[3]=
 		{
 			ID = 3,
-			award_name = "椰子汁6瓶",
+			award_name = "花生酥1斤",
 			award_image = "dhhl_swjl_3",
 			item_cost_text = 5000,
-			tips = "椰子汁6瓶",
+			tips = "花生酥1斤",
 			type = 1,
 		},
 		[4]=
@@ -279,7 +279,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			desc = {"1.活动时间：1月12日8:00-1月18日23:59:59。","2.活动期间，玩所有游戏都有几率获得星星道具，星星可用于兑换奖励，高倍场可获得更多星星哦！","3.活动结束后，所有星星将统一清除，请及时进行奖励兑换","4.实物奖励请关注公众号《鲸鱼初纪元》联系在线客服领取","5.实物图片仅供参考，请以实际发出的奖励为准",},
+			desc = {"1.活动时间：1月19日8:00-1月25日23:59:59。","2.活动期间，玩所有游戏都有几率获得灵珠道具，灵珠可用于兑换奖励，高倍场可获得更多灵珠哦！","3.活动结束后，所有灵珠将统一清除，请及时进行奖励兑换","4.实物奖励请关注公众号《鲸鱼初纪元》联系在线客服领取","5.实物图片仅供参考，请以实际发出的奖励为准",},
 		},
 	},
 	help_info_cjj=
@@ -287,7 +287,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			desc = {"1.活动时间：1月12日8:00-1月18日23:59:59。","2.活动期间，玩所有游戏都有几率获得星星道具，星星可用于兑换奖励，高倍场可获得更多星星哦！","3.活动结束后，所有星星将统一清除，请及时进行奖励兑换","4.实物奖励请关注公众号《彩云新世界》联系在线客服领取","5.实物图片仅供参考，请以实际发出的奖励为准",},
+			desc = {"1.活动时间：1月19日8:00-1月25日23:59:59。","2.活动期间，玩所有游戏都有几率获得灵珠道具，灵珠可用于兑换奖励，高倍场可获得更多灵珠哦！","3.活动结束后，所有灵珠将统一清除，请及时进行奖励兑换","4.实物奖励请关注公众号《彩云新世界》联系在线客服领取","5.实物图片仅供参考，请以实际发出的奖励为准",},
 		},
 	},
 }

@@ -8520,7 +8520,7 @@ return {
 		{
 			id = 1000199,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 21557,
@@ -8534,7 +8534,7 @@ return {
 		{
 			id = 1000200,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 21558,
@@ -8548,7 +8548,7 @@ return {
 		{
 			id = 1000201,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 21559,
@@ -8562,7 +8562,7 @@ return {
 		{
 			id = 1000202,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 21560,
@@ -8576,7 +8576,7 @@ return {
 		{
 			id = 1000203,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 21561,
@@ -8590,7 +8590,7 @@ return {
 		{
 			id = 1000204,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 21562,
@@ -8604,7 +8604,7 @@ return {
 		{
 			id = 1000205,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 21563,
@@ -8618,7 +8618,7 @@ return {
 		{
 			id = 1000206,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 21564,
@@ -8632,7 +8632,7 @@ return {
 		{
 			id = 1000207,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 21565,
@@ -8646,7 +8646,7 @@ return {
 		{
 			id = 1000208,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 21566,
@@ -8660,7 +8660,7 @@ return {
 		{
 			id = 1000209,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 21567,
@@ -8674,7 +8674,7 @@ return {
 		{
 			id = 1000210,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 21568,
@@ -8688,7 +8688,7 @@ return {
 		{
 			id = 1000211,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 21569,
@@ -8702,7 +8702,7 @@ return {
 		{
 			id = 1000212,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 21570,
@@ -8716,7 +8716,7 @@ return {
 		{
 			id = 1000213,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 21571,
@@ -8730,7 +8730,7 @@ return {
 		{
 			id = 1000214,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 21572,
@@ -8744,7 +8744,7 @@ return {
 		{
 			id = 1000215,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 21573,
@@ -8758,7 +8758,7 @@ return {
 		{
 			id = 1000216,
 			enable = 1,
-			name = "狂欢庆典",
+			name = "狂欢福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 21574,
@@ -8767,6 +8767,133 @@ return {
 			start_valid_time = 1610380800,
 			end_valid_time = 1610985599,
 			time_limit = -1,
+		},
+		[1000217]=
+		{
+			id = 1000217,
+			enable = 1,
+			name = "狂欢庆典",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21575,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1610380800,
+			end_valid_time = 1610985599,
+			time_limit = -1,
+		},
+		[1000218]=
+		{
+			id = 1000218,
+			enable = 1,
+			name = "狂欢庆典",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21576,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1610380800,
+			end_valid_time = 1610985599,
+			time_limit = -1,
+		},
+		[1000219]=
+		{
+			id = 1000219,
+			enable = 1,
+			name = "狂欢庆典",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21577,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1610380800,
+			end_valid_time = 1610985599,
+			time_limit = -1,
+		},
+		[1000220]=
+		{
+			id = 1000220,
+			enable = 1,
+			name = "狂欢庆典",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21578,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1610380800,
+			end_valid_time = 1610985599,
+			time_limit = -1,
+		},
+		[1000221]=
+		{
+			id = 1000221,
+			enable = 1,
+			name = "狂欢庆典",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21579,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1610380800,
+			end_valid_time = 1610985599,
+			time_limit = -1,
+		},
+		[1000222]=
+		{
+			id = 1000222,
+			enable = 1,
+			name = "狂欢庆典",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21580,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1610380800,
+			end_valid_time = 1610985599,
+			time_limit = -1,
+		},
+		[1000223]=
+		{
+			id = 1000223,
+			enable = 1,
+			name = "狂欢庆典",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21581,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1610380800,
+			end_valid_time = 1610985599,
+			time_limit = -1,
+		},
+		[1000224]=
+		{
+			id = 1000224,
+			enable = 1,
+			name = "狂欢庆典",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21582,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1610380800,
+			end_valid_time = 1610985599,
+			time_limit = -1,
+		},
+		[1000225]=
+		{
+			id = 1000225,
+			enable = 1,
+			name = "狂欢庆典",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21583,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1610380800,
+			end_valid_time = 1610985599,
+			time_limit = -1,
+			award_change_type = "task_award_no_show",
 		},
 	},
 	process_data=
@@ -14741,6 +14868,96 @@ return {
 			awards = 963,
 			get_award_type = "nor",
 			is_auto_get_award = 1,
+		},
+		[627]=
+		{
+			id = 627,
+			process_id = 21575,
+			source_id = 566,
+			process = 1,
+			awards = 964,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[628]=
+		{
+			id = 628,
+			process_id = 21576,
+			source_id = 567,
+			process = 1,
+			awards = 965,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[629]=
+		{
+			id = 629,
+			process_id = 21577,
+			source_id = 568,
+			process = 1,
+			awards = 966,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[630]=
+		{
+			id = 630,
+			process_id = 21578,
+			source_id = 569,
+			process = 1,
+			awards = 967,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[631]=
+		{
+			id = 631,
+			process_id = 21579,
+			source_id = 570,
+			process = 1,
+			awards = 968,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[632]=
+		{
+			id = 632,
+			process_id = 21580,
+			source_id = 571,
+			process = 1,
+			awards = 969,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[633]=
+		{
+			id = 633,
+			process_id = 21581,
+			source_id = 572,
+			process = 1,
+			awards = 970,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[634]=
+		{
+			id = 634,
+			process_id = 21582,
+			source_id = 573,
+			process = 1,
+			awards = 971,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[635]=
+		{
+			id = 635,
+			process_id = 21583,
+			source_id = 542,
+			process = {1000000,-1},
+			awards = 972,
+			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 	},
 	source=
@@ -37468,6 +37685,150 @@ return {
 			award_id = 963,
 			asset_type = "jing_bi",
 			asset_count = 20000,
+			get_weight = 1,
+		},
+		[1455]=
+		{
+			id = 1455,
+			award_id = 964,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 45,
+			get_weight = 1,
+		},
+		[1456]=
+		{
+			id = 1456,
+			award_id = 964,
+			asset_type = "_common_rank_khqd_001_lzphb_rank",
+			asset_count = 45,
+			get_weight = 1,
+		},
+		[1457]=
+		{
+			id = 1457,
+			award_id = 965,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 90,
+			get_weight = 1,
+		},
+		[1458]=
+		{
+			id = 1458,
+			award_id = 965,
+			asset_type = "_common_rank_khqd_001_lzphb_rank",
+			asset_count = 90,
+			get_weight = 1,
+		},
+		[1459]=
+		{
+			id = 1459,
+			award_id = 966,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 150,
+			get_weight = 1,
+		},
+		[1460]=
+		{
+			id = 1460,
+			award_id = 966,
+			asset_type = "_common_rank_khqd_001_lzphb_rank",
+			asset_count = 150,
+			get_weight = 1,
+		},
+		[1461]=
+		{
+			id = 1461,
+			award_id = 967,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 290,
+			get_weight = 1,
+		},
+		[1462]=
+		{
+			id = 1462,
+			award_id = 967,
+			asset_type = "_common_rank_khqd_001_lzphb_rank",
+			asset_count = 290,
+			get_weight = 1,
+		},
+		[1463]=
+		{
+			id = 1463,
+			award_id = 968,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 590,
+			get_weight = 1,
+		},
+		[1464]=
+		{
+			id = 1464,
+			award_id = 968,
+			asset_type = "_common_rank_khqd_001_lzphb_rank",
+			asset_count = 590,
+			get_weight = 1,
+		},
+		[1465]=
+		{
+			id = 1465,
+			award_id = 969,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1490,
+			get_weight = 1,
+		},
+		[1466]=
+		{
+			id = 1466,
+			award_id = 969,
+			asset_type = "_common_rank_khqd_001_lzphb_rank",
+			asset_count = 1490,
+			get_weight = 1,
+		},
+		[1467]=
+		{
+			id = 1467,
+			award_id = 970,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 2990,
+			get_weight = 1,
+		},
+		[1468]=
+		{
+			id = 1468,
+			award_id = 970,
+			asset_type = "_common_rank_khqd_001_lzphb_rank",
+			asset_count = 2990,
+			get_weight = 1,
+		},
+		[1469]=
+		{
+			id = 1469,
+			award_id = 971,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 7490,
+			get_weight = 1,
+		},
+		[1470]=
+		{
+			id = 1470,
+			award_id = 971,
+			asset_type = "_common_rank_khqd_001_lzphb_rank",
+			asset_count = 7490,
+			get_weight = 1,
+		},
+		[1471]=
+		{
+			id = 1471,
+			award_id = 972,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1472]=
+		{
+			id = 1472,
+			award_id = 972,
+			asset_type = "_common_rank_khqd_001_lzphb_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
