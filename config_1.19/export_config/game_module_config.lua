@@ -3081,7 +3081,7 @@ return {
 			id = 314,
 			key = "act_ty_collect_words",
 			desc = "通用活动--发财礼包模板",
-			lua = "Act_Ty_ Collet_WordsManager",
+			lua = "Act_Ty_Collet_WordsManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
