@@ -2120,6 +2120,12 @@ return {
 			name = "累积赢金抽福利券（冲金鸡-VIP1）",
 			condi = 379,
 		},
+		treasure_bowl=
+		{
+			key = "treasure_bowl",
+			name = "聚宝盆限制（v0）",
+			condi = 381,
+		},
 	},
 	act_permission=
 	{
@@ -15689,6 +15695,16 @@ return {
 			judge = 2,
 			group = 2,
 			error_desc = "IOS用户",
+		},
+		[935]=
+		{
+			no = 935,
+			id = 381,
+			var = "vip_level",
+			value = 0,
+			judge = 2,
+			group = 1,
+			error_desc = "VIP等级0",
 		},
 	},
 	share_condition=
