@@ -2094,6 +2094,12 @@ return {
 			name = "V10邮件权限",
 			condi = 369,
 		},
+		jyfl_mfcj_limit=
+		{
+			key = "jyfl_mfcj_limit",
+			name = "免费福利（冲金鸡CPLand捕鱼非cps）",
+			condi = 370,
+		},
 	},
 	act_permission=
 	{
@@ -15432,6 +15438,26 @@ return {
 			value = "cjj_all",
 			judge = 5,
 			group = 1,
+			error_desc = "不等于冲金鸡渠道",
+		},
+		[918]=
+		{
+			no = 918,
+			id = 370,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "等于冲金鸡渠道",
+		},
+		[919]=
+		{
+			no = 919,
+			id = 370,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 2,
 			error_desc = "不等于冲金鸡渠道",
 		},
 	},
