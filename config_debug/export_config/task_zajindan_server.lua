@@ -8182,7 +8182,7 @@ return {
 			id = 1000175,
 			enable = 1,
 			name = "系统升级活动",
-			own_type = "normal",
+			own_type = "p_system_update",
 			task_enum = "common",
 			process_id = 21533,
 			is_reset = 0,
