@@ -1586,6 +1586,7 @@ return {
 			award_id = 1,
 			permission_key = "actp_no_cjj_gej_exchange",
 			award_name = "金龙鱼油4L",
+			use_num = {15000,},
 			me_limit_day_num = 1,
 		},
 		[122]=
@@ -1595,6 +1596,7 @@ return {
 			award_id = 2,
 			permission_key = "actp_no_cjj_gej_exchange",
 			award_name = "金龙鱼大米",
+			use_num = {8000,},
 			me_limit_day_num = 1,
 		},
 		[123]=
@@ -1604,6 +1606,7 @@ return {
 			award_id = 3,
 			permission_key = "actp_no_cjj_gej_exchange",
 			award_name = "椰子汁6瓶",
+			use_num = {5000,},
 			me_limit_day_num = 1,
 		},
 		[124]=
@@ -1667,6 +1670,7 @@ return {
 			award_id = 1,
 			permission_key = "actp_cjj_gej_exchange",
 			award_name = "金龙鱼油4L",
+			use_num = {15000,},
 			me_limit_day_num = 1,
 		},
 		[130]=
@@ -1676,6 +1680,7 @@ return {
 			award_id = 2,
 			permission_key = "actp_cjj_gej_exchange",
 			award_name = "金龙鱼大米",
+			use_num = {8000,},
 			me_limit_day_num = 1,
 		},
 		[131]=
@@ -1685,6 +1690,7 @@ return {
 			award_id = 3,
 			permission_key = "actp_cjj_gej_exchange",
 			award_name = "椰子汁6瓶",
+			use_num = {5000,},
 			me_limit_day_num = 1,
 		},
 		[132]=
