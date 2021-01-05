@@ -2124,6 +2124,12 @@ return {
 			name = "冲金鸡救济金权限（cpl-10000 ）",
 			condi = 378,
 		},
+		ljyjcflq_vip_limit=
+		{
+			key = "ljyjcflq_vip_limit",
+			name = "累积赢金抽福利券（冲金鸡-VIP1）",
+			condi = 379,
+		},
 	},
 	act_permission=
 	{
@@ -15600,7 +15606,7 @@ return {
 			value = "3dby_cpl",
 			judge = 2,
 			group = 1,
-			error_desc = "等于捕鱼CPS",
+			error_desc = "等于捕鱼CPL",
 		},
 		[927]=
 		{
@@ -15610,7 +15616,7 @@ return {
 			value = "cjj_official",
 			judge = 2,
 			group = 1,
-			error_desc = "等于捕鱼官方",
+			error_desc = "等于冲金鸡光放",
 		},
 		[928]=
 		{
@@ -15620,7 +15626,27 @@ return {
 			value = "cjj_cpl",
 			judge = 2,
 			group = 1,
-			error_desc = "等于捕鱼CPS",
+			error_desc = "等于冲金鸡CPL",
+		},
+		[929]=
+		{
+			no = 929,
+			id = 379,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "等于冲金鸡渠道",
+		},
+		[930]=
+		{
+			no = 930,
+			id = 379,
+			var = "vip_level",
+			value = 0,
+			judge = 2,
+			group = 1,
+			error_desc = "VIP等级0",
 		},
 	},
 	share_condition=
