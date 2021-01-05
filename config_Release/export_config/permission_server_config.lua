@@ -1250,13 +1250,13 @@ return {
 		vip11_treasure_to_gift_remain_hard=
 		{
 			key = "vip11_treasure_to_gift_remain_hard",
-			name = "VIP11财富累加（非官方）",
+			name = "VIP11财富累加渠道CPL渠道（闲玩，pc蛋蛋，聚享玩，小啄）",
 			condi = 142,
 		},
 		vip12_treasure_to_gift_remain_hard=
 		{
 			key = "vip12_treasure_to_gift_remain_hard",
-			name = "VIP12财富累加（非官方）",
+			name = "VIP12财富累加CPL渠道（闲玩，pc蛋蛋，小啄，聚享玩）",
 			condi = 142,
 		},
 		fish_caijin_hongbao=
@@ -2074,7 +2074,7 @@ return {
 		{
 			key = "vip_game_award",
 			name = "vip赢金挑战（显示）",
-			condi = 367,
+			condi = 368,
 		},
 		vip_week_task_2=
 		{
@@ -2092,7 +2092,25 @@ return {
 		{
 			key = "vip10_email_limit",
 			name = "V10邮件权限",
-			condi = 368,
+			condi = 369,
+		},
+		jyfl_mfcj_limit=
+		{
+			key = "jyfl_mfcj_limit",
+			name = "免费福利（冲金鸡CPLand捕鱼非cps）",
+			condi = 370,
+		},
+		xyxfl_3dby_limit=
+		{
+			key = "xyxfl_3dby_limit",
+			name = "小游戏福利-非cps",
+			condi = 372,
+		},
+		xyxfl_cjj_limit=
+		{
+			key = "xyxfl_cjj_limit",
+			name = "小游戏福利-冲金鸡",
+			condi = 371,
 		},
 	},
 	act_permission=
@@ -6248,6 +6266,30 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
 			start_deal_time = 1588028400,
+		},
+		[347]=
+		{
+			id = 347,
+			enable = 1,
+			key = "actp_own_task_p_041_xyxfl",
+			name = "小游戏福利（非CPS渠道）",
+			condi = 367,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1604332800,
+		},
+		[348]=
+		{
+			id = 348,
+			enable = 1,
+			key = "actp_own_task_p_system_update",
+			name = "大版本升级权限（CPS渠道屏蔽，IOS渠道屏蔽）",
+			condi = 373,
+			is_dynamic_codi = 0,
+			is_dynamic_cancel = 0,
+			refresh_type = "day_delay",
+			start_deal_time = 0,
 		},
 	},
 	condi=
@@ -15327,7 +15369,7 @@ return {
 			no = 908,
 			id = 364,
 			var = "share_condition",
-			value = "cjj_official",
+			value = "cjj_all",
 			judge = 2,
 			group = 1,
 			error_desc = "不等于冲金鸡渠道",
@@ -15387,19 +15429,19 @@ return {
 			no = 914,
 			id = 367,
 			var = "share_condition",
-			value = "cjj_official",
-			judge = 2,
+			value = "3dby_cps",
+			judge = 5,
 			group = 1,
-			error_desc = "不等于冲金鸡渠道",
+			error_desc = "非CPS",
 		},
 		[915]=
 		{
 			no = 915,
-			id = 367,
+			id = 368,
 			var = "share_condition",
-			value = "3dby_official",
+			value = "cjj_official",
 			judge = 2,
-			group = 2,
+			group = 1,
 			error_desc = "不等于冲金鸡渠道",
 		},
 		[916]=
@@ -15407,10 +15449,90 @@ return {
 			no = 916,
 			id = 368,
 			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 2,
+			error_desc = "不等于冲金鸡渠道",
+		},
+		[917]=
+		{
+			no = 917,
+			id = 369,
+			var = "share_condition",
 			value = "cjj_all",
 			judge = 5,
 			group = 1,
 			error_desc = "不等于冲金鸡渠道",
+		},
+		[918]=
+		{
+			no = 918,
+			id = 370,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "等于冲金鸡渠道",
+		},
+		[919]=
+		{
+			no = 919,
+			id = 370,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 2,
+			error_desc = "不等于冲金鸡渠道",
+		},
+		[920]=
+		{
+			no = 920,
+			id = 371,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "冲金鸡渠道",
+		},
+		[921]=
+		{
+			no = 921,
+			id = 372,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "非CPS",
+		},
+		[922]=
+		{
+			no = 922,
+			id = 372,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不等于冲金鸡渠道",
+		},
+		[923]=
+		{
+			no = 923,
+			id = 373,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "非CPS",
+		},
+		[924]=
+		{
+			no = 924,
+			id = 373,
+			var = "systype",
+			value = "android",
+			judge = 2,
+			group = 1,
+			error_desc = "安卓用户",
 		},
 	},
 	share_condition=

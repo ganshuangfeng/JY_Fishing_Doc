@@ -5,91 +5,109 @@ return {
 		{
 			id = 1,
 			fish_id = 1,
+			attr_id = 42,
 		},
 		[2]=
 		{
 			id = 2,
 			fish_id = 2,
+			attr_id = 42,
 		},
 		[3]=
 		{
 			id = 3,
 			fish_id = 3,
+			attr_id = 42,
 		},
 		[4]=
 		{
 			id = 4,
 			fish_id = 4,
+			attr_id = 42,
 		},
 		[5]=
 		{
 			id = 5,
 			fish_id = 5,
+			attr_id = 42,
 		},
 		[6]=
 		{
 			id = 6,
 			fish_id = 6,
+			attr_id = 42,
 		},
 		[7]=
 		{
 			id = 7,
 			fish_id = 7,
+			attr_id = 42,
 		},
 		[8]=
 		{
 			id = 8,
 			fish_id = 8,
+			attr_id = 42,
 		},
 		[9]=
 		{
 			id = 9,
 			fish_id = 9,
+			attr_id = 42,
 		},
 		[10]=
 		{
 			id = 10,
 			fish_id = 10,
+			attr_id = 42,
 		},
 		[11]=
 		{
 			id = 11,
 			fish_id = 11,
+			attr_id = 42,
 		},
 		[12]=
 		{
 			id = 12,
 			fish_id = 12,
+			attr_id = 42,
 		},
 		[13]=
 		{
 			id = 13,
 			fish_id = 13,
+			attr_id = 42,
 		},
 		[14]=
 		{
 			id = 14,
 			fish_id = 14,
+			attr_id = 42,
 		},
 		[15]=
 		{
 			id = 15,
 			fish_id = 15,
+			attr_id = 42,
 		},
 		[16]=
 		{
 			id = 16,
 			fish_id = 16,
+			attr_id = 42,
 		},
 		[17]=
 		{
 			id = 17,
 			fish_id = 17,
+			attr_id = 42,
 		},
 		[18]=
 		{
 			id = 18,
 			fish_id = 18,
+			attr_id = 42,
 		},
 		[19]=
 		{
@@ -638,16 +656,19 @@ return {
 		{
 			id = 121,
 			fish_id = 20,
+			attr_id = 42,
 		},
 		[122]=
 		{
 			id = 122,
 			fish_id = 21,
+			attr_id = 42,
 		},
 		[123]=
 		{
 			id = 123,
 			fish_id = 28,
+			attr_id = 42,
 		},
 		[124]=
 		{
@@ -970,17 +991,17 @@ return {
 		[180]=
 		{
 			id = 180,
-			fish_id = 35,
+			fish_id = 36,
 		},
 		[181]=
 		{
 			id = 181,
-			fish_id = 35,
+			fish_id = 36,
 		},
 		[182]=
 		{
 			id = 182,
-			fish_id = 35,
+			fish_id = 36,
 		},
 	},
 }

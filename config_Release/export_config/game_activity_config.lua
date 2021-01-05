@@ -320,5 +320,23 @@ return {
 			gotoUI = {"act_040_ydfl","panel"},
 			tag = "normal",
 		},
+		[19]=
+		{
+			id = 19,
+			ID = 19,
+			title = "系统升级奖励",
+			order = -11,
+			key = "act_sjjl",
+			isOnOff = 0,
+			beginTime = -1,
+			endTime = -1,
+			noCloseUI = 1,
+			type = "activity",
+			showType = "prefab",
+			parmData = "act_sjjl",
+			is_local_icon = 1,
+			gotoUI = {"act_sjjl","panel",},
+			tag = "new",
+		},
 	},
 }

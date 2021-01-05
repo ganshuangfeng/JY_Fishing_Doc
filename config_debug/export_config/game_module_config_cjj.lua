@@ -2883,9 +2883,9 @@ return {
 			key = "act_036_gelb",
 			desc = "感恩礼包",
 			lua = "Act_036_GELBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[295]=
 		{
@@ -2940,7 +2940,7 @@ return {
 		{
 			id = 300,
 			key = "act_039_ty_by_hhl",
-			desc = "饺子换好礼→圣诞福利→元旦好礼→欢乐福利",
+			desc = "通用活动--兑换模板",
 			lua = "Act_039_TY_BY_HHLManager",
 			is_on_off = 1,
 			enable = 1,
@@ -2950,7 +2950,7 @@ return {
 		{
 			id = 301,
 			key = "act_039_jzsjb",
-			desc = "饺子收集榜 → 金元宝榜",
+			desc = "通用活动--排行榜模板",
 			lua = "Act_039_JZSJBManager",
 			is_on_off = 1,
 			enable = 1,
@@ -3002,6 +3002,26 @@ return {
 			key = "act_ty_zp1",
 			desc = "通用活动--转盘模板（畅玩礼包）",
 			lua = "Act_Ty_ZP1Manager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[307]=
+		{
+			id = 307,
+			key = "act_ty_lb1",
+			desc = "通用活动--礼包模板（感恩礼包）",
+			lua = "Act_Ty_LB1Manager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[308]=
+		{
+			id = 308,
+			key = "sys_act_czzk",
+			desc = "周卡",
+			lua = "Sys_Act_CZZKManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

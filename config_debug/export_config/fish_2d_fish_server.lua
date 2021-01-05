@@ -5059,7 +5059,7 @@ return {
 		{
 			id = 44,
 			acti_type = 9,
-			num = {"prop_hlqd_xx",0,0.1,0.2},
+			num = {0,0,0.1,0.2},
 			show = 0,
 			enter_bag = 1,
 			value = 150,
@@ -5068,7 +5068,7 @@ return {
 		{
 			id = 45,
 			acti_type = 9,
-			num = {"prop_hlqd_xx",0,0.2,0.3},
+			num = {0,0,0.2,0.3},
 			show = 0,
 			enter_bag = 1,
 			value = 250,
@@ -5077,7 +5077,7 @@ return {
 		{
 			id = 46,
 			acti_type = 9,
-			num = {"prop_hlqd_xx",0,0.3,0.4},
+			num = {0,0,0.3,0.4},
 			show = 0,
 			enter_bag = 1,
 			value = 350,
@@ -5086,7 +5086,43 @@ return {
 		{
 			id = 47,
 			acti_type = 9,
-			num = {"prop_hlqd_xx",1,0.01,},
+			num = {0,0,0.01,},
+			show = 1,
+			enter_bag = 1,
+			value = 10,
+		},
+		[48]=
+		{
+			id = 48,
+			acti_type = 9,
+			num = {0,0,0.1,0.2},
+			show = 1,
+			enter_bag = 1,
+			value = 150,
+		},
+		[49]=
+		{
+			id = 49,
+			acti_type = 9,
+			num = {0,0,0.2,0.3},
+			show = 1,
+			enter_bag = 1,
+			value = 250,
+		},
+		[50]=
+		{
+			id = 50,
+			acti_type = 9,
+			num = {0,0,0.3,0.4},
+			show = 1,
+			enter_bag = 1,
+			value = 350,
+		},
+		[51]=
+		{
+			id = 51,
+			acti_type = 9,
+			num = {0,0,0.01},
 			show = 1,
 			enter_bag = 1,
 			value = 10,

@@ -4685,7 +4685,7 @@ return {
 		{
 			id = 74,
 			acti_type = 9,
-			num = {"prop_yd_jyb",0,0.1,0.2},
+			num = {"prop_hlqd_xx",0,0.1,0.2},
 			show = 0,
 			enter_bag = 1,
 			value = 150,
@@ -4694,7 +4694,7 @@ return {
 		{
 			id = 75,
 			acti_type = 9,
-			num = {"prop_yd_jyb",0,0.2,0.3},
+			num = {"prop_hlqd_xx",0,0.2,0.3},
 			show = 0,
 			enter_bag = 1,
 			value = 250,
@@ -4703,7 +4703,7 @@ return {
 		{
 			id = 76,
 			acti_type = 9,
-			num = {"prop_yd_jyb",0,0.3,0.4},
+			num = {"prop_hlqd_xx",0,0.3,0.4},
 			show = 0,
 			enter_bag = 1,
 			value = 350,
@@ -4712,7 +4712,7 @@ return {
 		{
 			id = 77,
 			acti_type = 9,
-			num = {"prop_yd_jyb",1,0.01,},
+			num = {"prop_hlqd_xx",1,0.01,},
 			show = 1,
 			enter_bag = 1,
 			value = 10,

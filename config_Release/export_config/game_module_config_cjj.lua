@@ -736,9 +736,9 @@ return {
 			key = "sys_xtsjyd",
 			desc = "系统升级引导",
 			lua = "XTSJYDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[75]=
 		{
@@ -2503,7 +2503,7 @@ return {
 		{
 			id = 256,
 			key = "act_025_jrth",
-			desc = "节日特惠",
+			desc = "双十二→庆典礼包",
 			lua = "Act_025_JRTHManager",
 			is_on_off = 1,
 			enable = 1,
@@ -2911,7 +2911,7 @@ return {
 		{
 			id = 297,
 			key = "act_038_s12",
-			desc = "双十二页签→元旦活动",
+			desc = "双十二页签→元旦活动→欢乐庆典",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -2939,9 +2939,9 @@ return {
 		[300]=
 		{
 			id = 300,
-			key = "act_039_jzhhl",
-			desc = "饺子换好礼→圣诞福利→元旦好礼",
-			lua = "Act_039_JZHHLManager",
+			key = "act_039_ty_by_hhl",
+			desc = "饺子换好礼→圣诞福利→元旦好礼→欢乐福利",
+			lua = "Act_039_TY_BY_HHLManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -2982,6 +2982,26 @@ return {
 			key = "act_040_ydfl",
 			desc = "元旦福利",
 			lua = "Act_013_DLFLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[305]=
+		{
+			id = 305,
+			key = "sys_013_ffyd",
+			desc = "大厅小游戏版块上浮弹幕",
+			lua = "Sys_013_FFYDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[306]=
+		{
+			id = 306,
+			key = "act_ty_zp1",
+			desc = "通用活动--转盘模板（畅玩礼包）",
+			lua = "Act_Ty_ZP1Manager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

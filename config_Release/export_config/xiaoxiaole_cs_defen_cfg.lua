@@ -209,7 +209,7 @@ return {
 			award_type = "jing_bi",
 			rate = 10,
 			scale = 1,
-			name = "鲸币",
+			name = "金币",
 			image = "pay_icon_gold1",
 		},
 		[2]=
@@ -219,7 +219,7 @@ return {
 			award_type = "jing_bi",
 			rate = 20,
 			scale = 1,
-			name = "鲸币",
+			name = "金币",
 			image = "pay_icon_gold1",
 		},
 		[3]=
@@ -239,7 +239,7 @@ return {
 			award_type = "jing_bi",
 			rate = 40,
 			scale = 1,
-			name = "鲸币",
+			name = "金币",
 			image = "pay_icon_gold2",
 		},
 		[5]=
@@ -249,7 +249,7 @@ return {
 			award_type = "jing_bi",
 			rate = 60,
 			scale = 1,
-			name = "鲸币",
+			name = "金币",
 			image = "pay_icon_gold2",
 		},
 		[6]=
@@ -269,7 +269,7 @@ return {
 			award_type = "jing_bi",
 			rate = 150,
 			scale = 1,
-			name = "鲸币",
+			name = "金币",
 			image = "pay_icon_gold3",
 		},
 		[8]=
@@ -289,7 +289,7 @@ return {
 			award_type = "jing_bi",
 			rate = 10,
 			scale = 1,
-			name = "鲸币",
+			name = "金币",
 			image = "pay_icon_gold1",
 		},
 		[10]=
@@ -299,7 +299,7 @@ return {
 			award_type = "jing_bi",
 			rate = 20,
 			scale = 1,
-			name = "鲸币",
+			name = "金币",
 			image = "pay_icon_gold1",
 		},
 		[11]=
@@ -319,7 +319,7 @@ return {
 			award_type = "jing_bi",
 			rate = 40,
 			scale = 1,
-			name = "鲸币",
+			name = "金币",
 			image = "pay_icon_gold2",
 		},
 		[13]=
@@ -329,7 +329,7 @@ return {
 			award_type = "jing_bi",
 			rate = 60,
 			scale = 1,
-			name = "鲸币",
+			name = "金币",
 			image = "pay_icon_gold2",
 		},
 		[14]=
@@ -349,7 +349,7 @@ return {
 			award_type = "jing_bi",
 			rate = 150,
 			scale = 1,
-			name = "鲸币",
+			name = "金币",
 			image = "pay_icon_gold3",
 		},
 		[16]=

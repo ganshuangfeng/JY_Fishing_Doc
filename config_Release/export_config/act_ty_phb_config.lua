@@ -5,9 +5,9 @@ return {
 		{
 			line = 1,
 			image = "act_ty_by_drop_7",
-			rank_type = "hqjnh_046_lhsjb_rank",
-			s_time = 1610409600,
-			e_time = 1610985599,
+			rank_type = "hlqd_xxphb_rank",
+			s_time = 1609804800,
+			e_time = 1610380799,
 			award = "award_config",
 		},
 	},
