@@ -15534,6 +15534,26 @@ return {
 			group = 1,
 			error_desc = "安卓用户",
 		},
+		[925]=
+		{
+			no = 925,
+			id = 373,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 2,
+			error_desc = "3D捕鱼官方",
+		},
+		[926]=
+		{
+			no = 926,
+			id = 373,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 2,
+			error_desc = "IOS用户",
+		},
 	},
 	share_condition=
 	{
