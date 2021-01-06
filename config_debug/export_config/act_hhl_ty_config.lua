@@ -177,49 +177,49 @@ return {
 		[1000190]=
 		{
 			task_id  = 1000190,
-			shop_id = 2,
+			shop_id = {2,85},
 			icon_txt = 45,
 		},
 		[1000191]=
 		{
 			task_id  = 1000191,
-			shop_id = 3,
+			shop_id = {3,86},
 			icon_txt = 90,
 		},
 		[1000192]=
 		{
 			task_id  = 1000192,
-			shop_id = 4,
+			shop_id = {4,87},
 			icon_txt = 150,
 		},
 		[1000193]=
 		{
 			task_id  = 1000193,
-			shop_id = 5,
+			shop_id = {5,88},
 			icon_txt = 290,
 		},
 		[1000194]=
 		{
 			task_id  = 1000194,
-			shop_id = 111,
+			shop_id = {111,10189},
 			icon_txt = 590,
 		},
 		[1000195]=
 		{
 			task_id  = 1000195,
-			shop_id = 6,
+			shop_id = {6,89},
 			icon_txt = 1490,
 		},
 		[1000196]=
 		{
 			task_id  = 1000196,
-			shop_id = 108,
+			shop_id = {108,10044},
 			icon_txt = 2990,
 		},
 		[1000197]=
 		{
 			task_id  = 1000197,
-			shop_id = 110,
+			shop_id = {110,10045},
 			icon_txt = 7490,
 		},
 	},
@@ -228,49 +228,49 @@ return {
 		[1000190]=
 		{
 			task_id  = 1000190,
-			shop_id = 2,
+			shop_id = {2,85},
 			icon_txt = 45,
 		},
 		[1000191]=
 		{
 			task_id  = 1000191,
-			shop_id = 3,
+			shop_id = {3,86},
 			icon_txt = 90,
 		},
 		[1000192]=
 		{
 			task_id  = 1000192,
-			shop_id = 4,
+			shop_id = {4,87},
 			icon_txt = 150,
 		},
 		[1000193]=
 		{
 			task_id  = 1000193,
-			shop_id = 5,
+			shop_id = {5,88},
 			icon_txt = 290,
 		},
 		[1000194]=
 		{
 			task_id  = 1000194,
-			shop_id = 111,
+			shop_id = {111,10189},
 			icon_txt = 590,
 		},
 		[1000195]=
 		{
 			task_id  = 1000195,
-			shop_id = 6,
+			shop_id = {6,89},
 			icon_txt = 1490,
 		},
 		[1000196]=
 		{
 			task_id  = 1000196,
-			shop_id = 108,
+			shop_id = {108,10044},
 			icon_txt = 2990,
 		},
 		[1000197]=
 		{
 			task_id  = 1000197,
-			shop_id = 110,
+			shop_id = {110,10045},
 			icon_txt = 7490,
 		},
 	},
