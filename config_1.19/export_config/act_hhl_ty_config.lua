@@ -174,102 +174,102 @@ return {
 	},
 	config_cjj=
 	{
-		[1000190]=
+		[1000217]=
 		{
-			task_id  = 1000190,
+			task_id  = 1000217,
 			shop_id = 2,
 			icon_txt = 45,
 		},
-		[1000191]=
+		[1000218]=
 		{
-			task_id  = 1000191,
+			task_id  = 1000218,
 			shop_id = 3,
 			icon_txt = 90,
 		},
-		[1000192]=
+		[1000219]=
 		{
-			task_id  = 1000192,
+			task_id  = 1000219,
 			shop_id = 4,
 			icon_txt = 150,
 		},
-		[1000193]=
+		[1000220]=
 		{
-			task_id  = 1000193,
+			task_id  = 1000220,
 			shop_id = 5,
 			icon_txt = 290,
 		},
-		[1000194]=
+		[1000221]=
 		{
-			task_id  = 1000194,
+			task_id  = 1000221,
 			shop_id = 111,
 			icon_txt = 590,
 		},
-		[1000195]=
+		[1000222]=
 		{
-			task_id  = 1000195,
+			task_id  = 1000222,
 			shop_id = 6,
 			icon_txt = 1490,
 		},
-		[1000196]=
+		[1000223]=
 		{
-			task_id  = 1000196,
+			task_id  = 1000223,
 			shop_id = 108,
 			icon_txt = 2990,
 		},
-		[1000197]=
+		[1000224]=
 		{
-			task_id  = 1000197,
+			task_id  = 1000224,
 			shop_id = 110,
 			icon_txt = 7490,
 		},
 	},
 	config=
 	{
-		[1000190]=
+		[1000217]=
 		{
-			task_id  = 1000190,
+			task_id  = 1000217,
 			shop_id = 2,
 			icon_txt = 45,
 		},
-		[1000191]=
+		[1000218]=
 		{
-			task_id  = 1000191,
+			task_id  = 1000218,
 			shop_id = 3,
 			icon_txt = 90,
 		},
-		[1000192]=
+		[1000219]=
 		{
-			task_id  = 1000192,
+			task_id  = 1000219,
 			shop_id = 4,
 			icon_txt = 150,
 		},
-		[1000193]=
+		[1000220]=
 		{
-			task_id  = 1000193,
+			task_id  = 1000220,
 			shop_id = 5,
 			icon_txt = 290,
 		},
-		[1000194]=
+		[1000221]=
 		{
-			task_id  = 1000194,
+			task_id  = 1000221,
 			shop_id = 111,
 			icon_txt = 590,
 		},
-		[1000195]=
+		[1000222]=
 		{
-			task_id  = 1000195,
+			task_id  = 1000222,
 			shop_id = 6,
 			icon_txt = 1490,
 		},
-		[1000196]=
+		[1000223]=
 		{
-			task_id  = 1000196,
+			task_id  = 1000223,
 			shop_id = 108,
 			icon_txt = 2990,
 		},
-		[1000197]=
+		[1000224]=
 		{
-			task_id  = 1000197,
+			task_id  = 1000224,
 			shop_id = 110,
 			icon_txt = 7490,
 		},
