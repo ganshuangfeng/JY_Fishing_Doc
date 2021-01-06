@@ -343,7 +343,7 @@ return {
 			id = 20,
 			ID = 20,
 			title = "周卡",
-			order = -11,
+			order = -8,
 			key = "sys_act_czzk",
 			isOnOff = 1,
 			condi_key = "cpl_cjj",
