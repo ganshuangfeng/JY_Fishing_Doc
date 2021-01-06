@@ -471,7 +471,7 @@ return {
 			task_award_count = {"x2000","x30"},
 			gotoui = {"game_MiniGame",},
 			vip = 2,
-			vip_desc = {"V2三倍", ""},
+			vip_desc = {"V2双倍", ""},
 		},
 		[5]=
 		{
