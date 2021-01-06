@@ -6,7 +6,7 @@ return {
 			line = 1,
 			image = "act_ty_by_drop_7",
 			rank_type = "khqd_001_lzphb_rank",
-			s_time = 1610409600,
+			s_time = 1611014400,
 			e_time = 1611590399,
 			award = "award_config",
 		},

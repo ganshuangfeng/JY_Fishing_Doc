@@ -6353,6 +6353,42 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 0,
 		},
+		[353]=
+		{
+			id = 353,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_fclb_free_001",
+			name = "发财礼包--免费、小额、新人",
+			condi = 382,
+			is_dynamic_codi = 0,
+			is_dynamic_cancel = 0,
+			refresh_type = "day_delay",
+			start_deal_time = 1611014400,
+		},
+		[354]=
+		{
+			id = 354,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_fclb_v1v7_001",
+			name = "发财礼包--V1V7",
+			condi = 383,
+			is_dynamic_codi = 0,
+			is_dynamic_cancel = 0,
+			refresh_type = "day_delay",
+			start_deal_time = 1611014400,
+		},
+		[355]=
+		{
+			id = 355,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_fclb_v8v12_001",
+			name = "发财礼包--V8V12",
+			condi = 384,
+			is_dynamic_codi = 0,
+			is_dynamic_cancel = 0,
+			refresh_type = "day_delay",
+			start_deal_time = 1611014400,
+		},
 	},
 	condi=
 	{
@@ -15705,6 +15741,96 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "VIP等级0",
+		},
+		[936]=
+		{
+			no = 936,
+			id = 382,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[937]=
+		{
+			no = 937,
+			id = 382,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "是免费用户",
+		},
+		[938]=
+		{
+			no = 938,
+			id = 382,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "是小额用户",
+		},
+		[939]=
+		{
+			no = 939,
+			id = 383,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "大于V1",
+		},
+		[940]=
+		{
+			no = 940,
+			id = 383,
+			var = "vip_level",
+			value = 7,
+			judge = 4,
+			group = 1,
+			error_desc = "小于V7",
+		},
+		[941]=
+		{
+			no = 941,
+			id = 383,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新玩家",
+		},
+		[942]=
+		{
+			no = 942,
+			id = 384,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "大于V1",
+		},
+		[943]=
+		{
+			no = 943,
+			id = 384,
+			var = "vip_level",
+			value = 7,
+			judge = 4,
+			group = 1,
+			error_desc = "小于V7",
+		},
+		[944]=
+		{
+			no = 944,
+			id = 384,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新玩家",
 		},
 	},
 	share_condition=
