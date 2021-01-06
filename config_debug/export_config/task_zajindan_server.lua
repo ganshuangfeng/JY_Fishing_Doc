@@ -24733,7 +24733,7 @@ return {
 			id = 531,
 			condition_id = 375,
 			condition_name = "gift_id",
-			condition_value = 2,
+			condition_value = {2,85},
 			judge_type = 2,
 		},
 		[532]=
@@ -24741,7 +24741,7 @@ return {
 			id = 532,
 			condition_id = 376,
 			condition_name = "gift_id",
-			condition_value = 3,
+			condition_value = {3,86},
 			judge_type = 2,
 		},
 		[533]=
@@ -24749,7 +24749,7 @@ return {
 			id = 533,
 			condition_id = 377,
 			condition_name = "gift_id",
-			condition_value = 4,
+			condition_value = {4,87},
 			judge_type = 2,
 		},
 		[534]=
@@ -24757,7 +24757,7 @@ return {
 			id = 534,
 			condition_id = 378,
 			condition_name = "gift_id",
-			condition_value = 5,
+			condition_value = {5,88},
 			judge_type = 2,
 		},
 		[535]=
@@ -24765,7 +24765,7 @@ return {
 			id = 535,
 			condition_id = 379,
 			condition_name = "gift_id",
-			condition_value = 111,
+			condition_value = {111,10189},
 			judge_type = 2,
 		},
 		[536]=
@@ -24773,7 +24773,7 @@ return {
 			id = 536,
 			condition_id = 380,
 			condition_name = "gift_id",
-			condition_value = 6,
+			condition_value = {6,89},
 			judge_type = 2,
 		},
 		[537]=
@@ -24781,7 +24781,7 @@ return {
 			id = 537,
 			condition_id = 381,
 			condition_name = "gift_id",
-			condition_value = 108,
+			condition_value = {108,10044},
 			judge_type = 2,
 		},
 		[538]=
@@ -24789,7 +24789,7 @@ return {
 			id = 538,
 			condition_id = 382,
 			condition_name = "gift_id",
-			condition_value = 110,
+			condition_value = {110,10045},
 			judge_type = 2,
 		},
 		[539]=
@@ -25030,70 +25030,6 @@ return {
 			condition_id = 409,
 			condition_name = "kaijiang_type",
 			condition_value = 2,
-			judge_type = 2,
-		},
-		[569]=
-		{
-			id = 569,
-			condition_id = 410,
-			condition_name = "gift_id",
-			condition_value = 2,
-			judge_type = 2,
-		},
-		[570]=
-		{
-			id = 570,
-			condition_id = 411,
-			condition_name = "gift_id",
-			condition_value = 3,
-			judge_type = 2,
-		},
-		[571]=
-		{
-			id = 571,
-			condition_id = 412,
-			condition_name = "gift_id",
-			condition_value = 4,
-			judge_type = 2,
-		},
-		[572]=
-		{
-			id = 572,
-			condition_id = 413,
-			condition_name = "gift_id",
-			condition_value = 5,
-			judge_type = 2,
-		},
-		[573]=
-		{
-			id = 573,
-			condition_id = 414,
-			condition_name = "gift_id",
-			condition_value = 111,
-			judge_type = 2,
-		},
-		[574]=
-		{
-			id = 574,
-			condition_id = 415,
-			condition_name = "gift_id",
-			condition_value = 6,
-			judge_type = 2,
-		},
-		[575]=
-		{
-			id = 575,
-			condition_id = 416,
-			condition_name = "gift_id",
-			condition_value = 108,
-			judge_type = 2,
-		},
-		[576]=
-		{
-			id = 576,
-			condition_id = 417,
-			condition_name = "gift_id",
-			condition_value = 110,
 			judge_type = 2,
 		},
 	},
