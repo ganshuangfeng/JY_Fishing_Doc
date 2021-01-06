@@ -1,4 +1,21 @@
 return {
+	permissions=
+	{
+		[1]=
+		{
+			line = 1,
+			condi_key = "cpl_notcjj",
+			task_info = "task_info",
+			help_info = "help_info",
+		},
+		[2]=
+		{
+			line = 2,
+			condi_key = "cpl_cjj",
+			task_info = "task_info_cjj",
+			help_info = "help_info_cjj",
+		},
+	},
 	task_info=
 	{
 		[1]=
