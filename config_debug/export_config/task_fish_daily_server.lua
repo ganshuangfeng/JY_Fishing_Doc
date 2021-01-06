@@ -788,7 +788,7 @@ return {
 		[12600]=
 		{
 			id = 12600,
-			enable = 1,
+			enable = 0,
 			name = "累计赢金",
 			own_type = "p_task_fish_daily_cpl_cjj",
 			task_enum = "common",
@@ -802,7 +802,7 @@ return {
 		[12601]=
 		{
 			id = 12601,
-			enable = 1,
+			enable = 0,
 			name = "累计赢金",
 			own_type = "p_task_fish_daily_cpl_cjj",
 			task_enum = "common",
@@ -816,7 +816,7 @@ return {
 		[12602]=
 		{
 			id = 12602,
-			enable = 1,
+			enable = 0,
 			name = "累计赢金",
 			own_type = "p_task_fish_daily_cpl_cjj",
 			task_enum = "common",
@@ -830,7 +830,7 @@ return {
 		[12603]=
 		{
 			id = 12603,
-			enable = 1,
+			enable = 0,
 			name = "累计赢金",
 			own_type = "p_task_fish_daily_cpl_cjj",
 			task_enum = "common",
@@ -844,7 +844,7 @@ return {
 		[12604]=
 		{
 			id = 12604,
-			enable = 1,
+			enable = 0,
 			name = "累计赢金",
 			own_type = "p_task_fish_daily_cpl_cjj",
 			task_enum = "common",
@@ -858,7 +858,7 @@ return {
 		[12605]=
 		{
 			id = 12605,
-			enable = 1,
+			enable = 0,
 			name = "累计赢金",
 			own_type = "p_task_fish_daily_cpl_cjj",
 			task_enum = "common",
@@ -872,7 +872,7 @@ return {
 		[12606]=
 		{
 			id = 12606,
-			enable = 1,
+			enable = 0,
 			name = "累计赢金",
 			own_type = "p_task_fish_daily_cpl_cjj",
 			task_enum = "common",
@@ -886,7 +886,7 @@ return {
 		[12607]=
 		{
 			id = 12607,
-			enable = 1,
+			enable = 0,
 			name = "累计赢金",
 			own_type = "p_task_fish_daily_cpl_cjj",
 			task_enum = "common",
@@ -900,7 +900,7 @@ return {
 		[12608]=
 		{
 			id = 12608,
-			enable = 1,
+			enable = 0,
 			name = "累计赢金",
 			own_type = "p_task_fish_daily_cpl_cjj",
 			task_enum = "common",
@@ -914,7 +914,7 @@ return {
 		[12609]=
 		{
 			id = 12609,
-			enable = 1,
+			enable = 0,
 			name = "累计赢金",
 			own_type = "p_task_fish_daily_cpl_cjj",
 			task_enum = "common",
@@ -928,7 +928,7 @@ return {
 		[12610]=
 		{
 			id = 12610,
-			enable = 1,
+			enable = 0,
 			name = "累计赢金",
 			own_type = "p_task_fish_daily_cpl_cjj",
 			task_enum = "common",
@@ -942,7 +942,7 @@ return {
 		[12611]=
 		{
 			id = 12611,
-			enable = 1,
+			enable = 0,
 			name = "累计赢金",
 			own_type = "p_task_fish_daily_cpl_cjj",
 			task_enum = "common",
@@ -956,7 +956,7 @@ return {
 		[12612]=
 		{
 			id = 12612,
-			enable = 1,
+			enable = 0,
 			name = "累计赢金",
 			own_type = "p_task_fish_daily_cpl_cjj",
 			task_enum = "common",
@@ -970,7 +970,7 @@ return {
 		[12613]=
 		{
 			id = 12613,
-			enable = 1,
+			enable = 0,
 			name = "累计赢金",
 			own_type = "p_task_fish_daily_cpl_cjj",
 			task_enum = "common",
