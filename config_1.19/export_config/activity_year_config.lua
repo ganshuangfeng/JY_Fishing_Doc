@@ -528,10 +528,10 @@ return {
 			beginTime = 1610409600,
 			endTime = 1610985599,
 		},
-		[30]=
+		[29]=
 		{
-			id = 30,
-			ID = 30,
+			id = 29,
+			ID = 29,
 			title = "兑换奖励",
 			noCloseUI = 0,
 			order = 1,
@@ -546,10 +546,10 @@ return {
 			beginTime = 1611014400,
 			endTime = 1611590399,
 		},
-		[31]=
+		[30]=
 		{
-			id = 31,
-			ID = 31,
+			id = 30,
+			ID = 30,
 			title = "星星排行榜",
 			noCloseUI = 0,
 			order = 2,
@@ -564,10 +564,10 @@ return {
 			beginTime = 1611014400,
 			endTime = 1611590399,
 		},
-		[32]=
+		[31]=
 		{
-			id = 32,
-			ID = 32,
+			id = 31,
+			ID = 31,
 			title = "狂欢福利",
 			noCloseUI = 0,
 			order = 3,
