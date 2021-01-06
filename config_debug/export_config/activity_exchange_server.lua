@@ -1743,7 +1743,7 @@ return {
 			award_id = 8,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"prop_hammer_3",},
-			asset_count = {1,},
+			asset_count = {10,},
 			use_num = {1200,},
 			me_limit_day_num = 1,
 		},
