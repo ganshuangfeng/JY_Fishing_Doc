@@ -3026,5 +3026,25 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[309]=
+		{
+			id = 309,
+			key = "act_ty_collect_words",
+			desc = "通用活动--发财礼包模板",
+			lua = "Act_Ty_Collect_WordsManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[310]=
+		{
+			id = 310,
+			key = "sys_jbp",
+			desc = "聚宝盆",
+			lua = "SYS_JBPManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
