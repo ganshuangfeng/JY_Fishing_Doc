@@ -2120,6 +2120,18 @@ return {
 			name = "累积赢金抽福利券（冲金鸡-VIP1）",
 			condi = 379,
 		},
+		jjj_week_limit=
+		{
+			key = "jjj_week_limit",
+			name = "救济金周卡跳转",
+			condi = 381,
+		},
+		jjj_month_limit=
+		{
+			key = "jjj_month_limit",
+			name = "救济金月卡跳转",
+			condi = 382,
+		},
 	},
 	act_permission=
 	{
@@ -15689,6 +15701,26 @@ return {
 			judge = 2,
 			group = 2,
 			error_desc = "IOS用户",
+		},
+		[935]=
+		{
+			no = 935,
+			id = 381,
+			var = "vip_level",
+			value = 0,
+			judge = 2,
+			group = 1,
+			error_desc = "VIP等级0",
+		},
+		[936]=
+		{
+			no = 936,
+			id = 382,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP等级1",
 		},
 	},
 	share_condition=
