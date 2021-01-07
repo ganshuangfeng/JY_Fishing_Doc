@@ -991,17 +991,17 @@ return {
 		[180]=
 		{
 			id = 180,
-			fish_id = 36,
+			fish_id = 35,
 		},
 		[181]=
 		{
 			id = 181,
-			fish_id = 36,
+			fish_id = 35,
 		},
 		[182]=
 		{
 			id = 182,
-			fish_id = 36,
+			fish_id = 35,
 		},
 	},
 }
