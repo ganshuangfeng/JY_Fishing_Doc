@@ -6267,6 +6267,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1604332800,
 		},
+		[348]=
+		{
+			id = 348,
+			enable = 1,
+			key = "actp_own_task_p_041_xyxfl_cjj",
+			name = "小游戏福利（冲金鸡）",
+			condi = 371,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1604332800,
+		},
 	},
 	condi=
 	{
@@ -15413,10 +15425,10 @@ return {
 		[915]=
 		{
 			no = 915,
-			id = 368,
+			id = 367,
 			var = "share_condition",
-			value = "cjj_official",
-			judge = 2,
+			value = "cjj_all",
+			judge = 5,
 			group = 1,
 			error_desc = "不等于冲金鸡渠道",
 		},
@@ -15425,14 +15437,24 @@ return {
 			no = 916,
 			id = 368,
 			var = "share_condition",
-			value = "3dby_official",
+			value = "cjj_official",
 			judge = 2,
-			group = 2,
+			group = 1,
 			error_desc = "不等于冲金鸡渠道",
 		},
 		[917]=
 		{
 			no = 917,
+			id = 368,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 2,
+			error_desc = "不等于冲金鸡渠道",
+		},
+		[918]=
+		{
+			no = 918,
 			id = 369,
 			var = "share_condition",
 			value = "cjj_all",
@@ -15440,9 +15462,9 @@ return {
 			group = 1,
 			error_desc = "不等于冲金鸡渠道",
 		},
-		[918]=
+		[919]=
 		{
-			no = 918,
+			no = 919,
 			id = 370,
 			var = "share_condition",
 			value = "cjj_all",
@@ -15450,15 +15472,25 @@ return {
 			group = 1,
 			error_desc = "等于冲金鸡渠道",
 		},
-		[919]=
+		[920]=
 		{
-			no = 919,
+			no = 920,
 			id = 370,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
 			group = 2,
 			error_desc = "不等于冲金鸡渠道",
+		},
+		[922]=
+		{
+			no = 922,
+			id = 371,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "冲金鸡渠道",
 		},
 	},
 	share_condition=

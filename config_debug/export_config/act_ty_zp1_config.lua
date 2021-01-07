@@ -37,54 +37,54 @@ return {
 		[1]=
 		{
 			line = 1,
+			icon = "cwlb_icon_sw_1",
+			name = "华为P40",
+			award_id = 11900,
+		},
+		[2]=
+		{
+			line = 2,
 			icon = "ty_icon_jb_30y",
 			name = "12000金币",
 			asset_type = "jing_bi",
 			value = 12000,
 			award_id = 11895,
 		},
-		[2]=
+		[3]=
 		{
-			line = 2,
+			line = 3,
 			icon = "ty_icon_flq2",
 			name = "15福利券",
 			asset_type = "shop_gold_sum",
 			value = 15,
 			award_id = 11896,
 		},
-		[3]=
+		[4]=
 		{
-			line = 3,
+			line = 4,
 			icon = "ty_icon_jb_198y",
 			name = "20000金币",
 			asset_type = "jing_bi",
 			value = 20000,
 			award_id = 11897,
 		},
-		[4]=
+		[5]=
 		{
-			line = 4,
+			line = 5,
 			icon = "ty_icon_flq3",
 			name = "30福利券",
 			asset_type = "shop_gold_sum",
 			value = 30,
 			award_id = 11898,
 		},
-		[5]=
+		[6]=
 		{
-			line = 5,
+			line = 6,
 			icon = "ty_icon_jb_2498y",
 			name = "50000金币",
 			asset_type = "jing_bi",
 			value = 50000,
 			award_id = 11899,
-		},
-		[6]=
-		{
-			line = 6,
-			icon = "cwlb_icon_sw_1",
-			name = "华为P40",
-			award_id = 11900,
 		},
 	},
 	gift1=
@@ -167,54 +167,54 @@ return {
 		[1]=
 		{
 			line = 1,
+			icon = "cwlb_icon_sw_1",
+			name = "华为P40",
+			award_id = 11900,
+		},
+		[2]=
+		{
+			line = 2,
 			icon = "ty_icon_jb_30y",
 			name = "12000金币",
 			asset_type = "jing_bi",
 			value = 12000,
 			award_id = 11895,
 		},
-		[2]=
+		[3]=
 		{
-			line = 2,
+			line = 3,
 			icon = "ty_icon_flq2",
 			name = "15福利券",
 			asset_type = "shop_gold_sum",
 			value = 15,
 			award_id = 11896,
 		},
-		[3]=
+		[4]=
 		{
-			line = 3,
+			line = 4,
 			icon = "ty_icon_jb_198y",
 			name = "20000金币",
 			asset_type = "jing_bi",
 			value = 20000,
 			award_id = 11897,
 		},
-		[4]=
+		[5]=
 		{
-			line = 4,
+			line = 5,
 			icon = "ty_icon_flq3",
 			name = "30福利券",
 			asset_type = "shop_gold_sum",
 			value = 30,
 			award_id = 11898,
 		},
-		[5]=
+		[6]=
 		{
-			line = 5,
+			line = 6,
 			icon = "ty_icon_jb_2498y",
 			name = "50000金币",
 			asset_type = "jing_bi",
 			value = 50000,
 			award_id = 11899,
-		},
-		[6]=
-		{
-			line = 6,
-			icon = "cwlb_icon_sw_1",
-			name = "华为P40",
-			award_id = 11900,
 		},
 	},
 	gift2=
