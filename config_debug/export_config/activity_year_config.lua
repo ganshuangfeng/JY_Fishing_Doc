@@ -453,7 +453,7 @@ return {
 			tag = "hot",
 			beginTime = 1609804800,
 			endTime = 1610380799,
-			condi_key = "actp_own_task_p_041_xyxfl",
+			condi_key = "xyxfl_3dby_limit",
 		},
 		[25]=
 		{
@@ -473,7 +473,7 @@ return {
 			tag = "hot",
 			beginTime = 1609804800,
 			endTime = 1610380799,
-			condi_key = "actp_own_task_p_041_xyxfl_cjj",
+			condi_key = "xyxfl_cjj_limit",
 		},
 	},
 }
