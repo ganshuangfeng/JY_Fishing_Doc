@@ -480,7 +480,7 @@ return {
 			order = 6,
 			task_name = "水果消消乐",
 			task_icon = "rw_icon_mrzz",
-			task_instruction = "水果消消乐出现一次幸运时刻（单局至少投入6万）",
+			task_instruction = "水果消消乐出现一次幸运时刻（单局至少投入3万）",
 			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
 			task_award_count = {"x3000","x30"},

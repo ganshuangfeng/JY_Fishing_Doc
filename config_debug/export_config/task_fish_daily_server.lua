@@ -2714,7 +2714,7 @@ return {
 			id = 30,
 			condition_id = 1030,
 			condition_name = "bet_spend",
-			condition_value = 60000,
+			condition_value = 30000,
 			judge_type = 3,
 		},
 		[31]=
