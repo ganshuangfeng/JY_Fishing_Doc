@@ -150,7 +150,7 @@ return {
 		[6]=
 		{
 			ID = 6,
-			award_name = "小金锤",
+			award_name = "小金锤*5",
 			award_image = "dhhl_icon_jc",
 			item_cost_text = 6000,
 			type = 0,
@@ -166,7 +166,7 @@ return {
 		[8]=
 		{
 			ID = 8,
-			award_name = "小银锤",
+			award_name = "小银锤*10",
 			award_image = "dhhl_icon_yc",
 			item_cost_text = 1200,
 			type = 0,
