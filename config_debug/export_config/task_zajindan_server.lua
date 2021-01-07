@@ -25024,14 +25024,6 @@ return {
 			condition_value = 1,
 			judge_type = 3,
 		},
-		[568]=
-		{
-			id = 568,
-			condition_id = 409,
-			condition_name = "kaijiang_type",
-			condition_value = 2,
-			judge_type = 2,
-		},
 	},
 	award_data=
 	{
