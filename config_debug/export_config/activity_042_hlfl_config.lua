@@ -40,7 +40,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {10000,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[2]=
 		{
@@ -51,7 +51,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {10000,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[3]=
 		{
@@ -62,7 +62,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {10000,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[4]=
 		{
@@ -73,7 +73,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {10000,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[5]=
 		{
@@ -84,7 +84,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {20000,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[6]=
 		{
@@ -112,7 +112,7 @@ return {
 		{
 			id = 8,
 			task = 1000183,
-			total = 3,
+			total = 1,
 			task_name = "苹果大战中种出1次金苹果",
 			level = 1,
 			item = {"jing_bi",},

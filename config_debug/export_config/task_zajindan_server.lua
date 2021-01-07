@@ -24933,7 +24933,7 @@ return {
 			id = 556,
 			condition_id = 400,
 			condition_name = "fish_prop",
-			condition_value = "obj_fish_3d_power_bullet",
+			condition_value = "prop_3d_fish_wild",
 			judge_type = 2,
 		},
 		[557]=
