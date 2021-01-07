@@ -2126,6 +2126,18 @@ return {
 			name = "聚宝盆限制（v0）",
 			condi = 381,
 		},
+		jjj_week_limit=
+		{
+			key = "jjj_week_limit",
+			name = "救济金周卡跳转",
+			condi = 385,
+		},
+		jjj_month_limit=
+		{
+			key = "jjj_month_limit",
+			name = "救济金月卡跳转",
+			condi = 386,
+		},
 	},
 	act_permission=
 	{
@@ -15831,6 +15843,26 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是新玩家",
+		},
+		[945]=
+		{
+			no = 945,
+			id = 385,
+			var = "vip_level",
+			value = 0,
+			judge = 2,
+			group = 1,
+			error_desc = "VIP等级0",
+		},
+		[946]=
+		{
+			no = 946,
+			id = 386,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP等级1",
 		},
 	},
 	share_condition=
