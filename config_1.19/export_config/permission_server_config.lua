@@ -4928,7 +4928,7 @@ return {
 		[233]=
 		{
 			id = 233,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_21332",
 			name = "捕虾福利",
 			condi = 187,
@@ -4940,7 +4940,7 @@ return {
 		[234]=
 		{
 			id = 234,
-			enable = 1,
+			enable = 0,
 			key = "actp_rank_xiaolongxia_20_7_rank",
 			name = "小龙虾榜",
 			condi = 188,
@@ -4952,7 +4952,7 @@ return {
 		[235]=
 		{
 			id = 235,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_lottery_1",
 			name = "抽奖礼包（V1-V2）",
 			condi = 189,
@@ -4964,7 +4964,7 @@ return {
 		[236]=
 		{
 			id = 236,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_lottery_2",
 			name = "抽奖礼包（V3-V6）",
 			condi = 190,
@@ -4976,7 +4976,7 @@ return {
 		[237]=
 		{
 			id = 237,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_lottery_3",
 			name = "抽奖礼包（V7-V12）",
 			condi = 191,
@@ -4988,7 +4988,7 @@ return {
 		[238]=
 		{
 			id = 238,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_longxiaduihuan",
 			name = "龙虾兑换（非新玩家，V1-V12）",
 			condi = 192,
@@ -5048,7 +5048,7 @@ return {
 		[243]=
 		{
 			id = 243,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_duanwu_welfare",
 			name = "端午福利（非新玩家）",
 			condi = 198,
@@ -5060,7 +5060,7 @@ return {
 		[244]=
 		{
 			id = 244,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_zongzi_convert_normal",
 			name = "香粽兑好礼（非新玩家，官方渠道）",
 			condi = 199,
@@ -5072,7 +5072,7 @@ return {
 		[245]=
 		{
 			id = 245,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_zongzi_convert_cpl",
 			name = "香粽兑好礼（非新玩家，CPL渠道）",
 			condi = 200,
@@ -5084,7 +5084,7 @@ return {
 		[246]=
 		{
 			id = 246,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_zongzi_convert",
 			name = "香粽换好礼活动礼包购买（非新玩家）",
 			condi = 201,
@@ -5096,7 +5096,7 @@ return {
 		[247]=
 		{
 			id = 247,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_21362",
 			name = "好友召回（所有渠道，非新玩家）",
 			condi = 202,
@@ -5108,7 +5108,7 @@ return {
 		[248]=
 		{
 			id = 248,
-			enable = 1,
+			enable = 0,
 			key = "actp_rank_duanwuzongzi_20_6_rank",
 			name = "粽子榜",
 			condi = 203,
@@ -5240,7 +5240,7 @@ return {
 		[259]=
 		{
 			id = 259,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_summer_lgfl1",
 			name = "盛夏送好礼-盛夏礼包（免费，小额，V1-V3）",
 			condi = 246,
@@ -5252,7 +5252,7 @@ return {
 		[260]=
 		{
 			id = 260,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_summer_lgfl2",
 			name = "盛夏送好礼-盛夏礼包（V4-V10）",
 			condi = 247,
@@ -5264,7 +5264,7 @@ return {
 		[261]=
 		{
 			id = 261,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_0811_wyzjf",
 			name = "盛夏送好礼-我要赚积分（非新玩家）",
 			condi = 245,
@@ -5276,7 +5276,7 @@ return {
 		[262]=
 		{
 			id = 262,
-			enable = 1,
+			enable = 0,
 			key = "actp_common_lottery_summer_gift_day",
 			name = "盛夏送好礼-积分抽大奖（非新玩家）",
 			condi = 245,
@@ -5288,7 +5288,7 @@ return {
 		[263]=
 		{
 			id = 263,
-			enable = 1,
+			enable = 0,
 			key = "actp_rank_xiaolongxiaquan_025_rank",
 			name = "龙虾啤酒节-龙虾券排行榜（非新玩家）",
 			condi = 250,
@@ -5300,7 +5300,7 @@ return {
 		[264]=
 		{
 			id = 264,
-			enable = 1,
+			enable = 0,
 			key = "actp_rank_xiaolongxia_boss_025_rank",
 			name = "龙虾啤酒节-龙虾BOSS击杀排行榜（非新玩家）",
 			condi = 251,
@@ -5312,7 +5312,7 @@ return {
 		[265]=
 		{
 			id = 265,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_0818_bxfl",
 			name = "龙虾啤酒节-捕虾福利（非新玩家）",
 			condi = 252,
@@ -5324,7 +5324,7 @@ return {
 		[266]=
 		{
 			id = 266,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_jrth_025_nor",
 			name = "龙虾啤酒节-节日特惠（免费小额用户，V1-V3用户）",
 			condi = 253,
@@ -5336,7 +5336,7 @@ return {
 		[267]=
 		{
 			id = 267,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_jrth_025_v4",
 			name = "龙虾啤酒节-节日特惠（V4-V7）",
 			condi = 254,
@@ -5348,7 +5348,7 @@ return {
 		[268]=
 		{
 			id = 268,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_jrth_025_v8",
 			name = "龙虾啤酒节-节日特惠（V8-V10）",
 			condi = 255,
@@ -5360,7 +5360,7 @@ return {
 		[269]=
 		{
 			id = 269,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_lmqx_026_bblb",
 			name = "浪漫七夕-表白礼包（非新玩家）",
 			condi = 259,
@@ -5372,7 +5372,7 @@ return {
 		[270]=
 		{
 			id = 270,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_026_dove_gift",
 			name = "浪漫七夕-表白礼包购买1314和520礼包领取德芙巧克力（非新玩家）",
 			condi = 260,
@@ -5384,7 +5384,7 @@ return {
 		[271]=
 		{
 			id = 271,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_026_sgxxl_yd",
 			name = "水果消消乐（新玩家）",
 			condi = 261,
@@ -5396,7 +5396,7 @@ return {
 		[272]=
 		{
 			id = 272,
-			enable = 1,
+			enable = 0,
 			key = "actp_rank_true_love_026_rank",
 			name = "浪漫七夕-真爱榜单（非新玩家）",
 			condi = 262,
@@ -5408,7 +5408,7 @@ return {
 		[273]=
 		{
 			id = 273,
-			enable = 1,
+			enable = 0,
 			key = "actp_lmqx_026_lmlh",
 			name = "浪漫七夕-浪漫礼盒（新玩家显示）",
 			condi = 263,
@@ -5420,7 +5420,7 @@ return {
 		[274]=
 		{
 			id = 274,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_026_lmqx_lmlh",
 			name = "浪漫七夕-浪漫礼盒充值加赠（非新玩家）",
 			condi = 264,
@@ -5432,7 +5432,7 @@ return {
 		[275]=
 		{
 			id = 275,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_026_lmqx_lmlh_yj",
 			name = "浪漫七夕-浪漫礼盒累计赢金（非新玩家）",
 			condi = 265,
@@ -5444,7 +5444,7 @@ return {
 		[276]=
 		{
 			id = 276,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_10290",
 			name = "免费福利券（免费，小额玩家，非新玩家）",
 			condi = 280,
@@ -5456,7 +5456,7 @@ return {
 		[277]=
 		{
 			id = 277,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_027_mfflq",
 			name = "金秋送豪礼（非新玩家）",
 			condi = 281,
@@ -5528,7 +5528,7 @@ return {
 		[283]=
 		{
 			id = 283,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_10291",
 			name = "免费话费（免费、小额玩家）",
 			condi = 288,
@@ -5540,7 +5540,7 @@ return {
 		[284]=
 		{
 			id = 284,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_028_xycd",
 			name = "幸运彩蛋首次商城充值获得阳光（V1-V10，非新玩家）",
 			condi = 289,
@@ -5552,7 +5552,7 @@ return {
 		[285]=
 		{
 			id = 285,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_xycd_028_xycd_v1",
 			name = "幸运彩蛋（V1-V3，非新玩家）",
 			condi = 290,
@@ -5564,7 +5564,7 @@ return {
 		[286]=
 		{
 			id = 286,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_xycd_028_xycd_v4",
 			name = "幸运彩蛋（V4-V10，非新玩家）",
 			condi = 291,
@@ -5576,7 +5576,7 @@ return {
 		[287]=
 		{
 			id = 287,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_028_xycd_ljyj",
 			name = "幸运彩蛋累计赢金获得阳光（V1-V10，非新玩家）",
 			condi = 293,
@@ -5588,7 +5588,7 @@ return {
 		[288]=
 		{
 			id = 288,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v1",
 			name = "欢乐敲金蛋活动购买礼包（V1-V3，非新玩家）",
 			condi = 294,
@@ -5600,7 +5600,7 @@ return {
 		[289]=
 		{
 			id = 289,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v4",
 			name = "欢乐敲金蛋活动购买礼包（V4-V7，非新玩家）",
 			condi = 295,
@@ -5612,7 +5612,7 @@ return {
 		[290]=
 		{
 			id = 290,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v8",
 			name = "欢乐敲金蛋活动购买礼包（V8-V10，非新玩家）",
 			condi = 296,
@@ -5624,7 +5624,7 @@ return {
 		[291]=
 		{
 			id = 291,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_029_hlqjd_hammer",
 			name = "欢乐敲金蛋活动使用锤子（全体）",
 			condi = 297,
@@ -5912,7 +5912,7 @@ return {
 		[315]=
 		{
 			id = 315,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_030_xyxfl",
 			name = "小游戏福利（非CPS渠道）",
 			condi = 319,
@@ -5924,7 +5924,7 @@ return {
 		[316]=
 		{
 			id = 316,
-			enable = 1,
+			enable = 0,
 			key = "actp_gqkl_031_aster_exchange",
 			name = "五星送好礼（非CPS渠道，V4-V10玩家，非新用户）",
 			condi = 322,
@@ -5936,7 +5936,7 @@ return {
 		[317]=
 		{
 			id = 317,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_031_gqfd_gift",
 			name = "国庆福袋（非CPS渠道）",
 			condi = 323,
@@ -5948,7 +5948,7 @@ return {
 		[318]=
 		{
 			id = 318,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_031_gqfd_cumulative",
 			name = "国庆福袋累计购买五星掉落（非CPS渠道）",
 			condi = 323,
@@ -5972,7 +5972,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			enable = 1,
+			enable = 0,
 			key = "actp_031_xxy_show",
 			name = "星星鱼刷新（非CPS渠道）",
 			condi = 325,
@@ -5984,7 +5984,7 @@ return {
 		[321]=
 		{
 			id = 321,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_cyfl_034_cylb",
 			name = "非小米的渠道",
 			condi = 328,
@@ -5996,7 +5996,7 @@ return {
 		[322]=
 		{
 			id = 322,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_1000070",
 			name = "非小米的渠道",
 			condi = 329,
@@ -6032,7 +6032,7 @@ return {
 		[325]=
 		{
 			id = 325,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_wsj_v1v3_040",
 			name = "万圣节礼包v1-v3、及免费、小额玩家",
 			condi = 330,
@@ -6044,7 +6044,7 @@ return {
 		[326]=
 		{
 			id = 326,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_wsj_v4v10_040",
 			name = "万圣节礼包v4-v10",
 			condi = 331,
@@ -6104,7 +6104,7 @@ return {
 		[331]=
 		{
 			id = 331,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_034_xyxfl",
 			name = "小游戏福利（非CPS渠道）",
 			condi = 336,
@@ -6140,7 +6140,7 @@ return {
 		[334]=
 		{
 			id = 334,
-			enable = 1,
+			enable = 0,
 			key = "actp_no_cjj_gej_exchange",
 			name = "非cjj",
 			condi = 340,
@@ -6152,7 +6152,7 @@ return {
 		[335]=
 		{
 			id = 335,
-			enable = 1,
+			enable = 0,
 			key = "actp_cjj_gej_exchange",
 			name = "cjj",
 			condi = 341,
@@ -6298,7 +6298,7 @@ return {
 			id = 347,
 			enable = 1,
 			key = "actp_own_task_p_041_xyxfl",
-			name = "小游戏福利（非CPS渠道）",
+			name = "非CPS渠道权限(小游戏福利常用)",
 			condi = 367,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
