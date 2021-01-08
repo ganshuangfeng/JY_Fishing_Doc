@@ -5972,9 +5972,9 @@ return {
 		[320]=
 		{
 			id = 320,
-			enable = 0,
+			enable = 1,
 			key = "actp_031_xxy_show",
-			name = "星星鱼刷新（非CPS渠道）",
+			name = "活动鱼刷新（非CPS渠道）",
 			condi = 325,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
