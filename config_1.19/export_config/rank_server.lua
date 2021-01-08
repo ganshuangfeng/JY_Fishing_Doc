@@ -352,7 +352,7 @@ return {
 		[26]=
 		{
 			id = 26,
-			enable = 1,
+			enable = 0,
 			rank_type = "hqjnh_046_lhsjb_rank",
 			name = "礼盒收集榜",
 			begin_time = 1610407800,
