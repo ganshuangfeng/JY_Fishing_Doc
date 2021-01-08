@@ -14697,7 +14697,7 @@ return {
 			process = 3,
 			awards = 949,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[610]=
 		{
@@ -14707,7 +14707,7 @@ return {
 			process = 3,
 			awards = 949,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[611]=
 		{
@@ -14717,7 +14717,7 @@ return {
 			process = 3,
 			awards = 949,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[612]=
 		{
@@ -14727,7 +14727,7 @@ return {
 			process = 2,
 			awards = 949,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[613]=
 		{
@@ -14737,7 +14737,7 @@ return {
 			process = 5,
 			awards = 950,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[614]=
 		{
@@ -14747,7 +14747,7 @@ return {
 			process = 10,
 			awards = 951,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[615]=
 		{
@@ -14757,7 +14757,7 @@ return {
 			process = 50,
 			awards = 952,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[616]=
 		{
@@ -14767,7 +14767,7 @@ return {
 			process = 150,
 			awards = 953,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[617]=
 		{
@@ -14777,7 +14777,7 @@ return {
 			process = 300,
 			awards = 954,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[618]=
 		{
@@ -14787,7 +14787,7 @@ return {
 			process = 300000,
 			awards = 955,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[619]=
 		{
@@ -14797,7 +14797,7 @@ return {
 			process = 800000,
 			awards = 956,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[620]=
 		{
@@ -14807,7 +14807,7 @@ return {
 			process = 1500000,
 			awards = 957,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[621]=
 		{
@@ -14817,7 +14817,7 @@ return {
 			process = 300000,
 			awards = 958,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[622]=
 		{
@@ -14827,7 +14827,7 @@ return {
 			process = 800000,
 			awards = 959,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[623]=
 		{
@@ -14837,7 +14837,7 @@ return {
 			process = 1500000,
 			awards = 960,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[624]=
 		{
@@ -14847,7 +14847,7 @@ return {
 			process = 2,
 			awards = 961,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[625]=
 		{
@@ -14857,7 +14857,7 @@ return {
 			process = 800000,
 			awards = 962,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[626]=
 		{
@@ -14867,7 +14867,7 @@ return {
 			process = 1,
 			awards = 963,
 			get_award_type = "nor",
-			is_auto_get_award = 1,
+			is_auto_get_award = 0,
 		},
 		[627]=
 		{
@@ -21574,40 +21574,47 @@ return {
 		{
 			id = 938,
 			source_id = 578,
-			source_type = "buyu_3d_target_yu",
+			source_type = "get_fish_3d_bullet_item",
 			condition_id = 422,
 		},
 		[939]=
 		{
 			id = 939,
-			source_id = 579,
-			source_type = "xiaoxiaole_xiyou_award",
-			condition_id = 0,
+			source_id = 578,
+			source_type = "get_fish_bullet_item",
+			condition_id = 422,
 		},
 		[940]=
 		{
 			id = 940,
-			source_id = 580,
-			source_type = "lwzb_game_award",
+			source_id = 579,
+			source_type = "xiaoxiaole_xiyou_award",
 			condition_id = 0,
 		},
 		[941]=
 		{
 			id = 941,
-			source_id = 581,
-			source_type = "agent_guess_continuity_apple_award",
-			condition_id = 423,
+			source_id = 580,
+			source_type = "lwzb_game_award",
+			condition_id = 0,
 		},
 		[942]=
 		{
 			id = 942,
-			source_id = 582,
-			source_type = "guess_apple_award_kaijiang_type",
-			condition_id = 424,
+			source_id = 581,
+			source_type = "agent_guess_continuity_apple_award",
+			condition_id = 423,
 		},
 		[943]=
 		{
 			id = 943,
+			source_id = 582,
+			source_type = "guess_apple_award_kaijiang_type",
+			condition_id = 424,
+		},
+		[944]=
+		{
+			id = 944,
 			source_id = 583,
 			source_type = "guess_apple_award",
 			condition_id = 0,
@@ -26019,8 +26026,8 @@ return {
 		{
 			id = 581,
 			condition_id = 422,
-			condition_name = "base_fish_id",
-			condition_value = 59,
+			condition_name = "act_type",
+			condition_value = 9,
 			judge_type = 2,
 		},
 		[582]=

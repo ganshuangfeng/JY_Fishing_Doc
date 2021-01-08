@@ -550,7 +550,7 @@ return {
 		{
 			id = 30,
 			ID = 30,
-			title = "星星排行榜",
+			title = "灵珠排行榜",
 			noCloseUI = 0,
 			order = 2,
 			key = "act_039_jzsjb",
