@@ -21520,7 +21520,6 @@ return {
 			source_id = 570,
 			source_type = "buy_gift",
 			condition_id = 414,
-			process_discount = "首充加赠掉落物",
 		},
 		[931]=
 		{
