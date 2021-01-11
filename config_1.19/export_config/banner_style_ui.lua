@@ -836,7 +836,7 @@ return {
 		{
 			id = 74,
 			bannerID = 74,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 100,
 			gotoUI = {"act_027_jqshl","panel"},
 			model = "LoginUp",
@@ -883,7 +883,7 @@ return {
 		{
 			id = 78,
 			bannerID = 78,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 100,
 			condi_key = "actp_own_task_p_029_hlqjd_hammer",
 			gotoUI = {"act_029_hlqjd","panel"},
@@ -895,7 +895,7 @@ return {
 		{
 			id = 79,
 			bannerID = 79,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 100,
 			condi_key = "actp_buy_gift_bag_class_031_gqfd_gift",
 			gotoUI = {"sys_act_base","panel"},
@@ -907,7 +907,7 @@ return {
 		{
 			id = 80,
 			bannerID = 80,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 100,
 			condi_key = "actp_buy_gift_bag_class_cyfl_034_cylb",
 			gotoUI = {"act_030_cwlb","panel"},
@@ -919,7 +919,7 @@ return {
 		{
 			id = 81,
 			bannerID = 81,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 100,
 			condi_key = "Sign_in_popup_old",
 			gotoUI = {"act_025_jrth","panel"},
@@ -931,7 +931,7 @@ return {
 		{
 			id = 82,
 			bannerID = 82,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 100,
 			gotoUI = {"sys_act_base","panel"},
 			model = "LoginUp",
@@ -942,7 +942,7 @@ return {
 		{
 			id = 83,
 			bannerID = 83,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 100,
 			condi_key = "cpl_notcjj",
 			gotoUI = {"act_030_cwlb","panel"},
@@ -966,7 +966,7 @@ return {
 		{
 			id = 85,
 			bannerID = 85,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 100,
 			gotoUI = {"sys_act_base","panel"},
 			model = "LoginUp",
@@ -977,7 +977,7 @@ return {
 		{
 			id = 86,
 			bannerID = 86,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 100,
 			gotoUI = {"sys_act_base","panel"},
 			model = "LoginUp",
@@ -988,7 +988,7 @@ return {
 		{
 			id = 87,
 			bannerID = 87,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 100,
 			gotoUI = {"sys_act_base","panel"},
 			model = "LoginUp",
@@ -1015,7 +1015,7 @@ return {
 			order = 100,
 			gotoUI = {"sys_act_base","panel"},
 			model = "LoginUp",
-			srartTime = 1610380800,
+			srartTime = 1611014400,
 			endTime = 1611590399,
 		},
 	},
