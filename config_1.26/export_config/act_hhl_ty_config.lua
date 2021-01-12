@@ -7,14 +7,14 @@ return {
 			condiy_key = "cpl_notcjj",
 			shop_config = "config",
 			config = "Info",
-			change_type = 19,
+			change_type = 30,
 			item_key = "prop_fish_drop_act_0",
 			GotoUI = {"game_Fishing3DHall",},
 			help = "help_info",
-			beginTime = 1611014400,
-			endTime = 1611590399,
-			top_desc = "所有游戏有几率得灵珠，玩高倍场可得更多灵珠！",
-			btm_desc = "充值商城中每日首次购买金币，必得宝箱灵珠！",
+			beginTime = 1611619200,
+			endTime = 1612195199,
+			top_desc = "所有游戏有几率得太阳，玩高倍场可得更多太阳！",
+			btm_desc = "充值商城中每日首次购买金币，必得宝箱太阳！",
 		},
 		[2]=
 		{
@@ -22,14 +22,14 @@ return {
 			condiy_key = "cpl_cjj",
 			shop_config = "config_cjj",
 			config = "Info_cjj",
-			change_type = 20,
+			change_type = 31,
 			item_key = "prop_fish_drop_act_0",
 			GotoUI = {"game_MiniGame",},
 			help = "help_info_cjj",
-			beginTime = 1611014400,
-			endTime = 1611590399,
-			top_desc = "所有游戏有几率得灵珠，玩高倍场可得更多灵珠！",
-			btm_desc = "充值商城中每日首次购买金币，必得宝箱灵珠！",
+			beginTime = 1611619200,
+			endTime = 1612195199,
+			top_desc = "所有游戏有几率得太阳，玩高倍场可得更多太阳！",
+			btm_desc = "充值商城中每日首次购买金币，必得宝箱太阳！",
 		},
 	},
 	Info=
@@ -37,28 +37,28 @@ return {
 		[1]=
 		{
 			ID = 1,
-			award_name = "坚果大礼包",
+			award_name = "太阳取暖器",
 			award_image = "dhhl_swjl_1",
 			item_cost_text = 15000,
-			tips = "坚果大礼包",
+			tips = "太阳取暖器",
 			type = 1,
 		},
 		[2]=
 		{
 			ID = 2,
-			award_name = "高档电热水袋",
+			award_name = "高档暖手宝",
 			award_image = "dhhl_swjl_2",
 			item_cost_text = 8000,
-			tips = "高档电热水袋",
+			tips = "高档暖手宝",
 			type = 1,
 		},
 		[3]=
 		{
 			ID = 3,
-			award_name = "花生酥1斤",
+			award_name = "羊毛围巾",
 			award_image = "dhhl_swjl_3",
 			item_cost_text = 5000,
-			tips = "花生酥1斤",
+			tips = "羊毛围巾",
 			type = 1,
 		},
 		[4]=
@@ -107,28 +107,28 @@ return {
 		[1]=
 		{
 			ID = 1,
-			award_name = "坚果大礼包",
+			award_name = "太阳取暖器",
 			award_image = "dhhl_swjl_1",
 			item_cost_text = 15000,
-			tips = "坚果大礼包",
+			tips = "太阳取暖器",
 			type = 1,
 		},
 		[2]=
 		{
 			ID = 2,
-			award_name = "高档电热水袋",
+			award_name = "高档暖手宝",
 			award_image = "dhhl_swjl_2",
 			item_cost_text = 8000,
-			tips = "高档电热水袋",
+			tips = "高档暖手宝",
 			type = 1,
 		},
 		[3]=
 		{
 			ID = 3,
-			award_name = "花生酥1斤",
+			award_name = "羊毛围巾",
 			award_image = "dhhl_swjl_3",
 			item_cost_text = 5000,
-			tips = "花生酥1斤",
+			tips = "羊毛围巾",
 			type = 1,
 		},
 		[4]=
@@ -279,7 +279,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			desc = {"1.活动时间：1月19日8:00-1月25日23:59:59。","2.活动期间，玩所有游戏都有几率获得灵珠道具，灵珠可用于兑换奖励，高倍场可获得更多灵珠哦！","3.活动结束后，所有灵珠将统一清除，请及时进行奖励兑换","4.实物奖励请关注公众号《鲸鱼初纪元》联系在线客服领取","5.实物图片仅供参考，请以实际发出的奖励为准",},
+			desc = {"1.活动时间：1月19日8:00-1月25日23:59:59。","2.活动期间，玩所有游戏都有几率获得太阳道具，太阳可用于兑换奖励，高倍场可获得更多太阳哦！","3.活动结束后，所有太阳将统一清除，请及时进行奖励兑换","4.实物奖励请关注公众号《鲸鱼初纪元》联系在线客服领取","5.实物图片仅供参考，请以实际发出的奖励为准",},
 		},
 	},
 	help_info_cjj=
@@ -287,7 +287,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			desc = {"1.活动时间：1月19日8:00-1月25日23:59:59。","2.活动期间，玩所有游戏都有几率获得灵珠道具，灵珠可用于兑换奖励，高倍场可获得更多灵珠哦！","3.活动结束后，所有灵珠将统一清除，请及时进行奖励兑换","4.实物奖励请关注公众号《彩云新世界》联系在线客服领取","5.实物图片仅供参考，请以实际发出的奖励为准",},
+			desc = {"1.活动时间：1月19日8:00-1月25日23:59:59。","2.活动期间，玩所有游戏都有几率获得太阳道具，太阳可用于兑换奖励，高倍场可获得更多太阳哦！","3.活动结束后，所有太阳将统一清除，请及时进行奖励兑换","4.实物奖励请关注公众号《彩云新世界》联系在线客服领取","5.实物图片仅供参考，请以实际发出的奖励为准",},
 		},
 	},
 }
