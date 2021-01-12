@@ -3096,5 +3096,25 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[316]=
+		{
+			id = 316,
+			key = "act_041_yybjsj",
+			desc = "赢一把就睡觉",
+			lua = "Act_015_YYBJSJManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[317]=
+		{
+			id = 317,
+			key = "act_ty_fkqjd",
+			desc = "疯狂敲金蛋",
+			lua = "Act_Ty_QJD1Manager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

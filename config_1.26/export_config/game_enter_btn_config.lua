@@ -23,7 +23,7 @@ return {
 		{
 			id = 4,
 			area = "center_top",
-			group_list = "80#",
+			group_list = "80#122#",
 		},
 		[5]=
 		{
@@ -445,7 +445,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "121#",
+			group_list = "123#",
 		},
 	},
 	all_enter=
@@ -1179,6 +1179,18 @@ return {
 		{
 			id = 121,
 			parm = {"act_ty_collect_words",},
+			is_on_off = 1,
+		},
+		[122]=
+		{
+			id = 122,
+			parm = {"act_041_yybjsj",},
+			is_on_off = 1,
+		},
+		[123]=
+		{
+			id = 123,
+			parm = {"act_ty_fkqjd",},
 			is_on_off = 1,
 		},
 	},
