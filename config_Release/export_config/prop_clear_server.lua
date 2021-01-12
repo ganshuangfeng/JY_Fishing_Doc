@@ -33,8 +33,8 @@ return {
 		{
 			id = 5,
 			prop_type = "prop_fish_drop_act_0",
-			start_time = 1598310000,
-			recycle_time = 1598889599,
+			start_time = 1610409600,
+			recycle_time = 1610985599,
 		},
 		[6]=
 		{
@@ -245,6 +245,27 @@ return {
 			prop_type = "prop_qdlb_cjq",
 			start_time = 1609804800,
 			recycle_time = 1610380799,
+		},
+		[36]=
+		{
+			id = 36,
+			prop_type = "prop_hqjnh_csbox",
+			start_time = 1610409600,
+			recycle_time = 1610985599,
+		},
+		[37]=
+		{
+			id = 37,
+			prop_type = "prop_hqjnh_ssbox",
+			start_time = 1610409600,
+			recycle_time = 1610985599,
+		},
+		[38]=
+		{
+			id = 38,
+			prop_type = "prop_hqjnh_xybox",
+			start_time = 1610409600,
+			recycle_time = 1610985599,
 		},
 	},
 	player_ext_status=

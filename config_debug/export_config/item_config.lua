@@ -1717,8 +1717,8 @@ return {
 			image = "act_ty_by_drop_7",
 			is_show_bag = 0,
 			order = 1,
-			name = "礼盒",
-			desc = "欢庆嘉年华活动掉落道具",
+			name = "掉落物",
+			desc = "掉落物活动通用道具",
 		},
 		[131]=
 		{
@@ -3936,13 +3936,11 @@ return {
 			item_key = "prop_hqjnh_csbox",
 			lose_time = -1,
 			is_local_icon = 1,
-			image = "ty_lb1_icon_bx2_3",
+			image = "ty_lb1_icon_box2_3",
 			is_show_bag = 1,
 			order = 33,
 			name = "传说宝箱",
 			desc = "欢庆嘉年华购买欢乐礼包获得",
-			use_parm = {"act_ty_lb1","prop_hqjnh_csbox"},
-			box_id = 72,
 		},
 		[292]=
 		{
@@ -3956,8 +3954,6 @@ return {
 			order = 33,
 			name = "史诗宝箱",
 			desc = "欢庆嘉年华购买欢乐礼包获得",
-			use_parm = {"act_ty_lb1","prop_hqjnh_ssbox"},
-			box_id = 71,
 		},
 		[293]=
 		{
@@ -3971,8 +3967,58 @@ return {
 			order = 33,
 			name = "稀有宝箱",
 			desc = "欢庆嘉年华购买欢乐礼包获得",
-			use_parm = {"act_ty_lb1","prop_hqjnh_xybox"},
-			box_id = 70,
+		},
+		[294]=
+		{
+			id = 294,
+			item_id = 294,
+			item_key = "prop_fclb_gong",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "collect_words_1",
+			is_show_bag = 1,
+			order = 33,
+			name = "恭字符",
+			desc = "购买恭喜发财对应礼包获得",
+		},
+		[295]=
+		{
+			id = 295,
+			item_id = 295,
+			item_key = "prop_fclb_xi",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "collect_words_2",
+			is_show_bag = 1,
+			order = 33,
+			name = "喜字符",
+			desc = "购买恭喜发财对应礼包获得",
+		},
+		[296]=
+		{
+			id = 296,
+			item_id = 296,
+			item_key = "prop_fclb_fa",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "collect_words_3",
+			is_show_bag = 1,
+			order = 33,
+			name = "发字符",
+			desc = "购买恭喜发财对应礼包获得",
+		},
+		[297]=
+		{
+			id = 297,
+			item_id = 297,
+			item_key = "prop_fclb_cai",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "collect_words_4",
+			is_show_bag = 1,
+			order = 33,
+			name = "财字符",
+			desc = "购买恭喜发财对应礼包获得",
 		},
 	},
 }

@@ -7,7 +7,7 @@ return {
 			id = 1,
 			platform = "android",
 			xz_type = {"vip",},
-			vip = {0,1},
+			vip = {0,0},
 			tj_type = {"gift_bag","gift_bag"},
 			tj_id = {84,10069},
 			sort = 0,
@@ -18,9 +18,9 @@ return {
 			id = 2,
 			platform = "android",
 			xz_type = {"vip",},
-			vip = {2,3},
+			vip = {1,3},
 			tj_type = {"gift_bag","gift_bag"},
-			tj_id = {84,10070},
+			tj_id = {10425,10070},
 			sort = 0,
 		},
 		[3]=
@@ -31,7 +31,7 @@ return {
 			xz_type = {"vip",},
 			vip = {4,5},
 			tj_type = {"gift_bag","gift_bag"},
-			tj_id = {84,10071},
+			tj_id = {10426,10071},
 			sort = 0,
 		},
 		[4]=
@@ -42,7 +42,7 @@ return {
 			xz_type = {"vip",},
 			vip = {6,7},
 			tj_type = {"gift_bag","gift_bag"},
-			tj_id = {84,10072},
+			tj_id = {10426,10072},
 			sort = 1,
 		},
 		[5]=
@@ -53,7 +53,7 @@ return {
 			xz_type = {"vip",},
 			vip = {8,12},
 			tj_type = {"gift_bag","gift_bag"},
-			tj_id = {84,10073},
+			tj_id = {10427,10073},
 			sort = 1,
 		},
 		[6]=

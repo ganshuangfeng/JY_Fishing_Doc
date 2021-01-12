@@ -42,56 +42,46 @@ return {
 		[1]=
 		{
 			id = 1,
-			bet_money = 1000,
+			bet_money = 5000,
 		},
 		[2]=
 		{
 			id = 2,
-			bet_money = 2000,
+			bet_money = 10000,
 		},
 		[3]=
 		{
 			id = 3,
-			bet_money = 5000,
+			bet_money = 50000,
 		},
 		[4]=
 		{
 			id = 4,
-			bet_money = 10000,
+			bet_money = 100000,
 		},
 		[5]=
 		{
 			id = 5,
-			bet_money = 50000,
+			bet_money = 500000,
 		},
 		[6]=
 		{
 			id = 6,
-			bet_money = 100000,
+			bet_money = 1000000,
 		},
 		[7]=
 		{
 			id = 7,
-			bet_money = 500000,
+			bet_money = 5000000,
 		},
 		[8]=
 		{
 			id = 8,
-			bet_money = 1000000,
+			bet_money = 10000000,
 		},
 		[9]=
 		{
 			id = 9,
-			bet_money = 5000000,
-		},
-		[10]=
-		{
-			id = 10,
-			bet_money = 10000000,
-		},
-		[11]=
-		{
-			id = 11,
 			bet_money = 20000000,
 		},
 	},

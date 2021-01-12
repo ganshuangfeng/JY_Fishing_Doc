@@ -1007,5 +1007,16 @@ return {
 			srartTime = 1607990400,
 			endTime = 1608566399,
 		},
+		[89]=
+		{
+			id = 89,
+			bannerID = 89,
+			isOnOff = 1,
+			order = 100,
+			gotoUI = {"sys_act_base","panel"},
+			model = "LoginUp",
+			srartTime = 1610409600,
+			endTime = 1610985599,
+		},
 	},
 }

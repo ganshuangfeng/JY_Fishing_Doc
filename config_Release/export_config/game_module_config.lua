@@ -736,9 +736,9 @@ return {
 			key = "sys_xtsjyd",
 			desc = "系统升级引导",
 			lua = "XTSJYDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[75]=
 		{
@@ -2990,7 +2990,7 @@ return {
 		{
 			id = 305,
 			key = "act_039_ty_by_hhl",
-			desc = "饺子换好礼→圣诞福利→元旦好礼→欢乐福利",
+			desc = "通用活动--兑换模板",
 			lua = "Act_039_TY_BY_HHLManager",
 			is_on_off = 1,
 			enable = 1,
@@ -3000,7 +3000,7 @@ return {
 		{
 			id = 306,
 			key = "act_039_jzsjb",
-			desc = "饺子收集榜 → 金元宝榜→星星收集榜",
+			desc = "通用活动--排行榜模板",
 			lua = "Act_039_JZSJBManager",
 			is_on_off = 1,
 			enable = 1,
@@ -3055,6 +3055,26 @@ return {
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
+		},
+		[312]=
+		{
+			id = 312,
+			key = "act_ty_lb1",
+			desc = "通用活动--礼包模板（感恩礼包）",
+			lua = "Act_Ty_LB1Manager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[313]=
+		{
+			id = 313,
+			key = "sys_act_czzk",
+			desc = "周卡",
+			lua = "Sys_Act_CZZKManager",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 	},
 }

@@ -86,7 +86,7 @@ return {
 			bx_img = "gelb_btn_bx3",
 			shop_id = 10432,
 			jl_img = {"zpg_icon_yg","ty_lb1_icon_box2_3"},
-			jl_number = {"x4","传说x15"},
+			jl_number = {"x10","传说x15"},
 		},
 		[2]=
 		{
@@ -97,7 +97,7 @@ return {
 			bx_img = "gelb_btn_bx3",
 			shop_id = 10433,
 			jl_img = {"zpg_icon_yg","ty_lb1_icon_box2_3"},
-			jl_number = {"x2","传说x5"},
+			jl_number = {"x6","传说x5"},
 		},
 		[3]=
 		{
@@ -108,7 +108,7 @@ return {
 			bx_img = "gelb_btn_bx2",
 			shop_id = 10434,
 			jl_img = {"zpg_icon_shui","ty_lb1_icon_4"},
-			jl_number = {"x8","史诗x3"},
+			jl_number = {"x4","史诗x3"},
 		},
 		[4]=
 		{
@@ -119,7 +119,7 @@ return {
 			bx_img = "gelb_btn_bx1",
 			shop_id = 10435,
 			jl_img = {"zpg_icon_shui","ty_lb1_icon_3"},
-			jl_number = {"x4","稀有x3"},
+			jl_number = {"x2","稀有x3"},
 		},
 	},
 }
