@@ -6140,7 +6140,7 @@ return {
 		[334]=
 		{
 			id = 334,
-			enable = 0,
+			enable = 1,
 			key = "actp_no_cjj_gej_exchange",
 			name = "非cjj",
 			condi = 340,
@@ -6152,7 +6152,7 @@ return {
 		[335]=
 		{
 			id = 335,
-			enable = 0,
+			enable = 1,
 			key = "actp_cjj_gej_exchange",
 			name = "cjj",
 			condi = 341,
@@ -15482,7 +15482,7 @@ return {
 			value = "cjj_all",
 			judge = 2,
 			group = 1,
-			error_desc = "不等于冲金鸡渠道",
+			error_desc = "等于冲金鸡渠道",
 		},
 		[909]=
 		{
@@ -15502,7 +15502,7 @@ return {
 			value = "3dby_official",
 			judge = 2,
 			group = 2,
-			error_desc = "不等于冲金鸡渠道",
+			error_desc = "等于冲金鸡渠道",
 		},
 		[911]=
 		{
