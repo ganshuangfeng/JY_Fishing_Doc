@@ -6413,6 +6413,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1588028400,
 		},
+		[357]=
+		{
+			id = 357,
+			enable = 1,
+			key = "actp_own_task_p_hammer",
+			name = "疯狂敲金蛋使用锤子（所有用户）",
+			condi = 388,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1588028400,
+		},
 	},
 	condi=
 	{
@@ -15885,6 +15897,26 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是新玩家",
+		},
+		[948]=
+		{
+			no = 948,
+			id = 388,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新用户",
+		},
+		[949]=
+		{
+			no = 949,
+			id = 388,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 2,
+			error_desc = "是新用户",
 		},
 	},
 	share_condition=
