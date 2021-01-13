@@ -6423,7 +6423,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1588028400,
+			start_deal_time = 1611590400,
 		},
 	},
 	condi=
