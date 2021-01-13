@@ -2999,7 +2999,7 @@ return {
 		[306]=
 		{
 			id = 306,
-			key = "act_039_sjb",
+			key = "act_039_ty_sjb",
 			desc = "通用活动--排行榜模板",
 			lua = "Act_039_JZSJBManager",
 			is_on_off = 1,
@@ -3112,6 +3112,24 @@ return {
 			key = "act_ty_fkqjd",
 			desc = "疯狂敲金蛋",
 			lua = "Act_Ty_QJD1Manager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[318]=
+		{
+			id = 318,
+			key = "act_039_ty_sjb_style/act_001_ygbd",
+			desc = "阳光榜单",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[319]=
+		{
+			id = 319,
+			key = "act_039_ty_sjb_style/act_002_bzphb",
+			desc = "爆竹排行榜",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
