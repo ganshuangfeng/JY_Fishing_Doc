@@ -6405,7 +6405,7 @@ return {
 		{
 			id = 356,
 			enable = 1,
-			key = "actp_own_task_p_1000238",
+			key = "actp_own_task_1000238",
 			name = "非新权限",
 			condi = 387,
 			is_dynamic_codi = 1,
