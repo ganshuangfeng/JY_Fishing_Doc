@@ -3046,9 +3046,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[316]=
+		[311]=
 		{
-			id = 316,
+			id = 311,
 			key = "act_041_yybjsj",
 			desc = "赢一把就睡觉",
 			lua = "Act_015_YYBJSJManager",
@@ -3056,9 +3056,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[317]=
+		[312]=
 		{
-			id = 317,
+			id = 312,
 			key = "act_ty_fkqjd",
 			desc = "疯狂敲金蛋",
 			lua = "Act_Ty_QJD1Manager",
@@ -3066,18 +3066,18 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[318]=
+		[313]=
 		{
-			id = 318,
+			id = 313,
 			key = "act_039_ty_sjb_style/act_001_ygbd",
 			desc = "阳光榜单",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
-		[319]=
+		[314]=
 		{
-			id = 319,
+			id = 314,
 			key = "act_039_ty_sjb_style/act_002_bzphb",
 			desc = "爆竹排行榜",
 			is_on_off = 1,
