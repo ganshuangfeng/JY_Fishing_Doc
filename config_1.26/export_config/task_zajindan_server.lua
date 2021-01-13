@@ -9035,6 +9035,7 @@ return {
 			start_valid_time = 1611590400,
 			end_valid_time = 1612195199,
 			time_limit = -1,
+			is_send_client = 1,
 		},
 		[1000236]=
 		{
@@ -9049,6 +9050,7 @@ return {
 			start_valid_time = 1611590400,
 			end_valid_time = 1612195199,
 			time_limit = -1,
+			is_send_client = 1,
 		},
 		[1000237]=
 		{
@@ -9063,6 +9065,7 @@ return {
 			start_valid_time = 1611590400,
 			end_valid_time = 1612195199,
 			time_limit = -1,
+			is_send_client = 1,
 		},
 		[1000238]=
 		{
