@@ -595,7 +595,6 @@ return {
 			isOnOff = 1,
 			showType = "prefab",
 			parmData = "activity_task",
-			activity_config = "act_041_yybjsj",
 			is_local_icon = 1,
 			gotoUI = {"act_041_yybjsj","panel_act"},
 			tag = "normal",
