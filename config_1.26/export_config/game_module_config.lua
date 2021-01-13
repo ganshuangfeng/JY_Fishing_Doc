@@ -2999,7 +2999,7 @@ return {
 		[306]=
 		{
 			id = 306,
-			key = "act_039_jzsjb",
+			key = "act_039_sjb",
 			desc = "通用活动--排行榜模板",
 			lua = "Act_039_JZSJBManager",
 			is_on_off = 1,
