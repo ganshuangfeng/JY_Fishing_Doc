@@ -69,7 +69,7 @@ return {
 			id = 4,
 			task = 1000202,
 			total = 3,
-			task_name = "在3D捕鱼深海探险当前层数+2",
+			task_name = "在3D捕鱼深海探险当前层数+3",
 			level = 1,
 			item = {"jing_bi",},
 			count = {8000,},
