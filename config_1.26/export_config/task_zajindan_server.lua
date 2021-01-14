@@ -8908,6 +8908,7 @@ return {
 			start_valid_time = 1611590400,
 			end_valid_time = 1612195199,
 			time_limit = -1,
+			is_send_client = 1,
 		},
 		[1000227]=
 		{
@@ -8922,6 +8923,7 @@ return {
 			start_valid_time = 1611590400,
 			end_valid_time = 1612195199,
 			time_limit = -1,
+			is_send_client = 1,
 		},
 		[1000228]=
 		{
@@ -8936,6 +8938,7 @@ return {
 			start_valid_time = 1611590400,
 			end_valid_time = 1612195199,
 			time_limit = -1,
+			is_send_client = 1,
 		},
 		[1000229]=
 		{
@@ -8950,6 +8953,7 @@ return {
 			start_valid_time = 1611590400,
 			end_valid_time = 1612195199,
 			time_limit = -1,
+			is_send_client = 1,
 		},
 		[1000230]=
 		{
@@ -8964,6 +8968,7 @@ return {
 			start_valid_time = 1611590400,
 			end_valid_time = 1612195199,
 			time_limit = -1,
+			is_send_client = 1,
 		},
 		[1000231]=
 		{
@@ -8978,6 +8983,7 @@ return {
 			start_valid_time = 1611590400,
 			end_valid_time = 1612195199,
 			time_limit = -1,
+			is_send_client = 1,
 		},
 		[1000232]=
 		{
@@ -8992,6 +8998,7 @@ return {
 			start_valid_time = 1611590400,
 			end_valid_time = 1612195199,
 			time_limit = -1,
+			is_send_client = 1,
 		},
 		[1000233]=
 		{
@@ -9006,6 +9013,7 @@ return {
 			start_valid_time = 1611590400,
 			end_valid_time = 1612195199,
 			time_limit = -1,
+			is_send_client = 1,
 		},
 		[1000234]=
 		{
@@ -9020,6 +9028,7 @@ return {
 			start_valid_time = 1611590400,
 			end_valid_time = 1612195199,
 			time_limit = -1,
+			is_send_client = 1,
 			award_change_type = "task_award_no_show",
 		},
 		[1000235]=
