@@ -13150,7 +13150,7 @@ return {
 		{
 			line_id = 541,
 			id = 10458,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "一帆风顺",
 			content = {"9980万金币","300万小游戏币","铁锹*5",},
 			gzh_order = -31,
@@ -13173,7 +13173,7 @@ return {
 		{
 			line_id = 542,
 			id = 10459,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "二龙腾飞",
 			content = {"4980万金币","150万小游戏币","铁锹*2",},
 			gzh_order = -31,
@@ -13196,7 +13196,7 @@ return {
 		{
 			line_id = 543,
 			id = 10460,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "三阳开泰",
 			content = {"2980万金币","90万小游戏币","阳光*12",},
 			gzh_order = -31,
@@ -13219,7 +13219,7 @@ return {
 		{
 			line_id = 544,
 			id = 10461,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "四季发财",
 			content = {"1980万金币","60万小游戏币","阳光*8",},
 			gzh_order = -31,
@@ -13242,7 +13242,7 @@ return {
 		{
 			line_id = 545,
 			id = 10462,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "五福临门",
 			content = {"980万金币","30万小游戏币","阳光*5",},
 			gzh_order = -31,
@@ -13265,7 +13265,7 @@ return {
 		{
 			line_id = 546,
 			id = 10463,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "六六大顺",
 			content = {"480万金币","15万小游戏币","水滴*8",},
 			gzh_order = -31,
@@ -13288,7 +13288,7 @@ return {
 		{
 			line_id = 547,
 			id = 10464,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "七星高照",
 			content = {"180万金币","10万小游戏币","水滴*5",},
 			gzh_order = -31,
