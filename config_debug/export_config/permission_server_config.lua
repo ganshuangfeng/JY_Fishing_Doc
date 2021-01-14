@@ -6401,6 +6401,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1611014400,
 		},
+		[356]=
+		{
+			id = 356,
+			enable = 1,
+			key = "actp_own_task_p_no_vivo",
+			name = "除vivo外全渠道",
+			condi = 387,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1611014400,
+		},
 	},
 	condi=
 	{
@@ -15863,6 +15875,16 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "VIP等级1",
+		},
+		[947]=
+		{
+			no = 947,
+			id = 387,
+			var = "market_channel",
+			value = "vivo",
+			judge = 5,
+			group = 1,
+			error_desc = "非小米的全渠道",
 		},
 	},
 	share_condition=

@@ -545,6 +545,7 @@ return {
 			tag = "normal",
 			beginTime = 1611014400,
 			endTime = 1611590399,
+			condi_key = "actp_own_task_p_no_vivo",
 		},
 		[30]=
 		{
@@ -563,6 +564,7 @@ return {
 			tag = "normal",
 			beginTime = 1611014400,
 			endTime = 1611590399,
+			condi_key = "actp_own_task_p_no_vivo",
 		},
 		[31]=
 		{
