@@ -2823,9 +2823,9 @@ return {
 			key = "act_034_ldfd",
 			desc = "立冬福袋",
 			lua = "Act_034_LDFDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[289]=
 		{
@@ -3130,6 +3130,24 @@ return {
 			id = 319,
 			key = "act_039_ty_sjb_style/act_002_bzphb",
 			desc = "爆竹排行榜",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[320]=
+		{
+			id = 320,
+			key = "act_039_ty_by_hhl_style/act_001_hhl",
+			desc = "太阳换好礼",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[321]=
+		{
+			id = 321,
+			key = "act_039_ty_by_hhl_style/act_002_hhl",
+			desc = "爆竹换好礼",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

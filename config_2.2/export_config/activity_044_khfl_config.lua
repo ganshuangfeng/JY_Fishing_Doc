@@ -91,7 +91,7 @@ return {
 			id = 6,
 			task = 1000245,
 			total = 3,
-			task_name = "在3D捕鱼海底宝藏中击31条深海狂鲨",
+			task_name = "在3D捕鱼海底宝藏中击3条深海狂鲨",
 			level = 1,
 			item = {"jing_bi",},
 			count = {500000,},
