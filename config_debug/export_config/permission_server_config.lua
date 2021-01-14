@@ -15884,7 +15884,7 @@ return {
 			value = "vivo",
 			judge = 5,
 			group = 1,
-			error_desc = "非小米的全渠道",
+			error_desc = "非vivo的全渠道",
 		},
 	},
 	share_condition=
