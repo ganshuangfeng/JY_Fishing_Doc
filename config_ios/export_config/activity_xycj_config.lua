@@ -10,6 +10,8 @@ return {
 			scale = 1,
 			desc = "福利券x600",
 			is_dj = 0,
+			asset_type = "shop_gold_sum",
+			value = 600,
 		},
 		[2]=
 		{
@@ -20,6 +22,8 @@ return {
 			scale = 1,
 			desc = "福利券x285",
 			is_dj = 0,
+			asset_type = "shop_gold_sum",
+			value = 285,
 		},
 		[3]=
 		{
@@ -30,6 +34,8 @@ return {
 			scale = 1,
 			desc = "福利券x2400",
 			is_dj = 1,
+			asset_type = "shop_gold_sum",
+			value = 2400,
 		},
 		[4]=
 		{
@@ -40,6 +46,8 @@ return {
 			scale = 1,
 			desc = "福利券x600",
 			is_dj = 0,
+			asset_type = "shop_gold_sum",
+			value = 600,
 		},
 		[5]=
 		{
@@ -50,6 +58,8 @@ return {
 			scale = 1,
 			desc = "福利券x300",
 			is_dj = 0,
+			asset_type = "shop_gold_sum",
+			value = 300,
 		},
 		[6]=
 		{
@@ -60,6 +70,8 @@ return {
 			scale = 1,
 			desc = "福利券x900",
 			is_dj = 1,
+			asset_type = "shop_gold_sum",
+			value = 900,
 		},
 		[7]=
 		{
@@ -70,6 +82,8 @@ return {
 			scale = 1,
 			desc = "福利券x600",
 			is_dj = 0,
+			asset_type = "shop_gold_sum",
+			value = 600,
 		},
 		[8]=
 		{
@@ -80,6 +94,8 @@ return {
 			scale = 1,
 			desc = "福利券x300",
 			is_dj = 0,
+			asset_type = "shop_gold_sum",
+			value = 300,
 		},
 		[9]=
 		{
@@ -90,6 +106,8 @@ return {
 			scale = 1,
 			desc = "福利券x2400",
 			is_dj = 1,
+			asset_type = "shop_gold_sum",
+			value = 2400,
 		},
 		[10]=
 		{
@@ -100,6 +118,8 @@ return {
 			scale = 1,
 			desc = "福利券x255",
 			is_dj = 0,
+			asset_type = "shop_gold_sum",
+			value = 255,
 		},
 		[11]=
 		{
@@ -110,6 +130,8 @@ return {
 			scale = 1,
 			desc = "福利券x4750",
 			is_dj = 0,
+			asset_type = "shop_gold_sum",
+			value = 4750,
 		},
 		[12]=
 		{
@@ -120,6 +142,8 @@ return {
 			scale = 1,
 			desc = "金币x1000万",
 			is_dj = 0,
+			asset_type = "jing_bi",
+			value = 10000000,
 		},
 		[13]=
 		{
@@ -130,6 +154,8 @@ return {
 			scale = 1,
 			desc = "福利券x100万",
 			is_dj = 1,
+			asset_type = "shop_gold_sum",
+			value = 1000000,
 		},
 		[14]=
 		{
@@ -140,6 +166,8 @@ return {
 			scale = 1,
 			desc = "金币x500万",
 			is_dj = 0,
+			asset_type = "jing_bi",
+			value = 5000000,
 		},
 		[15]=
 		{
@@ -150,6 +178,8 @@ return {
 			scale = 1,
 			desc = "福利券x10万",
 			is_dj = 0,
+			asset_type = "shop_gold_sum",
+			value = 100000,
 		},
 		[16]=
 		{
@@ -160,6 +190,8 @@ return {
 			scale = 1,
 			desc = "金币x1亿",
 			is_dj = 1,
+			asset_type = "jing_bi",
+			value = 100000000,
 		},
 		[17]=
 		{
@@ -170,6 +202,8 @@ return {
 			scale = 1,
 			desc = "福利券x4250",
 			is_dj = 0,
+			asset_type = "shop_gold_sum",
+			value = 4250,
 		},
 		[18]=
 		{
@@ -180,6 +214,8 @@ return {
 			scale = 1,
 			desc = "金币x500万",
 			is_dj = 0,
+			asset_type = "jing_bi",
+			value = 5000000,
 		},
 		[19]=
 		{
@@ -190,6 +226,8 @@ return {
 			scale = 1,
 			desc = "福利券x40万",
 			is_dj = 1,
+			asset_type = "shop_gold_sum",
+			value = 400000,
 		},
 		[20]=
 		{
@@ -200,6 +238,8 @@ return {
 			scale = 1,
 			desc = "金币x1000万",
 			is_dj = 0,
+			asset_type = "jing_bi",
+			value = 10000000,
 		},
 	},
 	show=
