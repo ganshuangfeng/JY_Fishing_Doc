@@ -577,7 +577,7 @@ return {
 			parmData = "activity_task",
 			activity_config = "activity_043_khfl_config",
 			is_local_icon = 1,
-			gotoUI = {"GameComAct1","activity_043_khfl_config"},
+			gotoUI = {"GameComAct1","activity_044_khfl_config"},
 			tag = "hot",
 			beginTime = 1612224000,
 			endTime = 1612799999,
