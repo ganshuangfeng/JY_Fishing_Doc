@@ -9347,6 +9347,133 @@ return {
 			end_valid_time = 1612799999,
 			time_limit = -1,
 		},
+		[1000258]=
+		{
+			id = 1000258,
+			enable = 1,
+			name = "辞旧岁",
+			own_type = "p_041_xyxfl",
+			task_enum = "common",
+			process_id = 21616,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1612195200,
+			end_valid_time = 1612799999,
+			time_limit = -1,
+		},
+		[1000259]=
+		{
+			id = 1000259,
+			enable = 1,
+			name = "辞旧岁",
+			own_type = "p_041_xyxfl",
+			task_enum = "common",
+			process_id = 21617,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1612195200,
+			end_valid_time = 1612799999,
+			time_limit = -1,
+		},
+		[1000260]=
+		{
+			id = 1000260,
+			enable = 1,
+			name = "辞旧岁",
+			own_type = "p_041_xyxfl",
+			task_enum = "common",
+			process_id = 21618,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1612195200,
+			end_valid_time = 1612799999,
+			time_limit = -1,
+		},
+		[1000261]=
+		{
+			id = 1000261,
+			enable = 1,
+			name = "辞旧岁",
+			own_type = "p_041_xyxfl",
+			task_enum = "common",
+			process_id = 21619,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1612195200,
+			end_valid_time = 1612799999,
+			time_limit = -1,
+		},
+		[1000262]=
+		{
+			id = 1000262,
+			enable = 1,
+			name = "辞旧岁",
+			own_type = "p_041_xyxfl",
+			task_enum = "common",
+			process_id = 21620,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1612195200,
+			end_valid_time = 1612799999,
+			time_limit = -1,
+		},
+		[1000263]=
+		{
+			id = 1000263,
+			enable = 1,
+			name = "辞旧岁",
+			own_type = "p_041_xyxfl",
+			task_enum = "common",
+			process_id = 21621,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1612195200,
+			end_valid_time = 1612799999,
+			time_limit = -1,
+		},
+		[1000264]=
+		{
+			id = 1000264,
+			enable = 1,
+			name = "辞旧岁",
+			own_type = "p_041_xyxfl",
+			task_enum = "common",
+			process_id = 21622,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1612195200,
+			end_valid_time = 1612799999,
+			time_limit = -1,
+		},
+		[1000265]=
+		{
+			id = 1000265,
+			enable = 1,
+			name = "辞旧岁",
+			own_type = "p_041_xyxfl",
+			task_enum = "common",
+			process_id = 21623,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1612195200,
+			end_valid_time = 1612799999,
+			time_limit = -1,
+		},
+		[1000266]=
+		{
+			id = 1000266,
+			enable = 1,
+			name = "辞旧岁",
+			own_type = "p_041_xyxfl",
+			task_enum = "common",
+			process_id = 21624,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1612195200,
+			end_valid_time = 1612799999,
+			time_limit = -1,
+			award_change_type = "task_award_no_show",
+		},
 	},
 	process_data=
 	{
@@ -15702,6 +15829,96 @@ return {
 			process = 1,
 			awards = 989,
 			get_award_type = "nor",
+		},
+		[668]=
+		{
+			id = 668,
+			process_id = 21616,
+			source_id = 566,
+			process = 1,
+			awards = 991,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[669]=
+		{
+			id = 669,
+			process_id = 21617,
+			source_id = 567,
+			process = 1,
+			awards = 992,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[670]=
+		{
+			id = 670,
+			process_id = 21618,
+			source_id = 568,
+			process = 1,
+			awards = 993,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[671]=
+		{
+			id = 671,
+			process_id = 21619,
+			source_id = 569,
+			process = 1,
+			awards = 994,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[672]=
+		{
+			id = 672,
+			process_id = 21620,
+			source_id = 570,
+			process = 1,
+			awards = 995,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[673]=
+		{
+			id = 673,
+			process_id = 21621,
+			source_id = 571,
+			process = 1,
+			awards = 996,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[674]=
+		{
+			id = 674,
+			process_id = 21622,
+			source_id = 572,
+			process = 1,
+			awards = 997,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[675]=
+		{
+			id = 675,
+			process_id = 21623,
+			source_id = 573,
+			process = 1,
+			awards = 998,
+			get_award_type = "nor",
+			is_auto_get_award = 1,
+		},
+		[676]=
+		{
+			id = 676,
+			process_id = 21624,
+			source_id = 542,
+			process = {1000000,-1},
+			awards = 999,
+			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 	},
 	source=
@@ -38811,6 +39028,150 @@ return {
 			award_id = 990,
 			asset_type = "jing_bi",
 			asset_count = 50000,
+			get_weight = 1,
+		},
+		[1500]=
+		{
+			id = 1500,
+			award_id = 991,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 45,
+			get_weight = 1,
+		},
+		[1501]=
+		{
+			id = 1501,
+			award_id = 991,
+			asset_type = "_common_rank_drswn_002_ygbd_rank",
+			asset_count = 45,
+			get_weight = 1,
+		},
+		[1502]=
+		{
+			id = 1502,
+			award_id = 992,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 90,
+			get_weight = 1,
+		},
+		[1503]=
+		{
+			id = 1503,
+			award_id = 992,
+			asset_type = "_common_rank_drswn_002_ygbd_rank",
+			asset_count = 90,
+			get_weight = 1,
+		},
+		[1504]=
+		{
+			id = 1504,
+			award_id = 993,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 150,
+			get_weight = 1,
+		},
+		[1505]=
+		{
+			id = 1505,
+			award_id = 993,
+			asset_type = "_common_rank_drswn_002_ygbd_rank",
+			asset_count = 150,
+			get_weight = 1,
+		},
+		[1506]=
+		{
+			id = 1506,
+			award_id = 994,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 290,
+			get_weight = 1,
+		},
+		[1507]=
+		{
+			id = 1507,
+			award_id = 994,
+			asset_type = "_common_rank_drswn_002_ygbd_rank",
+			asset_count = 290,
+			get_weight = 1,
+		},
+		[1508]=
+		{
+			id = 1508,
+			award_id = 995,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 590,
+			get_weight = 1,
+		},
+		[1509]=
+		{
+			id = 1509,
+			award_id = 995,
+			asset_type = "_common_rank_drswn_002_ygbd_rank",
+			asset_count = 590,
+			get_weight = 1,
+		},
+		[1510]=
+		{
+			id = 1510,
+			award_id = 996,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1490,
+			get_weight = 1,
+		},
+		[1511]=
+		{
+			id = 1511,
+			award_id = 996,
+			asset_type = "_common_rank_drswn_002_ygbd_rank",
+			asset_count = 1490,
+			get_weight = 1,
+		},
+		[1512]=
+		{
+			id = 1512,
+			award_id = 997,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 2990,
+			get_weight = 1,
+		},
+		[1513]=
+		{
+			id = 1513,
+			award_id = 997,
+			asset_type = "_common_rank_drswn_002_ygbd_rank",
+			asset_count = 2990,
+			get_weight = 1,
+		},
+		[1514]=
+		{
+			id = 1514,
+			award_id = 998,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 7490,
+			get_weight = 1,
+		},
+		[1515]=
+		{
+			id = 1515,
+			award_id = 998,
+			asset_type = "_common_rank_drswn_002_ygbd_rank",
+			asset_count = 7490,
+			get_weight = 1,
+		},
+		[1516]=
+		{
+			id = 1516,
+			award_id = 999,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1517]=
+		{
+			id = 1517,
+			award_id = 999,
+			asset_type = "_common_rank_drswn_002_ygbd_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
