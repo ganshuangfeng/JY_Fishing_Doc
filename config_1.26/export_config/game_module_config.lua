@@ -2472,9 +2472,9 @@ return {
 		[253]=
 		{
 			id = 253,
-			key = "GameComAct1",
+			key = "act_ty_task",
 			desc = "通用活动模板1",
-			lua = "GameComAct1Manager",
+			lua = "ActivityTaskManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
