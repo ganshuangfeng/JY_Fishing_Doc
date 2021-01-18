@@ -5,10 +5,10 @@ return {
 		{
 			line = 1,
 			condiy_key = "cpl_notcjj",
-			shop_config = {1,2,3,4,5,6,7,},
+			shop_config = {1,2,3,4,5,6,7,8,},
 			config = {1,2,3,4,5,6,7,8},
 			change_type = 30,
-			cur_path = "act_001_hhl",
+			cur_path = "act_001_hhl_",
 			item_key = "prop_fish_drop_act_0",
 			GotoUI = {"game_Fishing3DHall",},
 			help = "help_info",
@@ -19,10 +19,10 @@ return {
 		{
 			line = 2,
 			condiy_key = "cpl_cjj",
-			shop_config = {1,2,3,4,5,6,7,},
+			shop_config = {1,2,3,4,5,6,7,8,},
 			config = {9,10,11,12,13,14,15,16},
 			change_type = 31,
-			cur_path = "act_001_hhl",
+			cur_path = "act_001_hhl_",
 			item_key = "prop_fish_drop_act_0",
 			GotoUI = {"game_MiniGame",},
 			help = "help_info_cjj",
@@ -36,7 +36,7 @@ return {
 		{
 			ID = 1,
 			award_name = "太阳取暖器",
-			award_image = "dhhl_swjl_1",
+			award_image = "swjl_1",
 			item_cost_text = 15000,
 			tips = "太阳取暖器",
 			type = 1,
@@ -45,7 +45,7 @@ return {
 		{
 			ID = 2,
 			award_name = "高档暖手宝",
-			award_image = "dhhl_swjl_2",
+			award_image = "swjl_2",
 			item_cost_text = 8000,
 			tips = "高档暖手宝",
 			type = 1,
@@ -54,7 +54,7 @@ return {
 		{
 			ID = 3,
 			award_name = "羊毛围巾",
-			award_image = "dhhl_swjl_3",
+			award_image = "swjl_3",
 			item_cost_text = 5000,
 			tips = "羊毛围巾",
 			type = 1,
@@ -71,7 +71,7 @@ return {
 		{
 			ID = 5,
 			award_name = "高级核弹",
-			award_image = "dhhl_icon_gjhd",
+			award_image = "icon_gjhd",
 			item_cost_text = 12000,
 			type = 0,
 		},
@@ -79,7 +79,7 @@ return {
 		{
 			ID = 6,
 			award_name = "中级核弹",
-			award_image = "dhhl_icon_zjhd",
+			award_image = "icon_zjhd",
 			item_cost_text = 6000,
 			type = 0,
 		},
@@ -95,7 +95,7 @@ return {
 		{
 			ID = 8,
 			award_name = "初级核弹",
-			award_image = "dhhl_icon_cjhd",
+			award_image = "icon_cjhd",
 			item_cost_text = 1200,
 			type = 0,
 		},
@@ -103,7 +103,7 @@ return {
 		{
 			ID = 9,
 			award_name = "太阳取暖器",
-			award_image = "dhhl_swjl_1",
+			award_image = "swjl_1",
 			item_cost_text = 15000,
 			tips = "太阳取暖器",
 			type = 1,
@@ -112,7 +112,7 @@ return {
 		{
 			ID = 10,
 			award_name = "高档暖手宝",
-			award_image = "dhhl_swjl_2",
+			award_image = "swjl_2",
 			item_cost_text = 8000,
 			tips = "高档暖手宝",
 			type = 1,
@@ -121,7 +121,7 @@ return {
 		{
 			ID = 11,
 			award_name = "羊毛围巾",
-			award_image = "dhhl_swjl_3",
+			award_image = "swjl_3",
 			item_cost_text = 5000,
 			tips = "羊毛围巾",
 			type = 1,
@@ -146,7 +146,7 @@ return {
 		{
 			ID = 14,
 			award_name = "小金锤",
-			award_image = "dhhl_icon_jc",
+			award_image = "icon_jc",
 			item_cost_text = 6000,
 			type = 0,
 		},
@@ -162,7 +162,7 @@ return {
 		{
 			ID = 16,
 			award_name = "小银锤",
-			award_image = "dhhl_icon_yc",
+			award_image = "icon_yc",
 			item_cost_text = 1200,
 			type = 0,
 		},

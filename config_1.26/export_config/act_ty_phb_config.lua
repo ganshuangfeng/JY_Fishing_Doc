@@ -7,7 +7,7 @@ return {
 			is_on_off = 1,
 			ID = 1,
 			name = "太阳",
-			image = "act_ty_by_drop_7",
+			item_key = "prop_fish_drop_act_0",
 			rank_type = "drswn_002_ygbd_rank",
 			s_time = 1611590400,
 			e_time = 1612195199,

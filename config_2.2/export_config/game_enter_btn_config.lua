@@ -453,7 +453,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			parm = {"ty_gift","enter_gift_kllb"},
+			parm = {"ty_gift","gift_kllb","enter"},
 			is_on_off = 0,
 		},
 		[2]=
@@ -514,7 +514,7 @@ return {
 		[11]=
 		{
 			id = 11,
-			parm = {"sys_act_base",},
+			parm = {"sys_act_base,"weekly","enter"},
 			is_on_off = 1,
 		},
 		[12]=
@@ -568,7 +568,7 @@ return {
 		[20]=
 		{
 			id = 20,
-			parm = {"ty_gift","enter_gift_bybs"},
+			parm = {"ty_gift","gift_bybs","enter"},
 			is_on_off = 1,
 		},
 		[21]=
@@ -628,7 +628,7 @@ return {
 		[30]=
 		{
 			id = 30,
-			parm = {"ty_gift","enter_gift_cglb"},
+			parm = {"ty_gift","gift_cglb","enter"},
 			is_on_off = 1,
 		},
 		[31]=
