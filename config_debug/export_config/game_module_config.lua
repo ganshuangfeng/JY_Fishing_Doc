@@ -3030,9 +3030,9 @@ return {
 		{
 			id = 309,
 			key = "act_040_ydfl",
-			desc = "元旦福利",
+			desc = "元旦福利（半年）",
 			lua = "Act_013_DLFLManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},

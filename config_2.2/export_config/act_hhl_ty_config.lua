@@ -172,56 +172,56 @@ return {
 		[1]=
 		{
 			ID = 1,
-			task_id  = 1000217,
+			task_id  = 1000258,
 			shop_id = {2,85},
 			icon_txt = 45,
 		},
 		[2]=
 		{
 			ID = 2,
-			task_id  = 1000218,
+			task_id  = 1000259,
 			shop_id = {3,86},
 			icon_txt = 90,
 		},
 		[3]=
 		{
 			ID = 3,
-			task_id  = 1000219,
+			task_id  = 1000260,
 			shop_id = {4,87},
 			icon_txt = 150,
 		},
 		[4]=
 		{
 			ID = 4,
-			task_id  = 1000220,
+			task_id  = 1000261,
 			shop_id = {5,88},
 			icon_txt = 290,
 		},
 		[5]=
 		{
 			ID = 5,
-			task_id  = 1000221,
+			task_id  = 1000262,
 			shop_id = {111,10189},
 			icon_txt = 590,
 		},
 		[6]=
 		{
 			ID = 6,
-			task_id  = 1000222,
+			task_id  = 1000263,
 			shop_id = {6,89},
 			icon_txt = 1490,
 		},
 		[7]=
 		{
 			ID = 7,
-			task_id  = 1000223,
+			task_id  = 1000264,
 			shop_id = {108,10044},
 			icon_txt = 2990,
 		},
 		[8]=
 		{
 			ID = 8,
-			task_id  = 1000224,
+			task_id  = 1000265,
 			shop_id = {110,10045},
 			icon_txt = 7490,
 		},
