@@ -9084,7 +9084,7 @@ return {
 			own_type = "permission_task",
 			task_enum = "sleep_act_task",
 			process_id = 21596,
-			is_reset = 0,
+			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 1609880400,
 			end_valid_time = 1612213200,
