@@ -163,7 +163,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#8#61#117#115#",
+			group_list = "3;116#8#61#117#115#",
 		},
 		[2]=
 		{
@@ -329,7 +329,6 @@ return {
 		{
 			id = 5,
 			area = "Right_down2",
-			group_list = "72#121#",
 		},
 		[6]=
 		{
@@ -341,7 +340,7 @@ return {
 		{
 			id = 7,
 			area = "Right_hd",
-			group_list = "103#",
+			group_list = "121#",
 		},
 		[8]=
 		{

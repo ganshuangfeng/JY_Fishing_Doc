@@ -37,6 +37,18 @@ return {
 			order_id = 2,
 			is_show = 1,
 		},
+		[4]=
+		{
+			line_id = 4,
+			id = 4,
+			type = "item",
+			name = "道  具",
+			icon_image = "sc_imgf_dj1",
+			icon_image_unselect = "sc_imgf_dj",
+			is_new_tag = 0,
+			order_id = 4,
+			is_show = 1,
+		},
 	},
 	goods=
 	{
@@ -15717,7 +15729,7 @@ return {
 			ui_order = 1,
 			ui_title = "雷霆幻影",
 			ui_price = 10000,
-			ui_icon = "ty_icon_pt_01",
+			ui_icon = "3dby_icon_p1",
 			ui_icon_bg = "pay_bg_light1",
 		},
 		[22]=
@@ -15732,7 +15744,7 @@ return {
 			ui_order = 2,
 			ui_title = "闪耀风暴",
 			ui_price = 20000,
-			ui_icon = "ty_icon_pt_02",
+			ui_icon = "3dby_icon_p2",
 			ui_icon_bg = "pay_bg_light1",
 		},
 		[23]=
@@ -15747,7 +15759,7 @@ return {
 			ui_order = 3,
 			ui_title = "金币使者",
 			ui_price = 50000,
-			ui_icon = "ty_icon_pt_03",
+			ui_icon = "3dby_icon_p3",
 			ui_icon_bg = "pay_bg_light1",
 		},
 		[24]=
@@ -15762,7 +15774,7 @@ return {
 			ui_order = 4,
 			ui_title = "核能风暴",
 			ui_price = 100000,
-			ui_icon = "ty_icon_pt_04",
+			ui_icon = "3dby_icon_p4",
 			ui_icon_bg = "pay_bg_light1",
 		},
 		[25]=
@@ -15777,7 +15789,7 @@ return {
 			ui_order = 5,
 			ui_title = "死灵之光",
 			ui_price = 150000,
-			ui_icon = "ty_icon_pt_05",
+			ui_icon = "3dby_icon_p5",
 			ui_icon_bg = "pay_bg_light1",
 		},
 		[26]=
@@ -15792,7 +15804,7 @@ return {
 			ui_order = 6,
 			ui_title = "神龙之力",
 			ui_price = 300000,
-			ui_icon = "ty_icon_pt_06",
+			ui_icon = "3dby_icon_p6",
 			ui_icon_bg = "pay_bg_light1",
 		},
 		[27]=
@@ -15807,7 +15819,7 @@ return {
 			ui_order = 7,
 			ui_title = "绿芒",
 			ui_price = 20000,
-			ui_icon = "ty_icon_dz_02",
+			ui_icon = "3dby_icon_xy_1",
 			ui_icon_bg = "pay_bg_light1",
 		},
 		[28]=
@@ -15822,7 +15834,7 @@ return {
 			ui_order = 8,
 			ui_title = "寒霜",
 			ui_price = 50000,
-			ui_icon = "ty_icon_dz_03",
+			ui_icon = "3dby_icon_ss_1",
 			ui_icon_bg = "pay_bg_light1",
 		},
 		[29]=
@@ -15837,7 +15849,7 @@ return {
 			ui_order = 9,
 			ui_title = "金焰",
 			ui_price = 100000,
-			ui_icon = "ty_icon_dz_04",
+			ui_icon = "3dby_icon_cs_1",
 			ui_icon_bg = "pay_bg_light1",
 		},
 	},

@@ -251,7 +251,7 @@ return {
 			icon = "3dby_icon_p2",
 			name = "闪耀风暴",
 			price = "2万福利券",
-			goto_ui = {"duihuan_shop",},
+			goto_ui = {"shop_bay","tool"},
 		},
 		[2]=
 		{
@@ -260,7 +260,7 @@ return {
 			icon = "3dby_icon_p3",
 			name = "金币使者",
 			price = "5万福利券",
-			goto_ui = {"duihuan_shop",},
+			goto_ui = {"shop_bay","tool"},
 		},
 		[3]=
 		{
@@ -269,7 +269,7 @@ return {
 			icon = "3dby_icon_xy_1",
 			name = "绿芒",
 			price = "2万福利券",
-			goto_ui = {"duihuan_shop",},
+			goto_ui = {"shop_bay","tool"},
 		},
 		[4]=
 		{
@@ -278,7 +278,7 @@ return {
 			icon = "3dby_icon_ss_1",
 			name = "寒霜",
 			price = "5万福利券",
-			goto_ui = {"duihuan_shop",},
+			goto_ui = {"shop_bay","tool"},
 		},
 		[5]=
 		{
@@ -287,7 +287,7 @@ return {
 			icon = "3dby_icon_p4",
 			name = "核能风暴",
 			price = "10万福利券",
-			goto_ui = {"duihuan_shop",},
+			goto_ui = {"shop_bay","tool"},
 		},
 		[6]=
 		{
@@ -296,7 +296,7 @@ return {
 			icon = "3dby_icon_p5",
 			name = "死灵之光",
 			price = "15万福利券",
-			goto_ui = {"duihuan_shop",},
+			goto_ui = {"shop_bay","tool"},
 		},
 		[7]=
 		{
@@ -305,7 +305,7 @@ return {
 			icon = "3dby_icon_p6",
 			name = "神龙之力",
 			price = "30万福利券",
-			goto_ui = {"duihuan_shop",},
+			goto_ui = {"shop_bay","tool"},
 		},
 		[8]=
 		{
@@ -314,7 +314,7 @@ return {
 			icon = "3dby_icon_cs_1",
 			name = "金焰",
 			price = "10万福利券",
-			goto_ui = {"duihuan_shop",},
+			goto_ui = {"shop_bay","tool"},
 		},
 	},
 	parm=
