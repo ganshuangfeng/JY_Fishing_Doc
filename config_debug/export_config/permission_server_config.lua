@@ -15991,7 +15991,7 @@ return {
 			var = "vip_level",
 			value = 1,
 			judge = 3,
-			group = 1,
+			group = 4,
 			error_desc = "大于V1",
 		},
 		[954]=
@@ -16001,7 +16001,7 @@ return {
 			var = "vip_level",
 			value = 3,
 			judge = 4,
-			group = 1,
+			group = 4,
 			error_desc = "小于V3",
 		},
 		[955]=

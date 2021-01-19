@@ -797,17 +797,17 @@ return {
 		[151]=
 		{
 			id = 151,
-			fish_id = 62,
+			fish_id = 61,
 		},
 		[152]=
 		{
 			id = 152,
-			fish_id = 62,
+			fish_id = 61,
 		},
 		[153]=
 		{
 			id = 153,
-			fish_id = 62,
+			fish_id = 61,
 		},
 	},
 }
