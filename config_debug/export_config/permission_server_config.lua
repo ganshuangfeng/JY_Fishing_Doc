@@ -15999,14 +15999,34 @@ return {
 			no = 954,
 			id = 390,
 			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "小于V3",
+		},
+		[955]=
+		{
+			no = 955,
+			id = 390,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "大于V4",
+		},
+		[956]=
+		{
+			no = 956,
+			id = 390,
+			var = "vip_level",
 			value = 7,
 			judge = 4,
 			group = 1,
 			error_desc = "小于V7",
 		},
-		[955]=
+		[957]=
 		{
-			no = 955,
+			no = 957,
 			id = 390,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -16014,9 +16034,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[956]=
+		[958]=
 		{
-			no = 956,
+			no = 958,
 			id = 391,
 			var = "vip_level",
 			value = 8,
@@ -16024,9 +16044,9 @@ return {
 			group = 1,
 			error_desc = "大于V1",
 		},
-		[957]=
+		[959]=
 		{
-			no = 957,
+			no = 959,
 			id = 391,
 			var = "vip_level",
 			value = 12,
@@ -16034,9 +16054,9 @@ return {
 			group = 1,
 			error_desc = "小于V7",
 		},
-		[958]=
+		[960]=
 		{
-			no = 958,
+			no = 960,
 			id = 391,
 			var = "tag_type",
 			value = "tag_new_player",
