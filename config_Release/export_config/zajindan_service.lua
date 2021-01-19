@@ -5,8 +5,8 @@ return {
 		{
 			id = 1,
 			hammer_id = 1,
-			base_money = 2000,
-			replace_money = 4000,
+			base_money = 5000,
+			replace_money = 10000,
 			egg_open_rate = 20,
 			replace_egg_return_factor = 96,
 			replace_egg_upgrade_rate = 50,
@@ -204,7 +204,7 @@ return {
 		[13]=
 		{
 			id = 13,
-			power = 2560,
+			power = 2560.000000,
 			award = 0,
 			show_power = 0,
 			name = "空",

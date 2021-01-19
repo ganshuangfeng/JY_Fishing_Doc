@@ -217,6 +217,129 @@ return {
 			award_id = 18,
 			enable = 1,
 		},
+		[19]=
+		{
+			id = 19,
+			name = "狂欢庆典",
+			start_time = 1611014400,
+			end_time = 1611590399,
+			use_goods = {"prop_fish_drop_act_0",},
+			goods_type = 1,
+			email_id = 19,
+			award_id = 19,
+			enable = 1,
+		},
+		[20]=
+		{
+			id = 20,
+			name = "狂欢庆典-cjj",
+			start_time = 1611014400,
+			end_time = 1611590399,
+			use_goods = {"prop_fish_drop_act_0",},
+			goods_type = 1,
+			email_id = 20,
+			award_id = 20,
+			enable = 1,
+		},
+		[21]=
+		{
+			id = 21,
+			name = "发财礼包--免费--恭喜",
+			start_time = 1611014400,
+			end_time = 1611590399,
+			use_goods = {"prop_fclb_gong","prop_fclb_xi",},
+			goods_type = 1,
+			award_id = 21,
+			enable = 1,
+		},
+		[22]=
+		{
+			id = 22,
+			name = "发财礼包--免费--发财",
+			start_time = 1611014400,
+			end_time = 1611590399,
+			use_goods = {"prop_fclb_fa","prop_fclb_cai",},
+			goods_type = 1,
+			award_id = 22,
+			enable = 1,
+		},
+		[23]=
+		{
+			id = 23,
+			name = "发财礼包--免费--恭喜发财",
+			start_time = 1611014400,
+			end_time = 1611590399,
+			use_goods = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai",},
+			goods_type = 1,
+			award_id = 23,
+			enable = 1,
+		},
+		[24]=
+		{
+			id = 24,
+			name = "发财礼包--V1V7--恭喜",
+			start_time = 1611014400,
+			end_time = 1611590399,
+			use_goods = {"prop_fclb_gong","prop_fclb_xi",},
+			goods_type = 1,
+			award_id = 24,
+			enable = 1,
+		},
+		[25]=
+		{
+			id = 25,
+			name = "发财礼包--V1V7--发财",
+			start_time = 1611014400,
+			end_time = 1611590399,
+			use_goods = {"prop_fclb_fa","prop_fclb_cai",},
+			goods_type = 1,
+			award_id = 25,
+			enable = 1,
+		},
+		[26]=
+		{
+			id = 26,
+			name = "发财礼包--V1V7--恭喜发财",
+			start_time = 1611014400,
+			end_time = 1611590399,
+			use_goods = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai",},
+			goods_type = 1,
+			award_id = 26,
+			enable = 1,
+		},
+		[27]=
+		{
+			id = 27,
+			name = "发财礼包--V8V12--恭喜",
+			start_time = 1611014400,
+			end_time = 1611590399,
+			use_goods = {"prop_fclb_gong","prop_fclb_xi",},
+			goods_type = 1,
+			award_id = 27,
+			enable = 1,
+		},
+		[28]=
+		{
+			id = 28,
+			name = "发财礼包--V8V12--发财",
+			start_time = 1611014400,
+			end_time = 1611590399,
+			use_goods = {"prop_fclb_fa","prop_fclb_cai",},
+			goods_type = 1,
+			award_id = 28,
+			enable = 1,
+		},
+		[29]=
+		{
+			id = 29,
+			name = "发财礼包--V8V12--恭喜发财",
+			start_time = 1611014400,
+			end_time = 1611590399,
+			use_goods = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai",},
+			goods_type = 1,
+			award_id = 29,
+			enable = 1,
+		},
 	},
 	email=
 	{
@@ -319,14 +442,26 @@ return {
 		[17]=
 		{
 			id = 17,
-			title = "兑换好礼",
-			content = "恭喜您在欢乐嘉年华活动中获得了%s，请在活动结束后7个工作日内联系公众号《鲸鱼初纪元》客服领取，逾期视为自动放弃！",
+			title = "兑换奖励",
+			content = "恭喜您在欢乐庆典活动中获得了%s，请在活动结束后7个工作日内联系公众号《鲸鱼初纪元》客服领取，逾期视为自动放弃！",
 		},
 		[18]=
 		{
 			id = 18,
-			title = "兑换好礼",
-			content = "恭喜您在欢乐嘉年华活动中获得了%s，请在活动结束后7个工作日内联系公众号《彩云新世界》客服领取，逾期视为自动放弃！",
+			title = "兑换奖励",
+			content = "恭喜您在欢乐庆典活动中获得了%s，请在活动结束后7个工作日内联系公众号《彩云新世界》客服领取，逾期视为自动放弃！",
+		},
+		[19]=
+		{
+			id = 19,
+			title = "狂欢盛典",
+			content = "恭喜您在狂欢盛典活动中获得了%s，请在活动结束后7个工作日内联系公众号《鲸鱼初纪元》客服领取，逾期视为自动放弃！",
+		},
+		[20]=
+		{
+			id = 20,
+			title = "狂欢盛典",
+			content = "恭喜您在狂欢盛典活动中获得了%s，请在活动结束后7个工作日内联系公众号《彩云新世界》客服领取，逾期视为自动放弃！",
 		},
 	},
 	award=
@@ -1743,9 +1878,276 @@ return {
 			award_id = 8,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"prop_hammer_3",},
+			asset_count = {1,},
+			use_num = {1200,},
+			me_limit_day_num = 1,
+		},
+		[137]=
+		{
+			no = 137,
+			award_cfg_id = 19,
+			award_id = 1,
+			permission_key = "actp_no_cjj_gej_exchange",
+			award_name = "坚果大礼包",
+			use_num = {15000,},
+			me_limit_day_num = 1,
+		},
+		[138]=
+		{
+			no = 138,
+			award_cfg_id = 19,
+			award_id = 2,
+			permission_key = "actp_no_cjj_gej_exchange",
+			award_name = "高档电热水袋",
+			use_num = {8000,},
+			me_limit_day_num = 1,
+		},
+		[139]=
+		{
+			no = 139,
+			award_cfg_id = 19,
+			award_id = 3,
+			permission_key = "actp_no_cjj_gej_exchange",
+			award_name = "花生酥1斤",
+			use_num = {5000,},
+			me_limit_day_num = 1,
+		},
+		[140]=
+		{
+			no = 140,
+			award_cfg_id = 19,
+			award_id = 4,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {20000000,},
+			use_num = {24000,},
+		},
+		[141]=
+		{
+			no = 141,
+			award_cfg_id = 19,
+			award_id = 5,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"prop_3d_fish_nuclear_bomb_3",},
+			asset_count = {1,},
+			use_num = {12000,},
+			me_limit_day_num = 3,
+		},
+		[142]=
+		{
+			no = 142,
+			award_cfg_id = 19,
+			award_id = 6,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"prop_3d_fish_nuclear_bomb_2",},
+			asset_count = {1,},
+			use_num = {6000,},
+			me_limit_day_num = 2,
+		},
+		[143]=
+		{
+			no = 143,
+			award_cfg_id = 19,
+			award_id = 7,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {2000000,},
+			use_num = {2400,},
+			me_limit_day_num = 1,
+		},
+		[144]=
+		{
+			no = 144,
+			award_cfg_id = 19,
+			award_id = 8,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"prop_3d_fish_nuclear_bomb_1",},
+			asset_count = {1,},
+			use_num = {1200,},
+			me_limit_day_num = 1,
+		},
+		[145]=
+		{
+			no = 145,
+			award_cfg_id = 20,
+			award_id = 1,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "坚果大礼包",
+			use_num = {15000,},
+			me_limit_day_num = 1,
+		},
+		[146]=
+		{
+			no = 146,
+			award_cfg_id = 20,
+			award_id = 2,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "高档电热水袋",
+			use_num = {8000,},
+			me_limit_day_num = 1,
+		},
+		[147]=
+		{
+			no = 147,
+			award_cfg_id = 20,
+			award_id = 3,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "花生酥1斤",
+			use_num = {5000,},
+			me_limit_day_num = 1,
+		},
+		[148]=
+		{
+			no = 148,
+			award_cfg_id = 20,
+			award_id = 4,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {20000000,},
+			use_num = {24000,},
+		},
+		[149]=
+		{
+			no = 149,
+			award_cfg_id = 20,
+			award_id = 5,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {10000000,},
+			use_num = {12000,},
+			me_limit_day_num = 3,
+		},
+		[150]=
+		{
+			no = 150,
+			award_cfg_id = 20,
+			award_id = 6,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"prop_hammer_4",},
+			asset_count = {5,},
+			use_num = {6000,},
+			me_limit_day_num = 2,
+		},
+		[151]=
+		{
+			no = 151,
+			award_cfg_id = 20,
+			award_id = 7,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {2000000,},
+			use_num = {2400,},
+			me_limit_day_num = 1,
+		},
+		[152]=
+		{
+			no = 152,
+			award_cfg_id = 20,
+			award_id = 8,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"prop_hammer_3",},
 			asset_count = {10,},
 			use_num = {1200,},
 			me_limit_day_num = 1,
+		},
+		[153]=
+		{
+			no = 153,
+			award_cfg_id = 21,
+			award_id = 1,
+			permission_key = "actp_buy_gift_bag_class_fclb_free_001",
+			asset_type = {"jing_bi",},
+			asset_count = {100000,},
+			use_num = {1,1,},
+			me_limit_day_num = 9999,
+		},
+		[154]=
+		{
+			no = 154,
+			award_cfg_id = 22,
+			award_id = 1,
+			permission_key = "actp_buy_gift_bag_class_fclb_free_001",
+			asset_type = {"jing_bi",},
+			asset_count = {300000,},
+			use_num = {1,1,},
+			me_limit_day_num = 9999,
+		},
+		[155]=
+		{
+			no = 155,
+			award_cfg_id = 23,
+			award_id = 1,
+			permission_key = "actp_buy_gift_bag_class_fclb_free_001",
+			asset_type = {"jing_bi",},
+			asset_count = {500000,},
+			use_num = {1,1,1,1,},
+			me_limit_day_num = 9999,
+		},
+		[156]=
+		{
+			no = 156,
+			award_cfg_id = 24,
+			award_id = 1,
+			permission_key = "actp_buy_gift_bag_class_fclb_v1v7_001",
+			asset_type = {"jing_bi",},
+			asset_count = {300000,},
+			use_num = {1,1,},
+			me_limit_day_num = 9999,
+		},
+		[157]=
+		{
+			no = 157,
+			award_cfg_id = 25,
+			award_id = 1,
+			permission_key = "actp_buy_gift_bag_class_fclb_v1v7_001",
+			asset_type = {"jing_bi",},
+			asset_count = {1000000,},
+			use_num = {1,1,},
+			me_limit_day_num = 9999,
+		},
+		[158]=
+		{
+			no = 158,
+			award_cfg_id = 26,
+			award_id = 1,
+			permission_key = "actp_buy_gift_bag_class_fclb_v1v7_001",
+			asset_type = {"jing_bi",},
+			asset_count = {1500000,},
+			use_num = {1,1,1,1,},
+			me_limit_day_num = 9999,
+		},
+		[159]=
+		{
+			no = 159,
+			award_cfg_id = 27,
+			award_id = 1,
+			permission_key = "actp_buy_gift_bag_class_fclb_v8v12_001",
+			asset_type = {"jing_bi",},
+			asset_count = {600000,},
+			use_num = {1,1,},
+			me_limit_day_num = 9999,
+		},
+		[160]=
+		{
+			no = 160,
+			award_cfg_id = 28,
+			award_id = 1,
+			permission_key = "actp_buy_gift_bag_class_fclb_v8v12_001",
+			asset_type = {"jing_bi",},
+			asset_count = {2500000,},
+			use_num = {1,1,},
+			me_limit_day_num = 9999,
+		},
+		[161]=
+		{
+			no = 161,
+			award_cfg_id = 29,
+			award_id = 1,
+			permission_key = "actp_buy_gift_bag_class_fclb_v8v12_001",
+			asset_type = {"jing_bi",},
+			asset_count = {3500000,},
+			use_num = {1,1,1,1,},
+			me_limit_day_num = 9999,
 		},
 	},
 }

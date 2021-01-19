@@ -646,9 +646,9 @@ return {
 			key = "hall_activity",
 			desc = "系统：大厅活动",
 			lua = "GameActivityManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[66]=
 		{
@@ -2472,12 +2472,12 @@ return {
 		[253]=
 		{
 			id = 253,
-			key = "GameComAct1",
+			key = "act_ty_task",
 			desc = "通用活动模板1",
-			lua = "GameComAct1Manager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			lua = "ActivityTaskManager",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[254]=
 		{
@@ -2989,9 +2989,9 @@ return {
 		[305]=
 		{
 			id = 305,
-			key = "act_039_ty_by_hhl",
+			key = "act_ty_by_hhl",
 			desc = "通用活动--兑换模板",
-			lua = "Act_039_TY_BY_HHLManager",
+			lua = "Act_TY_BY_HHLManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -2999,9 +2999,9 @@ return {
 		[306]=
 		{
 			id = 306,
-			key = "act_039_jzsjb",
+			key = "act_ty_sjb",
 			desc = "通用活动--排行榜模板",
-			lua = "Act_039_JZSJBManager",
+			lua = "Act_TY_JZSJBManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3009,9 +3009,9 @@ return {
 		[307]=
 		{
 			id = 307,
-			key = "act_039_ty_by_drop",
+			key = "act_ty_by_drop",
 			desc = "通用活动--掉落活动",
-			lua = "Act_039_TYBYDROPManager",
+			lua = "Act_TYBYDROPManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3092,6 +3092,44 @@ return {
 			key = "sys_jbp",
 			desc = "聚宝盆",
 			lua = "SYS_JBPManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[316]=
+		{
+			id = 316,
+			key = "act_041_yybjsj",
+			desc = "赢一把就睡觉",
+			lua = "Act_015_YYBJSJManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[317]=
+		{
+			id = 317,
+			key = "act_ty_fkqjd",
+			desc = "疯狂敲金蛋",
+			lua = "Act_Ty_QJD1Manager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[318]=
+		{
+			id = 318,
+			key = "act_ty_sjb_style/act_001_ygbd",
+			desc = "阳光榜单",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[319]=
+		{
+			id = 319,
+			key = "act_ty_sjb_style/act_002_bzphb",
+			desc = "爆竹排行榜",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

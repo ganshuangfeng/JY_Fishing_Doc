@@ -420,6 +420,188 @@ return {
 		[1]=
 		{
 			id = 1,
+			task_id = 12600,
+			order = 1,
+			task_name = "水果消消乐",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "水果消消乐游戏50次",
+			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x500","x5"},
+			gotoui = {"game_Eliminate",},
+		},
+		[2]=
+		{
+			id = 2,
+			task_id = 12601,
+			order = 2,
+			task_name = "水果消消乐",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "水果消消乐累计消除苹果200个",
+			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x1000","x5"},
+			gotoui = {"game_Eliminate",},
+		},
+		[3]=
+		{
+			id = 3,
+			task_id = 12602,
+			order = 3,
+			task_name = "水果消消乐",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "水果消消乐累计消除铃铛200个",
+			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x1000","x10"},
+			gotoui = {"game_Eliminate",},
+		},
+		[4]=
+		{
+			id = 4,
+			task_id = 12603,
+			order = 4,
+			task_name = "水果消消乐",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "水果消消乐累计消除西瓜200个",
+			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x1000","x10"},
+			gotoui = {"game_Eliminate",},
+		},
+		[5]=
+		{
+			id = 5,
+			task_id = 12604,
+			order = 5,
+			task_name = "水果消消乐",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "水果消消乐累计消除BAR100个",
+			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x1000","x10"},
+			gotoui = {"game_Eliminate",},
+		},
+		[6]=
+		{
+			id = 6,
+			task_id = 12605,
+			order = 6,
+			task_name = "水果消消乐",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "累计赢金100万(单局至少投入5千)",
+			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x2000","x20"},
+			gotoui = {"game_Eliminate",},
+		},
+		[7]=
+		{
+			id = 7,
+			task_id = 12606,
+			order = 7,
+			task_name = "水果消消乐",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "出现幸运时刻(单局至少投入3万)",
+			task_award_icon = {"ty_icon_jb_2498y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x3000","x30"},
+			gotoui = {"game_Eliminate",},
+		},
+		[8]=
+		{
+			id = 8,
+			task_id = 12607,
+			order = 8,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金1万",
+			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x200","x5"},
+			gotoui = {"game_MiniGame",},
+		},
+		[9]=
+		{
+			id = 9,
+			task_id = 12608,
+			order = 9,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金5万",
+			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x1000","x5"},
+			gotoui = {"game_MiniGame",},
+		},
+		[10]=
+		{
+			id = 10,
+			task_id = 12609,
+			order = 10,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金10万",
+			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x2000","x10"},
+			gotoui = {"game_MiniGame",},
+		},
+		[11]=
+		{
+			id = 11,
+			task_id = 12610,
+			order = 11,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金50万",
+			task_award_icon = {"ty_icon_jb_30y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x2000","x10"},
+			gotoui = {"game_MiniGame",},
+		},
+		[12]=
+		{
+			id = 12,
+			task_id = 12611,
+			order = 12,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金100万",
+			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x3000","x10"},
+			gotoui = {"game_MiniGame",},
+		},
+		[13]=
+		{
+			id = 13,
+			task_id = 12612,
+			order = 13,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金500万",
+			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x5000","x20"},
+			gotoui = {"game_MiniGame",},
+		},
+		[14]=
+		{
+			id = 14,
+			task_id = 12613,
+			order = 14,
+			task_name = "累计赢金",
+			task_icon = "rw_icon_mrzz",
+			task_instruction = "红包场累计赢金1000万",
+			task_award_icon = {"ty_icon_jb_2498y","ty_icon_hytb",},
+			task_award_instruction = {"金币","活跃度"},
+			task_award_count = {"x10000","x30"},
+			gotoui = {"game_MiniGame",},
+		},
+		[15]=
+		{
+			id = 15,
 			task_id = 12614,
 			order = 2,
 			task_name = "水果消消乐",
@@ -430,9 +612,9 @@ return {
 			task_award_count = {"x500","x10"},
 			gotoui = {"game_MiniGame",},
 		},
-		[2]=
+		[16]=
 		{
-			id = 2,
+			id = 16,
 			task_id = 12615,
 			order = 3,
 			task_name = "水浒消消乐",
@@ -445,9 +627,9 @@ return {
 			vip = 1,
 			vip_desc = {"V1双倍", ""},
 		},
-		[3]=
+		[17]=
 		{
-			id = 3,
+			id = 17,
 			task_id = 12616,
 			order = 4,
 			task_name = "西游消消乐",
@@ -458,9 +640,9 @@ return {
 			task_award_count = {"x1000","x20"},
 			gotoui = {"game_MiniGame",},
 		},
-		[4]=
+		[18]=
 		{
-			id = 4,
+			id = 18,
 			task_id = 12617,
 			order = 5,
 			task_name = "龙王争霸",
@@ -471,16 +653,16 @@ return {
 			task_award_count = {"x2000","x30"},
 			gotoui = {"game_MiniGame",},
 			vip = 2,
-			vip_desc = {"V2双倍", ""},
+			vip_desc = {"V2三倍", ""},
 		},
-		[5]=
+		[19]=
 		{
-			id = 5,
+			id = 19,
 			task_id = 12618,
 			order = 6,
 			task_name = "水果消消乐",
 			task_icon = "rw_icon_mrzz",
-			task_instruction = "水果消消乐出现一次幸运时刻（单局至少投入3万）",
+			task_instruction = "水果消消乐出现一次幸运时刻（单局至少投入6万）",
 			task_award_icon = {"ty_icon_jb_198y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
 			task_award_count = {"x3000","x30"},
@@ -488,9 +670,9 @@ return {
 			vip = 3,
 			vip_desc = {"V3三倍", ""},
 		},
-		[6]=
+		[20]=
 		{
-			id = 6,
+			id = 20,
 			task_id = 12619,
 			order = 7,
 			task_name = "累计赢金",
@@ -503,9 +685,9 @@ return {
 			vip = 5,
 			vip_desc = {"V5三倍", ""},
 		},
-		[7]=
+		[21]=
 		{
-			id = 7,
+			id = 21,
 			task_id = 12620,
 			order = 1,
 			task_name = "单笔充值",

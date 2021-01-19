@@ -172,8 +172,8 @@ return {
 			act_id = 74,
 			judge_type = 2,
 			max_num = 1,
-			start_time = 1610409600,
-			end_time = 1610985599,
+			start_time = 1611014400,
+			end_time = 1611590399,
 		},
 		[17]=
 		{
@@ -182,8 +182,8 @@ return {
 			act_id = 75,
 			judge_type = 2,
 			max_num = 1,
-			start_time = 1610409600,
-			end_time = 1610985599,
+			start_time = 1611014400,
+			end_time = 1611590399,
 		},
 		[18]=
 		{
@@ -192,8 +192,8 @@ return {
 			act_id = 76,
 			judge_type = 2,
 			max_num = 1,
-			start_time = 1610409600,
-			end_time = 1610985599,
+			start_time = 1611014400,
+			end_time = 1611590399,
 		},
 		[19]=
 		{
@@ -202,8 +202,8 @@ return {
 			act_id = 77,
 			judge_type = 2,
 			max_num = 5,
-			start_time = 1610409600,
-			end_time = 1610985599,
+			start_time = 1611014400,
+			end_time = 1611590399,
 		},
 	},
 	change_style=

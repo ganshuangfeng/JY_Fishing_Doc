@@ -29,7 +29,7 @@ return {
 		{
 			id = 5,
 			area = "top_right",
-			group_list = "108#",
+			group_list = "108#11#",
 		},
 	},
 	xxlsh_game=
@@ -445,7 +445,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "120#",
+			group_list = "121#",
 		},
 	},
 	all_enter=
@@ -1173,6 +1173,12 @@ return {
 		{
 			id = 120,
 			parm = {"act_ty_zp1",},
+			is_on_off = 1,
+		},
+		[121]=
+		{
+			id = 121,
+			parm = {"act_ty_collect_words",},
 			is_on_off = 1,
 		},
 	},

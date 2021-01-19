@@ -5614,7 +5614,7 @@ return {
 			id = 290,
 			enable = 0,
 			key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v8",
-			name = "欢乐敲金蛋活动购买礼包（V8-V10，非新玩家）",
+			name = "欢乐敲金蛋活动购买礼包（V8-V12，非新玩家）",
 			condi = 296,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -6405,13 +6405,61 @@ return {
 		{
 			id = 356,
 			enable = 1,
-			key = "actp_own_task_p_no_vivo",
-			name = "除vivo外全渠道",
+			key = "actp_own_task_1000238",
+			name = "非新权限",
 			condi = 387,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1611014400,
+			start_deal_time = 1588028400,
+		},
+		[357]=
+		{
+			id = 357,
+			enable = 1,
+			key = "actp_own_task_p_hammer",
+			name = "疯狂敲金蛋使用锤子（所有用户）",
+			condi = 388,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1611590400,
+		},
+		[358]=
+		{
+			id = 358,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_golden_egg_1",
+			name = "疯狂敲金蛋V3以下",
+			condi = 389,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1611590400,
+		},
+		[359]=
+		{
+			id = 359,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_golden_egg_2",
+			name = "疯狂敲金蛋V4V7",
+			condi = 390,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1611590400,
+		},
+		[360]=
+		{
+			id = 360,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_golden_egg_3",
+			name = "疯狂敲金蛋V8V12",
+			condi = 391,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1611590400,
 		},
 	},
 	condi=
@@ -13811,7 +13859,7 @@ return {
 			no = 740,
 			id = 296,
 			var = "vip_level",
-			value = 10,
+			value = 12,
 			judge = 4,
 			group = 1,
 			error_desc = "VIP10及以下的用户可进行游戏",
@@ -15769,16 +15817,6 @@ return {
 		[936]=
 		{
 			no = 936,
-			id = 381,
-			var = "market_channel",
-			value = "vivo",
-			judge = 5,
-			group = 1,
-			error_desc = "非vivo的全渠道",
-		},
-		[937]=
-		{
-			no = 937,
 			id = 382,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -15786,9 +15824,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[938]=
+		[937]=
 		{
-			no = 938,
+			no = 937,
 			id = 382,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -15796,9 +15834,9 @@ return {
 			group = 2,
 			error_desc = "是免费用户",
 		},
-		[939]=
+		[938]=
 		{
-			no = 939,
+			no = 938,
 			id = 382,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -15806,9 +15844,9 @@ return {
 			group = 3,
 			error_desc = "是小额用户",
 		},
-		[940]=
+		[939]=
 		{
-			no = 940,
+			no = 939,
 			id = 383,
 			var = "vip_level",
 			value = 1,
@@ -15816,9 +15854,9 @@ return {
 			group = 1,
 			error_desc = "大于V1",
 		},
-		[941]=
+		[940]=
 		{
-			no = 941,
+			no = 940,
 			id = 383,
 			var = "vip_level",
 			value = 7,
@@ -15826,9 +15864,9 @@ return {
 			group = 1,
 			error_desc = "小于V7",
 		},
-		[942]=
+		[941]=
 		{
-			no = 942,
+			no = 941,
 			id = 383,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -15836,9 +15874,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[943]=
+		[942]=
 		{
-			no = 943,
+			no = 942,
 			id = 384,
 			var = "vip_level",
 			value = 8,
@@ -15846,9 +15884,9 @@ return {
 			group = 1,
 			error_desc = "大于V1",
 		},
-		[944]=
+		[943]=
 		{
-			no = 944,
+			no = 943,
 			id = 384,
 			var = "vip_level",
 			value = 12,
@@ -15856,9 +15894,9 @@ return {
 			group = 1,
 			error_desc = "小于V7",
 		},
-		[945]=
+		[944]=
 		{
-			no = 945,
+			no = 944,
 			id = 384,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -15866,9 +15904,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[946]=
+		[945]=
 		{
-			no = 946,
+			no = 945,
 			id = 385,
 			var = "vip_level",
 			value = 0,
@@ -15876,9 +15914,9 @@ return {
 			group = 1,
 			error_desc = "VIP等级0",
 		},
-		[947]=
+		[946]=
 		{
-			no = 947,
+			no = 946,
 			id = 386,
 			var = "vip_level",
 			value = 1,
@@ -15886,15 +15924,125 @@ return {
 			group = 1,
 			error_desc = "VIP等级1",
 		},
+		[947]=
+		{
+			no = 947,
+			id = 387,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新玩家",
+		},
 		[948]=
 		{
 			no = 948,
-			id = 387,
-			var = "market_channel",
-			value = "vivo",
+			id = 388,
+			var = "tag_type",
+			value = "tag_class_new_player",
 			judge = 5,
 			group = 1,
-			error_desc = "非vivo的全渠道",
+			error_desc = "不是新用户",
+		},
+		[949]=
+		{
+			no = 949,
+			id = 388,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 2,
+			error_desc = "是新用户",
+		},
+		[950]=
+		{
+			no = 950,
+			id = 389,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
+		},
+		[951]=
+		{
+			no = 951,
+			id = 389,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "是免费用户",
+		},
+		[952]=
+		{
+			no = 952,
+			id = 389,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "是小额用户",
+		},
+		[953]=
+		{
+			no = 953,
+			id = 390,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "大于V1",
+		},
+		[954]=
+		{
+			no = 954,
+			id = 390,
+			var = "vip_level",
+			value = 7,
+			judge = 4,
+			group = 1,
+			error_desc = "小于V7",
+		},
+		[955]=
+		{
+			no = 955,
+			id = 390,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新玩家",
+		},
+		[956]=
+		{
+			no = 956,
+			id = 391,
+			var = "vip_level",
+			value = 8,
+			judge = 3,
+			group = 1,
+			error_desc = "大于V1",
+		},
+		[957]=
+		{
+			no = 957,
+			id = 391,
+			var = "vip_level",
+			value = 12,
+			judge = 4,
+			group = 1,
+			error_desc = "小于V7",
+		},
+		[958]=
+		{
+			no = 958,
+			id = 391,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新玩家",
 		},
 	},
 	share_condition=
