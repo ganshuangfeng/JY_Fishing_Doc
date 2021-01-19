@@ -15987,7 +15987,7 @@ return {
 		[953]=
 		{
 			no = 953,
-			id = 390,
+			id = 389,
 			var = "vip_level",
 			value = 1,
 			judge = 3,
@@ -15997,7 +15997,7 @@ return {
 		[954]=
 		{
 			no = 954,
-			id = 390,
+			id = 389,
 			var = "vip_level",
 			value = 3,
 			judge = 4,
