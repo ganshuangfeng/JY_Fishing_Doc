@@ -787,16 +787,6 @@ return {
 			award_id = 72,
 			enable = 1,
 		},
-		[73]=
-		{
-			id = 73,
-			name = "福袋--正常",
-			start_time = 1612828800,
-			end_time = 1613404799,
-			use_asset_id = 68,
-			award_id = 73,
-			enable = 1,
-		},
 	},
 	use_asset=
 	{
@@ -1267,13 +1257,6 @@ return {
 			id = 67,
 			use_id = 67,
 			use_item = "prop_hqjnh_csbox",
-			use_num = 1,
-		},
-		[68]=
-		{
-			id = 68,
-			use_id = 68,
-			use_item = "prop_fish_drop_act_0",
 			use_num = 1,
 		},
 	},
@@ -4458,34 +4441,6 @@ return {
 			award_id = 72,
 			real_award_id = 11929,
 			weight = 5,
-		},
-		[454]=
-		{
-			no = 454,
-			award_id = 73,
-			real_award_id = 11930,
-			weight = 30,
-		},
-		[455]=
-		{
-			no = 455,
-			award_id = 73,
-			real_award_id = 11931,
-			weight = 30,
-		},
-		[456]=
-		{
-			no = 456,
-			award_id = 73,
-			real_award_id = 11932,
-			weight = 10,
-		},
-		[457]=
-		{
-			no = 457,
-			award_id = 73,
-			real_award_id = 11933,
-			weight = 30,
 		},
 	},
 	award_item=
@@ -7899,34 +7854,6 @@ return {
 			real_award_id = 11929,
 			asset_type = "prop_web_chip_huafei",
 			asset_count = {200,300},
-		},
-		[454]=
-		{
-			id = 454,
-			real_award_id = 11930,
-			asset_type = "prop_gdn_x",
-			asset_count = {1,},
-		},
-		[455]=
-		{
-			id = 455,
-			real_award_id = 11931,
-			asset_type = "prop_gdn_n",
-			asset_count = {1,},
-		},
-		[456]=
-		{
-			id = 456,
-			real_award_id = 11932,
-			asset_type = "prop_gdn_k",
-			asset_count = {1,},
-		},
-		[457]=
-		{
-			id = 457,
-			real_award_id = 11933,
-			asset_type = "prop_gdn_l",
-			asset_count = {1,},
 		},
 	},
 	weight=
