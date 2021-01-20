@@ -34,6 +34,7 @@ return {
 	{
 		[1]=
 		{
+			line = 1,
 			ID = 1,
 			award_name = "太阳取暖器",
 			award_image = "swjl_1",
@@ -43,6 +44,7 @@ return {
 		},
 		[2]=
 		{
+			line = 2,
 			ID = 2,
 			award_name = "高档暖手宝",
 			award_image = "swjl_2",
@@ -52,6 +54,7 @@ return {
 		},
 		[3]=
 		{
+			line = 3,
 			ID = 3,
 			award_name = "羊毛围巾",
 			award_image = "swjl_3",
@@ -61,6 +64,7 @@ return {
 		},
 		[4]=
 		{
+			line = 4,
 			ID = 4,
 			award_name = "2000万金币",
 			award_image = "pay_icon_gold9",
@@ -69,22 +73,25 @@ return {
 		},
 		[5]=
 		{
+			line = 5,
 			ID = 5,
-			award_name = "高级核弹",
+			award_name = "高级核弹*1",
 			award_image = "icon_gjhd",
 			item_cost_text = 12000,
 			type = 0,
 		},
 		[6]=
 		{
+			line = 6,
 			ID = 6,
-			award_name = "中级核弹",
+			award_name = "中级核弹*1",
 			award_image = "icon_zjhd",
 			item_cost_text = 6000,
 			type = 0,
 		},
 		[7]=
 		{
+			line = 7,
 			ID = 7,
 			award_name = "200万金币",
 			award_image = "pay_icon_gold7",
@@ -93,15 +100,17 @@ return {
 		},
 		[8]=
 		{
+			line = 8,
 			ID = 8,
-			award_name = "初级核弹",
+			award_name = "初级核弹*1",
 			award_image = "icon_cjhd",
 			item_cost_text = 1200,
 			type = 0,
 		},
 		[9]=
 		{
-			ID = 9,
+			line = 9,
+			ID = 1,
 			award_name = "太阳取暖器",
 			award_image = "swjl_1",
 			item_cost_text = 15000,
@@ -110,7 +119,8 @@ return {
 		},
 		[10]=
 		{
-			ID = 10,
+			line = 10,
+			ID = 2,
 			award_name = "高档暖手宝",
 			award_image = "swjl_2",
 			item_cost_text = 8000,
@@ -119,7 +129,8 @@ return {
 		},
 		[11]=
 		{
-			ID = 11,
+			line = 11,
+			ID = 3,
 			award_name = "羊毛围巾",
 			award_image = "swjl_3",
 			item_cost_text = 5000,
@@ -128,7 +139,8 @@ return {
 		},
 		[12]=
 		{
-			ID = 12,
+			line = 12,
+			ID = 4,
 			award_name = "2000万金币",
 			award_image = "pay_icon_gold9",
 			item_cost_text = 24000,
@@ -136,7 +148,8 @@ return {
 		},
 		[13]=
 		{
-			ID = 13,
+			line = 13,
+			ID = 5,
 			award_name = "1000万金币",
 			award_image = "pay_icon_gold8",
 			item_cost_text = 12000,
@@ -144,15 +157,17 @@ return {
 		},
 		[14]=
 		{
-			ID = 14,
-			award_name = "小金锤",
+			line = 14,
+			ID = 6,
+			award_name = "小金锤*5",
 			award_image = "icon_jc",
 			item_cost_text = 6000,
 			type = 0,
 		},
 		[15]=
 		{
-			ID = 15,
+			line = 15,
+			ID = 7,
 			award_name = "200万金币",
 			award_image = "pay_icon_gold7",
 			item_cost_text = 2400,
@@ -160,8 +175,9 @@ return {
 		},
 		[16]=
 		{
-			ID = 16,
-			award_name = "小银锤",
+			line = 16,
+			ID = 8,
+			award_name = "小银锤*10",
 			award_image = "icon_yc",
 			item_cost_text = 1200,
 			type = 0,
