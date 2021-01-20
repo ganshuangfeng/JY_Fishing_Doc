@@ -4068,18 +4068,5 @@ return {
 			name = "乐",
 			desc = "过大年--乐字符",
 		},
-		[302]=
-		{
-			id = 302,
-			item_id = 302,
-			item_key = "prop_gdn_xnfd",
-			lose_time = -1,
-			is_local_icon = 1,
-			image = "act_ty_by_drop_7",
-			is_show_bag = 0,
-			order = 1,
-			name = "福袋--深海",
-			desc = "过大年--福袋（深海探险产出）",
-		},
 	},
 }
