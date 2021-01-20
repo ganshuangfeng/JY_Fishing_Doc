@@ -263,7 +263,6 @@ return {
 			first_ctor_min_round = 0,
 			power = 1,
 			clear_level = 3,
-			append_image_id = 9,
 		},
 		[2]=
 		{
@@ -368,21 +367,6 @@ return {
 			ctor_count = 9999999,
 			first_ctor_min_round = 1,
 			power = 1,
-			clear_level = 3,
-		},
-		[9]=
-		{
-			no = 9,
-			image_cfg = "fish_3d_yutu_gd_smallboss",
-			image_no = 1,
-			type = "guding",
-			over_time_min = 1200,
-			over_time_max = 1200,
-			ctor_in_min_round = 9999999,
-			ctor_in_max_round = 9999999,
-			ctor_count = 9999999,
-			first_ctor_min_round = 9999999,
-			power = 0,
 			clear_level = 3,
 		},
 	},
