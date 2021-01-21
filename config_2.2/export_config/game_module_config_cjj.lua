@@ -3126,5 +3126,13 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[320]=
+		{
+			id = 320,
+			key = "sys_act_base_style",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

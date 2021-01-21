@@ -3077,15 +3077,8 @@ return {
 		[314]=
 		{
 			id = 314,
-			key = "act_ty_by_drop_style/act_003_taiyang",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[315]=
-		{
-			id = 315,
-			key = "act_ty_by_drop_style/act_004_baozhu",
+			key = "sys_act_base_style",
+			desc = "活动皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
