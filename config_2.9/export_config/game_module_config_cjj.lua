@@ -3155,5 +3155,13 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[323]=
+		{
+			id = 323,
+			key = "sys_act_base_style",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

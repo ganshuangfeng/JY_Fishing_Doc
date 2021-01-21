@@ -3124,5 +3124,14 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[319]=
+		{
+			id = 319,
+			key = "sys_act_base_style",
+			desc = "活动皮肤",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
