@@ -2225,7 +2225,7 @@ return {
 			id = 94,
 			process_id = 94,
 			source_id = 94,
-			process = {5,10,20,30,},
+			process = {5,5,10,10,},
 			awards = {116,117,118,119,},
 			get_award_type = "nor",
 		},
