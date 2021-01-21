@@ -1584,7 +1584,6 @@ return {
 			max_ratespeed = 30,
 			mass = 1,
 			rate = 600,
-			rotation = {60,0},
 			dead_index = 3,
 			gq_scale = 0.660000,
 			fx_scale = 1,
