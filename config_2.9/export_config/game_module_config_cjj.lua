@@ -3126,5 +3126,34 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[320]=
+		{
+			id = 320,
+			key = "act_045_xxlbd",
+			desc = "过大年--消消乐争霸",
+			lua = "Act_045_XXLBDManger",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[321]=
+		{
+			id = 321,
+			key = "act_ty_universal_dh",
+			desc = "万能字",
+			lua = "Act_Ty_UNIVERSAL_DHManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[322]=
+		{
+			id = 322,
+			key = "act_ty_universal_dh_style/act_001_universal",
+			desc = "万能字资源皮肤",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
