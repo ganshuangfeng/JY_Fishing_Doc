@@ -3164,5 +3164,32 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[324]=
+		{
+			id = 324,
+			key = "act_ty_by_drop_style/act_005_fudai",
+			desc = "福袋boss皮肤",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[325]=
+		{
+			id = 325,
+			key = "act_ty_by_drop_style/act_006_jinyuanbao",
+			desc = "金元宝boss皮肤",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[326]=
+		{
+			id = 326,
+			key = "act_ty_by_drop_style/act_007_xiaotangyuan",
+			desc = "小汤圆boss皮肤",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
