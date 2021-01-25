@@ -1331,7 +1331,7 @@ return {
 			id = 69,
 			use_id = 69,
 			use_item = "prop_xnsmt_cjq",
-			use_num = 1,
+			use_num = 3,
 		},
 		[70]=
 		{
