@@ -27695,31 +27695,23 @@ return {
 			id = 586,
 			condition_id = 426,
 			condition_name = "act_type",
-			condition_value = "answer_2021_2_9",
+			condition_value = {"answer_2021_2_9","answer_2021_2_9_cjj",},
 			judge_type = 2,
 		},
 		[587]=
 		{
 			id = 587,
-			condition_id = 426,
-			condition_name = "act_type",
-			condition_value = "answer_2021_2_9_cjj",
-			judge_type = 2,
-		},
-		[588]=
-		{
-			id = 588,
 			condition_id = 427,
 			condition_name = "share_type",
 			condition_value = "game",
 			judge_type = 2,
 		},
-		[589]=
+		[588]=
 		{
-			id = 589,
+			id = 588,
 			condition_id = 428,
 			condition_name = "box_exchange_type",
-			condition_value = {box_exchange_74,box_exchange_75,box_exchange_76},
+			condition_value = {"box_exchange_74","box_exchange_75","box_exchange_76",},
 			judge_type = 2,
 		},
 	},

@@ -11,6 +11,7 @@ return {
 			everyone_exist_qiang_hb_num = 2,
 			tg_static_head = "http://jydown.jyhd919.cn/head_images3/jy/girl_girl3462.jpg",
 			tg_static_name = "财神爷",
+			kaijiang_time = {10,},
 			kaijiang_deal_award = 0.200000,
 		},
 	},
