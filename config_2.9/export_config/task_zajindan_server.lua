@@ -40079,7 +40079,7 @@ return {
 			id = 1545,
 			award_id = 1018,
 			asset_type = "jing_bi",
-			asset_count = 10000,
+			asset_count = 100000,
 			get_weight = 1,
 		},
 		[1546]=
