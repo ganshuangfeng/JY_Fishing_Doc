@@ -163,7 +163,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#8#122#124#61#117#115#",
+			group_list = "3;116#2#8#122#61#124#117#115#",
 		},
 		[2]=
 		{
@@ -439,7 +439,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "123#",
+			group_list = "121#",
 		},
 	},
 	all_enter=
