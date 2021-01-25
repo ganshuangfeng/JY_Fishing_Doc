@@ -1,9 +1,9 @@
 return {
 	main=
 	{
-		answer_202_2_9=
+		answer_2021_2_9=
 		{
-			key = "answer_202_2_9",
+			key = "answer_2021_2_9",
 			enable = 1,
 			init_answer_num = 1,
 			max_answer_num = 1,
