@@ -2295,9 +2295,9 @@ return {
 			key = "by3d_kpshb",
 			desc = "3D捕鱼开炮送红包",
 			lua = "BY3DKPSHBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[236]=
 		{
@@ -2665,9 +2665,9 @@ return {
 			key = "cpl_ljyjcfk",
 			desc = "小游戏累计赢金抽福卡",
 			lua = "CPL_LJYJCFKManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[273]=
 		{

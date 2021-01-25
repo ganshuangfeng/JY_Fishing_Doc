@@ -334,18 +334,12 @@ return {
 		[6]=
 		{
 			id = 6,
-			area = "Right_shtx",
-			group_list = "109#",
+			area = "Right_hd",
+			group_list = "103#",
 		},
 		[7]=
 		{
 			id = 7,
-			area = "Right_hd",
-			group_list = "103#",
-		},
-		[8]=
-		{
-			id = 8,
 			area = "Right_boss",
 			group_list = "69#73#",
 		},
