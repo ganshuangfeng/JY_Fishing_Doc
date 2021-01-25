@@ -2465,9 +2465,9 @@ return {
 			key = "act_ty_task",
 			desc = "通用活动模板1",
 			lua = "ActivityTaskManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[253]=
 		{
@@ -2813,9 +2813,9 @@ return {
 			key = "act_034_ldfd",
 			desc = "立冬福袋",
 			lua = "Act_034_LDFDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[288]=
 		{
@@ -3118,8 +3118,8 @@ return {
 		[318]=
 		{
 			id = 318,
-			key = "sys_act_base_style",
-			desc = "活动皮肤",
+			key = "act_ty_by_drop_style/act_003_taiyang",
+			desc = "太阳掉落皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3127,8 +3127,8 @@ return {
 		[319]=
 		{
 			id = 319,
-			key = "act_ty_by_drop_style/act_003_taiyang",
-			desc = "太阳掉落皮肤",
+			key = "act_ty_by_drop_style/act_004_baozhu",
+			desc = "爆竹掉落皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3136,8 +3136,8 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "act_ty_by_drop_style/act_004_baozhu",
-			desc = "爆竹掉落皮肤",
+			key = "act_ty_by_hhl_style/act_001_hhl",
+			desc = "太阳换好礼",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3145,8 +3145,8 @@ return {
 		[321]=
 		{
 			id = 321,
-			key = "act_ty_by_hhl_style/act_001_hhl",
-			desc = "太阳换好礼",
+			key = "act_ty_by_hhl_style/act_002_hhl",
+			desc = "爆竹换好礼",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3154,8 +3154,8 @@ return {
 		[322]=
 		{
 			id = 322,
-			key = "act_ty_by_hhl_style/act_002_hhl",
-			desc = "爆竹换好礼",
+			key = "sys_act_base_style",
+			desc = "活动皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

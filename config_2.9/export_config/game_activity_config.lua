@@ -247,7 +247,7 @@ return {
 			parmData = "activity_task",
 			gotoUI = {"act_ty_lb1","panel"},
 			noCloseUI = 1,
-			tag = "normal",
+			tag = "hot",
 		},
 		[16]=
 		{
@@ -280,7 +280,7 @@ return {
 			parmData = "activity_task",
 			gotoUI = {"act_045_xxlbd","panel"},
 			noCloseUI = 1,
-			tag = "normal",
+			tag = "hot",
 		},
 		[18]=
 		{
@@ -296,6 +296,38 @@ return {
 			showType = "image",
 			parmData = "xnhl_bg_xc",
 			gotoUI = {"game_Fishing3DHall",},
+			noCloseUI = 1,
+			tag = "normal",
+		},
+		[19]=
+		{
+			line = 19,
+			act_type = "weekly",
+			ID = 19,
+			title = "财神送礼",
+			order = 1,
+			is_on_off = 1,
+			beginTime = 1613433600,
+			endTime = 1614009599,
+			showType = "prefab",
+			parmData = "activity_task",
+			gotoUI = {"act_ty_by_hhl","panel"},
+			noCloseUI = 1,
+			tag = "normal",
+		},
+		[20]=
+		{
+			line = 20,
+			act_type = "weekly",
+			ID = 20,
+			title = "金元宝榜单",
+			order = 2,
+			is_on_off = 1,
+			beginTime = 1613433600,
+			endTime = 1614009599,
+			showType = "prefab",
+			parmData = "activity_task",
+			gotoUI = {"act_ty_sjb","panel"},
 			noCloseUI = 1,
 			tag = "normal",
 		},

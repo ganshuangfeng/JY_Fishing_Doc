@@ -2465,9 +2465,9 @@ return {
 			key = "act_ty_task",
 			desc = "通用活动模板1",
 			lua = "ActivityTaskManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[253]=
 		{
@@ -3100,7 +3100,7 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_001_ygbd",
+			key = "act_ty_sjb_style/act_001_dlphd",
 			desc = "阳光榜单",
 			is_on_off = 1,
 			enable = 1,
@@ -3109,7 +3109,7 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_sjb_style/act_002_bzphb",
+			key = "act_ty_sjb_style/act_002_dlphb",
 			desc = "爆竹排行榜",
 			is_on_off = 1,
 			enable = 1,
@@ -3119,6 +3119,7 @@ return {
 		{
 			id = 318,
 			key = "act_ty_by_drop_style/act_003_taiyang",
+			desc = "太阳掉落皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3127,6 +3128,7 @@ return {
 		{
 			id = 319,
 			key = "act_ty_by_drop_style/act_004_baozhu",
+			desc = "爆竹掉落皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3153,6 +3155,7 @@ return {
 		{
 			id = 322,
 			key = "sys_act_base_style",
+			desc = "活动皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

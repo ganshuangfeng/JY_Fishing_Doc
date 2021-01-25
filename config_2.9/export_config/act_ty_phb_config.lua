@@ -12,6 +12,31 @@ return {
 			e_time = 1613404799,
 			award = {1,2,3,4,5,6,7},
 			path = "act_003_dlphb",
+			condiy_key = "actp_no_cjj_gej_exchange",
+		},
+		[2]=
+		{
+			line = 2,
+			is_on_off = 1,
+			ID = 2,
+			rank_type = "xxlzb_004_rank",
+			s_time = 1612828800,
+			e_time = 1613404799,
+			award = {1,2,3,4,5,6,7},
+			path = "act_004_dlphb",
+			condiy_key = "actp_cjj_gej_exchange",
+		},
+		[3]=
+		{
+			line = 3,
+			is_on_off = 1,
+			ID = 3,
+			item_key = "prop_fish_drop_act_1",
+			rank_type = "ycs_005_jybb_rank",
+			s_time = 1613433600,
+			e_time = 1614009599,
+			award = {1,2,3,4,5,6,7},
+			path = "act_005_dlphb",
 		},
 	},
 	award_config=

@@ -2665,9 +2665,9 @@ return {
 			key = "cpl_ljyjcfk",
 			desc = "小游戏累计赢金抽福卡",
 			lua = "CPL_LJYJCFKManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[273]=
 		{
@@ -3150,6 +3150,43 @@ return {
 		{
 			id = 322,
 			key = "sys_act_base_style",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[323]=
+		{
+			id = 323,
+			key = "act_048_xnsmt",
+			desc = "新年送茅台",
+			lua = "Act_048_XNSMTManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[324]=
+		{
+			id = 324,
+			key = "act_ty_by_drop_style/act_005_fudai",
+			desc = "福袋boss皮肤",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[325]=
+		{
+			id = 325,
+			key = "act_ty_by_drop_style/act_006_jinyuanbao",
+			desc = "金元宝boss皮肤",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[326]=
+		{
+			id = 326,
+			key = "act_ty_by_drop_style/act_007_xiaotangyuan",
+			desc = "小汤圆boss皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
