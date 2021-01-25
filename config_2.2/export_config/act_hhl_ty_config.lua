@@ -20,7 +20,7 @@ return {
 			line = 2,
 			condiy_key = "cpl_cjj",
 			shop_config = {1,2,3,4,5,6,7,8},
-			config = {1,2,3,4,5,6,7,8},
+			config = {9,10,11,12,13,14,15,16},
 			change_type = 33,
 			cur_path = "act_002_hhl_",
 			item_key = "prop_fish_drop_act_0",
