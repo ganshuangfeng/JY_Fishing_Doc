@@ -7,7 +7,7 @@ return {
 			is_on_off = 1,
 			ID = 1,
 			name = "爆竹",
-			image = "act_ty_by_drop_7",
+			item_key = "prop_fish_drop_act_0",
 			rank_type = "cjs_003_bzphb_rank",
 			s_time = 1612224000,
 			e_time = 1612799999,
