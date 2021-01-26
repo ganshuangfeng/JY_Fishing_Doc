@@ -4,21 +4,21 @@ return {
 		[1]=
 		{
 			line = 1,
-			permission = "golden_egg_1",
+			permission = "actp_buy_gift_bag_class_golden_egg_1",
 			gift_config = "gift_config1",
 			eggs_config = "eggs_config1",
 		},
 		[2]=
 		{
 			line = 2,
-			permission = "golden_egg_2",
+			permission = "actp_buy_gift_bag_class_golden_egg_2",
 			gift_config = "gift_config2",
 			eggs_config = "eggs_config2",
 		},
 		[3]=
 		{
 			line = 3,
-			permission = "golden_egg_3",
+			permission = "actp_buy_gift_bag_class_golden_egg_3",
 			gift_config = "gift_config3",
 			eggs_config = "eggs_config3",
 		},
