@@ -202,7 +202,7 @@ return {
 		[7]=
 		{
 			id = 7,
-			enter_cfg_id = 5,
+			enter_cfg_id = 6,
 			asset_type = "jing_bi",
 			asset_count = 1000000,
 			judge_type = 3,
@@ -210,7 +210,7 @@ return {
 		[8]=
 		{
 			id = 8,
-			enter_cfg_id = 5,
+			enter_cfg_id = 7,
 			asset_type = "jing_bi",
 			asset_count = 2000000,
 			judge_type = 3,
@@ -218,7 +218,7 @@ return {
 		[9]=
 		{
 			id = 9,
-			enter_cfg_id = 5,
+			enter_cfg_id = 8,
 			asset_type = "jing_bi",
 			asset_count = 5000000,
 			judge_type = 3,
