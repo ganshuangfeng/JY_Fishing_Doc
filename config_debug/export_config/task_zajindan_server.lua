@@ -21580,41 +21580,34 @@ return {
 		[939]=
 		{
 			id = 939,
-			source_id = 578,
-			source_type = "get_fish_bullet_item",
-			condition_id = 422,
+			source_id = 579,
+			source_type = "xiaoxiaole_xiyou_award",
+			condition_id = 0,
 		},
 		[940]=
 		{
 			id = 940,
-			source_id = 579,
-			source_type = "xiaoxiaole_xiyou_award",
+			source_id = 580,
+			source_type = "lwzb_game_award",
 			condition_id = 0,
 		},
 		[941]=
 		{
 			id = 941,
-			source_id = 580,
-			source_type = "lwzb_game_award",
-			condition_id = 0,
-		},
-		[942]=
-		{
-			id = 942,
 			source_id = 581,
 			source_type = "agent_guess_continuity_apple_award",
 			condition_id = 423,
 		},
-		[943]=
+		[942]=
 		{
-			id = 943,
+			id = 942,
 			source_id = 582,
 			source_type = "guess_apple_award",
 			condition_id = 0,
 		},
-		[944]=
+		[943]=
 		{
-			id = 944,
+			id = 943,
 			source_id = 583,
 			source_type = "guess_apple_award_kaijiang_type",
 			condition_id = 424,
