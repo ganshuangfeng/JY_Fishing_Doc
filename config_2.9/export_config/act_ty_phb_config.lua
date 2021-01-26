@@ -12,6 +12,7 @@ return {
 			e_time = 1613404799,
 			award = {1,2,3,4,5,6,7},
 			path = "act_003_dlphb",
+			condiy_key = "actp_no_cjj_gej_exchange",
 		},
 	},
 	award_config=
