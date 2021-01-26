@@ -2989,7 +2989,7 @@ return {
 		[305]=
 		{
 			id = 305,
-			key = "act_039_ty_by_hhl",
+			key = "act_ty_by_hhl",
 			desc = "通用活动--兑换模板",
 			lua = "Act_039_TY_BY_HHLManager",
 			is_on_off = 1,
@@ -2999,7 +2999,7 @@ return {
 		[306]=
 		{
 			id = 306,
-			key = "act_039_ty_sjb",
+			key = "act_ty_sjb",
 			desc = "通用活动--排行榜模板",
 			lua = "Act_039_JZSJBManager",
 			is_on_off = 1,
@@ -3119,7 +3119,7 @@ return {
 		[318]=
 		{
 			id = 318,
-			key = "act_039_ty_sjb_style/act_001_ygbd",
+			key = "act_ty_sjb_style/act_001_ygbd",
 			desc = "阳光榜单",
 			is_on_off = 1,
 			enable = 1,
@@ -3128,7 +3128,7 @@ return {
 		[319]=
 		{
 			id = 319,
-			key = "act_039_ty_sjb_style/act_002_bzphb",
+			key = "act_ty_sjb_style/act_002_bzphb",
 			desc = "爆竹排行榜",
 			is_on_off = 1,
 			enable = 1,
@@ -3137,8 +3137,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "act_039_ty_by_hhl_style/act_001_hhl",
-			desc = "太阳换好礼",
+			key = "act_ty_by_drop_style/act_003_taiyang",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3146,7 +3145,24 @@ return {
 		[321]=
 		{
 			id = 321,
-			key = "act_039_ty_by_hhl_style/act_002_hhl",
+			key = "act_ty_by_drop_style/act_004_baozhu",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[322]=
+		{
+			id = 322,
+			key = "act_ty_by_hhl_style/act_001_hhl",
+			desc = "太阳换好礼",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[323]=
+		{
+			id = 323,
+			key = "act_ty_by_hhl_style/act_002_hhl",
 			desc = "爆竹换好礼",
 			is_on_off = 1,
 			enable = 1,

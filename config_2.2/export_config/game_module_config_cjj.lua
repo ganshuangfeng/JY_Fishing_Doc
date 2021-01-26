@@ -3084,5 +3084,57 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[315]=
+		{
+			id = 315,
+			key = "act_ty_sjb_style/act_001_ygbd",
+			desc = "阳光榜单",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[316]=
+		{
+			id = 316,
+			key = "act_ty_sjb_style/act_002_bzphb",
+			desc = "爆竹排行榜",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[317]=
+		{
+			id = 317,
+			key = "act_ty_by_drop_style/act_003_taiyang",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[318]=
+		{
+			id = 318,
+			key = "act_ty_by_drop_style/act_004_baozhu",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[319]=
+		{
+			id = 319,
+			key = "act_ty_by_hhl_style/act_001_hhl",
+			desc = "太阳换好礼",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[320]=
+		{
+			id = 320,
+			key = "act_ty_by_hhl_style/act_002_hhl",
+			desc = "爆竹换好礼",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
