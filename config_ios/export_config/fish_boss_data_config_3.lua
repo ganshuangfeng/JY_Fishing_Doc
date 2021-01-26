@@ -247,7 +247,7 @@ return {
 			type = "random",
 			over_time_min = 99999999,
 			over_time_max = 99999999,
-			ctor_in_min_round = 1,
+			ctor_in_min_round = 0,
 			ctor_in_max_round = 9999999,
 			ctor_count = 9999999,
 			first_ctor_min_round = 0,
