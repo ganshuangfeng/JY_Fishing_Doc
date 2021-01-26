@@ -12934,7 +12934,7 @@ return {
 		{
 			line_id = 532,
 			id = 10449,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "疯狂敲金蛋铜锤",
 			content = {"180万金币","铜锤",},
 			gzh_order = -31,
@@ -12958,7 +12958,7 @@ return {
 		{
 			line_id = 533,
 			id = 10450,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "疯狂敲金蛋银锤",
 			content = {"300万金币","银锤",},
 			gzh_order = -31,
@@ -12982,7 +12982,7 @@ return {
 		{
 			line_id = 534,
 			id = 10451,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "疯狂敲金蛋金锤",
 			content = {"480万金币","金锤",},
 			gzh_order = -31,
@@ -13006,7 +13006,7 @@ return {
 		{
 			line_id = 535,
 			id = 10452,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "疯狂敲金蛋铜锤",
 			content = {"480万金币","铜锤",},
 			gzh_order = -31,
@@ -13030,7 +13030,7 @@ return {
 		{
 			line_id = 536,
 			id = 10453,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "疯狂敲金蛋银锤",
 			content = {"980万金币","银锤",},
 			gzh_order = -31,
@@ -13054,7 +13054,7 @@ return {
 		{
 			line_id = 537,
 			id = 10454,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "疯狂敲金蛋金锤",
 			content = {"1980万金币","金锤",},
 			gzh_order = -31,
@@ -13078,7 +13078,7 @@ return {
 		{
 			line_id = 538,
 			id = 10455,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "疯狂敲金蛋铜锤",
 			content = {"980万金币","铜锤",},
 			gzh_order = -31,
@@ -13102,7 +13102,7 @@ return {
 		{
 			line_id = 539,
 			id = 10456,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "疯狂敲金蛋银锤",
 			content = {"1980万金币","银锤",},
 			gzh_order = -31,
@@ -13126,7 +13126,7 @@ return {
 		{
 			line_id = 540,
 			id = 10457,
-			on_off = 0,
+			on_off = 1,
 			pay_title = "疯狂敲金蛋金锤",
 			content = {"4980万金币","金锤",},
 			gzh_order = -31,

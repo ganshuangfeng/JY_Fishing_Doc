@@ -80,7 +80,7 @@ return {
 		{
 			line = 2,
 			task_id = 1000235,
-			item_key = "prop_brass_hammer_2",
+			item_key = "prop_silver_hammer_1",
 			eggs_img = {"fkqjd_icon_d2","zjd_icon_d2","zjd_icon_d3","zjd_icon_d4","zjd_icon_d5"},
 			must_be_broken = 5,
 			award_txt = 700000,
@@ -89,7 +89,7 @@ return {
 		{
 			line = 3,
 			task_id = 1000235,
-			item_key = "prop_brass_hammer_3",
+			item_key = "prop_gold_hammer_1",
 			eggs_img = {"fkqjd_icon_d13","zjd_icon_j2","zjd_icon_j3","zjd_icon_j4","zjd_icon_j5"},
 			must_be_broken = 5,
 			award_txt = 1000000,
@@ -131,7 +131,7 @@ return {
 		{
 			line = 1,
 			task_id = 1000236,
-			item_key = "prop_brass_hammer_1",
+			item_key = "prop_brass_hammer_2",
 			eggs_img = {"fkqjd_icon_d1","zjd_icon_z2","zjd_icon_z3","zjd_icon_z4","zjd_icon_z5"},
 			must_be_broken = 5,
 			award_txt = 1000000,
@@ -141,7 +141,7 @@ return {
 		{
 			line = 2,
 			task_id = 1000236,
-			item_key = "prop_brass_hammer_2",
+			item_key = "prop_silver_hammer_2",
 			eggs_img = {"fkqjd_icon_d2","zjd_icon_d2","zjd_icon_d3","zjd_icon_d4","zjd_icon_d5"},
 			must_be_broken = 5,
 			award_txt = 2000000,
@@ -150,7 +150,7 @@ return {
 		{
 			line = 3,
 			task_id = 1000236,
-			item_key = "prop_brass_hammer_3",
+			item_key = "prop_gold_hammer_2",
 			eggs_img = {"fkqjd_icon_d13","zjd_icon_j2","zjd_icon_j3","zjd_icon_j4","zjd_icon_j5"},
 			must_be_broken = 5,
 			award_txt = 4000000,
@@ -192,7 +192,7 @@ return {
 		{
 			line = 1,
 			task_id = 1000237,
-			item_key = "prop_brass_hammer_1",
+			item_key = "prop_brass_hammer_3",
 			eggs_img = {"fkqjd_icon_d1","zjd_icon_z2","zjd_icon_z3","zjd_icon_z4","zjd_icon_z5"},
 			must_be_broken = 5,
 			award_txt = 2000000,
@@ -202,7 +202,7 @@ return {
 		{
 			line = 2,
 			task_id = 1000237,
-			item_key = "prop_brass_hammer_2",
+			item_key = "prop_silver_hammer_3",
 			eggs_img = {"fkqjd_icon_d2","zjd_icon_d2","zjd_icon_d3","zjd_icon_d4","zjd_icon_d5"},
 			must_be_broken = 5,
 			award_txt = 4000000,
@@ -211,7 +211,7 @@ return {
 		{
 			line = 3,
 			task_id = 1000237,
-			item_key = "prop_brass_hammer_3",
+			item_key = "prop_gold_hammer_3",
 			eggs_img = {"fkqjd_icon_d13","zjd_icon_j2","zjd_icon_j3","zjd_icon_j4","zjd_icon_j5"},
 			must_be_broken = 5,
 			award_txt = 9000000,
