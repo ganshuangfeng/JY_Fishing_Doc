@@ -4098,5 +4098,31 @@ return {
 			name = "茅台抽奖券",
 			desc = "茅台抽奖券--2.9",
 		},
+		[304]=
+		{
+			id = 304,
+			item_id = 304,
+			item_key = "prop_xnsmt_mtsp",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "activity_icon_mtsp",
+			is_show_bag = 0,
+			order = 1,
+			name = "茅台碎片",
+			desc = "茅台碎片",
+		},
+		[305]=
+		{
+			id = 305,
+			item_id = 305,
+			item_key = "prop_fish_drop_act_1",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "act_ty_by_drop_7_1",
+			is_show_bag = 0,
+			order = 1,
+			name = "金元宝",
+			desc = "掉落物活动通用道具",
+		},
 	},
 }
