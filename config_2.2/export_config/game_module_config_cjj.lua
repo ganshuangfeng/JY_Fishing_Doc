@@ -2813,9 +2813,9 @@ return {
 			key = "act_034_ldfd",
 			desc = "立冬福袋",
 			lua = "Act_034_LDFDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[288]=
 		{
@@ -3068,7 +3068,7 @@ return {
 		[313]=
 		{
 			id = 313,
-			key = "act_ty_sjb_style/act_001_ygbd",
+			key = "act_ty_sjb_style/act_001_dlphb",
 			desc = "阳光榜单",
 			is_on_off = 1,
 			enable = 1,
@@ -3077,7 +3077,7 @@ return {
 		[314]=
 		{
 			id = 314,
-			key = "act_ty_sjb_style/act_002_bzphb",
+			key = "act_ty_sjb_style/act_002_dlphb",
 			desc = "爆竹排行榜",
 			is_on_off = 1,
 			enable = 1,
@@ -3087,6 +3087,7 @@ return {
 		{
 			id = 315,
 			key = "act_ty_by_drop_style/act_003_taiyang",
+			desc = "太阳掉落皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3095,6 +3096,7 @@ return {
 		{
 			id = 316,
 			key = "act_ty_by_drop_style/act_004_baozhu",
+			desc = "爆竹掉落皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3121,6 +3123,7 @@ return {
 		{
 			id = 319,
 			key = "sys_act_base_style",
+			desc = "活动皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
