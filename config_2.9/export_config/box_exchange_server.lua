@@ -787,6 +787,26 @@ return {
 			award_id = 72,
 			enable = 1,
 		},
+		[73]=
+		{
+			id = 73,
+			name = "福袋--正常",
+			start_time = 1612828800,
+			end_time = 1613404799,
+			use_asset_id = 68,
+			award_id = 73,
+			enable = 1,
+		},
+		[74]=
+		{
+			id = 74,
+			name = "福袋--深海",
+			start_time = 1612828800,
+			end_time = 1613404799,
+			use_asset_id = 69,
+			award_id = 74,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
@@ -1257,6 +1277,20 @@ return {
 			id = 67,
 			use_id = 67,
 			use_item = "prop_hqjnh_csbox",
+			use_num = 1,
+		},
+		[68]=
+		{
+			id = 68,
+			use_id = 59,
+			use_item = "prop_xnfd_0",
+			use_num = 1,
+		},
+		[69]=
+		{
+			id = 69,
+			use_id = 59,
+			use_item = "prop_xnfd_1",
 			use_num = 1,
 		},
 	},
@@ -4441,6 +4475,62 @@ return {
 			award_id = 72,
 			real_award_id = 11929,
 			weight = 5,
+		},
+		[454]=
+		{
+			no = 454,
+			award_id = 73,
+			real_award_id = 11930,
+			weight = 30,
+		},
+		[455]=
+		{
+			no = 455,
+			award_id = 73,
+			real_award_id = 11931,
+			weight = 30,
+		},
+		[456]=
+		{
+			no = 456,
+			award_id = 73,
+			real_award_id = 11932,
+			weight = 10,
+		},
+		[457]=
+		{
+			no = 457,
+			award_id = 73,
+			real_award_id = 11933,
+			weight = 30,
+		},
+		[458]=
+		{
+			no = 458,
+			award_id = 74,
+			real_award_id = 11934,
+			weight = 25,
+		},
+		[459]=
+		{
+			no = 459,
+			award_id = 74,
+			real_award_id = 11935,
+			weight = 25,
+		},
+		[460]=
+		{
+			no = 460,
+			award_id = 74,
+			real_award_id = 11936,
+			weight = 25,
+		},
+		[461]=
+		{
+			no = 461,
+			award_id = 74,
+			real_award_id = 11937,
+			weight = 25,
 		},
 	},
 	award_item=
@@ -7854,6 +7944,62 @@ return {
 			real_award_id = 11929,
 			asset_type = "prop_web_chip_huafei",
 			asset_count = {200,300},
+		},
+		[454]=
+		{
+			id = 454,
+			real_award_id = 11930,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = {1,},
+		},
+		[455]=
+		{
+			id = 455,
+			real_award_id = 11931,
+			asset_type = "prop_fish_drop_act_1",
+			asset_count = {1,},
+		},
+		[456]=
+		{
+			id = 456,
+			real_award_id = 11932,
+			asset_type = "prop_fish_drop_act_2",
+			asset_count = {1,},
+		},
+		[457]=
+		{
+			id = 457,
+			real_award_id = 11933,
+			asset_type = "prop_fish_drop_act_3",
+			asset_count = {1,},
+		},
+		[458]=
+		{
+			id = 458,
+			real_award_id = 11934,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = {1,},
+		},
+		[459]=
+		{
+			id = 459,
+			real_award_id = 11935,
+			asset_type = "prop_fish_drop_act_1",
+			asset_count = {1,},
+		},
+		[460]=
+		{
+			id = 460,
+			real_award_id = 11936,
+			asset_type = "prop_fish_drop_act_2",
+			asset_count = {1,},
+		},
+		[461]=
+		{
+			id = 461,
+			real_award_id = 11937,
+			asset_type = "prop_fish_drop_act_3",
+			asset_count = {1,},
 		},
 	},
 	weight=
