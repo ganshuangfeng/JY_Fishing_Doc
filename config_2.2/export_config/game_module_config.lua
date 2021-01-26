@@ -3009,9 +3009,9 @@ return {
 		[307]=
 		{
 			id = 307,
-			key = "act_039_ty_by_drop",
+			key = "act_ty_by_drop",
 			desc = "通用活动--掉落活动",
-			lua = "Act_039_TYBYDROPManager",
+			lua = "Act_TYBYDROPManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
