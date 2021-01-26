@@ -11,19 +11,25 @@ return {
 		{
 			id = 2,
 			area = "center1",
-			group_list = "15#",
+			group_list = "91#",
 		},
 		[3]=
 		{
 			id = 3,
-			area = "top_right",
-			group_list = "72#",
+			area = "top_left",
+			group_list = "118#72#",
 		},
 		[4]=
 		{
 			id = 4,
 			area = "center_top",
 			group_list = "80#",
+		},
+		[5]=
+		{
+			id = 5,
+			area = "top_right",
+			group_list = "108#",
 		},
 	},
 	xxlsh_game=
@@ -37,13 +43,37 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;11#",
+			group_list = "16;31;101#",
 		},
 		[3]=
 		{
 			id = 3,
 			area = "left_enter",
 			group_list = "26;14#",
+		},
+		[4]=
+		{
+			id = 4,
+			area = "center",
+		},
+	},
+	xxlcs_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left_down",
+		},
+		[2]=
+		{
+			id = 2,
+			area = "left_top",
+			group_list = "101#",
+		},
+		[3]=
+		{
+			id = 3,
+			area = "left_enter",
 		},
 		[4]=
 		{
@@ -63,7 +93,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;11#",
+			group_list = "16;31;90;101#",
 		},
 		[3]=
 		{
@@ -74,7 +104,16 @@ return {
 		[4]=
 		{
 			id = 4,
-			area = "center",
+			area = "center1",
+		},
+	},
+	zpg_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left_top",
+			group_list = "101#",
 		},
 	},
 	fishing_game=
@@ -83,7 +122,13 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "16;31;11#26#",
+			group_list = "11;16;31;93#26#",
+		},
+		[2]=
+		{
+			id = 2,
+			area = "top",
+			group_list = "99#",
 		},
 	},
 	fishing_hall=
@@ -105,6 +150,12 @@ return {
 			area = "top",
 			group_list = "72#",
 		},
+		[4]=
+		{
+			id = 4,
+			area = "top_c",
+			group_list = "284#",
+		},
 	},
 	hall_config=
 	{
@@ -112,7 +163,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3#2#8#61#",
+			group_list = "3;116#2#8#61#117#115#",
 		},
 		[2]=
 		{
@@ -124,7 +175,7 @@ return {
 		{
 			id = 3,
 			area = "right",
-			group_list = "84#83#",
+			group_list = "110#84#114#42#",
 		},
 		[4]=
 		{
@@ -143,6 +194,27 @@ return {
 			area = "fish3d_node",
 			group_list = "65#",
 		},
+		[7]=
+		{
+			id = 7,
+			area = "left_bottom",
+			group_list = "92#",
+		},
+		[8]=
+		{
+			id = 8,
+			area = "right_bottom",
+			group_list = "119#",
+		},
+	},
+	ddz_free_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "right_top",
+			group_list = "26#18#",
+		},
 	},
 	freehall_config=
 	{
@@ -160,15 +232,6 @@ return {
 			id = 1,
 			area = "left_top",
 			group_list = "29#",
-		},
-	},
-	ddz_free_game=
-	{
-		[1]=
-		{
-			id = 1,
-			area = "right_top",
-			group_list = "26#18#",
 		},
 	},
 	ddz_free_js=
@@ -225,7 +288,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "16;31;11#",
+			group_list = "16;101;31;#",
 		},
 	},
 	fishing_match_bm=
@@ -243,7 +306,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "40#43#79#72",
+			group_list = "111#112#53#79#36;113;89;93;11#",
 		},
 		[2]=
 		{
@@ -254,26 +317,37 @@ return {
 		[3]=
 		{
 			id = 3,
-			area = "Right_top",
-			group_list = "69#73#",
+			area = "down2",
 		},
 		[4]=
 		{
 			id = 4,
-			area = "down2",
-			group_list = "74#",
+			area = "Right_down",
+			group_list = "86#",
 		},
 		[5]=
 		{
 			id = 5,
-			area = "top2",
-			group_list = "64#",
+			area = "Right_down2",
+			group_list = "72#121#",
 		},
 		[6]=
 		{
 			id = 6,
-			area = "Right_down",
-			group_list = "86#",
+			area = "Right_shtx",
+			group_list = "109#",
+		},
+		[7]=
+		{
+			id = 7,
+			area = "Right_hd",
+			group_list = "103#",
+		},
+		[8]=
+		{
+			id = 8,
+			area = "Right_boss",
+			group_list = "69#73#",
 		},
 	},
 	fishing3d_hall=
@@ -293,7 +367,7 @@ return {
 		{
 			id = 3,
 			area = "top_right",
-			group_list = "72#",
+			group_list = "108#104#95#72#",
 		},
 		[4]=
 		{
@@ -320,6 +394,60 @@ return {
 			group_list = "77#68",
 		},
 	},
+	ttl_config=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "top",
+			group_list = "101#",
+		},
+	},
+	crazy_fish_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "top",
+			group_list = "101#",
+		},
+	},
+	lwzb_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left_top",
+			group_list = "101#",
+		},
+	},
+	lwzb_game_hall=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left_top",
+			group_list = "101#",
+		},
+	},
+	xxlxy_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "top",
+			group_list = "101#",
+		},
+	},
+	year_panel=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left",
+			group_list = "120#",
+		},
+	},
 	all_enter=
 	{
 		[1]=
@@ -332,13 +460,14 @@ return {
 		{
 			id = 2,
 			parm = {"vip",},
-			is_on_off = 0,
+			is_on_off = 1,
 		},
 		[3]=
 		{
 			id = 3,
 			parm = {"sys_flqcj",},
 			is_on_off = 1,
+			condi_key = "cps_xycj",
 		},
 		[4]=
 		{
@@ -734,7 +863,7 @@ return {
 		{
 			id = 69,
 			parm = {"by3d_act_jc","game_hall_enter4"},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[70]=
 		{
@@ -818,7 +947,7 @@ return {
 		{
 			id = 83,
 			parm = {"sys_stxt",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[84]=
 		{
@@ -836,6 +965,220 @@ return {
 		{
 			id = 86,
 			parm = {"by3d_zdkp",},
+			is_on_off = 1,
+		},
+		[87]=
+		{
+			id = 87,
+			parm = {"by3d_ad_mfcj",},
+			is_on_off = 1,
+			condi_key = "cps_ggxt",
+		},
+		[88]=
+		{
+			id = 88,
+			parm = {"gift_czlb",},
+			is_on_off = 1,
+		},
+		[89]=
+		{
+			id = 89,
+			parm = {"act_026_xrcdj",},
+			is_on_off = 1,
+		},
+		[90]=
+		{
+			id = 90,
+			parm = {"act_026_sgxxlyd",},
+			is_on_off = 1,
+		},
+		[91]=
+		{
+			id = 91,
+			parm = {"act_026_sgxxlyd","enter2"},
+			is_on_off = 1,
+		},
+		[92]=
+		{
+			id = 92,
+			parm = {"sys_tgxt",},
+			is_on_off = 1,
+		},
+		[93]=
+		{
+			id = 93,
+			parm = {"act_027_jqshl",},
+			is_on_off = 1,
+		},
+		[94]=
+		{
+			id = 94,
+			parm = {"act_027_mfflq",},
+			is_on_off = 1,
+		},
+		[95]=
+		{
+			id = 95,
+			parm = {"by3d_act_jc","hallEnter"},
+			is_on_off = 1,
+		},
+		[96]=
+		{
+			id = 96,
+			parm = {"by3d_act_jc","gameshow"},
+			is_on_off = 1,
+		},
+		[97]=
+		{
+			id = 97,
+			parm = {"act_028_mfhf",},
+			is_on_off = 1,
+		},
+		[98]=
+		{
+			id = 98,
+			parm = {"act_028_xycd",},
+			is_on_off = 1,
+		},
+		[99]=
+		{
+			id = 99,
+			parm = {"by3d_top_qh","jj_enter"},
+			is_on_off = 1,
+		},
+		[100]=
+		{
+			id = 100,
+			parm = {"act_029_hlqjd",},
+			is_on_off = 1,
+		},
+		[101]=
+		{
+			id = 101,
+			parm = {"cpl_ljyjcfk",},
+			is_on_off = 1,
+		},
+		[102]=
+		{
+			id = 102,
+			parm = {"act_030_cwlb",},
+			is_on_off = 1,
+		},
+		[103]=
+		{
+			id = 103,
+			parm = {"by3d_hd",},
+			is_on_off = 1,
+		},
+		[104]=
+		{
+			id = 104,
+			parm = {"by_xyxyd",},
+			is_on_off = 1,
+		},
+		[105]=
+		{
+			id = 105,
+			parm = {"sys_jjsl",},
+			is_on_off = 1,
+			condi_key = "jjsl_enter_limit",
+		},
+		[106]=
+		{
+			id = 106,
+			parm = {"act_025_jrth","enter"},
+			is_on_off = 1,
+		},
+		[107]=
+		{
+			id = 107,
+			parm = {"act_033_xrzxlb","enter"},
+			is_on_off = 1,
+		},
+		[108]=
+		{
+			id = 108,
+			parm = {"by3d_phb","enter"},
+			is_on_off = 1,
+		},
+		[109]=
+		{
+			id = 109,
+			parm = {"by3d_shtx",},
+			is_on_off = 1,
+		},
+		[110]=
+		{
+			id = 110,
+			parm = {"act_035_ybwl",},
+			is_on_off = 1,
+		},
+		[111]=
+		{
+			id = 111,
+			parm = {"sys_by3d_jchd",},
+			is_on_off = 1,
+		},
+		[112]=
+		{
+			id = 112,
+			parm = {"sys_by3d_hqjb",},
+			is_on_off = 1,
+		},
+		[113]=
+		{
+			id = 113,
+			parm = {"act_xrqtl_old",},
+			is_on_off = 1,
+		},
+		[114]=
+		{
+			id = 114,
+			parm = {"act_035_jhs",},
+			is_on_off = 1,
+		},
+		[115]=
+		{
+			id = 115,
+			parm = {"by3d_ad_mfcj",},
+			is_on_off = 1,
+			condi_key = "cpl_cjj",
+		},
+		[116]=
+		{
+			id = 116,
+			parm = {"xycj",},
+			is_on_off = 1,
+			condi_key = "xycj_enter_limit",
+		},
+		[117]=
+		{
+			id = 117,
+			parm = {"act_040_ydfl",},
+			is_on_off = 1,
+		},
+		[118]=
+		{
+			id = 118,
+			parm = {"sys_by3d_shop_enter",},
+			is_on_off = 1,
+		},
+		[119]=
+		{
+			id = 119,
+			parm = {"act_040_by_and_cjj_to_ddz_conduct",},
+			is_on_off = 1,
+		},
+		[120]=
+		{
+			id = 120,
+			parm = {"act_ty_zp1",},
+			is_on_off = 1,
+		},
+		[121]=
+		{
+			id = 121,
+			parm = {"sys_fishfarm_simplicity",},
 			is_on_off = 1,
 		},
 	},
