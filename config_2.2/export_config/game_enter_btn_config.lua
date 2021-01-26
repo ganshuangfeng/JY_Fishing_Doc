@@ -514,7 +514,7 @@ return {
 		[11]=
 		{
 			id = 11,
-			parm = {"sys_act_base",},
+			parm = {"sys_act_base,"weekly","enter"},
 			is_on_off = 1,
 		},
 		[12]=
