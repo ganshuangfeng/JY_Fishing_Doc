@@ -5,7 +5,7 @@ return {
 		{
 			index = 1,
 			key = "act_khfl_044",
-			icon = "khfl_bg_1",
+			icon = "yxfl_bg_1",
 			name = "新年福利",
 			tges = 1,
 		},
@@ -13,7 +13,7 @@ return {
 		{
 			index = 2,
 			key = "act_khfl_044_cjj",
-			icon = "khfl_bg_1",
+			icon = "yxfl_bg_1",
 			name = "新年福利_cjj",
 			tges = 2,
 		},
