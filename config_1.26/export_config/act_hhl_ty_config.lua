@@ -6,7 +6,7 @@ return {
 			line = 1,
 			condiy_key = "cpl_notcjj",
 			shop_config = {1,2,3,4,5,6,7,},
-			config = {1,2,3,4,5,6,7},
+			config = {1,2,3,4,5,6,7,8},
 			change_type = 30,
 			cur_path = "act_001_hhl",
 			item_key = "prop_fish_drop_act_0",
@@ -20,7 +20,7 @@ return {
 			line = 2,
 			condiy_key = "cpl_cjj",
 			shop_config = {1,2,3,4,5,6,7,},
-			config = {8,9,10,11,12,13},
+			config = {9,10,11,12,13,14,15,16},
 			change_type = 31,
 			cur_path = "act_001_hhl",
 			item_key = "prop_fish_drop_act_0",
@@ -30,7 +30,7 @@ return {
 			endTime = 1612195199,
 		},
 	},
-	Info=
+	config=
 	{
 		[1]=
 		{
@@ -167,7 +167,7 @@ return {
 			type = 0,
 		},
 	},
-	config=
+	shop_config=
 	{
 		[1]=
 		{
