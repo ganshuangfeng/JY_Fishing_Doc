@@ -27,7 +27,7 @@ return {
 			line = 4,
 			isOnOff = 1,
 			order = 4,
-			gotoui = {"sys_act_base",},
+			gotoui = {"sys_act_base","weekly","enter",},
 			condi_key = "zchd_new",
 		},
 		[5]=

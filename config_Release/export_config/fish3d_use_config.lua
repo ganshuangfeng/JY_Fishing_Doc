@@ -763,110 +763,51 @@ return {
 			id = 145,
 			fish_id = 13,
 			attr_id = 9,
-			cond_key = "actp_own_task_p_no_vivo",
 		},
 		[146]=
 		{
 			id = 146,
 			fish_id = 14,
 			attr_id = 9,
-			cond_key = "actp_own_task_p_no_vivo",
 		},
 		[147]=
 		{
 			id = 147,
 			fish_id = 15,
 			attr_id = 9,
-			cond_key = "actp_own_task_p_no_vivo",
 		},
 		[148]=
 		{
 			id = 148,
 			fish_id = 16,
 			attr_id = 9,
-			cond_key = "actp_own_task_p_no_vivo",
 		},
 		[149]=
 		{
 			id = 149,
 			fish_id = 17,
 			attr_id = 9,
-			cond_key = "actp_own_task_p_no_vivo",
 		},
 		[150]=
 		{
 			id = 150,
 			fish_id = 18,
-			cond_key = "actp_own_task_p_no_vivo",
+			attr_id = 9,
 		},
 		[151]=
 		{
 			id = 151,
 			fish_id = 61,
-			cond_key = "actp_own_task_p_no_vivo",
 		},
 		[152]=
 		{
 			id = 152,
 			fish_id = 61,
-			cond_key = "actp_own_task_p_no_vivo",
 		},
 		[153]=
 		{
 			id = 153,
 			fish_id = 61,
-			cond_key = "actp_own_task_p_no_vivo",
-		},
-		[154]=
-		{
-			id = 154,
-			fish_id = 63,
-		},
-		[155]=
-		{
-			id = 155,
-			fish_id = 63,
-		},
-		[156]=
-		{
-			id = 156,
-			fish_id = 63,
-		},
-		[157]=
-		{
-			id = 157,
-			fish_id = 13,
-			attr_id = 9,
-		},
-		[158]=
-		{
-			id = 158,
-			fish_id = 14,
-			attr_id = 9,
-		},
-		[159]=
-		{
-			id = 159,
-			fish_id = 15,
-			attr_id = 9,
-		},
-		[160]=
-		{
-			id = 160,
-			fish_id = 16,
-			attr_id = 9,
-		},
-		[161]=
-		{
-			id = 161,
-			fish_id = 17,
-			attr_id = 9,
-		},
-		[162]=
-		{
-			id = 162,
-			fish_id = 18,
-			attr_id = 9,
 		},
 	},
 }

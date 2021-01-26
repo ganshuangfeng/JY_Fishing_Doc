@@ -13,7 +13,7 @@ return {
 			line = 2,
 			isOnOff = 1,
 			order = 2,
-			gotoui = {"ty_gift","enter_gift_cglb"},
+			gotoui = {"ty_gift","gift_cglb","enter"},
 		},
 		[3]=
 		{

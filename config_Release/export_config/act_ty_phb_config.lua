@@ -4,11 +4,15 @@ return {
 		[1]=
 		{
 			line = 1,
-			image = "act_ty_by_drop_7",
-			rank_type = "khqd_001_lzphb_rank",
-			s_time = 1611014400,
-			e_time = 1611590399,
-			award = "award_config",
+			is_on_off = 1,
+			ID = 1,
+			name = "太阳",
+			item_key = "prop_fish_drop_act_0",
+			rank_type = "drswn_002_ygbd_rank",
+			s_time = 1611590400,
+			e_time = 1612195199,
+			award = {1,2,3,4,5,6,7},
+			path = "act_001_dlphb",
 		},
 	},
 	award_config=
