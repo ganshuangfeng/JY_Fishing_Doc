@@ -3154,5 +3154,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[323]=
+		{
+			id = 323,
+			key = "act_048_xnsmt",
+			desc = "新年送茅台",
+			lua = "Act_048_XNSMTManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
