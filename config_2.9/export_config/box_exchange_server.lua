@@ -827,6 +827,26 @@ return {
 			award_id = 76,
 			enable = 1,
 		},
+		[77]=
+		{
+			id = 77,
+			name = "过大年--抽奖（金元宝）",
+			start_time = 1612828800,
+			end_time = 1613404799,
+			use_asset_id = 70,
+			award_id = 77,
+			enable = 1,
+		},
+		[78]=
+		{
+			id = 78,
+			name = "过大年--抽奖（福利券）",
+			start_time = 1612828800,
+			end_time = 1613404799,
+			use_asset_id = 71,
+			award_id = 77,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
@@ -1311,6 +1331,20 @@ return {
 			id = 69,
 			use_id = 69,
 			use_item = "prop_xnsmt_cjq",
+			use_num = 1,
+		},
+		[70]=
+		{
+			id = 70,
+			use_id = 70,
+			use_item = "prop_fish_drop_act_1",
+			use_num = 1,
+		},
+		[71]=
+		{
+			id = 71,
+			use_id = 71,
+			use_item = "shop_gold_sum",
 			use_num = 1,
 		},
 	},
@@ -4691,6 +4725,111 @@ return {
 			award_id = 76,
 			real_award_id = 11957,
 			weight = 0,
+		},
+		[482]=
+		{
+			no = 482,
+			award_id = 77,
+			real_award_id = 11958,
+			weight = 0,
+		},
+		[483]=
+		{
+			no = 483,
+			award_id = 77,
+			real_award_id = 11959,
+			weight = 0,
+		},
+		[484]=
+		{
+			no = 484,
+			award_id = 77,
+			real_award_id = 11960,
+			weight = 1,
+		},
+		[485]=
+		{
+			no = 485,
+			award_id = 77,
+			real_award_id = 11961,
+			weight = 10,
+		},
+		[486]=
+		{
+			no = 486,
+			award_id = 77,
+			real_award_id = 11962,
+			weight = 20,
+		},
+		[487]=
+		{
+			no = 487,
+			award_id = 77,
+			real_award_id = 11963,
+			weight = 30,
+		},
+		[488]=
+		{
+			no = 488,
+			award_id = 77,
+			real_award_id = 11964,
+			weight = 100,
+		},
+		[489]=
+		{
+			no = 489,
+			award_id = 77,
+			real_award_id = 11965,
+			weight = 860,
+		},
+		[490]=
+		{
+			no = 490,
+			award_id = 77,
+			real_award_id = 11966,
+			weight = 860,
+		},
+		[491]=
+		{
+			no = 491,
+			award_id = 77,
+			real_award_id = 11967,
+			weight = 860,
+		},
+		[492]=
+		{
+			no = 492,
+			award_id = 77,
+			real_award_id = 11968,
+			weight = 860,
+		},
+		[493]=
+		{
+			no = 493,
+			award_id = 77,
+			real_award_id = 11969,
+			weight = 1599,
+		},
+		[494]=
+		{
+			no = 494,
+			award_id = 77,
+			real_award_id = 11970,
+			weight = 1900,
+		},
+		[495]=
+		{
+			no = 495,
+			award_id = 77,
+			real_award_id = 11971,
+			weight = 1900,
+		},
+		[496]=
+		{
+			no = 496,
+			award_id = 77,
+			real_award_id = 11972,
+			weight = 1000,
 		},
 	},
 	award_item=
@@ -8297,6 +8436,106 @@ return {
 			id = 481,
 			real_award_id = 11957,
 			award_name = "茅台酒",
+		},
+		[482]=
+		{
+			id = 482,
+			real_award_id = 11958,
+			award_name = "苹果电脑",
+		},
+		[483]=
+		{
+			id = 483,
+			real_award_id = 11959,
+			award_name = "500京东卡",
+		},
+		[484]=
+		{
+			id = 484,
+			real_award_id = 11960,
+			award_name = "坚果大礼包",
+		},
+		[485]=
+		{
+			id = 485,
+			real_award_id = 11961,
+			award_name = "50元话费",
+		},
+		[486]=
+		{
+			id = 486,
+			real_award_id = 11962,
+			award_name = "纯棉毛巾",
+		},
+		[487]=
+		{
+			id = 487,
+			real_award_id = 11963,
+			asset_type = "jing_bi",
+			asset_count = {200000,600000},
+		},
+		[488]=
+		{
+			id = 488,
+			real_award_id = 11964,
+			asset_type = "fish_coin",
+			asset_count = {50000,150000},
+		},
+		[489]=
+		{
+			id = 489,
+			real_award_id = 11965,
+			asset_type = "shop_gold_sum",
+			asset_count = {10,40},
+		},
+		[490]=
+		{
+			id = 490,
+			real_award_id = 11966,
+			asset_type = "jing_bi",
+			asset_count = {10000,40000},
+		},
+		[491]=
+		{
+			id = 491,
+			real_award_id = 11967,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = {10000,40000},
+		},
+		[492]=
+		{
+			id = 492,
+			real_award_id = 11968,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = {10,40},
+		},
+		[493]=
+		{
+			id = 493,
+			real_award_id = 11969,
+			asset_type = "shop_gold_sum",
+			asset_count = {5,15},
+		},
+		[494]=
+		{
+			id = 494,
+			real_award_id = 11970,
+			asset_type = "jing_bi",
+			asset_count = {5000,15000},
+		},
+		[495]=
+		{
+			id = 495,
+			real_award_id = 11971,
+			asset_type = "fish_coin",
+			asset_count = {5000,15000},
+		},
+		[496]=
+		{
+			id = 496,
+			real_award_id = 11972,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = {5,15},
 		},
 	},
 	weight=
