@@ -736,9 +736,9 @@ return {
 			key = "sys_xtsjyd",
 			desc = "系统升级引导",
 			lua = "XTSJYDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[75]=
 		{
@@ -2466,8 +2466,8 @@ return {
 			desc = "连购返利",
 			lua = "Act_024_LGFLManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[253]=
 		{
@@ -2475,9 +2475,9 @@ return {
 			key = "act_ty_task",
 			desc = "通用活动模板1",
 			lua = "ActivityTaskManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[254]=
 		{
