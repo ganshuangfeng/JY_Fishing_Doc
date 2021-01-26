@@ -50,7 +50,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {8000,},
-			gotoUI = {"game_FishingHall",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[2]=
 		{
@@ -61,7 +61,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {8000,},
-			gotoUI = {"game_FishingHall",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[3]=
 		{
@@ -72,7 +72,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {5000,},
-			gotoUI = {"game_FishingHall",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[4]=
 		{
@@ -83,7 +83,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {8000,},
-			gotoUI = {"game_FishingHall",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[5]=
 		{
@@ -94,7 +94,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {15000,},
-			gotoUI = {"game_FishingHall",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[6]=
 		{
@@ -105,7 +105,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {500000,},
-			gotoUI = {"game_FishingHall",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[7]=
 		{
@@ -116,7 +116,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {8000,},
-			gotoUI = {"game_FishingHall",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[8]=
 		{
@@ -127,7 +127,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {10000,},
-			gotoUI = {"game_FishingHall",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[9]=
 		{
@@ -138,7 +138,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {15000,},
-			gotoUI = {"game_FishingHall",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[10]=
 		{
