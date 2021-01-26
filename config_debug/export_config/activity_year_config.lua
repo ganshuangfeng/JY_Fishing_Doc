@@ -582,6 +582,7 @@ return {
 			tag = "hot",
 			beginTime = 1611014400,
 			endTime = 1611590399,
+			condi_key = "actp_own_task_p_041_xyxfl",
 		},
 	},
 }
