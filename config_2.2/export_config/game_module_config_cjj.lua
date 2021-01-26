@@ -2939,7 +2939,7 @@ return {
 		[300]=
 		{
 			id = 300,
-			key = "act_039_ty_by_hhl",
+			key = "act_ty_by_hhl",
 			desc = "通用活动--兑换模板",
 			lua = "Act_TY_BY_HHLManager",
 			is_on_off = 1,
@@ -2949,7 +2949,7 @@ return {
 		[301]=
 		{
 			id = 301,
-			key = "act_039_ty_sjb",
+			key = "act_ty_sjb",
 			desc = "通用活动--排行榜模板",
 			lua = "Act_TY_JZSJBManager",
 			is_on_off = 1,
