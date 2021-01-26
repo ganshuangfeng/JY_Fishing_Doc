@@ -12655,7 +12655,7 @@ return {
 			shop_type = "gift_bag",
 			price = 600,
 			buy_asset_type = {"jing_bi","prop_tiny_game_coin","prop_fclb_gong",},
-			buy_asset_count = {60000,20000,1,},
+			buy_asset_count = {600000,20000,1,},
 			buy_limt = {86400,3,0},
 			count = 99999999,
 			start_time = 1611014400,
