@@ -9081,6 +9081,20 @@ return {
 			end_valid_time = 1612213200,
 			time_limit = -1,
 		},
+		[1000239]=
+		{
+			id = 1000239,
+			enable = 1,
+			name = "新年福袋",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21597,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1612195200,
+			end_valid_time = 1612799999,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -15265,6 +15279,15 @@ return {
 			process_id = 21596,
 			process = 1,
 			get_award_type = "nor",
+		},
+		[649]=
+		{
+			id = 649,
+			process_id = 21597,
+			source_id = 584,
+			process = {2,1,2},
+			awards = {982,983,984},
+			get_award_type = "random",
 		},
 	},
 	source=
@@ -21919,6 +21942,13 @@ return {
 			source_type = "guess_apple_award_kaijiang_type",
 			condition_id = 424,
 		},
+		[944]=
+		{
+			id = 944,
+			source_id = 584,
+			source_type = "buy_gift",
+			condition_id = 425,
+		},
 	},
 	condition=
 	{
@@ -26352,6 +26382,14 @@ return {
 			condition_id = 424,
 			condition_name = "kaijiang_type",
 			condition_value = 2,
+			judge_type = 2,
+		},
+		[585]=
+		{
+			id = 585,
+			condition_id = 425,
+			condition_name = "gift_id",
+			condition_value = {10458,10459,10460,10461,10462,10463,10464},
 			judge_type = 2,
 		},
 	},
@@ -38280,6 +38318,30 @@ return {
 			award_id = 981,
 			asset_type = "_common_rank_drswn_002_ygbd_rank",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[1491]=
+		{
+			id = 1491,
+			award_id = 982,
+			asset_type = "jing_bi",
+			asset_count = {250000,320000},
+			get_weight = 1,
+		},
+		[1492]=
+		{
+			id = 1492,
+			award_id = 983,
+			asset_type = "jing_bi",
+			asset_count = {400000,580000},
+			get_weight = 1,
+		},
+		[1493]=
+		{
+			id = 1493,
+			award_id = 984,
+			asset_type = "jing_bi",
+			asset_count = {2000000,2900000},
 			get_weight = 1,
 		},
 	},
