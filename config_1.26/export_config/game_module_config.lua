@@ -3134,21 +3134,5 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[320]=
-		{
-			id = 320,
-			key = "act_ty_by_drop_style/act_003_taiyang",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[321]=
-		{
-			id = 321,
-			key = "act_ty_by_drop_style/act_004_baozhu",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
 	},
 }
