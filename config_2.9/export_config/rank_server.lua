@@ -433,6 +433,20 @@ return {
 			show_model = 31,
 			settle_model = 29,
 		},
+		[32]=
+		{
+			id = 32,
+			enable = 1,
+			rank_type = "ycs_005_jybb_rank",
+			name = "金元宝榜",
+			begin_time = 1613433600,
+			end_time = 1614009599,
+			data_deal_type = "nor_add",
+			data_save_type = "single",
+			score_source = 32,
+			show_model = 32,
+			settle_model = 30,
+		},
 	},
 	score_source=
 	{
@@ -858,6 +872,20 @@ return {
 			source_type = "xiaoxiaole_xiyou_award_rate",
 			condtion_id = 35,
 		},
+		[64]=
+		{
+			id = 64,
+			source_id = 32,
+			source_type = "buyu_3d_get_use_item",
+			condtion_id = 36,
+		},
+		[65]=
+		{
+			id = 65,
+			source_id = 32,
+			source_type = "buyu_get_use_item",
+			condtion_id = 36,
+		},
 	},
 	source_condition=
 	{
@@ -1208,90 +1236,82 @@ return {
 		[44]=
 		{
 			id = 44,
-			condition_id = 31,
-			condition_name = "asset_type",
-			condition_value = "prop_fish_drop_act_1",
-			judge_type = 2,
+			condition_id = 32,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
 		},
 		[45]=
 		{
 			id = 45,
-			condition_id = 31,
-			condition_name = "asset_type",
-			condition_value = "prop_fish_drop_act_2",
-			judge_type = 2,
+			condition_id = 32,
+			condition_name = "rate",
+			condition_value = 500,
+			judge_type = 3,
 		},
 		[46]=
 		{
 			id = 46,
-			condition_id = 31,
-			condition_name = "asset_type",
-			condition_value = "prop_fish_drop_act_3",
-			judge_type = 2,
+			condition_id = 33,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
 		},
 		[47]=
 		{
 			id = 47,
-			condition_id = 32,
-			condition_name = "bet_spend",
-			condition_value = 240000,
+			condition_id = 33,
+			condition_name = "rate",
+			condition_value = 500,
 			judge_type = 3,
 		},
 		[48]=
 		{
 			id = 48,
-			condition_id = 32,
-			condition_name = "rate",
-			condition_value = 500,
+			condition_id = 34,
+			condition_name = "bet_spend",
+			condition_value = 240000,
 			judge_type = 3,
 		},
 		[49]=
 		{
 			id = 49,
-			condition_id = 33,
-			condition_name = "bet_spend",
-			condition_value = 240000,
+			condition_id = 34,
+			condition_name = "rate",
+			condition_value = 500,
 			judge_type = 3,
 		},
 		[50]=
 		{
 			id = 50,
-			condition_id = 33,
-			condition_name = "rate",
-			condition_value = 500,
+			condition_id = 35,
+			condition_name = "bet_spend",
+			condition_value = 240000,
 			judge_type = 3,
 		},
 		[51]=
 		{
 			id = 51,
-			condition_id = 34,
-			condition_name = "bet_spend",
-			condition_value = 240000,
+			condition_id = 35,
+			condition_name = "rate",
+			condition_value = 500,
 			judge_type = 3,
 		},
 		[52]=
 		{
 			id = 52,
-			condition_id = 34,
-			condition_name = "rate",
-			condition_value = 500,
-			judge_type = 3,
+			condition_id = 36,
+			condition_name = "act_type",
+			condition_value = 9,
+			judge_type = 2,
 		},
 		[53]=
 		{
 			id = 53,
-			condition_id = 35,
-			condition_name = "bet_spend",
-			condition_value = 240000,
-			judge_type = 3,
-		},
-		[54]=
-		{
-			id = 54,
-			condition_id = 35,
-			condition_name = "rate",
-			condition_value = 500,
-			judge_type = 3,
+			condition_id = 36,
+			condition_name = "asset_type",
+			condition_value = "prop_fish_drop_act_1",
+			judge_type = 2,
 		},
 	},
 	join_condition=
@@ -1633,6 +1653,16 @@ return {
 			show_refresh_delay = 180,
 			show_refresh_self_delay = 10,
 		},
+		[32]=
+		{
+			id = 32,
+			show_limit = 1,
+			max_show_num = 20,
+			max_rank_num = 100,
+			max_award_num = 20,
+			show_refresh_delay = 180,
+			show_refresh_self_delay = 10,
+		},
 	},
 	settle_model=
 	{
@@ -1838,6 +1868,13 @@ return {
 			is_clear = 1,
 			award_model = 29,
 		},
+		[30]=
+		{
+			id = 30,
+			settle_time_model = 34,
+			is_clear = 1,
+			award_model = 30,
+		},
 	},
 	settle_time_model=
 	{
@@ -2038,6 +2075,12 @@ return {
 			id = 33,
 			reset_type = "fix_time",
 			reset_value = 1613404799,
+		},
+		[34]=
+		{
+			id = 34,
+			reset_type = "fix_time",
+			reset_value = 1614009599,
 		},
 	},
 	award_model=
@@ -3824,6 +3867,69 @@ return {
 			award_id = 183,
 			award_type = "nor",
 		},
+		[199]=
+		{
+			id = 199,
+			model_id = 30,
+			start_rank = 1,
+			end_rank = 1,
+			award_id = 184,
+			award_type = "nor",
+		},
+		[200]=
+		{
+			id = 200,
+			model_id = 30,
+			start_rank = 2,
+			end_rank = 2,
+			award_id = 185,
+			award_type = "nor",
+		},
+		[201]=
+		{
+			id = 201,
+			model_id = 30,
+			start_rank = 3,
+			end_rank = 3,
+			award_id = 186,
+			award_type = "nor",
+		},
+		[202]=
+		{
+			id = 202,
+			model_id = 30,
+			start_rank = 4,
+			end_rank = 6,
+			award_id = 187,
+			award_type = "nor",
+		},
+		[203]=
+		{
+			id = 203,
+			model_id = 30,
+			start_rank = 7,
+			end_rank = 10,
+			award_id = 188,
+			award_type = "nor",
+		},
+		[204]=
+		{
+			id = 204,
+			model_id = 30,
+			start_rank = 11,
+			end_rank = 15,
+			award_id = 189,
+			award_type = "nor",
+		},
+		[205]=
+		{
+			id = 205,
+			model_id = 30,
+			start_rank = 16,
+			end_rank = 20,
+			award_id = 190,
+			award_type = "nor",
+		},
 	},
 	awards=
 	{
@@ -5500,6 +5606,69 @@ return {
 			award_name = "240福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 240,
+			get_weight = 1,
+		},
+		[188]=
+		{
+			id = 188,
+			award_id = 184,
+			award_name = "100000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[189]=
+		{
+			id = 189,
+			award_id = 185,
+			award_name = "30000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 30000,
+			get_weight = 1,
+		},
+		[190]=
+		{
+			id = 190,
+			award_id = 186,
+			award_name = "10000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[191]=
+		{
+			id = 191,
+			award_id = 187,
+			award_name = "3000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 3000,
+			get_weight = 1,
+		},
+		[192]=
+		{
+			id = 192,
+			award_id = 188,
+			award_name = "2000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 2000,
+			get_weight = 1,
+		},
+		[193]=
+		{
+			id = 193,
+			award_id = 189,
+			award_name = "1000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[194]=
+		{
+			id = 194,
+			award_id = 190,
+			award_name = "500福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 500,
 			get_weight = 1,
 		},
 	},
