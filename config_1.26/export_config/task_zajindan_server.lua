@@ -21916,15 +21916,15 @@ return {
 		{
 			id = 943,
 			source_id = 582,
-			source_type = "guess_apple_award_kaijiang_type",
-			condition_id = 424,
+			source_type = "guess_apple_award",
+			condition_id = 0,
 		},
 		[944]=
 		{
 			id = 944,
 			source_id = 583,
-			source_type = "guess_apple_award",
-			condition_id = 0,
+			source_type = "guess_apple_award_kaijiang_type",
+			condition_id = 424,
 		},
 	},
 	condition=
