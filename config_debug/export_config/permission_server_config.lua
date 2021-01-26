@@ -15769,6 +15769,16 @@ return {
 		[936]=
 		{
 			no = 936,
+			id = 381,
+			var = "market_channel",
+			value = "vivo",
+			judge = 5,
+			group = 1,
+			error_desc = "非vivo的全渠道",
+		},
+		[937]=
+		{
+			no = 937,
 			id = 382,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -15776,9 +15786,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[937]=
+		[938]=
 		{
-			no = 937,
+			no = 938,
 			id = 382,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -15786,9 +15796,9 @@ return {
 			group = 2,
 			error_desc = "是免费用户",
 		},
-		[938]=
+		[939]=
 		{
-			no = 938,
+			no = 939,
 			id = 382,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -15796,9 +15806,9 @@ return {
 			group = 3,
 			error_desc = "是小额用户",
 		},
-		[939]=
+		[940]=
 		{
-			no = 939,
+			no = 940,
 			id = 383,
 			var = "vip_level",
 			value = 1,
@@ -15806,9 +15816,9 @@ return {
 			group = 1,
 			error_desc = "大于V1",
 		},
-		[940]=
+		[941]=
 		{
-			no = 940,
+			no = 941,
 			id = 383,
 			var = "vip_level",
 			value = 7,
@@ -15816,9 +15826,9 @@ return {
 			group = 1,
 			error_desc = "小于V7",
 		},
-		[941]=
+		[942]=
 		{
-			no = 941,
+			no = 942,
 			id = 383,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -15826,9 +15836,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[942]=
+		[943]=
 		{
-			no = 942,
+			no = 943,
 			id = 384,
 			var = "vip_level",
 			value = 8,
@@ -15836,9 +15846,9 @@ return {
 			group = 1,
 			error_desc = "大于V1",
 		},
-		[943]=
+		[944]=
 		{
-			no = 943,
+			no = 944,
 			id = 384,
 			var = "vip_level",
 			value = 12,
@@ -15846,9 +15856,9 @@ return {
 			group = 1,
 			error_desc = "小于V7",
 		},
-		[944]=
+		[945]=
 		{
-			no = 944,
+			no = 945,
 			id = 384,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -15856,9 +15866,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[945]=
+		[946]=
 		{
-			no = 945,
+			no = 946,
 			id = 385,
 			var = "vip_level",
 			value = 0,
@@ -15866,9 +15876,9 @@ return {
 			group = 1,
 			error_desc = "VIP等级0",
 		},
-		[946]=
+		[947]=
 		{
-			no = 946,
+			no = 947,
 			id = 386,
 			var = "vip_level",
 			value = 1,
@@ -15876,9 +15886,9 @@ return {
 			group = 1,
 			error_desc = "VIP等级1",
 		},
-		[947]=
+		[948]=
 		{
-			no = 947,
+			no = 948,
 			id = 387,
 			var = "market_channel",
 			value = "vivo",
