@@ -395,7 +395,7 @@ return {
 		{
 			id = 29,
 			enable = 1,
-			rank_type = "drswn_002_ygbd_rank",
+			rank_type = "cjs_003_bzphb_rank",
 			name = "爆竹排行榜",
 			begin_time = 1612224000,
 			end_time = 1612799999,
