@@ -412,6 +412,39 @@ return {
 			award_id = 35,
 			enable = 1,
 		},
+		[36]=
+		{
+			id = 36,
+			name = "发财礼包--恭喜",
+			start_time = 1613433600,
+			end_time = 1614009599,
+			use_goods = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai",},
+			goods_type = 1,
+			award_id = 36,
+			enable = 1,
+		},
+		[37]=
+		{
+			id = 37,
+			name = "发财礼包--发财",
+			start_time = 1613433600,
+			end_time = 1614009599,
+			use_goods = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai",},
+			goods_type = 1,
+			award_id = 37,
+			enable = 1,
+		},
+		[38]=
+		{
+			id = 38,
+			name = "发财礼包--恭喜发财",
+			start_time = 1613433600,
+			end_time = 1614009599,
+			use_goods = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai",},
+			goods_type = 1,
+			award_id = 38,
+			enable = 1,
+		},
 	},
 	email=
 	{
@@ -2762,6 +2795,105 @@ return {
 			asset_count = {10,},
 			use_num = {600,600,0,0,},
 			me_limit_day_num = 1,
+		},
+		[210]=
+		{
+			no = 210,
+			award_cfg_id = 36,
+			award_id = 1,
+			permission_key = "actp_buy_gift_bag_class_fclb_free_001",
+			asset_type = {"jing_bi",},
+			asset_count = {100000,},
+			use_num = {1,1,0,0,},
+			me_limit_day_num = 9999,
+		},
+		[211]=
+		{
+			no = 211,
+			award_cfg_id = 36,
+			award_id = 2,
+			permission_key = "actp_buy_gift_bag_class_fclb_v1v7_001",
+			asset_type = {"jing_bi",},
+			asset_count = {300000,},
+			use_num = {0,0,1,1,},
+			me_limit_day_num = 9999,
+		},
+		[212]=
+		{
+			no = 212,
+			award_cfg_id = 36,
+			award_id = 3,
+			permission_key = "actp_buy_gift_bag_class_fclb_v8v12_001",
+			asset_type = {"jing_bi",},
+			asset_count = {500000,},
+			use_num = {1,1,1,1,},
+			me_limit_day_num = 9999,
+		},
+		[213]=
+		{
+			no = 213,
+			award_cfg_id = 37,
+			award_id = 1,
+			permission_key = "actp_buy_gift_bag_class_fclb_free_001",
+			asset_type = {"jing_bi",},
+			asset_count = {300000,},
+			use_num = {1,1,0,0,},
+			me_limit_day_num = 9999,
+		},
+		[214]=
+		{
+			no = 214,
+			award_cfg_id = 37,
+			award_id = 2,
+			permission_key = "actp_buy_gift_bag_class_fclb_v1v7_001",
+			asset_type = {"jing_bi",},
+			asset_count = {1000000,},
+			use_num = {0,0,1,1,},
+			me_limit_day_num = 9999,
+		},
+		[215]=
+		{
+			no = 215,
+			award_cfg_id = 37,
+			award_id = 3,
+			permission_key = "actp_buy_gift_bag_class_fclb_v8v12_001",
+			asset_type = {"jing_bi",},
+			asset_count = {1500000,},
+			use_num = {1,1,1,1,},
+			me_limit_day_num = 9999,
+		},
+		[216]=
+		{
+			no = 216,
+			award_cfg_id = 38,
+			award_id = 1,
+			permission_key = "actp_buy_gift_bag_class_fclb_free_001",
+			asset_type = {"jing_bi",},
+			asset_count = {600000,},
+			use_num = {1,1,0,0,},
+			me_limit_day_num = 9999,
+		},
+		[217]=
+		{
+			no = 217,
+			award_cfg_id = 38,
+			award_id = 2,
+			permission_key = "actp_buy_gift_bag_class_fclb_v1v7_001",
+			asset_type = {"jing_bi",},
+			asset_count = {2500000,},
+			use_num = {0,0,1,1,},
+			me_limit_day_num = 9999,
+		},
+		[218]=
+		{
+			no = 218,
+			award_cfg_id = 38,
+			award_id = 3,
+			permission_key = "actp_buy_gift_bag_class_fclb_v8v12_001",
+			asset_type = {"jing_bi",},
+			asset_count = {3500000,},
+			use_num = {1,1,1,1,},
+			me_limit_day_num = 9999,
 		},
 	},
 	all_powerful=
