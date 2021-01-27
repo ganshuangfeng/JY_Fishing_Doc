@@ -643,16 +643,6 @@ return {
 		[65]=
 		{
 			id = 65,
-			key = "hall_activity",
-			desc = "系统：大厅活动",
-			lua = "GameActivityManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[66]=
-		{
-			id = 66,
 			key = "sys_act_base",
 			desc = "活动Base",
 			lua = "SYSACTBASEManager",
@@ -660,9 +650,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[67]=
+		[66]=
 		{
-			id = 67,
+			id = 66,
 			key = "sys_mflhb",
 			desc = "免费领红包",
 			lua = "SYSMFLHBManager",
@@ -670,9 +660,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[68]=
+		[67]=
 		{
-			id = 68,
+			id = 67,
 			key = "sys_sjjbjl",
 			desc = "随机金币领取",
 			lua = "SYSSJJBJLManager",
@@ -680,9 +670,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[69]=
+		[68]=
 		{
-			id = 69,
+			id = 68,
 			key = "sys_dttjyxw",
 			desc = "大厅推荐游戏位",
 			lua = "DTTJYXWManager",
@@ -690,9 +680,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[70]=
+		[69]=
 		{
-			id = 70,
+			id = 69,
 			key = "sys_gift_exchange",
 			desc = "礼包兑换",
 			lua = "GiftExchangeManager",
@@ -700,9 +690,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[71]=
+		[70]=
 		{
-			id = 71,
+			id = 70,
 			key = "sys_shphb",
 			desc = "水浒消消乐单笔赢金排行榜",
 			lua = "XXLSHPHBManager",
@@ -710,9 +700,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[72]=
+		[71]=
 		{
-			id = 72,
+			id = 71,
 			key = "sys_btn_csxxl",
 			desc = "财神消消乐大厅按钮",
 			lua = "HallBtnCsxxlManager",
@@ -720,9 +710,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[73]=
+		[72]=
 		{
-			id = 73,
+			id = 72,
 			key = "sys_fkrk",
 			desc = "房卡场入口",
 			lua = "FKRKManager",
@@ -730,9 +720,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[74]=
+		[73]=
 		{
-			id = 74,
+			id = 73,
 			key = "sys_xtsjyd",
 			desc = "系统升级引导",
 			lua = "XTSJYDManager",
@@ -740,9 +730,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[75]=
+		[74]=
 		{
-			id = 75,
+			id = 74,
 			key = "sys_smrz",
 			desc = "实名认证",
 			lua = "SYSSMRZManager",
@@ -750,9 +740,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[76]=
+		[75]=
 		{
-			id = 76,
+			id = 75,
 			key = "sys_qhb",
 			desc = "抢红包",
 			lua = "SYSQHBManager",
@@ -760,9 +750,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[77]=
+		[76]=
 		{
-			id = 77,
+			id = 76,
 			key = "sys_gg",
 			desc = "内部广告",
 			lua = "SysGGManager",
@@ -770,9 +760,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[78]=
+		[77]=
 		{
-			id = 78,
+			id = 77,
 			key = "sys_jjj",
 			desc = "救济金（鲸鱼福利）",
 			lua = "SysJJJManager",
@@ -780,9 +770,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[79]=
+		[78]=
 		{
-			id = 79,
+			id = 78,
 			key = "sys_hcfx",
 			desc = "合成分享",
 			lua = "SYSHCFXManager",
@@ -790,9 +780,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[80]=
+		[79]=
 		{
-			id = 80,
+			id = 79,
 			key = "sys_xrzs",
 			desc = "系统：新人专属",
 			lua = "SYSXRZSManager",
@@ -800,9 +790,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[81]=
+		[80]=
 		{
-			id = 81,
+			id = 80,
 			key = "sys_hgyl",
 			desc = "回归有礼",
 			lua = "SYSHGYLManager",
@@ -810,9 +800,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[82]=
+		[81]=
 		{
-			id = 82,
+			id = 81,
 			key = "sys_ssy_bzssy",
 			desc = "备战双十一",
 			lua = "SYSSSYBZSSYManager",
@@ -820,9 +810,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[83]=
+		[82]=
 		{
-			id = 83,
+			id = 82,
 			key = "by_mfhb",
 			desc = "捕鱼：免费红包",
 			lua = "BYMFHBManager",
@@ -830,9 +820,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[84]=
+		[83]=
 		{
-			id = 84,
+			id = 83,
 			key = "by_ljyj",
 			desc = "捕鱼：累计赢金",
 			lua = "BYLJYJManager",
@@ -840,9 +830,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[85]=
+		[84]=
 		{
-			id = 85,
+			id = 84,
 			key = "by_drb",
 			desc = "捕鱼：达人榜",
 			lua = "BYDRBManager",
@@ -850,9 +840,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[86]=
+		[85]=
 		{
-			id = 86,
+			id = 85,
 			key = "xxlsg_phb",
 			desc = "水果消消乐排行榜",
 			lua = "XXLSGPHBManager",
@@ -860,9 +850,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[87]=
+		[86]=
 		{
-			id = 87,
+			id = 86,
 			key = "xxlsh_mrrw",
 			desc = "水浒消消乐每日任务",
 			lua = "XXLSHMRRWManager",
@@ -870,9 +860,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[88]=
+		[87]=
 		{
-			id = 88,
+			id = 87,
 			key = "xxlsg_mrrw",
 			desc = "水果消消乐每日任务",
 			lua = "XXLSGMRRWManager",
@@ -880,9 +870,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[89]=
+		[88]=
 		{
-			id = 89,
+			id = 88,
 			key = "qysXts",
 			desc = "千元赛提示",
 			lua = "QYSXTSManager",
@@ -890,9 +880,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[90]=
+		[89]=
 		{
-			id = 90,
+			id = 89,
 			key = "bybsXts",
 			desc = "捕鱼比赛提示",
 			lua = "BYBSXTSManager",
@@ -900,9 +890,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[91]=
+		[90]=
 		{
-			id = 91,
+			id = 90,
 			key = "vip_gift",
 			desc = "VIP礼包",
 			lua = "VIPGiftLogic",
@@ -910,9 +900,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[92]=
+		[91]=
 		{
-			id = 92,
+			id = 91,
 			key = "by_xrhb",
 			desc = "捕鱼新人红包",
 			lua = "FishingXRHBManager",
@@ -920,9 +910,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[93]=
+		[92]=
 		{
-			id = 93,
+			id = 92,
 			key = "act_sjjl",
 			desc = "升级奖励",
 			lua = "SJJLManager",
@@ -930,9 +920,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[94]=
+		[93]=
 		{
-			id = 94,
+			id = 93,
 			key = "sys_geyl",
 			desc = "感恩有礼",
 			lua = "GEYLManager",
@@ -940,9 +930,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[95]=
+		[94]=
 		{
-			id = 95,
+			id = 94,
 			key = "gegys_yy",
 			desc = "感恩公益赛",
 			lua = "GEYuyueManager",
@@ -950,9 +940,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[96]=
+		[95]=
 		{
-			id = 96,
+			id = 95,
 			key = "sys_xqdzz",
 			desc = "雪球大作战",
 			lua = "XQDZZManager",
@@ -960,9 +950,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[97]=
+		[96]=
 		{
-			id = 97,
+			id = 96,
 			key = "pdk_activity",
 			desc = "跑得快福利",
 			lua = "PDKActivityManager",
@@ -970,9 +960,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[98]=
+		[97]=
 		{
-			id = 98,
+			id = 97,
 			key = "btn_tglb",
 			desc = "全返礼包在比赛场大厅的按钮",
 			lua = "TGLBManager",
@@ -980,9 +970,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[99]=
+		[98]=
 		{
-			id = 99,
+			id = 98,
 			key = "act_fksse",
 			desc = "疯狂双十二",
 			lua = "FKSSEManager",
@@ -990,9 +980,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[100]=
+		[99]=
 		{
-			id = 100,
+			id = 99,
 			key = "btn_csms",
 			desc = "财神模式按钮",
 			lua = "CSMSManager",
@@ -1000,9 +990,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[101]=
+		[100]=
 		{
-			id = 101,
+			id = 100,
 			key = "xrhb1",
 			desc = "新人红包任务(VIP红包任务，和游戏的新手引导等有牵连)",
 			lua = "ActivityXRHB1Logic",
@@ -1010,9 +1000,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[102]=
+		[101]=
 		{
-			id = 102,
+			id = 101,
 			key = "sys_xbyylb",
 			desc = "新人一元礼包",
 			lua = "NewOneYuanManager",
@@ -1020,9 +1010,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[103]=
+		[102]=
 		{
-			id = 103,
+			id = 102,
 			key = "xrmfjb",
 			desc = "新人免费鲸币",
 			lua = "XRMFJBManager",
@@ -1030,9 +1020,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[104]=
+		[103]=
 		{
-			id = 104,
+			id = 103,
 			key = "act_sdqql",
 			desc = "圣诞敲敲乐",
 			lua = "SDQQLManager",
@@ -1040,9 +1030,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[105]=
+		[104]=
 		{
-			id = 105,
+			id = 104,
 			key = "sys_cfzx_qflb",
 			desc = "财富中心全返礼包",
 			lua = "MoneyCenterQFLBManager",
@@ -1050,9 +1040,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[106]=
+		[105]=
 		{
-			id = 106,
+			id = 105,
 			key = "act_nmhks",
 			desc = "年末回馈赛",
 			lua = "NmhksManager",
@@ -1060,9 +1050,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[107]=
+		[106]=
 		{
-			id = 107,
+			id = 106,
 			key = "act_nm_hgyl",
 			desc = "年末回归有礼",
 			lua = "NmhgylManager",
@@ -1070,9 +1060,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[108]=
+		[107]=
 		{
-			id = 108,
+			id = 107,
 			key = "act_czsnh",
 			desc = "年末充值活动",
 			lua = "CzsnhManager",
@@ -1080,9 +1070,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[109]=
+		[108]=
 		{
-			id = 109,
+			id = 108,
 			key = "act_nm_yjcdj",
 			desc = "年末赢金抽大奖",
 			lua = "NmYjcdjManager",
@@ -1090,9 +1080,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[110]=
+		[109]=
 		{
-			id = 110,
+			id = 109,
 			key = "act_hqyd",
 			desc = "欢庆元旦",
 			lua = "HQYDManager",
@@ -1100,9 +1090,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[111]=
+		[110]=
 		{
-			id = 111,
+			id = 110,
 			key = "act_cjs_gfjb",
 			desc = "瓜分鲸币",
 			lua = "CJS_GFJBManager",
@@ -1110,9 +1100,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[112]=
+		[111]=
 		{
-			id = 112,
+			id = 111,
 			key = "act_sn_djfl",
 			desc = "鼠年_对局福利",
 			lua = "SN_DJFLManager",
@@ -1120,9 +1110,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[113]=
+		[112]=
 		{
-			id = 113,
+			id = 112,
 			key = "act_sn_shfl",
 			desc = "鼠年_水浒福利",
 			lua = "SN_SHFLManager",
@@ -1130,9 +1120,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[114]=
+		[113]=
 		{
-			id = 114,
+			id = 113,
 			key = "act_sn_yjcj",
 			desc = "鼠年_赢金抽大奖",
 			lua = "SNYJCJManager",
@@ -1140,9 +1130,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[115]=
+		[114]=
 		{
-			id = 115,
+			id = 114,
 			key = "hallbtn_shxxl",
 			desc = "大厅水浒图标",
 			lua = "HallBtnShxxlManager",
@@ -1150,9 +1140,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[116]=
+		[115]=
 		{
-			id = 116,
+			id = 115,
 			key = "act_dzyl",
 			desc = "点赞有礼",
 			lua = "DZYLManager",
@@ -1160,9 +1150,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[117]=
+		[116]=
 		{
-			id = 117,
+			id = 116,
 			key = "act_sn_bzsl",
 			desc = "爆竹送礼",
 			lua = "SNBZSLManager",
@@ -1170,9 +1160,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[118]=
+		[117]=
 		{
-			id = 118,
+			id = 117,
 			key = "act_sn_hby",
 			desc = "红包雨",
 			lua = "SNHBYManager",
@@ -1180,9 +1170,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[119]=
+		[118]=
 		{
-			id = 119,
+			id = 118,
 			key = "act_ycs_cssl",
 			desc = "迎财神_财神送礼",
 			lua = "YCS_CSSLManager",
@@ -1190,9 +1180,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[120]=
+		[119]=
 		{
-			id = 120,
+			id = 119,
 			key = "act_ycs_hgyl",
 			desc = "迎财神_回归有礼",
 			lua = "YCS_HGYLManager",
@@ -1200,9 +1190,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[121]=
+		[120]=
 		{
-			id = 121,
+			id = 120,
 			key = "act_yx_cdm",
 			desc = "元宵_猜灯谜 ",
 			lua = "YX_CDMManager",
@@ -1210,9 +1200,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[122]=
+		[121]=
 		{
-			id = 122,
+			id = 121,
 			key = "act_yx_ljyj",
 			desc = "元宵_累计赢金",
 			lua = "YX_LJYJManager",
@@ -1220,9 +1210,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[123]=
+		[122]=
 		{
-			id = 123,
+			id = 122,
 			key = "act_cjs_zdfl",
 			desc = "辞旧岁-炸弹福利",
 			lua = "CJS_ZDFLManager",
@@ -1230,9 +1220,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[124]=
+		[123]=
 		{
-			id = 124,
+			id = 123,
 			key = "act_ycs_bsyy",
 			desc = "迎财神_比赛预约",
 			lua = "YCS_BSYYManager",
@@ -1240,9 +1230,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[125]=
+		[124]=
 		{
-			id = 125,
+			id = 124,
 			key = "act_lmqrj",
 			desc = "浪漫情人节",
 			lua = "LMQRJManager",
@@ -1250,9 +1240,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[126]=
+		[125]=
 		{
-			id = 126,
+			id = 125,
 			key = "act_xrqtl",
 			desc = "新人七天乐",
 			lua = "XRQTLManager",
@@ -1260,9 +1250,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[127]=
+		[126]=
 		{
-			id = 127,
+			id = 126,
 			key = "act_fxlx",
 			desc = "分享拉新",
 			lua = "FXLXManager",
@@ -1270,9 +1260,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[128]=
+		[127]=
 		{
-			id = 128,
+			id = 127,
 			key = "act_ltqf",
 			desc = "龙腾祈福",
 			lua = "LTQFManager",
@@ -1280,9 +1270,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[129]=
+		[128]=
 		{
-			id = 129,
+			id = 128,
 			key = "act_001_bsyy",
 			desc = "月末福利-比赛预约",
 			lua = "ACT_001BSYYManager",
@@ -1290,9 +1280,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[130]=
+		[129]=
 		{
-			id = 130,
+			id = 129,
 			key = "act_001_hgyl",
 			desc = "月末福利-回归有礼",
 			lua = "ACT_001HGYLManager",
@@ -1300,9 +1290,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[131]=
+		[130]=
 		{
-			id = 131,
+			id = 130,
 			key = "act_001_byfl",
 			desc = "月末福利-捕鱼福利",
 			lua = "ACT_001BYFLManager",
@@ -1310,9 +1300,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[132]=
+		[131]=
 		{
-			id = 132,
+			id = 131,
 			key = "act_001_yjwd",
 			desc = "月末福利-有奖问答",
 			lua = "ACT_001YJWDManager",
@@ -1320,9 +1310,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[133]=
+		[132]=
 		{
-			id = 133,
+			id = 132,
 			key = "act_002_nscj",
 			desc = "女神节-抽奖",
 			lua = "Act_002NSCJManager",
@@ -1330,9 +1320,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[134]=
+		[133]=
 		{
-			id = 134,
+			id = 133,
 			key = "act_002_nslw",
 			desc = "女神节-礼物",
 			lua = "Act_002NSLWManager",
@@ -1340,9 +1330,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[135]=
+		[134]=
 		{
-			id = 135,
+			id = 134,
 			key = "act_002_UIChange",
 			desc = "女神节-财神模式",
 			lua = "act_002UIChangeManager",
@@ -1350,9 +1340,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[136]=
+		[135]=
 		{
-			id = 136,
+			id = 135,
 			key = "act_002_hfdh",
 			desc = "女神节-话费兑换",
 			lua = "Act_002HFDHManager",
@@ -1360,9 +1350,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[137]=
+		[136]=
 		{
-			id = 137,
+			id = 136,
 			key = "act_003_zshm",
 			desc = "植树护苗",
 			lua = "Act_003ZSHMManager",
@@ -1370,9 +1360,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[138]=
+		[137]=
 		{
-			id = 138,
+			id = 137,
 			key = "act_003_zslw",
 			desc = "植树礼物",
 			lua = "Act_003ZSLWManager",
@@ -1380,9 +1370,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[139]=
+		[138]=
 		{
-			id = 139,
+			id = 138,
 			key = "act_004_fkyzd_cz",
 			desc = "疯狂原子弹充值",
 			lua = "Act_004FKYZDCZManager",
@@ -1390,9 +1380,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[140]=
+		[139]=
 		{
-			id = 140,
+			id = 139,
 			key = "act_004_fkyzd_sj",
 			desc = "疯狂原子弹收集",
 			lua = "Act_004FKYZDSJManager",
@@ -1400,9 +1390,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[141]=
+		[140]=
 		{
-			id = 141,
+			id = 140,
 			key = "act_004_fkyzd_gm",
 			desc = "疯狂原子弹购买",
 			lua = "Act_004FKYZDGMManager",
@@ -1410,9 +1400,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[142]=
+		[141]=
 		{
-			id = 142,
+			id = 141,
 			key = "act_004_jika",
 			desc = "季卡",
 			lua = "Act_004JIKAManager",
@@ -1420,9 +1410,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[143]=
+		[142]=
 		{
-			id = 143,
+			id = 142,
 			key = "act_004_lylb",
 			desc = "0元礼包",
 			lua = "Act_004LYLBManager",
@@ -1430,9 +1420,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[144]=
+		[143]=
 		{
-			id = 144,
+			id = 143,
 			key = "by3d_act_xycb",
 			desc = "3D捕鱼-幸运彩贝",
 			lua = "BY3DActXYCBManager",
@@ -1440,9 +1430,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[145]=
+		[144]=
 		{
-			id = 145,
+			id = 144,
 			key = "act_002_hbfx",
 			desc = "红包分享",
 			lua = "Act_002HBFXManager",
@@ -1450,9 +1440,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[146]=
+		[145]=
 		{
-			id = 146,
+			id = 145,
 			key = "act_005_hgjx",
 			desc = "回归惊喜",
 			lua = "Act_005_HGJXManager",
@@ -1460,9 +1450,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[147]=
+		[146]=
 		{
-			id = 147,
+			id = 146,
 			key = "act_005_bsyy",
 			desc = "比赛预约",
 			lua = "ACT_005BSYYManager",
@@ -1470,9 +1460,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[148]=
+		[147]=
 		{
-			id = 148,
+			id = 147,
 			key = "act_005_tnsh",
 			desc = "天女散花",
 			lua = "Act_005_TNSHManager",
@@ -1480,9 +1470,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[149]=
+		[148]=
 		{
-			id = 149,
+			id = 148,
 			key = "act_005_ymfl",
 			desc = "月末福利",
 			lua = "Act_005_YMFLManager",
@@ -1490,9 +1480,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[150]=
+		[149]=
 		{
-			id = 150,
+			id = 149,
 			key = "act_005_ymfl_hyzh",
 			desc = "好友召回",
 			lua = "Act_005YMFLHYZHManager",
@@ -1500,9 +1490,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[151]=
+		[150]=
 		{
-			id = 151,
+			id = 150,
 			key = "act_005_yzqj",
 			desc = "一字千金",
 			lua = "Act_005YZQJManager",
@@ -1510,9 +1500,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[152]=
+		[151]=
 		{
-			id = 152,
+			id = 151,
 			key = "act_006_czfl",
 			desc = "充值返利",
 			lua = "Act_006CZFLManager",
@@ -1520,9 +1510,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[153]=
+		[152]=
 		{
-			id = 153,
+			id = 152,
 			key = "act_006_qflb2",
 			desc = "全返礼包Ⅱ",
 			lua = "Act_006QFLB2Manager",
@@ -1530,9 +1520,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[154]=
+		[153]=
 		{
-			id = 154,
+			id = 153,
 			key = "act_006_qflb3",
 			desc = "全返礼包Ⅲ",
 			lua = "Act_006QFLB3Manager",
@@ -1540,9 +1530,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[155]=
+		[154]=
 		{
-			id = 155,
+			id = 154,
 			key = "act_006_xyfl",
 			desc = "新游福利",
 			lua = "Act_006XYFLManager",
@@ -1550,9 +1540,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[156]=
+		[155]=
 		{
-			id = 156,
+			id = 155,
 			key = "act_007_fkfl",
 			desc = "疯狂返利",
 			lua = "Act_007_FKFLManager",
@@ -1560,9 +1550,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[157]=
+		[156]=
 		{
-			id = 157,
+			id = 156,
 			key = "act_007_ckt",
 			desc = "抽空调",
 			lua = "Act_007CKTManager",
@@ -1570,9 +1560,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[158]=
+		[157]=
 		{
-			id = 158,
+			id = 157,
 			key = "act_lottery_card",
 			desc = "抽奖卡片",
 			lua = "LotteryCardManager",
@@ -1580,9 +1570,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[159]=
+		[158]=
 		{
-			id = 159,
+			id = 158,
 			key = "act_father",
 			desc = "父亲节",
 			lua = "ActivityFatherPanel",
@@ -1590,9 +1580,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[160]=
+		[159]=
 		{
-			id = 160,
+			id = 159,
 			key = "act_lottery",
 			desc = "抽奖",
 			lua = "CommonLotteryPanel",
@@ -1600,9 +1590,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[161]=
+		[160]=
 		{
-			id = 161,
+			id = 160,
 			key = "act_product_rating",
 			desc = "评论有奖",
 			lua = "ProductRatingPanel",
@@ -1610,9 +1600,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[162]=
+		[161]=
 		{
-			id = 162,
+			id = 161,
 			key = "act_prop_box",
 			desc = "活动：开宝箱",
 			lua = "PropBoxManager",
@@ -1620,9 +1610,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[163]=
+		[162]=
 		{
-			id = 163,
+			id = 162,
 			key = "act_zjb",
 			desc = "活动：赚鲸币",
 			lua = "GameGatherPanel",
@@ -1630,9 +1620,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[164]=
+		[163]=
 		{
-			id = 164,
+			id = 163,
 			key = "gift_com_gift",
 			desc = "礼包：单个礼包模板",
 			lua = "GameComGiftPanel",
@@ -1640,9 +1630,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[165]=
+		[164]=
 		{
-			id = 165,
+			id = 164,
 			key = "gift_golden_pig",
 			desc = "礼包：金猪礼包",
 			lua = "GiftGoldenPigManager",
@@ -1650,9 +1640,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[166]=
+		[165]=
 		{
-			id = 166,
+			id = 165,
 			key = "gift_one_yuan",
 			desc = "礼包：一元礼包",
 			lua = "GiftOneYuanManager",
@@ -1660,9 +1650,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[167]=
+		[166]=
 		{
-			id = 167,
+			id = 166,
 			key = "gift_yycz",
 			desc = "礼包：一元超值",
 			lua = "GiftBoxPanel",
@@ -1670,9 +1660,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[168]=
+		[167]=
 		{
-			id = 168,
+			id = 167,
 			key = "gift_sh",
 			desc = "礼包：水浒",
 			lua = "SH_GiftPanel",
@@ -1680,20 +1670,29 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[169]=
+		[168]=
 		{
-			id = 169,
+			id = 168,
 			key = "gift_13",
 			desc = "千元赛礼包",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
 		},
+		[169]=
+		{
+			id = 169,
+			key = "gift_74",
+			desc = "迎新礼包",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 		[170]=
 		{
 			id = 170,
-			key = "gift_74",
-			desc = "迎新礼包",
+			key = "gift_10025",
+			desc = "捕鱼特惠礼包",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -1701,8 +1700,8 @@ return {
 		[171]=
 		{
 			id = 171,
-			key = "gift_10025",
-			desc = "捕鱼特惠礼包",
+			key = "gift_10087",
+			desc = "每日特惠礼包",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -1710,15 +1709,6 @@ return {
 		[172]=
 		{
 			id = 172,
-			key = "gift_10087",
-			desc = "每日特惠礼包",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[173]=
-		{
-			id = 173,
 			key = "act_look_back",
 			desc = "活动：回顾",
 			lua = "LookBackPanel",
@@ -1726,36 +1716,36 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[174]=
+		[173]=
 		{
-			id = 174,
+			id = 173,
 			key = "act_yznyy",
 			desc = "一周年预约",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
 		},
-		[175]=
+		[174]=
 		{
-			id = 175,
+			id = 174,
 			key = "ad",
 			desc = "广告图",
 			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
-		[176]=
+		[175]=
 		{
-			id = 176,
+			id = 175,
 			key = "sys_Inform",
 			desc = "通知废弃",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
 		},
-		[177]=
+		[176]=
 		{
-			id = 177,
+			id = 176,
 			key = "gift_fishing_subsidy",
 			desc = "礼包：捕鱼特惠",
 			lua = "GiftFishingSubsidyManager",
@@ -1763,9 +1753,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[178]=
+		[177]=
 		{
-			id = 178,
+			id = 177,
 			key = "gift_shatter_golden_sale",
 			desc = "礼包：限时特惠",
 			lua = "GiftShatterGoldenSaleManager",
@@ -1773,11 +1763,20 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[178]=
+		{
+			id = 178,
+			key = "sys_free_jackpot",
+			desc = "系统：自由场奖池",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
+		},
 		[179]=
 		{
 			id = 179,
-			key = "sys_free_jackpot",
-			desc = "系统：自由场奖池",
+			key = "ad_old",
+			desc = "广告图废弃",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1785,8 +1784,8 @@ return {
 		[180]=
 		{
 			id = 180,
-			key = "ad_old",
-			desc = "广告图废弃",
+			key = "gift_old",
+			desc = "礼包废弃",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1794,8 +1793,8 @@ return {
 		[181]=
 		{
 			id = 181,
-			key = "gift_old",
-			desc = "礼包废弃",
+			key = "sys_act_base_old",
+			desc = "扩展活动废弃",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1803,8 +1802,8 @@ return {
 		[182]=
 		{
 			id = 182,
-			key = "sys_act_base_old",
-			desc = "扩展活动废弃",
+			key = "act_znq_bhkl",
+			desc = "周年庆捕获快乐",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1812,8 +1811,8 @@ return {
 		[183]=
 		{
 			id = 183,
-			key = "act_znq_bhkl",
-			desc = "周年庆捕获快乐",
+			key = "act_znq_byddj",
+			desc = "周年庆捕鱼兑大奖",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1821,8 +1820,8 @@ return {
 		[184]=
 		{
 			id = 184,
-			key = "act_znq_byddj",
-			desc = "周年庆捕鱼兑大奖",
+			key = "act_znq_czhk",
+			desc = "周年庆充值回馈",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1830,8 +1829,8 @@ return {
 		[185]=
 		{
 			id = 185,
-			key = "act_znq_czhk",
-			desc = "周年庆充值回馈",
+			key = "act_znq_czth",
+			desc = "周年庆充值特惠",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1839,8 +1838,8 @@ return {
 		[186]=
 		{
 			id = 186,
-			key = "act_znq_czth",
-			desc = "周年庆充值特惠",
+			key = "act_znq_ges",
+			desc = "周年庆感恩赛",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1848,8 +1847,8 @@ return {
 		[187]=
 		{
 			id = 187,
-			key = "act_znq_ges",
-			desc = "周年庆感恩赛",
+			key = "act_znq_jnb",
+			desc = "周年庆纪念币",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1857,8 +1856,8 @@ return {
 		[188]=
 		{
 			id = 188,
-			key = "act_znq_jnb",
-			desc = "周年庆纪念币",
+			key = "act_znq_kqhy",
+			desc = "周年庆开启回忆",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1866,8 +1865,8 @@ return {
 		[189]=
 		{
 			id = 189,
-			key = "act_znq_kqhy",
-			desc = "周年庆开启回忆",
+			key = "act_znq_qmby",
+			desc = "周年庆全民捕鱼",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1875,8 +1874,8 @@ return {
 		[190]=
 		{
 			id = 190,
-			key = "act_znq_qmby",
-			desc = "周年庆全民捕鱼",
+			key = "act_znq_task",
+			desc = "周年庆任务",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1884,8 +1883,8 @@ return {
 		[191]=
 		{
 			id = 191,
-			key = "act_znq_task",
-			desc = "周年庆任务",
+			key = "act_znq_xxldzz",
+			desc = "周年庆消消乐大作战",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1893,8 +1892,8 @@ return {
 		[192]=
 		{
 			id = 192,
-			key = "act_znq_xxldzz",
-			desc = "周年庆消消乐大作战",
+			key = "act_znq_yjshl",
+			desc = "周年庆赢金送豪礼",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1902,8 +1901,8 @@ return {
 		[193]=
 		{
 			id = 193,
-			key = "act_znq_yjshl",
-			desc = "周年庆赢金送豪礼",
+			key = "act_znq_yjzb",
+			desc = "周年庆赢金争霸",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1911,8 +1910,8 @@ return {
 		[194]=
 		{
 			id = 194,
-			key = "act_znq_yjzb",
-			desc = "周年庆赢金争霸",
+			key = "act_znq_yy",
+			desc = "周年庆预约",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1920,8 +1919,8 @@ return {
 		[195]=
 		{
 			id = 195,
-			key = "act_znq_yy",
-			desc = "周年庆预约",
+			key = "act_znq_zjdshl",
+			desc = "周年庆砸金蛋送好礼",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1929,8 +1928,8 @@ return {
 		[196]=
 		{
 			id = 196,
-			key = "act_znq_zjdshl",
-			desc = "周年庆砸金蛋送好礼",
+			key = "act_znq_qdlb",
+			desc = "周年庆庆典礼包",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1938,8 +1937,8 @@ return {
 		[197]=
 		{
 			id = 197,
-			key = "act_znq_qdlb",
-			desc = "周年庆庆典礼包",
+			key = "act_znq_gelb",
+			desc = "周年庆感恩礼包",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1947,8 +1946,8 @@ return {
 		[198]=
 		{
 			id = 198,
-			key = "act_znq_gelb",
-			desc = "周年庆感恩礼包",
+			key = "act_znq_byzdy",
+			desc = "周年庆捕鱼总动员",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1956,8 +1955,8 @@ return {
 		[199]=
 		{
 			id = 199,
-			key = "act_znq_byzdy",
-			desc = "周年庆捕鱼总动员",
+			key = "act_000_ttl",
+			desc = "活动：弹弹乐",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1965,8 +1964,8 @@ return {
 		[200]=
 		{
 			id = 200,
-			key = "act_000_ttl",
-			desc = "活动：弹弹乐",
+			key = "act_qlyx",
+			desc = "活动：清凉一夏",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1974,8 +1973,8 @@ return {
 		[201]=
 		{
 			id = 201,
-			key = "act_qlyx",
-			desc = "活动：清凉一夏",
+			key = "act_qx",
+			desc = "活动：七夕",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1983,8 +1982,8 @@ return {
 		[202]=
 		{
 			id = 202,
-			key = "act_qx",
-			desc = "活动：七夕",
+			key = "act_zz",
+			desc = "活动：集粽子",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -1992,15 +1991,6 @@ return {
 		[203]=
 		{
 			id = 203,
-			key = "act_zz",
-			desc = "活动：集粽子",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
-		},
-		[204]=
-		{
-			id = 204,
 			key = "by3d_act_6in1",
 			desc = "活动：疯狂六选一",
 			lua = "BY3DAct6in1Manager",
@@ -2008,9 +1998,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[205]=
+		[204]=
 		{
-			id = 205,
+			id = 204,
 			key = "by3d_act_caijin",
 			desc = "活动：彩金抽奖",
 			lua = "BY3DActCaijinManager",
@@ -2018,9 +2008,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[206]=
+		[205]=
 		{
-			id = 206,
+			id = 205,
 			key = "by3d_act_zhuanpan",
 			desc = "活动：转盘抽奖",
 			lua = "BY3DActZhuanpanManager",
@@ -2028,11 +2018,20 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[206]=
+		{
+			id = 206,
+			key = "by_ljdh",
+			desc = "活动：捕鱼累计兑换",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
+		},
 		[207]=
 		{
 			id = 207,
-			key = "by_ljdh",
-			desc = "活动：捕鱼累计兑换",
+			key = "cfzx_sytx",
+			desc = "系统：财富中心收益提醒",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2040,8 +2039,8 @@ return {
 		[208]=
 		{
 			id = 208,
-			key = "cfzx_sytx",
-			desc = "系统：财富中心收益提醒",
+			key = "qql_csd",
+			desc = "活动：敲敲乐财神到",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2049,8 +2048,8 @@ return {
 		[209]=
 		{
 			id = 209,
-			key = "qql_csd",
-			desc = "活动：敲敲乐财神到",
+			key = "qql_ljyj",
+			desc = "活动：敲敲乐累计赢金",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2058,26 +2057,26 @@ return {
 		[210]=
 		{
 			id = 210,
-			key = "qql_ljyj",
-			desc = "活动：敲敲乐累计赢金",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
-		},
-		[211]=
-		{
-			id = 211,
 			key = "swjl_icon",
 			desc = "系统：实物图片",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
+		[211]=
+		{
+			id = 211,
+			key = "sys_banner_act",
+			desc = "系统：banner活动",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
+		},
 		[212]=
 		{
 			id = 212,
-			key = "sys_banner_act",
-			desc = "系统：banner活动",
+			key = "sys_binding_shipping_address",
+			desc = "系统：绑定地址",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2085,8 +2084,8 @@ return {
 		[213]=
 		{
 			id = 213,
-			key = "sys_binding_shipping_address",
-			desc = "系统：绑定地址",
+			key = "gift_gqlb",
+			desc = "礼包：国庆礼包",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2094,8 +2093,8 @@ return {
 		[214]=
 		{
 			id = 214,
-			key = "gift_gqlb",
-			desc = "礼包：国庆礼包",
+			key = "sys_honor",
+			desc = "系统：荣誉系统",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2103,8 +2102,8 @@ return {
 		[215]=
 		{
 			id = 215,
-			key = "sys_honor",
-			desc = "系统：荣誉系统",
+			key = "sys_kxxxl",
+			desc = "活动：开心消消乐",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2112,8 +2111,8 @@ return {
 		[216]=
 		{
 			id = 216,
-			key = "sys_kxxxl",
-			desc = "活动：开心消消乐",
+			key = "sys_qmfx",
+			desc = "活动：全民分享",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2121,8 +2120,8 @@ return {
 		[217]=
 		{
 			id = 217,
-			key = "sys_qmfx",
-			desc = "活动：全民分享",
+			key = "sys_sqdfs",
+			desc = "活动：暑期大放送",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2130,8 +2129,8 @@ return {
 		[218]=
 		{
 			id = 218,
-			key = "sys_sqdfs",
-			desc = "活动：暑期大放送",
+			key = "sys_yjshl",
+			desc = "活动：赢金送豪礼",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2139,8 +2138,8 @@ return {
 		[219]=
 		{
 			id = 219,
-			key = "sys_yjshl",
-			desc = "活动：赢金送豪礼",
+			key = "sys_yqshxxl",
+			desc = "活动：邀请水浒消消乐",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2148,8 +2147,8 @@ return {
 		[220]=
 		{
 			id = 220,
-			key = "sys_yqshxxl",
-			desc = "活动：邀请水浒消消乐",
+			key = "xxl_xcfn",
+			desc = "活动：消除烦恼（水果消消乐）",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2157,8 +2156,8 @@ return {
 		[221]=
 		{
 			id = 221,
-			key = "xxl_xcfn",
-			desc = "活动：消除烦恼（水果消消乐）",
+			key = "xxlsg_ljyj",
+			desc = "活动：累计赢金（水果消消乐）",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2166,8 +2165,8 @@ return {
 		[222]=
 		{
 			id = 222,
-			key = "xxlsg_ljyj",
-			desc = "活动：累计赢金（水果消消乐）",
+			key = "xxlsg_tzrw",
+			desc = "活动：挑战任务（水果消消乐）",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2175,8 +2174,8 @@ return {
 		[223]=
 		{
 			id = 223,
-			key = "xxlsg_tzrw",
-			desc = "活动：挑战任务（水果消消乐）",
+			key = "xxlsh_ljyj",
+			desc = "活动：累计赢金（水浒消消乐）",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2184,8 +2183,8 @@ return {
 		[224]=
 		{
 			id = 224,
-			key = "xxlsh_ljyj",
-			desc = "活动：累计赢金（水浒消消乐）",
+			key = "xxlsh_tzrw",
+			desc = "活动：挑战任务（水浒消消乐）",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -2193,15 +2192,6 @@ return {
 		[225]=
 		{
 			id = 225,
-			key = "xxlsh_tzrw",
-			desc = "活动：挑战任务（水浒消消乐）",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
-		},
-		[226]=
-		{
-			id = 226,
 			key = "sys_active_daily_task",
 			desc = "每日活跃任务",
 			lua = "ActiveDailyTaskManager",
@@ -2209,9 +2199,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[227]=
+		[226]=
 		{
-			id = 227,
+			id = 226,
 			key = "sys_cqg",
 			desc = "存钱罐",
 			lua = "CQGManager",
@@ -2219,9 +2209,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[228]=
+		[227]=
 		{
-			id = 228,
+			id = 227,
 			key = "sys_by_bag",
 			desc = "捕鱼背包",
 			lua = "SYSByBagManager",
@@ -2229,9 +2219,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[229]=
+		[228]=
 		{
-			id = 229,
+			id = 228,
 			key = "sys_by_pms",
 			desc = "捕鱼排名赛",
 			lua = "SYSByPmsManager",
@@ -2239,9 +2229,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[230]=
+		[229]=
 		{
-			id = 230,
+			id = 229,
 			key = "sys_by_level",
 			desc = "排名",
 			lua = "SYSBYLevelManager",
@@ -2249,9 +2239,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[231]=
+		[230]=
 		{
-			id = 231,
+			id = 230,
 			key = "act_by3d_szwg",
 			desc = "骰子龟活动",
 			lua = "ActBy3dSzwgManager",
@@ -2259,9 +2249,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[232]=
+		[231]=
 		{
-			id = 232,
+			id = 231,
 			key = "by_drb_cs",
 			desc = "3D捕鱼测试排行榜",
 			lua = "BYDRBCSManager",
@@ -2269,9 +2259,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[233]=
+		[232]=
 		{
-			id = 233,
+			id = 232,
 			key = "sys_sclb1",
 			desc = "首冲礼包（新）",
 			lua = "SYSSCLB1Manager",
@@ -2279,9 +2269,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[234]=
+		[233]=
 		{
-			id = 234,
+			id = 233,
 			key = "sys_open_install_binding",
 			desc = "OpenInstall绑定关系",
 			lua = "OpenInstallBindingManager",
@@ -2289,9 +2279,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[235]=
+		[234]=
 		{
-			id = 235,
+			id = 234,
 			key = "by3d_act_jc",
 			desc = "3D捕鱼奖池",
 			lua = "BY3DJCManager",
@@ -2299,9 +2289,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[236]=
+		[235]=
 		{
-			id = 236,
+			id = 235,
 			key = "by3d_kpshb",
 			desc = "3D捕鱼开炮送红包",
 			lua = "BY3DKPSHBManager",
@@ -2309,9 +2299,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[237]=
+		[236]=
 		{
-			id = 237,
+			id = 236,
 			key = "by_bossts",
 			desc = "boss来了",
 			lua = "BYBossTSManager",
@@ -2319,9 +2309,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[238]=
+		[237]=
 		{
-			id = 238,
+			id = 237,
 			key = "sys_flqcj",
 			desc = "福利券抽奖",
 			lua = "SYSFLQCJManager",
@@ -2329,9 +2319,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[239]=
+		[238]=
 		{
-			id = 239,
+			id = 238,
 			key = "act_016_xyxcwk",
 			desc = "畅玩卡",
 			lua = "Act_016_XYXCWKManager",
@@ -2339,9 +2329,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[240]=
+		[239]=
 		{
-			id = 240,
+			id = 239,
 			key = "by3d_task",
 			desc = "3D捕鱼挑战任务",
 			lua = "BY3DTaskManager",
@@ -2349,9 +2339,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[241]=
+		[240]=
 		{
-			id = 241,
+			id = 240,
 			key = "by3d_top_qh",
 			desc = "3D捕鱼游戏上方区域",
 			lua = "BY3DTopQHManager",
@@ -2359,9 +2349,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[242]=
+		[241]=
 		{
-			id = 242,
+			id = 241,
 			key = "act_022_qflb",
 			desc = "全返礼包",
 			lua = "Act_022_QFLBManager",
@@ -2369,9 +2359,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[243]=
+		[242]=
 		{
-			id = 243,
+			id = 242,
 			key = "act_022_gzyl",
 			desc = "关注有礼",
 			lua = "Act_022_GZYLManager",
@@ -2379,9 +2369,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[244]=
+		[243]=
 		{
-			id = 244,
+			id = 243,
 			key = "act_023_vip2ztlb",
 			desc = "vip2直通礼包key",
 			lua = "Act_023_VIP2ZTLBManager",
@@ -2389,9 +2379,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[245]=
+		[244]=
 		{
-			id = 245,
+			id = 244,
 			key = "act_023_vip3ztlb",
 			desc = "vip3直通礼包key",
 			lua = "Act_023_VIP3ZTLBManager",
@@ -2399,9 +2389,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[246]=
+		[245]=
 		{
-			id = 246,
+			id = 245,
 			key = "act_023_vip4ztlb",
 			desc = "vip4直通礼包key",
 			lua = "Act_023_VIP4ZTLBManager",
@@ -2409,9 +2399,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[247]=
+		[246]=
 		{
-			id = 247,
+			id = 246,
 			key = "by3d_tcyx",
 			desc = "捕鱼不开炮踢出游戏",
 			lua = "BYTCYXManager",
@@ -2419,9 +2409,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[248]=
+		[247]=
 		{
-			id = 248,
+			id = 247,
 			key = "sys_change_head_and_name",
 			desc = "设置头像和改变昵称",
 			lua = "SYSChangeHeadAndNameManager",
@@ -2429,9 +2419,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[249]=
+		[248]=
 		{
-			id = 249,
+			id = 248,
 			key = "by3d_zdkp",
 			desc = "3D捕鱼自动开炮",
 			lua = "BY3DZDKPManager",
@@ -2439,9 +2429,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[250]=
+		[249]=
 		{
-			id = 250,
+			id = 249,
 			key = "by3d_ad_mfcj",
 			desc = "广告点4：免费抽奖",
 			lua = "BY3DADMFCJManager",
@@ -2449,9 +2439,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[251]=
+		[250]=
 		{
-			id = 251,
+			id = 250,
 			key = "act_024_jfcdj",
 			desc = "积分抽大奖",
 			lua = "Act_024_JFCDJManager",
@@ -2459,9 +2449,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[252]=
+		[251]=
 		{
-			id = 252,
+			id = 251,
 			key = "act_024_lgfl",
 			desc = "连购返利",
 			lua = "Act_024_LGFLManager",
@@ -2469,9 +2459,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[253]=
+		[252]=
 		{
-			id = 253,
+			id = 252,
 			key = "act_ty_task",
 			desc = "通用活动模板1",
 			lua = "ActivityTaskManager",
@@ -2479,9 +2469,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[254]=
+		[253]=
 		{
-			id = 254,
+			id = 253,
 			key = "act_024_wyzjf",
 			desc = "我要赚积分",
 			lua = "Act_024_WYZJFManager",
@@ -2489,9 +2479,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[255]=
+		[254]=
 		{
-			id = 255,
+			id = 254,
 			key = "by3d_ad_fish",
 			desc = "广告鱼",
 			lua = "BY3DADFishManager",
@@ -2499,9 +2489,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[256]=
+		[255]=
 		{
-			id = 256,
+			id = 255,
 			key = "act_025_jrth",
 			desc = "节日特惠→金牛幸运宝箱",
 			lua = "Act_025_JRTHManager",
@@ -2509,9 +2499,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[257]=
+		[256]=
 		{
-			id = 257,
+			id = 256,
 			key = "act_025_lxdh",
 			desc = "龙虾兑换",
 			lua = "Act_025_LXDHManager",
@@ -2519,9 +2509,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[258]=
+		[257]=
 		{
-			id = 258,
+			id = 257,
 			key = "act_025_xlxphb",
 			desc = "小龙虾排行榜",
 			lua = "Act_025_XLXPHBManager",
@@ -2529,9 +2519,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[259]=
+		[258]=
 		{
-			id = 259,
+			id = 258,
 			key = "gift_czlb",
 			desc = "超值礼包",
 			lua = "GiftCZLBManager",
@@ -2539,9 +2529,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[260]=
+		[259]=
 		{
-			id = 260,
+			id = 259,
 			key = "sys_fcm",
 			desc = "防沉迷",
 			lua = "SYSFCMManager",
@@ -2549,9 +2539,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[261]=
+		[260]=
 		{
-			id = 261,
+			id = 260,
 			key = "act_009_yk_gz",
 			desc = "活动：贵族月卡",
 			lua = "Act_009_YKGZManager",
@@ -2559,9 +2549,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[262]=
+		[261]=
 		{
-			id = 262,
+			id = 261,
 			key = "sys_011_yueka_new",
 			desc = "新月卡",
 			lua = "Sys_011_YuekaManager",
@@ -2569,9 +2559,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[263]=
+		[262]=
 		{
-			id = 263,
+			id = 262,
 			key = "act_026_bblb",
 			desc = "表白礼包",
 			lua = "Act_026_BBLBManager",
@@ -2579,9 +2569,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[264]=
+		[263]=
 		{
-			id = 264,
+			id = 263,
 			key = "act_026_xrcdj",
 			desc = "新人抽大奖",
 			lua = "Act_026_XRCDJManager",
@@ -2589,9 +2579,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[265]=
+		[264]=
 		{
-			id = 265,
+			id = 264,
 			key = "act_026_zabd",
 			desc = "真爱榜单",
 			lua = "Act_026_ZABDManager",
@@ -2599,9 +2589,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[266]=
+		[265]=
 		{
-			id = 266,
+			id = 265,
 			key = "act_026_lmlh",
 			desc = "浪漫礼盒",
 			lua = "Act_026_LMLHManager",
@@ -2609,9 +2599,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[267]=
+		[266]=
 		{
-			id = 267,
+			id = 266,
 			key = "act_026_sgxxlyd",
 			desc = "水果消消乐引导",
 			lua = "Act_026_SGXXLYDManager",
@@ -2619,9 +2609,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[268]=
+		[267]=
 		{
-			id = 268,
+			id = 267,
 			key = "sys_tgxt",
 			desc = "推广系统",
 			lua = "SYSTGXTManager",
@@ -2629,9 +2619,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[269]=
+		[268]=
 		{
-			id = 269,
+			id = 268,
 			key = "act_027_jqshl",
 			desc = "金秋送豪礼",
 			lua = "Act_027_JQSHLManager",
@@ -2639,9 +2629,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[270]=
+		[269]=
 		{
-			id = 270,
+			id = 269,
 			key = "act_027_mfflq",
 			desc = "免费福利券",
 			lua = "Act_027_MFFLQManager",
@@ -2649,9 +2639,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[271]=
+		[270]=
 		{
-			id = 271,
+			id = 270,
 			key = "act_028_mfhf",
 			desc = "免费话费",
 			lua = "Act_028_MFHFManager",
@@ -2659,9 +2649,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[272]=
+		[271]=
 		{
-			id = 272,
+			id = 271,
 			key = "act_028_xycd",
 			desc = "幸运彩蛋",
 			lua = "Act_028_XYCDManager",
@@ -2669,9 +2659,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[273]=
+		[272]=
 		{
-			id = 273,
+			id = 272,
 			key = "cpl_ljyjcfk",
 			desc = "小游戏累计赢金抽福卡",
 			lua = "CPL_LJYJCFKManager",
@@ -2679,9 +2669,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[274]=
+		[273]=
 		{
-			id = 274,
+			id = 273,
 			key = "by_task",
 			desc = "捕鱼任务系统",
 			lua = "BYTaskManager",
@@ -2689,9 +2679,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[275]=
+		[274]=
 		{
-			id = 275,
+			id = 274,
 			key = "act_029_hlqjd",
 			desc = "欢乐敲金蛋",
 			lua = "Act_029_HLQJDManager",
@@ -2699,18 +2689,18 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[276]=
+		[275]=
 		{
-			id = 276,
+			id = 275,
 			key = "act_030_hd_zjm",
 			desc = "小游戏福利",
 			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
-		[277]=
+		[276]=
 		{
-			id = 277,
+			id = 276,
 			key = "act_030_cwlb",
 			desc = "双十二→庆典礼包",
 			lua = "Act_030_CWLBManager",
@@ -2718,9 +2708,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[278]=
+		[277]=
 		{
-			id = 278,
+			id = 277,
 			key = "act_031_gqfl",
 			desc = "国庆福利",
 			lua = "act_031_gqflManager",
@@ -2728,18 +2718,18 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[279]=
+		[278]=
 		{
-			id = 279,
+			id = 278,
 			key = "act_031_gqkl",
 			desc = "国庆快乐",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
 		},
-		[280]=
+		[279]=
 		{
-			id = 280,
+			id = 279,
 			key = "act_031_wxhhl",
 			desc = "五星换好礼",
 			lua = "Act_031_WXHHLManager",
@@ -2747,9 +2737,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[281]=
+		[280]=
 		{
-			id = 281,
+			id = 280,
 			key = "act_031_gqfd",
 			desc = "国庆福袋",
 			lua = "Act_030_GQFDManager",
@@ -2757,9 +2747,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[282]=
+		[281]=
 		{
-			id = 282,
+			id = 281,
 			key = "act_031_gqkl_ani",
 			desc = "星星掉落脚本",
 			lua = "Act_031_GQKLManager",
@@ -2767,9 +2757,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[283]=
+		[282]=
 		{
-			id = 283,
+			id = 282,
 			key = "by3d_hd",
 			desc = "核弹",
 			lua = "BY3DHDManager",
@@ -2777,9 +2767,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[284]=
+		[283]=
 		{
-			id = 284,
+			id = 283,
 			key = "by_xyxyd",
 			desc = "大额福利券（跳转小游戏入口）",
 			lua = "BYXyxydManager",
@@ -2787,9 +2777,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[285]=
+		[284]=
 		{
-			id = 285,
+			id = 284,
 			key = "sys_jjsl",
 			desc = "金鸡送礼",
 			lua = "SYSJJSLManager",
@@ -2797,9 +2787,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[286]=
+		[285]=
 		{
-			id = 286,
+			id = 285,
 			key = "act_033_vip1ztlb",
 			desc = "VIP1直通礼包",
 			lua = "Act_033_VIP1ZTLBManager",
@@ -2807,9 +2797,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[287]=
+		[286]=
 		{
-			id = 287,
+			id = 286,
 			key = "act_033_xrzxlb",
 			desc = "新人专享",
 			lua = "XRZXGiftManager",
@@ -2817,9 +2807,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[288]=
+		[287]=
 		{
-			id = 288,
+			id = 287,
 			key = "act_034_ldfd",
 			desc = "立冬福袋",
 			lua = "Act_034_LDFDManager",
@@ -2827,9 +2817,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[289]=
+		[288]=
 		{
-			id = 289,
+			id = 288,
 			key = "by3d_shtx",
 			desc = "深海探险",
 			lua = "BY3DSHTXManager",
@@ -2837,9 +2827,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[290]=
+		[289]=
 		{
-			id = 290,
+			id = 289,
 			key = "act_xrqtl_old",
 			desc = "新人七天乐（老版）",
 			lua = "XRQTLManager_Old",
@@ -2847,9 +2837,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[291]=
+		[290]=
 		{
-			id = 291,
+			id = 290,
 			key = "act_035_ybwl",
 			desc = "一本万利",
 			lua = "Act_035_YBWLManager",
@@ -2857,9 +2847,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[292]=
+		[291]=
 		{
-			id = 292,
+			id = 291,
 			key = "sys_by3d_jchd",
 			desc = "UI-精彩活动",
 			lua = "SYSBY3DJCHDManager",
@@ -2867,9 +2857,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[293]=
+		[292]=
 		{
-			id = 293,
+			id = 292,
 			key = "sys_by3d_hqjb",
 			desc = "UI-获取金币",
 			lua = "SYSBY3DHQJBManager",
@@ -2877,9 +2867,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[294]=
+		[293]=
 		{
-			id = 294,
+			id = 293,
 			key = "act_035_jhs",
 			desc = "聚划算",
 			lua = "Act_035_JHSManager",
@@ -2887,9 +2877,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[295]=
+		[294]=
 		{
-			id = 295,
+			id = 294,
 			key = "by3d_phb",
 			desc = "排行榜总入口",
 			lua = "BY3DPHBManager",
@@ -2897,9 +2887,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[296]=
+		[295]=
 		{
-			id = 296,
+			id = 295,
 			key = "act_036_hjhhl",
 			desc = "火鸡换好礼",
 			lua = "Act_036_HJHHLManager",
@@ -2907,9 +2897,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[297]=
+		[296]=
 		{
-			id = 297,
+			id = 296,
 			key = "act_036_hjhhl_drop_ani",
 			desc = "火鸡掉落需求",
 			lua = "Act_036_HJHHLDROPManager",
@@ -2917,9 +2907,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[298]=
+		[297]=
 		{
-			id = 298,
+			id = 297,
 			key = "act_036_gelb",
 			desc = "感恩礼包",
 			lua = "Act_036_GELBManager",
@@ -2927,9 +2917,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[299]=
+		[298]=
 		{
-			id = 299,
+			id = 298,
 			key = "sys_by3d_shop_enter",
 			desc = "3D捕鱼商城入口(获取金币中)",
 			lua = "SYSBY3DShopManager",
@@ -2937,9 +2927,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[300]=
+		[299]=
 		{
-			id = 300,
+			id = 299,
 			key = "act_038_s12dhhl",
 			desc = "双十二兑换好礼",
 			lua = "Act_038_S12DHHLManager",
@@ -2947,9 +2937,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[301]=
+		[300]=
 		{
-			id = 301,
+			id = 300,
 			key = "act_038_s12lhsjb",
 			desc = "双十二礼盒收集榜",
 			lua = "Act_038_S12LHSJBManager",
@@ -2957,18 +2947,18 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[302]=
+		[301]=
 		{
-			id = 302,
+			id = 301,
 			key = "act_038_s12",
 			desc = "双十二页签→元旦活动→欢乐庆典",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
-		[303]=
+		[302]=
 		{
-			id = 303,
+			id = 302,
 			key = "act_038_s12lh_drop_ani",
 			desc = "双12礼盒掉落",
 			lua = "Act_038_S12LHDROPManager",
@@ -2976,9 +2966,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[304]=
+		[303]=
 		{
-			id = 304,
+			id = 303,
 			key = "act_038_by_and_cjj_conduct",
 			desc = "cjj互导",
 			lua = "Act_038_BY_AND_CJJ_CONDUCTManager",
@@ -2986,9 +2976,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[305]=
+		[304]=
 		{
-			id = 305,
+			id = 304,
 			key = "act_ty_by_hhl",
 			desc = "通用活动--兑换模板",
 			lua = "Act_TY_BY_HHLManager",
@@ -2996,9 +2986,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[306]=
+		[305]=
 		{
-			id = 306,
+			id = 305,
 			key = "act_ty_sjb",
 			desc = "通用活动--排行榜模板",
 			lua = "Act_TY_JZSJBManager",
@@ -3006,9 +2996,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[307]=
+		[306]=
 		{
-			id = 307,
+			id = 306,
 			key = "act_ty_by_drop",
 			desc = "通用活动--掉落活动",
 			lua = "Act_TYBYDROPManager",
@@ -3016,9 +3006,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[308]=
+		[307]=
 		{
-			id = 308,
+			id = 307,
 			key = "act_040_by_and_cjj_to_ddz_conduct",
 			desc = "游戏互导向斗地主",
 			lua = "Act_040_BY_AND_CJJ_TO_DDZ_CONDUCTManager",
@@ -3026,9 +3016,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[309]=
+		[308]=
 		{
-			id = 309,
+			id = 308,
 			key = "act_040_ydfl",
 			desc = "元旦福利（半年）",
 			lua = "Act_013_DLFLManager",
@@ -3036,9 +3026,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[310]=
+		[309]=
 		{
-			id = 310,
+			id = 309,
 			key = "sys_013_ffyd",
 			desc = "大厅小游戏版块上浮弹幕",
 			lua = "Sys_013_FFYDManager",
@@ -3046,9 +3036,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[311]=
+		[310]=
 		{
-			id = 311,
+			id = 310,
 			key = "act_ty_zp1",
 			desc = "通用活动--转盘模板（畅玩礼包）",
 			lua = "Act_Ty_ZP1Manager",
@@ -3056,9 +3046,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[312]=
+		[311]=
 		{
-			id = 312,
+			id = 311,
 			key = "act_ty_lb1",
 			desc = "通用活动--礼包模板（感恩礼包）",
 			lua = "Act_Ty_LB1Manager",
@@ -3066,9 +3056,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[313]=
+		[312]=
 		{
-			id = 313,
+			id = 312,
 			key = "sys_act_czzk",
 			desc = "周卡",
 			lua = "Sys_Act_CZZKManager",
@@ -3076,9 +3066,9 @@ return {
 			enable = 0,
 			state = 0,
 		},
-		[314]=
+		[313]=
 		{
-			id = 314,
+			id = 313,
 			key = "act_ty_collect_words",
 			desc = "通用活动--发财礼包模板",
 			lua = "Act_Ty_Collect_WordsManager",
@@ -3086,9 +3076,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[315]=
+		[314]=
 		{
-			id = 315,
+			id = 314,
 			key = "sys_jbp",
 			desc = "聚宝盆",
 			lua = "SYS_JBPManager",
@@ -3096,9 +3086,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[316]=
+		[315]=
 		{
-			id = 316,
+			id = 315,
 			key = "act_041_yybjsj",
 			desc = "赢一把就睡觉",
 			lua = "Act_015_YYBJSJManager",
@@ -3106,9 +3096,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[317]=
+		[316]=
 		{
-			id = 317,
+			id = 316,
 			key = "act_ty_fkqjd",
 			desc = "疯狂敲金蛋",
 			lua = "Act_Ty_QJD1Manager",
@@ -3116,11 +3106,20 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[317]=
+		{
+			id = 317,
+			key = "act_ty_sjb_style/act_001_ygbd",
+			desc = "阳光榜单",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 		[318]=
 		{
 			id = 318,
-			key = "act_ty_sjb_style/act_001_ygbd",
-			desc = "阳光榜单",
+			key = "act_ty_sjb_style/act_002_bzphb",
+			desc = "爆竹排行榜",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3128,8 +3127,7 @@ return {
 		[319]=
 		{
 			id = 319,
-			key = "act_ty_sjb_style/act_002_bzphb",
-			desc = "爆竹排行榜",
+			key = "act_ty_by_drop_style/act_003_taiyang",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3137,7 +3135,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "act_ty_by_drop_style/act_003_taiyang",
+			key = "act_ty_by_drop_style/act_004_baozhu",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3145,7 +3143,8 @@ return {
 		[321]=
 		{
 			id = 321,
-			key = "act_ty_by_drop_style/act_004_baozhu",
+			key = "act_ty_by_hhl_style/act_001_hhl",
+			desc = "太阳换好礼",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3153,15 +3152,6 @@ return {
 		[322]=
 		{
 			id = 322,
-			key = "act_ty_by_hhl_style/act_001_hhl",
-			desc = "太阳换好礼",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[323]=
-		{
-			id = 323,
 			key = "act_ty_by_hhl_style/act_002_hhl",
 			desc = "爆竹换好礼",
 			is_on_off = 1,
