@@ -1282,15 +1282,15 @@ return {
 		[68]=
 		{
 			id = 68,
-			use_id = 59,
-			use_item = "prop_xnfd_0",
+			use_id = 68,
+			use_item = "prop_fish_drop_act_0",
 			use_num = 1,
 		},
 		[69]=
 		{
 			id = 69,
-			use_id = 59,
-			use_item = "prop_xnfd_1",
+			use_id = 69,
+			use_item = "prop_gdn_xnfd",
 			use_num = 1,
 		},
 	},
@@ -7949,56 +7949,56 @@ return {
 		{
 			id = 454,
 			real_award_id = 11930,
-			asset_type = "prop_fish_drop_act_0",
+			asset_type = "prop_gdn_x",
 			asset_count = {1,},
 		},
 		[455]=
 		{
 			id = 455,
 			real_award_id = 11931,
-			asset_type = "prop_fish_drop_act_1",
+			asset_type = "prop_gdn_n",
 			asset_count = {1,},
 		},
 		[456]=
 		{
 			id = 456,
 			real_award_id = 11932,
-			asset_type = "prop_fish_drop_act_2",
+			asset_type = "prop_gdn_k",
 			asset_count = {1,},
 		},
 		[457]=
 		{
 			id = 457,
 			real_award_id = 11933,
-			asset_type = "prop_fish_drop_act_3",
+			asset_type = "prop_gdn_l",
 			asset_count = {1,},
 		},
 		[458]=
 		{
 			id = 458,
 			real_award_id = 11934,
-			asset_type = "prop_fish_drop_act_0",
+			asset_type = "prop_gdn_x",
 			asset_count = {1,},
 		},
 		[459]=
 		{
 			id = 459,
 			real_award_id = 11935,
-			asset_type = "prop_fish_drop_act_1",
+			asset_type = "prop_gdn_n",
 			asset_count = {1,},
 		},
 		[460]=
 		{
 			id = 460,
 			real_award_id = 11936,
-			asset_type = "prop_fish_drop_act_2",
+			asset_type = "prop_gdn_k",
 			asset_count = {1,},
 		},
 		[461]=
 		{
 			id = 461,
 			real_award_id = 11937,
-			asset_type = "prop_fish_drop_act_3",
+			asset_type = "prop_gdn_l",
 			asset_count = {1,},
 		},
 	},

@@ -39442,7 +39442,7 @@ return {
 		{
 			id = 1518,
 			award_id = 1000,
-			asset_type = "prop_xnfd_0",
+			asset_type = "prop_fish_drop_act_0",
 			asset_count = 45,
 			get_weight = 1,
 		},
@@ -39458,7 +39458,7 @@ return {
 		{
 			id = 1520,
 			award_id = 1001,
-			asset_type = "prop_xnfd_0",
+			asset_type = "prop_fish_drop_act_0",
 			asset_count = 90,
 			get_weight = 1,
 		},
@@ -39474,7 +39474,7 @@ return {
 		{
 			id = 1522,
 			award_id = 1002,
-			asset_type = "prop_xnfd_0",
+			asset_type = "prop_fish_drop_act_0",
 			asset_count = 150,
 			get_weight = 1,
 		},
@@ -39490,7 +39490,7 @@ return {
 		{
 			id = 1524,
 			award_id = 1003,
-			asset_type = "prop_xnfd_0",
+			asset_type = "prop_fish_drop_act_0",
 			asset_count = 290,
 			get_weight = 1,
 		},
@@ -39506,7 +39506,7 @@ return {
 		{
 			id = 1526,
 			award_id = 1004,
-			asset_type = "prop_xnfd_0",
+			asset_type = "prop_fish_drop_act_0",
 			asset_count = 590,
 			get_weight = 1,
 		},
@@ -39522,7 +39522,7 @@ return {
 		{
 			id = 1528,
 			award_id = 1005,
-			asset_type = "prop_xnfd_0",
+			asset_type = "prop_fish_drop_act_0",
 			asset_count = 1490,
 			get_weight = 1,
 		},
@@ -39538,7 +39538,7 @@ return {
 		{
 			id = 1530,
 			award_id = 1006,
-			asset_type = "prop_xnfd_0",
+			asset_type = "prop_fish_drop_act_0",
 			asset_count = 2990,
 			get_weight = 1,
 		},
@@ -39554,7 +39554,7 @@ return {
 		{
 			id = 1532,
 			award_id = 1007,
-			asset_type = "prop_xnfd_0",
+			asset_type = "prop_fish_drop_act_0",
 			asset_count = 7490,
 			get_weight = 1,
 		},
@@ -39570,7 +39570,7 @@ return {
 		{
 			id = 1534,
 			award_id = 1008,
-			asset_type = "prop_xnfd_0",
+			asset_type = "prop_fish_drop_act_0",
 			asset_count = 1,
 			get_weight = 1,
 		},

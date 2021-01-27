@@ -4404,46 +4404,46 @@ return {
 		{
 			id = 116,
 			award_id = 110,
-			asset_type = "prop_xnfd_1",
+			asset_type = "prop_gdn_xnfd",
 			asset_count = 10,
 			get_weight = 1,
 		},
 		[117]=
 		{
 			id = 117,
-			award_id = 111,
-			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
-			asset_count = 1,
+			award_id = 110,
+			asset_type = "_common_rank_gdn_004_jzbd_rank",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[118]=
 		{
 			id = 118,
 			award_id = 111,
-			asset_type = "prop_xnfd_1",
-			asset_count = 10,
+			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[119]=
 		{
 			id = 119,
-			award_id = 112,
-			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
-			asset_count = 1,
+			award_id = 111,
+			asset_type = "prop_gdn_xnfd",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[120]=
 		{
 			id = 120,
-			award_id = 112,
-			asset_type = "prop_xnfd_1",
+			award_id = 111,
+			asset_type = "_common_rank_gdn_004_jzbd_rank",
 			asset_count = 10,
 			get_weight = 1,
 		},
 		[121]=
 		{
 			id = 121,
-			award_id = 113,
+			award_id = 112,
 			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
 			asset_count = 1,
 			get_weight = 1,
@@ -4451,102 +4451,150 @@ return {
 		[122]=
 		{
 			id = 122,
-			award_id = 113,
-			asset_type = "prop_xnfd_1",
+			award_id = 112,
+			asset_type = "prop_gdn_xnfd",
 			asset_count = 10,
 			get_weight = 1,
 		},
 		[123]=
 		{
 			id = 123,
-			award_id = 114,
-			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
-			asset_count = 1,
+			award_id = 112,
+			asset_type = "_common_rank_gdn_004_jzbd_rank",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[124]=
 		{
 			id = 124,
-			award_id = 114,
-			asset_type = "prop_xnfd_1",
-			asset_count = 10,
+			award_id = 113,
+			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[125]=
 		{
 			id = 125,
-			award_id = 115,
-			asset_type = "prop_3d_fish_nuclear_bomb_fragment_2",
-			asset_count = 1,
+			award_id = 113,
+			asset_type = "prop_gdn_xnfd",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[126]=
 		{
 			id = 126,
-			award_id = 115,
-			asset_type = "prop_xnfd_1",
+			award_id = 113,
+			asset_type = "_common_rank_gdn_004_jzbd_rank",
 			asset_count = 10,
 			get_weight = 1,
 		},
 		[127]=
 		{
 			id = 127,
-			award_id = 116,
-			asset_type = "prop_fishbowl_stars",
-			asset_count = 50000,
+			award_id = 114,
+			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[128]=
 		{
 			id = 128,
-			award_id = 116,
-			asset_type = "prop_fishbowl_feed",
-			asset_count = 100,
+			award_id = 114,
+			asset_type = "prop_gdn_xnfd",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[129]=
 		{
 			id = 129,
-			award_id = 117,
-			asset_type = "prop_fishbowl_coin1",
-			asset_count = 5,
+			award_id = 114,
+			asset_type = "_common_rank_gdn_004_jzbd_rank",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[130]=
 		{
 			id = 130,
-			award_id = 117,
-			asset_type = "prop_fishbowl_feed",
-			asset_count = 200,
+			award_id = 115,
+			asset_type = "prop_3d_fish_nuclear_bomb_fragment_2",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[131]=
 		{
 			id = 131,
-			award_id = 118,
-			asset_type = "prop_fishbowl_coin1",
+			award_id = 115,
+			asset_type = "prop_gdn_xnfd",
 			asset_count = 10,
 			get_weight = 1,
 		},
 		[132]=
 		{
 			id = 132,
-			award_id = 118,
-			asset_type = "prop_fishbowl_stars",
-			asset_count = 100000,
+			award_id = 115,
+			asset_type = "_common_rank_gdn_004_jzbd_rank",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[133]=
 		{
 			id = 133,
-			award_id = 119,
-			asset_type = "prop_fishbowl_coin1",
-			asset_count = 20,
+			award_id = 116,
+			asset_type = "prop_fishbowl_stars",
+			asset_count = 50000,
 			get_weight = 1,
 		},
 		[134]=
 		{
 			id = 134,
+			award_id = 116,
+			asset_type = "prop_fishbowl_feed",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[135]=
+		{
+			id = 135,
+			award_id = 117,
+			asset_type = "prop_fishbowl_coin1",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[136]=
+		{
+			id = 136,
+			award_id = 117,
+			asset_type = "prop_fishbowl_feed",
+			asset_count = 200,
+			get_weight = 1,
+		},
+		[137]=
+		{
+			id = 137,
+			award_id = 118,
+			asset_type = "prop_fishbowl_coin1",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[138]=
+		{
+			id = 138,
+			award_id = 118,
+			asset_type = "prop_fishbowl_stars",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[139]=
+		{
+			id = 139,
+			award_id = 119,
+			asset_type = "prop_fishbowl_coin1",
+			asset_count = 20,
+			get_weight = 1,
+		},
+		[140]=
+		{
+			id = 140,
 			award_id = 119,
 			asset_type = "prop_fishbowl_stars",
 			asset_count = 500000,
