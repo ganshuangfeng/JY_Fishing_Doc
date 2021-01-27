@@ -1982,7 +1982,7 @@ return {
 			id = 62,
 			prefab = "Fish3DHB",
 			icon = "by_iocn_hby",
-			name = "话费鱼",
+			name = "红包鱼",
 			name_image = "3dby_imgf_hby",
 			reward_image = "by_iocn_hby",
 			reward_level = {1,},

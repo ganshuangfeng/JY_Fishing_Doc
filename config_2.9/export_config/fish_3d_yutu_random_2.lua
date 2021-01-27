@@ -682,7 +682,7 @@ return {
 			group_id = {188,},
 			min_time = 290,
 			max_time = 300,
-			path = "83，",
+			path = {83,},
 		},
 		[16]=
 		{
@@ -690,7 +690,7 @@ return {
 			group_id = {189,},
 			min_time = 290,
 			max_time = 300,
-			path = "84，",
+			path = {84,},
 		},
 	},
 }
