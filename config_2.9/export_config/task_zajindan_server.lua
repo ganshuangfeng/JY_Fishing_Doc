@@ -9086,7 +9086,7 @@ return {
 			process_id = 21596,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1609880400,
+			start_valid_time = 1611590400,
 			end_valid_time = 1612213200,
 			time_limit = -1,
 			is_send_client = 1,
@@ -9647,6 +9647,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 			award_change_type = "task_award_no_show",
+		},
+		[1000276]=
+		{
+			id = 1000276,
+			enable = 1,
+			name = "赢一把就睡觉",
+			own_type = "permission_task",
+			task_enum = "sleep_act_task",
+			process_id = 21634,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1612800000,
+			end_valid_time = 1613422800,
+			time_limit = -1,
+			is_send_client = 1,
 		},
 	},
 	process_data=
@@ -16183,6 +16198,13 @@ return {
 			awards = 1008,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
+		},
+		[686]=
+		{
+			id = 686,
+			process_id = 21634,
+			process = 1,
+			get_award_type = "nor",
 		},
 	},
 	source=
