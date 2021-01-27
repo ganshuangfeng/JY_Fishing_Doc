@@ -756,9 +756,9 @@ return {
 			key = "sys_qhb",
 			desc = "抢红包",
 			lua = "SYSQHBManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[77]=
 		{
