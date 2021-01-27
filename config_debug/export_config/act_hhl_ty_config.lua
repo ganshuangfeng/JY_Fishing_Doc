@@ -75,7 +75,7 @@ return {
 		{
 			line = 5,
 			ID = 5,
-			award_name = "高级核弹",
+			award_name = "高级核弹*1",
 			award_image = "icon_gjhd",
 			item_cost_text = 12000,
 			type = 0,
@@ -84,7 +84,7 @@ return {
 		{
 			line = 6,
 			ID = 6,
-			award_name = "中级核弹",
+			award_name = "中级核弹*1",
 			award_image = "icon_zjhd",
 			item_cost_text = 6000,
 			type = 0,
@@ -102,7 +102,7 @@ return {
 		{
 			line = 8,
 			ID = 8,
-			award_name = "初级核弹",
+			award_name = "初级核弹*1",
 			award_image = "icon_cjhd",
 			item_cost_text = 1200,
 			type = 0,
@@ -159,7 +159,7 @@ return {
 		{
 			line = 14,
 			ID = 6,
-			award_name = "小金锤",
+			award_name = "小金锤*5",
 			award_image = "icon_jc",
 			item_cost_text = 6000,
 			type = 0,
@@ -177,7 +177,7 @@ return {
 		{
 			line = 16,
 			ID = 8,
-			award_name = "小银锤",
+			award_name = "小银锤*10",
 			award_image = "icon_yc",
 			item_cost_text = 1200,
 			type = 0,
