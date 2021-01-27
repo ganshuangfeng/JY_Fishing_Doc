@@ -4396,8 +4396,8 @@ return {
 		{
 			id = 115,
 			award_id = 110,
-			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
-			asset_count = 1,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[116]=
@@ -4444,8 +4444,8 @@ return {
 		{
 			id = 121,
 			award_id = 112,
-			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
-			asset_count = 1,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[122]=
@@ -4468,8 +4468,8 @@ return {
 		{
 			id = 124,
 			award_id = 113,
-			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
-			asset_count = 1,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[125]=
@@ -4492,8 +4492,8 @@ return {
 		{
 			id = 127,
 			award_id = 114,
-			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
-			asset_count = 1,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[128]=
@@ -4516,8 +4516,8 @@ return {
 		{
 			id = 130,
 			award_id = 115,
-			asset_type = "prop_3d_fish_nuclear_bomb_fragment_2",
-			asset_count = 1,
+			asset_type = "shop_gold_sum",
+			asset_count = 500,
 			get_weight = 1,
 		},
 		[131]=
