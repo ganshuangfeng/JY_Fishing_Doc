@@ -237,7 +237,7 @@ return {
 			collect_title = "发财礼包福利",
 			need_item = {"prop_fclb_gong","prop_fclb_xi"},
 			need_num = {1,1},
-			award_txt = {"10万金币",},
+			award_txt = {"30万金币",},
 			award_img = {"ty_icon_jb_18y",},
 			award_tip = {"",},
 		},

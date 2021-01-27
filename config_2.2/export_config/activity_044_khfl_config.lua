@@ -34,9 +34,9 @@ return {
 		[1]=
 		{
 			id = 1,
-			task = 1000199,
+			task = 1000240,
 			total = 3,
-			task_name = "在3D捕鱼中使用3次锁定卡",
+			task_name = "在3D捕鱼中使用3次双倍奖励卡",
 			level = 1,
 			item = {"jing_bi",},
 			count = {8000,},
@@ -45,9 +45,9 @@ return {
 		[2]=
 		{
 			id = 2,
-			task = 1000200,
+			task = 1000241,
 			total = 3,
-			task_name = "在3D捕鱼中使用3次双倍奖励卡",
+			task_name = "在3D捕鱼中使用3次超级火力卡",
 			level = 1,
 			item = {"jing_bi",},
 			count = {8000,},
@@ -56,20 +56,20 @@ return {
 		[3]=
 		{
 			id = 3,
-			task = 1000201,
-			total = 3,
-			task_name = "在3D捕鱼中使用3次超级火力卡",
+			task = 1000242,
+			total = 1,
+			task_name = "在3D捕鱼深海探险当前层数+1",
 			level = 1,
 			item = {"jing_bi",},
-			count = {8000,},
+			count = {5000,},
 			gotoUI = {"game_Fishing3DHall",},
 		},
 		[4]=
 		{
 			id = 4,
-			task = 1000202,
-			total = 2,
-			task_name = "在3D捕鱼深海探险当前层数+2",
+			task = 1000243,
+			total = 3,
+			task_name = "在3D捕鱼深海探险当前层数+3",
 			level = 1,
 			item = {"jing_bi",},
 			count = {8000,},
@@ -78,29 +78,29 @@ return {
 		[5]=
 		{
 			id = 5,
-			task = 1000203,
-			total = 5,
-			task_name = "在3D捕鱼深海探险当前层数+5",
-			level = 1,
-			item = {"jing_bi",},
-			count = {10000,},
-			gotoUI = {"game_Fishing3DHall",},
-		},
-		[6]=
-		{
-			id = 6,
-			task = 1000204,
-			total = 10,
-			task_name = "在3D捕鱼深海探险当前层数+10",
+			task = 1000244,
+			total = 1,
+			task_name = "在3D捕鱼海底宝藏中击杀1条深海狂鲨",
 			level = 1,
 			item = {"jing_bi",},
 			count = {15000,},
 			gotoUI = {"game_Fishing3DHall",},
 		},
+		[6]=
+		{
+			id = 6,
+			task = 1000245,
+			total = 3,
+			task_name = "在3D捕鱼海底宝藏中击31条深海狂鲨",
+			level = 1,
+			item = {"jing_bi",},
+			count = {500000,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
 		[7]=
 		{
 			id = 7,
-			task = 1000205,
+			task = 1000246,
 			total = 50,
 			task_name = "在3D捕鱼中通过击杀话费鱼累计获得50话费碎片",
 			level = 1,
@@ -111,7 +111,7 @@ return {
 		[8]=
 		{
 			id = 8,
-			task = 1000206,
+			task = 1000247,
 			total = 150,
 			task_name = "在3D捕鱼中通过击杀话费鱼累计获得150话费碎片",
 			level = 1,
@@ -122,7 +122,7 @@ return {
 		[9]=
 		{
 			id = 9,
-			task = 1000207,
+			task = 1000248,
 			total = 300,
 			task_name = "在3D捕鱼中通过击杀话费鱼累计获得300话费碎片",
 			level = 1,
@@ -136,7 +136,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			task = 1000208,
+			task = 1000249,
 			total = 300000,
 			task_name = "在西游消消乐中累计赢金30万",
 			level = 1,
@@ -147,7 +147,7 @@ return {
 		[2]=
 		{
 			id = 2,
-			task = 1000209,
+			task = 1000250,
 			total = 800000,
 			task_name = "在西游消消乐中累计赢金80万",
 			level = 1,
@@ -158,7 +158,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			task = 1000210,
+			task = 1000251,
 			total = 1500000,
 			task_name = "在西游消消乐中累计赢金150万",
 			level = 1,
@@ -169,7 +169,7 @@ return {
 		[4]=
 		{
 			id = 4,
-			task = 1000211,
+			task = 1000252,
 			total = 300000,
 			task_name = "在龙王争霸中累计赢金30万",
 			level = 1,
@@ -180,7 +180,7 @@ return {
 		[5]=
 		{
 			id = 5,
-			task = 1000212,
+			task = 1000253,
 			total = 800000,
 			task_name = "在龙王争霸中累计赢金80万",
 			level = 1,
@@ -191,7 +191,7 @@ return {
 		[6]=
 		{
 			id = 6,
-			task = 1000213,
+			task = 1000254,
 			total = 1500000,
 			task_name = "在龙王争霸中累计赢金150万",
 			level = 1,
@@ -202,7 +202,7 @@ return {
 		[7]=
 		{
 			id = 7,
-			task = 1000214,
+			task = 1000255,
 			total = 2,
 			task_name = "在苹果大战中连胜2局",
 			level = 1,
@@ -213,7 +213,7 @@ return {
 		[8]=
 		{
 			id = 8,
-			task = 1000215,
+			task = 1000256,
 			total = 800000,
 			task_name = "在苹果大战中累计纯赢80万",
 			level = 1,
@@ -224,7 +224,7 @@ return {
 		[9]=
 		{
 			id = 9,
-			task = 1000216,
+			task = 1000257,
 			total = 1,
 			task_name = "苹果大战中种出1次金苹果",
 			level = 1,
