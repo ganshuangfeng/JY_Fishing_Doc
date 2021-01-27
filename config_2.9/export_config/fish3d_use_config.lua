@@ -915,13 +915,11 @@ return {
 		{
 			id = 172,
 			fish_id = 62,
-			attr_id = 9,
 		},
 		[173]=
 		{
 			id = 173,
 			fish_id = 62,
-			attr_id = 9,
 		},
 	},
 }
