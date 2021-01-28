@@ -341,7 +341,7 @@ return {
 		{
 			id = 7,
 			area = "Right_boss",
-			group_list = "69#73#",
+			group_list = "69#125;73#",
 		},
 	},
 	fishing3d_hall=
@@ -1191,6 +1191,12 @@ return {
 		{
 			id = 124,
 			parm = {"act_048_xnsmt",},
+			is_on_off = 1,
+		},
+		[125]=
+		{
+			id = 125,
+			parm = {"by_hbyts",},
 			is_on_off = 1,
 		},
 	},

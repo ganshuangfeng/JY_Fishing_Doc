@@ -3281,5 +3281,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[336]=
+		{
+			id = 336,
+			key = "by_hbyts",
+			desc = "红包鱼提示",
+			lua = "BYHBYTSManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
