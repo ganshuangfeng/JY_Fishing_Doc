@@ -2694,7 +2694,7 @@ return {
 			id = 275,
 			key = "act_030_hd_zjm",
 			desc = "小游戏福利",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
@@ -3254,6 +3254,33 @@ return {
 			id = 333,
 			key = "act_ty_by_hhl_style/act_003_hhl",
 			desc = "元宵换好礼",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[334]=
+		{
+			id = 334,
+			key = "act_ty_by_hhl_style/act_004_hhl",
+			desc = "玫瑰换好礼",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[335]=
+		{
+			id = 335,
+			key = "act_ty_sjb_style/act_006_dlphb",
+			desc = "玫瑰排行榜",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[336]=
+		{
+			id = 336,
+			key = "act_ty_by_drop_style/act_008_meigui",
+			desc = "玫瑰boss皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

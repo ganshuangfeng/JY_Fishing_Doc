@@ -3321,7 +3321,7 @@ return {
 		[340]=
 		{
 			id = 340,
-			key = "act_ty_by_drop_style/act_008_xiaotangyuan",
+			key = "act_ty_by_drop_style/act_008_meigui",
 			desc = "玫瑰boss皮肤",
 			is_on_off = 1,
 			enable = 1,

@@ -23,6 +23,7 @@ return {
 			line = 1,
 			sta_t = 1614643200,
 			end_t = 1615219199,
+			cur_path = "act_002_tylb1_",
 		},
 	},
 	config_normal=
