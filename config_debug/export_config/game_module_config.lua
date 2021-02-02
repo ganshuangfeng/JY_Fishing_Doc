@@ -3124,5 +3124,23 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[319]=
+		{
+			id = 319,
+			key = "act_ty_by_drop_style/act_003_taiyang",
+			desc = "太阳皮肤",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[320]=
+		{
+			id = 320,
+			key = "act_ty_by_drop_style/act_004_baozhu",
+			desc = "爆竹皮肤",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
