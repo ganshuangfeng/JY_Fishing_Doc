@@ -88,7 +88,7 @@ return {
 			award_num = {20000000,},
 			award_key = {"jing_bi",},
 			cost_item_key = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
-			cost_item_num = {60000,6000,6000,6000,},
+			cost_item_num = {6000,6000,6000,6000,},
 			type = 0,
 		},
 		[5]=
@@ -185,7 +185,7 @@ return {
 			award_num = {20000000,},
 			award_key = {"jing_bi",},
 			cost_item_key = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
-			cost_item_num = {60000,6000,6000,6000,},
+			cost_item_num = {6000,6000,6000,6000,},
 			type = 0,
 		},
 		[13]=
