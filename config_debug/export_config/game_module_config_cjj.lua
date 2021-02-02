@@ -3092,5 +3092,23 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[316]=
+		{
+			id = 316,
+			key = "act_ty_by_hhl_style/act_001_hhl",
+			desc = "太阳换好礼",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[317]=
+		{
+			id = 317,
+			key = "act_ty_by_hhl_style/act_002_hhl",
+			desc = "爆竹换好礼",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

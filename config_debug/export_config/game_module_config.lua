@@ -3128,7 +3128,7 @@ return {
 		{
 			id = 319,
 			key = "act_ty_by_drop_style/act_003_taiyang",
-			desc = "太阳皮肤",
+			desc = "太阳掉落皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3137,7 +3137,25 @@ return {
 		{
 			id = 320,
 			key = "act_ty_by_drop_style/act_004_baozhu",
-			desc = "爆竹皮肤",
+			desc = "爆竹掉落皮肤",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[321]=
+		{
+			id = 321,
+			key = "act_ty_by_hhl_style/act_001_hhl",
+			desc = "太阳换好礼",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[322]=
+		{
+			id = 322,
+			key = "act_ty_by_hhl_style/act_002_hhl",
+			desc = "爆竹换好礼",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
