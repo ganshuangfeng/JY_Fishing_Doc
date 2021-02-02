@@ -6,24 +6,28 @@ return {
 			line = 1,
 			game_name = "xiaoxiaole_game",
 			game_config = "sgxxl_config",
+			prefab_name = "MiniGameSGXXLPrefab",
 		},
 		[2]=
 		{
 			line = 2,
 			game_name = "xiaoxiaole_shuihu_game",
 			game_config = "shxxl_config",
+			prefab_name = "MiniGameSHXXLPrefab",
 		},
 		[3]=
 		{
 			line = 3,
 			game_name = "xiaoxiaole_caishen_game",
 			game_config = "csxxl_config",
+			prefab_name = "MiniGameCSXXLPrefab",
 		},
 		[4]=
 		{
 			line = 4,
 			game_name = "xiaoxiaole_xiyou_game",
 			game_config = "xyxxl_config",
+			prefab_name = "MiniGameXYXXLPrefab",
 		},
 	},
 	bet_times=

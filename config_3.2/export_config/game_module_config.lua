@@ -3327,5 +3327,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[341]=
+		{
+			id = 341,
+			key = "sys_3dby_xyxtg",
+			desc = "小游戏托管",
+			lua = "SYS_3DBY_XYXTGManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
