@@ -1,0 +1,357 @@
+return {
+	game_config=
+	{
+		[1]=
+		{
+			line = 1,
+			game_name = "xiaoxiaole_game",
+			game_config = "sgxxl_config",
+		},
+		[2]=
+		{
+			line = 2,
+			game_name = "xiaoxiaole_shuihu_game",
+			game_config = "shxxl_config",
+		},
+		[3]=
+		{
+			line = 3,
+			game_name = "xiaoxiaole_caishen_game",
+			game_config = "csxxl_config",
+		},
+		[4]=
+		{
+			line = 4,
+			game_name = "xiaoxiaole_xiyou_game",
+			game_config = "xyxxl_config",
+		},
+	},
+	bet_times=
+	{
+		[1]=
+		{
+			line = 1,
+			bet_times = 10,
+		},
+		[2]=
+		{
+			line = 2,
+			bet_times = 20,
+		},
+		[3]=
+		{
+			line = 3,
+			bet_times = 30,
+		},
+		[4]=
+		{
+			line = 4,
+			bet_times = 50,
+		},
+		[5]=
+		{
+			line = 5,
+			bet_times = 100,
+		},
+	},
+	sgxxl_config=
+	{
+		[1]=
+		{
+			line = 1,
+			bet_money = 5000,
+			permission = "xxl_bet_1",
+		},
+		[2]=
+		{
+			line = 2,
+			bet_money = 10000,
+			permission = "xxl_bet_2",
+		},
+		[3]=
+		{
+			line = 3,
+			bet_money = 30000,
+			permission = "xxl_bet_3",
+		},
+		[4]=
+		{
+			line = 4,
+			bet_money = 60000,
+			permission = "xxl_bet_4",
+		},
+		[5]=
+		{
+			line = 5,
+			bet_money = 120000,
+			permission = "xxl_bet_5",
+		},
+		[6]=
+		{
+			line = 6,
+			bet_money = 240000,
+			permission = "xxl_bet_6",
+		},
+		[7]=
+		{
+			line = 7,
+			bet_money = 480000,
+			permission = "xxl_bet_7",
+		},
+		[8]=
+		{
+			line = 8,
+			bet_money = 960000,
+			permission = "xxl_bet_8",
+		},
+		[9]=
+		{
+			line = 9,
+			bet_money = 1920000,
+			permission = "xxl_bet_9",
+		},
+		[10]=
+		{
+			line = 10,
+			bet_money = 5120000,
+			permission = "xxl_bet_10",
+		},
+		[11]=
+		{
+			line = 11,
+			bet_money = 10240000,
+			permission = "xxl_bet_11",
+		},
+		[12]=
+		{
+			line = 12,
+			bet_money = 20480000,
+			permission = "xxl_bet_12",
+		},
+	},
+	shxxl_config=
+	{
+		[1]=
+		{
+			line = 1,
+			bet_money = 5000,
+			permission = "sh_xxl_bet_1",
+		},
+		[2]=
+		{
+			line = 2,
+			bet_money = 10000,
+			permission = "sh_xxl_bet_2",
+		},
+		[3]=
+		{
+			line = 3,
+			bet_money = 30000,
+			permission = "sh_xxl_bet_3",
+		},
+		[4]=
+		{
+			line = 4,
+			bet_money = 60000,
+			permission = "sh_xxl_bet_4",
+		},
+		[5]=
+		{
+			line = 5,
+			bet_money = 120000,
+			permission = "sh_xxl_bet_5",
+		},
+		[6]=
+		{
+			line = 6,
+			bet_money = 240000,
+			permission = "sh_xxl_bet_6",
+		},
+		[7]=
+		{
+			line = 7,
+			bet_money = 480000,
+			permission = "sh_xxl_bet_7",
+		},
+		[8]=
+		{
+			line = 8,
+			bet_money = 960000,
+			permission = "sh_xxl_bet_8",
+		},
+		[9]=
+		{
+			line = 9,
+			bet_money = 1920000,
+			permission = "sh_xxl_bet_9",
+		},
+		[10]=
+		{
+			line = 10,
+			bet_money = 5120000,
+			permission = "sh_xxl_bet_10",
+		},
+		[11]=
+		{
+			line = 11,
+			bet_money = 10240000,
+			permission = "sh_xxl_bet_11",
+		},
+		[12]=
+		{
+			line = 12,
+			bet_money = 20480000,
+			permission = "sh_xxl_bet_12",
+		},
+	},
+	csxxl_config=
+	{
+		[1]=
+		{
+			line = 1,
+			bet_money = 5000,
+			permission = "sh_xxl_bet_1",
+		},
+		[2]=
+		{
+			line = 2,
+			bet_money = 10000,
+			permission = "sh_xxl_bet_2",
+		},
+		[3]=
+		{
+			line = 3,
+			bet_money = 30000,
+			permission = "sh_xxl_bet_3",
+		},
+		[4]=
+		{
+			line = 4,
+			bet_money = 60000,
+			permission = "sh_xxl_bet_4",
+		},
+		[5]=
+		{
+			line = 5,
+			bet_money = 120000,
+			permission = "sh_xxl_bet_5",
+		},
+		[6]=
+		{
+			line = 6,
+			bet_money = 240000,
+			permission = "sh_xxl_bet_6",
+		},
+		[7]=
+		{
+			line = 7,
+			bet_money = 480000,
+			permission = "sh_xxl_bet_7",
+		},
+		[8]=
+		{
+			line = 8,
+			bet_money = 960000,
+			permission = "sh_xxl_bet_8",
+		},
+		[9]=
+		{
+			line = 9,
+			bet_money = 1920000,
+			permission = "sh_xxl_bet_9",
+		},
+		[10]=
+		{
+			line = 10,
+			bet_money = 5120000,
+			permission = "sh_xxl_bet_10",
+		},
+		[11]=
+		{
+			line = 11,
+			bet_money = 10240000,
+			permission = "sh_xxl_bet_11",
+		},
+		[12]=
+		{
+			line = 12,
+			bet_money = 20480000,
+			permission = "sh_xxl_bet_12",
+		},
+	},
+	xyxxl_config=
+	{
+		[1]=
+		{
+			line = 1,
+			bet_money = 5000,
+			permission = "sh_xxl_bet_1",
+		},
+		[2]=
+		{
+			line = 2,
+			bet_money = 10000,
+			permission = "sh_xxl_bet_2",
+		},
+		[3]=
+		{
+			line = 3,
+			bet_money = 30000,
+			permission = "sh_xxl_bet_3",
+		},
+		[4]=
+		{
+			line = 4,
+			bet_money = 60000,
+			permission = "sh_xxl_bet_4",
+		},
+		[5]=
+		{
+			line = 5,
+			bet_money = 120000,
+			permission = "sh_xxl_bet_5",
+		},
+		[6]=
+		{
+			line = 6,
+			bet_money = 240000,
+			permission = "sh_xxl_bet_6",
+		},
+		[7]=
+		{
+			line = 7,
+			bet_money = 480000,
+			permission = "sh_xxl_bet_7",
+		},
+		[8]=
+		{
+			line = 8,
+			bet_money = 960000,
+			permission = "sh_xxl_bet_8",
+		},
+		[9]=
+		{
+			line = 9,
+			bet_money = 1920000,
+			permission = "sh_xxl_bet_9",
+		},
+		[10]=
+		{
+			line = 10,
+			bet_money = 5120000,
+			permission = "sh_xxl_bet_10",
+		},
+		[11]=
+		{
+			line = 11,
+			bet_money = 10240000,
+			permission = "sh_xxl_bet_11",
+		},
+		[12]=
+		{
+			line = 12,
+			bet_money = 20480000,
+			permission = "sh_xxl_bet_12",
+		},
+	},
+}
