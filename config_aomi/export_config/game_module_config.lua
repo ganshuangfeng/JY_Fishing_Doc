@@ -2305,7 +2305,7 @@ return {
 			key = "by3d_kpshb",
 			desc = "3D捕鱼开炮送红包",
 			lua = "BY3DKPSHBManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},

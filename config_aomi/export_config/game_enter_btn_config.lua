@@ -876,7 +876,7 @@ return {
 		{
 			id = 72,
 			parm = {"sys_dui_huan",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[73]=
 		{
