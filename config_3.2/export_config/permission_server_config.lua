@@ -2144,6 +2144,35 @@ return {
 			name = "财神模式改版",
 			condi = 395,
 		},
+		xyxtg_bet_limit_1=
+		{
+			key = "xyxtg_bet_limit_1",
+			name = "小游戏托管-10次",
+		},
+		xyxtg_bet_limit_2=
+		{
+			key = "xyxtg_bet_limit_2",
+			name = "小游戏托管-20次",
+			condi = 22,
+		},
+		xyxtg_bet_limit_3=
+		{
+			key = "xyxtg_bet_limit_3",
+			name = "小游戏托管-30次",
+			condi = 23,
+		},
+		xyxtg_bet_limit_4=
+		{
+			key = "xyxtg_bet_limit_4",
+			name = "小游戏托管-50次",
+			condi = 24,
+		},
+		xyxtg_bet_limit_5=
+		{
+			key = "xyxtg_bet_limit_5",
+			name = "小游戏托管-100次",
+			condi = 26,
+		},
 	},
 	act_permission=
 	{

@@ -32,26 +32,31 @@ return {
 		{
 			line = 1,
 			bet_times = 10,
+			permission = "xyxtg_bet_limit_1",
 		},
 		[2]=
 		{
 			line = 2,
 			bet_times = 20,
+			permission = "xyxtg_bet_limit_2",
 		},
 		[3]=
 		{
 			line = 3,
 			bet_times = 30,
+			permission = "xyxtg_bet_limit_3",
 		},
 		[4]=
 		{
 			line = 4,
 			bet_times = 50,
+			permission = "xyxtg_bet_limit_4",
 		},
 		[5]=
 		{
 			line = 5,
 			bet_times = 100,
+			permission = "xyxtg_bet_limit_5",
 		},
 	},
 	sgxxl_config=
