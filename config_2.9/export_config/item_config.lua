@@ -4085,5 +4085,18 @@ return {
 			name = "万能字",
 			desc = "过大年--万能字符",
 		},
+		[303]=
+		{
+			id = 303,
+			item_id = 303,
+			item_key = "prop_xnsmt_cjq",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "ty_lb1_wnz",
+			is_show_bag = 0,
+			order = 1,
+			name = "茅台抽奖券",
+			desc = "茅台抽奖券--2.9",
+		},
 	},
 }

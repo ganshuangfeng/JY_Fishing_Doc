@@ -9663,6 +9663,81 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000277]=
+		{
+			id = 1000277,
+			enable = 1,
+			name = "新年送茅台",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21635,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1612800000,
+			end_valid_time = 1613404799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000278]=
+		{
+			id = 1000278,
+			enable = 1,
+			name = "新年送茅台",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21636,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1612800000,
+			end_valid_time = 1613404799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000279]=
+		{
+			id = 1000279,
+			enable = 1,
+			name = "新年送茅台",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21637,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1612800000,
+			end_valid_time = 1613404799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000280]=
+		{
+			id = 1000280,
+			enable = 1,
+			name = "新年送茅台",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 21638,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1612800000,
+			end_valid_time = 1613404799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000281]=
+		{
+			id = 1000281,
+			enable = 1,
+			name = "新年送茅台",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21639,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1612800000,
+			end_valid_time = 1613404799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -16204,6 +16279,51 @@ return {
 			id = 686,
 			process_id = 21634,
 			process = 1,
+			get_award_type = "nor",
+		},
+		[687]=
+		{
+			id = 687,
+			process_id = 21635,
+			source_id = 586,
+			process = 1,
+			awards = 1009,
+			get_award_type = "nor",
+		},
+		[688]=
+		{
+			id = 688,
+			process_id = 21636,
+			source_id = 587,
+			process = {1,-1},
+			awards = 1010,
+			get_award_type = "nor",
+		},
+		[689]=
+		{
+			id = 689,
+			process_id = 21637,
+			source_id = 587,
+			process = {10,10,15,15,25,25},
+			awards = {1011,1012,1013,1014,1015,1016},
+			get_award_type = "nor",
+		},
+		[690]=
+		{
+			id = 690,
+			process_id = 21638,
+			source_id = 588,
+			process = 1,
+			awards = 1017,
+			get_award_type = "nor",
+		},
+		[691]=
+		{
+			id = 691,
+			process_id = 21639,
+			source_id = 589,
+			process = {10,70,120,300,500},
+			awards = {1018,1019,1020,1021,1022},
 			get_award_type = "nor",
 		},
 	},
@@ -22873,6 +22993,34 @@ return {
 			source_type = "buyu_3d_target_yu",
 			condition_id = 347,
 		},
+		[946]=
+		{
+			id = 946,
+			source_id = 586,
+			source_type = "question_answer_right",
+			condition_id = 426,
+		},
+		[947]=
+		{
+			id = 947,
+			source_id = 587,
+			source_type = "invite_new_player_login",
+			condition_id = 0,
+		},
+		[948]=
+		{
+			id = 948,
+			source_id = 588,
+			source_type = "share_game",
+			condition_id = 427,
+		},
+		[949]=
+		{
+			id = 949,
+			source_id = 589,
+			source_type = "box_exchange",
+			condition_id = 428,
+		},
 	},
 	condition=
 	{
@@ -27314,6 +27462,38 @@ return {
 			condition_id = 425,
 			condition_name = "gift_id",
 			condition_value = {10458,10459,10460,10461,10462,10463,10464},
+			judge_type = 2,
+		},
+		[586]=
+		{
+			id = 586,
+			condition_id = 426,
+			condition_name = "act_type",
+			condition_value = "answer_2021_2_9",
+			judge_type = 2,
+		},
+		[587]=
+		{
+			id = 587,
+			condition_id = 426,
+			condition_name = "act_type",
+			condition_value = "answer_2021_2_9_cjj",
+			judge_type = 2,
+		},
+		[588]=
+		{
+			id = 588,
+			condition_id = 427,
+			condition_name = "share_type",
+			condition_value = "game",
+			judge_type = 2,
+		},
+		[589]=
+		{
+			id = 589,
+			condition_id = 428,
+			condition_name = "box_exchange_type",
+			condition_value = {box_exchange_74,box_exchange_75,box_exchange_76},
 			judge_type = 2,
 		},
 	},
@@ -39602,6 +39782,117 @@ return {
 			award_id = 1008,
 			asset_type = "_common_rank_gdn_004_jzbd_rank",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[1536]=
+		{
+			id = 1536,
+			award_id = 1009,
+			asset_type = "prop_xnsmt_cjq",
+			asset_count = 3,
+			get_weight = 1,
+		},
+		[1537]=
+		{
+			id = 1537,
+			award_id = 1010,
+			asset_type = "prop_xnsmt_cjq",
+			asset_count = 3,
+			get_weight = 1,
+		},
+		[1538]=
+		{
+			id = 1538,
+			award_id = 1011,
+			asset_type = "prop_xnsmt_cjq",
+			asset_count = 3,
+			get_weight = 1,
+		},
+		[1539]=
+		{
+			id = 1539,
+			award_id = 1012,
+			asset_type = "prop_xnsmt_cjq",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[1540]=
+		{
+			id = 1540,
+			award_id = 1013,
+			asset_type = "prop_xnsmt_cjq",
+			asset_count = 8,
+			get_weight = 1,
+		},
+		[1541]=
+		{
+			id = 1541,
+			award_id = 1014,
+			asset_type = "prop_xnsmt_cjq",
+			asset_count = 15,
+			get_weight = 1,
+		},
+		[1542]=
+		{
+			id = 1542,
+			award_id = 1015,
+			asset_type = "prop_xnsmt_cjq",
+			asset_count = 20,
+			get_weight = 1,
+		},
+		[1543]=
+		{
+			id = 1543,
+			award_id = 1016,
+			asset_type = "prop_xnsmt_cjq",
+			asset_count = 30,
+			get_weight = 1,
+		},
+		[1544]=
+		{
+			id = 1544,
+			award_id = 1017,
+			asset_type = "jing_bi",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[1545]=
+		{
+			id = 1545,
+			award_id = 1018,
+			asset_type = "jing_bi",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[1546]=
+		{
+			id = 1546,
+			award_id = 1019,
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[1547]=
+		{
+			id = 1547,
+			award_id = 1020,
+			asset_type = "jing_bi",
+			asset_count = 200000,
+			get_weight = 1,
+		},
+		[1548]=
+		{
+			id = 1548,
+			award_id = 1021,
+			asset_type = "shop_gold_sum",
+			asset_count = 5000,
+			get_weight = 1,
+		},
+		[1549]=
+		{
+			id = 1549,
+			award_id = 1022,
+			award_name = "飞天茅台",
 			get_weight = 1,
 		},
 	},
