@@ -3050,7 +3050,7 @@ return {
 		[311]=
 		{
 			id = 311,
-			key = "act_ty_sjb_style/act_001_ygbd",
+			key = "act_ty_sjb_style/act_001_dlphb",
 			desc = "阳光榜单",
 			is_on_off = 1,
 			enable = 1,
@@ -3059,7 +3059,7 @@ return {
 		[312]=
 		{
 			id = 312,
-			key = "act_ty_sjb_style/act_002_bzphb",
+			key = "act_ty_sjb_style/act_002_dlphb",
 			desc = "爆竹排行榜",
 			is_on_off = 1,
 			enable = 1,
