@@ -403,181 +403,13 @@ return {
 		[35]=
 		{
 			id = 35,
-			name = "新年好礼",
+			name = "新年好礼--cjj",
 			start_time = 1612828800,
 			end_time = 1613404799,
 			use_goods = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
 			goods_type = 1,
-			email_id = 25,
+			email_id = 26,
 			award_id = 35,
-			enable = 1,
-		},
-		[36]=
-		{
-			id = 36,
-			name = "新年好礼",
-			start_time = 1612828800,
-			end_time = 1613404799,
-			use_goods = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
-			goods_type = 1,
-			email_id = 25,
-			award_id = 36,
-			enable = 1,
-		},
-		[37]=
-		{
-			id = 37,
-			name = "新年好礼",
-			start_time = 1612828800,
-			end_time = 1613404799,
-			use_goods = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
-			goods_type = 1,
-			email_id = 25,
-			award_id = 37,
-			enable = 1,
-		},
-		[38]=
-		{
-			id = 38,
-			name = "新年好礼",
-			start_time = 1612828800,
-			end_time = 1613404799,
-			use_goods = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
-			goods_type = 1,
-			email_id = 25,
-			award_id = 38,
-			enable = 1,
-		},
-		[39]=
-		{
-			id = 39,
-			name = "新年好礼",
-			start_time = 1612828800,
-			end_time = 1613404799,
-			use_goods = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
-			goods_type = 1,
-			email_id = 25,
-			award_id = 39,
-			enable = 1,
-		},
-		[40]=
-		{
-			id = 40,
-			name = "新年好礼",
-			start_time = 1612828800,
-			end_time = 1613404799,
-			use_goods = {"prop_gdn_x","prop_gdn_n","prop_gdn_l",},
-			goods_type = 1,
-			email_id = 25,
-			award_id = 40,
-			enable = 1,
-		},
-		[41]=
-		{
-			id = 41,
-			name = "新年好礼",
-			start_time = 1612828800,
-			end_time = 1613404799,
-			use_goods = {"prop_gdn_x","prop_gdn_k",},
-			goods_type = 1,
-			email_id = 25,
-			award_id = 41,
-			enable = 1,
-		},
-		[42]=
-		{
-			id = 42,
-			name = "新年好礼--cjj",
-			start_time = 1612828800,
-			end_time = 1613404799,
-			use_goods = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
-			goods_type = 1,
-			email_id = 26,
-			award_id = 42,
-			enable = 1,
-		},
-		[43]=
-		{
-			id = 43,
-			name = "新年好礼--cjj",
-			start_time = 1612828800,
-			end_time = 1613404799,
-			use_goods = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
-			goods_type = 1,
-			email_id = 26,
-			award_id = 43,
-			enable = 1,
-		},
-		[44]=
-		{
-			id = 44,
-			name = "新年好礼--cjj",
-			start_time = 1612828800,
-			end_time = 1613404799,
-			use_goods = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
-			goods_type = 1,
-			email_id = 26,
-			award_id = 44,
-			enable = 1,
-		},
-		[45]=
-		{
-			id = 45,
-			name = "新年好礼--cjj",
-			start_time = 1612828800,
-			end_time = 1613404799,
-			use_goods = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
-			goods_type = 1,
-			email_id = 26,
-			award_id = 45,
-			enable = 1,
-		},
-		[46]=
-		{
-			id = 46,
-			name = "新年好礼--cjj",
-			start_time = 1612828800,
-			end_time = 1613404799,
-			use_goods = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
-			goods_type = 1,
-			email_id = 26,
-			award_id = 46,
-			enable = 1,
-		},
-		[47]=
-		{
-			id = 47,
-			name = "新年好礼--cjj",
-			start_time = 1612828800,
-			end_time = 1613404799,
-			use_goods = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
-			goods_type = 1,
-			email_id = 26,
-			award_id = 47,
-			enable = 1,
-		},
-		[48]=
-		{
-			id = 48,
-			name = "新年好礼--cjj",
-			start_time = 1612828800,
-			end_time = 1613404799,
-			use_goods = {"prop_gdn_x","prop_gdn_n","prop_gdn_l",},
-			goods_type = 1,
-			email_id = 26,
-			award_id = 48,
-			enable = 1,
-		},
-		[49]=
-		{
-			id = 49,
-			name = "新年好礼--cjj",
-			start_time = 1612828800,
-			end_time = 1613404799,
-			use_goods = {"prop_gdn_x","prop_gdn_k",},
-			goods_type = 1,
-			email_id = 26,
-			award_id = 49,
 			enable = 1,
 		},
 	},
@@ -2774,8 +2606,8 @@ return {
 		[195]=
 		{
 			no = 195,
-			award_cfg_id = 35,
-			award_id = 1,
+			award_cfg_id = 34,
+			award_id = 2,
 			permission_key = "actp_no_cjj_gej_exchange",
 			award_name = "金龙鱼大米10斤",
 			use_num = {2000,2000,2000,2000,},
@@ -2784,8 +2616,8 @@ return {
 		[196]=
 		{
 			no = 196,
-			award_cfg_id = 36,
-			award_id = 1,
+			award_cfg_id = 34,
+			award_id = 3,
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"prop_web_chip_huafei",},
 			asset_count = {2000,},
@@ -2795,8 +2627,8 @@ return {
 		[197]=
 		{
 			no = 197,
-			award_cfg_id = 37,
-			award_id = 1,
+			award_cfg_id = 34,
+			award_id = 4,
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
 			asset_count = {20000000,},
@@ -2805,8 +2637,8 @@ return {
 		[198]=
 		{
 			no = 198,
-			award_cfg_id = 38,
-			award_id = 1,
+			award_cfg_id = 34,
+			award_id = 5,
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"prop_3d_fish_nuclear_bomb_3",},
 			asset_count = {1,},
@@ -2816,8 +2648,8 @@ return {
 		[199]=
 		{
 			no = 199,
-			award_cfg_id = 39,
-			award_id = 1,
+			award_cfg_id = 34,
+			award_id = 6,
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"prop_3d_fish_nuclear_bomb_2",},
 			asset_count = {1,},
@@ -2827,29 +2659,29 @@ return {
 		[200]=
 		{
 			no = 200,
-			award_cfg_id = 40,
-			award_id = 1,
+			award_cfg_id = 34,
+			award_id = 7,
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
 			asset_count = {2000000,},
-			use_num = {800,800,800,},
+			use_num = {800,800,0,800,},
 			me_limit_day_num = 1,
 		},
 		[201]=
 		{
 			no = 201,
-			award_cfg_id = 41,
-			award_id = 1,
+			award_cfg_id = 34,
+			award_id = 8,
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"prop_3d_fish_nuclear_bomb_1",},
 			asset_count = {1,},
-			use_num = {600,600,},
+			use_num = {600,600,0,0,},
 			me_limit_day_num = 1,
 		},
 		[202]=
 		{
 			no = 202,
-			award_cfg_id = 42,
+			award_cfg_id = 35,
 			award_id = 1,
 			permission_key = "actp_cjj_gej_exchange",
 			award_name = "金龙鱼油4L",
@@ -2859,8 +2691,8 @@ return {
 		[203]=
 		{
 			no = 203,
-			award_cfg_id = 43,
-			award_id = 1,
+			award_cfg_id = 35,
+			award_id = 2,
 			permission_key = "actp_cjj_gej_exchange",
 			award_name = "金龙鱼大米10斤",
 			use_num = {2000,2000,2000,2000,},
@@ -2869,8 +2701,8 @@ return {
 		[204]=
 		{
 			no = 204,
-			award_cfg_id = 44,
-			award_id = 1,
+			award_cfg_id = 35,
+			award_id = 3,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"prop_web_chip_huafei",},
 			asset_count = {2000,},
@@ -2880,8 +2712,8 @@ return {
 		[205]=
 		{
 			no = 205,
-			award_cfg_id = 45,
-			award_id = 1,
+			award_cfg_id = 35,
+			award_id = 4,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
 			asset_count = {20000000,},
@@ -2890,8 +2722,8 @@ return {
 		[206]=
 		{
 			no = 206,
-			award_cfg_id = 46,
-			award_id = 1,
+			award_cfg_id = 35,
+			award_id = 5,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
 			asset_count = {10000000,},
@@ -2901,8 +2733,8 @@ return {
 		[207]=
 		{
 			no = 207,
-			award_cfg_id = 47,
-			award_id = 1,
+			award_cfg_id = 35,
+			award_id = 6,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"prop_hammer_4",},
 			asset_count = {5,},
@@ -2912,23 +2744,23 @@ return {
 		[208]=
 		{
 			no = 208,
-			award_cfg_id = 48,
-			award_id = 1,
+			award_cfg_id = 35,
+			award_id = 7,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
 			asset_count = {2000000,},
-			use_num = {800,800,800,},
+			use_num = {800,800,0,800,},
 			me_limit_day_num = 1,
 		},
 		[209]=
 		{
 			no = 209,
-			award_cfg_id = 49,
-			award_id = 1,
+			award_cfg_id = 35,
+			award_id = 8,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"prop_hammer_3",},
 			asset_count = {10,},
-			use_num = {600,600,},
+			use_num = {600,600,0,0,},
 			me_limit_day_num = 1,
 		},
 	},

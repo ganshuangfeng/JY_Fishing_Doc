@@ -4072,5 +4072,18 @@ return {
 			name = "乐",
 			desc = "过大年--乐字符",
 		},
+		[302]=
+		{
+			id = 302,
+			item_id = 302,
+			item_key = "prop_gdn_wn",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "ty_lb1_wnz",
+			is_show_bag = 0,
+			order = 1,
+			name = "万能字",
+			desc = "过大年--万能字符",
+		},
 	},
 }

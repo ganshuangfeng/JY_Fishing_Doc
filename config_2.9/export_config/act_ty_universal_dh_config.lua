@@ -56,7 +56,7 @@ return {
 		[2]=
 		{
 			line = 2,
-			change_type = 35,
+			change_type = 34,
 			ID = 2,
 			award_name = {"金龙鱼大米10斤",},
 			award_image = {"swjl_2",},
@@ -69,7 +69,7 @@ return {
 		[3]=
 		{
 			line = 3,
-			change_type = 36,
+			change_type = 34,
 			ID = 3,
 			award_name = {"20元话费",},
 			award_image = {"com_award_icon_hf20",},
@@ -83,7 +83,7 @@ return {
 		[4]=
 		{
 			line = 4,
-			change_type = 37,
+			change_type = 34,
 			ID = 4,
 			award_name = {"2000万金币",},
 			award_image = {"pay_icon_gold9",},
@@ -96,7 +96,7 @@ return {
 		[5]=
 		{
 			line = 5,
-			change_type = 38,
+			change_type = 34,
 			ID = 5,
 			award_name = {"高级核弹",},
 			award_image = {"icon_gjhd",},
@@ -109,7 +109,7 @@ return {
 		[6]=
 		{
 			line = 6,
-			change_type = 39,
+			change_type = 34,
 			ID = 6,
 			award_name = {"中级核弹",},
 			award_image = {"icon_zjhd",},
@@ -122,33 +122,33 @@ return {
 		[7]=
 		{
 			line = 7,
-			change_type = 40,
+			change_type = 34,
 			ID = 7,
 			award_name = {"200万金币",},
 			award_image = {"pay_icon_gold7",},
 			award_num = {2000000,},
 			award_key = {"jing_bi",},
-			cost_item_key = {"prop_gdn_x","prop_gdn_n","prop_gdn_l",},
-			cost_item_num = {800,800,800,},
+			cost_item_key = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
+			cost_item_num = {800,800,0,800,},
 			type = 0,
 		},
 		[8]=
 		{
 			line = 8,
-			change_type = 41,
+			change_type = 34,
 			ID = 8,
 			award_name = {"初级核弹",},
 			award_image = {"icon_cjhd",},
 			award_num = {1,},
 			award_key = {"prop_3d_fish_nuclear_bomb_1",},
-			cost_item_key = {"prop_gdn_x","prop_gdn_k",},
-			cost_item_num = {600,600,},
+			cost_item_key = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
+			cost_item_num = {600,600,0,0,},
 			type = 0,
 		},
 		[9]=
 		{
 			line = 9,
-			change_type = 42,
+			change_type = 35,
 			ID = 1,
 			award_name = {"金龙鱼油4L",},
 			award_image = {"swjl_1",},
@@ -161,7 +161,7 @@ return {
 		[10]=
 		{
 			line = 10,
-			change_type = 43,
+			change_type = 35,
 			ID = 2,
 			award_name = {"金龙鱼大米10斤",},
 			award_image = {"swjl_2",},
@@ -174,7 +174,7 @@ return {
 		[11]=
 		{
 			line = 11,
-			change_type = 44,
+			change_type = 35,
 			ID = 3,
 			award_name = {"20元话费",},
 			award_image = {"com_award_icon_hf20",},
@@ -188,7 +188,7 @@ return {
 		[12]=
 		{
 			line = 12,
-			change_type = 45,
+			change_type = 35,
 			ID = 4,
 			award_name = {"2000万金币",},
 			award_image = {"pay_icon_gold9",},
@@ -201,7 +201,7 @@ return {
 		[13]=
 		{
 			line = 13,
-			change_type = 46,
+			change_type = 35,
 			ID = 5,
 			award_name = {"1000万金币",},
 			award_image = {"pay_icon_gold8",},
@@ -214,7 +214,7 @@ return {
 		[14]=
 		{
 			line = 14,
-			change_type = 47,
+			change_type = 35,
 			ID = 6,
 			award_name = {"小金锤",},
 			award_image = {"icon_jc",},
@@ -227,27 +227,27 @@ return {
 		[15]=
 		{
 			line = 15,
-			change_type = 48,
+			change_type = 35,
 			ID = 7,
 			award_name = {"200万金币",},
 			award_image = {"pay_icon_gold7",},
 			award_num = {2000000,},
 			award_key = {"jing_bi",},
-			cost_item_key = {"prop_gdn_x","prop_gdn_n","prop_gdn_l",},
-			cost_item_num = {800,800,800,},
+			cost_item_key = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
+			cost_item_num = {800,800,0,800,},
 			type = 0,
 		},
 		[16]=
 		{
 			line = 16,
-			change_type = 49,
+			change_type = 35,
 			ID = 8,
 			award_name = {"小银锤",},
 			award_image = {"icon_yc",},
 			award_num = {1,},
 			award_key = {"prop_hammer_3",},
-			cost_item_key = {"prop_gdn_x","prop_gdn_k",},
-			cost_item_num = {600,600,},
+			cost_item_key = {"prop_gdn_x","prop_gdn_n","prop_gdn_k","prop_gdn_l",},
+			cost_item_num = {600,600,0,0,},
 			type = 0,
 		},
 	},
