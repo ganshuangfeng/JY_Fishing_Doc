@@ -17,7 +17,7 @@ return {
 			beginTime = 1612828800,
 			endTime = 1613404799,
 			fudai_key = {"prop_fish_drop_act_0",},
-			fudai_ex_change_id = {34,35,36,37,38,39,40,41,},
+			fudai_ex_change_id = {73,},
 			btm_tip = "玩游戏得福袋，随机开出“新年快乐”字符！",
 		},
 		[2]=
@@ -36,7 +36,7 @@ return {
 			beginTime = 1612828800,
 			endTime = 1613404799,
 			fudai_key = {"prop_fish_drop_act_0",},
-			fudai_ex_change_id = {42,43,44,45,46,47,48,49,},
+			fudai_ex_change_id = {73,},
 			btm_tip = "玩游戏得福袋，随机开出“新年快乐”字符！",
 		},
 	},
