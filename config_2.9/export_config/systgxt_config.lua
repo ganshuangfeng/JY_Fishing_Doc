@@ -14,6 +14,7 @@ return {
 			line = 2,
 			condi_key = "cpl_cjj",
 			jc_config = {7,8,9,10,11},
+			share_config = {"banner_001","banner_002"},
 			is_show_invite_code = 0,
 		},
 	},

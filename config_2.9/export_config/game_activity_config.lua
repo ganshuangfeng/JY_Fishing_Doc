@@ -282,5 +282,22 @@ return {
 			noCloseUI = 1,
 			tag = "normal",
 		},
+		[18]=
+		{
+			line = 18,
+			act_type = "normal",
+			ID = 18,
+			title = "探险福利",
+			order = 2,
+			is_on_off = 1,
+			condi_key = "actp_no_cjj_gej_exchange",
+			beginTime = 1612828800,
+			endTime = 1613404799,
+			showType = "image",
+			parmData = "xnhl_bg_xc",
+			gotoUI = {"game_Fishing3DHall",},
+			noCloseUI = 1,
+			tag = "normal",
+		},
 	},
 }
