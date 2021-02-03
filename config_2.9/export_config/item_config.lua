@@ -4092,7 +4092,7 @@ return {
 			item_key = "prop_xnsmt_cjq",
 			lose_time = -1,
 			is_local_icon = 1,
-			image = "ty_lb1_wnz",
+			image = "xnsmt_img_cjq",
 			is_show_bag = 0,
 			order = 1,
 			name = "茅台抽奖券",
