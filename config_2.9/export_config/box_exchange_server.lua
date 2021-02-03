@@ -8110,28 +8110,28 @@ return {
 			id = 454,
 			real_award_id = 11930,
 			asset_type = "prop_gdn_x",
-			asset_count = {1,},
+			asset_count = {1,1},
 		},
 		[455]=
 		{
 			id = 455,
 			real_award_id = 11931,
 			asset_type = "prop_gdn_n",
-			asset_count = {1,},
+			asset_count = {1,1},
 		},
 		[456]=
 		{
 			id = 456,
 			real_award_id = 11932,
 			asset_type = "prop_gdn_k",
-			asset_count = {1,},
+			asset_count = {1,1},
 		},
 		[457]=
 		{
 			id = 457,
 			real_award_id = 11933,
 			asset_type = "prop_gdn_l",
-			asset_count = {1,},
+			asset_count = {1,1},
 		},
 		[458]=
 		{
