@@ -258,7 +258,7 @@ return {
 		{
 			rights_id = 1,
 			add_value1 = 0,
-			add_value2 = 2,
+			add_value2 = 0,
 			add_value3 = 0,
 		},
 		[2]=
