@@ -933,6 +933,7 @@ return {
 			extra_award_txt = {"10福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[22]=
 		{
@@ -942,6 +943,7 @@ return {
 			extra_award_txt = {"10福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[23]=
 		{
@@ -951,6 +953,7 @@ return {
 			extra_award_txt = {"10福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[24]=
 		{
@@ -960,6 +963,7 @@ return {
 			extra_award_txt = {"10福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[25]=
 		{
@@ -969,6 +973,7 @@ return {
 			extra_award_txt = {"10福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[26]=
 		{
@@ -978,6 +983,7 @@ return {
 			extra_award_txt = {"50福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[27]=
 		{
@@ -987,6 +993,7 @@ return {
 			extra_award_txt = {"50福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[28]=
 		{
@@ -996,6 +1003,7 @@ return {
 			extra_award_txt = {"50福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[29]=
 		{
@@ -1005,6 +1013,7 @@ return {
 			extra_award_txt = {"50福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[30]=
 		{
@@ -1014,6 +1023,7 @@ return {
 			extra_award_txt = {"50福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[31]=
 		{
@@ -1023,6 +1033,7 @@ return {
 			extra_award_txt = {"50福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[32]=
 		{
@@ -1032,6 +1043,7 @@ return {
 			extra_award_txt = {"50福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[33]=
 		{
@@ -1041,6 +1053,7 @@ return {
 			extra_award_txt = {"50福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[34]=
 		{
@@ -1050,6 +1063,7 @@ return {
 			extra_award_txt = {"50福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[35]=
 		{
@@ -1059,6 +1073,7 @@ return {
 			extra_award_txt = {"50福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[36]=
 		{
@@ -1068,6 +1083,7 @@ return {
 			extra_award_txt = {"50福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[37]=
 		{
@@ -1077,6 +1093,7 @@ return {
 			extra_award_txt = {"50福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[38]=
 		{
@@ -1086,6 +1103,7 @@ return {
 			extra_award_txt = {"50福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[39]=
 		{
@@ -1095,6 +1113,7 @@ return {
 			extra_award_txt = {"50福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 		[40]=
 		{
@@ -1104,6 +1123,7 @@ return {
 			extra_award_txt = {"50福利券","10福袋",},
 			sta_t = 1612828800,
 			end_t = 1613404799,
+			cur_path = {"act_005_fudai_",},
 		},
 	},
 }
