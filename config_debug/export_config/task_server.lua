@@ -4397,7 +4397,7 @@ return {
 			id = 115,
 			award_id = 110,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[116]=
@@ -4413,7 +4413,7 @@ return {
 			id = 117,
 			award_id = 111,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[118]=
@@ -4445,7 +4445,7 @@ return {
 			id = 121,
 			award_id = 113,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[122]=
@@ -4461,7 +4461,7 @@ return {
 			id = 123,
 			award_id = 114,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[124]=
@@ -4477,7 +4477,7 @@ return {
 			id = 125,
 			award_id = 115,
 			asset_type = "shop_gold_sum",
-			asset_count = 500,
+			asset_count = 50,
 			get_weight = 1,
 		},
 		[126]=
