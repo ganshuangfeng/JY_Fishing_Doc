@@ -4,21 +4,21 @@ return {
 		[1]=
 		{
 			line = 1,
-			permission = "actp_buy_gift_bag_class_fclb_free_001",
+			permission = "actp_buy_gift_bag_class_fclb_free_002",
 			gift_config = "gift_config1",
 			collect_config = "collect_config1",
 		},
 		[2]=
 		{
 			line = 2,
-			permission = "actp_buy_gift_bag_class_fclb_v1v7_001",
+			permission = "actp_buy_gift_bag_class_fclb_v1v7_002",
 			gift_config = "gift_config2",
 			collect_config = "collect_config2",
 		},
 		[3]=
 		{
 			line = 3,
-			permission = "actp_buy_gift_bag_class_fclb_v8v12_001",
+			permission = "actp_buy_gift_bag_class_fclb_v8v12_002",
 			gift_config = "gift_config3",
 			collect_config = "collect_config3",
 		},

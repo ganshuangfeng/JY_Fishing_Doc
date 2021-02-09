@@ -6369,7 +6369,7 @@ return {
 		{
 			id = 353,
 			enable = 1,
-			key = "actp_buy_gift_bag_class_fclb_free_001",
+			key = "actp_buy_gift_bag_class_fclb_free_002",
 			name = "发财礼包--免费、小额、新人",
 			condi = 382,
 			is_dynamic_codi = 0,
@@ -6381,7 +6381,7 @@ return {
 		{
 			id = 354,
 			enable = 1,
-			key = "actp_buy_gift_bag_class_fclb_v1v7_001",
+			key = "actp_buy_gift_bag_class_fclb_v1v7_002",
 			name = "发财礼包--V1V7",
 			condi = 383,
 			is_dynamic_codi = 0,
@@ -6393,7 +6393,7 @@ return {
 		{
 			id = 355,
 			enable = 1,
-			key = "actp_buy_gift_bag_class_fclb_v8v12_001",
+			key = "actp_buy_gift_bag_class_fclb_v8v12_002",
 			name = "发财礼包--V8V12",
 			condi = 384,
 			is_dynamic_codi = 0,

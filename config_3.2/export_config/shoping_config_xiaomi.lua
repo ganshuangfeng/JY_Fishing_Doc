@@ -14525,21 +14525,21 @@ return {
 		[70]=
 		{
 			id = 70,
-			condition_group = {{type="permission_class",class_value = "fclb_free_001" }},
+			condition_group = {{type="permission_class",class_value = "fclb_free_002" }},
 			limit = 1,
 			duration = 0,
 		},
 		[71]=
 		{
 			id = 71,
-			condition_group = {{type="permission_class",class_value = "fclb_v1v7_001" }},
+			condition_group = {{type="permission_class",class_value = "fclb_v1v7_002" }},
 			limit = 1,
 			duration = 0,
 		},
 		[72]=
 		{
 			id = 72,
-			condition_group = {{type="permission_class",class_value = "fclb_v8v12_001" }},
+			condition_group = {{type="permission_class",class_value = "fclb_v8v12_002" }},
 			limit = 1,
 			duration = 0,
 		},
