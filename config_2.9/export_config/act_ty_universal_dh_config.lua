@@ -90,7 +90,7 @@ return {
 		[5]=
 		{
 			line = 5,
-			award_name = {"高级核弹",},
+			award_name = {"高级核弹*1",},
 			award_image = {"icon_gjhd",},
 			award_num = {1,},
 			award_key = {"prop_3d_fish_nuclear_bomb_3",},
@@ -123,7 +123,7 @@ return {
 		[8]=
 		{
 			line = 8,
-			award_name = {"初级核弹",},
+			award_name = {"初级核弹*1",},
 			award_image = {"icon_cjhd",},
 			award_num = {1,},
 			award_key = {"prop_3d_fish_nuclear_bomb_1",},
@@ -190,7 +190,7 @@ return {
 		[14]=
 		{
 			line = 14,
-			award_name = {"小金锤",},
+			award_name = {"小金锤*5",},
 			award_image = {"icon_jc",},
 			award_num = {1,},
 			award_key = {"prop_hammer_4",},
@@ -212,7 +212,7 @@ return {
 		[16]=
 		{
 			line = 16,
-			award_name = {"小银锤",},
+			award_name = {"小银锤*10",},
 			award_image = {"icon_yc",},
 			award_num = {1,},
 			award_key = {"prop_hammer_3",},
