@@ -243,6 +243,34 @@ return {
 			create_pro = {5,5,5,},
 			create_config = "create_weight6",
 		},
+		[2]=
+		{
+			no = 2,
+			choose_group = {161,162,163,161,162,163,},
+			create_pro = {30,40,30},
+			create_config = "create_weight1",
+		},
+		[3]=
+		{
+			no = 3,
+			choose_group = {164,165,},
+			create_pro = {30,40,30},
+			create_config = "create_weight2",
+		},
+		[4]=
+		{
+			no = 4,
+			choose_group = {166,167,168,},
+			create_pro = {20,60,5},
+			create_config = "create_weight3",
+		},
+		[5]=
+		{
+			no = 5,
+			choose_group = {168,169,},
+			create_pro = {10,10,5},
+			create_config = "create_weight4",
+		},
 	},
 	create_style=
 	{
