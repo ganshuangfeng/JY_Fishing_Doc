@@ -3206,6 +3206,7 @@ return {
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
+			condi_key = "actp_own_task_p_041_xyxfl",
 		},
 		[328]=
 		{

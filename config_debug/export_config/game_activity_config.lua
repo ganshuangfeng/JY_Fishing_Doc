@@ -339,7 +339,7 @@ return {
 			title = "新游福利",
 			order = 2,
 			is_on_off = 1,
-			condi_key = "actp_own_task_p_041_xyxfl",
+			condi_key = "actp_show_gift_bag_xyfl",
 			beginTime = 1613433600,
 			endTime = 1614009599,
 			showType = "prefab",
