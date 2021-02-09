@@ -2138,6 +2138,12 @@ return {
 			name = "救济金月卡跳转",
 			condi = 386,
 		},
+		cpl_notcjj_notcps=
+		{
+			key = "cpl_notcjj_notcps",
+			name = "非冲金鸡与cps",
+			condi = 396,
+		},
 	},
 	act_permission=
 	{
@@ -16141,6 +16147,36 @@ return {
 			judge = 2,
 			group = 2,
 			error_desc = "冲金鸡cpl",
+		},
+		[964]=
+		{
+			no = 964,
+			id = 396,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPl渠道",
+		},
+		[965]=
+		{
+			no = 965,
+			id = 396,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 2,
+			error_desc = "是CPS渠道",
+		},
+		[966]=
+		{
+			no = 966,
+			id = 396,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 3,
+			error_desc = "是官方渠道",
 		},
 	},
 	share_condition=
