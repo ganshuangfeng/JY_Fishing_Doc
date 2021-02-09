@@ -16165,7 +16165,7 @@ return {
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
-			group = 2,
+			group = 1,
 			error_desc = "是CPS渠道",
 		},
 		[966]=
@@ -16173,10 +16173,40 @@ return {
 			no = 966,
 			id = 396,
 			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是cjj",
+		},
+		[967]=
+		{
+			no = 967,
+			id = 396,
+			var = "share_condition",
 			value = "3dby_official",
 			judge = 2,
-			group = 3,
+			group = 2,
 			error_desc = "是官方渠道",
+		},
+		[968]=
+		{
+			no = 968,
+			id = 396,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 2,
+			error_desc = "是CPS渠道",
+		},
+		[969]=
+		{
+			no = 969,
+			id = 396,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 2,
+			error_desc = "不是cjj",
 		},
 	},
 	share_condition=
