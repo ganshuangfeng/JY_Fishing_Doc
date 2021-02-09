@@ -8586,21 +8586,21 @@ return {
 			id = 468,
 			real_award_id = 11944,
 			asset_type = "prop_xnsmt_mtsp",
-			asset_count = {1,10},
+			asset_count = {5,10},
 		},
 		[469]=
 		{
 			id = 469,
 			real_award_id = 11945,
 			asset_type = "prop_xnsmt_mtsp",
-			asset_count = {10,50},
+			asset_count = {10,30},
 		},
 		[470]=
 		{
 			id = 470,
 			real_award_id = 11946,
 			asset_type = "prop_xnsmt_mtsp",
-			asset_count = {50,100},
+			asset_count = {50,65},
 		},
 		[471]=
 		{
@@ -8641,21 +8641,21 @@ return {
 			id = 476,
 			real_award_id = 11952,
 			asset_type = "prop_xnsmt_mtsp",
-			asset_count = {1,10},
+			asset_count = {5,10},
 		},
 		[477]=
 		{
 			id = 477,
 			real_award_id = 11953,
 			asset_type = "prop_xnsmt_mtsp",
-			asset_count = {10,50},
+			asset_count = {10,30},
 		},
 		[478]=
 		{
 			id = 478,
 			real_award_id = 11954,
 			asset_type = "prop_xnsmt_mtsp",
-			asset_count = {50,100},
+			asset_count = {50,65},
 		},
 		[479]=
 		{
