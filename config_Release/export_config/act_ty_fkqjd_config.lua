@@ -41,7 +41,7 @@ return {
 			line = 1,
 			gift_id = 10449,
 			price = 18,
-			award_txt = {"金币*18万","铜锤*1",},
+			award_txt = {"金币*180万","铜锤*1",},
 			award_img = {"ty_icon_jb_18y","com_award_icon_cz2"},
 			award_tips = {"",""},
 		},
