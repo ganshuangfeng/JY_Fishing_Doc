@@ -2129,7 +2129,7 @@ return {
 		{
 			id = 32,
 			reset_type = "fix_time",
-			reset_value = 1612828800,
+			reset_value = 1613404799,
 		},
 		[33]=
 		{
