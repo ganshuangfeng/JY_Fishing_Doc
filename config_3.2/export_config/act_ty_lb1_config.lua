@@ -5,15 +5,23 @@ return {
 		{
 			line = 1,
 			permission = "actp_no_cjj_gej_exchange",
-			item_key = {79,80,81,},
+			item_key = {"prop_ty_xybox","prop_ty_ssbox","prop_ty_csbox",},
+			box_exchange_id = {79,80,81,},
 			config = "config_normal",
+			sta_t = 1614643200,
+			end_t = 1615219199,
+			cur_path = "act_002_tylb1_",
 		},
 		[2]=
 		{
 			line = 2,
 			permission = "actp_cjj_gej_exchange",
-			item_key = {79,80,81,},
+			item_key = {"prop_ty_xybox","prop_ty_ssbox","prop_ty_csbox",},
+			box_exchange_id = {79,80,81,},
 			config = "config_cjj",
+			sta_t = 1614643200,
+			end_t = 1615219199,
+			cur_path = "act_002_tylb1_",
 		},
 	},
 	other_data=
@@ -23,7 +31,6 @@ return {
 			line = 1,
 			sta_t = 1614643200,
 			end_t = 1615219199,
-			cur_path = "act_002_tylb1_",
 		},
 	},
 	config_normal=
