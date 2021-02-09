@@ -335,7 +335,7 @@ return {
 		{
 			line = 21,
 			act_type = "weekly",
-			ID = 20,
+			ID = 21,
 			title = "新游福利",
 			order = 2,
 			is_on_off = 1,
@@ -351,7 +351,7 @@ return {
 		{
 			line = 22,
 			act_type = "weekly",
-			ID = 21,
+			ID = 22,
 			title = "元宵福利",
 			order = 1,
 			is_on_off = 1,
@@ -367,7 +367,7 @@ return {
 		{
 			line = 23,
 			act_type = "weekly",
-			ID = 22,
+			ID = 23,
 			title = "元宵榜单",
 			order = 2,
 			is_on_off = 1,
@@ -383,7 +383,7 @@ return {
 		{
 			line = 24,
 			act_type = "weekly",
-			ID = 23,
+			ID = 24,
 			title = "元宵福袋",
 			order = 3,
 			is_on_off = 1,
@@ -399,7 +399,7 @@ return {
 		{
 			line = 25,
 			act_type = "weekly",
-			ID = 24,
+			ID = 25,
 			title = "天天领金币",
 			order = 4,
 			is_on_off = 1,
@@ -416,7 +416,7 @@ return {
 		{
 			line = 26,
 			act_type = "weekly",
-			ID = 25,
+			ID = 26,
 			title = "天天领金币",
 			order = 4,
 			is_on_off = 1,
@@ -433,7 +433,7 @@ return {
 		{
 			line = 27,
 			act_type = "weekly",
-			ID = 26,
+			ID = 27,
 			title = "有奖问答",
 			order = 5,
 			is_on_off = 1,

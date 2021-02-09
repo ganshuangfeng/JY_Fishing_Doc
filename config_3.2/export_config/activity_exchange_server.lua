@@ -2702,7 +2702,7 @@ return {
 		{
 			no = 194,
 			award_cfg_id = 34,
-			award_id = 1,
+			award_id = 2,
 			permission_key = "actp_no_cjj_gej_exchange",
 			award_name = "金龙鱼油4L",
 			use_num = {3800,3800,3800,3800,},
@@ -2712,7 +2712,7 @@ return {
 		{
 			no = 195,
 			award_cfg_id = 34,
-			award_id = 2,
+			award_id = 4,
 			permission_key = "actp_no_cjj_gej_exchange",
 			award_name = "金龙鱼大米10斤",
 			use_num = {2000,2000,2000,2000,},
@@ -2722,7 +2722,7 @@ return {
 		{
 			no = 196,
 			award_cfg_id = 34,
-			award_id = 3,
+			award_id = 6,
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"prop_web_chip_huafei",},
 			asset_count = {2000,},
@@ -2733,7 +2733,7 @@ return {
 		{
 			no = 197,
 			award_cfg_id = 34,
-			award_id = 4,
+			award_id = 1,
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
 			asset_count = {20000000,},
@@ -2743,7 +2743,7 @@ return {
 		{
 			no = 198,
 			award_cfg_id = 34,
-			award_id = 5,
+			award_id = 3,
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"prop_3d_fish_nuclear_bomb_3",},
 			asset_count = {1,},
@@ -2754,7 +2754,7 @@ return {
 		{
 			no = 199,
 			award_cfg_id = 34,
-			award_id = 6,
+			award_id = 5,
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"prop_3d_fish_nuclear_bomb_2",},
 			asset_count = {1,},
@@ -2787,7 +2787,7 @@ return {
 		{
 			no = 202,
 			award_cfg_id = 35,
-			award_id = 1,
+			award_id = 2,
 			permission_key = "actp_cjj_gej_exchange",
 			award_name = "金龙鱼油4L",
 			use_num = {3800,3800,3800,3800,},
@@ -2797,7 +2797,7 @@ return {
 		{
 			no = 203,
 			award_cfg_id = 35,
-			award_id = 2,
+			award_id = 4,
 			permission_key = "actp_cjj_gej_exchange",
 			award_name = "金龙鱼大米10斤",
 			use_num = {2000,2000,2000,2000,},
@@ -2807,7 +2807,7 @@ return {
 		{
 			no = 204,
 			award_cfg_id = 35,
-			award_id = 3,
+			award_id = 6,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"prop_web_chip_huafei",},
 			asset_count = {2000,},
@@ -2818,7 +2818,7 @@ return {
 		{
 			no = 205,
 			award_cfg_id = 35,
-			award_id = 4,
+			award_id = 1,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
 			asset_count = {20000000,},
@@ -2828,7 +2828,7 @@ return {
 		{
 			no = 206,
 			award_cfg_id = 35,
-			award_id = 5,
+			award_id = 3,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
 			asset_count = {10000000,},
@@ -2839,7 +2839,7 @@ return {
 		{
 			no = 207,
 			award_cfg_id = 35,
-			award_id = 6,
+			award_id = 5,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"prop_hammer_4",},
 			asset_count = {5,},
