@@ -163,7 +163,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#8#122#61#124#9#117#115#",
+			group_list = "3;116#2#8#122#61#9#117#115#",
 		},
 		[2]=
 		{
@@ -204,7 +204,7 @@ return {
 		{
 			id = 8,
 			area = "right_bottom",
-			group_list = "119#",
+			group_list = "124#",
 		},
 	},
 	ddz_free_game=
