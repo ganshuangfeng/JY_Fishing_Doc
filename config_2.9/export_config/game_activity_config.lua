@@ -192,7 +192,7 @@ return {
 			ID = 12,
 			title = "新年狂欢夜",
 			order = 3,
-			is_on_off = 1,
+			is_on_off = 0,
 			beginTime = 1612828800,
 			endTime = 1613404799,
 			showType = "prefab",
