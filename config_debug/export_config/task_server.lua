@@ -4429,7 +4429,7 @@ return {
 			id = 119,
 			award_id = 112,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[120]=
