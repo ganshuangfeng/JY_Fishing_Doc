@@ -9652,7 +9652,7 @@ return {
 		{
 			id = 1000276,
 			enable = 1,
-			name = "赢一把就睡觉",
+			name = "新年狂欢夜",
 			own_type = "permission_task",
 			task_enum = "sleep_act_task",
 			process_id = 21634,
@@ -10322,6 +10322,21 @@ return {
 			reset_delay = 1,
 			start_valid_time = 1613404800,
 			end_valid_time = 1614009599,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000321]=
+		{
+			id = 1000321,
+			enable = 1,
+			name = "深海探险送福袋",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21679,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1612800000,
+			end_valid_time = 1613404799,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -17281,6 +17296,15 @@ return {
 			process = {10,40,50,100,300},
 			awards = {1051,1052,1053,1054,1055},
 			get_award_type = "nor",
+		},
+		[731]=
+		{
+			id = 731,
+			process_id = 21679,
+			process = {1,1,1,1,1,1},
+			awards = {1056,1057,1058,1059,1060,1061},
+			get_award_type = "nor",
+			is_auto_get_award = 1,
 		},
 	},
 	source=
@@ -41319,6 +41343,102 @@ return {
 			award_id = 1055,
 			asset_type = "shop_gold_sum",
 			asset_count = 8000,
+			get_weight = 1,
+		},
+		[1606]=
+		{
+			id = 1606,
+			award_id = 1056,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1607]=
+		{
+			id = 1607,
+			award_id = 1056,
+			asset_type = "_common_rank_gdn_004_jzbd_rank",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1608]=
+		{
+			id = 1608,
+			award_id = 1057,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1609]=
+		{
+			id = 1609,
+			award_id = 1057,
+			asset_type = "_common_rank_gdn_004_jzbd_rank",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1610]=
+		{
+			id = 1610,
+			award_id = 1058,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1611]=
+		{
+			id = 1611,
+			award_id = 1058,
+			asset_type = "_common_rank_gdn_004_jzbd_rank",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1612]=
+		{
+			id = 1612,
+			award_id = 1059,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1613]=
+		{
+			id = 1613,
+			award_id = 1059,
+			asset_type = "_common_rank_gdn_004_jzbd_rank",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1614]=
+		{
+			id = 1614,
+			award_id = 1060,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1615]=
+		{
+			id = 1615,
+			award_id = 1060,
+			asset_type = "_common_rank_gdn_004_jzbd_rank",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1616]=
+		{
+			id = 1616,
+			award_id = 1061,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1617]=
+		{
+			id = 1617,
+			award_id = 1061,
+			asset_type = "_common_rank_gdn_004_jzbd_rank",
+			asset_count = 10,
 			get_weight = 1,
 		},
 	},
