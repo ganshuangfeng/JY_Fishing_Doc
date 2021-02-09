@@ -190,7 +190,7 @@ return {
 			line = 12,
 			act_type = "weekly",
 			ID = 12,
-			title = "赢一把就睡觉",
+			title = "新年狂欢夜",
 			order = 3,
 			is_on_off = 1,
 			beginTime = 1612828800,
