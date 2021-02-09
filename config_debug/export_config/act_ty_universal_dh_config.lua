@@ -45,6 +45,7 @@ return {
 		[1]=
 		{
 			line = 1,
+			ID = 2,
 			award_name = {"金龙鱼油4L",},
 			award_image = {"swjl_1",},
 			award_key = {"",},
@@ -56,6 +57,7 @@ return {
 		[2]=
 		{
 			line = 2,
+			ID = 4,
 			award_name = {"金龙鱼大米10斤",},
 			award_image = {"swjl_2",},
 			award_key = {"",},
@@ -67,6 +69,7 @@ return {
 		[3]=
 		{
 			line = 3,
+			ID = 6,
 			award_name = {"20元话费",},
 			award_image = {"com_award_icon_hf20",},
 			award_num = {2000,},
@@ -79,6 +82,7 @@ return {
 		[4]=
 		{
 			line = 4,
+			ID = 1,
 			award_name = {"2000万金币",},
 			award_image = {"pay_icon_gold9",},
 			award_num = {20000000,},
@@ -90,6 +94,7 @@ return {
 		[5]=
 		{
 			line = 5,
+			ID = 3,
 			award_name = {"高级核弹*1",},
 			award_image = {"icon_gjhd",},
 			award_num = {1,},
@@ -101,6 +106,7 @@ return {
 		[6]=
 		{
 			line = 6,
+			ID = 5,
 			award_name = {"中级核弹",},
 			award_image = {"icon_zjhd",},
 			award_num = {1,},
@@ -112,6 +118,7 @@ return {
 		[7]=
 		{
 			line = 7,
+			ID = 7,
 			award_name = {"200万金币",},
 			award_image = {"pay_icon_gold7",},
 			award_num = {2000000,},
@@ -123,6 +130,7 @@ return {
 		[8]=
 		{
 			line = 8,
+			ID = 8,
 			award_name = {"初级核弹*1",},
 			award_image = {"icon_cjhd",},
 			award_num = {1,},
@@ -134,6 +142,7 @@ return {
 		[9]=
 		{
 			line = 9,
+			ID = 2,
 			award_name = {"金龙鱼油4L",},
 			award_image = {"swjl_1",},
 			award_key = {"",},
@@ -145,6 +154,7 @@ return {
 		[10]=
 		{
 			line = 10,
+			ID = 4,
 			award_name = {"金龙鱼大米10斤",},
 			award_image = {"swjl_2",},
 			award_key = {"",},
@@ -156,6 +166,7 @@ return {
 		[11]=
 		{
 			line = 11,
+			ID = 6,
 			award_name = {"20元话费",},
 			award_image = {"com_award_icon_hf20",},
 			award_num = {2000,},
@@ -168,6 +179,7 @@ return {
 		[12]=
 		{
 			line = 12,
+			ID = 1,
 			award_name = {"2000万金币",},
 			award_image = {"pay_icon_gold9",},
 			award_num = {20000000,},
@@ -179,6 +191,7 @@ return {
 		[13]=
 		{
 			line = 13,
+			ID = 3,
 			award_name = {"1000万金币",},
 			award_image = {"pay_icon_gold8",},
 			award_num = {1,},
@@ -190,6 +203,7 @@ return {
 		[14]=
 		{
 			line = 14,
+			ID = 5,
 			award_name = {"小金锤*5",},
 			award_image = {"icon_jc",},
 			award_num = {1,},
@@ -201,6 +215,7 @@ return {
 		[15]=
 		{
 			line = 15,
+			ID = 7,
 			award_name = {"200万金币",},
 			award_image = {"pay_icon_gold7",},
 			award_num = {2000000,},
@@ -212,6 +227,7 @@ return {
 		[16]=
 		{
 			line = 16,
+			ID = 8,
 			award_name = {"小银锤*10",},
 			award_image = {"icon_yc",},
 			award_num = {1,},
