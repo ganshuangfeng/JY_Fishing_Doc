@@ -8283,7 +8283,7 @@ return {
 		{
 			id = 459,
 			real_award_id = 11935,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "shop_gold_sum",
 			asset_count = {10,50},
 		},
 		[460]=
@@ -8311,14 +8311,14 @@ return {
 		{
 			id = 463,
 			real_award_id = 11939,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "shop_gold_sum",
 			asset_count = {3000,3000},
 		},
 		[464]=
 		{
 			id = 464,
 			real_award_id = 11940,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "shop_gold_sum",
 			asset_count = {10000,10000},
 		},
 		[465]=
@@ -8338,7 +8338,7 @@ return {
 		{
 			id = 467,
 			real_award_id = 11943,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "shop_gold_sum",
 			asset_count = {10,50},
 		},
 		[468]=
@@ -8366,14 +8366,14 @@ return {
 		{
 			id = 471,
 			real_award_id = 11947,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "shop_gold_sum",
 			asset_count = {3000,3000},
 		},
 		[472]=
 		{
 			id = 472,
 			real_award_id = 11948,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "shop_gold_sum",
 			asset_count = {10000,10000},
 		},
 		[473]=
@@ -8393,7 +8393,7 @@ return {
 		{
 			id = 475,
 			real_award_id = 11951,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "shop_gold_sum",
 			asset_count = {10,50},
 		},
 		[476]=
@@ -8421,14 +8421,14 @@ return {
 		{
 			id = 479,
 			real_award_id = 11955,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "shop_gold_sum",
 			asset_count = {3000,3000},
 		},
 		[480]=
 		{
 			id = 480,
 			real_award_id = 11956,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "shop_gold_sum",
 			asset_count = {10000,10000},
 		},
 		[481]=
