@@ -5197,45 +5197,45 @@ return {
 		{
 			id = 113,
 			award_id = 109,
-			award_name = "50万福利券",
+			award_name = "5万福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = 500000,
+			asset_count = 50000,
 			get_weight = 1,
 		},
 		[114]=
 		{
 			id = 114,
 			award_id = 110,
-			award_name = "30万福利券",
+			award_name = "3万福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = 300000,
+			asset_count = 30000,
 			get_weight = 1,
 		},
 		[115]=
 		{
 			id = 115,
 			award_id = 111,
-			award_name = "10万福利券",
+			award_name = "1万福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = 100000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[116]=
 		{
 			id = 116,
 			award_id = 112,
-			award_name = "5万福利券",
+			award_name = "5千福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = 50000,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[117]=
 		{
 			id = 117,
 			award_id = 113,
-			award_name = "2万福利券",
+			award_name = "2千福利券",
 			asset_type = "shop_gold_sum",
-			asset_count = 20000,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[118]=
