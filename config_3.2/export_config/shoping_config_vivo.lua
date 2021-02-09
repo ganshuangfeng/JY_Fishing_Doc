@@ -2004,7 +2004,7 @@ return {
 			id = 84,
 			jingbi_id = 1,
 			on_off = 1,
-			pay_title = "幸运金币",
+			pay_title = "幸运金币6元",
 			content = {"随机获得60-160万金币",},
 			gzh_order = -4,
 			gzh_show = 1,
