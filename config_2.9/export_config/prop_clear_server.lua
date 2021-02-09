@@ -271,29 +271,29 @@ return {
 		{
 			id = 39,
 			prop_type = "prop_fclb_gong",
-			start_time = 1611014400,
-			recycle_time = 1611590399,
+			start_time = 1613433600,
+			recycle_time = 1614009599,
 		},
 		[40]=
 		{
 			id = 40,
 			prop_type = "prop_fclb_xi",
-			start_time = 1611014400,
-			recycle_time = 1611590399,
+			start_time = 1613433600,
+			recycle_time = 1614009599,
 		},
 		[41]=
 		{
 			id = 41,
 			prop_type = "prop_fclb_fa",
-			start_time = 1611014400,
-			recycle_time = 1611590399,
+			start_time = 1613433600,
+			recycle_time = 1614009599,
 		},
 		[42]=
 		{
 			id = 42,
 			prop_type = "prop_fclb_cai",
-			start_time = 1611014400,
-			recycle_time = 1611590399,
+			start_time = 1613433600,
+			recycle_time = 1614009599,
 		},
 		[43]=
 		{

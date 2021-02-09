@@ -2701,7 +2701,7 @@ return {
 			permission_key = "actp_no_cjj_gej_exchange",
 			asset_type = {"jing_bi",},
 			asset_count = {20000000,},
-			use_num = {60000,6000,6000,6000,},
+			use_num = {6000,6000,6000,6000,},
 		},
 		[198]=
 		{
