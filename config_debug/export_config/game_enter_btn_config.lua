@@ -43,7 +43,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;11#",
+			group_list = "16;31;101;11#",
 		},
 		[3]=
 		{
@@ -68,7 +68,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "11#",
+			group_list = "101;11#",
 		},
 		[3]=
 		{
@@ -93,7 +93,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;90;11#",
+			group_list = "16;31;90;101;11#",
 		},
 		[3]=
 		{
@@ -113,7 +113,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "11#",
+			group_list = "101;11#",
 		},
 	},
 	fishing_game=
@@ -288,7 +288,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "16;11;31;#",
+			group_list = "16;101;11;31;#",
 		},
 	},
 	fishing_match_bm=
@@ -394,7 +394,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "11#",
+			group_list = "101;11#",
 		},
 	},
 	crazy_fish_game=
@@ -403,7 +403,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "11#",
+			group_list = "101;11#",
 		},
 	},
 	lwzb_game=
@@ -412,7 +412,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "11#",
+			group_list = "101;11#",
 		},
 	},
 	lwzb_game_hall=
@@ -421,7 +421,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "11#",
+			group_list = "101;11#",
 		},
 	},
 	xxlxy_game=
@@ -430,7 +430,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "11#",
+			group_list = "101;11#",
 		},
 	},
 	year_panel=
@@ -510,6 +510,7 @@ return {
 			id = 11,
 			parm = {"sys_act_base","weekly","enter"},
 			is_on_off = 1,
+			condi_key = "actp_no_cjj_gej_exchange",
 		},
 		[12]=
 		{
@@ -1051,6 +1052,7 @@ return {
 			id = 101,
 			parm = {"cpl_ljyjcfk",},
 			is_on_off = 1,
+			condi_key = "actp_cjj_gej_exchange",
 		},
 		[102]=
 		{
