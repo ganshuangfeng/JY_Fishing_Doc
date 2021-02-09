@@ -17331,7 +17331,7 @@ return {
 		{
 			id = 731,
 			process_id = 21679,
-			process = {1,1,1,1,1,1},
+			process = {1,1,1,1,1,-1},
 			awards = {1056,1057,1058,1059,1060,1061},
 			get_award_type = "nor",
 			is_auto_get_award = 1,
