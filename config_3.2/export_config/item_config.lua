@@ -3941,6 +3941,7 @@ return {
 			order = 33,
 			name = "传说宝箱",
 			desc = "通用礼包专用--传说",
+			use_parm = {"act_ty_lb1","prop_ty_csbox"},
 		},
 		[292]=
 		{
@@ -3954,6 +3955,7 @@ return {
 			order = 33,
 			name = "史诗宝箱",
 			desc = "通用礼包专用--史诗",
+			use_parm = {"act_ty_lb1","prop_ty_ssbox"},
 		},
 		[293]=
 		{
@@ -3967,6 +3969,7 @@ return {
 			order = 33,
 			name = "稀有宝箱",
 			desc = "通用礼包专用--稀有",
+			use_parm = {"act_ty_lb1","prop_ty_xybox"},
 		},
 		[294]=
 		{
