@@ -6473,6 +6473,30 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1588028400,
 		},
+		[362]=
+		{
+			id = 362,
+			enable = 1,
+			key = "actp_rank_gdn_004_jzbd_rank",
+			name = "集字榜单--非cjj",
+			condi = 393,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1612828800,
+		},
+		[363]=
+		{
+			id = 363,
+			enable = 1,
+			key = "actp_rank_xxlzb_004_rank",
+			name = "消消乐争霸--cjj",
+			condi = 394,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1612828800,
+		},
 	},
 	condi=
 	{
@@ -16055,6 +16079,26 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是新玩家",
+		},
+		[959]=
+		{
+			no = 959,
+			id = 393,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是cjj",
+		},
+		[960]=
+		{
+			no = 960,
+			id = 394,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是cjj",
 		},
 	},
 	share_condition=
