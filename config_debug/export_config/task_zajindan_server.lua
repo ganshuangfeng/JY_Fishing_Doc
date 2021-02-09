@@ -40879,7 +40879,7 @@ return {
 			id = 1547,
 			award_id = 1020,
 			asset_type = "jing_bi",
-			asset_count = 200000,
+			asset_count = 2000000,
 			get_weight = 1,
 		},
 		[1548]=
@@ -40896,6 +40896,7 @@ return {
 			award_id = 1022,
 			award_name = "飞天茅台",
 			get_weight = 1,
+			is_send_email = 1,
 		},
 		[1550]=
 		{
