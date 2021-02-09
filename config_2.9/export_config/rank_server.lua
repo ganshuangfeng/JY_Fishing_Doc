@@ -5801,5 +5801,68 @@ return {
 			asset_count = 500,
 			get_weight = 1,
 		},
+		[195]=
+		{
+			id = 195,
+			award_id = 191,
+			award_name = "100000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[196]=
+		{
+			id = 196,
+			award_id = 192,
+			award_name = "30000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 30000,
+			get_weight = 1,
+		},
+		[197]=
+		{
+			id = 197,
+			award_id = 193,
+			award_name = "10000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[198]=
+		{
+			id = 198,
+			award_id = 194,
+			award_name = "3000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 3000,
+			get_weight = 1,
+		},
+		[199]=
+		{
+			id = 199,
+			award_id = 195,
+			award_name = "2000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 2000,
+			get_weight = 1,
+		},
+		[200]=
+		{
+			id = 200,
+			award_id = 196,
+			award_name = "1000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[201]=
+		{
+			id = 201,
+			award_id = 197,
+			award_name = "500福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 500,
+			get_weight = 1,
+		},
 	},
 }
