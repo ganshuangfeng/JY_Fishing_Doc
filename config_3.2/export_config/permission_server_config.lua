@@ -6532,6 +6532,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1612828800,
 		},
+		[364]=
+		{
+			id = 364,
+			enable = 1,
+			key = "actp_show_gift_bag_xyfl",
+			name = "全cpl",
+			condi = 396,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1612828800,
+		},
 	},
 	condi=
 	{
@@ -16144,6 +16156,26 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是cjj",
+		},
+		[962]=
+		{
+			no = 962,
+			id = 396,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "3d捕鱼cpl",
+		},
+		[963]=
+		{
+			no = 963,
+			id = 396,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 2,
+			error_desc = "冲金鸡cpl",
 		},
 	},
 	share_condition=
