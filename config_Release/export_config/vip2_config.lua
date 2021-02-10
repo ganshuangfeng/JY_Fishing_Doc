@@ -36,7 +36,7 @@ return {
 			vip = 2,
 			total = 200,
 			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>5次</color>",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>1次</color>",
 		},
 		[6]=
 		{
@@ -74,7 +74,7 @@ return {
 			vip = 3,
 			total = 500,
 			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>10次</color>",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>3次</color>",
 		},
 		[11]=
 		{
@@ -104,7 +104,7 @@ return {
 			vip = 4,
 			total = 1000,
 			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>20次</color>",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>5次</color>",
 		},
 		[15]=
 		{
@@ -142,7 +142,7 @@ return {
 			vip = 5,
 			total = 2000,
 			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>30次</color>",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>10次</color>",
 		},
 		[20]=
 		{
@@ -179,7 +179,7 @@ return {
 			vip = 6,
 			total = 5000,
 			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>30次</color>",
 		},
 		[25]=
 		{
@@ -343,7 +343,7 @@ return {
 		{
 			line = 46,
 			vip = 11,
-			key = "cpl_notcjj",
+			key = "cpl_notcjj_notcps",
 			info = "可使用Vip超级转盘，每日可抽<color=#C86715>70次</color>",
 			cfz = 15000,
 		},
@@ -391,7 +391,7 @@ return {
 		{
 			line = 52,
 			vip = 12,
-			key = "cpl_notcjj",
+			key = "cpl_notcjj_notcps",
 			info = "可使用Vip超级转盘，每日可抽<color=#C86715>70次</color>",
 			cfz = 40000,
 		},

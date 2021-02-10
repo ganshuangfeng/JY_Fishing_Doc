@@ -789,141 +789,321 @@ return {
 		{
 			id = 1,
 			layer = 5,
-			extra_award_img = {"3dby_icon_hedansp_1_1",},
-			extra_award_txt = {"初级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq1",},
+			extra_award_txt = {"10福利券",},
 		},
 		[2]=
 		{
 			id = 2,
 			layer = 10,
-			extra_award_img = {"3dby_icon_hedansp_1_1",},
-			extra_award_txt = {"初级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq1",},
+			extra_award_txt = {"10福利券",},
 		},
 		[3]=
 		{
 			id = 3,
 			layer = 15,
-			extra_award_img = {"3dby_icon_hedansp_1_1",},
-			extra_award_txt = {"初级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq1",},
+			extra_award_txt = {"10福利券",},
 		},
 		[4]=
 		{
 			id = 4,
 			layer = 20,
-			extra_award_img = {"3dby_icon_hedansp_1_1",},
-			extra_award_txt = {"初级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq1",},
+			extra_award_txt = {"10福利券",},
 		},
 		[5]=
 		{
 			id = 5,
 			layer = 25,
-			extra_award_img = {"3dby_icon_hedansp_1_1",},
-			extra_award_txt = {"初级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq1",},
+			extra_award_txt = {"10福利券",},
 		},
 		[6]=
 		{
 			id = 6,
 			layer = 30,
-			extra_award_img = {"3dby_icon_hedansp_2_1",},
-			extra_award_txt = {"中级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq2",},
+			extra_award_txt = {"50福利券",},
 		},
 		[7]=
 		{
 			id = 7,
 			layer = 35,
-			extra_award_img = {"3dby_icon_hedansp_2_1",},
-			extra_award_txt = {"中级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq2",},
+			extra_award_txt = {"50福利券",},
 		},
 		[8]=
 		{
 			id = 8,
 			layer = 40,
-			extra_award_img = {"3dby_icon_hedansp_2_1",},
-			extra_award_txt = {"中级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq2",},
+			extra_award_txt = {"50福利券",},
 		},
 		[9]=
 		{
 			id = 9,
 			layer = 45,
-			extra_award_img = {"3dby_icon_hedansp_2_1",},
-			extra_award_txt = {"中级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq2",},
+			extra_award_txt = {"50福利券",},
 		},
 		[10]=
 		{
 			id = 10,
 			layer = 50,
-			extra_award_img = {"3dby_icon_hedansp_2_1",},
-			extra_award_txt = {"中级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq2",},
+			extra_award_txt = {"50福利券",},
 		},
 		[11]=
 		{
 			id = 11,
 			layer = 55,
-			extra_award_img = {"3dby_icon_hedansp_2_1",},
-			extra_award_txt = {"中级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq2",},
+			extra_award_txt = {"50福利券",},
 		},
 		[12]=
 		{
 			id = 12,
 			layer = 60,
-			extra_award_img = {"3dby_icon_hedansp_2_1",},
-			extra_award_txt = {"中级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq2",},
+			extra_award_txt = {"50福利券",},
 		},
 		[13]=
 		{
 			id = 13,
 			layer = 65,
-			extra_award_img = {"3dby_icon_hedansp_2_1",},
-			extra_award_txt = {"中级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq2",},
+			extra_award_txt = {"50福利券",},
 		},
 		[14]=
 		{
 			id = 14,
 			layer = 70,
-			extra_award_img = {"3dby_icon_hedansp_2_1",},
-			extra_award_txt = {"中级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq2",},
+			extra_award_txt = {"50福利券",},
 		},
 		[15]=
 		{
 			id = 15,
 			layer = 75,
-			extra_award_img = {"3dby_icon_hedansp_2_1",},
-			extra_award_txt = {"中级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq2",},
+			extra_award_txt = {"50福利券",},
 		},
 		[16]=
 		{
 			id = 16,
 			layer = 80,
-			extra_award_img = {"3dby_icon_hedansp_2_1",},
-			extra_award_txt = {"中级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq2",},
+			extra_award_txt = {"50福利券",},
 		},
 		[17]=
 		{
 			id = 17,
 			layer = 85,
-			extra_award_img = {"3dby_icon_hedansp_2_1",},
-			extra_award_txt = {"中级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq2",},
+			extra_award_txt = {"50福利券",},
 		},
 		[18]=
 		{
 			id = 18,
 			layer = 90,
-			extra_award_img = {"3dby_icon_hedansp_2_1",},
-			extra_award_txt = {"中级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq2",},
+			extra_award_txt = {"50福利券",},
 		},
 		[19]=
 		{
 			id = 19,
 			layer = 95,
-			extra_award_img = {"3dby_icon_hedansp_2_1",},
-			extra_award_txt = {"中级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq2",},
+			extra_award_txt = {"50福利券",},
 		},
 		[20]=
 		{
 			id = 20,
 			layer = 100,
-			extra_award_img = {"3dby_icon_hedansp_2_1",},
-			extra_award_txt = {"中级核弹碎片*1",},
+			extra_award_img = {"ty_icon_flq2",},
+			extra_award_txt = {"50福利券",},
+		},
+		[21]=
+		{
+			id = 21,
+			layer = 5,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"10福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[22]=
+		{
+			id = 22,
+			layer = 10,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"10福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[23]=
+		{
+			id = 23,
+			layer = 15,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"10福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[24]=
+		{
+			id = 24,
+			layer = 20,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"10福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[25]=
+		{
+			id = 25,
+			layer = 25,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"10福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[26]=
+		{
+			id = 26,
+			layer = 30,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"50福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[27]=
+		{
+			id = 27,
+			layer = 35,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"50福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[28]=
+		{
+			id = 28,
+			layer = 40,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"50福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[29]=
+		{
+			id = 29,
+			layer = 45,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"50福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[30]=
+		{
+			id = 30,
+			layer = 50,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"50福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[31]=
+		{
+			id = 31,
+			layer = 55,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"50福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[32]=
+		{
+			id = 32,
+			layer = 60,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"50福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[33]=
+		{
+			id = 33,
+			layer = 65,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"50福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[34]=
+		{
+			id = 34,
+			layer = 70,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"50福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[35]=
+		{
+			id = 35,
+			layer = 75,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"50福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[36]=
+		{
+			id = 36,
+			layer = 80,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"50福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[37]=
+		{
+			id = 37,
+			layer = 85,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"50福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[38]=
+		{
+			id = 38,
+			layer = 90,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"50福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[39]=
+		{
+			id = 39,
+			layer = 95,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"50福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
+		},
+		[40]=
+		{
+			id = 40,
+			layer = 100,
+			extra_award_img = {"ty_icon_flq1","act_005_fudai_act_ty_by_drop_7",},
+			extra_award_txt = {"50福利券","10福袋",},
+			sta_t = 1612828800,
+			end_t = 1613404799,
 		},
 	},
 }

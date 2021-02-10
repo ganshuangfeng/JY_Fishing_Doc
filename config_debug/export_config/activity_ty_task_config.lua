@@ -6,7 +6,7 @@ return {
 			index = 1,
 			key = "act_xyxfl",
 			icon = "yxfl_bg_1",
-			name = "天天领金币",
+			name = "节日福利需求",
 			tges = 1,
 		},
 		[2]=
@@ -14,7 +14,7 @@ return {
 			index = 2,
 			key = "act_xyxfl_cjj",
 			icon = "yxfl_bg_1",
-			name = "天天领金币_cjj",
+			name = "节日福利需求_cjj",
 			tges = 2,
 		},
 	},
@@ -23,7 +23,7 @@ return {
 		[1]=
 		{
 			tge_index = 1,
-			name = "天天领金币",
+			name = "节日福利需求",
 			on_off = 1,
 			is_show = 1,
 			order = 1,
@@ -32,7 +32,7 @@ return {
 		[2]=
 		{
 			tge_index = 2,
-			name = "天天领金币_cjj",
+			name = "节日福利需求_cjj",
 			on_off = 1,
 			is_show = 1,
 			order = 1,
@@ -44,7 +44,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			task = 1000301,
+			task = 1000331,
 			total = 3,
 			task_name = "在3D捕鱼中使用3次双倍奖励卡",
 			level = 1,
@@ -55,7 +55,7 @@ return {
 		[2]=
 		{
 			id = 2,
-			task = 1000302,
+			task = 1000332,
 			total = 3,
 			task_name = "在3D捕鱼中使用3次超级火力卡",
 			level = 1,
@@ -66,7 +66,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			task = 1000303,
+			task = 1000333,
 			total = 1,
 			task_name = "在3D捕鱼深海探险当前层数+1",
 			level = 1,
@@ -77,7 +77,7 @@ return {
 		[4]=
 		{
 			id = 4,
-			task = 1000304,
+			task = 1000334,
 			total = 3,
 			task_name = "在3D捕鱼深海探险当前层数+3",
 			level = 1,
@@ -88,7 +88,7 @@ return {
 		[5]=
 		{
 			id = 5,
-			task = 1000305,
+			task = 1000335,
 			total = 1,
 			task_name = "在3D捕鱼海底宝藏中击杀1条深海狂鲨",
 			level = 1,
@@ -99,7 +99,7 @@ return {
 		[6]=
 		{
 			id = 6,
-			task = 1000306,
+			task = 1000336,
 			total = 3,
 			task_name = "在3D捕鱼海底宝藏中击3条深海狂鲨",
 			level = 1,
@@ -110,7 +110,7 @@ return {
 		[7]=
 		{
 			id = 7,
-			task = 1000307,
+			task = 1000337,
 			total = 50,
 			task_name = "在3D捕鱼中通过击杀话费鱼累计获得50话费碎片",
 			level = 1,
@@ -121,7 +121,7 @@ return {
 		[8]=
 		{
 			id = 8,
-			task = 1000308,
+			task = 1000338,
 			total = 150,
 			task_name = "在3D捕鱼中通过击杀话费鱼累计获得150话费碎片",
 			level = 1,
@@ -132,7 +132,7 @@ return {
 		[9]=
 		{
 			id = 9,
-			task = 1000309,
+			task = 1000339,
 			total = 300,
 			task_name = "在3D捕鱼中通过击杀话费鱼累计获得300话费碎片",
 			level = 1,
@@ -143,7 +143,7 @@ return {
 		[10]=
 		{
 			id = 10,
-			task = 1000310,
+			task = 1000340,
 			total = 300000,
 			task_name = "在西游消消乐中累计赢金30万",
 			level = 1,
@@ -154,7 +154,7 @@ return {
 		[11]=
 		{
 			id = 11,
-			task = 1000311,
+			task = 1000341,
 			total = 800000,
 			task_name = "在西游消消乐中累计赢金80万",
 			level = 1,
@@ -165,7 +165,7 @@ return {
 		[12]=
 		{
 			id = 12,
-			task = 1000312,
+			task = 1000342,
 			total = 1500000,
 			task_name = "在西游消消乐中累计赢金150万",
 			level = 1,
@@ -176,7 +176,7 @@ return {
 		[13]=
 		{
 			id = 13,
-			task = 1000313,
+			task = 1000343,
 			total = 300000,
 			task_name = "在龙王争霸中累计赢金30万",
 			level = 1,
@@ -187,7 +187,7 @@ return {
 		[14]=
 		{
 			id = 14,
-			task = 1000314,
+			task = 1000344,
 			total = 800000,
 			task_name = "在龙王争霸中累计赢金80万",
 			level = 1,
@@ -198,7 +198,7 @@ return {
 		[15]=
 		{
 			id = 15,
-			task = 1000315,
+			task = 1000345,
 			total = 1500000,
 			task_name = "在龙王争霸中累计赢金150万",
 			level = 1,
@@ -209,7 +209,7 @@ return {
 		[16]=
 		{
 			id = 16,
-			task = 1000316,
+			task = 1000346,
 			total = 2,
 			task_name = "在苹果大战中连胜2局",
 			level = 1,
@@ -220,7 +220,7 @@ return {
 		[17]=
 		{
 			id = 17,
-			task = 1000317,
+			task = 1000347,
 			total = 800000,
 			task_name = "在苹果大战中累计纯赢80万",
 			level = 1,
@@ -231,7 +231,7 @@ return {
 		[18]=
 		{
 			id = 18,
-			task = 1000318,
+			task = 1000348,
 			total = 1,
 			task_name = "苹果大战中种出1次金苹果",
 			level = 1,

@@ -1003,5 +1003,95 @@ return {
 			id = 182,
 			fish_id = 35,
 		},
+		[183]=
+		{
+			id = 183,
+			fish_id = 6,
+			attr_id = 9,
+		},
+		[184]=
+		{
+			id = 184,
+			fish_id = 7,
+			attr_id = 9,
+		},
+		[185]=
+		{
+			id = 185,
+			fish_id = 8,
+			attr_id = 9,
+		},
+		[186]=
+		{
+			id = 186,
+			fish_id = 9,
+			attr_id = 9,
+		},
+		[187]=
+		{
+			id = 187,
+			fish_id = 10,
+			attr_id = 9,
+		},
+		[188]=
+		{
+			id = 188,
+			fish_id = 35,
+		},
+		[189]=
+		{
+			id = 189,
+			fish_id = 35,
+		},
+		[190]=
+		{
+			id = 190,
+			fish_id = 35,
+		},
+		[191]=
+		{
+			id = 191,
+			fish_id = 6,
+			attr_id = 9,
+		},
+		[192]=
+		{
+			id = 192,
+			fish_id = 7,
+			attr_id = 9,
+		},
+		[193]=
+		{
+			id = 193,
+			fish_id = 8,
+			attr_id = 9,
+		},
+		[194]=
+		{
+			id = 194,
+			fish_id = 9,
+			attr_id = 9,
+		},
+		[195]=
+		{
+			id = 195,
+			fish_id = 10,
+			attr_id = 9,
+		},
+		[196]=
+		{
+			id = 196,
+			fish_id = 35,
+		},
+		[197]=
+		{
+			id = 197,
+			fish_id = 35,
+		},
+		[198]=
+		{
+			id = 198,
+			fish_id = 35,
+		},
 	},
 }

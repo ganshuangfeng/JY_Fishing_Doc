@@ -23,7 +23,7 @@ return {
 		{
 			id = 4,
 			area = "center_top",
-			group_list = "80#122#",
+			group_list = "9#80#122#",
 		},
 		[5]=
 		{
@@ -43,7 +43,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;101#",
+			group_list = "16;31;101;11#",
 		},
 		[3]=
 		{
@@ -68,7 +68,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "101#",
+			group_list = "101;11#",
 		},
 		[3]=
 		{
@@ -93,7 +93,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;90;101#",
+			group_list = "16;31;90;101;11#",
 		},
 		[3]=
 		{
@@ -113,7 +113,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "101#",
+			group_list = "101;11#",
 		},
 	},
 	fishing_game=
@@ -163,7 +163,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#8#122#61#117#115#",
+			group_list = "3;116#2#8#122#61#9#117#115#",
 		},
 		[2]=
 		{
@@ -204,7 +204,7 @@ return {
 		{
 			id = 8,
 			area = "right_bottom",
-			group_list = "119#",
+			group_list = "124#",
 		},
 	},
 	ddz_free_game=
@@ -288,7 +288,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "16;101;31;#",
+			group_list = "16;101;11;31;#",
 		},
 	},
 	fishing_match_bm=
@@ -334,20 +334,14 @@ return {
 		[6]=
 		{
 			id = 6,
-			area = "Right_shtx",
-			group_list = "109#",
+			area = "Right_hd",
+			group_list = "103#",
 		},
 		[7]=
 		{
 			id = 7,
-			area = "Right_hd",
-			group_list = "103#",
-		},
-		[8]=
-		{
-			id = 8,
 			area = "Right_boss",
-			group_list = "69#73#",
+			group_list = "69#125;73#",
 		},
 	},
 	fishing3d_hall=
@@ -400,7 +394,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "101#",
+			group_list = "101;11#",
 		},
 	},
 	crazy_fish_game=
@@ -409,7 +403,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "101#",
+			group_list = "101;11#",
 		},
 	},
 	lwzb_game=
@@ -418,7 +412,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "101#",
+			group_list = "101;11#",
 		},
 	},
 	lwzb_game_hall=
@@ -427,7 +421,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "101#",
+			group_list = "101;11#",
 		},
 	},
 	xxlxy_game=
@@ -436,7 +430,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "101#",
+			group_list = "101;11#",
 		},
 	},
 	year_panel=
@@ -445,7 +439,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "123#",
+			group_list = "121#",
 		},
 	},
 	all_enter=
@@ -516,6 +510,7 @@ return {
 			id = 11,
 			parm = {"sys_act_base","weekly","enter"},
 			is_on_off = 1,
+			condi_key = "actp_no_cjj_gej_exchange",
 		},
 		[12]=
 		{
@@ -1057,6 +1052,7 @@ return {
 			id = 101,
 			parm = {"cpl_ljyjcfk",},
 			is_on_off = 1,
+			condi_key = "actp_cjj_gej_exchange",
 		},
 		[102]=
 		{
@@ -1191,6 +1187,18 @@ return {
 		{
 			id = 123,
 			parm = {"act_ty_fkqjd",},
+			is_on_off = 1,
+		},
+		[124]=
+		{
+			id = 124,
+			parm = {"act_048_xnsmt",},
+			is_on_off = 1,
+		},
+		[125]=
+		{
+			id = 125,
+			parm = {"by_hbyts",},
 			is_on_off = 1,
 		},
 	},

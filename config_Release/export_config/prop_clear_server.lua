@@ -33,8 +33,8 @@ return {
 		{
 			id = 5,
 			prop_type = "prop_fish_drop_act_0",
-			start_time = 1612224000,
-			recycle_time = 1612799999,
+			start_time = 1612828800,
+			recycle_time = 1613404799,
 		},
 		[6]=
 		{
@@ -271,29 +271,92 @@ return {
 		{
 			id = 39,
 			prop_type = "prop_fclb_gong",
-			start_time = 1611014400,
-			recycle_time = 1611590399,
+			start_time = 1613433600,
+			recycle_time = 1614009599,
 		},
 		[40]=
 		{
 			id = 40,
 			prop_type = "prop_fclb_xi",
-			start_time = 1611014400,
-			recycle_time = 1611590399,
+			start_time = 1613433600,
+			recycle_time = 1614009599,
 		},
 		[41]=
 		{
 			id = 41,
 			prop_type = "prop_fclb_fa",
-			start_time = 1611014400,
-			recycle_time = 1611590399,
+			start_time = 1613433600,
+			recycle_time = 1614009599,
 		},
 		[42]=
 		{
 			id = 42,
 			prop_type = "prop_fclb_cai",
-			start_time = 1611014400,
-			recycle_time = 1611590399,
+			start_time = 1613433600,
+			recycle_time = 1614009599,
+		},
+		[43]=
+		{
+			id = 43,
+			prop_type = "prop_gdn_x",
+			start_time = 1612828800,
+			recycle_time = 1613404799,
+		},
+		[44]=
+		{
+			id = 44,
+			prop_type = "prop_gdn_n",
+			start_time = 1612828800,
+			recycle_time = 1613404799,
+		},
+		[45]=
+		{
+			id = 45,
+			prop_type = "prop_gdn_k",
+			start_time = 1612828800,
+			recycle_time = 1613404799,
+		},
+		[46]=
+		{
+			id = 46,
+			prop_type = "prop_gdn_l",
+			start_time = 1612828800,
+			recycle_time = 1613404799,
+		},
+		[47]=
+		{
+			id = 47,
+			prop_type = "prop_gdn_wn",
+			start_time = 1612828800,
+			recycle_time = 1613404799,
+		},
+		[48]=
+		{
+			id = 48,
+			prop_type = "prop_xnsmt_cjq",
+			start_time = 1612828800,
+			recycle_time = 1613404799,
+		},
+		[49]=
+		{
+			id = 49,
+			prop_type = "prop_xnsmt_mtsp",
+			start_time = 1612828800,
+			recycle_time = 1613404799,
+		},
+		[50]=
+		{
+			id = 50,
+			prop_type = "prop_fish_drop_act_1",
+			start_time = 1613433600,
+			recycle_time = 1614009599,
+		},
+		[51]=
+		{
+			id = 51,
+			prop_type = "prop_fish_drop_act_2",
+			start_time = 1614038400,
+			recycle_time = 1614614399,
 		},
 	},
 	player_ext_status=

@@ -11,16 +11,16 @@ return {
 			index = 2,
 			game_id = 42,
 			xz_type = {"jing_bi",},
-			xz_count = {20000,1000000},
-			add_count = {20000,100000,1000000},
+			xz_count = {200000,10000000},
+			add_count = {200000,1000000,10000000},
 		},
 		[3]=
 		{
 			index = 3,
 			game_id = 43,
 			xz_type = {"jing_bi",},
-			xz_count = {500000,5000000},
-			add_count = {500000,1000000,5000000},
+			xz_count = {5000000,50000000},
+			add_count = {5000000,10000000,50000000},
 		},
 	},
 	get=

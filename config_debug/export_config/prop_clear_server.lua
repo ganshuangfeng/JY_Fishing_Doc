@@ -33,8 +33,8 @@ return {
 		{
 			id = 5,
 			prop_type = "prop_fish_drop_act_0",
-			start_time = 1612828800,
-			recycle_time = 1613404799,
+			start_time = 1614643200,
+			recycle_time = 1615219199,
 		},
 		[6]=
 		{
@@ -271,29 +271,29 @@ return {
 		{
 			id = 39,
 			prop_type = "prop_fclb_gong",
-			start_time = 1613433600,
-			recycle_time = 1614009599,
+			start_time = 1611014400,
+			recycle_time = 1611590399,
 		},
 		[40]=
 		{
 			id = 40,
 			prop_type = "prop_fclb_xi",
-			start_time = 1613433600,
-			recycle_time = 1614009599,
+			start_time = 1611014400,
+			recycle_time = 1611590399,
 		},
 		[41]=
 		{
 			id = 41,
 			prop_type = "prop_fclb_fa",
-			start_time = 1613433600,
-			recycle_time = 1614009599,
+			start_time = 1611014400,
+			recycle_time = 1611590399,
 		},
 		[42]=
 		{
 			id = 42,
 			prop_type = "prop_fclb_cai",
-			start_time = 1613433600,
-			recycle_time = 1614009599,
+			start_time = 1611014400,
+			recycle_time = 1611590399,
 		},
 		[43]=
 		{
@@ -348,8 +348,8 @@ return {
 		{
 			id = 50,
 			prop_type = "prop_fish_drop_act_1",
-			start_time = 1613433600,
-			recycle_time = 1614009599,
+			start_time = 1612828800,
+			recycle_time = 1613404799,
 		},
 		[51]=
 		{
@@ -357,6 +357,27 @@ return {
 			prop_type = "prop_fish_drop_act_2",
 			start_time = 1614038400,
 			recycle_time = 1614614399,
+		},
+		[52]=
+		{
+			id = 52,
+			prop_type = "prop_ty_csbox",
+			start_time = 1614643200,
+			recycle_time = 1615219199,
+		},
+		[53]=
+		{
+			id = 53,
+			prop_type = "prop_ty_ssbox",
+			start_time = 1614643200,
+			recycle_time = 1615219199,
+		},
+		[54]=
+		{
+			id = 54,
+			prop_type = "prop_ty_xybox",
+			start_time = 1614643200,
+			recycle_time = 1615219199,
 		},
 	},
 	player_ext_status=

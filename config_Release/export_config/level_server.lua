@@ -5,7 +5,7 @@ return {
 		{
 			id = 1,
 			level = 1,
-			score = 75000,
+			score = 15000,
 		},
 		[2]=
 		{
@@ -739,8 +739,8 @@ return {
 			level = 2,
 			game_id = 2,
 			gun_index = 6,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {1000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {1,1000,1,},
 			unlock_gun = 600,
 		},
 		[2]=
@@ -749,8 +749,8 @@ return {
 			level = 3,
 			game_id = 2,
 			gun_index = 7,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {1100,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {1,1100,1,},
 			unlock_gun = 700,
 		},
 		[3]=
@@ -759,8 +759,8 @@ return {
 			level = 4,
 			game_id = 2,
 			gun_index = 8,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {1200,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {1,1200,1,},
 			unlock_gun = 800,
 		},
 		[4]=
@@ -769,8 +769,8 @@ return {
 			level = 5,
 			game_id = 2,
 			gun_index = 9,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {1300,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {1,1300,1,},
 			unlock_gun = 900,
 		},
 		[5]=
@@ -779,16 +779,16 @@ return {
 			level = 6,
 			game_id = 2,
 			gun_index = 10,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {1400,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {1,1400,1,},
 			unlock_gun = 1000,
 		},
 		[6]=
 		{
 			no = 6,
 			level = 7,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {1500,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {1,1500,1,},
 		},
 		[7]=
 		{
@@ -796,8 +796,8 @@ return {
 			level = 8,
 			game_id = 3,
 			gun_index = 2,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {1600,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {1,1600,1,},
 			unlock_gun = 2000,
 		},
 		[8]=
@@ -806,8 +806,8 @@ return {
 			level = 9,
 			game_id = 3,
 			gun_index = 3,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {1700,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {1,1700,1,},
 			unlock_gun = 3000,
 		},
 		[9]=
@@ -816,8 +816,8 @@ return {
 			level = 10,
 			game_id = 3,
 			gun_index = 4,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {1800,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {1,1800,1,},
 			unlock_gun = 4000,
 		},
 		[10]=
@@ -826,8 +826,8 @@ return {
 			level = 11,
 			game_id = 3,
 			gun_index = 5,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {1900,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {1,1900,1,},
 			unlock_gun = 5000,
 		},
 		[11]=
@@ -836,8 +836,8 @@ return {
 			level = 12,
 			game_id = 3,
 			gun_index = 6,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {2000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {2,1000,1,},
 			unlock_gun = 6000,
 		},
 		[12]=
@@ -846,8 +846,8 @@ return {
 			level = 13,
 			game_id = 3,
 			gun_index = 7,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {2100,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {2,1100,1,},
 			unlock_gun = 7000,
 		},
 		[13]=
@@ -856,8 +856,8 @@ return {
 			level = 14,
 			game_id = 3,
 			gun_index = 8,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {2200,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {2,1200,1,},
 			unlock_gun = 8000,
 		},
 		[14]=
@@ -866,8 +866,8 @@ return {
 			level = 15,
 			game_id = 3,
 			gun_index = 9,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {2300,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {2,1300,1,},
 			unlock_gun = 9000,
 		},
 		[15]=
@@ -876,72 +876,72 @@ return {
 			level = 16,
 			game_id = 3,
 			gun_index = 10,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {2400,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {2,1400,1,},
 			unlock_gun = 10000,
 		},
 		[16]=
 		{
 			no = 16,
 			level = 17,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {2500,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {2,1500,1,},
 		},
 		[17]=
 		{
 			no = 17,
 			level = 18,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {2600,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {2,1600,1,},
 		},
 		[18]=
 		{
 			no = 18,
 			level = 19,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {2700,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {2,1700,1,},
 		},
 		[19]=
 		{
 			no = 19,
 			level = 20,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {2800,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {2,1800,1,},
 		},
 		[20]=
 		{
 			no = 20,
 			level = 21,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {2900,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {2,1900,1,},
 		},
 		[21]=
 		{
 			no = 21,
 			level = 22,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {3000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {3,1000,1,},
 		},
 		[22]=
 		{
 			no = 22,
 			level = 23,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {3100,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {3,1100,1,},
 		},
 		[23]=
 		{
 			no = 23,
 			level = 24,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {3200,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {3,1200,1,},
 		},
 		[24]=
 		{
 			no = 24,
 			level = 25,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {3300,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {3,1300,1,},
 			tips = "25级领炮台",
 			gunlv_tips = "25级解锁",
 			gun_img = "3dby_icon_djpt1",
@@ -951,36 +951,36 @@ return {
 		{
 			no = 25,
 			level = 26,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {3400,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {3,1400,1,},
 		},
 		[26]=
 		{
 			no = 26,
 			level = 27,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {3500,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {3,1500,1,},
 		},
 		[27]=
 		{
 			no = 27,
 			level = 28,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {3600,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {3,1600,1,},
 		},
 		[28]=
 		{
 			no = 28,
 			level = 29,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {3700,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {3,1700,1,},
 		},
 		[29]=
 		{
 			no = 29,
 			level = 30,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {3800,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {3,1800,1,},
 			tips = "30级领头像框",
 			gunlv_tips = "30级解锁",
 			gun_img = "dt_tx_mx1",
@@ -990,71 +990,71 @@ return {
 		{
 			no = 30,
 			level = 31,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {3900,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {3,1900,1,},
 		},
 		[31]=
 		{
 			no = 31,
 			level = 32,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {4000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {4,1000,1,},
 		},
 		[32]=
 		{
 			no = 32,
 			level = 33,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {4100,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {4,1100,1,},
 		},
 		[33]=
 		{
 			no = 33,
 			level = 34,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {4200,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {4,1200,1,},
 		},
 		[34]=
 		{
 			no = 34,
 			level = 35,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {4300,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {4,1300,1,},
 		},
 		[35]=
 		{
 			no = 35,
 			level = 36,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {4400,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {4,1400,1,},
 		},
 		[36]=
 		{
 			no = 36,
 			level = 37,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {4500,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {4,1500,1,},
 		},
 		[37]=
 		{
 			no = 37,
 			level = 38,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {4600,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {4,1600,1,},
 		},
 		[38]=
 		{
 			no = 38,
 			level = 39,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {4700,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {4,1700,1,},
 		},
 		[39]=
 		{
 			no = 39,
 			level = 40,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {4800,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {4,1800,1,},
 			tips = "40级领炮台",
 			gunlv_tips = "40级解锁",
 			gun_img = "3dby_icon_djpt2",
@@ -1064,71 +1064,71 @@ return {
 		{
 			no = 40,
 			level = 41,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {4900,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {4,1900,1,},
 		},
 		[41]=
 		{
 			no = 41,
 			level = 42,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {5000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5,1000,1,},
 		},
 		[42]=
 		{
 			no = 42,
 			level = 43,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {5100,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5,1100,1,},
 		},
 		[43]=
 		{
 			no = 43,
 			level = 44,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {5200,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5,1200,1,},
 		},
 		[44]=
 		{
 			no = 44,
 			level = 45,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {5300,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5,1300,1,},
 		},
 		[45]=
 		{
 			no = 45,
 			level = 46,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {5400,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5,1400,1,},
 		},
 		[46]=
 		{
 			no = 46,
 			level = 47,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {5500,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5,1500,1,},
 		},
 		[47]=
 		{
 			no = 47,
 			level = 48,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {5600,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5,1600,1,},
 		},
 		[48]=
 		{
 			no = 48,
 			level = 49,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {5700,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5,1700,1,},
 		},
 		[49]=
 		{
 			no = 49,
 			level = 50,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {5800,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5,1800,1,},
 			tips = "50级领头像框",
 			gunlv_tips = "50级解锁",
 			gun_img = "dt_tx_mx2",
@@ -1138,71 +1138,71 @@ return {
 		{
 			no = 50,
 			level = 51,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {5900,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {5,1900,1,},
 		},
 		[51]=
 		{
 			no = 51,
 			level = 52,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {6000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6,1000,1,},
 		},
 		[52]=
 		{
 			no = 52,
 			level = 53,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {6100,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6,1100,1,},
 		},
 		[53]=
 		{
 			no = 53,
 			level = 54,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {6200,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6,1200,1,},
 		},
 		[54]=
 		{
 			no = 54,
 			level = 55,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {6300,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6,1300,1,},
 		},
 		[55]=
 		{
 			no = 55,
 			level = 56,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {6400,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6,1400,1,},
 		},
 		[56]=
 		{
 			no = 56,
 			level = 57,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {6500,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6,1500,1,},
 		},
 		[57]=
 		{
 			no = 57,
 			level = 58,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {6600,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6,1600,1,},
 		},
 		[58]=
 		{
 			no = 58,
 			level = 59,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {6700,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6,1700,1,},
 		},
 		[59]=
 		{
 			no = 59,
 			level = 60,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {6800,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6,1800,1,},
 			tips = "60级领炮台",
 			gunlv_tips = "60级解锁",
 			gun_img = "3dby_icon_djpt3",
@@ -1212,71 +1212,71 @@ return {
 		{
 			no = 60,
 			level = 61,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {6900,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {6,1900,1,},
 		},
 		[61]=
 		{
 			no = 61,
 			level = 62,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {7000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {7,1000,1,},
 		},
 		[62]=
 		{
 			no = 62,
 			level = 63,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {7100,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {7,1100,1,},
 		},
 		[63]=
 		{
 			no = 63,
 			level = 64,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {7200,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {7,1200,1,},
 		},
 		[64]=
 		{
 			no = 64,
 			level = 65,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {7300,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {7,1300,1,},
 		},
 		[65]=
 		{
 			no = 65,
 			level = 66,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {7400,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {7,1400,1,},
 		},
 		[66]=
 		{
 			no = 66,
 			level = 67,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {7500,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {7,1500,1,},
 		},
 		[67]=
 		{
 			no = 67,
 			level = 68,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {7600,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {7,1600,1,},
 		},
 		[68]=
 		{
 			no = 68,
 			level = 69,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {7700,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {7,1700,1,},
 		},
 		[69]=
 		{
 			no = 69,
 			level = 70,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {7800,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {7,1800,1,},
 			tips = "70级领头像框",
 			gunlv_tips = "70级解锁",
 			gun_img = "dt_tx_mx3",
@@ -1286,71 +1286,71 @@ return {
 		{
 			no = 70,
 			level = 71,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {7900,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {7,1900,1,},
 		},
 		[71]=
 		{
 			no = 71,
 			level = 72,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {8000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {8,1000,1,},
 		},
 		[72]=
 		{
 			no = 72,
 			level = 73,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {8100,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {8,1100,1,},
 		},
 		[73]=
 		{
 			no = 73,
 			level = 74,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {8200,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {8,1200,1,},
 		},
 		[74]=
 		{
 			no = 74,
 			level = 75,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {8300,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {8,1300,1,},
 		},
 		[75]=
 		{
 			no = 75,
 			level = 76,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {8400,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {8,1400,1,},
 		},
 		[76]=
 		{
 			no = 76,
 			level = 77,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {8500,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {8,1500,1,},
 		},
 		[77]=
 		{
 			no = 77,
 			level = 78,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {8600,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {8,1600,1,},
 		},
 		[78]=
 		{
 			no = 78,
 			level = 79,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {8700,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {8,1700,1,},
 		},
 		[79]=
 		{
 			no = 79,
 			level = 80,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {8800,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {8,1800,1,},
 			tips = "80级领炮台",
 			gunlv_tips = "80级解锁",
 			gun_img = "3dby_icon_djpt4",
@@ -1360,71 +1360,71 @@ return {
 		{
 			no = 80,
 			level = 81,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {8900,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {8,1900,1,},
 		},
 		[81]=
 		{
 			no = 81,
 			level = 82,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {9000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {9,1000,1,},
 		},
 		[82]=
 		{
 			no = 82,
 			level = 83,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {9,1100,1,},
 		},
 		[83]=
 		{
 			no = 83,
 			level = 84,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {9,1200,1,},
 		},
 		[84]=
 		{
 			no = 84,
 			level = 85,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {9,1300,1,},
 		},
 		[85]=
 		{
 			no = 85,
 			level = 86,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {9,1400,1,},
 		},
 		[86]=
 		{
 			no = 86,
 			level = 87,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {9,1500,1,},
 		},
 		[87]=
 		{
 			no = 87,
 			level = 88,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {9,1600,1,},
 		},
 		[88]=
 		{
 			no = 88,
 			level = 89,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {9,1700,1,},
 		},
 		[89]=
 		{
 			no = 89,
 			level = 90,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {9,1800,1,},
 			tips = "90级领头像框",
 			gunlv_tips = "90级解锁",
 			gun_img = "dt_tx_mx4",
@@ -1434,71 +1434,71 @@ return {
 		{
 			no = 90,
 			level = 91,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {9,1900,1,},
 		},
 		[91]=
 		{
 			no = 91,
 			level = 92,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {10,1000,1,},
 		},
 		[92]=
 		{
 			no = 92,
 			level = 93,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {10,1100,1,},
 		},
 		[93]=
 		{
 			no = 93,
 			level = 94,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {10,1200,1,},
 		},
 		[94]=
 		{
 			no = 94,
 			level = 95,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {10,1300,1,},
 		},
 		[95]=
 		{
 			no = 95,
 			level = 96,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {10,1400,1,},
 		},
 		[96]=
 		{
 			no = 96,
 			level = 97,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {10,1500,1,},
 		},
 		[97]=
 		{
 			no = 97,
 			level = 98,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {10,1600,1,},
 		},
 		[98]=
 		{
 			no = 98,
 			level = 99,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {10,1700,1,},
 		},
 		[99]=
 		{
 			no = 99,
 			level = 100,
-			unlock_award_types = {"fish_coin","prop_3d_fish_lock"},
-			unlock_award_nums = {10000,1,},
+			unlock_award_types = {"shop_gold_sum","fish_coin","prop_3d_fish_lock"},
+			unlock_award_nums = {10,1800,1,},
 			tips = "100级领炮台",
 			gunlv_tips = "100级解锁",
 			gun_img = "3dby_icon_djpt5",

@@ -727,5 +727,19 @@ return {
 			prefab = "Fish3D089",
 			tips = "背负话费的特殊鱼类，击杀后有概率获得话费碎片",
 		},
+		[52]=
+		{
+			line = 52,
+			order = 52,
+			tag = 3,
+			icon = "by_iocn_hby",
+			name = "红包鱼",
+			game_id = {2,3,4,5,},
+			scale = 4,
+			rotation = {0,0,0},
+			rate = "100-300倍",
+			prefab = "Fish3DHB",
+			tips = "每5分钟出现一次，击杀后有极大概率直接获得福利券！",
+		},
 	},
 }

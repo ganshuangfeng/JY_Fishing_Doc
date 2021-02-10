@@ -258,42 +258,42 @@ return {
 		{
 			rights_id = 1,
 			add_value1 = 0,
-			add_value2 = 2,
+			add_value2 = 0,
 			add_value3 = 0,
 		},
 		[2]=
 		{
 			rights_id = 2,
 			add_value1 = 0,
-			add_value2 = 5,
+			add_value2 = 1,
 			add_value3 = 0,
 		},
 		[3]=
 		{
 			rights_id = 3,
 			add_value1 = 0,
-			add_value2 = 10,
+			add_value2 = 3,
 			add_value3 = 0,
 		},
 		[4]=
 		{
 			rights_id = 4,
 			add_value1 = 0,
-			add_value2 = 20,
+			add_value2 = 5,
 			add_value3 = 0,
 		},
 		[5]=
 		{
 			rights_id = 5,
 			add_value1 = 0,
-			add_value2 = 30,
+			add_value2 = 10,
 			add_value3 = 0,
 		},
 		[6]=
 		{
 			rights_id = 6,
 			add_value1 = 0,
-			add_value2 = 50,
+			add_value2 = 30,
 			add_value3 = 0,
 		},
 		[7]=

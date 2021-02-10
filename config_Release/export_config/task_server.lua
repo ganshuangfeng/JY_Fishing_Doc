@@ -1288,6 +1288,8 @@ return {
 			start_valid_time = 1603641600,
 			end_valid_time = 32503651200,
 			time_limit = -1,
+			is_send_client = 1,
+			award_change_type = "task_ocean_explore_week_children_task",
 		},
 		[94]=
 		{
@@ -4396,109 +4398,157 @@ return {
 		{
 			id = 115,
 			award_id = 110,
-			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
-			asset_count = 1,
+			asset_type = "shop_gold_sum",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[116]=
 		{
 			id = 116,
-			award_id = 111,
-			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
+			award_id = 110,
+			asset_type = "task_1000321",
 			asset_count = 1,
 			get_weight = 1,
 		},
 		[117]=
 		{
 			id = 117,
-			award_id = 112,
-			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
-			asset_count = 1,
+			award_id = 111,
+			asset_type = "shop_gold_sum",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[118]=
 		{
 			id = 118,
-			award_id = 113,
-			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
+			award_id = 111,
+			asset_type = "task_1000321",
 			asset_count = 1,
 			get_weight = 1,
 		},
 		[119]=
 		{
 			id = 119,
-			award_id = 114,
-			asset_type = "prop_3d_fish_nuclear_bomb_fragment_1",
-			asset_count = 1,
+			award_id = 112,
+			asset_type = "shop_gold_sum",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[120]=
 		{
 			id = 120,
-			award_id = 115,
-			asset_type = "prop_3d_fish_nuclear_bomb_fragment_2",
+			award_id = 112,
+			asset_type = "task_1000321",
 			asset_count = 1,
 			get_weight = 1,
 		},
 		[121]=
 		{
 			id = 121,
-			award_id = 116,
-			asset_type = "prop_fishbowl_stars",
-			asset_count = 50000,
+			award_id = 113,
+			asset_type = "shop_gold_sum",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[122]=
 		{
 			id = 122,
-			award_id = 116,
-			asset_type = "prop_fishbowl_feed",
-			asset_count = 100,
+			award_id = 113,
+			asset_type = "task_1000321",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[123]=
 		{
 			id = 123,
-			award_id = 117,
-			asset_type = "prop_fishbowl_coin1",
-			asset_count = 5,
+			award_id = 114,
+			asset_type = "shop_gold_sum",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[124]=
 		{
 			id = 124,
-			award_id = 117,
-			asset_type = "prop_fishbowl_feed",
-			asset_count = 200,
+			award_id = 114,
+			asset_type = "task_1000321",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[125]=
 		{
 			id = 125,
-			award_id = 118,
-			asset_type = "prop_fishbowl_coin1",
-			asset_count = 10,
+			award_id = 115,
+			asset_type = "shop_gold_sum",
+			asset_count = 50,
 			get_weight = 1,
 		},
 		[126]=
 		{
 			id = 126,
-			award_id = 118,
-			asset_type = "prop_fishbowl_stars",
-			asset_count = 100000,
+			award_id = 115,
+			asset_type = "task_1000321",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[127]=
 		{
 			id = 127,
-			award_id = 119,
-			asset_type = "prop_fishbowl_coin1",
-			asset_count = 20,
+			award_id = 116,
+			asset_type = "prop_fishbowl_stars",
+			asset_count = 50000,
 			get_weight = 1,
 		},
 		[128]=
 		{
 			id = 128,
+			award_id = 116,
+			asset_type = "prop_fishbowl_feed",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[129]=
+		{
+			id = 129,
+			award_id = 117,
+			asset_type = "prop_fishbowl_coin1",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[130]=
+		{
+			id = 130,
+			award_id = 117,
+			asset_type = "prop_fishbowl_feed",
+			asset_count = 200,
+			get_weight = 1,
+		},
+		[131]=
+		{
+			id = 131,
+			award_id = 118,
+			asset_type = "prop_fishbowl_coin1",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[132]=
+		{
+			id = 132,
+			award_id = 118,
+			asset_type = "prop_fishbowl_stars",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[133]=
+		{
+			id = 133,
+			award_id = 119,
+			asset_type = "prop_fishbowl_coin1",
+			asset_count = 20,
+			get_weight = 1,
+		},
+		[134]=
+		{
+			id = 134,
 			award_id = 119,
 			asset_type = "prop_fishbowl_stars",
 			asset_count = 500000,

@@ -289,61 +289,61 @@ return {
 		zajindan_cs_bet_1=
 		{
 			key = "zajindan_cs_bet_1",
-			name = "财神模式下注2000鲸币",
+			name = "财神模式下注10000鲸币",
 			condi = 22,
 		},
 		zajindan_cs_bet_2=
 		{
 			key = "zajindan_cs_bet_2",
-			name = "财神模式下注5000鲸币",
+			name = "财神模式下注20万鲸币",
 			condi = 22,
 		},
 		zajindan_cs_bet_3=
 		{
 			key = "zajindan_cs_bet_3",
-			name = "财神模式下注1.5万鲸币",
+			name = "财神模式下注100万鲸币",
 			condi = 22,
 		},
 		zajindan_cs_bet_4=
 		{
 			key = "zajindan_cs_bet_4",
-			name = "财神模式下注3万鲸币",
-			condi = 22,
+			name = "财神模式下注500万鲸币",
+			condi = 24,
 		},
 		zajindan_cs_bet_5=
 		{
 			key = "zajindan_cs_bet_5",
-			name = "财神模式下注6万鲸币",
+			name = "暂时不用",
 			condi = 22,
 		},
 		zajindan_cs_bet_6=
 		{
 			key = "zajindan_cs_bet_6",
-			name = "财神模式下注12万鲸币",
+			name = "暂时不用",
 			condi = 22,
 		},
 		zajindan_cs_bet_7=
 		{
 			key = "zajindan_cs_bet_7",
-			name = "财神模式下注24万鲸币",
+			name = "暂时不用",
 			condi = 22,
 		},
 		zajindan_cs_bet_8=
 		{
 			key = "zajindan_cs_bet_8",
-			name = "财神模式下注48万鲸币",
+			name = "暂时不用",
 			condi = 23,
 		},
 		zajindan_cs_bet_9=
 		{
 			key = "zajindan_cs_bet_9",
-			name = "财神模式下注96万鲸币",
+			name = "暂时不用",
 			condi = 24,
 		},
 		zajindan_cs_bet_10=
 		{
 			key = "zajindan_cs_bet_10",
-			name = "财神模式下注192万鲸币",
+			name = "暂时不用",
 			condi = 25,
 		},
 		xxl_bet_1=
@@ -2138,11 +2138,34 @@ return {
 			name = "救济金月卡跳转",
 			condi = 386,
 		},
-		cpl_notcjj_notcps=
+		xyxtg_bet_limit_1=
 		{
-			key = "cpl_notcjj_notcps",
-			name = "非冲金鸡与cps",
-			condi = 396,
+			key = "xyxtg_bet_limit_1",
+			name = "小游戏托管-10次",
+		},
+		xyxtg_bet_limit_2=
+		{
+			key = "xyxtg_bet_limit_2",
+			name = "小游戏托管-20次",
+			condi = 22,
+		},
+		xyxtg_bet_limit_3=
+		{
+			key = "xyxtg_bet_limit_3",
+			name = "小游戏托管-30次",
+			condi = 23,
+		},
+		xyxtg_bet_limit_4=
+		{
+			key = "xyxtg_bet_limit_4",
+			name = "小游戏托管-50次",
+			condi = 24,
+		},
+		xyxtg_bet_limit_5=
+		{
+			key = "xyxtg_bet_limit_5",
+			name = "小游戏托管-100次",
+			condi = 26,
 		},
 	},
 	act_permission=
@@ -6340,7 +6363,7 @@ return {
 			id = 350,
 			enable = 1,
 			key = "actp_own_task_p_hljnh_046_hlfl_nor",
-			name = "欢乐福利（欢乐捕鱼）",
+			name = "欢乐福利（欢乐捕鱼）--非cps",
 			condi = 372,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -6381,7 +6404,7 @@ return {
 			is_dynamic_codi = 0,
 			is_dynamic_cancel = 0,
 			refresh_type = "day_delay",
-			start_deal_time = 1613433600,
+			start_deal_time = 1611014400,
 		},
 		[354]=
 		{
@@ -6393,7 +6416,7 @@ return {
 			is_dynamic_codi = 0,
 			is_dynamic_cancel = 0,
 			refresh_type = "day_delay",
-			start_deal_time = 1613433600,
+			start_deal_time = 1611014400,
 		},
 		[355]=
 		{
@@ -6405,7 +6428,7 @@ return {
 			is_dynamic_codi = 0,
 			is_dynamic_cancel = 0,
 			refresh_type = "day_delay",
-			start_deal_time = 1613433600,
+			start_deal_time = 1611014400,
 		},
 		[356]=
 		{
@@ -6509,7 +6532,7 @@ return {
 			enable = 1,
 			key = "actp_show_gift_bag_xyfl",
 			name = "全cpl",
-			condi = 395,
+			condi = 396,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
@@ -16133,80 +16156,30 @@ return {
 			no = 962,
 			id = 395,
 			var = "share_condition",
-			value = "3dby_cpl",
+			value = "cjj_all",
 			judge = 2,
 			group = 1,
-			error_desc = "3d捕鱼cpl",
+			error_desc = "是cjj",
 		},
 		[963]=
 		{
 			no = 963,
-			id = 395,
+			id = 396,
 			var = "share_condition",
-			value = "cjj_cpl",
+			value = "3dby_cpl",
 			judge = 2,
-			group = 2,
-			error_desc = "冲金鸡cpl",
+			group = 1,
+			error_desc = "3d捕鱼cpl",
 		},
 		[964]=
 		{
 			no = 964,
 			id = 396,
 			var = "share_condition",
-			value = "3dby_cpl",
-			judge = 2,
-			group = 1,
-			error_desc = "是CPl渠道",
-		},
-		[965]=
-		{
-			no = 965,
-			id = 396,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "是CPS渠道",
-		},
-		[966]=
-		{
-			no = 966,
-			id = 396,
-			var = "share_condition",
-			value = "cjj_all",
-			judge = 5,
-			group = 1,
-			error_desc = "不是cjj",
-		},
-		[967]=
-		{
-			no = 967,
-			id = 396,
-			var = "share_condition",
-			value = "3dby_official",
+			value = "cjj_cpl",
 			judge = 2,
 			group = 2,
-			error_desc = "是官方渠道",
-		},
-		[968]=
-		{
-			no = 968,
-			id = 396,
-			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 2,
-			error_desc = "是CPS渠道",
-		},
-		[969]=
-		{
-			no = 969,
-			id = 396,
-			var = "share_condition",
-			value = "cjj_all",
-			judge = 5,
-			group = 2,
-			error_desc = "不是cjj",
+			error_desc = "冲金鸡cpl",
 		},
 	},
 	share_condition=

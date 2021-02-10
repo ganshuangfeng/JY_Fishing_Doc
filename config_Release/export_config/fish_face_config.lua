@@ -196,7 +196,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "年兽祈福，财运亨通",
+			decs = "招财进宝，八方来财!",
 		},
 		[19]=
 		{
@@ -207,7 +207,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "爆竹换礼，招财进宝",
+			decs = "打倒我有丰厚奖励哦!",
 		},
 		[20]=
 		{
@@ -218,7 +218,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "金玉满堂，八方来财",
+			decs = "财源滚滚，大吉大利!",
 		},
 	},
 }
