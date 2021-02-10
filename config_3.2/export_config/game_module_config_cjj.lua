@@ -2665,9 +2665,9 @@ return {
 			key = "cpl_ljyjcfk",
 			desc = "小游戏累计赢金抽福卡",
 			lua = "CPL_LJYJCFKManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[273]=
 		{
