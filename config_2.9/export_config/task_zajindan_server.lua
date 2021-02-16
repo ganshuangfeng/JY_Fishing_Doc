@@ -10310,6 +10310,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000320]=
+		{
+			id = 1000320,
+			enable = 1,
+			name = "财神送礼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21678,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1613404800,
+			end_valid_time = 1614009599,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -17258,6 +17273,15 @@ return {
 			awards = 1050,
 			get_award_type = "random",
 		},
+		[730]=
+		{
+			id = 730,
+			process_id = 21678,
+			source_id = 591,
+			process = {10,40,50,100,300},
+			awards = {1051,1052,1053,1054,1055},
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -23960,6 +23984,13 @@ return {
 			source_type = "question_answer_right",
 			condition_id = 429,
 		},
+		[951]=
+		{
+			id = 951,
+			source_id = 591,
+			source_type = "box_exchange",
+			condition_id = 430,
+		},
 	},
 	condition=
 	{
@@ -28433,6 +28464,14 @@ return {
 			condition_id = 429,
 			condition_name = "box_exchange_type",
 			condition_value = "answer_2021_2_23",
+			judge_type = 2,
+		},
+		[590]=
+		{
+			id = 590,
+			condition_id = 430,
+			condition_name = "box_exchange_type",
+			condition_value = {"box_exchange_77","box_exchange_78",},
 			judge_type = 2,
 		},
 	},
@@ -41240,6 +41279,46 @@ return {
 			award_id = 1050,
 			asset_type = "jing_bi",
 			asset_count = {60000,69999},
+			get_weight = 1,
+		},
+		[1601]=
+		{
+			id = 1601,
+			award_id = 1051,
+			asset_type = "jing_bi",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[1602]=
+		{
+			id = 1602,
+			award_id = 1052,
+			asset_type = "jing_bi",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[1603]=
+		{
+			id = 1603,
+			award_id = 1053,
+			asset_type = "jing_bi",
+			asset_count = 200000,
+			get_weight = 1,
+		},
+		[1604]=
+		{
+			id = 1604,
+			award_id = 1054,
+			asset_type = "jing_bi",
+			asset_count = 500000,
+			get_weight = 1,
+		},
+		[1605]=
+		{
+			id = 1605,
+			award_id = 1055,
+			asset_type = "shop_gold_sum",
+			asset_count = 8000,
 			get_weight = 1,
 		},
 	},
