@@ -831,7 +831,7 @@ return {
 		{
 			id = 77,
 			name = "财神送礼",
-			start_time = 1613433600,
+			start_time = 1613404800,
 			end_time = 1614009599,
 			use_asset_id = 70,
 			award_id = 77,
@@ -841,7 +841,7 @@ return {
 		{
 			id = 78,
 			name = "财神送礼",
-			start_time = 1613433600,
+			start_time = 1613404800,
 			end_time = 1614009599,
 			use_asset_id = 71,
 			award_id = 77,

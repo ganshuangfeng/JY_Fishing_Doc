@@ -37,7 +37,7 @@ return {
 			is_reset_answer_num = 0,
 			reset_delay = 1,
 			add_answer_id = 1,
-			start_time = 1614038400,
+			start_time = 1614009600,
 			end_time = 1614614399,
 		},
 	},

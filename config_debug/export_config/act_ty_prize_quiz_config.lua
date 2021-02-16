@@ -5,7 +5,7 @@ return {
 		{
 			line = 1,
 			condi_key = "cpl_notcjj",
-			beginTime = 1614038400,
+			beginTime = 1614009600,
 			endTime = 1614614399,
 			act_type = "answer_2021_2_23",
 			topic = {1,2,3,4,5,6,7,8,9,10,11,12,13},
@@ -15,7 +15,7 @@ return {
 		{
 			line = 2,
 			condi_key = "cpl_cjj",
-			beginTime = 1614038400,
+			beginTime = 1614009600,
 			endTime = 1614614399,
 			act_type = "answer_2021_2_23",
 			topic = {1,2,3,4,5,6,7,8,9,10,11,12,13},
