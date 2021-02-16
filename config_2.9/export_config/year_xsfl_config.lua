@@ -17,7 +17,7 @@ return {
 		{
 			id = 3,
 			starttime = 64800,
-			endtime = 64800,
+			endtime = 79200,
 		},
 		[4]=
 		{
