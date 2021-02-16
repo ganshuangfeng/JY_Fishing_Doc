@@ -271,28 +271,28 @@ return {
 		{
 			id = 39,
 			prop_type = "prop_fclb_gong",
-			start_time = 1613404800,
+			start_time = 1613433600,
 			recycle_time = 1614009599,
 		},
 		[40]=
 		{
 			id = 40,
 			prop_type = "prop_fclb_xi",
-			start_time = 1613404800,
+			start_time = 1613433600,
 			recycle_time = 1614009599,
 		},
 		[41]=
 		{
 			id = 41,
 			prop_type = "prop_fclb_fa",
-			start_time = 1613404800,
+			start_time = 1613433600,
 			recycle_time = 1614009599,
 		},
 		[42]=
 		{
 			id = 42,
 			prop_type = "prop_fclb_cai",
-			start_time = 1613404800,
+			start_time = 1613433600,
 			recycle_time = 1614009599,
 		},
 		[43]=
@@ -348,14 +348,14 @@ return {
 		{
 			id = 50,
 			prop_type = "prop_fish_drop_act_1",
-			start_time = 1613404800,
-			recycle_time = 1614009599,
+			start_time = 1612828800,
+			recycle_time = 1613404799,
 		},
 		[51]=
 		{
 			id = 51,
 			prop_type = "prop_fish_drop_act_2",
-			start_time = 1614009600,
+			start_time = 1614038400,
 			recycle_time = 1614614399,
 		},
 	},

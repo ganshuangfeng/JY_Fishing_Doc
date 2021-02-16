@@ -416,7 +416,7 @@ return {
 		{
 			id = 36,
 			name = "发财礼包--恭喜",
-			start_time = 1613404800,
+			start_time = 1613433600,
 			end_time = 1614009599,
 			use_goods = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai",},
 			goods_type = 1,
@@ -427,7 +427,7 @@ return {
 		{
 			id = 37,
 			name = "发财礼包--发财",
-			start_time = 1613404800,
+			start_time = 1613433600,
 			end_time = 1614009599,
 			use_goods = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai",},
 			goods_type = 1,
@@ -438,7 +438,7 @@ return {
 		{
 			id = 38,
 			name = "发财礼包--恭喜发财",
-			start_time = 1613404800,
+			start_time = 1613433600,
 			end_time = 1614009599,
 			use_goods = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai",},
 			goods_type = 1,
@@ -449,7 +449,7 @@ return {
 		{
 			id = 39,
 			name = "元宵福利",
-			start_time = 1614009600,
+			start_time = 1614038400,
 			end_time = 1614614399,
 			use_goods = {"prop_fish_drop_act_2",},
 			goods_type = 1,
@@ -461,7 +461,7 @@ return {
 		{
 			id = 40,
 			name = "元宵福利--cjj",
-			start_time = 1614009600,
+			start_time = 1614038400,
 			end_time = 1614614399,
 			use_goods = {"prop_fish_drop_act_2",},
 			goods_type = 1,

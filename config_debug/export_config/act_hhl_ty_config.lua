@@ -12,7 +12,7 @@ return {
 			item_key = "prop_fish_drop_act_2",
 			GotoUI = {"game_Fishing3DHall",},
 			help = "help_info",
-			beginTime = 1614009600,
+			beginTime = 1614038400,
 			endTime = 1614614399,
 		},
 		[2]=
@@ -26,7 +26,7 @@ return {
 			item_key = "prop_fish_drop_act_2",
 			GotoUI = {"game_MiniGame",},
 			help = "help_info_cjj",
-			beginTime = 1614009600,
+			beginTime = 1614038400,
 			endTime = 1614614399,
 		},
 	},

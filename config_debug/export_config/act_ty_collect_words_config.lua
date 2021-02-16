@@ -31,7 +31,7 @@ return {
 			item_key = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai"},
 			item_key_img = {"collect_words_1_1","collect_words_2_1","collect_words_3_1","collect_words_4_1"},
 			item_name = "字符",
-			sta_t = 1613404800,
+			sta_t = 1613433600,
 			end_t = 1614009599,
 			is_sort = 1,
 		},
