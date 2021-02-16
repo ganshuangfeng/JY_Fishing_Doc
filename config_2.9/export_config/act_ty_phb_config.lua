@@ -38,6 +38,18 @@ return {
 			award = {1,2,3,4,5,6,7},
 			path = "act_005_dlphb",
 		},
+		[4]=
+		{
+			line = 4,
+			is_on_off = 1,
+			ID = 4,
+			item_key = "prop_fish_drop_act_2",
+			rank_type = "nyx_006_yxbd_rank",
+			s_time = 1614038400,
+			e_time = 1614614399,
+			award = {1,2,3,4,5,6,7},
+			path = "act_006_dlphb",
+		},
 	},
 	award_config=
 	{

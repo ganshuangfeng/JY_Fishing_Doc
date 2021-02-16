@@ -447,6 +447,20 @@ return {
 			show_model = 32,
 			settle_model = 30,
 		},
+		[33]=
+		{
+			id = 33,
+			enable = 1,
+			rank_type = "nyx_006_yxbd_rank",
+			name = "元宵榜单",
+			begin_time = 1614038400,
+			end_time = 1614614399,
+			data_deal_type = "nor_add",
+			data_save_type = "single",
+			score_source = 33,
+			show_model = 33,
+			settle_model = 31,
+		},
 	},
 	score_source=
 	{
@@ -886,6 +900,20 @@ return {
 			source_type = "buyu_get_use_item",
 			condtion_id = 36,
 		},
+		[66]=
+		{
+			id = 66,
+			source_id = 33,
+			source_type = "buyu_3d_get_use_item",
+			condtion_id = 37,
+		},
+		[67]=
+		{
+			id = 67,
+			source_id = 33,
+			source_type = "buyu_get_use_item",
+			condtion_id = 37,
+		},
 	},
 	source_condition=
 	{
@@ -1313,6 +1341,22 @@ return {
 			condition_value = "prop_fish_drop_act_1",
 			judge_type = 2,
 		},
+		[54]=
+		{
+			id = 54,
+			condition_id = 37,
+			condition_name = "act_type",
+			condition_value = 9,
+			judge_type = 2,
+		},
+		[55]=
+		{
+			id = 55,
+			condition_id = 37,
+			condition_name = "asset_type",
+			condition_value = "prop_fish_drop_act_1",
+			judge_type = 2,
+		},
 	},
 	join_condition=
 	{
@@ -1663,6 +1707,16 @@ return {
 			show_refresh_delay = 180,
 			show_refresh_self_delay = 10,
 		},
+		[33]=
+		{
+			id = 33,
+			show_limit = 1,
+			max_show_num = 20,
+			max_rank_num = 100,
+			max_award_num = 20,
+			show_refresh_delay = 180,
+			show_refresh_self_delay = 10,
+		},
 	},
 	settle_model=
 	{
@@ -1875,6 +1929,13 @@ return {
 			is_clear = 1,
 			award_model = 30,
 		},
+		[31]=
+		{
+			id = 31,
+			settle_time_model = 35,
+			is_clear = 1,
+			award_model = 31,
+		},
 	},
 	settle_time_model=
 	{
@@ -2081,6 +2142,12 @@ return {
 			id = 34,
 			reset_type = "fix_time",
 			reset_value = 1614009599,
+		},
+		[35]=
+		{
+			id = 35,
+			reset_type = "fix_time",
+			reset_value = 1614614399,
 		},
 	},
 	award_model=
@@ -3928,6 +3995,69 @@ return {
 			start_rank = 16,
 			end_rank = 20,
 			award_id = 190,
+			award_type = "nor",
+		},
+		[206]=
+		{
+			id = 206,
+			model_id = 31,
+			start_rank = 1,
+			end_rank = 1,
+			award_id = 191,
+			award_type = "nor",
+		},
+		[207]=
+		{
+			id = 207,
+			model_id = 31,
+			start_rank = 2,
+			end_rank = 2,
+			award_id = 192,
+			award_type = "nor",
+		},
+		[208]=
+		{
+			id = 208,
+			model_id = 31,
+			start_rank = 3,
+			end_rank = 3,
+			award_id = 193,
+			award_type = "nor",
+		},
+		[209]=
+		{
+			id = 209,
+			model_id = 31,
+			start_rank = 4,
+			end_rank = 6,
+			award_id = 194,
+			award_type = "nor",
+		},
+		[210]=
+		{
+			id = 210,
+			model_id = 31,
+			start_rank = 7,
+			end_rank = 10,
+			award_id = 195,
+			award_type = "nor",
+		},
+		[211]=
+		{
+			id = 211,
+			model_id = 31,
+			start_rank = 11,
+			end_rank = 15,
+			award_id = 196,
+			award_type = "nor",
+		},
+		[212]=
+		{
+			id = 212,
+			model_id = 31,
+			start_rank = 16,
+			end_rank = 20,
+			award_id = 197,
 			award_type = "nor",
 		},
 	},
