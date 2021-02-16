@@ -320,28 +320,28 @@ return {
 		[2]=
 		{
 			no = 2,
-			choose_group = {161,162,163,161,162,163,170,171,172,170,171,172,},
+			choose_group = {161,162,163,161,162,163,170,171,172,170,171,172,179,180,181,179,180,181,},
 			create_pro = {30,40,30},
 			create_config = "create_weight1",
 		},
 		[3]=
 		{
 			no = 3,
-			choose_group = {164,165,173,174,},
+			choose_group = {164,165,173,174,182,183,185,176,167,},
 			create_pro = {30,40,30},
 			create_config = "create_weight2",
 		},
 		[4]=
 		{
 			no = 4,
-			choose_group = {166,167,168,175,176,176,},
+			choose_group = {166,167,168,175,176,176,184,185,185,},
 			create_pro = {20,60,5},
 			create_config = "create_weight3",
 		},
 		[5]=
 		{
 			no = 5,
-			choose_group = {168,169,176,178,},
+			choose_group = {168,169,176,178,186,187,},
 			create_pro = {10,10,5},
 			create_config = "create_weight4",
 		},

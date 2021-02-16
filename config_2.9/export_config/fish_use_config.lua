@@ -1048,5 +1048,50 @@ return {
 			id = 190,
 			fish_id = 35,
 		},
+		[191]=
+		{
+			id = 191,
+			fish_id = 6,
+			attr_id = 9,
+		},
+		[192]=
+		{
+			id = 192,
+			fish_id = 7,
+			attr_id = 9,
+		},
+		[193]=
+		{
+			id = 193,
+			fish_id = 8,
+			attr_id = 9,
+		},
+		[194]=
+		{
+			id = 194,
+			fish_id = 9,
+			attr_id = 9,
+		},
+		[195]=
+		{
+			id = 195,
+			fish_id = 10,
+			attr_id = 9,
+		},
+		[196]=
+		{
+			id = 196,
+			fish_id = 35,
+		},
+		[197]=
+		{
+			id = 197,
+			fish_id = 35,
+		},
+		[198]=
+		{
+			id = 198,
+			fish_id = 35,
+		},
 	},
 }
