@@ -4057,7 +4057,7 @@ return {
 		[151]=
 		{
 			id = 151,
-			base_id = 62,
+			base_id = 61,
 			act_id = 74,
 			life = 250,
 			shoot = 0.004000,
@@ -4073,7 +4073,7 @@ return {
 		[152]=
 		{
 			id = 152,
-			base_id = 62,
+			base_id = 61,
 			act_id = 75,
 			life = 350,
 			shoot = 0.002857,
@@ -4089,7 +4089,7 @@ return {
 		[153]=
 		{
 			id = 153,
-			base_id = 62,
+			base_id = 61,
 			act_id = 76,
 			life = 450,
 			shoot = 0.002222,
@@ -4201,7 +4201,7 @@ return {
 		[160]=
 		{
 			id = 160,
-			base_id = 62,
+			base_id = 61,
 			act_id = 78,
 			life = 250,
 			shoot = 0.004000,
@@ -4217,7 +4217,7 @@ return {
 		[161]=
 		{
 			id = 161,
-			base_id = 62,
+			base_id = 61,
 			act_id = 79,
 			life = 350,
 			shoot = 0.002857,
@@ -4233,7 +4233,7 @@ return {
 		[162]=
 		{
 			id = 162,
-			base_id = 62,
+			base_id = 61,
 			act_id = 80,
 			life = 450,
 			shoot = 0.002222,
@@ -5548,15 +5548,6 @@ return {
 		[61]=
 		{
 			id = 61,
-			type = 1,
-			life = 0,
-			shoot = 0,
-			rate = 0,
-			gd_award = 0,
-		},
-		[62]=
-		{
-			id = 62,
 			type = 1,
 			life = 0,
 			shoot = 0,
