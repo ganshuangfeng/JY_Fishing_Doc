@@ -584,11 +584,11 @@ return {
 		{
 			id = 59,
 			key = "sys_xsfl",
-			desc = "限时福利",
+			desc = "财神商铺",
 			lua = "SYSXSFLManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[60]=
 		{
