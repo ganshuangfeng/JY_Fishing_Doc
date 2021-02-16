@@ -3226,7 +3226,7 @@ return {
 		{
 			id = 330,
 			key = "act_ty_sjb_style/act_003_dlphb",
-			desc = "金元宝榜单",
+			desc = "集字榜单",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3235,7 +3235,7 @@ return {
 		{
 			id = 331,
 			key = "act_ty_sjb_style/act_004_dlphb",
-			desc = "元宵排行榜",
+			desc = "金元宝排行榜",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3243,6 +3243,15 @@ return {
 		[332]=
 		{
 			id = 332,
+			key = "act_ty_sjb_style/act_005_dlphb",
+			desc = "元宵排行榜",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[333]=
+		{
+			id = 333,
 			key = "act_ty_by_hhl_style/act_003_hhl",
 			desc = "元宵换好礼",
 			is_on_off = 1,

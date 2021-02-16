@@ -3258,7 +3258,7 @@ return {
 		{
 			id = 333,
 			key = "act_ty_sjb_style/act_003_dlphb",
-			desc = "金元宝榜单",
+			desc = "集字榜单",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3267,7 +3267,7 @@ return {
 		{
 			id = 334,
 			key = "act_ty_sjb_style/act_004_dlphb",
-			desc = "元宵排行榜",
+			desc = "金元宝排行榜",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3275,8 +3275,8 @@ return {
 		[335]=
 		{
 			id = 335,
-			key = "act_ty_by_hhl_style/act_003_hhl",
-			desc = "元宵换好礼",
+			key = "act_ty_sjb_style/act_005_dlphb",
+			desc = "元宵排行榜",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3284,6 +3284,15 @@ return {
 		[336]=
 		{
 			id = 336,
+			key = "act_ty_by_hhl_style/act_003_hhl",
+			desc = "元宵换好礼",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[337]=
+		{
+			id = 337,
 			key = "by_hbyts",
 			desc = "红包鱼提示",
 			lua = "BYHBYTSManager",
