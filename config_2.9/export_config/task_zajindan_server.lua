@@ -10295,6 +10295,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000319]=
+		{
+			id = 1000319,
+			enable = 1,
+			name = "有奖问答",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21677,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1614009600,
+			end_valid_time = 1614614399,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -17234,6 +17249,15 @@ return {
 			awards = 1048,
 			get_award_type = "nor",
 		},
+		[729]=
+		{
+			id = 729,
+			process_id = 21677,
+			source_id = 590,
+			process = 1,
+			awards = 1050,
+			get_award_type = "random",
+		},
 	},
 	source=
 	{
@@ -23929,6 +23953,13 @@ return {
 			source_type = "box_exchange",
 			condition_id = 428,
 		},
+		[950]=
+		{
+			id = 950,
+			source_id = 590,
+			source_type = "question_answer_right",
+			condition_id = 429,
+		},
 	},
 	condition=
 	{
@@ -28394,6 +28425,14 @@ return {
 			condition_id = 428,
 			condition_name = "box_exchange_type",
 			condition_value = {"box_exchange_74","box_exchange_75","box_exchange_76",},
+			judge_type = 2,
+		},
+		[589]=
+		{
+			id = 589,
+			condition_id = 429,
+			condition_name = "box_exchange_type",
+			condition_value = "answer_2021_2_23",
 			judge_type = 2,
 		},
 	},
@@ -41153,6 +41192,54 @@ return {
 			award_id = 1049,
 			asset_type = "jing_bi",
 			asset_count = 50000,
+			get_weight = 1,
+		},
+		[1595]=
+		{
+			id = 1595,
+			award_id = 1050,
+			asset_type = "jing_bi",
+			asset_count = {10000,19999},
+			get_weight = 1,
+		},
+		[1596]=
+		{
+			id = 1596,
+			award_id = 1050,
+			asset_type = "jing_bi",
+			asset_count = {20000,29999},
+			get_weight = 1,
+		},
+		[1597]=
+		{
+			id = 1597,
+			award_id = 1050,
+			asset_type = "jing_bi",
+			asset_count = {30000,39999},
+			get_weight = 1,
+		},
+		[1598]=
+		{
+			id = 1598,
+			award_id = 1050,
+			asset_type = "jing_bi",
+			asset_count = {40000,49999},
+			get_weight = 1,
+		},
+		[1599]=
+		{
+			id = 1599,
+			award_id = 1050,
+			asset_type = "jing_bi",
+			asset_count = {50000,59999},
+			get_weight = 1,
+		},
+		[1600]=
+		{
+			id = 1600,
+			award_id = 1050,
+			asset_type = "jing_bi",
+			asset_count = {60000,69999},
 			get_weight = 1,
 		},
 	},

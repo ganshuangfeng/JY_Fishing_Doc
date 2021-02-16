@@ -27,6 +27,19 @@ return {
 			start_time = 1612827000,
 			end_time = 1613404799,
 		},
+		answer_2021_2_23=
+		{
+			key = "answer_2021_2_23",
+			enable = 1,
+			init_answer_num = 1,
+			max_answer_num = 1,
+			max_add_num = 9999,
+			is_reset_answer_num = 0,
+			reset_delay = 1,
+			add_answer_id = 1,
+			start_time = 1614038400,
+			end_time = 1614614399,
+		},
 	},
 	add_answer=
 	{
