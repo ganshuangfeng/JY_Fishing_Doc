@@ -1338,14 +1338,14 @@ return {
 			id = 70,
 			use_id = 70,
 			use_item = "prop_fish_drop_act_1",
-			use_num = 1,
+			use_num = 50,
 		},
 		[71]=
 		{
 			id = 71,
 			use_id = 71,
 			use_item = "shop_gold_sum",
-			use_num = 1,
+			use_num = 50,
 		},
 	},
 	lottery_credit=
