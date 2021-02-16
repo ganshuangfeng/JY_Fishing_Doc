@@ -3068,7 +3068,7 @@ return {
 		[313]=
 		{
 			id = 313,
-			key = "act_ty_sjb_style/act_001_ygbd",
+			key = "act_ty_sjb_style/act_001_dlphb",
 			desc = "阳光榜单",
 			is_on_off = 1,
 			enable = 1,
@@ -3077,7 +3077,7 @@ return {
 		[314]=
 		{
 			id = 314,
-			key = "act_ty_sjb_style/act_002_bzphb",
+			key = "act_ty_sjb_style/act_002_dlphb",
 			desc = "爆竹排行榜",
 			is_on_off = 1,
 			enable = 1,
@@ -3087,6 +3087,7 @@ return {
 		{
 			id = 315,
 			key = "act_ty_by_drop_style/act_003_taiyang",
+			desc = "太阳掉落皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3095,6 +3096,7 @@ return {
 		{
 			id = 316,
 			key = "act_ty_by_drop_style/act_004_baozhu",
+			desc = "爆竹掉落皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3120,9 +3122,8 @@ return {
 		[319]=
 		{
 			id = 319,
-			key = "act_045_xxlbd",
-			desc = "过大年--消消乐争霸",
-			lua = "Act_045_XXLBDManger",
+			key = "sys_act_base_style",
+			desc = "活动皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3130,9 +3131,9 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "act_ty_universal_dh",
-			desc = "万能字",
-			lua = "Act_Ty_UNIVERSAL_DHManager",
+			key = "act_045_xxlbd",
+			desc = "过大年--消消乐争霸",
+			lua = "Act_045_XXLBDManger",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3140,8 +3141,9 @@ return {
 		[321]=
 		{
 			id = 321,
-			key = "act_ty_universal_dh_style/act_001_universal",
-			desc = "万能字资源皮肤",
+			key = "act_ty_universal_dh",
+			desc = "万能字",
+			lua = "Act_Ty_UNIVERSAL_DHManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3149,7 +3151,8 @@ return {
 		[322]=
 		{
 			id = 322,
-			key = "sys_act_base_style",
+			key = "act_ty_universal_dh_style/act_001_universal",
+			desc = "万能字资源皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3157,9 +3160,7 @@ return {
 		[323]=
 		{
 			id = 323,
-			key = "act_048_xnsmt",
-			desc = "新年送茅台",
-			lua = "Act_048_XNSMTManager",
+			key = "sys_act_base_style",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3167,8 +3168,9 @@ return {
 		[324]=
 		{
 			id = 324,
-			key = "act_ty_by_drop_style/act_005_fudai",
-			desc = "福袋boss皮肤",
+			key = "act_048_xnsmt",
+			desc = "新年送茅台",
+			lua = "Act_048_XNSMTManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3176,8 +3178,8 @@ return {
 		[325]=
 		{
 			id = 325,
-			key = "act_ty_by_drop_style/act_006_jinyuanbao",
-			desc = "金元宝boss皮肤",
+			key = "act_ty_by_drop_style/act_005_fudai",
+			desc = "福袋boss皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3185,6 +3187,15 @@ return {
 		[326]=
 		{
 			id = 326,
+			key = "act_ty_by_drop_style/act_006_jinyuanbao",
+			desc = "金元宝boss皮肤",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[327]=
+		{
+			id = 327,
 			key = "act_ty_by_drop_style/act_007_xiaotangyuan",
 			desc = "小汤圆boss皮肤",
 			is_on_off = 1,
