@@ -298,83 +298,62 @@ return {
 		[43]=
 		{
 			id = 43,
-			prop_type = "prop_fish_drop_act_0",
+			prop_type = "prop_gdn_x",
 			start_time = 1612828800,
 			recycle_time = 1613404799,
 		},
 		[44]=
 		{
 			id = 44,
-			prop_type = "prop_fish_drop_act_0",
+			prop_type = "prop_gdn_n",
 			start_time = 1612828800,
 			recycle_time = 1613404799,
 		},
 		[45]=
 		{
 			id = 45,
-			prop_type = "prop_fish_drop_act_0",
+			prop_type = "prop_gdn_k",
 			start_time = 1612828800,
 			recycle_time = 1613404799,
 		},
 		[46]=
 		{
 			id = 46,
-			prop_type = "prop_gdn_x",
+			prop_type = "prop_gdn_l",
 			start_time = 1612828800,
 			recycle_time = 1613404799,
 		},
 		[47]=
 		{
 			id = 47,
-			prop_type = "prop_gdn_n",
+			prop_type = "prop_gdn_wn",
 			start_time = 1612828800,
 			recycle_time = 1613404799,
 		},
 		[48]=
 		{
 			id = 48,
-			prop_type = "prop_gdn_k",
+			prop_type = "prop_xnsmt_cjq",
 			start_time = 1612828800,
 			recycle_time = 1613404799,
 		},
 		[49]=
 		{
 			id = 49,
-			prop_type = "prop_gdn_l",
+			prop_type = "prop_xnsmt_mtsp",
 			start_time = 1612828800,
 			recycle_time = 1613404799,
 		},
 		[50]=
 		{
 			id = 50,
-			prop_type = "prop_gdn_wn",
+			prop_type = "prop_fish_drop_act_1",
 			start_time = 1612828800,
 			recycle_time = 1613404799,
 		},
 		[51]=
 		{
 			id = 51,
-			prop_type = "prop_xnsmt_cjq",
-			start_time = 1612828800,
-			recycle_time = 1613404799,
-		},
-		[52]=
-		{
-			id = 52,
-			prop_type = "prop_xnsmt_mtsp",
-			start_time = 1612828800,
-			recycle_time = 1613404799,
-		},
-		[53]=
-		{
-			id = 53,
-			prop_type = "prop_fish_drop_act_1",
-			start_time = 1612828800,
-			recycle_time = 1613404799,
-		},
-		[54]=
-		{
-			id = 54,
 			prop_type = "prop_fish_drop_act_2",
 			start_time = 1614038400,
 			recycle_time = 1614614399,
