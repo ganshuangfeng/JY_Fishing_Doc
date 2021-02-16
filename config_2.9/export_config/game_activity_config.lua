@@ -401,7 +401,7 @@ return {
 			line = 25,
 			act_type = "weekly",
 			ID = 25,
-			title = "天天领金币--cjj",
+			title = "天天领金币",
 			order = 4,
 			is_on_off = 1,
 			condi_key = "actp_buy_gift_class_hqjnh_046_cjj_hllb",

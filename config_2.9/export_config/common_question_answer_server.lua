@@ -31,8 +31,8 @@ return {
 		{
 			key = "answer_2021_2_23",
 			enable = 1,
-			init_answer_num = 1,
-			max_answer_num = 1,
+			init_answer_num = 999,
+			max_answer_num = 999,
 			max_add_num = 9999,
 			is_reset_answer_num = 0,
 			reset_delay = 1,
