@@ -104,7 +104,7 @@ return {
 			task_name = "在3D捕鱼海底宝藏中击3条深海狂鲨",
 			level = 1,
 			item = {"jing_bi",},
-			count = {500000,},
+			count = {50000,},
 			gotoUI = {"game_Fishing3DHall",},
 		},
 		[7]=
