@@ -16,8 +16,8 @@ return {
 		[3]=
 		{
 			id = 3,
-			starttime = 72000,
-			endtime = 79200,
+			starttime = 64800,
+			endtime = 64800,
 		},
 		[4]=
 		{
