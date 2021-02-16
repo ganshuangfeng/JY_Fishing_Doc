@@ -10010,6 +10010,21 @@ return {
 			is_send_client = 1,
 			award_change_type = "task_award_no_show",
 		},
+		[1000300]=
+		{
+			id = 1000300,
+			enable = 1,
+			name = "元宵福袋",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21658,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1614009600,
+			end_valid_time = 1614614399,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -16777,6 +16792,15 @@ return {
 			awards = 1040,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
+		},
+		[710]=
+		{
+			id = 710,
+			process_id = 21658,
+			source_id = 584,
+			process = {2,1,2},
+			awards = {1041,1042,1043},
+			get_award_type = "random",
 		},
 	},
 	source=
@@ -40625,6 +40649,30 @@ return {
 			award_id = 1040,
 			asset_type = "_common_rank_nyx_006_yxbd_rank",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[1586]=
+		{
+			id = 1586,
+			award_id = 1041,
+			asset_type = "jing_bi",
+			asset_count = {250000,320000},
+			get_weight = 1,
+		},
+		[1587]=
+		{
+			id = 1587,
+			award_id = 1042,
+			asset_type = "jing_bi",
+			asset_count = {400000,580000},
+			get_weight = 1,
+		},
+		[1588]=
+		{
+			id = 1588,
+			award_id = 1043,
+			asset_type = "jing_bi",
+			asset_count = {2000000,2900000},
 			get_weight = 1,
 		},
 	},
