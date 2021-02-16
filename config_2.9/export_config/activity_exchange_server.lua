@@ -445,6 +445,30 @@ return {
 			award_id = 38,
 			enable = 1,
 		},
+		[39]=
+		{
+			id = 39,
+			name = "元宵福利",
+			start_time = 1614038400,
+			end_time = 1614614399,
+			use_goods = {"prop_fish_drop_act_2",},
+			goods_type = 1,
+			email_id = 27,
+			award_id = 39,
+			enable = 1,
+		},
+		[40]=
+		{
+			id = 40,
+			name = "元宵福利--cjj",
+			start_time = 1614038400,
+			end_time = 1614614399,
+			use_goods = {"prop_fish_drop_act_2",},
+			goods_type = 1,
+			email_id = 28,
+			award_id = 40,
+			enable = 1,
+		},
 	},
 	email=
 	{
@@ -603,6 +627,18 @@ return {
 			id = 26,
 			title = "过大年",
 			content = "恭喜您在过大年活动中获得了%s，请在活动结束后7个工作日内联系公众号《彩云新世界》客服领取，逾期视为自动放弃！",
+		},
+		[27]=
+		{
+			id = 27,
+			title = "团团圆圆闹元宵",
+			content = "恭喜您在元宵福利活动中获得了%s，请在活动结束后7个工作日内联系公众号《鲸鱼初纪元》客服领取，逾期视为自动放弃！",
+		},
+		[28]=
+		{
+			id = 28,
+			title = "团团圆圆闹元宵",
+			content = "恭喜您在元宵福利活动中获得了%s，请在活动结束后7个工作日内联系公众号《彩云新世界》客服领取，逾期视为自动放弃！",
 		},
 	},
 	award=
@@ -2815,7 +2851,7 @@ return {
 			permission_key = "actp_buy_gift_bag_class_fclb_v1v7_001",
 			asset_type = {"jing_bi",},
 			asset_count = {300000,},
-			use_num = {0,0,1,1,},
+			use_num = {1,1,0,0,},
 			me_limit_day_num = 9999,
 		},
 		[212]=
@@ -2825,8 +2861,8 @@ return {
 			award_id = 3,
 			permission_key = "actp_buy_gift_bag_class_fclb_v8v12_001",
 			asset_type = {"jing_bi",},
-			asset_count = {500000,},
-			use_num = {1,1,1,1,},
+			asset_count = {600000,},
+			use_num = {1,1,0,0,},
 			me_limit_day_num = 9999,
 		},
 		[213]=
@@ -2837,7 +2873,7 @@ return {
 			permission_key = "actp_buy_gift_bag_class_fclb_free_001",
 			asset_type = {"jing_bi",},
 			asset_count = {300000,},
-			use_num = {1,1,0,0,},
+			use_num = {0,0,1,1,},
 			me_limit_day_num = 9999,
 		},
 		[214]=
@@ -2858,8 +2894,8 @@ return {
 			award_id = 3,
 			permission_key = "actp_buy_gift_bag_class_fclb_v8v12_001",
 			asset_type = {"jing_bi",},
-			asset_count = {1500000,},
-			use_num = {1,1,1,1,},
+			asset_count = {2500000,},
+			use_num = {0,0,1,1,},
 			me_limit_day_num = 9999,
 		},
 		[216]=
@@ -2869,8 +2905,8 @@ return {
 			award_id = 1,
 			permission_key = "actp_buy_gift_bag_class_fclb_free_001",
 			asset_type = {"jing_bi",},
-			asset_count = {600000,},
-			use_num = {1,1,0,0,},
+			asset_count = {500000,},
+			use_num = {1,1,1,1,},
 			me_limit_day_num = 9999,
 		},
 		[217]=
@@ -2880,8 +2916,8 @@ return {
 			award_id = 2,
 			permission_key = "actp_buy_gift_bag_class_fclb_v1v7_001",
 			asset_type = {"jing_bi",},
-			asset_count = {2500000,},
-			use_num = {0,0,1,1,},
+			asset_count = {1500000,},
+			use_num = {1,1,1,1,},
 			me_limit_day_num = 9999,
 		},
 		[218]=
@@ -2894,6 +2930,174 @@ return {
 			asset_count = {3500000,},
 			use_num = {1,1,1,1,},
 			me_limit_day_num = 9999,
+		},
+		[219]=
+		{
+			no = 219,
+			award_cfg_id = 39,
+			award_id = 1,
+			permission_key = "actp_no_cjj_gej_exchange",
+			award_name = "徐福记礼盒",
+			use_num = {15000,},
+			me_limit_day_num = 1,
+		},
+		[220]=
+		{
+			no = 220,
+			award_cfg_id = 39,
+			award_id = 2,
+			permission_key = "actp_no_cjj_gej_exchange",
+			award_name = "琥珀核桃4罐",
+			use_num = {8000,},
+			me_limit_day_num = 1,
+		},
+		[221]=
+		{
+			no = 221,
+			award_cfg_id = 39,
+			award_id = 3,
+			permission_key = "actp_no_cjj_gej_exchange",
+			award_name = "高档纯棉浴巾",
+			use_num = {5000,},
+			me_limit_day_num = 1,
+		},
+		[222]=
+		{
+			no = 222,
+			award_cfg_id = 39,
+			award_id = 4,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {20000000,},
+			use_num = {24000,},
+		},
+		[223]=
+		{
+			no = 223,
+			award_cfg_id = 39,
+			award_id = 5,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"prop_3d_fish_nuclear_bomb_3",},
+			asset_count = {1,},
+			use_num = {12000,},
+			me_limit_day_num = 3,
+		},
+		[224]=
+		{
+			no = 224,
+			award_cfg_id = 39,
+			award_id = 6,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"prop_3d_fish_nuclear_bomb_2",},
+			asset_count = {1,},
+			use_num = {6000,},
+			me_limit_day_num = 2,
+		},
+		[225]=
+		{
+			no = 225,
+			award_cfg_id = 39,
+			award_id = 7,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {2000000,},
+			use_num = {2400,},
+			me_limit_day_num = 1,
+		},
+		[226]=
+		{
+			no = 226,
+			award_cfg_id = 39,
+			award_id = 8,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"prop_3d_fish_nuclear_bomb_1",},
+			asset_count = {1,},
+			use_num = {1200,},
+			me_limit_day_num = 1,
+		},
+		[227]=
+		{
+			no = 227,
+			award_cfg_id = 40,
+			award_id = 1,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "徐福记礼盒",
+			use_num = {15000,},
+			me_limit_day_num = 1,
+		},
+		[228]=
+		{
+			no = 228,
+			award_cfg_id = 40,
+			award_id = 2,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "琥珀核桃4罐",
+			use_num = {8000,},
+			me_limit_day_num = 1,
+		},
+		[229]=
+		{
+			no = 229,
+			award_cfg_id = 40,
+			award_id = 3,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "高档纯棉浴巾",
+			use_num = {5000,},
+			me_limit_day_num = 1,
+		},
+		[230]=
+		{
+			no = 230,
+			award_cfg_id = 40,
+			award_id = 4,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {20000000,},
+			use_num = {24000,},
+		},
+		[231]=
+		{
+			no = 231,
+			award_cfg_id = 40,
+			award_id = 5,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {10000000,},
+			use_num = {12000,},
+			me_limit_day_num = 3,
+		},
+		[232]=
+		{
+			no = 232,
+			award_cfg_id = 40,
+			award_id = 6,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"prop_hammer_4",},
+			asset_count = {5,},
+			use_num = {6000,},
+			me_limit_day_num = 2,
+		},
+		[233]=
+		{
+			no = 233,
+			award_cfg_id = 40,
+			award_id = 7,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {2000000,},
+			use_num = {2400,},
+			me_limit_day_num = 1,
+		},
+		[234]=
+		{
+			no = 234,
+			award_cfg_id = 40,
+			award_id = 8,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"prop_hammer_3",},
+			asset_count = {10,},
+			use_num = {1200,},
+			me_limit_day_num = 1,
 		},
 	},
 	all_powerful=

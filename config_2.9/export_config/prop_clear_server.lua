@@ -372,6 +372,13 @@ return {
 			start_time = 1612828800,
 			recycle_time = 1613404799,
 		},
+		[54]=
+		{
+			id = 54,
+			prop_type = "prop_fish_drop_act_2",
+			start_time = 1614038400,
+			recycle_time = 1614614399,
+		},
 	},
 	player_ext_status=
 	{

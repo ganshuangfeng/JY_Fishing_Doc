@@ -4124,5 +4124,18 @@ return {
 			name = "金元宝",
 			desc = "掉落物活动通用道具",
 		},
+		[306]=
+		{
+			id = 306,
+			item_id = 306,
+			item_key = "prop_fish_drop_act_2",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "act_ty_by_drop_7_2",
+			is_show_bag = 0,
+			order = 1,
+			name = "小汤圆",
+			desc = "掉落物活动通用道具",
+		},
 	},
 }
