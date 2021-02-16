@@ -3234,5 +3234,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[331]=
+		{
+			id = 331,
+			key = "act_ty_prize_quiz",
+			desc = "有奖问答",
+			lua = "Act_Ty_PrizeQuizManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
