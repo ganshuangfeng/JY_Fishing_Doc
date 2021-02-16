@@ -848,17 +848,17 @@ return {
 		[160]=
 		{
 			id = 160,
-			fish_id = 62,
+			fish_id = 61,
 		},
 		[161]=
 		{
 			id = 161,
-			fish_id = 62,
+			fish_id = 61,
 		},
 		[162]=
 		{
 			id = 162,
-			fish_id = 62,
+			fish_id = 61,
 		},
 	},
 }
