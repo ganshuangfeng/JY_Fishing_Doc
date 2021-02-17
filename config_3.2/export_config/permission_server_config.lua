@@ -2138,12 +2138,6 @@ return {
 			name = "救济金月卡跳转",
 			condi = 386,
 		},
-		cjj_csms_new=
-		{
-			key = "cjj_csms_new",
-			name = "财神模式改版",
-			condi = 395,
-		},
 		xyxtg_bet_limit_1=
 		{
 			key = "xyxtg_bet_limit_1",
