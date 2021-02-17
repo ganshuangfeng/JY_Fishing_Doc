@@ -3237,9 +3237,46 @@ return {
 		[331]=
 		{
 			id = 331,
+			key = "Act_049_XYHL",
+			desc = "新游福利",
+			lua = "Act_049_XYHLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[332]=
+		{
+			id = 332,
 			key = "act_ty_prize_quiz",
 			desc = "有奖问答",
 			lua = "Act_Ty_PrizeQuizManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[333]=
+		{
+			id = 333,
+			key = "act_ty_sjb_style/act_003_dlphb",
+			desc = "金元宝榜单",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[334]=
+		{
+			id = 334,
+			key = "act_ty_sjb_style/act_004_dlphb",
+			desc = "元宵排行榜",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[335]=
+		{
+			id = 335,
+			key = "act_ty_by_hhl_style/act_003_hhl",
+			desc = "元宵换好礼",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
