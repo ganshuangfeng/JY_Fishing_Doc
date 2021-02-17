@@ -6375,7 +6375,7 @@ return {
 			is_dynamic_codi = 0,
 			is_dynamic_cancel = 0,
 			refresh_type = "day_delay",
-			start_deal_time = 1611014400,
+			start_deal_time = 1613433600,
 		},
 		[354]=
 		{
@@ -6387,7 +6387,7 @@ return {
 			is_dynamic_codi = 0,
 			is_dynamic_cancel = 0,
 			refresh_type = "day_delay",
-			start_deal_time = 1611014400,
+			start_deal_time = 1613433600,
 		},
 		[355]=
 		{
@@ -6399,7 +6399,7 @@ return {
 			is_dynamic_codi = 0,
 			is_dynamic_cancel = 0,
 			refresh_type = "day_delay",
-			start_deal_time = 1611014400,
+			start_deal_time = 1613433600,
 		},
 		[356]=
 		{

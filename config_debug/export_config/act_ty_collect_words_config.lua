@@ -237,7 +237,7 @@ return {
 		{
 			line = 1,
 			exchange_type = 36,
-			exchange_id = 1,
+			exchange_id = 2,
 			collect_title = "发财礼包福利",
 			need_item = {"prop_fclb_gong","prop_fclb_xi"},
 			need_item_img = {"collect_words_1_1","collect_words_2_1"},
@@ -250,7 +250,7 @@ return {
 		{
 			line = 2,
 			exchange_type = 37,
-			exchange_id = 1,
+			exchange_id = 2,
 			collect_title = "发财礼包福利",
 			need_item = {"prop_fclb_fa","prop_fclb_cai"},
 			need_item_img = {"collect_words_3_1","collect_words_4_1"},
@@ -263,7 +263,7 @@ return {
 		{
 			line = 3,
 			exchange_type = 38,
-			exchange_id = 1,
+			exchange_id = 2,
 			collect_title = "发财礼包福利",
 			need_item = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai"},
 			need_item_img = {"collect_words_1_1","collect_words_2_1","collect_words_3_1","collect_words_4_1"},
@@ -279,7 +279,7 @@ return {
 		{
 			line = 1,
 			exchange_type = 36,
-			exchange_id = 1,
+			exchange_id = 3,
 			collect_title = "发财礼包福利",
 			need_item = {"prop_fclb_gong","prop_fclb_xi"},
 			need_item_img = {"collect_words_1_1","collect_words_2_1"},
@@ -292,7 +292,7 @@ return {
 		{
 			line = 2,
 			exchange_type = 37,
-			exchange_id = 1,
+			exchange_id = 3,
 			collect_title = "发财礼包福利",
 			need_item = {"prop_fclb_fa","prop_fclb_cai"},
 			need_item_img = {"collect_words_3_1","collect_words_4_1"},
@@ -305,7 +305,7 @@ return {
 		{
 			line = 3,
 			exchange_type = 38,
-			exchange_id = 1,
+			exchange_id = 3,
 			collect_title = "发财礼包福利",
 			need_item = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai"},
 			need_item_img = {"collect_words_1_1","collect_words_2_1","collect_words_3_1","collect_words_4_1"},
