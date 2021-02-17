@@ -33,8 +33,8 @@ return {
 		{
 			id = 5,
 			prop_type = "prop_fish_drop_act_0",
-			start_time = 1611619200,
-			recycle_time = 1612195199,
+			start_time = 1612224000,
+			recycle_time = 1612799999,
 		},
 		[6]=
 		{

@@ -1015,8 +1015,19 @@ return {
 			order = 100,
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1612224000,
-			endTime = 1612799999,
+			srartTime = 1612828800,
+			endTime = 1614614399,
+		},
+		[90]=
+		{
+			id = 90,
+			bannerID = 90,
+			isOnOff = 1,
+			order = 110,
+			gotoUI = {"act_048_xnsmt","panel"},
+			model = "LoginUp",
+			srartTime = 1612828800,
+			endTime = 1613404799,
 		},
 	},
 }

@@ -8279,4 +8279,13 @@ return {
 			weight = 10000,
 		},
 	},
+	treasury_score=
+	{
+	},
+	all_exchange_data=
+	{
+	},
+	all_powerful=
+	{
+	},
 }

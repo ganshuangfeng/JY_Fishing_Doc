@@ -3976,7 +3976,7 @@ return {
 		[151]=
 		{
 			id = 151,
-			base_id = 61,
+			base_id = 62,
 			act_id = 74,
 			life = 150,
 			shoot = 0.006667,
@@ -3992,7 +3992,7 @@ return {
 		[152]=
 		{
 			id = 152,
-			base_id = 61,
+			base_id = 62,
 			act_id = 75,
 			life = 250,
 			shoot = 0.004000,
@@ -4008,7 +4008,7 @@ return {
 		[153]=
 		{
 			id = 153,
-			base_id = 61,
+			base_id = 62,
 			act_id = 76,
 			life = 350,
 			shoot = 0.002857,
@@ -4685,7 +4685,7 @@ return {
 		{
 			id = 74,
 			acti_type = 9,
-			num = {0,0,0.1,0.2},
+			num = {0,0,0.2,0.3},
 			show = 0,
 			enter_bag = 1,
 			value = 150,
@@ -4694,7 +4694,7 @@ return {
 		{
 			id = 75,
 			acti_type = 9,
-			num = {0,0,0.2,0.3},
+			num = {0,0,0.3,0.4},
 			show = 0,
 			enter_bag = 1,
 			value = 250,
@@ -4703,7 +4703,7 @@ return {
 		{
 			id = 76,
 			acti_type = 9,
-			num = {0,0,0.3,0.4},
+			num = {0,0,0.4,0.5},
 			show = 0,
 			enter_bag = 1,
 			value = 350,
@@ -4712,7 +4712,7 @@ return {
 		{
 			id = 77,
 			acti_type = 9,
-			num = {0,0,0.01,},
+			num = {0,0,0.01},
 			show = 1,
 			enter_bag = 1,
 			value = 10,
@@ -5287,6 +5287,15 @@ return {
 		[61]=
 		{
 			id = 61,
+			type = 1,
+			life = 0,
+			shoot = 0,
+			rate = 0,
+			gd_award = 0,
+		},
+		[62]=
+		{
+			id = 62,
 			type = 1,
 			life = 0,
 			shoot = 0,
