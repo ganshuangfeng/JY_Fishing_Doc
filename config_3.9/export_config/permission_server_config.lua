@@ -6349,7 +6349,7 @@ return {
 		[348]=
 		{
 			id = 348,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_class_hqjnh_046_nor_hllb",
 			name = "欢乐礼包（欢乐捕鱼）",
 			condi = 370,
@@ -6361,7 +6361,7 @@ return {
 		[349]=
 		{
 			id = 349,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_class_hqjnh_046_cjj_hllb",
 			name = "欢乐礼包（冲金鸡）",
 			condi = 371,
@@ -6373,7 +6373,7 @@ return {
 		[350]=
 		{
 			id = 350,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_hljnh_046_hlfl_nor",
 			name = "欢乐福利（欢乐捕鱼）--非cps",
 			condi = 372,
@@ -6385,7 +6385,7 @@ return {
 		[351]=
 		{
 			id = 351,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_hljnh_046_hlfl_cjj",
 			name = "欢乐福利（冲金鸡）",
 			condi = 373,
@@ -6409,7 +6409,7 @@ return {
 		[353]=
 		{
 			id = 353,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_fclb_free_002",
 			name = "发财礼包--免费、小额、新人",
 			condi = 382,
@@ -6421,7 +6421,7 @@ return {
 		[354]=
 		{
 			id = 354,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_fclb_v1v7_002",
 			name = "发财礼包--V1V7",
 			condi = 383,
@@ -6433,7 +6433,7 @@ return {
 		[355]=
 		{
 			id = 355,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_fclb_v8v12_002",
 			name = "发财礼包--V8V12",
 			condi = 384,
@@ -6445,7 +6445,7 @@ return {
 		[356]=
 		{
 			id = 356,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_1000238",
 			name = "非新权限",
 			condi = 387,
@@ -6457,7 +6457,7 @@ return {
 		[357]=
 		{
 			id = 357,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_hammer",
 			name = "疯狂敲金蛋使用锤子（所有用户）",
 			condi = 388,
@@ -6469,7 +6469,7 @@ return {
 		[358]=
 		{
 			id = 358,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_golden_egg_1",
 			name = "疯狂敲金蛋V3以下",
 			condi = 389,
@@ -6481,7 +6481,7 @@ return {
 		[359]=
 		{
 			id = 359,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_golden_egg_2",
 			name = "疯狂敲金蛋V4V7",
 			condi = 390,
@@ -6493,7 +6493,7 @@ return {
 		[360]=
 		{
 			id = 360,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_golden_egg_3",
 			name = "疯狂敲金蛋V8V12",
 			condi = 391,
@@ -6505,7 +6505,7 @@ return {
 		[361]=
 		{
 			id = 361,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_1000276",
 			name = "非新权限",
 			condi = 392,
@@ -6517,7 +6517,7 @@ return {
 		[362]=
 		{
 			id = 362,
-			enable = 1,
+			enable = 0,
 			key = "actp_rank_gdn_004_jzbd_rank",
 			name = "集字榜单--非cjj",
 			condi = 393,
@@ -6529,7 +6529,7 @@ return {
 		[363]=
 		{
 			id = 363,
-			enable = 1,
+			enable = 0,
 			key = "actp_rank_xxlzb_004_rank",
 			name = "消消乐争霸--cjj",
 			condi = 394,
@@ -6541,7 +6541,7 @@ return {
 		[364]=
 		{
 			id = 364,
-			enable = 1,
+			enable = 0,
 			key = "actp_show_gift_bag_xyfl",
 			name = "全cpl",
 			condi = 396,
@@ -6549,6 +6549,30 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 1612828800,
+		},
+		[365]=
+		{
+			id = 365,
+			enable = 1,
+			key = "actp_no_cjj_gej_exchange_V5",
+			name = "非cjj且大于V",
+			condi = 399,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615248000,
+		},
+		[366]=
+		{
+			id = 366,
+			enable = 1,
+			key = "actp_cjj_gej_exchange_V5",
+			name = "cjj且大于V5",
+			condi = 400,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615248000,
 		},
 	},
 	condi=
@@ -16232,6 +16256,46 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是新玩家",
+		},
+		[969]=
+		{
+			no = 969,
+			id = 399,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "cjj",
+		},
+		[970]=
+		{
+			no = 970,
+			id = 399,
+			var = "vip_level",
+			value = 5,
+			judge = 3,
+			group = 1,
+			error_desc = "大于V5",
+		},
+		[971]=
+		{
+			no = 971,
+			id = 400,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "非cjj",
+		},
+		[972]=
+		{
+			no = 972,
+			id = 400,
+			var = "vip_level",
+			value = 5,
+			judge = 3,
+			group = 1,
+			error_desc = "大于V5",
 		},
 	},
 	share_condition=

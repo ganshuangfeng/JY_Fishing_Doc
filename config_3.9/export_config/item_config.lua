@@ -1717,7 +1717,7 @@ return {
 			image = "act_ty_by_drop_7",
 			is_show_bag = 0,
 			order = 1,
-			name = "玫瑰",
+			name = "礼盒",
 			desc = "掉落物活动通用道具",
 		},
 		[131]=
