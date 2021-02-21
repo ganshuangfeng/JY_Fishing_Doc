@@ -7,6 +7,7 @@ return {
 			permission = "cpl_notcjj",
 			task = {1,2,3,4,5,6},
 			cj = {1,2,3,4,5,6,7,8},
+			item_key = "prop_xrxsfl_cjq",
 		},
 		[2]=
 		{
@@ -14,6 +15,7 @@ return {
 			permission = "cpl_cjj",
 			task = {7,8,9,10,11,12},
 			cj = {9,10,11,12,13,14,15,16},
+			item_key = "prop_xrxsfl_cjq",
 		},
 	},
 	task=
@@ -109,81 +111,101 @@ return {
 		{
 			ID = 1,
 			award_desc = "15元礼包",
+			obj_key = "prop_xrxsfl_15box",
+			obj_box_exchange_id = 75,
 		},
 		[2]=
 		{
 			ID = 2,
 			award_desc = "1000鱼币",
+			award_img = "com_icon_yb",
 		},
 		[3]=
 		{
 			ID = 3,
 			award_desc = "5～50元红包",
+			award_img = "com_award_icon_czyhq1",
 		},
 		[4]=
 		{
 			ID = 4,
 			award_desc = "金币周卡",
+			award_img = "obj_jbzk",
 		},
 		[5]=
 		{
 			ID = 5,
 			award_desc = "50元礼包",
+			obj_key = "prop_xrxsfl_50box",
+			obj_box_exchange_id = 76,
 		},
 		[6]=
 		{
 			ID = 6,
 			award_desc = "锁定*3",
+			award_img = "3dby_btn_sd",
 		},
 		[7]=
 		{
 			ID = 7,
 			award_desc = "20元话费",
+			award_img = "com_award_icon_hfsp",
 		},
 		[8]=
 		{
 			ID = 8,
 			award_desc = "500元京东卡",
+			award_img = "activity_icon_gift123_500jdk",
 		},
 		[9]=
 		{
 			ID = 9,
 			award_desc = "10元礼包",
+			obj_key = "prop_xrxsfl_10box",
+			obj_box_exchange_id = 77,
 		},
 		[10]=
 		{
 			ID = 10,
 			award_desc = "1000金币",
+			award_img = "ty_icon_jb_15y",
 		},
 		[11]=
 		{
 			ID = 11,
 			award_desc = "5～50元红包",
+			award_img = "com_award_icon_czyhq1",
 		},
 		[12]=
 		{
 			ID = 12,
 			award_desc = "金币周卡",
+			award_img = "obj_jbzk",
 		},
 		[13]=
 		{
 			ID = 13,
 			award_desc = "30元礼包",
+			obj_key = "prop_xrxsfl_30box",
+			obj_box_exchange_id = 78,
 		},
 		[14]=
 		{
 			ID = 14,
 			award_desc = "玩具锤*1",
+			award_img = "com_award_icon_cz1",
 		},
 		[15]=
 		{
 			ID = 15,
 			award_desc = "20元话费",
+			award_img = "com_award_icon_hfsp",
 		},
 		[16]=
 		{
 			ID = 16,
 			award_desc = "500元京东卡",
+			award_img = "activity_icon_gift123_500jdk",
 		},
 	},
 }
