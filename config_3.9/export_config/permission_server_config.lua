@@ -2167,18 +2167,6 @@ return {
 			name = "小游戏托管-100次",
 			condi = 26,
 		},
-		p_xrxsfl_hlby=
-		{
-			key = "p_xrxsfl_hlby",
-			name = "新人限时福利-欢乐捕鱼",
-			condi = 397,
-		},
-		p_xrxsfl_cjj=
-		{
-			key = "p_xrxsfl_cjj",
-			name = "新人限时福利-冲金鸡",
-			condi = 398,
-		},
 	},
 	act_permission=
 	{
@@ -6593,6 +6581,30 @@ return {
 			key = "actp_own_task_gehk_v4v12",
 			name = "大于等于V4",
 			condi = 402,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615248000,
+		},
+		[369]=
+		{
+			id = 369,
+			enable = 1,
+			key = "actp_own_task_p_xrxsfl_hlby",
+			name = "新人限时福利（欢乐捕鱼）",
+			condi = 370,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615248000,
+		},
+		[370]=
+		{
+			id = 370,
+			enable = 1,
+			key = "actp_own_task_p_xrxsfl_cjj",
+			name = "新人限时福利（冲金鸡）",
+			condi = 371,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
