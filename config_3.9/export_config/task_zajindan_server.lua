@@ -11256,6 +11256,51 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000383]=
+		{
+			id = 1000383,
+			enable = 1,
+			name = "疯狂敲金蛋铜锤",
+			own_type = "p_hammer",
+			task_enum = "happy_zajindan_act_task_2",
+			process_id = 21741,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1615219200,
+			end_valid_time = 1615823999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000384]=
+		{
+			id = 1000384,
+			enable = 1,
+			name = "疯狂敲金蛋银锤",
+			own_type = "p_hammer",
+			task_enum = "happy_zajindan_act_task_2",
+			process_id = 21742,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1615219200,
+			end_valid_time = 1615823999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000385]=
+		{
+			id = 1000385,
+			enable = 1,
+			name = "疯狂敲金蛋金锤",
+			own_type = "p_hammer",
+			task_enum = "happy_zajindan_act_task_2",
+			process_id = 21743,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1615219200,
+			end_valid_time = 1615823999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -18778,6 +18823,30 @@ return {
 			source_id = 616,
 			process = 1,
 			awards = 1091,
+			get_award_type = "nor",
+		},
+		[793]=
+		{
+			id = 793,
+			process_id = 21741,
+			process = {1,-1},
+			pre_add_process = 100,
+			get_award_type = "nor",
+		},
+		[794]=
+		{
+			id = 794,
+			process_id = 21742,
+			process = {1,-1},
+			pre_add_process = 100,
+			get_award_type = "nor",
+		},
+		[795]=
+		{
+			id = 795,
+			process_id = 21743,
+			process = {1,-1},
+			pre_add_process = 100,
 			get_award_type = "nor",
 		},
 	},

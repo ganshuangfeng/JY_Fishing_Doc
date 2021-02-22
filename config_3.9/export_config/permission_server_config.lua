@@ -5629,50 +5629,50 @@ return {
 		[288]=
 		{
 			id = 288,
-			enable = 0,
+			enable = 1,
 			key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v1",
 			name = "欢乐敲金蛋活动购买礼包（V1-V3，非新玩家）",
 			condi = 294,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1605542400,
+			start_deal_time = 1615248000,
 		},
 		[289]=
 		{
 			id = 289,
-			enable = 0,
+			enable = 1,
 			key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v4",
 			name = "欢乐敲金蛋活动购买礼包（V4-V7，非新玩家）",
 			condi = 295,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1605542400,
+			start_deal_time = 1615248000,
 		},
 		[290]=
 		{
 			id = 290,
-			enable = 0,
+			enable = 1,
 			key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v8",
 			name = "欢乐敲金蛋活动购买礼包（V8-V12，非新玩家）",
 			condi = 296,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1605542400,
+			start_deal_time = 1615248000,
 		},
 		[291]=
 		{
 			id = 291,
-			enable = 0,
+			enable = 1,
 			key = "actp_own_task_p_029_hlqjd_hammer",
 			name = "欢乐敲金蛋活动使用锤子（全体）",
 			condi = 297,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1605542400,
+			start_deal_time = 1615248000,
 		},
 		[292]=
 		{
