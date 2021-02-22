@@ -413,7 +413,7 @@ return {
 			parmData = "activity_task",
 			gotoUI = {"act_ty_task","act_xyxfl","panel"},
 			noCloseUI = 1,
-			tag = "hot",
+			tag = "normal",
 		},
 		[26]=
 		{
@@ -430,7 +430,7 @@ return {
 			parmData = "activity_task",
 			gotoUI = {"act_ty_task","act_xyxfl_cjj","panel"},
 			noCloseUI = 1,
-			tag = "hot",
+			tag = "normal",
 		},
 		[27]=
 		{
