@@ -3347,5 +3347,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[343]=
+		{
+			id = 343,
+			key = "sys_act_jbzk",
+			desc = "金币周卡",
+			lua = "Sys_Act_JBZKManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

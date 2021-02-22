@@ -3295,5 +3295,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[338]=
+		{
+			id = 338,
+			key = "sys_act_jbzk",
+			desc = "金币周卡",
+			lua = "Sys_Act_JBZKManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
