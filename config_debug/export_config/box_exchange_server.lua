@@ -8699,7 +8699,8 @@ return {
 		{
 			id = 485,
 			real_award_id = 11961,
-			award_name = "50元话费",
+			asset_type = "prop_web_chip_huafei",
+			asset_count = {5000,5000},
 		},
 		[486]=
 		{
