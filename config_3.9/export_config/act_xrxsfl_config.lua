@@ -111,7 +111,7 @@ return {
 		{
 			ID = 1,
 			award_desc = "15元礼包",
-			obj_key = "prop_xrxsfl_15box",
+			obj_key = "obj_xrxsfl_15box",
 			obj_box_exchange_id = 75,
 			value = 1,
 		},
@@ -142,7 +142,7 @@ return {
 		{
 			ID = 5,
 			award_desc = "50元礼包",
-			obj_key = "prop_xrxsfl_50box",
+			obj_key = "obj_xrxsfl_50box",
 			obj_box_exchange_id = 76,
 			value = 1,
 		},
@@ -173,7 +173,7 @@ return {
 		{
 			ID = 9,
 			award_desc = "10元礼包",
-			obj_key = "prop_xrxsfl_10box",
+			obj_key = "obj_xrxsfl_10box",
 			obj_box_exchange_id = 77,
 			value = 1,
 		},
@@ -204,7 +204,7 @@ return {
 		{
 			ID = 13,
 			award_desc = "30元礼包",
-			obj_key = "prop_xrxsfl_30box",
+			obj_key = "obj_xrxsfl_30box",
 			obj_box_exchange_id = 78,
 			value = 1,
 		},

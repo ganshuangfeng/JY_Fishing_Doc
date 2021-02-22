@@ -4247,7 +4247,7 @@ return {
 		{
 			id = 314,
 			item_id = 314,
-			item_key = "prop_xrxsfl_15box",
+			item_key = "obj_xrxsfl_15box",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "xrxsfl_icon_15ylb",
@@ -4261,7 +4261,7 @@ return {
 		{
 			id = 315,
 			item_id = 315,
-			item_key = "prop_xrxsfl_50box",
+			item_key = "obj_xrxsfl_50box",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "xrxsfl_icon_50ylb",
@@ -4275,7 +4275,7 @@ return {
 		{
 			id = 316,
 			item_id = 316,
-			item_key = "prop_xrxsfl_10box",
+			item_key = "obj_xrxsfl_10box",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "xrxsfl_icon_10ylb",
@@ -4289,7 +4289,7 @@ return {
 		{
 			id = 317,
 			item_id = 317,
-			item_key = "prop_xrxsfl_30box",
+			item_key = "obj_xrxsfl_30box",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "xrxsfl_icon_30ylb",
