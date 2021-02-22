@@ -3372,7 +3372,16 @@ return {
 			id = 345,
 			key = "act_ty_by_drop_style/act_009_lihe",
 			desc = "玫瑰boss皮肤",
-			is_on_off = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[346]=
+		{
+			id = 346,
+			key = "act_ty_sjb_style/act_007_dlphb",
+			desc = "礼盒排行榜",
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
