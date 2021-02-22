@@ -3305,5 +3305,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[339]=
+		{
+			id = 339,
+			key = "act_xrxsfl",
+			desc = "新人限时福利",
+			lua = "Act_XRXSFLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
