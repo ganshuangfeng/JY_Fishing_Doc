@@ -111,6 +111,7 @@ return {
 		{
 			ID = 1,
 			award_desc = "15元礼包",
+			award_img = "xrxsfl_icon_15ylb",
 			obj_key = "obj_xrxsfl_15box",
 			obj_box_exchange_id = 75,
 			value = 1,
@@ -127,7 +128,7 @@ return {
 		{
 			ID = 3,
 			award_desc = "5～50元红包",
-			award_img = "com_award_icon_czyhq1",
+			award_img = "xrxsfl_icon_hb",
 			prop_key = "obj_xrxsfl_5_50box",
 			value = 1,
 		},
@@ -135,6 +136,7 @@ return {
 		{
 			ID = 4,
 			award_desc = "金币周卡",
+			award_img = "jbzk_icon_jbzk",
 			obj_key = "obj_jbzk",
 			value = 1,
 		},
@@ -142,6 +144,7 @@ return {
 		{
 			ID = 5,
 			award_desc = "50元礼包",
+			award_img = "xrxsfl_icon_50ylb",
 			obj_key = "obj_xrxsfl_50box",
 			obj_box_exchange_id = 76,
 			value = 1,
@@ -173,6 +176,7 @@ return {
 		{
 			ID = 9,
 			award_desc = "10元礼包",
+			award_img = "xrxsfl_icon_10ylb",
 			obj_key = "obj_xrxsfl_10box",
 			obj_box_exchange_id = 77,
 			value = 1,
@@ -189,7 +193,7 @@ return {
 		{
 			ID = 11,
 			award_desc = "5～50元红包",
-			award_img = "com_award_icon_czyhq1",
+			award_img = "xrxsfl_icon_hb",
 			prop_key = "obj_xrxsfl_5_50box",
 			value = 1,
 		},
@@ -197,6 +201,7 @@ return {
 		{
 			ID = 12,
 			award_desc = "金币周卡",
+			award_img = "jbzk_icon_jbzk",
 			obj_key = "obj_jbzk",
 			value = 1,
 		},
@@ -204,6 +209,7 @@ return {
 		{
 			ID = 13,
 			award_desc = "30元礼包",
+			award_img = "xrxsfl_icon_30ylb",
 			obj_key = "obj_xrxsfl_30box",
 			obj_box_exchange_id = 78,
 			value = 1,
