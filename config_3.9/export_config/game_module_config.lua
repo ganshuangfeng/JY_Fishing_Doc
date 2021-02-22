@@ -3367,5 +3367,14 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[345]=
+		{
+			id = 345,
+			key = "act_ty_by_drop_style/act_009_lihe",
+			desc = "玫瑰boss皮肤",
+			is_on_off = 0,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
