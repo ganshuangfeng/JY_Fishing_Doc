@@ -3367,7 +3367,7 @@ return {
 			award_cfg_id = 43,
 			award_id = 1,
 			permission_key = "p_xrxsfl_hlby",
-			asset_type = {"prop_xrxsfl_15box",},
+			asset_type = {"obj_xrxsfl_15box",},
 			asset_count = {1,},
 			use_num = {1,},
 		},
@@ -3387,7 +3387,7 @@ return {
 			award_cfg_id = 43,
 			award_id = 3,
 			permission_key = "p_xrxsfl_hlby",
-			asset_type = {"obj_5_coupon",},
+			asset_type = {"obj_xrxsfl_5_50box",},
 			asset_count = {1,},
 			use_num = {1,},
 		},
@@ -3397,7 +3397,7 @@ return {
 			award_cfg_id = 43,
 			award_id = 4,
 			permission_key = "p_xrxsfl_hlby",
-			asset_type = {"",},
+			asset_type = {"obj_jbzk",},
 			asset_count = {1,},
 			use_num = {1,},
 		},
@@ -3407,7 +3407,7 @@ return {
 			award_cfg_id = 43,
 			award_id = 5,
 			permission_key = "p_xrxsfl_hlby",
-			asset_type = {"prop_xrxsfl_50box",},
+			asset_type = {"obj_xrxsfl_50box",},
 			asset_count = {1,},
 			use_num = {1,},
 		},
@@ -3427,7 +3427,7 @@ return {
 			award_cfg_id = 44,
 			award_id = 1,
 			permission_key = "p_xrxsfl_cjj",
-			asset_type = {"prop_xrxsfl_10box",},
+			asset_type = {"obj_xrxsfl_10box",},
 			asset_count = {1,},
 			use_num = {1,},
 		},
@@ -3447,7 +3447,7 @@ return {
 			award_cfg_id = 44,
 			award_id = 3,
 			permission_key = "p_xrxsfl_cjj",
-			asset_type = {"obj_5_coupon",},
+			asset_type = {"obj_xrxsfl_5_50box",},
 			asset_count = {1,},
 			use_num = {1,},
 		},
@@ -3457,7 +3457,7 @@ return {
 			award_cfg_id = 44,
 			award_id = 4,
 			permission_key = "p_xrxsfl_cjj",
-			asset_type = {"",},
+			asset_type = {"obj_jbzk",},
 			asset_count = {1,},
 			use_num = {1,},
 		},
@@ -3467,7 +3467,7 @@ return {
 			award_cfg_id = 44,
 			award_id = 5,
 			permission_key = "p_xrxsfl_cjj",
-			asset_type = {"prop_xrxsfl_30box",},
+			asset_type = {"obj_xrxsfl_30box",},
 			asset_count = {1,},
 			use_num = {1,},
 		},
@@ -3729,6 +3729,93 @@ return {
 		{
 			act_id = 49,
 			all_powerful_type = "prop_gdn_wn",
+		},
+	},
+	award_num=
+	{
+		[1]=
+		{
+			id = 1,
+			act_id = 43,
+			award_num = {1,1},
+			award_id = 1,
+		},
+		[2]=
+		{
+			id = 2,
+			act_id = 43,
+			award_num = {2,2},
+			award_id = 2,
+		},
+		[3]=
+		{
+			id = 3,
+			act_id = 43,
+			award_num = {3,3},
+			award_id = 3,
+		},
+		[4]=
+		{
+			id = 4,
+			act_id = 43,
+			award_num = {4,4},
+			award_id = 4,
+		},
+		[5]=
+		{
+			id = 5,
+			act_id = 43,
+			award_num = {5,5},
+			award_id = 5,
+		},
+		[6]=
+		{
+			id = 6,
+			act_id = 43,
+			award_num = {6,6},
+			award_id = 6,
+		},
+		[7]=
+		{
+			id = 7,
+			act_id = 44,
+			award_num = {1,1},
+			award_id = 1,
+		},
+		[8]=
+		{
+			id = 8,
+			act_id = 44,
+			award_num = {2,2},
+			award_id = 2,
+		},
+		[9]=
+		{
+			id = 9,
+			act_id = 44,
+			award_num = {3,3},
+			award_id = 3,
+		},
+		[10]=
+		{
+			id = 10,
+			act_id = 44,
+			award_num = {4,4},
+			award_id = 4,
+		},
+		[11]=
+		{
+			id = 11,
+			act_id = 44,
+			award_num = {5,5},
+			award_id = 5,
+		},
+		[12]=
+		{
+			id = 12,
+			act_id = 44,
+			award_num = {6,6},
+			award_id = 6,
 		},
 	},
 }
