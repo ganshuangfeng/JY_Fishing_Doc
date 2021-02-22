@@ -128,7 +128,7 @@ return {
 			ID = 3,
 			award_desc = "5～50元红包",
 			award_img = "com_award_icon_czyhq1",
-			prop_key = "obj_5_coupon",
+			prop_key = "obj_xrxsfl_5_50box",
 			value = 1,
 		},
 		[4]=
@@ -190,7 +190,7 @@ return {
 			ID = 11,
 			award_desc = "5～50元红包",
 			award_img = "com_award_icon_czyhq1",
-			prop_key = "obj_5_coupon",
+			prop_key = "obj_xrxsfl_5_50box",
 			value = 1,
 		},
 		[12]=

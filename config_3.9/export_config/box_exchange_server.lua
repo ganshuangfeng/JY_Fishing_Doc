@@ -917,6 +917,16 @@ return {
 			award_id = 84,
 			enable = 1,
 		},
+		[86]=
+		{
+			id = 86,
+			name = "新人限时福利-优惠券礼包",
+			start_time = 1615248000,
+			end_time = 2552233600,
+			use_asset_id = 79,
+			award_id = 85,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
@@ -1464,6 +1474,13 @@ return {
 			id = 78,
 			use_id = 78,
 			use_item = "prop_xrxsfl_30box",
+			use_num = 1,
+		},
+		[79]=
+		{
+			id = 79,
+			use_id = 79,
+			use_item = "obj_xrxsfl_5_50box",
 			use_num = 1,
 		},
 	},
@@ -5165,6 +5182,13 @@ return {
 			no = 527,
 			award_id = 84,
 			real_award_id = 12003,
+			weight = 1,
+		},
+		[528]=
+		{
+			no = 528,
+			award_id = 85,
+			real_award_id = 12004,
 			weight = 1,
 		},
 	},
@@ -9101,30 +9125,37 @@ return {
 		[529]=
 		{
 			id = 529,
-			real_award_id = 12003,
+			real_award_id = 12002,
 			asset_type = "prop_web_chip_huafei",
 			asset_count = {500,500},
 		},
 		[530]=
 		{
 			id = 530,
-			real_award_id = 12003,
+			real_award_id = 12002,
 			asset_type = "prop_guess_apple_bet_2",
 			asset_count = {10,10},
 		},
 		[531]=
 		{
 			id = 531,
-			real_award_id = 12004,
+			real_award_id = 12003,
 			asset_type = "prop_web_chip_huafei",
 			asset_count = {1500,1500},
 		},
 		[532]=
 		{
 			id = 532,
-			real_award_id = 12004,
+			real_award_id = 12003,
 			asset_type = "prop_guess_apple_bet_3",
 			asset_count = {3,3},
+		},
+		[533]=
+		{
+			id = 533,
+			real_award_id = 12004,
+			asset_type = "obj_5_coupon",
+			asset_count = {1,1},
 		},
 	},
 	weight=
