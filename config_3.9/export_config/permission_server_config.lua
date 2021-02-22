@@ -6574,6 +6574,30 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1615248000,
 		},
+		[367]=
+		{
+			id = 367,
+			enable = 1,
+			key = "actp_own_task_gehk_v3",
+			name = "小于等于V3",
+			condi = 401,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615248000,
+		},
+		[368]=
+		{
+			id = 368,
+			enable = 1,
+			key = "actp_own_task_gehk_v4v12",
+			name = "大于等于V4",
+			condi = 402,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615248000,
+		},
 	},
 	condi=
 	{
@@ -16286,6 +16310,26 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "大于V5",
+		},
+		[972]=
+		{
+			no = 972,
+			id = 401,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "小于V3",
+		},
+		[973]=
+		{
+			no = 973,
+			id = 402,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "大于V4",
 		},
 	},
 	share_condition=

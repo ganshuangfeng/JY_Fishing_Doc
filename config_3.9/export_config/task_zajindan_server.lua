@@ -11301,6 +11301,141 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000386]=
+		{
+			id = 1000386,
+			enable = 1,
+			name = "感恩回馈",
+			own_type = "actp_own_task_gehk_v3",
+			task_enum = "common",
+			process_id = 21744,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1615219200,
+			end_valid_time = 1615823999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000387]=
+		{
+			id = 1000387,
+			enable = 1,
+			name = "感恩回馈",
+			own_type = "actp_own_task_gehk_v3",
+			task_enum = "common",
+			process_id = 21745,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1615219200,
+			end_valid_time = 1615823999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000388]=
+		{
+			id = 1000388,
+			enable = 1,
+			name = "感恩回馈",
+			own_type = "actp_own_task_gehk_v3",
+			task_enum = "common",
+			process_id = 21746,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1615219200,
+			end_valid_time = 1615823999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000389]=
+		{
+			id = 1000389,
+			enable = 1,
+			name = "感恩回馈",
+			own_type = "actp_own_task_gehk_v3",
+			task_enum = "common",
+			process_id = 21747,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1615219200,
+			end_valid_time = 1615823999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000390]=
+		{
+			id = 1000390,
+			enable = 1,
+			name = "感恩回馈",
+			own_type = "actp_own_task_gehk_v4v12",
+			task_enum = "common",
+			process_id = 21748,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1615219200,
+			end_valid_time = 1615823999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000391]=
+		{
+			id = 1000391,
+			enable = 1,
+			name = "感恩回馈",
+			own_type = "actp_own_task_gehk_v4v12",
+			task_enum = "common",
+			process_id = 21749,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1615219200,
+			end_valid_time = 1615823999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000392]=
+		{
+			id = 1000392,
+			enable = 1,
+			name = "感恩回馈",
+			own_type = "actp_own_task_gehk_v4v12",
+			task_enum = "common",
+			process_id = 21750,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1615219200,
+			end_valid_time = 1615823999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000393]=
+		{
+			id = 1000393,
+			enable = 1,
+			name = "感恩回馈",
+			own_type = "actp_own_task_gehk_v4v12",
+			task_enum = "common",
+			process_id = 21751,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1615219200,
+			end_valid_time = 1615823999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000394]=
+		{
+			id = 1000394,
+			enable = 1,
+			name = "感恩回馈",
+			own_type = "actp_own_task_gehk_v4v12",
+			task_enum = "common",
+			process_id = 21752,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1615219200,
+			end_valid_time = 1615823999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -18849,6 +18984,87 @@ return {
 			pre_add_process = 100,
 			get_award_type = "nor",
 		},
+		[796]=
+		{
+			id = 796,
+			process_id = 21744,
+			source_id = 617,
+			process = 3,
+			awards = 1092,
+			get_award_type = "nor",
+		},
+		[797]=
+		{
+			id = 797,
+			process_id = 21745,
+			source_id = 618,
+			process = 3,
+			awards = 1093,
+			get_award_type = "nor",
+		},
+		[798]=
+		{
+			id = 798,
+			process_id = 21746,
+			source_id = 619,
+			process = 3,
+			awards = 1094,
+			get_award_type = "nor",
+		},
+		[799]=
+		{
+			id = 799,
+			process_id = 21747,
+			source_id = 620,
+			process = 3,
+			awards = 1095,
+			get_award_type = "nor",
+		},
+		[800]=
+		{
+			id = 800,
+			process_id = 21748,
+			source_id = 621,
+			process = 3,
+			awards = 1096,
+			get_award_type = "nor",
+		},
+		[801]=
+		{
+			id = 801,
+			process_id = 21749,
+			source_id = 622,
+			process = 3,
+			awards = 1097,
+			get_award_type = "nor",
+		},
+		[802]=
+		{
+			id = 802,
+			process_id = 21750,
+			source_id = 623,
+			process = 3,
+			awards = 1098,
+			get_award_type = "nor",
+		},
+		[803]=
+		{
+			id = 803,
+			process_id = 21751,
+			source_id = 624,
+			process = 3,
+			awards = 1099,
+			get_award_type = "nor",
+		},
+		[804]=
+		{
+			id = 804,
+			process_id = 21752,
+			source_id = 625,
+			process = 3,
+			awards = 1100,
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -25754,6 +25970,69 @@ return {
 			source_type = "guess_apple_award_kaijiang_type",
 			condition_id = 447,
 		},
+		[980]=
+		{
+			id = 980,
+			source_id = 617,
+			source_type = "buy_gift",
+			condition_id = 448,
+		},
+		[981]=
+		{
+			id = 981,
+			source_id = 618,
+			source_type = "buy_gift",
+			condition_id = 449,
+		},
+		[982]=
+		{
+			id = 982,
+			source_id = 619,
+			source_type = "buy_gift",
+			condition_id = 450,
+		},
+		[983]=
+		{
+			id = 983,
+			source_id = 620,
+			source_type = "buy_gift",
+			condition_id = 451,
+		},
+		[984]=
+		{
+			id = 984,
+			source_id = 621,
+			source_type = "buy_gift",
+			condition_id = 452,
+		},
+		[985]=
+		{
+			id = 985,
+			source_id = 622,
+			source_type = "buy_gift",
+			condition_id = 453,
+		},
+		[986]=
+		{
+			id = 986,
+			source_id = 623,
+			source_type = "buy_gift",
+			condition_id = 454,
+		},
+		[987]=
+		{
+			id = 987,
+			source_id = 624,
+			source_type = "buy_gift",
+			condition_id = 455,
+		},
+		[988]=
+		{
+			id = 988,
+			source_id = 625,
+			source_type = "buy_gift",
+			condition_id = 456,
+		},
 	},
 	condition=
 	{
@@ -30387,6 +30666,78 @@ return {
 			condition_id = 447,
 			condition_name = "kaijiang_type",
 			condition_value = 2,
+			judge_type = 2,
+		},
+		[610]=
+		{
+			id = 610,
+			condition_id = 448,
+			condition_name = "gift_id",
+			condition_value = {2,85},
+			judge_type = 2,
+		},
+		[611]=
+		{
+			id = 611,
+			condition_id = 449,
+			condition_name = "gift_id",
+			condition_value = {3,86},
+			judge_type = 2,
+		},
+		[612]=
+		{
+			id = 612,
+			condition_id = 450,
+			condition_name = "gift_id",
+			condition_value = {4,87},
+			judge_type = 2,
+		},
+		[613]=
+		{
+			id = 613,
+			condition_id = 451,
+			condition_name = "gift_id",
+			condition_value = {5,88},
+			judge_type = 2,
+		},
+		[614]=
+		{
+			id = 614,
+			condition_id = 452,
+			condition_name = "gift_id",
+			condition_value = {110,10045},
+			judge_type = 2,
+		},
+		[615]=
+		{
+			id = 615,
+			condition_id = 453,
+			condition_name = "gift_id",
+			condition_value = {108,10044},
+			judge_type = 2,
+		},
+		[616]=
+		{
+			id = 616,
+			condition_id = 454,
+			condition_name = "gift_id",
+			condition_value = {6,89},
+			judge_type = 2,
+		},
+		[617]=
+		{
+			id = 617,
+			condition_id = 455,
+			condition_name = "gift_id",
+			condition_value = {111,10189},
+			judge_type = 2,
+		},
+		[618]=
+		{
+			id = 618,
+			condition_id = 456,
+			condition_name = "gift_id",
+			condition_value = {5,88},
 			judge_type = 2,
 		},
 	},
@@ -43883,6 +44234,101 @@ return {
 			award_id = 1091,
 			asset_type = "prop_fish_drop_act_0",
 			asset_count = 20,
+			get_weight = 1,
+		},
+		[1687]=
+		{
+			id = 1687,
+			award_id = 1092,
+			asset_type = "jing_bi",
+			asset_count = 188888,
+			get_weight = 1,
+		},
+		[1688]=
+		{
+			id = 1688,
+			award_id = 1093,
+			asset_type = "jing_bi",
+			asset_count = 388888,
+			get_weight = 1,
+		},
+		[1689]=
+		{
+			id = 1689,
+			award_id = 1094,
+			asset_type = "jing_bi",
+			asset_count = 588888,
+			get_weight = 1,
+		},
+		[1690]=
+		{
+			id = 1690,
+			award_id = 1095,
+			asset_type = "jing_bi",
+			asset_count = 1088888,
+			get_weight = 1,
+		},
+		[1691]=
+		{
+			id = 1691,
+			award_id = 1096,
+			asset_type = "jing_bi",
+			asset_count = 8888888,
+			get_weight = 1,
+		},
+		[1692]=
+		{
+			id = 1692,
+			award_id = 1096,
+			award_name = "美的多功能锅/美的电烤箱",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[1693]=
+		{
+			id = 1693,
+			award_id = 1097,
+			asset_type = "jing_bi",
+			asset_count = 4088888,
+			get_weight = 1,
+		},
+		[1694]=
+		{
+			id = 1694,
+			award_id = 1097,
+			award_name = "金龙鱼油/飞科剃须刀",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[1695]=
+		{
+			id = 1695,
+			award_id = 1098,
+			asset_type = "jing_bi",
+			get_weight = 1,
+		},
+		[1696]=
+		{
+			id = 1696,
+			award_id = 1098,
+			award_name = "琥珀核桃500g",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[1697]=
+		{
+			id = 1697,
+			award_id = 1099,
+			asset_type = "jing_bi",
+			asset_count = 2088888,
+			get_weight = 1,
+		},
+		[1698]=
+		{
+			id = 1698,
+			award_id = 1100,
+			asset_type = "jing_bi",
+			asset_count = 1088888,
 			get_weight = 1,
 		},
 	},
