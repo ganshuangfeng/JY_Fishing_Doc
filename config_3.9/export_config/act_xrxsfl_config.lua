@@ -8,6 +8,7 @@ return {
 			task = {1,2,3,4,5,6},
 			cj = {1,2,3,4,5,6,7,8},
 			item_key = "prop_xrxsfl_cjq",
+			activity_exchange_type = 43,
 		},
 		[2]=
 		{
@@ -16,6 +17,7 @@ return {
 			task = {7,8,9,10,11,12},
 			cj = {9,10,11,12,13,14,15,16},
 			item_key = "prop_xrxsfl_cjq",
+			activity_exchange_type = 44,
 		},
 	},
 	task=
