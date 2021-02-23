@@ -14044,7 +14044,7 @@ return {
 			id = 10496,
 			on_off = 1,
 			pay_title = "金币周卡",
-			content = ""金币周卡"",
+			content = {"金币周卡",},
 			gzh_order = -31,
 			gzh_show = 0,
 			web_show = 0,
