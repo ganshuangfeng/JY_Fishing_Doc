@@ -396,7 +396,7 @@ return {
 			game_model = 1,
 			game_type = "nor_qhb_nor",
 			manager_path = "freestyle_nor_qhb_manager_service/freestyle_nor_qhb_manager_service",
-			enable = 1,
+			enable = 0,
 		},
 		[36]=
 		{
@@ -407,7 +407,7 @@ return {
 			game_model = 1,
 			game_type = "nor_qhb_nor",
 			manager_path = "freestyle_nor_qhb_manager_service/freestyle_nor_qhb_manager_service",
-			enable = 1,
+			enable = 0,
 		},
 		[37]=
 		{
@@ -418,7 +418,7 @@ return {
 			game_model = 1,
 			game_type = "nor_qhb_nor",
 			manager_path = "freestyle_nor_qhb_manager_service/freestyle_nor_qhb_manager_service",
-			enable = 1,
+			enable = 0,
 		},
 		[38]=
 		{

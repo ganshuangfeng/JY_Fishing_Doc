@@ -421,7 +421,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "101;11#",
+			group_list = "11#",
 		},
 	},
 	xxlxy_game=

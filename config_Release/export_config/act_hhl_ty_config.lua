@@ -38,7 +38,7 @@ return {
 			award_name = "徐福记礼盒",
 			award_image = "swjl_1",
 			item_cost_text = 15000,
-			tips = "新年礼盒",
+			tips = "徐福记礼盒",
 			type = 1,
 		},
 		[2]=
@@ -47,7 +47,7 @@ return {
 			award_name = "琥珀核桃4罐",
 			award_image = "swjl_2",
 			item_cost_text = 8000,
-			tips = "核桃花生奶16盒",
+			tips = "琥珀核桃4罐",
 			type = 1,
 		},
 		[3]=
@@ -56,7 +56,7 @@ return {
 			award_name = "高档纯棉浴巾",
 			award_image = "swjl_3",
 			item_cost_text = 5000,
-			tips = "金龙鱼大米5斤",
+			tips = "高档纯棉浴巾",
 			type = 1,
 		},
 		[4]=
@@ -105,7 +105,7 @@ return {
 			award_name = "徐福记礼盒",
 			award_image = "swjl_1",
 			item_cost_text = 15000,
-			tips = "新年礼盒",
+			tips = "徐福记礼盒",
 			type = 1,
 		},
 		[10]=
@@ -114,7 +114,7 @@ return {
 			award_name = "琥珀核桃4罐",
 			award_image = "swjl_2",
 			item_cost_text = 8000,
-			tips = "核桃花生奶16盒",
+			tips = "琥珀核桃4罐",
 			type = 1,
 		},
 		[11]=
@@ -123,7 +123,7 @@ return {
 			award_name = "高档纯棉浴巾",
 			award_image = "swjl_3",
 			item_cost_text = 5000,
-			tips = "金龙鱼大米5斤",
+			tips = "高档纯棉浴巾",
 			type = 1,
 		},
 		[12]=
