@@ -4,7 +4,7 @@ return {
 		[1]=
 		{
 			index = 1,
-			key = "act_khfl_044",
+			key = "act_xyxfl",
 			icon = "yxfl_bg_1",
 			name = "天天领金币",
 			tges = 1,
@@ -12,7 +12,7 @@ return {
 		[2]=
 		{
 			index = 2,
-			key = "act_khfl_044_cjj",
+			key = "act_xyxfl_cjj",
 			icon = "yxfl_bg_1",
 			name = "天天领金币_cjj",
 			tges = 2,
