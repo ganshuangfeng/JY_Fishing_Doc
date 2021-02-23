@@ -831,8 +831,8 @@ return {
 		{
 			id = 77,
 			name = "过大年--抽奖（金元宝）",
-			start_time = 1612828800,
-			end_time = 1613404799,
+			start_time = 1613433600,
+			end_time = 1614009599,
 			use_asset_id = 70,
 			award_id = 77,
 			enable = 1,
@@ -841,8 +841,8 @@ return {
 		{
 			id = 78,
 			name = "过大年--抽奖（福利券）",
-			start_time = 1612828800,
-			end_time = 1613404799,
+			start_time = 1613433600,
+			end_time = 1614009599,
 			use_asset_id = 71,
 			award_id = 77,
 			enable = 1,
