@@ -239,35 +239,30 @@ return {
 		[1]=
 		{
 			no = 1,
-			choose_group = {1,},
 			create_pro = {5,5,5,},
 			create_config = "create_weight6",
 		},
 		[2]=
 		{
 			no = 2,
-			choose_group = {161,162,163,161,162,163,},
 			create_pro = {30,40,30},
 			create_config = "create_weight1",
 		},
 		[3]=
 		{
 			no = 3,
-			choose_group = {164,165,},
 			create_pro = {30,40,30},
 			create_config = "create_weight2",
 		},
 		[4]=
 		{
 			no = 4,
-			choose_group = {166,167,168,},
 			create_pro = {20,60,5},
 			create_config = "create_weight3",
 		},
 		[5]=
 		{
 			no = 5,
-			choose_group = {168,169,},
 			create_pro = {10,10,5},
 			create_config = "create_weight4",
 		},
@@ -338,30 +333,6 @@ return {
 			high = 2,
 		},
 	},
-	create_speed_cfg=
-	{
-		[1]=
-		{
-			no = 1,
-			min_time = 30,
-			max_time = 40,
-			type = 1,
-		},
-		[2]=
-		{
-			no = 2,
-			min_time = 25,
-			max_time = 30,
-			type = 2,
-		},
-		[3]=
-		{
-			no = 3,
-			min_time = 10,
-			max_time = 25,
-			type = 3,
-		},
-	},
 	create_weight1=
 	{
 		[1]=
@@ -388,6 +359,30 @@ return {
 		{
 			no = 5,
 			weight = 1,
+		},
+	},
+	create_speed_cfg=
+	{
+		[1]=
+		{
+			no = 1,
+			min_time = 30,
+			max_time = 40,
+			type = 1,
+		},
+		[2]=
+		{
+			no = 2,
+			min_time = 25,
+			max_time = 30,
+			type = 2,
+		},
+		[3]=
+		{
+			no = 3,
+			min_time = 10,
+			max_time = 25,
+			type = 3,
 		},
 	},
 	create_weight2=
