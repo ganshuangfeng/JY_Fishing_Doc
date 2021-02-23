@@ -2465,9 +2465,9 @@ return {
 			key = "act_ty_task",
 			desc = "通用活动模板1",
 			lua = "ActivityTaskManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[253]=
 		{
