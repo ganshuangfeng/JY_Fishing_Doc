@@ -17857,7 +17857,7 @@ return {
 			process_id = 21691,
 			source_id = 554,
 			process = 3,
-			awards = 1045,
+			awards = 1071,
 			get_award_type = "nor",
 		},
 		[744]=
@@ -17866,7 +17866,7 @@ return {
 			process_id = 21692,
 			source_id = 553,
 			process = 3,
-			awards = 1045,
+			awards = 1072,
 			get_award_type = "nor",
 		},
 		[745]=
@@ -17875,7 +17875,7 @@ return {
 			process_id = 21693,
 			source_id = 577,
 			process = 1,
-			awards = 1044,
+			awards = 1073,
 			get_award_type = "nor",
 		},
 		[746]=
@@ -17884,7 +17884,7 @@ return {
 			process_id = 21694,
 			source_id = 577,
 			process = 3,
-			awards = 1045,
+			awards = 1074,
 			get_award_type = "nor",
 		},
 		[747]=
@@ -17893,7 +17893,7 @@ return {
 			process_id = 21695,
 			source_id = 585,
 			process = 1,
-			awards = 1047,
+			awards = 1075,
 			get_award_type = "nor",
 		},
 		[748]=
@@ -17902,7 +17902,7 @@ return {
 			process_id = 21696,
 			source_id = 585,
 			process = 3,
-			awards = 1049,
+			awards = 1076,
 			get_award_type = "nor",
 		},
 		[749]=
@@ -17911,7 +17911,7 @@ return {
 			process_id = 21697,
 			source_id = 578,
 			process = 50,
-			awards = 1045,
+			awards = 1077,
 			get_award_type = "nor",
 		},
 		[750]=
@@ -17920,7 +17920,7 @@ return {
 			process_id = 21698,
 			source_id = 578,
 			process = 150,
-			awards = 1046,
+			awards = 1078,
 			get_award_type = "nor",
 		},
 		[751]=
@@ -17929,7 +17929,7 @@ return {
 			process_id = 21699,
 			source_id = 578,
 			process = 300,
-			awards = 1047,
+			awards = 1079,
 			get_award_type = "nor",
 		},
 		[752]=
@@ -17938,7 +17938,7 @@ return {
 			process_id = 21700,
 			source_id = 579,
 			process = 300000,
-			awards = 1046,
+			awards = 1080,
 			get_award_type = "nor",
 		},
 		[753]=
@@ -17947,7 +17947,7 @@ return {
 			process_id = 21701,
 			source_id = 579,
 			process = 800000,
-			awards = 1047,
+			awards = 1081,
 			get_award_type = "nor",
 		},
 		[754]=
@@ -17956,7 +17956,7 @@ return {
 			process_id = 21702,
 			source_id = 579,
 			process = 1500000,
-			awards = 1048,
+			awards = 1082,
 			get_award_type = "nor",
 		},
 		[755]=
@@ -17965,7 +17965,7 @@ return {
 			process_id = 21703,
 			source_id = 580,
 			process = 300000,
-			awards = 1046,
+			awards = 1083,
 			get_award_type = "nor",
 		},
 		[756]=
@@ -17974,7 +17974,7 @@ return {
 			process_id = 21704,
 			source_id = 580,
 			process = 800000,
-			awards = 1047,
+			awards = 1084,
 			get_award_type = "nor",
 		},
 		[757]=
@@ -17983,7 +17983,7 @@ return {
 			process_id = 21705,
 			source_id = 580,
 			process = 1500000,
-			awards = 1048,
+			awards = 1085,
 			get_award_type = "nor",
 		},
 		[758]=
@@ -17992,7 +17992,7 @@ return {
 			process_id = 21706,
 			source_id = 581,
 			process = 2,
-			awards = 1046,
+			awards = 1086,
 			get_award_type = "nor",
 		},
 		[759]=
@@ -18001,7 +18001,7 @@ return {
 			process_id = 21707,
 			source_id = 582,
 			process = 800000,
-			awards = 1047,
+			awards = 1087,
 			get_award_type = "nor",
 		},
 		[760]=
@@ -18010,7 +18010,7 @@ return {
 			process_id = 21708,
 			source_id = 583,
 			process = 1,
-			awards = 1048,
+			awards = 1088,
 			get_award_type = "nor",
 		},
 	},
@@ -42298,6 +42298,438 @@ return {
 			award_id = 1070,
 			asset_type = "_common_rank_nsj_007_mgbd_rank",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[1636]=
+		{
+			id = 1636,
+			award_id = 1071,
+			asset_type = "jing_bi",
+			asset_count = 8000,
+			get_weight = 1,
+		},
+		[1637]=
+		{
+			id = 1637,
+			award_id = 1071,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[1638]=
+		{
+			id = 1638,
+			award_id = 1071,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[1639]=
+		{
+			id = 1639,
+			award_id = 1072,
+			asset_type = "jing_bi",
+			asset_count = 8000,
+			get_weight = 1,
+		},
+		[1640]=
+		{
+			id = 1640,
+			award_id = 1072,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[1641]=
+		{
+			id = 1641,
+			award_id = 1072,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[1642]=
+		{
+			id = 1642,
+			award_id = 1073,
+			asset_type = "jing_bi",
+			asset_count = 4000,
+			get_weight = 1,
+		},
+		[1643]=
+		{
+			id = 1643,
+			award_id = 1073,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[1644]=
+		{
+			id = 1644,
+			award_id = 1073,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[1645]=
+		{
+			id = 1645,
+			award_id = 1074,
+			asset_type = "jing_bi",
+			asset_count = 8000,
+			get_weight = 1,
+		},
+		[1646]=
+		{
+			id = 1646,
+			award_id = 1074,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 6,
+			get_weight = 1,
+		},
+		[1647]=
+		{
+			id = 1647,
+			award_id = 1074,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 6,
+			get_weight = 1,
+		},
+		[1648]=
+		{
+			id = 1648,
+			award_id = 1075,
+			asset_type = "jing_bi",
+			asset_count = 12000,
+			get_weight = 1,
+		},
+		[1649]=
+		{
+			id = 1649,
+			award_id = 1075,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1650]=
+		{
+			id = 1650,
+			award_id = 1075,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1651]=
+		{
+			id = 1651,
+			award_id = 1076,
+			asset_type = "jing_bi",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[1652]=
+		{
+			id = 1652,
+			award_id = 1076,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 30,
+			get_weight = 1,
+		},
+		[1653]=
+		{
+			id = 1653,
+			award_id = 1076,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 30,
+			get_weight = 1,
+		},
+		[1654]=
+		{
+			id = 1654,
+			award_id = 1077,
+			asset_type = "jing_bi",
+			asset_count = 5000,
+			get_weight = 1,
+		},
+		[1655]=
+		{
+			id = 1655,
+			award_id = 1077,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 3,
+			get_weight = 1,
+		},
+		[1656]=
+		{
+			id = 1656,
+			award_id = 1077,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 3,
+			get_weight = 1,
+		},
+		[1657]=
+		{
+			id = 1657,
+			award_id = 1078,
+			asset_type = "jing_bi",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[1658]=
+		{
+			id = 1658,
+			award_id = 1078,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1659]=
+		{
+			id = 1659,
+			award_id = 1078,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1660]=
+		{
+			id = 1660,
+			award_id = 1079,
+			asset_type = "jing_bi",
+			asset_count = 15000,
+			get_weight = 1,
+		},
+		[1661]=
+		{
+			id = 1661,
+			award_id = 1079,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 20,
+			get_weight = 1,
+		},
+		[1662]=
+		{
+			id = 1662,
+			award_id = 1079,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 20,
+			get_weight = 1,
+		},
+		[1663]=
+		{
+			id = 1663,
+			award_id = 1080,
+			asset_type = "jing_bi",
+			asset_count = 8000,
+			get_weight = 1,
+		},
+		[1664]=
+		{
+			id = 1664,
+			award_id = 1080,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[1665]=
+		{
+			id = 1665,
+			award_id = 1080,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[1666]=
+		{
+			id = 1666,
+			award_id = 1081,
+			asset_type = "jing_bi",
+			asset_count = 12000,
+			get_weight = 1,
+		},
+		[1667]=
+		{
+			id = 1667,
+			award_id = 1081,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 6,
+			get_weight = 1,
+		},
+		[1668]=
+		{
+			id = 1668,
+			award_id = 1081,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 6,
+			get_weight = 1,
+		},
+		[1669]=
+		{
+			id = 1669,
+			award_id = 1082,
+			asset_type = "jing_bi",
+			asset_count = 15000,
+			get_weight = 1,
+		},
+		[1670]=
+		{
+			id = 1670,
+			award_id = 1082,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1671]=
+		{
+			id = 1671,
+			award_id = 1082,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1672]=
+		{
+			id = 1672,
+			award_id = 1083,
+			asset_type = "jing_bi",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[1673]=
+		{
+			id = 1673,
+			award_id = 1083,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[1674]=
+		{
+			id = 1674,
+			award_id = 1083,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[1675]=
+		{
+			id = 1675,
+			award_id = 1084,
+			asset_type = "jing_bi",
+			asset_count = 15000,
+			get_weight = 1,
+		},
+		[1676]=
+		{
+			id = 1676,
+			award_id = 1084,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 6,
+			get_weight = 1,
+		},
+		[1677]=
+		{
+			id = 1677,
+			award_id = 1084,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 6,
+			get_weight = 1,
+		},
+		[1678]=
+		{
+			id = 1678,
+			award_id = 1085,
+			asset_type = "jing_bi",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[1679]=
+		{
+			id = 1679,
+			award_id = 1085,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1680]=
+		{
+			id = 1680,
+			award_id = 1085,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1681]=
+		{
+			id = 1681,
+			award_id = 1086,
+			asset_type = "jing_bi",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[1682]=
+		{
+			id = 1682,
+			award_id = 1086,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 6,
+			get_weight = 1,
+		},
+		[1683]=
+		{
+			id = 1683,
+			award_id = 1086,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 6,
+			get_weight = 1,
+		},
+		[1684]=
+		{
+			id = 1684,
+			award_id = 1087,
+			asset_type = "jing_bi",
+			asset_count = 15000,
+			get_weight = 1,
+		},
+		[1685]=
+		{
+			id = 1685,
+			award_id = 1087,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 6,
+			get_weight = 1,
+		},
+		[1686]=
+		{
+			id = 1686,
+			award_id = 1087,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 6,
+			get_weight = 1,
+		},
+		[1687]=
+		{
+			id = 1687,
+			award_id = 1088,
+			asset_type = "jing_bi",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[1688]=
+		{
+			id = 1688,
+			award_id = 1088,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 30,
+			get_weight = 1,
+		},
+		[1689]=
+		{
+			id = 1689,
+			award_id = 1088,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 30,
 			get_weight = 1,
 		},
 	},

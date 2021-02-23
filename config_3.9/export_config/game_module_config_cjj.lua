@@ -2492,9 +2492,9 @@ return {
 		[255]=
 		{
 			id = 255,
-			key = "act_025_jrth",
-			desc = "双十二→庆典礼包",
-			lua = "Act_025_JRTHManager",
+			key = "act_ty_jrth",
+			desc = "礼包购买+自动抽奖",
+			lua = "Act_Ty_JRTHManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3124,7 +3124,7 @@ return {
 			id = 319,
 			key = "sys_act_base_style",
 			desc = "活动皮肤",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
