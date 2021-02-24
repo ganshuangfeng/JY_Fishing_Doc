@@ -3315,5 +3315,14 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[340]=
+		{
+			id = 340,
+			key = "act_ty_sjb_style/act_007_dlphb",
+			desc = "礼盒排行榜",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
