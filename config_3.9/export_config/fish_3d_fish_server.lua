@@ -5185,7 +5185,7 @@ return {
 		{
 			id = 74,
 			acti_type = 9,
-			num = {0,0,0.2,0.3},
+			num = {0,0,0.66,1},
 			show = 0,
 			enter_bag = 1,
 			value = 250,
@@ -5194,7 +5194,7 @@ return {
 		{
 			id = 75,
 			acti_type = 9,
-			num = {0,0,0.3,0.4},
+			num = {0,0,1,1.33},
 			show = 0,
 			enter_bag = 1,
 			value = 350,
@@ -5203,7 +5203,7 @@ return {
 		{
 			id = 76,
 			acti_type = 9,
-			num = {0,0,0.4,0.5},
+			num = {0,0,1.33,1.66},
 			show = 0,
 			enter_bag = 1,
 			value = 450,
@@ -5212,7 +5212,7 @@ return {
 		{
 			id = 77,
 			acti_type = 9,
-			num = {0,0,0.01,},
+			num = {0,0,0.03,},
 			show = 1,
 			enter_bag = 1,
 			value = 10,

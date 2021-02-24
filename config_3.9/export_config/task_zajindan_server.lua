@@ -11436,6 +11436,22 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000395]=
+		{
+			id = 1000395,
+			enable = 1,
+			name = "感恩回馈",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21753,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1615219200,
+			end_valid_time = 1615823999,
+			time_limit = -1,
+			is_send_client = 1,
+			award_change_type = "task_award_no_show",
+		},
 	},
 	process_data=
 	{
@@ -19063,6 +19079,15 @@ return {
 			source_id = 625,
 			process = 3,
 			awards = 1118,
+			get_award_type = "nor",
+		},
+		[805]=
+		{
+			id = 805,
+			process_id = 21753,
+			source_id = 542,
+			process = 300000,
+			awards = 1119,
 			get_award_type = "nor",
 		},
 	},
@@ -44761,6 +44786,22 @@ return {
 			award_id = 1118,
 			asset_type = "jing_bi",
 			asset_count = 1088888,
+			get_weight = 1,
+		},
+		[1753]=
+		{
+			id = 1753,
+			award_id = 1119,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1754]=
+		{
+			id = 1754,
+			award_id = 1119,
+			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},

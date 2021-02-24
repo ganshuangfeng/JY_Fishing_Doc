@@ -64,42 +64,49 @@ return {
 			ID = 8,
 			award = 50000,
 			limit = {1,1,},
+			condition = "礼盒数达到300万",
 		},
 		[9]=
 		{
 			ID = 9,
 			award = 15000,
 			limit = {2,2},
+			condition = "礼盒数达到180万",
 		},
 		[10]=
 		{
 			ID = 10,
 			award = 5000,
 			limit = {3,3,},
+			condition = "礼盒数达到90万",
 		},
 		[11]=
 		{
 			ID = 11,
 			award = 1500,
 			limit = {4,6,},
+			condition = "礼盒数达到45万",
 		},
 		[12]=
 		{
 			ID = 12,
 			award = 1000,
 			limit = {7,10,},
+			condition = "礼盒数达到30万",
 		},
 		[13]=
 		{
 			ID = 13,
 			award = 500,
 			limit = {11,15,},
+			condition = "礼盒数达到18万",
 		},
 		[14]=
 		{
 			ID = 14,
 			award = 240,
 			limit = {16,20,},
+			condition = "礼盒数达到9万",
 		},
 	},
 }
