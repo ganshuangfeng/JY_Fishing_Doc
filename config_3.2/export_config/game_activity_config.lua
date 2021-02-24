@@ -423,7 +423,7 @@ return {
 			title = "天天领金币",
 			order = 4,
 			is_on_off = 1,
-			condi_key = "actp_buy_gift_class_hqjnh_046_cjj_hllb",
+			condi_key = "actp_own_task_p_hljnh_046_hlfl_cjj",
 			beginTime = 1614038400,
 			endTime = 1614614399,
 			showType = "prefab",
