@@ -6613,7 +6613,7 @@ return {
 		[371]=
 		{
 			id = 371,
-			enable = 0,
+			enable = 1,
 			key = "actp_rank_kh315_008_lhphb_rank",
 			name = "礼盒排行榜--非cjj",
 			condi = 393,
@@ -6625,7 +6625,7 @@ return {
 		[372]=
 		{
 			id = 372,
-			enable = 0,
+			enable = 1,
 			key = "actp_rank_xxlzb_005_rank",
 			name = "消消乐争霸--cjj",
 			condi = 394,
