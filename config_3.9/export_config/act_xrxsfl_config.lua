@@ -115,7 +115,7 @@ return {
 			award_desc = "15元礼包",
 			award_img = "xrxsfl_icon_15ylb",
 			obj_key = "obj_xrxsfl_15box",
-			obj_box_exchange_id = 75,
+			obj_box_exchange_id = 82,
 			value = 1,
 		},
 		[2]=
@@ -132,6 +132,7 @@ return {
 			award_desc = "5～50元红包",
 			award_img = "xrxsfl_icon_hb",
 			obj_key = "obj_xrxsfl_5_50box",
+			obj_box_exchange_id = 86,
 			value = 1,
 		},
 		[4]=
@@ -148,7 +149,7 @@ return {
 			award_desc = "50元礼包",
 			award_img = "xrxsfl_icon_50ylb",
 			obj_key = "obj_xrxsfl_50box",
-			obj_box_exchange_id = 76,
+			obj_box_exchange_id = 83,
 			value = 1,
 		},
 		[6]=
@@ -180,7 +181,7 @@ return {
 			award_desc = "10元礼包",
 			award_img = "xrxsfl_icon_10ylb",
 			obj_key = "obj_xrxsfl_10box",
-			obj_box_exchange_id = 77,
+			obj_box_exchange_id = 84,
 			value = 1,
 		},
 		[10]=
@@ -197,6 +198,7 @@ return {
 			award_desc = "5～50元红包",
 			award_img = "xrxsfl_icon_hb",
 			obj_key = "obj_xrxsfl_5_50box",
+			obj_box_exchange_id = 86,
 			value = 1,
 		},
 		[12]=
@@ -213,7 +215,7 @@ return {
 			award_desc = "30元礼包",
 			award_img = "xrxsfl_icon_30ylb",
 			obj_key = "obj_xrxsfl_30box",
-			obj_box_exchange_id = 78,
+			obj_box_exchange_id = 85,
 			value = 1,
 		},
 		[14]=
