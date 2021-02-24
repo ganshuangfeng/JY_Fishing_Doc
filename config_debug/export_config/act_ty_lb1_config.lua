@@ -91,7 +91,7 @@ return {
 			bx_img = "ty_lb1_btn_bx3",
 			shop_id = 10486,
 			jl_img = {"zpg_icon_yg","ty_lb1_icon_box2_3"},
-			jl_number = {"x1","x15"},
+			jl_number = {"x4","x15"},
 		},
 		[2]=
 		{
@@ -102,7 +102,7 @@ return {
 			bx_img = "ty_lb1_btn_bx3",
 			shop_id = 10487,
 			jl_img = {"zpg_icon_yg","ty_lb1_icon_box2_3"},
-			jl_number = {"x1","x5"},
+			jl_number = {"x2","x5"},
 		},
 		[3]=
 		{
@@ -113,7 +113,7 @@ return {
 			bx_img = "ty_lb1_btn_bx2",
 			shop_id = 10488,
 			jl_img = {"zpg_icon_shui","ty_lb1_icon_4"},
-			jl_number = {"x4","x3"},
+			jl_number = {"x8","x3"},
 		},
 		[4]=
 		{
@@ -124,7 +124,7 @@ return {
 			bx_img = "ty_lb1_btn_bx1",
 			shop_id = 10489,
 			jl_img = {"zpg_icon_shui","ty_lb1_icon_3"},
-			jl_number = {"x2","x3"},
+			jl_number = {"x4","x3"},
 		},
 	},
 }
