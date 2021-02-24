@@ -226,7 +226,7 @@ return {
 			title = "节日福利",
 			order = 3,
 			is_on_off = 1,
-			condi_key = "actp_buy_gift_class_hqjnh_046_cjj_hllb",
+			condi_key = "actp_own_task_p_hljnh_046_hlfl_cjj",
 			beginTime = 1614643200,
 			endTime = 1615219199,
 			showType = "prefab",
