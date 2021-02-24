@@ -1452,28 +1452,28 @@ return {
 		{
 			id = 75,
 			use_id = 75,
-			use_item = "prop_xrxsfl_15box",
+			use_item = "obj_xrxsfl_15box",
 			use_num = 1,
 		},
 		[76]=
 		{
 			id = 76,
 			use_id = 76,
-			use_item = "prop_xrxsfl_50box",
+			use_item = "obj_xrxsfl_50box",
 			use_num = 1,
 		},
 		[77]=
 		{
 			id = 77,
 			use_id = 77,
-			use_item = "prop_xrxsfl_10box",
+			use_item = "obj_xrxsfl_10box",
 			use_num = 1,
 		},
 		[78]=
 		{
 			id = 78,
 			use_id = 78,
-			use_item = "prop_xrxsfl_30box",
+			use_item = "obj_xrxsfl_30box",
 			use_num = 1,
 		},
 		[79]=
