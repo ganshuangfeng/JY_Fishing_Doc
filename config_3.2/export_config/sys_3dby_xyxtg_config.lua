@@ -7,6 +7,8 @@ return {
 			game_name = "xiaoxiaole_game",
 			game_config = "sgxxl_config",
 			prefab_name = "MiniGameSGXXLPrefab",
+			game_name_desc = "水果消消乐",
+			selet_img = "xxc_icon_xxl_1",
 		},
 		[2]=
 		{
@@ -14,20 +16,26 @@ return {
 			game_name = "xiaoxiaole_shuihu_game",
 			game_config = "shxxl_config",
 			prefab_name = "MiniGameSHXXLPrefab",
+			game_name_desc = "水浒消消乐",
+			selet_img = "xxc_icon_shxxl_1",
 		},
 		[3]=
 		{
 			line = 3,
-			game_name = "xiaoxiaole_caishen_game",
-			game_config = "csxxl_config",
-			prefab_name = "MiniGameCSXXLPrefab",
+			game_name = "xiaoxiaole_xiyou_game",
+			game_config = "xyxxl_config",
+			prefab_name = "MiniGameXYXXLPrefab",
+			game_name_desc = "西游消消乐",
+			selet_img = "xxc_icon_xyxxl_1",
 		},
 		[4]=
 		{
 			line = 4,
-			game_name = "xiaoxiaole_xiyou_game",
-			game_config = "xyxxl_config",
-			prefab_name = "MiniGameXYXXLPrefab",
+			game_name = "xiaoxiaole_caishen_game",
+			game_config = "csxxl_config",
+			prefab_name = "MiniGameCSXXLPrefab",
+			game_name_desc = "财神消消乐",
+			selet_img = "xxc_icon_csxxl_1",
 		},
 	},
 	bet_times=
