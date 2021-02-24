@@ -290,13 +290,11 @@ return {
 		{
 			key = "zajindan_cs_bet_1",
 			name = "财神模式下注10000鲸币",
-			condi = 22,
 		},
 		zajindan_cs_bet_2=
 		{
 			key = "zajindan_cs_bet_2",
 			name = "财神模式下注20万鲸币",
-			condi = 22,
 		},
 		zajindan_cs_bet_3=
 		{
@@ -314,25 +312,25 @@ return {
 		{
 			key = "zajindan_cs_bet_5",
 			name = "暂时不用",
-			condi = 22,
+			condi = 24,
 		},
 		zajindan_cs_bet_6=
 		{
 			key = "zajindan_cs_bet_6",
 			name = "暂时不用",
-			condi = 22,
+			condi = 24,
 		},
 		zajindan_cs_bet_7=
 		{
 			key = "zajindan_cs_bet_7",
 			name = "暂时不用",
-			condi = 22,
+			condi = 24,
 		},
 		zajindan_cs_bet_8=
 		{
 			key = "zajindan_cs_bet_8",
 			name = "暂时不用",
-			condi = 23,
+			condi = 24,
 		},
 		zajindan_cs_bet_9=
 		{
@@ -344,7 +342,7 @@ return {
 		{
 			key = "zajindan_cs_bet_10",
 			name = "暂时不用",
-			condi = 25,
+			condi = 24,
 		},
 		xxl_bet_1=
 		{
