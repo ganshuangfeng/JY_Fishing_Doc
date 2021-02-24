@@ -4306,7 +4306,7 @@ return {
 			item_key = "obj_jbzk",
 			lose_time = -1,
 			is_local_icon = 1,
-			image = "jbzk_icon_jbzk",
+			image = "xrxsfl_jbzk_icon_jbzk",
 			is_show_bag = 0,
 			order = 1,
 			name = "金币周卡",
