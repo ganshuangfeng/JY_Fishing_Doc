@@ -37,6 +37,7 @@ return {
 			award_image = "swjl_1",
 			item_cost_text = 866600,
 			type = 1,
+			condiy_key = "actp_no_cjj_gej_exchange_V5",
 		},
 		[2]=
 		{
@@ -101,6 +102,7 @@ return {
 			award_image = "swjl_1",
 			item_cost_text = 866600,
 			type = 1,
+			condiy_key = "actp_cjj_gej_exchange_V5",
 		},
 		[10]=
 		{

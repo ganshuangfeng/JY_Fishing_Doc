@@ -6543,7 +6543,7 @@ return {
 			id = 365,
 			enable = 1,
 			key = "actp_no_cjj_gej_exchange_V5",
-			name = "非cjj且大于V",
+			name = "非cjj且大于V5",
 			condi = 399,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -6566,7 +6566,7 @@ return {
 		{
 			id = 367,
 			enable = 1,
-			key = "actp_own_task_gehk_v3",
+			key = "actp_own_task_p_gehk_v3",
 			name = "小于等于V3",
 			condi = 401,
 			is_dynamic_codi = 1,
@@ -6578,7 +6578,7 @@ return {
 		{
 			id = 368,
 			enable = 1,
-			key = "actp_own_task_gehk_v4v12",
+			key = "actp_own_task_p_gehk_v4v12",
 			name = "大于等于V4",
 			condi = 402,
 			is_dynamic_codi = 1,
