@@ -320,6 +320,7 @@ return {
 		{
 			id = 3,
 			area = "down2",
+			group_list = "126#",
 		},
 		[4]=
 		{
@@ -1207,6 +1208,12 @@ return {
 		{
 			id = 125,
 			parm = {"by_hbyts",},
+			is_on_off = 1,
+		},
+		[126]=
+		{
+			id = 126,
+			parm = {"act_xrxsfl",},
 			is_on_off = 1,
 		},
 	},
