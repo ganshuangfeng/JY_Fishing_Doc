@@ -346,6 +346,12 @@ return {
 			area = "Right_boss",
 			group_list = "69#125;73#",
 		},
+		[8]=
+		{
+			id = 8,
+			area = "Right_shtx",
+			group_list = "127#",
+		},
 	},
 	fishing3d_hall=
 	{
@@ -1214,6 +1220,12 @@ return {
 		{
 			id = 126,
 			parm = {"act_xrxsfl",},
+			is_on_off = 1,
+		},
+		[127]=
+		{
+			id = 127,
+			parm = {"sys_3dby_xyxtg",},
 			is_on_off = 1,
 		},
 	},

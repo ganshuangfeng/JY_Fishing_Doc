@@ -2165,6 +2165,12 @@ return {
 			name = "小游戏托管-100次",
 			condi = 26,
 		},
+		xyxtg_enter_limit=
+		{
+			key = "xyxtg_enter_limit",
+			name = "小游戏限制",
+			condi = 22,
+		},
 	},
 	act_permission=
 	{
