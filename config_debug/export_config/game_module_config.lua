@@ -916,7 +916,7 @@ return {
 			key = "act_sjjl",
 			desc = "升级奖励",
 			lua = "SJJLManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
