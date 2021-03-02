@@ -289,62 +289,60 @@ return {
 		zajindan_cs_bet_1=
 		{
 			key = "zajindan_cs_bet_1",
-			name = "财神模式下注2000鲸币",
-			condi = 22,
+			name = "财神模式下注10000鲸币",
 		},
 		zajindan_cs_bet_2=
 		{
 			key = "zajindan_cs_bet_2",
-			name = "财神模式下注5000鲸币",
-			condi = 22,
+			name = "财神模式下注20万鲸币",
 		},
 		zajindan_cs_bet_3=
 		{
 			key = "zajindan_cs_bet_3",
-			name = "财神模式下注1.5万鲸币",
+			name = "财神模式下注100万鲸币",
 			condi = 22,
 		},
 		zajindan_cs_bet_4=
 		{
 			key = "zajindan_cs_bet_4",
-			name = "财神模式下注3万鲸币",
-			condi = 22,
+			name = "财神模式下注500万鲸币",
+			condi = 24,
 		},
 		zajindan_cs_bet_5=
 		{
 			key = "zajindan_cs_bet_5",
-			name = "财神模式下注6万鲸币",
-			condi = 22,
+			name = "暂时不用",
+			condi = 24,
 		},
 		zajindan_cs_bet_6=
 		{
 			key = "zajindan_cs_bet_6",
-			name = "财神模式下注12万鲸币",
-			condi = 22,
+			name = "暂时不用",
+			condi = 24,
 		},
 		zajindan_cs_bet_7=
 		{
 			key = "zajindan_cs_bet_7",
-			name = "财神模式下注24万鲸币",
-			condi = 22,
+			name = "暂时不用",
+			condi = 24,
 		},
 		zajindan_cs_bet_8=
 		{
 			key = "zajindan_cs_bet_8",
-			name = "财神模式下注48万鲸币",
-			condi = 23,
+			name = "暂时不用",
+			condi = 24,
 		},
 		zajindan_cs_bet_9=
 		{
 			key = "zajindan_cs_bet_9",
-			name = "财神模式下注96万鲸币",
+			name = "暂时不用",
 			condi = 24,
 		},
 		zajindan_cs_bet_10=
 		{
 			key = "zajindan_cs_bet_10",
-			name = "财神模式下注192万鲸币",
-			condi = 25,
+			name = "暂时不用",
+			condi = 24,
 		},
 		xxl_bet_1=
 		{
@@ -1024,13 +1022,13 @@ return {
 		{
 			key = "drt_block_binding_phone_num",
 			name = "绑定手机限制（鲸鱼斗地主、玩棋牌（闲玩、PC蛋蛋、聚享玩、小啄）、潮流捕鱼（闲玩））VIP1以下玩家",
-			condi = 80,
+			condi = 397,
 		},
 		drt_block_real_name_verify=
 		{
 			key = "drt_block_real_name_verify",
 			name = "实名认证限制（潮流的玩家限制，其他不限制）",
-			condi = 81,
+			condi = 398,
 		},
 		drt_block_xuyuanchi=
 		{
@@ -2138,11 +2136,40 @@ return {
 			name = "救济金月卡跳转",
 			condi = 386,
 		},
-		cpl_notcjj_notcps=
+		xyxtg_bet_limit_1=
 		{
-			key = "cpl_notcjj_notcps",
-			name = "非冲金鸡与cps",
-			condi = 396,
+			key = "xyxtg_bet_limit_1",
+			name = "小游戏托管-10次",
+		},
+		xyxtg_bet_limit_2=
+		{
+			key = "xyxtg_bet_limit_2",
+			name = "小游戏托管-20次",
+			condi = 22,
+		},
+		xyxtg_bet_limit_3=
+		{
+			key = "xyxtg_bet_limit_3",
+			name = "小游戏托管-30次",
+			condi = 23,
+		},
+		xyxtg_bet_limit_4=
+		{
+			key = "xyxtg_bet_limit_4",
+			name = "小游戏托管-50次",
+			condi = 24,
+		},
+		xyxtg_bet_limit_5=
+		{
+			key = "xyxtg_bet_limit_5",
+			name = "小游戏托管-100次",
+			condi = 26,
+		},
+		xyxtg_enter_limit=
+		{
+			key = "xyxtg_enter_limit",
+			name = "小游戏限制",
+			condi = 22,
 		},
 	},
 	act_permission=
@@ -6340,7 +6367,7 @@ return {
 			id = 350,
 			enable = 1,
 			key = "actp_own_task_p_hljnh_046_hlfl_nor",
-			name = "欢乐福利（欢乐捕鱼）",
+			name = "欢乐福利（欢乐捕鱼）--非cps",
 			condi = 372,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -6381,7 +6408,7 @@ return {
 			is_dynamic_codi = 0,
 			is_dynamic_cancel = 0,
 			refresh_type = "day_delay",
-			start_deal_time = 1613433600,
+			start_deal_time = 1611014400,
 		},
 		[354]=
 		{
@@ -6393,7 +6420,7 @@ return {
 			is_dynamic_codi = 0,
 			is_dynamic_cancel = 0,
 			refresh_type = "day_delay",
-			start_deal_time = 1613433600,
+			start_deal_time = 1611014400,
 		},
 		[355]=
 		{
@@ -6405,7 +6432,7 @@ return {
 			is_dynamic_codi = 0,
 			is_dynamic_cancel = 0,
 			refresh_type = "day_delay",
-			start_deal_time = 1613433600,
+			start_deal_time = 1611014400,
 		},
 		[356]=
 		{
@@ -6509,11 +6536,23 @@ return {
 			enable = 1,
 			key = "actp_show_gift_bag_xyfl",
 			name = "全cpl",
-			condi = 395,
+			condi = 396,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 1612828800,
+		},
+		[365]=
+		{
+			id = 365,
+			enable = 1,
+			key = "actp_own_task_p_system_update_1",
+			name = "大版本升级权限（CPS渠道屏蔽，除官方IOS渠道以外的IOS渠道屏蔽）",
+			condi = 380,
+			is_dynamic_codi = 0,
+			is_dynamic_cancel = 0,
+			refresh_type = "day_delay",
+			start_deal_time = 0,
 		},
 	},
 	condi=
@@ -15871,6 +15910,26 @@ return {
 		[936]=
 		{
 			no = 936,
+			id = 380,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "CPL用户",
+		},
+		[937]=
+		{
+			no = 937,
+			id = 380,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 3,
+			error_desc = "IOS用户",
+		},
+		[938]=
+		{
+			no = 938,
 			id = 381,
 			var = "vip_level",
 			value = 0,
@@ -15878,9 +15937,9 @@ return {
 			group = 1,
 			error_desc = "VIP等级0",
 		},
-		[937]=
+		[939]=
 		{
-			no = 937,
+			no = 939,
 			id = 382,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -15888,9 +15947,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[938]=
+		[940]=
 		{
-			no = 938,
+			no = 940,
 			id = 382,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -15898,9 +15957,9 @@ return {
 			group = 2,
 			error_desc = "是免费用户",
 		},
-		[939]=
+		[941]=
 		{
-			no = 939,
+			no = 941,
 			id = 382,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -15908,9 +15967,9 @@ return {
 			group = 3,
 			error_desc = "是小额用户",
 		},
-		[940]=
+		[942]=
 		{
-			no = 940,
+			no = 942,
 			id = 383,
 			var = "vip_level",
 			value = 1,
@@ -15918,9 +15977,9 @@ return {
 			group = 1,
 			error_desc = "大于V1",
 		},
-		[941]=
+		[943]=
 		{
-			no = 941,
+			no = 943,
 			id = 383,
 			var = "vip_level",
 			value = 7,
@@ -15928,9 +15987,9 @@ return {
 			group = 1,
 			error_desc = "小于V7",
 		},
-		[942]=
+		[944]=
 		{
-			no = 942,
+			no = 944,
 			id = 383,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -15938,9 +15997,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[943]=
+		[945]=
 		{
-			no = 943,
+			no = 945,
 			id = 384,
 			var = "vip_level",
 			value = 8,
@@ -15948,9 +16007,9 @@ return {
 			group = 1,
 			error_desc = "大于V1",
 		},
-		[944]=
+		[946]=
 		{
-			no = 944,
+			no = 946,
 			id = 384,
 			var = "vip_level",
 			value = 12,
@@ -15958,9 +16017,9 @@ return {
 			group = 1,
 			error_desc = "小于V7",
 		},
-		[945]=
+		[947]=
 		{
-			no = 945,
+			no = 947,
 			id = 384,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -15968,9 +16027,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[946]=
+		[948]=
 		{
-			no = 946,
+			no = 948,
 			id = 385,
 			var = "vip_level",
 			value = 0,
@@ -15978,9 +16037,9 @@ return {
 			group = 1,
 			error_desc = "VIP等级0",
 		},
-		[947]=
+		[949]=
 		{
-			no = 947,
+			no = 949,
 			id = 386,
 			var = "vip_level",
 			value = 1,
@@ -15988,9 +16047,9 @@ return {
 			group = 1,
 			error_desc = "VIP等级1",
 		},
-		[948]=
+		[950]=
 		{
-			no = 948,
+			no = 950,
 			id = 387,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -15998,9 +16057,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[949]=
+		[951]=
 		{
-			no = 949,
+			no = 951,
 			id = 388,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -16008,9 +16067,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[950]=
+		[952]=
 		{
-			no = 950,
+			no = 952,
 			id = 388,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -16018,9 +16077,9 @@ return {
 			group = 2,
 			error_desc = "是新用户",
 		},
-		[951]=
+		[953]=
 		{
-			no = 951,
+			no = 953,
 			id = 389,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -16028,9 +16087,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[952]=
+		[954]=
 		{
-			no = 952,
+			no = 954,
 			id = 389,
 			var = "vip_level",
 			value = 3,
@@ -16038,9 +16097,9 @@ return {
 			group = 2,
 			error_desc = "小于V3",
 		},
-		[953]=
+		[955]=
 		{
-			no = 953,
+			no = 955,
 			id = 390,
 			var = "vip_level",
 			value = 4,
@@ -16048,9 +16107,9 @@ return {
 			group = 1,
 			error_desc = "大于V4",
 		},
-		[954]=
+		[956]=
 		{
-			no = 954,
+			no = 956,
 			id = 390,
 			var = "vip_level",
 			value = 7,
@@ -16058,9 +16117,9 @@ return {
 			group = 1,
 			error_desc = "小于V7",
 		},
-		[955]=
+		[957]=
 		{
-			no = 955,
+			no = 957,
 			id = 390,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -16068,9 +16127,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[956]=
+		[958]=
 		{
-			no = 956,
+			no = 958,
 			id = 391,
 			var = "vip_level",
 			value = 8,
@@ -16078,9 +16137,9 @@ return {
 			group = 1,
 			error_desc = "大于V1",
 		},
-		[957]=
+		[959]=
 		{
-			no = 957,
+			no = 959,
 			id = 391,
 			var = "vip_level",
 			value = 12,
@@ -16088,9 +16147,9 @@ return {
 			group = 1,
 			error_desc = "小于V7",
 		},
-		[958]=
+		[960]=
 		{
-			no = 958,
+			no = 960,
 			id = 391,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -16098,9 +16157,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[959]=
+		[961]=
 		{
-			no = 959,
+			no = 961,
 			id = 392,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -16108,9 +16167,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[960]=
+		[962]=
 		{
-			no = 960,
+			no = 962,
 			id = 393,
 			var = "share_condition",
 			value = "cjj_all",
@@ -16118,9 +16177,9 @@ return {
 			group = 1,
 			error_desc = "不是cjj",
 		},
-		[961]=
+		[963]=
 		{
-			no = 961,
+			no = 963,
 			id = 394,
 			var = "share_condition",
 			value = "cjj_all",
@@ -16128,85 +16187,75 @@ return {
 			group = 1,
 			error_desc = "是cjj",
 		},
-		[962]=
-		{
-			no = 962,
-			id = 395,
-			var = "share_condition",
-			value = "3dby_cpl",
-			judge = 2,
-			group = 1,
-			error_desc = "3d捕鱼cpl",
-		},
-		[963]=
-		{
-			no = 963,
-			id = 395,
-			var = "share_condition",
-			value = "cjj_cpl",
-			judge = 2,
-			group = 2,
-			error_desc = "冲金鸡cpl",
-		},
 		[964]=
 		{
 			no = 964,
-			id = 396,
+			id = 395,
 			var = "share_condition",
-			value = "3dby_cpl",
+			value = "cjj_all",
 			judge = 2,
 			group = 1,
-			error_desc = "是CPl渠道",
+			error_desc = "是cjj",
 		},
 		[965]=
 		{
 			no = 965,
 			id = 396,
 			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
+			value = "3dby_cpl",
+			judge = 2,
 			group = 1,
-			error_desc = "是CPS渠道",
+			error_desc = "3d捕鱼cpl",
 		},
 		[966]=
 		{
 			no = 966,
 			id = 396,
 			var = "share_condition",
-			value = "cjj_all",
-			judge = 5,
-			group = 1,
-			error_desc = "不是cjj",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 2,
+			error_desc = "冲金鸡cpl",
 		},
 		[967]=
 		{
 			no = 967,
-			id = 396,
+			id = 397,
 			var = "share_condition",
-			value = "3dby_official",
+			value = "3dby_cpl",
 			judge = 2,
-			group = 2,
-			error_desc = "是官方渠道",
+			group = 1,
+			error_desc = "是CPL",
 		},
 		[968]=
 		{
 			no = 968,
-			id = 396,
+			id = 397,
 			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 2,
-			error_desc = "是CPS渠道",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是官方",
 		},
 		[969]=
 		{
 			no = 969,
-			id = 396,
+			id = 398,
 			var = "share_condition",
-			value = "cjj_all",
-			judge = 5,
-			group = 2,
-			error_desc = "不是cjj",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPL",
+		},
+		[970]=
+		{
+			no = 970,
+			id = 398,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是官方",
 		},
 	},
 	share_condition=

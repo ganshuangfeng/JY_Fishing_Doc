@@ -196,7 +196,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "招财进宝，八方来财!",
+			decs = "打倒我有惊喜奖励哦～",
 		},
 		[19]=
 		{
@@ -207,7 +207,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "打倒我有丰厚奖励哦!",
+			decs = "打倒我有惊喜奖励哦～",
 		},
 		[20]=
 		{
@@ -218,7 +218,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "财源滚滚，大吉大利!",
+			decs = "打倒我有惊喜奖励哦～",
 		},
 	},
 }

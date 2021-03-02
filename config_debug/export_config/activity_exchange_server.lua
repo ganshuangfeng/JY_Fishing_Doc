@@ -493,6 +493,52 @@ return {
 			award_id = 42,
 			enable = 1,
 		},
+		[43]=
+		{
+			id = 43,
+			name = "新人限时福利",
+			start_time = 1615248000,
+			end_time = 2552233600,
+			use_goods = {"prop_xrxsfl_cjq",},
+			goods_type = 1,
+			award_id = 43,
+			enable = 1,
+		},
+		[44]=
+		{
+			id = 44,
+			name = "新人限时福利-冲金鸡",
+			start_time = 1615248000,
+			end_time = 2552233600,
+			use_goods = {"prop_xrxsfl_cjq",},
+			goods_type = 1,
+			award_id = 44,
+			enable = 1,
+		},
+		[45]=
+		{
+			id = 45,
+			name = "礼盒换好礼",
+			start_time = 1615248000,
+			end_time = 1615823999,
+			use_goods = {"prop_fish_drop_act_0",},
+			goods_type = 1,
+			email_id = 31,
+			award_id = 45,
+			enable = 1,
+		},
+		[46]=
+		{
+			id = 46,
+			name = "礼盒换好礼--cjj",
+			start_time = 1615248000,
+			end_time = 1615823999,
+			use_goods = {"prop_fish_drop_act_0",},
+			goods_type = 1,
+			email_id = 32,
+			award_id = 46,
+			enable = 1,
+		},
 	},
 	email=
 	{
@@ -675,6 +721,18 @@ return {
 			id = 30,
 			title = "女神节",
 			content = "恭喜您在女神的礼物活动中获得了%s，请在活动结束后7个工作日内联系公众号《彩云新世界》客服领取，逾期视为自动放弃！",
+		},
+		[31]=
+		{
+			id = 31,
+			title = "315狂欢",
+			content = "恭喜您在礼盒换好礼活动中获得了%s，请在活动结束后7个工作日内联系公众号《鲸鱼初纪元》客服领取，逾期视为自动放弃！",
+		},
+		[32]=
+		{
+			id = 32,
+			title = "315狂欢",
+			content = "恭喜您在礼盒换好礼活动中获得了%s，请在活动结束后7个工作日内联系公众号《彩云新世界》客服领取，逾期视为自动放弃！",
 		},
 	},
 	award=
@@ -3303,6 +3361,292 @@ return {
 			use_num = {1200,},
 			me_limit_day_num = 1,
 		},
+		[251]=
+		{
+			no = 251,
+			award_cfg_id = 43,
+			award_id = 1,
+			permission_key = "p_xrxsfl_hlby",
+			asset_type = {"obj_xrxsfl_15box",},
+			asset_count = {1,},
+			use_num = {1,},
+		},
+		[252]=
+		{
+			no = 252,
+			award_cfg_id = 43,
+			award_id = 2,
+			permission_key = "p_xrxsfl_hlby",
+			asset_type = {"fish_coin",},
+			asset_count = {1000,},
+			use_num = {1,},
+		},
+		[253]=
+		{
+			no = 253,
+			award_cfg_id = 43,
+			award_id = 3,
+			permission_key = "p_xrxsfl_hlby",
+			asset_type = {"obj_xrxsfl_5_50box",},
+			asset_count = {1,},
+			use_num = {1,},
+		},
+		[254]=
+		{
+			no = 254,
+			award_cfg_id = 43,
+			award_id = 4,
+			permission_key = "p_xrxsfl_hlby",
+			asset_type = {"obj_jbzk",},
+			asset_count = {1,},
+			use_num = {1,},
+		},
+		[255]=
+		{
+			no = 255,
+			award_cfg_id = 43,
+			award_id = 5,
+			permission_key = "p_xrxsfl_hlby",
+			asset_type = {"obj_xrxsfl_50box",},
+			asset_count = {1,},
+			use_num = {1,},
+		},
+		[256]=
+		{
+			no = 256,
+			award_cfg_id = 43,
+			award_id = 6,
+			permission_key = "p_xrxsfl_hlby",
+			asset_type = {"prop_3d_fish_lock",},
+			asset_count = {3,},
+			use_num = {1,},
+		},
+		[257]=
+		{
+			no = 257,
+			award_cfg_id = 44,
+			award_id = 1,
+			permission_key = "p_xrxsfl_cjj",
+			asset_type = {"obj_xrxsfl_10box",},
+			asset_count = {1,},
+			use_num = {1,},
+		},
+		[258]=
+		{
+			no = 258,
+			award_cfg_id = 44,
+			award_id = 2,
+			permission_key = "p_xrxsfl_cjj",
+			asset_type = {"jing_bi",},
+			asset_count = {1000,},
+			use_num = {1,},
+		},
+		[259]=
+		{
+			no = 259,
+			award_cfg_id = 44,
+			award_id = 3,
+			permission_key = "p_xrxsfl_cjj",
+			asset_type = {"obj_xrxsfl_5_50box",},
+			asset_count = {1,},
+			use_num = {1,},
+		},
+		[260]=
+		{
+			no = 260,
+			award_cfg_id = 44,
+			award_id = 4,
+			permission_key = "p_xrxsfl_cjj",
+			asset_type = {"obj_jbzk",},
+			asset_count = {1,},
+			use_num = {1,},
+		},
+		[261]=
+		{
+			no = 261,
+			award_cfg_id = 44,
+			award_id = 5,
+			permission_key = "p_xrxsfl_cjj",
+			asset_type = {"obj_xrxsfl_30box",},
+			asset_count = {1,},
+			use_num = {1,},
+		},
+		[262]=
+		{
+			no = 262,
+			award_cfg_id = 44,
+			award_id = 6,
+			permission_key = "p_xrxsfl_cjj",
+			asset_type = {"prop_hammer_1",},
+			asset_count = {1,},
+			use_num = {1,},
+		},
+		[263]=
+		{
+			no = 263,
+			award_cfg_id = 45,
+			award_id = 1,
+			permission_key = "actp_no_cjj_gej_exchange_V5",
+			award_name = "华为荣耀手机",
+			use_num = {866600,},
+			me_limit_day_num = 1,
+		},
+		[264]=
+		{
+			no = 264,
+			award_cfg_id = 45,
+			award_id = 2,
+			permission_key = "actp_no_cjj_gej_exchange",
+			award_name = "家用吸尘器",
+			use_num = {96666,},
+			me_limit_day_num = 1,
+		},
+		[265]=
+		{
+			no = 265,
+			award_cfg_id = 45,
+			award_id = 3,
+			permission_key = "actp_no_cjj_gej_exchange",
+			award_name = "小米蓝牙耳机",
+			use_num = {58888,},
+			me_limit_day_num = 1,
+		},
+		[266]=
+		{
+			no = 266,
+			award_cfg_id = 45,
+			award_id = 4,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"prop_3d_fish_nuclear_bomb_3",},
+			asset_count = {1,},
+			use_num = {36000,},
+		},
+		[267]=
+		{
+			no = 267,
+			award_cfg_id = 45,
+			award_id = 5,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {5000000,},
+			use_num = {18000,},
+			me_limit_day_num = 2,
+		},
+		[268]=
+		{
+			no = 268,
+			award_cfg_id = 45,
+			award_id = 6,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {2000000,},
+			use_num = {7200,},
+			me_limit_day_num = 1,
+		},
+		[269]=
+		{
+			no = 269,
+			award_cfg_id = 45,
+			award_id = 7,
+			permission_key = "actp_no_cjj_gej_exchange",
+			award_name = "山药薄片10袋",
+			use_num = {8000,},
+			me_limit_day_num = 2,
+		},
+		[270]=
+		{
+			no = 270,
+			award_cfg_id = 45,
+			award_id = 8,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"prop_3d_fish_nuclear_bomb_1",},
+			asset_count = {1,},
+			use_num = {3666,},
+			me_limit_day_num = 1,
+		},
+		[271]=
+		{
+			no = 271,
+			award_cfg_id = 46,
+			award_id = 1,
+			permission_key = "actp_cjj_gej_exchange_V5",
+			award_name = "华为荣耀手机",
+			use_num = {866600,},
+			me_limit_day_num = 1,
+		},
+		[272]=
+		{
+			no = 272,
+			award_cfg_id = 46,
+			award_id = 2,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "家用吸尘器",
+			use_num = {96666,},
+			me_limit_day_num = 1,
+		},
+		[273]=
+		{
+			no = 273,
+			award_cfg_id = 46,
+			award_id = 3,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "小米蓝牙耳机",
+			use_num = {58888,},
+			me_limit_day_num = 1,
+		},
+		[274]=
+		{
+			no = 274,
+			award_cfg_id = 46,
+			award_id = 4,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"prop_hammer_4",},
+			asset_count = {10,},
+			use_num = {36000,},
+		},
+		[275]=
+		{
+			no = 275,
+			award_cfg_id = 46,
+			award_id = 5,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {5000000,},
+			use_num = {18000,},
+			me_limit_day_num = 2,
+		},
+		[276]=
+		{
+			no = 276,
+			award_cfg_id = 46,
+			award_id = 6,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"jing_bi",},
+			asset_count = {2000000,},
+			use_num = {7200,},
+			me_limit_day_num = 1,
+		},
+		[277]=
+		{
+			no = 277,
+			award_cfg_id = 46,
+			award_id = 7,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "山药薄片10袋",
+			use_num = {8000,},
+			me_limit_day_num = 2,
+		},
+		[278]=
+		{
+			no = 278,
+			award_cfg_id = 46,
+			award_id = 8,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"prop_hammer_3",},
+			asset_count = {10,},
+			use_num = {3666,},
+			me_limit_day_num = 1,
+		},
 	},
 	all_powerful=
 	{
@@ -3316,75 +3660,22 @@ return {
 			act_id = 35,
 			all_powerful_type = "prop_gdn_wn",
 		},
-		[36]=
+	},
+	award_num=
+	{
+		[1]=
 		{
-			act_id = 36,
-			all_powerful_type = "prop_gdn_wn",
-		},
-		[37]=
-		{
-			act_id = 37,
-			all_powerful_type = "prop_gdn_wn",
-		},
-		[38]=
-		{
-			act_id = 38,
-			all_powerful_type = "prop_gdn_wn",
-		},
-		[39]=
-		{
-			act_id = 39,
-			all_powerful_type = "prop_gdn_wn",
-		},
-		[40]=
-		{
-			act_id = 40,
-			all_powerful_type = "prop_gdn_wn",
-		},
-		[41]=
-		{
-			act_id = 41,
-			all_powerful_type = "prop_gdn_wn",
-		},
-		[42]=
-		{
-			act_id = 42,
-			all_powerful_type = "prop_gdn_wn",
-		},
-		[43]=
-		{
+			id = 1,
 			act_id = 43,
-			all_powerful_type = "prop_gdn_wn",
+			award_num = {1,1},
+			award_id = 1,
 		},
-		[44]=
+		[2]=
 		{
-			act_id = 44,
-			all_powerful_type = "prop_gdn_wn",
-		},
-		[45]=
-		{
-			act_id = 45,
-			all_powerful_type = "prop_gdn_wn",
-		},
-		[46]=
-		{
-			act_id = 46,
-			all_powerful_type = "prop_gdn_wn",
-		},
-		[47]=
-		{
-			act_id = 47,
-			all_powerful_type = "prop_gdn_wn",
-		},
-		[48]=
-		{
-			act_id = 48,
-			all_powerful_type = "prop_gdn_wn",
-		},
-		[49]=
-		{
-			act_id = 49,
-			all_powerful_type = "prop_gdn_wn",
+			id = 2,
+			act_id = 43,
+			award_num = {2,2},
+			award_id = 2,
 		},
 	},
 }

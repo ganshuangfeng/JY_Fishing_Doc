@@ -46,5 +46,12 @@ return {
 			gotoui = {"by3d_ad_mfcj",},
 			condi_key = "cps_xycj",
 		},
+		[7]=
+		{
+			line = 7,
+			isOnOff = 0,
+			order = 7,
+			gotoui = {"sys_3dby_xyxtg",},
+		},
 	},
 }

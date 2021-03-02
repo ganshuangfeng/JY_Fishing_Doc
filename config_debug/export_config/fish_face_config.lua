@@ -196,7 +196,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "打倒我有惊喜奖励哦～",
+			decs = "捕获我有丰厚奖励哦！",
 		},
 		[19]=
 		{
@@ -207,7 +207,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "打倒我有惊喜奖励哦～",
+			decs = "捕获我有丰厚奖励哦！",
 		},
 		[20]=
 		{
@@ -218,7 +218,7 @@ return {
 			run_time = 10,
 			min_time = 10,
 			max_time = 20,
-			decs = "打倒我有惊喜奖励哦～",
+			decs = "捕获我有丰厚奖励哦！",
 		},
 	},
 }
