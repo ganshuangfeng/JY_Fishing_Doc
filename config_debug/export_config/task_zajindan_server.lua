@@ -10339,6 +10339,7 @@ return {
 			end_valid_time = 1613404799,
 			time_limit = -1,
 			is_send_client = 1,
+			award_change_type = "task_ocean_explore_week_children_task",
 		},
 		[1000322]=
 		{
