@@ -457,6 +457,24 @@ return {
 			group_list = "120#",
 		},
 	},
+	jchd_config=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "all",
+			group_list = "##93#11#110#74#40",
+		},
+	},
+	hqjb_config=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "all",
+			group_list = "87#118#42#88#30#58",
+		},
+	},
 	all_enter=
 	{
 		[1]=
