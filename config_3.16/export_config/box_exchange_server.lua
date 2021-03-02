@@ -927,6 +927,16 @@ return {
 			award_id = 85,
 			enable = 1,
 		},
+		[87]=
+		{
+			id = 87,
+			name = "桃花礼包抽奖（转盘）",
+			start_time = 1615852800,
+			end_time = 1616428799,
+			use_asset_id = 80,
+			award_id = 86,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
@@ -1481,6 +1491,13 @@ return {
 			id = 79,
 			use_id = 79,
 			use_item = "obj_xrxsfl_5_50box",
+			use_num = 1,
+		},
+		[80]=
+		{
+			id = 80,
+			use_id = 80,
+			use_item = "prop_qdlb_cjq",
 			use_num = 1,
 		},
 	},
@@ -5189,6 +5206,41 @@ return {
 			no = 528,
 			award_id = 85,
 			real_award_id = 12004,
+			weight = 1,
+		},
+		[529]=
+		{
+			no = 529,
+			award_id = 86,
+			real_award_id = 12005,
+			weight = 300,
+		},
+		[530]=
+		{
+			no = 530,
+			award_id = 86,
+			real_award_id = 12006,
+			weight = 250,
+		},
+		[531]=
+		{
+			no = 531,
+			award_id = 86,
+			real_award_id = 12007,
+			weight = 250,
+		},
+		[532]=
+		{
+			no = 532,
+			award_id = 86,
+			real_award_id = 12008,
+			weight = 199,
+		},
+		[533]=
+		{
+			no = 533,
+			award_id = 86,
+			real_award_id = 12009,
 			weight = 1,
 		},
 	},
@@ -9156,6 +9208,41 @@ return {
 			real_award_id = 12004,
 			asset_type = "obj_5_coupon",
 			asset_count = {1,1},
+		},
+		[534]=
+		{
+			id = 534,
+			real_award_id = 12005,
+			asset_type = "shop_gold_sum",
+			asset_count = {5,5},
+		},
+		[535]=
+		{
+			id = 535,
+			real_award_id = 12006,
+			asset_type = "jing_bi",
+			asset_count = {10000,10000},
+		},
+		[536]=
+		{
+			id = 536,
+			real_award_id = 12007,
+			asset_type = "shop_gold_sum",
+			asset_count = {30,30},
+		},
+		[537]=
+		{
+			id = 537,
+			real_award_id = 12008,
+			asset_type = "jing_bi",
+			asset_count = {50000,50000},
+		},
+		[538]=
+		{
+			id = 538,
+			real_award_id = 12009,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = {1000,1000},
 		},
 	},
 	weight=

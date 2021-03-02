@@ -2685,9 +2685,9 @@ return {
 			key = "act_029_hlqjd",
 			desc = "欢乐敲金蛋",
 			lua = "Act_029_HLQJDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[275]=
 		{
@@ -2993,9 +2993,9 @@ return {
 			key = "act_ty_lb1",
 			desc = "通用活动--礼包模板（感恩礼包）",
 			lua = "Act_Ty_LB1Manager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[306]=
 		{
