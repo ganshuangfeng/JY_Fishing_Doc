@@ -339,7 +339,7 @@ return {
 			act_type = "weekly",
 			ID = 21,
 			title = "新游福利",
-			order = 2,
+			order = -20,
 			is_on_off = 1,
 			condi_key = "actp_show_gift_bag_xyfl",
 			beginTime = 1613433600,
