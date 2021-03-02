@@ -3338,5 +3338,14 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[342]=
+		{
+			id = 342,
+			key = "act_ty_lb1_style/act_002_tylb1",
+			desc = "通用礼包1皮肤",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
