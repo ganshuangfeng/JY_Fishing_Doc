@@ -6662,7 +6662,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615852800,
+			start_deal_time = 1615824000,
 		},
 		[375]=
 		{
@@ -6674,7 +6674,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615852800,
+			start_deal_time = 1615824000,
 		},
 		[376]=
 		{
@@ -6686,7 +6686,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615852800,
+			start_deal_time = 1615824000,
 		},
 		[377]=
 		{
@@ -6698,7 +6698,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615852800,
+			start_deal_time = 1615824000,
 		},
 	},
 	condi=
@@ -16501,7 +16501,7 @@ return {
 			value = "cjj_all",
 			judge = 5,
 			group = 1,
-			error_desc = "cjj",
+			error_desc = "非cjj",
 		},
 		[981]=
 		{
@@ -16521,7 +16521,7 @@ return {
 			value = "cjj_all",
 			judge = 5,
 			group = 1,
-			error_desc = "cjj",
+			error_desc = "非cjj",
 		},
 		[983]=
 		{
