@@ -6554,7 +6554,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615248000,
+			start_deal_time = 1615852800,
 		},
 		[366]=
 		{
@@ -6566,12 +6566,12 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615248000,
+			start_deal_time = 1615852800,
 		},
 		[367]=
 		{
 			id = 367,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_gehk_v3",
 			name = "小于等于V3",
 			condi = 401,
@@ -6583,7 +6583,7 @@ return {
 		[368]=
 		{
 			id = 368,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_gehk_v4v12",
 			name = "大于等于V4",
 			condi = 402,
@@ -6619,7 +6619,7 @@ return {
 		[371]=
 		{
 			id = 371,
-			enable = 1,
+			enable = 0,
 			key = "actp_rank_kh315_008_lhphb_rank",
 			name = "礼盒排行榜--非cjj",
 			condi = 393,
@@ -6631,7 +6631,7 @@ return {
 		[372]=
 		{
 			id = 372,
-			enable = 1,
+			enable = 0,
 			key = "actp_rank_xxlzb_005_rank",
 			name = "消消乐争霸--cjj",
 			condi = 394,
@@ -6651,6 +6651,54 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 1615248000,
+		},
+		[374]=
+		{
+			id = 374,
+			enable = 1,
+			key = "actp_own_task_p_xsfl_v3_normal",
+			name = "限时福利v3及以下--捕鱼",
+			condi = 406,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615852800,
+		},
+		[375]=
+		{
+			id = 375,
+			enable = 1,
+			key = "actp_own_task_p_xsfl_v4v12_normal",
+			name = "限时福利v4及以上--捕鱼",
+			condi = 407,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615852800,
+		},
+		[376]=
+		{
+			id = 376,
+			enable = 1,
+			key = "actp_own_task_p_xsfl_v3_cjj",
+			name = "限时福利v3及以下--冲金鸡",
+			condi = 408,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615852800,
+		},
+		[377]=
+		{
+			id = 377,
+			enable = 1,
+			key = "actp_own_task_p_xsfl_v4v12_cjj",
+			name = "限时福利v4及以上--冲金鸡",
+			condi = 409,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615852800,
 		},
 	},
 	condi=
@@ -16434,6 +16482,86 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "时间为3.9号8点以后登录的新玩家",
+		},
+		[979]=
+		{
+			no = 979,
+			id = 406,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "小于V3",
+		},
+		[980]=
+		{
+			no = 980,
+			id = 406,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "cjj",
+		},
+		[981]=
+		{
+			no = 981,
+			id = 407,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "大于等于V4",
+		},
+		[982]=
+		{
+			no = 982,
+			id = 407,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "cjj",
+		},
+		[983]=
+		{
+			no = 983,
+			id = 408,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "小于V3",
+		},
+		[984]=
+		{
+			no = 984,
+			id = 408,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "cjj",
+		},
+		[985]=
+		{
+			no = 985,
+			id = 409,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "大于等于V4",
+		},
+		[986]=
+		{
+			no = 986,
+			id = 409,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "cjj",
 		},
 	},
 	share_condition=
