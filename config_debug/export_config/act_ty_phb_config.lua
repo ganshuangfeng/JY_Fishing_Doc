@@ -10,7 +10,7 @@ return {
 			rank_type = "gdn_004_jzbd_rank",
 			s_time = 1612828800,
 			e_time = 1613404799,
-			award = {1,2,3,4,5,6,7},
+			award = {8,9,10,11,12,13,14},
 			path = "act_003_dlphb",
 			condiy_key = "actp_no_cjj_gej_exchange",
 		},
@@ -81,6 +81,48 @@ return {
 		{
 			ID = 7,
 			award = 500,
+			limit = {16,20,},
+		},
+		[8]=
+		{
+			ID = 8,
+			award = 50000,
+			limit = {1,1,},
+		},
+		[9]=
+		{
+			ID = 9,
+			award = 15000,
+			limit = {2,2},
+		},
+		[10]=
+		{
+			ID = 10,
+			award = 5000,
+			limit = {3,3,},
+		},
+		[11]=
+		{
+			ID = 11,
+			award = 1500,
+			limit = {4,6,},
+		},
+		[12]=
+		{
+			ID = 12,
+			award = 1000,
+			limit = {7,10,},
+		},
+		[13]=
+		{
+			ID = 13,
+			award = 500,
+			limit = {11,15,},
+		},
+		[14]=
+		{
+			ID = 14,
+			award = 240,
 			limit = {16,20,},
 		},
 	},
