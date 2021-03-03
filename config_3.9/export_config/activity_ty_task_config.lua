@@ -28,7 +28,7 @@ return {
 		[4]=
 		{
 			index = 4,
-			key = "act_lgfl",
+			key = "act_lgfl_v4",
 			icon = "sxlgfl_bg_1",
 			name = "感恩回馈--v4",
 			tges = 4,

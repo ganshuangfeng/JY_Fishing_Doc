@@ -6543,7 +6543,7 @@ return {
 			id = 365,
 			enable = 1,
 			key = "actp_no_cjj_gej_exchange_V5",
-			name = "非cjj且大于V",
+			name = "非cjj且大于V5",
 			condi = 399,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
