@@ -444,6 +444,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {188888,50,1},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"","","请在苹果大战中使用"},
 		},
 		[31]=
 		{
@@ -455,6 +456,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {388888,100,2},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"","","请在苹果大战中使用"},
 		},
 		[32]=
 		{
@@ -466,6 +468,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {588888,150,3},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"","","请在苹果大战中使用"},
 		},
 		[33]=
 		{
@@ -477,6 +480,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {1088888,300,5},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"","","请在苹果大战中使用"},
 		},
 		[34]=
 		{
@@ -488,6 +492,9 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0"},
 			count = {8888888,8888},
 			gotoUI = {"shop_bay","jing_bi",},
+			N_chose_1_img = {"swjl_1","swjl_2"},
+			N_chose_1_text = {"美的电饭锅","智能电磁炉"},
+			remarks = "实物奖励二选一",
 		},
 		[35]=
 		{
@@ -499,6 +506,9 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0"},
 			count = {4088888,3888},
 			gotoUI = {"shop_bay","jing_bi",},
+			N_chose_1_img = {"swjl_3","swjl_4"},
+			N_chose_1_text = {"金龙鱼油4L","金龙鱼大米2袋"},
+			remarks = "实物奖励二选一",
 		},
 		[36]=
 		{
@@ -521,6 +531,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {2088888,888,5},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"","","请在苹果大战中使用"},
 		},
 		[38]=
 		{
@@ -532,6 +543,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {1088888,300,5},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"","","请在苹果大战中使用"},
 		},
 	},
 }

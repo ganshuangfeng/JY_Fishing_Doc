@@ -6619,26 +6619,26 @@ return {
 		[371]=
 		{
 			id = 371,
-			enable = 0,
-			key = "actp_rank_kh315_008_lhphb_rank",
+			enable = 1,
+			key = "actp_rank_cnhk_009_thphb_rank",
 			name = "礼盒排行榜--非cjj",
 			condi = 393,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615248000,
+			start_deal_time = 1615824000,
 		},
 		[372]=
 		{
 			id = 372,
-			enable = 0,
-			key = "actp_rank_xxlzb_005_rank",
+			enable = 1,
+			key = "actp_rank_xxlzb_006_rank",
 			name = "消消乐争霸--cjj",
 			condi = 394,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615248000,
+			start_deal_time = 1615824000,
 		},
 		[373]=
 		{
@@ -6662,7 +6662,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615852800,
+			start_deal_time = 1615824000,
 		},
 		[375]=
 		{
@@ -6674,7 +6674,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615852800,
+			start_deal_time = 1615824000,
 		},
 		[376]=
 		{
@@ -6686,7 +6686,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615852800,
+			start_deal_time = 1615824000,
 		},
 		[377]=
 		{
@@ -6698,7 +6698,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615852800,
+			start_deal_time = 1615824000,
 		},
 	},
 	condi=
@@ -16501,7 +16501,7 @@ return {
 			value = "cjj_all",
 			judge = 5,
 			group = 1,
-			error_desc = "cjj",
+			error_desc = "非cjj",
 		},
 		[981]=
 		{
@@ -16521,7 +16521,7 @@ return {
 			value = "cjj_all",
 			judge = 5,
 			group = 1,
-			error_desc = "cjj",
+			error_desc = "非cjj",
 		},
 		[983]=
 		{
