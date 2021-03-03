@@ -52,7 +52,7 @@ return {
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {11,12,13,14,15,16,17,18.19.20},
+			task_index = {11,12,13,14,15,16,17,18,19,20},
 		},
 		[3]=
 		{
@@ -378,7 +378,7 @@ return {
 			count = {2088888,},
 			gotoUI = {"shop_bay","jing_bi",},
 			real_img = {"swjl_5",},
-			real_txt = ""琥珀核桃500g"，",
+			real_txt = "琥珀核桃500g",
 		},
 		[28]=
 		{
