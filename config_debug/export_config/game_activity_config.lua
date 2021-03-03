@@ -456,6 +456,7 @@ return {
 			title = "系统升级奖励",
 			order = -20,
 			is_on_off = 1,
+			condi_key = "actp_own_task_p_system_update_1",
 			beginTime = 1614643200,
 			endTime = -1,
 			showType = "prefab",
