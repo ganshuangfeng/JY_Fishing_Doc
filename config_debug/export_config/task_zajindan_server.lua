@@ -10355,6 +10355,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000323]=
+		{
+			id = 1000323,
+			enable = 1,
+			name = "新年送茅台",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21681,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1612800000,
+			end_valid_time = 1613404799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -17328,6 +17343,15 @@ return {
 			source_id = 592,
 			process = {10,10,15,15,25,25},
 			awards = {1011,1012,1013,1014,1015,1016},
+			get_award_type = "nor",
+		},
+		[733]=
+		{
+			id = 733,
+			process_id = 21681,
+			source_id = 592,
+			process = {1,-1},
+			awards = 1010,
 			get_award_type = "nor",
 		},
 	},
