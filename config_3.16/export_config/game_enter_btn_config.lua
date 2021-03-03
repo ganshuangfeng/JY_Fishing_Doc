@@ -463,7 +463,7 @@ return {
 		{
 			id = 1,
 			area = "all",
-			group_list = "##93#11#110#74#40",
+			group_list = "40#74#110#11#93",
 		},
 	},
 	hqjb_config=
@@ -472,7 +472,7 @@ return {
 		{
 			id = 1,
 			area = "all",
-			group_list = "87#118#42#88#30#58",
+			group_list = "58#30#88#42#118#87",
 		},
 	},
 	all_enter=

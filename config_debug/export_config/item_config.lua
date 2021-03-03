@@ -4255,7 +4255,7 @@ return {
 			order = 1,
 			name = "15元礼包",
 			desc = "500话费碎片+狂暴卡*5+双倍奖励卡*5",
-			use_parm = {"act_xrxsfl_lb","prop_xrxsfl_15box"},
+			use_parm = {"act_xrxsfl","obj_xrxsfl_15box"},
 		},
 		[315]=
 		{
@@ -4269,7 +4269,7 @@ return {
 			order = 1,
 			name = "50元礼包",
 			desc = "250000福利券赛门票一张+18888金币",
-			use_parm = {"act_xrxsfl_lb","prop_xrxsfl_50box"},
+			use_parm = {"act_xrxsfl","obj_xrxsfl_50box"},
 		},
 		[316]=
 		{
@@ -4283,7 +4283,7 @@ return {
 			order = 1,
 			name = "10元礼包",
 			desc = "500话费碎片+苹果大战太阳道具*10",
-			use_parm = {"act_xrxsfl_lb","prop_xrxsfl_10box"},
+			use_parm = {"act_xrxsfl","obj_xrxsfl_10box"},
 		},
 		[317]=
 		{
@@ -4297,7 +4297,7 @@ return {
 			order = 1,
 			name = "30元礼包",
 			desc = "1500话费碎片+苹果大战铲子道具*3",
-			use_parm = {"act_xrxsfl_lb","prop_xrxsfl_30box"},
+			use_parm = {"act_xrxsfl","obj_xrxsfl_30box"},
 		},
 		[318]=
 		{
