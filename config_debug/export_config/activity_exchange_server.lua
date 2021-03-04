@@ -3705,5 +3705,47 @@ return {
 			award_num = {6,6},
 			award_id = 6,
 		},
+		[7]=
+		{
+			id = 7,
+			act_id = 44,
+			award_num = {1,1},
+			award_id = 1,
+		},
+		[8]=
+		{
+			id = 8,
+			act_id = 44,
+			award_num = {2,2},
+			award_id = 2,
+		},
+		[9]=
+		{
+			id = 9,
+			act_id = 44,
+			award_num = {3,3},
+			award_id = 3,
+		},
+		[10]=
+		{
+			id = 10,
+			act_id = 44,
+			award_num = {4,4},
+			award_id = 4,
+		},
+		[11]=
+		{
+			id = 11,
+			act_id = 44,
+			award_num = {5,5},
+			award_id = 5,
+		},
+		[12]=
+		{
+			id = 12,
+			act_id = 44,
+			award_num = {6,6},
+			award_id = 6,
+		},
 	},
 }
