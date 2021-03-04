@@ -257,7 +257,7 @@ return {
 			id = 14,
 			task = 1000428,
 			total = 1,
-			task_name = "在水浒消消乐中召唤出1个英雄",
+			task_name = "在水浒消消乐中召唤出1次英雄",
 			level = 1,
 			item = {"jing_bi","prop_fish_drop_act_0"},
 			count = {10000,10},
@@ -268,7 +268,7 @@ return {
 			id = 15,
 			task = 1000429,
 			total = 2,
-			task_name = "在水浒消消乐中累计召唤出2个英雄",
+			task_name = "在水浒消消乐中召唤出2次英雄",
 			level = 1,
 			item = {"jing_bi","prop_fish_drop_act_0"},
 			count = {20000,20},
@@ -279,7 +279,7 @@ return {
 			id = 16,
 			task = 1000430,
 			total = 4,
-			task_name = "在水浒消消乐中累计召唤出4个英雄",
+			task_name = "在水浒消消乐中召唤出4次英雄",
 			level = 1,
 			item = {"jing_bi","prop_fish_drop_act_0"},
 			count = {40000,30},
@@ -411,6 +411,8 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0","swjl_5",},
 			count = {2088888,"耗牛肉酱",1988},
 			gotoUI = {"shop_bay","jing_bi",},
+			N_chose_1_img = {"swjl_5",},
+			N_chose_1_text = {"耗牛肉酱",},
 		},
 		[28]=
 		{
@@ -520,6 +522,8 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0","swjl_5",},
 			count = {2088888,"耗牛肉酱",1988},
 			gotoUI = {"shop_bay","jing_bi",},
+			N_chose_1_img = {"swjl_5",},
+			N_chose_1_text = {"耗牛肉酱",},
 		},
 		[37]=
 		{

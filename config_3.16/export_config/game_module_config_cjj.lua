@@ -3059,7 +3059,7 @@ return {
 		[312]=
 		{
 			id = 312,
-			key = "act_ty_by_drop_style/act_003_taiyang",
+			key = "act_ty_by_drop_style/act_010_taohua",
 			desc = "活动boss皮肤（桃花）",
 			is_on_off = 1,
 			enable = 1,
@@ -3068,7 +3068,7 @@ return {
 		[313]=
 		{
 			id = 313,
-			key = "act_ty_by_hhl_style/act_001_hhl",
+			key = "act_ty_by_hhl_style/act_006_hhl",
 			desc = "换好礼皮肤",
 			is_on_off = 1,
 			enable = 1,
