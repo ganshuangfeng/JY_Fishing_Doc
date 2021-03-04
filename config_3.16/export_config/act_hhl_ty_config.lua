@@ -5,11 +5,11 @@ return {
 		{
 			line = 1,
 			condiy_key = "cpl_notcjj",
-			change_type = 45,
+			change_type = 47,
 			cur_path = "act_006_hhl_",
 			item_key = "prop_fish_drop_act_0",
 			beginTime = 1615852800,
-			endTime = 1615823999,
+			endTime = 1616428799,
 			config = {1,2,3,4,5,6,7,8},
 			GotoUI = {"game_Fishing3DHall",},
 			help = "help_info",
@@ -18,7 +18,7 @@ return {
 		{
 			line = 2,
 			condiy_key = "cpl_cjj",
-			change_type = 46,
+			change_type = 48,
 			cur_path = "act_006_hhl_",
 			item_key = "prop_fish_drop_act_0",
 			beginTime = 1615852800,
