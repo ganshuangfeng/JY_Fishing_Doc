@@ -11,7 +11,7 @@ return {
 		{
 			id = 2,
 			level = 2,
-			score = 150000,
+			score = 100000,
 		},
 		[3]=
 		{
