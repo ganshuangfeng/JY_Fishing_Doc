@@ -6553,7 +6553,7 @@ return {
 			condi = 399,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
+			refresh_type = "now",
 			start_deal_time = 1615852800,
 		},
 		[366]=
@@ -6565,7 +6565,7 @@ return {
 			condi = 400,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
+			refresh_type = "now",
 			start_deal_time = 1615852800,
 		},
 		[367]=
@@ -6625,7 +6625,7 @@ return {
 			condi = 393,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
-			refresh_type = "now",
+			refresh_type = "day_delay",
 			start_deal_time = 1615824000,
 		},
 		[372]=
@@ -6637,7 +6637,7 @@ return {
 			condi = 394,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
-			refresh_type = "now",
+			refresh_type = "day_delay",
 			start_deal_time = 1615824000,
 		},
 		[373]=
