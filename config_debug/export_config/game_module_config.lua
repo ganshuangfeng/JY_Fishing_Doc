@@ -3371,7 +3371,7 @@ return {
 		{
 			id = 345,
 			key = "act_ty_by_drop_style/act_009_lihe",
-			desc = "玫瑰boss皮肤",
+			desc = "礼盒boss皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
