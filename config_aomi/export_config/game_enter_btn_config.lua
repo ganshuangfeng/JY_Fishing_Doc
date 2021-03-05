@@ -29,7 +29,7 @@ return {
 		{
 			id = 5,
 			area = "top_right",
-			group_list = "108#11#",
+			group_list = "11#",
 		},
 	},
 	xxlsh_game=
