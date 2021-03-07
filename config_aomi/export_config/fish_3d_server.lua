@@ -76,7 +76,7 @@ return {
 		[9]=
 		{
 			id = 9,
-			game_id = 9,
+			game_id = 101,
 			game_name = "新手场",
 			game_type = "nor_fishing_3d_nor",
 			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
@@ -85,7 +85,7 @@ return {
 		[10]=
 		{
 			id = 10,
-			game_id = 10,
+			game_id = 102,
 			game_name = "神秘海域",
 			game_type = "nor_fishing_3d_nor",
 			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
@@ -94,7 +94,7 @@ return {
 		[11]=
 		{
 			id = 11,
-			game_id = 11,
+			game_id = 103,
 			game_name = "海底宝藏",
 			game_type = "nor_fishing_3d_nor",
 			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
@@ -103,7 +103,7 @@ return {
 		[12]=
 		{
 			id = 12,
-			game_id = 12,
+			game_id = 104,
 			game_name = "藏宝海湾",
 			game_type = "nor_fishing_3d_nor",
 			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
@@ -112,7 +112,7 @@ return {
 		[13]=
 		{
 			id = 13,
-			game_id = 13,
+			game_id = 105,
 			game_name = "深海沉船",
 			game_type = "nor_fishing_3d_nor",
 			manager_path = "fishing_3d_nor_manager_service/fishing_3d_nor_manager_service",
@@ -204,8 +204,8 @@ return {
 		[9]=
 		{
 			id = 9,
-			game_id = 9,
-			game_level = 9,
+			game_id = 101,
+			game_level = 101,
 			gun_rate = {10,20,30,40,50,60,70,80,90,100,},
 			enter_cfg_id = 9,
 			fish_config = "fish_am_data_config_1",
@@ -214,8 +214,8 @@ return {
 		[10]=
 		{
 			id = 10,
-			game_id = 10,
-			game_level = 10,
+			game_id = 102,
+			game_level = 102,
 			gun_rate = {100,200,300,400,500,600,700,800,900,1000,},
 			enter_cfg_id = 10,
 			fish_config = "fish_am_data_config_2",
@@ -224,8 +224,8 @@ return {
 		[11]=
 		{
 			id = 11,
-			game_id = 11,
-			game_level = 11,
+			game_id = 103,
+			game_level = 103,
 			gun_rate = {1000,2000,3000,4000,5000,6000,7000,8000,9000,10000,},
 			enter_cfg_id = 11,
 			fish_config = "fish_am_data_config_3",
@@ -234,8 +234,8 @@ return {
 		[12]=
 		{
 			id = 12,
-			game_id = 12,
-			game_level = 12,
+			game_id = 104,
+			game_level = 104,
 			gun_rate = {10000,20000,30000,40000,50000,60000,70000,80000,90000,100000,},
 			enter_cfg_id = 12,
 			fish_config = "fish_am_data_config_4",
@@ -244,8 +244,8 @@ return {
 		[13]=
 		{
 			id = 13,
-			game_id = 13,
-			game_level = 13,
+			game_id = 105,
+			game_level = 105,
 			gun_rate = {100000,200000,300000,400000,500000,600000,700000,800000,900000,1000000,},
 			enter_cfg_id = 13,
 			fish_config = "fish_am_data_config_5",

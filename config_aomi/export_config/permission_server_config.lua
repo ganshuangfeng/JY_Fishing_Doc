@@ -2173,6 +2173,250 @@ return {
 			name = "小游戏托管限制",
 			condi = 22,
 		},
+		fishing3d_102=
+		{
+			key = "fishing3d_102",
+			name = "神秘海域",
+			condi = 204,
+		},
+		fishing3d_102_1=
+		{
+			key = "fishing3d_102_1",
+			name = "捕鱼神秘海域100倍",
+			condi = 205,
+		},
+		fishing3d_102_2=
+		{
+			key = "fishing3d_102_2",
+			name = "捕鱼神秘海域200倍",
+			condi = 206,
+		},
+		fishing3d_102_3=
+		{
+			key = "fishing3d_102_3",
+			name = "捕鱼神秘海域300倍",
+			condi = 207,
+		},
+		fishing3d_102_4=
+		{
+			key = "fishing3d_102_4",
+			name = "捕鱼神秘海域400倍",
+			condi = 208,
+		},
+		fishing3d_102_5=
+		{
+			key = "fishing3d_102_5",
+			name = "捕鱼神秘海域500倍",
+			condi = 209,
+		},
+		fishing3d_102_6=
+		{
+			key = "fishing3d_102_6",
+			name = "捕鱼神秘海域600倍",
+			condi = 210,
+		},
+		fishing3d_102_7=
+		{
+			key = "fishing3d_102_7",
+			name = "捕鱼神秘海域700倍",
+			condi = 211,
+		},
+		fishing3d_102_8=
+		{
+			key = "fishing3d_102_8",
+			name = "捕鱼神秘海域800倍",
+			condi = 212,
+		},
+		fishing3d_102_9=
+		{
+			key = "fishing3d_102_9",
+			name = "捕鱼神秘海域900倍",
+			condi = 213,
+		},
+		fishing3d_102_10=
+		{
+			key = "fishing3d_102_10",
+			name = "捕鱼神秘海域1000倍",
+			condi = 214,
+		},
+		fishing3d_103=
+		{
+			key = "fishing3d_103",
+			name = "捕鱼海底宝藏",
+			condi = 215,
+		},
+		fishing3d_103_1=
+		{
+			key = "fishing3d_103_1",
+			name = "捕鱼海底宝藏1000倍",
+			condi = 216,
+		},
+		fishing3d_103_2=
+		{
+			key = "fishing3d_103_2",
+			name = "捕鱼海底宝藏2000倍",
+			condi = 217,
+		},
+		fishing3d_103_3=
+		{
+			key = "fishing3d_103_3",
+			name = "捕鱼海底宝藏3000倍",
+			condi = 218,
+		},
+		fishing3d_103_4=
+		{
+			key = "fishing3d_103_4",
+			name = "捕鱼海底宝藏4000倍",
+			condi = 219,
+		},
+		fishing3d_103_5=
+		{
+			key = "fishing3d_103_5",
+			name = "捕鱼海底宝藏5000倍",
+			condi = 220,
+		},
+		fishing3d_103_6=
+		{
+			key = "fishing3d_103_6",
+			name = "捕鱼海底宝藏6000倍",
+			condi = 221,
+		},
+		fishing3d_103_7=
+		{
+			key = "fishing3d_103_7",
+			name = "捕鱼海底宝藏7000倍",
+			condi = 222,
+		},
+		fishing3d_103_8=
+		{
+			key = "fishing3d_103_8",
+			name = "捕鱼海底宝藏8000倍",
+			condi = 223,
+		},
+		fishing3d_103_9=
+		{
+			key = "fishing3d_103_9",
+			name = "捕鱼海底宝藏9000倍",
+			condi = 224,
+		},
+		fishing3d_103_10=
+		{
+			key = "fishing3d_103_10",
+			name = "捕鱼海底宝藏10000倍",
+			condi = 225,
+		},
+		fishing3d_104=
+		{
+			key = "fishing3d_104",
+			name = "捕鱼藏宝海湾",
+			condi = 249,
+		},
+		fishing3d_104_1=
+		{
+			key = "fishing3d_104_1",
+			name = "捕鱼藏宝海湾10000倍",
+		},
+		fishing3d_104_2=
+		{
+			key = "fishing3d_104_2",
+			name = "捕鱼藏宝海湾20000倍",
+		},
+		fishing3d_104_3=
+		{
+			key = "fishing3d_104_3",
+			name = "捕鱼藏宝海湾30000倍",
+		},
+		fishing3d_104_4=
+		{
+			key = "fishing3d_104_4",
+			name = "捕鱼藏宝海湾40000倍",
+		},
+		fishing3d_104_5=
+		{
+			key = "fishing3d_104_5",
+			name = "捕鱼藏宝海湾50000倍",
+		},
+		fishing3d_104_6=
+		{
+			key = "fishing3d_104_6",
+			name = "捕鱼藏宝海湾60000倍",
+		},
+		fishing3d_104_7=
+		{
+			key = "fishing3d_104_7",
+			name = "捕鱼藏宝海湾70000倍",
+		},
+		fishing3d_104_8=
+		{
+			key = "fishing3d_104_8",
+			name = "捕鱼藏宝海湾80000倍",
+		},
+		fishing3d_104_9=
+		{
+			key = "fishing3d_104_9",
+			name = "捕鱼藏宝海湾90000倍",
+		},
+		fishing3d_104_10=
+		{
+			key = "fishing3d_104_10",
+			name = "捕鱼藏宝海湾100000倍",
+		},
+		fishing3d_105=
+		{
+			key = "fishing3d_105",
+			name = "捕鱼深海沉船",
+			condi = 24,
+		},
+		fishing3d_105_1=
+		{
+			key = "fishing3d_105_1",
+			name = "捕鱼深海沉船100000倍",
+		},
+		fishing3d_105_2=
+		{
+			key = "fishing3d_105_2",
+			name = "捕鱼深海沉船200000倍",
+		},
+		fishing3d_105_3=
+		{
+			key = "fishing3d_105_3",
+			name = "捕鱼深海沉船300000倍",
+		},
+		fishing3d_105_4=
+		{
+			key = "fishing3d_105_4",
+			name = "捕鱼深海沉船400000倍",
+		},
+		fishing3d_105_5=
+		{
+			key = "fishing3d_105_5",
+			name = "捕鱼深海沉船500000倍",
+		},
+		fishing3d_105_6=
+		{
+			key = "fishing3d_105_6",
+			name = "捕鱼深海沉船600000倍",
+		},
+		fishing3d_105_7=
+		{
+			key = "fishing3d_105_7",
+			name = "捕鱼深海沉船700000倍",
+		},
+		fishing3d_105_8=
+		{
+			key = "fishing3d_105_8",
+			name = "捕鱼深海沉船800000倍",
+		},
+		fishing3d_105_9=
+		{
+			key = "fishing3d_105_9",
+			name = "捕鱼深海沉船900000倍",
+		},
+		fishing3d_105_10=
+		{
+			key = "fishing3d_105_10",
+			name = "捕鱼深海沉船1000000倍",
+		},
 	},
 	act_permission=
 	{
@@ -6165,7 +6409,7 @@ return {
 			id = 333,
 			enable = 1,
 			key = "actp_rank_leijiyingjin_rank",
-			name = "cjj关闭累计赢金榜",
+			name = "关闭累计赢金榜（cjj和捕鱼奥秘）",
 			condi = 338,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -6554,7 +6798,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
-			start_deal_time = 1615248000,
+			start_deal_time = 1615852800,
 		},
 		[366]=
 		{
@@ -6566,12 +6810,12 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
-			start_deal_time = 1615248000,
+			start_deal_time = 1615852800,
 		},
 		[367]=
 		{
 			id = 367,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_gehk_v3",
 			name = "小于等于V3",
 			condi = 401,
@@ -6583,7 +6827,7 @@ return {
 		[368]=
 		{
 			id = 368,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_gehk_v4v12",
 			name = "大于等于V4",
 			condi = 402,
@@ -6620,25 +6864,25 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_kh315_008_lhphb_rank",
+			key = "actp_rank_cnhk_009_thphb_rank",
 			name = "礼盒排行榜--非cjj",
 			condi = 393,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615248000,
+			start_deal_time = 1615824000,
 		},
 		[372]=
 		{
 			id = 372,
 			enable = 1,
-			key = "actp_rank_xxlzb_005_rank",
+			key = "actp_rank_xxlzb_006_rank",
 			name = "消消乐争霸--cjj",
 			condi = 394,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615248000,
+			start_deal_time = 1615824000,
 		},
 		[373]=
 		{
@@ -6651,6 +6895,54 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 1615248000,
+		},
+		[374]=
+		{
+			id = 374,
+			enable = 1,
+			key = "actp_own_task_p_xsfl_v3_normal",
+			name = "限时福利v3及以下--捕鱼",
+			condi = 406,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615824000,
+		},
+		[375]=
+		{
+			id = 375,
+			enable = 1,
+			key = "actp_own_task_p_xsfl_v4v12_normal",
+			name = "限时福利v4及以上--捕鱼",
+			condi = 407,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615824000,
+		},
+		[376]=
+		{
+			id = 376,
+			enable = 1,
+			key = "actp_own_task_p_xsfl_v3_cjj",
+			name = "限时福利v3及以下--冲金鸡",
+			condi = 408,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615824000,
+		},
+		[377]=
+		{
+			id = 377,
+			enable = 1,
+			key = "actp_own_task_p_xsfl_v4v12_cjj",
+			name = "限时福利v4及以上--冲金鸡",
+			condi = 409,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615824000,
 		},
 	},
 	condi=
@@ -15103,7 +15395,7 @@ return {
 			value = "byam_all",
 			judge = 5,
 			group = 1,
-			error_desc = "不展示给捕鱼奥秘",
+			error_desc = "不展示给cjj",
 		},
 		[846]=
 		{
@@ -16455,6 +16747,86 @@ return {
 			group = 1,
 			error_desc = "时间为3.9号8点以后登录的新玩家",
 		},
+		[981]=
+		{
+			no = 981,
+			id = 406,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "小于V3",
+		},
+		[982]=
+		{
+			no = 982,
+			id = 406,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "非cjj",
+		},
+		[983]=
+		{
+			no = 983,
+			id = 407,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "大于等于V4",
+		},
+		[984]=
+		{
+			no = 984,
+			id = 407,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "非cjj",
+		},
+		[985]=
+		{
+			no = 985,
+			id = 408,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "小于V3",
+		},
+		[986]=
+		{
+			no = 986,
+			id = 408,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "cjj",
+		},
+		[987]=
+		{
+			no = 987,
+			id = 409,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "大于等于V4",
+		},
+		[988]=
+		{
+			no = 988,
+			id = 409,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "cjj",
+		},
 	},
 	share_condition=
 	{
@@ -16499,7 +16871,7 @@ return {
 			id = 5,
 			name = "3dby_cpl",
 			var = "market_channel",
-			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","juxiang","xiaozhuo","aibianxian","juju","qwxq",},
+			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","juxiang","xiaozhuo","aibianxian","juju","qwxq","byam_xianwan",},
 			judge = 2,
 			group = 1,
 		},
@@ -16508,7 +16880,7 @@ return {
 			id = 6,
 			name = "3dby_official",
 			var = "market_channel",
-			value = {"normal",},
+			value = {"normal","byam",},
 			judge = 2,
 			group = 1,
 		},
@@ -16517,7 +16889,7 @@ return {
 			id = 7,
 			name = "3dby_cps",
 			var = "market_channel",
-			value = {"vivo","xiaomi","yyb_hlttby",},
+			value = {"vivo","xiaomi","yyb_hlttby","xiaomi_byam","yyb_byam",},
 			judge = 2,
 			group = 1,
 		},
