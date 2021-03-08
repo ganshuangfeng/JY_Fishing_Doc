@@ -1152,6 +1152,24 @@ return {
 			rate = 200,
 			gd_award = 0,
 		},
+		[126]=
+		{
+			ID = 126,
+			fish_type = 1,
+			fish_form = {110,},
+			life = 200,
+			rate = 200,
+			gd_award = 0,
+		},
+		[127]=
+		{
+			ID = 127,
+			fish_type = 1,
+			fish_form = {111,},
+			life = 0,
+			rate = 0,
+			gd_award = 0,
+		},
 	},
 	use_fish=
 	{
@@ -2915,6 +2933,38 @@ return {
 			broadcast = 2,
 			clear_level = 1,
 		},
+		[110]=
+		{
+			id = 110,
+			base_id = 62,
+			act_id = 86,
+			life = 200,
+			shoot = 0.005000,
+			act_type = "activity",
+			rate = 200,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 200,
+			ranking_show_rate = 1,
+			broadcast = 1,
+			clear_level = 1,
+		},
+		[111]=
+		{
+			id = 111,
+			base_id = 62,
+			append_life_rate = {100,300},
+			life = 0,
+			shoot = 0,
+			act_type = "activity",
+			rate = 0,
+			dead_mode = 1,
+			gd_award = 0,
+			ranking_rate = 0,
+			ranking_show_rate = 1,
+			broadcast = 1,
+			clear_level = 1,
+		},
 	},
 	activity=
 	{
@@ -3647,6 +3697,51 @@ return {
 			enter_bag = 1,
 			value = 10,
 		},
+		[82]=
+		{
+			id = 82,
+			acti_type = 9,
+			num = {2,0,0.2,0.3},
+			show = 0,
+			enter_bag = 1,
+			value = 250,
+		},
+		[83]=
+		{
+			id = 83,
+			acti_type = 9,
+			num = {2,0,0.3,0.4},
+			show = 0,
+			enter_bag = 1,
+			value = 350,
+		},
+		[84]=
+		{
+			id = 84,
+			acti_type = 9,
+			num = {2,0,0.4,0.5},
+			show = 0,
+			enter_bag = 1,
+			value = 450,
+		},
+		[85]=
+		{
+			id = 85,
+			acti_type = 9,
+			num = {2,0,0.01,},
+			show = 1,
+			enter_bag = 1,
+			value = 10,
+		},
+		[86]=
+		{
+			id = 86,
+			acti_type = 9,
+			num = {"shop_gold_sum",8,0.05,0.15},
+			show = 1,
+			enter_bag = 1,
+			value = 200,
+		},
 	},
 	box_fish_activity=
 	{
@@ -4226,15 +4321,6 @@ return {
 		[62]=
 		{
 			id = 62,
-			type = 1,
-			life = 0,
-			shoot = 0,
-			rate = 0,
-			gd_award = 0,
-		},
-		[63]=
-		{
-			id = 63,
 			type = 1,
 			life = 0,
 			shoot = 0,
