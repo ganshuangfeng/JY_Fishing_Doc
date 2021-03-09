@@ -1024,13 +1024,13 @@ return {
 		{
 			key = "drt_block_binding_phone_num",
 			name = "绑定手机限制（鲸鱼斗地主、玩棋牌（闲玩、PC蛋蛋、聚享玩、小啄）、潮流捕鱼（闲玩））VIP1以下玩家",
-			condi = 80,
+			condi = 403,
 		},
 		drt_block_real_name_verify=
 		{
 			key = "drt_block_real_name_verify",
 			name = "实名认证限制（潮流的玩家限制，其他不限制）",
-			condi = 81,
+			condi = 404,
 		},
 		drt_block_xuyuanchi=
 		{
@@ -16366,6 +16366,46 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "大于V4",
+		},
+		[974]=
+		{
+			no = 974,
+			id = 403,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPL",
+		},
+		[975]=
+		{
+			no = 975,
+			id = 403,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是官方",
+		},
+		[976]=
+		{
+			no = 976,
+			id = 404,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPL",
+		},
+		[977]=
+		{
+			no = 977,
+			id = 404,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是官方",
 		},
 	},
 	share_condition=
