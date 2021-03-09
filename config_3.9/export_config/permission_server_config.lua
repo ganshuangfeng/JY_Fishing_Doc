@@ -1024,13 +1024,13 @@ return {
 		{
 			key = "drt_block_binding_phone_num",
 			name = "绑定手机限制（鲸鱼斗地主、玩棋牌（闲玩、PC蛋蛋、聚享玩、小啄）、潮流捕鱼（闲玩））VIP1以下玩家",
-			condi = 80,
+			condi = 403,
 		},
 		drt_block_real_name_verify=
 		{
 			key = "drt_block_real_name_verify",
 			name = "实名认证限制（潮流的玩家限制，其他不限制）",
-			condi = 81,
+			condi = 404,
 		},
 		drt_block_xuyuanchi=
 		{
@@ -6629,6 +6629,18 @@ return {
 			key = "actp_rank_xxlzb_005_rank",
 			name = "消消乐争霸--cjj",
 			condi = 394,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615248000,
+		},
+		[373]=
+		{
+			id = 373,
+			enable = 1,
+			key = "actp_own_task_95",
+			name = "深海探险新人权限",
+			condi = 405,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
@@ -16366,6 +16378,56 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "大于V4",
+		},
+		[974]=
+		{
+			no = 974,
+			id = 403,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPL",
+		},
+		[975]=
+		{
+			no = 975,
+			id = 403,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是官方",
+		},
+		[976]=
+		{
+			no = 976,
+			id = 404,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPL",
+		},
+		[977]=
+		{
+			no = 977,
+			id = 404,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是官方",
+		},
+		[978]=
+		{
+			no = 978,
+			id = 405,
+			var = "first_login_time",
+			value = 1615248000,
+			judge = 3,
+			group = 1,
+			error_desc = "时间为3.9号8点以后登录的新玩家",
 		},
 	},
 	share_condition=
