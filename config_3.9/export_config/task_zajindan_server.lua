@@ -19086,7 +19086,7 @@ return {
 			id = 805,
 			process_id = 21753,
 			source_id = 542,
-			process = 300000,
+			process = {300000,-1},
 			awards = 1119,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
