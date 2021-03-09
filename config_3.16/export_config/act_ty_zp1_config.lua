@@ -5,7 +5,7 @@ return {
 		{
 			line = 1,
 			item_key = "prop_qdlb_cjq",
-			box_exchange_id = 97,
+			box_exchange_id = 87,
 			config = "config1",
 			gift = "gift1",
 		},
