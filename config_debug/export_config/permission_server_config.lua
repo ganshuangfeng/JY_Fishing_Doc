@@ -6165,7 +6165,7 @@ return {
 			id = 333,
 			enable = 1,
 			key = "actp_rank_leijiyingjin_rank",
-			name = "累计赢金榜（捕鱼奥秘和冲金鸡关闭）",
+			name = "cjj关闭累计赢金榜",
 			condi = 338,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -15093,7 +15093,7 @@ return {
 			value = "byam_all",
 			judge = 5,
 			group = 1,
-			error_desc = "不展示给cjj",
+			error_desc = "不展示给捕鱼奥秘",
 		},
 		[845]=
 		{
