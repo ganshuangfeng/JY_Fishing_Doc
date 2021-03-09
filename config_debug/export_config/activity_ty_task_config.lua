@@ -184,7 +184,7 @@ return {
 			level = 1,
 			item = {"jing_bi","prop_fish_drop_act_0"},
 			count = {10000,10},
-			gotoUI = {"game_Fishing3DHall",},
+			gotoUI = {"game_MiniGame",},
 		},
 		[8]=
 		{
@@ -195,7 +195,7 @@ return {
 			level = 1,
 			item = {"jing_bi","prop_fish_drop_act_0"},
 			count = {20000,20},
-			gotoUI = {"game_Fishing3DHall",},
+			gotoUI = {"game_MiniGame",},
 		},
 		[9]=
 		{
@@ -206,7 +206,7 @@ return {
 			level = 1,
 			item = {"jing_bi","prop_fish_drop_act_0"},
 			count = {10000,10},
-			gotoUI = {"game_Fishing3DHall",},
+			gotoUI = {"game_MiniGame",},
 		},
 		[10]=
 		{
@@ -217,7 +217,7 @@ return {
 			level = 1,
 			item = {"jing_bi","prop_fish_drop_act_0"},
 			count = {20000,20},
-			gotoUI = {"game_Fishing3DHall",},
+			gotoUI = {"game_MiniGame",},
 		},
 		[11]=
 		{

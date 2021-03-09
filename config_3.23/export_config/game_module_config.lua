@@ -3100,7 +3100,7 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_008_dlphb",
+			key = "act_ty_sjb_style/act_009_dlphb",
 			desc = "掉落排行榜皮肤（桃花）",
 			is_on_off = 1,
 			enable = 1,
@@ -3109,7 +3109,7 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_010_taohua",
+			key = "act_ty_by_drop_style/act_011_boss",
 			desc = "活动boss皮肤（桃花）",
 			is_on_off = 1,
 			enable = 1,
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_009",
+			key = "sys_act_base_style/sys_act_base_weekly_010",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,

@@ -42,7 +42,7 @@ return {
 		[2]=
 		{
 			line = 2,
-			award_name = "vivo收集",
+			award_name = "vivo手机",
 			award_image = "swjl_2",
 			item_cost_text = 880000,
 			type = 1,
@@ -108,7 +108,7 @@ return {
 		[10]=
 		{
 			line = 10,
-			award_name = "vivo收集",
+			award_name = "vivo手机",
 			award_image = "swjl_2",
 			item_cost_text = 880000,
 			type = 1,
