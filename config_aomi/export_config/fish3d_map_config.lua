@@ -274,7 +274,7 @@ return {
 			game_id = {1,2,3,4,5},
 			scale = 3,
 			rotation = {66,0,0},
-			rate = "100~120奖励",
+			rate = "100~120倍",
 			prefab = "FishNew002",
 			tips = "脾气暴躁，风风火火，一旦生气不计后果，从来不会顾及身边有谁。",
 		},
