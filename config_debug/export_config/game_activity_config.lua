@@ -240,7 +240,7 @@ return {
 			line = 15,
 			act_type = "weekly",
 			ID = 15,
-			title = "女神礼包",
+			title = "幸运礼包",
 			order = 3,
 			is_on_off = 1,
 			beginTime = 1614643200,
