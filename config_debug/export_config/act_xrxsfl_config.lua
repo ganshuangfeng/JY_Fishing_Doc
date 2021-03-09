@@ -25,84 +25,84 @@ return {
 		[1]=
 		{
 			ID = 1,
-			task_id = 1000351,
+			task_id = 1000352,
 			task_desc = "使用1次锁定",
 			award_desc = "抽奖次数+1",
 		},
 		[2]=
 		{
 			ID = 2,
-			task_id = 1000352,
+			task_id = 1000353,
 			task_desc = "累计捕获20条鱼",
 			award_desc = "抽奖次数+1",
 		},
 		[3]=
 		{
 			ID = 3,
-			task_id = 1000353,
+			task_id = 1000354,
 			task_desc = "累计捕获50条鱼",
 			award_desc = "抽奖次数+1",
 		},
 		[4]=
 		{
 			ID = 4,
-			task_id = 1000354,
+			task_id = 1000355,
 			task_desc = "累计捕获100条鱼",
 			award_desc = "抽奖次数+1",
 		},
 		[5]=
 		{
 			ID = 5,
-			task_id = 1000355,
+			task_id = 1000356,
 			task_desc = "等级升到3级",
 			award_desc = "抽奖次数+1",
 		},
 		[6]=
 		{
 			ID = 6,
-			task_id = 1000356,
+			task_id = 1000357,
 			task_desc = "等级升到5级",
 			award_desc = "抽奖次数+1",
 		},
 		[7]=
 		{
 			ID = 7,
-			task_id = 1000357,
+			task_id = 1000358,
 			task_desc = "任意消除1次",
 			award_desc = "抽奖次数+1",
 		},
 		[8]=
 		{
 			ID = 8,
-			task_id = 1000358,
+			task_id = 1000359,
 			task_desc = "累计消除10个苹果",
 			award_desc = "抽奖次数+1",
 		},
 		[9]=
 		{
 			ID = 9,
-			task_id = 1000359,
+			task_id = 1000360,
 			task_desc = "累计消除20个西瓜",
 			award_desc = "抽奖次数+1",
 		},
 		[10]=
 		{
 			ID = 10,
-			task_id = 1000360,
+			task_id = 1000361,
 			task_desc = "累计消除50个西瓜",
 			award_desc = "抽奖次数+1",
 		},
 		[11]=
 		{
 			ID = 11,
-			task_id = 1000361,
+			task_id = 1000362,
 			task_desc = "累计消除30个铃铛",
 			award_desc = "抽奖次数+1",
 		},
 		[12]=
 		{
 			ID = 12,
-			task_id = 1000362,
+			task_id = 1000363,
 			task_desc = "累计消除80个铃铛",
 			award_desc = "抽奖次数+1",
 		},
