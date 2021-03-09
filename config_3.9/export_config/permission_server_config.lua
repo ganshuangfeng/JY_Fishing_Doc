@@ -6634,6 +6634,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1615248000,
 		},
+		[373]=
+		{
+			id = 373,
+			enable = 1,
+			key = "actp_own_task_95",
+			name = "深海探险新人权限",
+			condi = 405,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1615248000,
+		},
 	},
 	condi=
 	{
@@ -16406,6 +16418,16 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是官方",
+		},
+		[978]=
+		{
+			no = 978,
+			id = 405,
+			var = "first_login_time",
+			value = 1615248000,
+			judge = 3,
+			group = 1,
+			error_desc = "时间为3.9号8点以后登录的新玩家",
 		},
 	},
 	share_condition=
