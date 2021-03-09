@@ -349,9 +349,9 @@ return {
 			item = {"jing_bi",},
 			count = {8888888,},
 			gotoUI = {"shop_bay","jing_bi",},
-			real_img = {"swjl_1","swjl_2"},
-			real_txt = {"美的多功能锅","美的电烤箱"},
-			N_chose_1_text = "实物奖励二选一",
+			N_chose_1_img = {"swjl_1","swjl_2"},
+			N_chose_1_text = {"美的多功能锅","美的电烤箱"},
+			remarks = "实物奖励二选一",
 		},
 		[26]=
 		{
@@ -363,9 +363,9 @@ return {
 			item = {"jing_bi",},
 			count = {4088888,},
 			gotoUI = {"shop_bay","jing_bi",},
-			real_img = {"swjl_3","swjl_4"},
-			real_txt = {"金龙鱼油","飞科剃须刀"},
-			N_chose_1_text = "实物奖励二选一",
+			N_chose_1_img = {"swjl_3","swjl_4"},
+			N_chose_1_text = {"金龙鱼油","飞科剃须刀"},
+			remarks = "实物奖励二选一",
 		},
 		[27]=
 		{
@@ -379,6 +379,7 @@ return {
 			gotoUI = {"shop_bay","jing_bi",},
 			real_img = {"swjl_5",},
 			real_txt = "琥珀核桃500g",
+			remarks = "实物奖励",
 		},
 		[28]=
 		{
@@ -390,7 +391,6 @@ return {
 			item = {"jing_bi",},
 			count = {2088888,},
 			gotoUI = {"shop_bay","jing_bi",},
-			N_chose_1_text = "实物奖励",
 		},
 		[29]=
 		{

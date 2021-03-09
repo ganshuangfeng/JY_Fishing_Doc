@@ -19089,6 +19089,7 @@ return {
 			process = 300000,
 			awards = 1119,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 	},
 	source=
