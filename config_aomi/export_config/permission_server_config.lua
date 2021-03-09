@@ -16096,7 +16096,7 @@ return {
 			id = 7,
 			name = "3dby_cps",
 			var = "market_channel",
-			value = {"vivo","xiaomi","yyb_hlttby","xiaomi_byam",},
+			value = {"vivo","xiaomi","yyb_hlttby","xiaomi_byam","yyb_byam",},
 			judge = 2,
 			group = 1,
 		},
