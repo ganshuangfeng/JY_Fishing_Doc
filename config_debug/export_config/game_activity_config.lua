@@ -182,7 +182,7 @@ return {
 			parmData = "activity_task",
 			gotoUI = {"act_ty_sjb","panel"},
 			noCloseUI = 1,
-			tag = "normal",
+			tag = "hot",
 		},
 		[12]=
 		{
