@@ -18516,7 +18516,7 @@ return {
 			process_id = 21691,
 			source_id = 554,
 			process = 3,
-			awards = 1045,
+			awards = 1071,
 			get_award_type = "nor",
 		},
 		[744]=
@@ -18525,7 +18525,7 @@ return {
 			process_id = 21692,
 			source_id = 553,
 			process = 3,
-			awards = 1045,
+			awards = 1072,
 			get_award_type = "nor",
 		},
 		[745]=
@@ -18534,7 +18534,7 @@ return {
 			process_id = 21693,
 			source_id = 577,
 			process = 1,
-			awards = 1044,
+			awards = 1073,
 			get_award_type = "nor",
 		},
 		[746]=
@@ -18543,7 +18543,7 @@ return {
 			process_id = 21694,
 			source_id = 577,
 			process = 3,
-			awards = 1045,
+			awards = 1074,
 			get_award_type = "nor",
 		},
 		[747]=
@@ -18552,7 +18552,7 @@ return {
 			process_id = 21695,
 			source_id = 585,
 			process = 1,
-			awards = 1047,
+			awards = 1075,
 			get_award_type = "nor",
 		},
 		[748]=
@@ -18561,7 +18561,7 @@ return {
 			process_id = 21696,
 			source_id = 585,
 			process = 3,
-			awards = 1049,
+			awards = 1076,
 			get_award_type = "nor",
 		},
 		[749]=
@@ -18570,7 +18570,7 @@ return {
 			process_id = 21697,
 			source_id = 578,
 			process = 50,
-			awards = 1045,
+			awards = 1077,
 			get_award_type = "nor",
 		},
 		[750]=
@@ -18579,7 +18579,7 @@ return {
 			process_id = 21698,
 			source_id = 578,
 			process = 150,
-			awards = 1046,
+			awards = 1078,
 			get_award_type = "nor",
 		},
 		[751]=
@@ -18588,7 +18588,7 @@ return {
 			process_id = 21699,
 			source_id = 578,
 			process = 300,
-			awards = 1047,
+			awards = 1079,
 			get_award_type = "nor",
 		},
 		[752]=
@@ -18597,7 +18597,7 @@ return {
 			process_id = 21700,
 			source_id = 579,
 			process = 300000,
-			awards = 1046,
+			awards = 1080,
 			get_award_type = "nor",
 		},
 		[753]=
@@ -18606,7 +18606,7 @@ return {
 			process_id = 21701,
 			source_id = 579,
 			process = 800000,
-			awards = 1047,
+			awards = 1081,
 			get_award_type = "nor",
 		},
 		[754]=
@@ -18615,7 +18615,7 @@ return {
 			process_id = 21702,
 			source_id = 579,
 			process = 1500000,
-			awards = 1048,
+			awards = 1082,
 			get_award_type = "nor",
 		},
 		[755]=
@@ -18624,7 +18624,7 @@ return {
 			process_id = 21703,
 			source_id = 580,
 			process = 300000,
-			awards = 1046,
+			awards = 1083,
 			get_award_type = "nor",
 		},
 		[756]=
@@ -18633,7 +18633,7 @@ return {
 			process_id = 21704,
 			source_id = 580,
 			process = 800000,
-			awards = 1047,
+			awards = 1084,
 			get_award_type = "nor",
 		},
 		[757]=
@@ -18642,7 +18642,7 @@ return {
 			process_id = 21705,
 			source_id = 580,
 			process = 1500000,
-			awards = 1048,
+			awards = 1085,
 			get_award_type = "nor",
 		},
 		[758]=
@@ -18651,7 +18651,7 @@ return {
 			process_id = 21706,
 			source_id = 581,
 			process = 2,
-			awards = 1046,
+			awards = 1086,
 			get_award_type = "nor",
 		},
 		[759]=
@@ -18660,7 +18660,7 @@ return {
 			process_id = 21707,
 			source_id = 582,
 			process = 800000,
-			awards = 1047,
+			awards = 1087,
 			get_award_type = "nor",
 		},
 		[760]=
@@ -18669,7 +18669,7 @@ return {
 			process_id = 21708,
 			source_id = 583,
 			process = 1,
-			awards = 1048,
+			awards = 1088,
 			get_award_type = "nor",
 		},
 		[761]=
@@ -18678,7 +18678,7 @@ return {
 			process_id = 21709,
 			source_id = 593,
 			process = 1,
-			awards = 1071,
+			awards = 1089,
 			get_award_type = "nor",
 		},
 		[762]=
@@ -18687,7 +18687,7 @@ return {
 			process_id = 21710,
 			source_id = 594,
 			process = 20,
-			awards = 1071,
+			awards = 1089,
 			get_award_type = "nor",
 		},
 		[763]=
@@ -18696,7 +18696,7 @@ return {
 			process_id = 21711,
 			source_id = 595,
 			process = 50,
-			awards = 1071,
+			awards = 1089,
 			get_award_type = "nor",
 		},
 		[764]=
@@ -18705,7 +18705,7 @@ return {
 			process_id = 21712,
 			source_id = 596,
 			process = 100,
-			awards = 1071,
+			awards = 1089,
 			get_award_type = "nor",
 		},
 		[765]=
@@ -18714,7 +18714,7 @@ return {
 			process_id = 21713,
 			source_id = 597,
 			process = 3,
-			awards = 1071,
+			awards = 1089,
 			get_award_type = "nor",
 		},
 		[766]=
@@ -18723,7 +18723,7 @@ return {
 			process_id = 21714,
 			source_id = 598,
 			process = 5,
-			awards = 1071,
+			awards = 1089,
 			get_award_type = "nor",
 		},
 		[767]=
@@ -18732,7 +18732,7 @@ return {
 			process_id = 21715,
 			source_id = 599,
 			process = 1,
-			awards = 1071,
+			awards = 1089,
 			get_award_type = "nor",
 		},
 		[768]=
@@ -18741,7 +18741,7 @@ return {
 			process_id = 21716,
 			source_id = 600,
 			process = 10,
-			awards = 1071,
+			awards = 1089,
 			get_award_type = "nor",
 		},
 		[769]=
@@ -18750,7 +18750,7 @@ return {
 			process_id = 21717,
 			source_id = 601,
 			process = 20,
-			awards = 1071,
+			awards = 1089,
 			get_award_type = "nor",
 		},
 		[770]=
@@ -18759,7 +18759,7 @@ return {
 			process_id = 21718,
 			source_id = 602,
 			process = 50,
-			awards = 1071,
+			awards = 1089,
 			get_award_type = "nor",
 		},
 		[771]=
@@ -18768,7 +18768,7 @@ return {
 			process_id = 21719,
 			source_id = 603,
 			process = 30,
-			awards = 1071,
+			awards = 1089,
 			get_award_type = "nor",
 		},
 		[772]=
@@ -18777,7 +18777,7 @@ return {
 			process_id = 21720,
 			source_id = 604,
 			process = 80,
-			awards = 1071,
+			awards = 1089,
 			get_award_type = "nor",
 		},
 		[773]=
@@ -18786,7 +18786,7 @@ return {
 			process_id = 21721,
 			source_id = 605,
 			process = 3,
-			awards = 1072,
+			awards = 1090,
 			get_award_type = "nor",
 		},
 		[774]=
@@ -18795,7 +18795,7 @@ return {
 			process_id = 21722,
 			source_id = 606,
 			process = 3,
-			awards = 1073,
+			awards = 1091,
 			get_award_type = "nor",
 		},
 		[775]=
@@ -18804,7 +18804,7 @@ return {
 			process_id = 21723,
 			source_id = 607,
 			process = 2,
-			awards = 1074,
+			awards = 1092,
 			get_award_type = "nor",
 		},
 		[776]=
@@ -18813,7 +18813,7 @@ return {
 			process_id = 21724,
 			source_id = 607,
 			process = 5,
-			awards = 1075,
+			awards = 1093,
 			get_award_type = "nor",
 		},
 		[777]=
@@ -18822,7 +18822,7 @@ return {
 			process_id = 21725,
 			source_id = 608,
 			process = 1,
-			awards = 1076,
+			awards = 1094,
 			get_award_type = "nor",
 		},
 		[778]=
@@ -18831,7 +18831,7 @@ return {
 			process_id = 21726,
 			source_id = 608,
 			process = 3,
-			awards = 1077,
+			awards = 1095,
 			get_award_type = "nor",
 		},
 		[779]=
@@ -18840,7 +18840,7 @@ return {
 			process_id = 21727,
 			source_id = 609,
 			process = 50,
-			awards = 1078,
+			awards = 1096,
 			get_award_type = "nor",
 		},
 		[780]=
@@ -18849,7 +18849,7 @@ return {
 			process_id = 21728,
 			source_id = 609,
 			process = 100,
-			awards = 1079,
+			awards = 1097,
 			get_award_type = "nor",
 		},
 		[781]=
@@ -18858,7 +18858,7 @@ return {
 			process_id = 21729,
 			source_id = 610,
 			process = 50,
-			awards = 1080,
+			awards = 1098,
 			get_award_type = "nor",
 		},
 		[782]=
@@ -18867,7 +18867,7 @@ return {
 			process_id = 21730,
 			source_id = 610,
 			process = 100,
-			awards = 1081,
+			awards = 1099,
 			get_award_type = "nor",
 		},
 		[783]=
@@ -18876,7 +18876,7 @@ return {
 			process_id = 21731,
 			source_id = 611,
 			process = 1,
-			awards = 1082,
+			awards = 1100,
 			get_award_type = "nor",
 		},
 		[784]=
@@ -18885,7 +18885,7 @@ return {
 			process_id = 21732,
 			source_id = 611,
 			process = {1,1},
-			awards = 1083,
+			awards = 1101,
 			get_award_type = "nor",
 		},
 		[785]=
@@ -18894,7 +18894,7 @@ return {
 			process_id = 21733,
 			source_id = 612,
 			process = 1,
-			awards = 1084,
+			awards = 1102,
 			get_award_type = "nor",
 		},
 		[786]=
@@ -18903,7 +18903,7 @@ return {
 			process_id = 21734,
 			source_id = 613,
 			process = 1,
-			awards = 1085,
+			awards = 1103,
 			get_award_type = "nor",
 		},
 		[787]=
@@ -18912,7 +18912,7 @@ return {
 			process_id = 21735,
 			source_id = 613,
 			process = 2,
-			awards = 1086,
+			awards = 1104,
 			get_award_type = "nor",
 		},
 		[788]=
@@ -18921,7 +18921,7 @@ return {
 			process_id = 21736,
 			source_id = 613,
 			process = 4,
-			awards = 1087,
+			awards = 1105,
 			get_award_type = "nor",
 		},
 		[789]=
@@ -18930,7 +18930,7 @@ return {
 			process_id = 21737,
 			source_id = 614,
 			process = 300000,
-			awards = 1088,
+			awards = 1106,
 			get_award_type = "nor",
 		},
 		[790]=
@@ -18939,7 +18939,7 @@ return {
 			process_id = 21738,
 			source_id = 614,
 			process = 600000,
-			awards = 1089,
+			awards = 1107,
 			get_award_type = "nor",
 		},
 		[791]=
@@ -18948,7 +18948,7 @@ return {
 			process_id = 21739,
 			source_id = 615,
 			process = 3,
-			awards = 1090,
+			awards = 1108,
 			get_award_type = "nor",
 		},
 		[792]=
@@ -18957,7 +18957,7 @@ return {
 			process_id = 21740,
 			source_id = 616,
 			process = 1,
-			awards = 1091,
+			awards = 1109,
 			get_award_type = "nor",
 		},
 		[793]=
@@ -18990,7 +18990,7 @@ return {
 			process_id = 21744,
 			source_id = 617,
 			process = 3,
-			awards = 1092,
+			awards = 1110,
 			get_award_type = "nor",
 		},
 		[797]=
@@ -18999,7 +18999,7 @@ return {
 			process_id = 21745,
 			source_id = 618,
 			process = 3,
-			awards = 1093,
+			awards = 1111,
 			get_award_type = "nor",
 		},
 		[798]=
@@ -19008,7 +19008,7 @@ return {
 			process_id = 21746,
 			source_id = 619,
 			process = 3,
-			awards = 1094,
+			awards = 1112,
 			get_award_type = "nor",
 		},
 		[799]=
@@ -19017,7 +19017,7 @@ return {
 			process_id = 21747,
 			source_id = 620,
 			process = 3,
-			awards = 1095,
+			awards = 1113,
 			get_award_type = "nor",
 		},
 		[800]=
@@ -19026,7 +19026,7 @@ return {
 			process_id = 21748,
 			source_id = 621,
 			process = 3,
-			awards = 1096,
+			awards = 1114,
 			get_award_type = "nor",
 		},
 		[801]=
@@ -19035,7 +19035,7 @@ return {
 			process_id = 21749,
 			source_id = 622,
 			process = 3,
-			awards = 1097,
+			awards = 1115,
 			get_award_type = "nor",
 		},
 		[802]=
@@ -19044,7 +19044,7 @@ return {
 			process_id = 21750,
 			source_id = 623,
 			process = 3,
-			awards = 1098,
+			awards = 1116,
 			get_award_type = "nor",
 		},
 		[803]=
@@ -19053,7 +19053,7 @@ return {
 			process_id = 21751,
 			source_id = 624,
 			process = 3,
-			awards = 1099,
+			awards = 1117,
 			get_award_type = "nor",
 		},
 		[804]=
@@ -19062,7 +19062,7 @@ return {
 			process_id = 21752,
 			source_id = 625,
 			process = 3,
-			awards = 1100,
+			awards = 1118,
 			get_award_type = "nor",
 		},
 	},
@@ -43832,119 +43832,119 @@ return {
 		{
 			id = 1636,
 			award_id = 1071,
-			asset_type = "prop_xrxsfl_cjq",
-			asset_count = 1,
+			asset_type = "jing_bi",
+			asset_count = 8000,
 			get_weight = 1,
 		},
 		[1637]=
 		{
 			id = 1637,
-			award_id = 1072,
-			asset_type = "jing_bi",
-			asset_count = 8000,
+			award_id = 1071,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 2,
 			get_weight = 1,
 		},
 		[1638]=
 		{
 			id = 1638,
-			award_id = 1072,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 5,
+			award_id = 1071,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 2,
 			get_weight = 1,
 		},
 		[1639]=
 		{
 			id = 1639,
 			award_id = 1072,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
-			asset_count = 5,
+			asset_type = "jing_bi",
+			asset_count = 8000,
 			get_weight = 1,
 		},
 		[1640]=
 		{
 			id = 1640,
-			award_id = 1073,
-			asset_type = "jing_bi",
-			asset_count = 8000,
+			award_id = 1072,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 2,
 			get_weight = 1,
 		},
 		[1641]=
 		{
 			id = 1641,
-			award_id = 1073,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 5,
+			award_id = 1072,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 2,
 			get_weight = 1,
 		},
 		[1642]=
 		{
 			id = 1642,
 			award_id = 1073,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
-			asset_count = 5,
+			asset_type = "jing_bi",
+			asset_count = 4000,
 			get_weight = 1,
 		},
 		[1643]=
 		{
 			id = 1643,
-			award_id = 1074,
-			asset_type = "jing_bi",
-			asset_count = 5000,
+			award_id = 1073,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 2,
 			get_weight = 1,
 		},
 		[1644]=
 		{
 			id = 1644,
-			award_id = 1074,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 5,
+			award_id = 1073,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 2,
 			get_weight = 1,
 		},
 		[1645]=
 		{
 			id = 1645,
 			award_id = 1074,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
-			asset_count = 5,
+			asset_type = "jing_bi",
+			asset_count = 8000,
 			get_weight = 1,
 		},
 		[1646]=
 		{
 			id = 1646,
-			award_id = 1075,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			award_id = 1074,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 6,
 			get_weight = 1,
 		},
 		[1647]=
 		{
 			id = 1647,
-			award_id = 1075,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 10,
+			award_id = 1074,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 6,
 			get_weight = 1,
 		},
 		[1648]=
 		{
 			id = 1648,
 			award_id = 1075,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
-			asset_count = 10,
+			asset_type = "jing_bi",
+			asset_count = 12000,
 			get_weight = 1,
 		},
 		[1649]=
 		{
 			id = 1649,
-			award_id = 1076,
-			asset_type = "jing_bi",
-			asset_count = 15000,
+			award_id = 1075,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[1650]=
 		{
 			id = 1650,
-			award_id = 1076,
-			asset_type = "prop_fish_drop_act_0",
+			award_id = 1075,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
 			asset_count = 10,
 			get_weight = 1,
 		},
@@ -43952,23 +43952,23 @@ return {
 		{
 			id = 1651,
 			award_id = 1076,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
-			asset_count = 10,
+			asset_type = "jing_bi",
+			asset_count = 50000,
 			get_weight = 1,
 		},
 		[1652]=
 		{
 			id = 1652,
-			award_id = 1077,
-			asset_type = "jing_bi",
-			asset_count = 50000,
+			award_id = 1076,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[1653]=
 		{
 			id = 1653,
-			award_id = 1077,
-			asset_type = "prop_fish_drop_act_0",
+			award_id = 1076,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
 			asset_count = 30,
 			get_weight = 1,
 		},
@@ -43976,47 +43976,47 @@ return {
 		{
 			id = 1654,
 			award_id = 1077,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
-			asset_count = 30,
+			asset_type = "jing_bi",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1655]=
 		{
 			id = 1655,
-			award_id = 1078,
-			asset_type = "jing_bi",
-			asset_count = 5000,
+			award_id = 1077,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[1656]=
 		{
 			id = 1656,
-			award_id = 1078,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 5,
+			award_id = 1077,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[1657]=
 		{
 			id = 1657,
 			award_id = 1078,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
-			asset_count = 5,
+			asset_type = "jing_bi",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[1658]=
 		{
 			id = 1658,
-			award_id = 1079,
-			asset_type = "jing_bi",
-			asset_count = 15000,
+			award_id = 1078,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[1659]=
 		{
 			id = 1659,
-			award_id = 1079,
-			asset_type = "prop_fish_drop_act_0",
+			award_id = 1078,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
 			asset_count = 10,
 			get_weight = 1,
 		},
@@ -44024,86 +44024,86 @@ return {
 		{
 			id = 1660,
 			award_id = 1079,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
-			asset_count = 10,
+			asset_type = "jing_bi",
+			asset_count = 15000,
 			get_weight = 1,
 		},
 		[1661]=
 		{
 			id = 1661,
-			award_id = 1080,
-			asset_type = "jing_bi",
-			asset_count = 5000,
+			award_id = 1079,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 20,
 			get_weight = 1,
 		},
 		[1662]=
 		{
 			id = 1662,
-			award_id = 1080,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 5,
+			award_id = 1079,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 20,
 			get_weight = 1,
 		},
 		[1663]=
 		{
 			id = 1663,
 			award_id = 1080,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
-			asset_count = 5,
+			asset_type = "jing_bi",
+			asset_count = 8000,
 			get_weight = 1,
 		},
 		[1664]=
 		{
 			id = 1664,
-			award_id = 1081,
-			asset_type = "jing_bi",
-			asset_count = 15000,
+			award_id = 1080,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 2,
 			get_weight = 1,
 		},
 		[1665]=
 		{
 			id = 1665,
-			award_id = 1081,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 10,
+			award_id = 1080,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 2,
 			get_weight = 1,
 		},
 		[1666]=
 		{
 			id = 1666,
 			award_id = 1081,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
-			asset_count = 10,
+			asset_type = "jing_bi",
+			asset_count = 12000,
 			get_weight = 1,
 		},
 		[1667]=
 		{
 			id = 1667,
-			award_id = 1082,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			award_id = 1081,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 6,
 			get_weight = 1,
 		},
 		[1668]=
 		{
 			id = 1668,
-			award_id = 1082,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 5,
+			award_id = 1081,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 6,
 			get_weight = 1,
 		},
 		[1669]=
 		{
 			id = 1669,
-			award_id = 1083,
+			award_id = 1082,
 			asset_type = "jing_bi",
-			asset_count = 20000,
+			asset_count = 15000,
 			get_weight = 1,
 		},
 		[1670]=
 		{
 			id = 1670,
-			award_id = 1083,
+			award_id = 1082,
 			asset_type = "prop_fish_drop_act_0",
 			asset_count = 10,
 			get_weight = 1,
@@ -44111,222 +44111,654 @@ return {
 		[1671]=
 		{
 			id = 1671,
-			award_id = 1084,
-			asset_type = "jing_bi",
-			asset_count = 40000,
+			award_id = 1082,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[1672]=
 		{
 			id = 1672,
-			award_id = 1084,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 20,
+			award_id = 1083,
+			asset_type = "jing_bi",
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[1673]=
 		{
 			id = 1673,
-			award_id = 1085,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			award_id = 1083,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 2,
 			get_weight = 1,
 		},
 		[1674]=
 		{
 			id = 1674,
-			award_id = 1085,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 5,
+			award_id = 1083,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 2,
 			get_weight = 1,
 		},
 		[1675]=
 		{
 			id = 1675,
-			award_id = 1086,
+			award_id = 1084,
 			asset_type = "jing_bi",
-			asset_count = 20000,
+			asset_count = 15000,
 			get_weight = 1,
 		},
 		[1676]=
 		{
 			id = 1676,
-			award_id = 1086,
+			award_id = 1084,
 			asset_type = "prop_fish_drop_act_0",
-			asset_count = 10,
+			asset_count = 6,
 			get_weight = 1,
 		},
 		[1677]=
 		{
 			id = 1677,
-			award_id = 1087,
-			asset_type = "jing_bi",
-			asset_count = 40000,
+			award_id = 1084,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 6,
 			get_weight = 1,
 		},
 		[1678]=
 		{
 			id = 1678,
-			award_id = 1087,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 20,
+			award_id = 1085,
+			asset_type = "jing_bi",
+			asset_count = 20000,
 			get_weight = 1,
 		},
 		[1679]=
 		{
 			id = 1679,
-			award_id = 1088,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			award_id = 1085,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[1680]=
 		{
 			id = 1680,
-			award_id = 1088,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 5,
+			award_id = 1085,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[1681]=
 		{
 			id = 1681,
-			award_id = 1089,
+			award_id = 1086,
 			asset_type = "jing_bi",
-			asset_count = 20000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[1682]=
 		{
 			id = 1682,
-			award_id = 1089,
+			award_id = 1086,
 			asset_type = "prop_fish_drop_act_0",
-			asset_count = 10,
+			asset_count = 6,
 			get_weight = 1,
 		},
 		[1683]=
 		{
 			id = 1683,
-			award_id = 1090,
-			asset_type = "jing_bi",
-			asset_count = 10000,
+			award_id = 1086,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 6,
 			get_weight = 1,
 		},
 		[1684]=
 		{
 			id = 1684,
-			award_id = 1090,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 10,
+			award_id = 1087,
+			asset_type = "jing_bi",
+			asset_count = 15000,
 			get_weight = 1,
 		},
 		[1685]=
 		{
 			id = 1685,
-			award_id = 1091,
-			asset_type = "jing_bi",
-			asset_count = 20000,
+			award_id = 1087,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 6,
 			get_weight = 1,
 		},
 		[1686]=
 		{
 			id = 1686,
-			award_id = 1091,
-			asset_type = "prop_fish_drop_act_0",
-			asset_count = 20,
+			award_id = 1087,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 6,
 			get_weight = 1,
 		},
 		[1687]=
 		{
 			id = 1687,
-			award_id = 1092,
+			award_id = 1088,
 			asset_type = "jing_bi",
-			asset_count = 188888,
+			asset_count = 20000,
 			get_weight = 1,
 		},
 		[1688]=
 		{
 			id = 1688,
-			award_id = 1093,
-			asset_type = "jing_bi",
-			asset_count = 388888,
+			award_id = 1088,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[1689]=
 		{
 			id = 1689,
-			award_id = 1094,
-			asset_type = "jing_bi",
-			asset_count = 588888,
+			award_id = 1088,
+			asset_type = "_common_rank_nsj_007_mgbd_rank",
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[1690]=
 		{
 			id = 1690,
-			award_id = 1095,
-			asset_type = "jing_bi",
-			asset_count = 1088888,
+			award_id = 1089,
+			asset_type = "prop_xrxsfl_cjq",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[1691]=
 		{
 			id = 1691,
-			award_id = 1096,
+			award_id = 1090,
 			asset_type = "jing_bi",
-			asset_count = 8888888,
+			asset_count = 8000,
 			get_weight = 1,
 		},
 		[1692]=
 		{
 			id = 1692,
-			award_id = 1096,
-			award_name = "美的多功能锅/美的电烤箱",
+			award_id = 1090,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 5,
 			get_weight = 1,
-			is_send_email = 1,
 		},
 		[1693]=
 		{
 			id = 1693,
-			award_id = 1097,
-			asset_type = "jing_bi",
-			asset_count = 4088888,
+			award_id = 1090,
+			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_count = 5,
 			get_weight = 1,
 		},
 		[1694]=
 		{
 			id = 1694,
-			award_id = 1097,
-			award_name = "金龙鱼油/飞科剃须刀",
+			award_id = 1091,
+			asset_type = "jing_bi",
+			asset_count = 8000,
 			get_weight = 1,
-			is_send_email = 1,
 		},
 		[1695]=
 		{
 			id = 1695,
-			award_id = 1098,
-			asset_type = "jing_bi",
+			award_id = 1091,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 5,
 			get_weight = 1,
 		},
 		[1696]=
 		{
 			id = 1696,
-			award_id = 1098,
-			award_name = "琥珀核桃500g",
+			award_id = 1091,
+			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_count = 5,
 			get_weight = 1,
-			is_send_email = 1,
 		},
 		[1697]=
 		{
 			id = 1697,
-			award_id = 1099,
+			award_id = 1092,
 			asset_type = "jing_bi",
-			asset_count = 2088888,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1698]=
 		{
 			id = 1698,
+			award_id = 1092,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[1699]=
+		{
+			id = 1699,
+			award_id = 1092,
+			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[1700]=
+		{
+			id = 1700,
+			award_id = 1093,
+			asset_type = "jing_bi",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[1701]=
+		{
+			id = 1701,
+			award_id = 1093,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1702]=
+		{
+			id = 1702,
+			award_id = 1093,
+			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1703]=
+		{
+			id = 1703,
+			award_id = 1094,
+			asset_type = "jing_bi",
+			asset_count = 15000,
+			get_weight = 1,
+		},
+		[1704]=
+		{
+			id = 1704,
+			award_id = 1094,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1705]=
+		{
+			id = 1705,
+			award_id = 1094,
+			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1706]=
+		{
+			id = 1706,
+			award_id = 1095,
+			asset_type = "jing_bi",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[1707]=
+		{
+			id = 1707,
+			award_id = 1095,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 30,
+			get_weight = 1,
+		},
+		[1708]=
+		{
+			id = 1708,
+			award_id = 1095,
+			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_count = 30,
+			get_weight = 1,
+		},
+		[1709]=
+		{
+			id = 1709,
+			award_id = 1096,
+			asset_type = "jing_bi",
+			asset_count = 5000,
+			get_weight = 1,
+		},
+		[1710]=
+		{
+			id = 1710,
+			award_id = 1096,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[1711]=
+		{
+			id = 1711,
+			award_id = 1096,
+			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[1712]=
+		{
+			id = 1712,
+			award_id = 1097,
+			asset_type = "jing_bi",
+			asset_count = 15000,
+			get_weight = 1,
+		},
+		[1713]=
+		{
+			id = 1713,
+			award_id = 1097,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1714]=
+		{
+			id = 1714,
+			award_id = 1097,
+			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1715]=
+		{
+			id = 1715,
+			award_id = 1098,
+			asset_type = "jing_bi",
+			asset_count = 5000,
+			get_weight = 1,
+		},
+		[1716]=
+		{
+			id = 1716,
+			award_id = 1098,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[1717]=
+		{
+			id = 1717,
+			award_id = 1098,
+			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[1718]=
+		{
+			id = 1718,
+			award_id = 1099,
+			asset_type = "jing_bi",
+			asset_count = 15000,
+			get_weight = 1,
+		},
+		[1719]=
+		{
+			id = 1719,
+			award_id = 1099,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1720]=
+		{
+			id = 1720,
+			award_id = 1099,
+			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1721]=
+		{
+			id = 1721,
 			award_id = 1100,
+			asset_type = "jing_bi",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[1722]=
+		{
+			id = 1722,
+			award_id = 1100,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[1723]=
+		{
+			id = 1723,
+			award_id = 1101,
+			asset_type = "jing_bi",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[1724]=
+		{
+			id = 1724,
+			award_id = 1101,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1725]=
+		{
+			id = 1725,
+			award_id = 1102,
+			asset_type = "jing_bi",
+			asset_count = 40000,
+			get_weight = 1,
+		},
+		[1726]=
+		{
+			id = 1726,
+			award_id = 1102,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 20,
+			get_weight = 1,
+		},
+		[1727]=
+		{
+			id = 1727,
+			award_id = 1103,
+			asset_type = "jing_bi",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[1728]=
+		{
+			id = 1728,
+			award_id = 1103,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[1729]=
+		{
+			id = 1729,
+			award_id = 1104,
+			asset_type = "jing_bi",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[1730]=
+		{
+			id = 1730,
+			award_id = 1104,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1731]=
+		{
+			id = 1731,
+			award_id = 1105,
+			asset_type = "jing_bi",
+			asset_count = 40000,
+			get_weight = 1,
+		},
+		[1732]=
+		{
+			id = 1732,
+			award_id = 1105,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 20,
+			get_weight = 1,
+		},
+		[1733]=
+		{
+			id = 1733,
+			award_id = 1106,
+			asset_type = "jing_bi",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[1734]=
+		{
+			id = 1734,
+			award_id = 1106,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[1735]=
+		{
+			id = 1735,
+			award_id = 1107,
+			asset_type = "jing_bi",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[1736]=
+		{
+			id = 1736,
+			award_id = 1107,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1737]=
+		{
+			id = 1737,
+			award_id = 1108,
+			asset_type = "jing_bi",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[1738]=
+		{
+			id = 1738,
+			award_id = 1108,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[1739]=
+		{
+			id = 1739,
+			award_id = 1109,
+			asset_type = "jing_bi",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[1740]=
+		{
+			id = 1740,
+			award_id = 1109,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 20,
+			get_weight = 1,
+		},
+		[1741]=
+		{
+			id = 1741,
+			award_id = 1110,
+			asset_type = "jing_bi",
+			asset_count = 188888,
+			get_weight = 1,
+		},
+		[1742]=
+		{
+			id = 1742,
+			award_id = 1111,
+			asset_type = "jing_bi",
+			asset_count = 388888,
+			get_weight = 1,
+		},
+		[1743]=
+		{
+			id = 1743,
+			award_id = 1112,
+			asset_type = "jing_bi",
+			asset_count = 588888,
+			get_weight = 1,
+		},
+		[1744]=
+		{
+			id = 1744,
+			award_id = 1113,
+			asset_type = "jing_bi",
+			asset_count = 1088888,
+			get_weight = 1,
+		},
+		[1745]=
+		{
+			id = 1745,
+			award_id = 1114,
+			asset_type = "jing_bi",
+			asset_count = 8888888,
+			get_weight = 1,
+		},
+		[1746]=
+		{
+			id = 1746,
+			award_id = 1114,
+			award_name = "美的多功能锅/美的电烤箱",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[1747]=
+		{
+			id = 1747,
+			award_id = 1115,
+			asset_type = "jing_bi",
+			asset_count = 4088888,
+			get_weight = 1,
+		},
+		[1748]=
+		{
+			id = 1748,
+			award_id = 1115,
+			award_name = "金龙鱼油/飞科剃须刀",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[1749]=
+		{
+			id = 1749,
+			award_id = 1116,
+			asset_type = "jing_bi",
+			get_weight = 1,
+		},
+		[1750]=
+		{
+			id = 1750,
+			award_id = 1116,
+			award_name = "琥珀核桃500g",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[1751]=
+		{
+			id = 1751,
+			award_id = 1117,
+			asset_type = "jing_bi",
+			asset_count = 2088888,
+			get_weight = 1,
+		},
+		[1752]=
+		{
+			id = 1752,
+			award_id = 1118,
 			asset_type = "jing_bi",
 			asset_count = 1088888,
 			get_weight = 1,
