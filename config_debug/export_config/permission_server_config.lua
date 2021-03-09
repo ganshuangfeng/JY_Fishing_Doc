@@ -8430,7 +8430,7 @@ return {
 			no = 178,
 			id = 77,
 			var = "share_condition",
-			value = "3dby_cpl",
+			value = "3dby_official",
 			judge = 2,
 			group = 4,
 			error_desc = "是3D捕鱼游戏渠道玩家",
