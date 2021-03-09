@@ -38,7 +38,7 @@ return {
 		{
 			line = 4,
 			task_id = 15004,
-			task_icon = "rw_icon_jn",
+			task_icon = "3dby_btn_sd",
 			icon_id = 1,
 			text = "使用3次锁定",
 			random = 0,
@@ -49,7 +49,7 @@ return {
 		{
 			line = 5,
 			task_id = 15005,
-			task_icon = "rw_icon_bd",
+			task_icon = "3dby_btn_bd",
 			icon_id = 1,
 			text = "使用3次冰冻",
 			random = 0,
@@ -60,7 +60,7 @@ return {
 		{
 			line = 6,
 			task_id = 15006,
-			task_icon = "3dby_icon_yu29",
+			task_icon = "3dby_btn_js",
 			icon_id = 2,
 			text = "使用1次加速",
 			random = 0,
@@ -71,7 +71,7 @@ return {
 		{
 			line = 7,
 			task_id = 15007,
-			task_icon = "3dby_icon_yu36",
+			task_icon = "3dby_btn_kb",
 			icon_id = 2,
 			text = "使用1次狂暴",
 			random = 0,
@@ -82,7 +82,7 @@ return {
 		{
 			line = 8,
 			task_id = 15008,
-			task_icon = "3dby_icon_yu31",
+			task_icon = "3dby_btn_jb",
 			icon_id = 2,
 			text = "使用1次双倍",
 			random = 0,
@@ -181,7 +181,7 @@ return {
 		{
 			line = 17,
 			task_id = 15017,
-			task_icon = "3dby_icon_yu30",
+			task_icon = "rw_icon_mrzz",
 			icon_id = 2,
 			text = "捕鱼获得金币50万",
 			random = 0,
@@ -192,7 +192,7 @@ return {
 		{
 			line = 18,
 			task_id = 15018,
-			task_icon = "3dby_icon_yu32",
+			task_icon = "rw_icon_ljpd",
 			icon_id = 2,
 			text = "累计开炮数1000发",
 			random = 0,
@@ -203,7 +203,7 @@ return {
 		{
 			line = 19,
 			task_id = 15019,
-			task_icon = "3dby_icon_yu48",
+			task_icon = "rw_icon_bh",
 			icon_id = 2,
 			text = "捕鱼任意鱼100条",
 			random = 0,
@@ -214,7 +214,7 @@ return {
 		{
 			line = 20,
 			task_id = 15020,
-			task_icon = "3dby_icon_yu34",
+			task_icon = "rw_icon_mrzz",
 			icon_id = 2,
 			text = "捕鱼获得金币50万",
 			random = 0,
@@ -225,7 +225,7 @@ return {
 		{
 			line = 21,
 			task_id = 15021,
-			task_icon = "3dby_icon_yu33",
+			task_icon = "rw_icon_ljpd",
 			icon_id = 2,
 			text = "累计开炮数1000发",
 			random = 0,
@@ -324,7 +324,7 @@ return {
 		{
 			line = 30,
 			task_id = 15030,
-			task_icon = "3dby_icon_yu46",
+			task_icon = "rw_icon_mrzz",
 			icon_id = 2,
 			text = "捕鱼获得金币300万（500倍炮以上）",
 			random = 0,
@@ -335,7 +335,7 @@ return {
 		{
 			line = 31,
 			task_id = 15031,
-			task_icon = "3dby_icon_yu45",
+			task_icon = "rw_icon_ljpd",
 			icon_id = 2,
 			text = "累计开炮数2000发（500倍炮以上）",
 			random = 0,
@@ -467,7 +467,7 @@ return {
 		{
 			line = 43,
 			task_id = 15043,
-			task_icon = "3dby_icon_yu29",
+			task_icon = "rw_icon_mrzz",
 			icon_id = 2,
 			text = "捕鱼获得金币500万（1000倍炮以上）",
 			random = 0,
@@ -478,7 +478,7 @@ return {
 		{
 			line = 44,
 			task_id = 15044,
-			task_icon = "3dby_icon_yu32",
+			task_icon = "rw_icon_ljpd",
 			icon_id = 2,
 			text = "累计开炮数3000发（1000倍炮以上）",
 			random = 0,
@@ -489,7 +489,7 @@ return {
 		{
 			line = 45,
 			task_id = 15045,
-			task_icon = "3dby_icon_yu36",
+			task_icon = "rw_icon_bh",
 			icon_id = 2,
 			text = "捕鱼任意鱼300条（1000倍炮以上）",
 			random = 0,
@@ -610,7 +610,7 @@ return {
 		{
 			line = 56,
 			task_id = 15056,
-			task_icon = "3dby_icon_yu43",
+			task_icon = "rw_icon_mrzz",
 			icon_id = 2,
 			text = "捕鱼获得金币1000万（5000倍炮以上）",
 			random = 0,
@@ -621,7 +621,7 @@ return {
 		{
 			line = 57,
 			task_id = 15057,
-			task_icon = "3dby_icon_yu47",
+			task_icon = "rw_icon_ljpd",
 			icon_id = 2,
 			text = "累计开炮数5000发（5000倍炮以上）",
 			random = 0,
