@@ -6,10 +6,10 @@ return {
 			line = 1,
 			condiy_key = "cpl_notcjj",
 			change_type = 47,
-			cur_path = "act_006_hhl_",
+			cur_path = "act_007_hhl_",
 			item_key = "prop_fish_drop_act_0",
-			beginTime = 1615852800,
-			endTime = 1616428799,
+			beginTime = 1616457600,
+			endTime = 1617033599,
 			config = {1,2,3,4,5,6,7,8},
 			GotoUI = {"game_Fishing3DHall",},
 			help = "help_info",
@@ -19,10 +19,10 @@ return {
 			line = 2,
 			condiy_key = "cpl_cjj",
 			change_type = 48,
-			cur_path = "act_006_hhl_",
+			cur_path = "act_007_hhl_",
 			item_key = "prop_fish_drop_act_0",
-			beginTime = 1615852800,
-			endTime = 1616428799,
+			beginTime = 1616457600,
+			endTime = 1617033599,
 			config = {9,10,11,12,13,14,15,16},
 			GotoUI = {"game_MiniGame",},
 			help = "help_info_cjj",
@@ -33,7 +33,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			award_name = "美的空调",
+			award_name = "笔记本电脑",
 			award_image = "swjl_1",
 			item_cost_text = 1080000,
 			type = 1,
@@ -42,7 +42,7 @@ return {
 		[2]=
 		{
 			line = 2,
-			award_name = "华为荣耀手机",
+			award_name = "vivo收集",
 			award_image = "swjl_2",
 			item_cost_text = 880000,
 			type = 1,
@@ -51,7 +51,7 @@ return {
 		[3]=
 		{
 			line = 3,
-			award_name = "扫地机器人",
+			award_name = "美的微波炉",
 			award_image = "swjl_3",
 			item_cost_text = 180000,
 			type = 1,
@@ -75,7 +75,7 @@ return {
 		[6]=
 		{
 			line = 6,
-			award_name = "卫龙亲嘴烧30片",
+			award_name = "俄罗斯巧克力",
 			award_image = "swjl_4",
 			item_cost_text = 8000,
 			type = 1,
@@ -99,7 +99,7 @@ return {
 		[9]=
 		{
 			line = 9,
-			award_name = "美的空调",
+			award_name = "笔记本电脑",
 			award_image = "swjl_1",
 			item_cost_text = 1080000,
 			type = 1,
@@ -108,7 +108,7 @@ return {
 		[10]=
 		{
 			line = 10,
-			award_name = "华为荣耀手机",
+			award_name = "vivo收集",
 			award_image = "swjl_2",
 			item_cost_text = 880000,
 			type = 1,
@@ -117,7 +117,7 @@ return {
 		[11]=
 		{
 			line = 11,
-			award_name = "扫地机器人",
+			award_name = "美的微波炉",
 			award_image = "swjl_3",
 			item_cost_text = 180000,
 			type = 1,
@@ -141,7 +141,7 @@ return {
 		[14]=
 		{
 			line = 14,
-			award_name = "卫龙亲嘴烧30片",
+			award_name = "俄罗斯巧克力",
 			award_image = "swjl_4",
 			item_cost_text = 8000,
 			type = 1,
