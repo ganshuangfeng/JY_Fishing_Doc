@@ -159,7 +159,6 @@ return {
 			title = "女神的礼物",
 			order = 1,
 			is_on_off = 1,
-			condi_key = "act_039_ty_by_hhl",
 			beginTime = 1614643200,
 			endTime = 1615219199,
 			showType = "prefab",
