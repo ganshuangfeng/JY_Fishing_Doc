@@ -30683,7 +30683,7 @@ return {
 			id = 605,
 			condition_id = 443,
 			condition_name = "item_id",
-			condition_value = 2,
+			condition_value = 7,
 			judge_type = 2,
 		},
 		[606]=
@@ -30691,7 +30691,7 @@ return {
 			id = 606,
 			condition_id = 444,
 			condition_name = "item_id",
-			condition_value = 1,
+			condition_value = 6,
 			judge_type = 2,
 		},
 		[607]=
