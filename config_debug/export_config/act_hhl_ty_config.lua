@@ -74,8 +74,8 @@ return {
 		[6]=
 		{
 			line = 6,
-			award_name = "200万金币",
-			award_image = "pay_icon_gold7",
+			award_name = "200万鱼币",
+			award_image = "ty_icon_yb_5",
 			item_cost_text = 7200,
 			type = 0,
 		},
@@ -139,8 +139,8 @@ return {
 		[14]=
 		{
 			line = 14,
-			award_name = "200万金币",
-			award_image = "pay_icon_gold7",
+			award_name = "200万小游戏币",
+			award_image = "ty_icon_yxb_5",
 			item_cost_text = 7200,
 			type = 0,
 		},
