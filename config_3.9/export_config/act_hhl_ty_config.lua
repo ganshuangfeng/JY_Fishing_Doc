@@ -83,7 +83,7 @@ return {
 		{
 			line = 7,
 			award_name = "山药薄片*10",
-			award_image = "swjl_2",
+			award_image = "swjl_4",
 			item_cost_text = 8000,
 			type = 1,
 		},
@@ -148,7 +148,7 @@ return {
 		{
 			line = 15,
 			award_name = "山药薄片*10",
-			award_image = "swjl_2",
+			award_image = "swjl_4",
 			item_cost_text = 8000,
 			type = 1,
 		},
