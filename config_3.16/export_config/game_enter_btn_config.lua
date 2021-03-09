@@ -89,7 +89,7 @@ return {
 		{
 			id = 1,
 			area = "left_down",
-			group_list = "11#",
+			group_list = "128#11#",
 		},
 		[2]=
 		{
@@ -1245,6 +1245,13 @@ return {
 			id = 127,
 			parm = {"sys_3dby_xyxtg",},
 			is_on_off = 1,
+		},
+		[128]=
+		{
+			id = 128,
+			parm = {"act_xrxsfl",},
+			is_on_off = 1,
+			condi_key = "cpl_cjj",
 		},
 	},
 }
