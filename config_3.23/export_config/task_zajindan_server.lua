@@ -12057,7 +12057,7 @@ return {
 		{
 			id = 1000436,
 			enable = 1,
-			name = "幸运福袋",
+			name = "月末狂欢·幸运福袋",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 21794,
@@ -12067,6 +12067,22 @@ return {
 			end_valid_time = 1617033599,
 			time_limit = -1,
 			is_send_client = 1,
+		},
+		[1000437]=
+		{
+			id = 1000437,
+			enable = 1,
+			name = "月末狂欢·五星掉落",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21795,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1616428800,
+			end_valid_time = 1617033599,
+			time_limit = -1,
+			is_send_client = 1,
+			award_change_type = "task_award_no_show",
 		},
 	},
 	process_data=
@@ -20078,6 +20094,16 @@ return {
 			process = {2,1,2},
 			awards = {1144,1145,1146},
 			get_award_type = "random",
+		},
+		[847]=
+		{
+			id = 847,
+			process_id = 21793,
+			source_id = 542,
+			process = {300000,-1},
+			awards = 1147,
+			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 	},
 	source=
@@ -46599,6 +46625,22 @@ return {
 			award_id = 1146,
 			asset_type = "jing_bi",
 			asset_count = {2000000,2900000},
+			get_weight = 1,
+		},
+		[1857]=
+		{
+			id = 1857,
+			award_id = 1147,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1858]=
+		{
+			id = 1858,
+			award_id = 1147,
+			asset_type = "_common_rank_ymkh_010_wxphb_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
