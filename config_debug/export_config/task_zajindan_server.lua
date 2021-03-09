@@ -44338,7 +44338,7 @@ return {
 		{
 			id = 1693,
 			award_id = 1090,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 5,
 			get_weight = 1,
 		},
@@ -44362,7 +44362,7 @@ return {
 		{
 			id = 1696,
 			award_id = 1091,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 5,
 			get_weight = 1,
 		},
@@ -44386,7 +44386,7 @@ return {
 		{
 			id = 1699,
 			award_id = 1092,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 5,
 			get_weight = 1,
 		},
@@ -44410,7 +44410,7 @@ return {
 		{
 			id = 1702,
 			award_id = 1093,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 10,
 			get_weight = 1,
 		},
@@ -44434,7 +44434,7 @@ return {
 		{
 			id = 1705,
 			award_id = 1094,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 10,
 			get_weight = 1,
 		},
@@ -44458,7 +44458,7 @@ return {
 		{
 			id = 1708,
 			award_id = 1095,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 30,
 			get_weight = 1,
 		},
@@ -44482,7 +44482,7 @@ return {
 		{
 			id = 1711,
 			award_id = 1096,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 5,
 			get_weight = 1,
 		},
@@ -44506,7 +44506,7 @@ return {
 		{
 			id = 1714,
 			award_id = 1097,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 10,
 			get_weight = 1,
 		},
@@ -44530,7 +44530,7 @@ return {
 		{
 			id = 1717,
 			award_id = 1098,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 5,
 			get_weight = 1,
 		},
@@ -44554,7 +44554,7 @@ return {
 		{
 			id = 1720,
 			award_id = 1099,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 10,
 			get_weight = 1,
 		},
@@ -44578,7 +44578,7 @@ return {
 		{
 			id = 1723,
 			award_id = 1100,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 5,
 			get_weight = 1,
 		},
@@ -44602,7 +44602,7 @@ return {
 		{
 			id = 1726,
 			award_id = 1101,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 10,
 		},
 		[1727]=
@@ -44625,7 +44625,7 @@ return {
 		{
 			id = 1729,
 			award_id = 1102,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 20,
 		},
 		[1730]=
@@ -44648,7 +44648,7 @@ return {
 		{
 			id = 1732,
 			award_id = 1103,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 5,
 		},
 		[1733]=
@@ -44671,7 +44671,7 @@ return {
 		{
 			id = 1735,
 			award_id = 1104,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 10,
 		},
 		[1736]=
@@ -44694,7 +44694,7 @@ return {
 		{
 			id = 1738,
 			award_id = 1105,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 20,
 		},
 		[1739]=
@@ -44717,7 +44717,7 @@ return {
 		{
 			id = 1741,
 			award_id = 1106,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 5,
 		},
 		[1742]=
@@ -44740,7 +44740,7 @@ return {
 		{
 			id = 1744,
 			award_id = 1107,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 10,
 		},
 		[1745]=
@@ -44763,7 +44763,7 @@ return {
 		{
 			id = 1747,
 			award_id = 1108,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 10,
 		},
 		[1748]=
@@ -44786,7 +44786,7 @@ return {
 		{
 			id = 1750,
 			award_id = 1109,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 20,
 		},
 		[1751]=
@@ -44896,7 +44896,7 @@ return {
 		{
 			id = 1764,
 			award_id = 1119,
-			asset_type = "_common_rank_kh315_008_lhsjb_rank",
+			asset_type = "_common_rank_kh315_008_lhphb_rank",
 			asset_count = 1,
 			get_weight = 1,
 		},
