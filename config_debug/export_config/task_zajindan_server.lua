@@ -44860,6 +44860,7 @@ return {
 			id = 1759,
 			award_id = 1116,
 			asset_type = "jing_bi",
+			asset_count = 2088888,
 			get_weight = 1,
 		},
 		[1760]=
