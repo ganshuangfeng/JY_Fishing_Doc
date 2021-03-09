@@ -11470,7 +11470,7 @@ return {
 		[1000397]=
 		{
 			id = 1000397,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v3_normal",
 			task_enum = "common",
@@ -11485,7 +11485,7 @@ return {
 		[1000398]=
 		{
 			id = 1000398,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v3_normal",
 			task_enum = "common",
@@ -11500,7 +11500,7 @@ return {
 		[1000399]=
 		{
 			id = 1000399,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v3_normal",
 			task_enum = "common",
@@ -11515,7 +11515,7 @@ return {
 		[1000400]=
 		{
 			id = 1000400,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v3_normal",
 			task_enum = "common",
@@ -11530,7 +11530,7 @@ return {
 		[1000401]=
 		{
 			id = 1000401,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v4v12_normal",
 			task_enum = "common",
@@ -11545,7 +11545,7 @@ return {
 		[1000402]=
 		{
 			id = 1000402,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v4v12_normal",
 			task_enum = "common",
@@ -11560,7 +11560,7 @@ return {
 		[1000403]=
 		{
 			id = 1000403,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v4v12_normal",
 			task_enum = "common",
@@ -11575,7 +11575,7 @@ return {
 		[1000404]=
 		{
 			id = 1000404,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v4v12_normal",
 			task_enum = "common",
@@ -11590,7 +11590,7 @@ return {
 		[1000405]=
 		{
 			id = 1000405,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v4v12_normal",
 			task_enum = "common",
@@ -11605,7 +11605,7 @@ return {
 		[1000406]=
 		{
 			id = 1000406,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v3_cjj",
 			task_enum = "common",
@@ -11620,7 +11620,7 @@ return {
 		[1000407]=
 		{
 			id = 1000407,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v3_cjj",
 			task_enum = "common",
@@ -11635,7 +11635,7 @@ return {
 		[1000408]=
 		{
 			id = 1000408,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v3_cjj",
 			task_enum = "common",
@@ -11650,7 +11650,7 @@ return {
 		[1000409]=
 		{
 			id = 1000409,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v3_cjj",
 			task_enum = "common",
@@ -11665,7 +11665,7 @@ return {
 		[1000410]=
 		{
 			id = 1000410,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v4v12_cjj",
 			task_enum = "common",
@@ -11680,7 +11680,7 @@ return {
 		[1000411]=
 		{
 			id = 1000411,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v4v12_cjj",
 			task_enum = "common",
@@ -11695,7 +11695,7 @@ return {
 		[1000412]=
 		{
 			id = 1000412,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v4v12_cjj",
 			task_enum = "common",
@@ -11710,7 +11710,7 @@ return {
 		[1000413]=
 		{
 			id = 1000413,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v4v12_cjj",
 			task_enum = "common",
@@ -11725,7 +11725,7 @@ return {
 		[1000414]=
 		{
 			id = 1000414,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_xsfl_v4v12_cjj",
 			task_enum = "common",
@@ -11740,7 +11740,7 @@ return {
 		[1000415]=
 		{
 			id = 1000415,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -11755,7 +11755,7 @@ return {
 		[1000416]=
 		{
 			id = 1000416,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -11770,7 +11770,7 @@ return {
 		[1000417]=
 		{
 			id = 1000417,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -11785,7 +11785,7 @@ return {
 		[1000418]=
 		{
 			id = 1000418,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -11800,7 +11800,7 @@ return {
 		[1000419]=
 		{
 			id = 1000419,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -11815,7 +11815,7 @@ return {
 		[1000420]=
 		{
 			id = 1000420,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -11830,7 +11830,7 @@ return {
 		[1000421]=
 		{
 			id = 1000421,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -11845,7 +11845,7 @@ return {
 		[1000422]=
 		{
 			id = 1000422,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -11860,7 +11860,7 @@ return {
 		[1000423]=
 		{
 			id = 1000423,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -11875,7 +11875,7 @@ return {
 		[1000424]=
 		{
 			id = 1000424,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -11890,7 +11890,7 @@ return {
 		[1000425]=
 		{
 			id = 1000425,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -11905,7 +11905,7 @@ return {
 		[1000426]=
 		{
 			id = 1000426,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -11920,7 +11920,7 @@ return {
 		[1000427]=
 		{
 			id = 1000427,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -11935,7 +11935,7 @@ return {
 		[1000428]=
 		{
 			id = 1000428,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -11950,7 +11950,7 @@ return {
 		[1000429]=
 		{
 			id = 1000429,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -11965,7 +11965,7 @@ return {
 		[1000430]=
 		{
 			id = 1000430,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -11980,7 +11980,7 @@ return {
 		[1000431]=
 		{
 			id = 1000431,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -11995,7 +11995,7 @@ return {
 		[1000432]=
 		{
 			id = 1000432,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -12010,7 +12010,7 @@ return {
 		[1000433]=
 		{
 			id = 1000433,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -12025,7 +12025,7 @@ return {
 		[1000434]=
 		{
 			id = 1000434,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -12040,7 +12040,7 @@ return {
 		[1000435]=
 		{
 			id = 1000435,
-			enable = 1,
+			enable = 0,
 			name = "春暖花开·限时返利",
 			own_type = "normal",
 			task_enum = "common",
@@ -12049,6 +12049,37 @@ return {
 			reset_delay = 1,
 			start_valid_time = 1615824000,
 			end_valid_time = 1616428799,
+			time_limit = -1,
+			is_send_client = 1,
+			award_change_type = "task_award_no_show",
+		},
+		[1000436]=
+		{
+			id = 1000436,
+			enable = 1,
+			name = "月末狂欢·幸运福袋",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21794,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1616428800,
+			end_valid_time = 1617033599,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000437]=
+		{
+			id = 1000437,
+			enable = 1,
+			name = "月末狂欢·五星掉落",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21795,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1616428800,
+			end_valid_time = 1617033599,
 			time_limit = -1,
 			is_send_client = 1,
 			award_change_type = "task_award_no_show",
@@ -20052,6 +20083,25 @@ return {
 			source_id = 542,
 			process = {300000,-1},
 			awards = 1143,
+			get_award_type = "nor",
+			is_auto_get_award = 2,
+		},
+		[846]=
+		{
+			id = 846,
+			process_id = 21794,
+			source_id = 584,
+			process = {2,1,2},
+			awards = {1144,1145,1146},
+			get_award_type = "random",
+		},
+		[847]=
+		{
+			id = 847,
+			process_id = 21793,
+			source_id = 542,
+			process = {300000,-1},
+			awards = 1147,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
 		},
@@ -46550,6 +46600,46 @@ return {
 			id = 1853,
 			award_id = 1143,
 			asset_type = "_common_rank_cnhk_009_thphb_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1854]=
+		{
+			id = 1854,
+			award_id = 1144,
+			asset_type = "jing_bi",
+			asset_count = {250000,320000},
+			get_weight = 1,
+		},
+		[1855]=
+		{
+			id = 1855,
+			award_id = 1145,
+			asset_type = "jing_bi",
+			asset_count = {400000,580000},
+			get_weight = 1,
+		},
+		[1856]=
+		{
+			id = 1856,
+			award_id = 1146,
+			asset_type = "jing_bi",
+			asset_count = {2000000,2900000},
+			get_weight = 1,
+		},
+		[1857]=
+		{
+			id = 1857,
+			award_id = 1147,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[1858]=
+		{
+			id = 1858,
+			award_id = 1147,
+			asset_type = "_common_rank_ymkh_010_wxphb_rank",
 			asset_count = 1,
 			get_weight = 1,
 		},
