@@ -5,13 +5,13 @@ return {
 		{
 			id = 1,
 			level = 1,
-			score = 15000,
+			score = 5000,
 		},
 		[2]=
 		{
 			id = 2,
 			level = 2,
-			score = 150000,
+			score = 100000,
 		},
 		[3]=
 		{

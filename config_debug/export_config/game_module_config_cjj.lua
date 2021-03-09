@@ -2685,9 +2685,9 @@ return {
 			key = "act_029_hlqjd",
 			desc = "欢乐敲金蛋",
 			lua = "Act_029_HLQJDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[275]=
 		{
@@ -2993,9 +2993,9 @@ return {
 			key = "act_ty_lb1",
 			desc = "通用活动--礼包模板（感恩礼包）",
 			lua = "Act_Ty_LB1Manager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[306]=
 		{
@@ -3013,9 +3013,9 @@ return {
 			key = "act_ty_collect_words",
 			desc = "通用活动--发财礼包模板",
 			lua = "Act_Ty_Collect_WordsManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[308]=
 		{
@@ -3034,8 +3034,8 @@ return {
 			desc = "赢一把就睡觉",
 			lua = "Act_015_YYBJSJManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[310]=
 		{
@@ -3044,75 +3044,57 @@ return {
 			desc = "疯狂敲金蛋",
 			lua = "Act_Ty_QJD1Manager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[311]=
 		{
 			id = 311,
-			key = "act_ty_sjb_style/act_001_dlphb",
-			desc = "阳光榜单",
-			is_on_off = 0,
+			key = "act_ty_sjb_style/act_008_dlphb",
+			desc = "掉落排行榜皮肤（桃花）",
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
 		[312]=
 		{
 			id = 312,
-			key = "act_ty_sjb_style/act_002_dlphb",
-			desc = "爆竹排行榜",
-			is_on_off = 0,
+			key = "act_ty_by_drop_style/act_010_taohua",
+			desc = "活动boss皮肤（桃花）",
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
 		[313]=
 		{
 			id = 313,
-			key = "act_ty_by_drop_style/act_003_taiyang",
-			desc = "太阳掉落皮肤",
-			is_on_off = 0,
+			key = "act_ty_by_hhl_style/act_006_hhl",
+			desc = "换好礼皮肤",
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
 		[314]=
 		{
 			id = 314,
-			key = "act_ty_by_drop_style/act_004_baozhu",
-			desc = "爆竹掉落皮肤",
-			is_on_off = 0,
+			key = "sys_act_base_style/sys_act_base_normal_001",
+			desc = "周常活动皮肤",
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
 		[315]=
 		{
 			id = 315,
-			key = "act_ty_by_hhl_style/act_001_hhl",
-			desc = "太阳换好礼",
-			is_on_off = 0,
+			key = "sys_act_base_style/sys_act_base_weekly_009",
+			desc = "扩展活动皮肤",
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_by_hhl_style/act_002_hhl",
-			desc = "爆竹换好礼",
-			is_on_off = 0,
-			enable = 1,
-			state = 1,
-		},
-		[317]=
-		{
-			id = 317,
-			key = "sys_act_base_style",
-			desc = "活动皮肤",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[318]=
-		{
-			id = 318,
 			key = "act_045_xxlbd",
 			desc = "消消乐争霸",
 			lua = "Act_045_XXLBDManger",
@@ -3120,166 +3102,68 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[319]=
+		[317]=
 		{
-			id = 319,
+			id = 317,
+			key = "act_ty_lb1_style/act_002_tylb1",
+			desc = "通用礼包皮肤",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
+		},
+		[318]=
+		{
+			id = 318,
 			key = "act_ty_universal_dh",
 			desc = "万能字",
 			lua = "Act_Ty_UNIVERSAL_DHManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
+		},
+		[319]=
+		{
+			id = 319,
+			key = "act_ty_universal_dh_style/act_001_universal",
+			desc = "万能字资源皮肤",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[320]=
 		{
 			id = 320,
-			key = "act_ty_universal_dh_style/act_001_universal",
-			desc = "万能字资源皮肤",
+			key = "act_048_xnsmt",
+			desc = "新年送茅台",
+			lua = "Act_048_XNSMTManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
+			condi_key = "actp_own_task_p_041_xyxfl",
 		},
 		[321]=
 		{
 			id = 321,
-			key = "sys_act_base_style",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[322]=
-		{
-			id = 322,
-			key = "act_048_xnsmt",
-			desc = "新年送茅台",
-			lua = "Act_048_XNSMTManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-			condi_key = "actp_own_task_p_041_xyxfl",
-		},
-		[323]=
-		{
-			id = 323,
-			key = "act_ty_by_drop_style/act_005_fudai",
-			desc = "福袋boss皮肤",
-			is_on_off = 0,
-			enable = 1,
-			state = 1,
-		},
-		[324]=
-		{
-			id = 324,
-			key = "act_ty_by_drop_style/act_006_jinyuanbao",
-			desc = "金元宝boss皮肤",
-			is_on_off = 0,
-			enable = 1,
-			state = 1,
-		},
-		[325]=
-		{
-			id = 325,
-			key = "act_ty_by_drop_style/act_007_xiaotangyuan",
-			desc = "小汤圆boss皮肤",
-			is_on_off = 0,
-			enable = 1,
-			state = 1,
-		},
-		[326]=
-		{
-			id = 326,
 			key = "Act_049_XYHL",
 			desc = "新游福利",
 			lua = "Act_049_XYHLManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
-		[327]=
+		[322]=
 		{
-			id = 327,
+			id = 322,
 			key = "act_ty_prize_quiz",
 			desc = "有奖问答",
 			lua = "Act_Ty_PrizeQuizManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
-		[328]=
+		[323]=
 		{
-			id = 328,
-			key = "act_ty_sjb_style/act_003_dlphb",
-			desc = "集字榜单",
-			is_on_off = 0,
-			enable = 1,
-			state = 1,
-		},
-		[329]=
-		{
-			id = 329,
-			key = "act_ty_sjb_style/act_004_dlphb",
-			desc = "金元宝排行榜",
-			is_on_off = 0,
-			enable = 1,
-			state = 1,
-		},
-		[330]=
-		{
-			id = 330,
-			key = "act_ty_sjb_style/act_005_dlphb",
-			desc = "元宵排行榜",
-			is_on_off = 0,
-			enable = 1,
-			state = 1,
-		},
-		[331]=
-		{
-			id = 331,
-			key = "act_ty_by_hhl_style/act_003_hhl",
-			desc = "元宵换好礼",
-			is_on_off = 0,
-			enable = 1,
-			state = 1,
-		},
-		[332]=
-		{
-			id = 332,
-			key = "act_ty_by_hhl_style/act_004_hhl",
-			desc = "玫瑰换好礼",
-			is_on_off = 0,
-			enable = 1,
-			state = 1,
-		},
-		[333]=
-		{
-			id = 333,
-			key = "act_ty_sjb_style/act_006_dlphb",
-			desc = "玫瑰排行榜",
-			is_on_off = 0,
-			enable = 1,
-			state = 1,
-		},
-		[334]=
-		{
-			id = 334,
-			key = "act_ty_by_drop_style/act_009_lihe",
-			desc = "礼盒掉落",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[335]=
-		{
-			id = 335,
-			key = "act_ty_by_hhl_style/act_005_hhl",
-			desc = "礼盒换好礼",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[336]=
-		{
-			id = 336,
+			id = 323,
 			key = "sys_act_jbzk",
 			desc = "金币周卡",
 			lua = "Sys_Act_JBZKManager",
@@ -3287,21 +3171,12 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[337]=
+		[324]=
 		{
-			id = 337,
+			id = 324,
 			key = "act_xrxsfl",
 			desc = "新人限时福利",
 			lua = "Act_XRXSFLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[338]=
-		{
-			id = 338,
-			key = "act_ty_sjb_style/act_007_dlphb",
-			desc = "礼盒排行榜",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

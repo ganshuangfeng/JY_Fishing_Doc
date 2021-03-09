@@ -5,22 +5,22 @@ return {
 		{
 			line = 1,
 			permission = "actp_buy_gift_bag_class_fclb_free_002",
-			gift_config = "gift_config1",
-			collect_config = "collect_config1",
+			gift_config = {1,2,3,4},
+			collect_config = {1,2,3},
 		},
 		[2]=
 		{
 			line = 2,
 			permission = "actp_buy_gift_bag_class_fclb_v1v7_002",
-			gift_config = "gift_config2",
-			collect_config = "collect_config2",
+			gift_config = {5,6,7,8},
+			collect_config = {4,5,6},
 		},
 		[3]=
 		{
 			line = 3,
 			permission = "actp_buy_gift_bag_class_fclb_v8v12_002",
-			gift_config = "gift_config3",
-			collect_config = "collect_config3",
+			gift_config = {9,10,11,12},
+			collect_config = {7,8,9},
 		},
 	},
 	other_data=
@@ -36,7 +36,7 @@ return {
 			is_sort = 1,
 		},
 	},
-	gift_config1=
+	gift_config=
 	{
 		[1]=
 		{
@@ -86,12 +86,9 @@ return {
 			award_tip = {"","","财字符:可兑换奖励"},
 			xg_txt = "每日限购3次",
 		},
-	},
-	gift_config2=
-	{
-		[1]=
+		[5]=
 		{
-			line = 1,
+			line = 5,
 			gift_id = 10441,
 			gift_page = {"collect_words_xz_1","collect_words_wxz_1"},
 			gift_name = "恭字礼包",
@@ -101,9 +98,9 @@ return {
 			award_tip = {"","","恭字符:可兑换奖励"},
 			xg_txt = "每日限购3次",
 		},
-		[2]=
+		[6]=
 		{
-			line = 2,
+			line = 6,
 			gift_id = 10442,
 			gift_page = {"collect_words_xz_2","collect_words_wxz_2"},
 			gift_name = "喜字礼包",
@@ -113,9 +110,9 @@ return {
 			award_tip = {"","","喜字符:可兑换奖励"},
 			xg_txt = "每日限购3次",
 		},
-		[3]=
+		[7]=
 		{
-			line = 3,
+			line = 7,
 			gift_id = 10443,
 			gift_page = {"collect_words_xz_3","collect_words_wxz_3"},
 			gift_name = "发字礼包",
@@ -125,9 +122,9 @@ return {
 			award_tip = {"","","发字符:可兑换奖励"},
 			xg_txt = "每日限购3次",
 		},
-		[4]=
+		[8]=
 		{
-			line = 4,
+			line = 8,
 			gift_id = 10444,
 			gift_page = {"collect_words_xz_4","collect_words_wxz_4"},
 			gift_name = "财字礼包",
@@ -137,12 +134,9 @@ return {
 			award_tip = {"","","财字符:可兑换奖励"},
 			xg_txt = "每日限购3次",
 		},
-	},
-	gift_config3=
-	{
-		[1]=
+		[9]=
 		{
-			line = 1,
+			line = 9,
 			gift_id = 10445,
 			gift_page = {"collect_words_xz_1","collect_words_wxz_1"},
 			gift_name = "恭字礼包",
@@ -152,9 +146,9 @@ return {
 			award_tip = {"","","恭字符:可兑换奖励"},
 			xg_txt = "每日限购3次",
 		},
-		[2]=
+		[10]=
 		{
-			line = 2,
+			line = 10,
 			gift_id = 10446,
 			gift_page = {"collect_words_xz_2","collect_words_wxz_2"},
 			gift_name = "喜字礼包",
@@ -164,9 +158,9 @@ return {
 			award_tip = {"","","喜字符:可兑换奖励"},
 			xg_txt = "每日限购3次",
 		},
-		[3]=
+		[11]=
 		{
-			line = 3,
+			line = 11,
 			gift_id = 10447,
 			gift_page = {"collect_words_xz_3","collect_words_wxz_3"},
 			gift_name = "发字礼包",
@@ -176,9 +170,9 @@ return {
 			award_tip = {"","","发字符:可兑换奖励"},
 			xg_txt = "每日限购3次",
 		},
-		[4]=
+		[12]=
 		{
-			line = 4,
+			line = 12,
 			gift_id = 10448,
 			gift_page = {"collect_words_xz_4","collect_words_wxz_4"},
 			gift_name = "财字礼包",
@@ -189,7 +183,7 @@ return {
 			xg_txt = "每日限购3次",
 		},
 	},
-	collect_config1=
+	collect_config=
 	{
 		[1]=
 		{
@@ -230,12 +224,9 @@ return {
 			award_img = {"ty_icon_jb_50y",},
 			award_tip = {"",},
 		},
-	},
-	collect_config2=
-	{
-		[1]=
+		[4]=
 		{
-			line = 1,
+			line = 4,
 			exchange_type = 36,
 			exchange_id = 2,
 			collect_title = "发财礼包福利",
@@ -246,9 +237,9 @@ return {
 			award_img = {"ty_icon_jb_18y",},
 			award_tip = {"",},
 		},
-		[2]=
+		[5]=
 		{
-			line = 2,
+			line = 5,
 			exchange_type = 37,
 			exchange_id = 2,
 			collect_title = "发财礼包福利",
@@ -259,9 +250,9 @@ return {
 			award_img = {"ty_icon_jb_98y",},
 			award_tip = {"",},
 		},
-		[3]=
+		[6]=
 		{
-			line = 3,
+			line = 6,
 			exchange_type = 38,
 			exchange_id = 2,
 			collect_title = "发财礼包福利",
@@ -272,12 +263,9 @@ return {
 			award_img = {"ty_icon_jb_198y",},
 			award_tip = {"",},
 		},
-	},
-	collect_config3=
-	{
-		[1]=
+		[7]=
 		{
-			line = 1,
+			line = 7,
 			exchange_type = 36,
 			exchange_id = 3,
 			collect_title = "发财礼包福利",
@@ -288,9 +276,9 @@ return {
 			award_img = {"ty_icon_jb_50y",},
 			award_tip = {"",},
 		},
-		[2]=
+		[8]=
 		{
-			line = 2,
+			line = 8,
 			exchange_type = 37,
 			exchange_id = 3,
 			collect_title = "发财礼包福利",
@@ -301,9 +289,9 @@ return {
 			award_img = {"ty_icon_jb_198y",},
 			award_tip = {"",},
 		},
-		[3]=
+		[9]=
 		{
-			line = 3,
+			line = 9,
 			exchange_type = 38,
 			exchange_id = 3,
 			collect_title = "发财礼包福利",

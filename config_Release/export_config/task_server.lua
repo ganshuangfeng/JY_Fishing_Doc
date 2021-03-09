@@ -1305,6 +1305,21 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
+		[95]=
+		{
+			id = 95,
+			enable = 1,
+			name = "深海探险-新人任务",
+			own_type = "premission_task",
+			task_enum = "common",
+			process_id = 95,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1615248000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -2231,6 +2246,15 @@ return {
 			awards = {116,117,118,119,},
 			get_award_type = "nor",
 		},
+		[95]=
+		{
+			id = 95,
+			process_id = 95,
+			source_id = 95,
+			process = 30000,
+			awards = 120,
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -2946,6 +2970,13 @@ return {
 			id = 102,
 			source_id = 94,
 			source_type = "fishbowl_handbook_award",
+			condition_id = 0,
+		},
+		[103]=
+		{
+			id = 103,
+			source_id = 95,
+			source_type = "buyu_3d_spend",
 			condition_id = 0,
 		},
 	},
@@ -4552,6 +4583,30 @@ return {
 			award_id = 119,
 			asset_type = "prop_fishbowl_stars",
 			asset_count = 500000,
+			get_weight = 1,
+		},
+		[135]=
+		{
+			id = 135,
+			award_id = 120,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 3,
+			get_weight = 1,
+		},
+		[136]=
+		{
+			id = 136,
+			award_id = 120,
+			asset_type = "_common_rank_ocean_explore_week_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[137]=
+		{
+			id = 137,
+			award_id = 120,
+			asset_type = "task_93",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
