@@ -38,13 +38,12 @@ return {
 		{
 			id = 1,
 			area = "left_down",
-			group_list = "11#",
 		},
 		[2]=
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;101#",
+			group_list = "16;31;101;11#",
 		},
 		[3]=
 		{
@@ -64,13 +63,12 @@ return {
 		{
 			id = 1,
 			area = "left_down",
-			group_list = "11#",
 		},
 		[2]=
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "101#",
+			group_list = "101;11#",
 		},
 		[3]=
 		{
@@ -89,13 +87,13 @@ return {
 		{
 			id = 1,
 			area = "left_down",
-			group_list = "11#",
+			group_list = "13#",
 		},
 		[2]=
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;90;101#",
+			group_list = "16;31;90;101;11#",
 		},
 		[3]=
 		{
@@ -115,7 +113,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "101#11#",
+			group_list = "101;11#",
 		},
 	},
 	fishing_game=
@@ -290,7 +288,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "16;101;31;#11#",
+			group_list = "16;101;11;31;#",
 		},
 	},
 	fishing_match_bm=
@@ -320,7 +318,6 @@ return {
 		{
 			id = 3,
 			area = "down2",
-			group_list = "126#",
 		},
 		[4]=
 		{
@@ -350,7 +347,7 @@ return {
 		{
 			id = 8,
 			area = "Right_shtx",
-			group_list = "127#",
+			group_list = "126#",
 		},
 	},
 	fishing3d_hall=
@@ -412,7 +409,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "101#11#",
+			group_list = "101;11#",
 		},
 	},
 	lwzb_game=
@@ -421,7 +418,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "101#11#",
+			group_list = "101;11#",
 		},
 	},
 	lwzb_game_hall=
@@ -439,13 +436,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "101#",
-		},
-		[2]=
-		{
-			id = 2,
-			area = "left_down",
-			group_list = "11#",
+			group_list = "101;11#",
 		},
 	},
 	year_panel=
@@ -454,7 +445,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "100#",
+			group_list = "121#",
 		},
 	},
 	all_enter=
@@ -1219,12 +1210,6 @@ return {
 		[126]=
 		{
 			id = 126,
-			parm = {"act_xrxsfl",},
-			is_on_off = 1,
-		},
-		[127]=
-		{
-			id = 127,
 			parm = {"sys_3dby_xyxtg",},
 			is_on_off = 1,
 		},
