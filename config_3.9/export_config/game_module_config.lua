@@ -3164,9 +3164,9 @@ return {
 		{
 			id = 323,
 			key = "act_045_xxlbd",
-			desc = "过大年--消消乐争霸",
+			desc = "消消乐争霸",
 			lua = "Act_045_XXLBDManger",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
