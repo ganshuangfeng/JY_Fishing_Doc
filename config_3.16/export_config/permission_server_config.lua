@@ -6625,7 +6625,7 @@ return {
 			condi = 393,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
+			refresh_type = "now",
 			start_deal_time = 1615824000,
 		},
 		[372]=
@@ -6637,7 +6637,7 @@ return {
 			condi = 394,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
+			refresh_type = "now",
 			start_deal_time = 1615824000,
 		},
 		[373]=
