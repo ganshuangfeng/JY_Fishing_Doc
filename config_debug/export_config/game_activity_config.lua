@@ -354,22 +354,6 @@ return {
 			line = 22,
 			act_type = "weekly",
 			ID = 22,
-			title = "元宵福利",
-			order = 1,
-			is_on_off = 1,
-			beginTime = 1614038400,
-			endTime = 1614614399,
-			showType = "prefab",
-			parmData = "activity_task",
-			gotoUI = {"act_ty_by_hhl","panel"},
-			noCloseUI = 1,
-			tag = "normal",
-		},
-		[23]=
-		{
-			line = 23,
-			act_type = "weekly",
-			ID = 23,
 			title = "元宵榜单",
 			order = 3,
 			is_on_off = 1,
@@ -381,11 +365,11 @@ return {
 			noCloseUI = 1,
 			tag = "normal",
 		},
-		[24]=
+		[23]=
 		{
-			line = 24,
+			line = 23,
 			act_type = "weekly",
-			ID = 24,
+			ID = 23,
 			title = "元宵福袋",
 			order = 4,
 			is_on_off = 1,
@@ -397,11 +381,11 @@ return {
 			noCloseUI = 1,
 			tag = "hot",
 		},
-		[25]=
+		[24]=
 		{
-			line = 25,
+			line = 24,
 			act_type = "weekly",
-			ID = 25,
+			ID = 24,
 			title = "天天领金币",
 			order = 5,
 			is_on_off = 1,
@@ -414,11 +398,11 @@ return {
 			noCloseUI = 1,
 			tag = "hot",
 		},
-		[26]=
+		[25]=
 		{
-			line = 26,
+			line = 25,
 			act_type = "weekly",
-			ID = 26,
+			ID = 25,
 			title = "天天领金币",
 			order = 5,
 			is_on_off = 1,
@@ -431,11 +415,11 @@ return {
 			noCloseUI = 1,
 			tag = "hot",
 		},
-		[27]=
+		[26]=
 		{
-			line = 27,
+			line = 26,
 			act_type = "weekly",
-			ID = 27,
+			ID = 26,
 			title = "有奖问答",
 			order = 2,
 			is_on_off = 1,
@@ -447,11 +431,11 @@ return {
 			noCloseUI = 1,
 			tag = "normal",
 		},
-		[28]=
+		[27]=
 		{
-			line = 28,
+			line = 27,
 			act_type = "normal",
-			ID = 28,
+			ID = 27,
 			title = "系统升级奖励",
 			order = -20,
 			is_on_off = 1,
