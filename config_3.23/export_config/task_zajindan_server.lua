@@ -31577,7 +31577,7 @@ return {
 			id = 593,
 			condition_id = 433,
 			condition_name = "item_id",
-			condition_value = 2,
+			condition_value = 3,
 			judge_type = 2,
 		},
 		[594]=
@@ -31585,7 +31585,7 @@ return {
 			id = 594,
 			condition_id = 434,
 			condition_name = "item_id",
-			condition_value = 2,
+			condition_value = 3,
 			judge_type = 2,
 		},
 		[595]=
@@ -31593,7 +31593,7 @@ return {
 			id = 595,
 			condition_id = 435,
 			condition_name = "item_id",
-			condition_value = 3,
+			condition_value = 2,
 			judge_type = 2,
 		},
 		[596]=
@@ -31601,7 +31601,7 @@ return {
 			id = 596,
 			condition_id = 436,
 			condition_name = "item_id",
-			condition_value = 3,
+			condition_value = 2,
 			judge_type = 2,
 		},
 		[597]=
