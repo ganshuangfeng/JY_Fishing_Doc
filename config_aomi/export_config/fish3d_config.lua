@@ -1727,7 +1727,7 @@ return {
 			fish_scale = 0.100000,
 			blood_pos = {0,-100},
 			blood_scale = {0.4,0.5},
-			fish_stratum = 3000,
+			fish_stratum = 9200,
 			dead_scale = 1.500000,
 			dead_guang = 1,
 			animator_node = "fish3dnode/fish3d",
