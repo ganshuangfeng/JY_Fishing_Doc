@@ -85,6 +85,7 @@ return {
 			enter_cfg_id = 1,
 			fish_config = "fish_am_data_config_1",
 			data_config = "fish_am_fish_server",
+			name_type = 2,
 		},
 		[2]=
 		{
@@ -95,6 +96,7 @@ return {
 			enter_cfg_id = 2,
 			fish_config = "fish_am_data_config_2",
 			data_config = "fish_am_fish_server",
+			name_type = 2,
 		},
 		[3]=
 		{
@@ -105,6 +107,7 @@ return {
 			enter_cfg_id = 3,
 			fish_config = "fish_am_data_config_3",
 			data_config = "fish_am_fish_server",
+			name_type = 2,
 		},
 		[4]=
 		{
@@ -115,6 +118,7 @@ return {
 			enter_cfg_id = 4,
 			fish_config = "fish_am_data_config_4",
 			data_config = "fish_am_fish_server",
+			name_type = 2,
 		},
 		[5]=
 		{
@@ -125,6 +129,7 @@ return {
 			enter_cfg_id = 5,
 			fish_config = "fish_am_data_config_5",
 			data_config = "fish_am_fish_server",
+			name_type = 2,
 		},
 		[6]=
 		{
@@ -135,6 +140,7 @@ return {
 			enter_cfg_id = 6,
 			fish_config = "fish_boss_data_config_1",
 			data_config = "fish_am_fish_server",
+			name_type = 2,
 		},
 		[7]=
 		{
@@ -145,6 +151,7 @@ return {
 			enter_cfg_id = 7,
 			fish_config = "fish_boss_data_config_2",
 			data_config = "fish_am_fish_server",
+			name_type = 2,
 		},
 		[8]=
 		{
@@ -155,6 +162,7 @@ return {
 			enter_cfg_id = 8,
 			fish_config = "fish_boss_data_config_3",
 			data_config = "fish_am_fish_server",
+			name_type = 2,
 		},
 	},
 	enter_cfg=
