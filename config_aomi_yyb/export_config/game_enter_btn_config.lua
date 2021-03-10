@@ -23,13 +23,13 @@ return {
 		{
 			id = 4,
 			area = "center_top",
-			group_list = "9#80#122#",
+			group_list = "80#",
 		},
 		[5]=
 		{
 			id = 5,
 			area = "top_right",
-			group_list = "108#11#",
+			group_list = "108#",
 		},
 	},
 	xxlsh_game=
@@ -38,7 +38,6 @@ return {
 		{
 			id = 1,
 			area = "left_down",
-			group_list = "11#",
 		},
 		[2]=
 		{
@@ -64,7 +63,6 @@ return {
 		{
 			id = 1,
 			area = "left_down",
-			group_list = "11#",
 		},
 		[2]=
 		{
@@ -89,7 +87,7 @@ return {
 		{
 			id = 1,
 			area = "left_down",
-			group_list = "11#",
+			group_list = "13#",
 		},
 		[2]=
 		{
@@ -115,7 +113,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "101#11#",
+			group_list = "101#",
 		},
 	},
 	fishing_game=
@@ -165,7 +163,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "4#3;116#2#8#122#61#9#117#",
+			group_list = "2#8#61#117#115#",
 		},
 		[2]=
 		{
@@ -206,7 +204,7 @@ return {
 		{
 			id = 8,
 			area = "right_bottom",
-			group_list = "124#",
+			group_list = "119#",
 		},
 	},
 	ddz_free_game=
@@ -290,7 +288,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "16;101;31;#11#",
+			group_list = "16;101;31;#",
 		},
 	},
 	fishing_match_bm=
@@ -308,7 +306,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "111#112#53#79#36;113;89;93;11#",
+			group_list = "74#79#36;113;89;93;11#",
 		},
 		[2]=
 		{
@@ -320,7 +318,6 @@ return {
 		{
 			id = 3,
 			area = "down2",
-			group_list = "126#",
 		},
 		[4]=
 		{
@@ -332,25 +329,25 @@ return {
 		{
 			id = 5,
 			area = "Right_down2",
-			group_list = "72#",
+			group_list = "121#",
 		},
 		[6]=
 		{
 			id = 6,
-			area = "Right_hd",
-			group_list = "103#",
+			area = "Right_shtx",
+			group_list = "109#",
 		},
 		[7]=
 		{
 			id = 7,
-			area = "Right_boss",
-			group_list = "69#125;73#",
+			area = "Right_hd",
+			group_list = "103#",
 		},
 		[8]=
 		{
 			id = 8,
-			area = "Right_shtx",
-			group_list = "127#",
+			area = "Right_boss",
+			group_list = "69#73#",
 		},
 	},
 	fishing3d_hall=
@@ -370,31 +367,26 @@ return {
 		{
 			id = 3,
 			area = "top_right",
-			group_list = "108#104#95#72#",
 		},
 		[4]=
 		{
 			id = 4,
 			area = "center2",
-			group_list = "71#",
 		},
 		[5]=
 		{
 			id = 5,
 			area = "center3",
-			group_list = "75#",
 		},
 		[6]=
 		{
 			id = 6,
 			area = "center4",
-			group_list = "76#67",
 		},
 		[7]=
 		{
 			id = 7,
 			area = "center5",
-			group_list = "77#68",
 		},
 	},
 	ttl_config=
@@ -403,7 +395,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "101;11#",
+			group_list = "101#",
 		},
 	},
 	crazy_fish_game=
@@ -412,7 +404,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "101#11#",
+			group_list = "101#",
 		},
 	},
 	lwzb_game=
@@ -421,7 +413,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "101#11#",
+			group_list = "101#",
 		},
 	},
 	lwzb_game_hall=
@@ -430,7 +422,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "11#",
+			group_list = "101#",
 		},
 	},
 	xxlxy_game=
@@ -440,12 +432,6 @@ return {
 			id = 1,
 			area = "top",
 			group_list = "101#",
-		},
-		[2]=
-		{
-			id = 2,
-			area = "left_down",
-			group_list = "11#",
 		},
 	},
 	year_panel=
@@ -462,7 +448,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			parm = {"ty_gift","gift_kllb","enter"},
+			parm = {"ty_gift","enter_gift_kllb"},
 			is_on_off = 0,
 		},
 		[2]=
@@ -523,9 +509,8 @@ return {
 		[11]=
 		{
 			id = 11,
-			parm = {"sys_act_base","weekly","enter"},
+			parm = {"sys_act_base",},
 			is_on_off = 1,
-			condi_key = "actp_no_cjj_gej_exchange",
 		},
 		[12]=
 		{
@@ -578,7 +563,7 @@ return {
 		[20]=
 		{
 			id = 20,
-			parm = {"ty_gift","gift_bybs","enter"},
+			parm = {"ty_gift","enter_gift_bybs"},
 			is_on_off = 1,
 		},
 		[21]=
@@ -638,7 +623,7 @@ return {
 		[30]=
 		{
 			id = 30,
-			parm = {"ty_gift","gift_cglb","enter"},
+			parm = {"ty_gift","enter_gift_cglb"},
 			is_on_off = 1,
 		},
 		[31]=
@@ -891,7 +876,7 @@ return {
 		{
 			id = 72,
 			parm = {"sys_dui_huan",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[73]=
 		{
@@ -1067,7 +1052,6 @@ return {
 			id = 101,
 			parm = {"cpl_ljyjcfk",},
 			is_on_off = 1,
-			condi_key = "actp_cjj_gej_exchange",
 		},
 		[102]=
 		{
@@ -1189,43 +1173,7 @@ return {
 		[121]=
 		{
 			id = 121,
-			parm = {"act_ty_collect_words",},
-			is_on_off = 1,
-		},
-		[122]=
-		{
-			id = 122,
-			parm = {"act_041_yybjsj",},
-			is_on_off = 1,
-		},
-		[123]=
-		{
-			id = 123,
-			parm = {"act_ty_fkqjd",},
-			is_on_off = 1,
-		},
-		[124]=
-		{
-			id = 124,
-			parm = {"act_048_xnsmt",},
-			is_on_off = 1,
-		},
-		[125]=
-		{
-			id = 125,
-			parm = {"by_hbyts",},
-			is_on_off = 1,
-		},
-		[126]=
-		{
-			id = 126,
-			parm = {"act_xrxsfl",},
-			is_on_off = 1,
-		},
-		[127]=
-		{
-			id = 127,
-			parm = {"sys_3dby_xyxtg",},
+			parm = {"sys_fishfarm_simplicity",},
 			is_on_off = 1,
 		},
 	},

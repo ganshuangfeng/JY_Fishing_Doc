@@ -16544,6 +16544,8 @@ return {
 			name = "byam_official",
 			var = "market_channel",
 			value = {"byam",},
+			judge = 2,
+			group = 1,
 		},
 		[12]=
 		{
@@ -16551,6 +16553,8 @@ return {
 			name = "byam_cps",
 			var = "market_channel",
 			value = {"xiaomi_byam","yyb_byam",},
+			judge = 2,
+			group = 1,
 		},
 		[13]=
 		{
@@ -16558,6 +16562,8 @@ return {
 			name = "byam_all",
 			var = "market_channel",
 			value = {"byam","xiaomi_byam","yyb_byam",},
+			judge = 2,
+			group = 1,
 		},
 	},
 }
