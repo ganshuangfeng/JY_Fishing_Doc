@@ -1570,7 +1570,7 @@ return {
 			id = 61,
 			condition_id = 40,
 			condition_name = "rate",
-			condition_value = 5,
+			condition_value = 500,
 			judge_type = 3,
 		},
 		[62]=
@@ -1602,7 +1602,7 @@ return {
 			id = 65,
 			condition_id = 42,
 			condition_name = "rate",
-			condition_value = 5,
+			condition_value = 500,
 			judge_type = 3,
 		},
 	},
