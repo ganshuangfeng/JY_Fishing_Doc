@@ -8,7 +8,7 @@ return {
 			game_config = "sgxxl_config",
 			prefab_name = "MiniGameSGXXLPrefab_xyxtg",
 			game_name_desc = "水果消消乐",
-			selet_img = "xxc_icon_xxl_1",
+			selet_img = "xxc_icon_xxl_1_xyxtg",
 		},
 		[2]=
 		{
@@ -17,7 +17,7 @@ return {
 			game_config = "shxxl_config",
 			prefab_name = "MiniGameSHXXLPrefab_xyxtg",
 			game_name_desc = "水浒消消乐",
-			selet_img = "xxc_icon_shxxl_1",
+			selet_img = "xxc_icon_shxxl_1_xyxtg",
 		},
 		[3]=
 		{
@@ -26,7 +26,7 @@ return {
 			game_config = "xyxxl_config",
 			prefab_name = "MiniGameXYXXLPrefab_xyxtg",
 			game_name_desc = "西游消消乐",
-			selet_img = "xxc_icon_xyxxl_1",
+			selet_img = "xxc_icon_xyxxl_1_xyxtg",
 		},
 		[4]=
 		{
@@ -35,7 +35,7 @@ return {
 			game_config = "csxxl_config",
 			prefab_name = "MiniGameCSXXLPrefab_xyxtg",
 			game_name_desc = "财神消消乐",
-			selet_img = "xxc_icon_csxxl_1",
+			selet_img = "xxc_icon_csxxl_1_xyxtg",
 		},
 	},
 	bet_times=
