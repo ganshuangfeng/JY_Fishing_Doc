@@ -19941,7 +19941,7 @@ return {
 		{
 			id = 833,
 			process_id = 21781,
-			source_id = 582,
+			source_id = 581,
 			process = 3,
 			awards = 1139,
 			get_award_type = "nor",
@@ -20031,7 +20031,7 @@ return {
 		{
 			id = 843,
 			process_id = 21791,
-			source_id = 582,
+			source_id = 581,
 			process = 3,
 			awards = 1139,
 			get_award_type = "nor",
