@@ -19592,24 +19592,24 @@ return {
 		{
 			id = 794,
 			process_id = 21742,
-			process = {1,-1},
-			pre_add_process = 100,
+			process = {1,1,1},
+			pre_add_process = 3,
 			get_award_type = "nor",
 		},
 		[795]=
 		{
 			id = 795,
 			process_id = 21743,
-			process = {1,-1},
-			pre_add_process = 100,
+			process = {1,1,1},
+			pre_add_process = 3,
 			get_award_type = "nor",
 		},
 		[796]=
 		{
 			id = 796,
 			process_id = 21744,
-			process = {1,-1},
-			pre_add_process = 100,
+			process = {1,1,1},
+			pre_add_process = 3,
 			get_award_type = "nor",
 		},
 		[797]=
