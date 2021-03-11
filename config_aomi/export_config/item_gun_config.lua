@@ -5,7 +5,7 @@ return {
 		{
 			id = 1,
 			item_id = 1,
-			item_key = "gun_barrel_8",
+			item_key = "gun_barrel_1",
 			type_colour = 1,
 			type = 1,
 			is_local_icon = 1,
@@ -150,7 +150,7 @@ return {
 		{
 			id = 8,
 			item_id = 8,
-			item_key = "gun_barrel_9",
+			item_key = "gun_barrel_8",
 			type_colour = 1,
 			type = 1,
 			is_local_icon = 1,
@@ -164,7 +164,7 @@ return {
 		{
 			id = 9,
 			item_id = 9,
-			item_key = "gun_barrel_10",
+			item_key = "gun_barrel_9",
 			type_colour = 2,
 			type = 1,
 			is_local_icon = 1,
@@ -178,7 +178,7 @@ return {
 		{
 			id = 10,
 			item_id = 10,
-			item_key = "gun_barrel_11",
+			item_key = "gun_barrel_10",
 			type_colour = 2,
 			type = 1,
 			is_local_icon = 1,
@@ -192,7 +192,7 @@ return {
 		{
 			id = 11,
 			item_id = 11,
-			item_key = "gun_barrel_12",
+			item_key = "gun_barrel_11",
 			type_colour = 3,
 			type = 1,
 			is_local_icon = 1,
