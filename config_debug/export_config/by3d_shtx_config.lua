@@ -185,8 +185,8 @@ return {
 			icon_id = 2,
 			text = "捕鱼获得金币50万",
 			random = 0,
-			award_img = {"3dby_btn_jb",},
-			award_txt = {"X3",},
+			award_img = {"com_icon_yb",},
+			award_txt = {"X2000",},
 		},
 		[18]=
 		{
@@ -196,8 +196,8 @@ return {
 			icon_id = 2,
 			text = "累计开炮数1000发",
 			random = 0,
-			award_img = {"3dby_btn_kb",},
-			award_txt = {"X3",},
+			award_img = {"com_icon_yb",},
+			award_txt = {"X10000",},
 		},
 		[19]=
 		{
@@ -207,7 +207,7 @@ return {
 			icon_id = 2,
 			text = "捕鱼任意鱼100条",
 			random = 0,
-			award_img = {"3dby_btn_jb",},
+			award_img = {"3dby_btn_kb",},
 			award_txt = {"X3",},
 		},
 		[20]=
@@ -218,8 +218,8 @@ return {
 			icon_id = 2,
 			text = "捕鱼获得金币50万",
 			random = 0,
-			award_img = {"3dby_btn_kb",},
-			award_txt = {"X3",},
+			award_img = {"com_icon_yb",},
+			award_txt = {"X2000",},
 		},
 		[21]=
 		{
@@ -229,8 +229,8 @@ return {
 			icon_id = 2,
 			text = "累计开炮数1000发",
 			random = 0,
-			award_img = {"3dby_btn_jb",},
-			award_txt = {"X3",},
+			award_img = {"com_icon_yb",},
+			award_txt = {"X10000",},
 		},
 		[22]=
 		{
@@ -340,7 +340,7 @@ return {
 			text = "累计开炮数2000发（500倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"X5000",},
+			award_txt = {"X20000",},
 		},
 		[32]=
 		{
@@ -483,7 +483,7 @@ return {
 			text = "累计开炮数3000发（1000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"X10000",},
+			award_txt = {"X30000",},
 		},
 		[45]=
 		{
@@ -626,7 +626,7 @@ return {
 			text = "累计开炮数5000发（5000倍炮以上）",
 			random = 0,
 			award_img = {"com_icon_yb",},
-			award_txt = {"X20000",},
+			award_txt = {"X50000",},
 		},
 		[58]=
 		{
