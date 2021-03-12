@@ -374,11 +374,9 @@ return {
 			total = 3,
 			task_name = "在商城中购买3次498元",
 			level = 1,
-			item = {"jing_bi",},
-			count = {2088888,},
+			item = {"jing_bi","swjl_5",},
+			count = {2088888,"琥珀核桃500g"},
 			gotoUI = {"shop_bay","jing_bi",},
-			real_img = {"swjl_5",},
-			real_txt = "琥珀核桃500g",
 			remarks = "实物奖励",
 		},
 		[28]=
