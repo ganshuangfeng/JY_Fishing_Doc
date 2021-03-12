@@ -15910,6 +15910,26 @@ return {
 		[936]=
 		{
 			no = 936,
+			id = 380,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "CPL用户",
+		},
+		[937]=
+		{
+			no = 937,
+			id = 380,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 3,
+			error_desc = "IOS用户",
+		},
+		[938]=
+		{
+			no = 938,
 			id = 381,
 			var = "vip_level",
 			value = 0,
@@ -15917,9 +15937,9 @@ return {
 			group = 1,
 			error_desc = "VIP等级0",
 		},
-		[937]=
+		[939]=
 		{
-			no = 937,
+			no = 939,
 			id = 382,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -15927,9 +15947,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[938]=
+		[940]=
 		{
-			no = 938,
+			no = 940,
 			id = 382,
 			var = "tag_type",
 			value = "tag_free_player",
@@ -15937,9 +15957,9 @@ return {
 			group = 2,
 			error_desc = "是免费用户",
 		},
-		[939]=
+		[941]=
 		{
-			no = 939,
+			no = 941,
 			id = 382,
 			var = "tag_type",
 			value = "tag_stingy_player",
@@ -15947,9 +15967,9 @@ return {
 			group = 3,
 			error_desc = "是小额用户",
 		},
-		[940]=
+		[942]=
 		{
-			no = 940,
+			no = 942,
 			id = 383,
 			var = "vip_level",
 			value = 1,
@@ -15957,9 +15977,9 @@ return {
 			group = 1,
 			error_desc = "大于V1",
 		},
-		[941]=
+		[943]=
 		{
-			no = 941,
+			no = 943,
 			id = 383,
 			var = "vip_level",
 			value = 7,
@@ -15967,9 +15987,9 @@ return {
 			group = 1,
 			error_desc = "小于V7",
 		},
-		[942]=
+		[944]=
 		{
-			no = 942,
+			no = 944,
 			id = 383,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -15977,9 +15997,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[943]=
+		[945]=
 		{
-			no = 943,
+			no = 945,
 			id = 384,
 			var = "vip_level",
 			value = 8,
@@ -15987,9 +16007,9 @@ return {
 			group = 1,
 			error_desc = "大于V1",
 		},
-		[944]=
+		[946]=
 		{
-			no = 944,
+			no = 946,
 			id = 384,
 			var = "vip_level",
 			value = 12,
@@ -15997,9 +16017,9 @@ return {
 			group = 1,
 			error_desc = "小于V7",
 		},
-		[945]=
+		[947]=
 		{
-			no = 945,
+			no = 947,
 			id = 384,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -16007,9 +16027,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[946]=
+		[948]=
 		{
-			no = 946,
+			no = 948,
 			id = 385,
 			var = "vip_level",
 			value = 0,
@@ -16017,9 +16037,9 @@ return {
 			group = 1,
 			error_desc = "VIP等级0",
 		},
-		[947]=
+		[949]=
 		{
-			no = 947,
+			no = 949,
 			id = 386,
 			var = "vip_level",
 			value = 1,
@@ -16027,9 +16047,9 @@ return {
 			group = 1,
 			error_desc = "VIP等级1",
 		},
-		[948]=
+		[950]=
 		{
-			no = 948,
+			no = 950,
 			id = 387,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -16037,9 +16057,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[949]=
+		[951]=
 		{
-			no = 949,
+			no = 951,
 			id = 388,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -16047,9 +16067,9 @@ return {
 			group = 1,
 			error_desc = "不是新用户",
 		},
-		[950]=
+		[952]=
 		{
-			no = 950,
+			no = 952,
 			id = 388,
 			var = "tag_type",
 			value = "tag_class_new_player",
@@ -16057,9 +16077,9 @@ return {
 			group = 2,
 			error_desc = "是新用户",
 		},
-		[951]=
+		[953]=
 		{
-			no = 951,
+			no = 953,
 			id = 389,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -16067,9 +16087,9 @@ return {
 			group = 1,
 			error_desc = "是新用户",
 		},
-		[952]=
+		[954]=
 		{
-			no = 952,
+			no = 954,
 			id = 389,
 			var = "vip_level",
 			value = 3,
@@ -16077,9 +16097,9 @@ return {
 			group = 2,
 			error_desc = "小于V3",
 		},
-		[953]=
+		[955]=
 		{
-			no = 953,
+			no = 955,
 			id = 390,
 			var = "vip_level",
 			value = 4,
@@ -16087,9 +16107,9 @@ return {
 			group = 1,
 			error_desc = "大于V4",
 		},
-		[954]=
+		[956]=
 		{
-			no = 954,
+			no = 956,
 			id = 390,
 			var = "vip_level",
 			value = 7,
@@ -16097,9 +16117,9 @@ return {
 			group = 1,
 			error_desc = "小于V7",
 		},
-		[955]=
+		[957]=
 		{
-			no = 955,
+			no = 957,
 			id = 390,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -16107,9 +16127,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[956]=
+		[958]=
 		{
-			no = 956,
+			no = 958,
 			id = 391,
 			var = "vip_level",
 			value = 8,
@@ -16117,9 +16137,9 @@ return {
 			group = 1,
 			error_desc = "大于V1",
 		},
-		[957]=
+		[959]=
 		{
-			no = 957,
+			no = 959,
 			id = 391,
 			var = "vip_level",
 			value = 12,
@@ -16127,9 +16147,9 @@ return {
 			group = 1,
 			error_desc = "小于V7",
 		},
-		[958]=
+		[960]=
 		{
-			no = 958,
+			no = 960,
 			id = 391,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -16137,9 +16157,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[959]=
+		[961]=
 		{
-			no = 959,
+			no = 961,
 			id = 392,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -16147,9 +16167,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[960]=
+		[962]=
 		{
-			no = 960,
+			no = 962,
 			id = 393,
 			var = "share_condition",
 			value = "cjj_all",
@@ -16157,9 +16177,9 @@ return {
 			group = 1,
 			error_desc = "不是cjj",
 		},
-		[961]=
+		[963]=
 		{
-			no = 961,
+			no = 963,
 			id = 394,
 			var = "share_condition",
 			value = "cjj_all",
@@ -16167,9 +16187,9 @@ return {
 			group = 1,
 			error_desc = "是cjj",
 		},
-		[962]=
+		[964]=
 		{
-			no = 962,
+			no = 964,
 			id = 395,
 			var = "share_condition",
 			value = "cjj_all",
@@ -16177,9 +16197,9 @@ return {
 			group = 1,
 			error_desc = "是cjj",
 		},
-		[963]=
+		[965]=
 		{
-			no = 963,
+			no = 965,
 			id = 396,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -16187,9 +16207,9 @@ return {
 			group = 1,
 			error_desc = "3d捕鱼cpl",
 		},
-		[964]=
+		[966]=
 		{
-			no = 964,
+			no = 966,
 			id = 396,
 			var = "share_condition",
 			value = "cjj_cpl",
@@ -16197,30 +16217,10 @@ return {
 			group = 2,
 			error_desc = "冲金鸡cpl",
 		},
-		[965]=
-		{
-			no = 965,
-			id = 397,
-			var = "share_condition",
-			value = "3dby_cpl",
-			judge = 2,
-			group = 1,
-			error_desc = "是CPL",
-		},
-		[966]=
-		{
-			no = 966,
-			id = 397,
-			var = "share_condition",
-			value = "3dby_official",
-			judge = 2,
-			group = 1,
-			error_desc = "是官方",
-		},
 		[967]=
 		{
 			no = 967,
-			id = 398,
+			id = 397,
 			var = "share_condition",
 			value = "3dby_cpl",
 			judge = 2,
@@ -16230,6 +16230,26 @@ return {
 		[968]=
 		{
 			no = 968,
+			id = 397,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是官方",
+		},
+		[969]=
+		{
+			no = 969,
+			id = 398,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是CPL",
+		},
+		[970]=
+		{
+			no = 970,
 			id = 398,
 			var = "share_condition",
 			value = "3dby_official",
