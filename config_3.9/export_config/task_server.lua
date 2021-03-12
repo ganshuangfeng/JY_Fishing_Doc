@@ -2251,7 +2251,7 @@ return {
 			id = 95,
 			process_id = 95,
 			source_id = 95,
-			process = 50000,
+			process = 30000,
 			awards = 120,
 			get_award_type = "nor",
 		},
@@ -2976,7 +2976,7 @@ return {
 		{
 			id = 103,
 			source_id = 95,
-			source_type = "buyu_3d_award",
+			source_type = "buyu_3d_spend",
 			condition_id = 0,
 		},
 	},
