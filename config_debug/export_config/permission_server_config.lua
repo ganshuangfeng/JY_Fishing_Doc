@@ -15911,21 +15911,21 @@ return {
 		{
 			no = 936,
 			id = 380,
-			var = "share_condition",
-			value = "3dby_cpl",
-			judge = 2,
-			group = 3,
-			error_desc = "CPL用户",
-		},
-		[937]=
-		{
-			no = 937,
-			id = 380,
 			var = "systype",
 			value = "ios",
 			judge = 2,
 			group = 3,
 			error_desc = "IOS用户",
+		},
+		[937]=
+		{
+			no = 937,
+			id = 380,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "CPL用户",
 		},
 		[938]=
 		{
