@@ -9,6 +9,7 @@ return {
 			itemName = "BY3DPHBRightItemBase_yjb",
 			order = 1,
 			is_on = 1,
+			condition = "cpl_notcjj",
 		},
 		[2]=
 		{
@@ -27,6 +28,7 @@ return {
 			itemName = "BY3DPHBRightItemBase_shtxb",
 			order = 3,
 			is_on = 1,
+			condition = "cpl_notcjj",
 		},
 		[4]=
 		{
@@ -58,11 +60,12 @@ return {
 		[7]=
 		{
 			id = 7,
-			page_name = "消消乐闯关",
+			page_name = "闯关榜",
 			panelName = "BY3DPHBRightPanel_sgxxlb",
 			itemName = "BY3DPHBRightItemBase_sgxxlb",
 			order = 7,
 			is_on = 1,
+			condition = "cpl_cjj",
 		},
 	},
 }

@@ -5,7 +5,7 @@ return {
 		{
 			id = 16500,
 			enable = 1,
-			name = "累计消除10个苹果",
+			name = "累计消除10个苹果+10个铃铛",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16500,
@@ -20,7 +20,7 @@ return {
 		{
 			id = 16501,
 			enable = 1,
-			name = "累计消除10个铃铛",
+			name = "累计消除10个铃铛+10个西瓜",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16501,
@@ -35,7 +35,7 @@ return {
 		{
 			id = 16502,
 			enable = 1,
-			name = "累计消除10个西瓜",
+			name = "累计消除10个西瓜+10个7",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16502,
@@ -50,7 +50,7 @@ return {
 		{
 			id = 16503,
 			enable = 1,
-			name = "累计消除10个7",
+			name = "累计消除10个7+10个BAR",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16503,
@@ -65,7 +65,7 @@ return {
 		{
 			id = 16504,
 			enable = 1,
-			name = "累计消除10个BAR",
+			name = "累计消除10个BAR+10个苹果",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16504,

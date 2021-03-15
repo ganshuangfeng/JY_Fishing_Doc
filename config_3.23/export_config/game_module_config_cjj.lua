@@ -3181,5 +3181,25 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[325]=
+		{
+			id = 325,
+			key = "sgxxl_tower_climbing",
+			desc = "消消乐爬塔",
+			lua = "SGXXL_Tower_ClimbingManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[326]=
+		{
+			id = 326,
+			key = "by3d_phb",
+			desc = "排行榜总入口",
+			lua = "BY3DPHBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
