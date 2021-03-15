@@ -2173,6 +2173,12 @@ return {
 			name = "小游戏托管限制",
 			condi = 22,
 		},
+		jjby_drop_limit=
+		{
+			key = "jjby_drop_limit",
+			name = "街机捕鱼掉落权限",
+			condi = 410,
+		},
 	},
 	act_permission=
 	{
@@ -16582,6 +16588,16 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "cjj",
+		},
+		[989]=
+		{
+			no = 989,
+			id = 410,
+			var = "share_condition",
+			value = "byam_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不等于捕鱼奥秘",
 		},
 	},
 	share_condition=
