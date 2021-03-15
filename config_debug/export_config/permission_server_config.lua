@@ -1712,7 +1712,7 @@ return {
 		xyxxl_level=
 		{
 			key = "xyxxl_level",
-			name = "西游消消乐  V1orLV9",
+			name = "西游消消乐  V1orLV4",
 			condi = 343,
 		},
 		gzyl_newplayer=
@@ -15294,7 +15294,7 @@ return {
 			no = 859,
 			id = 343,
 			var = "player_level",
-			value = 9,
+			value = 4,
 			judge = 3,
 			group = 2,
 			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",

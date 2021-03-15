@@ -30023,7 +30023,7 @@ return {
 			id = 405,
 			condition_id = 262,
 			condition_name = "hammer_id",
-			condition_value = 10,
+			condition_value = 3,
 			judge_type = 3,
 		},
 		[406]=
