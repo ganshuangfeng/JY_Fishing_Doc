@@ -2417,6 +2417,12 @@ return {
 			key = "fishing3d_105_10",
 			name = "捕鱼深海沉船1000000倍",
 		},
+		jjby_drop_limit=
+		{
+			key = "jjby_drop_limit",
+			name = "街机捕鱼掉落权限",
+			condi = 410,
+		},
 	},
 	act_permission=
 	{
@@ -15532,7 +15538,7 @@ return {
 			no = 859,
 			id = 343,
 			var = "player_level",
-			value = 9,
+			value = 4,
 			judge = 3,
 			group = 2,
 			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
@@ -16826,6 +16832,16 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "cjj",
+		},
+		[989]=
+		{
+			no = 989,
+			id = 410,
+			var = "share_condition",
+			value = "byam_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不等于捕鱼奥秘",
 		},
 	},
 	share_condition=
