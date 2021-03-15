@@ -2521,7 +2521,7 @@ return {
 			model_id = 1,
 			start_score = 5000000000,
 			end_score = 999999999999,
-			award_id = 1,
+			award_id = {1,},
 			award_type = "ave_divide",
 		},
 		[2]=
@@ -2530,7 +2530,7 @@ return {
 			model_id = 1,
 			start_score = 1500000000,
 			end_score = 5000000000,
-			award_id = 2,
+			award_id = {2,},
 			award_type = "ave_divide",
 		},
 		[3]=
@@ -2539,7 +2539,7 @@ return {
 			model_id = 1,
 			start_score = 500000000,
 			end_score = 1500000000,
-			award_id = 3,
+			award_id = {3,},
 			award_type = "ave_divide",
 		},
 		[4]=
@@ -2548,7 +2548,7 @@ return {
 			model_id = 1,
 			start_score = 100000000,
 			end_score = 500000000,
-			award_id = 4,
+			award_id = {4,},
 			award_type = "ave_divide",
 		},
 		[5]=
@@ -2557,7 +2557,7 @@ return {
 			model_id = 1,
 			start_score = 30000000,
 			end_score = 100000000,
-			award_id = 5,
+			award_id = {5,},
 			award_type = "ave_divide",
 		},
 		[6]=
@@ -2566,7 +2566,7 @@ return {
 			model_id = 1,
 			start_score = 5000000,
 			end_score = 30000000,
-			award_id = 6,
+			award_id = {6,},
 			award_type = "ave_divide",
 		},
 		[7]=
@@ -2575,7 +2575,7 @@ return {
 			model_id = 1,
 			start_score = 2000000,
 			end_score = 5000000,
-			award_id = 7,
+			award_id = {7,},
 			award_type = "ave_divide",
 		},
 		[8]=
@@ -2584,7 +2584,7 @@ return {
 			model_id = 1,
 			start_score = 500000,
 			end_score = 2000000,
-			award_id = 8,
+			award_id = {8,},
 			award_type = "ave_divide",
 		},
 		[9]=
@@ -2593,7 +2593,7 @@ return {
 			model_id = 2,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 9,
+			award_id = {9,},
 			award_type = "nor",
 		},
 		[10]=
@@ -2602,7 +2602,7 @@ return {
 			model_id = 2,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 10,
+			award_id = {10,},
 			award_type = "nor",
 		},
 		[11]=
@@ -2611,7 +2611,7 @@ return {
 			model_id = 2,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 11,
+			award_id = {11,},
 			award_type = "nor",
 		},
 		[12]=
@@ -2620,7 +2620,7 @@ return {
 			model_id = 2,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 12,
+			award_id = {12,},
 			award_type = "nor",
 		},
 		[13]=
@@ -2629,7 +2629,7 @@ return {
 			model_id = 2,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 13,
+			award_id = {13,},
 			award_type = "nor",
 		},
 		[14]=
@@ -2638,7 +2638,7 @@ return {
 			model_id = 3,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 14,
+			award_id = {14,},
 			award_type = "nor",
 		},
 		[15]=
@@ -2647,7 +2647,7 @@ return {
 			model_id = 3,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 15,
+			award_id = {15,},
 			award_type = "nor",
 		},
 		[16]=
@@ -2656,7 +2656,7 @@ return {
 			model_id = 3,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 16,
+			award_id = {16,},
 			award_type = "nor",
 		},
 		[17]=
@@ -2665,7 +2665,7 @@ return {
 			model_id = 3,
 			start_rank = 4,
 			end_rank = 4,
-			award_id = 17,
+			award_id = {17,},
 			award_type = "nor",
 		},
 		[18]=
@@ -2674,7 +2674,7 @@ return {
 			model_id = 3,
 			start_rank = 5,
 			end_rank = 5,
-			award_id = 18,
+			award_id = {18,},
 			award_type = "nor",
 		},
 		[19]=
@@ -2683,7 +2683,7 @@ return {
 			model_id = 3,
 			start_rank = 6,
 			end_rank = 6,
-			award_id = 19,
+			award_id = {19,},
 			award_type = "nor",
 		},
 		[20]=
@@ -2692,7 +2692,7 @@ return {
 			model_id = 3,
 			start_rank = 7,
 			end_rank = 7,
-			award_id = 20,
+			award_id = {20,},
 			award_type = "nor",
 		},
 		[21]=
@@ -2701,7 +2701,7 @@ return {
 			model_id = 3,
 			start_rank = 8,
 			end_rank = 8,
-			award_id = 21,
+			award_id = {21,},
 			award_type = "nor",
 		},
 		[22]=
@@ -2710,7 +2710,7 @@ return {
 			model_id = 3,
 			start_rank = 9,
 			end_rank = 9,
-			award_id = 22,
+			award_id = {22,},
 			award_type = "nor",
 		},
 		[23]=
@@ -2719,7 +2719,7 @@ return {
 			model_id = 3,
 			start_rank = 10,
 			end_rank = 10,
-			award_id = 23,
+			award_id = {23,},
 			award_type = "nor",
 		},
 		[24]=
@@ -2728,7 +2728,7 @@ return {
 			model_id = 3,
 			start_rank = 11,
 			end_rank = 50,
-			award_id = 24,
+			award_id = {24,},
 			award_type = "nor",
 		},
 		[25]=
@@ -2737,7 +2737,7 @@ return {
 			model_id = 3,
 			start_rank = 51,
 			end_rank = 1000,
-			award_id = 25,
+			award_id = {25,},
 			award_type = "nor",
 		},
 		[26]=
@@ -2746,7 +2746,7 @@ return {
 			model_id = 4,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 26,
+			award_id = {26,},
 			award_type = "nor",
 		},
 		[27]=
@@ -2755,7 +2755,7 @@ return {
 			model_id = 4,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 27,
+			award_id = {27,},
 			award_type = "nor",
 		},
 		[28]=
@@ -2764,7 +2764,7 @@ return {
 			model_id = 4,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 28,
+			award_id = {28,},
 			award_type = "nor",
 		},
 		[29]=
@@ -2773,7 +2773,7 @@ return {
 			model_id = 4,
 			start_rank = 4,
 			end_rank = 4,
-			award_id = 29,
+			award_id = {29,},
 			award_type = "nor",
 		},
 		[30]=
@@ -2782,7 +2782,7 @@ return {
 			model_id = 4,
 			start_rank = 5,
 			end_rank = 5,
-			award_id = 30,
+			award_id = {30,},
 			award_type = "nor",
 		},
 		[31]=
@@ -2791,7 +2791,7 @@ return {
 			model_id = 4,
 			start_rank = 6,
 			end_rank = 6,
-			award_id = 31,
+			award_id = {31,},
 			award_type = "nor",
 		},
 		[32]=
@@ -2800,7 +2800,7 @@ return {
 			model_id = 4,
 			start_rank = 7,
 			end_rank = 7,
-			award_id = 32,
+			award_id = {32,},
 			award_type = "nor",
 		},
 		[33]=
@@ -2809,7 +2809,7 @@ return {
 			model_id = 4,
 			start_rank = 8,
 			end_rank = 8,
-			award_id = 33,
+			award_id = {33,},
 			award_type = "nor",
 		},
 		[34]=
@@ -2818,7 +2818,7 @@ return {
 			model_id = 4,
 			start_rank = 9,
 			end_rank = 9,
-			award_id = 34,
+			award_id = {34,},
 			award_type = "nor",
 		},
 		[35]=
@@ -2827,7 +2827,7 @@ return {
 			model_id = 4,
 			start_rank = 10,
 			end_rank = 10,
-			award_id = 35,
+			award_id = {35,},
 			award_type = "nor",
 		},
 		[36]=
@@ -2836,7 +2836,7 @@ return {
 			model_id = 4,
 			start_rank = 11,
 			end_rank = 50,
-			award_id = 36,
+			award_id = {36,},
 			award_type = "nor",
 		},
 		[37]=
@@ -2845,7 +2845,7 @@ return {
 			model_id = 4,
 			start_rank = 51,
 			end_rank = 1000,
-			award_id = 37,
+			award_id = {37,},
 			award_type = "nor",
 		},
 		[38]=
@@ -2854,7 +2854,7 @@ return {
 			model_id = 5,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 38,
+			award_id = {38,},
 			award_type = "nor",
 		},
 		[39]=
@@ -2863,7 +2863,7 @@ return {
 			model_id = 5,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 39,
+			award_id = {39,},
 			award_type = "nor",
 		},
 		[40]=
@@ -2872,7 +2872,7 @@ return {
 			model_id = 5,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 40,
+			award_id = {40,},
 			award_type = "nor",
 		},
 		[41]=
@@ -2881,7 +2881,7 @@ return {
 			model_id = 5,
 			start_rank = 4,
 			end_rank = 4,
-			award_id = 41,
+			award_id = {41,},
 			award_type = "nor",
 		},
 		[42]=
@@ -2890,7 +2890,7 @@ return {
 			model_id = 5,
 			start_rank = 5,
 			end_rank = 5,
-			award_id = 42,
+			award_id = {42,},
 			award_type = "nor",
 		},
 		[43]=
@@ -2899,7 +2899,7 @@ return {
 			model_id = 5,
 			start_rank = 6,
 			end_rank = 6,
-			award_id = 43,
+			award_id = {43,},
 			award_type = "nor",
 		},
 		[44]=
@@ -2908,7 +2908,7 @@ return {
 			model_id = 5,
 			start_rank = 7,
 			end_rank = 7,
-			award_id = 44,
+			award_id = {44,},
 			award_type = "nor",
 		},
 		[45]=
@@ -2917,7 +2917,7 @@ return {
 			model_id = 5,
 			start_rank = 8,
 			end_rank = 8,
-			award_id = 45,
+			award_id = {45,},
 			award_type = "nor",
 		},
 		[46]=
@@ -2926,7 +2926,7 @@ return {
 			model_id = 5,
 			start_rank = 9,
 			end_rank = 9,
-			award_id = 46,
+			award_id = {46,},
 			award_type = "nor",
 		},
 		[47]=
@@ -2935,7 +2935,7 @@ return {
 			model_id = 5,
 			start_rank = 10,
 			end_rank = 10,
-			award_id = 47,
+			award_id = {47,},
 			award_type = "nor",
 		},
 		[48]=
@@ -2944,7 +2944,7 @@ return {
 			model_id = 5,
 			start_rank = 11,
 			end_rank = 20,
-			award_id = 48,
+			award_id = {48,},
 			award_type = "nor",
 		},
 		[49]=
@@ -2953,7 +2953,7 @@ return {
 			model_id = 6,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 49,
+			award_id = {49,},
 			award_type = "nor",
 		},
 		[50]=
@@ -2962,7 +2962,7 @@ return {
 			model_id = 6,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 50,
+			award_id = {50,},
 			award_type = "nor",
 		},
 		[51]=
@@ -2971,7 +2971,7 @@ return {
 			model_id = 6,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 51,
+			award_id = {51,},
 			award_type = "nor",
 		},
 		[52]=
@@ -2980,7 +2980,7 @@ return {
 			model_id = 6,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 52,
+			award_id = {52,},
 			award_type = "nor",
 		},
 		[53]=
@@ -2989,7 +2989,7 @@ return {
 			model_id = 6,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 53,
+			award_id = {53,},
 			award_type = "nor",
 		},
 		[54]=
@@ -2998,7 +2998,7 @@ return {
 			model_id = 6,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 54,
+			award_id = {54,},
 			award_type = "nor",
 		},
 		[55]=
@@ -3007,7 +3007,7 @@ return {
 			model_id = 6,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 55,
+			award_id = {55,},
 			award_type = "nor",
 		},
 		[56]=
@@ -3016,7 +3016,7 @@ return {
 			model_id = 7,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 56,
+			award_id = {56,},
 			award_type = "nor",
 		},
 		[57]=
@@ -3025,7 +3025,7 @@ return {
 			model_id = 7,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 57,
+			award_id = {57,},
 			award_type = "nor",
 		},
 		[58]=
@@ -3034,7 +3034,7 @@ return {
 			model_id = 7,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 58,
+			award_id = {58,},
 			award_type = "nor",
 		},
 		[59]=
@@ -3043,7 +3043,7 @@ return {
 			model_id = 7,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 59,
+			award_id = {59,},
 			award_type = "nor",
 		},
 		[60]=
@@ -3052,7 +3052,7 @@ return {
 			model_id = 7,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 60,
+			award_id = {60,},
 			award_type = "nor",
 		},
 		[61]=
@@ -3061,7 +3061,7 @@ return {
 			model_id = 7,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 61,
+			award_id = {61,},
 			award_type = "nor",
 		},
 		[62]=
@@ -3070,7 +3070,7 @@ return {
 			model_id = 7,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 62,
+			award_id = {62,},
 			award_type = "nor",
 		},
 		[63]=
@@ -3079,7 +3079,7 @@ return {
 			model_id = 8,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 63,
+			award_id = {63,},
 			award_type = "nor",
 		},
 		[64]=
@@ -3088,7 +3088,7 @@ return {
 			model_id = 8,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 64,
+			award_id = {64,},
 			award_type = "nor",
 		},
 		[65]=
@@ -3097,7 +3097,7 @@ return {
 			model_id = 8,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 65,
+			award_id = {65,},
 			award_type = "nor",
 		},
 		[66]=
@@ -3106,7 +3106,7 @@ return {
 			model_id = 8,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 66,
+			award_id = {66,},
 			award_type = "nor",
 		},
 		[67]=
@@ -3115,7 +3115,7 @@ return {
 			model_id = 8,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 67,
+			award_id = {67,},
 			award_type = "nor",
 		},
 		[68]=
@@ -3124,7 +3124,7 @@ return {
 			model_id = 8,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 68,
+			award_id = {68,},
 			award_type = "nor",
 		},
 		[69]=
@@ -3133,7 +3133,7 @@ return {
 			model_id = 8,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 69,
+			award_id = {69,},
 			award_type = "nor",
 		},
 		[70]=
@@ -3142,7 +3142,7 @@ return {
 			model_id = 9,
 			start_rank = 1,
 			end_rank = 10,
-			award_id = 70,
+			award_id = {70,},
 			award_type = "nor",
 		},
 		[71]=
@@ -3151,7 +3151,7 @@ return {
 			model_id = 10,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 71,
+			award_id = {71,},
 			award_type = "nor",
 		},
 		[72]=
@@ -3160,7 +3160,7 @@ return {
 			model_id = 10,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 72,
+			award_id = {72,},
 			award_type = "nor",
 		},
 		[73]=
@@ -3169,7 +3169,7 @@ return {
 			model_id = 10,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 73,
+			award_id = {73,},
 			award_type = "nor",
 		},
 		[74]=
@@ -3178,7 +3178,7 @@ return {
 			model_id = 10,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 74,
+			award_id = {74,},
 			award_type = "nor",
 		},
 		[75]=
@@ -3187,7 +3187,7 @@ return {
 			model_id = 10,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 75,
+			award_id = {75,},
 			award_type = "nor",
 		},
 		[76]=
@@ -3196,7 +3196,7 @@ return {
 			model_id = 10,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 76,
+			award_id = {76,},
 			award_type = "nor",
 		},
 		[77]=
@@ -3205,7 +3205,7 @@ return {
 			model_id = 10,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 77,
+			award_id = {77,},
 			award_type = "nor",
 		},
 		[78]=
@@ -3214,7 +3214,7 @@ return {
 			model_id = 11,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 78,
+			award_id = {78,},
 			award_type = "nor",
 		},
 		[79]=
@@ -3223,7 +3223,7 @@ return {
 			model_id = 11,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 79,
+			award_id = {79,},
 			award_type = "nor",
 		},
 		[80]=
@@ -3232,7 +3232,7 @@ return {
 			model_id = 11,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 80,
+			award_id = {80,},
 			award_type = "nor",
 		},
 		[81]=
@@ -3241,7 +3241,7 @@ return {
 			model_id = 11,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 81,
+			award_id = {81,},
 			award_type = "nor",
 		},
 		[82]=
@@ -3250,7 +3250,7 @@ return {
 			model_id = 11,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 82,
+			award_id = {82,},
 			award_type = "nor",
 		},
 		[83]=
@@ -3259,7 +3259,7 @@ return {
 			model_id = 11,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 83,
+			award_id = {83,},
 			award_type = "nor",
 		},
 		[84]=
@@ -3268,7 +3268,7 @@ return {
 			model_id = 11,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 84,
+			award_id = {84,},
 			award_type = "nor",
 		},
 		[85]=
@@ -3277,7 +3277,7 @@ return {
 			model_id = 12,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 85,
+			award_id = {85,},
 			award_type = "nor",
 		},
 		[86]=
@@ -3286,7 +3286,7 @@ return {
 			model_id = 12,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 86,
+			award_id = {86,},
 			award_type = "nor",
 		},
 		[87]=
@@ -3295,7 +3295,7 @@ return {
 			model_id = 12,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 87,
+			award_id = {87,},
 			award_type = "nor",
 		},
 		[88]=
@@ -3304,7 +3304,7 @@ return {
 			model_id = 12,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 88,
+			award_id = {88,},
 			award_type = "nor",
 		},
 		[89]=
@@ -3313,7 +3313,7 @@ return {
 			model_id = 12,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 89,
+			award_id = {89,},
 			award_type = "nor",
 		},
 		[90]=
@@ -3322,7 +3322,7 @@ return {
 			model_id = 12,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 90,
+			award_id = {90,},
 			award_type = "nor",
 		},
 		[91]=
@@ -3331,7 +3331,7 @@ return {
 			model_id = 12,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 91,
+			award_id = {91,},
 			award_type = "nor",
 		},
 		[92]=
@@ -3340,7 +3340,7 @@ return {
 			model_id = 13,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 92,
+			award_id = {92,},
 			award_type = "nor",
 		},
 		[93]=
@@ -3349,7 +3349,7 @@ return {
 			model_id = 13,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 93,
+			award_id = {93,},
 			award_type = "nor",
 		},
 		[94]=
@@ -3358,7 +3358,7 @@ return {
 			model_id = 13,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 94,
+			award_id = {94,},
 			award_type = "nor",
 		},
 		[95]=
@@ -3367,7 +3367,7 @@ return {
 			model_id = 13,
 			start_rank = 4,
 			end_rank = 10,
-			award_id = 95,
+			award_id = {95,},
 			award_type = "nor",
 		},
 		[96]=
@@ -3376,7 +3376,7 @@ return {
 			model_id = 13,
 			start_rank = 11,
 			end_rank = 20,
-			award_id = 96,
+			award_id = {96,},
 			award_type = "nor",
 		},
 		[97]=
@@ -3385,7 +3385,7 @@ return {
 			model_id = 14,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 97,
+			award_id = {97,},
 			award_type = "nor",
 		},
 		[98]=
@@ -3394,7 +3394,7 @@ return {
 			model_id = 14,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 98,
+			award_id = {98,},
 			award_type = "nor",
 		},
 		[99]=
@@ -3403,7 +3403,7 @@ return {
 			model_id = 14,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 99,
+			award_id = {99,},
 			award_type = "nor",
 		},
 		[100]=
@@ -3412,7 +3412,7 @@ return {
 			model_id = 14,
 			start_rank = 4,
 			end_rank = 10,
-			award_id = 100,
+			award_id = {100,},
 			award_type = "nor",
 		},
 		[101]=
@@ -3421,7 +3421,7 @@ return {
 			model_id = 14,
 			start_rank = 11,
 			end_rank = 20,
-			award_id = 101,
+			award_id = {101,},
 			award_type = "nor",
 		},
 		[102]=
@@ -3430,7 +3430,7 @@ return {
 			model_id = 15,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 97,
+			award_id = {97,},
 			award_type = "nor",
 		},
 		[103]=
@@ -3439,7 +3439,7 @@ return {
 			model_id = 15,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 98,
+			award_id = {98,},
 			award_type = "nor",
 		},
 		[104]=
@@ -3448,7 +3448,7 @@ return {
 			model_id = 15,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 99,
+			award_id = {99,},
 			award_type = "nor",
 		},
 		[105]=
@@ -3457,7 +3457,7 @@ return {
 			model_id = 15,
 			start_rank = 4,
 			end_rank = 10,
-			award_id = 100,
+			award_id = {100,},
 			award_type = "nor",
 		},
 		[106]=
@@ -3466,7 +3466,7 @@ return {
 			model_id = 15,
 			start_rank = 11,
 			end_rank = 20,
-			award_id = 101,
+			award_id = {101,},
 			award_type = "nor",
 		},
 		[107]=
@@ -3475,7 +3475,7 @@ return {
 			model_id = 16,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 97,
+			award_id = {97,},
 			award_type = "nor",
 		},
 		[108]=
@@ -3484,7 +3484,7 @@ return {
 			model_id = 16,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 98,
+			award_id = {98,},
 			award_type = "nor",
 		},
 		[109]=
@@ -3493,7 +3493,7 @@ return {
 			model_id = 16,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 99,
+			award_id = {99,},
 			award_type = "nor",
 		},
 		[110]=
@@ -3502,7 +3502,7 @@ return {
 			model_id = 16,
 			start_rank = 4,
 			end_rank = 10,
-			award_id = 100,
+			award_id = {100,},
 			award_type = "nor",
 		},
 		[111]=
@@ -3511,7 +3511,7 @@ return {
 			model_id = 16,
 			start_rank = 11,
 			end_rank = 20,
-			award_id = 101,
+			award_id = {101,},
 			award_type = "nor",
 		},
 		[112]=
@@ -3520,7 +3520,7 @@ return {
 			model_id = 17,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 97,
+			award_id = {97,},
 			award_type = "nor",
 		},
 		[113]=
@@ -3529,7 +3529,7 @@ return {
 			model_id = 17,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 98,
+			award_id = {98,},
 			award_type = "nor",
 		},
 		[114]=
@@ -3538,7 +3538,7 @@ return {
 			model_id = 17,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 99,
+			award_id = {99,},
 			award_type = "nor",
 		},
 		[115]=
@@ -3547,7 +3547,7 @@ return {
 			model_id = 17,
 			start_rank = 4,
 			end_rank = 10,
-			award_id = 100,
+			award_id = {100,},
 			award_type = "nor",
 		},
 		[116]=
@@ -3556,7 +3556,7 @@ return {
 			model_id = 17,
 			start_rank = 11,
 			end_rank = 20,
-			award_id = 101,
+			award_id = {101,},
 			award_type = "nor",
 		},
 		[117]=
@@ -3565,7 +3565,7 @@ return {
 			model_id = 18,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 102,
+			award_id = {102,},
 			award_type = "nor",
 		},
 		[118]=
@@ -3574,7 +3574,7 @@ return {
 			model_id = 18,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 103,
+			award_id = {103,},
 			award_type = "nor",
 		},
 		[119]=
@@ -3583,7 +3583,7 @@ return {
 			model_id = 18,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 104,
+			award_id = {104,},
 			award_type = "nor",
 		},
 		[120]=
@@ -3592,7 +3592,7 @@ return {
 			model_id = 18,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 105,
+			award_id = {105,},
 			award_type = "nor",
 		},
 		[121]=
@@ -3601,7 +3601,7 @@ return {
 			model_id = 18,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 106,
+			award_id = {106,},
 			award_type = "nor",
 		},
 		[122]=
@@ -3610,7 +3610,7 @@ return {
 			model_id = 18,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 107,
+			award_id = {107,},
 			award_type = "nor",
 		},
 		[123]=
@@ -3619,7 +3619,7 @@ return {
 			model_id = 18,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 108,
+			award_id = {108,},
 			award_type = "nor",
 		},
 		[124]=
@@ -3628,7 +3628,7 @@ return {
 			model_id = 19,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 109,
+			award_id = {109,},
 			award_type = "nor",
 		},
 		[125]=
@@ -3637,7 +3637,7 @@ return {
 			model_id = 19,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 110,
+			award_id = {110,},
 			award_type = "nor",
 		},
 		[126]=
@@ -3646,7 +3646,7 @@ return {
 			model_id = 19,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 111,
+			award_id = {111,},
 			award_type = "nor",
 		},
 		[127]=
@@ -3655,7 +3655,7 @@ return {
 			model_id = 19,
 			start_rank = 4,
 			end_rank = 10,
-			award_id = 112,
+			award_id = {112,},
 			award_type = "nor",
 		},
 		[128]=
@@ -3664,7 +3664,7 @@ return {
 			model_id = 19,
 			start_rank = 11,
 			end_rank = 20,
-			award_id = 113,
+			award_id = {113,},
 			award_type = "nor",
 		},
 		[129]=
@@ -3673,7 +3673,7 @@ return {
 			model_id = 20,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 114,
+			award_id = {114,},
 			award_type = "nor",
 		},
 		[130]=
@@ -3682,7 +3682,7 @@ return {
 			model_id = 20,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 115,
+			award_id = {115,},
 			award_type = "nor",
 		},
 		[131]=
@@ -3691,7 +3691,7 @@ return {
 			model_id = 20,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 116,
+			award_id = {116,},
 			award_type = "nor",
 		},
 		[132]=
@@ -3700,7 +3700,7 @@ return {
 			model_id = 20,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 117,
+			award_id = {117,},
 			award_type = "nor",
 		},
 		[133]=
@@ -3709,7 +3709,7 @@ return {
 			model_id = 20,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 118,
+			award_id = {118,},
 			award_type = "nor",
 		},
 		[134]=
@@ -3718,7 +3718,7 @@ return {
 			model_id = 20,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 119,
+			award_id = {119,},
 			award_type = "nor",
 		},
 		[135]=
@@ -3727,7 +3727,7 @@ return {
 			model_id = 20,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 120,
+			award_id = {120,},
 			award_type = "nor",
 		},
 		[136]=
@@ -3736,7 +3736,7 @@ return {
 			model_id = 21,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 121,
+			award_id = {121,},
 			award_type = "nor",
 		},
 		[137]=
@@ -3745,7 +3745,7 @@ return {
 			model_id = 21,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 122,
+			award_id = {122,},
 			award_type = "nor",
 		},
 		[138]=
@@ -3754,7 +3754,7 @@ return {
 			model_id = 21,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 123,
+			award_id = {123,},
 			award_type = "nor",
 		},
 		[139]=
@@ -3763,7 +3763,7 @@ return {
 			model_id = 21,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 124,
+			award_id = {124,},
 			award_type = "nor",
 		},
 		[140]=
@@ -3772,7 +3772,7 @@ return {
 			model_id = 21,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 125,
+			award_id = {125,},
 			award_type = "nor",
 		},
 		[141]=
@@ -3781,7 +3781,7 @@ return {
 			model_id = 21,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 126,
+			award_id = {126,},
 			award_type = "nor",
 		},
 		[142]=
@@ -3790,7 +3790,7 @@ return {
 			model_id = 21,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 127,
+			award_id = {127,},
 			award_type = "nor",
 		},
 		[143]=
@@ -3799,7 +3799,7 @@ return {
 			model_id = 22,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 128,
+			award_id = {128,},
 			award_type = "nor",
 		},
 		[144]=
@@ -3808,7 +3808,7 @@ return {
 			model_id = 22,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 129,
+			award_id = {129,},
 			award_type = "nor",
 		},
 		[145]=
@@ -3817,7 +3817,7 @@ return {
 			model_id = 22,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 130,
+			award_id = {130,},
 			award_type = "nor",
 		},
 		[146]=
@@ -3826,7 +3826,7 @@ return {
 			model_id = 22,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 131,
+			award_id = {131,},
 			award_type = "nor",
 		},
 		[147]=
@@ -3835,7 +3835,7 @@ return {
 			model_id = 22,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 132,
+			award_id = {132,},
 			award_type = "nor",
 		},
 		[148]=
@@ -3844,7 +3844,7 @@ return {
 			model_id = 22,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 133,
+			award_id = {133,},
 			award_type = "nor",
 		},
 		[149]=
@@ -3853,7 +3853,7 @@ return {
 			model_id = 22,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 134,
+			award_id = {134,},
 			award_type = "nor",
 		},
 		[150]=
@@ -3862,7 +3862,7 @@ return {
 			model_id = 23,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 135,
+			award_id = {135,},
 			award_type = "nor",
 		},
 		[151]=
@@ -3871,7 +3871,7 @@ return {
 			model_id = 23,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 136,
+			award_id = {136,},
 			award_type = "nor",
 		},
 		[152]=
@@ -3880,7 +3880,7 @@ return {
 			model_id = 23,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 137,
+			award_id = {137,},
 			award_type = "nor",
 		},
 		[153]=
@@ -3889,7 +3889,7 @@ return {
 			model_id = 23,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 138,
+			award_id = {138,},
 			award_type = "nor",
 		},
 		[154]=
@@ -3898,7 +3898,7 @@ return {
 			model_id = 23,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 139,
+			award_id = {139,},
 			award_type = "nor",
 		},
 		[155]=
@@ -3907,7 +3907,7 @@ return {
 			model_id = 23,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 140,
+			award_id = {140,},
 			award_type = "nor",
 		},
 		[156]=
@@ -3916,7 +3916,7 @@ return {
 			model_id = 23,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 141,
+			award_id = {141,},
 			award_type = "nor",
 		},
 		[157]=
@@ -3925,7 +3925,7 @@ return {
 			model_id = 24,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 142,
+			award_id = {142,},
 			award_type = "nor",
 		},
 		[158]=
@@ -3934,7 +3934,7 @@ return {
 			model_id = 24,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 143,
+			award_id = {143,},
 			award_type = "nor",
 		},
 		[159]=
@@ -3943,7 +3943,7 @@ return {
 			model_id = 24,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 144,
+			award_id = {144,},
 			award_type = "nor",
 		},
 		[160]=
@@ -3952,7 +3952,7 @@ return {
 			model_id = 24,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 145,
+			award_id = {145,},
 			award_type = "nor",
 		},
 		[161]=
@@ -3961,7 +3961,7 @@ return {
 			model_id = 24,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 146,
+			award_id = {146,},
 			award_type = "nor",
 		},
 		[162]=
@@ -3970,7 +3970,7 @@ return {
 			model_id = 24,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 147,
+			award_id = {147,},
 			award_type = "nor",
 		},
 		[163]=
@@ -3979,7 +3979,7 @@ return {
 			model_id = 24,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 148,
+			award_id = {148,},
 			award_type = "nor",
 		},
 		[164]=
@@ -3988,7 +3988,7 @@ return {
 			model_id = 25,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 149,
+			award_id = {149,},
 			award_type = "nor",
 		},
 		[165]=
@@ -3997,7 +3997,7 @@ return {
 			model_id = 25,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 150,
+			award_id = {150,},
 			award_type = "nor",
 		},
 		[166]=
@@ -4006,7 +4006,7 @@ return {
 			model_id = 25,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 151,
+			award_id = {151,},
 			award_type = "nor",
 		},
 		[167]=
@@ -4015,7 +4015,7 @@ return {
 			model_id = 25,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 152,
+			award_id = {152,},
 			award_type = "nor",
 		},
 		[168]=
@@ -4024,7 +4024,7 @@ return {
 			model_id = 25,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 153,
+			award_id = {153,},
 			award_type = "nor",
 		},
 		[169]=
@@ -4033,7 +4033,7 @@ return {
 			model_id = 25,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 154,
+			award_id = {154,},
 			award_type = "nor",
 		},
 		[170]=
@@ -4042,7 +4042,7 @@ return {
 			model_id = 25,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 155,
+			award_id = {155,},
 			award_type = "nor",
 		},
 		[171]=
@@ -4051,7 +4051,7 @@ return {
 			model_id = 26,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 156,
+			award_id = {156,},
 			award_type = "nor",
 		},
 		[172]=
@@ -4060,7 +4060,7 @@ return {
 			model_id = 26,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 157,
+			award_id = {157,},
 			award_type = "nor",
 		},
 		[173]=
@@ -4069,7 +4069,7 @@ return {
 			model_id = 26,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 158,
+			award_id = {158,},
 			award_type = "nor",
 		},
 		[174]=
@@ -4078,7 +4078,7 @@ return {
 			model_id = 26,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 159,
+			award_id = {159,},
 			award_type = "nor",
 		},
 		[175]=
@@ -4087,7 +4087,7 @@ return {
 			model_id = 26,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 160,
+			award_id = {160,},
 			award_type = "nor",
 		},
 		[176]=
@@ -4096,7 +4096,7 @@ return {
 			model_id = 26,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 161,
+			award_id = {161,},
 			award_type = "nor",
 		},
 		[177]=
@@ -4105,7 +4105,7 @@ return {
 			model_id = 26,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 162,
+			award_id = {162,},
 			award_type = "nor",
 		},
 		[178]=
@@ -4114,7 +4114,7 @@ return {
 			model_id = 27,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 163,
+			award_id = {163,},
 			award_type = "nor",
 		},
 		[179]=
@@ -4123,7 +4123,7 @@ return {
 			model_id = 27,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 164,
+			award_id = {164,},
 			award_type = "nor",
 		},
 		[180]=
@@ -4132,7 +4132,7 @@ return {
 			model_id = 27,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 165,
+			award_id = {165,},
 			award_type = "nor",
 		},
 		[181]=
@@ -4141,7 +4141,7 @@ return {
 			model_id = 27,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 166,
+			award_id = {166,},
 			award_type = "nor",
 		},
 		[182]=
@@ -4150,7 +4150,7 @@ return {
 			model_id = 27,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 167,
+			award_id = {167,},
 			award_type = "nor",
 		},
 		[183]=
@@ -4159,7 +4159,7 @@ return {
 			model_id = 27,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 168,
+			award_id = {168,},
 			award_type = "nor",
 		},
 		[184]=
@@ -4168,7 +4168,7 @@ return {
 			model_id = 27,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 169,
+			award_id = {169,},
 			award_type = "nor",
 		},
 		[185]=
@@ -4177,7 +4177,7 @@ return {
 			model_id = 28,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 170,
+			award_id = {170,},
 			award_type = "nor",
 		},
 		[186]=
@@ -4186,7 +4186,7 @@ return {
 			model_id = 28,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 171,
+			award_id = {171,},
 			award_type = "nor",
 		},
 		[187]=
@@ -4195,7 +4195,7 @@ return {
 			model_id = 28,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 172,
+			award_id = {172,},
 			award_type = "nor",
 		},
 		[188]=
@@ -4204,7 +4204,7 @@ return {
 			model_id = 28,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 173,
+			award_id = {173,},
 			award_type = "nor",
 		},
 		[189]=
@@ -4213,7 +4213,7 @@ return {
 			model_id = 28,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 174,
+			award_id = {174,},
 			award_type = "nor",
 		},
 		[190]=
@@ -4222,7 +4222,7 @@ return {
 			model_id = 28,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 175,
+			award_id = {175,},
 			award_type = "nor",
 		},
 		[191]=
@@ -4231,7 +4231,7 @@ return {
 			model_id = 28,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 176,
+			award_id = {176,},
 			award_type = "nor",
 		},
 		[192]=
@@ -4240,7 +4240,7 @@ return {
 			model_id = 29,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 177,
+			award_id = {177,},
 			award_type = "nor",
 		},
 		[193]=
@@ -4249,7 +4249,7 @@ return {
 			model_id = 29,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 178,
+			award_id = {178,},
 			award_type = "nor",
 		},
 		[194]=
@@ -4258,7 +4258,7 @@ return {
 			model_id = 29,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 179,
+			award_id = {179,},
 			award_type = "nor",
 		},
 		[195]=
@@ -4267,7 +4267,7 @@ return {
 			model_id = 29,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 180,
+			award_id = {180,},
 			award_type = "nor",
 		},
 		[196]=
@@ -4276,7 +4276,7 @@ return {
 			model_id = 29,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 181,
+			award_id = {181,},
 			award_type = "nor",
 		},
 		[197]=
@@ -4285,7 +4285,7 @@ return {
 			model_id = 29,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 182,
+			award_id = {182,},
 			award_type = "nor",
 		},
 		[198]=
@@ -4294,7 +4294,7 @@ return {
 			model_id = 29,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 183,
+			award_id = {183,},
 			award_type = "nor",
 		},
 		[199]=
@@ -4303,7 +4303,7 @@ return {
 			model_id = 30,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 184,
+			award_id = {184,},
 			award_type = "nor",
 		},
 		[200]=
@@ -4312,7 +4312,7 @@ return {
 			model_id = 30,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 185,
+			award_id = {185,},
 			award_type = "nor",
 		},
 		[201]=
@@ -4321,7 +4321,7 @@ return {
 			model_id = 30,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 186,
+			award_id = {186,},
 			award_type = "nor",
 		},
 		[202]=
@@ -4330,7 +4330,7 @@ return {
 			model_id = 30,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 187,
+			award_id = {187,},
 			award_type = "nor",
 		},
 		[203]=
@@ -4339,7 +4339,7 @@ return {
 			model_id = 30,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 188,
+			award_id = {188,},
 			award_type = "nor",
 		},
 		[204]=
@@ -4348,7 +4348,7 @@ return {
 			model_id = 30,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 189,
+			award_id = {189,},
 			award_type = "nor",
 		},
 		[205]=
@@ -4357,7 +4357,7 @@ return {
 			model_id = 30,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 190,
+			award_id = {190,},
 			award_type = "nor",
 		},
 		[206]=
@@ -4366,7 +4366,7 @@ return {
 			model_id = 31,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 191,
+			award_id = {191,},
 			award_type = "nor",
 		},
 		[207]=
@@ -4375,7 +4375,7 @@ return {
 			model_id = 31,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 192,
+			award_id = {192,},
 			award_type = "nor",
 		},
 		[208]=
@@ -4384,7 +4384,7 @@ return {
 			model_id = 31,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 193,
+			award_id = {193,},
 			award_type = "nor",
 		},
 		[209]=
@@ -4393,7 +4393,7 @@ return {
 			model_id = 31,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 194,
+			award_id = {194,},
 			award_type = "nor",
 		},
 		[210]=
@@ -4402,7 +4402,7 @@ return {
 			model_id = 31,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 195,
+			award_id = {195,},
 			award_type = "nor",
 		},
 		[211]=
@@ -4411,7 +4411,7 @@ return {
 			model_id = 31,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 196,
+			award_id = {196,},
 			award_type = "nor",
 		},
 		[212]=
@@ -4420,7 +4420,7 @@ return {
 			model_id = 31,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 197,
+			award_id = {197,},
 			award_type = "nor",
 		},
 		[213]=
@@ -4429,7 +4429,7 @@ return {
 			model_id = 32,
 			start_rank = 1,
 			end_rank = 1,
-			award_id = 198,
+			award_id = {198,},
 			award_type = "nor",
 		},
 		[214]=
@@ -4438,7 +4438,7 @@ return {
 			model_id = 32,
 			start_rank = 2,
 			end_rank = 2,
-			award_id = 199,
+			award_id = {199,},
 			award_type = "nor",
 		},
 		[215]=
@@ -4447,7 +4447,7 @@ return {
 			model_id = 32,
 			start_rank = 3,
 			end_rank = 3,
-			award_id = 200,
+			award_id = {200,},
 			award_type = "nor",
 		},
 		[216]=
@@ -4456,7 +4456,7 @@ return {
 			model_id = 32,
 			start_rank = 4,
 			end_rank = 6,
-			award_id = 201,
+			award_id = {201,},
 			award_type = "nor",
 		},
 		[217]=
@@ -4465,7 +4465,7 @@ return {
 			model_id = 32,
 			start_rank = 7,
 			end_rank = 10,
-			award_id = 202,
+			award_id = {202,},
 			award_type = "nor",
 		},
 		[218]=
@@ -4474,7 +4474,7 @@ return {
 			model_id = 32,
 			start_rank = 11,
 			end_rank = 15,
-			award_id = 203,
+			award_id = {203,},
 			award_type = "nor",
 		},
 		[219]=
@@ -4483,7 +4483,7 @@ return {
 			model_id = 32,
 			start_rank = 16,
 			end_rank = 20,
-			award_id = 204,
+			award_id = {204,},
 			award_type = "nor",
 		},
 		[220]=
