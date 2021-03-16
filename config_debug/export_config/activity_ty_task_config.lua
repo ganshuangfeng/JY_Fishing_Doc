@@ -377,6 +377,8 @@ return {
 			item = {"jing_bi","swjl_5",},
 			count = {2088888,"琥珀核桃500g"},
 			gotoUI = {"shop_bay","jing_bi",},
+			N_chose_1_img = {"swjl_5",},
+			N_chose_1_text = {"琥珀核桃500g",},
 			remarks = "实物奖励",
 		},
 		[28]=

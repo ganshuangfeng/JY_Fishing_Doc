@@ -411,6 +411,8 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0","swjl_5",},
 			count = {2088888,"耗牛肉酱",1988},
 			gotoUI = {"shop_bay","jing_bi",},
+			N_chose_1_img = {"swjl_5",},
+			N_chose_1_text = {"耗牛肉酱",},
 		},
 		[28]=
 		{
@@ -520,6 +522,8 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0","swjl_5",},
 			count = {2088888,"耗牛肉酱",1988},
 			gotoUI = {"shop_bay","jing_bi",},
+			N_chose_1_img = {"swjl_5",},
+			N_chose_1_text = {"耗牛肉酱",},
 		},
 		[37]=
 		{
