@@ -179,8 +179,8 @@ return {
 		{
 			id = 7,
 			task = 1000421,
-			total = 1,
-			task_name = "在西游消消乐中消除1次孙悟空",
+			total = 3,
+			task_name = "在西游消消乐中消除3个孙悟空",
 			level = 1,
 			item = {"jing_bi","prop_fish_drop_act_0"},
 			count = {10000,10},
@@ -223,8 +223,8 @@ return {
 		{
 			id = 11,
 			task = 1000425,
-			total = 1,
-			task_name = "在西游消消乐中消除1次孙悟空",
+			total = 3,
+			task_name = "在西游消消乐中消除3个孙悟空",
 			level = 1,
 			item = {"jing_bi","prop_fish_drop_act_0"},
 			count = {10000,10},
@@ -234,8 +234,8 @@ return {
 		{
 			id = 12,
 			task = 1000426,
-			total = 2,
-			task_name = "在西游消消乐中消除2次孙悟空",
+			total = 6,
+			task_name = "在西游消消乐中消除6个孙悟空",
 			level = 1,
 			item = {"jing_bi","prop_fish_drop_act_0"},
 			count = {15000,10},
