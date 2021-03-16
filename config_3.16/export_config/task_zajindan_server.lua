@@ -31639,7 +31639,7 @@ return {
 			id = 607,
 			condition_id = 445,
 			condition_name = "hero_num",
-			condition_value = 1,
+			condition_value = {1,2,3,4},
 			judge_type = 2,
 		},
 		[608]=
