@@ -8658,7 +8658,7 @@ return {
 			no = 171,
 			id = 77,
 			var = "share_condition",
-			value = "jjddz_cpl",
+			value = "wqp_cpl",
 			judge = 2,
 			group = 1,
 			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
