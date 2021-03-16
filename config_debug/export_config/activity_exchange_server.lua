@@ -3983,7 +3983,7 @@ return {
 			no = 304,
 			award_cfg_id = 50,
 			award_id = 2,
-			permission_key = "actp_cjj_gej_exchange",
+			permission_key = "actp_cjj_gej_exchange_V5",
 			award_name = "vivo手机",
 			use_num = {880000,},
 			me_limit_day_num = 1,
