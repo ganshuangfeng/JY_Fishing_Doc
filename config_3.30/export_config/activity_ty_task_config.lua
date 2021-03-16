@@ -112,7 +112,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			task = 1000415,
+			task = 1000439,
 			total = 1,
 			task_name = "在3D捕鱼中使用1次双倍奖励卡",
 			level = 1,
@@ -123,7 +123,7 @@ return {
 		[2]=
 		{
 			id = 2,
-			task = 1000416,
+			task = 1000440,
 			total = 2,
 			task_name = "在3D捕鱼深海探险当前层数+2",
 			level = 1,
@@ -134,7 +134,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			task = 1000417,
+			task = 1000441,
 			total = 5,
 			task_name = "在3D捕鱼深海探险当前层数+5",
 			level = 1,
@@ -145,7 +145,7 @@ return {
 		[4]=
 		{
 			id = 4,
-			task = 1000418,
+			task = 1000442,
 			total = 100,
 			task_name = "在3D捕鱼中通过击杀红包鱼累计获得100福利券",
 			level = 1,
@@ -156,7 +156,7 @@ return {
 		[5]=
 		{
 			id = 5,
-			task = 1000419,
+			task = 1000443,
 			total = 100,
 			task_name = "在3D捕鱼中通过击杀话费鱼累计获得100话费碎片",
 			level = 1,
@@ -167,7 +167,7 @@ return {
 		[6]=
 		{
 			id = 6,
-			task = 1000420,
+			task = 1000444,
 			total = 1,
 			task_name = "在3D捕鱼海底宝藏以上场次任意击杀1条boss",
 			level = 1,
@@ -178,7 +178,7 @@ return {
 		[7]=
 		{
 			id = 7,
-			task = 1000421,
+			task = 1000445,
 			total = 3,
 			task_name = "在西游消消乐中消除3个孙悟空",
 			level = 1,
@@ -189,7 +189,7 @@ return {
 		[8]=
 		{
 			id = 8,
-			task = 1000422,
+			task = 1000446,
 			total = 1,
 			task_name = "在西游消消乐中消除1次唐僧",
 			level = 1,
@@ -200,7 +200,7 @@ return {
 		[9]=
 		{
 			id = 9,
-			task = 1000423,
+			task = 1000447,
 			total = 3,
 			task_name = "在苹果大战中连胜3局",
 			level = 1,
@@ -211,7 +211,7 @@ return {
 		[10]=
 		{
 			id = 10,
-			task = 1000424,
+			task = 1000448,
 			total = 1,
 			task_name = "在苹果大战中种出1次金苹果",
 			level = 1,
@@ -222,7 +222,7 @@ return {
 		[11]=
 		{
 			id = 11,
-			task = 1000425,
+			task = 1000449,
 			total = 3,
 			task_name = "在西游消消乐中消除3个孙悟空",
 			level = 1,
@@ -233,7 +233,7 @@ return {
 		[12]=
 		{
 			id = 12,
-			task = 1000426,
+			task = 1000450,
 			total = 6,
 			task_name = "在西游消消乐中消除6个孙悟空",
 			level = 1,
@@ -244,7 +244,7 @@ return {
 		[13]=
 		{
 			id = 13,
-			task = 1000427,
+			task = 1000451,
 			total = 1,
 			task_name = "在西游消消乐中消除1次唐僧",
 			level = 1,
@@ -255,7 +255,7 @@ return {
 		[14]=
 		{
 			id = 14,
-			task = 1000428,
+			task = 1000452,
 			total = 1,
 			task_name = "在水浒消消乐中召唤出1次英雄",
 			level = 1,
@@ -266,7 +266,7 @@ return {
 		[15]=
 		{
 			id = 15,
-			task = 1000429,
+			task = 1000453,
 			total = 2,
 			task_name = "在水浒消消乐中召唤出2次英雄",
 			level = 1,
@@ -277,7 +277,7 @@ return {
 		[16]=
 		{
 			id = 16,
-			task = 1000430,
+			task = 1000454,
 			total = 4,
 			task_name = "在水浒消消乐中召唤出4次英雄",
 			level = 1,
@@ -288,7 +288,7 @@ return {
 		[17]=
 		{
 			id = 17,
-			task = 1000431,
+			task = 1000455,
 			total = 300000,
 			task_name = "在龙王争霸中累计赢金30万",
 			level = 1,
@@ -299,7 +299,7 @@ return {
 		[18]=
 		{
 			id = 18,
-			task = 1000432,
+			task = 1000456,
 			total = 600000,
 			task_name = "在龙王争霸中累计赢金60万",
 			level = 1,
@@ -310,7 +310,7 @@ return {
 		[19]=
 		{
 			id = 19,
-			task = 1000433,
+			task = 1000457,
 			total = 3,
 			task_name = "在苹果大战中连胜3局",
 			level = 1,
@@ -321,7 +321,7 @@ return {
 		[20]=
 		{
 			id = 20,
-			task = 1000434,
+			task = 1000458,
 			total = 1,
 			task_name = "在苹果大战中种出1次金苹果",
 			level = 1,
@@ -332,7 +332,7 @@ return {
 		[21]=
 		{
 			id = 21,
-			task = 1000397,
+			task = 1000459,
 			total = 3,
 			task_name = "在商城中购买3次15元",
 			level = 1,
@@ -343,7 +343,7 @@ return {
 		[22]=
 		{
 			id = 22,
-			task = 1000398,
+			task = 1000460,
 			total = 3,
 			task_name = "在商城中购买3次30元",
 			level = 1,
@@ -354,7 +354,7 @@ return {
 		[23]=
 		{
 			id = 23,
-			task = 1000399,
+			task = 1000461,
 			total = 3,
 			task_name = "在商城中购买3次50元",
 			level = 1,
@@ -365,7 +365,7 @@ return {
 		[24]=
 		{
 			id = 24,
-			task = 1000400,
+			task = 1000462,
 			total = 3,
 			task_name = "在商城中购买3次98元",
 			level = 1,
@@ -376,7 +376,7 @@ return {
 		[25]=
 		{
 			id = 25,
-			task = 1000401,
+			task = 1000463,
 			total = 3,
 			task_name = "在商城中购买3次2498元",
 			level = 1,
@@ -384,13 +384,13 @@ return {
 			count = {8888888,8888},
 			gotoUI = {"shop_bay","jing_bi",},
 			N_chose_1_img = {"swjl_1","swjl_2"},
-			N_chose_1_text = {"美的电饭锅","智能电磁炉"},
+			N_chose_1_text = {"智能多功能锅/","小米运动手环"},
 			remarks = "实物奖励二选一",
 		},
 		[26]=
 		{
 			id = 26,
-			task = 1000402,
+			task = 1000464,
 			total = 3,
 			task_name = "在商城中购买3次998元",
 			level = 1,
@@ -398,26 +398,26 @@ return {
 			count = {4088888,3888},
 			gotoUI = {"shop_bay","jing_bi",},
 			N_chose_1_img = {"swjl_3","swjl_4"},
-			N_chose_1_text = {"金龙鱼油4L","金龙鱼大米2袋"},
+			N_chose_1_text = {"三只松鼠礼盒","进口橄榄油"},
 			remarks = "实物奖励二选一",
 		},
 		[27]=
 		{
 			id = 27,
-			task = 1000403,
+			task = 1000465,
 			total = 3,
 			task_name = "在商城中购买3次498元",
 			level = 1,
 			item = {"jing_bi","prop_fish_drop_act_0","swjl_5",},
-			count = {2088888,1988,"耗牛肉酱"},
+			count = {2088888,1988,"酥脆猴菇饼干"},
 			gotoUI = {"shop_bay","jing_bi",},
 			N_chose_1_img = {"swjl_5",},
-			N_chose_1_text = {"耗牛肉酱",},
+			N_chose_1_text = {"酥脆猴菇饼干",},
 		},
 		[28]=
 		{
 			id = 28,
-			task = 1000404,
+			task = 1000466,
 			total = 3,
 			task_name = "在商城中购买3次198元",
 			level = 1,
@@ -428,7 +428,7 @@ return {
 		[29]=
 		{
 			id = 29,
-			task = 1000405,
+			task = 1000467,
 			total = 3,
 			task_name = "在商城中购买3次98元",
 			level = 1,
@@ -439,7 +439,7 @@ return {
 		[30]=
 		{
 			id = 30,
-			task = 1000406,
+			task = 1000468,
 			total = 3,
 			task_name = "在商城中购买3次15元",
 			level = 1,
@@ -451,7 +451,7 @@ return {
 		[31]=
 		{
 			id = 31,
-			task = 1000407,
+			task = 1000469,
 			total = 3,
 			task_name = "在商城中购买3次30元",
 			level = 1,
@@ -463,7 +463,7 @@ return {
 		[32]=
 		{
 			id = 32,
-			task = 1000408,
+			task = 1000470,
 			total = 3,
 			task_name = "在商城中购买3次50元",
 			level = 1,
@@ -475,7 +475,7 @@ return {
 		[33]=
 		{
 			id = 33,
-			task = 1000409,
+			task = 1000471,
 			total = 3,
 			task_name = "在商城中购买3次98元",
 			level = 1,
@@ -487,7 +487,7 @@ return {
 		[34]=
 		{
 			id = 34,
-			task = 1000410,
+			task = 1000472,
 			total = 3,
 			task_name = "在商城中购买3次2498元",
 			level = 1,
@@ -495,13 +495,13 @@ return {
 			count = {8888888,8888},
 			gotoUI = {"shop_bay","jing_bi",},
 			N_chose_1_img = {"swjl_1","swjl_2"},
-			N_chose_1_text = {"美的电饭锅","智能电磁炉"},
+			N_chose_1_text = {"智能多功能锅/","小米运动手环"},
 			remarks = "实物奖励二选一",
 		},
 		[35]=
 		{
 			id = 35,
-			task = 1000411,
+			task = 1000473,
 			total = 3,
 			task_name = "在商城中购买3次998元",
 			level = 1,
@@ -509,26 +509,26 @@ return {
 			count = {4088888,3888},
 			gotoUI = {"shop_bay","jing_bi",},
 			N_chose_1_img = {"swjl_3","swjl_4"},
-			N_chose_1_text = {"金龙鱼油4L","金龙鱼大米2袋"},
+			N_chose_1_text = {"三只松鼠礼盒","进口橄榄油"},
 			remarks = "实物奖励二选一",
 		},
 		[36]=
 		{
 			id = 36,
-			task = 1000412,
+			task = 1000474,
 			total = 3,
 			task_name = "在商城中购买3次498元",
 			level = 1,
 			item = {"jing_bi","prop_fish_drop_act_0","swjl_5",},
-			count = {2088888,1988,"耗牛肉酱"},
+			count = {2088888,1988,"酥脆猴菇饼干"},
 			gotoUI = {"shop_bay","jing_bi",},
 			N_chose_1_img = {"swjl_5",},
-			N_chose_1_text = {"耗牛肉酱",},
+			N_chose_1_text = {"酥脆猴菇饼干",},
 		},
 		[37]=
 		{
 			id = 37,
-			task = 1000413,
+			task = 1000475,
 			total = 3,
 			task_name = "在商城中购买3次198元",
 			level = 1,
@@ -540,7 +540,7 @@ return {
 		[38]=
 		{
 			id = 38,
-			task = 1000414,
+			task = 1000476,
 			total = 3,
 			task_name = "在商城中购买3次98元",
 			level = 1,
