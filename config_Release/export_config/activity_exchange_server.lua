@@ -539,6 +539,30 @@ return {
 			award_id = 46,
 			enable = 1,
 		},
+		[47]=
+		{
+			id = 47,
+			name = "兑换奖励",
+			start_time = 1615852800,
+			end_time = 1616428799,
+			use_goods = {"prop_fish_drop_act_0",},
+			goods_type = 1,
+			email_id = 33,
+			award_id = 47,
+			enable = 1,
+		},
+		[48]=
+		{
+			id = 48,
+			name = "兑换奖励--cjj",
+			start_time = 1615852800,
+			end_time = 1616428799,
+			use_goods = {"prop_fish_drop_act_0",},
+			goods_type = 1,
+			email_id = 34,
+			award_id = 48,
+			enable = 1,
+		},
 	},
 	email=
 	{
@@ -733,6 +757,18 @@ return {
 			id = 32,
 			title = "315狂欢",
 			content = "恭喜您在礼盒换好礼活动中获得了%s，请在活动结束后7个工作日内联系公众号《彩云新世界》客服领取，逾期视为自动放弃！",
+		},
+		[33]=
+		{
+			id = 33,
+			title = "春暖花开",
+			content = "恭喜您在兑换奖励活动中获得了%s，请在活动结束后7个工作日内联系公众号《鲸鱼初纪元》客服领取，逾期视为自动放弃！",
+		},
+		[34]=
+		{
+			id = 34,
+			title = "春暖花开",
+			content = "恭喜您在兑换奖励活动中获得了%s，请在活动结束后7个工作日内联系公众号《彩云新世界》客服领取，逾期视为自动放弃！",
 		},
 	},
 	award=
@@ -3646,6 +3682,172 @@ return {
 			asset_count = {10,},
 			use_num = {3666,},
 			me_limit_day_num = 1,
+		},
+		[279]=
+		{
+			no = 279,
+			award_cfg_id = 47,
+			award_id = 1,
+			permission_key = "actp_no_cjj_gej_exchange_V5",
+			award_name = "美的空调",
+			use_num = {1080000,},
+			me_limit_day_num = 1,
+		},
+		[280]=
+		{
+			no = 280,
+			award_cfg_id = 47,
+			award_id = 2,
+			permission_key = "actp_no_cjj_gej_exchange_V5",
+			award_name = "荣耀手机",
+			use_num = {880000,},
+			me_limit_day_num = 1,
+		},
+		[281]=
+		{
+			no = 281,
+			award_cfg_id = 47,
+			award_id = 3,
+			permission_key = "actp_no_cjj_gej_exchange",
+			award_name = "扫地机器人",
+			use_num = {180000,},
+			me_limit_day_num = 1,
+		},
+		[282]=
+		{
+			no = 282,
+			award_cfg_id = 47,
+			award_id = 4,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {10000,},
+			use_num = {60000,},
+			me_limit_day_num = 1,
+		},
+		[283]=
+		{
+			no = 283,
+			award_cfg_id = 47,
+			award_id = 5,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"fish_coin",},
+			asset_count = {5000000,},
+			use_num = {18000,},
+		},
+		[284]=
+		{
+			no = 284,
+			award_cfg_id = 47,
+			award_id = 6,
+			permission_key = "actp_no_cjj_gej_exchange",
+			award_name = "卫龙亲嘴烧30片",
+			use_num = {8000,},
+			me_limit_day_num = 3,
+		},
+		[285]=
+		{
+			no = 285,
+			award_cfg_id = 47,
+			award_id = 7,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"shop_gold_sum",},
+			asset_count = {2000,},
+			use_num = {7200,},
+			me_limit_day_num = 2,
+		},
+		[286]=
+		{
+			no = 286,
+			award_cfg_id = 47,
+			award_id = 8,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"prop_3d_fish_nuclear_bomb_1",},
+			asset_count = {1,},
+			use_num = {3666,},
+			me_limit_day_num = 3,
+		},
+		[287]=
+		{
+			no = 287,
+			award_cfg_id = 48,
+			award_id = 1,
+			permission_key = "actp_cjj_gej_exchange_V5",
+			award_name = "美的空调",
+			use_num = {1080000,},
+			me_limit_day_num = 1,
+		},
+		[288]=
+		{
+			no = 288,
+			award_cfg_id = 48,
+			award_id = 2,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "荣耀手机",
+			use_num = {880000,},
+			me_limit_day_num = 1,
+		},
+		[289]=
+		{
+			no = 289,
+			award_cfg_id = 48,
+			award_id = 3,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "扫地机器人",
+			use_num = {180000,},
+			me_limit_day_num = 1,
+		},
+		[290]=
+		{
+			no = 290,
+			award_cfg_id = 48,
+			award_id = 4,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {10000,},
+			use_num = {60000,},
+			me_limit_day_num = 1,
+		},
+		[291]=
+		{
+			no = 291,
+			award_cfg_id = 48,
+			award_id = 5,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"prop_tiny_game_coin",},
+			asset_count = {5000000,},
+			use_num = {18000,},
+		},
+		[292]=
+		{
+			no = 292,
+			award_cfg_id = 48,
+			award_id = 6,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "卫龙亲嘴烧30片",
+			use_num = {8000,},
+			me_limit_day_num = 3,
+		},
+		[293]=
+		{
+			no = 293,
+			award_cfg_id = 48,
+			award_id = 7,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"shop_gold_sum",},
+			asset_count = {2000,},
+			use_num = {7200,},
+			me_limit_day_num = 2,
+		},
+		[294]=
+		{
+			no = 294,
+			award_cfg_id = 48,
+			award_id = 8,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"prop_hammer_3",},
+			asset_count = {10,},
+			use_num = {3666,},
+			me_limit_day_num = 3,
 		},
 	},
 	all_powerful=

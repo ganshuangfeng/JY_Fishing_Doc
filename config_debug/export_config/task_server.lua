@@ -1069,7 +1069,7 @@ return {
 		{
 			id = 78,
 			enable = 1,
-			name = " 全返礼包1，7次任务，匹配场任意场次对局5次可领1元激励金，每日限领1次",
+			name = " 全返礼包1（周返）--在3D捕鱼中累计消耗5万",
 			own_type = "sczd_all_return_task1",
 			task_enum = "all_return_gift_lb",
 			process_id = 78,
@@ -1083,7 +1083,7 @@ return {
 		{
 			id = 79,
 			enable = 1,
-			name = "全返礼包2，10次任务，参加1次千元赛不论输赢可领10元激励金",
+			name = " 全返礼包2（月返）--在3D捕鱼中累计消耗50万",
 			own_type = "sczd_all_return_task2",
 			task_enum = "all_return_gift_lb",
 			process_id = 79,
@@ -1319,6 +1319,22 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 			is_send_client = 1,
+		},
+		[96]=
+		{
+			id = 96,
+			enable = 1,
+			name = "消消乐闯关层数任务",
+			own_type = "normal",
+			task_enum = "xiaoxiaole_tower_week_task",
+			process_id = 96,
+			is_reset = 1,
+			reset_delay = 7,
+			start_valid_time = 1615046400,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+			award_change_type = "task_xiaoxiaole_tower_week_children_task",
 		},
 	},
 	process_data=
@@ -2255,6 +2271,15 @@ return {
 			awards = 120,
 			get_award_type = "nor",
 		},
+		[96]=
+		{
+			id = 96,
+			process_id = 96,
+			source_id = 96,
+			process = {25,25,50,10000},
+			awards = {121,122,123},
+			get_award_type = "random",
+		},
 	},
 	source=
 	{
@@ -2801,173 +2826,180 @@ return {
 		{
 			id = 78,
 			source_id = 78,
-			source_type = "buyu_3d_award",
+			source_type = "buyu_3d_spend",
 			condition_id = 0,
 		},
 		[79]=
 		{
 			id = 79,
 			source_id = 79,
-			source_type = "buyu_3d_award",
+			source_type = "buyu_3d_spend",
 			condition_id = 0,
 		},
 		[80]=
 		{
 			id = 80,
 			source_id = 80,
-			source_type = "xiaoxiaole_award",
+			source_type = "buyu_award",
 			condition_id = 0,
 		},
 		[81]=
 		{
 			id = 81,
 			source_id = 80,
-			source_type = "xiaoxiaole_shuihu_award",
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 		[82]=
 		{
 			id = 82,
 			source_id = 80,
-			source_type = "xiaoxiaole_caishen_award",
+			source_type = "xiaoxiaole_shuihu_award",
 			condition_id = 0,
 		},
 		[83]=
 		{
 			id = 83,
 			source_id = 80,
-			source_type = "tantanle_award",
+			source_type = "xiaoxiaole_caishen_award",
 			condition_id = 0,
 		},
 		[84]=
 		{
 			id = 84,
 			source_id = 80,
-			source_type = "zajindan_award",
+			source_type = "tantanle_award",
 			condition_id = 0,
 		},
 		[85]=
 		{
 			id = 85,
 			source_id = 80,
-			source_type = "jykp_award",
+			source_type = "zajindan_award",
 			condition_id = 0,
 		},
 		[86]=
 		{
 			id = 86,
 			source_id = 80,
-			source_type = "guess_apple_award",
+			source_type = "jykp_award",
 			condition_id = 0,
 		},
 		[87]=
 		{
 			id = 87,
 			source_id = 80,
-			source_type = "lwzb_game_award",
+			source_type = "guess_apple_award",
 			condition_id = 0,
 		},
 		[88]=
 		{
 			id = 88,
 			source_id = 80,
-			source_type = "xiaoxiaole_xiyou_award",
+			source_type = "lwzb_game_award",
 			condition_id = 0,
 		},
 		[89]=
 		{
 			id = 89,
-			source_id = 81,
-			source_type = "xiaoxiaole_spend",
+			source_id = 80,
+			source_type = "xiaoxiaole_xiyou_award",
 			condition_id = 0,
 		},
 		[90]=
 		{
 			id = 90,
-			source_id = 82,
-			source_type = "buyu_3d_spend",
-			condition_id = 33,
+			source_id = 81,
+			source_type = "xiaoxiaole_spend",
+			condition_id = 0,
 		},
 		[91]=
 		{
 			id = 91,
-			source_id = 83,
+			source_id = 82,
 			source_type = "buyu_3d_spend",
-			condition_id = 34,
+			condition_id = 33,
 		},
 		[92]=
 		{
 			id = 92,
-			source_id = 84,
+			source_id = 83,
 			source_type = "buyu_3d_spend",
-			condition_id = 35,
+			condition_id = 34,
 		},
 		[93]=
 		{
 			id = 93,
-			source_id = 85,
-			source_type = "xiyou_task_money",
-			condition_id = 0,
+			source_id = 84,
+			source_type = "buyu_3d_spend",
+			condition_id = 35,
 		},
 		[94]=
 		{
 			id = 94,
-			source_id = 86,
-			source_type = "children_task",
+			source_id = 85,
+			source_type = "xiyou_task_money",
 			condition_id = 0,
 		},
 		[95]=
 		{
 			id = 95,
-			source_id = 87,
+			source_id = 86,
 			source_type = "children_task",
 			condition_id = 0,
 		},
 		[96]=
 		{
 			id = 96,
-			source_id = 88,
+			source_id = 87,
 			source_type = "children_task",
 			condition_id = 0,
 		},
 		[97]=
 		{
 			id = 97,
-			source_id = 89,
+			source_id = 88,
 			source_type = "children_task",
 			condition_id = 0,
 		},
 		[98]=
 		{
 			id = 98,
-			source_id = 90,
-			source_type = "xiaoxiaole_award",
+			source_id = 89,
+			source_type = "children_task",
 			condition_id = 0,
 		},
 		[99]=
 		{
 			id = 99,
-			source_id = 91,
+			source_id = 90,
 			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 		[100]=
 		{
 			id = 100,
-			source_id = 92,
+			source_id = 91,
 			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 		[101]=
 		{
 			id = 101,
-			source_id = 94,
-			source_type = "fishbowl_handbook_award",
+			source_id = 92,
+			source_type = "xiaoxiaole_award",
 			condition_id = 0,
 		},
 		[102]=
 		{
 			id = 102,
+			source_id = 94,
+			source_type = "fishbowl_handbook_award",
+			condition_id = 0,
+		},
+		[103]=
+		{
+			id = 103,
 			source_id = 95,
 			source_type = "buyu_3d_spend",
 			condition_id = 0,
@@ -4600,6 +4632,30 @@ return {
 			award_id = 120,
 			asset_type = "task_93",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[138]=
+		{
+			id = 138,
+			award_id = 121,
+			asset_type = "jing_bi",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[139]=
+		{
+			id = 139,
+			award_id = 122,
+			asset_type = "shop_gold_sum",
+			asset_count = {100,200},
+			get_weight = 1,
+		},
+		[140]=
+		{
+			id = 140,
+			award_id = 123,
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
 			get_weight = 1,
 		},
 	},

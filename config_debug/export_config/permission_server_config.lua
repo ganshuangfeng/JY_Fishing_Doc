@@ -1712,7 +1712,7 @@ return {
 		xyxxl_level=
 		{
 			key = "xyxxl_level",
-			name = "西游消消乐  V1orLV4",
+			name = "西游消消乐  V1orLV9",
 			condi = 343,
 		},
 		gzyl_newplayer=
@@ -2172,6 +2172,250 @@ return {
 			key = "xyxtg_enter_limit",
 			name = "小游戏托管限制",
 			condi = 22,
+		},
+		fishing3d_102=
+		{
+			key = "fishing3d_102",
+			name = "神秘海域",
+			condi = 204,
+		},
+		fishing3d_102_1=
+		{
+			key = "fishing3d_102_1",
+			name = "捕鱼神秘海域100倍",
+			condi = 205,
+		},
+		fishing3d_102_2=
+		{
+			key = "fishing3d_102_2",
+			name = "捕鱼神秘海域200倍",
+			condi = 206,
+		},
+		fishing3d_102_3=
+		{
+			key = "fishing3d_102_3",
+			name = "捕鱼神秘海域300倍",
+			condi = 207,
+		},
+		fishing3d_102_4=
+		{
+			key = "fishing3d_102_4",
+			name = "捕鱼神秘海域400倍",
+			condi = 208,
+		},
+		fishing3d_102_5=
+		{
+			key = "fishing3d_102_5",
+			name = "捕鱼神秘海域500倍",
+			condi = 209,
+		},
+		fishing3d_102_6=
+		{
+			key = "fishing3d_102_6",
+			name = "捕鱼神秘海域600倍",
+			condi = 210,
+		},
+		fishing3d_102_7=
+		{
+			key = "fishing3d_102_7",
+			name = "捕鱼神秘海域700倍",
+			condi = 211,
+		},
+		fishing3d_102_8=
+		{
+			key = "fishing3d_102_8",
+			name = "捕鱼神秘海域800倍",
+			condi = 212,
+		},
+		fishing3d_102_9=
+		{
+			key = "fishing3d_102_9",
+			name = "捕鱼神秘海域900倍",
+			condi = 213,
+		},
+		fishing3d_102_10=
+		{
+			key = "fishing3d_102_10",
+			name = "捕鱼神秘海域1000倍",
+			condi = 214,
+		},
+		fishing3d_103=
+		{
+			key = "fishing3d_103",
+			name = "捕鱼海底宝藏",
+			condi = 215,
+		},
+		fishing3d_103_1=
+		{
+			key = "fishing3d_103_1",
+			name = "捕鱼海底宝藏1000倍",
+			condi = 216,
+		},
+		fishing3d_103_2=
+		{
+			key = "fishing3d_103_2",
+			name = "捕鱼海底宝藏2000倍",
+			condi = 217,
+		},
+		fishing3d_103_3=
+		{
+			key = "fishing3d_103_3",
+			name = "捕鱼海底宝藏3000倍",
+			condi = 218,
+		},
+		fishing3d_103_4=
+		{
+			key = "fishing3d_103_4",
+			name = "捕鱼海底宝藏4000倍",
+			condi = 219,
+		},
+		fishing3d_103_5=
+		{
+			key = "fishing3d_103_5",
+			name = "捕鱼海底宝藏5000倍",
+			condi = 220,
+		},
+		fishing3d_103_6=
+		{
+			key = "fishing3d_103_6",
+			name = "捕鱼海底宝藏6000倍",
+			condi = 221,
+		},
+		fishing3d_103_7=
+		{
+			key = "fishing3d_103_7",
+			name = "捕鱼海底宝藏7000倍",
+			condi = 222,
+		},
+		fishing3d_103_8=
+		{
+			key = "fishing3d_103_8",
+			name = "捕鱼海底宝藏8000倍",
+			condi = 223,
+		},
+		fishing3d_103_9=
+		{
+			key = "fishing3d_103_9",
+			name = "捕鱼海底宝藏9000倍",
+			condi = 224,
+		},
+		fishing3d_103_10=
+		{
+			key = "fishing3d_103_10",
+			name = "捕鱼海底宝藏10000倍",
+			condi = 225,
+		},
+		fishing3d_104=
+		{
+			key = "fishing3d_104",
+			name = "捕鱼藏宝海湾",
+			condi = 249,
+		},
+		fishing3d_104_1=
+		{
+			key = "fishing3d_104_1",
+			name = "捕鱼藏宝海湾10000倍",
+		},
+		fishing3d_104_2=
+		{
+			key = "fishing3d_104_2",
+			name = "捕鱼藏宝海湾20000倍",
+		},
+		fishing3d_104_3=
+		{
+			key = "fishing3d_104_3",
+			name = "捕鱼藏宝海湾30000倍",
+		},
+		fishing3d_104_4=
+		{
+			key = "fishing3d_104_4",
+			name = "捕鱼藏宝海湾40000倍",
+		},
+		fishing3d_104_5=
+		{
+			key = "fishing3d_104_5",
+			name = "捕鱼藏宝海湾50000倍",
+		},
+		fishing3d_104_6=
+		{
+			key = "fishing3d_104_6",
+			name = "捕鱼藏宝海湾60000倍",
+		},
+		fishing3d_104_7=
+		{
+			key = "fishing3d_104_7",
+			name = "捕鱼藏宝海湾70000倍",
+		},
+		fishing3d_104_8=
+		{
+			key = "fishing3d_104_8",
+			name = "捕鱼藏宝海湾80000倍",
+		},
+		fishing3d_104_9=
+		{
+			key = "fishing3d_104_9",
+			name = "捕鱼藏宝海湾90000倍",
+		},
+		fishing3d_104_10=
+		{
+			key = "fishing3d_104_10",
+			name = "捕鱼藏宝海湾100000倍",
+		},
+		fishing3d_105=
+		{
+			key = "fishing3d_105",
+			name = "捕鱼深海沉船",
+			condi = 24,
+		},
+		fishing3d_105_1=
+		{
+			key = "fishing3d_105_1",
+			name = "捕鱼深海沉船100000倍",
+		},
+		fishing3d_105_2=
+		{
+			key = "fishing3d_105_2",
+			name = "捕鱼深海沉船200000倍",
+		},
+		fishing3d_105_3=
+		{
+			key = "fishing3d_105_3",
+			name = "捕鱼深海沉船300000倍",
+		},
+		fishing3d_105_4=
+		{
+			key = "fishing3d_105_4",
+			name = "捕鱼深海沉船400000倍",
+		},
+		fishing3d_105_5=
+		{
+			key = "fishing3d_105_5",
+			name = "捕鱼深海沉船500000倍",
+		},
+		fishing3d_105_6=
+		{
+			key = "fishing3d_105_6",
+			name = "捕鱼深海沉船600000倍",
+		},
+		fishing3d_105_7=
+		{
+			key = "fishing3d_105_7",
+			name = "捕鱼深海沉船700000倍",
+		},
+		fishing3d_105_8=
+		{
+			key = "fishing3d_105_8",
+			name = "捕鱼深海沉船800000倍",
+		},
+		fishing3d_105_9=
+		{
+			key = "fishing3d_105_9",
+			name = "捕鱼深海沉船900000倍",
+		},
+		fishing3d_105_10=
+		{
+			key = "fishing3d_105_10",
+			name = "捕鱼深海沉船1000000倍",
 		},
 		jjby_drop_limit=
 		{
@@ -6626,8 +6870,8 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_cnhk_009_thphb_rank",
-			name = "礼盒排行榜--非cjj",
+			key = "actp_rank_ymkh_010_wxphb_rank",
+			name = "五星排行榜--非cjj",
 			condi = 393,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -6638,7 +6882,7 @@ return {
 		{
 			id = 372,
 			enable = 1,
-			key = "actp_rank_xxlzb_006_rank",
+			key = "actp_rank_xxlzb_007_rank",
 			name = "消消乐争霸--cjj",
 			condi = 394,
 			is_dynamic_codi = 1,
@@ -6661,7 +6905,7 @@ return {
 		[374]=
 		{
 			id = 374,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_xsfl_v3_normal",
 			name = "限时福利v3及以下--捕鱼",
 			condi = 406,
@@ -6673,7 +6917,7 @@ return {
 		[375]=
 		{
 			id = 375,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_xsfl_v4v12_normal",
 			name = "限时福利v4及以上--捕鱼",
 			condi = 407,
@@ -6685,7 +6929,7 @@ return {
 		[376]=
 		{
 			id = 376,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_xsfl_v3_cjj",
 			name = "限时福利v3及以下--冲金鸡",
 			condi = 408,
@@ -6697,7 +6941,7 @@ return {
 		[377]=
 		{
 			id = 377,
-			enable = 1,
+			enable = 0,
 			key = "actp_own_task_p_xsfl_v4v12_cjj",
 			name = "限时福利v4及以上--冲金鸡",
 			condi = 409,
