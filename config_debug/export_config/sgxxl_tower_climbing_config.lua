@@ -689,6 +689,7 @@ return {
 			text = "出现一次幸运时刻",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {-1,-1,-1,},
 		},
 		[70]=
 		{
@@ -898,6 +899,7 @@ return {
 			text = "出现2次幸运时刻",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x50",},
+			limit_num = {2,2,2,},
 		},
 		[91]=
 		{
@@ -1107,6 +1109,7 @@ return {
 			text = "出现2次幸运时刻",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {2,2,2,},
 		},
 		[112]=
 		{
@@ -1316,6 +1319,7 @@ return {
 			text = "出现2次幸运时刻",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x200",},
+			limit_num = {2,2,2,},
 		},
 		[133]=
 		{
@@ -1525,6 +1529,7 @@ return {
 			text = "出现3次幸运时刻",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x400",},
+			limit_num = {3,3,3,},
 		},
 		[154]=
 		{
@@ -1734,6 +1739,7 @@ return {
 			text = "出现3次幸运时刻",
 			award_img = {"ty_icon_flq5",},
 			award_txt = {"x1000",},
+			limit_num = {3,3,3,},
 		},
 	},
 }
