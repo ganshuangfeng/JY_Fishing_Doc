@@ -4578,7 +4578,7 @@ return {
 		[174]=
 		{
 			id = 174,
-			base_id = 20,
+			base_id = 63,
 			append_life_rate = {0,40},
 			life = 126,
 			shoot = 0.007937,
@@ -4594,7 +4594,7 @@ return {
 		[175]=
 		{
 			id = 175,
-			base_id = 22,
+			base_id = 64,
 			append_life_rate = {0,80},
 			life = 126,
 			shoot = 0.007937,
@@ -4610,7 +4610,7 @@ return {
 		[176]=
 		{
 			id = 176,
-			base_id = 23,
+			base_id = 65,
 			append_life_rate = {0,120},
 			life = 126,
 			shoot = 0.007937,
@@ -4626,7 +4626,7 @@ return {
 		[177]=
 		{
 			id = 177,
-			base_id = 25,
+			base_id = 66,
 			append_life_rate = {0,40},
 			life = 168,
 			shoot = 0.005952,
@@ -4642,7 +4642,7 @@ return {
 		[178]=
 		{
 			id = 178,
-			base_id = 26,
+			base_id = 67,
 			append_life_rate = {0,80},
 			life = 210,
 			shoot = 0.004762,
@@ -4658,7 +4658,7 @@ return {
 		[179]=
 		{
 			id = 179,
-			base_id = 27,
+			base_id = 68,
 			append_life_rate = {0,80},
 			life = 210,
 			shoot = 0.004762,
@@ -6031,6 +6031,60 @@ return {
 			life = 0,
 			shoot = 0,
 			rate = 0,
+			gd_award = 0,
+		},
+		[63]=
+		{
+			id = 63,
+			type = 1,
+			life = 120,
+			shoot = 0.008333,
+			rate = 120,
+			gd_award = 0,
+		},
+		[64]=
+		{
+			id = 64,
+			type = 1,
+			life = 120,
+			shoot = 0.008333,
+			rate = 120,
+			gd_award = 0,
+		},
+		[65]=
+		{
+			id = 65,
+			type = 1,
+			life = 120,
+			shoot = 0.008333,
+			rate = 120,
+			gd_award = 0,
+		},
+		[66]=
+		{
+			id = 66,
+			type = 1,
+			life = 160,
+			shoot = 0.006250,
+			rate = 160,
+			gd_award = 0,
+		},
+		[67]=
+		{
+			id = 67,
+			type = 1,
+			life = 100,
+			shoot = 0.010000,
+			rate = 100,
+			gd_award = 0,
+		},
+		[68]=
+		{
+			id = 68,
+			type = 1,
+			life = 100,
+			shoot = 0.010000,
+			rate = 100,
 			gd_award = 0,
 		},
 	},
