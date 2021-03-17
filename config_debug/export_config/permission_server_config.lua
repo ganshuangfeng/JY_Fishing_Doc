@@ -2427,7 +2427,7 @@ return {
 		{
 			key = "sgxxl_tower_box",
 			name = "水果消消乐爬塔宝箱限制",
-			condi = 24,
+			condi = 23,
 		},
 	},
 	act_permission=
