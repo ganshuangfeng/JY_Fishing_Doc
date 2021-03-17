@@ -2423,6 +2423,12 @@ return {
 			name = "街机捕鱼掉落权限",
 			condi = 410,
 		},
+		sgxxl_tower_box=
+		{
+			key = "sgxxl_tower_box",
+			name = "水果消消乐爬塔宝箱限制",
+			condi = 24,
+		},
 	},
 	act_permission=
 	{
