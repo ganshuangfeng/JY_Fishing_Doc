@@ -924,32 +924,32 @@ return {
 		[174]=
 		{
 			id = 174,
-			fish_id = 20,
+			fish_id = 63,
 		},
 		[175]=
 		{
 			id = 175,
-			fish_id = 22,
+			fish_id = 64,
 		},
 		[176]=
 		{
 			id = 176,
-			fish_id = 23,
+			fish_id = 65,
 		},
 		[177]=
 		{
 			id = 177,
-			fish_id = 25,
+			fish_id = 66,
 		},
 		[178]=
 		{
 			id = 178,
-			fish_id = 26,
+			fish_id = 67,
 		},
 		[179]=
 		{
 			id = 179,
-			fish_id = 27,
+			fish_id = 68,
 		},
 	},
 }
