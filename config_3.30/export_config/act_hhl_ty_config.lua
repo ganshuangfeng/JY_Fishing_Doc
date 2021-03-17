@@ -19,7 +19,7 @@ return {
 			line = 2,
 			condiy_key = "cpl_cjj",
 			change_type = 52,
-			cur_path = "act_007=8_hhl_",
+			cur_path = "act_008_hhl_",
 			item_key = "prop_fish_drop_act_0",
 			beginTime = 1617062400,
 			endTime = 1617638399,
