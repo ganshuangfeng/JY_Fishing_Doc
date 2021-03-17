@@ -469,7 +469,7 @@ return {
 		{
 			id = 1,
 			area = "all",
-			group_list = "40#74#110#11#93",
+			group_list = "40#74#110#130#93",
 		},
 	},
 	hqjb_config=
@@ -549,7 +549,6 @@ return {
 			id = 11,
 			parm = {"sys_act_base","weekly","enter"},
 			is_on_off = 1,
-			condi_key = "actp_no_cjj_gej_exchange",
 		},
 		[12]=
 		{
@@ -1265,6 +1264,13 @@ return {
 			parm = {"sgxxl_tower_climbing",},
 			is_on_off = 1,
 			condi_key = "cpl_cjj",
+		},
+		[130]=
+		{
+			id = 130,
+			parm = {"sys_act_base","weekly","enter"},
+			is_on_off = 1,
+			condi_key = "xrzx_newplayer",
 		},
 	},
 }
