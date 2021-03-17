@@ -5267,41 +5267,41 @@ return {
 		{
 			id = 1,
 			condition_id = 1,
-			condition_name = "item_id",
+			condition_name = "item_id_1",
 			condition_value = 1,
-			judge_type = 2,
+			judge_type = 3,
 		},
 		[2]=
 		{
 			id = 2,
 			condition_id = 2,
-			condition_name = "item_id",
-			condition_value = 2,
-			judge_type = 2,
+			condition_name = "item_id_2",
+			condition_value = 1,
+			judge_type = 3,
 		},
 		[3]=
 		{
 			id = 3,
 			condition_id = 3,
-			condition_name = "item_id",
-			condition_value = 3,
-			judge_type = 2,
+			condition_name = "item_id_3",
+			condition_value = 1,
+			judge_type = 3,
 		},
 		[4]=
 		{
 			id = 4,
 			condition_id = 4,
-			condition_name = "item_id",
-			condition_value = 4,
-			judge_type = 2,
+			condition_name = "item_id_4",
+			condition_value = 1,
+			judge_type = 3,
 		},
 		[5]=
 		{
 			id = 5,
 			condition_id = 5,
-			condition_name = "item_id",
-			condition_value = 5,
-			judge_type = 2,
+			condition_name = "item_id_5",
+			condition_value = 1,
+			judge_type = 3,
 		},
 		[6]=
 		{

@@ -9,6 +9,7 @@ return {
 			text = "累计消除10个苹果",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x500",},
+			limit_num = {10,10,10,},
 		},
 		[2]=
 		{
@@ -18,6 +19,7 @@ return {
 			text = "累计消除10个铃铛",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x500",},
+			limit_num = {10,10,10,},
 		},
 		[3]=
 		{
@@ -27,6 +29,7 @@ return {
 			text = "累计消除10个西瓜",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x500",},
+			limit_num = {10,10,10,},
 		},
 		[4]=
 		{
@@ -36,6 +39,7 @@ return {
 			text = "累计消除10个7",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x500",},
+			limit_num = {10,10,10,},
 		},
 		[5]=
 		{
@@ -45,6 +49,7 @@ return {
 			text = "累计消除10个BAR",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1000",},
+			limit_num = {10,10,10,},
 		},
 		[6]=
 		{
@@ -54,6 +59,7 @@ return {
 			text = "累计消除20个苹果",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x500",},
+			limit_num = {20,20,20,},
 		},
 		[7]=
 		{
@@ -63,6 +69,7 @@ return {
 			text = "累计消除20个铃铛",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x500",},
+			limit_num = {20,20,20,},
 		},
 		[8]=
 		{
@@ -72,6 +79,7 @@ return {
 			text = "累计消除20个西瓜",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x500",},
+			limit_num = {20,20,20,},
 		},
 		[9]=
 		{
@@ -81,6 +89,7 @@ return {
 			text = "累计消除20个7",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x500",},
+			limit_num = {20,20,20,},
 		},
 		[10]=
 		{
@@ -90,6 +99,7 @@ return {
 			text = "累计消除20个BAR",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1000",},
+			limit_num = {20,20,20,},
 		},
 		[11]=
 		{
@@ -99,6 +109,7 @@ return {
 			text = "累计消除30个苹果",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1500",},
+			limit_num = {30,30,30,},
 		},
 		[12]=
 		{
@@ -108,6 +119,7 @@ return {
 			text = "累计消除30个铃铛",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1500",},
+			limit_num = {30,30,30,},
 		},
 		[13]=
 		{
@@ -117,6 +129,7 @@ return {
 			text = "累计消除30个西瓜",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1500",},
+			limit_num = {30,30,30,},
 		},
 		[14]=
 		{
@@ -126,6 +139,7 @@ return {
 			text = "累计消除30个7",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1500",},
+			limit_num = {30,30,30,},
 		},
 		[15]=
 		{
@@ -135,6 +149,7 @@ return {
 			text = "累计消除30个BAR",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1500",},
+			limit_num = {30,30,30,},
 		},
 		[16]=
 		{
@@ -144,6 +159,7 @@ return {
 			text = "累计消除15个苹果+15个铃铛",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1500",},
+			limit_num = {15,-1,15,},
 		},
 		[17]=
 		{
@@ -153,6 +169,7 @@ return {
 			text = "累计消除15个苹果+15个西瓜",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1500",},
+			limit_num = {15,-1,15,},
 		},
 		[18]=
 		{
@@ -162,6 +179,7 @@ return {
 			text = "累计消除15个苹果+15个7",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1500",},
+			limit_num = {15,-1,15,},
 		},
 		[19]=
 		{
@@ -171,6 +189,7 @@ return {
 			text = "累计消除15个苹果+15个BAR",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1500",},
+			limit_num = {15,-1,15,},
 		},
 		[20]=
 		{
@@ -180,6 +199,7 @@ return {
 			text = "累计消除15个铃铛+15个西瓜",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1500",},
+			limit_num = {15,-1,15,},
 		},
 		[21]=
 		{
@@ -189,6 +209,7 @@ return {
 			text = "累计消除15个铃铛+15个7",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1500",},
+			limit_num = {15,-1,15,},
 		},
 		[22]=
 		{
@@ -198,6 +219,7 @@ return {
 			text = "累计消除15个铃铛+15个BAR",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1500",},
+			limit_num = {15,-1,15,},
 		},
 		[23]=
 		{
@@ -207,6 +229,7 @@ return {
 			text = "累计消除15个西瓜+15个7",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1500",},
+			limit_num = {15,-1,15,},
 		},
 		[24]=
 		{
@@ -216,6 +239,7 @@ return {
 			text = "累计消除15个西瓜+15个BAR",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1500",},
+			limit_num = {15,-1,15,},
 		},
 		[25]=
 		{
@@ -225,6 +249,7 @@ return {
 			text = "累计消除15个7+15个BAR",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x1500",},
+			limit_num = {15,-1,15,},
 		},
 		[26]=
 		{
@@ -234,6 +259,7 @@ return {
 			text = "单局消除7个以上苹果",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x5000",},
+			limit_num = {7,7,7,},
 		},
 		[27]=
 		{
@@ -243,6 +269,7 @@ return {
 			text = "单局消除6个以上铃铛",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x5000",},
+			limit_num = {6,6,6,},
 		},
 		[28]=
 		{
@@ -252,6 +279,7 @@ return {
 			text = "单局消除5个以上西瓜",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x5000",},
+			limit_num = {5,5,5,},
 		},
 		[29]=
 		{
@@ -261,6 +289,7 @@ return {
 			text = "单局消除5个以上7",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x5000",},
+			limit_num = {5,5,5,},
 		},
 		[30]=
 		{
@@ -270,6 +299,7 @@ return {
 			text = "累计消除50个苹果",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x4",},
+			limit_num = {50,50,50,},
 		},
 		[31]=
 		{
@@ -279,6 +309,7 @@ return {
 			text = "累计消除50个铃铛",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x4",},
+			limit_num = {50,50,50,},
 		},
 		[32]=
 		{
@@ -288,6 +319,7 @@ return {
 			text = "累计消除50个西瓜",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x4",},
+			limit_num = {50,50,50,},
 		},
 		[33]=
 		{
@@ -297,6 +329,7 @@ return {
 			text = "累计消除50个7",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x4",},
+			limit_num = {50,50,50,},
 		},
 		[34]=
 		{
@@ -306,6 +339,7 @@ return {
 			text = "累计消除50个BAR",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x4",},
+			limit_num = {50,50,50,},
 		},
 		[35]=
 		{
@@ -315,6 +349,7 @@ return {
 			text = "累计消除25个苹果+25个铃铛",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x4",},
+			limit_num = {25,-1,25},
 		},
 		[36]=
 		{
@@ -324,6 +359,7 @@ return {
 			text = "累计消除25个苹果+25个西瓜",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x4",},
+			limit_num = {25,-1,25},
 		},
 		[37]=
 		{
@@ -333,6 +369,7 @@ return {
 			text = "累计消除25个苹果+25个7",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x4",},
+			limit_num = {25,-1,25},
 		},
 		[38]=
 		{
@@ -342,6 +379,7 @@ return {
 			text = "累计消除25个苹果+25个BAR",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x4",},
+			limit_num = {25,-1,25},
 		},
 		[39]=
 		{
@@ -351,6 +389,7 @@ return {
 			text = "累计消除25个铃铛+25个西瓜",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x4",},
+			limit_num = {25,-1,25},
 		},
 		[40]=
 		{
@@ -360,6 +399,7 @@ return {
 			text = "累计消除25个铃铛+25个7",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x4",},
+			limit_num = {25,-1,25},
 		},
 		[41]=
 		{
@@ -369,6 +409,7 @@ return {
 			text = "累计消除25个铃铛+25个BAR",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x4",},
+			limit_num = {25,-1,25},
 		},
 		[42]=
 		{
@@ -378,6 +419,7 @@ return {
 			text = "累计消除25个西瓜+25个7",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x4",},
+			limit_num = {25,-1,25},
 		},
 		[43]=
 		{
@@ -387,6 +429,7 @@ return {
 			text = "累计消除25个西瓜+25个BAR",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x4",},
+			limit_num = {25,-1,25},
 		},
 		[44]=
 		{
@@ -396,6 +439,7 @@ return {
 			text = "累计消除25个7+25个BAR",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x4",},
+			limit_num = {25,-1,25},
 		},
 		[45]=
 		{
@@ -405,6 +449,7 @@ return {
 			text = "单局消除9个以上苹果",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x10",},
+			limit_num = {9,9,9,},
 		},
 		[46]=
 		{
@@ -414,6 +459,7 @@ return {
 			text = "单局消除8个以上铃铛",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x10",},
+			limit_num = {8,8,8,},
 		},
 		[47]=
 		{
@@ -423,6 +469,7 @@ return {
 			text = "单局消除7个以上西瓜",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x10",},
+			limit_num = {7,7,7,},
 		},
 		[48]=
 		{
@@ -432,6 +479,7 @@ return {
 			text = "单局消除7个以上7",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x10",},
+			limit_num = {7,7,7,},
 		},
 		[49]=
 		{
@@ -441,6 +489,7 @@ return {
 			text = "累计消除100个苹果",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x8",},
+			limit_num = {100,100,100,},
 		},
 		[50]=
 		{
@@ -450,6 +499,7 @@ return {
 			text = "累计消除100个铃铛",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x8",},
+			limit_num = {100,100,100,},
 		},
 		[51]=
 		{
@@ -459,6 +509,7 @@ return {
 			text = "累计消除100个西瓜",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x8",},
+			limit_num = {100,100,100,},
 		},
 		[52]=
 		{
@@ -468,6 +519,7 @@ return {
 			text = "累计消除100个7",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x8",},
+			limit_num = {100,100,100,},
 		},
 		[53]=
 		{
@@ -477,6 +529,7 @@ return {
 			text = "累计消除100个BAR",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x8",},
+			limit_num = {100,100,100,},
 		},
 		[54]=
 		{
@@ -486,6 +539,7 @@ return {
 			text = "累计消除50个苹果+50个铃铛",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x8",},
+			limit_num = {50,-1,50},
 		},
 		[55]=
 		{
@@ -495,6 +549,7 @@ return {
 			text = "累计消除50个苹果+50个西瓜",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x8",},
+			limit_num = {50,-1,50},
 		},
 		[56]=
 		{
@@ -504,6 +559,7 @@ return {
 			text = "累计消除50个苹果+50个7",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x8",},
+			limit_num = {50,-1,50},
 		},
 		[57]=
 		{
@@ -513,6 +569,7 @@ return {
 			text = "累计消除50个苹果+50个BAR",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x8",},
+			limit_num = {50,-1,50},
 		},
 		[58]=
 		{
@@ -522,6 +579,7 @@ return {
 			text = "累计消除50个铃铛+50个西瓜",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x8",},
+			limit_num = {50,-1,50},
 		},
 		[59]=
 		{
@@ -531,6 +589,7 @@ return {
 			text = "累计消除50个铃铛+50个7",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x8",},
+			limit_num = {50,-1,50},
 		},
 		[60]=
 		{
@@ -540,6 +599,7 @@ return {
 			text = "累计消除50个铃铛+50个BAR",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x8",},
+			limit_num = {50,-1,50},
 		},
 		[61]=
 		{
@@ -549,6 +609,7 @@ return {
 			text = "累计消除50个西瓜+50个7",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x8",},
+			limit_num = {50,-1,50},
 		},
 		[62]=
 		{
@@ -558,6 +619,7 @@ return {
 			text = "累计消除50个西瓜+50个BAR",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x8",},
+			limit_num = {50,-1,50},
 		},
 		[63]=
 		{
@@ -567,6 +629,7 @@ return {
 			text = "累计消除50个7+50个BAR",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x8",},
+			limit_num = {50,-1,50},
 		},
 		[64]=
 		{
@@ -576,6 +639,7 @@ return {
 			text = "单局消除10个以上苹果",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {10,10,10,},
 		},
 		[65]=
 		{
@@ -585,6 +649,7 @@ return {
 			text = "单局消除9个以上铃铛",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {9,9,9,},
 		},
 		[66]=
 		{
@@ -594,6 +659,7 @@ return {
 			text = "单局消除8个以上西瓜",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {8,8,8,},
 		},
 		[67]=
 		{
@@ -603,6 +669,7 @@ return {
 			text = "单局消除5个以上7",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {5,5,5,},
 		},
 		[68]=
 		{
@@ -612,6 +679,7 @@ return {
 			text = "单局消除4个以上BAR",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {4,4,4,},
 		},
 		[69]=
 		{
@@ -630,6 +698,7 @@ return {
 			text = "累计消除150个苹果",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {150,150,150,},
 		},
 		[71]=
 		{
@@ -639,6 +708,7 @@ return {
 			text = "累计消除150个铃铛",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {150,150,150,},
 		},
 		[72]=
 		{
@@ -648,6 +718,7 @@ return {
 			text = "累计消除150个西瓜",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {150,150,150,},
 		},
 		[73]=
 		{
@@ -657,6 +728,7 @@ return {
 			text = "累计消除150个7",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {150,150,150,},
 		},
 		[74]=
 		{
@@ -666,6 +738,7 @@ return {
 			text = "累计消除150个BAR",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {150,150,150,},
 		},
 		[75]=
 		{
@@ -675,6 +748,7 @@ return {
 			text = "累计消除75个苹果+75个铃铛",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {75,-1,75,},
 		},
 		[76]=
 		{
@@ -684,6 +758,7 @@ return {
 			text = "累计消除75个苹果+75个西瓜",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {75,-1,75,},
 		},
 		[77]=
 		{
@@ -693,6 +768,7 @@ return {
 			text = "累计消除75个苹果+75个7",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {75,-1,75,},
 		},
 		[78]=
 		{
@@ -702,6 +778,7 @@ return {
 			text = "累计消除75个苹果+75个BAR",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {75,-1,75,},
 		},
 		[79]=
 		{
@@ -711,6 +788,7 @@ return {
 			text = "累计消除75个铃铛+75个西瓜",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {75,-1,75,},
 		},
 		[80]=
 		{
@@ -720,6 +798,7 @@ return {
 			text = "累计消除75个铃铛+75个7",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {75,-1,75,},
 		},
 		[81]=
 		{
@@ -729,6 +808,7 @@ return {
 			text = "累计消除75个铃铛+75个BAR",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {75,-1,75,},
 		},
 		[82]=
 		{
@@ -738,6 +818,7 @@ return {
 			text = "累计消除75个西瓜+75个7",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x20",},
+			limit_num = {75,-1,75,},
 		},
 		[83]=
 		{
@@ -747,6 +828,7 @@ return {
 			text = "累计消除75个西瓜+75个BAR",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x20",},
+			limit_num = {75,-1,75,},
 		},
 		[84]=
 		{
@@ -756,6 +838,7 @@ return {
 			text = "累计消除75个7+75个BAR",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x20",},
+			limit_num = {75,-1,75,},
 		},
 		[85]=
 		{
@@ -765,6 +848,7 @@ return {
 			text = "单局消除11个以上苹果",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x50",},
+			limit_num = {11,11,11,},
 		},
 		[86]=
 		{
@@ -774,6 +858,7 @@ return {
 			text = "单局消除10个以上铃铛",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x50",},
+			limit_num = {10,10,10,},
 		},
 		[87]=
 		{
@@ -783,6 +868,7 @@ return {
 			text = "单局消除9个以上西瓜",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x50",},
+			limit_num = {9,9,9,},
 		},
 		[88]=
 		{
@@ -792,6 +878,7 @@ return {
 			text = "单局消除9个以上7",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x50",},
+			limit_num = {9,9,9,},
 		},
 		[89]=
 		{
@@ -801,6 +888,7 @@ return {
 			text = "单局消除5个以上BAR",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x50",},
+			limit_num = {5,5,5,},
 		},
 		[90]=
 		{
@@ -819,6 +907,7 @@ return {
 			text = "累计消除180个苹果",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x40",},
+			limit_num = {180,180,180,},
 		},
 		[92]=
 		{
@@ -828,6 +917,7 @@ return {
 			text = "累计消除180个铃铛",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x40",},
+			limit_num = {180,180,180,},
 		},
 		[93]=
 		{
@@ -837,6 +927,7 @@ return {
 			text = "累计消除180个西瓜",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x40",},
+			limit_num = {180,180,180,},
 		},
 		[94]=
 		{
@@ -846,6 +937,7 @@ return {
 			text = "累计消除180个7",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x40",},
+			limit_num = {180,180,180,},
 		},
 		[95]=
 		{
@@ -855,6 +947,7 @@ return {
 			text = "累计消除180个BAR",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x40",},
+			limit_num = {180,180,180,},
 		},
 		[96]=
 		{
@@ -864,6 +957,7 @@ return {
 			text = "累计消除90个苹果+90个铃铛",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x40",},
+			limit_num = {90,-1,90,},
 		},
 		[97]=
 		{
@@ -873,6 +967,7 @@ return {
 			text = "累计消除90个苹果+90个西瓜",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x40",},
+			limit_num = {90,-1,90,},
 		},
 		[98]=
 		{
@@ -882,6 +977,7 @@ return {
 			text = "累计消除90个苹果+90个7",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x40",},
+			limit_num = {90,-1,90,},
 		},
 		[99]=
 		{
@@ -891,6 +987,7 @@ return {
 			text = "累计消除90个苹果+90个BAR",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x40",},
+			limit_num = {90,-1,90,},
 		},
 		[100]=
 		{
@@ -900,6 +997,7 @@ return {
 			text = "累计消除90个铃铛+90个西瓜",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x40",},
+			limit_num = {90,-1,90,},
 		},
 		[101]=
 		{
@@ -909,6 +1007,7 @@ return {
 			text = "累计消除90个铃铛+90个7",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x40",},
+			limit_num = {90,-1,90,},
 		},
 		[102]=
 		{
@@ -918,6 +1017,7 @@ return {
 			text = "累计消除90个铃铛+90个BAR",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x40",},
+			limit_num = {90,-1,90,},
 		},
 		[103]=
 		{
@@ -927,6 +1027,7 @@ return {
 			text = "累计消除90个西瓜+90个7",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x40",},
+			limit_num = {90,-1,90,},
 		},
 		[104]=
 		{
@@ -936,6 +1037,7 @@ return {
 			text = "累计消除90个西瓜+90个BAR",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x40",},
+			limit_num = {90,-1,90,},
 		},
 		[105]=
 		{
@@ -945,6 +1047,7 @@ return {
 			text = "累计消除90个7+90个BAR",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x40",},
+			limit_num = {90,-1,90,},
 		},
 		[106]=
 		{
@@ -954,6 +1057,7 @@ return {
 			text = "单局消除12个以上苹果",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {12,12,12,},
 		},
 		[107]=
 		{
@@ -963,6 +1067,7 @@ return {
 			text = "单局消除11个以上铃铛",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {11,11,11,},
 		},
 		[108]=
 		{
@@ -972,6 +1077,7 @@ return {
 			text = "单局消除10个以上西瓜",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {10,10,10,},
 		},
 		[109]=
 		{
@@ -981,6 +1087,7 @@ return {
 			text = "单局消除10个以上7",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {10,10,10,},
 		},
 		[110]=
 		{
@@ -990,6 +1097,7 @@ return {
 			text = "单局消除6个以上BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {6,6,6,},
 		},
 		[111]=
 		{
@@ -1008,6 +1116,7 @@ return {
 			text = "累计消除200个苹果",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x70",},
+			limit_num = {200,200,200,},
 		},
 		[113]=
 		{
@@ -1017,6 +1126,7 @@ return {
 			text = "累计消除200个铃铛",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x70",},
+			limit_num = {200,200,200,},
 		},
 		[114]=
 		{
@@ -1026,6 +1136,7 @@ return {
 			text = "累计消除200个西瓜",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x70",},
+			limit_num = {200,200,200,},
 		},
 		[115]=
 		{
@@ -1035,6 +1146,7 @@ return {
 			text = "累计消除200个7",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x70",},
+			limit_num = {200,200,200,},
 		},
 		[116]=
 		{
@@ -1044,6 +1156,7 @@ return {
 			text = "累计消除200个BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x70",},
+			limit_num = {200,200,200,},
 		},
 		[117]=
 		{
@@ -1053,6 +1166,7 @@ return {
 			text = "累计消除100个苹果+100个铃铛",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x70",},
+			limit_num = {100,-1,100,},
 		},
 		[118]=
 		{
@@ -1062,6 +1176,7 @@ return {
 			text = "累计消除100个苹果+100个西瓜",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x70",},
+			limit_num = {100,-1,100,},
 		},
 		[119]=
 		{
@@ -1071,6 +1186,7 @@ return {
 			text = "累计消除100个苹果+100个7",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x70",},
+			limit_num = {100,-1,100,},
 		},
 		[120]=
 		{
@@ -1080,6 +1196,7 @@ return {
 			text = "累计消除100个苹果+100个BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x70",},
+			limit_num = {100,-1,100,},
 		},
 		[121]=
 		{
@@ -1089,6 +1206,7 @@ return {
 			text = "累计消除100个铃铛+100个西瓜",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x70",},
+			limit_num = {100,-1,100,},
 		},
 		[122]=
 		{
@@ -1098,6 +1216,7 @@ return {
 			text = "累计消除100个铃铛+100个7",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x70",},
+			limit_num = {100,-1,100,},
 		},
 		[123]=
 		{
@@ -1107,6 +1226,7 @@ return {
 			text = "累计消除100个铃铛+100个BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x70",},
+			limit_num = {100,-1,100,},
 		},
 		[124]=
 		{
@@ -1116,6 +1236,7 @@ return {
 			text = "累计消除100个西瓜+100个7",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x70",},
+			limit_num = {100,-1,100,},
 		},
 		[125]=
 		{
@@ -1125,6 +1246,7 @@ return {
 			text = "累计消除100个西瓜+100个BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x70",},
+			limit_num = {100,-1,100,},
 		},
 		[126]=
 		{
@@ -1134,6 +1256,7 @@ return {
 			text = "累计消除100个7+100个BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x70",},
+			limit_num = {100,-1,100,},
 		},
 		[127]=
 		{
@@ -1143,6 +1266,7 @@ return {
 			text = "单局消除13个以上苹果",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x200",},
+			limit_num = {13,13,13,},
 		},
 		[128]=
 		{
@@ -1152,6 +1276,7 @@ return {
 			text = "单局消除12个以上铃铛",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x200",},
+			limit_num = {12,12,12,},
 		},
 		[129]=
 		{
@@ -1161,6 +1286,7 @@ return {
 			text = "单局消除11个以上西瓜",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x200",},
+			limit_num = {11,11,11,},
 		},
 		[130]=
 		{
@@ -1170,6 +1296,7 @@ return {
 			text = "单局消除11个以上7",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x200",},
+			limit_num = {11,11,11,},
 		},
 		[131]=
 		{
@@ -1179,6 +1306,7 @@ return {
 			text = "单局消除6个以上BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x200",},
+			limit_num = {6,6,6,},
 		},
 		[132]=
 		{
@@ -1197,6 +1325,7 @@ return {
 			text = "累计消除250个苹果",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {250,250,250,},
 		},
 		[134]=
 		{
@@ -1206,6 +1335,7 @@ return {
 			text = "累计消除250个铃铛",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {250,250,250,},
 		},
 		[135]=
 		{
@@ -1215,6 +1345,7 @@ return {
 			text = "累计消除250个西瓜",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {250,250,250,},
 		},
 		[136]=
 		{
@@ -1224,6 +1355,7 @@ return {
 			text = "累计消除250个7",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {250,250,250,},
 		},
 		[137]=
 		{
@@ -1233,6 +1365,7 @@ return {
 			text = "累计消除250个BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {250,250,250,},
 		},
 		[138]=
 		{
@@ -1242,6 +1375,7 @@ return {
 			text = "累计消除125个苹果+125个铃铛",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {125,-1,125,},
 		},
 		[139]=
 		{
@@ -1251,6 +1385,7 @@ return {
 			text = "累计消除125个苹果+125个西瓜",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {125,-1,125,},
 		},
 		[140]=
 		{
@@ -1260,6 +1395,7 @@ return {
 			text = "累计消除125个苹果+125个7",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {125,-1,125,},
 		},
 		[141]=
 		{
@@ -1269,6 +1405,7 @@ return {
 			text = "累计消除125个苹果+125个BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {125,-1,125,},
 		},
 		[142]=
 		{
@@ -1278,6 +1415,7 @@ return {
 			text = "累计消除125个铃铛+125个西瓜",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {125,-1,125,},
 		},
 		[143]=
 		{
@@ -1287,6 +1425,7 @@ return {
 			text = "累计消除125个铃铛+125个7",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {125,-1,125,},
 		},
 		[144]=
 		{
@@ -1296,6 +1435,7 @@ return {
 			text = "累计消除125个铃铛+125个BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {125,-1,125,},
 		},
 		[145]=
 		{
@@ -1305,6 +1445,7 @@ return {
 			text = "累计消除125个西瓜+125个7",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {125,-1,125,},
 		},
 		[146]=
 		{
@@ -1314,6 +1455,7 @@ return {
 			text = "累计消除125个西瓜+125个BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {125,-1,125,},
 		},
 		[147]=
 		{
@@ -1323,6 +1465,7 @@ return {
 			text = "累计消除125个7+125个BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x100",},
+			limit_num = {125,-1,125,},
 		},
 		[148]=
 		{
@@ -1332,6 +1475,7 @@ return {
 			text = "单局消除14个以上苹果",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x400",},
+			limit_num = {14,14,14,},
 		},
 		[149]=
 		{
@@ -1341,6 +1485,7 @@ return {
 			text = "单局消除13个以上铃铛",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x400",},
+			limit_num = {13,13,13,},
 		},
 		[150]=
 		{
@@ -1350,6 +1495,7 @@ return {
 			text = "单局消除12个以上西瓜",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x400",},
+			limit_num = {12,12,12,},
 		},
 		[151]=
 		{
@@ -1359,6 +1505,7 @@ return {
 			text = "单局消除12个以上7",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x400",},
+			limit_num = {12,12,12,},
 		},
 		[152]=
 		{
@@ -1368,6 +1515,7 @@ return {
 			text = "单局消除6个以上BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x400",},
+			limit_num = {6,6,6,},
 		},
 		[153]=
 		{
@@ -1386,6 +1534,7 @@ return {
 			text = "累计消除300个苹果",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x150",},
+			limit_num = {300,300,300,},
 		},
 		[155]=
 		{
@@ -1395,6 +1544,7 @@ return {
 			text = "累计消除300个铃铛",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x150",},
+			limit_num = {300,300,300,},
 		},
 		[156]=
 		{
@@ -1404,6 +1554,7 @@ return {
 			text = "累计消除300个西瓜",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x150",},
+			limit_num = {300,300,300,},
 		},
 		[157]=
 		{
@@ -1413,6 +1564,7 @@ return {
 			text = "累计消除300个7",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x150",},
+			limit_num = {300,300,300,},
 		},
 		[158]=
 		{
@@ -1422,6 +1574,7 @@ return {
 			text = "累计消除300个BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x150",},
+			limit_num = {300,300,300,},
 		},
 		[159]=
 		{
@@ -1431,6 +1584,7 @@ return {
 			text = "累计消除150个苹果+150个铃铛",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x150",},
+			limit_num = {150,-1,150,},
 		},
 		[160]=
 		{
@@ -1440,6 +1594,7 @@ return {
 			text = "累计消除150个苹果+150个西瓜",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x150",},
+			limit_num = {150,-1,150,},
 		},
 		[161]=
 		{
@@ -1449,6 +1604,7 @@ return {
 			text = "累计消除150个苹果+150个7",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x150",},
+			limit_num = {150,-1,150,},
 		},
 		[162]=
 		{
@@ -1458,6 +1614,7 @@ return {
 			text = "累计消除150个苹果+150个BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x150",},
+			limit_num = {150,-1,150,},
 		},
 		[163]=
 		{
@@ -1467,6 +1624,7 @@ return {
 			text = "累计消除150个铃铛+150个西瓜",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x150",},
+			limit_num = {150,-1,150,},
 		},
 		[164]=
 		{
@@ -1476,6 +1634,7 @@ return {
 			text = "累计消除150个铃铛+150个7",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x150",},
+			limit_num = {150,-1,150,},
 		},
 		[165]=
 		{
@@ -1485,6 +1644,7 @@ return {
 			text = "累计消除150个铃铛+150个BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x150",},
+			limit_num = {150,-1,150,},
 		},
 		[166]=
 		{
@@ -1494,6 +1654,7 @@ return {
 			text = "累计消除150个西瓜+150个7",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x150",},
+			limit_num = {150,-1,150,},
 		},
 		[167]=
 		{
@@ -1503,6 +1664,7 @@ return {
 			text = "累计消除150个西瓜+150个BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x150",},
+			limit_num = {150,-1,150,},
 		},
 		[168]=
 		{
@@ -1512,6 +1674,7 @@ return {
 			text = "累计消除150个7+150个BAR",
 			award_img = {"ty_icon_flq4",},
 			award_txt = {"x150",},
+			limit_num = {150,-1,150,},
 		},
 		[169]=
 		{
@@ -1521,6 +1684,7 @@ return {
 			text = "单局消除15个以上苹果",
 			award_img = {"ty_icon_flq5",},
 			award_txt = {"x1000",},
+			limit_num = {15,15,15,},
 		},
 		[170]=
 		{
@@ -1530,6 +1694,7 @@ return {
 			text = "单局消除14个以上铃铛",
 			award_img = {"ty_icon_flq5",},
 			award_txt = {"x1000",},
+			limit_num = {14,14,14,},
 		},
 		[171]=
 		{
@@ -1539,6 +1704,7 @@ return {
 			text = "单局消除13个以上西瓜",
 			award_img = {"ty_icon_flq5",},
 			award_txt = {"x1000",},
+			limit_num = {13,13,13,},
 		},
 		[172]=
 		{
@@ -1548,6 +1714,7 @@ return {
 			text = "单局消除13个以上7",
 			award_img = {"ty_icon_flq5",},
 			award_txt = {"x1000",},
+			limit_num = {13,13,13,},
 		},
 		[173]=
 		{
@@ -1557,6 +1724,7 @@ return {
 			text = "单局消除6个以上BAR",
 			award_img = {"ty_icon_flq5",},
 			award_txt = {"x1000",},
+			limit_num = {6,6,6,},
 		},
 		[174]=
 		{

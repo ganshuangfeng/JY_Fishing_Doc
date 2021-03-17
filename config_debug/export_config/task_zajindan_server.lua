@@ -5786,7 +5786,7 @@ return {
 		[1000004]=
 		{
 			id = 1000004,
-			enable = 1,
+			enable = 0,
 			name = "青铜转盘",
 			own_type = "newplayer_xrcdj1",
 			task_enum = "common",
@@ -5800,7 +5800,7 @@ return {
 		[1000005]=
 		{
 			id = 1000005,
-			enable = 1,
+			enable = 0,
 			name = "青铜转盘",
 			own_type = "newplayer_xrcdj1",
 			task_enum = "not_open_task",
@@ -5814,7 +5814,7 @@ return {
 		[1000006]=
 		{
 			id = 1000006,
-			enable = 1,
+			enable = 0,
 			name = "白银转盘",
 			own_type = "newplayer_xrcdj2",
 			task_enum = "common",
@@ -5828,7 +5828,7 @@ return {
 		[1000007]=
 		{
 			id = 1000007,
-			enable = 1,
+			enable = 0,
 			name = "白银转盘",
 			own_type = "newplayer_xrcdj2",
 			task_enum = "not_open_task",
@@ -5842,7 +5842,7 @@ return {
 		[1000008]=
 		{
 			id = 1000008,
-			enable = 1,
+			enable = 0,
 			name = "白银转盘",
 			own_type = "newplayer_xrcdj2",
 			task_enum = "not_open_task",
@@ -5856,7 +5856,7 @@ return {
 		[1000009]=
 		{
 			id = 1000009,
-			enable = 1,
+			enable = 0,
 			name = "黄金转盘",
 			own_type = "newplayer_xrcdj3",
 			task_enum = "common",
@@ -5870,7 +5870,7 @@ return {
 		[1000010]=
 		{
 			id = 1000010,
-			enable = 1,
+			enable = 0,
 			name = "黄金转盘",
 			own_type = "newplayer_xrcdj3",
 			task_enum = "not_open_task",
@@ -5884,7 +5884,7 @@ return {
 		[1000011]=
 		{
 			id = 1000011,
-			enable = 1,
+			enable = 0,
 			name = "黄金转盘",
 			own_type = "newplayer_xrcdj3",
 			task_enum = "not_open_task",
@@ -5898,7 +5898,7 @@ return {
 		[1000012]=
 		{
 			id = 1000012,
-			enable = 1,
+			enable = 0,
 			name = "黄金转盘",
 			own_type = "newplayer_xrcdj3",
 			task_enum = "not_open_task",
@@ -5912,7 +5912,7 @@ return {
 		[1000013]=
 		{
 			id = 1000013,
-			enable = 1,
+			enable = 0,
 			name = "黄金转盘",
 			own_type = "newplayer_xrcdj3",
 			task_enum = "not_open_task",
