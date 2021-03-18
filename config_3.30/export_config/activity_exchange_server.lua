@@ -4134,7 +4134,7 @@ return {
 			award_cfg_id = 51,
 			award_id = 5,
 			permission_key = "actp_no_cjj_gej_exchange",
-			asset_type = {"prop_tiny_game_coin",},
+			asset_type = {"fish_coin",},
 			asset_count = {5000000,},
 			use_num = {18000,},
 		},
