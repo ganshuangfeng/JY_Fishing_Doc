@@ -1323,7 +1323,7 @@ return {
 		[96]=
 		{
 			id = 96,
-			enable = 1,
+			enable = 0,
 			name = "消消乐闯关层数任务",
 			own_type = "normal",
 			task_enum = "xiaoxiaole_tower_week_task",
