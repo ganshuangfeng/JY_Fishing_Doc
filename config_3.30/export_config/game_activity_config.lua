@@ -502,7 +502,7 @@ return {
 		{
 			line = 31,
 			act_type = "weekly",
-			ID = 29,
+			ID = 31,
 			title = "连购返利",
 			order = 1,
 			is_on_off = 1,
@@ -519,7 +519,7 @@ return {
 		{
 			line = 32,
 			act_type = "weekly",
-			ID = 30,
+			ID = 32,
 			title = "连购返利",
 			order = 1,
 			is_on_off = 1,
