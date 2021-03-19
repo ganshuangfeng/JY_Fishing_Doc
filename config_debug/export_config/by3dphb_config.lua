@@ -64,7 +64,7 @@ return {
 			panelName = "BY3DPHBRightPanel_sgxxlb",
 			itemName = "BY3DPHBRightItemBase_sgxxlb",
 			order = 7,
-			is_on = 1,
+			is_on = 0,
 			condition = "cpl_cjj",
 		},
 	},
