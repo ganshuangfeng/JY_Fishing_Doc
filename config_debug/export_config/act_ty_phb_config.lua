@@ -64,6 +64,7 @@ return {
 			ID = 8,
 			award = 50000,
 			limit = {1,1,},
+			need_num = 3000000,
 			condition = "礼盒数达到300万",
 		},
 		[9]=
@@ -71,6 +72,7 @@ return {
 			ID = 9,
 			award = 15000,
 			limit = {2,2},
+			need_num = 1800000,
 			condition = "礼盒数达到180万",
 		},
 		[10]=
@@ -78,6 +80,7 @@ return {
 			ID = 10,
 			award = 5000,
 			limit = {3,3,},
+			need_num = 900000,
 			condition = "礼盒数达到90万",
 		},
 		[11]=
@@ -85,6 +88,7 @@ return {
 			ID = 11,
 			award = 1500,
 			limit = {4,6,},
+			need_num = 450000,
 			condition = "礼盒数达到45万",
 		},
 		[12]=
@@ -92,6 +96,7 @@ return {
 			ID = 12,
 			award = 1000,
 			limit = {7,10,},
+			need_num = 300000,
 			condition = "礼盒数达到30万",
 		},
 		[13]=
@@ -99,6 +104,7 @@ return {
 			ID = 13,
 			award = 500,
 			limit = {11,15,},
+			need_num = 180000,
 			condition = "礼盒数达到18万",
 		},
 		[14]=
@@ -106,6 +112,7 @@ return {
 			ID = 14,
 			award = 240,
 			limit = {16,20,},
+			need_num = 90000,
 			condition = "礼盒数达到9万",
 		},
 	},
