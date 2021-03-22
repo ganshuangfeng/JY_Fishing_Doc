@@ -8522,7 +8522,7 @@ return {
 			var = "share_condition",
 			value = "byam_official",
 			judge = 2,
-			group = 6,
+			group = 7,
 			error_desc = "是3D捕鱼CPS",
 		},
 		[182]=
