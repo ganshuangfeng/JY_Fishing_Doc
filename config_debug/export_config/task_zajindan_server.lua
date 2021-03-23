@@ -12404,7 +12404,7 @@ return {
 		{
 			id = 1000459,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v3_normal",
 			task_enum = "common",
 			process_id = 21817,
@@ -12419,7 +12419,7 @@ return {
 		{
 			id = 1000460,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v3_normal",
 			task_enum = "common",
 			process_id = 21818,
@@ -12434,7 +12434,7 @@ return {
 		{
 			id = 1000461,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v3_normal",
 			task_enum = "common",
 			process_id = 21819,
@@ -12449,7 +12449,7 @@ return {
 		{
 			id = 1000462,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v3_normal",
 			task_enum = "common",
 			process_id = 21820,
@@ -12464,7 +12464,7 @@ return {
 		{
 			id = 1000463,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v4v12_normal",
 			task_enum = "common",
 			process_id = 21821,
@@ -12479,7 +12479,7 @@ return {
 		{
 			id = 1000464,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v4v12_normal",
 			task_enum = "common",
 			process_id = 21822,
@@ -12494,7 +12494,7 @@ return {
 		{
 			id = 1000465,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v4v12_normal",
 			task_enum = "common",
 			process_id = 21823,
@@ -12509,7 +12509,7 @@ return {
 		{
 			id = 1000466,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v4v12_normal",
 			task_enum = "common",
 			process_id = 21824,
@@ -12524,7 +12524,7 @@ return {
 		{
 			id = 1000467,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v4v12_normal",
 			task_enum = "common",
 			process_id = 21825,
@@ -12539,7 +12539,7 @@ return {
 		{
 			id = 1000468,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v3_cjj",
 			task_enum = "common",
 			process_id = 21826,
@@ -12554,7 +12554,7 @@ return {
 		{
 			id = 1000469,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v3_cjj",
 			task_enum = "common",
 			process_id = 21827,
@@ -12569,7 +12569,7 @@ return {
 		{
 			id = 1000470,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v3_cjj",
 			task_enum = "common",
 			process_id = 21828,
@@ -12584,7 +12584,7 @@ return {
 		{
 			id = 1000471,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v3_cjj",
 			task_enum = "common",
 			process_id = 21829,
@@ -12599,7 +12599,7 @@ return {
 		{
 			id = 1000472,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v4v12_cjj",
 			task_enum = "common",
 			process_id = 21830,
@@ -12614,7 +12614,7 @@ return {
 		{
 			id = 1000473,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v4v12_cjj",
 			task_enum = "common",
 			process_id = 21831,
@@ -12629,7 +12629,7 @@ return {
 		{
 			id = 1000474,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v4v12_cjj",
 			task_enum = "common",
 			process_id = 21832,
@@ -12644,7 +12644,7 @@ return {
 		{
 			id = 1000475,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v4v12_cjj",
 			task_enum = "common",
 			process_id = 21833,
@@ -12659,7 +12659,7 @@ return {
 		{
 			id = 1000476,
 			enable = 1,
-			name = "清明有礼·连购返利",
+			name = "连购返利",
 			own_type = "p_xsfl_v4v12_cjj",
 			task_enum = "common",
 			process_id = 21834,
