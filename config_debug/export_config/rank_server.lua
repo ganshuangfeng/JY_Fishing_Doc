@@ -562,7 +562,7 @@ return {
 		[41]=
 		{
 			id = 41,
-			enable = 1,
+			enable = 0,
 			rank_type = "xiaoxiaole_tower_week_rank",
 			name = "消消乐闯关排行榜",
 			begin_time = 1615046400,

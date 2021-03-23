@@ -4,7 +4,7 @@ return {
 		[16501]=
 		{
 			id = 16501,
-			enable = 0,
+			enable = 1,
 			name = "累计消除",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -19,7 +19,7 @@ return {
 		[16502]=
 		{
 			id = 16502,
-			enable = 0,
+			enable = 1,
 			name = "累计消除",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -34,7 +34,7 @@ return {
 		[16503]=
 		{
 			id = 16503,
-			enable = 0,
+			enable = 1,
 			name = "累计消除",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -49,7 +49,7 @@ return {
 		[16504]=
 		{
 			id = 16504,
-			enable = 0,
+			enable = 1,
 			name = "累计消除",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -64,7 +64,7 @@ return {
 		[16505]=
 		{
 			id = 16505,
-			enable = 0,
+			enable = 1,
 			name = "累计消除",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -79,7 +79,7 @@ return {
 		[16506]=
 		{
 			id = 16506,
-			enable = 0,
+			enable = 1,
 			name = "累计消除",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -94,7 +94,7 @@ return {
 		[16507]=
 		{
 			id = 16507,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -109,7 +109,7 @@ return {
 		[16508]=
 		{
 			id = 16508,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -124,7 +124,7 @@ return {
 		[16509]=
 		{
 			id = 16509,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -139,7 +139,7 @@ return {
 		[16510]=
 		{
 			id = 16510,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -154,7 +154,7 @@ return {
 		[16511]=
 		{
 			id = 16511,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -169,7 +169,7 @@ return {
 		[16512]=
 		{
 			id = 16512,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -184,7 +184,7 @@ return {
 		[16513]=
 		{
 			id = 16513,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -199,7 +199,7 @@ return {
 		[16514]=
 		{
 			id = 16514,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -214,7 +214,7 @@ return {
 		[16515]=
 		{
 			id = 16515,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -229,7 +229,7 @@ return {
 		[16516]=
 		{
 			id = 16516,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -244,7 +244,7 @@ return {
 		[16517]=
 		{
 			id = 16517,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -259,7 +259,7 @@ return {
 		[16518]=
 		{
 			id = 16518,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -274,7 +274,7 @@ return {
 		[16519]=
 		{
 			id = 16519,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -289,7 +289,7 @@ return {
 		[16520]=
 		{
 			id = 16520,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -304,7 +304,7 @@ return {
 		[16521]=
 		{
 			id = 16521,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -319,7 +319,7 @@ return {
 		[16522]=
 		{
 			id = 16522,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -334,7 +334,7 @@ return {
 		[16523]=
 		{
 			id = 16523,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -349,7 +349,7 @@ return {
 		[16524]=
 		{
 			id = 16524,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -364,7 +364,7 @@ return {
 		[16525]=
 		{
 			id = 16525,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -379,7 +379,7 @@ return {
 		[16526]=
 		{
 			id = 16526,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -394,7 +394,7 @@ return {
 		[16527]=
 		{
 			id = 16527,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -409,7 +409,7 @@ return {
 		[16528]=
 		{
 			id = 16528,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -424,7 +424,7 @@ return {
 		[16529]=
 		{
 			id = 16529,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -439,7 +439,7 @@ return {
 		[16530]=
 		{
 			id = 16530,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -454,7 +454,7 @@ return {
 		[16531]=
 		{
 			id = 16531,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -469,7 +469,7 @@ return {
 		[16532]=
 		{
 			id = 16532,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -484,7 +484,7 @@ return {
 		[16533]=
 		{
 			id = 16533,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -499,7 +499,7 @@ return {
 		[16534]=
 		{
 			id = 16534,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -514,7 +514,7 @@ return {
 		[16535]=
 		{
 			id = 16535,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -529,7 +529,7 @@ return {
 		[16536]=
 		{
 			id = 16536,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -544,7 +544,7 @@ return {
 		[16537]=
 		{
 			id = 16537,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -559,7 +559,7 @@ return {
 		[16538]=
 		{
 			id = 16538,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -574,7 +574,7 @@ return {
 		[16539]=
 		{
 			id = 16539,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -589,7 +589,7 @@ return {
 		[16540]=
 		{
 			id = 16540,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -604,7 +604,7 @@ return {
 		[16541]=
 		{
 			id = 16541,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -619,7 +619,7 @@ return {
 		[16542]=
 		{
 			id = 16542,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -634,7 +634,7 @@ return {
 		[16543]=
 		{
 			id = 16543,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -649,7 +649,7 @@ return {
 		[16544]=
 		{
 			id = 16544,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -664,7 +664,7 @@ return {
 		[16545]=
 		{
 			id = 16545,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -679,7 +679,7 @@ return {
 		[16546]=
 		{
 			id = 16546,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -694,7 +694,7 @@ return {
 		[16547]=
 		{
 			id = 16547,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -709,7 +709,7 @@ return {
 		[16548]=
 		{
 			id = 16548,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -724,7 +724,7 @@ return {
 		[16549]=
 		{
 			id = 16549,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -739,7 +739,7 @@ return {
 		[16550]=
 		{
 			id = 16550,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -754,7 +754,7 @@ return {
 		[16551]=
 		{
 			id = 16551,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -769,7 +769,7 @@ return {
 		[16552]=
 		{
 			id = 16552,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -784,7 +784,7 @@ return {
 		[16553]=
 		{
 			id = 16553,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -799,7 +799,7 @@ return {
 		[16554]=
 		{
 			id = 16554,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -814,7 +814,7 @@ return {
 		[16555]=
 		{
 			id = 16555,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -829,7 +829,7 @@ return {
 		[16556]=
 		{
 			id = 16556,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -844,7 +844,7 @@ return {
 		[16557]=
 		{
 			id = 16557,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -859,7 +859,7 @@ return {
 		[16558]=
 		{
 			id = 16558,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -874,7 +874,7 @@ return {
 		[16559]=
 		{
 			id = 16559,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -889,7 +889,7 @@ return {
 		[16560]=
 		{
 			id = 16560,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -904,7 +904,7 @@ return {
 		[16561]=
 		{
 			id = 16561,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -919,7 +919,7 @@ return {
 		[16562]=
 		{
 			id = 16562,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -934,7 +934,7 @@ return {
 		[16563]=
 		{
 			id = 16563,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -949,7 +949,7 @@ return {
 		[16564]=
 		{
 			id = 16564,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -964,7 +964,7 @@ return {
 		[16565]=
 		{
 			id = 16565,
-			enable = 0,
+			enable = 1,
 			name = "幸运时刻（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -979,7 +979,7 @@ return {
 		[16566]=
 		{
 			id = 16566,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -994,7 +994,7 @@ return {
 		[16567]=
 		{
 			id = 16567,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1009,7 +1009,7 @@ return {
 		[16568]=
 		{
 			id = 16568,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1024,7 +1024,7 @@ return {
 		[16569]=
 		{
 			id = 16569,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1039,7 +1039,7 @@ return {
 		[16570]=
 		{
 			id = 16570,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1054,7 +1054,7 @@ return {
 		[16571]=
 		{
 			id = 16571,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1069,7 +1069,7 @@ return {
 		[16572]=
 		{
 			id = 16572,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1084,7 +1084,7 @@ return {
 		[16573]=
 		{
 			id = 16573,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1099,7 +1099,7 @@ return {
 		[16574]=
 		{
 			id = 16574,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1114,7 +1114,7 @@ return {
 		[16575]=
 		{
 			id = 16575,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1129,7 +1129,7 @@ return {
 		[16576]=
 		{
 			id = 16576,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1144,7 +1144,7 @@ return {
 		[16577]=
 		{
 			id = 16577,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1159,7 +1159,7 @@ return {
 		[16578]=
 		{
 			id = 16578,
-			enable = 0,
+			enable = 1,
 			name = "幸运时刻（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1174,7 +1174,7 @@ return {
 		[16579]=
 		{
 			id = 16579,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1189,7 +1189,7 @@ return {
 		[16580]=
 		{
 			id = 16580,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1204,7 +1204,7 @@ return {
 		[16581]=
 		{
 			id = 16581,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1219,7 +1219,7 @@ return {
 		[16582]=
 		{
 			id = 16582,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1234,7 +1234,7 @@ return {
 		[16583]=
 		{
 			id = 16583,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1249,7 +1249,7 @@ return {
 		[16584]=
 		{
 			id = 16584,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1264,7 +1264,7 @@ return {
 		[16585]=
 		{
 			id = 16585,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1279,7 +1279,7 @@ return {
 		[16586]=
 		{
 			id = 16586,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1294,7 +1294,7 @@ return {
 		[16587]=
 		{
 			id = 16587,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1309,7 +1309,7 @@ return {
 		[16588]=
 		{
 			id = 16588,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1324,7 +1324,7 @@ return {
 		[16589]=
 		{
 			id = 16589,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1339,7 +1339,7 @@ return {
 		[16590]=
 		{
 			id = 16590,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1354,7 +1354,7 @@ return {
 		[16591]=
 		{
 			id = 16591,
-			enable = 0,
+			enable = 1,
 			name = "幸运时刻（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1369,7 +1369,7 @@ return {
 		[16592]=
 		{
 			id = 16592,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1384,7 +1384,7 @@ return {
 		[16593]=
 		{
 			id = 16593,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1399,7 +1399,7 @@ return {
 		[16594]=
 		{
 			id = 16594,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1414,7 +1414,7 @@ return {
 		[16595]=
 		{
 			id = 16595,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1429,7 +1429,7 @@ return {
 		[16596]=
 		{
 			id = 16596,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1444,7 +1444,7 @@ return {
 		[16597]=
 		{
 			id = 16597,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1459,7 +1459,7 @@ return {
 		[16598]=
 		{
 			id = 16598,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1474,7 +1474,7 @@ return {
 		[16599]=
 		{
 			id = 16599,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1489,7 +1489,7 @@ return {
 		[16600]=
 		{
 			id = 16600,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1504,7 +1504,7 @@ return {
 		[16601]=
 		{
 			id = 16601,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1519,7 +1519,7 @@ return {
 		[16602]=
 		{
 			id = 16602,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1534,7 +1534,7 @@ return {
 		[16603]=
 		{
 			id = 16603,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1549,7 +1549,7 @@ return {
 		[16604]=
 		{
 			id = 16604,
-			enable = 0,
+			enable = 1,
 			name = "幸运时刻（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1564,7 +1564,7 @@ return {
 		[16605]=
 		{
 			id = 16605,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1579,7 +1579,7 @@ return {
 		[16606]=
 		{
 			id = 16606,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1594,7 +1594,7 @@ return {
 		[16607]=
 		{
 			id = 16607,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1609,7 +1609,7 @@ return {
 		[16608]=
 		{
 			id = 16608,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1624,7 +1624,7 @@ return {
 		[16609]=
 		{
 			id = 16609,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1639,7 +1639,7 @@ return {
 		[16610]=
 		{
 			id = 16610,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1654,7 +1654,7 @@ return {
 		[16611]=
 		{
 			id = 16611,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1669,7 +1669,7 @@ return {
 		[16612]=
 		{
 			id = 16612,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1684,7 +1684,7 @@ return {
 		[16613]=
 		{
 			id = 16613,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1699,7 +1699,7 @@ return {
 		[16614]=
 		{
 			id = 16614,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1714,7 +1714,7 @@ return {
 		[16615]=
 		{
 			id = 16615,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1729,7 +1729,7 @@ return {
 		[16616]=
 		{
 			id = 16616,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1744,7 +1744,7 @@ return {
 		[16617]=
 		{
 			id = 16617,
-			enable = 0,
+			enable = 1,
 			name = "幸运时刻（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1759,7 +1759,7 @@ return {
 		[16618]=
 		{
 			id = 16618,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1774,7 +1774,7 @@ return {
 		[16619]=
 		{
 			id = 16619,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1789,7 +1789,7 @@ return {
 		[16620]=
 		{
 			id = 16620,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1804,7 +1804,7 @@ return {
 		[16621]=
 		{
 			id = 16621,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1819,7 +1819,7 @@ return {
 		[16622]=
 		{
 			id = 16622,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1834,7 +1834,7 @@ return {
 		[16623]=
 		{
 			id = 16623,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1849,7 +1849,7 @@ return {
 		[16624]=
 		{
 			id = 16624,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1864,7 +1864,7 @@ return {
 		[16625]=
 		{
 			id = 16625,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1879,7 +1879,7 @@ return {
 		[16626]=
 		{
 			id = 16626,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1894,7 +1894,7 @@ return {
 		[16627]=
 		{
 			id = 16627,
-			enable = 0,
+			enable = 1,
 			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1909,7 +1909,7 @@ return {
 		[16628]=
 		{
 			id = 16628,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1924,7 +1924,7 @@ return {
 		[16629]=
 		{
 			id = 16629,
-			enable = 0,
+			enable = 1,
 			name = "单局消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1939,7 +1939,7 @@ return {
 		[16630]=
 		{
 			id = 16630,
-			enable = 0,
+			enable = 1,
 			name = "幸运时刻（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
