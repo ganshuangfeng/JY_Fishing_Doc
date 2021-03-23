@@ -1426,7 +1426,7 @@ return {
 			id = 57,
 			condition_id = 38,
 			condition_name = "asset_type",
-			condition_value = "prop_fish_drop_act_2",
+			condition_value = "prop_fish_drop_act_0",
 			judge_type = 2,
 		},
 		[58]=
@@ -1442,7 +1442,7 @@ return {
 			id = 59,
 			condition_id = 39,
 			condition_name = "asset_type",
-			condition_value = "prop_fish_drop_act_2",
+			condition_value = "prop_fish_drop_act_0",
 			judge_type = 2,
 		},
 	},
