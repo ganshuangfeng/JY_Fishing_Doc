@@ -563,6 +563,30 @@ return {
 			award_id = 48,
 			enable = 1,
 		},
+		[49]=
+		{
+			id = 49,
+			name = "兑换奖励",
+			start_time = 1616457600,
+			end_time = 1617033599,
+			use_goods = {"prop_fish_drop_act_0",},
+			goods_type = 1,
+			email_id = 35,
+			award_id = 49,
+			enable = 1,
+		},
+		[50]=
+		{
+			id = 50,
+			name = "兑换奖励--cjj",
+			start_time = 1616457600,
+			end_time = 1617033599,
+			use_goods = {"prop_fish_drop_act_0",},
+			goods_type = 1,
+			email_id = 36,
+			award_id = 50,
+			enable = 1,
+		},
 	},
 	email=
 	{
@@ -768,6 +792,18 @@ return {
 		{
 			id = 34,
 			title = "春暖花开",
+			content = "恭喜您在兑换奖励活动中获得了%s，请在活动结束后7个工作日内联系公众号《彩云新世界》客服领取，逾期视为自动放弃！",
+		},
+		[35]=
+		{
+			id = 35,
+			title = "月末狂欢",
+			content = "恭喜您在兑换奖励活动中获得了%s，请在活动结束后7个工作日内联系公众号《鲸鱼初纪元》客服领取，逾期视为自动放弃！",
+		},
+		[36]=
+		{
+			id = 36,
+			title = "月末狂欢",
 			content = "恭喜您在兑换奖励活动中获得了%s，请在活动结束后7个工作日内联系公众号《彩云新世界》客服领取，逾期视为自动放弃！",
 		},
 	},
@@ -3699,7 +3735,7 @@ return {
 			award_cfg_id = 47,
 			award_id = 2,
 			permission_key = "actp_no_cjj_gej_exchange_V5",
-			award_name = "荣耀手机",
+			award_name = "华为荣耀手机",
 			use_num = {880000,},
 			me_limit_day_num = 1,
 		},
@@ -3782,7 +3818,7 @@ return {
 			award_cfg_id = 48,
 			award_id = 2,
 			permission_key = "actp_cjj_gej_exchange",
-			award_name = "荣耀手机",
+			award_name = "华为荣耀手机",
 			use_num = {880000,},
 			me_limit_day_num = 1,
 		},
@@ -3842,6 +3878,172 @@ return {
 		{
 			no = 294,
 			award_cfg_id = 48,
+			award_id = 8,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"prop_hammer_3",},
+			asset_count = {10,},
+			use_num = {3666,},
+			me_limit_day_num = 3,
+		},
+		[295]=
+		{
+			no = 295,
+			award_cfg_id = 49,
+			award_id = 1,
+			permission_key = "actp_no_cjj_gej_exchange_V5",
+			award_name = "笔记本电脑",
+			use_num = {1080000,},
+			me_limit_day_num = 1,
+		},
+		[296]=
+		{
+			no = 296,
+			award_cfg_id = 49,
+			award_id = 2,
+			permission_key = "actp_no_cjj_gej_exchange_V5",
+			award_name = "vivo手机",
+			use_num = {880000,},
+			me_limit_day_num = 1,
+		},
+		[297]=
+		{
+			no = 297,
+			award_cfg_id = 49,
+			award_id = 3,
+			permission_key = "actp_no_cjj_gej_exchange",
+			award_name = "美的微波炉",
+			use_num = {180000,},
+			me_limit_day_num = 1,
+		},
+		[298]=
+		{
+			no = 298,
+			award_cfg_id = 49,
+			award_id = 4,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {10000,},
+			use_num = {60000,},
+			me_limit_day_num = 1,
+		},
+		[299]=
+		{
+			no = 299,
+			award_cfg_id = 49,
+			award_id = 5,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"fish_coin",},
+			asset_count = {5000000,},
+			use_num = {18000,},
+		},
+		[300]=
+		{
+			no = 300,
+			award_cfg_id = 49,
+			award_id = 6,
+			permission_key = "actp_no_cjj_gej_exchange",
+			award_name = "俄罗斯巧克力",
+			use_num = {8000,},
+			me_limit_day_num = 3,
+		},
+		[301]=
+		{
+			no = 301,
+			award_cfg_id = 49,
+			award_id = 7,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"shop_gold_sum",},
+			asset_count = {2000,},
+			use_num = {7200,},
+			me_limit_day_num = 2,
+		},
+		[302]=
+		{
+			no = 302,
+			award_cfg_id = 49,
+			award_id = 8,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"prop_3d_fish_nuclear_bomb_1",},
+			asset_count = {1,},
+			use_num = {3666,},
+			me_limit_day_num = 3,
+		},
+		[303]=
+		{
+			no = 303,
+			award_cfg_id = 50,
+			award_id = 1,
+			permission_key = "actp_cjj_gej_exchange_V5",
+			award_name = "笔记本电脑",
+			use_num = {1080000,},
+			me_limit_day_num = 1,
+		},
+		[304]=
+		{
+			no = 304,
+			award_cfg_id = 50,
+			award_id = 2,
+			permission_key = "actp_cjj_gej_exchange_V5",
+			award_name = "vivo手机",
+			use_num = {880000,},
+			me_limit_day_num = 1,
+		},
+		[305]=
+		{
+			no = 305,
+			award_cfg_id = 50,
+			award_id = 3,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "美的微波炉",
+			use_num = {180000,},
+			me_limit_day_num = 1,
+		},
+		[306]=
+		{
+			no = 306,
+			award_cfg_id = 50,
+			award_id = 4,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {10000,},
+			use_num = {60000,},
+			me_limit_day_num = 1,
+		},
+		[307]=
+		{
+			no = 307,
+			award_cfg_id = 50,
+			award_id = 5,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"prop_tiny_game_coin",},
+			asset_count = {5000000,},
+			use_num = {18000,},
+		},
+		[308]=
+		{
+			no = 308,
+			award_cfg_id = 50,
+			award_id = 6,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "俄罗斯巧克力",
+			use_num = {8000,},
+			me_limit_day_num = 3,
+		},
+		[309]=
+		{
+			no = 309,
+			award_cfg_id = 50,
+			award_id = 7,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"shop_gold_sum",},
+			asset_count = {2000,},
+			use_num = {7200,},
+			me_limit_day_num = 2,
+		},
+		[310]=
+		{
+			no = 310,
+			award_cfg_id = 50,
 			award_id = 8,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"prop_hammer_3",},

@@ -6667,7 +6667,7 @@ return {
 		[374]=
 		{
 			id = 374,
-			enable = 0,
+			enable = 1,
 			key = "actp_own_task_p_xsfl_v3_normal",
 			name = "限时福利v3及以下--捕鱼",
 			condi = 406,
@@ -6679,7 +6679,7 @@ return {
 		[375]=
 		{
 			id = 375,
-			enable = 0,
+			enable = 1,
 			key = "actp_own_task_p_xsfl_v4v12_normal",
 			name = "限时福利v4及以上--捕鱼",
 			condi = 407,
@@ -6691,7 +6691,7 @@ return {
 		[376]=
 		{
 			id = 376,
-			enable = 0,
+			enable = 1,
 			key = "actp_own_task_p_xsfl_v3_cjj",
 			name = "限时福利v3及以下--冲金鸡",
 			condi = 408,
@@ -6703,7 +6703,7 @@ return {
 		[377]=
 		{
 			id = 377,
-			enable = 0,
+			enable = 1,
 			key = "actp_own_task_p_xsfl_v4v12_cjj",
 			name = "限时福利v4及以上--冲金鸡",
 			condi = 409,
@@ -15323,7 +15323,7 @@ return {
 			value = 1,
 			judge = 3,
 			group = 1,
-			error_desc = "Lv9开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
+			error_desc = "Lv4开启，在3D捕鱼中开炮可提升等级！\n（VIP1可以立即解锁）",
 		},
 		[862]=
 		{

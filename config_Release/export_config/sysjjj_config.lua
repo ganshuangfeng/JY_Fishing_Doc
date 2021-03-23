@@ -5,6 +5,7 @@ return {
 		{
 			line = 1,
 			permission = "jjj_3dby_official",
+			GAME_Di_Bao_limit = 30000,
 			GAME_Di_Bao_JB = 30000,
 			GAME_Di_Bao_JB_HH = 118888,
 			HH_btn_desc = "豪华领取",
@@ -17,6 +18,7 @@ return {
 		{
 			line = 2,
 			permission = "jjj_3dby_cpl",
+			GAME_Di_Bao_limit = 5000,
 			GAME_Di_Bao_JB = 10000,
 			GAME_Di_Bao_JB_HH = 98000,
 			HH_btn_desc = "豪华领取",
@@ -29,6 +31,7 @@ return {
 		{
 			line = 3,
 			permission = "jjj_cjj_official",
+			GAME_Di_Bao_limit = 30000,
 			GAME_Di_Bao_JB = 30000,
 			GAME_Di_Bao_JB_HH = 60000,
 			HH_btn_desc = "加倍领取",
@@ -41,6 +44,7 @@ return {
 		{
 			line = 4,
 			permission = "jjj_cjj_cpl",
+			GAME_Di_Bao_limit = 10000,
 			GAME_Di_Bao_JB = 10000,
 			GAME_Di_Bao_JB_HH = 60000,
 			HH_btn_desc = "6倍领取",

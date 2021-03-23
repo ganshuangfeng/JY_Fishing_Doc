@@ -4,7 +4,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			caijin_fish_id = {20,22,23,24,25,26,27,},
+			caijin_fish_id = {20,22,23,24,25,26,27,63,64,65,66,67,68,},
 			score_percent = 0.050000,
 			lottery_reset_time = 0,
 			begin_time = 1587425400,

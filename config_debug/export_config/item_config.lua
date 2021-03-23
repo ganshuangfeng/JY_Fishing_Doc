@@ -1717,7 +1717,7 @@ return {
 			image = "act_ty_by_drop_7",
 			is_show_bag = 0,
 			order = 1,
-			name = "五星",
+			name = "河灯",
 			desc = "掉落物活动通用道具",
 		},
 		[131]=
@@ -4325,6 +4325,19 @@ return {
 			name = "5～50元红包",
 			desc = "开启后获得优惠券，再商城单笔充值≥50元档次可用",
 			use_parm = {"act_xrxsfl","obj_xrxsfl_5_50box"},
+		},
+		[320]=
+		{
+			id = 320,
+			item_id = 320,
+			item_key = "prop_jinglongbi",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "act_ty_by_drop_7_1",
+			is_show_bag = 0,
+			order = 1,
+			name = "金龙币",
+			desc = "在龙王贡品活动中，进行购买贡品",
 		},
 	},
 }
