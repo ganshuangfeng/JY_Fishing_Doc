@@ -3187,7 +3187,7 @@ return {
 			key = "sgxxl_tower_climbing",
 			desc = "消消乐爬塔",
 			lua = "SGXXL_Tower_ClimbingManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
