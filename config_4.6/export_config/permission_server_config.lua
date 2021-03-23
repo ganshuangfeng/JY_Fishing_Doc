@@ -6724,6 +6724,54 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1615824000,
 		},
+		[378]=
+		{
+			id = 378,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_buy_gift_shop_nor",
+			name = "礼包购买（新玩家，免费，小额）",
+			condi = 413,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1617638400,
+		},
+		[379]=
+		{
+			id = 379,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_buy_gift_shop_v1",
+			name = "礼包购买（v1-v3，非新玩家）",
+			condi = 414,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1617638400,
+		},
+		[380]=
+		{
+			id = 380,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_buy_gift_shop_v4",
+			name = "礼包购买（v4-v7，非新玩家）",
+			condi = 415,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1617638400,
+		},
+		[381]=
+		{
+			id = 381,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_buy_gift_shop_v8",
+			name = "礼包购买（v8-12，非新玩家）",
+			condi = 416,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1617638400,
+		},
 	},
 	condi=
 	{
@@ -16726,6 +16774,126 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "VIP1及以上的用户才可体验",
+		},
+		[1001]=
+		{
+			no = 1001,
+			id = 413,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新玩家",
+		},
+		[1002]=
+		{
+			no = 1002,
+			id = 413,
+			var = "tag_type",
+			value = "tag_free_player",
+			judge = 2,
+			group = 2,
+			error_desc = "只展示给免费用户标签",
+		},
+		[1003]=
+		{
+			no = 1003,
+			id = 413,
+			var = "tag_type",
+			value = "tag_stingy_player",
+			judge = 2,
+			group = 3,
+			error_desc = "只展示给小额标签用户",
+		},
+		[1004]=
+		{
+			no = 1004,
+			id = 414,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新玩家",
+		},
+		[1005]=
+		{
+			no = 1005,
+			id = 414,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上的用户才可体验",
+		},
+		[1006]=
+		{
+			no = 1006,
+			id = 414,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP3及以下的用户才可体验",
+		},
+		[1007]=
+		{
+			no = 1007,
+			id = 415,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新玩家",
+		},
+		[1008]=
+		{
+			no = 1008,
+			id = 415,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上的用户才可体验",
+		},
+		[1009]=
+		{
+			no = 1009,
+			id = 415,
+			var = "vip_level",
+			value = 7,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP7及以下的用户才可体验",
+		},
+		[1010]=
+		{
+			no = 1010,
+			id = 416,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新玩家",
+		},
+		[1011]=
+		{
+			no = 1011,
+			id = 416,
+			var = "vip_level",
+			value = 8,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP8及以上的用户才可体验",
+		},
+		[1012]=
+		{
+			no = 1012,
+			id = 416,
+			var = "vip_level",
+			value = 12,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP12及以下的用户才可体验",
 		},
 	},
 	share_condition=

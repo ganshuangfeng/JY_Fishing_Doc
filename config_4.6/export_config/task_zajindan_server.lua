@@ -12701,6 +12701,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000479]=
+		{
+			id = 1000479,
+			enable = 1,
+			name = "龙腾祈福·龙腾礼包",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21837,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1617638400,
+			end_valid_time = 1618243199,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -21092,6 +21107,13 @@ return {
 			awards = {1175,1176,1177,1178,1179},
 			get_award_type = "random",
 		},
+		[889]=
+		{
+			id = 889,
+			process_id = 21837,
+			source_id = 627,
+			process = 3,
+		},
 	},
 	source=
 	{
@@ -28067,6 +28089,13 @@ return {
 			source_type = "box_exchange",
 			condition_id = 457,
 		},
+		[990]=
+		{
+			id = 990,
+			source_id = 527,
+			source_type = "buy_gift",
+			condition_id = 458,
+		},
 	},
 	condition=
 	{
@@ -32780,6 +32809,14 @@ return {
 			condition_id = 457,
 			condition_name = "box_exchange_type",
 			condition_value = 88,
+			judge_type = 2,
+		},
+		[620]=
+		{
+			id = 620,
+			condition_id = 458,
+			condition_name = "gift_id",
+			condition_value = {10503,10504,10505,10506,10507,10508,10509,10510,10511,10512,10513,10514},
 			judge_type = 2,
 		},
 	},
