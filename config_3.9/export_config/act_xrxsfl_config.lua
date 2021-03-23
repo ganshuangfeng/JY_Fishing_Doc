@@ -131,7 +131,7 @@ return {
 			ID = 3,
 			award_desc = "5～50元红包",
 			award_img = "xrxsfl_icon_hb",
-			prop_key = "obj_xrxsfl_5_50box",
+			obj_key = "obj_xrxsfl_5_50box",
 			value = 1,
 		},
 		[4]=
@@ -156,7 +156,7 @@ return {
 			ID = 6,
 			award_desc = "锁定*3",
 			award_img = "3dby_btn_sd",
-			obj_key = "prop_3d_fish_lock",
+			prop_key = "prop_3d_fish_lock",
 			value = 3,
 		},
 		[7]=
@@ -196,7 +196,7 @@ return {
 			ID = 11,
 			award_desc = "5～50元红包",
 			award_img = "xrxsfl_icon_hb",
-			prop_key = "obj_xrxsfl_5_50box",
+			obj_key = "obj_xrxsfl_5_50box",
 			value = 1,
 		},
 		[12]=
