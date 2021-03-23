@@ -4230,7 +4230,7 @@ return {
 		{
 			id = 8,
 			condition_id = 2,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 30,
 			judge_type = 2,
 		},
@@ -4262,7 +4262,7 @@ return {
 		{
 			id = 12,
 			condition_id = 3,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 30,
 			judge_type = 2,
 		},
@@ -4286,7 +4286,7 @@ return {
 		{
 			id = 15,
 			condition_id = 4,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 30,
 			judge_type = 2,
 		},
@@ -4294,7 +4294,7 @@ return {
 		{
 			id = 16,
 			condition_id = 4,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 30,
 			judge_type = 2,
 		},
@@ -4318,7 +4318,7 @@ return {
 		{
 			id = 19,
 			condition_id = 5,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 30,
 			judge_type = 2,
 		},
@@ -4326,7 +4326,7 @@ return {
 		{
 			id = 20,
 			condition_id = 5,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 30,
 			judge_type = 2,
 		},
@@ -4350,7 +4350,7 @@ return {
 		{
 			id = 23,
 			condition_id = 6,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 30,
 			judge_type = 2,
 		},
@@ -4358,7 +4358,7 @@ return {
 		{
 			id = 24,
 			condition_id = 6,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 30,
 			judge_type = 2,
 		},
@@ -4430,7 +4430,7 @@ return {
 		{
 			id = 33,
 			condition_id = 8,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4470,7 +4470,7 @@ return {
 		{
 			id = 38,
 			condition_id = 9,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4502,7 +4502,7 @@ return {
 		{
 			id = 42,
 			condition_id = 10,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4510,7 +4510,7 @@ return {
 		{
 			id = 43,
 			condition_id = 10,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4542,7 +4542,7 @@ return {
 		{
 			id = 47,
 			condition_id = 11,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4550,7 +4550,7 @@ return {
 		{
 			id = 48,
 			condition_id = 11,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4582,7 +4582,7 @@ return {
 		{
 			id = 52,
 			condition_id = 12,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4590,7 +4590,7 @@ return {
 		{
 			id = 53,
 			condition_id = 12,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4614,7 +4614,7 @@ return {
 		{
 			id = 56,
 			condition_id = 13,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4622,7 +4622,7 @@ return {
 		{
 			id = 57,
 			condition_id = 13,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4630,7 +4630,7 @@ return {
 		{
 			id = 58,
 			condition_id = 13,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4654,7 +4654,7 @@ return {
 		{
 			id = 61,
 			condition_id = 14,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4662,7 +4662,7 @@ return {
 		{
 			id = 62,
 			condition_id = 14,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4670,7 +4670,7 @@ return {
 		{
 			id = 63,
 			condition_id = 14,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4694,7 +4694,7 @@ return {
 		{
 			id = 66,
 			condition_id = 15,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4702,7 +4702,7 @@ return {
 		{
 			id = 67,
 			condition_id = 15,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4710,7 +4710,7 @@ return {
 		{
 			id = 68,
 			condition_id = 15,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4734,7 +4734,7 @@ return {
 		{
 			id = 71,
 			condition_id = 16,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_3",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4742,7 +4742,7 @@ return {
 		{
 			id = 72,
 			condition_id = 16,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4750,7 +4750,7 @@ return {
 		{
 			id = 73,
 			condition_id = 16,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 80,
 			judge_type = 2,
 		},
@@ -4830,7 +4830,7 @@ return {
 		{
 			id = 83,
 			condition_id = 18,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -4870,7 +4870,7 @@ return {
 		{
 			id = 88,
 			condition_id = 19,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -4902,7 +4902,7 @@ return {
 		{
 			id = 92,
 			condition_id = 20,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -4910,7 +4910,7 @@ return {
 		{
 			id = 93,
 			condition_id = 20,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -4942,7 +4942,7 @@ return {
 		{
 			id = 97,
 			condition_id = 21,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -4950,7 +4950,7 @@ return {
 		{
 			id = 98,
 			condition_id = 21,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -4982,7 +4982,7 @@ return {
 		{
 			id = 102,
 			condition_id = 22,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -4990,7 +4990,7 @@ return {
 		{
 			id = 103,
 			condition_id = 22,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -5014,7 +5014,7 @@ return {
 		{
 			id = 106,
 			condition_id = 23,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -5022,7 +5022,7 @@ return {
 		{
 			id = 107,
 			condition_id = 23,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -5030,7 +5030,7 @@ return {
 		{
 			id = 108,
 			condition_id = 23,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -5054,7 +5054,7 @@ return {
 		{
 			id = 111,
 			condition_id = 24,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -5062,7 +5062,7 @@ return {
 		{
 			id = 112,
 			condition_id = 24,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -5070,7 +5070,7 @@ return {
 		{
 			id = 113,
 			condition_id = 24,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -5094,7 +5094,7 @@ return {
 		{
 			id = 116,
 			condition_id = 25,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -5102,7 +5102,7 @@ return {
 		{
 			id = 117,
 			condition_id = 25,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -5110,7 +5110,7 @@ return {
 		{
 			id = 118,
 			condition_id = 25,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -5134,7 +5134,7 @@ return {
 		{
 			id = 121,
 			condition_id = 26,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_3",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -5142,7 +5142,7 @@ return {
 		{
 			id = 122,
 			condition_id = 26,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -5150,7 +5150,7 @@ return {
 		{
 			id = 123,
 			condition_id = 26,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 100,
 			judge_type = 2,
 		},
@@ -5246,7 +5246,7 @@ return {
 		{
 			id = 135,
 			condition_id = 30,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5286,7 +5286,7 @@ return {
 		{
 			id = 140,
 			condition_id = 31,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5318,7 +5318,7 @@ return {
 		{
 			id = 144,
 			condition_id = 32,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5326,7 +5326,7 @@ return {
 		{
 			id = 145,
 			condition_id = 32,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5358,7 +5358,7 @@ return {
 		{
 			id = 149,
 			condition_id = 33,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5366,7 +5366,7 @@ return {
 		{
 			id = 150,
 			condition_id = 33,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5398,7 +5398,7 @@ return {
 		{
 			id = 154,
 			condition_id = 34,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5406,7 +5406,7 @@ return {
 		{
 			id = 155,
 			condition_id = 34,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5430,7 +5430,7 @@ return {
 		{
 			id = 158,
 			condition_id = 35,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5438,7 +5438,7 @@ return {
 		{
 			id = 159,
 			condition_id = 35,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5446,7 +5446,7 @@ return {
 		{
 			id = 160,
 			condition_id = 35,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5470,7 +5470,7 @@ return {
 		{
 			id = 163,
 			condition_id = 36,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5478,7 +5478,7 @@ return {
 		{
 			id = 164,
 			condition_id = 36,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5486,7 +5486,7 @@ return {
 		{
 			id = 165,
 			condition_id = 36,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5510,7 +5510,7 @@ return {
 		{
 			id = 168,
 			condition_id = 37,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5518,7 +5518,7 @@ return {
 		{
 			id = 169,
 			condition_id = 37,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5526,7 +5526,7 @@ return {
 		{
 			id = 170,
 			condition_id = 37,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5550,7 +5550,7 @@ return {
 		{
 			id = 173,
 			condition_id = 38,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_3",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5558,7 +5558,7 @@ return {
 		{
 			id = 174,
 			condition_id = 38,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5566,7 +5566,7 @@ return {
 		{
 			id = 175,
 			condition_id = 38,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 120,
 			judge_type = 2,
 		},
@@ -5662,7 +5662,7 @@ return {
 		{
 			id = 187,
 			condition_id = 42,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5702,7 +5702,7 @@ return {
 		{
 			id = 192,
 			condition_id = 43,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5734,7 +5734,7 @@ return {
 		{
 			id = 196,
 			condition_id = 44,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5742,7 +5742,7 @@ return {
 		{
 			id = 197,
 			condition_id = 44,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5774,7 +5774,7 @@ return {
 		{
 			id = 201,
 			condition_id = 45,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5782,7 +5782,7 @@ return {
 		{
 			id = 202,
 			condition_id = 45,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5814,7 +5814,7 @@ return {
 		{
 			id = 206,
 			condition_id = 46,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5822,7 +5822,7 @@ return {
 		{
 			id = 207,
 			condition_id = 46,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5846,7 +5846,7 @@ return {
 		{
 			id = 210,
 			condition_id = 47,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5854,7 +5854,7 @@ return {
 		{
 			id = 211,
 			condition_id = 47,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5862,7 +5862,7 @@ return {
 		{
 			id = 212,
 			condition_id = 47,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5886,7 +5886,7 @@ return {
 		{
 			id = 215,
 			condition_id = 48,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5894,7 +5894,7 @@ return {
 		{
 			id = 216,
 			condition_id = 48,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5902,7 +5902,7 @@ return {
 		{
 			id = 217,
 			condition_id = 48,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5926,7 +5926,7 @@ return {
 		{
 			id = 220,
 			condition_id = 49,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5934,7 +5934,7 @@ return {
 		{
 			id = 221,
 			condition_id = 49,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5942,7 +5942,7 @@ return {
 		{
 			id = 222,
 			condition_id = 49,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5966,7 +5966,7 @@ return {
 		{
 			id = 225,
 			condition_id = 50,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_3",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5974,7 +5974,7 @@ return {
 		{
 			id = 226,
 			condition_id = 50,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -5982,7 +5982,7 @@ return {
 		{
 			id = 227,
 			condition_id = 50,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 150,
 			judge_type = 2,
 		},
@@ -6078,7 +6078,7 @@ return {
 		{
 			id = 239,
 			condition_id = 54,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6118,7 +6118,7 @@ return {
 		{
 			id = 244,
 			condition_id = 55,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6150,7 +6150,7 @@ return {
 		{
 			id = 248,
 			condition_id = 56,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6158,7 +6158,7 @@ return {
 		{
 			id = 249,
 			condition_id = 56,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6190,7 +6190,7 @@ return {
 		{
 			id = 253,
 			condition_id = 57,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6198,7 +6198,7 @@ return {
 		{
 			id = 254,
 			condition_id = 57,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6230,7 +6230,7 @@ return {
 		{
 			id = 258,
 			condition_id = 58,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6238,7 +6238,7 @@ return {
 		{
 			id = 259,
 			condition_id = 58,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6262,7 +6262,7 @@ return {
 		{
 			id = 262,
 			condition_id = 59,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6270,7 +6270,7 @@ return {
 		{
 			id = 263,
 			condition_id = 59,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6278,7 +6278,7 @@ return {
 		{
 			id = 264,
 			condition_id = 59,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6302,7 +6302,7 @@ return {
 		{
 			id = 267,
 			condition_id = 60,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6310,7 +6310,7 @@ return {
 		{
 			id = 268,
 			condition_id = 60,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6318,7 +6318,7 @@ return {
 		{
 			id = 269,
 			condition_id = 60,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6342,7 +6342,7 @@ return {
 		{
 			id = 272,
 			condition_id = 61,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6350,7 +6350,7 @@ return {
 		{
 			id = 273,
 			condition_id = 61,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6358,7 +6358,7 @@ return {
 		{
 			id = 274,
 			condition_id = 61,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6382,7 +6382,7 @@ return {
 		{
 			id = 277,
 			condition_id = 62,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_3",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6390,7 +6390,7 @@ return {
 		{
 			id = 278,
 			condition_id = 62,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6398,7 +6398,7 @@ return {
 		{
 			id = 279,
 			condition_id = 62,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 200,
 			judge_type = 2,
 		},
@@ -6494,7 +6494,7 @@ return {
 		{
 			id = 291,
 			condition_id = 66,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6534,7 +6534,7 @@ return {
 		{
 			id = 296,
 			condition_id = 67,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6566,7 +6566,7 @@ return {
 		{
 			id = 300,
 			condition_id = 68,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6574,7 +6574,7 @@ return {
 		{
 			id = 301,
 			condition_id = 68,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6606,7 +6606,7 @@ return {
 		{
 			id = 305,
 			condition_id = 69,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6614,7 +6614,7 @@ return {
 		{
 			id = 306,
 			condition_id = 69,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6646,7 +6646,7 @@ return {
 		{
 			id = 310,
 			condition_id = 70,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6654,7 +6654,7 @@ return {
 		{
 			id = 311,
 			condition_id = 70,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6678,7 +6678,7 @@ return {
 		{
 			id = 314,
 			condition_id = 71,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6686,7 +6686,7 @@ return {
 		{
 			id = 315,
 			condition_id = 71,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6694,7 +6694,7 @@ return {
 		{
 			id = 316,
 			condition_id = 71,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6718,7 +6718,7 @@ return {
 		{
 			id = 319,
 			condition_id = 72,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6726,7 +6726,7 @@ return {
 		{
 			id = 320,
 			condition_id = 72,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6734,7 +6734,7 @@ return {
 		{
 			id = 321,
 			condition_id = 72,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6758,7 +6758,7 @@ return {
 		{
 			id = 324,
 			condition_id = 73,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6766,7 +6766,7 @@ return {
 		{
 			id = 325,
 			condition_id = 73,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6774,7 +6774,7 @@ return {
 		{
 			id = 326,
 			condition_id = 73,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6798,7 +6798,7 @@ return {
 		{
 			id = 329,
 			condition_id = 74,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_3",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6806,7 +6806,7 @@ return {
 		{
 			id = 330,
 			condition_id = 74,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6814,7 +6814,7 @@ return {
 		{
 			id = 331,
 			condition_id = 74,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 300,
 			judge_type = 2,
 		},
@@ -6910,7 +6910,7 @@ return {
 		{
 			id = 343,
 			condition_id = 78,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -6950,7 +6950,7 @@ return {
 		{
 			id = 348,
 			condition_id = 79,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -6982,7 +6982,7 @@ return {
 		{
 			id = 352,
 			condition_id = 80,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -6990,7 +6990,7 @@ return {
 		{
 			id = 353,
 			condition_id = 80,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7022,7 +7022,7 @@ return {
 		{
 			id = 357,
 			condition_id = 81,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7030,7 +7030,7 @@ return {
 		{
 			id = 358,
 			condition_id = 81,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7062,7 +7062,7 @@ return {
 		{
 			id = 362,
 			condition_id = 82,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7070,7 +7070,7 @@ return {
 		{
 			id = 363,
 			condition_id = 82,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7094,7 +7094,7 @@ return {
 		{
 			id = 366,
 			condition_id = 83,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7102,7 +7102,7 @@ return {
 		{
 			id = 367,
 			condition_id = 83,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7110,7 +7110,7 @@ return {
 		{
 			id = 368,
 			condition_id = 83,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7134,7 +7134,7 @@ return {
 		{
 			id = 371,
 			condition_id = 84,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7142,7 +7142,7 @@ return {
 		{
 			id = 372,
 			condition_id = 84,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7150,7 +7150,7 @@ return {
 		{
 			id = 373,
 			condition_id = 84,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7174,7 +7174,7 @@ return {
 		{
 			id = 376,
 			condition_id = 85,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7182,7 +7182,7 @@ return {
 		{
 			id = 377,
 			condition_id = 85,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7190,7 +7190,7 @@ return {
 		{
 			id = 378,
 			condition_id = 85,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7214,7 +7214,7 @@ return {
 		{
 			id = 381,
 			condition_id = 86,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_3",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7222,7 +7222,7 @@ return {
 		{
 			id = 382,
 			condition_id = 86,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7230,7 +7230,7 @@ return {
 		{
 			id = 383,
 			condition_id = 86,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 400,
 			judge_type = 2,
 		},
@@ -7326,7 +7326,7 @@ return {
 		{
 			id = 395,
 			condition_id = 90,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7366,7 +7366,7 @@ return {
 		{
 			id = 400,
 			condition_id = 91,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7398,7 +7398,7 @@ return {
 		{
 			id = 404,
 			condition_id = 92,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7406,7 +7406,7 @@ return {
 		{
 			id = 405,
 			condition_id = 92,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7438,7 +7438,7 @@ return {
 		{
 			id = 409,
 			condition_id = 93,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7446,7 +7446,7 @@ return {
 		{
 			id = 410,
 			condition_id = 93,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7478,7 +7478,7 @@ return {
 		{
 			id = 414,
 			condition_id = 94,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7486,7 +7486,7 @@ return {
 		{
 			id = 415,
 			condition_id = 94,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7510,7 +7510,7 @@ return {
 		{
 			id = 418,
 			condition_id = 95,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7518,7 +7518,7 @@ return {
 		{
 			id = 419,
 			condition_id = 95,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7526,7 +7526,7 @@ return {
 		{
 			id = 420,
 			condition_id = 95,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7550,7 +7550,7 @@ return {
 		{
 			id = 423,
 			condition_id = 96,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7558,7 +7558,7 @@ return {
 		{
 			id = 424,
 			condition_id = 96,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7566,7 +7566,7 @@ return {
 		{
 			id = 425,
 			condition_id = 96,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7590,7 +7590,7 @@ return {
 		{
 			id = 428,
 			condition_id = 97,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7598,7 +7598,7 @@ return {
 		{
 			id = 429,
 			condition_id = 97,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7606,7 +7606,7 @@ return {
 		{
 			id = 430,
 			condition_id = 97,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7630,7 +7630,7 @@ return {
 		{
 			id = 433,
 			condition_id = 98,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_3",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7638,7 +7638,7 @@ return {
 		{
 			id = 434,
 			condition_id = 98,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7646,7 +7646,7 @@ return {
 		{
 			id = 435,
 			condition_id = 98,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 500,
 			judge_type = 2,
 		},
@@ -7742,7 +7742,7 @@ return {
 		{
 			id = 447,
 			condition_id = 102,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -7782,7 +7782,7 @@ return {
 		{
 			id = 452,
 			condition_id = 103,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -7814,7 +7814,7 @@ return {
 		{
 			id = 456,
 			condition_id = 104,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -7822,7 +7822,7 @@ return {
 		{
 			id = 457,
 			condition_id = 104,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -7854,7 +7854,7 @@ return {
 		{
 			id = 461,
 			condition_id = 105,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -7862,7 +7862,7 @@ return {
 		{
 			id = 462,
 			condition_id = 105,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -7894,7 +7894,7 @@ return {
 		{
 			id = 466,
 			condition_id = 106,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -7902,7 +7902,7 @@ return {
 		{
 			id = 467,
 			condition_id = 106,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -7926,7 +7926,7 @@ return {
 		{
 			id = 470,
 			condition_id = 107,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -7934,7 +7934,7 @@ return {
 		{
 			id = 471,
 			condition_id = 107,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -7942,7 +7942,7 @@ return {
 		{
 			id = 472,
 			condition_id = 107,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -7966,7 +7966,7 @@ return {
 		{
 			id = 475,
 			condition_id = 108,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -7974,7 +7974,7 @@ return {
 		{
 			id = 476,
 			condition_id = 108,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -7982,7 +7982,7 @@ return {
 		{
 			id = 477,
 			condition_id = 108,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -8006,7 +8006,7 @@ return {
 		{
 			id = 480,
 			condition_id = 109,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -8014,7 +8014,7 @@ return {
 		{
 			id = 481,
 			condition_id = 109,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -8022,7 +8022,7 @@ return {
 		{
 			id = 482,
 			condition_id = 109,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -8046,7 +8046,7 @@ return {
 		{
 			id = 485,
 			condition_id = 110,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_3",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -8054,7 +8054,7 @@ return {
 		{
 			id = 486,
 			condition_id = 110,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -8062,7 +8062,7 @@ return {
 		{
 			id = 487,
 			condition_id = 110,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 600,
 			judge_type = 2,
 		},
@@ -8158,7 +8158,7 @@ return {
 		{
 			id = 499,
 			condition_id = 114,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8198,7 +8198,7 @@ return {
 		{
 			id = 504,
 			condition_id = 115,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8230,7 +8230,7 @@ return {
 		{
 			id = 508,
 			condition_id = 116,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8238,7 +8238,7 @@ return {
 		{
 			id = 509,
 			condition_id = 116,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8270,7 +8270,7 @@ return {
 		{
 			id = 513,
 			condition_id = 117,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8278,7 +8278,7 @@ return {
 		{
 			id = 514,
 			condition_id = 117,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8310,7 +8310,7 @@ return {
 		{
 			id = 518,
 			condition_id = 118,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8318,7 +8318,7 @@ return {
 		{
 			id = 519,
 			condition_id = 118,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8342,7 +8342,7 @@ return {
 		{
 			id = 522,
 			condition_id = 119,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8350,7 +8350,7 @@ return {
 		{
 			id = 523,
 			condition_id = 119,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8358,7 +8358,7 @@ return {
 		{
 			id = 524,
 			condition_id = 119,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8382,7 +8382,7 @@ return {
 		{
 			id = 527,
 			condition_id = 120,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8390,7 +8390,7 @@ return {
 		{
 			id = 528,
 			condition_id = 120,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8398,7 +8398,7 @@ return {
 		{
 			id = 529,
 			condition_id = 120,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_4",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8422,7 +8422,7 @@ return {
 		{
 			id = 532,
 			condition_id = 121,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_2",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8430,7 +8430,7 @@ return {
 		{
 			id = 533,
 			condition_id = 121,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_3",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8438,7 +8438,7 @@ return {
 		{
 			id = 534,
 			condition_id = 121,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8462,7 +8462,7 @@ return {
 		{
 			id = 537,
 			condition_id = 122,
-			condition_name = "limit_item_id_1",
+			condition_name = "limit_item_id_3",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8470,7 +8470,7 @@ return {
 		{
 			id = 538,
 			condition_id = 122,
-			condition_name = "limit_item_id_2",
+			condition_name = "limit_item_id_4",
 			condition_value = 800,
 			judge_type = 2,
 		},
@@ -8478,7 +8478,7 @@ return {
 		{
 			id = 539,
 			condition_id = 122,
-			condition_name = "limit_item_id_3",
+			condition_name = "limit_item_id_5",
 			condition_value = 800,
 			judge_type = 2,
 		},
