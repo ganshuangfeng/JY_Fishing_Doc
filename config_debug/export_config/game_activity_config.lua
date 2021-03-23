@@ -448,5 +448,21 @@ return {
 			noCloseUI = 1,
 			tag = "normal",
 		},
+		[28]=
+		{
+			line = 28,
+			act_type = "normal",
+			ID = 28,
+			title = "系统升级奖励",
+			order = -20,
+			is_on_off = 1,
+			beginTime = 1614643200,
+			endTime = -1,
+			showType = "prefab",
+			parmData = "act_sjjl",
+			gotoUI = {"act_sjjl","panel"},
+			noCloseUI = 1,
+			tag = "new",
+		},
 	},
 }

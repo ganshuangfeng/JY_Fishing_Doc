@@ -6538,6 +6538,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1612828800,
 		},
+		[365]=
+		{
+			id = 365,
+			enable = 1,
+			key = "actp_own_task_p_system_update_1",
+			name = "大版本升级权限（CPS渠道屏蔽，除官方IOS渠道以外的IOS渠道屏蔽）",
+			condi = 380,
+			is_dynamic_codi = 0,
+			is_dynamic_cancel = 0,
+			refresh_type = "day_delay",
+			start_deal_time = 0,
+		},
 	},
 	condi=
 	{

@@ -10777,6 +10777,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000351]=
+		{
+			id = 1000351,
+			enable = 1,
+			name = "系统升级活动",
+			own_type = "p_system_update_1",
+			task_enum = "common",
+			process_id = 21709,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -18011,6 +18026,15 @@ return {
 			source_id = 583,
 			process = 1,
 			awards = 1088,
+			get_award_type = "nor",
+		},
+		[761]=
+		{
+			id = 761,
+			process_id = 21709,
+			source_id = 81,
+			process = 1,
+			awards = 937,
 			get_award_type = "nor",
 		},
 	},
