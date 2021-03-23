@@ -48187,7 +48187,7 @@ return {
 			award_id = 1169,
 			award_name = "智能多功能锅/小米运动手环",
 			get_weight = 1,
-			broadcast_content = 1,
+			is_send_email = 1,
 		},
 		[1935]=
 		{
@@ -48219,7 +48219,6 @@ return {
 			award_id = 1170,
 			award_name = "三只松鼠礼盒/进口橄榄油",
 			get_weight = 1,
-			broadcast_content = 1,
 		},
 		[1939]=
 		{
@@ -48228,6 +48227,7 @@ return {
 			asset_type = "prop_tiny_game_coin",
 			asset_count = 4088888,
 			get_weight = 1,
+			is_send_email = 1,
 		},
 		[1940]=
 		{
@@ -48251,7 +48251,7 @@ return {
 			award_id = 1171,
 			award_name = "酥脆猴菇饼干",
 			get_weight = 1,
-			broadcast_content = 1,
+			is_send_email = 1,
 		},
 		[1943]=
 		{
