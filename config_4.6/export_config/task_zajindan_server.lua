@@ -12686,6 +12686,21 @@ return {
 			is_send_client = 1,
 			award_change_type = "task_award_no_show",
 		},
+		[1000478]=
+		{
+			id = 1000478,
+			enable = 1,
+			name = "龙腾祈福·祈福好礼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21836,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1617667200,
+			end_valid_time = 1618243199,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -21068,6 +21083,15 @@ return {
 			awards = 1174,
 			get_award_type = "nor",
 		},
+		[888]=
+		{
+			id = 888,
+			process_id = 21836,
+			source_id = 626,
+			process = {10,40,50,100,300},
+			awards = {1175,1176,1177,1178,1179},
+			get_award_type = "random",
+		},
 	},
 	source=
 	{
@@ -28036,6 +28060,13 @@ return {
 			source_type = "buy_gift",
 			condition_id = 456,
 		},
+		[989]=
+		{
+			id = 989,
+			source_id = 626,
+			source_type = "box_exchange",
+			condition_id = 457,
+		},
 	},
 	condition=
 	{
@@ -32741,6 +32772,14 @@ return {
 			condition_id = 456,
 			condition_name = "gift_id",
 			condition_value = {5,88},
+			judge_type = 2,
+		},
+		[619]=
+		{
+			id = 619,
+			condition_id = 457,
+			condition_name = "box_exchange_type",
+			condition_value = 88,
 			judge_type = 2,
 		},
 	},
@@ -48372,6 +48411,46 @@ return {
 			award_id = 1174,
 			asset_type = "prop_fish_drop_act_0",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[1955]=
+		{
+			id = 1955,
+			award_id = 1175,
+			asset_type = "jing_bi",
+			asset_count = {100000,200000},
+			get_weight = 1,
+		},
+		[1956]=
+		{
+			id = 1956,
+			award_id = 1176,
+			asset_type = "jing_bi",
+			asset_count = {300000,500000},
+			get_weight = 1,
+		},
+		[1957]=
+		{
+			id = 1957,
+			award_id = 1177,
+			asset_type = "jing_bi",
+			asset_count = {400000,600000},
+			get_weight = 1,
+		},
+		[1958]=
+		{
+			id = 1958,
+			award_id = 1178,
+			asset_type = "jing_bi",
+			asset_count = {500000,1500000},
+			get_weight = 1,
+		},
+		[1959]=
+		{
+			id = 1959,
+			award_id = 1179,
+			asset_type = "shop_gold_sum",
+			asset_count = {1000,3000},
 			get_weight = 1,
 		},
 	},
