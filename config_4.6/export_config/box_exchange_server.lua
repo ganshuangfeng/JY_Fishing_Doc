@@ -10112,6 +10112,7 @@ return {
 			box_id = 88,
 			prop_type = "prop_grade",
 			base_score = 10,
+			task_id = 1000479,
 			award_rate = {1,1.1,1.3,1.5},
 		},
 	},
