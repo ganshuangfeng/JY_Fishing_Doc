@@ -20,7 +20,7 @@ return {
 		{
 			index = 1,
 			gift_key = "gift_ltlb",
-			gift_ids = {10661,10662,10663},
+			gift_ids = {10503,10504,10505},
 			permiss = "actp_buy_gift_bag_class_integral_gift_buy_nor",
 			name_txt_fmt = {"fffae1","af2a22"},
 			award_z_txt_fmt = {"FFFFFF",},
@@ -37,7 +37,7 @@ return {
 		{
 			index = 2,
 			gift_key = "gift_ltlb",
-			gift_ids = {10664,10665,10666},
+			gift_ids = {10506,10507,10508},
 			permiss = "actp_buy_gift_bag_class_integral_gift_buy_v1",
 			name_txt_fmt = {"fffae1","af2a22"},
 			award_z_txt_fmt = {"FFFFFF",},
@@ -54,7 +54,7 @@ return {
 		{
 			index = 3,
 			gift_key = "gift_ltlb",
-			gift_ids = {10667,10668,10669},
+			gift_ids = {10509,10510,10511},
 			permiss = "actp_buy_gift_bag_class_integral_gift_buy_v4",
 			name_txt_fmt = {"fffae1","af2a22"},
 			award_z_txt_fmt = {"FFFFFF",},
@@ -71,7 +71,7 @@ return {
 		{
 			index = 4,
 			gift_key = "gift_ltlb",
-			gift_ids = {10670,10671,10672},
+			gift_ids = {10512,10513,10514},
 			permiss = "actp_buy_gift_bag_class_integral_gift_buy_v8",
 			name_txt_fmt = {"fffae1","af2a22"},
 			award_z_txt_fmt = {"FFFFFF",},
