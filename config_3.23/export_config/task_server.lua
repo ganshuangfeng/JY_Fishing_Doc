@@ -1320,6 +1320,22 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[96]=
+		{
+			id = 96,
+			enable = 1,
+			name = "消消乐闯关层数任务",
+			own_type = "normal",
+			task_enum = "xiaoxiaole_tower_week_task",
+			process_id = 96,
+			is_reset = 1,
+			reset_delay = 7,
+			start_valid_time = 1615046400,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+			award_change_type = "task_xiaoxiaole_tower_week_children_task",
+		},
 	},
 	process_data=
 	{
@@ -2254,6 +2270,15 @@ return {
 			process = 30000,
 			awards = 120,
 			get_award_type = "nor",
+		},
+		[96]=
+		{
+			id = 96,
+			process_id = 96,
+			source_id = 96,
+			process = {25,25,50,10000},
+			awards = {121,122,123},
+			get_award_type = "random",
 		},
 	},
 	source=
@@ -4607,6 +4632,30 @@ return {
 			award_id = 120,
 			asset_type = "task_93",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[138]=
+		{
+			id = 138,
+			award_id = 121,
+			asset_type = "jing_bi",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[139]=
+		{
+			id = 139,
+			award_id = 122,
+			asset_type = "shop_gold_sum",
+			asset_count = {100,200},
+			get_weight = 1,
+		},
+		[140]=
+		{
+			id = 140,
+			award_id = 123,
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
 			get_weight = 1,
 		},
 	},
