@@ -565,7 +565,7 @@ return {
 			enable = 1,
 			rank_type = "xiaoxiaole_tower_week_rank",
 			name = "消消乐闯关排行榜",
-			begin_time = 1604246400,
+			begin_time = 1615046400,
 			end_time = 2555555555,
 			data_deal_type = "nor_add",
 			data_save_type = "single",
