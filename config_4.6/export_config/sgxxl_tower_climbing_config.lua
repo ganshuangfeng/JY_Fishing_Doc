@@ -19,7 +19,7 @@ return {
 			text = "累计消除",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x500",},
-			limit_num = {30,30,30,},
+			limit_num = {30,30,15,},
 		},
 		[3]=
 		{
@@ -29,7 +29,7 @@ return {
 			text = "累计消除",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x500",},
-			limit_num = {30,30,30,},
+			limit_num = {30,30,15,},
 		},
 		[4]=
 		{
@@ -39,7 +39,7 @@ return {
 			text = "累计消除",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x500",},
-			limit_num = {30,30,30,},
+			limit_num = {30,30,15,},
 		},
 		[5]=
 		{
@@ -49,7 +49,7 @@ return {
 			text = "累计消除",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x500",},
-			limit_num = {30,30,30,},
+			limit_num = {30,30,15,},
 		},
 		[6]=
 		{
@@ -59,7 +59,7 @@ return {
 			text = "累计消除",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x500",},
-			limit_num = {30,30,30,},
+			limit_num = {30,15,15,},
 		},
 		[7]=
 		{
@@ -79,7 +79,7 @@ return {
 			text = "累计消除（1万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x800",},
-			limit_num = {80,80,80,},
+			limit_num = {80,80,40,},
 		},
 		[9]=
 		{
@@ -89,7 +89,7 @@ return {
 			text = "累计消除（1万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x800",},
-			limit_num = {80,80,80,},
+			limit_num = {80,80,40,},
 		},
 		[10]=
 		{
@@ -99,7 +99,7 @@ return {
 			text = "累计消除（1万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x800",},
-			limit_num = {80,80,80,},
+			limit_num = {80,80,40,},
 		},
 		[11]=
 		{
@@ -109,7 +109,7 @@ return {
 			text = "累计消除（1万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x800",},
-			limit_num = {80,80,80,},
+			limit_num = {80,80,40,},
 		},
 		[12]=
 		{
@@ -119,7 +119,7 @@ return {
 			text = "累计消除（1万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x800",},
-			limit_num = {80,80,80,},
+			limit_num = {80,40,40,},
 		},
 		[13]=
 		{
@@ -129,7 +129,7 @@ return {
 			text = "累计消除（1万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x800",},
-			limit_num = {80,80,80,},
+			limit_num = {80,40,40,},
 		},
 		[14]=
 		{
@@ -139,7 +139,7 @@ return {
 			text = "累计消除（1万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x800",},
-			limit_num = {80,80,80,},
+			limit_num = {80,80,40,},
 		},
 		[15]=
 		{
@@ -149,7 +149,7 @@ return {
 			text = "累计消除（1万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x800",},
-			limit_num = {80,80,80,},
+			limit_num = {80,80,40,},
 		},
 		[16]=
 		{
@@ -159,7 +159,7 @@ return {
 			text = "累计消除（1万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x800",},
-			limit_num = {80,80,80,},
+			limit_num = {80,40,40,},
 		},
 		[17]=
 		{
@@ -179,7 +179,7 @@ return {
 			text = "累计消除（3万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x3000",},
-			limit_num = {100,100,100,},
+			limit_num = {100,100,50,},
 		},
 		[19]=
 		{
@@ -189,7 +189,7 @@ return {
 			text = "累计消除（3万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x3000",},
-			limit_num = {100,100,100,},
+			limit_num = {100,100,50,},
 		},
 		[20]=
 		{
@@ -199,7 +199,7 @@ return {
 			text = "累计消除（3万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x3000",},
-			limit_num = {100,100,100,},
+			limit_num = {100,100,50,},
 		},
 		[21]=
 		{
@@ -209,7 +209,7 @@ return {
 			text = "累计消除（3万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x3000",},
-			limit_num = {100,100,100,},
+			limit_num = {100,100,50,},
 		},
 		[22]=
 		{
@@ -219,7 +219,7 @@ return {
 			text = "累计消除（3万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x3000",},
-			limit_num = {100,100,100,},
+			limit_num = {100,50,50,},
 		},
 		[23]=
 		{
@@ -229,7 +229,7 @@ return {
 			text = "累计消除（3万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x3000",},
-			limit_num = {100,100,100,},
+			limit_num = {100,50,50,},
 		},
 		[24]=
 		{
@@ -239,7 +239,7 @@ return {
 			text = "累计消除（3万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x3000",},
-			limit_num = {100,100,100,},
+			limit_num = {100,100,50,},
 		},
 		[25]=
 		{
@@ -249,7 +249,7 @@ return {
 			text = "累计消除（3万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x3000",},
-			limit_num = {100,100,100,},
+			limit_num = {100,100,50,},
 		},
 		[26]=
 		{
@@ -259,7 +259,7 @@ return {
 			text = "累计消除（3万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x3000",},
-			limit_num = {100,100,100,},
+			limit_num = {100,50,50,},
 		},
 		[27]=
 		{
@@ -299,7 +299,7 @@ return {
 			text = "累计消除（6万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x5000",},
-			limit_num = {120,120,120,},
+			limit_num = {120,120,60,},
 		},
 		[31]=
 		{
@@ -309,7 +309,7 @@ return {
 			text = "累计消除（6万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x5000",},
-			limit_num = {120,120,120,},
+			limit_num = {120,120,60,},
 		},
 		[32]=
 		{
@@ -319,7 +319,7 @@ return {
 			text = "累计消除（6万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x5000",},
-			limit_num = {120,120,120,},
+			limit_num = {120,120,60,},
 		},
 		[33]=
 		{
@@ -329,7 +329,7 @@ return {
 			text = "累计消除（6万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x5000",},
-			limit_num = {120,120,120,},
+			limit_num = {120,120,60,},
 		},
 		[34]=
 		{
@@ -339,7 +339,7 @@ return {
 			text = "累计消除（6万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x5000",},
-			limit_num = {120,120,120,},
+			limit_num = {120,60,60,},
 		},
 		[35]=
 		{
@@ -349,7 +349,7 @@ return {
 			text = "累计消除（6万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x5000",},
-			limit_num = {120,120,120,},
+			limit_num = {120,60,60,},
 		},
 		[36]=
 		{
@@ -359,7 +359,7 @@ return {
 			text = "累计消除（6万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x5000",},
-			limit_num = {120,120,120,},
+			limit_num = {120,120,60,},
 		},
 		[37]=
 		{
@@ -369,7 +369,7 @@ return {
 			text = "累计消除（6万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x5000",},
-			limit_num = {120,120,120,},
+			limit_num = {120,120,60,},
 		},
 		[38]=
 		{
@@ -379,7 +379,7 @@ return {
 			text = "累计消除（6万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x5000",},
-			limit_num = {120,120,120,},
+			limit_num = {120,60,60,},
 		},
 		[39]=
 		{
@@ -419,7 +419,7 @@ return {
 			text = "累计消除（12万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x18000",},
-			limit_num = {150,150,150,},
+			limit_num = {150,150,80,},
 		},
 		[43]=
 		{
@@ -429,7 +429,7 @@ return {
 			text = "累计消除（12万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x18000",},
-			limit_num = {150,150,150,},
+			limit_num = {150,150,80,},
 		},
 		[44]=
 		{
@@ -439,7 +439,7 @@ return {
 			text = "累计消除（12万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x18000",},
-			limit_num = {150,150,150,},
+			limit_num = {150,150,80,},
 		},
 		[45]=
 		{
@@ -449,7 +449,7 @@ return {
 			text = "累计消除（12万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x18000",},
-			limit_num = {150,150,150,},
+			limit_num = {150,150,80,},
 		},
 		[46]=
 		{
@@ -459,7 +459,7 @@ return {
 			text = "累计消除（12万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x18000",},
-			limit_num = {150,150,150,},
+			limit_num = {150,80,80,},
 		},
 		[47]=
 		{
@@ -469,7 +469,7 @@ return {
 			text = "累计消除（12万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x18000",},
-			limit_num = {150,150,150,},
+			limit_num = {150,80,80,},
 		},
 		[48]=
 		{
@@ -479,7 +479,7 @@ return {
 			text = "累计消除（12万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x18000",},
-			limit_num = {150,150,150,},
+			limit_num = {150,150,80,},
 		},
 		[49]=
 		{
@@ -489,7 +489,7 @@ return {
 			text = "累计消除（12万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x18000",},
-			limit_num = {150,150,150,},
+			limit_num = {150,150,80,},
 		},
 		[50]=
 		{
@@ -499,7 +499,7 @@ return {
 			text = "累计消除（12万及以上档次）",
 			award_img = {"ty_icon_jb_18y",},
 			award_txt = {"x18000",},
-			limit_num = {150,150,150,},
+			limit_num = {150,80,80,},
 		},
 		[51]=
 		{
@@ -539,7 +539,7 @@ return {
 			text = "累计消除（24万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x30",},
-			limit_num = {200,200,200,},
+			limit_num = {200,200,100,},
 		},
 		[55]=
 		{
@@ -549,7 +549,7 @@ return {
 			text = "累计消除（24万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x30",},
-			limit_num = {200,200,200,},
+			limit_num = {200,200,100,},
 		},
 		[56]=
 		{
@@ -559,7 +559,7 @@ return {
 			text = "累计消除（24万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x30",},
-			limit_num = {200,200,200,},
+			limit_num = {200,200,100,},
 		},
 		[57]=
 		{
@@ -569,7 +569,7 @@ return {
 			text = "累计消除（24万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x30",},
-			limit_num = {200,200,200,},
+			limit_num = {200,200,100,},
 		},
 		[58]=
 		{
@@ -579,7 +579,7 @@ return {
 			text = "累计消除（24万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x30",},
-			limit_num = {200,200,200,},
+			limit_num = {200,100,100,},
 		},
 		[59]=
 		{
@@ -589,7 +589,7 @@ return {
 			text = "累计消除（24万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x30",},
-			limit_num = {200,200,200,},
+			limit_num = {200,100,100,},
 		},
 		[60]=
 		{
@@ -599,7 +599,7 @@ return {
 			text = "累计消除（24万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x30",},
-			limit_num = {200,200,200,},
+			limit_num = {200,200,100,},
 		},
 		[61]=
 		{
@@ -609,7 +609,7 @@ return {
 			text = "累计消除（24万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x30",},
-			limit_num = {200,200,200,},
+			limit_num = {200,200,100,},
 		},
 		[62]=
 		{
@@ -619,7 +619,7 @@ return {
 			text = "累计消除（24万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x30",},
-			limit_num = {200,200,200,},
+			limit_num = {200,100,100,},
 		},
 		[63]=
 		{
@@ -669,7 +669,7 @@ return {
 			text = "累计消除（48万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x100",},
-			limit_num = {300,300,300,},
+			limit_num = {300,300,150,},
 		},
 		[68]=
 		{
@@ -679,7 +679,7 @@ return {
 			text = "累计消除（48万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x100",},
-			limit_num = {300,300,300,},
+			limit_num = {300,300,150,},
 		},
 		[69]=
 		{
@@ -689,7 +689,7 @@ return {
 			text = "累计消除（48万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x100",},
-			limit_num = {300,300,300,},
+			limit_num = {300,300,150,},
 		},
 		[70]=
 		{
@@ -699,7 +699,7 @@ return {
 			text = "累计消除（48万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x100",},
-			limit_num = {300,300,300,},
+			limit_num = {300,300,150,},
 		},
 		[71]=
 		{
@@ -709,7 +709,7 @@ return {
 			text = "累计消除（48万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x100",},
-			limit_num = {300,300,300,},
+			limit_num = {300,150,150,},
 		},
 		[72]=
 		{
@@ -719,7 +719,7 @@ return {
 			text = "累计消除（48万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x100",},
-			limit_num = {300,300,300,},
+			limit_num = {300,150,150,},
 		},
 		[73]=
 		{
@@ -729,7 +729,7 @@ return {
 			text = "累计消除（48万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x100",},
-			limit_num = {300,300,300,},
+			limit_num = {300,300,150,},
 		},
 		[74]=
 		{
@@ -739,7 +739,7 @@ return {
 			text = "累计消除（48万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x100",},
-			limit_num = {300,300,300,},
+			limit_num = {300,300,150,},
 		},
 		[75]=
 		{
@@ -749,7 +749,7 @@ return {
 			text = "累计消除（48万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x100",},
-			limit_num = {300,300,300,},
+			limit_num = {300,150,150,},
 		},
 		[76]=
 		{
@@ -799,7 +799,7 @@ return {
 			text = "累计消除（96万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x300",},
-			limit_num = {400,400,400,},
+			limit_num = {400,400,200,},
 		},
 		[81]=
 		{
@@ -809,7 +809,7 @@ return {
 			text = "累计消除（96万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x300",},
-			limit_num = {400,400,400,},
+			limit_num = {400,400,200,},
 		},
 		[82]=
 		{
@@ -819,7 +819,7 @@ return {
 			text = "累计消除（96万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x300",},
-			limit_num = {400,400,400,},
+			limit_num = {400,400,200,},
 		},
 		[83]=
 		{
@@ -829,7 +829,7 @@ return {
 			text = "累计消除（96万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x300",},
-			limit_num = {400,400,400,},
+			limit_num = {400,400,200,},
 		},
 		[84]=
 		{
@@ -839,7 +839,7 @@ return {
 			text = "累计消除（96万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x300",},
-			limit_num = {400,400,400,},
+			limit_num = {400,200,200,},
 		},
 		[85]=
 		{
@@ -849,7 +849,7 @@ return {
 			text = "累计消除（96万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x300",},
-			limit_num = {400,400,400,},
+			limit_num = {400,200,200,},
 		},
 		[86]=
 		{
@@ -859,7 +859,7 @@ return {
 			text = "累计消除（96万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x300",},
-			limit_num = {400,400,400,},
+			limit_num = {400,400,200,},
 		},
 		[87]=
 		{
@@ -869,7 +869,7 @@ return {
 			text = "累计消除（96万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x300",},
-			limit_num = {400,400,400,},
+			limit_num = {400,400,200,},
 		},
 		[88]=
 		{
@@ -879,7 +879,7 @@ return {
 			text = "累计消除（96万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x300",},
-			limit_num = {400,400,400,},
+			limit_num = {400,200,200,},
 		},
 		[89]=
 		{
@@ -929,7 +929,7 @@ return {
 			text = "累计消除（192万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x600",},
-			limit_num = {500,500,500,},
+			limit_num = {500,500,250,},
 		},
 		[94]=
 		{
@@ -939,7 +939,7 @@ return {
 			text = "累计消除（192万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x600",},
-			limit_num = {500,500,500,},
+			limit_num = {500,500,250,},
 		},
 		[95]=
 		{
@@ -949,7 +949,7 @@ return {
 			text = "累计消除（192万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x600",},
-			limit_num = {500,500,500,},
+			limit_num = {500,500,250,},
 		},
 		[96]=
 		{
@@ -959,7 +959,7 @@ return {
 			text = "累计消除（192万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x600",},
-			limit_num = {500,500,500,},
+			limit_num = {500,500,250,},
 		},
 		[97]=
 		{
@@ -969,7 +969,7 @@ return {
 			text = "累计消除（192万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x600",},
-			limit_num = {500,500,500,},
+			limit_num = {500,250,250,},
 		},
 		[98]=
 		{
@@ -979,7 +979,7 @@ return {
 			text = "累计消除（192万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x600",},
-			limit_num = {500,500,500,},
+			limit_num = {500,250,250,},
 		},
 		[99]=
 		{
@@ -989,7 +989,7 @@ return {
 			text = "累计消除（192万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x600",},
-			limit_num = {500,500,500,},
+			limit_num = {500,500,250,},
 		},
 		[100]=
 		{
@@ -999,7 +999,7 @@ return {
 			text = "累计消除（192万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x600",},
-			limit_num = {500,500,500,},
+			limit_num = {500,500,250,},
 		},
 		[101]=
 		{
@@ -1009,7 +1009,7 @@ return {
 			text = "累计消除（192万及以上档次）",
 			award_img = {"ty_icon_flq1",},
 			award_txt = {"x600",},
-			limit_num = {500,500,500,},
+			limit_num = {500,250,250,},
 		},
 		[102]=
 		{
@@ -1059,7 +1059,7 @@ return {
 			text = "累计消除（512万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x2000",},
-			limit_num = {600,600,600,},
+			limit_num = {600,600,300,},
 		},
 		[107]=
 		{
@@ -1069,7 +1069,7 @@ return {
 			text = "累计消除（512万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x2000",},
-			limit_num = {600,600,600,},
+			limit_num = {600,600,300,},
 		},
 		[108]=
 		{
@@ -1079,7 +1079,7 @@ return {
 			text = "累计消除（512万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x2000",},
-			limit_num = {600,600,600,},
+			limit_num = {600,600,300,},
 		},
 		[109]=
 		{
@@ -1089,7 +1089,7 @@ return {
 			text = "累计消除（512万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x2000",},
-			limit_num = {600,600,600,},
+			limit_num = {600,600,300,},
 		},
 		[110]=
 		{
@@ -1099,7 +1099,7 @@ return {
 			text = "累计消除（512万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x2000",},
-			limit_num = {600,600,600,},
+			limit_num = {600,300,300,},
 		},
 		[111]=
 		{
@@ -1109,7 +1109,7 @@ return {
 			text = "累计消除（512万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x2000",},
-			limit_num = {600,600,600,},
+			limit_num = {600,300,300,},
 		},
 		[112]=
 		{
@@ -1119,7 +1119,7 @@ return {
 			text = "累计消除（512万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x2000",},
-			limit_num = {600,600,600,},
+			limit_num = {600,600,300,},
 		},
 		[113]=
 		{
@@ -1129,7 +1129,7 @@ return {
 			text = "累计消除（512万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x2000",},
-			limit_num = {600,600,600,},
+			limit_num = {600,600,300,},
 		},
 		[114]=
 		{
@@ -1139,7 +1139,7 @@ return {
 			text = "累计消除（512万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x2000",},
-			limit_num = {600,600,600,},
+			limit_num = {600,300,300,},
 		},
 		[115]=
 		{
@@ -1189,7 +1189,7 @@ return {
 			text = "累计消除（1024万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x6000",},
-			limit_num = {800,800,800,},
+			limit_num = {800,800,400,},
 		},
 		[120]=
 		{
@@ -1199,7 +1199,7 @@ return {
 			text = "累计消除（1024万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x6000",},
-			limit_num = {800,800,800,},
+			limit_num = {800,800,400,},
 		},
 		[121]=
 		{
@@ -1209,7 +1209,7 @@ return {
 			text = "累计消除（1024万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x6000",},
-			limit_num = {800,800,800,},
+			limit_num = {800,800,400,},
 		},
 		[122]=
 		{
@@ -1219,7 +1219,7 @@ return {
 			text = "累计消除（1024万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x6000",},
-			limit_num = {800,800,800,},
+			limit_num = {800,800,400,},
 		},
 		[123]=
 		{
@@ -1229,7 +1229,7 @@ return {
 			text = "累计消除（1024万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x6000",},
-			limit_num = {800,800,800,},
+			limit_num = {800,400,400,},
 		},
 		[124]=
 		{
@@ -1239,7 +1239,7 @@ return {
 			text = "累计消除（1024万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x6000",},
-			limit_num = {800,800,800,},
+			limit_num = {800,400,400,},
 		},
 		[125]=
 		{
@@ -1249,7 +1249,7 @@ return {
 			text = "累计消除（1024万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x6000",},
-			limit_num = {800,800,800,},
+			limit_num = {800,800,400,},
 		},
 		[126]=
 		{
@@ -1259,7 +1259,7 @@ return {
 			text = "累计消除（1024万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x6000",},
-			limit_num = {800,800,800,},
+			limit_num = {800,800,400,},
 		},
 		[127]=
 		{
@@ -1269,7 +1269,7 @@ return {
 			text = "累计消除（1024万及以上档次）",
 			award_img = {"ty_icon_flq2",},
 			award_txt = {"x6000",},
-			limit_num = {800,800,800,},
+			limit_num = {800,400,400,},
 		},
 		[128]=
 		{
