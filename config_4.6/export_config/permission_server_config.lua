@@ -6656,7 +6656,7 @@ return {
 		{
 			id = 372,
 			enable = 1,
-			key = "actp_rank_xxlzb_007_rank",
+			key = "actp_rank_xxlzb_009_rank",
 			name = "消消乐争霸--cjj",
 			condi = 394,
 			is_dynamic_codi = 1,
