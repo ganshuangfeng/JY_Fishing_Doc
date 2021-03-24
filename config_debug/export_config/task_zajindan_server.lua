@@ -48219,6 +48219,7 @@ return {
 			award_id = 1170,
 			award_name = "三只松鼠礼盒/进口橄榄油",
 			get_weight = 1,
+			is_send_email = 1,
 		},
 		[1939]=
 		{
@@ -48227,7 +48228,6 @@ return {
 			asset_type = "prop_tiny_game_coin",
 			asset_count = 4088888,
 			get_weight = 1,
-			is_send_email = 1,
 		},
 		[1940]=
 		{
