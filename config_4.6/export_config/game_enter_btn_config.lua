@@ -1262,7 +1262,7 @@ return {
 		{
 			id = 129,
 			parm = {"sgxxl_tower_climbing",},
-			is_on_off = 0,
+			is_on_off = 1,
 			condi_key = "cpl_cjj",
 		},
 		[130]=
