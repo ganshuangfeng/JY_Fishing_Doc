@@ -12,7 +12,7 @@ return {
 			e_time = 1618243199,
 			award = {1,2,3,4,5,6,7},
 			extra_award = {8,9,10,11,12,13,14},
-			path = "act_010_dlphb",
+			path = "act_011_dlphb",
 		},
 	},
 	award_config=
