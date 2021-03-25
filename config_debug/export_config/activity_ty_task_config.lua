@@ -235,7 +235,7 @@ return {
 			id = 12,
 			task = 1000450,
 			total = 6,
-			task_name = "在西游消消乐中消除1次孙悟空",
+			task_name = "在西游消消乐中消除2次孙悟空",
 			level = 1,
 			item = {"jing_bi","prop_fish_drop_act_0"},
 			count = {15000,10},
