@@ -2185,6 +2185,12 @@ return {
 			name = "水果消消乐爬塔宝箱限制",
 			condi = 23,
 		},
+		banner_ggxt=
+		{
+			key = "banner_ggxt",
+			name = "banner和插图广告系统（免费玩家-非新玩家）",
+			condi = 411,
+		},
 	},
 	act_permission=
 	{
@@ -16714,6 +16720,26 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不等于捕鱼奥秘",
+		},
+		[1001]=
+		{
+			no = 1001,
+			id = 411,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新玩家",
+		},
+		[1002]=
+		{
+			no = 1002,
+			id = 411,
+			var = "vip_level",
+			value = 0,
+			judge = 2,
+			group = 1,
+			error_desc = "不是新玩家",
 		},
 	},
 	share_condition=
