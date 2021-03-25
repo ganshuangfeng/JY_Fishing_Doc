@@ -6632,8 +6632,8 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_ymkh_010_wxphb_rank",
-			name = "五星排行榜--非cjj",
+			key = "actp_rank_qmyl_011_hdphb_rank",
+			name = "河灯排行榜--非cjj",
 			condi = 393,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
