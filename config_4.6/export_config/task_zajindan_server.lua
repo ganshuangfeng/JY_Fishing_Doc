@@ -13286,21 +13286,6 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
-		[1000518]=
-		{
-			id = 1000518,
-			enable = 1,
-			name = "系统升级活动",
-			own_type = "p_system_update_1",
-			task_enum = "common",
-			process_id = 21876,
-			is_reset = 0,
-			reset_delay = 1,
-			start_valid_time = 946677600,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
 	},
 	process_data=
 	{
@@ -22039,15 +22024,6 @@ return {
 			source_id = 625,
 			process = 3,
 			awards = 1195,
-			get_award_type = "nor",
-		},
-		[928]=
-		{
-			id = 928,
-			process_id = 21876,
-			source_id = 81,
-			process = 1,
-			awards = 1196,
 			get_award_type = "nor",
 		},
 	},
@@ -49748,30 +49724,6 @@ return {
 			id = 2000,
 			award_id = 1195,
 			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 5,
-			get_weight = 1,
-		},
-		[2001]=
-		{
-			id = 2001,
-			award_id = 1196,
-			asset_type = "jing_bi",
-			asset_count = 50000,
-			get_weight = 1,
-		},
-		[2002]=
-		{
-			id = 2002,
-			award_id = 1196,
-			asset_type = "prop_tiny_game_coin",
-			asset_count = 50000,
-			get_weight = 1,
-		},
-		[2003]=
-		{
-			id = 2003,
-			award_id = 1196,
-			asset_type = "prop_3d_fish_doubled",
 			asset_count = 5,
 			get_weight = 1,
 		},
