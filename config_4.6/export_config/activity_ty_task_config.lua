@@ -339,6 +339,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {188888,50,1},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"小游戏币：可在小游戏中使用。","河灯：可用于兑换奖品。","请在苹果大战中使用"},
 		},
 		[22]=
 		{
@@ -350,6 +351,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {388888,100,2},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"小游戏币：可在小游戏中使用。","河灯：可用于兑换奖品。","请在苹果大战中使用"},
 		},
 		[23]=
 		{
@@ -361,6 +363,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {588888,150,3},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"小游戏币：可在小游戏中使用。","河灯：可用于兑换奖品。","请在苹果大战中使用"},
 		},
 		[24]=
 		{
@@ -372,6 +375,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {1088888,300,5},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"小游戏币：可在小游戏中使用。","河灯：可用于兑换奖品。","请在苹果大战中使用"},
 		},
 		[25]=
 		{
@@ -383,6 +387,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0"},
 			count = {8888888,8888},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"小游戏币：可在小游戏中使用。",""},
 			N_chose_1_img = {"swjl_1","swjl_2"},
 			N_chose_1_text = {"小米蓝牙耳机/","家用电烤箱"},
 			remarks = "实物奖励二选一",
@@ -397,6 +402,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0"},
 			count = {4088888,3888},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"小游戏币：可在小游戏中使用。",""},
 			N_chose_1_img = {"swjl_3","swjl_4"},
 			N_chose_1_text = {"奥克斯煮蛋器","金龙鱼油"},
 			remarks = "实物奖励二选一",
@@ -411,6 +417,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0","swjl_5",},
 			count = {2088888,1988,"核桃早餐奶8盒"},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"小游戏币：可在小游戏中使用。",""},
 			N_chose_1_img = {"swjl_5",},
 			N_chose_1_text = {"核桃早餐奶8盒",},
 		},
@@ -424,6 +431,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {2088888,888,5},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"小游戏币：可在小游戏中使用。","河灯：可用于兑换奖品。","请在苹果大战中使用"},
 		},
 		[29]=
 		{
@@ -435,6 +443,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {1088888,300,5},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"小游戏币：可在小游戏中使用。","河灯：可用于兑换奖品。","请在苹果大战中使用"},
 		},
 		[30]=
 		{
@@ -446,7 +455,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {188888,50,1},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","","请在苹果大战中使用"},
+			Tips = {"小游戏币：可在小游戏中使用。","河灯：可用于兑换奖品。","请在苹果大战中使用"},
 		},
 		[31]=
 		{
@@ -458,7 +467,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {388888,100,2},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","","请在苹果大战中使用"},
+			Tips = {"小游戏币：可在小游戏中使用。","河灯：可用于兑换奖品。","请在苹果大战中使用"},
 		},
 		[32]=
 		{
@@ -470,7 +479,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {588888,150,3},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","","请在苹果大战中使用"},
+			Tips = {"小游戏币：可在小游戏中使用。","河灯：可用于兑换奖品。","请在苹果大战中使用"},
 		},
 		[33]=
 		{
@@ -482,7 +491,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {1088888,300,5},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","","请在苹果大战中使用"},
+			Tips = {"小游戏币：可在小游戏中使用。","河灯：可用于兑换奖品。","请在苹果大战中使用"},
 		},
 		[34]=
 		{
@@ -494,6 +503,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0"},
 			count = {8888888,8888},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"小游戏币：可在小游戏中使用。",""},
 			N_chose_1_img = {"swjl_1","swjl_2"},
 			N_chose_1_text = {"小米蓝牙耳机/","家用电烤箱"},
 			remarks = "实物奖励二选一",
@@ -508,6 +518,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0"},
 			count = {4088888,3888},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"小游戏币：可在小游戏中使用。",""},
 			N_chose_1_img = {"swjl_3","swjl_4"},
 			N_chose_1_text = {"奥克斯煮蛋器","金龙鱼油"},
 			remarks = "实物奖励二选一",
@@ -522,6 +533,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0","swjl_5",},
 			count = {2088888,1988,"核桃早餐奶8盒"},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"小游戏币：可在小游戏中使用。",""},
 			N_chose_1_img = {"swjl_5",},
 			N_chose_1_text = {"核桃早餐奶8盒",},
 		},
@@ -535,7 +547,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {2088888,888,5},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","","请在苹果大战中使用"},
+			Tips = {"小游戏币：可在小游戏中使用。","河灯：可用于兑换奖品。","请在苹果大战中使用"},
 		},
 		[38]=
 		{
@@ -547,7 +559,7 @@ return {
 			item = {"prop_tiny_game_coin","prop_fish_drop_act_0","prop_guess_apple_bet_1"},
 			count = {1088888,300,5},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","","请在苹果大战中使用"},
+			Tips = {"小游戏币：可在小游戏中使用。","河灯：可用于兑换奖品。","请在苹果大战中使用"},
 		},
 	},
 }
