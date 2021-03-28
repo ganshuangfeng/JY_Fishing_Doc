@@ -629,7 +629,7 @@ return {
 			text = "单局消除（24万及以上档次）",
 			award_img = {ty_icon_flq2,},
 			award_txt = {"x50",},
-			limit_num = {9,9,9,},
+			limit_num = {6,6,6,},
 		},
 		[64]=
 		{
@@ -639,7 +639,7 @@ return {
 			text = "单局消除（24万及以上档次）",
 			award_img = {ty_icon_flq2,},
 			award_txt = {"x50",},
-			limit_num = {9,9,9,},
+			limit_num = {6,6,6,},
 		},
 		[65]=
 		{
@@ -759,7 +759,7 @@ return {
 			text = "单局消除（48万及以上档次）",
 			award_img = {ty_icon_flq2,},
 			award_txt = {"x150",},
-			limit_num = {9,9,9,},
+			limit_num = {6,6,6,},
 		},
 		[77]=
 		{
@@ -769,7 +769,7 @@ return {
 			text = "单局消除（48万及以上档次）",
 			award_img = {ty_icon_flq2,},
 			award_txt = {"x150",},
-			limit_num = {9,9,9,},
+			limit_num = {6,6,6,},
 		},
 		[78]=
 		{
@@ -889,7 +889,7 @@ return {
 			text = "单局消除（96万及以上档次）",
 			award_img = {ty_icon_flq2,},
 			award_txt = {"x500",},
-			limit_num = {9,9,9,},
+			limit_num = {6,6,6,},
 		},
 		[90]=
 		{
@@ -899,7 +899,7 @@ return {
 			text = "单局消除（96万及以上档次）",
 			award_img = {ty_icon_flq2,},
 			award_txt = {"x500",},
-			limit_num = {9,9,9,},
+			limit_num = {6,6,6,},
 		},
 		[91]=
 		{
@@ -1015,7 +1015,7 @@ return {
 		{
 			line = 102,
 			task_id = 16602,
-			task_icon = {"xxl_icon_4","xxl_icon_4","xxl_icon_4",},
+			task_icon = {"xxl_icon_1","xxl_icon_1","xxl_icon_1",},
 			text = "单局消除（192万及以上档次）",
 			award_img = {ty_icon_flq2,},
 			award_txt = {"x800",},
@@ -1025,7 +1025,7 @@ return {
 		{
 			line = 103,
 			task_id = 16603,
-			task_icon = {"xxl_icon_5","xxl_icon_5","xxl_icon_5",},
+			task_icon = {"xxl_icon_2","xxl_icon_2","xxl_icon_2",},
 			text = "单局消除（192万及以上档次）",
 			award_img = {ty_icon_flq2,},
 			award_txt = {"x800",},
@@ -1039,7 +1039,7 @@ return {
 			text = "幸运时刻（192万及以上档次）",
 			award_img = {ty_icon_flq2,},
 			award_txt = {"x800",},
-			limit_num = {2,2,2,},
+			limit_num = {-1,-1,-1,},
 		},
 		[105]=
 		{
@@ -1145,7 +1145,7 @@ return {
 		{
 			line = 115,
 			task_id = 16615,
-			task_icon = {"xxl_icon_4","xxl_icon_4","xxl_icon_4",},
+			task_icon = {"xxl_icon_2","xxl_icon_2","xxl_icon_2",},
 			text = "单局消除（512万及以上档次）",
 			award_img = {"ty_icon_flq3",},
 			award_txt = {"x5000",},
@@ -1155,7 +1155,7 @@ return {
 		{
 			line = 116,
 			task_id = 16616,
-			task_icon = {"xxl_icon_5","xxl_icon_5","xxl_icon_5",},
+			task_icon = {"xxl_icon_3","xxl_icon_3","xxl_icon_3",},
 			text = "单局消除（512万及以上档次）",
 			award_img = {"ty_icon_flq3",},
 			award_txt = {"x5000",},
@@ -1169,7 +1169,7 @@ return {
 			text = "幸运时刻（512万及以上档次）",
 			award_img = {"ty_icon_flq3",},
 			award_txt = {"x5000",},
-			limit_num = {2,2,2,},
+			limit_num = {-1,-1,-1,},
 		},
 		[118]=
 		{
@@ -1299,7 +1299,7 @@ return {
 			text = "幸运时刻（1024万及以上档次）",
 			award_img = {"ty_icon_flq3",},
 			award_txt = {"x10000",},
-			limit_num = {2,2,2,},
+			limit_num = {-1,-1,-1,},
 		},
 	},
 	Sheet2=

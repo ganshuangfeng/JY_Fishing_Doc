@@ -2197,6 +2197,12 @@ return {
 			name = "抽奖VIP0以上玩家概率",
 			condi = 412,
 		},
+		banner_ggxt=
+		{
+			key = "banner_ggxt",
+			name = "banner和插图广告系统（免费玩家-非新玩家）",
+			condi = 417,
+		},
 	},
 	act_permission=
 	{
@@ -16894,6 +16900,26 @@ return {
 			judge = 4,
 			group = 1,
 			error_desc = "VIP12及以下的用户才可体验",
+		},
+		[1013]=
+		{
+			no = 1013,
+			id = 417,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新玩家",
+		},
+		[1014]=
+		{
+			no = 1014,
+			id = 417,
+			var = "vip_level",
+			value = 0,
+			judge = 2,
+			group = 1,
+			error_desc = "不是新玩家",
 		},
 	},
 	share_condition=

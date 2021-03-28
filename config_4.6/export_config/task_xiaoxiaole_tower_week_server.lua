@@ -394,7 +394,7 @@ return {
 		[16527]=
 		{
 			id = 16527,
-			enable = 1,
+			enable = 0,
 			name = "单局消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -409,7 +409,7 @@ return {
 		[16528]=
 		{
 			id = 16528,
-			enable = 1,
+			enable = 0,
 			name = "单局消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -574,7 +574,7 @@ return {
 		[16539]=
 		{
 			id = 16539,
-			enable = 1,
+			enable = 0,
 			name = "单局消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -589,7 +589,7 @@ return {
 		[16540]=
 		{
 			id = 16540,
-			enable = 1,
+			enable = 0,
 			name = "单局消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -964,7 +964,7 @@ return {
 		[16565]=
 		{
 			id = 16565,
-			enable = 1,
+			enable = 0,
 			name = "幸运时刻（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -1159,7 +1159,7 @@ return {
 		[16578]=
 		{
 			id = 16578,
-			enable = 1,
+			enable = 0,
 			name = "幸运时刻（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
@@ -2989,7 +2989,7 @@ return {
 			id = 104,
 			process_id = 16604,
 			source_id = 104,
-			process = 2,
+			process = 1,
 			awards = 104,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3119,7 +3119,7 @@ return {
 			id = 117,
 			process_id = 16617,
 			source_id = 117,
-			process = 2,
+			process = 1,
 			awards = 117,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3249,7 +3249,7 @@ return {
 			id = 130,
 			process_id = 16630,
 			source_id = 130,
-			process = 2,
+			process = 1,
 			awards = 130,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -6415,7 +6415,7 @@ return {
 			id = 281,
 			condition_id = 63,
 			condition_name = "item_id_1",
-			condition_value = 9,
+			condition_value = 6,
 			judge_type = 3,
 		},
 		[282]=
@@ -6423,7 +6423,7 @@ return {
 			id = 282,
 			condition_id = 64,
 			condition_name = "item_id_2",
-			condition_value = 9,
+			condition_value = 6,
 			judge_type = 3,
 		},
 		[283]=
@@ -6831,7 +6831,7 @@ return {
 			id = 333,
 			condition_id = 75,
 			condition_name = "item_id_2",
-			condition_value = 9,
+			condition_value = 6,
 			judge_type = 3,
 		},
 		[334]=
@@ -6839,7 +6839,7 @@ return {
 			id = 334,
 			condition_id = 76,
 			condition_name = "item_id_3",
-			condition_value = 9,
+			condition_value = 6,
 			judge_type = 3,
 		},
 		[335]=
@@ -7247,7 +7247,7 @@ return {
 			id = 385,
 			condition_id = 87,
 			condition_name = "item_id_4",
-			condition_value = 9,
+			condition_value = 6,
 			judge_type = 3,
 		},
 		[386]=
@@ -7255,7 +7255,7 @@ return {
 			id = 386,
 			condition_id = 88,
 			condition_name = "item_id_5",
-			condition_value = 9,
+			condition_value = 6,
 			judge_type = 3,
 		},
 		[387]=
@@ -7662,7 +7662,7 @@ return {
 		{
 			id = 437,
 			condition_id = 99,
-			condition_name = "item_id_4",
+			condition_name = "item_id_1",
 			condition_value = 9,
 			judge_type = 3,
 		},
@@ -7670,7 +7670,7 @@ return {
 		{
 			id = 438,
 			condition_id = 100,
-			condition_name = "item_id_5",
+			condition_name = "item_id_2",
 			condition_value = 9,
 			judge_type = 3,
 		},
@@ -8078,7 +8078,7 @@ return {
 		{
 			id = 489,
 			condition_id = 111,
-			condition_name = "item_id_4",
+			condition_name = "item_id_2",
 			condition_value = 9,
 			judge_type = 3,
 		},
@@ -8086,7 +8086,7 @@ return {
 		{
 			id = 490,
 			condition_id = 112,
-			condition_name = "item_id_5",
+			condition_name = "item_id_3",
 			condition_value = 9,
 			judge_type = 3,
 		},
