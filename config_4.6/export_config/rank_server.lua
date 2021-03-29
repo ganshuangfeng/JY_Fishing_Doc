@@ -199,7 +199,7 @@ return {
 		[15]=
 		{
 			id = 15,
-			enable = 1,
+			enable = 0,
 			rank_type = "leijiyingjin_rank",
 			name = "累计赢金排行榜",
 			begin_time = 1604246400,
@@ -626,6 +626,20 @@ return {
 			score_source = 43,
 			show_model = 45,
 			settle_model = 43,
+		},
+		[46]=
+		{
+			id = 46,
+			enable = 1,
+			rank_type = "leijixiaohao_rank",
+			name = "达人榜",
+			begin_time = 1604246400,
+			end_time = 2555555555,
+			data_deal_type = "nor_add",
+			data_save_type = "single",
+			score_source = 44,
+			show_model = 46,
+			settle_model = 44,
 		},
 	},
 	score_source=
@@ -1289,6 +1303,12 @@ return {
 			source_id = 43,
 			source_type = "xiaoxiaole_award",
 			condtion_id = 45,
+		},
+		[98]=
+		{
+			id = 98,
+			source_id = 44,
+			condtion_id = 46,
 		},
 	},
 	source_condition=
@@ -2341,6 +2361,16 @@ return {
 			show_refresh_delay = 180,
 			show_refresh_self_delay = 10,
 		},
+		[46]=
+		{
+			id = 46,
+			show_limit = 1,
+			max_show_num = 20,
+			max_rank_num = 100,
+			max_award_num = 20,
+			show_refresh_delay = 180,
+			show_refresh_self_delay = 10,
+		},
 	},
 	settle_model=
 	{
@@ -2644,6 +2674,13 @@ return {
 			is_clear = 1,
 			award_model = 43,
 		},
+		[44]=
+		{
+			id = 44,
+			settle_time_model = 48,
+			is_clear = 1,
+			award_model = 13,
+		},
 	},
 	settle_time_model=
 	{
@@ -2928,6 +2965,12 @@ return {
 			id = 47,
 			reset_type = "fix_time",
 			reset_value = 1618243199,
+		},
+		[48]=
+		{
+			id = 48,
+			reset_type = "week",
+			reset_value = 1,
 		},
 	},
 	award_model=
