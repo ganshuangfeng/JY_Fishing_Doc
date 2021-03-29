@@ -199,7 +199,7 @@ return {
 		[15]=
 		{
 			id = 15,
-			enable = 1,
+			enable = 0,
 			rank_type = "leijiyingjin_rank",
 			name = "累计赢金排行榜",
 			begin_time = 1604246400,
