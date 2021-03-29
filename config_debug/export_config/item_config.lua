@@ -4323,7 +4323,6 @@ return {
 			is_show_bag = 1,
 			order = 1,
 			name = "5～50元红包",
-			desc = "开启后获得优惠券，再商城单笔充值≥50元档次可用",
 			use_parm = {"act_xrxsfl","obj_xrxsfl_5_50box"},
 		},
 		[320]=

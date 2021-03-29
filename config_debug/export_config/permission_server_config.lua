@@ -6638,8 +6638,8 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_qmyl_011_hdphb_rank",
-			name = "河灯排行榜--非cjj",
+			key = "actp_rank_ymkh_010_wxphb_rank",
+			name = "五星排行榜--非cjj",
 			condi = 393,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -6650,7 +6650,7 @@ return {
 		{
 			id = 372,
 			enable = 1,
-			key = "actp_rank_xxlzb_008_rank",
+			key = "actp_rank_xxlzb_007_rank",
 			name = "消消乐争霸--cjj",
 			condi = 394,
 			is_dynamic_codi = 1,
@@ -15249,7 +15249,7 @@ return {
 			value = "3dby_cpl",
 			judge = 2,
 			group = 1,
-			error_desc = "是CPl渠道",
+			error_desc = "VIP1及以上的用户可进行领取",
 		},
 		[854]=
 		{
@@ -15269,7 +15269,7 @@ return {
 			value = "3dby_cps",
 			judge = 2,
 			group = 2,
-			error_desc = "是CPS渠道",
+			error_desc = "VIP1及以上的用户可进行领取",
 		},
 		[856]=
 		{
@@ -15289,7 +15289,7 @@ return {
 			value = "3dby_official",
 			judge = 2,
 			group = 3,
-			error_desc = "是官方渠道",
+			error_desc = "VIP1及以上的用户可进行领取",
 		},
 		[858]=
 		{
@@ -15619,7 +15619,7 @@ return {
 			value = "byam_official",
 			judge = 2,
 			group = 5,
-			error_desc = "3D捕鱼cpl",
+			error_desc = "3d捕鱼官方",
 		},
 		[891]=
 		{
@@ -16785,7 +16785,7 @@ return {
 			id = 5,
 			name = "3dby_cpl",
 			var = "market_channel",
-			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","juxiang","xiaozhuo","aibianxian","juju","qwxq",},
+			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","juxiang","xiaozhuo","aibianxian","juju","qwxq","byam_xianwan",},
 			judge = 2,
 			group = 1,
 		},
@@ -16803,7 +16803,7 @@ return {
 			id = 7,
 			name = "3dby_cps",
 			var = "market_channel",
-			value = {"vivo","xiaomi","yyb_hlttby",},
+			value = {"vivo","xiaomi","yyb_hlttby","xiaomi_byam","yyb_byam",},
 			judge = 2,
 			group = 1,
 		},
@@ -16867,6 +16867,42 @@ return {
 			name = "byam_cpl",
 			var = "market_channel",
 			value = {"byam_xianwan",},
+			judge = 2,
+			group = 1,
+		},
+		[15]=
+		{
+			id = 15,
+			name = "tthlby_cpl",
+			var = "market_channel",
+			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","juxiang","xiaozhuo","aibianxian","juju","qwxq",},
+			judge = 2,
+			group = 1,
+		},
+		[16]=
+		{
+			id = 16,
+			name = "tthlby_official",
+			var = "market_channel",
+			value = {"normal",},
+			judge = 2,
+			group = 1,
+		},
+		[17]=
+		{
+			id = 17,
+			name = "tthlby_cps",
+			var = "market_channel",
+			value = {"vivo","xiaomi","yyb_hlttby",},
+			judge = 2,
+			group = 1,
+		},
+		[18]=
+		{
+			id = 18,
+			name = "tthlby_all",
+			var = "market_channel",
+			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","juxiang","xiaozhuo","aibianxian","juju","qwxq","normal","vivo","xiaomi","yyb_hlttby","byam_xianwan",},
 			judge = 2,
 			group = 1,
 		},
