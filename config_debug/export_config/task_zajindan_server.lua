@@ -27924,7 +27924,7 @@ return {
 		{
 			id = 976,
 			source_id = 613,
-			source_type = "sh_xxl_xc_num_hero",
+			source_type = "sh_xxl_xc_target_hero",
 			condition_id = 445,
 		},
 		[977]=
@@ -32626,7 +32626,7 @@ return {
 		{
 			id = 607,
 			condition_id = 445,
-			condition_name = "hero_num",
+			condition_name = "hero_id",
 			condition_value = {1,2,3,4},
 			judge_type = 2,
 		},
