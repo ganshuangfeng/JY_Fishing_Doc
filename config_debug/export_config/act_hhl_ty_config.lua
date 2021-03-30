@@ -119,7 +119,7 @@ return {
 			line = 11,
 			award_name = "乳胶枕一对",
 			award_image = "swjl_3",
-			item_cost_text = 180000,
+			item_cost_text = 130000,
 			type = 1,
 		},
 		[12]=

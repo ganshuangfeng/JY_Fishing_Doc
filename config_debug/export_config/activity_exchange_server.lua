@@ -4197,7 +4197,7 @@ return {
 			award_id = 3,
 			permission_key = "actp_cjj_gej_exchange",
 			award_name = "乳胶枕一对",
-			use_num = {180000,},
+			use_num = {130000,},
 			me_limit_day_num = 1,
 		},
 		[322]=
