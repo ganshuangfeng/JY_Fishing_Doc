@@ -1308,7 +1308,78 @@ return {
 		{
 			id = 98,
 			source_id = 44,
-			condtion_id = 46,
+			source_type = "xiaoxiaole_spend",
+			condtion_id = 0,
+		},
+		[99]=
+		{
+			id = 99,
+			source_id = 44,
+			source_type = "zajindan_spend",
+			condtion_id = 0,
+		},
+		[100]=
+		{
+			id = 100,
+			source_id = 44,
+			source_type = "jykp_spend",
+			condtion_id = 0,
+		},
+		[101]=
+		{
+			id = 101,
+			source_id = 44,
+			source_type = "xiaoxiaole_shuihu_spend",
+			condtion_id = 0,
+		},
+		[102]=
+		{
+			id = 102,
+			source_id = 44,
+			source_type = "xiaoxiaole_caishen_spend",
+			condtion_id = 0,
+		},
+		[103]=
+		{
+			id = 103,
+			source_id = 44,
+			source_type = "xiaoxiaole_xiyou_spend",
+			condtion_id = 0,
+		},
+		[104]=
+		{
+			id = 104,
+			source_id = 44,
+			source_type = "buyu_spend",
+			condtion_id = 0,
+		},
+		[105]=
+		{
+			id = 105,
+			source_id = 44,
+			source_type = "lwzb_game_spend",
+			condtion_id = 0,
+		},
+		[106]=
+		{
+			id = 106,
+			source_id = 44,
+			source_type = "buyu_3d_spend",
+			condtion_id = 0,
+		},
+		[107]=
+		{
+			id = 107,
+			source_id = 44,
+			source_type = "tantanle_spend",
+			condtion_id = 0,
+		},
+		[108]=
+		{
+			id = 108,
+			source_id = 44,
+			source_type = "zajindan_caishen_model_spend",
+			condtion_id = 0,
 		},
 	},
 	source_condition=
