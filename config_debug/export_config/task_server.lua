@@ -2278,7 +2278,7 @@ return {
 			source_id = 96,
 			process = {30,20,30,10000},
 			awards = {121,122,123},
-			get_award_type = "random",
+			get_award_type = "nor",
 		},
 	},
 	source=
