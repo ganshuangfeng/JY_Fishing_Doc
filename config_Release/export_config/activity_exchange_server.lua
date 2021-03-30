@@ -107,7 +107,7 @@ return {
 			goods_type = 1,
 			email_id = 9,
 			award_id = 9,
-			enable = 1,
+			enable = 0,
 		},
 		[10]=
 		{
@@ -119,7 +119,7 @@ return {
 			goods_type = 1,
 			email_id = 10,
 			award_id = 10,
-			enable = 1,
+			enable = 0,
 		},
 		[11]=
 		{
@@ -131,7 +131,7 @@ return {
 			goods_type = 1,
 			email_id = 11,
 			award_id = 11,
-			enable = 1,
+			enable = 0,
 		},
 		[12]=
 		{
@@ -143,7 +143,7 @@ return {
 			goods_type = 1,
 			email_id = 12,
 			award_id = 12,
-			enable = 1,
+			enable = 0,
 		},
 		[13]=
 		{
@@ -155,7 +155,7 @@ return {
 			goods_type = 1,
 			email_id = 13,
 			award_id = 13,
-			enable = 1,
+			enable = 0,
 		},
 		[14]=
 		{
@@ -167,7 +167,7 @@ return {
 			goods_type = 1,
 			email_id = 14,
 			award_id = 14,
-			enable = 1,
+			enable = 0,
 		},
 		[15]=
 		{
@@ -179,7 +179,7 @@ return {
 			goods_type = 1,
 			email_id = 15,
 			award_id = 15,
-			enable = 1,
+			enable = 0,
 		},
 		[16]=
 		{
@@ -191,7 +191,7 @@ return {
 			goods_type = 1,
 			email_id = 16,
 			award_id = 16,
-			enable = 1,
+			enable = 0,
 		},
 		[17]=
 		{
@@ -203,7 +203,7 @@ return {
 			goods_type = 1,
 			email_id = 17,
 			award_id = 17,
-			enable = 1,
+			enable = 0,
 		},
 		[18]=
 		{
@@ -215,7 +215,7 @@ return {
 			goods_type = 1,
 			email_id = 18,
 			award_id = 18,
-			enable = 1,
+			enable = 0,
 		},
 		[19]=
 		{
@@ -227,7 +227,7 @@ return {
 			goods_type = 1,
 			email_id = 19,
 			award_id = 19,
-			enable = 1,
+			enable = 0,
 		},
 		[20]=
 		{
@@ -239,7 +239,7 @@ return {
 			goods_type = 1,
 			email_id = 20,
 			award_id = 20,
-			enable = 1,
+			enable = 0,
 		},
 		[21]=
 		{
@@ -250,7 +250,7 @@ return {
 			use_goods = {"prop_fclb_gong","prop_fclb_xi",},
 			goods_type = 1,
 			award_id = 21,
-			enable = 1,
+			enable = 0,
 		},
 		[22]=
 		{
@@ -261,7 +261,7 @@ return {
 			use_goods = {"prop_fclb_fa","prop_fclb_cai",},
 			goods_type = 1,
 			award_id = 22,
-			enable = 1,
+			enable = 0,
 		},
 		[23]=
 		{
@@ -272,7 +272,7 @@ return {
 			use_goods = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai",},
 			goods_type = 1,
 			award_id = 23,
-			enable = 1,
+			enable = 0,
 		},
 		[24]=
 		{
@@ -283,7 +283,7 @@ return {
 			use_goods = {"prop_fclb_gong","prop_fclb_xi",},
 			goods_type = 1,
 			award_id = 24,
-			enable = 1,
+			enable = 0,
 		},
 		[25]=
 		{
@@ -294,7 +294,7 @@ return {
 			use_goods = {"prop_fclb_fa","prop_fclb_cai",},
 			goods_type = 1,
 			award_id = 25,
-			enable = 1,
+			enable = 0,
 		},
 		[26]=
 		{
@@ -305,7 +305,7 @@ return {
 			use_goods = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai",},
 			goods_type = 1,
 			award_id = 26,
-			enable = 1,
+			enable = 0,
 		},
 		[27]=
 		{
@@ -316,7 +316,7 @@ return {
 			use_goods = {"prop_fclb_gong","prop_fclb_xi",},
 			goods_type = 1,
 			award_id = 27,
-			enable = 1,
+			enable = 0,
 		},
 		[28]=
 		{
@@ -327,7 +327,7 @@ return {
 			use_goods = {"prop_fclb_fa","prop_fclb_cai",},
 			goods_type = 1,
 			award_id = 28,
-			enable = 1,
+			enable = 0,
 		},
 		[29]=
 		{
@@ -338,7 +338,7 @@ return {
 			use_goods = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai",},
 			goods_type = 1,
 			award_id = 29,
-			enable = 1,
+			enable = 0,
 		},
 		[30]=
 		{
@@ -350,7 +350,7 @@ return {
 			goods_type = 1,
 			email_id = 21,
 			award_id = 30,
-			enable = 1,
+			enable = 0,
 		},
 		[31]=
 		{
@@ -362,7 +362,7 @@ return {
 			goods_type = 1,
 			email_id = 22,
 			award_id = 31,
-			enable = 1,
+			enable = 0,
 		},
 		[32]=
 		{
@@ -374,7 +374,7 @@ return {
 			goods_type = 1,
 			email_id = 23,
 			award_id = 32,
-			enable = 1,
+			enable = 0,
 		},
 		[33]=
 		{
@@ -386,7 +386,7 @@ return {
 			goods_type = 1,
 			email_id = 24,
 			award_id = 33,
-			enable = 1,
+			enable = 0,
 		},
 		[34]=
 		{
@@ -398,7 +398,7 @@ return {
 			goods_type = 1,
 			email_id = 25,
 			award_id = 34,
-			enable = 1,
+			enable = 0,
 		},
 		[35]=
 		{
@@ -410,7 +410,7 @@ return {
 			goods_type = 1,
 			email_id = 26,
 			award_id = 35,
-			enable = 1,
+			enable = 0,
 		},
 		[36]=
 		{
@@ -421,7 +421,7 @@ return {
 			use_goods = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai",},
 			goods_type = 1,
 			award_id = 36,
-			enable = 1,
+			enable = 0,
 		},
 		[37]=
 		{
@@ -432,7 +432,7 @@ return {
 			use_goods = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai",},
 			goods_type = 1,
 			award_id = 37,
-			enable = 1,
+			enable = 0,
 		},
 		[38]=
 		{
@@ -443,7 +443,7 @@ return {
 			use_goods = {"prop_fclb_gong","prop_fclb_xi","prop_fclb_fa","prop_fclb_cai",},
 			goods_type = 1,
 			award_id = 38,
-			enable = 1,
+			enable = 0,
 		},
 		[39]=
 		{
@@ -455,7 +455,7 @@ return {
 			goods_type = 1,
 			email_id = 27,
 			award_id = 39,
-			enable = 1,
+			enable = 0,
 		},
 		[40]=
 		{
@@ -467,7 +467,7 @@ return {
 			goods_type = 1,
 			email_id = 28,
 			award_id = 40,
-			enable = 1,
+			enable = 0,
 		},
 		[41]=
 		{
@@ -479,7 +479,7 @@ return {
 			goods_type = 1,
 			email_id = 29,
 			award_id = 41,
-			enable = 1,
+			enable = 0,
 		},
 		[42]=
 		{
@@ -491,7 +491,7 @@ return {
 			goods_type = 1,
 			email_id = 30,
 			award_id = 42,
-			enable = 1,
+			enable = 0,
 		},
 		[43]=
 		{
@@ -525,7 +525,7 @@ return {
 			goods_type = 1,
 			email_id = 31,
 			award_id = 45,
-			enable = 1,
+			enable = 0,
 		},
 		[46]=
 		{
@@ -537,7 +537,7 @@ return {
 			goods_type = 1,
 			email_id = 32,
 			award_id = 46,
-			enable = 1,
+			enable = 0,
 		},
 		[47]=
 		{
@@ -549,7 +549,7 @@ return {
 			goods_type = 1,
 			email_id = 33,
 			award_id = 47,
-			enable = 1,
+			enable = 0,
 		},
 		[48]=
 		{
@@ -561,7 +561,7 @@ return {
 			goods_type = 1,
 			email_id = 34,
 			award_id = 48,
-			enable = 1,
+			enable = 0,
 		},
 		[49]=
 		{
@@ -573,7 +573,7 @@ return {
 			goods_type = 1,
 			email_id = 35,
 			award_id = 49,
-			enable = 1,
+			enable = 0,
 		},
 		[50]=
 		{
@@ -585,6 +585,30 @@ return {
 			goods_type = 1,
 			email_id = 36,
 			award_id = 50,
+			enable = 0,
+		},
+		[51]=
+		{
+			id = 51,
+			name = "河灯兑奖",
+			start_time = 1617062400,
+			end_time = 1617638399,
+			use_goods = {"prop_fish_drop_act_0",},
+			goods_type = 1,
+			email_id = 37,
+			award_id = 51,
+			enable = 1,
+		},
+		[52]=
+		{
+			id = 52,
+			name = "河灯兑奖--cjj",
+			start_time = 1617062400,
+			end_time = 1617638399,
+			use_goods = {"prop_fish_drop_act_0",},
+			goods_type = 1,
+			email_id = 38,
+			award_id = 52,
 			enable = 1,
 		},
 	},
@@ -805,6 +829,18 @@ return {
 			id = 36,
 			title = "月末狂欢",
 			content = "恭喜您在兑换奖励活动中获得了%s，请在活动结束后7个工作日内联系公众号《彩云新世界》客服领取，逾期视为自动放弃！",
+		},
+		[37]=
+		{
+			id = 37,
+			title = "清明有礼",
+			content = "恭喜您在河灯兑奖活动中获得了%s，请在活动结束后7个工作日内联系公众号《鲸鱼初纪元》客服领取，逾期视为自动放弃！",
+		},
+		[38]=
+		{
+			id = 38,
+			title = "清明有礼",
+			content = "恭喜您在河灯兑奖活动中获得了%s，请在活动结束后7个工作日内联系公众号《彩云新世界》客服领取，逾期视为自动放弃！",
 		},
 	},
 	award=
@@ -3817,7 +3853,7 @@ return {
 			no = 288,
 			award_cfg_id = 48,
 			award_id = 2,
-			permission_key = "actp_cjj_gej_exchange",
+			permission_key = "actp_cjj_gej_exchange_V5",
 			award_name = "华为荣耀手机",
 			use_num = {880000,},
 			me_limit_day_num = 1,
@@ -4044,6 +4080,172 @@ return {
 		{
 			no = 310,
 			award_cfg_id = 50,
+			award_id = 8,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"prop_hammer_3",},
+			asset_count = {10,},
+			use_num = {3666,},
+			me_limit_day_num = 3,
+		},
+		[311]=
+		{
+			no = 311,
+			award_cfg_id = 51,
+			award_id = 1,
+			permission_key = "actp_no_cjj_gej_exchange_V5",
+			award_name = "智能按摩椅",
+			use_num = {1080000,},
+			me_limit_day_num = 1,
+		},
+		[312]=
+		{
+			no = 312,
+			award_cfg_id = 51,
+			award_id = 2,
+			permission_key = "actp_no_cjj_gej_exchange_V5",
+			award_name = "vivo手机",
+			use_num = {880000,},
+			me_limit_day_num = 1,
+		},
+		[313]=
+		{
+			no = 313,
+			award_cfg_id = 51,
+			award_id = 3,
+			permission_key = "actp_no_cjj_gej_exchange",
+			award_name = "乳胶枕一对",
+			use_num = {180000,},
+			me_limit_day_num = 1,
+		},
+		[314]=
+		{
+			no = 314,
+			award_cfg_id = 51,
+			award_id = 4,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {10000,},
+			use_num = {60000,},
+			me_limit_day_num = 1,
+		},
+		[315]=
+		{
+			no = 315,
+			award_cfg_id = 51,
+			award_id = 5,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"fish_coin",},
+			asset_count = {5000000,},
+			use_num = {18000,},
+		},
+		[316]=
+		{
+			no = 316,
+			award_cfg_id = 51,
+			award_id = 6,
+			permission_key = "actp_no_cjj_gej_exchange",
+			award_name = "卫龙亲嘴烧30片",
+			use_num = {8000,},
+			me_limit_day_num = 3,
+		},
+		[317]=
+		{
+			no = 317,
+			award_cfg_id = 51,
+			award_id = 7,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"shop_gold_sum",},
+			asset_count = {2000,},
+			use_num = {7200,},
+			me_limit_day_num = 2,
+		},
+		[318]=
+		{
+			no = 318,
+			award_cfg_id = 51,
+			award_id = 8,
+			permission_key = "actp_no_cjj_gej_exchange",
+			asset_type = {"prop_3d_fish_nuclear_bomb_1",},
+			asset_count = {1,},
+			use_num = {3666,},
+			me_limit_day_num = 3,
+		},
+		[319]=
+		{
+			no = 319,
+			award_cfg_id = 52,
+			award_id = 1,
+			permission_key = "actp_cjj_gej_exchange_V5",
+			award_name = "智能按摩椅",
+			use_num = {1080000,},
+			me_limit_day_num = 1,
+		},
+		[320]=
+		{
+			no = 320,
+			award_cfg_id = 52,
+			award_id = 2,
+			permission_key = "actp_cjj_gej_exchange_V5",
+			award_name = "vivo手机",
+			use_num = {880000,},
+			me_limit_day_num = 1,
+		},
+		[321]=
+		{
+			no = 321,
+			award_cfg_id = 52,
+			award_id = 3,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "乳胶枕一对",
+			use_num = {130000,},
+			me_limit_day_num = 1,
+		},
+		[322]=
+		{
+			no = 322,
+			award_cfg_id = 52,
+			award_id = 4,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {10000,},
+			use_num = {60000,},
+			me_limit_day_num = 1,
+		},
+		[323]=
+		{
+			no = 323,
+			award_cfg_id = 52,
+			award_id = 5,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"prop_tiny_game_coin",},
+			asset_count = {5000000,},
+			use_num = {18000,},
+		},
+		[324]=
+		{
+			no = 324,
+			award_cfg_id = 52,
+			award_id = 6,
+			permission_key = "actp_cjj_gej_exchange",
+			award_name = "卫龙亲嘴烧30片",
+			use_num = {8000,},
+			me_limit_day_num = 3,
+		},
+		[325]=
+		{
+			no = 325,
+			award_cfg_id = 52,
+			award_id = 7,
+			permission_key = "actp_cjj_gej_exchange",
+			asset_type = {"shop_gold_sum",},
+			asset_count = {2000,},
+			use_num = {7200,},
+			me_limit_day_num = 2,
+		},
+		[326]=
+		{
+			no = 326,
+			award_cfg_id = 52,
 			award_id = 8,
 			permission_key = "actp_cjj_gej_exchange",
 			asset_type = {"prop_hammer_3",},

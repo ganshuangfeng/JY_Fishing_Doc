@@ -344,7 +344,7 @@ return {
 			line = 46,
 			vip = 11,
 			key = "cpl_notcjj_notcps",
-			info = "可使用Vip超级转盘，每日可抽<color=#C86715>70次</color>",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>70次</color>",
 			cfz = 15000,
 		},
 		[47]=
@@ -352,7 +352,7 @@ return {
 			line = 47,
 			vip = 11,
 			key = "cpl_notcjj",
-			info = "福卡容量提升为<color=#C86715>800万</color>福利券",
+			info = "福利券容量提升为<color=#DA2020>800万</color>福利券",
 			cfz = 15000,
 		},
 		[48]=
@@ -392,7 +392,7 @@ return {
 			line = 52,
 			vip = 12,
 			key = "cpl_notcjj_notcps",
-			info = "可使用Vip超级转盘，每日可抽<color=#C86715>70次</color>",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>70次</color>",
 			cfz = 40000,
 		},
 		[53]=
@@ -400,7 +400,7 @@ return {
 			line = 53,
 			vip = 12,
 			key = "cpl_notcjj",
-			info = "福卡容量提升为<color=#C86715>1200万</color>福利券",
+			info = "福利券容量提升为<color=#DA2020>1200万</color>福利券",
 			cfz = 40000,
 		},
 		[54]=

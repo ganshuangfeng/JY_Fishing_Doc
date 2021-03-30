@@ -3050,7 +3050,7 @@ return {
 		[311]=
 		{
 			id = 311,
-			key = "act_ty_sjb_style/act_010_dlphb",
+			key = "act_ty_sjb_style/act_011_dlphb",
 			desc = "掉落排行榜皮肤（桃花）",
 			is_on_off = 1,
 			enable = 1,
@@ -3086,7 +3086,7 @@ return {
 		[315]=
 		{
 			id = 315,
-			key = "sys_act_base_style/sys_act_base_weekly_011",
+			key = "sys_act_base_style/sys_act_base_weekly_012",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3105,7 +3105,7 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_lb1_style/act_002_tylb1",
+			key = "act_ty_lb1_style/act_003_tylb1",
 			desc = "通用礼包皮肤",
 			is_on_off = 0,
 			enable = 0,
@@ -3187,7 +3187,7 @@ return {
 			key = "sgxxl_tower_climbing",
 			desc = "消消乐爬塔",
 			lua = "SGXXL_Tower_ClimbingManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
@@ -3197,7 +3197,36 @@ return {
 			key = "by3d_phb",
 			desc = "排行榜总入口",
 			lua = "BY3DPHBManager",
-			is_on_off = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[327]=
+		{
+			id = 327,
+			key = "act_052_qfhl",
+			desc = "龙腾祈福",
+			lua = "Act_052_QFHLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[328]=
+		{
+			id = 328,
+			key = "act_ty_gifts",
+			desc = "通用礼包",
+			lua = "Act_Ty_GiftsManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[329]=
+		{
+			id = 329,
+			key = "act_ty_gifts_style/ act_001_ltlb",
+			desc = "龙腾礼包",
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},

@@ -314,7 +314,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "111#112#53#79#36;113;89;93;11#",
+			group_list = "111#112#53#79#36;113;89;93;131#",
 		},
 		[2]=
 		{
@@ -1271,6 +1271,13 @@ return {
 			parm = {"sys_act_base","weekly","enter"},
 			is_on_off = 1,
 			condi_key = "xrzx_newplayer",
+		},
+		[131]=
+		{
+			id = 131,
+			parm = {"sys_act_base","weekly","enter"},
+			is_on_off = 1,
+			condi_key = "lxdh_025_notnew",
 		},
 	},
 }

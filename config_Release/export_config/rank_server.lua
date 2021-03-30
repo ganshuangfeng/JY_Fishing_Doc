@@ -199,11 +199,11 @@ return {
 		[15]=
 		{
 			id = 15,
-			enable = 1,
+			enable = 0,
 			rank_type = "leijiyingjin_rank",
 			name = "累计赢金排行榜",
 			begin_time = 1604246400,
-			end_time = 1616947210,
+			end_time = 2555555555,
 			data_deal_type = "nor_add",
 			data_save_type = "single",
 			score_source = 16,
@@ -534,7 +534,7 @@ return {
 		[39]=
 		{
 			id = 39,
-			enable = 1,
+			enable = 0,
 			rank_type = "ymkh_010_wxphb_rank",
 			name = "五星排行榜",
 			begin_time = 1616457600,
@@ -548,7 +548,7 @@ return {
 		[40]=
 		{
 			id = 40,
-			enable = 1,
+			enable = 0,
 			rank_type = "xxlzb_007_rank",
 			name = "消消乐争霸",
 			begin_time = 1616457600,
@@ -571,6 +571,34 @@ return {
 			data_save_type = "single",
 			show_model = 41,
 			settle_model = 39,
+		},
+		[42]=
+		{
+			id = 42,
+			enable = 1,
+			rank_type = "qmyl_011_hdphb_rank",
+			name = "河灯排行榜",
+			begin_time = 1617062400,
+			end_time = 1617638399,
+			data_deal_type = "nor_add",
+			data_save_type = "single",
+			score_source = 41,
+			show_model = 42,
+			settle_model = 40,
+		},
+		[43]=
+		{
+			id = 43,
+			enable = 1,
+			rank_type = "xxlzb_008_rank",
+			name = "消消乐争霸",
+			begin_time = 1617062400,
+			end_time = 1617638399,
+			data_deal_type = "source_add",
+			data_save_type = "more",
+			score_source = 42,
+			show_model = 43,
+			settle_model = 41,
 		},
 	},
 	score_source=
@@ -1165,6 +1193,48 @@ return {
 			source_type = "xiaoxiaole_award",
 			condtion_id = 42,
 		},
+		[88]=
+		{
+			id = 88,
+			source_id = 41,
+			source_type = "buyu_3d_get_use_item",
+			condtion_id = 43,
+		},
+		[89]=
+		{
+			id = 89,
+			source_id = 41,
+			source_type = "buyu_get_use_item",
+			condtion_id = 43,
+		},
+		[90]=
+		{
+			id = 90,
+			source_id = 42,
+			source_type = "xiaoxiaole_shuihu_award",
+			condtion_id = 44,
+		},
+		[91]=
+		{
+			id = 91,
+			source_id = 42,
+			source_type = "xiaoxiaole_caishen_award",
+			condtion_id = 44,
+		},
+		[92]=
+		{
+			id = 92,
+			source_id = 42,
+			source_type = "xiaoxiaole_xiyou_award",
+			condtion_id = 44,
+		},
+		[93]=
+		{
+			id = 93,
+			source_id = 42,
+			source_type = "xiaoxiaole_award",
+			condtion_id = 44,
+		},
 	},
 	source_condition=
 	{
@@ -1688,6 +1758,38 @@ return {
 			condition_value = 500,
 			judge_type = 3,
 		},
+		[66]=
+		{
+			id = 66,
+			condition_id = 43,
+			condition_name = "act_type",
+			condition_value = 9,
+			judge_type = 2,
+		},
+		[67]=
+		{
+			id = 67,
+			condition_id = 43,
+			condition_name = "asset_type",
+			condition_value = "prop_fish_drop_act_0",
+			judge_type = 2,
+		},
+		[68]=
+		{
+			id = 68,
+			condition_id = 44,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
+		},
+		[69]=
+		{
+			id = 69,
+			condition_id = 44,
+			condition_name = "rate",
+			condition_value = 500,
+			judge_type = 3,
+		},
 	},
 	join_condition=
 	{
@@ -2128,6 +2230,26 @@ return {
 			show_refresh_delay = 180,
 			show_refresh_self_delay = 10,
 		},
+		[42]=
+		{
+			id = 42,
+			show_limit = 1,
+			max_show_num = 20,
+			max_rank_num = 100,
+			max_award_num = 20,
+			show_refresh_delay = 180,
+			show_refresh_self_delay = 10,
+		},
+		[43]=
+		{
+			id = 43,
+			show_limit = 1,
+			max_show_num = 20,
+			max_rank_num = 100,
+			max_award_num = 20,
+			show_refresh_delay = 180,
+			show_refresh_self_delay = 10,
+		},
 	},
 	settle_model=
 	{
@@ -2403,6 +2525,20 @@ return {
 			is_clear = 1,
 			award_model = 39,
 		},
+		[40]=
+		{
+			id = 40,
+			settle_time_model = 44,
+			is_clear = 1,
+			award_model = 40,
+		},
+		[41]=
+		{
+			id = 41,
+			settle_time_model = 45,
+			is_clear = 1,
+			award_model = 41,
+		},
 	},
 	settle_time_model=
 	{
@@ -2663,6 +2799,18 @@ return {
 			id = 43,
 			reset_type = "week",
 			reset_value = 1,
+		},
+		[44]=
+		{
+			id = 44,
+			reset_type = "fix_time",
+			reset_value = 1617638399,
+		},
+		[45]=
+		{
+			id = 45,
+			reset_type = "fix_time",
+			reset_value = 1617638399,
 		},
 	},
 	award_model=
@@ -5143,6 +5291,160 @@ return {
 			start_rank = 11,
 			end_rank = 20,
 			award_id = {293,},
+			award_type = "nor",
+		},
+		[267]=
+		{
+			id = 267,
+			model_id = 40,
+			start_rank = 1,
+			end_rank = 1,
+			start_score = 3000000,
+			end_score = 99999999999,
+			award_id = {294,301,},
+			award_type = "nor",
+		},
+		[268]=
+		{
+			id = 268,
+			model_id = 40,
+			start_rank = 2,
+			end_rank = 2,
+			start_score = 1800000,
+			end_score = 99999999999,
+			award_id = {295,302,},
+			award_type = "nor",
+		},
+		[269]=
+		{
+			id = 269,
+			model_id = 40,
+			start_rank = 3,
+			end_rank = 3,
+			start_score = 900000,
+			end_score = 99999999999,
+			award_id = {296,303,},
+			award_type = "nor",
+		},
+		[270]=
+		{
+			id = 270,
+			model_id = 40,
+			start_rank = 4,
+			end_rank = 6,
+			start_score = 450000,
+			end_score = 99999999999,
+			award_id = {297,304,},
+			award_type = "nor",
+		},
+		[271]=
+		{
+			id = 271,
+			model_id = 40,
+			start_rank = 7,
+			end_rank = 10,
+			start_score = 300000,
+			end_score = 99999999999,
+			award_id = {298,305,},
+			award_type = "nor",
+		},
+		[272]=
+		{
+			id = 272,
+			model_id = 40,
+			start_rank = 11,
+			end_rank = 15,
+			start_score = 180000,
+			end_score = 99999999999,
+			award_id = {299,306,},
+			award_type = "nor",
+		},
+		[273]=
+		{
+			id = 273,
+			model_id = 40,
+			start_rank = 16,
+			end_rank = 20,
+			start_score = 90000,
+			end_score = 99999999999,
+			award_id = {300,307,},
+			award_type = "nor",
+		},
+		[274]=
+		{
+			id = 274,
+			model_id = 41,
+			start_rank = 1,
+			end_rank = 1,
+			start_score = 1500000000,
+			end_score = 99999999999,
+			award_id = {308,315,},
+			award_type = "nor",
+		},
+		[275]=
+		{
+			id = 275,
+			model_id = 41,
+			start_rank = 2,
+			end_rank = 2,
+			start_score = 900000000,
+			end_score = 99999999999,
+			award_id = {309,316,},
+			award_type = "nor",
+		},
+		[276]=
+		{
+			id = 276,
+			model_id = 41,
+			start_rank = 3,
+			end_rank = 3,
+			start_score = 450000000,
+			end_score = 99999999999,
+			award_id = {310,317,},
+			award_type = "nor",
+		},
+		[277]=
+		{
+			id = 277,
+			model_id = 41,
+			start_rank = 4,
+			end_rank = 6,
+			start_score = 220000000,
+			end_score = 99999999999,
+			award_id = {311,318,},
+			award_type = "nor",
+		},
+		[278]=
+		{
+			id = 278,
+			model_id = 41,
+			start_rank = 7,
+			end_rank = 10,
+			start_score = 146000000,
+			end_score = 99999999999,
+			award_id = {312,319,},
+			award_type = "nor",
+		},
+		[279]=
+		{
+			id = 279,
+			model_id = 41,
+			start_rank = 11,
+			end_rank = 15,
+			start_score = 88000000,
+			end_score = 99999999999,
+			award_id = {313,320,},
+			award_type = "nor",
+		},
+		[280]=
+		{
+			id = 280,
+			model_id = 41,
+			start_rank = 16,
+			end_rank = 20,
+			start_score = 45000000,
+			end_score = 99999999999,
+			award_id = {314,321,},
 			award_type = "nor",
 		},
 	},
@@ -7811,6 +8113,258 @@ return {
 			award_name = "1500福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = 1500,
+			get_weight = 1,
+		},
+		[298]=
+		{
+			id = 298,
+			award_id = 294,
+			award_name = "50000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[299]=
+		{
+			id = 299,
+			award_id = 295,
+			award_name = "15000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 15000,
+			get_weight = 1,
+		},
+		[300]=
+		{
+			id = 300,
+			award_id = 296,
+			award_name = "5000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 5000,
+			get_weight = 1,
+		},
+		[301]=
+		{
+			id = 301,
+			award_id = 297,
+			award_name = "1500福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 1500,
+			get_weight = 1,
+		},
+		[302]=
+		{
+			id = 302,
+			award_id = 298,
+			award_name = "1000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[303]=
+		{
+			id = 303,
+			award_id = 299,
+			award_name = "500福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 500,
+			get_weight = 1,
+		},
+		[304]=
+		{
+			id = 304,
+			award_id = 300,
+			award_name = "240福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 240,
+			get_weight = 1,
+		},
+		[305]=
+		{
+			id = 305,
+			award_id = 301,
+			award_name = "50000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[306]=
+		{
+			id = 306,
+			award_id = 302,
+			award_name = "15000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 15000,
+			get_weight = 1,
+		},
+		[307]=
+		{
+			id = 307,
+			award_id = 303,
+			award_name = "5000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 5000,
+			get_weight = 1,
+		},
+		[308]=
+		{
+			id = 308,
+			award_id = 304,
+			award_name = "1500福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 1500,
+			get_weight = 1,
+		},
+		[309]=
+		{
+			id = 309,
+			award_id = 305,
+			award_name = "1000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[310]=
+		{
+			id = 310,
+			award_id = 306,
+			award_name = "500福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 500,
+			get_weight = 1,
+		},
+		[311]=
+		{
+			id = 311,
+			award_id = 307,
+			award_name = "240福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 240,
+			get_weight = 1,
+		},
+		[312]=
+		{
+			id = 312,
+			award_id = 308,
+			award_name = "50000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[313]=
+		{
+			id = 313,
+			award_id = 309,
+			award_name = "15000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 15000,
+			get_weight = 1,
+		},
+		[314]=
+		{
+			id = 314,
+			award_id = 310,
+			award_name = "5000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 5000,
+			get_weight = 1,
+		},
+		[315]=
+		{
+			id = 315,
+			award_id = 311,
+			award_name = "1500福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 1500,
+			get_weight = 1,
+		},
+		[316]=
+		{
+			id = 316,
+			award_id = 312,
+			award_name = "1000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[317]=
+		{
+			id = 317,
+			award_id = 313,
+			award_name = "500福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 500,
+			get_weight = 1,
+		},
+		[318]=
+		{
+			id = 318,
+			award_id = 314,
+			award_name = "240福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 240,
+			get_weight = 1,
+		},
+		[319]=
+		{
+			id = 319,
+			award_id = 315,
+			award_name = "50000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[320]=
+		{
+			id = 320,
+			award_id = 316,
+			award_name = "15000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 15000,
+			get_weight = 1,
+		},
+		[321]=
+		{
+			id = 321,
+			award_id = 317,
+			award_name = "5000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 5000,
+			get_weight = 1,
+		},
+		[322]=
+		{
+			id = 322,
+			award_id = 318,
+			award_name = "1500福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 1500,
+			get_weight = 1,
+		},
+		[323]=
+		{
+			id = 323,
+			award_id = 319,
+			award_name = "1000福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[324]=
+		{
+			id = 324,
+			award_id = 320,
+			award_name = "500福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 500,
+			get_weight = 1,
+		},
+		[325]=
+		{
+			id = 325,
+			award_id = 321,
+			award_name = "240福利券",
+			asset_type = "shop_gold_sum",
+			asset_count = 240,
 			get_weight = 1,
 		},
 	},
