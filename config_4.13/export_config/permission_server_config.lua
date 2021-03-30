@@ -6838,6 +6838,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1618243200,
 		},
+		[387]=
+		{
+			id = 387,
+			enable = 1,
+			key = "actp_own_task_p_tiny_game_drop_act",
+			name = "小游戏累计赢金掉落活动道具（非冲金鸡）",
+			condi = 423,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1618272000,
+		},
 	},
 	condi=
 	{
@@ -17165,6 +17177,16 @@ return {
 		{
 			no = 1033,
 			id = 422,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1034]=
+		{
+			no = 1034,
+			id = 423,
 			var = "share_condition",
 			value = "cjj_all",
 			judge = 5,

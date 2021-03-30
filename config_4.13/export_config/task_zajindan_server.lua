@@ -13571,6 +13571,22 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000537]=
+		{
+			id = 1000537,
+			enable = 1,
+			name = "欢乐四月天",
+			own_type = "p_tiny_game_drop_act",
+			task_enum = "common",
+			process_id = 21895,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1618272000,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+			award_change_type = "task_award_no_show",
+		},
 	},
 	process_data=
 	{
@@ -22480,6 +22496,16 @@ return {
 			process = 3,
 			awards = 1213,
 			get_award_type = "nor",
+		},
+		[947]=
+		{
+			id = 947,
+			process_id = 21895,
+			source_id = 542,
+			process = {300000,-1},
+			awards = 1214,
+			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 	},
 	source=
@@ -50717,6 +50743,22 @@ return {
 			award_id = 1213,
 			asset_type = "prop_guess_apple_bet_1",
 			asset_count = 5,
+			get_weight = 1,
+		},
+		[2055]=
+		{
+			id = 2055,
+			award_id = 1214,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[2056]=
+		{
+			id = 2056,
+			award_id = 1214,
+			asset_type = "_common_rank_hlsyt_013_bsyl_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
