@@ -13301,6 +13301,276 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000519]=
+		{
+			id = 1000519,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_nor_v3down",
+			task_enum = "common",
+			process_id = 21877,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000520]=
+		{
+			id = 1000520,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_nor_v3down",
+			task_enum = "common",
+			process_id = 21878,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000521]=
+		{
+			id = 1000521,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_nor_v3down",
+			task_enum = "common",
+			process_id = 21879,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000522]=
+		{
+			id = 1000522,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_nor_v3down",
+			task_enum = "common",
+			process_id = 21880,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000523]=
+		{
+			id = 1000523,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_nor_v4up",
+			task_enum = "common",
+			process_id = 21881,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000524]=
+		{
+			id = 1000524,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_nor_v4up",
+			task_enum = "common",
+			process_id = 21882,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000525]=
+		{
+			id = 1000525,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_nor_v4up",
+			task_enum = "common",
+			process_id = 21883,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000526]=
+		{
+			id = 1000526,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_nor_v4up",
+			task_enum = "common",
+			process_id = 21884,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000527]=
+		{
+			id = 1000527,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_nor_v4up",
+			task_enum = "common",
+			process_id = 21885,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000528]=
+		{
+			id = 1000528,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_cjj_v3down",
+			task_enum = "common",
+			process_id = 21886,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000529]=
+		{
+			id = 1000529,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_cjj_v3down",
+			task_enum = "common",
+			process_id = 21887,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000530]=
+		{
+			id = 1000530,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_cjj_v3down",
+			task_enum = "common",
+			process_id = 21888,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000531]=
+		{
+			id = 1000531,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_cjj_v3down",
+			task_enum = "common",
+			process_id = 21889,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000532]=
+		{
+			id = 1000532,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_cjj_v4up",
+			task_enum = "common",
+			process_id = 21890,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000533]=
+		{
+			id = 1000533,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_cjj_v4up",
+			task_enum = "common",
+			process_id = 21891,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000534]=
+		{
+			id = 1000534,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_cjj_v4up",
+			task_enum = "common",
+			process_id = 21892,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000535]=
+		{
+			id = 1000535,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_cjj_v4up",
+			task_enum = "common",
+			process_id = 21893,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000536]=
+		{
+			id = 1000536,
+			enable = 1,
+			name = "欢乐返利",
+			own_type = "p_continuity_buy_gift_cjj_v4up",
+			task_enum = "common",
+			process_id = 21894,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -21682,6 +21952,7 @@ return {
 			process = {300000,-1},
 			awards = 1174,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[888]=
 		{
@@ -22047,6 +22318,168 @@ return {
 			process_id = 21876,
 			source_id = 629,
 			process = 3,
+		},
+		[929]=
+		{
+			id = 929,
+			process_id = 21877,
+			source_id = 617,
+			process = 3,
+			awards = 1196,
+			get_award_type = "nor",
+		},
+		[930]=
+		{
+			id = 930,
+			process_id = 21878,
+			source_id = 618,
+			process = 3,
+			awards = 1197,
+			get_award_type = "nor",
+		},
+		[931]=
+		{
+			id = 931,
+			process_id = 21879,
+			source_id = 619,
+			process = 3,
+			awards = 1198,
+			get_award_type = "nor",
+		},
+		[932]=
+		{
+			id = 932,
+			process_id = 21880,
+			source_id = 620,
+			process = 3,
+			awards = 1199,
+			get_award_type = "nor",
+		},
+		[933]=
+		{
+			id = 933,
+			process_id = 21881,
+			source_id = 621,
+			process = 3,
+			awards = 1200,
+			get_award_type = "nor",
+		},
+		[934]=
+		{
+			id = 934,
+			process_id = 21882,
+			source_id = 622,
+			process = 3,
+			awards = 1201,
+			get_award_type = "nor",
+		},
+		[935]=
+		{
+			id = 935,
+			process_id = 21883,
+			source_id = 623,
+			process = 3,
+			awards = 1202,
+			get_award_type = "nor",
+		},
+		[936]=
+		{
+			id = 936,
+			process_id = 21884,
+			source_id = 624,
+			process = 3,
+			awards = 1203,
+			get_award_type = "nor",
+		},
+		[937]=
+		{
+			id = 937,
+			process_id = 21885,
+			source_id = 625,
+			process = 3,
+			awards = 1204,
+			get_award_type = "nor",
+		},
+		[938]=
+		{
+			id = 938,
+			process_id = 21886,
+			source_id = 617,
+			process = 3,
+			awards = 1205,
+			get_award_type = "nor",
+		},
+		[939]=
+		{
+			id = 939,
+			process_id = 21887,
+			source_id = 618,
+			process = 3,
+			awards = 1206,
+			get_award_type = "nor",
+		},
+		[940]=
+		{
+			id = 940,
+			process_id = 21888,
+			source_id = 619,
+			process = 3,
+			awards = 1207,
+			get_award_type = "nor",
+		},
+		[941]=
+		{
+			id = 941,
+			process_id = 21889,
+			source_id = 620,
+			process = 3,
+			awards = 1208,
+			get_award_type = "nor",
+		},
+		[942]=
+		{
+			id = 942,
+			process_id = 21890,
+			source_id = 621,
+			process = 3,
+			awards = 1209,
+			get_award_type = "nor",
+		},
+		[943]=
+		{
+			id = 943,
+			process_id = 21891,
+			source_id = 622,
+			process = 3,
+			awards = 1210,
+			get_award_type = "nor",
+		},
+		[944]=
+		{
+			id = 944,
+			process_id = 21892,
+			source_id = 623,
+			process = 3,
+			awards = 1211,
+			get_award_type = "nor",
+		},
+		[945]=
+		{
+			id = 945,
+			process_id = 21893,
+			source_id = 624,
+			process = 3,
+			awards = 1212,
+			get_award_type = "nor",
+		},
+		[946]=
+		{
+			id = 946,
+			process_id = 21894,
+			source_id = 625,
+			process = 3,
+			awards = 1213,
+			get_award_type = "nor",
 		},
 	},
 	source=
@@ -49850,6 +50283,438 @@ return {
 		{
 			id = 2000,
 			award_id = 1195,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[2001]=
+		{
+			id = 2001,
+			award_id = 1196,
+			asset_type = "jing_bi",
+			asset_count = 188888,
+			get_weight = 1,
+		},
+		[2002]=
+		{
+			id = 2002,
+			award_id = 1196,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 50,
+			get_weight = 1,
+		},
+		[2003]=
+		{
+			id = 2003,
+			award_id = 1196,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[2004]=
+		{
+			id = 2004,
+			award_id = 1196,
+			asset_type = "_common_rank_hlsyt_013_bsyl_rank",
+			asset_count = 50,
+			get_weight = 1,
+		},
+		[2005]=
+		{
+			id = 2005,
+			award_id = 1197,
+			asset_type = "jing_bi",
+			asset_count = 388888,
+			get_weight = 1,
+		},
+		[2006]=
+		{
+			id = 2006,
+			award_id = 1197,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[2007]=
+		{
+			id = 2007,
+			award_id = 1197,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[2008]=
+		{
+			id = 2008,
+			award_id = 1197,
+			asset_type = "_common_rank_hlsyt_013_bsyl_rank",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[2009]=
+		{
+			id = 2009,
+			award_id = 1198,
+			asset_type = "jing_bi",
+			asset_count = 588888,
+			get_weight = 1,
+		},
+		[2010]=
+		{
+			id = 2010,
+			award_id = 1198,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 150,
+			get_weight = 1,
+		},
+		[2011]=
+		{
+			id = 2011,
+			award_id = 1198,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 3,
+			get_weight = 1,
+		},
+		[2012]=
+		{
+			id = 2012,
+			award_id = 1198,
+			asset_type = "_common_rank_hlsyt_013_bsyl_rank",
+			asset_count = 150,
+			get_weight = 1,
+		},
+		[2013]=
+		{
+			id = 2013,
+			award_id = 1199,
+			asset_type = "jing_bi",
+			asset_count = 1088888,
+			get_weight = 1,
+		},
+		[2014]=
+		{
+			id = 2014,
+			award_id = 1199,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 300,
+			get_weight = 1,
+		},
+		[2015]=
+		{
+			id = 2015,
+			award_id = 1199,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[2016]=
+		{
+			id = 2016,
+			award_id = 1199,
+			asset_type = "_common_rank_hlsyt_013_bsyl_rank",
+			asset_count = 300,
+			get_weight = 1,
+		},
+		[2017]=
+		{
+			id = 2017,
+			award_id = 1200,
+			award_name = "美的多功能锅/美的电烤箱",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[2018]=
+		{
+			id = 2018,
+			award_id = 1200,
+			asset_type = "jing_bi",
+			asset_count = 8888888,
+			get_weight = 1,
+		},
+		[2019]=
+		{
+			id = 2019,
+			award_id = 1200,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 8888,
+			get_weight = 1,
+		},
+		[2020]=
+		{
+			id = 2020,
+			award_id = 1200,
+			asset_type = "_common_rank_hlsyt_013_bsyl_rank",
+			asset_count = 8888,
+			get_weight = 1,
+		},
+		[2021]=
+		{
+			id = 2021,
+			award_id = 1201,
+			award_name = "奥克斯煮蛋器/金龙鱼油",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[2022]=
+		{
+			id = 2022,
+			award_id = 1201,
+			asset_type = "jing_bi",
+			asset_count = 4088888,
+			get_weight = 1,
+		},
+		[2023]=
+		{
+			id = 2023,
+			award_id = 1201,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 3888,
+			get_weight = 1,
+		},
+		[2024]=
+		{
+			id = 2024,
+			award_id = 1201,
+			asset_type = "_common_rank_hlsyt_013_bsyl_rank",
+			asset_count = 3888,
+			get_weight = 1,
+		},
+		[2025]=
+		{
+			id = 2025,
+			award_id = 1202,
+			award_name = "琥珀核桃500g",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[2026]=
+		{
+			id = 2026,
+			award_id = 1202,
+			asset_type = "jing_bi",
+			asset_count = 2088888,
+			get_weight = 1,
+		},
+		[2027]=
+		{
+			id = 2027,
+			award_id = 1202,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1988,
+			get_weight = 1,
+		},
+		[2028]=
+		{
+			id = 2028,
+			award_id = 1202,
+			asset_type = "_common_rank_hlsyt_013_bsyl_rank",
+			asset_count = 1988,
+			get_weight = 1,
+		},
+		[2029]=
+		{
+			id = 2029,
+			award_id = 1203,
+			asset_type = "jing_bi",
+			asset_count = 2088888,
+			get_weight = 1,
+		},
+		[2030]=
+		{
+			id = 2030,
+			award_id = 1203,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 888,
+			get_weight = 1,
+		},
+		[2031]=
+		{
+			id = 2031,
+			award_id = 1203,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[2032]=
+		{
+			id = 2032,
+			award_id = 1203,
+			asset_type = "_common_rank_hlsyt_013_bsyl_rank",
+			asset_count = 888,
+			get_weight = 1,
+		},
+		[2033]=
+		{
+			id = 2033,
+			award_id = 1204,
+			asset_type = "jing_bi",
+			asset_count = 1088888,
+			get_weight = 1,
+		},
+		[2034]=
+		{
+			id = 2034,
+			award_id = 1204,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 300,
+			get_weight = 1,
+		},
+		[2035]=
+		{
+			id = 2035,
+			award_id = 1204,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[2036]=
+		{
+			id = 2036,
+			award_id = 1204,
+			asset_type = "_common_rank_hlsyt_013_bsyl_rank",
+			asset_count = 300,
+			get_weight = 1,
+		},
+		[2037]=
+		{
+			id = 2037,
+			award_id = 1205,
+			asset_type = "jing_bi",
+			asset_count = 188888,
+			get_weight = 1,
+		},
+		[2038]=
+		{
+			id = 2038,
+			award_id = 1205,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[2039]=
+		{
+			id = 2039,
+			award_id = 1206,
+			asset_type = "jing_bi",
+			asset_count = 388888,
+			get_weight = 1,
+		},
+		[2040]=
+		{
+			id = 2040,
+			award_id = 1206,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[2041]=
+		{
+			id = 2041,
+			award_id = 1207,
+			asset_type = "jing_bi",
+			asset_count = 588888,
+			get_weight = 1,
+		},
+		[2042]=
+		{
+			id = 2042,
+			award_id = 1207,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 3,
+			get_weight = 1,
+		},
+		[2043]=
+		{
+			id = 2043,
+			award_id = 1208,
+			asset_type = "jing_bi",
+			asset_count = 1088888,
+			get_weight = 1,
+		},
+		[2044]=
+		{
+			id = 2044,
+			award_id = 1208,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[2045]=
+		{
+			id = 2045,
+			award_id = 1209,
+			award_name = "美的多功能锅/美的电烤箱",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[2046]=
+		{
+			id = 2046,
+			award_id = 1209,
+			asset_type = "jing_bi",
+			asset_count = 8888888,
+			get_weight = 1,
+		},
+		[2047]=
+		{
+			id = 2047,
+			award_id = 1210,
+			award_name = "奥克斯煮蛋器/金龙鱼油",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[2048]=
+		{
+			id = 2048,
+			award_id = 1210,
+			asset_type = "jing_bi",
+			asset_count = 4088888,
+			get_weight = 1,
+		},
+		[2049]=
+		{
+			id = 2049,
+			award_id = 1211,
+			award_name = "琥珀核桃500g",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[2050]=
+		{
+			id = 2050,
+			award_id = 1211,
+			asset_type = "jing_bi",
+			asset_count = 2088888,
+			get_weight = 1,
+		},
+		[2051]=
+		{
+			id = 2051,
+			award_id = 1212,
+			asset_type = "jing_bi",
+			asset_count = 2088888,
+			get_weight = 1,
+		},
+		[2052]=
+		{
+			id = 2052,
+			award_id = 1212,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[2053]=
+		{
+			id = 2053,
+			award_id = 1213,
+			asset_type = "jing_bi",
+			asset_count = 1088888,
+			get_weight = 1,
+		},
+		[2054]=
+		{
+			id = 2054,
+			award_id = 1213,
 			asset_type = "prop_guess_apple_bet_1",
 			asset_count = 5,
 			get_weight = 1,
