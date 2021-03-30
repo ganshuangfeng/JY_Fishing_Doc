@@ -3261,5 +3261,24 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[333]=
+		{
+			id = 333,
+			key = "act_ty_gifts",
+			desc = "通用礼包",
+			lua = "Act_Ty_GiftsManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[334]=
+		{
+			id = 334,
+			key = "act_ty_gifts_style/ act_001_ltlb",
+			desc = "龙腾礼包",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
