@@ -5,7 +5,7 @@ return {
 		{
 			index = 1,
 			key = "act_xyxfl",
-			icon = "yxfl_bg_1",
+			icon = "lgfl_bg_1",
 			name = "免费金币",
 			tges = 1,
 		},
@@ -13,7 +13,7 @@ return {
 		{
 			index = 2,
 			key = "act_xyxfl_cjj",
-			icon = "yxfl_bg_1",
+			icon = "lgfl_bg_1",
 			name = "免费金币_cjj",
 			tges = 2,
 		},
