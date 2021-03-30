@@ -2276,9 +2276,9 @@ return {
 			id = 96,
 			process_id = 96,
 			source_id = 96,
-			process = {25,25,50,10000},
+			process = {30,20,30,10000},
 			awards = {121,122,123},
-			get_award_type = "random",
+			get_award_type = "nor",
 		},
 	},
 	source=
@@ -4638,8 +4638,8 @@ return {
 		{
 			id = 138,
 			award_id = 121,
-			asset_type = "jing_bi",
-			asset_count = 100000,
+			asset_type = "shop_gold_sum",
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[139]=
@@ -4647,7 +4647,7 @@ return {
 			id = 139,
 			award_id = 122,
 			asset_type = "shop_gold_sum",
-			asset_count = {100,200},
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[140]=
