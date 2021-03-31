@@ -6874,6 +6874,78 @@ return {
 			refresh_type = "now",
 			start_deal_time = 1618243200,
 		},
+		[390]=
+		{
+			id = 390,
+			enable = 1,
+			key = "actp_rank_hlsyt_013_bsyl_rank",
+			name = "榜上有礼（非冲金鸡玩家）",
+			condi = 426,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1618272000,
+		},
+		[391]=
+		{
+			id = 391,
+			enable = 1,
+			key = "actp_own_task_1000538",
+			name = "消除达人（冲金鸡）",
+			condi = 427,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1618272000,
+		},
+		[392]=
+		{
+			id = 392,
+			enable = 1,
+			key = "actp_own_task_p_continuity_buy_gift_nor_v3down",
+			name = "连购返利（v3及以下用户，3D捕鱼和捕鱼奥秘）",
+			condi = 428,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1618243200,
+		},
+		[393]=
+		{
+			id = 393,
+			enable = 1,
+			key = "actp_own_task_p_continuity_buy_gift_nor_v4up",
+			name = "连购返利（v4及以上用户，3D捕鱼和捕鱼奥秘）",
+			condi = 429,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1618243200,
+		},
+		[394]=
+		{
+			id = 394,
+			enable = 1,
+			key = "actp_own_task_p_continuity_buy_gift_cjj_v3down",
+			name = "连购返利（v3及以下用户，冲金鸡）",
+			condi = 430,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1618243200,
+		},
+		[395]=
+		{
+			id = 395,
+			enable = 1,
+			key = "actp_own_task_p_continuity_buy_gift_cjj_v4up",
+			name = "连购返利（v4及以上用户，冲金鸡）",
+			condi = 431,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1618243200,
+		},
 	},
 	condi=
 	{
@@ -17246,6 +17318,106 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "VIP5玩家才可兑换",
+		},
+		[1038]=
+		{
+			no = 1038,
+			id = 426,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1039]=
+		{
+			no = 1039,
+			id = 427,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是冲金鸡玩家",
+		},
+		[1040]=
+		{
+			no = 1040,
+			id = 428,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP3及以下玩家",
+		},
+		[1041]=
+		{
+			no = 1041,
+			id = 428,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1042]=
+		{
+			no = 1042,
+			id = 429,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上玩家",
+		},
+		[1043]=
+		{
+			no = 1043,
+			id = 429,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1044]=
+		{
+			no = 1044,
+			id = 430,
+			var = "vip_level",
+			value = 3,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP3及以下玩家",
+		},
+		[1045]=
+		{
+			no = 1045,
+			id = 430,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1046]=
+		{
+			no = 1046,
+			id = 431,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上玩家",
+		},
+		[1047]=
+		{
+			no = 1047,
+			id = 431,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
 		},
 	},
 	share_condition=

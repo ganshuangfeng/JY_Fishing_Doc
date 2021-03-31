@@ -13587,6 +13587,21 @@ return {
 			is_send_client = 1,
 			award_change_type = "task_award_no_show",
 		},
+		[1000538]=
+		{
+			id = 1000538,
+			enable = 1,
+			name = "消除达人",
+			own_type = "permission_task",
+			task_enum = "common",
+			process_id = 21896,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1618243200,
+			end_valid_time = 1618847999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -21990,7 +22005,7 @@ return {
 		{
 			id = 890,
 			process_id = 21838,
-			source_id = 605,
+			source_id = 629,
 			process = 1,
 			awards = 1180,
 			get_award_type = "nor",
@@ -22332,7 +22347,7 @@ return {
 		{
 			id = 928,
 			process_id = 21876,
-			source_id = 629,
+			source_id = 630,
 			process = 3,
 		},
 		[929]=
@@ -22506,6 +22521,15 @@ return {
 			awards = 1214,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
+		},
+		[948]=
+		{
+			id = 948,
+			process_id = 21896,
+			source_id = 631,
+			process = {10,40,50,100,300,300,400,800,1000,2000},
+			awards = {1215,1216,1217,1218,1219,1220,1221,1222,1223,1224},
+			get_award_type = "random",
 		},
 	},
 	source=
@@ -29583,8 +29607,43 @@ return {
 		{
 			id = 1004,
 			source_id = 629,
-			source_type = "buy_gift",
+			source_type = "use_fish_3d_bullet_item",
 			condition_id = 459,
+		},
+		[1005]=
+		{
+			id = 1005,
+			source_id = 630,
+			source_type = "buy_gift",
+			condition_id = 460,
+		},
+		[1006]=
+		{
+			id = 1006,
+			source_id = 631,
+			source_type = "xiaoxiaole_award_rate",
+			condition_id = 461,
+		},
+		[1007]=
+		{
+			id = 1007,
+			source_id = 631,
+			source_type = "xiyou_xiaoxiaole_award_rate",
+			condition_id = 462,
+		},
+		[1008]=
+		{
+			id = 1008,
+			source_id = 631,
+			source_type = "shuihu_xiaoxiaole_award_rate",
+			condition_id = 463,
+		},
+		[1009]=
+		{
+			id = 1009,
+			source_id = 631,
+			source_type = "xiaoxiaole_caishen_award_rate",
+			condition_id = 464,
 		},
 	},
 	condition=
@@ -34313,8 +34372,48 @@ return {
 		{
 			id = 621,
 			condition_id = 459,
+			condition_name = "fish_prop",
+			condition_value = "prop_3d_fish_wild",
+			judge_type = 2,
+		},
+		[622]=
+		{
+			id = 622,
+			condition_id = 460,
 			condition_name = "gift_id",
 			condition_value = {10515,10516,10517,10518,10519,10520,10521,10522,10523,10524,10525,10526},
+			judge_type = 2,
+		},
+		[623]=
+		{
+			id = 623,
+			condition_id = 461,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 2,
+		},
+		[624]=
+		{
+			id = 624,
+			condition_id = 462,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 2,
+		},
+		[625]=
+		{
+			id = 625,
+			condition_id = 463,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 2,
+		},
+		[626]=
+		{
+			id = 626,
+			condition_id = 464,
+			condition_name = "bet_spend",
+			condition_value = 480000,
 			judge_type = 2,
 		},
 	},
@@ -50759,6 +50858,86 @@ return {
 			award_id = 1214,
 			asset_type = "_common_rank_hlsyt_013_bsyl_rank",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[2057]=
+		{
+			id = 2057,
+			award_id = 1215,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = 30,
+			get_weight = 1,
+		},
+		[2058]=
+		{
+			id = 2058,
+			award_id = 1216,
+			asset_type = "jing_bi",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[2059]=
+		{
+			id = 2059,
+			award_id = 1217,
+			asset_type = "shop_gold_sum",
+			asset_count = 150,
+			get_weight = 1,
+		},
+		[2060]=
+		{
+			id = 2060,
+			award_id = 1218,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = {200,300},
+			get_weight = 1,
+		},
+		[2061]=
+		{
+			id = 2061,
+			award_id = 1219,
+			asset_type = "jing_bi",
+			asset_count = {400000,600000},
+			get_weight = 1,
+		},
+		[2062]=
+		{
+			id = 2062,
+			award_id = 1220,
+			asset_type = "jing_bi",
+			asset_count = {500000,800000},
+			get_weight = 1,
+		},
+		[2063]=
+		{
+			id = 2063,
+			award_id = 1221,
+			asset_type = "shop_gold_sum",
+			asset_count = {1000,1500},
+			get_weight = 1,
+		},
+		[2064]=
+		{
+			id = 2064,
+			award_id = 1222,
+			asset_type = "jing_bi",
+			asset_count = {2000000,2800000},
+			get_weight = 1,
+		},
+		[2065]=
+		{
+			id = 2065,
+			award_id = 1223,
+			asset_type = "jing_bi",
+			asset_count = {2500000,3500000},
+			get_weight = 1,
+		},
+		[2066]=
+		{
+			id = 2066,
+			award_id = 1224,
+			asset_type = "shop_gold_sum",
+			asset_count = {5000,7000},
 			get_weight = 1,
 		},
 	},

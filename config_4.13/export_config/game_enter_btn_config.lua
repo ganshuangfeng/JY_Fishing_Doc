@@ -1282,7 +1282,7 @@ return {
 		[132]=
 		{
 			id = 132,
-			parm = {"act_ty_gifts","gift_ltlb","enter",},
+			parm = {"act_ty_gifts","gift_hllb","enter",},
 			is_on_off = 1,
 		},
 		[133]=
