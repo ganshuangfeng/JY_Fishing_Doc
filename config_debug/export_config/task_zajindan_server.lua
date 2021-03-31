@@ -29104,7 +29104,7 @@ return {
 			id = 1004,
 			source_id = 629,
 			source_type = "use_fish_3d_bullet_item",
-			condition_id = 456,
+			condition_id = 459,
 		},
 	},
 	condition=
