@@ -389,7 +389,7 @@ return {
 			gotoUI = {"shop_bay","jing_bi",},
 			Tips = {"",""},
 			N_chose_1_img = {"swjl_1","swjl_2"},
-			N_chose_1_text = ""美的多功能锅/美的电烤箱"",
+			N_chose_1_text = {"美的多功能锅","美的电烤箱"},
 			remarks = "实物奖励二选一",
 		},
 		[26]=
@@ -505,7 +505,7 @@ return {
 			gotoUI = {"shop_bay","jing_bi",},
 			Tips = {"",""},
 			N_chose_1_img = {"swjl_1","swjl_2"},
-			N_chose_1_text = ""美的多功能锅/美的电烤箱"",
+			N_chose_1_text = {"美的多功能锅","美的电烤箱"},
 			remarks = "实物奖励二选一",
 		},
 		[35]=
