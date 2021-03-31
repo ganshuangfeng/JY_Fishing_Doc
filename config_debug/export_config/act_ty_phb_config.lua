@@ -6,7 +6,7 @@ return {
 			line = 1,
 			is_on_off = 1,
 			ID = 1,
-			item_key = "prop_fish_drop_act_0",
+			item_key = "prop_grade",
 			rank_type = "ltqf_012_fqdr_rank",
 			s_time = 1617667200,
 			e_time = 1618243199,
