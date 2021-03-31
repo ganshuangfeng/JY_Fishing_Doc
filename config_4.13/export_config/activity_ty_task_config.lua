@@ -21,7 +21,7 @@ return {
 		{
 			index = 3,
 			key = "act_lgfl_normal",
-			icon = "ltfl_bg_1",
+			icon = "hlfl_bg_1",
 			name = "感恩回馈--v3--捕鱼",
 			tges = 3,
 		},
@@ -29,7 +29,7 @@ return {
 		{
 			index = 4,
 			key = "act_lgfl_v4_normal",
-			icon = "ltfl_bg_1",
+			icon = "hlfl_bg_1",
 			name = "感恩回馈--v4--捕鱼",
 			tges = 4,
 		},
@@ -37,7 +37,7 @@ return {
 		{
 			index = 5,
 			key = "act_lgfl_cjj",
-			icon = "ltfl_bg_1",
+			icon = "hlfl_bg_1",
 			name = "感恩回馈--v3--冲金鸡",
 			tges = 5,
 		},
@@ -45,7 +45,7 @@ return {
 		{
 			index = 6,
 			key = "act_lgfl_v4_cjj",
-			icon = "ltfl_bg_1",
+			icon = "hlfl_bg_1",
 			name = "感恩回馈--v4--冲金鸡",
 			tges = 6,
 		},
