@@ -5,7 +5,7 @@ return {
 		{
 			line = 1,
 			condiy_key = "cpl_notcjj",
-			change_type = 51,
+			change_type = 53,
 			cur_path = "act_009_hhl_",
 			item_key = "prop_fish_drop_act_0",
 			beginTime = 1618272000,
