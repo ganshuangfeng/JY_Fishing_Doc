@@ -49722,6 +49722,7 @@ return {
 			award_id = 1191,
 			award_name = "小米蓝牙音箱/家用电烤箱",
 			get_weight = 1,
+			is_send_email = 1,
 		},
 		[1987]=
 		{
@@ -49745,6 +49746,7 @@ return {
 			award_id = 1192,
 			award_name = "奥克斯煮蛋器/金龙鱼油",
 			get_weight = 1,
+			is_send_email = 1,
 		},
 		[1990]=
 		{
@@ -49768,6 +49770,7 @@ return {
 			award_id = 1193,
 			award_name = "核桃早餐奶8盒",
 			get_weight = 1,
+			is_send_email = 1,
 		},
 		[1993]=
 		{
