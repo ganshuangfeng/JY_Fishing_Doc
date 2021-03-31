@@ -1180,6 +1180,7 @@ return {
 		[128]=
 		{
 			ID = 128,
+			fish_type = 1,
 			fish_form = {112,},
 			life = 250,
 			rate = 250,
@@ -1188,6 +1189,7 @@ return {
 		[129]=
 		{
 			ID = 129,
+			fish_type = 1,
 			fish_form = {113,},
 			life = 350,
 			rate = 350,
@@ -1196,6 +1198,7 @@ return {
 		[130]=
 		{
 			ID = 130,
+			fish_type = 1,
 			fish_form = {114,},
 			life = 450,
 			rate = 450,
@@ -1204,6 +1207,7 @@ return {
 		[131]=
 		{
 			ID = 131,
+			fish_type = 1,
 			fish_form = {115,},
 			life = 30,
 			rate = 30,
@@ -1212,6 +1216,7 @@ return {
 		[132]=
 		{
 			ID = 132,
+			fish_type = 1,
 			fish_form = {116,},
 			life = 35,
 			rate = 35,
@@ -1220,6 +1225,7 @@ return {
 		[133]=
 		{
 			ID = 133,
+			fish_type = 1,
 			fish_form = {117,},
 			life = 40,
 			rate = 40,
@@ -1228,6 +1234,7 @@ return {
 		[134]=
 		{
 			ID = 134,
+			fish_type = 1,
 			fish_form = {118,},
 			life = 45,
 			rate = 45,
@@ -1236,6 +1243,7 @@ return {
 		[135]=
 		{
 			ID = 135,
+			fish_type = 1,
 			fish_form = {119,},
 			life = 50,
 			rate = 50,
@@ -1244,6 +1252,7 @@ return {
 		[136]=
 		{
 			ID = 136,
+			fish_type = 1,
 			fish_form = {120,},
 			life = 70,
 			rate = 70,
