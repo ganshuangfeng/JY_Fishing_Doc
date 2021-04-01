@@ -41,7 +41,7 @@ return {
 			permiss = "actp_buy_gift_bag_class_buy_gift_shop_v1",
 			name_txt_fmt = {"fffae1","af2a22"},
 			award_z_txt_fmt = {"FFFFFF",},
-			gift_1_name = {"100万金币","7万","福气加成"},
+			gift_1_name = {"180万金币","7万","福气加成"},
 			gift_2_name = {"300万金币","12万","福气加成"},
 			gift_3_name = {"480万金币","18万","福气加成"},
 			gift_1_icon = {"fkfl_btn_bx","ty_icon_yxb_3","com_award_icon_f2"},
