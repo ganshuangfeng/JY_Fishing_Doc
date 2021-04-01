@@ -34390,7 +34390,7 @@ return {
 			condition_id = 461,
 			condition_name = "bet_spend",
 			condition_value = 480000,
-			judge_type = 2,
+			judge_type = 3,
 		},
 		[624]=
 		{
@@ -34398,7 +34398,7 @@ return {
 			condition_id = 462,
 			condition_name = "bet_spend",
 			condition_value = 480000,
-			judge_type = 2,
+			judge_type = 3,
 		},
 		[625]=
 		{
@@ -34406,7 +34406,7 @@ return {
 			condition_id = 463,
 			condition_name = "bet_spend",
 			condition_value = 480000,
-			judge_type = 2,
+			judge_type = 3,
 		},
 		[626]=
 		{
@@ -34414,7 +34414,7 @@ return {
 			condition_id = 464,
 			condition_name = "bet_spend",
 			condition_value = 480000,
-			judge_type = 2,
+			judge_type = 3,
 		},
 	},
 	award_data=
