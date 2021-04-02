@@ -2203,6 +2203,12 @@ return {
 			name = "banner和插图广告系统（免费玩家-非新玩家）",
 			condi = 417,
 		},
+		lwgp_can_show_player=
+		{
+			key = "lwgp_can_show_player",
+			name = "龙王贡品广告图显示权限（天天欢乐捕鱼平台）",
+			condi = 432,
+		},
 	},
 	act_permission=
 	{
@@ -17430,6 +17436,16 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
+		},
+		[1048]=
+		{
+			no = 1048,
+			id = 432,
+			var = "share_condition",
+			value = "tthlby_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼平台玩家",
 		},
 	},
 	share_condition=

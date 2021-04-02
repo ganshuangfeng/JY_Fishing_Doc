@@ -668,5 +668,22 @@ return {
 			noCloseUI = 1,
 			tag = "normal",
 		},
+		[41]=
+		{
+			line = 41,
+			act_type = "normal",
+			ID = 41,
+			title = "龙王贡品",
+			order = -20,
+			is_on_off = 1,
+			condi_key = "lwgp_can_show_player",
+			beginTime = 1618272000,
+			endTime = 1618847999,
+			showType = "image",
+			parmData = "lwgp_banner_1",
+			gotoUI = {"game_Fishing3DHall",},
+			noCloseUI = 1,
+			tag = "new",
+		},
 	},
 }
