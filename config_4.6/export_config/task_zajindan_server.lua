@@ -18137,7 +18137,7 @@ return {
 		{
 			id = 510,
 			process_id = 21458,
-			source_id = 528,
+			source_id = 628,
 			process = {100000,200000,300000,400000,4000000,5000000,40000000},
 			awards = {778,779,780,781,782,783,784},
 			get_award_type = "nor",
@@ -18146,7 +18146,7 @@ return {
 		{
 			id = 511,
 			process_id = 21459,
-			source_id = 528,
+			source_id = 628,
 			process = {500000,500000,4000000,5000000,10000000,30000000,50000000},
 			awards = {785,786,787,788,789,790,791},
 			get_award_type = "nor",
@@ -18155,7 +18155,7 @@ return {
 		{
 			id = 512,
 			process_id = 21460,
-			source_id = 528,
+			source_id = 628,
 			process = {1000000,4000000,5000000,20000000,20000000,30000000,70000000},
 			awards = {792,793,794,795,796,797,798},
 			get_award_type = "nor",
@@ -18164,7 +18164,7 @@ return {
 		{
 			id = 513,
 			process_id = 21461,
-			source_id = 528,
+			source_id = 628,
 			process = {1000000,4000000,5000000,10000000,30000000,50000000,200000000},
 			awards = {799,800,801,802,803,804,805},
 			get_award_type = "nor",
@@ -18173,7 +18173,7 @@ return {
 		{
 			id = 514,
 			process_id = 21462,
-			source_id = 528,
+			source_id = 628,
 			process = {5000000,5000000,10000000,30000000,50000000,100000000,200000000},
 			awards = {806,807,808,809,810,811,812},
 			get_award_type = "nor",
@@ -18182,7 +18182,7 @@ return {
 		{
 			id = 515,
 			process_id = 21463,
-			source_id = 528,
+			source_id = 628,
 			process = {5000000,5000000,10000000,30000000,50000000,200000000,300000000},
 			awards = {813,814,815,816,817,818,819},
 			get_award_type = "nor",
@@ -18191,7 +18191,7 @@ return {
 		{
 			id = 516,
 			process_id = 21464,
-			source_id = 528,
+			source_id = 628,
 			process = {10000000,20000000,20000000,50000000,200000000,200000000,500000000},
 			awards = {820,821,822,823,824,825,826},
 			get_award_type = "nor",
@@ -18200,7 +18200,7 @@ return {
 		{
 			id = 517,
 			process_id = 21465,
-			source_id = 528,
+			source_id = 628,
 			process = {20000000,30000000,50000000,400000000,500000000,2000000000,2000000000},
 			awards = {827,828,829,830,831,832,833},
 			get_award_type = "nor",
@@ -25819,15 +25819,14 @@ return {
 		{
 			id = 537,
 			source_id = 375,
-			source_type = "buyu_award",
+			source_type = "buyu_spend",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[538]=
 		{
 			id = 538,
 			source_id = 376,
-			source_type = "jykp_award",
+			source_type = "jykp_spend",
 			condition_id = 0,
 		},
 		[539]=
@@ -29007,6 +29006,97 @@ return {
 			source_id = 627,
 			source_type = "buy_gift",
 			condition_id = 458,
+		},
+		[991]=
+		{
+			id = 991,
+			source_id = 628,
+			source_type = "buyu_3d_spend",
+			condition_id = 0,
+		},
+		[992]=
+		{
+			id = 992,
+			source_id = 628,
+			source_type = "zajindan_spend",
+			condition_id = 0,
+		},
+		[993]=
+		{
+			id = 993,
+			source_id = 628,
+			source_type = "zajindan_caishen_model_spend",
+			condition_id = 0,
+		},
+		[994]=
+		{
+			id = 994,
+			source_id = 628,
+			source_type = "xiaoxiaole_shuihu_spend",
+			condition_id = 0,
+		},
+		[995]=
+		{
+			id = 995,
+			source_id = 628,
+			source_type = "xiaoxiaole_xiyou_spend",
+			condition_id = 0,
+		},
+		[996]=
+		{
+			id = 996,
+			source_id = 628,
+			source_type = "xiaoxiaole_caishen_spend",
+			condition_id = 0,
+		},
+		[997]=
+		{
+			id = 997,
+			source_id = 628,
+			source_type = "lianxianxiaoxiaole_spend",
+			condition_id = 0,
+		},
+		[998]=
+		{
+			id = 998,
+			source_id = 628,
+			source_type = "tantanle_spend",
+			condition_id = 0,
+		},
+		[999]=
+		{
+			id = 999,
+			source_id = 628,
+			source_type = "lwzb_game_spend",
+			condition_id = 0,
+		},
+		[1000]=
+		{
+			id = 1000,
+			source_id = 628,
+			source_type = "dmbj_spend",
+			condition_id = 0,
+		},
+		[1001]=
+		{
+			id = 1001,
+			source_id = 628,
+			source_type = "jykp_spend",
+			condition_id = 0,
+		},
+		[1002]=
+		{
+			id = 1002,
+			source_id = 628,
+			source_type = "xiaoxiaole_spend",
+			condition_id = 0,
+		},
+		[1003]=
+		{
+			id = 1003,
+			source_id = 628,
+			source_type = "buyu_spend",
+			condition_id = 0,
 		},
 	},
 	condition=
