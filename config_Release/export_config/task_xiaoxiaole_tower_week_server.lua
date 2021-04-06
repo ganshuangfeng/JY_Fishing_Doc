@@ -1,26 +1,11 @@
 return {
 	task=
 	{
-		[16500]=
-		{
-			id = 16500,
-			enable = 0,
-			name = "累计消除10个苹果",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16500,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
 		[16501]=
 		{
 			id = 16501,
-			enable = 0,
-			name = "累计消除10个铃铛",
+			enable = 1,
+			name = "累计消除",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16501,
@@ -34,8 +19,8 @@ return {
 		[16502]=
 		{
 			id = 16502,
-			enable = 0,
-			name = "累计消除10个西瓜",
+			enable = 1,
+			name = "累计消除",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16502,
@@ -49,8 +34,8 @@ return {
 		[16503]=
 		{
 			id = 16503,
-			enable = 0,
-			name = "累计消除10个7",
+			enable = 1,
+			name = "累计消除",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16503,
@@ -64,8 +49,8 @@ return {
 		[16504]=
 		{
 			id = 16504,
-			enable = 0,
-			name = "累计消除10个BAR",
+			enable = 1,
+			name = "累计消除",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16504,
@@ -79,8 +64,8 @@ return {
 		[16505]=
 		{
 			id = 16505,
-			enable = 0,
-			name = "累计消除20个苹果",
+			enable = 1,
+			name = "累计消除",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16505,
@@ -94,8 +79,8 @@ return {
 		[16506]=
 		{
 			id = 16506,
-			enable = 0,
-			name = "累计消除20个铃铛",
+			enable = 1,
+			name = "累计消除",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16506,
@@ -109,8 +94,8 @@ return {
 		[16507]=
 		{
 			id = 16507,
-			enable = 0,
-			name = "累计消除20个西瓜",
+			enable = 1,
+			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16507,
@@ -124,8 +109,8 @@ return {
 		[16508]=
 		{
 			id = 16508,
-			enable = 0,
-			name = "累计消除20个7",
+			enable = 1,
+			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16508,
@@ -139,8 +124,8 @@ return {
 		[16509]=
 		{
 			id = 16509,
-			enable = 0,
-			name = "累计消除20个BAR",
+			enable = 1,
+			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16509,
@@ -154,8 +139,8 @@ return {
 		[16510]=
 		{
 			id = 16510,
-			enable = 0,
-			name = "累计消除30个苹果",
+			enable = 1,
+			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16510,
@@ -169,8 +154,8 @@ return {
 		[16511]=
 		{
 			id = 16511,
-			enable = 0,
-			name = "累计消除30个铃铛",
+			enable = 1,
+			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16511,
@@ -184,8 +169,8 @@ return {
 		[16512]=
 		{
 			id = 16512,
-			enable = 0,
-			name = "累计消除30个西瓜",
+			enable = 1,
+			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16512,
@@ -199,8 +184,8 @@ return {
 		[16513]=
 		{
 			id = 16513,
-			enable = 0,
-			name = "累计消除30个7",
+			enable = 1,
+			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16513,
@@ -214,8 +199,8 @@ return {
 		[16514]=
 		{
 			id = 16514,
-			enable = 0,
-			name = "累计消除30个BAR",
+			enable = 1,
+			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16514,
@@ -229,8 +214,8 @@ return {
 		[16515]=
 		{
 			id = 16515,
-			enable = 0,
-			name = "累计消除15个苹果+15个铃铛",
+			enable = 1,
+			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16515,
@@ -244,8 +229,8 @@ return {
 		[16516]=
 		{
 			id = 16516,
-			enable = 0,
-			name = "累计消除15个苹果+15个西瓜",
+			enable = 1,
+			name = "累计消除（1万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16516,
@@ -259,8 +244,8 @@ return {
 		[16517]=
 		{
 			id = 16517,
-			enable = 0,
-			name = "累计消除15个苹果+15个7",
+			enable = 1,
+			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16517,
@@ -274,8 +259,8 @@ return {
 		[16518]=
 		{
 			id = 16518,
-			enable = 0,
-			name = "累计消除15个苹果+15个BAR",
+			enable = 1,
+			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16518,
@@ -289,8 +274,8 @@ return {
 		[16519]=
 		{
 			id = 16519,
-			enable = 0,
-			name = "累计消除15个铃铛+15个西瓜",
+			enable = 1,
+			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16519,
@@ -304,8 +289,8 @@ return {
 		[16520]=
 		{
 			id = 16520,
-			enable = 0,
-			name = "累计消除15个铃铛+15个7",
+			enable = 1,
+			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16520,
@@ -319,8 +304,8 @@ return {
 		[16521]=
 		{
 			id = 16521,
-			enable = 0,
-			name = "累计消除15个铃铛+15个BAR",
+			enable = 1,
+			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16521,
@@ -334,8 +319,8 @@ return {
 		[16522]=
 		{
 			id = 16522,
-			enable = 0,
-			name = "累计消除15个西瓜+15个7",
+			enable = 1,
+			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16522,
@@ -349,8 +334,8 @@ return {
 		[16523]=
 		{
 			id = 16523,
-			enable = 0,
-			name = "累计消除15个西瓜+15个BAR",
+			enable = 1,
+			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16523,
@@ -364,8 +349,8 @@ return {
 		[16524]=
 		{
 			id = 16524,
-			enable = 0,
-			name = "累计消除15个7+15个BAR",
+			enable = 1,
+			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16524,
@@ -379,8 +364,8 @@ return {
 		[16525]=
 		{
 			id = 16525,
-			enable = 0,
-			name = "单局消除7个以上苹果",
+			enable = 1,
+			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16525,
@@ -394,8 +379,8 @@ return {
 		[16526]=
 		{
 			id = 16526,
-			enable = 0,
-			name = "单局消除6个以上铃铛",
+			enable = 1,
+			name = "累计消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16526,
@@ -410,7 +395,7 @@ return {
 		{
 			id = 16527,
 			enable = 0,
-			name = "单局消除5个以上西瓜",
+			name = "单局消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16527,
@@ -425,7 +410,7 @@ return {
 		{
 			id = 16528,
 			enable = 0,
-			name = "单局消除5个以上7",
+			name = "单局消除（3万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16528,
@@ -439,8 +424,8 @@ return {
 		[16529]=
 		{
 			id = 16529,
-			enable = 0,
-			name = "累计消除50个苹果",
+			enable = 1,
+			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16529,
@@ -454,8 +439,8 @@ return {
 		[16530]=
 		{
 			id = 16530,
-			enable = 0,
-			name = "累计消除50个铃铛",
+			enable = 1,
+			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16530,
@@ -469,8 +454,8 @@ return {
 		[16531]=
 		{
 			id = 16531,
-			enable = 0,
-			name = "累计消除50个西瓜",
+			enable = 1,
+			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16531,
@@ -484,8 +469,8 @@ return {
 		[16532]=
 		{
 			id = 16532,
-			enable = 0,
-			name = "累计消除50个7",
+			enable = 1,
+			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16532,
@@ -499,8 +484,8 @@ return {
 		[16533]=
 		{
 			id = 16533,
-			enable = 0,
-			name = "累计消除50个BAR",
+			enable = 1,
+			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16533,
@@ -514,8 +499,8 @@ return {
 		[16534]=
 		{
 			id = 16534,
-			enable = 0,
-			name = "累计消除25个苹果+25个铃铛",
+			enable = 1,
+			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16534,
@@ -529,8 +514,8 @@ return {
 		[16535]=
 		{
 			id = 16535,
-			enable = 0,
-			name = "累计消除25个苹果+25个西瓜",
+			enable = 1,
+			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16535,
@@ -544,8 +529,8 @@ return {
 		[16536]=
 		{
 			id = 16536,
-			enable = 0,
-			name = "累计消除25个苹果+25个7",
+			enable = 1,
+			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16536,
@@ -559,8 +544,8 @@ return {
 		[16537]=
 		{
 			id = 16537,
-			enable = 0,
-			name = "累计消除25个苹果+25个BAR",
+			enable = 1,
+			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16537,
@@ -574,8 +559,8 @@ return {
 		[16538]=
 		{
 			id = 16538,
-			enable = 0,
-			name = "累计消除25个铃铛+25个西瓜",
+			enable = 1,
+			name = "累计消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16538,
@@ -590,7 +575,7 @@ return {
 		{
 			id = 16539,
 			enable = 0,
-			name = "累计消除25个铃铛+25个7",
+			name = "单局消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16539,
@@ -605,7 +590,7 @@ return {
 		{
 			id = 16540,
 			enable = 0,
-			name = "累计消除25个铃铛+25个BAR",
+			name = "单局消除（6万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16540,
@@ -619,8 +604,8 @@ return {
 		[16541]=
 		{
 			id = 16541,
-			enable = 0,
-			name = "累计消除25个西瓜+25个7",
+			enable = 1,
+			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16541,
@@ -634,8 +619,8 @@ return {
 		[16542]=
 		{
 			id = 16542,
-			enable = 0,
-			name = "累计消除25个西瓜+25个BAR",
+			enable = 1,
+			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16542,
@@ -649,8 +634,8 @@ return {
 		[16543]=
 		{
 			id = 16543,
-			enable = 0,
-			name = "累计消除25个7+25个BAR",
+			enable = 1,
+			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16543,
@@ -664,8 +649,8 @@ return {
 		[16544]=
 		{
 			id = 16544,
-			enable = 0,
-			name = "单局消除9个以上苹果",
+			enable = 1,
+			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16544,
@@ -679,8 +664,8 @@ return {
 		[16545]=
 		{
 			id = 16545,
-			enable = 0,
-			name = "单局消除8个以上铃铛",
+			enable = 1,
+			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16545,
@@ -694,8 +679,8 @@ return {
 		[16546]=
 		{
 			id = 16546,
-			enable = 0,
-			name = "单局消除7个以上西瓜",
+			enable = 1,
+			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16546,
@@ -709,8 +694,8 @@ return {
 		[16547]=
 		{
 			id = 16547,
-			enable = 0,
-			name = "单局消除7个以上7",
+			enable = 1,
+			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16547,
@@ -724,8 +709,8 @@ return {
 		[16548]=
 		{
 			id = 16548,
-			enable = 0,
-			name = "累计消除100个苹果",
+			enable = 1,
+			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16548,
@@ -739,8 +724,8 @@ return {
 		[16549]=
 		{
 			id = 16549,
-			enable = 0,
-			name = "累计消除100个铃铛",
+			enable = 1,
+			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16549,
@@ -754,8 +739,8 @@ return {
 		[16550]=
 		{
 			id = 16550,
-			enable = 0,
-			name = "累计消除100个西瓜",
+			enable = 1,
+			name = "累计消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16550,
@@ -769,8 +754,8 @@ return {
 		[16551]=
 		{
 			id = 16551,
-			enable = 0,
-			name = "累计消除100个7",
+			enable = 1,
+			name = "单局消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16551,
@@ -784,8 +769,8 @@ return {
 		[16552]=
 		{
 			id = 16552,
-			enable = 0,
-			name = "累计消除100个BAR",
+			enable = 1,
+			name = "单局消除（12万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16552,
@@ -799,8 +784,8 @@ return {
 		[16553]=
 		{
 			id = 16553,
-			enable = 0,
-			name = "累计消除50个苹果+50个铃铛",
+			enable = 1,
+			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16553,
@@ -814,8 +799,8 @@ return {
 		[16554]=
 		{
 			id = 16554,
-			enable = 0,
-			name = "累计消除50个苹果+50个西瓜",
+			enable = 1,
+			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16554,
@@ -829,8 +814,8 @@ return {
 		[16555]=
 		{
 			id = 16555,
-			enable = 0,
-			name = "累计消除50个苹果+50个7",
+			enable = 1,
+			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16555,
@@ -844,8 +829,8 @@ return {
 		[16556]=
 		{
 			id = 16556,
-			enable = 0,
-			name = "累计消除50个苹果+50个BAR",
+			enable = 1,
+			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16556,
@@ -859,8 +844,8 @@ return {
 		[16557]=
 		{
 			id = 16557,
-			enable = 0,
-			name = "累计消除50个铃铛+50个西瓜",
+			enable = 1,
+			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16557,
@@ -874,8 +859,8 @@ return {
 		[16558]=
 		{
 			id = 16558,
-			enable = 0,
-			name = "累计消除50个铃铛+50个7",
+			enable = 1,
+			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16558,
@@ -889,8 +874,8 @@ return {
 		[16559]=
 		{
 			id = 16559,
-			enable = 0,
-			name = "累计消除50个铃铛+50个BAR",
+			enable = 1,
+			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16559,
@@ -904,8 +889,8 @@ return {
 		[16560]=
 		{
 			id = 16560,
-			enable = 0,
-			name = "累计消除50个西瓜+50个7",
+			enable = 1,
+			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16560,
@@ -919,8 +904,8 @@ return {
 		[16561]=
 		{
 			id = 16561,
-			enable = 0,
-			name = "累计消除50个西瓜+50个BAR",
+			enable = 1,
+			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16561,
@@ -934,8 +919,8 @@ return {
 		[16562]=
 		{
 			id = 16562,
-			enable = 0,
-			name = "累计消除50个7+50个BAR",
+			enable = 1,
+			name = "累计消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16562,
@@ -949,8 +934,8 @@ return {
 		[16563]=
 		{
 			id = 16563,
-			enable = 0,
-			name = "单局消除10个以上苹果",
+			enable = 1,
+			name = "单局消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16563,
@@ -964,8 +949,8 @@ return {
 		[16564]=
 		{
 			id = 16564,
-			enable = 0,
-			name = "单局消除9个以上铃铛",
+			enable = 1,
+			name = "单局消除（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16564,
@@ -980,7 +965,7 @@ return {
 		{
 			id = 16565,
 			enable = 0,
-			name = "单局消除8个以上西瓜",
+			name = "幸运时刻（24万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16565,
@@ -994,8 +979,8 @@ return {
 		[16566]=
 		{
 			id = 16566,
-			enable = 0,
-			name = "单局消除5个以上7",
+			enable = 1,
+			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16566,
@@ -1009,8 +994,8 @@ return {
 		[16567]=
 		{
 			id = 16567,
-			enable = 0,
-			name = "单局消除4个以上BAR",
+			enable = 1,
+			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16567,
@@ -1024,8 +1009,8 @@ return {
 		[16568]=
 		{
 			id = 16568,
-			enable = 0,
-			name = "出现一次幸运时刻",
+			enable = 1,
+			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16568,
@@ -1039,8 +1024,8 @@ return {
 		[16569]=
 		{
 			id = 16569,
-			enable = 0,
-			name = "累计消除150个苹果",
+			enable = 1,
+			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16569,
@@ -1054,8 +1039,8 @@ return {
 		[16570]=
 		{
 			id = 16570,
-			enable = 0,
-			name = "累计消除150个铃铛",
+			enable = 1,
+			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16570,
@@ -1069,8 +1054,8 @@ return {
 		[16571]=
 		{
 			id = 16571,
-			enable = 0,
-			name = "累计消除150个西瓜",
+			enable = 1,
+			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16571,
@@ -1084,8 +1069,8 @@ return {
 		[16572]=
 		{
 			id = 16572,
-			enable = 0,
-			name = "累计消除150个7",
+			enable = 1,
+			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16572,
@@ -1099,8 +1084,8 @@ return {
 		[16573]=
 		{
 			id = 16573,
-			enable = 0,
-			name = "累计消除150个BAR",
+			enable = 1,
+			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16573,
@@ -1114,8 +1099,8 @@ return {
 		[16574]=
 		{
 			id = 16574,
-			enable = 0,
-			name = "累计消除75个苹果+75个铃铛",
+			enable = 1,
+			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16574,
@@ -1129,8 +1114,8 @@ return {
 		[16575]=
 		{
 			id = 16575,
-			enable = 0,
-			name = "累计消除75个苹果+75个西瓜",
+			enable = 1,
+			name = "累计消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16575,
@@ -1144,8 +1129,8 @@ return {
 		[16576]=
 		{
 			id = 16576,
-			enable = 0,
-			name = "累计消除75个苹果+75个7",
+			enable = 1,
+			name = "单局消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16576,
@@ -1159,8 +1144,8 @@ return {
 		[16577]=
 		{
 			id = 16577,
-			enable = 0,
-			name = "累计消除75个苹果+75个BAR",
+			enable = 1,
+			name = "单局消除（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16577,
@@ -1175,7 +1160,7 @@ return {
 		{
 			id = 16578,
 			enable = 0,
-			name = "累计消除75个铃铛+75个西瓜",
+			name = "幸运时刻（48万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16578,
@@ -1189,8 +1174,8 @@ return {
 		[16579]=
 		{
 			id = 16579,
-			enable = 0,
-			name = "累计消除75个铃铛+75个7",
+			enable = 1,
+			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16579,
@@ -1204,8 +1189,8 @@ return {
 		[16580]=
 		{
 			id = 16580,
-			enable = 0,
-			name = "累计消除75个铃铛+75个BAR",
+			enable = 1,
+			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16580,
@@ -1219,8 +1204,8 @@ return {
 		[16581]=
 		{
 			id = 16581,
-			enable = 0,
-			name = "累计消除75个西瓜+75个7",
+			enable = 1,
+			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16581,
@@ -1234,8 +1219,8 @@ return {
 		[16582]=
 		{
 			id = 16582,
-			enable = 0,
-			name = "累计消除75个西瓜+75个BAR",
+			enable = 1,
+			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16582,
@@ -1249,8 +1234,8 @@ return {
 		[16583]=
 		{
 			id = 16583,
-			enable = 0,
-			name = "累计消除75个7+75个BAR",
+			enable = 1,
+			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16583,
@@ -1264,8 +1249,8 @@ return {
 		[16584]=
 		{
 			id = 16584,
-			enable = 0,
-			name = "单局消除11个以上苹果",
+			enable = 1,
+			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16584,
@@ -1279,8 +1264,8 @@ return {
 		[16585]=
 		{
 			id = 16585,
-			enable = 0,
-			name = "单局消除10个以上铃铛",
+			enable = 1,
+			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16585,
@@ -1294,8 +1279,8 @@ return {
 		[16586]=
 		{
 			id = 16586,
-			enable = 0,
-			name = "单局消除9个以上西瓜",
+			enable = 1,
+			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16586,
@@ -1309,8 +1294,8 @@ return {
 		[16587]=
 		{
 			id = 16587,
-			enable = 0,
-			name = "单局消除9个以上7",
+			enable = 1,
+			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16587,
@@ -1324,8 +1309,8 @@ return {
 		[16588]=
 		{
 			id = 16588,
-			enable = 0,
-			name = "单局消除5个以上BAR",
+			enable = 1,
+			name = "累计消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16588,
@@ -1339,8 +1324,8 @@ return {
 		[16589]=
 		{
 			id = 16589,
-			enable = 0,
-			name = "出现2次幸运时刻",
+			enable = 1,
+			name = "单局消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16589,
@@ -1354,8 +1339,8 @@ return {
 		[16590]=
 		{
 			id = 16590,
-			enable = 0,
-			name = "累计消除180个苹果",
+			enable = 1,
+			name = "单局消除（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16590,
@@ -1369,8 +1354,8 @@ return {
 		[16591]=
 		{
 			id = 16591,
-			enable = 0,
-			name = "累计消除180个铃铛",
+			enable = 1,
+			name = "幸运时刻（96万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16591,
@@ -1384,8 +1369,8 @@ return {
 		[16592]=
 		{
 			id = 16592,
-			enable = 0,
-			name = "累计消除180个西瓜",
+			enable = 1,
+			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16592,
@@ -1399,8 +1384,8 @@ return {
 		[16593]=
 		{
 			id = 16593,
-			enable = 0,
-			name = "累计消除180个7",
+			enable = 1,
+			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16593,
@@ -1414,8 +1399,8 @@ return {
 		[16594]=
 		{
 			id = 16594,
-			enable = 0,
-			name = "累计消除180个BAR",
+			enable = 1,
+			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16594,
@@ -1429,8 +1414,8 @@ return {
 		[16595]=
 		{
 			id = 16595,
-			enable = 0,
-			name = "累计消除90个苹果+90个铃铛",
+			enable = 1,
+			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16595,
@@ -1444,8 +1429,8 @@ return {
 		[16596]=
 		{
 			id = 16596,
-			enable = 0,
-			name = "累计消除90个苹果+90个西瓜",
+			enable = 1,
+			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16596,
@@ -1459,8 +1444,8 @@ return {
 		[16597]=
 		{
 			id = 16597,
-			enable = 0,
-			name = "累计消除90个苹果+90个7",
+			enable = 1,
+			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16597,
@@ -1474,8 +1459,8 @@ return {
 		[16598]=
 		{
 			id = 16598,
-			enable = 0,
-			name = "累计消除90个苹果+90个BAR",
+			enable = 1,
+			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16598,
@@ -1489,8 +1474,8 @@ return {
 		[16599]=
 		{
 			id = 16599,
-			enable = 0,
-			name = "累计消除90个铃铛+90个西瓜",
+			enable = 1,
+			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16599,
@@ -1504,8 +1489,8 @@ return {
 		[16600]=
 		{
 			id = 16600,
-			enable = 0,
-			name = "累计消除90个铃铛+90个7",
+			enable = 1,
+			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16600,
@@ -1519,8 +1504,8 @@ return {
 		[16601]=
 		{
 			id = 16601,
-			enable = 0,
-			name = "累计消除90个铃铛+90个BAR",
+			enable = 1,
+			name = "累计消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16601,
@@ -1534,8 +1519,8 @@ return {
 		[16602]=
 		{
 			id = 16602,
-			enable = 0,
-			name = "累计消除90个西瓜+90个7",
+			enable = 1,
+			name = "单局消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16602,
@@ -1549,8 +1534,8 @@ return {
 		[16603]=
 		{
 			id = 16603,
-			enable = 0,
-			name = "累计消除90个西瓜+90个BAR",
+			enable = 1,
+			name = "单局消除（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16603,
@@ -1564,8 +1549,8 @@ return {
 		[16604]=
 		{
 			id = 16604,
-			enable = 0,
-			name = "累计消除90个7+90个BAR",
+			enable = 1,
+			name = "幸运时刻（192万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16604,
@@ -1579,8 +1564,8 @@ return {
 		[16605]=
 		{
 			id = 16605,
-			enable = 0,
-			name = "单局消除12个以上苹果",
+			enable = 1,
+			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16605,
@@ -1594,8 +1579,8 @@ return {
 		[16606]=
 		{
 			id = 16606,
-			enable = 0,
-			name = "单局消除11个以上铃铛",
+			enable = 1,
+			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16606,
@@ -1609,8 +1594,8 @@ return {
 		[16607]=
 		{
 			id = 16607,
-			enable = 0,
-			name = "单局消除10个以上西瓜",
+			enable = 1,
+			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16607,
@@ -1624,8 +1609,8 @@ return {
 		[16608]=
 		{
 			id = 16608,
-			enable = 0,
-			name = "单局消除10个以上7",
+			enable = 1,
+			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16608,
@@ -1639,8 +1624,8 @@ return {
 		[16609]=
 		{
 			id = 16609,
-			enable = 0,
-			name = "单局消除6个以上BAR",
+			enable = 1,
+			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16609,
@@ -1654,8 +1639,8 @@ return {
 		[16610]=
 		{
 			id = 16610,
-			enable = 0,
-			name = "出现2次幸运时刻",
+			enable = 1,
+			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16610,
@@ -1669,8 +1654,8 @@ return {
 		[16611]=
 		{
 			id = 16611,
-			enable = 0,
-			name = "累计消除200个苹果",
+			enable = 1,
+			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16611,
@@ -1684,8 +1669,8 @@ return {
 		[16612]=
 		{
 			id = 16612,
-			enable = 0,
-			name = "累计消除200个铃铛",
+			enable = 1,
+			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16612,
@@ -1699,8 +1684,8 @@ return {
 		[16613]=
 		{
 			id = 16613,
-			enable = 0,
-			name = "累计消除200个西瓜",
+			enable = 1,
+			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16613,
@@ -1714,8 +1699,8 @@ return {
 		[16614]=
 		{
 			id = 16614,
-			enable = 0,
-			name = "累计消除200个7",
+			enable = 1,
+			name = "累计消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16614,
@@ -1729,8 +1714,8 @@ return {
 		[16615]=
 		{
 			id = 16615,
-			enable = 0,
-			name = "累计消除200个BAR",
+			enable = 1,
+			name = "单局消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16615,
@@ -1744,8 +1729,8 @@ return {
 		[16616]=
 		{
 			id = 16616,
-			enable = 0,
-			name = "累计消除100个苹果+100个铃铛",
+			enable = 1,
+			name = "单局消除（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16616,
@@ -1759,8 +1744,8 @@ return {
 		[16617]=
 		{
 			id = 16617,
-			enable = 0,
-			name = "累计消除100个苹果+100个西瓜",
+			enable = 1,
+			name = "幸运时刻（512万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16617,
@@ -1774,8 +1759,8 @@ return {
 		[16618]=
 		{
 			id = 16618,
-			enable = 0,
-			name = "累计消除100个苹果+100个7",
+			enable = 1,
+			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16618,
@@ -1789,8 +1774,8 @@ return {
 		[16619]=
 		{
 			id = 16619,
-			enable = 0,
-			name = "累计消除100个苹果+100个BAR",
+			enable = 1,
+			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16619,
@@ -1804,8 +1789,8 @@ return {
 		[16620]=
 		{
 			id = 16620,
-			enable = 0,
-			name = "累计消除100个铃铛+100个西瓜",
+			enable = 1,
+			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16620,
@@ -1819,8 +1804,8 @@ return {
 		[16621]=
 		{
 			id = 16621,
-			enable = 0,
-			name = "累计消除100个铃铛+100个7",
+			enable = 1,
+			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16621,
@@ -1834,8 +1819,8 @@ return {
 		[16622]=
 		{
 			id = 16622,
-			enable = 0,
-			name = "累计消除100个铃铛+100个BAR",
+			enable = 1,
+			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16622,
@@ -1849,8 +1834,8 @@ return {
 		[16623]=
 		{
 			id = 16623,
-			enable = 0,
-			name = "累计消除100个西瓜+100个7",
+			enable = 1,
+			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16623,
@@ -1864,8 +1849,8 @@ return {
 		[16624]=
 		{
 			id = 16624,
-			enable = 0,
-			name = "累计消除100个西瓜+100个BAR",
+			enable = 1,
+			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16624,
@@ -1879,8 +1864,8 @@ return {
 		[16625]=
 		{
 			id = 16625,
-			enable = 0,
-			name = "累计消除100个7+100个BAR",
+			enable = 1,
+			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16625,
@@ -1894,8 +1879,8 @@ return {
 		[16626]=
 		{
 			id = 16626,
-			enable = 0,
-			name = "单局消除13个以上苹果",
+			enable = 1,
+			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16626,
@@ -1909,8 +1894,8 @@ return {
 		[16627]=
 		{
 			id = 16627,
-			enable = 0,
-			name = "单局消除12个以上铃铛",
+			enable = 1,
+			name = "累计消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16627,
@@ -1924,8 +1909,8 @@ return {
 		[16628]=
 		{
 			id = 16628,
-			enable = 0,
-			name = "单局消除11个以上西瓜",
+			enable = 1,
+			name = "单局消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16628,
@@ -1939,8 +1924,8 @@ return {
 		[16629]=
 		{
 			id = 16629,
-			enable = 0,
-			name = "单局消除11个以上7",
+			enable = 1,
+			name = "单局消除（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16629,
@@ -1954,656 +1939,11 @@ return {
 		[16630]=
 		{
 			id = 16630,
-			enable = 0,
-			name = "单局消除6个以上BAR",
+			enable = 1,
+			name = "幸运时刻（1024万及以上档次）",
 			own_type = "xiaoxiaole_tower",
 			task_enum = "common",
 			process_id = 16630,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16631]=
-		{
-			id = 16631,
-			enable = 0,
-			name = "出现2次幸运时刻",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16631,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16632]=
-		{
-			id = 16632,
-			enable = 0,
-			name = "累计消除250个苹果",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16632,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16633]=
-		{
-			id = 16633,
-			enable = 0,
-			name = "累计消除250个铃铛",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16633,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16634]=
-		{
-			id = 16634,
-			enable = 0,
-			name = "累计消除250个西瓜",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16634,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16635]=
-		{
-			id = 16635,
-			enable = 0,
-			name = "累计消除250个7",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16635,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16636]=
-		{
-			id = 16636,
-			enable = 0,
-			name = "累计消除250个BAR",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16636,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16637]=
-		{
-			id = 16637,
-			enable = 0,
-			name = "累计消除125个苹果+125个铃铛",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16637,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16638]=
-		{
-			id = 16638,
-			enable = 0,
-			name = "累计消除125个苹果+125个西瓜",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16638,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16639]=
-		{
-			id = 16639,
-			enable = 0,
-			name = "累计消除125个苹果+125个7",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16639,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16640]=
-		{
-			id = 16640,
-			enable = 0,
-			name = "累计消除125个苹果+125个BAR",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16640,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16641]=
-		{
-			id = 16641,
-			enable = 0,
-			name = "累计消除125个铃铛+125个西瓜",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16641,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16642]=
-		{
-			id = 16642,
-			enable = 0,
-			name = "累计消除125个铃铛+125个7",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16642,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16643]=
-		{
-			id = 16643,
-			enable = 0,
-			name = "累计消除125个铃铛+125个BAR",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16643,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16644]=
-		{
-			id = 16644,
-			enable = 0,
-			name = "累计消除125个西瓜+125个7",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16644,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16645]=
-		{
-			id = 16645,
-			enable = 0,
-			name = "累计消除125个西瓜+125个BAR",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16645,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16646]=
-		{
-			id = 16646,
-			enable = 0,
-			name = "累计消除125个7+125个BAR",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16646,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16647]=
-		{
-			id = 16647,
-			enable = 0,
-			name = "单局消除14个以上苹果",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16647,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16648]=
-		{
-			id = 16648,
-			enable = 0,
-			name = "单局消除13个以上铃铛",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16648,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16649]=
-		{
-			id = 16649,
-			enable = 0,
-			name = "单局消除12个以上西瓜",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16649,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16650]=
-		{
-			id = 16650,
-			enable = 0,
-			name = "单局消除12个以上7",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16650,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16651]=
-		{
-			id = 16651,
-			enable = 0,
-			name = "单局消除6个以上BAR",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16651,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16652]=
-		{
-			id = 16652,
-			enable = 0,
-			name = "出现3次幸运时刻",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16652,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16653]=
-		{
-			id = 16653,
-			enable = 0,
-			name = "累计消除300个苹果",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16653,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16654]=
-		{
-			id = 16654,
-			enable = 0,
-			name = "累计消除300个铃铛",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16654,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16655]=
-		{
-			id = 16655,
-			enable = 0,
-			name = "累计消除300个西瓜",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16655,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16656]=
-		{
-			id = 16656,
-			enable = 0,
-			name = "累计消除300个7",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16656,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16657]=
-		{
-			id = 16657,
-			enable = 0,
-			name = "累计消除300个BAR",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16657,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16658]=
-		{
-			id = 16658,
-			enable = 0,
-			name = "累计消除150个苹果+150个铃铛",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16658,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16659]=
-		{
-			id = 16659,
-			enable = 0,
-			name = "累计消除150个苹果+150个西瓜",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16659,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16660]=
-		{
-			id = 16660,
-			enable = 0,
-			name = "累计消除150个苹果+150个7",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16660,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16661]=
-		{
-			id = 16661,
-			enable = 0,
-			name = "累计消除150个苹果+150个BAR",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16661,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16662]=
-		{
-			id = 16662,
-			enable = 0,
-			name = "累计消除150个铃铛+150个西瓜",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16662,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16663]=
-		{
-			id = 16663,
-			enable = 0,
-			name = "累计消除150个铃铛+150个7",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16663,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16664]=
-		{
-			id = 16664,
-			enable = 0,
-			name = "累计消除150个铃铛+150个BAR",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16664,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16665]=
-		{
-			id = 16665,
-			enable = 0,
-			name = "累计消除150个西瓜+150个7",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16665,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16666]=
-		{
-			id = 16666,
-			enable = 0,
-			name = "累计消除150个西瓜+150个BAR",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16666,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16667]=
-		{
-			id = 16667,
-			enable = 0,
-			name = "累计消除150个7+150个BAR",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16667,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16668]=
-		{
-			id = 16668,
-			enable = 0,
-			name = "单局消除15个以上苹果",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16668,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16669]=
-		{
-			id = 16669,
-			enable = 0,
-			name = "单局消除14个以上铃铛",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16669,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16670]=
-		{
-			id = 16670,
-			enable = 0,
-			name = "单局消除13个以上西瓜",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16670,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16671]=
-		{
-			id = 16671,
-			enable = 0,
-			name = "单局消除13个以上7",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16671,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16672]=
-		{
-			id = 16672,
-			enable = 0,
-			name = "单局消除6个以上BAR",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16672,
-			is_reset = 0,
-			reset_delay = 7,
-			start_valid_time = 1615046400,
-			end_valid_time = 32503651200,
-			time_limit = -1,
-			is_send_client = 1,
-		},
-		[16673]=
-		{
-			id = 16673,
-			enable = 0,
-			name = "出现3次幸运时刻",
-			own_type = "xiaoxiaole_tower",
-			task_enum = "common",
-			process_id = 16673,
 			is_reset = 0,
 			reset_delay = 7,
 			start_valid_time = 1615046400,
@@ -2617,9 +1957,9 @@ return {
 		[1]=
 		{
 			id = 1,
-			process_id = 16500,
+			process_id = 16501,
 			source_id = 1,
-			process = 10,
+			process = 90,
 			awards = 1,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2627,9 +1967,9 @@ return {
 		[2]=
 		{
 			id = 2,
-			process_id = 16501,
+			process_id = 16502,
 			source_id = 2,
-			process = 10,
+			process = 75,
 			awards = 2,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2637,9 +1977,9 @@ return {
 		[3]=
 		{
 			id = 3,
-			process_id = 16502,
+			process_id = 16503,
 			source_id = 3,
-			process = 10,
+			process = 75,
 			awards = 3,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2647,9 +1987,9 @@ return {
 		[4]=
 		{
 			id = 4,
-			process_id = 16503,
+			process_id = 16504,
 			source_id = 4,
-			process = 10,
+			process = 75,
 			awards = 4,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2657,9 +1997,9 @@ return {
 		[5]=
 		{
 			id = 5,
-			process_id = 16504,
+			process_id = 16505,
 			source_id = 5,
-			process = 10,
+			process = 75,
 			awards = 5,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2667,9 +2007,9 @@ return {
 		[6]=
 		{
 			id = 6,
-			process_id = 16505,
-			source_id = 1,
-			process = 20,
+			process_id = 16506,
+			source_id = 6,
+			process = 60,
 			awards = 6,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2677,9 +2017,9 @@ return {
 		[7]=
 		{
 			id = 7,
-			process_id = 16506,
-			source_id = 2,
-			process = 20,
+			process_id = 16507,
+			source_id = 7,
+			process = 240,
 			awards = 7,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2687,9 +2027,9 @@ return {
 		[8]=
 		{
 			id = 8,
-			process_id = 16507,
-			source_id = 3,
-			process = 20,
+			process_id = 16508,
+			source_id = 8,
+			process = 200,
 			awards = 8,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2697,9 +2037,9 @@ return {
 		[9]=
 		{
 			id = 9,
-			process_id = 16508,
-			source_id = 4,
-			process = 20,
+			process_id = 16509,
+			source_id = 9,
+			process = 200,
 			awards = 9,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2707,9 +2047,9 @@ return {
 		[10]=
 		{
 			id = 10,
-			process_id = 16509,
-			source_id = 5,
-			process = 20,
+			process_id = 16510,
+			source_id = 10,
+			process = 200,
 			awards = 10,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2717,9 +2057,9 @@ return {
 		[11]=
 		{
 			id = 11,
-			process_id = 16510,
-			source_id = 1,
-			process = 30,
+			process_id = 16511,
+			source_id = 11,
+			process = 200,
 			awards = 11,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2727,9 +2067,9 @@ return {
 		[12]=
 		{
 			id = 12,
-			process_id = 16511,
-			source_id = 2,
-			process = 30,
+			process_id = 16512,
+			source_id = 12,
+			process = 160,
 			awards = 12,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2737,9 +2077,9 @@ return {
 		[13]=
 		{
 			id = 13,
-			process_id = 16512,
-			source_id = 3,
-			process = 30,
+			process_id = 16513,
+			source_id = 13,
+			process = 160,
 			awards = 13,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2747,9 +2087,9 @@ return {
 		[14]=
 		{
 			id = 14,
-			process_id = 16513,
-			source_id = 4,
-			process = 30,
+			process_id = 16514,
+			source_id = 14,
+			process = 200,
 			awards = 14,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2757,9 +2097,9 @@ return {
 		[15]=
 		{
 			id = 15,
-			process_id = 16514,
-			source_id = 5,
-			process = 30,
+			process_id = 16515,
+			source_id = 15,
+			process = 200,
 			awards = 15,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2767,9 +2107,9 @@ return {
 		[16]=
 		{
 			id = 16,
-			process_id = 16515,
-			source_id = 6,
-			process = 30,
+			process_id = 16516,
+			source_id = 16,
+			process = 160,
 			awards = 16,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2777,9 +2117,9 @@ return {
 		[17]=
 		{
 			id = 17,
-			process_id = 16516,
-			source_id = 7,
-			process = 30,
+			process_id = 16517,
+			source_id = 17,
+			process = 300,
 			awards = 17,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2787,9 +2127,9 @@ return {
 		[18]=
 		{
 			id = 18,
-			process_id = 16517,
-			source_id = 8,
-			process = 30,
+			process_id = 16518,
+			source_id = 18,
+			process = 250,
 			awards = 18,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2797,9 +2137,9 @@ return {
 		[19]=
 		{
 			id = 19,
-			process_id = 16518,
-			source_id = 9,
-			process = 30,
+			process_id = 16519,
+			source_id = 19,
+			process = 250,
 			awards = 19,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2807,9 +2147,9 @@ return {
 		[20]=
 		{
 			id = 20,
-			process_id = 16519,
-			source_id = 10,
-			process = 30,
+			process_id = 16520,
+			source_id = 20,
+			process = 250,
 			awards = 20,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2817,9 +2157,9 @@ return {
 		[21]=
 		{
 			id = 21,
-			process_id = 16520,
-			source_id = 11,
-			process = 30,
+			process_id = 16521,
+			source_id = 21,
+			process = 250,
 			awards = 21,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2827,9 +2167,9 @@ return {
 		[22]=
 		{
 			id = 22,
-			process_id = 16521,
-			source_id = 12,
-			process = 30,
+			process_id = 16522,
+			source_id = 22,
+			process = 200,
 			awards = 22,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2837,9 +2177,9 @@ return {
 		[23]=
 		{
 			id = 23,
-			process_id = 16522,
-			source_id = 13,
-			process = 30,
+			process_id = 16523,
+			source_id = 23,
+			process = 200,
 			awards = 23,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2847,9 +2187,9 @@ return {
 		[24]=
 		{
 			id = 24,
-			process_id = 16523,
-			source_id = 14,
-			process = 30,
+			process_id = 16524,
+			source_id = 24,
+			process = 250,
 			awards = 24,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2857,9 +2197,9 @@ return {
 		[25]=
 		{
 			id = 25,
-			process_id = 16524,
-			source_id = 15,
-			process = 30,
+			process_id = 16525,
+			source_id = 25,
+			process = 250,
 			awards = 25,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2867,9 +2207,9 @@ return {
 		[26]=
 		{
 			id = 26,
-			process_id = 16525,
-			source_id = 16,
-			process = 1,
+			process_id = 16526,
+			source_id = 26,
+			process = 200,
 			awards = 26,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2877,8 +2217,8 @@ return {
 		[27]=
 		{
 			id = 27,
-			process_id = 16526,
-			source_id = 17,
+			process_id = 16527,
+			source_id = 27,
 			process = 1,
 			awards = 27,
 			get_award_type = "nor",
@@ -2887,8 +2227,8 @@ return {
 		[28]=
 		{
 			id = 28,
-			process_id = 16527,
-			source_id = 18,
+			process_id = 16528,
+			source_id = 28,
 			process = 1,
 			awards = 28,
 			get_award_type = "nor",
@@ -2897,9 +2237,9 @@ return {
 		[29]=
 		{
 			id = 29,
-			process_id = 16528,
-			source_id = 19,
-			process = 1,
+			process_id = 16529,
+			source_id = 29,
+			process = 360,
 			awards = 29,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2907,9 +2247,9 @@ return {
 		[30]=
 		{
 			id = 30,
-			process_id = 16529,
-			source_id = 1,
-			process = 50,
+			process_id = 16530,
+			source_id = 30,
+			process = 300,
 			awards = 30,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2917,9 +2257,9 @@ return {
 		[31]=
 		{
 			id = 31,
-			process_id = 16530,
-			source_id = 2,
-			process = 50,
+			process_id = 16531,
+			source_id = 31,
+			process = 300,
 			awards = 31,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2927,9 +2267,9 @@ return {
 		[32]=
 		{
 			id = 32,
-			process_id = 16531,
-			source_id = 3,
-			process = 50,
+			process_id = 16532,
+			source_id = 32,
+			process = 300,
 			awards = 32,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2937,9 +2277,9 @@ return {
 		[33]=
 		{
 			id = 33,
-			process_id = 16532,
-			source_id = 4,
-			process = 50,
+			process_id = 16533,
+			source_id = 33,
+			process = 300,
 			awards = 33,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2947,9 +2287,9 @@ return {
 		[34]=
 		{
 			id = 34,
-			process_id = 16533,
-			source_id = 5,
-			process = 50,
+			process_id = 16534,
+			source_id = 34,
+			process = 240,
 			awards = 34,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2957,9 +2297,9 @@ return {
 		[35]=
 		{
 			id = 35,
-			process_id = 16534,
-			source_id = 20,
-			process = 50,
+			process_id = 16535,
+			source_id = 35,
+			process = 240,
 			awards = 35,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2967,9 +2307,9 @@ return {
 		[36]=
 		{
 			id = 36,
-			process_id = 16535,
-			source_id = 21,
-			process = 50,
+			process_id = 16536,
+			source_id = 36,
+			process = 300,
 			awards = 36,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2977,9 +2317,9 @@ return {
 		[37]=
 		{
 			id = 37,
-			process_id = 16536,
-			source_id = 22,
-			process = 50,
+			process_id = 16537,
+			source_id = 37,
+			process = 300,
 			awards = 37,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2987,9 +2327,9 @@ return {
 		[38]=
 		{
 			id = 38,
-			process_id = 16537,
-			source_id = 23,
-			process = 50,
+			process_id = 16538,
+			source_id = 38,
+			process = 240,
 			awards = 38,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -2997,9 +2337,9 @@ return {
 		[39]=
 		{
 			id = 39,
-			process_id = 16538,
-			source_id = 24,
-			process = 50,
+			process_id = 16539,
+			source_id = 39,
+			process = 1,
 			awards = 39,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3007,9 +2347,9 @@ return {
 		[40]=
 		{
 			id = 40,
-			process_id = 16539,
-			source_id = 25,
-			process = 50,
+			process_id = 16540,
+			source_id = 40,
+			process = 1,
 			awards = 40,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3017,9 +2357,9 @@ return {
 		[41]=
 		{
 			id = 41,
-			process_id = 16540,
-			source_id = 26,
-			process = 50,
+			process_id = 16541,
+			source_id = 41,
+			process = 450,
 			awards = 41,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3027,9 +2367,9 @@ return {
 		[42]=
 		{
 			id = 42,
-			process_id = 16541,
-			source_id = 27,
-			process = 50,
+			process_id = 16542,
+			source_id = 42,
+			process = 380,
 			awards = 42,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3037,9 +2377,9 @@ return {
 		[43]=
 		{
 			id = 43,
-			process_id = 16542,
-			source_id = 28,
-			process = 50,
+			process_id = 16543,
+			source_id = 43,
+			process = 380,
 			awards = 43,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3047,9 +2387,9 @@ return {
 		[44]=
 		{
 			id = 44,
-			process_id = 16543,
-			source_id = 29,
-			process = 50,
+			process_id = 16544,
+			source_id = 44,
+			process = 380,
 			awards = 44,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3057,9 +2397,9 @@ return {
 		[45]=
 		{
 			id = 45,
-			process_id = 16544,
-			source_id = 30,
-			process = 1,
+			process_id = 16545,
+			source_id = 45,
+			process = 380,
 			awards = 45,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3067,9 +2407,9 @@ return {
 		[46]=
 		{
 			id = 46,
-			process_id = 16545,
-			source_id = 31,
-			process = 1,
+			process_id = 16546,
+			source_id = 46,
+			process = 310,
 			awards = 46,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3077,9 +2417,9 @@ return {
 		[47]=
 		{
 			id = 47,
-			process_id = 16546,
-			source_id = 32,
-			process = 1,
+			process_id = 16547,
+			source_id = 47,
+			process = 310,
 			awards = 47,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3087,9 +2427,9 @@ return {
 		[48]=
 		{
 			id = 48,
-			process_id = 16547,
-			source_id = 33,
-			process = 1,
+			process_id = 16548,
+			source_id = 48,
+			process = 380,
 			awards = 48,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3097,9 +2437,9 @@ return {
 		[49]=
 		{
 			id = 49,
-			process_id = 16548,
-			source_id = 1,
-			process = 100,
+			process_id = 16549,
+			source_id = 49,
+			process = 380,
 			awards = 49,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3107,9 +2447,9 @@ return {
 		[50]=
 		{
 			id = 50,
-			process_id = 16549,
-			source_id = 2,
-			process = 100,
+			process_id = 16550,
+			source_id = 50,
+			process = 310,
 			awards = 50,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3117,9 +2457,9 @@ return {
 		[51]=
 		{
 			id = 51,
-			process_id = 16550,
-			source_id = 3,
-			process = 100,
+			process_id = 16551,
+			source_id = 51,
+			process = 1,
 			awards = 51,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3127,9 +2467,9 @@ return {
 		[52]=
 		{
 			id = 52,
-			process_id = 16551,
-			source_id = 4,
-			process = 100,
+			process_id = 16552,
+			source_id = 52,
+			process = 1,
 			awards = 52,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3137,9 +2477,9 @@ return {
 		[53]=
 		{
 			id = 53,
-			process_id = 16552,
-			source_id = 5,
-			process = 100,
+			process_id = 16553,
+			source_id = 53,
+			process = 600,
 			awards = 53,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3147,9 +2487,9 @@ return {
 		[54]=
 		{
 			id = 54,
-			process_id = 16553,
-			source_id = 34,
-			process = 100,
+			process_id = 16554,
+			source_id = 54,
+			process = 500,
 			awards = 54,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3157,9 +2497,9 @@ return {
 		[55]=
 		{
 			id = 55,
-			process_id = 16554,
-			source_id = 35,
-			process = 100,
+			process_id = 16555,
+			source_id = 55,
+			process = 500,
 			awards = 55,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3167,9 +2507,9 @@ return {
 		[56]=
 		{
 			id = 56,
-			process_id = 16555,
-			source_id = 36,
-			process = 100,
+			process_id = 16556,
+			source_id = 56,
+			process = 500,
 			awards = 56,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3177,9 +2517,9 @@ return {
 		[57]=
 		{
 			id = 57,
-			process_id = 16556,
-			source_id = 37,
-			process = 100,
+			process_id = 16557,
+			source_id = 57,
+			process = 500,
 			awards = 57,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3187,9 +2527,9 @@ return {
 		[58]=
 		{
 			id = 58,
-			process_id = 16557,
-			source_id = 38,
-			process = 100,
+			process_id = 16558,
+			source_id = 58,
+			process = 400,
 			awards = 58,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3197,9 +2537,9 @@ return {
 		[59]=
 		{
 			id = 59,
-			process_id = 16558,
-			source_id = 39,
-			process = 100,
+			process_id = 16559,
+			source_id = 59,
+			process = 400,
 			awards = 59,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3207,9 +2547,9 @@ return {
 		[60]=
 		{
 			id = 60,
-			process_id = 16559,
-			source_id = 40,
-			process = 100,
+			process_id = 16560,
+			source_id = 60,
+			process = 500,
 			awards = 60,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3217,9 +2557,9 @@ return {
 		[61]=
 		{
 			id = 61,
-			process_id = 16560,
-			source_id = 41,
-			process = 100,
+			process_id = 16561,
+			source_id = 61,
+			process = 500,
 			awards = 61,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3227,9 +2567,9 @@ return {
 		[62]=
 		{
 			id = 62,
-			process_id = 16561,
-			source_id = 42,
-			process = 100,
+			process_id = 16562,
+			source_id = 62,
+			process = 400,
 			awards = 62,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3237,9 +2577,9 @@ return {
 		[63]=
 		{
 			id = 63,
-			process_id = 16562,
-			source_id = 43,
-			process = 100,
+			process_id = 16563,
+			source_id = 63,
+			process = 1,
 			awards = 63,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3247,8 +2587,8 @@ return {
 		[64]=
 		{
 			id = 64,
-			process_id = 16563,
-			source_id = 44,
+			process_id = 16564,
+			source_id = 64,
 			process = 1,
 			awards = 64,
 			get_award_type = "nor",
@@ -3257,8 +2597,8 @@ return {
 		[65]=
 		{
 			id = 65,
-			process_id = 16564,
-			source_id = 45,
+			process_id = 16565,
+			source_id = 65,
 			process = 1,
 			awards = 65,
 			get_award_type = "nor",
@@ -3267,9 +2607,9 @@ return {
 		[66]=
 		{
 			id = 66,
-			process_id = 16565,
-			source_id = 46,
-			process = 1,
+			process_id = 16566,
+			source_id = 66,
+			process = 900,
 			awards = 66,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3277,9 +2617,9 @@ return {
 		[67]=
 		{
 			id = 67,
-			process_id = 16566,
-			source_id = 47,
-			process = 1,
+			process_id = 16567,
+			source_id = 67,
+			process = 750,
 			awards = 67,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3287,9 +2627,9 @@ return {
 		[68]=
 		{
 			id = 68,
-			process_id = 16567,
-			source_id = 48,
-			process = 1,
+			process_id = 16568,
+			source_id = 68,
+			process = 750,
 			awards = 68,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3297,9 +2637,9 @@ return {
 		[69]=
 		{
 			id = 69,
-			process_id = 16568,
-			source_id = 49,
-			process = 1,
+			process_id = 16569,
+			source_id = 69,
+			process = 750,
 			awards = 69,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3307,9 +2647,9 @@ return {
 		[70]=
 		{
 			id = 70,
-			process_id = 16569,
-			source_id = 1,
-			process = 150,
+			process_id = 16570,
+			source_id = 70,
+			process = 750,
 			awards = 70,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3317,9 +2657,9 @@ return {
 		[71]=
 		{
 			id = 71,
-			process_id = 16570,
-			source_id = 2,
-			process = 150,
+			process_id = 16571,
+			source_id = 71,
+			process = 600,
 			awards = 71,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3327,9 +2667,9 @@ return {
 		[72]=
 		{
 			id = 72,
-			process_id = 16571,
-			source_id = 3,
-			process = 150,
+			process_id = 16572,
+			source_id = 72,
+			process = 600,
 			awards = 72,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3337,9 +2677,9 @@ return {
 		[73]=
 		{
 			id = 73,
-			process_id = 16572,
-			source_id = 4,
-			process = 150,
+			process_id = 16573,
+			source_id = 73,
+			process = 750,
 			awards = 73,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3347,9 +2687,9 @@ return {
 		[74]=
 		{
 			id = 74,
-			process_id = 16573,
-			source_id = 5,
-			process = 150,
+			process_id = 16574,
+			source_id = 74,
+			process = 750,
 			awards = 74,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3357,9 +2697,9 @@ return {
 		[75]=
 		{
 			id = 75,
-			process_id = 16574,
-			source_id = 50,
-			process = 150,
+			process_id = 16575,
+			source_id = 75,
+			process = 600,
 			awards = 75,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3367,9 +2707,9 @@ return {
 		[76]=
 		{
 			id = 76,
-			process_id = 16575,
-			source_id = 51,
-			process = 150,
+			process_id = 16576,
+			source_id = 76,
+			process = 1,
 			awards = 76,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3377,9 +2717,9 @@ return {
 		[77]=
 		{
 			id = 77,
-			process_id = 16576,
-			source_id = 52,
-			process = 150,
+			process_id = 16577,
+			source_id = 77,
+			process = 1,
 			awards = 77,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3387,9 +2727,9 @@ return {
 		[78]=
 		{
 			id = 78,
-			process_id = 16577,
-			source_id = 53,
-			process = 150,
+			process_id = 16578,
+			source_id = 78,
+			process = 1,
 			awards = 78,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3397,9 +2737,9 @@ return {
 		[79]=
 		{
 			id = 79,
-			process_id = 16578,
-			source_id = 54,
-			process = 150,
+			process_id = 16579,
+			source_id = 79,
+			process = 1200,
 			awards = 79,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3407,9 +2747,9 @@ return {
 		[80]=
 		{
 			id = 80,
-			process_id = 16579,
-			source_id = 55,
-			process = 150,
+			process_id = 16580,
+			source_id = 80,
+			process = 1000,
 			awards = 80,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3417,9 +2757,9 @@ return {
 		[81]=
 		{
 			id = 81,
-			process_id = 16580,
-			source_id = 56,
-			process = 150,
+			process_id = 16581,
+			source_id = 81,
+			process = 1000,
 			awards = 81,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3427,9 +2767,9 @@ return {
 		[82]=
 		{
 			id = 82,
-			process_id = 16581,
-			source_id = 57,
-			process = 150,
+			process_id = 16582,
+			source_id = 82,
+			process = 1000,
 			awards = 82,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3437,9 +2777,9 @@ return {
 		[83]=
 		{
 			id = 83,
-			process_id = 16582,
-			source_id = 58,
-			process = 150,
+			process_id = 16583,
+			source_id = 83,
+			process = 1000,
 			awards = 83,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3447,9 +2787,9 @@ return {
 		[84]=
 		{
 			id = 84,
-			process_id = 16583,
-			source_id = 59,
-			process = 150,
+			process_id = 16584,
+			source_id = 84,
+			process = 800,
 			awards = 84,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3457,9 +2797,9 @@ return {
 		[85]=
 		{
 			id = 85,
-			process_id = 16584,
-			source_id = 60,
-			process = 1,
+			process_id = 16585,
+			source_id = 85,
+			process = 800,
 			awards = 85,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3467,9 +2807,9 @@ return {
 		[86]=
 		{
 			id = 86,
-			process_id = 16585,
-			source_id = 61,
-			process = 1,
+			process_id = 16586,
+			source_id = 86,
+			process = 1000,
 			awards = 86,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3477,9 +2817,9 @@ return {
 		[87]=
 		{
 			id = 87,
-			process_id = 16586,
-			source_id = 62,
-			process = 1,
+			process_id = 16587,
+			source_id = 87,
+			process = 1000,
 			awards = 87,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3487,9 +2827,9 @@ return {
 		[88]=
 		{
 			id = 88,
-			process_id = 16587,
-			source_id = 63,
-			process = 1,
+			process_id = 16588,
+			source_id = 88,
+			process = 800,
 			awards = 88,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3497,8 +2837,8 @@ return {
 		[89]=
 		{
 			id = 89,
-			process_id = 16588,
-			source_id = 64,
+			process_id = 16589,
+			source_id = 89,
 			process = 1,
 			awards = 89,
 			get_award_type = "nor",
@@ -3507,9 +2847,9 @@ return {
 		[90]=
 		{
 			id = 90,
-			process_id = 16589,
-			source_id = 65,
-			process = 2,
+			process_id = 16590,
+			source_id = 90,
+			process = 1,
 			awards = 90,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3517,9 +2857,9 @@ return {
 		[91]=
 		{
 			id = 91,
-			process_id = 16590,
-			source_id = 1,
-			process = 180,
+			process_id = 16591,
+			source_id = 91,
+			process = 1,
 			awards = 91,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3527,9 +2867,9 @@ return {
 		[92]=
 		{
 			id = 92,
-			process_id = 16591,
-			source_id = 2,
-			process = 180,
+			process_id = 16592,
+			source_id = 92,
+			process = 1500,
 			awards = 92,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3537,9 +2877,9 @@ return {
 		[93]=
 		{
 			id = 93,
-			process_id = 16592,
-			source_id = 3,
-			process = 180,
+			process_id = 16593,
+			source_id = 93,
+			process = 1250,
 			awards = 93,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3547,9 +2887,9 @@ return {
 		[94]=
 		{
 			id = 94,
-			process_id = 16593,
-			source_id = 4,
-			process = 180,
+			process_id = 16594,
+			source_id = 94,
+			process = 1250,
 			awards = 94,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3557,9 +2897,9 @@ return {
 		[95]=
 		{
 			id = 95,
-			process_id = 16594,
-			source_id = 5,
-			process = 180,
+			process_id = 16595,
+			source_id = 95,
+			process = 1250,
 			awards = 95,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3567,9 +2907,9 @@ return {
 		[96]=
 		{
 			id = 96,
-			process_id = 16595,
-			source_id = 66,
-			process = 180,
+			process_id = 16596,
+			source_id = 96,
+			process = 1250,
 			awards = 96,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3577,9 +2917,9 @@ return {
 		[97]=
 		{
 			id = 97,
-			process_id = 16596,
-			source_id = 67,
-			process = 180,
+			process_id = 16597,
+			source_id = 97,
+			process = 1000,
 			awards = 97,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3587,9 +2927,9 @@ return {
 		[98]=
 		{
 			id = 98,
-			process_id = 16597,
-			source_id = 68,
-			process = 180,
+			process_id = 16598,
+			source_id = 98,
+			process = 1000,
 			awards = 98,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3597,9 +2937,9 @@ return {
 		[99]=
 		{
 			id = 99,
-			process_id = 16598,
-			source_id = 69,
-			process = 180,
+			process_id = 16599,
+			source_id = 99,
+			process = 1250,
 			awards = 99,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3607,9 +2947,9 @@ return {
 		[100]=
 		{
 			id = 100,
-			process_id = 16599,
-			source_id = 70,
-			process = 180,
+			process_id = 16600,
+			source_id = 100,
+			process = 1250,
 			awards = 100,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3617,9 +2957,9 @@ return {
 		[101]=
 		{
 			id = 101,
-			process_id = 16600,
-			source_id = 71,
-			process = 180,
+			process_id = 16601,
+			source_id = 101,
+			process = 1000,
 			awards = 101,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3627,9 +2967,9 @@ return {
 		[102]=
 		{
 			id = 102,
-			process_id = 16601,
-			source_id = 72,
-			process = 180,
+			process_id = 16602,
+			source_id = 102,
+			process = 1,
 			awards = 102,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3637,9 +2977,9 @@ return {
 		[103]=
 		{
 			id = 103,
-			process_id = 16602,
-			source_id = 73,
-			process = 180,
+			process_id = 16603,
+			source_id = 103,
+			process = 1,
 			awards = 103,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3647,9 +2987,9 @@ return {
 		[104]=
 		{
 			id = 104,
-			process_id = 16603,
-			source_id = 74,
-			process = 180,
+			process_id = 16604,
+			source_id = 104,
+			process = 1,
 			awards = 104,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3657,9 +2997,9 @@ return {
 		[105]=
 		{
 			id = 105,
-			process_id = 16604,
-			source_id = 75,
-			process = 180,
+			process_id = 16605,
+			source_id = 105,
+			process = 1800,
 			awards = 105,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3667,9 +3007,9 @@ return {
 		[106]=
 		{
 			id = 106,
-			process_id = 16605,
-			source_id = 76,
-			process = 1,
+			process_id = 16606,
+			source_id = 106,
+			process = 1500,
 			awards = 106,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3677,9 +3017,9 @@ return {
 		[107]=
 		{
 			id = 107,
-			process_id = 16606,
-			source_id = 77,
-			process = 1,
+			process_id = 16607,
+			source_id = 107,
+			process = 1500,
 			awards = 107,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3687,9 +3027,9 @@ return {
 		[108]=
 		{
 			id = 108,
-			process_id = 16607,
-			source_id = 78,
-			process = 1,
+			process_id = 16608,
+			source_id = 108,
+			process = 1500,
 			awards = 108,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3697,9 +3037,9 @@ return {
 		[109]=
 		{
 			id = 109,
-			process_id = 16608,
-			source_id = 79,
-			process = 1,
+			process_id = 16609,
+			source_id = 109,
+			process = 1500,
 			awards = 109,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3707,9 +3047,9 @@ return {
 		[110]=
 		{
 			id = 110,
-			process_id = 16609,
-			source_id = 80,
-			process = 1,
+			process_id = 16610,
+			source_id = 110,
+			process = 1200,
 			awards = 110,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3717,9 +3057,9 @@ return {
 		[111]=
 		{
 			id = 111,
-			process_id = 16610,
-			source_id = 81,
-			process = 2,
+			process_id = 16611,
+			source_id = 111,
+			process = 1200,
 			awards = 111,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3727,9 +3067,9 @@ return {
 		[112]=
 		{
 			id = 112,
-			process_id = 16611,
-			source_id = 1,
-			process = 200,
+			process_id = 16612,
+			source_id = 112,
+			process = 1500,
 			awards = 112,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3737,9 +3077,9 @@ return {
 		[113]=
 		{
 			id = 113,
-			process_id = 16612,
-			source_id = 2,
-			process = 200,
+			process_id = 16613,
+			source_id = 113,
+			process = 1500,
 			awards = 113,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3747,9 +3087,9 @@ return {
 		[114]=
 		{
 			id = 114,
-			process_id = 16613,
-			source_id = 3,
-			process = 200,
+			process_id = 16614,
+			source_id = 114,
+			process = 1200,
 			awards = 114,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3757,9 +3097,9 @@ return {
 		[115]=
 		{
 			id = 115,
-			process_id = 16614,
-			source_id = 4,
-			process = 200,
+			process_id = 16615,
+			source_id = 115,
+			process = 1,
 			awards = 115,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3767,9 +3107,9 @@ return {
 		[116]=
 		{
 			id = 116,
-			process_id = 16615,
-			source_id = 5,
-			process = 200,
+			process_id = 16616,
+			source_id = 116,
+			process = 1,
 			awards = 116,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3777,9 +3117,9 @@ return {
 		[117]=
 		{
 			id = 117,
-			process_id = 16616,
-			source_id = 82,
-			process = 200,
+			process_id = 16617,
+			source_id = 117,
+			process = 1,
 			awards = 117,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3787,9 +3127,9 @@ return {
 		[118]=
 		{
 			id = 118,
-			process_id = 16617,
-			source_id = 83,
-			process = 200,
+			process_id = 16618,
+			source_id = 118,
+			process = 2400,
 			awards = 118,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3797,9 +3137,9 @@ return {
 		[119]=
 		{
 			id = 119,
-			process_id = 16618,
-			source_id = 84,
-			process = 200,
+			process_id = 16619,
+			source_id = 119,
+			process = 2000,
 			awards = 119,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3807,9 +3147,9 @@ return {
 		[120]=
 		{
 			id = 120,
-			process_id = 16619,
-			source_id = 85,
-			process = 200,
+			process_id = 16620,
+			source_id = 120,
+			process = 2000,
 			awards = 120,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3817,9 +3157,9 @@ return {
 		[121]=
 		{
 			id = 121,
-			process_id = 16620,
-			source_id = 86,
-			process = 200,
+			process_id = 16621,
+			source_id = 121,
+			process = 2000,
 			awards = 121,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3827,9 +3167,9 @@ return {
 		[122]=
 		{
 			id = 122,
-			process_id = 16621,
-			source_id = 87,
-			process = 200,
+			process_id = 16622,
+			source_id = 122,
+			process = 2000,
 			awards = 122,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3837,9 +3177,9 @@ return {
 		[123]=
 		{
 			id = 123,
-			process_id = 16622,
-			source_id = 88,
-			process = 200,
+			process_id = 16623,
+			source_id = 123,
+			process = 1600,
 			awards = 123,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3847,9 +3187,9 @@ return {
 		[124]=
 		{
 			id = 124,
-			process_id = 16623,
-			source_id = 89,
-			process = 200,
+			process_id = 16624,
+			source_id = 124,
+			process = 1600,
 			awards = 124,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3857,9 +3197,9 @@ return {
 		[125]=
 		{
 			id = 125,
-			process_id = 16624,
-			source_id = 90,
-			process = 200,
+			process_id = 16625,
+			source_id = 125,
+			process = 2000,
 			awards = 125,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3867,9 +3207,9 @@ return {
 		[126]=
 		{
 			id = 126,
-			process_id = 16625,
-			source_id = 91,
-			process = 200,
+			process_id = 16626,
+			source_id = 126,
+			process = 2000,
 			awards = 126,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3877,9 +3217,9 @@ return {
 		[127]=
 		{
 			id = 127,
-			process_id = 16626,
-			source_id = 92,
-			process = 1,
+			process_id = 16627,
+			source_id = 127,
+			process = 1600,
 			awards = 127,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
@@ -3887,8 +3227,8 @@ return {
 		[128]=
 		{
 			id = 128,
-			process_id = 16627,
-			source_id = 93,
+			process_id = 16628,
+			source_id = 128,
 			process = 1,
 			awards = 128,
 			get_award_type = "nor",
@@ -3897,8 +3237,8 @@ return {
 		[129]=
 		{
 			id = 129,
-			process_id = 16628,
-			source_id = 94,
+			process_id = 16629,
+			source_id = 129,
 			process = 1,
 			awards = 129,
 			get_award_type = "nor",
@@ -3907,450 +3247,10 @@ return {
 		[130]=
 		{
 			id = 130,
-			process_id = 16629,
-			source_id = 95,
+			process_id = 16630,
+			source_id = 130,
 			process = 1,
 			awards = 130,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[131]=
-		{
-			id = 131,
-			process_id = 16630,
-			source_id = 96,
-			process = 1,
-			awards = 131,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[132]=
-		{
-			id = 132,
-			process_id = 16631,
-			source_id = 97,
-			process = 2,
-			awards = 132,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[133]=
-		{
-			id = 133,
-			process_id = 16632,
-			source_id = 1,
-			process = 250,
-			awards = 133,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[134]=
-		{
-			id = 134,
-			process_id = 16633,
-			source_id = 2,
-			process = 250,
-			awards = 134,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[135]=
-		{
-			id = 135,
-			process_id = 16634,
-			source_id = 3,
-			process = 250,
-			awards = 135,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[136]=
-		{
-			id = 136,
-			process_id = 16635,
-			source_id = 4,
-			process = 250,
-			awards = 136,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[137]=
-		{
-			id = 137,
-			process_id = 16636,
-			source_id = 5,
-			process = 250,
-			awards = 137,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[138]=
-		{
-			id = 138,
-			process_id = 16637,
-			source_id = 98,
-			process = 250,
-			awards = 138,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[139]=
-		{
-			id = 139,
-			process_id = 16638,
-			source_id = 99,
-			process = 250,
-			awards = 139,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[140]=
-		{
-			id = 140,
-			process_id = 16639,
-			source_id = 100,
-			process = 250,
-			awards = 140,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[141]=
-		{
-			id = 141,
-			process_id = 16640,
-			source_id = 101,
-			process = 250,
-			awards = 141,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[142]=
-		{
-			id = 142,
-			process_id = 16641,
-			source_id = 102,
-			process = 250,
-			awards = 142,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[143]=
-		{
-			id = 143,
-			process_id = 16642,
-			source_id = 103,
-			process = 250,
-			awards = 143,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[144]=
-		{
-			id = 144,
-			process_id = 16643,
-			source_id = 104,
-			process = 250,
-			awards = 144,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[145]=
-		{
-			id = 145,
-			process_id = 16644,
-			source_id = 105,
-			process = 250,
-			awards = 145,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[146]=
-		{
-			id = 146,
-			process_id = 16645,
-			source_id = 106,
-			process = 250,
-			awards = 146,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[147]=
-		{
-			id = 147,
-			process_id = 16646,
-			source_id = 107,
-			process = 250,
-			awards = 147,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[148]=
-		{
-			id = 148,
-			process_id = 16647,
-			source_id = 108,
-			process = 1,
-			awards = 148,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[149]=
-		{
-			id = 149,
-			process_id = 16648,
-			source_id = 109,
-			process = 1,
-			awards = 149,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[150]=
-		{
-			id = 150,
-			process_id = 16649,
-			source_id = 110,
-			process = 1,
-			awards = 150,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[151]=
-		{
-			id = 151,
-			process_id = 16650,
-			source_id = 111,
-			process = 1,
-			awards = 151,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[152]=
-		{
-			id = 152,
-			process_id = 16651,
-			source_id = 112,
-			process = 1,
-			awards = 152,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[153]=
-		{
-			id = 153,
-			process_id = 16652,
-			source_id = 113,
-			process = 3,
-			awards = 153,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[154]=
-		{
-			id = 154,
-			process_id = 16653,
-			source_id = 1,
-			process = 300,
-			awards = 154,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[155]=
-		{
-			id = 155,
-			process_id = 16654,
-			source_id = 2,
-			process = 300,
-			awards = 155,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[156]=
-		{
-			id = 156,
-			process_id = 16655,
-			source_id = 3,
-			process = 300,
-			awards = 156,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[157]=
-		{
-			id = 157,
-			process_id = 16656,
-			source_id = 4,
-			process = 300,
-			awards = 157,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[158]=
-		{
-			id = 158,
-			process_id = 16657,
-			source_id = 5,
-			process = 300,
-			awards = 158,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[159]=
-		{
-			id = 159,
-			process_id = 16658,
-			source_id = 114,
-			process = 300,
-			awards = 159,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[160]=
-		{
-			id = 160,
-			process_id = 16659,
-			source_id = 115,
-			process = 300,
-			awards = 160,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[161]=
-		{
-			id = 161,
-			process_id = 16660,
-			source_id = 116,
-			process = 300,
-			awards = 161,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[162]=
-		{
-			id = 162,
-			process_id = 16661,
-			source_id = 117,
-			process = 300,
-			awards = 162,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[163]=
-		{
-			id = 163,
-			process_id = 16662,
-			source_id = 118,
-			process = 300,
-			awards = 163,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[164]=
-		{
-			id = 164,
-			process_id = 16663,
-			source_id = 119,
-			process = 300,
-			awards = 164,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[165]=
-		{
-			id = 165,
-			process_id = 16664,
-			source_id = 120,
-			process = 300,
-			awards = 165,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[166]=
-		{
-			id = 166,
-			process_id = 16665,
-			source_id = 121,
-			process = 300,
-			awards = 166,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[167]=
-		{
-			id = 167,
-			process_id = 16666,
-			source_id = 122,
-			process = 300,
-			awards = 167,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[168]=
-		{
-			id = 168,
-			process_id = 16667,
-			source_id = 123,
-			process = 300,
-			awards = 168,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[169]=
-		{
-			id = 169,
-			process_id = 16668,
-			source_id = 124,
-			process = 1,
-			awards = 169,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[170]=
-		{
-			id = 170,
-			process_id = 16669,
-			source_id = 125,
-			process = 1,
-			awards = 170,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[171]=
-		{
-			id = 171,
-			process_id = 16670,
-			source_id = 126,
-			process = 1,
-			awards = 171,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[172]=
-		{
-			id = 172,
-			process_id = 16671,
-			source_id = 127,
-			process = 1,
-			awards = 172,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[173]=
-		{
-			id = 173,
-			process_id = 16672,
-			source_id = 128,
-			process = 1,
-			awards = 173,
-			get_award_type = "nor",
-			is_auto_get_award = 2,
-		},
-		[174]=
-		{
-			id = 174,
-			process_id = 16673,
-			source_id = 129,
-			process = 3,
-			awards = 174,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
 		},
@@ -4466,28 +3366,28 @@ return {
 		{
 			id = 16,
 			source_id = 16,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 16,
 		},
 		[17]=
 		{
 			id = 17,
 			source_id = 17,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 17,
 		},
 		[18]=
 		{
 			id = 18,
 			source_id = 18,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 18,
 		},
 		[19]=
 		{
 			id = 19,
 			source_id = 19,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 19,
 		},
 		[20]=
@@ -4543,14 +3443,14 @@ return {
 		{
 			id = 27,
 			source_id = 27,
-			source_type = "xxl_xc_target_item",
+			source_type = "xxl_xc_target_item_game_num",
 			condition_id = 27,
 		},
 		[28]=
 		{
 			id = 28,
 			source_id = 28,
-			source_type = "xxl_xc_target_item",
+			source_type = "xxl_xc_target_item_game_num",
 			condition_id = 28,
 		},
 		[29]=
@@ -4564,28 +3464,28 @@ return {
 		{
 			id = 30,
 			source_id = 30,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 30,
 		},
 		[31]=
 		{
 			id = 31,
 			source_id = 31,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 31,
 		},
 		[32]=
 		{
 			id = 32,
 			source_id = 32,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 32,
 		},
 		[33]=
 		{
 			id = 33,
 			source_id = 33,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 33,
 		},
 		[34]=
@@ -4627,14 +3527,14 @@ return {
 		{
 			id = 39,
 			source_id = 39,
-			source_type = "xxl_xc_target_item",
+			source_type = "xxl_xc_target_item_game_num",
 			condition_id = 39,
 		},
 		[40]=
 		{
 			id = 40,
 			source_id = 40,
-			source_type = "xxl_xc_target_item",
+			source_type = "xxl_xc_target_item_game_num",
 			condition_id = 40,
 		},
 		[41]=
@@ -4662,148 +3562,148 @@ return {
 		{
 			id = 44,
 			source_id = 44,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 44,
 		},
 		[45]=
 		{
 			id = 45,
 			source_id = 45,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 45,
 		},
 		[46]=
 		{
 			id = 46,
 			source_id = 46,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 46,
 		},
 		[47]=
 		{
 			id = 47,
 			source_id = 47,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 47,
 		},
 		[48]=
 		{
 			id = 48,
 			source_id = 48,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 48,
 		},
 		[49]=
 		{
 			id = 49,
 			source_id = 49,
-			source_type = "xxl_lucky_award",
-			condition_id = 0,
+			source_type = "xxl_xc_target_item",
+			condition_id = 49,
 		},
 		[50]=
 		{
 			id = 50,
 			source_id = 50,
 			source_type = "xxl_xc_target_item",
-			condition_id = 49,
+			condition_id = 50,
 		},
 		[51]=
 		{
 			id = 51,
 			source_id = 51,
-			source_type = "xxl_xc_target_item",
-			condition_id = 50,
+			source_type = "xxl_xc_target_item_game_num",
+			condition_id = 51,
 		},
 		[52]=
 		{
 			id = 52,
 			source_id = 52,
-			source_type = "xxl_xc_target_item",
-			condition_id = 51,
+			source_type = "xxl_xc_target_item_game_num",
+			condition_id = 52,
 		},
 		[53]=
 		{
 			id = 53,
 			source_id = 53,
 			source_type = "xxl_xc_target_item",
-			condition_id = 52,
+			condition_id = 53,
 		},
 		[54]=
 		{
 			id = 54,
 			source_id = 54,
 			source_type = "xxl_xc_target_item",
-			condition_id = 53,
+			condition_id = 54,
 		},
 		[55]=
 		{
 			id = 55,
 			source_id = 55,
 			source_type = "xxl_xc_target_item",
-			condition_id = 54,
+			condition_id = 55,
 		},
 		[56]=
 		{
 			id = 56,
 			source_id = 56,
 			source_type = "xxl_xc_target_item",
-			condition_id = 55,
+			condition_id = 56,
 		},
 		[57]=
 		{
 			id = 57,
 			source_id = 57,
 			source_type = "xxl_xc_target_item",
-			condition_id = 56,
+			condition_id = 57,
 		},
 		[58]=
 		{
 			id = 58,
 			source_id = 58,
 			source_type = "xxl_xc_target_item",
-			condition_id = 57,
+			condition_id = 58,
 		},
 		[59]=
 		{
 			id = 59,
 			source_id = 59,
 			source_type = "xxl_xc_target_item",
-			condition_id = 58,
+			condition_id = 59,
 		},
 		[60]=
 		{
 			id = 60,
 			source_id = 60,
-			source_type = "xxl_xc_target_item_game_num",
-			condition_id = 59,
+			source_type = "xxl_xc_target_item",
+			condition_id = 60,
 		},
 		[61]=
 		{
 			id = 61,
 			source_id = 61,
-			source_type = "xxl_xc_target_item_game_num",
-			condition_id = 60,
+			source_type = "xxl_xc_target_item",
+			condition_id = 61,
 		},
 		[62]=
 		{
 			id = 62,
 			source_id = 62,
-			source_type = "xxl_xc_target_item_game_num",
-			condition_id = 61,
+			source_type = "xxl_xc_target_item",
+			condition_id = 62,
 		},
 		[63]=
 		{
 			id = 63,
 			source_id = 63,
 			source_type = "xxl_xc_target_item_game_num",
-			condition_id = 62,
+			condition_id = 63,
 		},
 		[64]=
 		{
 			id = 64,
 			source_id = 64,
 			source_type = "xxl_xc_target_item_game_num",
-			condition_id = 63,
+			condition_id = 64,
 		},
 		[65]=
 		{
@@ -4817,273 +3717,273 @@ return {
 			id = 66,
 			source_id = 66,
 			source_type = "xxl_xc_target_item",
-			condition_id = 64,
+			condition_id = 65,
 		},
 		[67]=
 		{
 			id = 67,
 			source_id = 67,
 			source_type = "xxl_xc_target_item",
-			condition_id = 65,
+			condition_id = 66,
 		},
 		[68]=
 		{
 			id = 68,
 			source_id = 68,
 			source_type = "xxl_xc_target_item",
-			condition_id = 66,
+			condition_id = 67,
 		},
 		[69]=
 		{
 			id = 69,
 			source_id = 69,
 			source_type = "xxl_xc_target_item",
-			condition_id = 67,
+			condition_id = 68,
 		},
 		[70]=
 		{
 			id = 70,
 			source_id = 70,
 			source_type = "xxl_xc_target_item",
-			condition_id = 68,
+			condition_id = 69,
 		},
 		[71]=
 		{
 			id = 71,
 			source_id = 71,
 			source_type = "xxl_xc_target_item",
-			condition_id = 69,
+			condition_id = 70,
 		},
 		[72]=
 		{
 			id = 72,
 			source_id = 72,
 			source_type = "xxl_xc_target_item",
-			condition_id = 70,
+			condition_id = 71,
 		},
 		[73]=
 		{
 			id = 73,
 			source_id = 73,
 			source_type = "xxl_xc_target_item",
-			condition_id = 71,
+			condition_id = 72,
 		},
 		[74]=
 		{
 			id = 74,
 			source_id = 74,
 			source_type = "xxl_xc_target_item",
-			condition_id = 72,
+			condition_id = 73,
 		},
 		[75]=
 		{
 			id = 75,
 			source_id = 75,
 			source_type = "xxl_xc_target_item",
-			condition_id = 73,
+			condition_id = 74,
 		},
 		[76]=
 		{
 			id = 76,
 			source_id = 76,
 			source_type = "xxl_xc_target_item_game_num",
-			condition_id = 74,
+			condition_id = 75,
 		},
 		[77]=
 		{
 			id = 77,
 			source_id = 77,
 			source_type = "xxl_xc_target_item_game_num",
-			condition_id = 75,
+			condition_id = 76,
 		},
 		[78]=
 		{
 			id = 78,
 			source_id = 78,
-			source_type = "xxl_xc_target_item_game_num",
-			condition_id = 76,
+			source_type = "xxl_lucky_award",
+			condition_id = 125,
 		},
 		[79]=
 		{
 			id = 79,
 			source_id = 79,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 77,
 		},
 		[80]=
 		{
 			id = 80,
 			source_id = 80,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 78,
 		},
 		[81]=
 		{
 			id = 81,
 			source_id = 81,
-			source_type = "xxl_lucky_award",
-			condition_id = 0,
+			source_type = "xxl_xc_target_item",
+			condition_id = 79,
 		},
 		[82]=
 		{
 			id = 82,
 			source_id = 82,
 			source_type = "xxl_xc_target_item",
-			condition_id = 79,
+			condition_id = 80,
 		},
 		[83]=
 		{
 			id = 83,
 			source_id = 83,
 			source_type = "xxl_xc_target_item",
-			condition_id = 80,
+			condition_id = 81,
 		},
 		[84]=
 		{
 			id = 84,
 			source_id = 84,
 			source_type = "xxl_xc_target_item",
-			condition_id = 81,
+			condition_id = 82,
 		},
 		[85]=
 		{
 			id = 85,
 			source_id = 85,
 			source_type = "xxl_xc_target_item",
-			condition_id = 82,
+			condition_id = 83,
 		},
 		[86]=
 		{
 			id = 86,
 			source_id = 86,
 			source_type = "xxl_xc_target_item",
-			condition_id = 83,
+			condition_id = 84,
 		},
 		[87]=
 		{
 			id = 87,
 			source_id = 87,
 			source_type = "xxl_xc_target_item",
-			condition_id = 84,
+			condition_id = 85,
 		},
 		[88]=
 		{
 			id = 88,
 			source_id = 88,
 			source_type = "xxl_xc_target_item",
-			condition_id = 85,
+			condition_id = 86,
 		},
 		[89]=
 		{
 			id = 89,
 			source_id = 89,
-			source_type = "xxl_xc_target_item",
-			condition_id = 86,
+			source_type = "xxl_xc_target_item_game_num",
+			condition_id = 87,
 		},
 		[90]=
 		{
 			id = 90,
 			source_id = 90,
-			source_type = "xxl_xc_target_item",
-			condition_id = 87,
+			source_type = "xxl_xc_target_item_game_num",
+			condition_id = 88,
 		},
 		[91]=
 		{
 			id = 91,
 			source_id = 91,
-			source_type = "xxl_xc_target_item",
-			condition_id = 88,
+			source_type = "xxl_lucky_award",
+			condition_id = 126,
 		},
 		[92]=
 		{
 			id = 92,
 			source_id = 92,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 89,
 		},
 		[93]=
 		{
 			id = 93,
 			source_id = 93,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 90,
 		},
 		[94]=
 		{
 			id = 94,
 			source_id = 94,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 91,
 		},
 		[95]=
 		{
 			id = 95,
 			source_id = 95,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 92,
 		},
 		[96]=
 		{
 			id = 96,
 			source_id = 96,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 93,
 		},
 		[97]=
 		{
 			id = 97,
 			source_id = 97,
-			source_type = "xxl_lucky_award",
-			condition_id = 0,
+			source_type = "xxl_xc_target_item",
+			condition_id = 94,
 		},
 		[98]=
 		{
 			id = 98,
 			source_id = 98,
 			source_type = "xxl_xc_target_item",
-			condition_id = 94,
+			condition_id = 95,
 		},
 		[99]=
 		{
 			id = 99,
 			source_id = 99,
 			source_type = "xxl_xc_target_item",
-			condition_id = 95,
+			condition_id = 96,
 		},
 		[100]=
 		{
 			id = 100,
 			source_id = 100,
 			source_type = "xxl_xc_target_item",
-			condition_id = 96,
+			condition_id = 97,
 		},
 		[101]=
 		{
 			id = 101,
 			source_id = 101,
 			source_type = "xxl_xc_target_item",
-			condition_id = 97,
+			condition_id = 98,
 		},
 		[102]=
 		{
 			id = 102,
 			source_id = 102,
-			source_type = "xxl_xc_target_item",
-			condition_id = 98,
+			source_type = "xxl_xc_target_item_game_num",
+			condition_id = 99,
 		},
 		[103]=
 		{
 			id = 103,
 			source_id = 103,
-			source_type = "xxl_xc_target_item",
-			condition_id = 99,
+			source_type = "xxl_xc_target_item_game_num",
+			condition_id = 100,
 		},
 		[104]=
 		{
 			id = 104,
 			source_id = 104,
-			source_type = "xxl_xc_target_item",
-			condition_id = 100,
+			source_type = "xxl_lucky_award",
+			condition_id = 127,
 		},
 		[105]=
 		{
@@ -5110,71 +4010,71 @@ return {
 		{
 			id = 108,
 			source_id = 108,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 104,
 		},
 		[109]=
 		{
 			id = 109,
 			source_id = 109,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 105,
 		},
 		[110]=
 		{
 			id = 110,
 			source_id = 110,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 106,
 		},
 		[111]=
 		{
 			id = 111,
 			source_id = 111,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 107,
 		},
 		[112]=
 		{
 			id = 112,
 			source_id = 112,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 108,
 		},
 		[113]=
 		{
 			id = 113,
 			source_id = 113,
-			source_type = "xxl_lucky_award",
-			condition_id = 0,
+			source_type = "xxl_xc_target_item",
+			condition_id = 109,
 		},
 		[114]=
 		{
 			id = 114,
 			source_id = 114,
 			source_type = "xxl_xc_target_item",
-			condition_id = 109,
+			condition_id = 110,
 		},
 		[115]=
 		{
 			id = 115,
 			source_id = 115,
-			source_type = "xxl_xc_target_item",
-			condition_id = 110,
+			source_type = "xxl_xc_target_item_game_num",
+			condition_id = 111,
 		},
 		[116]=
 		{
 			id = 116,
 			source_id = 116,
-			source_type = "xxl_xc_target_item",
-			condition_id = 111,
+			source_type = "xxl_xc_target_item_game_num",
+			condition_id = 112,
 		},
 		[117]=
 		{
 			id = 117,
 			source_id = 117,
-			source_type = "xxl_xc_target_item",
-			condition_id = 112,
+			source_type = "xxl_lucky_award",
+			condition_id = 128,
 		},
 		[118]=
 		{
@@ -5222,28 +4122,28 @@ return {
 		{
 			id = 124,
 			source_id = 124,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 119,
 		},
 		[125]=
 		{
 			id = 125,
 			source_id = 125,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 120,
 		},
 		[126]=
 		{
 			id = 126,
 			source_id = 126,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 121,
 		},
 		[127]=
 		{
 			id = 127,
 			source_id = 127,
-			source_type = "xxl_xc_target_item_game_num",
+			source_type = "xxl_xc_target_item",
 			condition_id = 122,
 		},
 		[128]=
@@ -5257,8 +4157,15 @@ return {
 		{
 			id = 129,
 			source_id = 129,
+			source_type = "xxl_xc_target_item_game_num",
+			condition_id = 124,
+		},
+		[130]=
+		{
+			id = 130,
+			source_id = 130,
 			source_type = "xxl_lucky_award",
-			condition_id = 0,
+			condition_id = 129,
 		},
 	},
 	condition=
@@ -5268,7 +4175,7 @@ return {
 			id = 1,
 			condition_id = 1,
 			condition_name = "item_id",
-			condition_value = 1,
+			condition_value = {1,2,3},
 			judge_type = 2,
 		},
 		[2]=
@@ -5276,805 +4183,805 @@ return {
 			id = 2,
 			condition_id = 1,
 			condition_name = "limit_item_id_1",
-			condition_value = 1000,
+			condition_value = 30,
 			judge_type = 2,
 		},
 		[3]=
 		{
 			id = 3,
-			condition_id = 2,
-			condition_name = "item_id",
-			condition_value = 2,
+			condition_id = 1,
+			condition_name = "limit_item_id_2",
+			condition_value = 30,
 			judge_type = 2,
 		},
 		[4]=
 		{
 			id = 4,
-			condition_id = 2,
-			condition_name = "limit_item_id_2",
-			condition_value = 1000,
+			condition_id = 1,
+			condition_name = "limit_item_id_3",
+			condition_value = 30,
 			judge_type = 2,
 		},
 		[5]=
 		{
 			id = 5,
-			condition_id = 3,
+			condition_id = 2,
 			condition_name = "item_id",
-			condition_value = 3,
+			condition_value = {1,2,4},
 			judge_type = 2,
 		},
 		[6]=
 		{
 			id = 6,
-			condition_id = 3,
-			condition_name = "limit_item_id_3",
-			condition_value = 1000,
+			condition_id = 2,
+			condition_name = "limit_item_id_1",
+			condition_value = 30,
 			judge_type = 2,
 		},
 		[7]=
 		{
 			id = 7,
-			condition_id = 4,
-			condition_name = "item_id",
-			condition_value = 4,
+			condition_id = 2,
+			condition_name = "limit_item_id_2",
+			condition_value = 30,
 			judge_type = 2,
 		},
 		[8]=
 		{
 			id = 8,
-			condition_id = 4,
+			condition_id = 2,
 			condition_name = "limit_item_id_4",
-			condition_value = 1000,
+			condition_value = 15,
 			judge_type = 2,
 		},
 		[9]=
 		{
 			id = 9,
-			condition_id = 5,
+			condition_id = 3,
 			condition_name = "item_id",
-			condition_value = 5,
+			condition_value = {1,2,5},
 			judge_type = 2,
 		},
 		[10]=
 		{
 			id = 10,
-			condition_id = 5,
-			condition_name = "limit_item_id_5",
-			condition_value = 1000,
+			condition_id = 3,
+			condition_name = "limit_item_id_1",
+			condition_value = 30,
 			judge_type = 2,
 		},
 		[11]=
 		{
 			id = 11,
-			condition_id = 6,
-			condition_name = "item_id",
-			condition_value = {1,2},
+			condition_id = 3,
+			condition_name = "limit_item_id_2",
+			condition_value = 30,
 			judge_type = 2,
 		},
 		[12]=
 		{
 			id = 12,
-			condition_id = 6,
-			condition_name = "limit_item_id_1",
+			condition_id = 3,
+			condition_name = "limit_item_id_5",
 			condition_value = 15,
 			judge_type = 2,
 		},
 		[13]=
 		{
 			id = 13,
-			condition_id = 6,
-			condition_name = "limit_item_id_2",
-			condition_value = 15,
+			condition_id = 4,
+			condition_name = "item_id",
+			condition_value = {1,3,4},
 			judge_type = 2,
 		},
 		[14]=
 		{
 			id = 14,
-			condition_id = 7,
-			condition_name = "item_id",
-			condition_value = {1,3},
+			condition_id = 4,
+			condition_name = "limit_item_id_1",
+			condition_value = 30,
 			judge_type = 2,
 		},
 		[15]=
 		{
 			id = 15,
-			condition_id = 7,
-			condition_name = "limit_item_id_1",
-			condition_value = 15,
+			condition_id = 4,
+			condition_name = "limit_item_id_3",
+			condition_value = 30,
 			judge_type = 2,
 		},
 		[16]=
 		{
 			id = 16,
-			condition_id = 7,
-			condition_name = "limit_item_id_3",
+			condition_id = 4,
+			condition_name = "limit_item_id_4",
 			condition_value = 15,
 			judge_type = 2,
 		},
 		[17]=
 		{
 			id = 17,
-			condition_id = 8,
+			condition_id = 5,
 			condition_name = "item_id",
-			condition_value = {1,4},
+			condition_value = {1,3,5},
 			judge_type = 2,
 		},
 		[18]=
 		{
 			id = 18,
-			condition_id = 8,
+			condition_id = 5,
 			condition_name = "limit_item_id_1",
-			condition_value = 15,
+			condition_value = 30,
 			judge_type = 2,
 		},
 		[19]=
 		{
 			id = 19,
-			condition_id = 8,
-			condition_name = "limit_item_id_4",
-			condition_value = 15,
+			condition_id = 5,
+			condition_name = "limit_item_id_3",
+			condition_value = 30,
 			judge_type = 2,
 		},
 		[20]=
 		{
 			id = 20,
-			condition_id = 9,
-			condition_name = "item_id",
-			condition_value = {1,5},
+			condition_id = 5,
+			condition_name = "limit_item_id_5",
+			condition_value = 15,
 			judge_type = 2,
 		},
 		[21]=
 		{
 			id = 21,
-			condition_id = 9,
-			condition_name = "limit_item_id_1",
-			condition_value = 15,
+			condition_id = 6,
+			condition_name = "item_id",
+			condition_value = {1,4,5},
 			judge_type = 2,
 		},
 		[22]=
 		{
 			id = 22,
-			condition_id = 9,
-			condition_name = "limit_item_id_5",
-			condition_value = 15,
+			condition_id = 6,
+			condition_name = "limit_item_id_1",
+			condition_value = 30,
 			judge_type = 2,
 		},
 		[23]=
 		{
 			id = 23,
-			condition_id = 10,
-			condition_name = "item_id",
-			condition_value = {2,3},
+			condition_id = 6,
+			condition_name = "limit_item_id_4",
+			condition_value = 15,
 			judge_type = 2,
 		},
 		[24]=
 		{
 			id = 24,
-			condition_id = 10,
-			condition_name = "limit_item_id_2",
+			condition_id = 6,
+			condition_name = "limit_item_id_5",
 			condition_value = 15,
 			judge_type = 2,
 		},
 		[25]=
 		{
 			id = 25,
-			condition_id = 10,
-			condition_name = "limit_item_id_3",
-			condition_value = 15,
+			condition_id = 7,
+			condition_name = "item_id",
+			condition_value = {1,2,3},
 			judge_type = 2,
 		},
 		[26]=
 		{
 			id = 26,
-			condition_id = 11,
-			condition_name = "item_id",
-			condition_value = {2,4},
+			condition_id = 7,
+			condition_name = "limit_item_id_1",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[27]=
 		{
 			id = 27,
-			condition_id = 11,
+			condition_id = 7,
 			condition_name = "limit_item_id_2",
-			condition_value = 15,
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[28]=
 		{
 			id = 28,
-			condition_id = 11,
-			condition_name = "limit_item_id_4",
-			condition_value = 15,
+			condition_id = 7,
+			condition_name = "limit_item_id_3",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[29]=
 		{
 			id = 29,
-			condition_id = 12,
-			condition_name = "item_id",
-			condition_value = {2,5},
-			judge_type = 2,
+			condition_id = 7,
+			condition_name = "bet_spend",
+			condition_value = 10000,
+			judge_type = 3,
 		},
 		[30]=
 		{
 			id = 30,
-			condition_id = 12,
-			condition_name = "limit_item_id_2",
-			condition_value = 15,
+			condition_id = 8,
+			condition_name = "item_id",
+			condition_value = {1,2,4},
 			judge_type = 2,
 		},
 		[31]=
 		{
 			id = 31,
-			condition_id = 12,
-			condition_name = "limit_item_id_5",
-			condition_value = 15,
+			condition_id = 8,
+			condition_name = "limit_item_id_1",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[32]=
 		{
 			id = 32,
-			condition_id = 13,
-			condition_name = "item_id",
-			condition_value = {3,4},
+			condition_id = 8,
+			condition_name = "limit_item_id_2",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[33]=
 		{
 			id = 33,
-			condition_id = 13,
-			condition_name = "limit_item_id_3",
-			condition_value = 15,
+			condition_id = 8,
+			condition_name = "limit_item_id_4",
+			condition_value = 40,
 			judge_type = 2,
 		},
 		[34]=
 		{
 			id = 34,
-			condition_id = 13,
-			condition_name = "limit_item_id_4",
-			condition_value = 15,
-			judge_type = 2,
+			condition_id = 8,
+			condition_name = "bet_spend",
+			condition_value = 10000,
+			judge_type = 3,
 		},
 		[35]=
 		{
 			id = 35,
-			condition_id = 14,
+			condition_id = 9,
 			condition_name = "item_id",
-			condition_value = {3,5},
+			condition_value = {1,2,5},
 			judge_type = 2,
 		},
 		[36]=
 		{
 			id = 36,
-			condition_id = 14,
-			condition_name = "limit_item_id_3",
-			condition_value = 15,
+			condition_id = 9,
+			condition_name = "limit_item_id_1",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[37]=
 		{
 			id = 37,
-			condition_id = 14,
-			condition_name = "limit_item_id_5",
-			condition_value = 15,
+			condition_id = 9,
+			condition_name = "limit_item_id_2",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[38]=
 		{
 			id = 38,
-			condition_id = 15,
-			condition_name = "item_id",
-			condition_value = {4,5},
+			condition_id = 9,
+			condition_name = "limit_item_id_5",
+			condition_value = 40,
 			judge_type = 2,
 		},
 		[39]=
 		{
 			id = 39,
-			condition_id = 15,
-			condition_name = "limit_item_id_4",
-			condition_value = 15,
-			judge_type = 2,
+			condition_id = 9,
+			condition_name = "bet_spend",
+			condition_value = 10000,
+			judge_type = 3,
 		},
 		[40]=
 		{
 			id = 40,
-			condition_id = 15,
-			condition_name = "limit_item_id_5",
-			condition_value = 15,
+			condition_id = 10,
+			condition_name = "item_id",
+			condition_value = {1,3,4},
 			judge_type = 2,
 		},
 		[41]=
 		{
 			id = 41,
-			condition_id = 16,
-			condition_name = "item_id_1",
-			condition_value = 7,
-			judge_type = 3,
+			condition_id = 10,
+			condition_name = "limit_item_id_1",
+			condition_value = 80,
+			judge_type = 2,
 		},
 		[42]=
 		{
 			id = 42,
-			condition_id = 17,
-			condition_name = "item_id_2",
-			condition_value = 6,
-			judge_type = 3,
+			condition_id = 10,
+			condition_name = "limit_item_id_3",
+			condition_value = 80,
+			judge_type = 2,
 		},
 		[43]=
 		{
 			id = 43,
-			condition_id = 18,
-			condition_name = "item_id_3",
-			condition_value = 5,
-			judge_type = 3,
+			condition_id = 10,
+			condition_name = "limit_item_id_4",
+			condition_value = 40,
+			judge_type = 2,
 		},
 		[44]=
 		{
 			id = 44,
-			condition_id = 19,
-			condition_name = "item_id_4",
-			condition_value = 5,
+			condition_id = 10,
+			condition_name = "bet_spend",
+			condition_value = 10000,
 			judge_type = 3,
 		},
 		[45]=
 		{
 			id = 45,
-			condition_id = 20,
+			condition_id = 11,
 			condition_name = "item_id",
-			condition_value = {1,2},
+			condition_value = {1,3,5},
 			judge_type = 2,
 		},
 		[46]=
 		{
 			id = 46,
-			condition_id = 20,
+			condition_id = 11,
 			condition_name = "limit_item_id_1",
-			condition_value = 25,
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[47]=
 		{
 			id = 47,
-			condition_id = 20,
-			condition_name = "limit_item_id_2",
-			condition_value = 25,
+			condition_id = 11,
+			condition_name = "limit_item_id_3",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[48]=
 		{
 			id = 48,
-			condition_id = 21,
-			condition_name = "item_id",
-			condition_value = {1,3},
+			condition_id = 11,
+			condition_name = "limit_item_id_5",
+			condition_value = 40,
 			judge_type = 2,
 		},
 		[49]=
 		{
 			id = 49,
-			condition_id = 21,
-			condition_name = "limit_item_id_1",
-			condition_value = 25,
-			judge_type = 2,
+			condition_id = 11,
+			condition_name = "bet_spend",
+			condition_value = 10000,
+			judge_type = 3,
 		},
 		[50]=
 		{
 			id = 50,
-			condition_id = 21,
-			condition_name = "limit_item_id_3",
-			condition_value = 25,
+			condition_id = 12,
+			condition_name = "item_id",
+			condition_value = {1,4,5},
 			judge_type = 2,
 		},
 		[51]=
 		{
 			id = 51,
-			condition_id = 22,
-			condition_name = "item_id",
-			condition_value = {1,4},
+			condition_id = 12,
+			condition_name = "limit_item_id_1",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[52]=
 		{
 			id = 52,
-			condition_id = 22,
-			condition_name = "limit_item_id_1",
-			condition_value = 25,
+			condition_id = 12,
+			condition_name = "limit_item_id_4",
+			condition_value = 40,
 			judge_type = 2,
 		},
 		[53]=
 		{
 			id = 53,
-			condition_id = 22,
-			condition_name = "limit_item_id_4",
-			condition_value = 25,
+			condition_id = 12,
+			condition_name = "limit_item_id_5",
+			condition_value = 40,
 			judge_type = 2,
 		},
 		[54]=
 		{
 			id = 54,
-			condition_id = 23,
-			condition_name = "item_id",
-			condition_value = {1,5},
-			judge_type = 2,
+			condition_id = 12,
+			condition_name = "bet_spend",
+			condition_value = 10000,
+			judge_type = 3,
 		},
 		[55]=
 		{
 			id = 55,
-			condition_id = 23,
-			condition_name = "limit_item_id_1",
-			condition_value = 25,
+			condition_id = 13,
+			condition_name = "item_id",
+			condition_value = {2,4,5},
 			judge_type = 2,
 		},
 		[56]=
 		{
 			id = 56,
-			condition_id = 23,
-			condition_name = "limit_item_id_5",
-			condition_value = 25,
+			condition_id = 13,
+			condition_name = "limit_item_id_2",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[57]=
 		{
 			id = 57,
-			condition_id = 24,
-			condition_name = "item_id",
-			condition_value = {2,3},
+			condition_id = 13,
+			condition_name = "limit_item_id_4",
+			condition_value = 40,
 			judge_type = 2,
 		},
 		[58]=
 		{
 			id = 58,
-			condition_id = 24,
-			condition_name = "limit_item_id_2",
-			condition_value = 25,
+			condition_id = 13,
+			condition_name = "limit_item_id_5",
+			condition_value = 40,
 			judge_type = 2,
 		},
 		[59]=
 		{
 			id = 59,
-			condition_id = 24,
-			condition_name = "limit_item_id_3",
-			condition_value = 25,
-			judge_type = 2,
+			condition_id = 13,
+			condition_name = "bet_spend",
+			condition_value = 10000,
+			judge_type = 3,
 		},
 		[60]=
 		{
 			id = 60,
-			condition_id = 25,
+			condition_id = 14,
 			condition_name = "item_id",
-			condition_value = {2,4},
+			condition_value = {2,3,4},
 			judge_type = 2,
 		},
 		[61]=
 		{
 			id = 61,
-			condition_id = 25,
+			condition_id = 14,
 			condition_name = "limit_item_id_2",
-			condition_value = 25,
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[62]=
 		{
 			id = 62,
-			condition_id = 25,
-			condition_name = "limit_item_id_4",
-			condition_value = 25,
+			condition_id = 14,
+			condition_name = "limit_item_id_3",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[63]=
 		{
 			id = 63,
-			condition_id = 26,
-			condition_name = "item_id",
-			condition_value = {2,5},
+			condition_id = 14,
+			condition_name = "limit_item_id_4",
+			condition_value = 40,
 			judge_type = 2,
 		},
 		[64]=
 		{
 			id = 64,
-			condition_id = 26,
-			condition_name = "limit_item_id_2",
-			condition_value = 25,
-			judge_type = 2,
+			condition_id = 14,
+			condition_name = "bet_spend",
+			condition_value = 10000,
+			judge_type = 3,
 		},
 		[65]=
 		{
 			id = 65,
-			condition_id = 26,
-			condition_name = "limit_item_id_5",
-			condition_value = 25,
+			condition_id = 15,
+			condition_name = "item_id",
+			condition_value = {2,3,5},
 			judge_type = 2,
 		},
 		[66]=
 		{
 			id = 66,
-			condition_id = 27,
-			condition_name = "item_id",
-			condition_value = {3,4},
+			condition_id = 15,
+			condition_name = "limit_item_id_2",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[67]=
 		{
 			id = 67,
-			condition_id = 27,
+			condition_id = 15,
 			condition_name = "limit_item_id_3",
-			condition_value = 25,
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[68]=
 		{
 			id = 68,
-			condition_id = 27,
-			condition_name = "limit_item_id_4",
-			condition_value = 25,
+			condition_id = 15,
+			condition_name = "limit_item_id_5",
+			condition_value = 40,
 			judge_type = 2,
 		},
 		[69]=
 		{
 			id = 69,
-			condition_id = 28,
-			condition_name = "item_id",
-			condition_value = {3,5},
-			judge_type = 2,
+			condition_id = 15,
+			condition_name = "bet_spend",
+			condition_value = 10000,
+			judge_type = 3,
 		},
 		[70]=
 		{
 			id = 70,
-			condition_id = 28,
-			condition_name = "limit_item_id_3",
-			condition_value = 25,
+			condition_id = 16,
+			condition_name = "item_id",
+			condition_value = {3,4,5},
 			judge_type = 2,
 		},
 		[71]=
 		{
 			id = 71,
-			condition_id = 28,
-			condition_name = "limit_item_id_5",
-			condition_value = 25,
+			condition_id = 16,
+			condition_name = "limit_item_id_3",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[72]=
 		{
 			id = 72,
-			condition_id = 29,
-			condition_name = "item_id",
-			condition_value = {4,5},
+			condition_id = 16,
+			condition_name = "limit_item_id_4",
+			condition_value = 40,
 			judge_type = 2,
 		},
 		[73]=
 		{
 			id = 73,
-			condition_id = 29,
-			condition_name = "limit_item_id_4",
-			condition_value = 25,
+			condition_id = 16,
+			condition_name = "limit_item_id_5",
+			condition_value = 40,
 			judge_type = 2,
 		},
 		[74]=
 		{
 			id = 74,
-			condition_id = 29,
-			condition_name = "limit_item_id_5",
-			condition_value = 25,
-			judge_type = 2,
+			condition_id = 16,
+			condition_name = "bet_spend",
+			condition_value = 10000,
+			judge_type = 3,
 		},
 		[75]=
 		{
 			id = 75,
-			condition_id = 30,
-			condition_name = "item_id_1",
-			condition_value = 9,
-			judge_type = 3,
+			condition_id = 17,
+			condition_name = "item_id",
+			condition_value = {1,2,3},
+			judge_type = 2,
 		},
 		[76]=
 		{
 			id = 76,
-			condition_id = 31,
-			condition_name = "item_id_2",
-			condition_value = 8,
-			judge_type = 3,
+			condition_id = 17,
+			condition_name = "limit_item_id_1",
+			condition_value = 100,
+			judge_type = 2,
 		},
 		[77]=
 		{
 			id = 77,
-			condition_id = 32,
-			condition_name = "item_id_3",
-			condition_value = 7,
-			judge_type = 3,
+			condition_id = 17,
+			condition_name = "limit_item_id_2",
+			condition_value = 100,
+			judge_type = 2,
 		},
 		[78]=
 		{
 			id = 78,
-			condition_id = 33,
-			condition_name = "item_id_4",
-			condition_value = 7,
-			judge_type = 3,
+			condition_id = 17,
+			condition_name = "limit_item_id_3",
+			condition_value = 100,
+			judge_type = 2,
 		},
 		[79]=
 		{
 			id = 79,
-			condition_id = 34,
-			condition_name = "item_id",
-			condition_value = {1,2},
-			judge_type = 2,
+			condition_id = 17,
+			condition_name = "bet_spend",
+			condition_value = 30000,
+			judge_type = 3,
 		},
 		[80]=
 		{
 			id = 80,
-			condition_id = 34,
-			condition_name = "limit_item_id_1",
-			condition_value = 50,
+			condition_id = 18,
+			condition_name = "item_id",
+			condition_value = {1,2,4},
 			judge_type = 2,
 		},
 		[81]=
 		{
 			id = 81,
-			condition_id = 34,
-			condition_name = "limit_item_id_2",
-			condition_value = 50,
+			condition_id = 18,
+			condition_name = "limit_item_id_1",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[82]=
 		{
 			id = 82,
-			condition_id = 35,
-			condition_name = "item_id",
-			condition_value = {1,3},
+			condition_id = 18,
+			condition_name = "limit_item_id_2",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[83]=
 		{
 			id = 83,
-			condition_id = 35,
-			condition_name = "limit_item_id_1",
+			condition_id = 18,
+			condition_name = "limit_item_id_4",
 			condition_value = 50,
 			judge_type = 2,
 		},
 		[84]=
 		{
 			id = 84,
-			condition_id = 35,
-			condition_name = "limit_item_id_3",
-			condition_value = 50,
-			judge_type = 2,
+			condition_id = 18,
+			condition_name = "bet_spend",
+			condition_value = 30000,
+			judge_type = 3,
 		},
 		[85]=
 		{
 			id = 85,
-			condition_id = 36,
+			condition_id = 19,
 			condition_name = "item_id",
-			condition_value = {1,4},
+			condition_value = {1,2,5},
 			judge_type = 2,
 		},
 		[86]=
 		{
 			id = 86,
-			condition_id = 36,
+			condition_id = 19,
 			condition_name = "limit_item_id_1",
-			condition_value = 50,
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[87]=
 		{
 			id = 87,
-			condition_id = 36,
-			condition_name = "limit_item_id_4",
-			condition_value = 50,
+			condition_id = 19,
+			condition_name = "limit_item_id_2",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[88]=
 		{
 			id = 88,
-			condition_id = 37,
-			condition_name = "item_id",
-			condition_value = {1,5},
+			condition_id = 19,
+			condition_name = "limit_item_id_5",
+			condition_value = 50,
 			judge_type = 2,
 		},
 		[89]=
 		{
 			id = 89,
-			condition_id = 37,
-			condition_name = "limit_item_id_1",
-			condition_value = 50,
-			judge_type = 2,
+			condition_id = 19,
+			condition_name = "bet_spend",
+			condition_value = 30000,
+			judge_type = 3,
 		},
 		[90]=
 		{
 			id = 90,
-			condition_id = 37,
-			condition_name = "limit_item_id_5",
-			condition_value = 50,
+			condition_id = 20,
+			condition_name = "item_id",
+			condition_value = {1,3,4},
 			judge_type = 2,
 		},
 		[91]=
 		{
 			id = 91,
-			condition_id = 38,
-			condition_name = "item_id",
-			condition_value = {2,3},
+			condition_id = 20,
+			condition_name = "limit_item_id_1",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[92]=
 		{
 			id = 92,
-			condition_id = 38,
-			condition_name = "limit_item_id_2",
-			condition_value = 50,
+			condition_id = 20,
+			condition_name = "limit_item_id_3",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[93]=
 		{
 			id = 93,
-			condition_id = 38,
-			condition_name = "limit_item_id_3",
+			condition_id = 20,
+			condition_name = "limit_item_id_4",
 			condition_value = 50,
 			judge_type = 2,
 		},
 		[94]=
 		{
 			id = 94,
-			condition_id = 39,
-			condition_name = "item_id",
-			condition_value = {2,4},
-			judge_type = 2,
+			condition_id = 20,
+			condition_name = "bet_spend",
+			condition_value = 30000,
+			judge_type = 3,
 		},
 		[95]=
 		{
 			id = 95,
-			condition_id = 39,
-			condition_name = "limit_item_id_2",
-			condition_value = 50,
+			condition_id = 21,
+			condition_name = "item_id",
+			condition_value = {1,3,5},
 			judge_type = 2,
 		},
 		[96]=
 		{
 			id = 96,
-			condition_id = 39,
-			condition_name = "limit_item_id_4",
-			condition_value = 50,
+			condition_id = 21,
+			condition_name = "limit_item_id_1",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[97]=
 		{
 			id = 97,
-			condition_id = 40,
-			condition_name = "item_id",
-			condition_value = {2,5},
+			condition_id = 21,
+			condition_name = "limit_item_id_3",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[98]=
 		{
 			id = 98,
-			condition_id = 40,
-			condition_name = "limit_item_id_2",
+			condition_id = 21,
+			condition_name = "limit_item_id_5",
 			condition_value = 50,
 			judge_type = 2,
 		},
 		[99]=
 		{
 			id = 99,
-			condition_id = 40,
-			condition_name = "limit_item_id_5",
-			condition_value = 50,
-			judge_type = 2,
+			condition_id = 21,
+			condition_name = "bet_spend",
+			condition_value = 30000,
+			judge_type = 3,
 		},
 		[100]=
 		{
 			id = 100,
-			condition_id = 41,
+			condition_id = 22,
 			condition_name = "item_id",
-			condition_value = {3,4},
+			condition_value = {1,4,5},
 			judge_type = 2,
 		},
 		[101]=
 		{
 			id = 101,
-			condition_id = 41,
-			condition_name = "limit_item_id_3",
-			condition_value = 50,
+			condition_id = 22,
+			condition_name = "limit_item_id_1",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[102]=
 		{
 			id = 102,
-			condition_id = 41,
+			condition_id = 22,
 			condition_name = "limit_item_id_4",
 			condition_value = 50,
 			judge_type = 2,
@@ -6082,39 +4989,39 @@ return {
 		[103]=
 		{
 			id = 103,
-			condition_id = 42,
-			condition_name = "item_id",
-			condition_value = {3,5},
+			condition_id = 22,
+			condition_name = "limit_item_id_5",
+			condition_value = 50,
 			judge_type = 2,
 		},
 		[104]=
 		{
 			id = 104,
-			condition_id = 42,
-			condition_name = "limit_item_id_3",
-			condition_value = 50,
-			judge_type = 2,
+			condition_id = 22,
+			condition_name = "bet_spend",
+			condition_value = 30000,
+			judge_type = 3,
 		},
 		[105]=
 		{
 			id = 105,
-			condition_id = 42,
-			condition_name = "limit_item_id_5",
-			condition_value = 50,
+			condition_id = 23,
+			condition_name = "item_id",
+			condition_value = {2,4,5},
 			judge_type = 2,
 		},
 		[106]=
 		{
 			id = 106,
-			condition_id = 43,
-			condition_name = "item_id",
-			condition_value = {4,5},
+			condition_id = 23,
+			condition_name = "limit_item_id_2",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[107]=
 		{
 			id = 107,
-			condition_id = 43,
+			condition_id = 23,
 			condition_name = "limit_item_id_4",
 			condition_value = 50,
 			judge_type = 2,
@@ -6122,7 +5029,7 @@ return {
 		[108]=
 		{
 			id = 108,
-			condition_id = 43,
+			condition_id = 23,
 			condition_name = "limit_item_id_5",
 			condition_value = 50,
 			judge_type = 2,
@@ -6130,1441 +5037,3665 @@ return {
 		[109]=
 		{
 			id = 109,
-			condition_id = 44,
-			condition_name = "item_id_1",
-			condition_value = 10,
+			condition_id = 23,
+			condition_name = "bet_spend",
+			condition_value = 30000,
 			judge_type = 3,
 		},
 		[110]=
 		{
 			id = 110,
-			condition_id = 45,
-			condition_name = "item_id_2",
-			condition_value = 9,
-			judge_type = 3,
+			condition_id = 24,
+			condition_name = "item_id",
+			condition_value = {2,3,4},
+			judge_type = 2,
 		},
 		[111]=
 		{
 			id = 111,
-			condition_id = 46,
-			condition_name = "item_id_3",
-			condition_value = 8,
-			judge_type = 3,
+			condition_id = 24,
+			condition_name = "limit_item_id_2",
+			condition_value = 100,
+			judge_type = 2,
 		},
 		[112]=
 		{
 			id = 112,
-			condition_id = 47,
-			condition_name = "item_id_4",
-			condition_value = 8,
-			judge_type = 3,
+			condition_id = 24,
+			condition_name = "limit_item_id_3",
+			condition_value = 100,
+			judge_type = 2,
 		},
 		[113]=
 		{
 			id = 113,
-			condition_id = 48,
-			condition_name = "item_id_5",
-			condition_value = 4,
-			judge_type = 3,
+			condition_id = 24,
+			condition_name = "limit_item_id_4",
+			condition_value = 50,
+			judge_type = 2,
 		},
 		[114]=
 		{
 			id = 114,
-			condition_id = 49,
-			condition_name = "item_id",
-			condition_value = {1,2},
-			judge_type = 2,
+			condition_id = 24,
+			condition_name = "bet_spend",
+			condition_value = 30000,
+			judge_type = 3,
 		},
 		[115]=
 		{
 			id = 115,
-			condition_id = 49,
-			condition_name = "limit_item_id_1",
-			condition_value = 75,
+			condition_id = 25,
+			condition_name = "item_id",
+			condition_value = {2,3,5},
 			judge_type = 2,
 		},
 		[116]=
 		{
 			id = 116,
-			condition_id = 49,
+			condition_id = 25,
 			condition_name = "limit_item_id_2",
-			condition_value = 75,
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[117]=
 		{
 			id = 117,
-			condition_id = 50,
-			condition_name = "item_id",
-			condition_value = {1,3},
+			condition_id = 25,
+			condition_name = "limit_item_id_3",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[118]=
 		{
 			id = 118,
-			condition_id = 50,
-			condition_name = "limit_item_id_1",
-			condition_value = 75,
+			condition_id = 25,
+			condition_name = "limit_item_id_5",
+			condition_value = 50,
 			judge_type = 2,
 		},
 		[119]=
 		{
 			id = 119,
-			condition_id = 50,
-			condition_name = "limit_item_id_3",
-			condition_value = 75,
-			judge_type = 2,
+			condition_id = 25,
+			condition_name = "bet_spend",
+			condition_value = 30000,
+			judge_type = 3,
 		},
 		[120]=
 		{
 			id = 120,
-			condition_id = 51,
+			condition_id = 26,
 			condition_name = "item_id",
-			condition_value = {1,4},
+			condition_value = {3,4,5},
 			judge_type = 2,
 		},
 		[121]=
 		{
 			id = 121,
-			condition_id = 51,
-			condition_name = "limit_item_id_1",
-			condition_value = 75,
+			condition_id = 26,
+			condition_name = "limit_item_id_3",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[122]=
 		{
 			id = 122,
-			condition_id = 51,
+			condition_id = 26,
 			condition_name = "limit_item_id_4",
-			condition_value = 75,
+			condition_value = 50,
 			judge_type = 2,
 		},
 		[123]=
 		{
 			id = 123,
-			condition_id = 52,
-			condition_name = "item_id",
-			condition_value = {1,5},
+			condition_id = 26,
+			condition_name = "limit_item_id_5",
+			condition_value = 50,
 			judge_type = 2,
 		},
 		[124]=
 		{
 			id = 124,
-			condition_id = 52,
-			condition_name = "limit_item_id_1",
-			condition_value = 75,
-			judge_type = 2,
+			condition_id = 26,
+			condition_name = "bet_spend",
+			condition_value = 30000,
+			judge_type = 3,
 		},
 		[125]=
 		{
 			id = 125,
-			condition_id = 52,
-			condition_name = "limit_item_id_5",
-			condition_value = 75,
-			judge_type = 2,
+			condition_id = 27,
+			condition_name = "item_id_1",
+			condition_value = 6,
+			judge_type = 3,
 		},
 		[126]=
 		{
 			id = 126,
-			condition_id = 53,
-			condition_name = "item_id",
-			condition_value = {2,3},
-			judge_type = 2,
+			condition_id = 27,
+			condition_name = "bet_spend",
+			condition_value = 30000,
+			judge_type = 3,
 		},
 		[127]=
 		{
 			id = 127,
-			condition_id = 53,
-			condition_name = "limit_item_id_2",
-			condition_value = 75,
-			judge_type = 2,
+			condition_id = 28,
+			condition_name = "item_id_2",
+			condition_value = 6,
+			judge_type = 3,
 		},
 		[128]=
 		{
 			id = 128,
-			condition_id = 53,
-			condition_name = "limit_item_id_3",
-			condition_value = 75,
-			judge_type = 2,
+			condition_id = 28,
+			condition_name = "bet_spend",
+			condition_value = 30000,
+			judge_type = 3,
 		},
 		[129]=
 		{
 			id = 129,
-			condition_id = 54,
+			condition_id = 29,
 			condition_name = "item_id",
-			condition_value = {2,4},
+			condition_value = {1,2,3},
 			judge_type = 2,
 		},
 		[130]=
 		{
 			id = 130,
-			condition_id = 54,
-			condition_name = "limit_item_id_2",
-			condition_value = 75,
+			condition_id = 29,
+			condition_name = "limit_item_id_1",
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[131]=
 		{
 			id = 131,
-			condition_id = 54,
-			condition_name = "limit_item_id_4",
-			condition_value = 75,
+			condition_id = 29,
+			condition_name = "limit_item_id_2",
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[132]=
 		{
 			id = 132,
-			condition_id = 55,
-			condition_name = "item_id",
-			condition_value = {2,5},
+			condition_id = 29,
+			condition_name = "limit_item_id_3",
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[133]=
 		{
 			id = 133,
-			condition_id = 55,
-			condition_name = "limit_item_id_2",
-			condition_value = 75,
-			judge_type = 2,
+			condition_id = 29,
+			condition_name = "bet_spend",
+			condition_value = 60000,
+			judge_type = 3,
 		},
 		[134]=
 		{
 			id = 134,
-			condition_id = 55,
-			condition_name = "limit_item_id_5",
-			condition_value = 75,
+			condition_id = 30,
+			condition_name = "item_id",
+			condition_value = {1,2,4},
 			judge_type = 2,
 		},
 		[135]=
 		{
 			id = 135,
-			condition_id = 56,
-			condition_name = "item_id",
-			condition_value = {3,4},
+			condition_id = 30,
+			condition_name = "limit_item_id_1",
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[136]=
 		{
 			id = 136,
-			condition_id = 56,
-			condition_name = "limit_item_id_3",
-			condition_value = 75,
+			condition_id = 30,
+			condition_name = "limit_item_id_2",
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[137]=
 		{
 			id = 137,
-			condition_id = 56,
+			condition_id = 30,
 			condition_name = "limit_item_id_4",
-			condition_value = 75,
+			condition_value = 60,
 			judge_type = 2,
 		},
 		[138]=
 		{
 			id = 138,
-			condition_id = 57,
-			condition_name = "item_id",
-			condition_value = {3,5},
-			judge_type = 2,
+			condition_id = 30,
+			condition_name = "bet_spend",
+			condition_value = 60000,
+			judge_type = 3,
 		},
 		[139]=
 		{
 			id = 139,
-			condition_id = 57,
-			condition_name = "limit_item_id_3",
-			condition_value = 75,
+			condition_id = 31,
+			condition_name = "item_id",
+			condition_value = {1,2,5},
 			judge_type = 2,
 		},
 		[140]=
 		{
 			id = 140,
-			condition_id = 57,
-			condition_name = "limit_item_id_5",
-			condition_value = 75,
+			condition_id = 31,
+			condition_name = "limit_item_id_1",
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[141]=
 		{
 			id = 141,
-			condition_id = 58,
-			condition_name = "item_id",
-			condition_value = {4,5},
+			condition_id = 31,
+			condition_name = "limit_item_id_2",
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[142]=
 		{
 			id = 142,
-			condition_id = 58,
-			condition_name = "limit_item_id_4",
-			condition_value = 75,
+			condition_id = 31,
+			condition_name = "limit_item_id_5",
+			condition_value = 60,
 			judge_type = 2,
 		},
 		[143]=
 		{
 			id = 143,
-			condition_id = 58,
-			condition_name = "limit_item_id_5",
-			condition_value = 75,
-			judge_type = 2,
+			condition_id = 31,
+			condition_name = "bet_spend",
+			condition_value = 60000,
+			judge_type = 3,
 		},
 		[144]=
 		{
 			id = 144,
-			condition_id = 59,
-			condition_name = "item_id_1",
-			condition_value = 11,
-			judge_type = 3,
+			condition_id = 32,
+			condition_name = "item_id",
+			condition_value = {1,3,4},
+			judge_type = 2,
 		},
 		[145]=
 		{
 			id = 145,
-			condition_id = 60,
-			condition_name = "item_id_2",
-			condition_value = 10,
-			judge_type = 3,
+			condition_id = 32,
+			condition_name = "limit_item_id_1",
+			condition_value = 120,
+			judge_type = 2,
 		},
 		[146]=
 		{
 			id = 146,
-			condition_id = 61,
-			condition_name = "item_id_3",
-			condition_value = 9,
-			judge_type = 3,
+			condition_id = 32,
+			condition_name = "limit_item_id_3",
+			condition_value = 120,
+			judge_type = 2,
 		},
 		[147]=
 		{
 			id = 147,
-			condition_id = 62,
-			condition_name = "item_id_4",
-			condition_value = 9,
-			judge_type = 3,
+			condition_id = 32,
+			condition_name = "limit_item_id_4",
+			condition_value = 60,
+			judge_type = 2,
 		},
 		[148]=
 		{
 			id = 148,
-			condition_id = 63,
-			condition_name = "item_id_5",
-			condition_value = 5,
+			condition_id = 32,
+			condition_name = "bet_spend",
+			condition_value = 60000,
 			judge_type = 3,
 		},
 		[149]=
 		{
 			id = 149,
-			condition_id = 64,
+			condition_id = 33,
 			condition_name = "item_id",
-			condition_value = {1,2},
+			condition_value = {1,3,5},
 			judge_type = 2,
 		},
 		[150]=
 		{
 			id = 150,
-			condition_id = 64,
+			condition_id = 33,
 			condition_name = "limit_item_id_1",
-			condition_value = 90,
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[151]=
 		{
 			id = 151,
-			condition_id = 64,
-			condition_name = "limit_item_id_2",
-			condition_value = 90,
+			condition_id = 33,
+			condition_name = "limit_item_id_3",
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[152]=
 		{
 			id = 152,
-			condition_id = 65,
-			condition_name = "item_id",
-			condition_value = {1,3},
+			condition_id = 33,
+			condition_name = "limit_item_id_5",
+			condition_value = 60,
 			judge_type = 2,
 		},
 		[153]=
 		{
 			id = 153,
-			condition_id = 65,
-			condition_name = "limit_item_id_1",
-			condition_value = 90,
-			judge_type = 2,
+			condition_id = 33,
+			condition_name = "bet_spend",
+			condition_value = 60000,
+			judge_type = 3,
 		},
 		[154]=
 		{
 			id = 154,
-			condition_id = 65,
-			condition_name = "limit_item_id_3",
-			condition_value = 90,
+			condition_id = 34,
+			condition_name = "item_id",
+			condition_value = {1,4,5},
 			judge_type = 2,
 		},
 		[155]=
 		{
 			id = 155,
-			condition_id = 66,
-			condition_name = "item_id",
-			condition_value = {1,4},
+			condition_id = 34,
+			condition_name = "limit_item_id_1",
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[156]=
 		{
 			id = 156,
-			condition_id = 66,
-			condition_name = "limit_item_id_1",
-			condition_value = 90,
+			condition_id = 34,
+			condition_name = "limit_item_id_4",
+			condition_value = 60,
 			judge_type = 2,
 		},
 		[157]=
 		{
 			id = 157,
-			condition_id = 66,
-			condition_name = "limit_item_id_4",
-			condition_value = 90,
+			condition_id = 34,
+			condition_name = "limit_item_id_5",
+			condition_value = 60,
 			judge_type = 2,
 		},
 		[158]=
 		{
 			id = 158,
-			condition_id = 67,
-			condition_name = "item_id",
-			condition_value = {1,5},
-			judge_type = 2,
+			condition_id = 34,
+			condition_name = "bet_spend",
+			condition_value = 60000,
+			judge_type = 3,
 		},
 		[159]=
 		{
 			id = 159,
-			condition_id = 67,
-			condition_name = "limit_item_id_1",
-			condition_value = 90,
+			condition_id = 35,
+			condition_name = "item_id",
+			condition_value = {2,4,5},
 			judge_type = 2,
 		},
 		[160]=
 		{
 			id = 160,
-			condition_id = 67,
-			condition_name = "limit_item_id_5",
-			condition_value = 90,
+			condition_id = 35,
+			condition_name = "limit_item_id_2",
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[161]=
 		{
 			id = 161,
-			condition_id = 68,
-			condition_name = "item_id",
-			condition_value = {2,3},
+			condition_id = 35,
+			condition_name = "limit_item_id_4",
+			condition_value = 60,
 			judge_type = 2,
 		},
 		[162]=
 		{
 			id = 162,
-			condition_id = 68,
-			condition_name = "limit_item_id_2",
-			condition_value = 90,
+			condition_id = 35,
+			condition_name = "limit_item_id_5",
+			condition_value = 60,
 			judge_type = 2,
 		},
 		[163]=
 		{
 			id = 163,
-			condition_id = 68,
-			condition_name = "limit_item_id_3",
-			condition_value = 90,
-			judge_type = 2,
+			condition_id = 35,
+			condition_name = "bet_spend",
+			condition_value = 60000,
+			judge_type = 3,
 		},
 		[164]=
 		{
 			id = 164,
-			condition_id = 69,
+			condition_id = 36,
 			condition_name = "item_id",
-			condition_value = {2,4},
+			condition_value = {2,3,4},
 			judge_type = 2,
 		},
 		[165]=
 		{
 			id = 165,
-			condition_id = 69,
+			condition_id = 36,
 			condition_name = "limit_item_id_2",
-			condition_value = 90,
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[166]=
 		{
 			id = 166,
-			condition_id = 69,
-			condition_name = "limit_item_id_4",
-			condition_value = 90,
+			condition_id = 36,
+			condition_name = "limit_item_id_3",
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[167]=
 		{
 			id = 167,
-			condition_id = 70,
-			condition_name = "item_id",
-			condition_value = {2,5},
+			condition_id = 36,
+			condition_name = "limit_item_id_4",
+			condition_value = 60,
 			judge_type = 2,
 		},
 		[168]=
 		{
 			id = 168,
-			condition_id = 70,
-			condition_name = "limit_item_id_2",
-			condition_value = 90,
-			judge_type = 2,
+			condition_id = 36,
+			condition_name = "bet_spend",
+			condition_value = 60000,
+			judge_type = 3,
 		},
 		[169]=
 		{
 			id = 169,
-			condition_id = 70,
-			condition_name = "limit_item_id_5",
-			condition_value = 90,
+			condition_id = 37,
+			condition_name = "item_id",
+			condition_value = {2,3,5},
 			judge_type = 2,
 		},
 		[170]=
 		{
 			id = 170,
-			condition_id = 71,
-			condition_name = "item_id",
-			condition_value = {3,4},
+			condition_id = 37,
+			condition_name = "limit_item_id_2",
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[171]=
 		{
 			id = 171,
-			condition_id = 71,
+			condition_id = 37,
 			condition_name = "limit_item_id_3",
-			condition_value = 90,
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[172]=
 		{
 			id = 172,
-			condition_id = 71,
-			condition_name = "limit_item_id_4",
-			condition_value = 90,
+			condition_id = 37,
+			condition_name = "limit_item_id_5",
+			condition_value = 60,
 			judge_type = 2,
 		},
 		[173]=
 		{
 			id = 173,
-			condition_id = 72,
-			condition_name = "item_id",
-			condition_value = {3,5},
-			judge_type = 2,
+			condition_id = 37,
+			condition_name = "bet_spend",
+			condition_value = 60000,
+			judge_type = 3,
 		},
 		[174]=
 		{
 			id = 174,
-			condition_id = 72,
-			condition_name = "limit_item_id_3",
-			condition_value = 90,
+			condition_id = 38,
+			condition_name = "item_id",
+			condition_value = {3,4,5},
 			judge_type = 2,
 		},
 		[175]=
 		{
 			id = 175,
-			condition_id = 72,
-			condition_name = "limit_item_id_5",
-			condition_value = 90,
+			condition_id = 38,
+			condition_name = "limit_item_id_3",
+			condition_value = 120,
 			judge_type = 2,
 		},
 		[176]=
 		{
 			id = 176,
-			condition_id = 73,
-			condition_name = "item_id",
-			condition_value = {4,5},
+			condition_id = 38,
+			condition_name = "limit_item_id_4",
+			condition_value = 60,
 			judge_type = 2,
 		},
 		[177]=
 		{
 			id = 177,
-			condition_id = 73,
-			condition_name = "limit_item_id_4",
-			condition_value = 90,
+			condition_id = 38,
+			condition_name = "limit_item_id_5",
+			condition_value = 60,
 			judge_type = 2,
 		},
 		[178]=
 		{
 			id = 178,
-			condition_id = 73,
-			condition_name = "limit_item_id_5",
-			condition_value = 90,
-			judge_type = 2,
+			condition_id = 38,
+			condition_name = "bet_spend",
+			condition_value = 60000,
+			judge_type = 3,
 		},
 		[179]=
 		{
 			id = 179,
-			condition_id = 74,
-			condition_name = "item_id_1",
-			condition_value = 12,
+			condition_id = 39,
+			condition_name = "item_id_2",
+			condition_value = 6,
 			judge_type = 3,
 		},
 		[180]=
 		{
 			id = 180,
-			condition_id = 75,
-			condition_name = "item_id_2",
-			condition_value = 11,
+			condition_id = 39,
+			condition_name = "bet_spend",
+			condition_value = 60000,
 			judge_type = 3,
 		},
 		[181]=
 		{
 			id = 181,
-			condition_id = 76,
+			condition_id = 40,
 			condition_name = "item_id_3",
-			condition_value = 10,
+			condition_value = 6,
 			judge_type = 3,
 		},
 		[182]=
 		{
 			id = 182,
-			condition_id = 77,
-			condition_name = "item_id_4",
-			condition_value = 10,
+			condition_id = 40,
+			condition_name = "bet_spend",
+			condition_value = 60000,
 			judge_type = 3,
 		},
 		[183]=
 		{
 			id = 183,
-			condition_id = 78,
-			condition_name = "item_id_5",
-			condition_value = 6,
-			judge_type = 3,
+			condition_id = 41,
+			condition_name = "item_id",
+			condition_value = {1,2,3},
+			judge_type = 2,
 		},
 		[184]=
 		{
 			id = 184,
-			condition_id = 79,
-			condition_name = "item_id",
-			condition_value = {1,2},
+			condition_id = 41,
+			condition_name = "limit_item_id_1",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[185]=
 		{
 			id = 185,
-			condition_id = 79,
-			condition_name = "limit_item_id_1",
-			condition_value = 100,
+			condition_id = 41,
+			condition_name = "limit_item_id_2",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[186]=
 		{
 			id = 186,
-			condition_id = 79,
-			condition_name = "limit_item_id_2",
-			condition_value = 100,
+			condition_id = 41,
+			condition_name = "limit_item_id_3",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[187]=
 		{
 			id = 187,
-			condition_id = 80,
-			condition_name = "item_id",
-			condition_value = {1,3},
-			judge_type = 2,
+			condition_id = 41,
+			condition_name = "bet_spend",
+			condition_value = 120000,
+			judge_type = 3,
 		},
 		[188]=
 		{
 			id = 188,
-			condition_id = 80,
-			condition_name = "limit_item_id_1",
-			condition_value = 100,
+			condition_id = 42,
+			condition_name = "item_id",
+			condition_value = {1,2,4},
 			judge_type = 2,
 		},
 		[189]=
 		{
 			id = 189,
-			condition_id = 80,
-			condition_name = "limit_item_id_3",
-			condition_value = 100,
+			condition_id = 42,
+			condition_name = "limit_item_id_1",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[190]=
 		{
 			id = 190,
-			condition_id = 81,
-			condition_name = "item_id",
-			condition_value = {1,4},
+			condition_id = 42,
+			condition_name = "limit_item_id_2",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[191]=
 		{
 			id = 191,
-			condition_id = 81,
-			condition_name = "limit_item_id_1",
-			condition_value = 100,
+			condition_id = 42,
+			condition_name = "limit_item_id_4",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[192]=
 		{
 			id = 192,
-			condition_id = 81,
-			condition_name = "limit_item_id_4",
-			condition_value = 100,
-			judge_type = 2,
+			condition_id = 42,
+			condition_name = "bet_spend",
+			condition_value = 120000,
+			judge_type = 3,
 		},
 		[193]=
 		{
 			id = 193,
-			condition_id = 82,
+			condition_id = 43,
 			condition_name = "item_id",
-			condition_value = {1,5},
+			condition_value = {1,2,5},
 			judge_type = 2,
 		},
 		[194]=
 		{
 			id = 194,
-			condition_id = 82,
+			condition_id = 43,
 			condition_name = "limit_item_id_1",
-			condition_value = 100,
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[195]=
 		{
 			id = 195,
-			condition_id = 82,
-			condition_name = "limit_item_id_5",
-			condition_value = 100,
+			condition_id = 43,
+			condition_name = "limit_item_id_2",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[196]=
 		{
 			id = 196,
-			condition_id = 83,
-			condition_name = "item_id",
-			condition_value = {2,3},
+			condition_id = 43,
+			condition_name = "limit_item_id_5",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[197]=
 		{
 			id = 197,
-			condition_id = 83,
-			condition_name = "limit_item_id_2",
-			condition_value = 100,
-			judge_type = 2,
+			condition_id = 43,
+			condition_name = "bet_spend",
+			condition_value = 120000,
+			judge_type = 3,
 		},
 		[198]=
 		{
 			id = 198,
-			condition_id = 83,
-			condition_name = "limit_item_id_3",
-			condition_value = 100,
+			condition_id = 44,
+			condition_name = "item_id",
+			condition_value = {1,3,4},
 			judge_type = 2,
 		},
 		[199]=
 		{
 			id = 199,
-			condition_id = 84,
-			condition_name = "item_id",
-			condition_value = {2,4},
+			condition_id = 44,
+			condition_name = "limit_item_id_1",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[200]=
 		{
 			id = 200,
-			condition_id = 84,
-			condition_name = "limit_item_id_2",
-			condition_value = 100,
+			condition_id = 44,
+			condition_name = "limit_item_id_3",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[201]=
 		{
 			id = 201,
-			condition_id = 84,
+			condition_id = 44,
 			condition_name = "limit_item_id_4",
-			condition_value = 100,
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[202]=
 		{
 			id = 202,
-			condition_id = 85,
-			condition_name = "item_id",
-			condition_value = {2,5},
-			judge_type = 2,
+			condition_id = 44,
+			condition_name = "bet_spend",
+			condition_value = 120000,
+			judge_type = 3,
 		},
 		[203]=
 		{
 			id = 203,
-			condition_id = 85,
-			condition_name = "limit_item_id_2",
-			condition_value = 100,
+			condition_id = 45,
+			condition_name = "item_id",
+			condition_value = {1,3,5},
 			judge_type = 2,
 		},
 		[204]=
 		{
 			id = 204,
-			condition_id = 85,
-			condition_name = "limit_item_id_5",
-			condition_value = 100,
+			condition_id = 45,
+			condition_name = "limit_item_id_1",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[205]=
 		{
 			id = 205,
-			condition_id = 86,
-			condition_name = "item_id",
-			condition_value = {3,4},
+			condition_id = 45,
+			condition_name = "limit_item_id_3",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[206]=
 		{
 			id = 206,
-			condition_id = 86,
-			condition_name = "limit_item_id_3",
-			condition_value = 100,
+			condition_id = 45,
+			condition_name = "limit_item_id_5",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[207]=
 		{
 			id = 207,
-			condition_id = 86,
-			condition_name = "limit_item_id_4",
-			condition_value = 100,
-			judge_type = 2,
+			condition_id = 45,
+			condition_name = "bet_spend",
+			condition_value = 120000,
+			judge_type = 3,
 		},
 		[208]=
 		{
 			id = 208,
-			condition_id = 87,
+			condition_id = 46,
 			condition_name = "item_id",
-			condition_value = {3,5},
+			condition_value = {1,4,5},
 			judge_type = 2,
 		},
 		[209]=
 		{
 			id = 209,
-			condition_id = 87,
-			condition_name = "limit_item_id_3",
-			condition_value = 100,
+			condition_id = 46,
+			condition_name = "limit_item_id_1",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[210]=
 		{
 			id = 210,
-			condition_id = 87,
-			condition_name = "limit_item_id_5",
-			condition_value = 100,
+			condition_id = 46,
+			condition_name = "limit_item_id_4",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[211]=
 		{
 			id = 211,
-			condition_id = 88,
-			condition_name = "item_id",
-			condition_value = {4,5},
+			condition_id = 46,
+			condition_name = "limit_item_id_5",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[212]=
 		{
 			id = 212,
-			condition_id = 88,
-			condition_name = "limit_item_id_4",
-			condition_value = 100,
-			judge_type = 2,
+			condition_id = 46,
+			condition_name = "bet_spend",
+			condition_value = 120000,
+			judge_type = 3,
 		},
 		[213]=
 		{
 			id = 213,
-			condition_id = 88,
-			condition_name = "limit_item_id_5",
-			condition_value = 100,
+			condition_id = 47,
+			condition_name = "item_id",
+			condition_value = {2,4,5},
 			judge_type = 2,
 		},
 		[214]=
 		{
 			id = 214,
-			condition_id = 89,
-			condition_name = "item_id_1",
-			condition_value = 13,
-			judge_type = 3,
+			condition_id = 47,
+			condition_name = "limit_item_id_2",
+			condition_value = 150,
+			judge_type = 2,
 		},
 		[215]=
 		{
 			id = 215,
-			condition_id = 90,
-			condition_name = "item_id_2",
-			condition_value = 12,
-			judge_type = 3,
+			condition_id = 47,
+			condition_name = "limit_item_id_4",
+			condition_value = 80,
+			judge_type = 2,
 		},
 		[216]=
 		{
 			id = 216,
-			condition_id = 91,
-			condition_name = "item_id_3",
-			condition_value = 11,
-			judge_type = 3,
+			condition_id = 47,
+			condition_name = "limit_item_id_5",
+			condition_value = 80,
+			judge_type = 2,
 		},
 		[217]=
 		{
 			id = 217,
-			condition_id = 92,
-			condition_name = "item_id_4",
-			condition_value = 11,
+			condition_id = 47,
+			condition_name = "bet_spend",
+			condition_value = 120000,
 			judge_type = 3,
 		},
 		[218]=
 		{
 			id = 218,
-			condition_id = 93,
-			condition_name = "item_id_5",
-			condition_value = 6,
-			judge_type = 3,
+			condition_id = 48,
+			condition_name = "item_id",
+			condition_value = {2,3,4},
+			judge_type = 2,
 		},
 		[219]=
 		{
 			id = 219,
-			condition_id = 94,
-			condition_name = "item_id",
-			condition_value = {1,2},
+			condition_id = 48,
+			condition_name = "limit_item_id_2",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[220]=
 		{
 			id = 220,
-			condition_id = 94,
-			condition_name = "limit_item_id_1",
-			condition_value = 125,
+			condition_id = 48,
+			condition_name = "limit_item_id_3",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[221]=
 		{
 			id = 221,
-			condition_id = 94,
-			condition_name = "limit_item_id_2",
-			condition_value = 125,
+			condition_id = 48,
+			condition_name = "limit_item_id_4",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[222]=
 		{
 			id = 222,
-			condition_id = 95,
-			condition_name = "item_id",
-			condition_value = {1,3},
-			judge_type = 2,
+			condition_id = 48,
+			condition_name = "bet_spend",
+			condition_value = 120000,
+			judge_type = 3,
 		},
 		[223]=
 		{
 			id = 223,
-			condition_id = 95,
-			condition_name = "limit_item_id_1",
-			condition_value = 125,
+			condition_id = 49,
+			condition_name = "item_id",
+			condition_value = {2,3,5},
 			judge_type = 2,
 		},
 		[224]=
 		{
 			id = 224,
-			condition_id = 95,
-			condition_name = "limit_item_id_3",
-			condition_value = 125,
+			condition_id = 49,
+			condition_name = "limit_item_id_2",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[225]=
 		{
 			id = 225,
-			condition_id = 96,
-			condition_name = "item_id",
-			condition_value = {1,4},
+			condition_id = 49,
+			condition_name = "limit_item_id_3",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[226]=
 		{
 			id = 226,
-			condition_id = 96,
-			condition_name = "limit_item_id_1",
-			condition_value = 125,
+			condition_id = 49,
+			condition_name = "limit_item_id_5",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[227]=
 		{
 			id = 227,
-			condition_id = 96,
-			condition_name = "limit_item_id_4",
-			condition_value = 125,
-			judge_type = 2,
+			condition_id = 49,
+			condition_name = "bet_spend",
+			condition_value = 120000,
+			judge_type = 3,
 		},
 		[228]=
 		{
 			id = 228,
-			condition_id = 97,
+			condition_id = 50,
 			condition_name = "item_id",
-			condition_value = {1,5},
+			condition_value = {3,4,5},
 			judge_type = 2,
 		},
 		[229]=
 		{
 			id = 229,
-			condition_id = 97,
-			condition_name = "limit_item_id_1",
-			condition_value = 125,
+			condition_id = 50,
+			condition_name = "limit_item_id_3",
+			condition_value = 150,
 			judge_type = 2,
 		},
 		[230]=
 		{
 			id = 230,
-			condition_id = 97,
-			condition_name = "limit_item_id_5",
-			condition_value = 125,
+			condition_id = 50,
+			condition_name = "limit_item_id_4",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[231]=
 		{
 			id = 231,
-			condition_id = 98,
-			condition_name = "item_id",
-			condition_value = {2,3},
+			condition_id = 50,
+			condition_name = "limit_item_id_5",
+			condition_value = 80,
 			judge_type = 2,
 		},
 		[232]=
 		{
 			id = 232,
-			condition_id = 98,
-			condition_name = "limit_item_id_2",
-			condition_value = 125,
-			judge_type = 2,
+			condition_id = 50,
+			condition_name = "bet_spend",
+			condition_value = 120000,
+			judge_type = 3,
 		},
 		[233]=
 		{
 			id = 233,
-			condition_id = 98,
-			condition_name = "limit_item_id_3",
-			condition_value = 125,
-			judge_type = 2,
+			condition_id = 51,
+			condition_name = "item_id_4",
+			condition_value = 6,
+			judge_type = 3,
 		},
 		[234]=
 		{
 			id = 234,
-			condition_id = 99,
-			condition_name = "item_id",
-			condition_value = {2,4},
-			judge_type = 2,
+			condition_id = 51,
+			condition_name = "bet_spend",
+			condition_value = 120000,
+			judge_type = 3,
 		},
 		[235]=
 		{
 			id = 235,
-			condition_id = 99,
-			condition_name = "limit_item_id_2",
-			condition_value = 125,
-			judge_type = 2,
+			condition_id = 52,
+			condition_name = "item_id_5",
+			condition_value = 6,
+			judge_type = 3,
 		},
 		[236]=
 		{
 			id = 236,
-			condition_id = 99,
-			condition_name = "limit_item_id_4",
-			condition_value = 125,
-			judge_type = 2,
+			condition_id = 52,
+			condition_name = "bet_spend",
+			condition_value = 120000,
+			judge_type = 3,
 		},
 		[237]=
 		{
 			id = 237,
-			condition_id = 100,
+			condition_id = 53,
 			condition_name = "item_id",
-			condition_value = {2,5},
+			condition_value = {1,2,3},
 			judge_type = 2,
 		},
 		[238]=
 		{
 			id = 238,
-			condition_id = 100,
-			condition_name = "limit_item_id_2",
-			condition_value = 125,
+			condition_id = 53,
+			condition_name = "limit_item_id_1",
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[239]=
 		{
 			id = 239,
-			condition_id = 100,
-			condition_name = "limit_item_id_5",
-			condition_value = 125,
+			condition_id = 53,
+			condition_name = "limit_item_id_2",
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[240]=
 		{
 			id = 240,
-			condition_id = 101,
-			condition_name = "item_id",
-			condition_value = {3,4},
+			condition_id = 53,
+			condition_name = "limit_item_id_3",
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[241]=
 		{
 			id = 241,
-			condition_id = 101,
-			condition_name = "limit_item_id_3",
-			condition_value = 125,
-			judge_type = 2,
+			condition_id = 53,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
 		},
 		[242]=
 		{
 			id = 242,
-			condition_id = 101,
-			condition_name = "limit_item_id_4",
-			condition_value = 125,
+			condition_id = 54,
+			condition_name = "item_id",
+			condition_value = {1,2,4},
 			judge_type = 2,
 		},
 		[243]=
 		{
 			id = 243,
-			condition_id = 102,
-			condition_name = "item_id",
-			condition_value = {3,5},
+			condition_id = 54,
+			condition_name = "limit_item_id_1",
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[244]=
 		{
 			id = 244,
-			condition_id = 102,
-			condition_name = "limit_item_id_3",
-			condition_value = 125,
+			condition_id = 54,
+			condition_name = "limit_item_id_2",
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[245]=
 		{
 			id = 245,
-			condition_id = 102,
-			condition_name = "limit_item_id_5",
-			condition_value = 125,
+			condition_id = 54,
+			condition_name = "limit_item_id_4",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[246]=
 		{
 			id = 246,
-			condition_id = 103,
-			condition_name = "item_id",
-			condition_value = {4,5},
-			judge_type = 2,
+			condition_id = 54,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
 		},
 		[247]=
 		{
 			id = 247,
-			condition_id = 103,
-			condition_name = "limit_item_id_4",
-			condition_value = 125,
+			condition_id = 55,
+			condition_name = "item_id",
+			condition_value = {1,2,5},
 			judge_type = 2,
 		},
 		[248]=
 		{
 			id = 248,
-			condition_id = 103,
-			condition_name = "limit_item_id_5",
-			condition_value = 125,
+			condition_id = 55,
+			condition_name = "limit_item_id_1",
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[249]=
 		{
 			id = 249,
-			condition_id = 104,
-			condition_name = "item_id_1",
-			condition_value = 14,
-			judge_type = 3,
+			condition_id = 55,
+			condition_name = "limit_item_id_2",
+			condition_value = 200,
+			judge_type = 2,
 		},
 		[250]=
 		{
 			id = 250,
-			condition_id = 105,
-			condition_name = "item_id_2",
-			condition_value = 13,
-			judge_type = 3,
+			condition_id = 55,
+			condition_name = "limit_item_id_5",
+			condition_value = 100,
+			judge_type = 2,
 		},
 		[251]=
 		{
 			id = 251,
-			condition_id = 106,
-			condition_name = "item_id_3",
-			condition_value = 12,
+			condition_id = 55,
+			condition_name = "bet_spend",
+			condition_value = 240000,
 			judge_type = 3,
 		},
 		[252]=
 		{
 			id = 252,
-			condition_id = 107,
-			condition_name = "item_id_4",
-			condition_value = 12,
-			judge_type = 3,
+			condition_id = 56,
+			condition_name = "item_id",
+			condition_value = {1,3,4},
+			judge_type = 2,
 		},
 		[253]=
 		{
 			id = 253,
-			condition_id = 108,
-			condition_name = "item_id_5",
-			condition_value = 6,
-			judge_type = 3,
+			condition_id = 56,
+			condition_name = "limit_item_id_1",
+			condition_value = 200,
+			judge_type = 2,
 		},
 		[254]=
 		{
 			id = 254,
-			condition_id = 109,
-			condition_name = "item_id",
-			condition_value = {1,2},
+			condition_id = 56,
+			condition_name = "limit_item_id_3",
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[255]=
 		{
 			id = 255,
-			condition_id = 109,
-			condition_name = "limit_item_id_1",
-			condition_value = 150,
+			condition_id = 56,
+			condition_name = "limit_item_id_4",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[256]=
 		{
 			id = 256,
-			condition_id = 109,
-			condition_name = "limit_item_id_2",
-			condition_value = 150,
-			judge_type = 2,
+			condition_id = 56,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
 		},
 		[257]=
 		{
 			id = 257,
-			condition_id = 110,
+			condition_id = 57,
 			condition_name = "item_id",
-			condition_value = {1,3},
+			condition_value = {1,3,5},
 			judge_type = 2,
 		},
 		[258]=
 		{
 			id = 258,
-			condition_id = 110,
+			condition_id = 57,
 			condition_name = "limit_item_id_1",
-			condition_value = 150,
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[259]=
 		{
 			id = 259,
-			condition_id = 110,
+			condition_id = 57,
 			condition_name = "limit_item_id_3",
-			condition_value = 150,
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[260]=
 		{
 			id = 260,
-			condition_id = 111,
-			condition_name = "item_id",
-			condition_value = {1,4},
+			condition_id = 57,
+			condition_name = "limit_item_id_5",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[261]=
 		{
 			id = 261,
-			condition_id = 111,
-			condition_name = "limit_item_id_1",
-			condition_value = 150,
-			judge_type = 2,
+			condition_id = 57,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
 		},
 		[262]=
 		{
 			id = 262,
-			condition_id = 111,
-			condition_name = "limit_item_id_4",
-			condition_value = 150,
+			condition_id = 58,
+			condition_name = "item_id",
+			condition_value = {1,4,5},
 			judge_type = 2,
 		},
 		[263]=
 		{
 			id = 263,
-			condition_id = 112,
-			condition_name = "item_id",
-			condition_value = {1,5},
+			condition_id = 58,
+			condition_name = "limit_item_id_1",
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[264]=
 		{
 			id = 264,
-			condition_id = 112,
-			condition_name = "limit_item_id_1",
-			condition_value = 150,
+			condition_id = 58,
+			condition_name = "limit_item_id_4",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[265]=
 		{
 			id = 265,
-			condition_id = 112,
+			condition_id = 58,
 			condition_name = "limit_item_id_5",
-			condition_value = 150,
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[266]=
 		{
 			id = 266,
-			condition_id = 113,
-			condition_name = "item_id",
-			condition_value = {2,3},
-			judge_type = 2,
+			condition_id = 58,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
 		},
 		[267]=
 		{
 			id = 267,
-			condition_id = 113,
-			condition_name = "limit_item_id_2",
-			condition_value = 150,
+			condition_id = 59,
+			condition_name = "item_id",
+			condition_value = {2,4,5},
 			judge_type = 2,
 		},
 		[268]=
 		{
 			id = 268,
-			condition_id = 113,
-			condition_name = "limit_item_id_3",
-			condition_value = 150,
+			condition_id = 59,
+			condition_name = "limit_item_id_2",
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[269]=
 		{
 			id = 269,
-			condition_id = 114,
-			condition_name = "item_id",
-			condition_value = {2,4},
+			condition_id = 59,
+			condition_name = "limit_item_id_4",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[270]=
 		{
 			id = 270,
-			condition_id = 114,
-			condition_name = "limit_item_id_2",
-			condition_value = 150,
+			condition_id = 59,
+			condition_name = "limit_item_id_5",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[271]=
 		{
 			id = 271,
-			condition_id = 114,
-			condition_name = "limit_item_id_4",
-			condition_value = 150,
-			judge_type = 2,
+			condition_id = 59,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
 		},
 		[272]=
 		{
 			id = 272,
-			condition_id = 115,
+			condition_id = 60,
 			condition_name = "item_id",
-			condition_value = {2,5},
+			condition_value = {2,3,4},
 			judge_type = 2,
 		},
 		[273]=
 		{
 			id = 273,
-			condition_id = 115,
+			condition_id = 60,
 			condition_name = "limit_item_id_2",
-			condition_value = 150,
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[274]=
 		{
 			id = 274,
-			condition_id = 115,
-			condition_name = "limit_item_id_5",
-			condition_value = 150,
+			condition_id = 60,
+			condition_name = "limit_item_id_3",
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[275]=
 		{
 			id = 275,
-			condition_id = 116,
-			condition_name = "item_id",
-			condition_value = {3,4},
+			condition_id = 60,
+			condition_name = "limit_item_id_4",
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[276]=
 		{
 			id = 276,
-			condition_id = 116,
-			condition_name = "limit_item_id_3",
-			condition_value = 150,
-			judge_type = 2,
+			condition_id = 60,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
 		},
 		[277]=
 		{
 			id = 277,
-			condition_id = 116,
-			condition_name = "limit_item_id_4",
-			condition_value = 150,
+			condition_id = 61,
+			condition_name = "item_id",
+			condition_value = {2,3,5},
 			judge_type = 2,
 		},
 		[278]=
 		{
 			id = 278,
-			condition_id = 117,
-			condition_name = "item_id",
-			condition_value = {3,5},
+			condition_id = 61,
+			condition_name = "limit_item_id_2",
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[279]=
 		{
 			id = 279,
-			condition_id = 117,
+			condition_id = 61,
 			condition_name = "limit_item_id_3",
-			condition_value = 150,
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[280]=
 		{
 			id = 280,
-			condition_id = 117,
+			condition_id = 61,
 			condition_name = "limit_item_id_5",
-			condition_value = 150,
+			condition_value = 100,
 			judge_type = 2,
 		},
 		[281]=
 		{
 			id = 281,
-			condition_id = 118,
-			condition_name = "item_id",
-			condition_value = {4,5},
-			judge_type = 2,
+			condition_id = 61,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
 		},
 		[282]=
 		{
 			id = 282,
-			condition_id = 118,
-			condition_name = "limit_item_id_4",
-			condition_value = 150,
+			condition_id = 62,
+			condition_name = "item_id",
+			condition_value = {3,4,5},
 			judge_type = 2,
 		},
 		[283]=
 		{
 			id = 283,
-			condition_id = 118,
-			condition_name = "limit_item_id_5",
-			condition_value = 150,
+			condition_id = 62,
+			condition_name = "limit_item_id_3",
+			condition_value = 200,
 			judge_type = 2,
 		},
 		[284]=
 		{
 			id = 284,
-			condition_id = 119,
-			condition_name = "item_id_1",
-			condition_value = 15,
-			judge_type = 3,
+			condition_id = 62,
+			condition_name = "limit_item_id_4",
+			condition_value = 100,
+			judge_type = 2,
 		},
 		[285]=
 		{
 			id = 285,
-			condition_id = 120,
-			condition_name = "item_id_2",
-			condition_value = 14,
-			judge_type = 3,
+			condition_id = 62,
+			condition_name = "limit_item_id_5",
+			condition_value = 100,
+			judge_type = 2,
 		},
 		[286]=
 		{
 			id = 286,
-			condition_id = 121,
-			condition_name = "item_id_3",
-			condition_value = 13,
+			condition_id = 62,
+			condition_name = "bet_spend",
+			condition_value = 240000,
 			judge_type = 3,
 		},
 		[287]=
 		{
 			id = 287,
-			condition_id = 122,
-			condition_name = "item_id_4",
-			condition_value = 13,
+			condition_id = 63,
+			condition_name = "item_id_1",
+			condition_value = 6,
 			judge_type = 3,
 		},
 		[288]=
 		{
 			id = 288,
-			condition_id = 123,
+			condition_id = 63,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
+		},
+		[289]=
+		{
+			id = 289,
+			condition_id = 64,
+			condition_name = "item_id_2",
+			condition_value = 6,
+			judge_type = 3,
+		},
+		[290]=
+		{
+			id = 290,
+			condition_id = 64,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
+		},
+		[291]=
+		{
+			id = 291,
+			condition_id = 65,
+			condition_name = "item_id",
+			condition_value = {1,2,3},
+			judge_type = 2,
+		},
+		[292]=
+		{
+			id = 292,
+			condition_id = 65,
+			condition_name = "limit_item_id_1",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[293]=
+		{
+			id = 293,
+			condition_id = 65,
+			condition_name = "limit_item_id_2",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[294]=
+		{
+			id = 294,
+			condition_id = 65,
+			condition_name = "limit_item_id_3",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[295]=
+		{
+			id = 295,
+			condition_id = 65,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 3,
+		},
+		[296]=
+		{
+			id = 296,
+			condition_id = 66,
+			condition_name = "item_id",
+			condition_value = {1,2,4},
+			judge_type = 2,
+		},
+		[297]=
+		{
+			id = 297,
+			condition_id = 66,
+			condition_name = "limit_item_id_1",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[298]=
+		{
+			id = 298,
+			condition_id = 66,
+			condition_name = "limit_item_id_2",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[299]=
+		{
+			id = 299,
+			condition_id = 66,
+			condition_name = "limit_item_id_4",
+			condition_value = 150,
+			judge_type = 2,
+		},
+		[300]=
+		{
+			id = 300,
+			condition_id = 66,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 3,
+		},
+		[301]=
+		{
+			id = 301,
+			condition_id = 67,
+			condition_name = "item_id",
+			condition_value = {1,2,5},
+			judge_type = 2,
+		},
+		[302]=
+		{
+			id = 302,
+			condition_id = 67,
+			condition_name = "limit_item_id_1",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[303]=
+		{
+			id = 303,
+			condition_id = 67,
+			condition_name = "limit_item_id_2",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[304]=
+		{
+			id = 304,
+			condition_id = 67,
+			condition_name = "limit_item_id_5",
+			condition_value = 150,
+			judge_type = 2,
+		},
+		[305]=
+		{
+			id = 305,
+			condition_id = 67,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 3,
+		},
+		[306]=
+		{
+			id = 306,
+			condition_id = 68,
+			condition_name = "item_id",
+			condition_value = {1,3,4},
+			judge_type = 2,
+		},
+		[307]=
+		{
+			id = 307,
+			condition_id = 68,
+			condition_name = "limit_item_id_1",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[308]=
+		{
+			id = 308,
+			condition_id = 68,
+			condition_name = "limit_item_id_3",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[309]=
+		{
+			id = 309,
+			condition_id = 68,
+			condition_name = "limit_item_id_4",
+			condition_value = 150,
+			judge_type = 2,
+		},
+		[310]=
+		{
+			id = 310,
+			condition_id = 68,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 3,
+		},
+		[311]=
+		{
+			id = 311,
+			condition_id = 69,
+			condition_name = "item_id",
+			condition_value = {1,3,5},
+			judge_type = 2,
+		},
+		[312]=
+		{
+			id = 312,
+			condition_id = 69,
+			condition_name = "limit_item_id_1",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[313]=
+		{
+			id = 313,
+			condition_id = 69,
+			condition_name = "limit_item_id_3",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[314]=
+		{
+			id = 314,
+			condition_id = 69,
+			condition_name = "limit_item_id_5",
+			condition_value = 150,
+			judge_type = 2,
+		},
+		[315]=
+		{
+			id = 315,
+			condition_id = 69,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 3,
+		},
+		[316]=
+		{
+			id = 316,
+			condition_id = 70,
+			condition_name = "item_id",
+			condition_value = {1,4,5},
+			judge_type = 2,
+		},
+		[317]=
+		{
+			id = 317,
+			condition_id = 70,
+			condition_name = "limit_item_id_1",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[318]=
+		{
+			id = 318,
+			condition_id = 70,
+			condition_name = "limit_item_id_4",
+			condition_value = 150,
+			judge_type = 2,
+		},
+		[319]=
+		{
+			id = 319,
+			condition_id = 70,
+			condition_name = "limit_item_id_5",
+			condition_value = 150,
+			judge_type = 2,
+		},
+		[320]=
+		{
+			id = 320,
+			condition_id = 70,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 3,
+		},
+		[321]=
+		{
+			id = 321,
+			condition_id = 71,
+			condition_name = "item_id",
+			condition_value = {2,4,5},
+			judge_type = 2,
+		},
+		[322]=
+		{
+			id = 322,
+			condition_id = 71,
+			condition_name = "limit_item_id_2",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[323]=
+		{
+			id = 323,
+			condition_id = 71,
+			condition_name = "limit_item_id_4",
+			condition_value = 150,
+			judge_type = 2,
+		},
+		[324]=
+		{
+			id = 324,
+			condition_id = 71,
+			condition_name = "limit_item_id_5",
+			condition_value = 150,
+			judge_type = 2,
+		},
+		[325]=
+		{
+			id = 325,
+			condition_id = 71,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 3,
+		},
+		[326]=
+		{
+			id = 326,
+			condition_id = 72,
+			condition_name = "item_id",
+			condition_value = {2,3,4},
+			judge_type = 2,
+		},
+		[327]=
+		{
+			id = 327,
+			condition_id = 72,
+			condition_name = "limit_item_id_2",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[328]=
+		{
+			id = 328,
+			condition_id = 72,
+			condition_name = "limit_item_id_3",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[329]=
+		{
+			id = 329,
+			condition_id = 72,
+			condition_name = "limit_item_id_4",
+			condition_value = 150,
+			judge_type = 2,
+		},
+		[330]=
+		{
+			id = 330,
+			condition_id = 72,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 3,
+		},
+		[331]=
+		{
+			id = 331,
+			condition_id = 73,
+			condition_name = "item_id",
+			condition_value = {2,3,5},
+			judge_type = 2,
+		},
+		[332]=
+		{
+			id = 332,
+			condition_id = 73,
+			condition_name = "limit_item_id_2",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[333]=
+		{
+			id = 333,
+			condition_id = 73,
+			condition_name = "limit_item_id_3",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[334]=
+		{
+			id = 334,
+			condition_id = 73,
+			condition_name = "limit_item_id_5",
+			condition_value = 150,
+			judge_type = 2,
+		},
+		[335]=
+		{
+			id = 335,
+			condition_id = 73,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 3,
+		},
+		[336]=
+		{
+			id = 336,
+			condition_id = 74,
+			condition_name = "item_id",
+			condition_value = {3,4,5},
+			judge_type = 2,
+		},
+		[337]=
+		{
+			id = 337,
+			condition_id = 74,
+			condition_name = "limit_item_id_3",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[338]=
+		{
+			id = 338,
+			condition_id = 74,
+			condition_name = "limit_item_id_4",
+			condition_value = 150,
+			judge_type = 2,
+		},
+		[339]=
+		{
+			id = 339,
+			condition_id = 74,
+			condition_name = "limit_item_id_5",
+			condition_value = 150,
+			judge_type = 2,
+		},
+		[340]=
+		{
+			id = 340,
+			condition_id = 74,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 3,
+		},
+		[341]=
+		{
+			id = 341,
+			condition_id = 75,
+			condition_name = "item_id_2",
+			condition_value = 6,
+			judge_type = 3,
+		},
+		[342]=
+		{
+			id = 342,
+			condition_id = 75,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 3,
+		},
+		[343]=
+		{
+			id = 343,
+			condition_id = 76,
+			condition_name = "item_id_3",
+			condition_value = 6,
+			judge_type = 3,
+		},
+		[344]=
+		{
+			id = 344,
+			condition_id = 76,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 3,
+		},
+		[345]=
+		{
+			id = 345,
+			condition_id = 77,
+			condition_name = "item_id",
+			condition_value = {1,2,3},
+			judge_type = 2,
+		},
+		[346]=
+		{
+			id = 346,
+			condition_id = 77,
+			condition_name = "limit_item_id_1",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[347]=
+		{
+			id = 347,
+			condition_id = 77,
+			condition_name = "limit_item_id_2",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[348]=
+		{
+			id = 348,
+			condition_id = 77,
+			condition_name = "limit_item_id_3",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[349]=
+		{
+			id = 349,
+			condition_id = 77,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[350]=
+		{
+			id = 350,
+			condition_id = 78,
+			condition_name = "item_id",
+			condition_value = {1,2,4},
+			judge_type = 2,
+		},
+		[351]=
+		{
+			id = 351,
+			condition_id = 78,
+			condition_name = "limit_item_id_1",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[352]=
+		{
+			id = 352,
+			condition_id = 78,
+			condition_name = "limit_item_id_2",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[353]=
+		{
+			id = 353,
+			condition_id = 78,
+			condition_name = "limit_item_id_4",
+			condition_value = 200,
+			judge_type = 2,
+		},
+		[354]=
+		{
+			id = 354,
+			condition_id = 78,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[355]=
+		{
+			id = 355,
+			condition_id = 79,
+			condition_name = "item_id",
+			condition_value = {1,2,5},
+			judge_type = 2,
+		},
+		[356]=
+		{
+			id = 356,
+			condition_id = 79,
+			condition_name = "limit_item_id_1",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[357]=
+		{
+			id = 357,
+			condition_id = 79,
+			condition_name = "limit_item_id_2",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[358]=
+		{
+			id = 358,
+			condition_id = 79,
+			condition_name = "limit_item_id_5",
+			condition_value = 200,
+			judge_type = 2,
+		},
+		[359]=
+		{
+			id = 359,
+			condition_id = 79,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[360]=
+		{
+			id = 360,
+			condition_id = 80,
+			condition_name = "item_id",
+			condition_value = {1,3,4},
+			judge_type = 2,
+		},
+		[361]=
+		{
+			id = 361,
+			condition_id = 80,
+			condition_name = "limit_item_id_1",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[362]=
+		{
+			id = 362,
+			condition_id = 80,
+			condition_name = "limit_item_id_3",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[363]=
+		{
+			id = 363,
+			condition_id = 80,
+			condition_name = "limit_item_id_4",
+			condition_value = 200,
+			judge_type = 2,
+		},
+		[364]=
+		{
+			id = 364,
+			condition_id = 80,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[365]=
+		{
+			id = 365,
+			condition_id = 81,
+			condition_name = "item_id",
+			condition_value = {1,3,5},
+			judge_type = 2,
+		},
+		[366]=
+		{
+			id = 366,
+			condition_id = 81,
+			condition_name = "limit_item_id_1",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[367]=
+		{
+			id = 367,
+			condition_id = 81,
+			condition_name = "limit_item_id_3",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[368]=
+		{
+			id = 368,
+			condition_id = 81,
+			condition_name = "limit_item_id_5",
+			condition_value = 200,
+			judge_type = 2,
+		},
+		[369]=
+		{
+			id = 369,
+			condition_id = 81,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[370]=
+		{
+			id = 370,
+			condition_id = 82,
+			condition_name = "item_id",
+			condition_value = {1,4,5},
+			judge_type = 2,
+		},
+		[371]=
+		{
+			id = 371,
+			condition_id = 82,
+			condition_name = "limit_item_id_1",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[372]=
+		{
+			id = 372,
+			condition_id = 82,
+			condition_name = "limit_item_id_4",
+			condition_value = 200,
+			judge_type = 2,
+		},
+		[373]=
+		{
+			id = 373,
+			condition_id = 82,
+			condition_name = "limit_item_id_5",
+			condition_value = 200,
+			judge_type = 2,
+		},
+		[374]=
+		{
+			id = 374,
+			condition_id = 82,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[375]=
+		{
+			id = 375,
+			condition_id = 83,
+			condition_name = "item_id",
+			condition_value = {2,4,5},
+			judge_type = 2,
+		},
+		[376]=
+		{
+			id = 376,
+			condition_id = 83,
+			condition_name = "limit_item_id_2",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[377]=
+		{
+			id = 377,
+			condition_id = 83,
+			condition_name = "limit_item_id_4",
+			condition_value = 200,
+			judge_type = 2,
+		},
+		[378]=
+		{
+			id = 378,
+			condition_id = 83,
+			condition_name = "limit_item_id_5",
+			condition_value = 200,
+			judge_type = 2,
+		},
+		[379]=
+		{
+			id = 379,
+			condition_id = 83,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[380]=
+		{
+			id = 380,
+			condition_id = 84,
+			condition_name = "item_id",
+			condition_value = {2,3,4},
+			judge_type = 2,
+		},
+		[381]=
+		{
+			id = 381,
+			condition_id = 84,
+			condition_name = "limit_item_id_2",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[382]=
+		{
+			id = 382,
+			condition_id = 84,
+			condition_name = "limit_item_id_3",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[383]=
+		{
+			id = 383,
+			condition_id = 84,
+			condition_name = "limit_item_id_4",
+			condition_value = 200,
+			judge_type = 2,
+		},
+		[384]=
+		{
+			id = 384,
+			condition_id = 84,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[385]=
+		{
+			id = 385,
+			condition_id = 85,
+			condition_name = "item_id",
+			condition_value = {2,3,5},
+			judge_type = 2,
+		},
+		[386]=
+		{
+			id = 386,
+			condition_id = 85,
+			condition_name = "limit_item_id_2",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[387]=
+		{
+			id = 387,
+			condition_id = 85,
+			condition_name = "limit_item_id_3",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[388]=
+		{
+			id = 388,
+			condition_id = 85,
+			condition_name = "limit_item_id_5",
+			condition_value = 200,
+			judge_type = 2,
+		},
+		[389]=
+		{
+			id = 389,
+			condition_id = 85,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[390]=
+		{
+			id = 390,
+			condition_id = 86,
+			condition_name = "item_id",
+			condition_value = {3,4,5},
+			judge_type = 2,
+		},
+		[391]=
+		{
+			id = 391,
+			condition_id = 86,
+			condition_name = "limit_item_id_3",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[392]=
+		{
+			id = 392,
+			condition_id = 86,
+			condition_name = "limit_item_id_4",
+			condition_value = 200,
+			judge_type = 2,
+		},
+		[393]=
+		{
+			id = 393,
+			condition_id = 86,
+			condition_name = "limit_item_id_5",
+			condition_value = 200,
+			judge_type = 2,
+		},
+		[394]=
+		{
+			id = 394,
+			condition_id = 86,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[395]=
+		{
+			id = 395,
+			condition_id = 87,
+			condition_name = "item_id_4",
+			condition_value = 6,
+			judge_type = 3,
+		},
+		[396]=
+		{
+			id = 396,
+			condition_id = 87,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[397]=
+		{
+			id = 397,
+			condition_id = 88,
 			condition_name = "item_id_5",
 			condition_value = 6,
+			judge_type = 3,
+		},
+		[398]=
+		{
+			id = 398,
+			condition_id = 88,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[399]=
+		{
+			id = 399,
+			condition_id = 89,
+			condition_name = "item_id",
+			condition_value = {1,2,3},
+			judge_type = 2,
+		},
+		[400]=
+		{
+			id = 400,
+			condition_id = 89,
+			condition_name = "limit_item_id_1",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[401]=
+		{
+			id = 401,
+			condition_id = 89,
+			condition_name = "limit_item_id_2",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[402]=
+		{
+			id = 402,
+			condition_id = 89,
+			condition_name = "limit_item_id_3",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[403]=
+		{
+			id = 403,
+			condition_id = 89,
+			condition_name = "bet_spend",
+			condition_value = 1920000,
+			judge_type = 3,
+		},
+		[404]=
+		{
+			id = 404,
+			condition_id = 90,
+			condition_name = "item_id",
+			condition_value = {1,2,4},
+			judge_type = 2,
+		},
+		[405]=
+		{
+			id = 405,
+			condition_id = 90,
+			condition_name = "limit_item_id_1",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[406]=
+		{
+			id = 406,
+			condition_id = 90,
+			condition_name = "limit_item_id_2",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[407]=
+		{
+			id = 407,
+			condition_id = 90,
+			condition_name = "limit_item_id_4",
+			condition_value = 250,
+			judge_type = 2,
+		},
+		[408]=
+		{
+			id = 408,
+			condition_id = 90,
+			condition_name = "bet_spend",
+			condition_value = 1920000,
+			judge_type = 3,
+		},
+		[409]=
+		{
+			id = 409,
+			condition_id = 91,
+			condition_name = "item_id",
+			condition_value = {1,2,5},
+			judge_type = 2,
+		},
+		[410]=
+		{
+			id = 410,
+			condition_id = 91,
+			condition_name = "limit_item_id_1",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[411]=
+		{
+			id = 411,
+			condition_id = 91,
+			condition_name = "limit_item_id_2",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[412]=
+		{
+			id = 412,
+			condition_id = 91,
+			condition_name = "limit_item_id_5",
+			condition_value = 250,
+			judge_type = 2,
+		},
+		[413]=
+		{
+			id = 413,
+			condition_id = 91,
+			condition_name = "bet_spend",
+			condition_value = 1920000,
+			judge_type = 3,
+		},
+		[414]=
+		{
+			id = 414,
+			condition_id = 92,
+			condition_name = "item_id",
+			condition_value = {1,3,4},
+			judge_type = 2,
+		},
+		[415]=
+		{
+			id = 415,
+			condition_id = 92,
+			condition_name = "limit_item_id_1",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[416]=
+		{
+			id = 416,
+			condition_id = 92,
+			condition_name = "limit_item_id_3",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[417]=
+		{
+			id = 417,
+			condition_id = 92,
+			condition_name = "limit_item_id_4",
+			condition_value = 250,
+			judge_type = 2,
+		},
+		[418]=
+		{
+			id = 418,
+			condition_id = 92,
+			condition_name = "bet_spend",
+			condition_value = 1920000,
+			judge_type = 3,
+		},
+		[419]=
+		{
+			id = 419,
+			condition_id = 93,
+			condition_name = "item_id",
+			condition_value = {1,3,5},
+			judge_type = 2,
+		},
+		[420]=
+		{
+			id = 420,
+			condition_id = 93,
+			condition_name = "limit_item_id_1",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[421]=
+		{
+			id = 421,
+			condition_id = 93,
+			condition_name = "limit_item_id_3",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[422]=
+		{
+			id = 422,
+			condition_id = 93,
+			condition_name = "limit_item_id_5",
+			condition_value = 250,
+			judge_type = 2,
+		},
+		[423]=
+		{
+			id = 423,
+			condition_id = 93,
+			condition_name = "bet_spend",
+			condition_value = 1920000,
+			judge_type = 3,
+		},
+		[424]=
+		{
+			id = 424,
+			condition_id = 94,
+			condition_name = "item_id",
+			condition_value = {1,4,5},
+			judge_type = 2,
+		},
+		[425]=
+		{
+			id = 425,
+			condition_id = 94,
+			condition_name = "limit_item_id_1",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[426]=
+		{
+			id = 426,
+			condition_id = 94,
+			condition_name = "limit_item_id_4",
+			condition_value = 250,
+			judge_type = 2,
+		},
+		[427]=
+		{
+			id = 427,
+			condition_id = 94,
+			condition_name = "limit_item_id_5",
+			condition_value = 250,
+			judge_type = 2,
+		},
+		[428]=
+		{
+			id = 428,
+			condition_id = 94,
+			condition_name = "bet_spend",
+			condition_value = 1920000,
+			judge_type = 3,
+		},
+		[429]=
+		{
+			id = 429,
+			condition_id = 95,
+			condition_name = "item_id",
+			condition_value = {2,4,5},
+			judge_type = 2,
+		},
+		[430]=
+		{
+			id = 430,
+			condition_id = 95,
+			condition_name = "limit_item_id_2",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[431]=
+		{
+			id = 431,
+			condition_id = 95,
+			condition_name = "limit_item_id_4",
+			condition_value = 250,
+			judge_type = 2,
+		},
+		[432]=
+		{
+			id = 432,
+			condition_id = 95,
+			condition_name = "limit_item_id_5",
+			condition_value = 250,
+			judge_type = 2,
+		},
+		[433]=
+		{
+			id = 433,
+			condition_id = 95,
+			condition_name = "bet_spend",
+			condition_value = 1920000,
+			judge_type = 3,
+		},
+		[434]=
+		{
+			id = 434,
+			condition_id = 96,
+			condition_name = "item_id",
+			condition_value = {2,3,4},
+			judge_type = 2,
+		},
+		[435]=
+		{
+			id = 435,
+			condition_id = 96,
+			condition_name = "limit_item_id_2",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[436]=
+		{
+			id = 436,
+			condition_id = 96,
+			condition_name = "limit_item_id_3",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[437]=
+		{
+			id = 437,
+			condition_id = 96,
+			condition_name = "limit_item_id_4",
+			condition_value = 250,
+			judge_type = 2,
+		},
+		[438]=
+		{
+			id = 438,
+			condition_id = 96,
+			condition_name = "bet_spend",
+			condition_value = 1920000,
+			judge_type = 3,
+		},
+		[439]=
+		{
+			id = 439,
+			condition_id = 97,
+			condition_name = "item_id",
+			condition_value = {2,3,5},
+			judge_type = 2,
+		},
+		[440]=
+		{
+			id = 440,
+			condition_id = 97,
+			condition_name = "limit_item_id_2",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[441]=
+		{
+			id = 441,
+			condition_id = 97,
+			condition_name = "limit_item_id_3",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[442]=
+		{
+			id = 442,
+			condition_id = 97,
+			condition_name = "limit_item_id_5",
+			condition_value = 250,
+			judge_type = 2,
+		},
+		[443]=
+		{
+			id = 443,
+			condition_id = 97,
+			condition_name = "bet_spend",
+			condition_value = 1920000,
+			judge_type = 3,
+		},
+		[444]=
+		{
+			id = 444,
+			condition_id = 98,
+			condition_name = "item_id",
+			condition_value = {3,4,5},
+			judge_type = 2,
+		},
+		[445]=
+		{
+			id = 445,
+			condition_id = 98,
+			condition_name = "limit_item_id_3",
+			condition_value = 500,
+			judge_type = 2,
+		},
+		[446]=
+		{
+			id = 446,
+			condition_id = 98,
+			condition_name = "limit_item_id_4",
+			condition_value = 250,
+			judge_type = 2,
+		},
+		[447]=
+		{
+			id = 447,
+			condition_id = 98,
+			condition_name = "limit_item_id_5",
+			condition_value = 250,
+			judge_type = 2,
+		},
+		[448]=
+		{
+			id = 448,
+			condition_id = 98,
+			condition_name = "bet_spend",
+			condition_value = 1920000,
+			judge_type = 3,
+		},
+		[449]=
+		{
+			id = 449,
+			condition_id = 99,
+			condition_name = "item_id_1",
+			condition_value = 9,
+			judge_type = 3,
+		},
+		[450]=
+		{
+			id = 450,
+			condition_id = 99,
+			condition_name = "bet_spend",
+			condition_value = 1920000,
+			judge_type = 3,
+		},
+		[451]=
+		{
+			id = 451,
+			condition_id = 100,
+			condition_name = "item_id_2",
+			condition_value = 9,
+			judge_type = 3,
+		},
+		[452]=
+		{
+			id = 452,
+			condition_id = 100,
+			condition_name = "bet_spend",
+			condition_value = 1920000,
+			judge_type = 3,
+		},
+		[453]=
+		{
+			id = 453,
+			condition_id = 101,
+			condition_name = "item_id",
+			condition_value = {1,2,3},
+			judge_type = 2,
+		},
+		[454]=
+		{
+			id = 454,
+			condition_id = 101,
+			condition_name = "limit_item_id_1",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[455]=
+		{
+			id = 455,
+			condition_id = 101,
+			condition_name = "limit_item_id_2",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[456]=
+		{
+			id = 456,
+			condition_id = 101,
+			condition_name = "limit_item_id_3",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[457]=
+		{
+			id = 457,
+			condition_id = 101,
+			condition_name = "bet_spend",
+			condition_value = 5120000,
+			judge_type = 3,
+		},
+		[458]=
+		{
+			id = 458,
+			condition_id = 102,
+			condition_name = "item_id",
+			condition_value = {1,2,4},
+			judge_type = 2,
+		},
+		[459]=
+		{
+			id = 459,
+			condition_id = 102,
+			condition_name = "limit_item_id_1",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[460]=
+		{
+			id = 460,
+			condition_id = 102,
+			condition_name = "limit_item_id_2",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[461]=
+		{
+			id = 461,
+			condition_id = 102,
+			condition_name = "limit_item_id_4",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[462]=
+		{
+			id = 462,
+			condition_id = 102,
+			condition_name = "bet_spend",
+			condition_value = 5120000,
+			judge_type = 3,
+		},
+		[463]=
+		{
+			id = 463,
+			condition_id = 103,
+			condition_name = "item_id",
+			condition_value = {1,2,5},
+			judge_type = 2,
+		},
+		[464]=
+		{
+			id = 464,
+			condition_id = 103,
+			condition_name = "limit_item_id_1",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[465]=
+		{
+			id = 465,
+			condition_id = 103,
+			condition_name = "limit_item_id_2",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[466]=
+		{
+			id = 466,
+			condition_id = 103,
+			condition_name = "limit_item_id_5",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[467]=
+		{
+			id = 467,
+			condition_id = 103,
+			condition_name = "bet_spend",
+			condition_value = 5120000,
+			judge_type = 3,
+		},
+		[468]=
+		{
+			id = 468,
+			condition_id = 104,
+			condition_name = "item_id",
+			condition_value = {1,3,4},
+			judge_type = 2,
+		},
+		[469]=
+		{
+			id = 469,
+			condition_id = 104,
+			condition_name = "limit_item_id_1",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[470]=
+		{
+			id = 470,
+			condition_id = 104,
+			condition_name = "limit_item_id_3",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[471]=
+		{
+			id = 471,
+			condition_id = 104,
+			condition_name = "limit_item_id_4",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[472]=
+		{
+			id = 472,
+			condition_id = 104,
+			condition_name = "bet_spend",
+			condition_value = 5120000,
+			judge_type = 3,
+		},
+		[473]=
+		{
+			id = 473,
+			condition_id = 105,
+			condition_name = "item_id",
+			condition_value = {1,3,5},
+			judge_type = 2,
+		},
+		[474]=
+		{
+			id = 474,
+			condition_id = 105,
+			condition_name = "limit_item_id_1",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[475]=
+		{
+			id = 475,
+			condition_id = 105,
+			condition_name = "limit_item_id_3",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[476]=
+		{
+			id = 476,
+			condition_id = 105,
+			condition_name = "limit_item_id_5",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[477]=
+		{
+			id = 477,
+			condition_id = 105,
+			condition_name = "bet_spend",
+			condition_value = 5120000,
+			judge_type = 3,
+		},
+		[478]=
+		{
+			id = 478,
+			condition_id = 106,
+			condition_name = "item_id",
+			condition_value = {1,4,5},
+			judge_type = 2,
+		},
+		[479]=
+		{
+			id = 479,
+			condition_id = 106,
+			condition_name = "limit_item_id_1",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[480]=
+		{
+			id = 480,
+			condition_id = 106,
+			condition_name = "limit_item_id_4",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[481]=
+		{
+			id = 481,
+			condition_id = 106,
+			condition_name = "limit_item_id_5",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[482]=
+		{
+			id = 482,
+			condition_id = 106,
+			condition_name = "bet_spend",
+			condition_value = 5120000,
+			judge_type = 3,
+		},
+		[483]=
+		{
+			id = 483,
+			condition_id = 107,
+			condition_name = "item_id",
+			condition_value = {2,4,5},
+			judge_type = 2,
+		},
+		[484]=
+		{
+			id = 484,
+			condition_id = 107,
+			condition_name = "limit_item_id_2",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[485]=
+		{
+			id = 485,
+			condition_id = 107,
+			condition_name = "limit_item_id_4",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[486]=
+		{
+			id = 486,
+			condition_id = 107,
+			condition_name = "limit_item_id_5",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[487]=
+		{
+			id = 487,
+			condition_id = 107,
+			condition_name = "bet_spend",
+			condition_value = 5120000,
+			judge_type = 3,
+		},
+		[488]=
+		{
+			id = 488,
+			condition_id = 108,
+			condition_name = "item_id",
+			condition_value = {2,3,4},
+			judge_type = 2,
+		},
+		[489]=
+		{
+			id = 489,
+			condition_id = 108,
+			condition_name = "limit_item_id_2",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[490]=
+		{
+			id = 490,
+			condition_id = 108,
+			condition_name = "limit_item_id_3",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[491]=
+		{
+			id = 491,
+			condition_id = 108,
+			condition_name = "limit_item_id_4",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[492]=
+		{
+			id = 492,
+			condition_id = 108,
+			condition_name = "bet_spend",
+			condition_value = 5120000,
+			judge_type = 3,
+		},
+		[493]=
+		{
+			id = 493,
+			condition_id = 109,
+			condition_name = "item_id",
+			condition_value = {2,3,5},
+			judge_type = 2,
+		},
+		[494]=
+		{
+			id = 494,
+			condition_id = 109,
+			condition_name = "limit_item_id_2",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[495]=
+		{
+			id = 495,
+			condition_id = 109,
+			condition_name = "limit_item_id_3",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[496]=
+		{
+			id = 496,
+			condition_id = 109,
+			condition_name = "limit_item_id_5",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[497]=
+		{
+			id = 497,
+			condition_id = 109,
+			condition_name = "bet_spend",
+			condition_value = 5120000,
+			judge_type = 3,
+		},
+		[498]=
+		{
+			id = 498,
+			condition_id = 110,
+			condition_name = "item_id",
+			condition_value = {3,4,5},
+			judge_type = 2,
+		},
+		[499]=
+		{
+			id = 499,
+			condition_id = 110,
+			condition_name = "limit_item_id_3",
+			condition_value = 600,
+			judge_type = 2,
+		},
+		[500]=
+		{
+			id = 500,
+			condition_id = 110,
+			condition_name = "limit_item_id_4",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[501]=
+		{
+			id = 501,
+			condition_id = 110,
+			condition_name = "limit_item_id_5",
+			condition_value = 300,
+			judge_type = 2,
+		},
+		[502]=
+		{
+			id = 502,
+			condition_id = 110,
+			condition_name = "bet_spend",
+			condition_value = 5120000,
+			judge_type = 3,
+		},
+		[503]=
+		{
+			id = 503,
+			condition_id = 111,
+			condition_name = "item_id_2",
+			condition_value = 9,
+			judge_type = 3,
+		},
+		[504]=
+		{
+			id = 504,
+			condition_id = 111,
+			condition_name = "bet_spend",
+			condition_value = 5120000,
+			judge_type = 3,
+		},
+		[505]=
+		{
+			id = 505,
+			condition_id = 112,
+			condition_name = "item_id_3",
+			condition_value = 9,
+			judge_type = 3,
+		},
+		[506]=
+		{
+			id = 506,
+			condition_id = 112,
+			condition_name = "bet_spend",
+			condition_value = 5120000,
+			judge_type = 3,
+		},
+		[507]=
+		{
+			id = 507,
+			condition_id = 113,
+			condition_name = "item_id",
+			condition_value = {1,2,3},
+			judge_type = 2,
+		},
+		[508]=
+		{
+			id = 508,
+			condition_id = 113,
+			condition_name = "limit_item_id_1",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[509]=
+		{
+			id = 509,
+			condition_id = 113,
+			condition_name = "limit_item_id_2",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[510]=
+		{
+			id = 510,
+			condition_id = 113,
+			condition_name = "limit_item_id_3",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[511]=
+		{
+			id = 511,
+			condition_id = 113,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
+			judge_type = 3,
+		},
+		[512]=
+		{
+			id = 512,
+			condition_id = 114,
+			condition_name = "item_id",
+			condition_value = {1,2,4},
+			judge_type = 2,
+		},
+		[513]=
+		{
+			id = 513,
+			condition_id = 114,
+			condition_name = "limit_item_id_1",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[514]=
+		{
+			id = 514,
+			condition_id = 114,
+			condition_name = "limit_item_id_2",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[515]=
+		{
+			id = 515,
+			condition_id = 114,
+			condition_name = "limit_item_id_4",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[516]=
+		{
+			id = 516,
+			condition_id = 114,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
+			judge_type = 3,
+		},
+		[517]=
+		{
+			id = 517,
+			condition_id = 115,
+			condition_name = "item_id",
+			condition_value = {1,2,5},
+			judge_type = 2,
+		},
+		[518]=
+		{
+			id = 518,
+			condition_id = 115,
+			condition_name = "limit_item_id_1",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[519]=
+		{
+			id = 519,
+			condition_id = 115,
+			condition_name = "limit_item_id_2",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[520]=
+		{
+			id = 520,
+			condition_id = 115,
+			condition_name = "limit_item_id_5",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[521]=
+		{
+			id = 521,
+			condition_id = 115,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
+			judge_type = 3,
+		},
+		[522]=
+		{
+			id = 522,
+			condition_id = 116,
+			condition_name = "item_id",
+			condition_value = {1,3,4},
+			judge_type = 2,
+		},
+		[523]=
+		{
+			id = 523,
+			condition_id = 116,
+			condition_name = "limit_item_id_1",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[524]=
+		{
+			id = 524,
+			condition_id = 116,
+			condition_name = "limit_item_id_3",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[525]=
+		{
+			id = 525,
+			condition_id = 116,
+			condition_name = "limit_item_id_4",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[526]=
+		{
+			id = 526,
+			condition_id = 116,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
+			judge_type = 3,
+		},
+		[527]=
+		{
+			id = 527,
+			condition_id = 117,
+			condition_name = "item_id",
+			condition_value = {1,3,5},
+			judge_type = 2,
+		},
+		[528]=
+		{
+			id = 528,
+			condition_id = 117,
+			condition_name = "limit_item_id_1",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[529]=
+		{
+			id = 529,
+			condition_id = 117,
+			condition_name = "limit_item_id_3",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[530]=
+		{
+			id = 530,
+			condition_id = 117,
+			condition_name = "limit_item_id_5",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[531]=
+		{
+			id = 531,
+			condition_id = 117,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
+			judge_type = 3,
+		},
+		[532]=
+		{
+			id = 532,
+			condition_id = 118,
+			condition_name = "item_id",
+			condition_value = {1,4,5},
+			judge_type = 2,
+		},
+		[533]=
+		{
+			id = 533,
+			condition_id = 118,
+			condition_name = "limit_item_id_1",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[534]=
+		{
+			id = 534,
+			condition_id = 118,
+			condition_name = "limit_item_id_4",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[535]=
+		{
+			id = 535,
+			condition_id = 118,
+			condition_name = "limit_item_id_5",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[536]=
+		{
+			id = 536,
+			condition_id = 118,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
+			judge_type = 3,
+		},
+		[537]=
+		{
+			id = 537,
+			condition_id = 119,
+			condition_name = "item_id",
+			condition_value = {2,4,5},
+			judge_type = 2,
+		},
+		[538]=
+		{
+			id = 538,
+			condition_id = 119,
+			condition_name = "limit_item_id_2",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[539]=
+		{
+			id = 539,
+			condition_id = 119,
+			condition_name = "limit_item_id_4",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[540]=
+		{
+			id = 540,
+			condition_id = 119,
+			condition_name = "limit_item_id_5",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[541]=
+		{
+			id = 541,
+			condition_id = 119,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
+			judge_type = 3,
+		},
+		[542]=
+		{
+			id = 542,
+			condition_id = 120,
+			condition_name = "item_id",
+			condition_value = {2,3,4},
+			judge_type = 2,
+		},
+		[543]=
+		{
+			id = 543,
+			condition_id = 120,
+			condition_name = "limit_item_id_2",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[544]=
+		{
+			id = 544,
+			condition_id = 120,
+			condition_name = "limit_item_id_3",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[545]=
+		{
+			id = 545,
+			condition_id = 120,
+			condition_name = "limit_item_id_4",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[546]=
+		{
+			id = 546,
+			condition_id = 120,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
+			judge_type = 3,
+		},
+		[547]=
+		{
+			id = 547,
+			condition_id = 121,
+			condition_name = "item_id",
+			condition_value = {2,3,5},
+			judge_type = 2,
+		},
+		[548]=
+		{
+			id = 548,
+			condition_id = 121,
+			condition_name = "limit_item_id_2",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[549]=
+		{
+			id = 549,
+			condition_id = 121,
+			condition_name = "limit_item_id_3",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[550]=
+		{
+			id = 550,
+			condition_id = 121,
+			condition_name = "limit_item_id_5",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[551]=
+		{
+			id = 551,
+			condition_id = 121,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
+			judge_type = 3,
+		},
+		[552]=
+		{
+			id = 552,
+			condition_id = 122,
+			condition_name = "item_id",
+			condition_value = {3,4,5},
+			judge_type = 2,
+		},
+		[553]=
+		{
+			id = 553,
+			condition_id = 122,
+			condition_name = "limit_item_id_3",
+			condition_value = 800,
+			judge_type = 2,
+		},
+		[554]=
+		{
+			id = 554,
+			condition_id = 122,
+			condition_name = "limit_item_id_4",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[555]=
+		{
+			id = 555,
+			condition_id = 122,
+			condition_name = "limit_item_id_5",
+			condition_value = 400,
+			judge_type = 2,
+		},
+		[556]=
+		{
+			id = 556,
+			condition_id = 122,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
+			judge_type = 3,
+		},
+		[557]=
+		{
+			id = 557,
+			condition_id = 123,
+			condition_name = "item_id_4",
+			condition_value = 9,
+			judge_type = 3,
+		},
+		[558]=
+		{
+			id = 558,
+			condition_id = 123,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
+			judge_type = 3,
+		},
+		[559]=
+		{
+			id = 559,
+			condition_id = 124,
+			condition_name = "item_id_5",
+			condition_value = 9,
+			judge_type = 3,
+		},
+		[560]=
+		{
+			id = 560,
+			condition_id = 124,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
+			judge_type = 3,
+		},
+		[561]=
+		{
+			id = 561,
+			condition_id = 124,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
+			judge_type = 3,
+		},
+		[562]=
+		{
+			id = 562,
+			condition_id = 125,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 3,
+		},
+		[563]=
+		{
+			id = 563,
+			condition_id = 126,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[564]=
+		{
+			id = 564,
+			condition_id = 127,
+			condition_name = "bet_spend",
+			condition_value = 1920000,
+			judge_type = 3,
+		},
+		[565]=
+		{
+			id = 565,
+			condition_id = 128,
+			condition_name = "bet_spend",
+			condition_value = 5120000,
+			judge_type = 3,
+		},
+		[566]=
+		{
+			id = 566,
+			condition_id = 129,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
 			judge_type = 3,
 		},
 	},
@@ -7671,7 +8802,7 @@ return {
 			id = 13,
 			award_id = 5,
 			asset_type = "jing_bi",
-			asset_count = 1000,
+			asset_count = 500,
 			get_weight = 1,
 		},
 		[14]=
@@ -7719,7 +8850,7 @@ return {
 			id = 19,
 			award_id = 7,
 			asset_type = "jing_bi",
-			asset_count = 500,
+			asset_count = 800,
 			get_weight = 1,
 		},
 		[20]=
@@ -7743,7 +8874,7 @@ return {
 			id = 22,
 			award_id = 8,
 			asset_type = "jing_bi",
-			asset_count = 500,
+			asset_count = 800,
 			get_weight = 1,
 		},
 		[23]=
@@ -7767,7 +8898,7 @@ return {
 			id = 25,
 			award_id = 9,
 			asset_type = "jing_bi",
-			asset_count = 500,
+			asset_count = 800,
 			get_weight = 1,
 		},
 		[26]=
@@ -7791,7 +8922,7 @@ return {
 			id = 28,
 			award_id = 10,
 			asset_type = "jing_bi",
-			asset_count = 1000,
+			asset_count = 800,
 			get_weight = 1,
 		},
 		[29]=
@@ -7815,7 +8946,7 @@ return {
 			id = 31,
 			award_id = 11,
 			asset_type = "jing_bi",
-			asset_count = 1500,
+			asset_count = 800,
 			get_weight = 1,
 		},
 		[32]=
@@ -7839,7 +8970,7 @@ return {
 			id = 34,
 			award_id = 12,
 			asset_type = "jing_bi",
-			asset_count = 1500,
+			asset_count = 800,
 			get_weight = 1,
 		},
 		[35]=
@@ -7863,7 +8994,7 @@ return {
 			id = 37,
 			award_id = 13,
 			asset_type = "jing_bi",
-			asset_count = 1500,
+			asset_count = 800,
 			get_weight = 1,
 		},
 		[38]=
@@ -7887,7 +9018,7 @@ return {
 			id = 40,
 			award_id = 14,
 			asset_type = "jing_bi",
-			asset_count = 1500,
+			asset_count = 800,
 			get_weight = 1,
 		},
 		[41]=
@@ -7911,7 +9042,7 @@ return {
 			id = 43,
 			award_id = 15,
 			asset_type = "jing_bi",
-			asset_count = 1500,
+			asset_count = 800,
 			get_weight = 1,
 		},
 		[44]=
@@ -7935,7 +9066,7 @@ return {
 			id = 46,
 			award_id = 16,
 			asset_type = "jing_bi",
-			asset_count = 1500,
+			asset_count = 800,
 			get_weight = 1,
 		},
 		[47]=
@@ -7959,7 +9090,7 @@ return {
 			id = 49,
 			award_id = 17,
 			asset_type = "jing_bi",
-			asset_count = 1500,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[50]=
@@ -7983,7 +9114,7 @@ return {
 			id = 52,
 			award_id = 18,
 			asset_type = "jing_bi",
-			asset_count = 1500,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[53]=
@@ -8007,7 +9138,7 @@ return {
 			id = 55,
 			award_id = 19,
 			asset_type = "jing_bi",
-			asset_count = 1500,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[56]=
@@ -8031,7 +9162,7 @@ return {
 			id = 58,
 			award_id = 20,
 			asset_type = "jing_bi",
-			asset_count = 1500,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[59]=
@@ -8055,7 +9186,7 @@ return {
 			id = 61,
 			award_id = 21,
 			asset_type = "jing_bi",
-			asset_count = 1500,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[62]=
@@ -8079,7 +9210,7 @@ return {
 			id = 64,
 			award_id = 22,
 			asset_type = "jing_bi",
-			asset_count = 1500,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[65]=
@@ -8103,7 +9234,7 @@ return {
 			id = 67,
 			award_id = 23,
 			asset_type = "jing_bi",
-			asset_count = 1500,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[68]=
@@ -8127,7 +9258,7 @@ return {
 			id = 70,
 			award_id = 24,
 			asset_type = "jing_bi",
-			asset_count = 1500,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[71]=
@@ -8151,7 +9282,7 @@ return {
 			id = 73,
 			award_id = 25,
 			asset_type = "jing_bi",
-			asset_count = 1500,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[74]=
@@ -8175,7 +9306,7 @@ return {
 			id = 76,
 			award_id = 26,
 			asset_type = "jing_bi",
-			asset_count = 5000,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[77]=
@@ -8198,8 +9329,8 @@ return {
 		{
 			id = 79,
 			award_id = 27,
-			asset_type = "jing_bi",
-			asset_count = 5000,
+			asset_type = "shop_gold_sum",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[80]=
@@ -8222,8 +9353,8 @@ return {
 		{
 			id = 82,
 			award_id = 28,
-			asset_type = "jing_bi",
-			asset_count = 5000,
+			asset_type = "shop_gold_sum",
+			asset_count = 3,
 			get_weight = 1,
 		},
 		[83]=
@@ -8271,7 +9402,7 @@ return {
 			id = 88,
 			award_id = 30,
 			asset_type = "jing_bi",
-			asset_count = 4,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[89]=
@@ -8294,8 +9425,8 @@ return {
 		{
 			id = 91,
 			award_id = 31,
-			asset_type = "shop_gold_sum",
-			asset_count = 4,
+			asset_type = "jing_bi",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[92]=
@@ -8318,8 +9449,8 @@ return {
 		{
 			id = 94,
 			award_id = 32,
-			asset_type = "shop_gold_sum",
-			asset_count = 4,
+			asset_type = "jing_bi",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[95]=
@@ -8342,8 +9473,8 @@ return {
 		{
 			id = 97,
 			award_id = 33,
-			asset_type = "shop_gold_sum",
-			asset_count = 4,
+			asset_type = "jing_bi",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[98]=
@@ -8366,8 +9497,8 @@ return {
 		{
 			id = 100,
 			award_id = 34,
-			asset_type = "shop_gold_sum",
-			asset_count = 4,
+			asset_type = "jing_bi",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[101]=
@@ -8390,8 +9521,8 @@ return {
 		{
 			id = 103,
 			award_id = 35,
-			asset_type = "shop_gold_sum",
-			asset_count = 4,
+			asset_type = "jing_bi",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[104]=
@@ -8414,8 +9545,8 @@ return {
 		{
 			id = 106,
 			award_id = 36,
-			asset_type = "shop_gold_sum",
-			asset_count = 4,
+			asset_type = "jing_bi",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[107]=
@@ -8438,8 +9569,8 @@ return {
 		{
 			id = 109,
 			award_id = 37,
-			asset_type = "shop_gold_sum",
-			asset_count = 4,
+			asset_type = "jing_bi",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[110]=
@@ -8462,8 +9593,8 @@ return {
 		{
 			id = 112,
 			award_id = 38,
-			asset_type = "shop_gold_sum",
-			asset_count = 4,
+			asset_type = "jing_bi",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[113]=
@@ -8487,7 +9618,7 @@ return {
 			id = 115,
 			award_id = 39,
 			asset_type = "shop_gold_sum",
-			asset_count = 4,
+			asset_count = 5,
 			get_weight = 1,
 		},
 		[116]=
@@ -8511,7 +9642,7 @@ return {
 			id = 118,
 			award_id = 40,
 			asset_type = "shop_gold_sum",
-			asset_count = 4,
+			asset_count = 5,
 			get_weight = 1,
 		},
 		[119]=
@@ -8534,8 +9665,8 @@ return {
 		{
 			id = 121,
 			award_id = 41,
-			asset_type = "shop_gold_sum",
-			asset_count = 4,
+			asset_type = "jing_bi",
+			asset_count = 18000,
 			get_weight = 1,
 		},
 		[122]=
@@ -8558,8 +9689,8 @@ return {
 		{
 			id = 124,
 			award_id = 42,
-			asset_type = "shop_gold_sum",
-			asset_count = 4,
+			asset_type = "jing_bi",
+			asset_count = 18000,
 			get_weight = 1,
 		},
 		[125]=
@@ -8582,8 +9713,8 @@ return {
 		{
 			id = 127,
 			award_id = 43,
-			asset_type = "shop_gold_sum",
-			asset_count = 4,
+			asset_type = "jing_bi",
+			asset_count = 18000,
 			get_weight = 1,
 		},
 		[128]=
@@ -8606,8 +9737,8 @@ return {
 		{
 			id = 130,
 			award_id = 44,
-			asset_type = "shop_gold_sum",
-			asset_count = 4,
+			asset_type = "jing_bi",
+			asset_count = 18000,
 			get_weight = 1,
 		},
 		[131]=
@@ -8630,8 +9761,8 @@ return {
 		{
 			id = 133,
 			award_id = 45,
-			asset_type = "shop_gold_sum",
-			asset_count = 10,
+			asset_type = "jing_bi",
+			asset_count = 18000,
 			get_weight = 1,
 		},
 		[134]=
@@ -8654,8 +9785,8 @@ return {
 		{
 			id = 136,
 			award_id = 46,
-			asset_type = "shop_gold_sum",
-			asset_count = 10,
+			asset_type = "jing_bi",
+			asset_count = 18000,
 			get_weight = 1,
 		},
 		[137]=
@@ -8678,8 +9809,8 @@ return {
 		{
 			id = 139,
 			award_id = 47,
-			asset_type = "shop_gold_sum",
-			asset_count = 10,
+			asset_type = "jing_bi",
+			asset_count = 18000,
 			get_weight = 1,
 		},
 		[140]=
@@ -8702,8 +9833,8 @@ return {
 		{
 			id = 142,
 			award_id = 48,
-			asset_type = "shop_gold_sum",
-			asset_count = 10,
+			asset_type = "jing_bi",
+			asset_count = 18000,
 			get_weight = 1,
 		},
 		[143]=
@@ -8726,8 +9857,8 @@ return {
 		{
 			id = 145,
 			award_id = 49,
-			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_type = "jing_bi",
+			asset_count = 18000,
 			get_weight = 1,
 		},
 		[146]=
@@ -8750,8 +9881,8 @@ return {
 		{
 			id = 148,
 			award_id = 50,
-			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_type = "jing_bi",
+			asset_count = 18000,
 			get_weight = 1,
 		},
 		[149]=
@@ -8775,7 +9906,7 @@ return {
 			id = 151,
 			award_id = 51,
 			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_count = 15,
 			get_weight = 1,
 		},
 		[152]=
@@ -8799,7 +9930,7 @@ return {
 			id = 154,
 			award_id = 52,
 			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_count = 15,
 			get_weight = 1,
 		},
 		[155]=
@@ -8823,7 +9954,7 @@ return {
 			id = 157,
 			award_id = 53,
 			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[158]=
@@ -8847,7 +9978,7 @@ return {
 			id = 160,
 			award_id = 54,
 			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[161]=
@@ -8871,7 +10002,7 @@ return {
 			id = 163,
 			award_id = 55,
 			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[164]=
@@ -8895,7 +10026,7 @@ return {
 			id = 166,
 			award_id = 56,
 			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[167]=
@@ -8919,7 +10050,7 @@ return {
 			id = 169,
 			award_id = 57,
 			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[170]=
@@ -8943,7 +10074,7 @@ return {
 			id = 172,
 			award_id = 58,
 			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[173]=
@@ -8967,7 +10098,7 @@ return {
 			id = 175,
 			award_id = 59,
 			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[176]=
@@ -8991,7 +10122,7 @@ return {
 			id = 178,
 			award_id = 60,
 			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[179]=
@@ -9015,7 +10146,7 @@ return {
 			id = 181,
 			award_id = 61,
 			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[182]=
@@ -9039,7 +10170,7 @@ return {
 			id = 184,
 			award_id = 62,
 			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[185]=
@@ -9063,7 +10194,7 @@ return {
 			id = 187,
 			award_id = 63,
 			asset_type = "shop_gold_sum",
-			asset_count = 8,
+			asset_count = 20,
 			get_weight = 1,
 		},
 		[188]=
@@ -9111,7 +10242,7 @@ return {
 			id = 193,
 			award_id = 65,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 50,
 			get_weight = 1,
 		},
 		[194]=
@@ -9135,7 +10266,7 @@ return {
 			id = 196,
 			award_id = 66,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[197]=
@@ -9159,7 +10290,7 @@ return {
 			id = 199,
 			award_id = 67,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[200]=
@@ -9183,7 +10314,7 @@ return {
 			id = 202,
 			award_id = 68,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[203]=
@@ -9207,7 +10338,7 @@ return {
 			id = 205,
 			award_id = 69,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[206]=
@@ -9231,7 +10362,7 @@ return {
 			id = 208,
 			award_id = 70,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[209]=
@@ -9255,7 +10386,7 @@ return {
 			id = 211,
 			award_id = 71,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[212]=
@@ -9279,7 +10410,7 @@ return {
 			id = 214,
 			award_id = 72,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[215]=
@@ -9303,7 +10434,7 @@ return {
 			id = 217,
 			award_id = 73,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[218]=
@@ -9327,7 +10458,7 @@ return {
 			id = 220,
 			award_id = 74,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[221]=
@@ -9351,7 +10482,7 @@ return {
 			id = 223,
 			award_id = 75,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[224]=
@@ -9375,7 +10506,7 @@ return {
 			id = 226,
 			award_id = 76,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 80,
 			get_weight = 1,
 		},
 		[227]=
@@ -9399,7 +10530,7 @@ return {
 			id = 229,
 			award_id = 77,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 80,
 			get_weight = 1,
 		},
 		[230]=
@@ -9423,7 +10554,7 @@ return {
 			id = 232,
 			award_id = 78,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 150,
 			get_weight = 1,
 		},
 		[233]=
@@ -9447,7 +10578,7 @@ return {
 			id = 235,
 			award_id = 79,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[236]=
@@ -9471,7 +10602,7 @@ return {
 			id = 238,
 			award_id = 80,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[239]=
@@ -9495,7 +10626,7 @@ return {
 			id = 241,
 			award_id = 81,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[242]=
@@ -9519,7 +10650,7 @@ return {
 			id = 244,
 			award_id = 82,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[245]=
@@ -9543,7 +10674,7 @@ return {
 			id = 247,
 			award_id = 83,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[248]=
@@ -9567,7 +10698,7 @@ return {
 			id = 250,
 			award_id = 84,
 			asset_type = "shop_gold_sum",
-			asset_count = 20,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[251]=
@@ -9591,7 +10722,7 @@ return {
 			id = 253,
 			award_id = 85,
 			asset_type = "shop_gold_sum",
-			asset_count = 50,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[254]=
@@ -9615,7 +10746,7 @@ return {
 			id = 256,
 			award_id = 86,
 			asset_type = "shop_gold_sum",
-			asset_count = 50,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[257]=
@@ -9639,7 +10770,7 @@ return {
 			id = 259,
 			award_id = 87,
 			asset_type = "shop_gold_sum",
-			asset_count = 50,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[260]=
@@ -9663,7 +10794,7 @@ return {
 			id = 262,
 			award_id = 88,
 			asset_type = "shop_gold_sum",
-			asset_count = 50,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[263]=
@@ -9687,7 +10818,7 @@ return {
 			id = 265,
 			award_id = 89,
 			asset_type = "shop_gold_sum",
-			asset_count = 50,
+			asset_count = 200,
 			get_weight = 1,
 		},
 		[266]=
@@ -9711,7 +10842,7 @@ return {
 			id = 268,
 			award_id = 90,
 			asset_type = "shop_gold_sum",
-			asset_count = 50,
+			asset_count = 200,
 			get_weight = 1,
 		},
 		[269]=
@@ -9735,7 +10866,7 @@ return {
 			id = 271,
 			award_id = 91,
 			asset_type = "shop_gold_sum",
-			asset_count = 40,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[272]=
@@ -9759,7 +10890,7 @@ return {
 			id = 274,
 			award_id = 92,
 			asset_type = "shop_gold_sum",
-			asset_count = 40,
+			asset_count = 600,
 			get_weight = 1,
 		},
 		[275]=
@@ -9783,7 +10914,7 @@ return {
 			id = 277,
 			award_id = 93,
 			asset_type = "shop_gold_sum",
-			asset_count = 40,
+			asset_count = 600,
 			get_weight = 1,
 		},
 		[278]=
@@ -9807,7 +10938,7 @@ return {
 			id = 280,
 			award_id = 94,
 			asset_type = "shop_gold_sum",
-			asset_count = 40,
+			asset_count = 600,
 			get_weight = 1,
 		},
 		[281]=
@@ -9831,7 +10962,7 @@ return {
 			id = 283,
 			award_id = 95,
 			asset_type = "shop_gold_sum",
-			asset_count = 40,
+			asset_count = 600,
 			get_weight = 1,
 		},
 		[284]=
@@ -9855,7 +10986,7 @@ return {
 			id = 286,
 			award_id = 96,
 			asset_type = "shop_gold_sum",
-			asset_count = 40,
+			asset_count = 600,
 			get_weight = 1,
 		},
 		[287]=
@@ -9879,7 +11010,7 @@ return {
 			id = 289,
 			award_id = 97,
 			asset_type = "shop_gold_sum",
-			asset_count = 40,
+			asset_count = 600,
 			get_weight = 1,
 		},
 		[290]=
@@ -9903,7 +11034,7 @@ return {
 			id = 292,
 			award_id = 98,
 			asset_type = "shop_gold_sum",
-			asset_count = 40,
+			asset_count = 600,
 			get_weight = 1,
 		},
 		[293]=
@@ -9927,7 +11058,7 @@ return {
 			id = 295,
 			award_id = 99,
 			asset_type = "shop_gold_sum",
-			asset_count = 40,
+			asset_count = 600,
 			get_weight = 1,
 		},
 		[296]=
@@ -9951,7 +11082,7 @@ return {
 			id = 298,
 			award_id = 100,
 			asset_type = "shop_gold_sum",
-			asset_count = 40,
+			asset_count = 600,
 			get_weight = 1,
 		},
 		[299]=
@@ -9975,7 +11106,7 @@ return {
 			id = 301,
 			award_id = 101,
 			asset_type = "shop_gold_sum",
-			asset_count = 40,
+			asset_count = 600,
 			get_weight = 1,
 		},
 		[302]=
@@ -9999,7 +11130,7 @@ return {
 			id = 304,
 			award_id = 102,
 			asset_type = "shop_gold_sum",
-			asset_count = 40,
+			asset_count = 500,
 			get_weight = 1,
 		},
 		[305]=
@@ -10023,7 +11154,7 @@ return {
 			id = 307,
 			award_id = 103,
 			asset_type = "shop_gold_sum",
-			asset_count = 40,
+			asset_count = 500,
 			get_weight = 1,
 		},
 		[308]=
@@ -10047,7 +11178,7 @@ return {
 			id = 310,
 			award_id = 104,
 			asset_type = "shop_gold_sum",
-			asset_count = 40,
+			asset_count = 600,
 			get_weight = 1,
 		},
 		[311]=
@@ -10071,7 +11202,7 @@ return {
 			id = 313,
 			award_id = 105,
 			asset_type = "shop_gold_sum",
-			asset_count = 40,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[314]=
@@ -10095,7 +11226,7 @@ return {
 			id = 316,
 			award_id = 106,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[317]=
@@ -10119,7 +11250,7 @@ return {
 			id = 319,
 			award_id = 107,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[320]=
@@ -10143,7 +11274,7 @@ return {
 			id = 322,
 			award_id = 108,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[323]=
@@ -10167,7 +11298,7 @@ return {
 			id = 325,
 			award_id = 109,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[326]=
@@ -10191,7 +11322,7 @@ return {
 			id = 328,
 			award_id = 110,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[329]=
@@ -10215,7 +11346,7 @@ return {
 			id = 331,
 			award_id = 111,
 			asset_type = "shop_gold_sum",
-			asset_count = 100,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[332]=
@@ -10239,7 +11370,7 @@ return {
 			id = 334,
 			award_id = 112,
 			asset_type = "shop_gold_sum",
-			asset_count = 70,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[335]=
@@ -10263,7 +11394,7 @@ return {
 			id = 337,
 			award_id = 113,
 			asset_type = "shop_gold_sum",
-			asset_count = 70,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[338]=
@@ -10287,7 +11418,7 @@ return {
 			id = 340,
 			award_id = 114,
 			asset_type = "shop_gold_sum",
-			asset_count = 70,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[341]=
@@ -10311,7 +11442,7 @@ return {
 			id = 343,
 			award_id = 115,
 			asset_type = "shop_gold_sum",
-			asset_count = 70,
+			asset_count = 1800,
 			get_weight = 1,
 		},
 		[344]=
@@ -10335,7 +11466,7 @@ return {
 			id = 346,
 			award_id = 116,
 			asset_type = "shop_gold_sum",
-			asset_count = 70,
+			asset_count = 1800,
 			get_weight = 1,
 		},
 		[347]=
@@ -10359,7 +11490,7 @@ return {
 			id = 349,
 			award_id = 117,
 			asset_type = "shop_gold_sum",
-			asset_count = 70,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[350]=
@@ -10383,7 +11514,7 @@ return {
 			id = 352,
 			award_id = 118,
 			asset_type = "shop_gold_sum",
-			asset_count = 70,
+			asset_count = 6000,
 			get_weight = 1,
 		},
 		[353]=
@@ -10407,7 +11538,7 @@ return {
 			id = 355,
 			award_id = 119,
 			asset_type = "shop_gold_sum",
-			asset_count = 70,
+			asset_count = 6000,
 			get_weight = 1,
 		},
 		[356]=
@@ -10431,7 +11562,7 @@ return {
 			id = 358,
 			award_id = 120,
 			asset_type = "shop_gold_sum",
-			asset_count = 70,
+			asset_count = 6000,
 			get_weight = 1,
 		},
 		[359]=
@@ -10455,7 +11586,7 @@ return {
 			id = 361,
 			award_id = 121,
 			asset_type = "shop_gold_sum",
-			asset_count = 70,
+			asset_count = 6000,
 			get_weight = 1,
 		},
 		[362]=
@@ -10479,7 +11610,7 @@ return {
 			id = 364,
 			award_id = 122,
 			asset_type = "shop_gold_sum",
-			asset_count = 70,
+			asset_count = 6000,
 			get_weight = 1,
 		},
 		[365]=
@@ -10503,7 +11634,7 @@ return {
 			id = 367,
 			award_id = 123,
 			asset_type = "shop_gold_sum",
-			asset_count = 70,
+			asset_count = 6000,
 			get_weight = 1,
 		},
 		[368]=
@@ -10527,7 +11658,7 @@ return {
 			id = 370,
 			award_id = 124,
 			asset_type = "shop_gold_sum",
-			asset_count = 70,
+			asset_count = 6000,
 			get_weight = 1,
 		},
 		[371]=
@@ -10551,7 +11682,7 @@ return {
 			id = 373,
 			award_id = 125,
 			asset_type = "shop_gold_sum",
-			asset_count = 70,
+			asset_count = 6000,
 			get_weight = 1,
 		},
 		[374]=
@@ -10575,7 +11706,7 @@ return {
 			id = 376,
 			award_id = 126,
 			asset_type = "shop_gold_sum",
-			asset_count = 70,
+			asset_count = 6000,
 			get_weight = 1,
 		},
 		[377]=
@@ -10599,7 +11730,7 @@ return {
 			id = 379,
 			award_id = 127,
 			asset_type = "shop_gold_sum",
-			asset_count = 200,
+			asset_count = 6000,
 			get_weight = 1,
 		},
 		[380]=
@@ -10623,7 +11754,7 @@ return {
 			id = 382,
 			award_id = 128,
 			asset_type = "shop_gold_sum",
-			asset_count = 200,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[383]=
@@ -10647,7 +11778,7 @@ return {
 			id = 385,
 			award_id = 129,
 			asset_type = "shop_gold_sum",
-			asset_count = 200,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[386]=
@@ -10671,7 +11802,7 @@ return {
 			id = 388,
 			award_id = 130,
 			asset_type = "shop_gold_sum",
-			asset_count = 200,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[389]=
@@ -10687,1046 +11818,6 @@ return {
 			id = 390,
 			award_id = 130,
 			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[391]=
-		{
-			id = 391,
-			award_id = 131,
-			asset_type = "shop_gold_sum",
-			asset_count = 200,
-			get_weight = 1,
-		},
-		[392]=
-		{
-			id = 392,
-			award_id = 131,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[393]=
-		{
-			id = 393,
-			award_id = 131,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[394]=
-		{
-			id = 394,
-			award_id = 132,
-			asset_type = "shop_gold_sum",
-			asset_count = 200,
-			get_weight = 1,
-		},
-		[395]=
-		{
-			id = 395,
-			award_id = 132,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[396]=
-		{
-			id = 396,
-			award_id = 132,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[397]=
-		{
-			id = 397,
-			award_id = 133,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[398]=
-		{
-			id = 398,
-			award_id = 133,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[399]=
-		{
-			id = 399,
-			award_id = 133,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[400]=
-		{
-			id = 400,
-			award_id = 134,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[401]=
-		{
-			id = 401,
-			award_id = 134,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[402]=
-		{
-			id = 402,
-			award_id = 134,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[403]=
-		{
-			id = 403,
-			award_id = 135,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[404]=
-		{
-			id = 404,
-			award_id = 135,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[405]=
-		{
-			id = 405,
-			award_id = 135,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[406]=
-		{
-			id = 406,
-			award_id = 136,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[407]=
-		{
-			id = 407,
-			award_id = 136,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[408]=
-		{
-			id = 408,
-			award_id = 136,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[409]=
-		{
-			id = 409,
-			award_id = 137,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[410]=
-		{
-			id = 410,
-			award_id = 137,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[411]=
-		{
-			id = 411,
-			award_id = 137,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[412]=
-		{
-			id = 412,
-			award_id = 138,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[413]=
-		{
-			id = 413,
-			award_id = 138,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[414]=
-		{
-			id = 414,
-			award_id = 138,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[415]=
-		{
-			id = 415,
-			award_id = 139,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[416]=
-		{
-			id = 416,
-			award_id = 139,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[417]=
-		{
-			id = 417,
-			award_id = 139,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[418]=
-		{
-			id = 418,
-			award_id = 140,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[419]=
-		{
-			id = 419,
-			award_id = 140,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[420]=
-		{
-			id = 420,
-			award_id = 140,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[421]=
-		{
-			id = 421,
-			award_id = 141,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[422]=
-		{
-			id = 422,
-			award_id = 141,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[423]=
-		{
-			id = 423,
-			award_id = 141,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[424]=
-		{
-			id = 424,
-			award_id = 142,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[425]=
-		{
-			id = 425,
-			award_id = 142,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[426]=
-		{
-			id = 426,
-			award_id = 142,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[427]=
-		{
-			id = 427,
-			award_id = 143,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[428]=
-		{
-			id = 428,
-			award_id = 143,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[429]=
-		{
-			id = 429,
-			award_id = 143,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[430]=
-		{
-			id = 430,
-			award_id = 144,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[431]=
-		{
-			id = 431,
-			award_id = 144,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[432]=
-		{
-			id = 432,
-			award_id = 144,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[433]=
-		{
-			id = 433,
-			award_id = 145,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[434]=
-		{
-			id = 434,
-			award_id = 145,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[435]=
-		{
-			id = 435,
-			award_id = 145,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[436]=
-		{
-			id = 436,
-			award_id = 146,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[437]=
-		{
-			id = 437,
-			award_id = 146,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[438]=
-		{
-			id = 438,
-			award_id = 146,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[439]=
-		{
-			id = 439,
-			award_id = 147,
-			asset_type = "shop_gold_sum",
-			asset_count = 100,
-			get_weight = 1,
-		},
-		[440]=
-		{
-			id = 440,
-			award_id = 147,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[441]=
-		{
-			id = 441,
-			award_id = 147,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[442]=
-		{
-			id = 442,
-			award_id = 148,
-			asset_type = "shop_gold_sum",
-			asset_count = 400,
-			get_weight = 1,
-		},
-		[443]=
-		{
-			id = 443,
-			award_id = 148,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[444]=
-		{
-			id = 444,
-			award_id = 148,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[445]=
-		{
-			id = 445,
-			award_id = 149,
-			asset_type = "shop_gold_sum",
-			asset_count = 400,
-			get_weight = 1,
-		},
-		[446]=
-		{
-			id = 446,
-			award_id = 149,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[447]=
-		{
-			id = 447,
-			award_id = 149,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[448]=
-		{
-			id = 448,
-			award_id = 150,
-			asset_type = "shop_gold_sum",
-			asset_count = 400,
-			get_weight = 1,
-		},
-		[449]=
-		{
-			id = 449,
-			award_id = 150,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[450]=
-		{
-			id = 450,
-			award_id = 150,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[451]=
-		{
-			id = 451,
-			award_id = 151,
-			asset_type = "shop_gold_sum",
-			asset_count = 400,
-			get_weight = 1,
-		},
-		[452]=
-		{
-			id = 452,
-			award_id = 151,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[453]=
-		{
-			id = 453,
-			award_id = 151,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[454]=
-		{
-			id = 454,
-			award_id = 152,
-			asset_type = "shop_gold_sum",
-			asset_count = 400,
-			get_weight = 1,
-		},
-		[455]=
-		{
-			id = 455,
-			award_id = 152,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[456]=
-		{
-			id = 456,
-			award_id = 152,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[457]=
-		{
-			id = 457,
-			award_id = 153,
-			asset_type = "shop_gold_sum",
-			asset_count = 400,
-			get_weight = 1,
-		},
-		[458]=
-		{
-			id = 458,
-			award_id = 153,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[459]=
-		{
-			id = 459,
-			award_id = 153,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[460]=
-		{
-			id = 460,
-			award_id = 154,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
-			get_weight = 1,
-		},
-		[461]=
-		{
-			id = 461,
-			award_id = 154,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[462]=
-		{
-			id = 462,
-			award_id = 154,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[463]=
-		{
-			id = 463,
-			award_id = 155,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
-			get_weight = 1,
-		},
-		[464]=
-		{
-			id = 464,
-			award_id = 155,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[465]=
-		{
-			id = 465,
-			award_id = 155,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[466]=
-		{
-			id = 466,
-			award_id = 156,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
-			get_weight = 1,
-		},
-		[467]=
-		{
-			id = 467,
-			award_id = 156,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[468]=
-		{
-			id = 468,
-			award_id = 156,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[469]=
-		{
-			id = 469,
-			award_id = 157,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
-			get_weight = 1,
-		},
-		[470]=
-		{
-			id = 470,
-			award_id = 157,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[471]=
-		{
-			id = 471,
-			award_id = 157,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[472]=
-		{
-			id = 472,
-			award_id = 158,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
-			get_weight = 1,
-		},
-		[473]=
-		{
-			id = 473,
-			award_id = 158,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[474]=
-		{
-			id = 474,
-			award_id = 158,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[475]=
-		{
-			id = 475,
-			award_id = 159,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
-			get_weight = 1,
-		},
-		[476]=
-		{
-			id = 476,
-			award_id = 159,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[477]=
-		{
-			id = 477,
-			award_id = 159,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[478]=
-		{
-			id = 478,
-			award_id = 160,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
-			get_weight = 1,
-		},
-		[479]=
-		{
-			id = 479,
-			award_id = 160,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[480]=
-		{
-			id = 480,
-			award_id = 160,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[481]=
-		{
-			id = 481,
-			award_id = 161,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
-			get_weight = 1,
-		},
-		[482]=
-		{
-			id = 482,
-			award_id = 161,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[483]=
-		{
-			id = 483,
-			award_id = 161,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[484]=
-		{
-			id = 484,
-			award_id = 162,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
-			get_weight = 1,
-		},
-		[485]=
-		{
-			id = 485,
-			award_id = 162,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[486]=
-		{
-			id = 486,
-			award_id = 162,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[487]=
-		{
-			id = 487,
-			award_id = 163,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
-			get_weight = 1,
-		},
-		[488]=
-		{
-			id = 488,
-			award_id = 163,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[489]=
-		{
-			id = 489,
-			award_id = 163,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[490]=
-		{
-			id = 490,
-			award_id = 164,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
-			get_weight = 1,
-		},
-		[491]=
-		{
-			id = 491,
-			award_id = 164,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[492]=
-		{
-			id = 492,
-			award_id = 164,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[493]=
-		{
-			id = 493,
-			award_id = 165,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
-			get_weight = 1,
-		},
-		[494]=
-		{
-			id = 494,
-			award_id = 165,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[495]=
-		{
-			id = 495,
-			award_id = 165,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[496]=
-		{
-			id = 496,
-			award_id = 166,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
-			get_weight = 1,
-		},
-		[497]=
-		{
-			id = 497,
-			award_id = 166,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[498]=
-		{
-			id = 498,
-			award_id = 166,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[499]=
-		{
-			id = 499,
-			award_id = 167,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
-			get_weight = 1,
-		},
-		[500]=
-		{
-			id = 500,
-			award_id = 167,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[501]=
-		{
-			id = 501,
-			award_id = 167,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[502]=
-		{
-			id = 502,
-			award_id = 168,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
-			get_weight = 1,
-		},
-		[503]=
-		{
-			id = 503,
-			award_id = 168,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[504]=
-		{
-			id = 504,
-			award_id = 168,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[505]=
-		{
-			id = 505,
-			award_id = 169,
-			asset_type = "shop_gold_sum",
-			asset_count = 1000,
-			get_weight = 1,
-		},
-		[506]=
-		{
-			id = 506,
-			award_id = 169,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[507]=
-		{
-			id = 507,
-			award_id = 169,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[508]=
-		{
-			id = 508,
-			award_id = 170,
-			asset_type = "shop_gold_sum",
-			asset_count = 1000,
-			get_weight = 1,
-		},
-		[509]=
-		{
-			id = 509,
-			award_id = 170,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[510]=
-		{
-			id = 510,
-			award_id = 170,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[511]=
-		{
-			id = 511,
-			award_id = 171,
-			asset_type = "shop_gold_sum",
-			asset_count = 1000,
-			get_weight = 1,
-		},
-		[512]=
-		{
-			id = 512,
-			award_id = 171,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[513]=
-		{
-			id = 513,
-			award_id = 171,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[514]=
-		{
-			id = 514,
-			award_id = 172,
-			asset_type = "shop_gold_sum",
-			asset_count = 1000,
-			get_weight = 1,
-		},
-		[515]=
-		{
-			id = 515,
-			award_id = 172,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[516]=
-		{
-			id = 516,
-			award_id = 172,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[517]=
-		{
-			id = 517,
-			award_id = 173,
-			asset_type = "shop_gold_sum",
-			asset_count = 1000,
-			get_weight = 1,
-		},
-		[518]=
-		{
-			id = 518,
-			award_id = 173,
-			asset_type = "task_96",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[519]=
-		{
-			id = 519,
-			award_id = 173,
-			asset_type = "_common_rank_xiaoxiaole_tower_week_rank",
-			asset_count = 1,
-			get_weight = 1,
-		},
-		[520]=
-		{
-			id = 520,
-			award_id = 174,
-			asset_type = "jing_bi",
 			asset_count = 1,
 			get_weight = 1,
 		},

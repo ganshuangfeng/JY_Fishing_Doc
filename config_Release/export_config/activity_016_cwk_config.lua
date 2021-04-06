@@ -58,7 +58,7 @@ return {
 		{
 			Index = 5,
 			task_id = 21326,
-			text = "在街机捕鱼中累计赢金1000万",
+			text = "在街机捕鱼中累计消耗1000万",
 			total = 10000000,
 			award = 1,
 			game_type = "by",
@@ -67,7 +67,7 @@ return {
 		{
 			Index = 6,
 			task_id = 21327,
-			text = "在疯狂捕鱼中累计赢金1000万",
+			text = "在疯狂捕鱼中累计消耗1000万",
 			total = 10000000,
 			award = 1,
 			game_type = "fkby",
@@ -232,7 +232,7 @@ return {
 		{
 			Index = 6,
 			task_id = 21327,
-			text = "在疯狂捕鱼中累计赢金1000万",
+			text = "在疯狂捕鱼中累计消耗1000万",
 			total = 10000000,
 			award = 1,
 			game_type = "fkby",
@@ -376,7 +376,6 @@ return {
 		[6]=
 		{
 			id = 6,
-			text = "6.街机捕鱼累计赢金按50%计算。",
 		},
 	},
 	help_info_cjj=

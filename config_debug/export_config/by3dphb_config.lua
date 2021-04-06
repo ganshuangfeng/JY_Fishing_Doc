@@ -93,5 +93,17 @@ return {
 			is_on = 1,
 			condition = "cpl_notcjj",
 		},
+		[9]=
+		{
+			id = 9,
+			page_name = "达人榜",
+			panelName = "Act_045_XXLBDPanel",
+			itemName = "BY3DPHBRightItemBase_sgxxlb",
+			s_t = -1,
+			e_t = -1,
+			order = 1,
+			is_on = 1,
+			condition = "cpl_cjj",
+		},
 	},
 }

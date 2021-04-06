@@ -460,7 +460,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "120#",
+			group_list = "132#",
 		},
 	},
 	jchd_config=
@@ -1262,7 +1262,7 @@ return {
 		{
 			id = 129,
 			parm = {"sgxxl_tower_climbing",},
-			is_on_off = 0,
+			is_on_off = 1,
 			condi_key = "cpl_cjj",
 		},
 		[130]=
@@ -1278,6 +1278,12 @@ return {
 			parm = {"sys_act_base","weekly","enter"},
 			is_on_off = 1,
 			condi_key = "lxdh_025_notnew",
+		},
+		[132]=
+		{
+			id = 132,
+			parm = {"act_ty_gifts","gift_ltlb","enter",},
+			is_on_off = 1,
 		},
 	},
 }

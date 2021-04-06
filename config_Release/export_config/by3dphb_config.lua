@@ -8,9 +8,9 @@ return {
 			panelName = "BY3DPHBRightPanel_yjb",
 			itemName = "BY3DPHBRightItemBase_yjb",
 			s_t = -1,
-			e_t = 1616947210,
+			e_t = -1,
 			order = 1,
-			is_on = 1,
+			is_on = 0,
 			condition = "cpl_notcjj",
 		},
 		[2]=
@@ -78,8 +78,20 @@ return {
 			s_t = -1,
 			e_t = -1,
 			order = 7,
-			is_on = 0,
+			is_on = 1,
 			condition = "cpl_cjj",
+		},
+		[8]=
+		{
+			id = 8,
+			page_name = "达人榜",
+			panelName = "BY3DPHBRightPanel_drb",
+			itemName = "BY3DPHBRightItemBase_drb",
+			s_t = -1,
+			e_t = -1,
+			order = 1,
+			is_on = 1,
+			condition = "cpl_notcjj",
 		},
 	},
 }

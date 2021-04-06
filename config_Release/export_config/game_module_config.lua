@@ -3100,8 +3100,8 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_010_dlphb",
-			desc = "掉落排行榜皮肤（河灯）",
+			key = "act_ty_sjb_style/act_011_dlphb",
+			desc = "掉落排行榜皮肤（福袋）",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3109,8 +3109,8 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_012_hedeng",
-			desc = "活动boss皮肤（河灯）",
+			key = "act_ty_by_drop_style/act_013_long",
+			desc = "活动boss皮肤（龙）",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_011",
+			key = "sys_act_base_style/sys_act_base_weekly_012",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3155,7 +3155,7 @@ return {
 		[322]=
 		{
 			id = 322,
-			key = "act_ty_lb1_style/act_002_tylb1",
+			key = "act_ty_lb1_style/act_003_tylb1",
 			desc = "通用礼包皮肤",
 			is_on_off = 0,
 			enable = 0,
@@ -3247,6 +3247,35 @@ return {
 			key = "act_xrxsfl",
 			desc = "新人限时福利",
 			lua = "Act_XRXSFLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[332]=
+		{
+			id = 332,
+			key = "act_052_qfhl",
+			desc = "龙腾祈福",
+			lua = "Act_052_QFHLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[333]=
+		{
+			id = 333,
+			key = "act_ty_gifts",
+			desc = "通用礼包",
+			lua = "Act_Ty_GiftsManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[334]=
+		{
+			id = 334,
+			key = "act_ty_gifts_style/act_001_ltlb",
+			desc = "龙腾礼包",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
