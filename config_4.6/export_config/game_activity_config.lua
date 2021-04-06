@@ -175,7 +175,6 @@ return {
 			title = "福气达人",
 			order = 4,
 			is_on_off = 1,
-			condi_key = "actp_no_cjj_gej_exchange",
 			beginTime = 1617667200,
 			endTime = 1618243199,
 			showType = "prefab",

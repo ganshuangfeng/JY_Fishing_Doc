@@ -29004,7 +29004,7 @@ return {
 		[990]=
 		{
 			id = 990,
-			source_id = 527,
+			source_id = 627,
 			source_type = "buy_gift",
 			condition_id = 458,
 		},

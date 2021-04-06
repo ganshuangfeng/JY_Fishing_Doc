@@ -10110,6 +10110,7 @@ return {
 		[88]=
 		{
 			box_id = 88,
+			rank_type = "ltqf_012_fqdr_rank",
 			prop_type = "prop_grade",
 			base_score = 10,
 			task_id = 1000479,

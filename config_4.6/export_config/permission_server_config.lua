@@ -6650,7 +6650,7 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_ltqf_012_fqdr_rank",
+			key = "actp_rank_ltqf_011_fqdr_rank",
 			name = "福气达人--非cjj",
 			condi = 393,
 			is_dynamic_codi = 1,
