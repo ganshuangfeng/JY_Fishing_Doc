@@ -33720,7 +33720,7 @@ return {
 			id = 619,
 			condition_id = 457,
 			condition_name = "box_exchange_type",
-			condition_value = 88,
+			condition_value = {"box_exchange_88",},
 			judge_type = 2,
 		},
 		[620]=
