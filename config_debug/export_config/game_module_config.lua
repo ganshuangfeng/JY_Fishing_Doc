@@ -267,9 +267,9 @@ return {
 			key = "sys_banner",
 			desc = "系统banner",
 			lua = "BannerManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[28]=
 		{
