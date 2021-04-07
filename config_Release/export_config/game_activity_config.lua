@@ -175,7 +175,6 @@ return {
 			title = "福气达人",
 			order = 4,
 			is_on_off = 1,
-			condi_key = "actp_rank_ltqf_012_fqdr_rank",
 			beginTime = 1617667200,
 			endTime = 1618243199,
 			showType = "prefab",
