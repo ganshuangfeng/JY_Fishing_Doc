@@ -77,9 +77,9 @@ return {
 			key = "sys_lhd_manager",
 			desc = "系统：龙虎斗管理器",
 			lua = "SysLhdManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[9]=
 		{
@@ -87,9 +87,9 @@ return {
 			key = "sys_zjf_manager",
 			desc = "系统：自建房管理器",
 			lua = "SysZjfManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[10]=
 		{
@@ -97,9 +97,9 @@ return {
 			key = "sys_interactive_player",
 			desc = "系统：互动",
 			lua = "SysInteractivePlayerManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[11]=
 		{
@@ -107,9 +107,9 @@ return {
 			key = "sys_interactive_chat",
 			desc = "系统：互动聊天",
 			lua = "SysInteractiveChatManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[12]=
 		{
@@ -117,9 +117,9 @@ return {
 			key = "sys_interactive_ani",
 			desc = "系统：互动表情",
 			lua = "SysInteractiveAniManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[13]=
 		{
@@ -277,9 +277,9 @@ return {
 			key = "sys_banner_widget",
 			desc = "系统banner_widget",
 			lua = "BannerWidgetManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[29]=
 		{
@@ -287,9 +287,9 @@ return {
 			key = "sys_banner_hall",
 			desc = "系统：大厅banner",
 			lua = "SysBannerHallManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[30]=
 		{
@@ -387,9 +387,9 @@ return {
 			key = "sys_game_voice",
 			desc = "系统：游戏语音（房卡场使用）",
 			lua = "SysGameVoiceManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[40]=
 		{
@@ -467,9 +467,9 @@ return {
 			key = "sys_room_card",
 			desc = "系统：房卡",
 			lua = "SysRoomCardManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[48]=
 		{
@@ -556,9 +556,9 @@ return {
 			key = "qys",
 			desc = "千元大奖赛",
 			lua = "QYSEnterPrefab",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[57]=
 		{
@@ -586,9 +586,9 @@ return {
 			key = "sys_xsfl",
 			desc = "财神商铺",
 			lua = "SYSXSFLManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[60]=
 		{
@@ -596,9 +596,9 @@ return {
 			key = "sys_xyjl",
 			desc = "幸运降临",
 			lua = "SYSXYJLManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[61]=
 		{
@@ -716,9 +716,9 @@ return {
 			key = "sys_fkrk",
 			desc = "房卡场入口",
 			lua = "FKRKManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[73]=
 		{
@@ -2615,7 +2615,7 @@ return {
 			key = "sys_tgxt",
 			desc = "推广系统",
 			lua = "SYSTGXTManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
@@ -3100,8 +3100,8 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_012_dlphb",
-			desc = "掉落排行榜皮肤（彩球）",
+			key = "act_ty_sjb_style/act_011_dlphb",
+			desc = "掉落排行榜皮肤（福袋）",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3109,8 +3109,8 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_014_caiqiu",
-			desc = "活动boss皮肤（彩球）",
+			key = "act_ty_by_drop_style/act_013_long",
+			desc = "活动boss皮肤（龙）",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3118,7 +3118,7 @@ return {
 		[318]=
 		{
 			id = 318,
-			key = "act_ty_by_hhl_style/act_009_hhl",
+			key = "act_ty_by_hhl_style/act_008_hhl",
 			desc = "换好礼皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_013",
+			key = "sys_act_base_style/sys_act_base_weekly_012",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3217,7 +3217,7 @@ return {
 			key = "by_hbyts",
 			desc = "红包鱼提示",
 			lua = "BYHBYTSManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
@@ -3274,8 +3274,8 @@ return {
 		[334]=
 		{
 			id = 334,
-			key = "act_ty_gifts_style/act_002_ltlb",
-			desc = "欢乐礼包",
+			key = "act_ty_gifts_style/act_001_ltlb",
+			desc = "龙腾礼包",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3283,19 +3283,39 @@ return {
 		[335]=
 		{
 			id = 335,
-			key = "sys_lwgp",
-			desc = "龙王贡品",
-			lua = "SYSLWGPManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			key = "sys_fishfarm_bzzy",
+			desc = "宝藏章鱼",
+			lua = "FishFarmBZZYManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[336]=
 		{
 			id = 336,
-			key = "act_053_xcns",
-			desc = "消除达人",
-			lua = "Act_053_XCNSManager",
+			key = "sys_fishfarm_daytask",
+			desc = "水族馆每日任务",
+			lua = "FishFarmDailyTaskManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[337]=
+		{
+			id = 337,
+			key = "sys_fishfarm_jlspring",
+			desc = "精灵泉水",
+			lua = "FishFarmJlSpringManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[338]=
+		{
+			id = 338,
+			key = "sys_fishfarm_simplicity",
+			desc = "水族馆",
+			lua = "SYSFishFarmSimplicityManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
