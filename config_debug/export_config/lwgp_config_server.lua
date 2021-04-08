@@ -3,303 +3,168 @@ return {
 	{
 		[1]=
 		{
-			id = 1,
-			special_rate_percent = 0.057000,
-			special_rate = 6,
+			no = 1,
+			name = "普通",
+			type = {1,2,10},
+			gl = 0.930000,
+		},
+		[2]=
+		{
+			no = 2,
+			name = "特殊模式1",
+			type = 6,
+			gl = 0.030000,
+			item = {1,2,3,4},
+			like = 2,
+		},
+		[3]=
+		{
+			no = 3,
+			name = "特殊模式2",
+			type = 7,
+			gl = 0.010000,
+			item = {5,6,7},
+			like = 2,
+		},
+		[4]=
+		{
+			no = 4,
+			name = "特殊模式3",
+			type = 8,
+			gl = 0.020000,
+			item = {1,2,3,4,5,6,7},
+			like = 1,
+		},
+		[5]=
+		{
+			no = 5,
+			name = "特殊模式4",
+			type = 9,
+			gl = 0.010000,
+			item = {1,2,3,4,5,6,7},
+			like = 2,
 		},
 	},
-	kaijiang_config=
+	gailv=
 	{
 		[1]=
 		{
 			id = 1,
-			rate = 2,
-			percent = 0.344828,
+			name = "鱼骨",
+			gailv = 0.205822,
 		},
 		[2]=
 		{
 			id = 2,
-			rate = 4,
-			percent = 0.172414,
+			name = "鱼籽",
+			gailv = 0.205822,
 		},
 		[3]=
 		{
 			id = 3,
-			rate = 5,
-			percent = 0.137931,
+			name = "鱼头",
+			gailv = 0.164991,
 		},
 		[4]=
 		{
 			id = 4,
-			rate = 6,
-			percent = 0.114943,
+			name = "鱼尾",
+			gailv = 0.164991,
 		},
 		[5]=
 		{
 			id = 5,
-			rate = 8,
-			percent = 0.086207,
+			name = "金鱼翅",
+			gailv = 0.099397,
 		},
 		[6]=
 		{
 			id = 6,
-			rate = 10,
-			percent = 0.068966,
+			name = "金龟壳",
+			gailv = 0.099397,
 		},
 		[7]=
 		{
 			id = 7,
-			rate = 20,
-			percent = 0.034483,
-		},
-		[8]=
-		{
-			id = 8,
-			rate = 30,
-			percent = 0.022989,
-		},
-		[9]=
-		{
-			id = 9,
-			rate = 40,
-			percent = 0.017241,
+			name = "金鱼尾",
+			gailv = 0.059580,
 		},
 	},
-	rate_config=
+	award=
 	{
 		[1]=
 		{
-			rate_id = 1,
-			rate = 2,
-			bet_name = "鱼骨",
-			bet_type = 1,
-			kaijiang_type = 1,
-			level = 1,
+			no = 1,
+			name = "鱼骨",
+			award_1 = 2,
+			award_2 = 4,
+			award_3 = 6,
 		},
 		[2]=
 		{
-			rate_id = 2,
-			rate = 2,
-			bet_name = "贝壳",
-			bet_type = 2,
-			kaijiang_type = 1,
-			level = 1,
+			no = 2,
+			name = "鱼籽",
+			award_1 = 2,
+			award_2 = 4,
+			award_3 = 6,
 		},
 		[3]=
 		{
-			rate_id = 3,
-			rate = 2,
-			bet_name = "海螺",
-			bet_type = 3,
-			kaijiang_type = 1,
-			level = 1,
+			no = 3,
+			name = "鱼头",
+			award_1 = 2,
+			award_2 = 5,
+			award_3 = 8,
 		},
 		[4]=
 		{
-			rate_id = 4,
-			rate = 2,
-			bet_name = "海星",
-			bet_type = 4,
-			kaijiang_type = 1,
-			level = 1,
+			no = 4,
+			name = "鱼尾",
+			award_1 = 2,
+			award_2 = 5,
+			award_3 = 8,
 		},
 		[5]=
 		{
-			rate_id = 5,
-			rate = 2,
-			bet_name = "龟壳",
-			bet_type = 5,
-			kaijiang_type = 1,
-			level = 1,
+			no = 5,
+			name = "金鱼翅",
+			award_1 = 2,
+			award_2 = 8,
+			award_3 = 15,
 		},
 		[6]=
 		{
-			rate_id = 6,
-			rate = 2,
-			bet_name = "珊瑚",
-			bet_type = 6,
-			kaijiang_type = 1,
-			level = 1,
+			no = 6,
+			name = "金龟壳",
+			award_1 = 2,
+			award_2 = 8,
+			award_3 = 15,
 		},
 		[7]=
 		{
-			rate_id = 7,
-			rate = 2,
-			bet_name = "珍珠",
-			bet_type = 7,
-			kaijiang_type = 1,
-			level = 1,
+			no = 7,
+			name = "金鱼尾",
+			award_1 = 2,
+			award_2 = 10,
+			award_3 = 30,
 		},
-		[8]=
+	},
+	like=
+	{
+		[1]=
 		{
-			rate_id = 8,
-			rate = 4,
-			bet_name = "鱼骨",
-			bet_type = 1,
-			kaijiang_type = 2,
-			level = 2,
+			id = 1,
+			gailv = 0.340000,
 		},
-		[9]=
+		[2]=
 		{
-			rate_id = 9,
-			rate = 4,
-			bet_name = "贝壳",
-			bet_type = 2,
-			kaijiang_type = 2,
-			level = 2,
+			id = 2,
+			gailv = 0.340000,
 		},
-		[10]=
+		[3]=
 		{
-			rate_id = 10,
-			rate = 5,
-			bet_name = "海螺",
-			bet_type = 3,
-			kaijiang_type = 2,
-			level = 2,
-		},
-		[11]=
-		{
-			rate_id = 11,
-			rate = 5,
-			bet_name = "海星",
-			bet_type = 4,
-			kaijiang_type = 2,
-			level = 2,
-		},
-		[12]=
-		{
-			rate_id = 12,
-			rate = 10,
-			bet_name = "龟壳",
-			bet_type = 5,
-			kaijiang_type = 2,
-			level = 2,
-		},
-		[13]=
-		{
-			rate_id = 13,
-			rate = 10,
-			bet_name = "珊瑚",
-			bet_type = 6,
-			kaijiang_type = 2,
-			level = 2,
-		},
-		[14]=
-		{
-			rate_id = 14,
-			rate = 10,
-			bet_name = "珍珠",
-			bet_type = 7,
-			kaijiang_type = 2,
-			level = 2,
-		},
-		[15]=
-		{
-			rate_id = 15,
-			rate = 8,
-			bet_name = "鱼骨",
-			bet_type = 1,
-			kaijiang_type = 10,
-			level = 3,
-		},
-		[16]=
-		{
-			rate_id = 16,
-			rate = 8,
-			bet_name = "贝壳",
-			bet_type = 2,
-			kaijiang_type = 10,
-			level = 3,
-		},
-		[17]=
-		{
-			rate_id = 17,
-			rate = 10,
-			bet_name = "海螺",
-			bet_type = 3,
-			kaijiang_type = 10,
-			level = 3,
-		},
-		[18]=
-		{
-			rate_id = 18,
-			rate = 10,
-			bet_name = "海星",
-			bet_type = 4,
-			kaijiang_type = 10,
-			level = 3,
-		},
-		[19]=
-		{
-			rate_id = 19,
-			rate = 20,
-			bet_name = "龟壳",
-			bet_type = 5,
-			kaijiang_type = 10,
-			level = 3,
-		},
-		[20]=
-		{
-			rate_id = 20,
-			rate = 20,
-			bet_name = "珊瑚",
-			bet_type = 6,
-			kaijiang_type = 10,
-			level = 3,
-		},
-		[21]=
-		{
-			rate_id = 21,
-			rate = 40,
-			bet_name = "珍珠",
-			bet_type = 7,
-			kaijiang_type = 10,
-			level = 3,
-		},
-		[22]=
-		{
-			rate_id = 22,
-			rate = 4,
-			kaijiang_type = 3,
-			level = 1,
-			choose_rate_id = {1,2,3,4,5,6,7,},
-			choose_num = 2,
-		},
-		[23]=
-		{
-			rate_id = 23,
-			rate = 6,
-			kaijiang_type = 4,
-			level = 1,
-			choose_rate_id = {1,2,3,4,5,6,7,},
-			choose_num = 3,
-		},
-		[24]=
-		{
-			rate_id = 24,
-			rate = 8,
-			kaijiang_type = 5,
-			level = 1,
-			choose_rate_id = {1,2,3,4,5,6,7,},
-			choose_num = 4,
-		},
-		[25]=
-		{
-			rate_id = 25,
-			rate = 6,
-			kaijiang_type = 6,
-			level = 1,
-			choose_rate_id = {2,3,4,},
-			choose_num = 3,
-		},
-		[26]=
-		{
-			rate_id = 26,
-			rate = 30,
-			kaijiang_type = 7,
-			level = 1,
-			choose_rate_id = {5,6,7,},
-			choose_num = 3,
+			id = 3,
+			gailv = 0.320000,
 		},
 	},
 }
