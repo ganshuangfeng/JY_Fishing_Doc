@@ -187,11 +187,10 @@ return {
 		[1]=
 		{
 			line = 1,
-			cz_task_id = 1000539,
-			taskid = 1000540,
+			cz_task_id = 1000540,
+			taskid = 1000539,
 			end_time = 1619452799,
 			sta_time = 1618876800,
-			act_time = """",
 			cur_path = "act_027_style_002",
 			condiy_key = "platform_limit_notcjj_show",
 			btn_gotoui = "game_Fishing3DHall",
@@ -199,11 +198,10 @@ return {
 		[2]=
 		{
 			line = 2,
-			cz_task_id = 1000539,
-			taskid = 1000540,
+			cz_task_id = 1000540,
+			taskid = 1000539,
 			end_time = 1619452799,
 			sta_time = 1618876800,
-			act_time = """",
 			cur_path = "act_027_style_002",
 			condiy_key = "platform_limit_cjj_show",
 			btn_gotoui = "game_MiniGame",
