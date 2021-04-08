@@ -293,21 +293,6 @@ return {
 		{
 			no = 3,
 			image_cfg = "fish_3d_yutu_gd_1",
-			image_no = 2,
-			type = "guding",
-			over_time_min = 550,
-			over_time_max = 550,
-			ctor_in_min_round = 2,
-			ctor_in_max_round = 9999999,
-			ctor_count = 9999999,
-			first_ctor_min_round = 1,
-			power = 1,
-			clear_level = 3,
-		},
-		[4]=
-		{
-			no = 4,
-			image_cfg = "fish_3d_yutu_gd_1",
 			image_no = 7,
 			type = "guding",
 			over_time_min = 300,
@@ -319,9 +304,9 @@ return {
 			power = 1,
 			clear_level = 3,
 		},
-		[5]=
+		[4]=
 		{
-			no = 5,
+			no = 4,
 			image_cfg = "fish_3d_yutu_gd_boss",
 			image_no = 2,
 			type = "boss",
@@ -333,11 +318,11 @@ return {
 			first_ctor_min_round = 1,
 			power = 1,
 			clear_level = 1,
-			append_image_id = 6,
+			append_image_id = 5,
 		},
-		[6]=
+		[5]=
 		{
-			no = 6,
+			no = 5,
 			image_cfg = "fish_3d_yutu_random_boss_3",
 			image_no = 1,
 			type = "random",
@@ -350,9 +335,9 @@ return {
 			power = 0,
 			clear_level = 3,
 		},
-		[7]=
+		[6]=
 		{
-			no = 7,
+			no = 6,
 			image_cfg = "fish_3d_yutu_gd_smallboss",
 			image_no = 2,
 			type = "guding",
