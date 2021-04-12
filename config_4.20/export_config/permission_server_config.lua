@@ -17335,9 +17335,9 @@ return {
 			id = 425,
 			var = "vip_level",
 			value = 5,
-			judge = 2,
+			judge = 3,
 			group = 1,
-			error_desc = "VIP5玩家才可兑换",
+			error_desc = "VIP5及以上玩家才可兑换",
 		},
 		[1037]=
 		{
