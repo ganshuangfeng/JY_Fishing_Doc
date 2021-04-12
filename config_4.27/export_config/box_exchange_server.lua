@@ -1531,7 +1531,7 @@ return {
 		{
 			id = 82,
 			use_id = 82,
-			use_item = "prop_mfcjq",
+			use_item = "prop_qdlb_cjq",
 			use_num = 1,
 		},
 	},
@@ -5387,42 +5387,42 @@ return {
 			no = 549,
 			award_id = 88,
 			real_award_id = 12026,
-			weight = "weight=300",
+			weight = 300,
 		},
 		[550]=
 		{
 			no = 550,
 			award_id = 88,
 			real_award_id = 12027,
-			weight = "weight=250",
+			weight = 250,
 		},
 		[551]=
 		{
 			no = 551,
 			award_id = 88,
 			real_award_id = 12028,
-			weight = "weight=250",
+			weight = 250,
 		},
 		[552]=
 		{
 			no = 552,
 			award_id = 88,
 			real_award_id = 12029,
-			weight = "weight=199",
+			weight = 199,
 		},
 		[553]=
 		{
 			no = 553,
 			award_id = 88,
 			real_award_id = 12030,
-			weight = "weight=1",
+			weight = 1,
 		},
 		[554]=
 		{
 			no = 554,
 			award_id = 88,
 			real_award_id = 12031,
-			weight = "weight=0",
+			weight = 0,
 		},
 	},
 	award_item=
