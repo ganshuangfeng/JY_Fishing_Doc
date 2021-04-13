@@ -49720,7 +49720,7 @@ return {
 		{
 			id = 1986,
 			award_id = 1191,
-			award_name = "小米蓝牙音箱/家用电烤箱",
+			award_name = "小米蓝牙耳机/家用电烤箱",
 			get_weight = 1,
 			is_send_email = 1,
 		},
