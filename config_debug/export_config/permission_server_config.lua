@@ -2203,6 +2203,12 @@ return {
 			name = "banner和插图广告系统（免费玩家-非新玩家）",
 			condi = 417,
 		},
+		byam_fish_select=
+		{
+			key = "byam_fish_select",
+			name = "捕鱼奥秘渔场限制",
+			condi = 418,
+		},
 	},
 	act_permission=
 	{
@@ -16932,6 +16938,16 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "不是新玩家",
+		},
+		[1015]=
+		{
+			no = 1015,
+			id = 418,
+			var = "share_condition",
+			value = "byam_all",
+			judge = 2,
+			group = 1,
+			error_desc = "捕鱼奥秘",
 		},
 	},
 	share_condition=

@@ -2173,10 +2173,10 @@ return {
 			name = "小游戏托管限制",
 			condi = 22,
 		},
-		jjby_drop_limit=
+		byam_fish_select=
 		{
-			key = "jjby_drop_limit",
-			name = "街机捕鱼掉落权限",
+			key = "byam_fish_select",
+			name = "捕鱼奥秘渔场限制",
 			condi = 410,
 		},
 		sgxxl_tower_box=
@@ -16943,9 +16943,9 @@ return {
 			id = 410,
 			var = "share_condition",
 			value = "byam_all",
-			judge = 5,
+			judge = 2,
 			group = 1,
-			error_desc = "不等于捕鱼奥秘",
+			error_desc = "捕鱼奥秘",
 		},
 		[999]=
 		{
