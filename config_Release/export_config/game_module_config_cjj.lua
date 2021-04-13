@@ -3050,8 +3050,8 @@ return {
 		[311]=
 		{
 			id = 311,
-			key = "act_ty_sjb_style/act_011_dlphb",
-			desc = "掉落排行榜皮肤（福袋）",
+			key = "act_ty_sjb_style/act_012_dlphb",
+			desc = "掉落排行榜皮肤（桃花）",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3059,8 +3059,8 @@ return {
 		[312]=
 		{
 			id = 312,
-			key = "act_ty_by_drop_style/act_013_long",
-			desc = "活动boss皮肤（福袋）",
+			key = "act_ty_by_drop_style/act_014_caiqiu",
+			desc = "活动boss皮肤（桃花）",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3068,7 +3068,7 @@ return {
 		[313]=
 		{
 			id = 313,
-			key = "act_ty_by_hhl_style/act_008_hhl",
+			key = "act_ty_by_hhl_style/act_009_hhl",
 			desc = "换好礼皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3086,7 +3086,7 @@ return {
 		[315]=
 		{
 			id = 315,
-			key = "sys_act_base_style/sys_act_base_weekly_012",
+			key = "sys_act_base_style/sys_act_base_weekly_013",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3224,8 +3224,18 @@ return {
 		[329]=
 		{
 			id = 329,
-			key = "act_ty_gifts_style/act_001_ltlb",
-			desc = "龙腾礼包",
+			key = "act_ty_gifts_style/act_002_hllb",
+			desc = "欢乐礼包",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[330]=
+		{
+			id = 330,
+			key = "act_053_xcns",
+			desc = "消除达人",
+			lua = "Act_053_XCNSManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

@@ -2209,6 +2209,18 @@ return {
 			name = "龙王贡品广告图显示权限（天天欢乐捕鱼平台）",
 			condi = 432,
 		},
+		platform_limit_cjj_show=
+		{
+			key = "platform_limit_cjj_show",
+			name = "显示权限限制（冲金鸡平台显示）",
+			condi = 433,
+		},
+		platform_limit_notcjj_show=
+		{
+			key = "platform_limit_notcjj_show",
+			name = "显示权限限制（非冲金鸡平台显示）",
+			condi = 434,
+		},
 	},
 	act_permission=
 	{
@@ -17405,7 +17417,7 @@ return {
 			value = "cjj_all",
 			judge = 2,
 			group = 1,
-			error_desc = "不是冲金鸡玩家",
+			error_desc = "是冲金鸡玩家",
 		},
 		[1045]=
 		{
@@ -17425,7 +17437,7 @@ return {
 			value = "cjj_all",
 			judge = 2,
 			group = 1,
-			error_desc = "不是冲金鸡玩家",
+			error_desc = "是冲金鸡玩家",
 		},
 		[1047]=
 		{
@@ -17436,6 +17448,26 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是天天欢乐捕鱼平台玩家",
+		},
+		[1048]=
+		{
+			no = 1048,
+			id = 433,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是冲金鸡玩家",
+		},
+		[1049]=
+		{
+			no = 1049,
+			id = 434,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
 		},
 	},
 	share_condition=
@@ -17481,7 +17513,7 @@ return {
 			id = 5,
 			name = "3dby_cpl",
 			var = "market_channel",
-			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","juxiang","xiaozhuo","aibianxian","juju","qwxq","byam_xianwan","byam_pceggs","byam_aibianxian","byam_juxiang",},
+			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","juxiang","xiaozhuo","aibianxian","juju","qwxq","byam_xianwan",},
 			judge = 2,
 			group = 1,
 		},
@@ -17553,7 +17585,7 @@ return {
 			id = 13,
 			name = "byam_all",
 			var = "market_channel",
-			value = {"byam","xiaomi_byam","yyb_byam","byam_xianwan","byam_pceggs","byam_aibianxian","byam_juxiang",},
+			value = {"byam","xiaomi_byam","yyb_byam","byam_xianwan",},
 			judge = 2,
 			group = 1,
 		},
@@ -17562,7 +17594,7 @@ return {
 			id = 14,
 			name = "byam_cpl",
 			var = "market_channel",
-			value = {"byam_xianwan","byam_pceggs","byam_aibianxian","byam_juxiang",},
+			value = {"byam_xianwan",},
 			judge = 2,
 			group = 1,
 		},

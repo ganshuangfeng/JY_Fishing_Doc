@@ -262,7 +262,7 @@ return {
 		[1]=
 		{
 			no = 1,
-			image_cfg = "fish_3d_yutu_random_3",
+			image_cfg = "fish_am_yutu_random_3",
 			image_no = 1,
 			type = "random",
 			over_time_min = 6000,
@@ -277,7 +277,7 @@ return {
 		[2]=
 		{
 			no = 2,
-			image_cfg = "fish_3d_yutu_gd_1",
+			image_cfg = "fish_am_yutu_gd_1",
 			image_no = 1,
 			type = "guding",
 			over_time_min = 550,
@@ -292,7 +292,7 @@ return {
 		[3]=
 		{
 			no = 3,
-			image_cfg = "fish_3d_yutu_gd_1",
+			image_cfg = "fish_am_yutu_gd_1",
 			image_no = 2,
 			type = "guding",
 			over_time_min = 550,
@@ -307,7 +307,7 @@ return {
 		[4]=
 		{
 			no = 4,
-			image_cfg = "fish_3d_yutu_gd_1",
+			image_cfg = "fish_am_yutu_gd_1",
 			image_no = 3,
 			type = "guding",
 			over_time_min = 550,
@@ -322,7 +322,7 @@ return {
 		[5]=
 		{
 			no = 5,
-			image_cfg = "fish_3d_yutu_gd_1",
+			image_cfg = "fish_am_yutu_gd_1",
 			image_no = 4,
 			type = "guding",
 			over_time_min = 550,
@@ -337,7 +337,7 @@ return {
 		[6]=
 		{
 			no = 6,
-			image_cfg = "fish_3d_yutu_gd_1",
+			image_cfg = "fish_am_yutu_gd_1",
 			image_no = 5,
 			type = "guding",
 			over_time_min = 650,
@@ -352,7 +352,7 @@ return {
 		[7]=
 		{
 			no = 7,
-			image_cfg = "fish_3d_yutu_gd_1",
+			image_cfg = "fish_am_yutu_gd_1",
 			image_no = 6,
 			type = "guding",
 			over_time_min = 600,
@@ -367,7 +367,7 @@ return {
 		[8]=
 		{
 			no = 8,
-			image_cfg = "fish_3d_yutu_gd_1",
+			image_cfg = "fish_am_yutu_gd_1",
 			image_no = 7,
 			type = "guding",
 			over_time_min = 300,
@@ -382,7 +382,7 @@ return {
 		[9]=
 		{
 			no = 9,
-			image_cfg = "fish_3d_yutu_gd_boss",
+			image_cfg = "fish_am_yutu_gd_boss",
 			image_no = 2,
 			type = "boss",
 			over_time_min = 1200,
@@ -398,7 +398,7 @@ return {
 		[10]=
 		{
 			no = 10,
-			image_cfg = "fish_3d_yutu_random_boss_3",
+			image_cfg = "fish_am_yutu_random_boss_3",
 			image_no = 1,
 			type = "random",
 			over_time_min = 1200,
@@ -413,7 +413,7 @@ return {
 		[11]=
 		{
 			no = 11,
-			image_cfg = "fish_3d_yutu_gd_smallboss",
+			image_cfg = "fish_am_yutu_gd_smallboss",
 			image_no = 2,
 			type = "guding",
 			over_time_min = 1200,

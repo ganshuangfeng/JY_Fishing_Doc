@@ -358,7 +358,7 @@ return {
 			tag = 2,
 			icon = "3dby_icon_yu51",
 			name = "金蟾",
-			game_id = {4,5},
+			game_id = {3,4,5},
 			scale = 3,
 			rotation = {66,0,0},
 			rate = "80~100倍",

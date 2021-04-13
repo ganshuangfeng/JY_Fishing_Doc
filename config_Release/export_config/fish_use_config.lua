@@ -863,35 +863,30 @@ return {
 			id = 157,
 			fish_id = 6,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[158]=
 		{
 			id = 158,
 			fish_id = 7,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[159]=
 		{
 			id = 159,
 			fish_id = 8,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[160]=
 		{
 			id = 160,
 			fish_id = 9,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[161]=
 		{
 			id = 161,
 			fish_id = 10,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[162]=
 		{
@@ -923,35 +918,30 @@ return {
 			id = 167,
 			fish_id = 6,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[168]=
 		{
 			id = 168,
 			fish_id = 7,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[169]=
 		{
 			id = 169,
 			fish_id = 8,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[170]=
 		{
 			id = 170,
 			fish_id = 9,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[171]=
 		{
 			id = 171,
 			fish_id = 10,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[172]=
 		{
@@ -973,35 +963,30 @@ return {
 			id = 175,
 			fish_id = 6,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[176]=
 		{
 			id = 176,
 			fish_id = 7,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[177]=
 		{
 			id = 177,
 			fish_id = 8,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[178]=
 		{
 			id = 178,
 			fish_id = 9,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[179]=
 		{
 			id = 179,
 			fish_id = 10,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[180]=
 		{
@@ -1023,35 +1008,30 @@ return {
 			id = 183,
 			fish_id = 6,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[184]=
 		{
 			id = 184,
 			fish_id = 7,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[185]=
 		{
 			id = 185,
 			fish_id = 8,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[186]=
 		{
 			id = 186,
 			fish_id = 9,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[187]=
 		{
 			id = 187,
 			fish_id = 10,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[188]=
 		{
@@ -1073,35 +1053,30 @@ return {
 			id = 191,
 			fish_id = 6,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[192]=
 		{
 			id = 192,
 			fish_id = 7,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[193]=
 		{
 			id = 193,
 			fish_id = 8,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[194]=
 		{
 			id = 194,
 			fish_id = 9,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[195]=
 		{
 			id = 195,
 			fish_id = 10,
 			attr_id = 9,
-			cond_key = "jjby_drop_limit",
 		},
 		[196]=
 		{

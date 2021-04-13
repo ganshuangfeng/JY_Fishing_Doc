@@ -57,6 +57,12 @@ return {
 			id = 4,
 			area = "center",
 		},
+		[5]=
+		{
+			id = 5,
+			area = "money_btn",
+			group_list = "134#",
+		},
 	},
 	xxlcs_game=
 	{
@@ -81,6 +87,12 @@ return {
 		{
 			id = 4,
 			area = "center",
+		},
+		[5]=
+		{
+			id = 5,
+			area = "money_btn",
+			group_list = "134#",
 		},
 	},
 	xxl_game=
@@ -171,7 +183,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#8#122#61#9#117#115#",
+			group_list = "3;116#2#8#122#61#9#117#134#",
 		},
 		[2]=
 		{
@@ -189,6 +201,7 @@ return {
 		{
 			id = 4,
 			area = "top",
+			group_list = "115#",
 		},
 		[5]=
 		{
@@ -344,7 +357,7 @@ return {
 		{
 			id = 6,
 			area = "Right_hd",
-			group_list = "103#",
+			group_list = "103#133#",
 		},
 		[7]=
 		{
@@ -452,6 +465,12 @@ return {
 			id = 2,
 			area = "left_down",
 			group_list = "11#",
+		},
+		[3]=
+		{
+			id = 3,
+			area = "money_btn",
+			group_list = "134#",
 		},
 	},
 	year_panel=
@@ -1282,8 +1301,21 @@ return {
 		[132]=
 		{
 			id = 132,
-			parm = {"act_ty_gifts","gift_ltlb","enter",},
+			parm = {"act_ty_gifts","gift_hllb","enter",},
 			is_on_off = 1,
+		},
+		[133]=
+		{
+			id = 133,
+			parm = {"sys_lwgp",},
+			is_on_off = 1,
+		},
+		[134]=
+		{
+			id = 134,
+			parm = {"by3d_phb","enter"},
+			is_on_off = 1,
+			condi_key = "cpl_cjj",
 		},
 	},
 }
