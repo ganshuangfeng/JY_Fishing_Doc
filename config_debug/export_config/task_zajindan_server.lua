@@ -21689,7 +21689,7 @@ return {
 		{
 			id = 890,
 			process_id = 21838,
-			source_id = 605,
+			source_id = 629,
 			process = 1,
 			awards = 1180,
 			get_award_type = "nor",
@@ -29099,6 +29099,13 @@ return {
 			source_type = "buyu_spend",
 			condition_id = 0,
 		},
+		[1004]=
+		{
+			id = 1004,
+			source_id = 629,
+			source_type = "use_fish_3d_bullet_item",
+			condition_id = 459,
+		},
 	},
 	condition=
 	{
@@ -33820,6 +33827,14 @@ return {
 			condition_id = 458,
 			condition_name = "gift_id",
 			condition_value = {10503,10504,10505,10506,10507,10508,10509,10510,10511,10512,10513,10514},
+			judge_type = 2,
+		},
+		[621]=
+		{
+			id = 621,
+			condition_id = 459,
+			condition_name = "fish_prop",
+			condition_value = "prop_3d_fish_wild",
 			judge_type = 2,
 		},
 	},
