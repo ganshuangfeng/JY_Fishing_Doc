@@ -3051,7 +3051,7 @@ return {
 		{
 			id = 311,
 			key = "act_ty_sjb_style/act_011_dlphb",
-			desc = "掉落排行榜皮肤（桃花）",
+			desc = "掉落排行榜皮肤（福袋）",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3059,8 +3059,8 @@ return {
 		[312]=
 		{
 			id = 312,
-			key = "act_ty_by_drop_style/act_012_hedeng",
-			desc = "活动boss皮肤（桃花）",
+			key = "act_ty_by_drop_style/act_013_long",
+			desc = "活动boss皮肤（福袋）",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
