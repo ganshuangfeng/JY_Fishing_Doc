@@ -6655,7 +6655,7 @@ return {
 		[371]=
 		{
 			id = 371,
-			enable = 1,
+			enable = 0,
 			key = "actp_rank_ltqf_012_fqdr_rank",
 			name = "福气达人--非cjj",
 			condi = 393,

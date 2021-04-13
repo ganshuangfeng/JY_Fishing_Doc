@@ -57,6 +57,12 @@ return {
 			id = 4,
 			area = "center",
 		},
+		[6]=
+		{
+			id = 6,
+			area = "money_btn",
+			group_list = "134#",
+		},
 	},
 	xxlcs_game=
 	{
@@ -81,6 +87,12 @@ return {
 		{
 			id = 4,
 			area = "center",
+		},
+		[5]=
+		{
+			id = 5,
+			area = "money_btn",
+			group_list = "134#",
 		},
 	},
 	xxl_game=
@@ -453,6 +465,12 @@ return {
 			id = 2,
 			area = "left_down",
 			group_list = "11#",
+		},
+		[3]=
+		{
+			id = 3,
+			area = "money_btn",
+			group_list = "134#",
 		},
 	},
 	year_panel=
