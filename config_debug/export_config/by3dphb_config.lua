@@ -89,7 +89,7 @@ return {
 			itemName = "BY3DPHBRightItemBase_drb",
 			s_t = -1,
 			e_t = -1,
-			order = 8,
+			order = 1,
 			is_on = 1,
 			condition = "cpl_notcjj",
 		},
