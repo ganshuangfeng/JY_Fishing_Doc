@@ -57,9 +57,9 @@ return {
 			id = 4,
 			area = "center",
 		},
-		[6]=
+		[5]=
 		{
-			id = 6,
+			id = 5,
 			area = "money_btn",
 			group_list = "134#",
 		},
