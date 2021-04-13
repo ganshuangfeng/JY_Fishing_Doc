@@ -21,7 +21,7 @@ return {
 		{
 			index = 3,
 			key = "act_lgfl_normal",
-			icon = "ltfl_bg_1",
+			icon = "hlfl_bg_1",
 			name = "感恩回馈--v3--捕鱼",
 			tges = 3,
 		},
@@ -29,7 +29,7 @@ return {
 		{
 			index = 4,
 			key = "act_lgfl_v4_normal",
-			icon = "ltfl_bg_1",
+			icon = "hlfl_bg_1",
 			name = "感恩回馈--v4--捕鱼",
 			tges = 4,
 		},
@@ -37,7 +37,7 @@ return {
 		{
 			index = 5,
 			key = "act_lgfl_cjj",
-			icon = "ltfl_bg_1",
+			icon = "hlfl_bg_1",
 			name = "感恩回馈--v3--冲金鸡",
 			tges = 5,
 		},
@@ -45,7 +45,7 @@ return {
 		{
 			index = 6,
 			key = "act_lgfl_v4_cjj",
-			icon = "ltfl_bg_1",
+			icon = "hlfl_bg_1",
 			name = "感恩回馈--v4--冲金鸡",
 			tges = 6,
 		},
@@ -389,7 +389,7 @@ return {
 			gotoUI = {"shop_bay","jing_bi",},
 			Tips = {"",""},
 			N_chose_1_img = {"swjl_1","swjl_2"},
-			N_chose_1_text = ""美的多功能锅/美的电烤箱"",
+			N_chose_1_text = {"美的多功能锅","美的电烤箱"},
 			remarks = "实物奖励二选一",
 		},
 		[26]=
@@ -505,7 +505,7 @@ return {
 			gotoUI = {"shop_bay","jing_bi",},
 			Tips = {"",""},
 			N_chose_1_img = {"swjl_1","swjl_2"},
-			N_chose_1_text = ""美的多功能锅/美的电烤箱"",
+			N_chose_1_text = {"美的多功能锅","美的电烤箱"},
 			remarks = "实物奖励二选一",
 		},
 		[35]=
