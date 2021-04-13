@@ -344,7 +344,7 @@ return {
 		{
 			id = 6,
 			area = "Right_hd",
-			group_list = "103#",
+			group_list = "103#133#",
 		},
 		[7]=
 		{
@@ -356,7 +356,7 @@ return {
 		{
 			id = 8,
 			area = "Right_shtx",
-			group_list = "127#133#",
+			group_list = "127#",
 		},
 	},
 	fishing3d_hall=
