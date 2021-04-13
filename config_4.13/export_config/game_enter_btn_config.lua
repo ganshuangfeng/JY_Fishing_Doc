@@ -189,6 +189,7 @@ return {
 		{
 			id = 4,
 			area = "top",
+			group_list = "134#",
 		},
 		[5]=
 		{
@@ -1290,6 +1291,13 @@ return {
 			id = 133,
 			parm = {"sys_lwgp",},
 			is_on_off = 1,
+		},
+		[134]=
+		{
+			id = 134,
+			parm = {"by3d_phb","enter"},
+			is_on_off = 1,
+			condi_key = "cpl_cjj",
 		},
 	},
 }

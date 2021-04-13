@@ -673,7 +673,7 @@ return {
 			line = 41,
 			act_type = "normal",
 			ID = 41,
-			title = "龙王贡品",
+			title = "龙王来袭",
 			order = -20,
 			is_on_off = 1,
 			condi_key = "lwgp_can_show_player",
