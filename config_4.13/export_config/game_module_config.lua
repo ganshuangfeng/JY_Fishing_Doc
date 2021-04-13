@@ -3280,5 +3280,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[335]=
+		{
+			id = 335,
+			key = "sys_lwgp",
+			desc = "龙王贡品",
+			lua = "SYSLWGPManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
