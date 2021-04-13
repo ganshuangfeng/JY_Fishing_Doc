@@ -6988,6 +6988,30 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1619452800,
 		},
+		[398]=
+		{
+			id = 398,
+			enable = 1,
+			key = "actp_prop_exchange_nor_v4",
+			name = "道具兑换（VIP4，非冲金鸡）",
+			condi = 428,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1619481600,
+		},
+		[399]=
+		{
+			id = 399,
+			enable = 1,
+			key = "actp_prop_exchange_nor_v3",
+			name = "道具兑换（VIP3，非冲金鸡）",
+			condi = 429,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1619481600,
+		},
 	},
 	condi=
 	{
@@ -17480,6 +17504,46 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
+		},
+		[1050]=
+		{
+			no = 1050,
+			id = 435,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1051]=
+		{
+			no = 1051,
+			id = 435,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上玩家",
+		},
+		[1052]=
+		{
+			no = 1052,
+			id = 436,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1053]=
+		{
+			no = 1053,
+			id = 436,
+			var = "vip_level",
+			value = 3,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP3及以上玩家",
 		},
 	},
 	share_condition=
