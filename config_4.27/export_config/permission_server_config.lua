@@ -6976,6 +6976,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 0,
 		},
+		[397]=
+		{
+			id = 397,
+			enable = 1,
+			key = "actp_own_task_p_xxl_rate_add",
+			name = "消消乐倍数和任务领奖类型活动权限（冲金鸡）",
+			condi = 427,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1619452800,
+		},
 	},
 	condi=
 	{

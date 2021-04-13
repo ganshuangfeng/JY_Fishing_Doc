@@ -22605,6 +22605,15 @@ return {
 			get_award_type = "nor",
 			is_auto_get_award = 2,
 		},
+		[952]=
+		{
+			id = 952,
+			process_id = 21900,
+			source_id = 632,
+			process = {1000,1000,3000,5000,10000,20000,40000,40000,80000,100000},
+			awards = {1246,1247,1248,1249,1250,1251,1252,1253,1254,1255},
+			get_award_type = "random",
+		},
 	},
 	source=
 	{
@@ -29719,6 +29728,34 @@ return {
 			source_type = "xiaoxiaole_caishen_award_rate",
 			condition_id = 464,
 		},
+		[1010]=
+		{
+			id = 1010,
+			source_id = 632,
+			source_type = "xiaoxiaole_award_rate",
+			condition_id = 465,
+		},
+		[1011]=
+		{
+			id = 1011,
+			source_id = 632,
+			source_type = "xiyou_xiaoxiaole_award_rate",
+			condition_id = 466,
+		},
+		[1012]=
+		{
+			id = 1012,
+			source_id = 632,
+			source_type = "shuihu_xiaoxiaole_award_rate",
+			condition_id = 467,
+		},
+		[1013]=
+		{
+			id = 1013,
+			source_id = 632,
+			source_type = "xiaoxiaole_caishen_award_rate",
+			condition_id = 468,
+		},
 	},
 	condition=
 	{
@@ -34488,6 +34525,38 @@ return {
 			condition_id = 464,
 			condition_name = "bet_spend",
 			condition_value = 480000,
+			judge_type = 3,
+		},
+		[627]=
+		{
+			id = 627,
+			condition_id = 465,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
+		},
+		[628]=
+		{
+			id = 628,
+			condition_id = 466,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
+		},
+		[629]=
+		{
+			id = 629,
+			condition_id = 467,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
+		},
+		[630]=
+		{
+			id = 630,
+			condition_id = 468,
+			condition_name = "bet_spend",
+			condition_value = 240000,
 			judge_type = 3,
 		},
 	},
@@ -51191,6 +51260,86 @@ return {
 			award_id = 1245,
 			asset_type = "_common_rank_wylft_014_ldxfb_rank",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[2089]=
+		{
+			id = 2089,
+			award_id = 1246,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = {10,14},
+			get_weight = 1,
+		},
+		[2090]=
+		{
+			id = 2090,
+			award_id = 1247,
+			asset_type = "jing_bi",
+			asset_count = {10000,14000},
+			get_weight = 1,
+		},
+		[2091]=
+		{
+			id = 2091,
+			award_id = 1248,
+			asset_type = "shop_gold_sum",
+			asset_count = 35,
+			get_weight = 1,
+		},
+		[2092]=
+		{
+			id = 2092,
+			award_id = 1249,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = {55,65},
+			get_weight = 1,
+		},
+		[2093]=
+		{
+			id = 2093,
+			award_id = 1250,
+			asset_type = "jing_bi",
+			asset_count = {100000,140000},
+			get_weight = 1,
+		},
+		[2094]=
+		{
+			id = 2094,
+			award_id = 1251,
+			asset_type = "jing_bi",
+			asset_count = {200000,280000},
+			get_weight = 1,
+		},
+		[2095]=
+		{
+			id = 2095,
+			award_id = 1252,
+			asset_type = "shop_gold_sum",
+			asset_count = {420,540},
+			get_weight = 1,
+		},
+		[2096]=
+		{
+			id = 2096,
+			award_id = 1253,
+			asset_type = "jing_bi",
+			asset_count = {420000,540000},
+			get_weight = 1,
+		},
+		[2097]=
+		{
+			id = 2097,
+			award_id = 1254,
+			asset_type = "jing_bi",
+			asset_count = {900000,1020000},
+			get_weight = 1,
+		},
+		[2098]=
+		{
+			id = 2098,
+			award_id = 1255,
+			asset_type = "shop_gold_sum",
+			asset_count = {1000,1400},
 			get_weight = 1,
 		},
 	},
