@@ -13624,7 +13624,7 @@ return {
 			name = "欢乐豪礼",
 			own_type = "normal",
 			task_enum = "common",
-			process_id = 21899,
+			process_id = 21898,
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 1618848000,
@@ -22573,7 +22573,7 @@ return {
 		[950]=
 		{
 			id = 950,
-			process_id = 21899,
+			process_id = 21898,
 			source_id = 518,
 			process = {600,4200,15000,30200,199800},
 			awards = {1227,1230,1234,1237,1241},
