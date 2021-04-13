@@ -3801,7 +3801,7 @@ return {
 			id = 78,
 			source_id = 78,
 			source_type = "xxl_lucky_award",
-			condition_id = 0,
+			condition_id = 125,
 		},
 		[79]=
 		{
@@ -3892,7 +3892,7 @@ return {
 			id = 91,
 			source_id = 91,
 			source_type = "xxl_lucky_award",
-			condition_id = 0,
+			condition_id = 126,
 		},
 		[92]=
 		{
@@ -3983,7 +3983,7 @@ return {
 			id = 104,
 			source_id = 104,
 			source_type = "xxl_lucky_award",
-			condition_id = 0,
+			condition_id = 127,
 		},
 		[105]=
 		{
@@ -4074,7 +4074,7 @@ return {
 			id = 117,
 			source_id = 117,
 			source_type = "xxl_lucky_award",
-			condition_id = 0,
+			condition_id = 128,
 		},
 		[118]=
 		{
@@ -4165,7 +4165,7 @@ return {
 			id = 130,
 			source_id = 130,
 			source_type = "xxl_lucky_award",
-			condition_id = 0,
+			condition_id = 129,
 		},
 	},
 	condition=
@@ -8646,6 +8646,54 @@ return {
 		{
 			id = 560,
 			condition_id = 124,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
+			judge_type = 3,
+		},
+		[561]=
+		{
+			id = 561,
+			condition_id = 124,
+			condition_name = "bet_spend",
+			condition_value = 10240000,
+			judge_type = 3,
+		},
+		[562]=
+		{
+			id = 562,
+			condition_id = 125,
+			condition_name = "bet_spend",
+			condition_value = 480000,
+			judge_type = 3,
+		},
+		[563]=
+		{
+			id = 563,
+			condition_id = 126,
+			condition_name = "bet_spend",
+			condition_value = 960000,
+			judge_type = 3,
+		},
+		[564]=
+		{
+			id = 564,
+			condition_id = 127,
+			condition_name = "bet_spend",
+			condition_value = 1920000,
+			judge_type = 3,
+		},
+		[565]=
+		{
+			id = 565,
+			condition_id = 128,
+			condition_name = "bet_spend",
+			condition_value = 5120000,
+			judge_type = 3,
+		},
+		[566]=
+		{
+			id = 566,
+			condition_id = 129,
 			condition_name = "bet_spend",
 			condition_value = 10240000,
 			judge_type = 3,
