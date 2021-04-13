@@ -51185,5 +51185,13 @@ return {
 			asset_count = 1,
 			get_weight = 1,
 		},
+		[2088]=
+		{
+			id = 2088,
+			award_id = 1245,
+			asset_type = "_common_rank_wylft_014_ldxfb_rank",
+			asset_count = 1,
+			get_weight = 1,
+		},
 	},
 }
