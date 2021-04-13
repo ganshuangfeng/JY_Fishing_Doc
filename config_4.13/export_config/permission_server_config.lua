@@ -15454,7 +15454,7 @@ return {
 			var = "share_condition",
 			value = "byam_all",
 			judge = 5,
-			group = 2,
+			group = 1,
 			error_desc = "不展示给cjj",
 		},
 		[850]=
