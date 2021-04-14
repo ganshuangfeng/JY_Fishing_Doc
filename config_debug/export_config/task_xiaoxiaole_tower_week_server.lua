@@ -10866,7 +10866,7 @@ return {
 			id = 271,
 			award_id = 91,
 			asset_type = "shop_gold_sum",
-			asset_count = 500,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[272]=
@@ -11178,7 +11178,7 @@ return {
 			id = 310,
 			award_id = 104,
 			asset_type = "shop_gold_sum",
-			asset_count = 800,
+			asset_count = 600,
 			get_weight = 1,
 		},
 		[311]=
@@ -11490,7 +11490,7 @@ return {
 			id = 349,
 			award_id = 117,
 			asset_type = "shop_gold_sum",
-			asset_count = 3000,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[350]=
@@ -11754,7 +11754,7 @@ return {
 			id = 382,
 			award_id = 128,
 			asset_type = "shop_gold_sum",
-			asset_count = 5000,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[383]=
@@ -11778,7 +11778,7 @@ return {
 			id = 385,
 			award_id = 129,
 			asset_type = "shop_gold_sum",
-			asset_count = 5000,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[386]=
@@ -11802,7 +11802,7 @@ return {
 			id = 388,
 			award_id = 130,
 			asset_type = "shop_gold_sum",
-			asset_count = 8000,
+			asset_count = 3000,
 			get_weight = 1,
 		},
 		[389]=
