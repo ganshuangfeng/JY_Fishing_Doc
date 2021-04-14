@@ -327,7 +327,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "111#112#53#79#36;113;89;93;131;93#",
+			group_list = "111#112#53#79#36;113;89;136;131;#",
 		},
 		[2]=
 		{
@@ -488,7 +488,7 @@ return {
 		{
 			id = 1,
 			area = "all",
-			group_list = "40#74#110#130#93#",
+			group_list = "40#74#110#130#135#",
 		},
 	},
 	hqjb_config=
@@ -1316,6 +1316,20 @@ return {
 			parm = {"by3d_phb","enter"},
 			is_on_off = 1,
 			condi_key = "cpl_cjj",
+		},
+		[135]=
+		{
+			id = 135,
+			parm = {"act_027_jqshl",},
+			is_on_off = 1,
+			condi_key = "xrzx_newplayer",
+		},
+		[136]=
+		{
+			id = 136,
+			parm = {"act_027_jqshl",},
+			is_on_off = 1,
+			condi_key = "lxdh_025_notnew",
 		},
 	},
 }

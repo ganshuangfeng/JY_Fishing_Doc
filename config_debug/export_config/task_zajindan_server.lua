@@ -29647,41 +29647,55 @@ return {
 		[1003]=
 		{
 			id = 1003,
-			source_id = 629,
-			source_type = "use_fish_3d_bullet_item",
-			condition_id = 459,
+			source_id = 628,
+			source_type = "buyu_3d_spend_by_use_fish_prop",
+			condition_id = 0,
 		},
 		[1004]=
 		{
 			id = 1004,
-			source_id = 630,
-			source_type = "buy_gift",
-			condition_id = 460,
+			source_id = 628,
+			source_type = "buyu_spend_by_use_fish_prop",
+			condition_id = 0,
 		},
 		[1005]=
 		{
 			id = 1005,
-			source_id = 631,
-			source_type = "xiaoxiaole_award_rate",
-			condition_id = 461,
+			source_id = 629,
+			source_type = "use_fish_3d_bullet_item",
+			condition_id = 459,
 		},
 		[1006]=
 		{
 			id = 1006,
-			source_id = 631,
-			source_type = "xiyou_xiaoxiaole_award_rate",
-			condition_id = 462,
+			source_id = 630,
+			source_type = "buy_gift",
+			condition_id = 460,
 		},
 		[1007]=
 		{
 			id = 1007,
 			source_id = 631,
-			source_type = "shuihu_xiaoxiaole_award_rate",
-			condition_id = 463,
+			source_type = "xiaoxiaole_award_rate",
+			condition_id = 461,
 		},
 		[1008]=
 		{
 			id = 1008,
+			source_id = 631,
+			source_type = "xiyou_xiaoxiaole_award_rate",
+			condition_id = 462,
+		},
+		[1009]=
+		{
+			id = 1009,
+			source_id = 631,
+			source_type = "shuihu_xiaoxiaole_award_rate",
+			condition_id = 463,
+		},
+		[1010]=
+		{
+			id = 1010,
 			source_id = 631,
 			source_type = "xiaoxiaole_caishen_award_rate",
 			condition_id = 464,
