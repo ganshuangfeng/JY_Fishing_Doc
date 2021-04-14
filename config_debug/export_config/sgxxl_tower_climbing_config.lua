@@ -691,7 +691,7 @@ return {
 			text = "单局消除（24万及以上档次）",
 			bet_limit = 240000,
 			award_img = {"ty_icon_flq2",},
-			award_txt = {"x50",},
+			award_txt = {"x20",},
 			limit_num = {6,6,6,},
 		},
 		[64]=
@@ -702,7 +702,7 @@ return {
 			text = "单局消除（24万及以上档次）",
 			bet_limit = 240000,
 			award_img = {"ty_icon_flq2",},
-			award_txt = {"x50",},
+			award_txt = {"x20",},
 			limit_num = {6,6,6,},
 		},
 		[65]=
@@ -834,7 +834,7 @@ return {
 			text = "单局消除（48万及以上档次）",
 			bet_limit = 480000,
 			award_img = {"ty_icon_flq2",},
-			award_txt = {"x150",},
+			award_txt = {"x80",},
 			limit_num = {6,6,6,},
 		},
 		[77]=
@@ -845,7 +845,7 @@ return {
 			text = "单局消除（48万及以上档次）",
 			bet_limit = 480000,
 			award_img = {"ty_icon_flq2",},
-			award_txt = {"x150",},
+			award_txt = {"x80",},
 			limit_num = {6,6,6,},
 		},
 		[78]=
@@ -977,7 +977,7 @@ return {
 			text = "单局消除（96万及以上档次）",
 			bet_limit = 960000,
 			award_img = {"ty_icon_flq2",},
-			award_txt = {"x500",},
+			award_txt = {"x200",},
 			limit_num = {6,6,6,},
 		},
 		[90]=
@@ -988,7 +988,7 @@ return {
 			text = "单局消除（96万及以上档次）",
 			bet_limit = 960000,
 			award_img = {"ty_icon_flq2",},
-			award_txt = {"x500",},
+			award_txt = {"x200",},
 			limit_num = {6,6,6,},
 		},
 		[91]=
@@ -1120,7 +1120,7 @@ return {
 			text = "单局消除（192万及以上档次）",
 			bet_limit = 1920000,
 			award_img = {"ty_icon_flq2",},
-			award_txt = {"x800",},
+			award_txt = {"x500",},
 			limit_num = {9,9,9,},
 		},
 		[103]=
@@ -1131,7 +1131,7 @@ return {
 			text = "单局消除（192万及以上档次）",
 			bet_limit = 1920000,
 			award_img = {"ty_icon_flq2",},
-			award_txt = {"x800",},
+			award_txt = {"x500",},
 			limit_num = {9,9,9,},
 		},
 		[104]=
@@ -1263,7 +1263,7 @@ return {
 			text = "单局消除（512万及以上档次）",
 			bet_limit = 5120000,
 			award_img = {"ty_icon_flq3",},
-			award_txt = {"x5000",},
+			award_txt = {"x1800",},
 			limit_num = {9,9,9,},
 		},
 		[116]=
@@ -1274,7 +1274,7 @@ return {
 			text = "单局消除（512万及以上档次）",
 			bet_limit = 5120000,
 			award_img = {"ty_icon_flq3",},
-			award_txt = {"x5000",},
+			award_txt = {"x1800",},
 			limit_num = {9,9,9,},
 		},
 		[117]=
@@ -1285,7 +1285,7 @@ return {
 			text = "幸运时刻（512万及以上档次）",
 			bet_limit = 5120000,
 			award_img = {"ty_icon_flq3",},
-			award_txt = {"x5000",},
+			award_txt = {"x3000",},
 			limit_num = {-1,-1,-1,},
 		},
 		[118]=
@@ -1406,7 +1406,7 @@ return {
 			text = "单局消除（1024万及以上档次）",
 			bet_limit = 10240000,
 			award_img = {"ty_icon_flq3",},
-			award_txt = {"x10000",},
+			award_txt = {"x5000",},
 			limit_num = {9,9,9,},
 		},
 		[129]=
@@ -1417,7 +1417,7 @@ return {
 			text = "单局消除（1024万及以上档次）",
 			bet_limit = 10240000,
 			award_img = {"ty_icon_flq3",},
-			award_txt = {"x10000",},
+			award_txt = {"x5000",},
 			limit_num = {9,9,9,},
 		},
 		[130]=
@@ -1428,7 +1428,7 @@ return {
 			text = "幸运时刻（1024万及以上档次）",
 			bet_limit = 10240000,
 			award_img = {"ty_icon_flq3",},
-			award_txt = {"x10000",},
+			award_txt = {"x8000",},
 			limit_num = {-1,-1,-1,},
 		},
 	},
