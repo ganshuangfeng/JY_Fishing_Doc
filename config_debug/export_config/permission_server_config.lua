@@ -2006,6 +2006,12 @@ return {
 			name = "欢乐天天捕鱼CPL（小额用户、VIP1及以上）没有下载了玩棋牌游戏（是否有账号）",
 			condi = 344,
 		},
+		byam_type_plat=
+		{
+			key = "byam_type_plat",
+			name = "欢乐天天捕鱼CPL（小额用户、VIP1及以上）没有下载了玩棋牌游戏（是否有账号）",
+			condi = 435,
+		},
 		cjj_type_plat=
 		{
 			key = "cjj_type_plat",
@@ -17468,6 +17474,46 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
+		},
+		[1050]=
+		{
+			no = 1050,
+			id = 435,
+			var = "tag_type",
+			value = "tag_plat_own_cjj",
+			judge = 5,
+			group = 1,
+			error_desc = "在玩棋牌平台没有账号",
+		},
+		[1051]=
+		{
+			no = 1051,
+			id = 435,
+			var = "tag_type",
+			value = "tag_plat_own_byam",
+			judge = 2,
+			group = 1,
+			error_desc = "在鲸鱼斗地主有账号",
+		},
+		[1052]=
+		{
+			no = 1052,
+			id = 435,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
+		},
+		[1053]=
+		{
+			no = 1053,
+			id = 435,
+			var = "pay_sum",
+			value = 600,
+			judge = 3,
+			group = 1,
+			error_desc = "充值大于6元",
 		},
 	},
 	share_condition=
