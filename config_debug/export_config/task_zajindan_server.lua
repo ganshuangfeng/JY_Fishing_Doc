@@ -29578,117 +29578,110 @@ return {
 		{
 			id = 993,
 			source_id = 628,
-			source_type = "zajindan_caishen_model_spend",
+			source_type = "xiaoxiaole_shuihu_spend",
 			condition_id = 0,
 		},
 		[994]=
 		{
 			id = 994,
 			source_id = 628,
-			source_type = "xiaoxiaole_shuihu_spend",
+			source_type = "xiaoxiaole_xiyou_spend",
 			condition_id = 0,
 		},
 		[995]=
 		{
 			id = 995,
 			source_id = 628,
-			source_type = "xiaoxiaole_xiyou_spend",
+			source_type = "xiaoxiaole_caishen_spend",
 			condition_id = 0,
 		},
 		[996]=
 		{
 			id = 996,
 			source_id = 628,
-			source_type = "xiaoxiaole_caishen_spend",
+			source_type = "lianxianxiaoxiaole_spend",
 			condition_id = 0,
 		},
 		[997]=
 		{
 			id = 997,
 			source_id = 628,
-			source_type = "lianxianxiaoxiaole_spend",
+			source_type = "tantanle_spend",
 			condition_id = 0,
 		},
 		[998]=
 		{
 			id = 998,
 			source_id = 628,
-			source_type = "tantanle_spend",
+			source_type = "lwzb_game_spend",
 			condition_id = 0,
 		},
 		[999]=
 		{
 			id = 999,
 			source_id = 628,
-			source_type = "lwzb_game_spend",
+			source_type = "dmbj_spend",
 			condition_id = 0,
 		},
 		[1000]=
 		{
 			id = 1000,
 			source_id = 628,
-			source_type = "dmbj_spend",
+			source_type = "jykp_spend",
 			condition_id = 0,
 		},
 		[1001]=
 		{
 			id = 1001,
 			source_id = 628,
-			source_type = "jykp_spend",
+			source_type = "xiaoxiaole_spend",
 			condition_id = 0,
 		},
 		[1002]=
 		{
 			id = 1002,
 			source_id = 628,
-			source_type = "xiaoxiaole_spend",
+			source_type = "buyu_spend",
 			condition_id = 0,
 		},
 		[1003]=
 		{
 			id = 1003,
-			source_id = 628,
-			source_type = "buyu_spend",
-			condition_id = 0,
-		},
-		[1004]=
-		{
-			id = 1004,
 			source_id = 629,
 			source_type = "use_fish_3d_bullet_item",
 			condition_id = 459,
 		},
-		[1005]=
+		[1004]=
 		{
-			id = 1005,
+			id = 1004,
 			source_id = 630,
 			source_type = "buy_gift",
 			condition_id = 460,
+		},
+		[1005]=
+		{
+			id = 1005,
+			source_id = 631,
+			source_type = "xiaoxiaole_award_rate",
+			condition_id = 461,
 		},
 		[1006]=
 		{
 			id = 1006,
 			source_id = 631,
-			source_type = "xiaoxiaole_award_rate",
-			condition_id = 461,
+			source_type = "xiyou_xiaoxiaole_award_rate",
+			condition_id = 462,
 		},
 		[1007]=
 		{
 			id = 1007,
 			source_id = 631,
-			source_type = "xiyou_xiaoxiaole_award_rate",
-			condition_id = 462,
+			source_type = "shuihu_xiaoxiaole_award_rate",
+			condition_id = 463,
 		},
 		[1008]=
 		{
 			id = 1008,
-			source_id = 631,
-			source_type = "shuihu_xiaoxiaole_award_rate",
-			condition_id = 463,
-		},
-		[1009]=
-		{
-			id = 1009,
 			source_id = 631,
 			source_type = "xiaoxiaole_caishen_award_rate",
 			condition_id = 464,
