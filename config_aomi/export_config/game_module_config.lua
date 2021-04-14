@@ -3300,5 +3300,14 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[337]=
+		{
+			id = 337,
+			key = "act_027_jqshl_style/act_027_style_002",
+			desc = "欢乐豪礼",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
