@@ -7012,6 +7012,18 @@ return {
 			refresh_type = "now",
 			start_deal_time = 1619481600,
 		},
+		[400]=
+		{
+			id = 400,
+			enable = 1,
+			key = "actp_own_task_p_crary_rebate",
+			name = "疯狂返利（天天欢乐捕鱼和捕鱼奥秘官方渠道）",
+			condi = 437,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1619452800,
+		},
 	},
 	condi=
 	{
@@ -17544,6 +17556,16 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "VIP3及以上玩家",
+		},
+		[1054]=
+		{
+			no = 1054,
+			id = 437,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "天天欢乐捕鱼和捕鱼奥秘官方渠道",
 		},
 	},
 	share_condition=
