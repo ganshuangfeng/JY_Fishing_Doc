@@ -3100,8 +3100,8 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_012_dlphb",
-			desc = "掉落排行榜皮肤（彩球）",
+			key = "act_ty_sjb_style/act_013_dlphb",
+			desc = "掉落排行榜皮肤（铁锤）",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3109,8 +3109,8 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_014_caiqiu",
-			desc = "活动boss皮肤（彩球）",
+			key = "act_ty_by_drop_style/act_015_gongju ",
+			desc = "活动boss皮肤（铁锤）",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3118,7 +3118,7 @@ return {
 		[318]=
 		{
 			id = 318,
-			key = "act_ty_by_hhl_style/act_009_hhl",
+			key = "act_ty_by_hhl_style/act_010_hhl",
 			desc = "换好礼皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_013",
+			key = "sys_act_base_style/sys_act_base_weekly_014",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3217,7 +3217,7 @@ return {
 			key = "by_hbyts",
 			desc = "红包鱼提示",
 			lua = "BYHBYTSManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
@@ -3286,9 +3286,9 @@ return {
 			key = "sys_lwgp",
 			desc = "龙王贡品",
 			lua = "SYSLWGPManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[336]=
 		{

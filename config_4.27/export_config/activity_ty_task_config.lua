@@ -5,7 +5,7 @@ return {
 		{
 			index = 1,
 			key = "act_xyxfl",
-			icon = "ltfl_banner_2",
+			icon = "wyfl_bg_1",
 			name = "免费金币",
 			tges = 1,
 		},
@@ -13,7 +13,7 @@ return {
 		{
 			index = 2,
 			key = "act_xyxfl_cjj",
-			icon = "ltfl_banner_2",
+			icon = "wyfl_bg_1",
 			name = "免费金币_cjj",
 			tges = 2,
 		},
@@ -56,7 +56,7 @@ return {
 		{
 			tge_index = 1,
 			name = "免费金币",
-			on_off = 0,
+			on_off = 1,
 			is_show = 1,
 			order = 1,
 			task_index = {1,2,3,4,5,6,7,8,9,10},
@@ -65,7 +65,7 @@ return {
 		{
 			tge_index = 2,
 			name = "免费金币_cjj",
-			on_off = 0,
+			on_off = 1,
 			is_show = 1,
 			order = 1,
 			task_index = {11,12,13,14,15,16,17,18,19,20},
