@@ -2623,11 +2623,11 @@ return {
 		{
 			id = 268,
 			key = "act_027_jqshl",
-			desc = "金秋送豪礼",
+			desc = "充值消耗模板",
 			lua = "Act_027_JQSHLManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[269]=
 		{
