@@ -7,8 +7,8 @@ return {
 			bet_type = 1,
 			level0 = 0,
 			level1 = 20000,
-			level2 = 50000,
-			level3 = 200000,
+			level2 = 40000,
+			level3 = 80000,
 		},
 		[2]=
 		{
@@ -16,8 +16,8 @@ return {
 			bet_type = 2,
 			level0 = 0,
 			level1 = 20000,
-			level2 = 100000,
-			level3 = 400000,
+			level2 = 40000,
+			level3 = 80000,
 		},
 		[3]=
 		{
@@ -25,8 +25,8 @@ return {
 			bet_type = 3,
 			level0 = 0,
 			level1 = 20000,
-			level2 = 100000,
-			level3 = 400000,
+			level2 = 50000,
+			level3 = 100000,
 		},
 		[4]=
 		{
@@ -34,8 +34,8 @@ return {
 			bet_type = 4,
 			level0 = 0,
 			level1 = 20000,
-			level2 = 100000,
-			level3 = 400000,
+			level2 = 50000,
+			level3 = 100000,
 		},
 		[5]=
 		{
@@ -43,8 +43,8 @@ return {
 			bet_type = 5,
 			level0 = 0,
 			level1 = 20000,
-			level2 = 200000,
-			level3 = 800000,
+			level2 = 100000,
+			level3 = 200000,
 		},
 		[6]=
 		{
@@ -52,8 +52,8 @@ return {
 			bet_type = 6,
 			level0 = 0,
 			level1 = 20000,
-			level2 = 200000,
-			level3 = 800000,
+			level2 = 100000,
+			level3 = 200000,
 		},
 		[7]=
 		{
@@ -61,8 +61,8 @@ return {
 			bet_type = 7,
 			level0 = 0,
 			level1 = 20000,
-			level2 = 200000,
-			level3 = 800000,
+			level2 = 100000,
+			level3 = 400000,
 		},
 	},
 	kaijiang=
@@ -74,7 +74,7 @@ return {
 			weight = 70,
 			level = 1,
 			num = 1,
-			bet_weight = {20,20,20,20,10,5,5},
+			bet_weight = {10,10,10,10,10,10,10},
 		},
 		[2]=
 		{
