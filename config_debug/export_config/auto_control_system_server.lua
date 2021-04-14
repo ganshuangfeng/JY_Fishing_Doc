@@ -43,6 +43,12 @@ return {
 			game_type = "xxl_xiyou_award",
 			permission_model_id = 1,
 		},
+		[8]=
+		{
+			id = 8,
+			game_type = "xxl_sanguo_award",
+			permission_model_id = 1,
+		},
 	},
 	permission_model=
 	{
