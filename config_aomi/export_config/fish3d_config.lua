@@ -1995,9 +1995,9 @@ return {
 		{
 			line = 61,
 			id = 61,
-			prefab = "Fish3D091",
+			prefab = "Fish_Act",
 			icon = "act_ty_by_drop_8",
-			name = "金牛boss",
+			name = "活动boss",
 			name_image = "act_ty_by_drop_8",
 			reward_image = "act_ty_by_drop_9",
 			reward_level = {1,},

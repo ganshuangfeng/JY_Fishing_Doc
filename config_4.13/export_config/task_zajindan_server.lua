@@ -22527,7 +22527,7 @@ return {
 			id = 948,
 			process_id = 21896,
 			source_id = 631,
-			process = {10,40,50,100,300,300,400,800,1000,2000},
+			process = {1000,4000,5000,10000,30000,30000,40000,80000,100000,200000},
 			awards = {1215,1216,1217,1218,1219,1220,1221,1222,1223,1224},
 			get_award_type = "random",
 		},
@@ -34390,7 +34390,7 @@ return {
 			condition_id = 461,
 			condition_name = "bet_spend",
 			condition_value = 480000,
-			judge_type = 2,
+			judge_type = 3,
 		},
 		[624]=
 		{
@@ -34398,7 +34398,7 @@ return {
 			condition_id = 462,
 			condition_name = "bet_spend",
 			condition_value = 480000,
-			judge_type = 2,
+			judge_type = 3,
 		},
 		[625]=
 		{
@@ -34406,7 +34406,7 @@ return {
 			condition_id = 463,
 			condition_name = "bet_spend",
 			condition_value = 480000,
-			judge_type = 2,
+			judge_type = 3,
 		},
 		[626]=
 		{
@@ -34414,7 +34414,7 @@ return {
 			condition_id = 464,
 			condition_name = "bet_spend",
 			condition_value = 480000,
-			judge_type = 2,
+			judge_type = 3,
 		},
 	},
 	award_data=
