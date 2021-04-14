@@ -646,7 +646,7 @@ return {
 			id = 47,
 			enable = 1,
 			rank_type = "hlsyt_013_bsyl_rank",
-			name = "榜上有礼·",
+			name = "榜上有礼",
 			begin_time = 1618272000,
 			end_time = 1618847999,
 			data_deal_type = "nor_add",

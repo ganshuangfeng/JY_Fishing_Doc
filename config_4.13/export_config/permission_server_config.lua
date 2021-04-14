@@ -6946,6 +6946,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1618243200,
 		},
+		[396]=
+		{
+			id = 396,
+			enable = 1,
+			key = "actp_rank_leijixiaohao_rank",
+			name = "达人榜（cjj和捕鱼奥秘不开启）",
+			condi = 338,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 0,
+		},
 	},
 	condi=
 	{
