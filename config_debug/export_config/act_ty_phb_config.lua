@@ -65,7 +65,7 @@ return {
 			award = 60000,
 			limit = {1,1,},
 			need_num = 100000,
-			condition = "积分数达到10万",
+			condition = "福气数达到10万",
 		},
 		[9]=
 		{
@@ -73,7 +73,7 @@ return {
 			award = 15000,
 			limit = {2,2},
 			need_num = 60000,
-			condition = "积分数达到6万",
+			condition = "福气数达到6万",
 		},
 		[10]=
 		{
@@ -81,7 +81,7 @@ return {
 			award = 5000,
 			limit = {3,3,},
 			need_num = 30000,
-			condition = "积分数达到3万",
+			condition = "福气数达到3万",
 		},
 		[11]=
 		{
@@ -89,7 +89,7 @@ return {
 			award = 800,
 			limit = {4,6,},
 			need_num = 15000,
-			condition = "积分数达到1.5万",
+			condition = "福气数达到1.5万",
 		},
 		[12]=
 		{
@@ -97,7 +97,7 @@ return {
 			award = 800,
 			limit = {7,10,},
 			need_num = 10000,
-			condition = "积分数达到1万",
+			condition = "福气数达到1万",
 		},
 		[13]=
 		{
@@ -105,7 +105,7 @@ return {
 			award = 400,
 			limit = {11,15,},
 			need_num = 6000,
-			condition = "积分数达到6000",
+			condition = "福气数达到6000",
 		},
 		[14]=
 		{
@@ -113,7 +113,7 @@ return {
 			award = 200,
 			limit = {16,20,},
 			need_num = 3000,
-			condition = "积分数达到3000",
+			condition = "福气数达到3000",
 		},
 	},
 }
