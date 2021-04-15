@@ -1916,8 +1916,20 @@ return {
 		drt_cjj_little_game_discount=
 		{
 			key = "drt_cjj_little_game_discount",
-			name = "冲金鸡小游戏打折",
+			name = "冲金鸡游戏打折",
 			condi = 326,
+		},
+		drt_hlby_little_game_discount=
+		{
+			key = "drt_hlby_little_game_discount",
+			name = "欢乐捕鱼游戏打折",
+			condi = 436,
+		},
+		drt_byam_little_game_discount=
+		{
+			key = "drt_byam_little_game_discount",
+			name = "捕鱼奥秘游戏打折",
+			condi = 437,
 		},
 		xy_xxl_bet_1=
 		{
@@ -17514,6 +17526,26 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "充值大于6元",
+		},
+		[1054]=
+		{
+			no = 1054,
+			id = 436,
+			var = "share_condition",
+			value = "tthlby_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是欢乐捕鱼渠道",
+		},
+		[1055]=
+		{
+			no = 1055,
+			id = 437,
+			var = "share_condition",
+			value = "byam_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是捕鱼奥秘渠道",
 		},
 	},
 	share_condition=

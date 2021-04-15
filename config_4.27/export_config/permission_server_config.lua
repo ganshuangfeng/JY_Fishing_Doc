@@ -1919,6 +1919,18 @@ return {
 			name = "冲金鸡小游戏打折",
 			condi = 326,
 		},
+		drt_hlby_little_game_discount=
+		{
+			key = "drt_hlby_little_game_discount",
+			name = "欢乐捕鱼游戏打折",
+			condi = 438,
+		},
+		drt_byam_little_game_discount=
+		{
+			key = "drt_byam_little_game_discount",
+			name = "捕鱼奥秘游戏打折",
+			condi = 439,
+		},
 		xy_xxl_bet_1=
 		{
 			key = "xy_xxl_bet_1",
@@ -17566,6 +17578,26 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "天天欢乐捕鱼和捕鱼奥秘官方渠道",
+		},
+		[1055]=
+		{
+			no = 1055,
+			id = 438,
+			var = "share_condition",
+			value = "tthlby_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是欢乐捕鱼渠道",
+		},
+		[1056]=
+		{
+			no = 1056,
+			id = 439,
+			var = "share_condition",
+			value = "byam_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是捕鱼奥秘渠道",
 		},
 	},
 	share_condition=
