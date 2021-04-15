@@ -1,9 +1,8 @@
 return {
 	main=
 	{
-		[1]=
+		wylft_mslb=
 		{
-			id = 1,
 			act_type = "wylft_mslb",
 			act_lb_name = "秒杀礼包",
 			every_day_award_value = 300000,
