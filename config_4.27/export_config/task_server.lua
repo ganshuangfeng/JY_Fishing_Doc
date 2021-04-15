@@ -1367,7 +1367,7 @@ return {
 		[99]=
 		{
 			id = 99,
-			enable = 1,
+			enable = 0,
 			name = "三国消消乐收集战船",
 			own_type = "normal",
 			task_enum = "common",
@@ -1381,7 +1381,7 @@ return {
 		[100]=
 		{
 			id = 100,
-			enable = 1,
+			enable = 0,
 			name = "三国消消乐收集弓箭",
 			own_type = "normal",
 			task_enum = "common",
