@@ -1364,6 +1364,34 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
+		[99]=
+		{
+			id = 99,
+			enable = 1,
+			name = "三国消消乐收集战船",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 99,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[100]=
+		{
+			id = 100,
+			enable = 1,
+			name = "三国消消乐收集弓箭",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 100,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -2325,6 +2353,24 @@ return {
 			awards = 155,
 			get_award_type = "nor",
 		},
+		[99]=
+		{
+			id = 99,
+			process_id = 99,
+			source_id = 98,
+			process = {100,-1},
+			awards = 156,
+			get_award_type = "nor",
+		},
+		[100]=
+		{
+			id = 100,
+			process_id = 100,
+			source_id = 99,
+			process = {500,-1},
+			awards = 156,
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -3133,6 +3179,20 @@ return {
 			source_type = "charge_any",
 			condition_id = 36,
 		},
+		[116]=
+		{
+			id = 116,
+			source_id = 98,
+			source_type = "xiaoxiaole_sanguo_game_num",
+			condition_id = 37,
+		},
+		[117]=
+		{
+			id = 117,
+			source_id = 99,
+			source_type = "xiaoxiaole_sanguo_game_num",
+			condition_id = 38,
+		},
 	},
 	condition=
 	{
@@ -3670,6 +3730,22 @@ return {
 			condition_id = 36,
 			condition_name = "gift_id",
 			condition_value = {1,2,3,4,5,6,107,108,110,101,102,103,104,105,106,22,23,24,25,26,27,34,111,10330,85,86,87,88,89,109,10044,10045,90,10189,10490,10491,10493,10494,10495,10492},
+			judge_type = 2,
+		},
+		[68]=
+		{
+			id = 68,
+			condition_id = 37,
+			condition_name = "is_free_game",
+			condition_value = 1,
+			judge_type = 2,
+		},
+		[69]=
+		{
+			id = 69,
+			condition_id = 38,
+			condition_name = "is_free_game",
+			condition_value = 2,
 			judge_type = 2,
 		},
 	},
@@ -5049,6 +5125,14 @@ return {
 			award_id = 155,
 			asset_type = "shop_gold_sum",
 			asset_count = 128,
+			get_weight = 1,
+		},
+		[173]=
+		{
+			id = 173,
+			award_id = 156,
+			asset_type = "shop_gold_sum",
+			asset_count = 10,
 			get_weight = 1,
 		},
 	},
