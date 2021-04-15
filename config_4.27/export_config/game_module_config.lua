@@ -3309,5 +3309,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[338]=
+		{
+			id = 338,
+			key = "act_040_mslb",
+			desc = "秒杀礼包",
+			lua = "Act_040_MSLBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
