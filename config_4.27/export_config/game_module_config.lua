@@ -3319,5 +3319,14 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[339]=
+		{
+			id = 339,
+			key = "act_ty_zp1_style/act_ty_zp1_002",
+			desc = "通用转盘皮肤",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
