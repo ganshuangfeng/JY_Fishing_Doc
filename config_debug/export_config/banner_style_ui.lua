@@ -1029,5 +1029,16 @@ return {
 			srartTime = 1612828800,
 			endTime = 1613404799,
 		},
+		[91]=
+		{
+			id = 91,
+			bannerID = 91,
+			isOnOff = 1,
+			order = -2000,
+			gotoUI = {"act_cjj_by_byam_guide","panel"},
+			model = "LoginUp",
+			srartTime = -1,
+			endTime = -1,
+		},
 	},
 }
