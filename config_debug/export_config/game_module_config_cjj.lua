@@ -3249,5 +3249,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[332]=
+		{
+			id = 332,
+			key = "act_cjj_by_byam_guide",
+			desc = "冲金鸡用户转入捕鱼奥秘",
+			lua = "ActCJJBYBYAMManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

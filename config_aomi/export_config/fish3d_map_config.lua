@@ -783,5 +783,19 @@ return {
 			prefab = "FishNew040",
 			tips = "沉睡于海底的的王者。当它苏醒时，熔岩也将为它沸腾。",
 		},
+		[56]=
+		{
+			line = 56,
+			order = 56,
+			tag = 3,
+			icon = "by_iocn_hfy",
+			name = "话费鱼",
+			game_id = {2,3,4,5,},
+			scale = 4,
+			rotation = {0,0,0},
+			rate = "50-100倍",
+			prefab = "Fish3D089",
+			tips = "背负话费的特殊鱼类，击杀后有概率获得话费碎片",
+		},
 	},
 }
