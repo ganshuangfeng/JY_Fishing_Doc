@@ -3243,15 +3243,6 @@ return {
 		[331]=
 		{
 			id = 331,
-			key = "act_027_jqshl_style/act_027_style_002",
-			desc = "欢乐豪礼",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[332]=
-		{
-			id = 332,
 			key = "act_040_mslb",
 			desc = "秒杀礼包",
 			lua = "Act_040_MSLBManager",
@@ -3259,9 +3250,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[333]=
+		[332]=
 		{
-			id = 333,
+			id = 332,
 			key = "act_ty_zp1_style/act_ty_zp1_002",
 			desc = "通用转盘皮肤",
 			is_on_off = 1,
