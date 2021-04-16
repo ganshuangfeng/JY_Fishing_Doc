@@ -300,19 +300,8 @@ return {
 			cz_task_id = 98,
 			taskid = 97,
 			sta_time = 1618876800,
-			condiy_key = "platform_limit_notcjj_show",
+			condiy_key = "actp_own_task_p_crary_rebate",
 			btn_gotoui = "game_Fishing3DHall",
-		},
-		[2]=
-		{
-			line = 2,
-			cz_permiss = "actp_own_task_p_crary_rebate",
-			ljyj_permiss = "actp_own_task_p_crary_rebate",
-			cz_task_id = 98,
-			taskid = 97,
-			sta_time = 1618876800,
-			condiy_key = "platform_limit_cjj_show",
-			btn_gotoui = "game_MiniGame",
 		},
 	},
 	help_Info=
