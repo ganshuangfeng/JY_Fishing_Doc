@@ -12,8 +12,8 @@ return {
 			enter_min = 10000,
 			enter_max = 5000000,
 			is_on = 1,
-			recommend_min = 20001,
-			recommend_max = 499999,
+			recommend_min = 0,
+			recommend_max = 999999,
 		},
 		[2]=
 		{
@@ -26,8 +26,8 @@ return {
 			enter_min = 100000,
 			enter_max = 200000000,
 			is_on = 1,
-			recommend_min = 500000,
-			recommend_max = 9999999,
+			recommend_min = 1000000,
+			recommend_max = 5999999,
 		},
 		[3]=
 		{
@@ -39,7 +39,7 @@ return {
 			order = 3,
 			enter_min = 1000000,
 			is_on = 1,
-			recommend_min = 10000000,
+			recommend_min = 6000000,
 		},
 		[4]=
 		{
@@ -52,7 +52,7 @@ return {
 			enter_max = 100000,
 			is_on = 1,
 			recommend_min = 0,
-			recommend_max = 20000,
+			recommend_max = 0,
 		},
 	},
 }

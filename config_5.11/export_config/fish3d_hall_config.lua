@@ -25,7 +25,6 @@ return {
 			game_type = "game_Fishing",
 			lvevl = 1,
 			order = 2,
-			enter_min = 5000,
 			enter_max = 500000,
 			is_on = 1,
 			recommend_min = 0,
