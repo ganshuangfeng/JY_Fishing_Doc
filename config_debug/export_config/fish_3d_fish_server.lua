@@ -5610,7 +5610,7 @@ return {
 			acti_type = 9,
 			num = {"prop_jinglongbi",9,0.01,},
 			show = 0,
-			enter_bag = 0,
+			enter_bag = 1,
 			value = 10,
 		},
 	},
