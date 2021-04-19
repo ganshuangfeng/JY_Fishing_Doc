@@ -6,7 +6,7 @@ return {
 			id = 1,
 			name = "鱼骨",
 			goods_icon = "jp_icon_yg",
-			award = {0,20000,40000, 800000},
+			award = {0,20000,40000, 80000},
 			row = 1,
 		},
 		[2]=
@@ -14,7 +14,7 @@ return {
 			id = 2,
 			name = "贝壳",
 			goods_icon = "jp_icon_bk",
-			award = {0,20000,40000, 800000},
+			award = {0,20000,40000, 80000},
 			row = 1,
 		},
 		[3]=
@@ -22,7 +22,7 @@ return {
 			id = 3,
 			name = "海螺",
 			goods_icon = "jp_icon_hl",
-			award = {0,20000,50000, 1000000},
+			award = {0,20000,50000, 100000},
 			row = 1,
 		},
 		[4]=
@@ -30,7 +30,7 @@ return {
 			id = 4,
 			name = "海星",
 			goods_icon = "jp_icon_hx",
-			award = {0,20000,50000, 1000000},
+			award = {0,20000,50000, 100000},
 			row = 1,
 		},
 		[5]=
@@ -38,7 +38,7 @@ return {
 			id = 5,
 			name = "龟壳",
 			goods_icon = "jp_icon_jgk",
-			award = {0,20000,100000, 2000000},
+			award = {0,20000,100000, 200000},
 			row = 2,
 		},
 		[6]=
@@ -46,7 +46,7 @@ return {
 			id = 6,
 			name = "珊瑚",
 			goods_icon = "jp_icon_sh",
-			award = {0,20000,100000, 2000000},
+			award = {0,20000,100000, 200000},
 			row = 2,
 		},
 		[7]=
@@ -54,7 +54,7 @@ return {
 			id = 7,
 			name = "珍珠",
 			goods_icon = "jp_icon_zz",
-			award = {0,20000,100000, 4000000},
+			award = {0,20000,100000, 400000},
 			row = 2,
 		},
 	},
