@@ -3109,7 +3109,7 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_015_gongju ",
+			key = "act_ty_by_drop_style/act_015_gongju",
 			desc = "活动boss皮肤（铁锤）",
 			is_on_off = 1,
 			enable = 1,
