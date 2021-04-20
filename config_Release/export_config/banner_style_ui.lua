@@ -836,12 +836,12 @@ return {
 		{
 			id = 74,
 			bannerID = 74,
-			isOnOff = 0,
+			isOnOff = 1,
 			order = 100,
 			gotoUI = {"act_027_jqshl","panel"},
 			model = "LoginUp",
-			srartTime = 1606780800,
-			endTime = 1607356799,
+			srartTime = 1618876800,
+			endTime = 1619452799,
 		},
 		[75]=
 		{
@@ -1028,6 +1028,17 @@ return {
 			model = "LoginUp",
 			srartTime = 1612828800,
 			endTime = 1613404799,
+		},
+		[91]=
+		{
+			id = 91,
+			bannerID = 91,
+			isOnOff = 1,
+			order = -2000,
+			gotoUI = {"act_cjj_by_byam_guide","panel"},
+			model = "LoginUp",
+			srartTime = -1,
+			endTime = -1,
 		},
 	},
 }

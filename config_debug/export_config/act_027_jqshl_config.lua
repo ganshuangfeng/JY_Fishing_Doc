@@ -6,180 +6,288 @@ return {
 			index = 1,
 			task_level = 1,
 			type = 0,
-			task_name = "累计消耗10万",
+			task_name = "累计赢金5万",
 			image = "ty_icon_jb_6y",
-			text = "500金币",
+			text = "1000金币",
 		},
 		[2]=
 		{
 			index = 2,
 			task_level = 2,
 			type = 0,
-			task_name = "累计消耗30万",
+			task_name = "累计赢金35万",
 			image = "ty_icon_jb_15y",
-			text = "1000金币",
+			text = "30000金币",
 		},
 		[3]=
 		{
 			index = 3,
-			task_level = 1,
-			type = 1,
-			task_name = "累计充值6元",
-			image = "ty_icon_flq2",
-			text = "30福利券",
+			task_level = 3,
+			type = 0,
+			task_name = "累计赢金70万",
+			image = "ty_icon_jb_15y",
+			text = "50000金币",
 		},
 		[4]=
 		{
 			index = 4,
-			task_level = 3,
+			task_level = 4,
 			type = 0,
-			task_name = "累计消耗60万",
-			image = "ty_icon_jb_15y",
-			text = "1500金币",
+			task_name = "累计赢金120万",
+			image = "ty_icon_flq1",
+			text = "10福利券",
 		},
 		[5]=
 		{
 			index = 5,
-			task_level = 4,
+			task_level = 5,
 			type = 0,
-			task_name = "累计消耗100万",
+			task_name = "累计赢金200万",
 			image = "ty_icon_flq1",
-			text = "2福利券",
+			text = "20福利券",
 		},
 		[6]=
 		{
 			index = 6,
-			task_level = 2,
+			task_level = 1,
 			type = 1,
-			task_name = "累计充值48元",
-			image = "ty_icon_flq3",
-			text = "180福利券",
+			task_name = "累计充值6元",
+			image = "ty_icon_flq2",
+			text = "128福利券",
 		},
 		[7]=
 		{
 			index = 7,
-			task_level = 5,
+			task_level = 6,
 			type = 0,
-			task_name = "累计消耗150万",
+			task_name = "累计赢金400万",
 			image = "ty_icon_flq2",
-			text = "3福利券",
+			text = "130福利券",
 		},
 		[8]=
 		{
 			index = 8,
-			task_level = 6,
+			task_level = 7,
 			type = 0,
-			task_name = "累计消耗300万",
+			task_name = "累计赢金800万",
 			image = "ty_icon_flq2",
-			text = "7福利券",
+			text = "170福利券",
 		},
 		[9]=
 		{
 			index = 9,
-			task_level = 7,
+			task_level = 8,
 			type = 0,
-			task_name = "累计消耗600万",
-			image = "ty_icon_flq3",
-			text = "15福利券",
+			task_name = "累计赢金1500万",
+			image = "ty_icon_flq2",
+			text = "200福利券",
 		},
 		[10]=
 		{
 			index = 10,
-			task_level = 3,
-			type = 1,
-			task_name = "累计充值198元",
-			image = "ty_icon_flq3",
-			text = "700福利券",
+			task_level = 9,
+			type = 0,
+			task_name = "累计赢金2500万",
+			image = "ty_icon_flq2",
+			text = "230福利券",
 		},
 		[11]=
 		{
 			index = 11,
-			task_level = 8,
+			task_level = 10,
 			type = 0,
-			task_name = "累计消耗1200万",
-			image = "ty_icon_flq3",
-			text = "30福利券",
+			task_name = "累计赢金3500万",
+			image = "ty_icon_flq2",
+			text = "270福利券",
 		},
 		[12]=
 		{
 			index = 12,
-			task_level = 9,
+			task_level = 11,
 			type = 0,
-			task_name = "累计消耗2000万",
-			image = "ty_icon_flq3",
-			text = "40福利券",
+			task_name = "累计赢金6000万",
+			image = "ty_icon_flq2",
+			text = "300福利券",
 		},
 		[13]=
 		{
 			index = 13,
-			task_level = 4,
-			type = 1,
-			task_name = "累计充值500元",
-			image = "ty_icon_flq3",
-			text = "1500福利券",
+			task_level = 12,
+			type = 0,
+			task_name = "累计赢金1亿",
+			image = "ty_icon_flq2",
+			text = "330福利券",
 		},
 		[14]=
 		{
 			index = 14,
-			task_level = 10,
+			task_level = 13,
 			type = 0,
-			task_name = "累计消耗4000万",
-			image = "ty_icon_flq3",
-			text = "100福利券",
+			task_name = "累计赢金2亿",
+			image = "ty_icon_flq2",
+			text = "500福利券",
 		},
 		[15]=
 		{
 			index = 15,
-			task_level = 11,
+			task_level = 14,
 			type = 0,
-			task_name = "累计消耗8000万",
-			image = "ty_icon_flq4",
-			text = "200福利券",
+			task_name = "累计赢金4亿",
+			image = "ty_icon_flq2",
+			text = "670福利券",
 		},
 		[16]=
 		{
 			index = 16,
-			task_level = 12,
+			task_level = 15,
 			type = 0,
-			task_name = "累计消耗1.5亿",
-			image = "ty_icon_flq4",
-			text = "350福利券",
+			task_name = "累计赢金6.5亿",
+			image = "ty_icon_flq3",
+			text = "1100福利券",
 		},
 		[17]=
 		{
 			index = 17,
-			task_level = 5,
-			type = 1,
-			task_name = "累计充值2498元",
-			image = "ty_icon_flq4",
-			text = "10000福利券",
+			task_level = 16,
+			type = 0,
+			task_name = "累计赢金10亿",
+			image = "ty_icon_flq3",
+			text = "1400福利券",
 		},
 		[18]=
 		{
 			index = 18,
-			task_level = 13,
+			task_level = 17,
 			type = 0,
-			task_name = "累计消耗5亿",
-			image = "ty_icon_flq4",
-			text = "1750福利券",
+			task_name = "累计赢金15亿",
+			image = "ty_icon_flq3",
+			text = "1600福利券",
 		},
 		[19]=
 		{
 			index = 19,
-			task_level = 14,
+			task_level = 18,
 			type = 0,
-			task_name = "累计消耗10亿",
-			image = "ty_icon_flq5",
-			text = "2500福利券",
+			task_name = "累计赢金25亿",
+			image = "ty_icon_flq3",
+			text = "2200福利券",
 		},
 		[20]=
 		{
 			index = 20,
-			task_level = 15,
+			task_level = 19,
 			type = 0,
-			task_name = "累计消耗30亿",
+			task_name = "累计赢金40亿",
+			image = "ty_icon_flq3",
+			text = "3300福利券",
+		},
+		[21]=
+		{
+			index = 21,
+			task_level = 20,
+			type = 0,
+			task_name = "累计赢金65亿",
+			image = "ty_icon_flq4",
+			text = "5000福利券",
+		},
+		[22]=
+		{
+			index = 22,
+			task_level = 21,
+			type = 0,
+			task_name = "累计赢金90亿",
+			image = "ty_icon_flq4",
+			text = "8000福利券",
+		},
+		[23]=
+		{
+			index = 23,
+			task_level = 22,
+			type = 0,
+			task_name = "累计赢金150亿",
+			image = "ty_icon_flq4",
+			text = "12000福利券",
+		},
+		[24]=
+		{
+			index = 24,
+			task_level = 23,
+			type = 0,
+			task_name = "累计赢金200亿",
+			image = "ty_icon_flq4",
+			text = "12000福利券",
+		},
+		[25]=
+		{
+			index = 25,
+			task_level = 24,
+			type = 0,
+			task_name = "累计赢金350亿",
 			image = "ty_icon_flq5",
-			text = "10000福利券",
+			text = "42000福利券",
+		},
+		[26]=
+		{
+			index = 26,
+			task_level = 25,
+			type = 0,
+			task_name = "累计赢金500亿",
+			image = "ty_icon_flq5",
+			text = "62000福利券",
+		},
+		[27]=
+		{
+			index = 27,
+			task_level = 26,
+			type = 0,
+			task_name = "累计赢金700亿",
+			image = "ty_icon_flq5",
+			text = "120000福利券",
+		},
+		[28]=
+		{
+			index = 28,
+			task_level = 27,
+			type = 0,
+			task_name = "累计赢金1000亿",
+			image = "ty_icon_flq5",
+			text = "200000福利券",
+		},
+		[29]=
+		{
+			index = 29,
+			task_level = 28,
+			type = 0,
+			task_name = "累计赢金1500亿",
+			image = "ty_icon_flq5",
+			text = "350000福利券",
+		},
+		[30]=
+		{
+			index = 30,
+			task_level = 29,
+			type = 0,
+			task_name = "累计赢金2000亿",
+			image = "ty_icon_flq5",
+			text = "500000福利券",
+		},
+		[31]=
+		{
+			index = 31,
+			task_level = 30,
+			type = 0,
+			task_name = "累计赢金3000亿",
+			image = "ty_icon_flq5",
+			text = "650000福利券",
+		},
+		[32]=
+		{
+			index = 32,
+			task_level = 31,
+			type = 0,
+			task_name = "累计赢金3500亿",
+			image = "ty_icon_flq5",
+			text = "800000福利券",
 		},
 	},
 	other_data=
@@ -187,24 +295,13 @@ return {
 		[1]=
 		{
 			line = 1,
-			cz_task_id = 1000540,
-			taskid = 1000539,
-			end_time = 1619452799,
+			cz_permiss = "actp_own_task_p_crary_rebate",
+			ljyj_permiss = "actp_own_task_p_crary_rebate",
+			cz_task_id = 98,
+			taskid = 97,
 			sta_time = 1618876800,
-			cur_path = "act_027_style_002",
-			condiy_key = "platform_limit_notcjj_show",
+			condiy_key = "actp_own_task_p_crary_rebate",
 			btn_gotoui = "game_Fishing3DHall",
-		},
-		[2]=
-		{
-			line = 2,
-			cz_task_id = 1000540,
-			taskid = 1000539,
-			end_time = 1619452799,
-			sta_time = 1618876800,
-			cur_path = "act_027_style_002",
-			condiy_key = "platform_limit_cjj_show",
-			btn_gotoui = "game_MiniGame",
 		},
 	},
 	help_Info=
@@ -212,12 +309,12 @@ return {
 		[1]=
 		{
 			line = 1,
-			content = "1.活动时间：4月20日8:00-4月26日23:59:59。",
+			content = "1.每20日为一个任务周期，完成周期内所有任务总共可获得超过278万福利券。",
 		},
 		[2]=
 		{
 			line = 2,
-			content = "2.所有任务奖励必须先领取前一个任务的奖励后才能领取。",
+			content = "2.累计赢金范围包括所有游戏，捕鱼类游戏赢金按50%计算，苹果大战只计算纯赢。",
 		},
 		[3]=
 		{
@@ -227,17 +324,7 @@ return {
 		[4]=
 		{
 			line = 4,
-			content = "4.累计消耗只统计游戏消耗，不包括任务或场景刷新产生的消耗。",
-		},
-		[5]=
-		{
-			line = 5,
-			content = "5.苹果大战的数据不计入活动统计。",
-		},
-		[6]=
-		{
-			line = 6,
-			content = "6.每日0点重置所有任务，未领取的奖励视为自动放弃",
+			content = "4.每个任务周期结束后重置所有任务，请及时领取所有奖励。",
 		},
 	},
 }

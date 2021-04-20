@@ -1916,8 +1916,20 @@ return {
 		drt_cjj_little_game_discount=
 		{
 			key = "drt_cjj_little_game_discount",
-			name = "冲金鸡小游戏打折",
+			name = "冲金鸡游戏打折",
 			condi = 326,
+		},
+		drt_hlby_little_game_discount=
+		{
+			key = "drt_hlby_little_game_discount",
+			name = "欢乐捕鱼游戏打折",
+			condi = 436,
+		},
+		drt_byam_little_game_discount=
+		{
+			key = "drt_byam_little_game_discount",
+			name = "捕鱼奥秘游戏打折",
+			condi = 437,
 		},
 		xy_xxl_bet_1=
 		{
@@ -2005,6 +2017,12 @@ return {
 			key = "hlby_type_plat",
 			name = "欢乐天天捕鱼CPL（小额用户、VIP1及以上）没有下载了玩棋牌游戏（是否有账号）",
 			condi = 344,
+		},
+		byam_type_plat=
+		{
+			key = "byam_type_plat",
+			name = "欢乐天天捕鱼CPL（小额用户、VIP1及以上）没有下载了玩棋牌游戏（是否有账号）",
+			condi = 435,
 		},
 		cjj_type_plat=
 		{
@@ -2208,6 +2226,18 @@ return {
 			key = "lwgp_can_show_player",
 			name = "龙王贡品广告图显示权限（天天欢乐捕鱼平台）",
 			condi = 432,
+		},
+		platform_limit_cjj_show=
+		{
+			key = "platform_limit_cjj_show",
+			name = "显示权限限制（冲金鸡平台显示）",
+			condi = 433,
+		},
+		platform_limit_notcjj_show=
+		{
+			key = "platform_limit_notcjj_show",
+			name = "显示权限限制（非冲金鸡平台显示）",
+			condi = 434,
 		},
 	},
 	act_permission=
@@ -17405,7 +17435,7 @@ return {
 			value = "cjj_all",
 			judge = 2,
 			group = 1,
-			error_desc = "不是冲金鸡玩家",
+			error_desc = "是冲金鸡玩家",
 		},
 		[1045]=
 		{
@@ -17425,7 +17455,7 @@ return {
 			value = "cjj_all",
 			judge = 2,
 			group = 1,
-			error_desc = "不是冲金鸡玩家",
+			error_desc = "是冲金鸡玩家",
 		},
 		[1047]=
 		{
@@ -17436,6 +17466,86 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是天天欢乐捕鱼平台玩家",
+		},
+		[1048]=
+		{
+			no = 1048,
+			id = 433,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是冲金鸡玩家",
+		},
+		[1049]=
+		{
+			no = 1049,
+			id = 434,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1050]=
+		{
+			no = 1050,
+			id = 435,
+			var = "tag_type",
+			value = "tag_plat_own_cjj",
+			judge = 5,
+			group = 1,
+			error_desc = "在玩棋牌平台没有账号",
+		},
+		[1051]=
+		{
+			no = 1051,
+			id = 435,
+			var = "tag_type",
+			value = "tag_plat_own_byam",
+			judge = 2,
+			group = 1,
+			error_desc = "在鲸鱼斗地主有账号",
+		},
+		[1052]=
+		{
+			no = 1052,
+			id = 435,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
+		},
+		[1053]=
+		{
+			no = 1053,
+			id = 435,
+			var = "pay_sum",
+			value = 600,
+			judge = 3,
+			group = 1,
+			error_desc = "充值大于6元",
+		},
+		[1054]=
+		{
+			no = 1054,
+			id = 436,
+			var = "share_condition",
+			value = "tthlby_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是欢乐捕鱼渠道",
+		},
+		[1055]=
+		{
+			no = 1055,
+			id = 437,
+			var = "share_condition",
+			value = "byam_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是捕鱼奥秘渠道",
 		},
 	},
 	share_condition=
@@ -17553,7 +17663,7 @@ return {
 			id = 13,
 			name = "byam_all",
 			var = "market_channel",
-			value = {"byam","xiaomi_byam","yyb_byam","byam_xianwan","byam_pceggs","byam_aibianxian","byam_juxiang",},
+			value = {"byam","xiaomi_byam","yyb_byam","byam_xianwan",},
 			judge = 2,
 			group = 1,
 		},

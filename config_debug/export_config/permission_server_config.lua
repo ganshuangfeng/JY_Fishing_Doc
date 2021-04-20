@@ -1916,20 +1916,20 @@ return {
 		drt_cjj_little_game_discount=
 		{
 			key = "drt_cjj_little_game_discount",
-			name = "冲金鸡游戏打折",
+			name = "冲金鸡小游戏打折",
 			condi = 326,
 		},
 		drt_hlby_little_game_discount=
 		{
 			key = "drt_hlby_little_game_discount",
 			name = "欢乐捕鱼游戏打折",
-			condi = 436,
+			condi = 438,
 		},
 		drt_byam_little_game_discount=
 		{
 			key = "drt_byam_little_game_discount",
 			name = "捕鱼奥秘游戏打折",
-			condi = 437,
+			condi = 439,
 		},
 		xy_xxl_bet_1=
 		{
@@ -2017,12 +2017,6 @@ return {
 			key = "hlby_type_plat",
 			name = "欢乐天天捕鱼CPL（小额用户、VIP1及以上）没有下载了玩棋牌游戏（是否有账号）",
 			condi = 344,
-		},
-		byam_type_plat=
-		{
-			key = "byam_type_plat",
-			name = "欢乐天天捕鱼CPL（小额用户、VIP1及以上）没有下载了玩棋牌游戏（是否有账号）",
-			condi = 435,
 		},
 		cjj_type_plat=
 		{
@@ -6686,8 +6680,8 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_ltqf_012_fqdr_rank",
-			name = "福气达人--非cjj",
+			key = "actp_rank_wylft_014_ldxfb_rank",
+			name = "劳动先锋榜--非cjj",
 			condi = 393,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -6993,6 +6987,54 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 0,
+		},
+		[397]=
+		{
+			id = 397,
+			enable = 1,
+			key = "actp_own_task_p_xxl_rate_add",
+			name = "消消乐倍数和任务领奖类型活动权限（冲金鸡）",
+			condi = 427,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1619452800,
+		},
+		[398]=
+		{
+			id = 398,
+			enable = 1,
+			key = "actp_prop_exchange_nor_v4",
+			name = "道具兑换（VIP4，非冲金鸡）",
+			condi = 429,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1619481600,
+		},
+		[399]=
+		{
+			id = 399,
+			enable = 1,
+			key = "actp_prop_exchange_nor_v3",
+			name = "道具兑换（VIP3，非冲金鸡）",
+			condi = 428,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1619481600,
+		},
+		[400]=
+		{
+			id = 400,
+			enable = 1,
+			key = "actp_own_task_p_crary_rebate",
+			name = "疯狂返利（天天欢乐捕鱼和捕鱼奥秘官方渠道）",
+			condi = 437,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1619452800,
 		},
 	},
 	condi=
@@ -17383,9 +17425,9 @@ return {
 			id = 428,
 			var = "vip_level",
 			value = 3,
-			judge = 4,
+			judge = 3,
 			group = 1,
-			error_desc = "VIP3及以下玩家",
+			error_desc = "VIP3及以上玩家",
 		},
 		[1040]=
 		{
@@ -17491,56 +17533,66 @@ return {
 		{
 			no = 1050,
 			id = 435,
-			var = "tag_type",
-			value = "tag_plat_own_cjj",
+			var = "share_condition",
+			value = "cjj_all",
 			judge = 5,
 			group = 1,
-			error_desc = "在玩棋牌平台没有账号",
+			error_desc = "不是冲金鸡玩家",
 		},
 		[1051]=
 		{
 			no = 1051,
 			id = 435,
-			var = "tag_type",
-			value = "tag_plat_own_byam",
-			judge = 2,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
 			group = 1,
-			error_desc = "在鲸鱼斗地主有账号",
+			error_desc = "VIP4及以上玩家",
 		},
 		[1052]=
 		{
 			no = 1052,
-			id = 435,
+			id = 436,
 			var = "share_condition",
-			value = "3dby_cpl",
-			judge = 2,
+			value = "cjj_all",
+			judge = 5,
 			group = 1,
-			error_desc = "是鲸鱼斗地主渠道玩家才可游戏",
+			error_desc = "不是冲金鸡玩家",
 		},
 		[1053]=
 		{
 			no = 1053,
-			id = 435,
-			var = "pay_sum",
-			value = 600,
+			id = 436,
+			var = "vip_level",
+			value = 3,
 			judge = 3,
 			group = 1,
-			error_desc = "充值大于6元",
+			error_desc = "VIP3及以上玩家",
 		},
 		[1054]=
 		{
 			no = 1054,
-			id = 436,
+			id = 437,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "天天欢乐捕鱼和捕鱼奥秘官方渠道",
+		},
+		[1055]=
+		{
+			no = 1055,
+			id = 438,
 			var = "share_condition",
 			value = "tthlby_all",
 			judge = 2,
 			group = 1,
 			error_desc = "是欢乐捕鱼渠道",
 		},
-		[1055]=
+		[1056]=
 		{
-			no = 1055,
-			id = 437,
+			no = 1056,
+			id = 439,
 			var = "share_condition",
 			value = "byam_all",
 			judge = 2,

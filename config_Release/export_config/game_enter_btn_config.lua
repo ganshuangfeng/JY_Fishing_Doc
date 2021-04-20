@@ -38,7 +38,7 @@ return {
 		{
 			id = 1,
 			area = "left_down",
-			group_list = "11#",
+			group_list = "11;93#",
 		},
 		[2]=
 		{
@@ -70,7 +70,7 @@ return {
 		{
 			id = 1,
 			area = "left_down",
-			group_list = "11#",
+			group_list = "11;93#",
 		},
 		[2]=
 		{
@@ -101,7 +101,7 @@ return {
 		{
 			id = 1,
 			area = "left_down",
-			group_list = "128#11#",
+			group_list = "128#11;93#",
 		},
 		[2]=
 		{
@@ -133,7 +133,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "101#11#",
+			group_list = "101#11;93#",
 		},
 	},
 	fishing_game=
@@ -142,7 +142,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "11;16;31;93#26#",
+			group_list = "11;93;16;31;93#26#",
 		},
 		[2]=
 		{
@@ -309,7 +309,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "16;101;31;#11#",
+			group_list = "16;101;31;#11;93#",
 		},
 	},
 	fishing_match_bm=
@@ -327,7 +327,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "111#112#53#79#36;113;89;93;131#",
+			group_list = "111#112#53#79#36;113;89;136;131;#",
 		},
 		[2]=
 		{
@@ -422,7 +422,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "101;11#",
+			group_list = "101;11;93#",
 		},
 	},
 	crazy_fish_game=
@@ -431,7 +431,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "101#11#",
+			group_list = "101#11;93#",
 		},
 	},
 	lwzb_game=
@@ -440,7 +440,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "101#11#",
+			group_list = "101#11;93#",
 		},
 	},
 	lwzb_game_hall=
@@ -449,7 +449,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "11#",
+			group_list = "11;93#",
 		},
 	},
 	xxlxy_game=
@@ -464,7 +464,7 @@ return {
 		{
 			id = 2,
 			area = "left_down",
-			group_list = "11#",
+			group_list = "11;93#",
 		},
 		[3]=
 		{
@@ -488,7 +488,7 @@ return {
 		{
 			id = 1,
 			area = "all",
-			group_list = "40#74#110#130#93",
+			group_list = "40#74#110#130#135#",
 		},
 	},
 	hqjb_config=
@@ -1316,6 +1316,20 @@ return {
 			parm = {"by3d_phb","enter"},
 			is_on_off = 1,
 			condi_key = "cpl_cjj",
+		},
+		[135]=
+		{
+			id = 135,
+			parm = {"act_027_jqshl",},
+			is_on_off = 1,
+			condi_key = "xrzx_newplayer",
+		},
+		[136]=
+		{
+			id = 136,
+			parm = {"act_027_jqshl",},
+			is_on_off = 1,
+			condi_key = "lxdh_025_notnew",
 		},
 	},
 }
