@@ -2233,6 +2233,12 @@ return {
 			name = "显示权限限制（非冲金鸡平台显示）",
 			condi = 434,
 		},
+		by3d_no_cps=
+		{
+			key = "by3d_no_cps",
+			name = "按钮显示限制（天天欢乐捕鱼非cps）",
+			condi = 441,
+		},
 	},
 	act_permission=
 	{
@@ -7035,6 +7041,18 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
 			start_deal_time = 1619452800,
+		},
+		[401]=
+		{
+			id = 401,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_mslb_cps_nobuy",
+			name = "秒杀礼包（非cps玩家）",
+			condi = 440,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1619481600,
 		},
 	},
 	condi=
@@ -17598,6 +17616,36 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是捕鱼奥秘渠道",
+		},
+		[1057]=
+		{
+			no = 1057,
+			id = 440,
+			var = "share_condition",
+			value = "tthlby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是cps渠道",
+		},
+		[1058]=
+		{
+			no = 1058,
+			id = 441,
+			var = "share_condition",
+			value = "tthlby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是cps渠道",
+		},
+		[1059]=
+		{
+			no = 1059,
+			id = 441,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是cjj玩家",
 		},
 	},
 	share_condition=
