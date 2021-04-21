@@ -572,7 +572,7 @@ return {
 		[41]=
 		{
 			id = 41,
-			task = 1000563,
+			task = 1000583,
 			total = 1,
 			task_name = "在龙王贡品中，获得1次奖赏",
 			level = 1,
@@ -583,7 +583,7 @@ return {
 		[42]=
 		{
 			id = 42,
-			task = 1000564,
+			task = 1000584,
 			total = 3,
 			task_name = "在龙王贡品中，获得3次奖赏",
 			level = 1,
@@ -594,7 +594,7 @@ return {
 		[43]=
 		{
 			id = 43,
-			task = 1000565,
+			task = 1000585,
 			total = 8,
 			task_name = "在龙王贡品中，获得8次奖赏",
 			level = 1,
@@ -605,7 +605,7 @@ return {
 		[44]=
 		{
 			id = 44,
-			task = 1000566,
+			task = 1000586,
 			total = 5,
 			task_name = "在3D捕鱼深海探险当前层数+5",
 			level = 1,
@@ -616,7 +616,7 @@ return {
 		[45]=
 		{
 			id = 45,
-			task = 1000567,
+			task = 1000587,
 			total = 5,
 			task_name = "在3D捕鱼海底宝藏中累计使用5次双倍奖励",
 			level = 1,
@@ -627,7 +627,7 @@ return {
 		[46]=
 		{
 			id = 46,
-			task = 1000568,
+			task = 1000588,
 			total = 1,
 			task_name = "在3D捕鱼海底宝藏以上场次任意击杀1条boss",
 			level = 1,
@@ -638,7 +638,7 @@ return {
 		[47]=
 		{
 			id = 47,
-			task = 1000569,
+			task = 1000589,
 			total = 2,
 			task_name = "在西游消消乐中消除2次孙悟空",
 			level = 1,
@@ -649,7 +649,7 @@ return {
 		[48]=
 		{
 			id = 48,
-			task = 1000570,
+			task = 1000590,
 			total = 2,
 			task_name = "在西游消消乐中消除2次唐僧",
 			level = 1,
@@ -660,7 +660,7 @@ return {
 		[49]=
 		{
 			id = 49,
-			task = 1000571,
+			task = 1000591,
 			total = 2,
 			task_name = "在水浒消消乐中召唤出2个英雄",
 			level = 1,
@@ -671,7 +671,7 @@ return {
 		[50]=
 		{
 			id = 50,
-			task = 1000572,
+			task = 1000592,
 			total = 4,
 			task_name = "在水浒消消乐中召唤出4个英雄",
 			level = 1,
@@ -682,7 +682,7 @@ return {
 		[51]=
 		{
 			id = 51,
-			task = 1000573,
+			task = 1000593,
 			total = 3,
 			task_name = "在苹果大战中连胜3局",
 			level = 1,
@@ -693,7 +693,7 @@ return {
 		[52]=
 		{
 			id = 52,
-			task = 1000574,
+			task = 1000594,
 			total = 1,
 			task_name = "在苹果大战中种出1次金苹果",
 			level = 1,
@@ -704,7 +704,7 @@ return {
 		[53]=
 		{
 			id = 53,
-			task = 1000575,
+			task = 1000595,
 			total = 1,
 			task_name = "在水果消消乐闯关中当前关卡数+1",
 			level = 1,
@@ -715,7 +715,7 @@ return {
 		[54]=
 		{
 			id = 54,
-			task = 1000576,
+			task = 1000596,
 			total = 5,
 			task_name = "在水果消消乐闯关中当前关卡数+5",
 			level = 1,
@@ -726,7 +726,7 @@ return {
 		[55]=
 		{
 			id = 55,
-			task = 1000577,
+			task = 1000597,
 			total = 1,
 			task_name = "在西游消消乐中消除1次孙悟空",
 			level = 1,
@@ -737,7 +737,7 @@ return {
 		[56]=
 		{
 			id = 56,
-			task = 1000578,
+			task = 1000598,
 			total = 2,
 			task_name = "在西游消消乐中累计消除2次孙悟空",
 			level = 1,
@@ -748,7 +748,7 @@ return {
 		[57]=
 		{
 			id = 57,
-			task = 1000579,
+			task = 1000599,
 			total = 1,
 			task_name = "在西游消消乐中消除1次唐僧",
 			level = 1,
@@ -759,7 +759,7 @@ return {
 		[58]=
 		{
 			id = 58,
-			task = 1000580,
+			task = 1000600,
 			total = 2,
 			task_name = "在水浒消消乐中累计召唤出2个英雄",
 			level = 1,
@@ -770,7 +770,7 @@ return {
 		[59]=
 		{
 			id = 59,
-			task = 1000581,
+			task = 1000601,
 			total = 4,
 			task_name = "在水浒消消乐中累计召唤出4个英雄",
 			level = 1,
@@ -781,7 +781,7 @@ return {
 		[60]=
 		{
 			id = 60,
-			task = 1000582,
+			task = 1000602,
 			total = 3,
 			task_name = "在冲金鸡财神模式中连胜3局",
 			level = 1,
@@ -792,7 +792,7 @@ return {
 		[61]=
 		{
 			id = 61,
-			task = 1000583,
+			task = 1000603,
 			total = 300000,
 			task_name = "在龙王争霸中累计赢金30万",
 			level = 1,
@@ -803,7 +803,7 @@ return {
 		[62]=
 		{
 			id = 62,
-			task = 1000584,
+			task = 1000604,
 			total = 600000,
 			task_name = "在龙王争霸中累计赢金60万",
 			level = 1,
@@ -814,7 +814,7 @@ return {
 		[63]=
 		{
 			id = 63,
-			task = 1000585,
+			task = 1000605,
 			total = 3,
 			task_name = "在苹果大战中连胜3局",
 			level = 1,
@@ -825,7 +825,7 @@ return {
 		[64]=
 		{
 			id = 64,
-			task = 1000586,
+			task = 1000606,
 			total = 1,
 			task_name = "在苹果大战中种出1次金苹果",
 			level = 1,
