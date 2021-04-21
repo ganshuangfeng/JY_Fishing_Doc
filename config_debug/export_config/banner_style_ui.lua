@@ -836,7 +836,7 @@ return {
 		{
 			id = 74,
 			bannerID = 74,
-			isOnOff = 0,
+			isOnOff = 1,
 			order = 100,
 			gotoUI = {"act_027_jqshl","panel"},
 			model = "LoginUp",
