@@ -1101,7 +1101,7 @@ return {
 		[100]=
 		{
 			id = 100,
-			parm = {"act_029_hlqjd",},
+			parm = {"act_ty_hlqjd",},
 			is_on_off = 1,
 		},
 		[101]=

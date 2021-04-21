@@ -215,7 +215,7 @@ return {
 			type = 0,
 			task_name = "累计赢金200亿",
 			image = "ty_icon_flq4",
-			text = "12000福利券",
+			text = "20000福利券",
 		},
 		[25]=
 		{

@@ -2682,9 +2682,9 @@ return {
 		[274]=
 		{
 			id = 274,
-			key = "act_029_hlqjd",
+			key = "act_ty_hlqjd",
 			desc = "欢乐敲金蛋",
-			lua = "Act_029_HLQJDManager",
+			lua = "Act_ty_HLQJDManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

@@ -14913,7 +14913,7 @@ return {
 		{
 			line_id = 616,
 			id = 10533,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "秒杀礼包",
 			content = {"1880万金币",},
 			gzh_order = -31,
@@ -14936,7 +14936,7 @@ return {
 		{
 			line_id = 617,
 			id = 10534,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "秒杀礼包",
 			content = {"1880万金币",},
 			gzh_order = -31,
