@@ -31520,7 +31520,7 @@ return {
 			id = 1027,
 			source_id = 635,
 			source_type = "lwgp_award_num",
-			condition_id = 0,
+			condition_id = 474,
 		},
 		[1028]=
 		{
@@ -31541,7 +31541,7 @@ return {
 			id = 1030,
 			source_id = 637,
 			source_type = "buyu_3d_award_rate",
-			condition_id = 472,
+			condition_id = 475,
 		},
 		[1031]=
 		{
@@ -36407,6 +36407,23 @@ return {
 			condition_id = 473,
 			condition_name = "task_id",
 			condition_value = 96,
+			judge_type = 2,
+		},
+		[638]=
+		{
+			id = 638,
+			condition_id = 474,
+			condition_name = "award_value",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[639]=
+		{
+			id = 639,
+			condition_id = 475,
+			condition_name = "gun_rate",
+			condition_value = 1000,
+			judge_type = 3,
 		},
 	},
 	award_data=
