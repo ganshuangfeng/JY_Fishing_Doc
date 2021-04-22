@@ -4,67 +4,62 @@ return {
 		[1]=
 		{
 			id = 1,
-			bet_money = 500,
+			bet_money = 5000,
 		},
 		[2]=
 		{
 			id = 2,
-			bet_money = 1000,
+			bet_money = 10000,
 		},
 		[3]=
 		{
 			id = 3,
-			bet_money = 2000,
+			bet_money = 30000,
 		},
 		[4]=
 		{
 			id = 4,
-			bet_money = 4000,
+			bet_money = 60000,
 		},
 		[5]=
 		{
 			id = 5,
-			bet_money = 8000,
+			bet_money = 120000,
 		},
 		[6]=
 		{
 			id = 6,
-			bet_money = 15000,
+			bet_money = 240000,
 		},
 		[7]=
 		{
 			id = 7,
-			bet_money = 30000,
+			bet_money = 480000,
 		},
 		[8]=
 		{
 			id = 8,
-			bet_money = 60000,
+			bet_money = 960000,
 		},
 		[9]=
 		{
 			id = 9,
-			bet_money = 120000,
+			bet_money = 1920000,
 		},
 		[10]=
 		{
 			id = 10,
-			bet_money = 240000,
+			bet_money = 5120000,
 		},
 		[11]=
 		{
 			id = 11,
-			bet_money = 480000,
+			bet_money = 10240000,
 		},
 		[12]=
 		{
 			id = 12,
-			bet_money = 960000,
-		},
-		[13]=
-		{
-			id = 13,
-			bet_money = 1920000,
+			bet_money = 20480000,
 		},
 	},
 	free_game_select=
