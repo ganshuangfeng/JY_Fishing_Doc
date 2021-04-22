@@ -28,7 +28,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			icon = "cwlb_icon_sw_1",
+			icon = "czlb_sj_1",
 			name = "Iphone12",
 			award_id = 12031,
 		},
