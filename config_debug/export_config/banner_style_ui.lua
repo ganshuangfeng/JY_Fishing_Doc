@@ -400,7 +400,7 @@ return {
 		{
 			id = 36,
 			bannerID = 38,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 1,
 			condi_key = "Sign_in_popup_new",
 			gotoUI = {"xrhb1","panel"},
@@ -1047,6 +1047,7 @@ return {
 			bannerID = 92,
 			isOnOff = 1,
 			order = 111,
+			condi_key = "actp_buy_gift_bag_class_mslb_cps_nobuy",
 			gotoUI = {"act_040_mslb","login","panel"},
 			model = "LoginUp",
 			srartTime = 1619481600,

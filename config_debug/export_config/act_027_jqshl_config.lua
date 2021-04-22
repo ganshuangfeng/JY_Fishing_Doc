@@ -299,7 +299,7 @@ return {
 			ljyj_permiss = "actp_own_task_p_crary_rebate",
 			cz_task_id = 98,
 			taskid = 97,
-			sta_time = 1618876800,
+			sta_time = 1619481600,
 			condiy_key = "actp_own_task_p_crary_rebate",
 			btn_gotoui = "game_Fishing3DHall",
 		},

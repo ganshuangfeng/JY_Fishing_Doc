@@ -90,6 +90,7 @@ return {
 			pay_name = {"5000万金币","100万小游戏币","抽奖券*50",},
 			Isindefinitely = 0,
 			Isrecommended = 1,
+			tips = {"","","可用于抽奖"},
 		},
 		[2]=
 		{
@@ -101,6 +102,7 @@ return {
 			pay_name = {"1980万金币","40万小游戏币","抽奖券*30",},
 			Isindefinitely = 0,
 			Isrecommended = 0,
+			tips = {"","","可用于抽奖"},
 		},
 		[3]=
 		{
@@ -112,6 +114,7 @@ return {
 			pay_name = {"980万金币","18万小游戏币","抽奖券*15",},
 			Isindefinitely = 0,
 			Isrecommended = 0,
+			tips = {"","","可用于抽奖"},
 		},
 		[4]=
 		{
@@ -123,6 +126,7 @@ return {
 			pay_name = {"480万金币","8万小游戏币","抽奖券*8",},
 			Isindefinitely = 0,
 			Isrecommended = 0,
+			tips = {"","","可用于抽奖"},
 		},
 		[5]=
 		{
@@ -134,6 +138,7 @@ return {
 			pay_name = {"200万金币","2万小游戏币","抽奖券*4",},
 			Isindefinitely = 0,
 			Isrecommended = 0,
+			tips = {"","","可用于抽奖"},
 		},
 		[6]=
 		{
@@ -145,6 +150,7 @@ return {
 			pay_name = {"60万金币","5000小游戏币","抽奖券*1",},
 			Isindefinitely = 0,
 			Isrecommended = 0,
+			tips = {"","","可用于抽奖"},
 		},
 	},
 	config2=

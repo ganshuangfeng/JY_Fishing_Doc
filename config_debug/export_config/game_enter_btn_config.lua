@@ -1336,7 +1336,7 @@ return {
 			id = 137,
 			parm = {"act_040_mslb",},
 			is_on_off = 1,
-			condi_key = "cpl_notcjj",
+			condi_key = "by3d_no_cps",
 		},
 		[138]=
 		{

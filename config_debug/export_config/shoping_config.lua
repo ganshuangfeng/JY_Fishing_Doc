@@ -14929,6 +14929,7 @@ return {
 			count = 200,
 			start_time = 1619481600,
 			end_time = 1620662399,
+			condition = 84,
 			wx_pay = 1,
 			zfb_pay = 1,
 			is_cg = 1,
@@ -14952,6 +14953,7 @@ return {
 			count = 99999999,
 			start_time = 1619481600,
 			end_time = 1620662399,
+			condition = 84,
 			wx_pay = 1,
 			zfb_pay = 1,
 			is_cg = 1,
@@ -15538,6 +15540,13 @@ return {
 		{
 			id = 83,
 			condition_group = {{type="permission_class",class_value = "integral_gift_buy_v8" }},
+			limit = 1,
+			duration = 0,
+		},
+		[84]=
+		{
+			id = 84,
+			condition_group = {{type="permission_class",class_value = "mslb_cps_nobuy" }},
 			limit = 1,
 			duration = 0,
 		},
