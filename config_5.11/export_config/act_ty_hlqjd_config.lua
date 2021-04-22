@@ -23,7 +23,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			condi_key = "actp_buy_gift_bag_class_hlqjd_ty_hlqjd_v1",
+			condi_key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v1",
 			task_id = {1000383,1000384,1000385},
 			shop_ids = {10302,10303,10304},
 			egg_award_ids = {1,2,3},
@@ -32,7 +32,7 @@ return {
 		[2]=
 		{
 			line = 2,
-			condi_key = "actp_buy_gift_bag_class_hlqjd_ty_hlqjd_v4",
+			condi_key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v4",
 			task_id = {1000383,1000384,1000385},
 			shop_ids = {10305,10306,10307},
 			egg_award_ids = {4,5,6},
@@ -41,7 +41,7 @@ return {
 		[3]=
 		{
 			line = 3,
-			condi_key = "actp_buy_gift_bag_class_hlqjd_ty_hlqjd_v8",
+			condi_key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v8",
 			task_id = {1000383,1000384,1000385},
 			shop_ids = {10308,10309,10310},
 			egg_award_ids = {7,8,9},
