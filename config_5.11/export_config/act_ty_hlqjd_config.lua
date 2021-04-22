@@ -53,56 +53,56 @@ return {
 		[1]=
 		{
 			line = 1,
-			shop_id = 10302,
+			shop_id = 10535,
 			icon = {"pay_icon_gold2","com_award_icon_cz4"},
 		},
 		[2]=
 		{
 			line = 2,
-			shop_id = 10303,
-			icon = {"pay_icon_gold2","com_award_icon_cz31"},
+			shop_id = 10536,
+			icon = {"pay_icon_gold3","com_award_icon_cz31"},
 		},
 		[3]=
 		{
 			line = 3,
-			shop_id = 10304,
-			icon = {"pay_icon_gold2","com_award_icon_cz2"},
+			shop_id = 10537,
+			icon = {"pay_icon_gold4","com_award_icon_cz2"},
 		},
 		[4]=
 		{
 			line = 4,
-			shop_id = 10305,
-			icon = {"pay_icon_gold2","com_award_icon_cz4"},
+			shop_id = 10538,
+			icon = {"pay_icon_gold4","com_award_icon_cz4"},
 		},
 		[5]=
 		{
 			line = 5,
-			shop_id = 10306,
-			icon = {"pay_icon_gold2","com_award_icon_cz31"},
+			shop_id = 10539,
+			icon = {"pay_icon_gold5","com_award_icon_cz31"},
 		},
 		[6]=
 		{
 			line = 6,
-			shop_id = 10307,
-			icon = {"pay_icon_gold2","com_award_icon_cz2"},
+			shop_id = 10540,
+			icon = {"pay_icon_gold6","com_award_icon_cz2"},
 		},
 		[7]=
 		{
 			line = 7,
-			shop_id = 10308,
-			icon = {"pay_icon_gold2","com_award_icon_cz4"},
+			shop_id = 10541,
+			icon = {"pay_icon_gold5","com_award_icon_cz4"},
 		},
 		[8]=
 		{
 			line = 8,
-			shop_id = 10309,
-			icon = {"pay_icon_gold2","com_award_icon_cz31"},
+			shop_id = 10542,
+			icon = {"pay_icon_gold6","com_award_icon_cz31"},
 		},
 		[9]=
 		{
 			line = 9,
-			shop_id = 10310,
-			icon = {"pay_icon_gold2","com_award_icon_cz2"},
+			shop_id = 10543,
+			icon = {"pay_icon_gold7","com_award_icon_cz2"},
 		},
 	},
 	egg_award=
@@ -119,56 +119,56 @@ return {
 			line = 2,
 			id = 2,
 			text = {"1~5","10万-100万","25万-200万"},
-			image = {"ty_icon_flq2","pay_icon_gold2","pay_icon_gold4"},
+			image = {"ty_icon_flq2","pay_icon_gold3","pay_icon_gold4"},
 		},
 		[3]=
 		{
 			line = 3,
 			id = 3,
 			text = {"2~10","15万-150万","50万-300万"},
-			image = {"ty_icon_flq2","pay_icon_gold2","pay_icon_gold5"},
+			image = {"ty_icon_flq2","pay_icon_gold3","pay_icon_gold5"},
 		},
 		[4]=
 		{
 			line = 4,
 			id = 4,
 			text = {"2~10","15万-150万","50万-300万"},
-			image = {"ty_icon_flq2","pay_icon_gold2","pay_icon_gold6"},
+			image = {"ty_icon_flq2","pay_icon_gold4","pay_icon_gold5"},
 		},
 		[5]=
 		{
 			line = 5,
 			id = 5,
 			text = {"4~20","30万-200万","100万-500万"},
-			image = {"ty_icon_flq2","pay_icon_gold2","pay_icon_gold7"},
+			image = {"ty_icon_flq2","pay_icon_gold5","pay_icon_gold6"},
 		},
 		[6]=
 		{
 			line = 6,
 			id = 6,
 			text = {"5~30","60万-500万","180万-1000万"},
-			image = {"ty_icon_flq2","pay_icon_gold2","pay_icon_gold8"},
+			image = {"ty_icon_flq2","pay_icon_gold6","pay_icon_gold7"},
 		},
 		[7]=
 		{
 			line = 7,
 			id = 7,
 			text = {"4~20","30万-200万","100万-500万"},
-			image = {"ty_icon_flq2","pay_icon_gold2","pay_icon_gold9"},
+			image = {"ty_icon_flq2","pay_icon_gold5","pay_icon_gold6"},
 		},
 		[8]=
 		{
 			line = 8,
 			id = 8,
 			text = {"5~30","60万-500万","180万-1000万"},
-			image = {"ty_icon_flq2","pay_icon_gold2","pay_icon_gold10"},
+			image = {"ty_icon_flq2","pay_icon_gold6","pay_icon_gold7"},
 		},
 		[9]=
 		{
 			line = 9,
 			id = 9,
 			text = {"8~50","120万-1000万","500万-3000万"},
-			image = {"ty_icon_flq2","pay_icon_gold2","pay_icon_gold11"},
+			image = {"ty_icon_flq2","pay_icon_gold7","pay_icon_gold8"},
 		},
 	},
 }
