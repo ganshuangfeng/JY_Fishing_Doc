@@ -2068,9 +2068,9 @@ return {
 			id = 211,
 			key = "sys_banner_act",
 			desc = "系统：banner活动",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[212]=
 		{
@@ -2625,9 +2625,9 @@ return {
 			key = "act_027_jqshl",
 			desc = "充值消耗模板",
 			lua = "Act_027_JQSHLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[269]=
 		{
@@ -2883,9 +2883,9 @@ return {
 			key = "by3d_phb",
 			desc = "排行榜总入口",
 			lua = "BY3DPHBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[295]=
 		{
@@ -3023,9 +3023,9 @@ return {
 			key = "sys_013_ffyd",
 			desc = "大厅小游戏版块上浮弹幕",
 			lua = "Sys_013_FFYDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[309]=
 		{
@@ -3227,9 +3227,9 @@ return {
 			key = "sys_3dby_xyxtg",
 			desc = "小游戏托管",
 			lua = "SYS_3DBY_XYXTGManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[330]=
 		{

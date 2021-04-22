@@ -12,7 +12,7 @@ return {
 		{
 			Index = 2,
 			award_id = 9,
-			award_text = "1980福利券",
+			award_text = "198福利券",
 			award_image = "ls_icon_hb1",
 		},
 		[3]=
