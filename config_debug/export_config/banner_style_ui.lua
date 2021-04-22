@@ -400,7 +400,7 @@ return {
 		{
 			id = 36,
 			bannerID = 38,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 1,
 			condi_key = "Sign_in_popup_new",
 			gotoUI = {"xrhb1","panel"},
