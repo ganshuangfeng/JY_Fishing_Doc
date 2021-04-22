@@ -3259,5 +3259,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[333]=
+		{
+			id = 333,
+			key = "act_054_byns",
+			desc = "捕鱼能手",
+			lua = "Act_054_BYNSManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

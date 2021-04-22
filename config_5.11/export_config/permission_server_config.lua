@@ -5685,7 +5685,7 @@ return {
 			id = 288,
 			enable = 1,
 			key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v1",
-			name = "欢乐敲金蛋活动购买礼包（V1-V3，非新玩家）",
+			name = "欢乐敲金蛋活动购买礼包（V3及以下）",
 			condi = 294,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -6523,7 +6523,7 @@ return {
 		[358]=
 		{
 			id = 358,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_golden_egg_1",
 			name = "疯狂敲金蛋V3以下",
 			condi = 389,
@@ -6535,7 +6535,7 @@ return {
 		[359]=
 		{
 			id = 359,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_golden_egg_2",
 			name = "疯狂敲金蛋V4V7",
 			condi = 390,
@@ -6547,7 +6547,7 @@ return {
 		[360]=
 		{
 			id = 360,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_class_golden_egg_3",
 			name = "疯狂敲金蛋V8V12",
 			condi = 391,
