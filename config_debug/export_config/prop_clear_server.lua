@@ -276,10 +276,10 @@ return {
 		[35]=
 		{
 			id = 35,
-			enable = 0,
+			enable = 1,
 			prop_type = "prop_qdlb_cjq",
-			start_time = 1615852800,
-			recycle_time = 1616428799,
+			start_time = 1619481600,
+			recycle_time = 1620662399,
 		},
 		[36]=
 		{
