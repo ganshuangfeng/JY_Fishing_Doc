@@ -3926,8 +3926,8 @@ return {
 			image = "act_ty_zp1_cjq",
 			is_show_bag = 0,
 			order = 33,
-			name = "五一超值礼包抽奖券",
-			desc = "五一超值礼包抽奖券",
+			name = "超值礼包抽奖券",
+			desc = "超值礼包抽奖券",
 		},
 		[291]=
 		{
