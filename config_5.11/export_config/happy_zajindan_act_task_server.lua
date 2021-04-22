@@ -4,21 +4,21 @@ return {
 		[1]=
 		{
 			id = 1,
-			permission_key = "actp_buy_gift_bag_class_hlqjd_ty_hlqjd_v1",
+			permission_key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v1",
 			hammer = {"prop_brass_hammer_1","prop_silver_hammer_1","prop_gold_hammer_1"},
 			award_id = 1,
 		},
 		[2]=
 		{
 			id = 2,
-			permission_key = "actp_buy_gift_bag_class_hlqjd_ty_hlqjd_v4",
+			permission_key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v4",
 			hammer = {"prop_brass_hammer_2","prop_silver_hammer_2","prop_gold_hammer_2"},
 			award_id = 2,
 		},
 		[3]=
 		{
 			id = 3,
-			permission_key = "actp_buy_gift_bag_class_hlqjd_ty_hlqjd_v8",
+			permission_key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v8",
 			hammer = {"prop_brass_hammer_3","prop_silver_hammer_3","prop_gold_hammer_3"},
 			award_id = 3,
 		},
@@ -301,17 +301,17 @@ return {
 		[1]=
 		{
 			id = 1,
-			task_id = 1000384,
+			task_id = 1000609,
 		},
 		[2]=
 		{
 			id = 2,
-			task_id = 1000385,
+			task_id = 1000610,
 		},
 		[3]=
 		{
 			id = 3,
-			task_id = 1000386,
+			task_id = 1000611,
 		},
 	},
 }

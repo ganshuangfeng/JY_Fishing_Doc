@@ -23,27 +23,27 @@ return {
 		[1]=
 		{
 			line = 1,
-			condi_key = "actp_buy_gift_bag_class_hlqjd_ty_hlqjd_v1",
-			task_id = {1000383,1000384,1000385},
-			shop_ids = {10302,10303,10304},
+			condi_key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v1",
+			task_id = {1000609,1000610,1000611},
+			shop_ids = {10535,10536,10537},
 			egg_award_ids = {1,2,3},
 			item = {"prop_brass_hammer_1","prop_silver_hammer_1","prop_gold_hammer_1"},
 		},
 		[2]=
 		{
 			line = 2,
-			condi_key = "actp_buy_gift_bag_class_hlqjd_ty_hlqjd_v4",
-			task_id = {1000383,1000384,1000385},
-			shop_ids = {10305,10306,10307},
+			condi_key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v4",
+			task_id = {1000609,1000610,1000611},
+			shop_ids = {10538,10539,10540},
 			egg_award_ids = {4,5,6},
 			item = {"prop_brass_hammer_2","prop_silver_hammer_2","prop_gold_hammer_2"},
 		},
 		[3]=
 		{
 			line = 3,
-			condi_key = "actp_buy_gift_bag_class_hlqjd_ty_hlqjd_v8",
-			task_id = {1000383,1000384,1000385},
-			shop_ids = {10308,10309,10310},
+			condi_key = "actp_buy_gift_bag_class_hlqjd_029_hlqjd_v8",
+			task_id = {1000609,1000610,1000611},
+			shop_ids = {10541,10542,10543},
 			egg_award_ids = {7,8,9},
 			item = {"prop_brass_hammer_3","prop_silver_hammer_3","prop_gold_hammer_3"},
 		},
