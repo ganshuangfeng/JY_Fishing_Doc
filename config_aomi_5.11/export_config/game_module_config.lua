@@ -2682,12 +2682,12 @@ return {
 		[274]=
 		{
 			id = 274,
-			key = "act_029_hlqjd",
+			key = "act_ty_hlqjd",
 			desc = "欢乐敲金蛋",
-			lua = "Act_029_HLQJDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			lua = "Act_ty_HLQJDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[275]=
 		{
@@ -3315,6 +3315,16 @@ return {
 			key = "act_040_mslb",
 			desc = "秒杀礼包",
 			lua = "Act_040_MSLBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[339]=
+		{
+			id = 339,
+			key = "act_054_byns",
+			desc = "捕鱼能手",
+			lua = "Act_054_BYNSManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
