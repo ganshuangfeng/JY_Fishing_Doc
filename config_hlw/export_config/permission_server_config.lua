@@ -2289,6 +2289,12 @@ return {
 			name = "热血传奇威力加强权限",
 			condi = 464,
 		},
+		treasure_bowl=
+		{
+			key = "treasure_bowl",
+			name = "聚宝盆限制（v0）",
+			condi = 7,
+		},
 	},
 	act_permission=
 	{
