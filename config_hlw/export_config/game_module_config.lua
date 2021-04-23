@@ -536,9 +536,9 @@ return {
 			key = "xycj",
 			desc = "幸运抽奖",
 			lua = "XYCJActivityManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[55]=
 		{
@@ -2315,9 +2315,9 @@ return {
 			key = "sys_flqcj",
 			desc = "福利券抽奖",
 			lua = "SYSFLQCJManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[238]=
 		{

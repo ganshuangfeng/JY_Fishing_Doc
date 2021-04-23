@@ -183,7 +183,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#139#8#122#61#137#9#117#134#138#",
+			group_list = "10#42#",
 		},
 		[2]=
 		{
@@ -195,7 +195,7 @@ return {
 		{
 			id = 3,
 			area = "right",
-			group_list = "110#84#114#42#",
+			group_list = "110#84#114#61#",
 		},
 		[4]=
 		{
@@ -512,7 +512,7 @@ return {
 		{
 			id = 2,
 			parm = {"vip",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[3]=
 		{
@@ -549,7 +549,7 @@ return {
 		{
 			id = 8,
 			parm = {"jyfl",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[9]=
 		{
