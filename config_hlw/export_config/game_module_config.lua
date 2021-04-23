@@ -1246,9 +1246,9 @@ return {
 			key = "act_xrqtl",
 			desc = "新人七天乐",
 			lua = "XRQTLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[126]=
 		{
@@ -2235,9 +2235,9 @@ return {
 			key = "sys_by_level",
 			desc = "排名",
 			lua = "SYSBYLevelManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[230]=
 		{
@@ -2833,9 +2833,9 @@ return {
 			key = "act_xrqtl_old",
 			desc = "新人七天乐（老版）",
 			lua = "XRQTLManager_Old",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[290]=
 		{
@@ -3237,9 +3237,9 @@ return {
 			key = "sys_act_jbzk",
 			desc = "金币周卡",
 			lua = "Sys_Act_JBZKManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[331]=
 		{
@@ -3247,9 +3247,9 @@ return {
 			key = "act_xrxsfl",
 			desc = "新人限时福利",
 			lua = "Act_XRXSFLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[332]=
 		{
