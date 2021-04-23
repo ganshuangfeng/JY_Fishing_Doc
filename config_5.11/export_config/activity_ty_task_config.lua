@@ -49,6 +49,14 @@ return {
 			name = "感恩回馈--v4--冲金鸡",
 			tges = 6,
 		},
+		[7]=
+		{
+			index = 7,
+			key = "act_hlfl_byam",
+			icon = "hlfl_bg_1",
+			name = "奖励金币_byam",
+			tges = 7,
+		},
 	},
 	tge=
 	{
@@ -105,6 +113,15 @@ return {
 			is_show = 0,
 			order = 0,
 			task_index = {36,37,38,39,40},
+		},
+		[7]=
+		{
+			tge_index = 7,
+			name = "act_hlfl_byam",
+			on_off = 1,
+			is_show = 1,
+			order = 1,
+			task_index = {65,66,67,68,69,70,71,72,73},
 		},
 	},
 	task=
@@ -826,6 +843,105 @@ return {
 		{
 			id = 64,
 			task = 1000606,
+			total = 1,
+			task_name = "在苹果大战中种出1次金苹果",
+			level = 1,
+			item = {"jing_bi",},
+			count = {30000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[65]=
+		{
+			id = 65,
+			task = 1000586,
+			total = 5,
+			task_name = "在3D捕鱼深海探险当前层数+5",
+			level = 1,
+			item = {"jing_bi",},
+			count = {10000,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[66]=
+		{
+			id = 66,
+			task = 1000587,
+			total = 5,
+			task_name = "在3D捕鱼海底宝藏中累计使用5次双倍奖励",
+			level = 1,
+			item = {"jing_bi",},
+			count = {10000,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[67]=
+		{
+			id = 67,
+			task = 1000588,
+			total = 1,
+			task_name = "在3D捕鱼海底宝藏以上场次任意击杀1条boss",
+			level = 1,
+			item = {"jing_bi",},
+			count = {30000,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[68]=
+		{
+			id = 68,
+			task = 1000589,
+			total = 2,
+			task_name = "在西游消消乐中消除2次孙悟空",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[69]=
+		{
+			id = 69,
+			task = 1000590,
+			total = 2,
+			task_name = "在西游消消乐中消除2次唐僧",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[70]=
+		{
+			id = 70,
+			task = 1000591,
+			total = 2,
+			task_name = "在水浒消消乐中召唤出2个英雄",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[71]=
+		{
+			id = 71,
+			task = 1000592,
+			total = 4,
+			task_name = "在水浒消消乐中召唤出4个英雄",
+			level = 1,
+			item = {"jing_bi",},
+			count = {30000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[72]=
+		{
+			id = 72,
+			task = 1000593,
+			total = 3,
+			task_name = "在苹果大战中连胜3局",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[73]=
+		{
+			id = 73,
+			task = 1000594,
 			total = 1,
 			task_name = "在苹果大战中种出1次金苹果",
 			level = 1,
