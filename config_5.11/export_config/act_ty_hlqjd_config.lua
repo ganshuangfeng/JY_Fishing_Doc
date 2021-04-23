@@ -54,7 +54,7 @@ return {
 		{
 			line = 1,
 			shop_id = 10535,
-			icon = {"pay_icon_gold2","com_award_icon_cz4"},
+			icon = {"pay_icon_gold4","com_award_icon_cz4"},
 		},
 		[2]=
 		{
@@ -66,7 +66,7 @@ return {
 		{
 			line = 3,
 			shop_id = 10537,
-			icon = {"pay_icon_gold4","com_award_icon_cz2"},
+			icon = {"pay_icon_gold2","com_award_icon_cz2"},
 		},
 		[4]=
 		{
@@ -78,31 +78,31 @@ return {
 		{
 			line = 5,
 			shop_id = 10539,
-			icon = {"pay_icon_gold5","com_award_icon_cz31"},
+			icon = {"pay_icon_gold3","com_award_icon_cz31"},
 		},
 		[6]=
 		{
 			line = 6,
 			shop_id = 10540,
-			icon = {"pay_icon_gold6","com_award_icon_cz2"},
+			icon = {"pay_icon_gold2","com_award_icon_cz2"},
 		},
 		[7]=
 		{
 			line = 7,
 			shop_id = 10541,
-			icon = {"pay_icon_gold5","com_award_icon_cz4"},
+			icon = {"pay_icon_gold4","com_award_icon_cz4"},
 		},
 		[8]=
 		{
 			line = 8,
 			shop_id = 10542,
-			icon = {"pay_icon_gold6","com_award_icon_cz31"},
+			icon = {"pay_icon_gold3","com_award_icon_cz31"},
 		},
 		[9]=
 		{
 			line = 9,
 			shop_id = 10543,
-			icon = {"pay_icon_gold7","com_award_icon_cz2"},
+			icon = {"pay_icon_gold2","com_award_icon_cz2"},
 		},
 	},
 	egg_award=
