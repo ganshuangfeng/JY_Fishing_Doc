@@ -2205,9 +2205,9 @@ return {
 			key = "sys_cqg",
 			desc = "存钱罐",
 			lua = "CQGManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[227]=
 		{
@@ -3073,9 +3073,9 @@ return {
 			key = "sys_jbp",
 			desc = "聚宝盆",
 			lua = "SYS_JBPManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[314]=
 		{
@@ -3308,6 +3308,16 @@ return {
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
+		},
+		[338]=
+		{
+			id = 338,
+			key = "act_045_cqg",
+			desc = "存钱罐（斗地主版）",
+			lua = "Act_045_CQGManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 	},
 }

@@ -866,7 +866,7 @@ return {
 		[61]=
 		{
 			id = 61,
-			parm = {"sys_cqg",},
+			parm = {"act_045_cqg",},
 			is_on_off = 1,
 		},
 		[62]=
