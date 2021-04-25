@@ -3190,15 +3190,15 @@ return {
 		{
 			id = 116,
 			source_id = 98,
-			source_type = "xiaoxiaole_sanguo_game_num",
-			condition_id = 37,
+			source_type = "xiaoxiaole_sanguo_collect_ship",
+			condition_id = 0,
 		},
 		[117]=
 		{
 			id = 117,
 			source_id = 99,
-			source_type = "xiaoxiaole_sanguo_game_num",
-			condition_id = 38,
+			source_type = "xiaoxiaole_sanguo_collect_arrow",
+			condition_id = 0,
 		},
 	},
 	condition=
@@ -3737,22 +3737,6 @@ return {
 			condition_id = 36,
 			condition_name = "gift_id",
 			condition_value = {1,2,3,4,5,6,107,108,110,101,102,103,104,105,106,22,23,24,25,26,27,34,111,10330,85,86,87,88,89,109,10044,10045,90,10189,10490,10491,10493,10494,10495,10492},
-			judge_type = 2,
-		},
-		[68]=
-		{
-			id = 68,
-			condition_id = 37,
-			condition_name = "is_free_game",
-			condition_value = 1,
-			judge_type = 2,
-		},
-		[69]=
-		{
-			id = 69,
-			condition_id = 38,
-			condition_name = "is_free_game",
-			condition_value = 2,
 			judge_type = 2,
 		},
 	},
