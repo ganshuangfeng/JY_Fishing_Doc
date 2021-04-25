@@ -5576,7 +5576,7 @@ return {
 		[21347]=
 		{
 			id = 21347,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_special_task",
 			task_enum = "common",
@@ -12153,7 +12153,7 @@ return {
 		[21804]=
 		{
 			id = 21804,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_task_1",
 			task_enum = "common",
@@ -12167,7 +12167,7 @@ return {
 		[21805]=
 		{
 			id = 21805,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_task_2",
 			task_enum = "chang_wan_ka_task",
@@ -12181,7 +12181,7 @@ return {
 		[21806]=
 		{
 			id = 21806,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_task_3",
 			task_enum = "chang_wan_ka_task",
@@ -12195,7 +12195,7 @@ return {
 		[21807]=
 		{
 			id = 21807,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_normal_task",
 			task_enum = "common",
@@ -12209,7 +12209,7 @@ return {
 		[21808]=
 		{
 			id = 21808,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_normal_task",
 			task_enum = "common",
@@ -12223,7 +12223,7 @@ return {
 		[21809]=
 		{
 			id = 21809,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_normal_task",
 			task_enum = "common",
@@ -12237,7 +12237,7 @@ return {
 		[21810]=
 		{
 			id = 21810,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_normal_task",
 			task_enum = "common",
@@ -12251,7 +12251,7 @@ return {
 		[21811]=
 		{
 			id = 21811,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_normal_task",
 			task_enum = "common",
@@ -12265,7 +12265,7 @@ return {
 		[21812]=
 		{
 			id = 21812,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_normal_task",
 			task_enum = "common",
@@ -12279,7 +12279,7 @@ return {
 		[21813]=
 		{
 			id = 21813,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_normal_task",
 			task_enum = "common",
@@ -12293,7 +12293,7 @@ return {
 		[21814]=
 		{
 			id = 21814,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_normal_task",
 			task_enum = "common",
@@ -12307,7 +12307,7 @@ return {
 		[21815]=
 		{
 			id = 21815,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_normal_task",
 			task_enum = "common",
@@ -12321,7 +12321,7 @@ return {
 		[21816]=
 		{
 			id = 21816,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_special_task",
 			task_enum = "common",
@@ -12335,7 +12335,7 @@ return {
 		[21817]=
 		{
 			id = 21817,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_special_task",
 			task_enum = "common",
@@ -12349,7 +12349,7 @@ return {
 		[21818]=
 		{
 			id = 21818,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_special_task",
 			task_enum = "common",
@@ -12363,7 +12363,7 @@ return {
 		[21819]=
 		{
 			id = 21819,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_special_task",
 			task_enum = "common",
@@ -12377,7 +12377,7 @@ return {
 		[21820]=
 		{
 			id = 21820,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_special_task",
 			task_enum = "common",
@@ -12391,7 +12391,7 @@ return {
 		[21821]=
 		{
 			id = 21821,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_special_task",
 			task_enum = "common",
@@ -12405,7 +12405,7 @@ return {
 		[21822]=
 		{
 			id = 21822,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_special_task",
 			task_enum = "common",
@@ -12419,7 +12419,7 @@ return {
 		[21823]=
 		{
 			id = 21823,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_special_task",
 			task_enum = "common",
@@ -12433,7 +12433,7 @@ return {
 		[21824]=
 		{
 			id = 21824,
-			enable = 1,
+			enable = 0,
 			name = "小游戏畅玩卡",
 			own_type = "chang_wan_ka_children_special_task",
 			task_enum = "common",
