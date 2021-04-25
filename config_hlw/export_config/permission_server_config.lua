@@ -1231,6 +1231,12 @@ return {
 			name = "判断处理设置回归时间（是否是回归用户）",
 			condi = 100,
 		},
+		vip0_buygift=
+		{
+			key = "vip0_buygift",
+			name = "VIP1直通礼包（只有VIP0显示）",
+			condi = 34,
+		},
 		vip2_buygift=
 		{
 			key = "vip2_buygift",
