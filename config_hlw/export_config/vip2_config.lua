@@ -22,226 +22,226 @@ return {
 			total = 10,
 			info = "享受vip专享福利",
 		},
-		[6]=
+		[4]=
 		{
-			line = 6,
+			line = 4,
 			vip = 2,
 			total = 200,
 			info = "福利券容量提升为<color=#DA2020>4万福利券</color>",
 		},
-		[7]=
+		[5]=
 		{
-			line = 7,
+			line = 5,
 			vip = 2,
 			total = 200,
 			info = "享受vip1所有特权并提高部分特权奖励",
 		},
-		[9]=
+		[6]=
 		{
-			line = 9,
+			line = 6,
 			vip = 3,
 			total = 500,
 			info = "可获得<color=#DA2020>闪耀风暴</color>炮台，有几率捕获激光范围内的任意鱼类",
 		},
-		[11]=
+		[7]=
 		{
-			line = 11,
+			line = 7,
 			vip = 3,
 			total = 500,
 			info = "福利券容量提升为<color=#DA2020>10万福利券</color>",
 		},
-		[12]=
+		[8]=
 		{
-			line = 12,
+			line = 8,
 			vip = 3,
 			total = 500,
 			info = "享受vip2所有特权并提高部分特权奖励",
 		},
-		[15]=
+		[9]=
 		{
-			line = 15,
+			line = 9,
 			vip = 4,
 			total = 1000,
 			info = "福利券容量提升为<color=#DA2020>15万福利券</color>",
 		},
-		[16]=
+		[10]=
 		{
-			line = 16,
+			line = 10,
 			vip = 4,
 			total = 1000,
 			info = "享受vip3所有特权并提高部分特权奖励",
 		},
-		[18]=
+		[11]=
 		{
-			line = 18,
+			line = 11,
 			vip = 5,
 			total = 2000,
 			info = "可获得<color=#DA2020>金币使者</color>炮台，可捕获同移动线上的任意鱼类",
 		},
-		[20]=
+		[12]=
 		{
-			line = 20,
+			line = 12,
 			vip = 5,
 			total = 2000,
 			info = "福利券容量提升为<color=#DA2020>30万福利券</color>",
 		},
-		[21]=
+		[13]=
 		{
-			line = 21,
+			line = 13,
 			vip = 5,
 			total = 2000,
 			info = "畅玩所有游戏",
 		},
-		[22]=
+		[14]=
 		{
-			line = 22,
+			line = 14,
 			vip = 5,
 			total = 2000,
 			info = "享受vip4所有特权并提高部分特权奖励",
 		},
-		[25]=
+		[15]=
 		{
-			line = 25,
+			line = 15,
 			vip = 6,
 			total = 5000,
 			info = "福利券容量提升为<color=#DA2020>50万福利券</color>",
 		},
-		[26]=
+		[16]=
 		{
-			line = 26,
+			line = 16,
 			vip = 6,
 			total = 5000,
 			info = "享受vip5所有特权并提高部分特权奖励",
 		},
-		[29]=
+		[17]=
 		{
-			line = 29,
+			line = 17,
 			vip = 7,
 			total = 10000,
 			info = "福利券容量提升为<color=#DA2020>100万福利券</color>",
 		},
-		[30]=
+		[18]=
 		{
-			line = 30,
+			line = 18,
 			vip = 7,
 			total = 10000,
 			info = "享受vip6所有特权并提高部分特权奖励",
 		},
-		[33]=
+		[19]=
 		{
-			line = 33,
+			line = 19,
 			vip = 8,
 			total = 20000,
 			info = "福利券容量提升为<color=#DA2020>200万福利券</color>",
 		},
-		[34]=
+		[20]=
 		{
-			line = 34,
+			line = 20,
 			vip = 8,
 			total = 20000,
 			info = "享受vip7所有特权并提高部分特权奖励",
 		},
-		[37]=
+		[21]=
 		{
-			line = 37,
+			line = 21,
 			vip = 9,
 			total = 30000,
 			info = "福利券容量提升为<color=#DA2020>300万福利券</color>",
 		},
-		[38]=
+		[22]=
 		{
-			line = 38,
+			line = 22,
 			vip = 9,
 			total = 30000,
 			info = "享受vip8所有特权并提高部分特权奖励",
 		},
-		[41]=
+		[23]=
 		{
-			line = 41,
+			line = 23,
 			vip = 10,
 			total = 50000,
 			info = "福利券容量提升为<color=#DA2020>500万福利券</color>",
 		},
-		[42]=
+		[24]=
 		{
-			line = 42,
+			line = 24,
 			vip = 10,
 			total = 50000,
 			info = "享受vip9所有特权并提高部分特权奖励",
 		},
-		[43]=
+		[25]=
 		{
-			line = 43,
+			line = 25,
 			vip = 10,
 			total = 50000,
 			info = "每日最多可参加排名挑战赛15次",
 		},
-		[44]=
+		[26]=
 		{
-			line = 44,
+			line = 26,
 			vip = 11,
 			info = "每日可免费领取至尊礼包1个",
 			cfz = 15000,
 		},
-		[45]=
+		[27]=
 		{
-			line = 45,
+			line = 27,
 			vip = 11,
 			info = "每领满30次至尊礼包额外奖励1000万鱼币",
 			cfz = 15000,
 		},
-		[47]=
+		[28]=
 		{
-			line = 47,
+			line = 28,
 			vip = 11,
 			info = "福利券容量提升为<color=#DA2020>800万</color>福利券",
 			cfz = 15000,
 		},
-		[48]=
+		[29]=
 		{
-			line = 48,
+			line = 29,
 			vip = 11,
 			info = "每日最多可参加排名挑战赛20次",
 			cfz = 15000,
 		},
-		[49]=
+		[30]=
 		{
-			line = 49,
+			line = 30,
 			vip = 11,
 			info = "享受vip10所有特权并提高部分特权奖励",
 			cfz = 15000,
 		},
-		[50]=
+		[31]=
 		{
-			line = 50,
+			line = 31,
 			vip = 12,
 			info = "每日可免费领取至尊礼包1个",
 			cfz = 40000,
 		},
-		[51]=
+		[32]=
 		{
-			line = 51,
+			line = 32,
 			vip = 12,
 			info = "每领满30次至尊礼包额外奖励200元话费",
 			cfz = 40000,
 		},
-		[53]=
+		[33]=
 		{
-			line = 53,
+			line = 33,
 			vip = 12,
 			info = "福利券容量提升为<color=#DA2020>1200万</color>福利券",
 			cfz = 40000,
 		},
-		[54]=
+		[34]=
 		{
-			line = 54,
+			line = 34,
 			vip = 12,
 			info = "每日最多可参加排名挑战赛30次",
 			cfz = 40000,
 		},
-		[55]=
+		[35]=
 		{
-			line = 55,
+			line = 35,
 			vip = 12,
 			info = "享受vip11所有特权并提高部分特权奖励",
 			cfz = 40000,
