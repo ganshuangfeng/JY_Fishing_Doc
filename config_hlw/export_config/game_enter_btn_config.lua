@@ -183,13 +183,13 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "10#42#",
+			group_list = "42#10#",
 		},
 		[2]=
 		{
 			id = 2,
 			area = "left",
-			group_list = "36;89;105#97;11;93;94#58;107#30#",
+			group_list = "113;89;105#97;11;93;94#58;107#30#",
 		},
 		[3]=
 		{
@@ -560,7 +560,7 @@ return {
 		[10]=
 		{
 			id = 10,
-			parm = {"sys_yk",},
+			parm = {"sys_011_yueka_new",},
 			is_on_off = 1,
 		},
 		[11]=
