@@ -13,43 +13,43 @@ return {
 		[1]=
 		{
 			no = 1,
-			award_id = 14,
+			award_id = 1,
 			vip_level = 1,
 			rate = 2,
 		},
 		[2]=
 		{
 			no = 2,
-			award_id = 15,
+			award_id = 2,
 		},
 		[3]=
 		{
 			no = 3,
-			award_id = 16,
+			award_id = 3,
 			vip_level = 2,
 			rate = 3,
 		},
 		[4]=
 		{
 			no = 4,
-			award_id = 17,
+			award_id = 4,
 		},
 		[5]=
 		{
 			no = 5,
-			award_id = 18,
+			award_id = 5,
 		},
 		[6]=
 		{
 			no = 6,
-			award_id = 19,
+			award_id = 6,
 			vip_level = 3,
 			rate = 3,
 		},
 		[7]=
 		{
 			no = 7,
-			award_id = 20,
+			award_id = 7,
 			vip_level = 5,
 			rate = 3,
 		},
