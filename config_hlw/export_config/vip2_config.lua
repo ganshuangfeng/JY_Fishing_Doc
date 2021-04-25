@@ -22,22 +22,6 @@ return {
 			total = 10,
 			info = "享受vip专享福利",
 		},
-		[4]=
-		{
-			line = 4,
-			vip = 1,
-			total = 10,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛4次",
-		},
-		[5]=
-		{
-			line = 5,
-			vip = 2,
-			total = 200,
-			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>1次</color>",
-		},
 		[6]=
 		{
 			line = 6,
@@ -52,29 +36,12 @@ return {
 			total = 200,
 			info = "享受vip1所有特权并提高部分特权奖励",
 		},
-		[8]=
-		{
-			line = 8,
-			vip = 2,
-			total = 200,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛5次",
-		},
 		[9]=
 		{
 			line = 9,
 			vip = 3,
 			total = 500,
-			key = "vip_notcps",
 			info = "可获得<color=#DA2020>闪耀风暴</color>炮台，有几率捕获激光范围内的任意鱼类",
-		},
-		[10]=
-		{
-			line = 10,
-			vip = 3,
-			total = 500,
-			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>3次</color>",
 		},
 		[11]=
 		{
@@ -90,22 +57,6 @@ return {
 			total = 500,
 			info = "享受vip2所有特权并提高部分特权奖励",
 		},
-		[13]=
-		{
-			line = 13,
-			vip = 3,
-			total = 500,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛6次",
-		},
-		[14]=
-		{
-			line = 14,
-			vip = 4,
-			total = 1000,
-			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>5次</color>",
-		},
 		[15]=
 		{
 			line = 15,
@@ -120,29 +71,12 @@ return {
 			total = 1000,
 			info = "享受vip3所有特权并提高部分特权奖励",
 		},
-		[17]=
-		{
-			line = 17,
-			vip = 4,
-			total = 1000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛7次",
-		},
 		[18]=
 		{
 			line = 18,
 			vip = 5,
 			total = 2000,
-			key = "vip_notcps",
 			info = "可获得<color=#DA2020>金币使者</color>炮台，可捕获同移动线上的任意鱼类",
-		},
-		[19]=
-		{
-			line = 19,
-			vip = 5,
-			total = 2000,
-			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>10次</color>",
 		},
 		[20]=
 		{
@@ -165,22 +99,6 @@ return {
 			total = 2000,
 			info = "享受vip4所有特权并提高部分特权奖励",
 		},
-		[23]=
-		{
-			line = 23,
-			vip = 5,
-			total = 2000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛8次",
-		},
-		[24]=
-		{
-			line = 24,
-			vip = 6,
-			total = 5000,
-			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>30次</color>",
-		},
 		[25]=
 		{
 			line = 25,
@@ -194,22 +112,6 @@ return {
 			vip = 6,
 			total = 5000,
 			info = "享受vip5所有特权并提高部分特权奖励",
-		},
-		[27]=
-		{
-			line = 27,
-			vip = 6,
-			total = 5000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛9次",
-		},
-		[28]=
-		{
-			line = 28,
-			vip = 7,
-			total = 10000,
-			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
 		},
 		[29]=
 		{
@@ -225,22 +127,6 @@ return {
 			total = 10000,
 			info = "享受vip6所有特权并提高部分特权奖励",
 		},
-		[31]=
-		{
-			line = 31,
-			vip = 7,
-			total = 10000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛10次",
-		},
-		[32]=
-		{
-			line = 32,
-			vip = 8,
-			total = 20000,
-			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-		},
 		[33]=
 		{
 			line = 33,
@@ -255,22 +141,6 @@ return {
 			total = 20000,
 			info = "享受vip7所有特权并提高部分特权奖励",
 		},
-		[35]=
-		{
-			line = 35,
-			vip = 8,
-			total = 20000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛11次",
-		},
-		[36]=
-		{
-			line = 36,
-			vip = 9,
-			total = 30000,
-			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-		},
 		[37]=
 		{
 			line = 37,
@@ -284,22 +154,6 @@ return {
 			vip = 9,
 			total = 30000,
 			info = "享受vip8所有特权并提高部分特权奖励",
-		},
-		[39]=
-		{
-			line = 39,
-			vip = 9,
-			total = 30000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛12次",
-		},
-		[40]=
-		{
-			line = 40,
-			vip = 10,
-			total = 50000,
-			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
 		},
 		[41]=
 		{
@@ -320,14 +174,12 @@ return {
 			line = 43,
 			vip = 10,
 			total = 50000,
-			key = "cpl_notcjj",
 			info = "每日最多可参加排名挑战赛15次",
 		},
 		[44]=
 		{
 			line = 44,
 			vip = 11,
-			key = "cpl_notcjj",
 			info = "每日可免费领取至尊礼包1个",
 			cfz = 15000,
 		},
@@ -335,23 +187,13 @@ return {
 		{
 			line = 45,
 			vip = 11,
-			key = "cpl_notcjj",
 			info = "每领满30次至尊礼包额外奖励1000万鱼币",
-			cfz = 15000,
-		},
-		[46]=
-		{
-			line = 46,
-			vip = 11,
-			key = "cpl_notcjj_notcps",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>70次</color>",
 			cfz = 15000,
 		},
 		[47]=
 		{
 			line = 47,
 			vip = 11,
-			key = "cpl_notcjj",
 			info = "福利券容量提升为<color=#DA2020>800万</color>福利券",
 			cfz = 15000,
 		},
@@ -359,7 +201,6 @@ return {
 		{
 			line = 48,
 			vip = 11,
-			key = "cpl_notcjj",
 			info = "每日最多可参加排名挑战赛20次",
 			cfz = 15000,
 		},
@@ -367,7 +208,6 @@ return {
 		{
 			line = 49,
 			vip = 11,
-			key = "cpl_notcjj",
 			info = "享受vip10所有特权并提高部分特权奖励",
 			cfz = 15000,
 		},
@@ -375,7 +215,6 @@ return {
 		{
 			line = 50,
 			vip = 12,
-			key = "cpl_notcjj",
 			info = "每日可免费领取至尊礼包1个",
 			cfz = 40000,
 		},
@@ -383,23 +222,13 @@ return {
 		{
 			line = 51,
 			vip = 12,
-			key = "cpl_notcjj",
 			info = "每领满30次至尊礼包额外奖励200元话费",
-			cfz = 40000,
-		},
-		[52]=
-		{
-			line = 52,
-			vip = 12,
-			key = "cpl_notcjj_notcps",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>70次</color>",
 			cfz = 40000,
 		},
 		[53]=
 		{
 			line = 53,
 			vip = 12,
-			key = "cpl_notcjj",
 			info = "福利券容量提升为<color=#DA2020>1200万</color>福利券",
 			cfz = 40000,
 		},
@@ -407,7 +236,6 @@ return {
 		{
 			line = 54,
 			vip = 12,
-			key = "cpl_notcjj",
 			info = "每日最多可参加排名挑战赛30次",
 			cfz = 40000,
 		},
@@ -415,7 +243,6 @@ return {
 		{
 			line = 55,
 			vip = 12,
-			key = "cpl_notcjj",
 			info = "享受vip11所有特权并提高部分特权奖励",
 			cfz = 40000,
 		},
