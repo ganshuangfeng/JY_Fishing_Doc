@@ -23078,98 +23078,98 @@ return {
 		[116]=
 		{
 			id = 116,
-			condition_group = {{next=10365,trigger="start_trigger",reset_time=0}},
+			condition_group = {{next=10798,trigger="start_trigger",reset_time=0}},
 			limit = 1,
 			duration = 0,
 		},
 		[117]=
 		{
 			id = 117,
-			condition_group = {{last=10363,reset_time=0}},
+			condition_group = {{last=10796,reset_time=0}},
 			limit = 1,
 			duration = 600,
 		},
 		[118]=
 		{
 			id = 118,
-			condition_group = {{next=10368,trigger="start_trigger",reset_time=0}},
+			condition_group = {{next=10801,trigger="start_trigger",reset_time=0}},
 			limit = 1,
 			duration = 0,
 		},
 		[119]=
 		{
 			id = 119,
-			condition_group = {{last=10366,reset_time=0}},
+			condition_group = {{last=10799,reset_time=0}},
 			limit = 1,
 			duration = 600,
 		},
 		[120]=
 		{
 			id = 120,
-			condition_group = {{next=10371,trigger="start_trigger",reset_time=0}},
+			condition_group = {{next=10804,trigger="start_trigger",reset_time=0}},
 			limit = 1,
 			duration = 0,
 		},
 		[121]=
 		{
 			id = 121,
-			condition_group = {{last=10369,reset_time=0}},
+			condition_group = {{last=10802,reset_time=0}},
 			limit = 1,
 			duration = 600,
 		},
 		[122]=
 		{
 			id = 122,
-			condition_group = {{next=10374,trigger="start_trigger",reset_time=0}},
+			condition_group = {{next=10807,trigger="start_trigger",reset_time=0}},
 			limit = 1,
 			duration = 0,
 		},
 		[123]=
 		{
 			id = 123,
-			condition_group = {{last=10372,reset_time=0}},
+			condition_group = {{last=10805,reset_time=0}},
 			limit = 1,
 			duration = 600,
 		},
 		[124]=
 		{
 			id = 124,
-			condition_group = {{next=10377,trigger="start_trigger",reset_time=0}},
+			condition_group = {{next=10810,trigger="start_trigger",reset_time=0}},
 			limit = 1,
 			duration = 0,
 		},
 		[125]=
 		{
 			id = 125,
-			condition_group = {{last=10375,reset_time=0}},
+			condition_group = {{last=10808,reset_time=0}},
 			limit = 1,
 			duration = 600,
 		},
 		[126]=
 		{
 			id = 126,
-			condition_group = {{next=10380,trigger="start_trigger",reset_time=0}},
+			condition_group = {{next=10813,trigger="start_trigger",reset_time=0}},
 			limit = 1,
 			duration = 0,
 		},
 		[127]=
 		{
 			id = 127,
-			condition_group = {{last=10378,reset_time=0}},
+			condition_group = {{last=10811,reset_time=0}},
 			limit = 1,
 			duration = 600,
 		},
 		[128]=
 		{
 			id = 128,
-			condition_group = {{next=10383,trigger="start_trigger",reset_time=0}},
+			condition_group = {{next=10816,trigger="start_trigger",reset_time=0}},
 			limit = 1,
 			duration = 0,
 		},
 		[129]=
 		{
 			id = 129,
-			condition_group = {{last=10381,reset_time=0}},
+			condition_group = {{last=10814,reset_time=0}},
 			limit = 1,
 			duration = 600,
 		},
