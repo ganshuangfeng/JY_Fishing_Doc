@@ -2352,9 +2352,9 @@ return {
 		[241]=
 		{
 			id = 241,
-			key = "act_022_qflb",
+			key = "act_044_qflb",
 			desc = "全返礼包",
-			lua = "Act_022_QFLBManager",
+			lua = "Act_044_QFLBManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

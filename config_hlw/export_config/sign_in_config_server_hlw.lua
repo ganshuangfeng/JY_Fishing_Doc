@@ -95,6 +95,7 @@ return {
 			award_id = 1,
 			asset_type = "jing_bi",
 			asset_count = 1000,
+			weight = 1,
 		},
 		[2]=
 		{
@@ -102,6 +103,7 @@ return {
 			award_id = 2,
 			asset_type = "prop_3d_fish_lock",
 			asset_count = 3,
+			weight = 1,
 		},
 		[3]=
 		{
@@ -109,6 +111,7 @@ return {
 			award_id = 3,
 			asset_type = "jing_bi",
 			asset_count = 1500,
+			weight = 1,
 		},
 		[4]=
 		{
@@ -116,6 +119,7 @@ return {
 			award_id = 4,
 			asset_type = "jing_bi",
 			asset_count = 2000,
+			weight = 1,
 		},
 		[5]=
 		{
@@ -123,6 +127,7 @@ return {
 			award_id = 5,
 			asset_type = "prop_3d_fish_summon_fish",
 			asset_count = 3,
+			weight = 1,
 		},
 		[6]=
 		{
@@ -130,6 +135,7 @@ return {
 			award_id = 6,
 			asset_type = "jing_bi",
 			asset_count = 2000,
+			weight = 1,
 		},
 		[7]=
 		{
@@ -137,6 +143,7 @@ return {
 			award_id = 7,
 			asset_type = "jing_bi",
 			asset_count = 3000,
+			weight = 1,
 		},
 		[8]=
 		{
@@ -144,6 +151,7 @@ return {
 			award_id = 8,
 			asset_type = "shop_gold_sum",
 			asset_count = 10,
+			weight = 1,
 		},
 		[9]=
 		{
@@ -151,6 +159,7 @@ return {
 			award_id = 9,
 			asset_type = "jing_bi",
 			asset_count = 2000,
+			weight = 1,
 		},
 		[10]=
 		{
@@ -158,6 +167,7 @@ return {
 			award_id = 10,
 			asset_type = "shop_gold_sum",
 			asset_count = 30,
+			weight = 1,
 		},
 		[11]=
 		{
@@ -165,6 +175,7 @@ return {
 			award_id = 11,
 			asset_type = "jing_bi",
 			asset_count = 5000,
+			weight = 1,
 		},
 		[12]=
 		{
@@ -172,6 +183,7 @@ return {
 			award_id = 12,
 			asset_type = "shop_gold_sum",
 			asset_count = 100,
+			weight = 1,
 		},
 	},
 }
