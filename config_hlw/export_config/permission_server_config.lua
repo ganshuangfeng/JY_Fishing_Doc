@@ -2301,6 +2301,18 @@ return {
 			name = "聚宝盆限制（v0）",
 			condi = 7,
 		},
+		platform_hlw=
+		{
+			key = "platform_hlw",
+			name = "海蓝湾平台",
+			condi = 468,
+		},
+		platform_nothlw=
+		{
+			key = "platform_nothlw",
+			name = "非海蓝湾平台",
+			condi = 469,
+		},
 	},
 	act_permission=
 	{
@@ -19360,6 +19372,26 @@ return {
 			group = 1,
 			error_desc = "需要Vip12才可体验，商城充值可以提升Vip等级！",
 		},
+		[1110]=
+		{
+			no = 1110,
+			id = 468,
+			var = "share_condition",
+			value = "hlw",
+			judge = 2,
+			group = 1,
+			error_desc = "是海蓝湾官方玩家才可游戏",
+		},
+		[1111]=
+		{
+			no = 1111,
+			id = 469,
+			var = "share_condition",
+			value = "hlw",
+			judge = 5,
+			group = 1,
+			error_desc = "不是海蓝湾官方玩家才可游戏",
+		},
 	},
 	share_condition=
 	{
@@ -19414,6 +19446,15 @@ return {
 			name = "gswzq_cpl",
 			var = "market_channel",
 			value = {"wuziqi_juxiang","wuziqi_juxiangpc","wuziqi_pceggs","wuziqi_xianwan","wuziqi_zhuankebao"},
+			judge = 2,
+			group = 1,
+		},
+		[7]=
+		{
+			id = 7,
+			name = "hlw_official",
+			var = "market_channel",
+			value = {"hlw",},
 			judge = 2,
 			group = 1,
 		},
