@@ -2313,6 +2313,12 @@ return {
 			name = "非海蓝湾平台",
 			condi = 469,
 		},
+		drt_hlw_plat_server_1=
+		{
+			key = "drt_hlw_plat_server_1",
+			name = "海蓝湾平台权限",
+			condi = 470,
+		},
 	},
 	act_permission=
 	{
@@ -19391,6 +19397,16 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是海蓝湾官方玩家才可游戏",
+		},
+		[1112]=
+		{
+			no = 1112,
+			id = 470,
+			var = "tag_type",
+			value = "tag_plat_hlw",
+			judge = 2,
+			group = 1,
+			error_desc = "是海蓝湾的玩家才可游戏",
 		},
 	},
 	share_condition=
