@@ -49,6 +49,12 @@ return {
 			game_type = "xxl_sanguo_award",
 			permission_model_id = 1,
 		},
+		[9]=
+		{
+			id = 9,
+			game_type = "buyu_3d_award",
+			permission_model_id = 1,
+		},
 	},
 	permission_model=
 	{
@@ -63,6 +69,22 @@ return {
 		[2]=
 		{
 			id = 2,
+			model_id = 1,
+			permission_key = "drt_hlby_little_game_discount",
+			vip_deal_id = 4,
+			max_award_deal_id = 1,
+		},
+		[3]=
+		{
+			id = 3,
+			model_id = 1,
+			permission_key = "drt_byam_little_game_discount",
+			vip_deal_id = 4,
+			max_award_deal_id = 1,
+		},
+		[4]=
+		{
+			id = 4,
 			model_id = 1,
 			permission_key = "default",
 			vip_deal_id = 2,
@@ -158,6 +180,46 @@ return {
 			start_vip_level = 9,
 			end_vip_level = 12,
 			module_id = 11,
+		},
+		[12]=
+		{
+			id = 12,
+			set_id = 4,
+			start_vip_level = 0,
+			end_vip_level = 1,
+			module_id = 12,
+		},
+		[13]=
+		{
+			id = 13,
+			set_id = 4,
+			start_vip_level = 2,
+			end_vip_level = 4,
+			module_id = 13,
+		},
+		[14]=
+		{
+			id = 14,
+			set_id = 4,
+			start_vip_level = 5,
+			end_vip_level = 6,
+			module_id = 14,
+		},
+		[15]=
+		{
+			id = 15,
+			set_id = 4,
+			start_vip_level = 7,
+			end_vip_level = 8,
+			module_id = 15,
+		},
+		[16]=
+		{
+			id = 16,
+			set_id = 4,
+			start_vip_level = 9,
+			end_vip_level = 12,
+			module_id = 16,
 		},
 	},
 	deal_model=
@@ -489,6 +551,166 @@ return {
 			start_value = 0,
 			end_value = 80000000,
 			discount = 0.900000,
+		},
+		[42]=
+		{
+			id = 42,
+			module_id = 12,
+			start_value = 20000000,
+			end_value = 1000000000000,
+			discount = 0.760000,
+		},
+		[43]=
+		{
+			id = 43,
+			module_id = 12,
+			start_value = 5000000,
+			end_value = 20000000,
+			discount = 0.855000,
+		},
+		[44]=
+		{
+			id = 44,
+			module_id = 12,
+			start_value = 1000000,
+			end_value = 5000000,
+			discount = 0.902500,
+		},
+		[45]=
+		{
+			id = 45,
+			module_id = 12,
+			start_value = 0,
+			end_value = 1000000,
+			discount = 0.950000,
+		},
+		[46]=
+		{
+			id = 46,
+			module_id = 13,
+			start_value = 100000000,
+			end_value = 1000000000000,
+			discount = 0.760000,
+		},
+		[47]=
+		{
+			id = 47,
+			module_id = 13,
+			start_value = 35000000,
+			end_value = 100000000,
+			discount = 0.855000,
+		},
+		[48]=
+		{
+			id = 48,
+			module_id = 13,
+			start_value = 15000000,
+			end_value = 35000000,
+			discount = 0.902500,
+		},
+		[49]=
+		{
+			id = 49,
+			module_id = 13,
+			start_value = 0,
+			end_value = 15000000,
+			discount = 0.950000,
+		},
+		[50]=
+		{
+			id = 50,
+			module_id = 14,
+			start_value = 120000000,
+			end_value = 1000000000000,
+			discount = 0.760000,
+		},
+		[51]=
+		{
+			id = 51,
+			module_id = 14,
+			start_value = 60000000,
+			end_value = 120000000,
+			discount = 0.855000,
+		},
+		[52]=
+		{
+			id = 52,
+			module_id = 14,
+			start_value = 30000000,
+			end_value = 60000000,
+			discount = 0.902500,
+		},
+		[53]=
+		{
+			id = 53,
+			module_id = 14,
+			start_value = 0,
+			end_value = 30000000,
+			discount = 0.950000,
+		},
+		[54]=
+		{
+			id = 54,
+			module_id = 15,
+			start_value = 200000000,
+			end_value = 1000000000000,
+			discount = 0.760000,
+		},
+		[55]=
+		{
+			id = 55,
+			module_id = 15,
+			start_value = 100000000,
+			end_value = 200000000,
+			discount = 0.855000,
+		},
+		[56]=
+		{
+			id = 56,
+			module_id = 15,
+			start_value = 50000000,
+			end_value = 100000000,
+			discount = 0.902500,
+		},
+		[57]=
+		{
+			id = 57,
+			module_id = 15,
+			start_value = 0,
+			end_value = 50000000,
+			discount = 0.950000,
+		},
+		[58]=
+		{
+			id = 58,
+			module_id = 16,
+			start_value = 200000000,
+			end_value = 1000000000000,
+			discount = 0.760000,
+		},
+		[59]=
+		{
+			id = 59,
+			module_id = 16,
+			start_value = 120000000,
+			end_value = 200000000,
+			discount = 0.855000,
+		},
+		[60]=
+		{
+			id = 60,
+			module_id = 16,
+			start_value = 80000000,
+			end_value = 120000000,
+			discount = 0.902500,
+		},
+		[61]=
+		{
+			id = 61,
+			module_id = 16,
+			start_value = 0,
+			end_value = 80000000,
+			discount = 0.950000,
 		},
 	},
 	max_award_model=
