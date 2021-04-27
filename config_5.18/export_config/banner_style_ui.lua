@@ -1016,8 +1016,8 @@ return {
 			order = 100,
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1619481600,
-			endTime = 1620662399,
+			srartTime = 1621296000,
+			endTime = 1621871999,
 		},
 		[90]=
 		{
@@ -1052,28 +1052,6 @@ return {
 			model = "LoginUp",
 			srartTime = 1619481600,
 			endTime = 1620662399,
-		},
-		[93]=
-		{
-			id = 93,
-			bannerID = 93,
-			isOnOff = 0,
-			order = 112,
-			gotoUI = {"act_ty_hlqjd","panel"},
-			model = "LoginUp",
-			srartTime = 1620691200,
-			endTime = 1621267199,
-		},
-		[94]=
-		{
-			id = 94,
-			bannerID = 94,
-			isOnOff = 1,
-			order = 112,
-			gotoUI = {"act_ty_hlwyt","panel"},
-			model = "LoginUp",
-			srartTime = 1621296000,
-			endTime = 1621871999,
 		},
 	},
 }
