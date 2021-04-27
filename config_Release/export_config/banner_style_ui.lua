@@ -400,7 +400,7 @@ return {
 		{
 			id = 36,
 			bannerID = 38,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 1,
 			condi_key = "Sign_in_popup_new",
 			gotoUI = {"xrhb1","panel"},
@@ -837,11 +837,12 @@ return {
 			id = 74,
 			bannerID = 74,
 			isOnOff = 1,
-			order = 100,
+			order = 110,
+			condi_key = "actp_own_task_p_crary_rebate",
 			gotoUI = {"act_027_jqshl","panel"},
 			model = "LoginUp",
-			srartTime = 1618876800,
-			endTime = 1619452799,
+			srartTime = -1,
+			endTime = -1,
 		},
 		[75]=
 		{
@@ -1015,8 +1016,8 @@ return {
 			order = 100,
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1618272000,
-			endTime = 1618847999,
+			srartTime = 1619481600,
+			endTime = 1620662399,
 		},
 		[90]=
 		{
@@ -1039,6 +1040,18 @@ return {
 			model = "LoginUp",
 			srartTime = -1,
 			endTime = -1,
+		},
+		[92]=
+		{
+			id = 92,
+			bannerID = 92,
+			isOnOff = 1,
+			order = 111,
+			condi_key = "actp_buy_gift_bag_class_mslb_cps_nobuy",
+			gotoUI = {"act_040_mslb","login","panel"},
+			model = "LoginUp",
+			srartTime = 1619481600,
+			endTime = 1620662399,
 		},
 	},
 }

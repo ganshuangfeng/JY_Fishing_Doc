@@ -947,6 +947,16 @@ return {
 			award_id = 87,
 			enable = 1,
 		},
+		[89]=
+		{
+			id = 89,
+			name = "五一超值礼包",
+			start_time = 1619481600,
+			end_time = 1620662399,
+			use_asset_id = 82,
+			award_id = 88,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
@@ -1516,6 +1526,13 @@ return {
 			use_id = 81,
 			use_item = "prop_fish_drop_act_0",
 			use_num = 300,
+		},
+		[82]=
+		{
+			id = 82,
+			use_id = 82,
+			use_item = "prop_qdlb_cjq",
+			use_num = 1,
 		},
 	},
 	lottery_credit=
@@ -2178,7 +2195,7 @@ return {
 			no = 93,
 			award_id = 11,
 			real_award_id = 8005,
-			weight = 700.000000,
+			weight = 700,
 		},
 		[94]=
 		{
@@ -2199,7 +2216,7 @@ return {
 			no = 96,
 			award_id = 11,
 			real_award_id = 8008,
-			weight = 350.000000,
+			weight = 350,
 		},
 		[97]=
 		{
@@ -5364,6 +5381,48 @@ return {
 			award_id = 87,
 			real_award_id = 12025,
 			weight = "weight=35",
+		},
+		[549]=
+		{
+			no = 549,
+			award_id = 88,
+			real_award_id = 12026,
+			weight = 300,
+		},
+		[550]=
+		{
+			no = 550,
+			award_id = 88,
+			real_award_id = 12027,
+			weight = 250,
+		},
+		[551]=
+		{
+			no = 551,
+			award_id = 88,
+			real_award_id = 12028,
+			weight = 250,
+		},
+		[552]=
+		{
+			no = 552,
+			award_id = 88,
+			real_award_id = 12029,
+			weight = 199,
+		},
+		[553]=
+		{
+			no = 553,
+			award_id = 88,
+			real_award_id = 12030,
+			weight = 1,
+		},
+		[554]=
+		{
+			no = 554,
+			award_id = 88,
+			real_award_id = 12031,
+			weight = 0,
 		},
 	},
 	award_item=
@@ -9471,6 +9530,48 @@ return {
 			asset_type = "prop_tiny_game_coin",
 			asset_count = {30000,30000},
 		},
+		[554]=
+		{
+			id = 554,
+			real_award_id = 12026,
+			asset_type = "shop_gold_sum",
+			asset_count = {5,5},
+		},
+		[555]=
+		{
+			id = 555,
+			real_award_id = 12027,
+			asset_type = "jing_bi",
+			asset_count = {10000,10000},
+		},
+		[556]=
+		{
+			id = 556,
+			real_award_id = 12028,
+			asset_type = "shop_gold_sum",
+			asset_count = {30,30},
+		},
+		[557]=
+		{
+			id = 557,
+			real_award_id = 12029,
+			asset_type = "jing_bi",
+			asset_count = {50000,50000},
+		},
+		[558]=
+		{
+			id = 558,
+			real_award_id = 12030,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = {1000,1000},
+		},
+		[559]=
+		{
+			id = 559,
+			real_award_id = 12031,
+			award_name = "Iphone12",
+			asset_count = {1,1},
+		},
 	},
 	weight=
 	{
@@ -9689,7 +9790,7 @@ return {
 			no = 31,
 			weight_id = 11,
 			permission_key = "box_vip1_4",
-			weight = 3940.000000,
+			weight = 3940,
 		},
 		[32]=
 		{
@@ -10124,6 +10225,12 @@ return {
 			key = "ltqf_001",
 			min = 88,
 			max = 88,
+		},
+		wyczlb_002=
+		{
+			key = "wyczlb_002",
+			min = 89,
+			max = 89,
 		},
 	},
 	all_powerful=

@@ -4,17 +4,17 @@ return {
 		[1]=
 		{
 			index = 1,
-			key = "act_xyxfl",
-			icon = "wyfl_bg_1",
-			name = "免费金币",
+			key = "act_hlfl",
+			icon = "hlfl_bg_1",
+			name = "奖励金币",
 			tges = 1,
 		},
 		[2]=
 		{
 			index = 2,
-			key = "act_xyxfl_cjj",
-			icon = "wyfl_bg_1",
-			name = "免费金币_cjj",
+			key = "act_hlfl_cjj",
+			icon = "hlfl_bg_1",
+			name = "奖励金币_cjj",
 			tges = 2,
 		},
 		[3]=
@@ -49,62 +49,79 @@ return {
 			name = "感恩回馈--v4--冲金鸡",
 			tges = 6,
 		},
+		[7]=
+		{
+			index = 7,
+			key = "act_hlfl_byam",
+			icon = "hlfl_bg_1",
+			name = "奖励金币_byam",
+			tges = 7,
+		},
 	},
 	tge=
 	{
 		[1]=
 		{
 			tge_index = 1,
-			name = "免费金币",
+			name = "奖励金币",
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {1,2,3,4,5,6,7,8,9,10},
+			task_index = {41,42,43,44,45,46,47,48,49,50,51,52},
 		},
 		[2]=
 		{
 			tge_index = 2,
-			name = "免费金币_cjj",
+			name = "奖励金币_cjj",
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {11,12,13,14,15,16,17,18,19,20},
+			task_index = {53,54,55,56,57,58,59,60,61,62,63,64},
 		},
 		[3]=
 		{
 			tge_index = 3,
 			name = "限时返利--v3_normal",
-			on_off = 1,
-			is_show = 1,
-			order = 1,
+			on_off = 0,
+			is_show = 0,
+			order = 0,
 			task_index = {21,22,23,24,25},
 		},
 		[4]=
 		{
 			tge_index = 4,
 			name = "限时返利--v4_normal",
-			on_off = 1,
-			is_show = 1,
-			order = 1,
+			on_off = 0,
+			is_show = 0,
+			order = 0,
 			task_index = {26,27,28,29,30},
 		},
 		[5]=
 		{
 			tge_index = 5,
 			name = "限时返利--v3_cjj",
-			on_off = 1,
-			is_show = 1,
-			order = 1,
+			on_off = 0,
+			is_show = 0,
+			order = 0,
 			task_index = {31,32,33,34,35},
 		},
 		[6]=
 		{
 			tge_index = 6,
 			name = "限时返利--v4_cjj",
+			on_off = 0,
+			is_show = 0,
+			order = 0,
+			task_index = {36,37,38,39,40},
+		},
+		[7]=
+		{
+			tge_index = 7,
+			name = "act_hlfl_byam",
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {36,37,38,39,40},
+			task_index = {65,66,67,68,69,70,71,72,73},
 		},
 	},
 	task=
@@ -157,8 +174,8 @@ return {
 		{
 			id = 5,
 			task = 1000567,
-			total = 3,
-			task_name = "在西游消消乐中消除3个孙悟空",
+			total = 1,
+			task_name = "在西游消消乐中消除1次孙悟空",
 			level = 1,
 			item = {"jing_bi","prop_fish_drop_act_0"},
 			count = {10000,10},
@@ -234,8 +251,8 @@ return {
 		{
 			id = 12,
 			task = 1000574,
-			total = 6,
-			task_name = "在西游消消乐中消除6个孙悟空",
+			total = 2,
+			task_name = "在西游消消乐中消除2次孙悟空",
 			level = 1,
 			item = {"jing_bi",},
 			count = {20000,},
@@ -339,7 +356,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"4万-20万","20",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
+			Tips = {"","",},
 		},
 		[22]=
 		{
@@ -351,7 +368,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"10万-50万","40",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
+			Tips = {"","",},
 		},
 		[23]=
 		{
@@ -363,7 +380,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"25万-100万","70",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
+			Tips = {"","",},
 		},
 		[24]=
 		{
@@ -375,7 +392,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"40万-200万","200",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
+			Tips = {"","",},
 		},
 		[25]=
 		{
@@ -387,7 +404,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"78万-300万","500",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
+			Tips = {"","",},
 		},
 		[26]=
 		{
@@ -399,7 +416,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"2500万-6800万","1500",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
+			Tips = {"","",},
 		},
 		[27]=
 		{
@@ -411,7 +428,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"800万-2800万","1000",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
+			Tips = {"","",},
 		},
 		[28]=
 		{
@@ -423,7 +440,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"480万-1200万","900",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
+			Tips = {"","",},
 		},
 		[29]=
 		{
@@ -435,7 +452,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"178万-600万","700",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
+			Tips = {"","",},
 		},
 		[30]=
 		{
@@ -447,7 +464,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"78万-300万","500",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
+			Tips = {"","",},
 		},
 		[31]=
 		{
@@ -568,6 +585,369 @@ return {
 			count = {"78万-300万","20",},
 			gotoUI = {"shop_bay","jing_bi",},
 			Tips = {"","请在苹果大战中使用"},
+		},
+		[41]=
+		{
+			id = 41,
+			task = 1000583,
+			total = 1,
+			task_name = "在龙王贡品中，获得1次奖赏",
+			level = 1,
+			item = {"jing_bi",},
+			count = {5000,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[42]=
+		{
+			id = 42,
+			task = 1000584,
+			total = 3,
+			task_name = "在龙王贡品中，获得3次奖赏",
+			level = 1,
+			item = {"jing_bi",},
+			count = {10000,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[43]=
+		{
+			id = 43,
+			task = 1000585,
+			total = 8,
+			task_name = "在龙王贡品中，获得8次奖赏",
+			level = 1,
+			item = {"jing_bi",},
+			count = {30000,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[44]=
+		{
+			id = 44,
+			task = 1000586,
+			total = 5,
+			task_name = "在3D捕鱼深海探险当前层数+5",
+			level = 1,
+			item = {"jing_bi",},
+			count = {10000,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[45]=
+		{
+			id = 45,
+			task = 1000587,
+			total = 5,
+			task_name = "在3D捕鱼海底宝藏中累计使用5次双倍奖励",
+			level = 1,
+			item = {"jing_bi",},
+			count = {10000,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[46]=
+		{
+			id = 46,
+			task = 1000588,
+			total = 1,
+			task_name = "在3D捕鱼海底宝藏以上场次任意击杀1条boss",
+			level = 1,
+			item = {"jing_bi",},
+			count = {30000,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[47]=
+		{
+			id = 47,
+			task = 1000589,
+			total = 2,
+			task_name = "在西游消消乐中消除2次孙悟空",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[48]=
+		{
+			id = 48,
+			task = 1000590,
+			total = 2,
+			task_name = "在西游消消乐中消除2次唐僧",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[49]=
+		{
+			id = 49,
+			task = 1000591,
+			total = 2,
+			task_name = "在水浒消消乐中召唤出2个英雄",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[50]=
+		{
+			id = 50,
+			task = 1000592,
+			total = 4,
+			task_name = "在水浒消消乐中召唤出4个英雄",
+			level = 1,
+			item = {"jing_bi",},
+			count = {30000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[51]=
+		{
+			id = 51,
+			task = 1000593,
+			total = 3,
+			task_name = "在苹果大战中连胜3局",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[52]=
+		{
+			id = 52,
+			task = 1000594,
+			total = 1,
+			task_name = "在苹果大战中种出1次金苹果",
+			level = 1,
+			item = {"jing_bi",},
+			count = {30000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[53]=
+		{
+			id = 53,
+			task = 1000595,
+			total = 1,
+			task_name = "在水果消消乐闯关中当前关卡数+1",
+			level = 1,
+			item = {"jing_bi",},
+			count = {5000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[54]=
+		{
+			id = 54,
+			task = 1000596,
+			total = 5,
+			task_name = "在水果消消乐闯关中当前关卡数+5",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[55]=
+		{
+			id = 55,
+			task = 1000597,
+			total = 1,
+			task_name = "在西游消消乐中消除1次孙悟空",
+			level = 1,
+			item = {"jing_bi",},
+			count = {10000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[56]=
+		{
+			id = 56,
+			task = 1000598,
+			total = 2,
+			task_name = "在西游消消乐中累计消除2次孙悟空",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[57]=
+		{
+			id = 57,
+			task = 1000599,
+			total = 1,
+			task_name = "在西游消消乐中消除1次唐僧",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[58]=
+		{
+			id = 58,
+			task = 1000600,
+			total = 2,
+			task_name = "在水浒消消乐中累计召唤出2个英雄",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[59]=
+		{
+			id = 59,
+			task = 1000601,
+			total = 4,
+			task_name = "在水浒消消乐中累计召唤出4个英雄",
+			level = 1,
+			item = {"jing_bi",},
+			count = {30000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[60]=
+		{
+			id = 60,
+			task = 1000602,
+			total = 3,
+			task_name = "在冲金鸡财神模式中连胜3局",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[61]=
+		{
+			id = 61,
+			task = 1000603,
+			total = 300000,
+			task_name = "在龙王争霸中累计赢金30万",
+			level = 1,
+			item = {"jing_bi",},
+			count = {10000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[62]=
+		{
+			id = 62,
+			task = 1000604,
+			total = 600000,
+			task_name = "在龙王争霸中累计赢金60万",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[63]=
+		{
+			id = 63,
+			task = 1000605,
+			total = 3,
+			task_name = "在苹果大战中连胜3局",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[64]=
+		{
+			id = 64,
+			task = 1000606,
+			total = 1,
+			task_name = "在苹果大战中种出1次金苹果",
+			level = 1,
+			item = {"jing_bi",},
+			count = {30000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[65]=
+		{
+			id = 65,
+			task = 1000586,
+			total = 5,
+			task_name = "在3D捕鱼深海探险当前层数+5",
+			level = 1,
+			item = {"jing_bi",},
+			count = {10000,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[66]=
+		{
+			id = 66,
+			task = 1000587,
+			total = 5,
+			task_name = "在3D捕鱼海底宝藏中累计使用5次双倍奖励",
+			level = 1,
+			item = {"jing_bi",},
+			count = {10000,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[67]=
+		{
+			id = 67,
+			task = 1000588,
+			total = 1,
+			task_name = "在3D捕鱼海底宝藏以上场次任意击杀1条boss",
+			level = 1,
+			item = {"jing_bi",},
+			count = {30000,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[68]=
+		{
+			id = 68,
+			task = 1000589,
+			total = 2,
+			task_name = "在西游消消乐中消除2次孙悟空",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[69]=
+		{
+			id = 69,
+			task = 1000590,
+			total = 2,
+			task_name = "在西游消消乐中消除2次唐僧",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[70]=
+		{
+			id = 70,
+			task = 1000591,
+			total = 2,
+			task_name = "在水浒消消乐中召唤出2个英雄",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[71]=
+		{
+			id = 71,
+			task = 1000592,
+			total = 4,
+			task_name = "在水浒消消乐中召唤出4个英雄",
+			level = 1,
+			item = {"jing_bi",},
+			count = {30000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[72]=
+		{
+			id = 72,
+			task = 1000593,
+			total = 3,
+			task_name = "在苹果大战中连胜3局",
+			level = 1,
+			item = {"jing_bi",},
+			count = {20000,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[73]=
+		{
+			id = 73,
+			task = 1000594,
+			total = 1,
+			task_name = "在苹果大战中种出1次金苹果",
+			level = 1,
+			item = {"jing_bi",},
+			count = {30000,},
+			gotoUI = {"game_MiniGame",},
 		},
 	},
 }

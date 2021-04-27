@@ -2682,12 +2682,12 @@ return {
 		[274]=
 		{
 			id = 274,
-			key = "act_029_hlqjd",
+			key = "act_ty_hlqjd",
 			desc = "欢乐敲金蛋",
-			lua = "Act_029_HLQJDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			lua = "Act_ty_HLQJDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[275]=
 		{
@@ -3224,8 +3224,8 @@ return {
 		[329]=
 		{
 			id = 329,
-			key = "act_ty_gifts_style/act_002_hllb",
-			desc = "欢乐礼包",
+			key = "act_ty_gifts_style/act_002_ltlb",
+			desc = "龙腾礼包",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3255,6 +3255,26 @@ return {
 			id = 332,
 			key = "act_ty_zp1_style/act_ty_zp1_002",
 			desc = "通用转盘皮肤",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[333]=
+		{
+			id = 333,
+			key = "act_cjj_by_byam_guide",
+			desc = "冲金鸡引导到捕鱼奥秘",
+			lua = "ActCJJBYBYAMManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[334]=
+		{
+			id = 334,
+			key = "act_054_byns",
+			desc = "捕鱼能手",
+			lua = "Act_054_BYNSManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

@@ -479,7 +479,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "120#",
+			group_list = "100#",
 		},
 	},
 	jchd_config=
@@ -1060,7 +1060,7 @@ return {
 		{
 			id = 93,
 			parm = {"act_027_jqshl",},
-			is_on_off = 0,
+			is_on_off = 1,
 		},
 		[94]=
 		{
@@ -1101,7 +1101,7 @@ return {
 		[100]=
 		{
 			id = 100,
-			parm = {"act_029_hlqjd",},
+			parm = {"act_ty_hlqjd",},
 			is_on_off = 1,
 		},
 		[101]=
@@ -1321,14 +1321,14 @@ return {
 		{
 			id = 135,
 			parm = {"act_027_jqshl",},
-			is_on_off = 0,
+			is_on_off = 1,
 			condi_key = "xrzx_newplayer",
 		},
 		[136]=
 		{
 			id = 136,
 			parm = {"act_027_jqshl",},
-			is_on_off = 0,
+			is_on_off = 1,
 			condi_key = "lxdh_025_notnew",
 		},
 		[137]=
@@ -1336,7 +1336,7 @@ return {
 			id = 137,
 			parm = {"act_040_mslb",},
 			is_on_off = 1,
-			condi_key = "by3d_no_cps",
+			condi_key = "cpl_notcjj",
 		},
 		[138]=
 		{

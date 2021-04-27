@@ -1717,7 +1717,7 @@ return {
 			image = "act_ty_by_drop_7",
 			is_show_bag = 0,
 			order = 1,
-			name = "彩球",
+			name = "铁锤",
 			desc = "掉落物活动通用道具",
 		},
 		[131]=
@@ -3926,8 +3926,8 @@ return {
 			image = "act_ty_zp1_cjq",
 			is_show_bag = 0,
 			order = 33,
-			name = "庆典礼包抽奖券",
-			desc = "庆典礼包抽奖券",
+			name = "超值礼包抽奖券",
+			desc = "超值礼包抽奖券",
 		},
 		[291]=
 		{

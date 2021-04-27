@@ -183,7 +183,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#8#122#61#9#117#134#",
+			group_list = "3;116#2#139#8#122#61#137#9#117#134#138#",
 		},
 		[2]=
 		{
@@ -327,7 +327,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "111#112#53#79#36;113;89;136;131;#",
+			group_list = "111#112#53#79#36;113;89;131;#",
 		},
 		[2]=
 		{
@@ -479,7 +479,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "132#",
+			group_list = "120#",
 		},
 	},
 	jchd_config=
@@ -488,7 +488,7 @@ return {
 		{
 			id = 1,
 			area = "all",
-			group_list = "40#74#110#130#135#",
+			group_list = "40#74#110#130#139#",
 		},
 	},
 	hqjb_config=
@@ -1060,7 +1060,7 @@ return {
 		{
 			id = 93,
 			parm = {"act_027_jqshl",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[94]=
 		{
@@ -1321,15 +1321,35 @@ return {
 		{
 			id = 135,
 			parm = {"act_027_jqshl",},
-			is_on_off = 1,
+			is_on_off = 0,
 			condi_key = "xrzx_newplayer",
 		},
 		[136]=
 		{
 			id = 136,
 			parm = {"act_027_jqshl",},
-			is_on_off = 1,
+			is_on_off = 0,
 			condi_key = "lxdh_025_notnew",
+		},
+		[137]=
+		{
+			id = 137,
+			parm = {"act_040_mslb",},
+			is_on_off = 1,
+			condi_key = "by3d_no_cps",
+		},
+		[138]=
+		{
+			id = 138,
+			parm = {"act_040_mslb",},
+			is_on_off = 1,
+			condi_key = "cpl_cjj",
+		},
+		[139]=
+		{
+			id = 139,
+			parm = {"act_027_jqshl",},
+			is_on_off = 1,
 		},
 	},
 }
