@@ -6680,8 +6680,8 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_wylft_014_ldxfb_rank",
-			name = "劳动先锋榜--非cjj",
+			key = "actp_rank_hljnh_015_yxdr_rank",
+			name = "游戏达人--非cjj",
 			condi = 393,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
