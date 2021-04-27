@@ -6686,7 +6686,7 @@ return {
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615824000,
+			start_deal_time = 1621296000,
 		},
 		[372]=
 		{
