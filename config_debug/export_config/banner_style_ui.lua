@@ -837,7 +837,7 @@ return {
 			id = 74,
 			bannerID = 74,
 			isOnOff = 1,
-			order = 100,
+			order = 110,
 			condi_key = "actp_own_task_p_crary_rebate",
 			gotoUI = {"act_027_jqshl","panel"},
 			model = "LoginUp",
