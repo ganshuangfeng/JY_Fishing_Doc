@@ -3246,18 +3246,18 @@ return {
 			key = "act_040_mslb",
 			desc = "秒杀礼包",
 			lua = "Act_040_MSLBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[332]=
 		{
 			id = 332,
 			key = "act_ty_zp1_style/act_ty_zp1_002",
 			desc = "通用转盘皮肤",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[333]=
 		{
@@ -3265,9 +3265,9 @@ return {
 			key = "act_cjj_by_byam_guide",
 			desc = "冲金鸡引导到捕鱼奥秘",
 			lua = "ActCJJBYBYAMManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[334]=
 		{
@@ -3275,9 +3275,9 @@ return {
 			key = "act_054_byns",
 			desc = "捕鱼能手",
 			lua = "Act_054_BYNSManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 	},
 }
