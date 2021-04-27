@@ -140,4 +140,22 @@ return {
 			task_id = 1000616,
 		},
 	},
+	Box_exchange=
+	{
+		[1]=
+		{
+			id = 1,
+			box_exchange_id = 90,
+		},
+		[2]=
+		{
+			id = 2,
+			box_exchange_id = 91,
+		},
+		[3]=
+		{
+			id = 3,
+			box_exchange_id = 92,
+		},
+	},
 }
