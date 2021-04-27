@@ -838,10 +838,11 @@ return {
 			bannerID = 74,
 			isOnOff = 1,
 			order = 100,
+			condi_key = "actp_own_task_p_crary_rebate",
 			gotoUI = {"act_027_jqshl","panel"},
 			model = "LoginUp",
-			srartTime = 1618876800,
-			endTime = 1619452799,
+			srartTime = -1,
+			endTime = -1,
 		},
 		[75]=
 		{
