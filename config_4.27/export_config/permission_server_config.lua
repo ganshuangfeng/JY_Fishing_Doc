@@ -17465,9 +17465,9 @@ return {
 			id = 430,
 			var = "vip_level",
 			value = 3,
-			judge = 4,
+			judge = 3,
 			group = 1,
-			error_desc = "VIP3及以下玩家",
+			error_desc = "VIP3及以上玩家",
 		},
 		[1044]=
 		{
