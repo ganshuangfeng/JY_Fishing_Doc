@@ -3319,9 +3319,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[399]=
+		[339]=
 		{
-			id = 399,
+			id = 339,
 			key = "act_054_byns",
 			desc = "捕鱼能手",
 			lua = "Act_054_BYNSManager",
