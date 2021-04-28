@@ -1574,6 +1574,20 @@ return {
 			source_type = "zajindan_caishen_model_spend",
 			condtion_id = 0,
 		},
+		[128]=
+		{
+			id = 128,
+			source_id = 48,
+			source_type = "buyu_spend_by_use_fish_prop",
+			condtion_id = 0,
+		},
+		[129]=
+		{
+			id = 129,
+			source_id = 48,
+			source_type = "buyu_3d_spend_by_use_fish_prop",
+			condtion_id = 0,
+		},
 	},
 	source_condition=
 	{
