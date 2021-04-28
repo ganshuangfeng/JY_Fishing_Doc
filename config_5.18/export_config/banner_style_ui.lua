@@ -1012,8 +1012,8 @@ return {
 		{
 			id = 89,
 			bannerID = 89,
-			isOnOff = 0,
-			order = 100,
+			isOnOff = 1,
+			order = 111,
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
 			srartTime = 1621296000,
