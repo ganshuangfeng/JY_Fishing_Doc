@@ -48,9 +48,9 @@ return {
 			id = 4,
 			real_cfg_id = 1,
 			award_id = 4,
-			award_name = "300万鱼币",
+			award_name = "300万小游戏币",
 			award_value = 3000000,
-			award_type = "fish_coin",
+			award_type = "prop_tiny_game_coin",
 			power = 2,
 		},
 		[5]=
@@ -68,9 +68,9 @@ return {
 			id = 6,
 			real_cfg_id = 1,
 			award_id = 6,
-			award_name = "120万鱼币",
+			award_name = "120万小游戏币",
 			award_value = 1200000,
-			award_type = "fish_coin",
+			award_type = "prop_tiny_game_coin",
 			power = 12,
 		},
 		[7]=
