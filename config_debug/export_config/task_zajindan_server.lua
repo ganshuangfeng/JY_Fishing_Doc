@@ -36382,7 +36382,7 @@ return {
 			id = 634,
 			condition_id = 471,
 			condition_name = "fish_prop",
-			condition_value = "prop_3d_fish_wild",
+			condition_value = "prop_3d_fish_doubled",
 			judge_type = 2,
 		},
 		[635]=
