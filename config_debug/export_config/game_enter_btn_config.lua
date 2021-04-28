@@ -1060,7 +1060,7 @@ return {
 		{
 			id = 93,
 			parm = {"act_027_jqshl",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[94]=
 		{
@@ -1321,14 +1321,14 @@ return {
 		{
 			id = 135,
 			parm = {"act_027_jqshl",},
-			is_on_off = 1,
+			is_on_off = 0,
 			condi_key = "xrzx_newplayer",
 		},
 		[136]=
 		{
 			id = 136,
 			parm = {"act_027_jqshl",},
-			is_on_off = 1,
+			is_on_off = 0,
 			condi_key = "lxdh_025_notnew",
 		},
 		[137]=
