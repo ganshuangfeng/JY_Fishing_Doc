@@ -158,4 +158,25 @@ return {
 			box_exchange_id = 92,
 		},
 	},
+	Award_sw=
+	{
+		[1]=
+		{
+			id = 1,
+			image = "activity_icon_gift269_sqm",
+			tex = "金龙鱼大米",
+		},
+		[2]=
+		{
+			id = 2,
+			image = "activity_icon_gift268_sqm",
+			tex = "索尼耳机",
+		},
+		[3]=
+		{
+			id = 3,
+			image = "activity_icon_gift103_xlx",
+			tex = "高级旅行箱",
+		},
+	},
 }
