@@ -6404,7 +6404,7 @@ return {
 			end_rank = 1,
 			start_score = 3000000000,
 			end_score = 99999999999,
-			award_id = 387394,
+			award_id = {387,394},
 			award_type = "nor",
 		},
 		[317]=
@@ -6415,7 +6415,7 @@ return {
 			end_rank = 2,
 			start_score = 2000000000,
 			end_score = 99999999999,
-			award_id = 388395,
+			award_id = {388,395},
 			award_type = "nor",
 		},
 		[318]=
@@ -6426,7 +6426,7 @@ return {
 			end_rank = 3,
 			start_score = 1000000000,
 			end_score = 99999999999,
-			award_id = 389396,
+			award_id = {389,396},
 			award_type = "nor",
 		},
 		[319]=
@@ -6437,7 +6437,7 @@ return {
 			end_rank = 6,
 			start_score = 500000000,
 			end_score = 99999999999,
-			award_id = 390397,
+			award_id = {390,397},
 			award_type = "nor",
 		},
 		[320]=
@@ -6448,7 +6448,7 @@ return {
 			end_rank = 10,
 			start_score = 300000000,
 			end_score = 99999999999,
-			award_id = 391397,
+			award_id = {391,397},
 			award_type = "nor",
 		},
 		[321]=
@@ -6459,7 +6459,7 @@ return {
 			end_rank = 15,
 			start_score = 200000000,
 			end_score = 99999999999,
-			award_id = 392398,
+			award_id = {392,398},
 			award_type = "nor",
 		},
 		[322]=
@@ -6470,7 +6470,7 @@ return {
 			end_rank = 20,
 			start_score = 100000000,
 			end_score = 99999999999,
-			award_id = 393399,
+			award_id = {393,399},
 			award_type = "nor",
 		},
 	},
