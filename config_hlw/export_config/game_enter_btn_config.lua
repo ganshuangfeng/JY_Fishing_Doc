@@ -4,32 +4,8 @@ return {
 		[1]=
 		{
 			id = 1,
-			area = "center",
-			group_list = "14#",
-		},
-		[2]=
-		{
-			id = 2,
-			area = "center1",
-			group_list = "91#",
-		},
-		[3]=
-		{
-			id = 3,
 			area = "top_left",
-			group_list = "118#72#",
-		},
-		[4]=
-		{
-			id = 4,
-			area = "center_top",
-			group_list = "9#80#122#",
-		},
-		[5]=
-		{
-			id = 5,
-			area = "top_right",
-			group_list = "108#11#",
+			group_list = "118#72#80#11#",
 		},
 	},
 	xxlsh_game=
