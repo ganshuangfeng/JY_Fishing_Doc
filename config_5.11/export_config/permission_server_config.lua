@@ -6523,7 +6523,7 @@ return {
 		[358]=
 		{
 			id = 358,
-			enable = 0,
+			enable = 1,
 			key = "actp_buy_gift_bag_class_golden_egg_1",
 			name = "疯狂敲金蛋V3以下",
 			condi = 389,
@@ -6535,7 +6535,7 @@ return {
 		[359]=
 		{
 			id = 359,
-			enable = 0,
+			enable = 1,
 			key = "actp_buy_gift_bag_class_golden_egg_2",
 			name = "疯狂敲金蛋V4V7",
 			condi = 390,
@@ -6547,7 +6547,7 @@ return {
 		[360]=
 		{
 			id = 360,
-			enable = 0,
+			enable = 1,
 			key = "actp_buy_gift_bag_class_golden_egg_3",
 			name = "疯狂敲金蛋V8V12",
 			condi = 391,
@@ -6692,7 +6692,7 @@ return {
 		{
 			id = 372,
 			enable = 1,
-			key = "actp_rank_xxlzb_009_rank",
+			key = "actp_rank_cjj_xxlzb_rank",
 			name = "消消乐争霸--cjj",
 			condi = 394,
 			is_dynamic_codi = 1,
