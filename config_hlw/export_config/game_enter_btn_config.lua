@@ -327,7 +327,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "111#112#53#79#36;113;89;131;#",
+			group_list = "111#112#72#11#",
 		},
 		[2]=
 		{
@@ -351,7 +351,6 @@ return {
 		{
 			id = 5,
 			area = "Right_down2",
-			group_list = "72#",
 		},
 		[6]=
 		{
