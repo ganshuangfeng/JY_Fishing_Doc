@@ -377,43 +377,17 @@ return {
 		[1]=
 		{
 			id = 1,
-			area = "top",
-			group_list = "63#",
+			area = "right_top",
+			group_list = "42#10#108#",
 		},
-		[2]=
+	},
+	fishing3d_bosshall=
+	{
+		[1]=
 		{
-			id = 2,
-			area = "center",
-		},
-		[3]=
-		{
-			id = 3,
-			area = "top_right",
-			group_list = "108#104#95#72#",
-		},
-		[4]=
-		{
-			id = 4,
-			area = "center2",
-			group_list = "71#",
-		},
-		[5]=
-		{
-			id = 5,
-			area = "center3",
-			group_list = "75#",
-		},
-		[6]=
-		{
-			id = 6,
-			area = "center4",
-			group_list = "76#67",
-		},
-		[7]=
-		{
-			id = 7,
-			area = "center5",
-			group_list = "77#68",
+			id = 1,
+			area = "right_top",
+			group_list = "42#10#108#",
 		},
 	},
 	ttl_config=
