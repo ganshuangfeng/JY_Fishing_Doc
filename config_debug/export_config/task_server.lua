@@ -3105,6 +3105,7 @@ return {
 			source_id = 96,
 			source_type = "buyu_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[105]=
 		{
@@ -3147,6 +3148,7 @@ return {
 			source_id = 96,
 			source_type = "jykp_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[111]=
 		{
@@ -3175,6 +3177,7 @@ return {
 			source_id = 96,
 			source_type = "buyu_3d_award",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[115]=
 		{
