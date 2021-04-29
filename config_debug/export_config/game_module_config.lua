@@ -3274,7 +3274,7 @@ return {
 		[334]=
 		{
 			id = 334,
-			key = "act_ty_gifts_style/act_002_ltlb",
+			key = "act_ty_gifts_style/act_002_hllb",
 			desc = "欢乐礼包",
 			is_on_off = 1,
 			enable = 1,
