@@ -8,7 +8,7 @@ return {
 			ID = 1,
 			item_key = "prop_grade",
 			rank_type = "hlwyt_016_fqdr_rank",
-			s_time = 1621267200,
+			s_time = 1621296000,
 			e_time = 1621871999,
 			award = {1,2,3,4,5,6,7},
 			extra_award = {8,9,10,11,12,13,14},
