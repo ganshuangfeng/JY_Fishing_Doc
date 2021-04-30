@@ -14,7 +14,7 @@ return {
 			extra_award = {8,9,10,11,12,13,14},
 			path = "act_015_dlphb",
 			condiy_key = "actp_rank_hlwyt_016_fqdr_rank",
-			type_info = 10,
+			type_info = 1,
 		},
 	},
 	award_config=
