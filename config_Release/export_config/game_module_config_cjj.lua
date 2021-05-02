@@ -2623,11 +2623,11 @@ return {
 		{
 			id = 268,
 			key = "act_027_jqshl",
-			desc = "金秋送豪礼",
+			desc = "充值消耗模板",
 			lua = "Act_027_JQSHLManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[269]=
 		{
@@ -3236,6 +3236,25 @@ return {
 			key = "act_053_xcns",
 			desc = "消除达人",
 			lua = "Act_053_XCNSManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[331]=
+		{
+			id = 331,
+			key = "act_027_jqshl_style/act_027_style_002",
+			desc = "欢乐豪礼",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[332]=
+		{
+			id = 332,
+			key = "act_cjj_by_byam_guide",
+			desc = "冲金鸡用户转入捕鱼奥秘",
+			lua = "ActCJJBYBYAMManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
