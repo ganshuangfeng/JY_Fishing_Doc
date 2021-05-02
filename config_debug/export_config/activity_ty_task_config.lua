@@ -339,7 +339,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"4万-20万","20",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","",},
+			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
 		},
 		[22]=
 		{
@@ -351,7 +351,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"10万-50万","40",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","",},
+			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
 		},
 		[23]=
 		{
@@ -363,7 +363,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"25万-100万","70",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","",},
+			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
 		},
 		[24]=
 		{
@@ -375,7 +375,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"40万-200万","200",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","",},
+			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
 		},
 		[25]=
 		{
@@ -387,7 +387,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"78万-300万","500",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","",},
+			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
 		},
 		[26]=
 		{
@@ -399,7 +399,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"2500万-6800万","1500",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","",},
+			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
 		},
 		[27]=
 		{
@@ -411,7 +411,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"800万-2800万","1000",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","",},
+			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
 		},
 		[28]=
 		{
@@ -423,7 +423,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"480万-1200万","900",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","",},
+			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
 		},
 		[29]=
 		{
@@ -435,7 +435,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"178万-600万","700",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","",},
+			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
 		},
 		[30]=
 		{
@@ -447,7 +447,7 @@ return {
 			item = {"jing_bi","prop_fish_drop_act_0",},
 			count = {"78万-300万","500",},
 			gotoUI = {"shop_bay","jing_bi",},
-			Tips = {"","",},
+			Tips = {"金币福袋：随机开出大额金币","铁锤道具：可兑换奖励",},
 		},
 		[31]=
 		{
