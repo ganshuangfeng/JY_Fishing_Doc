@@ -1041,5 +1041,16 @@ return {
 			srartTime = -1,
 			endTime = -1,
 		},
+		[92]=
+		{
+			id = 92,
+			bannerID = 92,
+			isOnOff = 1,
+			order = 111,
+			gotoUI = {"act_040_mslb","login","panel"},
+			model = "LoginUp",
+			srartTime = 1619481600,
+			endTime = 1620662399,
+		},
 	},
 }
