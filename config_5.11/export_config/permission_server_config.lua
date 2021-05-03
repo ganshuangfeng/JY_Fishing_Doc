@@ -7036,6 +7036,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1619452800,
 		},
+		[401]=
+		{
+			id = 401,
+			enable = 1,
+			key = "actp_own_task_p_hlfl_nor_no_byam",
+			name = "欢乐福利（欢乐捕鱼所有玩家显示）",
+			condi = 440,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1620691200,
+		},
 	},
 	condi=
 	{
@@ -17598,6 +17610,16 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是捕鱼奥秘渠道",
+		},
+		[1057]=
+		{
+			no = 1057,
+			id = 440,
+			var = "share_condition",
+			value = "tthlby_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是欢乐捕鱼渠道",
 		},
 	},
 	share_condition=
