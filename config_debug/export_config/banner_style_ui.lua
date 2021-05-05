@@ -1047,6 +1047,7 @@ return {
 			bannerID = 92,
 			isOnOff = 1,
 			order = 111,
+			condi_key = "actp_buy_gift_bag_class_mslb_cps_nobuy",
 			gotoUI = {"act_040_mslb","login","panel"},
 			model = "LoginUp",
 			srartTime = 1619481600,
