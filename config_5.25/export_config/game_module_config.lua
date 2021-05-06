@@ -3031,7 +3031,7 @@ return {
 		{
 			id = 309,
 			key = "act_ty_zp1",
-			desc = "通用活动--转盘模板（超值礼包）",
+			desc = "通用活动--转盘模板（畅玩礼包）",
 			lua = "Act_Ty_ZP1Manager",
 			is_on_off = 1,
 			enable = 1,
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_016",
+			key = "sys_act_base_style/sys_act_base_weekly_017",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3217,7 +3217,7 @@ return {
 			key = "by_hbyts",
 			desc = "红包鱼提示",
 			lua = "BYHBYTSManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
@@ -3275,7 +3275,7 @@ return {
 		{
 			id = 334,
 			key = "act_ty_gifts_style/act_002_hllb",
-			desc = "欢乐礼包",
+			desc = "龙腾礼包",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3286,9 +3286,9 @@ return {
 			key = "sys_lwgp",
 			desc = "龙王贡品",
 			lua = "SYSLWGPManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[336]=
 		{
@@ -3303,8 +3303,9 @@ return {
 		[337]=
 		{
 			id = 337,
-			key = "act_ty_zp1_style/act_ty_zp1_002",
-			desc = "通用转盘皮肤",
+			key = "act_040_mslb",
+			desc = "秒杀礼包",
+			lua = "Act_040_MSLBManager",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -3312,9 +3313,8 @@ return {
 		[338]=
 		{
 			id = 338,
-			key = "act_040_mslb",
-			desc = "秒杀礼包",
-			lua = "Act_040_MSLBManager",
+			key = "act_ty_zp1_style/act_ty_zp1_002",
+			desc = "通用转盘皮肤",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
