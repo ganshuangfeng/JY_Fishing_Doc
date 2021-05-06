@@ -792,7 +792,7 @@ return {
 			act_type = "weekly",
 			ID = 47,
 			title = "欢乐福利",
-			order = 1,
+			order = 5,
 			is_on_off = 1,
 			condi_key = "actp_own_task_p_hljnh_046_hlfl_cjj",
 			beginTime = 1620691200,
