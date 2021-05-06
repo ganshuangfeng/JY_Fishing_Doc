@@ -1493,7 +1493,6 @@ return {
 		{
 			key = "fishing3d_3",
 			name = "捕鱼海底宝藏",
-			condi = 215,
 		},
 		fishing3d_3_1=
 		{
@@ -17782,7 +17781,7 @@ return {
 			id = 18,
 			name = "tthlby_all",
 			var = "market_channel",
-			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","juxiang","xiaozhuo","aibianxian","juju","qwxq","normal","vivo","xiaomi","yyb_hlttby","byam_xianwan",},
+			value = {"pceggs","xianwan","pdd","duoliang","zhuanke91","doudouqu","paopaozhuan","mtzd","juxiang","xiaozhuo","aibianxian","juju","qwxq","normal","vivo","xiaomi","yyb_hlttby",},
 			judge = 2,
 			group = 1,
 		},
