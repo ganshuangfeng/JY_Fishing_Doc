@@ -9732,7 +9732,7 @@ return {
 		{
 			id = 562,
 			real_award_id = 12034,
-			award_name = "可怜12瓶",
+			award_name = "可乐12瓶",
 			asset_count = {1,1},
 		},
 		[563]=
