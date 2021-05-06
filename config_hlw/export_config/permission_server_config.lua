@@ -19530,5 +19530,14 @@ return {
 			judge = 2,
 			group = 1,
 		},
+		[8]=
+		{
+			id = 8,
+			name = "hlw_cps",
+			var = "market_channel",
+			value = {"vivo_hlw",},
+			judge = 2,
+			group = 1,
+		},
 	},
 }
