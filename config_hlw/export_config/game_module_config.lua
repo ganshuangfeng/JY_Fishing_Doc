@@ -2295,9 +2295,9 @@ return {
 			key = "by3d_kpshb",
 			desc = "3D捕鱼开炮送红包",
 			lua = "BY3DKPSHBManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[236]=
 		{
@@ -2315,9 +2315,9 @@ return {
 			key = "sys_flqcj",
 			desc = "福利券抽奖",
 			lua = "SYSFLQCJManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[238]=
 		{
