@@ -3050,7 +3050,7 @@ return {
 		[311]=
 		{
 			id = 311,
-			key = "act_ty_sjb_style/act_014_dlphb",
+			key = "act_ty_sjb_style/act_013_dlphb",
 			desc = "掉落排行榜皮肤（铁锤）",
 			is_on_off = 1,
 			enable = 1,
@@ -3086,7 +3086,7 @@ return {
 		[315]=
 		{
 			id = 315,
-			key = "sys_act_base_style/sys_act_base_weekly_015",
+			key = "sys_act_base_style/sys_act_base_weekly_014",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3255,16 +3255,6 @@ return {
 			id = 332,
 			key = "act_ty_zp1_style/act_ty_zp1_002",
 			desc = "通用转盘皮肤",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[333]=
-		{
-			id = 333,
-			key = "act_cjj_by_byam_guide",
-			desc = "冲金鸡引导到捕鱼奥秘",
-			lua = "ActCJJBYBYAMManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
