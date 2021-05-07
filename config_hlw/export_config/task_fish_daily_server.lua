@@ -3584,7 +3584,8 @@ return {
 		{
 			id = 107,
 			award_id = 1054,
-			asset_type = "obj_50flq_86400",
+			asset_type = "jing_bi",
+			asset_count = 1000,
 			get_weight = 1,
 		},
 		[108]=

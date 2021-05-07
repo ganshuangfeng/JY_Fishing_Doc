@@ -19467,7 +19467,7 @@ return {
 			var = "tag_type",
 			value = "tag_plat_vivo_hlw",
 			judge = 2,
-			group = 1,
+			group = 2,
 			error_desc = "是海蓝湾的玩家才可游戏",
 		},
 		[1115]=
