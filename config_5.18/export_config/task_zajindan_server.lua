@@ -14773,6 +14773,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000617]=
+		{
+			id = 1000617,
+			enable = 1,
+			name = "系统升级活动",
+			own_type = "p_system_update_tthlby",
+			task_enum = "common",
+			process_id = 21975,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -24401,6 +24416,15 @@ return {
 			process = {100,400,500,500,2500},
 			awards = {1331,1332,1333,1334,1335},
 			get_award_type = "random",
+		},
+		[1027]=
+		{
+			id = 1027,
+			process_id = 21975,
+			source_id = 81,
+			process = 1,
+			awards = 937,
+			get_award_type = "nor",
 		},
 	},
 	source=
@@ -54331,6 +54355,30 @@ return {
 			award_name = "高级旅行箱",
 			get_weight = 1,
 			is_send_email = 1,
+		},
+		[2217]=
+		{
+			id = 2217,
+			award_id = 1336,
+			asset_type = "jing_bi",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[2218]=
+		{
+			id = 2218,
+			award_id = 1336,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[2219]=
+		{
+			id = 2219,
+			award_id = 1336,
+			asset_type = "prop_3d_fish_doubled",
+			asset_count = 5,
+			get_weight = 1,
 		},
 	},
 }
