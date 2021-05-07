@@ -19463,9 +19463,9 @@ return {
 		[1114]=
 		{
 			no = 1114,
-			id = 471,
+			id = 470,
 			var = "tag_type",
-			value = "tag_plat_hlw",
+			value = "tag_plat_vivo_hlw",
 			judge = 2,
 			group = 1,
 			error_desc = "是海蓝湾的玩家才可游戏",
@@ -19475,9 +19475,39 @@ return {
 			no = 1115,
 			id = 471,
 			var = "tag_type",
+			value = "tag_plat_hlw",
+			judge = 2,
+			group = 1,
+			error_desc = "是海蓝湾的玩家才可游戏",
+		},
+		[1116]=
+		{
+			no = 1116,
+			id = 471,
+			var = "tag_type",
 			value = "tag_class_new_player",
 			judge = 2,
 			group = 1,
+			error_desc = "是新用户",
+		},
+		[1117]=
+		{
+			no = 1117,
+			id = 471,
+			var = "tag_type",
+			value = "tag_plat_vivo_hlw",
+			judge = 2,
+			group = 2,
+			error_desc = "是海蓝湾的玩家才可游戏",
+		},
+		[1118]=
+		{
+			no = 1118,
+			id = 471,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 2,
 			error_desc = "是新用户",
 		},
 	},
