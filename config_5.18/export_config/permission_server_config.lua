@@ -7047,6 +7047,18 @@ return {
 			refresh_type = "now",
 			start_deal_time = 1620691200,
 		},
+		[402]=
+		{
+			id = 402,
+			enable = 1,
+			key = "actp_own_task_p_system_update_tthlby",
+			name = "系统升级权限（天天欢乐捕鱼平台）",
+			condi = 441,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 0,
+			refresh_type = "now",
+			start_deal_time = 0,
+		},
 	},
 	condi=
 	{
@@ -17614,6 +17626,16 @@ return {
 		{
 			no = 1057,
 			id = 440,
+			var = "share_condition",
+			value = "tthlby_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是欢乐捕鱼渠道",
+		},
+		[1058]=
+		{
+			no = 1058,
+			id = 441,
 			var = "share_condition",
 			value = "tthlby_all",
 			judge = 2,
