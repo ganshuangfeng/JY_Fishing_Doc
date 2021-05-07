@@ -1101,7 +1101,7 @@ return {
 		{
 			id = 108,
 			parm = {"by3d_phb","enter"},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[109]=
 		{

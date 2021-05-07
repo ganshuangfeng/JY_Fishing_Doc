@@ -2269,7 +2269,7 @@ return {
 		{
 			key = "drt_new_player_deal_hlw",
 			name = "海蓝湾新玩家",
-			condi = 472,
+			condi = 471,
 		},
 		step_task_show_not=
 		{
@@ -19479,26 +19479,6 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是新用户",
-		},
-		[1116]=
-		{
-			no = 1116,
-			id = 472,
-			var = "share_condition",
-			value = "hlw_all",
-			judge = 2,
-			group = 1,
-			error_desc = "玩棋牌CPL渠道",
-		},
-		[1117]=
-		{
-			no = 1117,
-			id = 472,
-			var = "tag_type",
-			value = "tag_plat_hlw",
-			judge = 2,
-			group = 1,
-			error_desc = "是玩棋牌平台用户",
 		},
 	},
 	share_condition=

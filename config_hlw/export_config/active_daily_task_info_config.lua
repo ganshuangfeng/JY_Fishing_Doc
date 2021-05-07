@@ -4,7 +4,6 @@ return {
 		[1]=
 		{
 			id = 1,
-			key = "signin_cpl",
 			task = "active_task_item_cpl",
 			award = "active_award_config_cpl",
 			award_task = 13002,
