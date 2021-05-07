@@ -36,5 +36,12 @@ return {
 			permission_key = "drt_hlw_plat_server_1",
 			real_config = "sign_in_config_server_hlw",
 		},
+		[6]=
+		{
+			id = 6,
+			config_name = "yueka_award_server",
+			permission_key = "drt_hlw_plat_server_1",
+			real_config = "yueka_award_server_hlw",
+		},
 	},
 }
