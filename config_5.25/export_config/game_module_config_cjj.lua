@@ -2685,9 +2685,9 @@ return {
 			key = "act_ty_hlqjd",
 			desc = "欢乐敲金蛋",
 			lua = "Act_ty_HLQJDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[275]=
 		{
@@ -2811,7 +2811,7 @@ return {
 		{
 			id = 287,
 			key = "act_ty_ldfd",
-			desc = "幸运福袋",
+			desc = "话费礼包",
 			lua = "Act_ty_LDFDManager",
 			is_on_off = 1,
 			enable = 1,
@@ -3070,9 +3070,9 @@ return {
 			id = 313,
 			key = "act_ty_by_hhl_style/act_010_hhl",
 			desc = "换好礼皮肤",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[314]=
 		{
@@ -3207,9 +3207,9 @@ return {
 			key = "act_052_qfhl",
 			desc = "龙腾祈福",
 			lua = "Act_052_QFHLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[328]=
 		{
@@ -3234,7 +3234,7 @@ return {
 		{
 			id = 330,
 			key = "act_053_xcns",
-			desc = "爱消福利",
+			desc = "消除福利",
 			lua = "Act_053_XCNSManager",
 			is_on_off = 1,
 			enable = 1,

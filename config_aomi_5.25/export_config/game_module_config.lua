@@ -2685,9 +2685,9 @@ return {
 			key = "act_ty_hlqjd",
 			desc = "欢乐敲金蛋",
 			lua = "Act_ty_HLQJDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[275]=
 		{
@@ -2811,7 +2811,7 @@ return {
 		{
 			id = 287,
 			key = "act_ty_ldfd",
-			desc = "幸运福袋",
+			desc = "话费礼包",
 			lua = "Act_ty_LDFDManager",
 			is_on_off = 1,
 			enable = 1,
@@ -3100,7 +3100,7 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_013_dlphb",
+			key = "act_ty_sjb_style/act_016_dlphb",
 			desc = "掉落排行榜皮肤（铁锤）",
 			is_on_off = 1,
 			enable = 1,
@@ -3257,9 +3257,9 @@ return {
 			key = "act_052_qfhl",
 			desc = "龙腾祈福",
 			lua = "Act_052_QFHLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[333]=
 		{
