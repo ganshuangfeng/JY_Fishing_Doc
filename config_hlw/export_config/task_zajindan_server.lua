@@ -49483,7 +49483,7 @@ return {
 			id = 1613,
 			award_id = 1107,
 			asset_type = "jing_bi",
-			asset_count = 50000,
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1614]=
@@ -49499,7 +49499,7 @@ return {
 			id = 1615,
 			award_id = 1109,
 			asset_type = "jing_bi",
-			asset_count = 80000,
+			asset_count = 8000,
 			get_weight = 1,
 		},
 		[1616]=
@@ -49507,7 +49507,7 @@ return {
 			id = 1616,
 			award_id = 1110,
 			asset_type = "jing_bi",
-			asset_count = 100000,
+			asset_count = 10000,
 			get_weight = 1,
 		},
 		[1617]=
@@ -49523,7 +49523,7 @@ return {
 			id = 1618,
 			award_id = 1112,
 			asset_type = "jing_bi",
-			asset_count = 200000,
+			asset_count = 20000,
 			get_weight = 1,
 		},
 		[1619]=

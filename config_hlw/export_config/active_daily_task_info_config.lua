@@ -47,7 +47,7 @@ return {
 			task_name = "累计捕鱼",
 			task_icon = "rw_icon_bh",
 			task_instruction = "3D捕鱼中捕获任意100条鱼",
-			task_award_icon = {"ty_icon_pms_1","ty_icon_hytb",},
+			task_award_icon = {"ty_icon_jb_15y","ty_icon_hytb",},
 			task_award_instruction = {"金币","活跃度"},
 			task_award_count = {"x1000","x20"},
 			gotoui = {"game_Fishing3DHall",},

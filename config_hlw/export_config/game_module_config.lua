@@ -2415,7 +2415,7 @@ return {
 			key = "sys_change_head_and_name",
 			desc = "设置头像和改变昵称",
 			lua = "SYSChangeHeadAndNameManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
@@ -3129,9 +3129,9 @@ return {
 			id = 319,
 			key = "sys_act_base_style/sys_act_base_normal_001",
 			desc = "周常活动皮肤",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[320]=
 		{

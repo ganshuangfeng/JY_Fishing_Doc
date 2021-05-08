@@ -129,7 +129,7 @@ return {
 		{
 			line = 5,
 			id = 5,
-			prefab = "Fish3D115",
+			prefab = "Fish3D105",
 			icon = "3dby_icon_yu105",
 			name = "海马",
 			name_image = "3dby_imgf_jdxcy",
