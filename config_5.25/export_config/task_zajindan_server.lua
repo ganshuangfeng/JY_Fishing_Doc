@@ -24888,7 +24888,7 @@ return {
 			process_id = 21975,
 			source_id = 81,
 			process = 1,
-			awards = 937,
+			awards = 1336,
 			get_award_type = "nor",
 		},
 		[1028]=
