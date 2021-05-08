@@ -11,6 +11,7 @@ return {
 			rank_type = "ymshf_017_hldr_rank",
 			s_time = 1621900800,
 			e_time = 1622476799,
+			gotoUI = "game_Fishing3DHall",
 			award = {1,2,3,4,5,6,7},
 			extra_award = {8,9,10,11,12,13,14},
 			path = "act_016_dlphb",
