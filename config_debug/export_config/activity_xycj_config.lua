@@ -124,14 +124,13 @@ return {
 		[11]=
 		{
 			line = 11,
-			id = 13,
+			id = 11,
 			type = 2,
-			icon = "ty_icon_flq3",
+			icon = "swjl_hwsj",
 			scale = 1,
-			desc = "福利券x4750",
-			is_dj = 0,
-			asset_type = "shop_gold_sum",
-			value = 4750,
+			desc = "华为mate40 RS",
+			is_dj = 1,
+			value = 1,
 		},
 		[12]=
 		{
@@ -148,13 +147,14 @@ return {
 		[13]=
 		{
 			line = 13,
-			id = 11,
+			id = 13,
 			type = 2,
-			icon = "swjl_hwsj",
+			icon = "ty_icon_flq3",
 			scale = 1,
-			desc = "华为mate40 RS",
-			is_dj = 1,
-			value = 1,
+			desc = "福利券x4750",
+			is_dj = 0,
+			asset_type = "shop_gold_sum",
+			value = 4750,
 		},
 		[14]=
 		{
