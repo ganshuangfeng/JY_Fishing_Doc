@@ -124,7 +124,7 @@ return {
 		[11]=
 		{
 			line = 11,
-			id = 11,
+			id = 13,
 			type = 2,
 			icon = "swjl_hwsj",
 			scale = 1,
@@ -147,7 +147,7 @@ return {
 		[13]=
 		{
 			line = 13,
-			id = 13,
+			id = 11,
 			type = 2,
 			icon = "ty_icon_flq3",
 			scale = 1,
