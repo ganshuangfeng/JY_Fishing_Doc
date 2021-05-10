@@ -1,5 +1,5 @@
 return {
-	base=
+	otherInfo=
 	{
 		[1000638]=
 		{
@@ -10,7 +10,7 @@ return {
 			downDes = "每日0点重置倍数和奖励\n统计在任意消消乐游戏中24万及以上档次消除的倍数",
 		},
 	},
-	awards=
+	awardInfo=
 	{
 		[1]=
 		{
