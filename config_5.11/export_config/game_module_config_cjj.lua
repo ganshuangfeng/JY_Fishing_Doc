@@ -3262,6 +3262,16 @@ return {
 		[333]=
 		{
 			id = 333,
+			key = "act_cjj_by_byam_guide",
+			desc = "冲金鸡引导到捕鱼奥秘",
+			lua = "ActCJJBYBYAMManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[334]=
+		{
+			id = 334,
 			key = "act_054_byns",
 			desc = "捕鱼能手",
 			lua = "Act_054_BYNSManager",
