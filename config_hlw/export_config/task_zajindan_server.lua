@@ -12142,7 +12142,7 @@ return {
 			enable = 1,
 			name = "VIP富豪福利",
 			own_type = "normal",
-			task_enum = "vip_regal_welfare",
+			task_enum = "vip_regal_welfare_task",
 			process_id = 21803,
 			is_reset = 0,
 			reset_delay = 1,
