@@ -3101,7 +3101,7 @@ return {
 		{
 			id = 316,
 			key = "act_ty_sjb_style/act_016_dlphb",
-			desc = "掉落排行榜皮肤（铁锤）",
+			desc = "掉落排行榜皮肤（消耗）",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3109,8 +3109,8 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_011_boss",
-			desc = "五星掉落",
+			key = "act_ty_by_drop_style/act_016_huanle",
+			desc = "欢乐券掉落",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3118,7 +3118,7 @@ return {
 		[318]=
 		{
 			id = 318,
-			key = "act_ty_by_hhl_style/act_010_hhl",
+			key = "act_ty_by_hhl_style/act_011_hhl",
 			desc = "换好礼皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3274,7 +3274,7 @@ return {
 		[334]=
 		{
 			id = 334,
-			key = "act_ty_gifts_style/act_003_hllb",
+			key = "act_ty_gifts_style/act_003_hflb",
 			desc = "话费礼包",
 			is_on_off = 1,
 			enable = 1,
@@ -3315,9 +3315,9 @@ return {
 			key = "act_040_mslb",
 			desc = "秒杀礼包",
 			lua = "Act_040_MSLBManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[339]=
 		{
