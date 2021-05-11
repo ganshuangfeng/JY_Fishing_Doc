@@ -14788,6 +14788,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000618]=
+		{
+			id = 1000618,
+			enable = 1,
+			name = "五星掉落需求",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 21976,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1621296000,
+			end_valid_time = 1621871999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -24426,6 +24441,15 @@ return {
 			awards = 1336,
 			get_award_type = "nor",
 		},
+		[1028]=
+		{
+			id = 1028,
+			process_id = 21976,
+			source_id = 529,
+			process = {300000,-1},
+			awards = 1337,
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -31722,6 +31746,13 @@ return {
 			source_type = "box_exchange",
 			condition_id = 477,
 		},
+		[1036]=
+		{
+			id = 1036,
+			source_id = 632,
+			source_type = "xiaoxiaole_sanguo_award_rate",
+			condition_id = 481,
+		},
 	},
 	condition=
 	{
@@ -36636,6 +36667,14 @@ return {
 			condition_name = "box_exchange_type",
 			condition_value = {"box_exchange_91",},
 			judge_type = 2,
+		},
+		[645]=
+		{
+			id = 645,
+			condition_id = 481,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
 		},
 	},
 	award_data=
@@ -54386,6 +54425,14 @@ return {
 			award_id = 1336,
 			asset_type = "prop_3d_fish_doubled",
 			asset_count = 5,
+			get_weight = 1,
+		},
+		[2220]=
+		{
+			id = 2220,
+			award_id = 1337,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
