@@ -9,9 +9,9 @@ return {
 			type_colour = 1,
 			type = 1,
 			is_local_icon = 1,
-			image = "3dby_icon_p0",
+			image = "3dby_icon_djpt1",
 			order = 1,
-			name = "小钢炮",
+			name = "圣光  I",
 			desc = "激光炮：直线方向释放激光，有几率捕获激光所发射范围内的任意鱼类",
 			desc_get = "系统赠送",
 		},
@@ -43,7 +43,7 @@ return {
 			order = 3,
 			name = "闪耀风暴",
 			desc = "激光炮：直线方向释放激光，有几率捕获激光所发射范围内的任意鱼类",
-			desc_get = "VIP3开启",
+			desc_get = "VIP5开启",
 			use_parm = {"vip","hint"},
 			buy_anniu_hint = "获取",
 			gift_id = 10850,
@@ -65,7 +65,7 @@ return {
 			order = 4,
 			name = "金币使者",
 			desc = "穿透弹：发射一发穿透弹，可捕获同移动线上的任意鱼类",
-			desc_get = "VIP5开启",
+			desc_get = "VIP6开启",
 			use_parm = {"vip","hint"},
 			buy_anniu_hint = "获取",
 			gift_id = 10849,
@@ -154,11 +154,11 @@ return {
 			type_colour = 1,
 			type = 1,
 			is_local_icon = 1,
-			image = "3dby_icon_djpt1",
+			image = "3dby_icon_djpt2",
 			order = 8,
-			name = "圣光  I",
-			desc_get = "25级解锁",
-			use_parm = {"game_Fishing3DHall",},
+			name = "圣光  II",
+			desc_get = "VIP1开启",
+			use_parm = {"vip","hint"},
 		},
 		[9]=
 		{
@@ -168,11 +168,11 @@ return {
 			type_colour = 1,
 			type = 1,
 			is_local_icon = 1,
-			image = "3dby_icon_djpt2",
+			image = "3dby_icon_djpt3",
 			order = 9,
-			name = "圣光  II",
-			desc_get = "40级解锁",
-			use_parm = {"game_Fishing3DHall",},
+			name = "圣光  III",
+			desc_get = "VIP2开启",
+			use_parm = {"vip","hint"},
 		},
 		[10]=
 		{
@@ -182,11 +182,11 @@ return {
 			type_colour = 2,
 			type = 1,
 			is_local_icon = 1,
-			image = "3dby_icon_djpt3",
+			image = "3dby_icon_djpt4",
 			order = 10,
-			name = "圣光  III",
-			desc_get = "60级解锁",
-			use_parm = {"game_Fishing3DHall",},
+			name = "圣光  IV",
+			desc_get = "VIP3开启",
+			use_parm = {"vip","hint"},
 		},
 		[11]=
 		{
@@ -196,29 +196,15 @@ return {
 			type_colour = 2,
 			type = 1,
 			is_local_icon = 1,
-			image = "3dby_icon_djpt4",
+			image = "3dby_icon_djpt5",
 			order = 11,
-			name = "圣光  IV",
-			desc_get = "80级解锁",
-			use_parm = {"game_Fishing3DHall",},
+			name = "圣光  V",
+			desc_get = "VIP4开启",
+			use_parm = {"vip","hint"},
 		},
 		[12]=
 		{
 			id = 12,
-			item_id = 12,
-			item_key = "gun_barrel_12",
-			type_colour = 3,
-			type = 1,
-			is_local_icon = 1,
-			image = "3dby_icon_djpt5",
-			order = 12,
-			name = "圣光  V",
-			desc_get = "100级解锁",
-			use_parm = {"game_Fishing3DHall",},
-		},
-		[13]=
-		{
-			id = 13,
 			item_id = 1,
 			item_key = "gun_bed_1",
 			type_colour = 1,
@@ -230,9 +216,9 @@ return {
 			desc = "系统赠送基础炮座",
 			desc_get = "系统赠送",
 		},
-		[14]=
+		[13]=
 		{
-			id = 14,
+			id = 13,
 			item_id = 2,
 			item_key = "gun_bed_2",
 			type_colour = 1,
@@ -246,9 +232,9 @@ return {
 			use_parm = {"vip","hint"},
 			buy_anniu_hint = "获取",
 		},
-		[15]=
+		[14]=
 		{
-			id = 15,
+			id = 14,
 			item_id = 3,
 			item_key = "gun_bed_3",
 			type_colour = 2,
@@ -262,9 +248,9 @@ return {
 			use_parm = {"vip","hint"},
 			buy_anniu_hint = "获取",
 		},
-		[16]=
+		[15]=
 		{
-			id = 16,
+			id = 15,
 			item_id = 4,
 			item_key = "gun_bed_4",
 			type_colour = 3,
@@ -279,9 +265,9 @@ return {
 			buy_hint = "是否花费3万金币购买【金焰】30天使用权",
 			buy_anniu_hint = "获取",
 		},
-		[17]=
+		[16]=
 		{
-			id = 17,
+			id = 16,
 			item_id = 1,
 			item_key = "head_frame_1",
 			type_colour = 1,
@@ -292,9 +278,9 @@ return {
 			name = "基础",
 			desc = "基础头像框",
 		},
-		[18]=
+		[17]=
 		{
-			id = 18,
+			id = 17,
 			item_id = 2,
 			item_key = "head_frame_2",
 			type_colour = 1,
@@ -306,9 +292,9 @@ return {
 			desc_get = "30级解锁",
 			use_parm = {"game_Fishing3DHall",},
 		},
-		[19]=
+		[18]=
 		{
-			id = 19,
+			id = 18,
 			item_id = 3,
 			item_key = "head_frame_3",
 			type_colour = 1,
@@ -320,9 +306,9 @@ return {
 			desc_get = "50级解锁",
 			use_parm = {"game_Fishing3DHall",},
 		},
-		[20]=
+		[19]=
 		{
-			id = 20,
+			id = 19,
 			item_id = 4,
 			item_key = "head_frame_4",
 			type_colour = 2,
@@ -334,9 +320,9 @@ return {
 			desc_get = "70级解锁",
 			use_parm = {"game_Fishing3DHall",},
 		},
-		[21]=
+		[20]=
 		{
-			id = 21,
+			id = 20,
 			item_id = 5,
 			item_key = "head_frame_5",
 			type_colour = 2,
@@ -348,9 +334,9 @@ return {
 			desc_get = "90级解锁",
 			use_parm = {"game_Fishing3DHall",},
 		},
-		[22]=
+		[21]=
 		{
-			id = 22,
+			id = 21,
 			item_id = 6,
 			item_key = "head_frame_6",
 			type_colour = 3,
