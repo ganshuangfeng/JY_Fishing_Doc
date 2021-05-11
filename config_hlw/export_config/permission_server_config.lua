@@ -8297,6 +8297,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 0,
 		},
+		[499]=
+		{
+			id = 499,
+			enable = 1,
+			key = "actp_own_task_p_task_fish_daily_cpl",
+			name = "海蓝湾每日任务",
+			condi = 470,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
+		},
 	},
 	condi=
 	{
