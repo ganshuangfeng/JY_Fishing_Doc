@@ -968,7 +968,7 @@ return {
 		[74]=
 		{
 			id = 74,
-			task = 1000617,
+			task = 1000619,
 			total = 1,
 			task_name = "在龙王贡品中，获得1次奖赏",
 			level = 1,
@@ -979,7 +979,7 @@ return {
 		[75]=
 		{
 			id = 75,
-			task = 1000618,
+			task = 1000620,
 			total = 5,
 			task_name = "在龙王贡品中，获得5次奖赏",
 			level = 1,
@@ -990,7 +990,7 @@ return {
 		[76]=
 		{
 			id = 76,
-			task = 1000619,
+			task = 1000621,
 			total = 2,
 			task_name = "在3D捕鱼深海探险当前层数+2",
 			level = 1,
@@ -1001,7 +1001,7 @@ return {
 		[77]=
 		{
 			id = 77,
-			task = 1000620,
+			task = 1000622,
 			total = 5,
 			task_name = "在3D捕鱼深海探险当前层数+5",
 			level = 1,
@@ -1012,7 +1012,7 @@ return {
 		[78]=
 		{
 			id = 78,
-			task = 1000621,
+			task = 1000623,
 			total = 1,
 			task_name = "在3D捕鱼海底宝藏以上场次任意击杀1条boss",
 			level = 1,
@@ -1023,7 +1023,7 @@ return {
 		[79]=
 		{
 			id = 79,
-			task = 1000622,
+			task = 1000624,
 			total = 3,
 			task_name = "在3D捕鱼海底宝藏以上场次任意击杀3条boss",
 			level = 1,
@@ -1034,7 +1034,7 @@ return {
 		[80]=
 		{
 			id = 80,
-			task = 1000623,
+			task = 1000625,
 			total = 3,
 			task_name = "在西游消消乐中消除3个孙悟空",
 			level = 1,
@@ -1045,7 +1045,7 @@ return {
 		[81]=
 		{
 			id = 81,
-			task = 1000624,
+			task = 1000626,
 			total = 3,
 			task_name = "在西游消消乐中消除3个唐僧",
 			level = 1,
@@ -1056,7 +1056,7 @@ return {
 		[82]=
 		{
 			id = 82,
-			task = 1000625,
+			task = 1000627,
 			total = 2,
 			task_name = "在水浒消消乐中召唤出2个英雄",
 			level = 1,
@@ -1067,7 +1067,7 @@ return {
 		[83]=
 		{
 			id = 83,
-			task = 1000626,
+			task = 1000628,
 			total = 4,
 			task_name = "在水浒消消乐中召唤出4个英雄",
 			level = 1,
@@ -1078,7 +1078,7 @@ return {
 		[84]=
 		{
 			id = 84,
-			task = 1000627,
+			task = 1000629,
 			total = 1,
 			task_name = "在水果消消乐闯关中当前关卡数+1",
 			level = 1,
@@ -1089,7 +1089,7 @@ return {
 		[85]=
 		{
 			id = 85,
-			task = 1000628,
+			task = 1000630,
 			total = 5,
 			task_name = "在水果消消乐闯关中当前关卡数+5",
 			level = 1,
@@ -1100,7 +1100,7 @@ return {
 		[86]=
 		{
 			id = 86,
-			task = 1000629,
+			task = 1000631,
 			total = 3,
 			task_name = "在西游消消乐中消除3个孙悟空",
 			level = 1,
@@ -1111,7 +1111,7 @@ return {
 		[87]=
 		{
 			id = 87,
-			task = 1000630,
+			task = 1000632,
 			total = 9,
 			task_name = "在西游消消乐中消除9个孙悟空",
 			level = 1,
@@ -1122,7 +1122,7 @@ return {
 		[88]=
 		{
 			id = 88,
-			task = 1000631,
+			task = 1000633,
 			total = 1,
 			task_name = "在水浒消消乐中召唤出1个英雄",
 			level = 1,
@@ -1133,7 +1133,7 @@ return {
 		[89]=
 		{
 			id = 89,
-			task = 1000632,
+			task = 1000634,
 			total = 4,
 			task_name = "在水浒消消乐中召唤出4个英雄",
 			level = 1,
@@ -1144,7 +1144,7 @@ return {
 		[90]=
 		{
 			id = 90,
-			task = 1000633,
+			task = 1000635,
 			total = 300000,
 			task_name = "在龙王争霸中累计赢金30万",
 			level = 1,
@@ -1155,7 +1155,7 @@ return {
 		[91]=
 		{
 			id = 91,
-			task = 1000634,
+			task = 1000636,
 			total = 600000,
 			task_name = "在龙王争霸中累计赢金60万",
 			level = 1,
@@ -1166,7 +1166,7 @@ return {
 		[92]=
 		{
 			id = 92,
-			task = 1000635,
+			task = 1000637,
 			total = 3,
 			task_name = "在苹果大战中连胜3局",
 			level = 1,
@@ -1177,7 +1177,7 @@ return {
 		[93]=
 		{
 			id = 93,
-			task = 1000636,
+			task = 1000638,
 			total = 1,
 			task_name = "在苹果大战中种出1次金苹果",
 			level = 1,
@@ -1188,7 +1188,7 @@ return {
 		[94]=
 		{
 			id = 94,
-			task = 1000639,
+			task = 1000640,
 			total = 3,
 			task_name = "在商城中购买3次2498元",
 			level = 1,
@@ -1201,7 +1201,7 @@ return {
 		[95]=
 		{
 			id = 95,
-			task = 1000640,
+			task = 1000641,
 			total = 3,
 			task_name = "在商城中购买3次998元",
 			level = 1,
@@ -1214,7 +1214,7 @@ return {
 		[96]=
 		{
 			id = 96,
-			task = 1000641,
+			task = 1000642,
 			total = 3,
 			task_name = "在商城中购买3次498元",
 			level = 1,
@@ -1227,7 +1227,7 @@ return {
 		[97]=
 		{
 			id = 97,
-			task = 1000642,
+			task = 1000643,
 			total = 3,
 			task_name = "在商城中购买3次198元",
 			level = 1,
@@ -1240,7 +1240,7 @@ return {
 		[98]=
 		{
 			id = 98,
-			task = 1000643,
+			task = 1000644,
 			total = 3,
 			task_name = "在商城中购买3次98元",
 			level = 1,
@@ -1253,7 +1253,7 @@ return {
 		[99]=
 		{
 			id = 99,
-			task = 1000644,
+			task = 1000645,
 			total = 3,
 			task_name = "在商城中购买3次50元",
 			level = 1,
@@ -1266,7 +1266,7 @@ return {
 		[100]=
 		{
 			id = 100,
-			task = 1000645,
+			task = 1000646,
 			total = 3,
 			task_name = "在商城中购买3次30元",
 			level = 1,
@@ -1279,7 +1279,7 @@ return {
 		[101]=
 		{
 			id = 101,
-			task = 1000646,
+			task = 1000647,
 			total = 3,
 			task_name = "在商城中购买3次15元",
 			level = 1,
@@ -1290,7 +1290,7 @@ return {
 		[102]=
 		{
 			id = 102,
-			task = 1000647,
+			task = 1000648,
 			total = 3,
 			task_name = "在商城中购买3次6元",
 			level = 1,
