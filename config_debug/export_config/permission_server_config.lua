@@ -6679,13 +6679,13 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_hljnh_015_yxdr_rank",
-			name = "游戏达人--非cjj",
+			key = "actp_rank_hlwyt_016_fqdr_rank",
+			name = "欢乐五月天福气达人",
 			condi = 393,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
-			start_deal_time = 1615824000,
+			start_deal_time = 1621296000,
 		},
 		[372]=
 		{
@@ -7046,6 +7046,18 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
 			start_deal_time = 1620691200,
+		},
+		[402]=
+		{
+			id = 402,
+			enable = 1,
+			key = "actp_own_task_p_system_update_tthlby",
+			name = "系统升级权限（天天欢乐捕鱼平台）",
+			condi = 441,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 0,
+			refresh_type = "now",
+			start_deal_time = 0,
 		},
 	},
 	condi=
@@ -17614,6 +17626,16 @@ return {
 		{
 			no = 1057,
 			id = 440,
+			var = "share_condition",
+			value = "tthlby_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是欢乐捕鱼渠道",
+		},
+		[1058]=
+		{
+			no = 1058,
+			id = 441,
 			var = "share_condition",
 			value = "tthlby_all",
 			judge = 2,

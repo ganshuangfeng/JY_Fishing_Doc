@@ -180,7 +180,7 @@ return {
 			id = 2,
 			enter_cfg_id = 1,
 			asset_type = "jing_bi",
-			asset_count = 200000,
+			asset_count = 60000,
 			judge_type = 4,
 		},
 		[3]=
@@ -188,7 +188,7 @@ return {
 			id = 3,
 			enter_cfg_id = 2,
 			asset_type = "jing_bi",
-			asset_count = 10000,
+			asset_count = 0,
 			judge_type = 3,
 		},
 		[4]=
@@ -196,7 +196,7 @@ return {
 			id = 4,
 			enter_cfg_id = 2,
 			asset_type = "jing_bi",
-			asset_count = 1000000,
+			asset_count = 500000,
 			judge_type = 4,
 		},
 		[5]=
@@ -244,7 +244,7 @@ return {
 			id = 10,
 			enter_cfg_id = 6,
 			asset_type = "jing_bi",
-			asset_count = 1000000,
+			asset_count = 100000,
 			judge_type = 3,
 		},
 		[11]=
@@ -252,7 +252,7 @@ return {
 			id = 11,
 			enter_cfg_id = 7,
 			asset_type = "jing_bi",
-			asset_count = 2000000,
+			asset_count = 1000000,
 			judge_type = 3,
 		},
 		[12]=
@@ -260,7 +260,7 @@ return {
 			id = 12,
 			enter_cfg_id = 8,
 			asset_type = "jing_bi",
-			asset_count = 5000000,
+			asset_count = 2000000,
 			judge_type = 3,
 		},
 	},

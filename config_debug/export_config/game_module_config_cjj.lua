@@ -2810,9 +2810,9 @@ return {
 		[287]=
 		{
 			id = 287,
-			key = "act_034_ldfd",
-			desc = "立冬福袋",
-			lua = "Act_034_LDFDManager",
+			key = "act_ty_ldfd",
+			desc = "幸运福袋",
+			lua = "Act_ty_LDFDManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -2983,9 +2983,9 @@ return {
 			key = "act_ty_zp1",
 			desc = "通用活动--转盘模板（畅玩礼包）",
 			lua = "Act_Ty_ZP1Manager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[305]=
 		{
@@ -3050,8 +3050,8 @@ return {
 		[311]=
 		{
 			id = 311,
-			key = "act_ty_sjb_style/act_014_dlphb",
-			desc = "掉落排行榜皮肤（财力）",
+			key = "act_ty_sjb_style/act_015_dlphb",
+			desc = "掉落排行榜皮肤（铁锤）",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3059,11 +3059,11 @@ return {
 		[312]=
 		{
 			id = 312,
-			key = "act_ty_by_drop_style/act_015_gongju",
-			desc = "活动boss皮肤（五星）",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			key = "act_ty_by_drop_style/act_011_boss",
+			desc = "五星掉落",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[313]=
 		{
@@ -3086,7 +3086,7 @@ return {
 		[315]=
 		{
 			id = 315,
-			key = "sys_act_base_style/sys_act_base_weekly_015",
+			key = "sys_act_base_style/sys_act_base_weekly_016",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3205,11 +3205,11 @@ return {
 		{
 			id = 327,
 			key = "act_052_qfhl",
-			desc = "龙腾祈福",
+			desc = "祈福好礼",
 			lua = "Act_052_QFHLManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[328]=
 		{
@@ -3234,7 +3234,7 @@ return {
 		{
 			id = 330,
 			key = "act_053_xcns",
-			desc = "消除达人",
+			desc = "爱消福利",
 			lua = "Act_053_XCNSManager",
 			is_on_off = 1,
 			enable = 1,
@@ -3265,9 +3265,9 @@ return {
 			key = "act_cjj_by_byam_guide",
 			desc = "冲金鸡引导到捕鱼奥秘",
 			lua = "ActCJJBYBYAMManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[334]=
 		{
@@ -3275,9 +3275,9 @@ return {
 			key = "act_054_byns",
 			desc = "捕鱼能手",
 			lua = "Act_054_BYNSManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 	},
 }

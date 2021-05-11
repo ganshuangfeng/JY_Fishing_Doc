@@ -479,7 +479,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "120#",
+			group_list = "100#",
 		},
 	},
 	jchd_config=
@@ -1101,7 +1101,7 @@ return {
 		[100]=
 		{
 			id = 100,
-			parm = {"act_029_hlqjd",},
+			parm = {"act_ty_hlqjd",},
 			is_on_off = 1,
 		},
 		[101]=
@@ -1336,7 +1336,7 @@ return {
 			id = 137,
 			parm = {"act_040_mslb",},
 			is_on_off = 1,
-			condi_key = "by3d_no_cps",
+			condi_key = "cpl_notcjj",
 		},
 		[138]=
 		{

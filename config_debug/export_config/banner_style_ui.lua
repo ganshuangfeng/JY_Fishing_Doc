@@ -1000,7 +1000,7 @@ return {
 		{
 			id = 88,
 			bannerID = 88,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 110,
 			condi_key = "by_cjj_cpl_type_plat",
 			gotoUI = {"act_040_by_and_cjj_to_ddz_conduct","panel"},
@@ -1016,8 +1016,8 @@ return {
 			order = 111,
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1620691200,
-			endTime = 1621267199,
+			srartTime = 1621296000,
+			endTime = 1621871999,
 		},
 		[90]=
 		{

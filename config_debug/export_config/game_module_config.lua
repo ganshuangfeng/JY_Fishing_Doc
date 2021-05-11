@@ -726,9 +726,9 @@ return {
 			key = "sys_xtsjyd",
 			desc = "系统升级引导",
 			lua = "XTSJYDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[74]=
 		{
@@ -2685,9 +2685,9 @@ return {
 			key = "act_ty_hlqjd",
 			desc = "欢乐敲金蛋",
 			lua = "Act_ty_HLQJDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[275]=
 		{
@@ -2810,9 +2810,9 @@ return {
 		[287]=
 		{
 			id = 287,
-			key = "act_034_ldfd",
-			desc = "立冬福袋",
-			lua = "Act_034_LDFDManager",
+			key = "act_ty_ldfd",
+			desc = "幸运福袋",
+			lua = "Act_ty_LDFDManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3033,9 +3033,9 @@ return {
 			key = "act_ty_zp1",
 			desc = "通用活动--转盘模板（畅玩礼包）",
 			lua = "Act_Ty_ZP1Manager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[310]=
 		{
@@ -3100,8 +3100,8 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_014_dlphb",
-			desc = "掉落排行榜皮肤（财力）",
+			key = "act_ty_sjb_style/act_015_dlphb",
+			desc = "掉落排行榜皮肤（福气）",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3109,11 +3109,11 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_015_gongju",
+			key = "act_ty_by_drop_style/act_011_boss",
 			desc = "活动boss皮肤（五星）",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[318]=
 		{
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_015",
+			key = "sys_act_base_style/sys_act_base_weekly_016",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3255,11 +3255,11 @@ return {
 		{
 			id = 332,
 			key = "act_052_qfhl",
-			desc = "龙腾祈福",
+			desc = "祈福好礼",
 			lua = "Act_052_QFHLManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[333]=
 		{
@@ -3294,11 +3294,11 @@ return {
 		{
 			id = 336,
 			key = "act_053_xcns",
-			desc = "消除达人",
+			desc = "爱消福利",
 			lua = "Act_053_XCNSManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[337]=
 		{
@@ -3325,9 +3325,9 @@ return {
 			key = "act_054_byns",
 			desc = "捕鱼能手",
 			lua = "Act_054_BYNSManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 	},
 }

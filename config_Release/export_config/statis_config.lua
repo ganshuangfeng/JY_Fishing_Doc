@@ -136,5 +136,12 @@ return {
 			cpl_round_count = 0,
 			cpl_payment = 1,
 		},
+		[20]=
+		{
+			id = 20,
+			class_name = "sanguo_xxl",
+			leijiyingjin_total = {[[{award="award",spend="spend"}]]},
+			leijiyingjin_fish_half = {[[{award="award",spend="spend"}]]},
+		},
 	},
 }

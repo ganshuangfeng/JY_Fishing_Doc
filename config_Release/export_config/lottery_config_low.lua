@@ -136,8 +136,7 @@ return {
 		{
 			no = 13,
 			id = 2,
-			item = "shop_gold_sum",
-			item_num = 1000000,
+			in_kind_name = "华为手机",
 			weight = 10,
 		},
 		[14]=
