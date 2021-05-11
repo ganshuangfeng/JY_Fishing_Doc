@@ -31746,6 +31746,13 @@ return {
 			source_type = "box_exchange",
 			condition_id = 477,
 		},
+		[1036]=
+		{
+			id = 1036,
+			source_id = 632,
+			source_type = "xiaoxiaole_sanguo_award_rate",
+			condition_id = 481,
+		},
 	},
 	condition=
 	{
@@ -36660,6 +36667,14 @@ return {
 			condition_name = "box_exchange_type",
 			condition_value = {"box_exchange_91",},
 			judge_type = 2,
+		},
+		[645]=
+		{
+			id = 645,
+			condition_id = 481,
+			condition_name = "bet_spend",
+			condition_value = 240000,
+			judge_type = 3,
 		},
 	},
 	award_data=
