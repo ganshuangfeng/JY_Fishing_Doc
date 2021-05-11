@@ -1177,7 +1177,7 @@ return {
 			line = 2,
 			id = 2,
 			type = 2,
-			data = 3,
+			data = 5,
 		},
 		[3]=
 		{
@@ -1191,7 +1191,7 @@ return {
 			line = 4,
 			id = 3,
 			type = 2,
-			data = 5,
+			data = 6,
 		},
 		[5]=
 		{
@@ -1210,8 +1210,8 @@ return {
 		{
 			line = 7,
 			id = 5,
-			type = 4,
-			data = 25,
+			type = 2,
+			data = 1,
 		},
 		[8]=
 		{
@@ -1224,8 +1224,8 @@ return {
 		{
 			line = 9,
 			id = 6,
-			type = 4,
-			data = 40,
+			type = 2,
+			data = 2,
 		},
 		[10]=
 		{
@@ -1238,8 +1238,8 @@ return {
 		{
 			line = 11,
 			id = 7,
-			type = 4,
-			data = 60,
+			type = 2,
+			data = 3,
 		},
 		[12]=
 		{
@@ -1252,8 +1252,8 @@ return {
 		{
 			line = 13,
 			id = 8,
-			type = 4,
-			data = 80,
+			type = 2,
+			data = 4,
 		},
 		[14]=
 		{
@@ -1266,7 +1266,7 @@ return {
 		{
 			line = 15,
 			id = 9,
-			type = 4,
+			type = 2,
 			data = 100,
 		},
 		[16]=
