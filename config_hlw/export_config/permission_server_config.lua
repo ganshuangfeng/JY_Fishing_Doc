@@ -8285,6 +8285,18 @@ return {
 			refresh_type = "now",
 			start_deal_time = 1588028400,
 		},
+		[498]=
+		{
+			id = 498,
+			enable = 1,
+			key = "actp_own_task_p_new_player_hlw_happy_day",
+			name = "海蓝湾新人七天乐",
+			condi = 471,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 0,
+		},
 	},
 	condi=
 	{
@@ -19407,6 +19419,26 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是海蓝湾的玩家才可游戏",
+		},
+		[1113]=
+		{
+			no = 1113,
+			id = 471,
+			var = "tag_type",
+			value = "tag_plat_hlw",
+			judge = 2,
+			group = 1,
+			error_desc = "是海蓝湾的玩家才可游戏",
+		},
+		[1114]=
+		{
+			no = 1114,
+			id = 471,
+			var = "tag_type",
+			value = "tag_class_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新用户",
 		},
 	},
 	share_condition=
