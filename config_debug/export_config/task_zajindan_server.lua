@@ -14802,6 +14802,7 @@ return {
 			end_valid_time = 1621871999,
 			time_limit = -1,
 			is_send_client = 1,
+			award_change_type = "task_award_no_show",
 		},
 	},
 	process_data=
@@ -24449,6 +24450,7 @@ return {
 			process = {300000,-1},
 			awards = 1337,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 	},
 	source=
