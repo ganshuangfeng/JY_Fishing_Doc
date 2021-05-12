@@ -221,7 +221,7 @@ return {
 		{
 			line = 21,
 			award_name = "700万金币",
-			award_image = "act_011_hhl_pay_icon_gold8",
+			award_image = "pay_icon_gold8",
 			item_cost_text = 42000,
 			type = 0,
 			condiy_key = "actp_prop_exchange_nor_v3",
@@ -239,7 +239,7 @@ return {
 		{
 			line = 23,
 			award_name = "400万金币",
-			award_image = "act_011_hhl_pay_icon_gold7",
+			award_image = "pay_icon_gold7",
 			item_cost_text = 24000,
 			type = 0,
 			condiy_key = "actp_prop_exchange_nor",
@@ -257,7 +257,7 @@ return {
 		{
 			line = 25,
 			award_name = "150万小游戏币",
-			award_image = "act_011_hhl_ty_icon_yxb_5",
+			award_image = "ty_icon_yxb_5",
 			item_cost_text = 9000,
 			type = 0,
 			condiy_key = "actp_prop_exchange_nor",
@@ -275,7 +275,7 @@ return {
 		{
 			line = 27,
 			award_name = "50万鱼币",
-			award_image = "act_011_hhl_ty_icon_yb_5",
+			award_image = "ty_icon_yb_5",
 			item_cost_text = 3000,
 			type = 0,
 			condiy_key = "actp_prop_exchange_nor",
