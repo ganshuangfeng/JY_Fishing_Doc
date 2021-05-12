@@ -646,7 +646,7 @@ return {
 			line = 20,
 			id = 20,
 			prefab = "Fish3D103",
-			icon = "3dby_icon_yu22",
+			icon = "3dby_icon_yu66",
 			name = "金猪",
 			name_image = "3dby_imgf_hjdly",
 			reward_image = "3dby_imgf_hjdly",
