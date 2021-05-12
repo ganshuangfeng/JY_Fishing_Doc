@@ -3051,7 +3051,7 @@ return {
 		{
 			id = 311,
 			key = "act_ty_sjb_style/act_014_dlphb",
-			desc = "掉落排行榜皮肤（铁锤）",
+			desc = "掉落排行榜皮肤（财力）",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3060,19 +3060,19 @@ return {
 		{
 			id = 312,
 			key = "act_ty_by_drop_style/act_015_gongju",
-			desc = "活动boss皮肤（铁锤）",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			desc = "活动boss皮肤（五星）",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[313]=
 		{
 			id = 313,
 			key = "act_ty_by_hhl_style/act_010_hhl",
 			desc = "换好礼皮肤",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[314]=
 		{
