@@ -2653,7 +2653,7 @@ return {
 		[50]=
 		{
 			id = 50,
-			show_limit = 1,
+			show_limit = 100000,
 			max_show_num = 20,
 			max_rank_num = 100,
 			max_award_num = 20,
