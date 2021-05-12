@@ -554,7 +554,7 @@ return {
 			rate = 40,
 			rotation = {30,0},
 			dead_index = 4,
-			gq_scale = 0.800000,
+			gq_scale = 0.600000,
 			fx_scale = 1,
 			ice_scale = 0.600000,
 			ice_type = "bytx_cool1",
