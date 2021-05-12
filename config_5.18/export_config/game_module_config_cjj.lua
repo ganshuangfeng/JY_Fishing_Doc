@@ -3050,7 +3050,7 @@ return {
 		[311]=
 		{
 			id = 311,
-			key = "act_ty_sjb_style/act_013_dlphb",
+			key = "act_ty_sjb_style/act_015_dlphb",
 			desc = "掉落排行榜皮肤（铁锤）",
 			is_on_off = 1,
 			enable = 1,
@@ -3070,9 +3070,9 @@ return {
 			id = 313,
 			key = "act_ty_by_hhl_style/act_010_hhl",
 			desc = "换好礼皮肤",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[314]=
 		{
@@ -3205,7 +3205,7 @@ return {
 		{
 			id = 327,
 			key = "act_052_qfhl",
-			desc = "龙腾祈福",
+			desc = "祈福好礼",
 			lua = "Act_052_QFHLManager",
 			is_on_off = 1,
 			enable = 1,
