@@ -5,7 +5,7 @@ return {
 		{
 			index = 1,
 			key = "act_mfhf",
-			icon = "mfhf_bg_1",
+			icon = "hlfl_bg_1",
 			name = "奖励话费",
 			tges = 1,
 		},
@@ -13,7 +13,7 @@ return {
 		{
 			index = 2,
 			key = "act_mfhf_cjj",
-			icon = "mfhf_bg_1",
+			icon = "hlfl_bg_1",
 			name = "奖励话费_cjj",
 			tges = 2,
 		},
@@ -61,7 +61,7 @@ return {
 		{
 			index = 8,
 			key = "act_ymfl",
-			icon = "ymfl_bg_1",
+			icon = "hhfl_bg_1",
 			name = "月末返利",
 			tges = 8,
 		},
