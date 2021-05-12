@@ -1195,8 +1195,8 @@ return {
 			item = {"jing_bi","prop_web_chip_huafei","swjl_1"},
 			count = {"15000000","2400","美的智能风扇"},
 			gotoUI = {"shop_bay",},
-			N_chose_1_img = "swjl_1",
-			N_chose_1_text = "美的智能风扇",
+			N_chose_1_img = {swjl_1,},
+			N_chose_1_text = {美的智能风扇,},
 		},
 		[95]=
 		{
@@ -1208,8 +1208,8 @@ return {
 			item = {"jing_bi","prop_web_chip_huafei","swjl_2"},
 			count = {"4000000","900","不锈钢绞肉机"},
 			gotoUI = {"shop_bay",},
-			N_chose_1_img = "swjl_2",
-			N_chose_1_text = "不锈钢绞肉机",
+			N_chose_1_img = {swjl_2,},
+			N_chose_1_text = {不锈钢绞肉机,},
 		},
 		[96]=
 		{
@@ -1221,8 +1221,8 @@ return {
 			item = {"jing_bi","prop_web_chip_huafei","swjl_3"},
 			count = {"2000000","450","豪华坚果礼包"},
 			gotoUI = {"shop_bay",},
-			N_chose_1_img = "swjl_3",
-			N_chose_1_text = "豪华坚果礼包",
+			N_chose_1_img = {swjl_3,},
+			N_chose_1_text = {豪华坚果礼包,},
 		},
 		[97]=
 		{
@@ -1234,8 +1234,8 @@ return {
 			item = {"jing_bi","prop_web_chip_huafei","swjl_4"},
 			count = {"800000","150","玉米热狗肠20支"},
 			gotoUI = {"shop_bay",},
-			N_chose_1_img = "swjl_4",
-			N_chose_1_text = "玉米热狗肠20支",
+			N_chose_1_img = {swjl_4,},
+			N_chose_1_text = {玉米热狗肠20支,},
 		},
 		[98]=
 		{
@@ -1247,8 +1247,8 @@ return {
 			item = {"jing_bi","prop_web_chip_huafei","swjl_5"},
 			count = {"400000","70","卫龙亲嘴烧30袋"},
 			gotoUI = {"shop_bay",},
-			N_chose_1_img = "swjl_5",
-			N_chose_1_text = "卫龙亲嘴烧30袋",
+			N_chose_1_img = {swjl_5,},
+			N_chose_1_text = {卫龙亲嘴烧30袋,},
 		},
 		[99]=
 		{
@@ -1260,8 +1260,8 @@ return {
 			item = {"jing_bi","prop_web_chip_huafei","swjl_6"},
 			count = {"350000","50","手帕纸10包"},
 			gotoUI = {"shop_bay",},
-			N_chose_1_img = "swjl_6",
-			N_chose_1_text = "手帕纸10包",
+			N_chose_1_img = {swjl_6,},
+			N_chose_1_text = {手帕纸10包,},
 		},
 		[100]=
 		{
@@ -1273,8 +1273,8 @@ return {
 			item = {"jing_bi","prop_web_chip_huafei","swjl_7"},
 			count = {"220000","30","棉签100支"},
 			gotoUI = {"shop_bay",},
-			N_chose_1_img = "swjl_7",
-			N_chose_1_text = "棉签100支",
+			N_chose_1_img = {swjl_7,},
+			N_chose_1_text = {棉签100支,},
 		},
 		[101]=
 		{
