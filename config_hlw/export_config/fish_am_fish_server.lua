@@ -152,9 +152,9 @@ return {
 		{
 			ID = 15,
 			fish_type = 3,
-			fish_form = {18,12,12,},
-			life = 96,
-			rate = 96,
+			fish_form = {9,12,12,},
+			life = 116,
+			rate = 116,
 			gd_award = 0,
 		},
 		[16]=
