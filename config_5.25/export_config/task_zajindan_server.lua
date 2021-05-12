@@ -15268,6 +15268,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000650]=
+		{
+			id = 1000650,
+			enable = 1,
+			name = "欢乐券掉落需求",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22008,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1621900800,
+			end_valid_time = 1622476799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -25191,6 +25206,15 @@ return {
 			process_id = 22007,
 			source_id = 643,
 			process = 3,
+		},
+		[1060]=
+		{
+			id = 1060,
+			process_id = 22008,
+			source_id = 529,
+			process = {300000,-1},
+			awards = 1379,
+			get_award_type = "nor",
 		},
 	},
 	source=
@@ -55518,6 +55542,14 @@ return {
 			award_id = 1378,
 			asset_type = "prop_web_chip_huafei",
 			asset_count = 10,
+			get_weight = 1,
+		},
+		[2262]=
+		{
+			id = 2262,
+			award_id = 1379,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
