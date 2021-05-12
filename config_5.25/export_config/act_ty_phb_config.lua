@@ -6,7 +6,7 @@ return {
 			line = 1,
 			is_on_off = 1,
 			ID = 1,
-			item_key = "prop_grade",
+			item_key = "prop_fish_drop_act_0",
 			reward_item_key = "prop_web_chip_huafei",
 			rank_type = "ymshf_017_hldr_rank",
 			s_time = 1621900800,
