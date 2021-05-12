@@ -456,7 +456,7 @@ return {
 			ID = 28,
 			title = "系统升级奖励",
 			order = -20,
-			is_on_off = 0,
+			is_on_off = 1,
 			beginTime = 1614643200,
 			endTime = -1,
 			showType = "prefab",
