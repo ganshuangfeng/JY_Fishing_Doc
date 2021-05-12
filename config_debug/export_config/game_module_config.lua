@@ -3033,9 +3033,9 @@ return {
 			key = "act_ty_zp1",
 			desc = "通用活动--转盘模板（畅玩礼包）",
 			lua = "Act_Ty_ZP1Manager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[310]=
 		{
@@ -3257,9 +3257,9 @@ return {
 			key = "act_052_qfhl",
 			desc = "龙腾祈福",
 			lua = "Act_052_QFHLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[333]=
 		{
@@ -3306,18 +3306,18 @@ return {
 			key = "act_040_mslb",
 			desc = "秒杀礼包",
 			lua = "Act_040_MSLBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[338]=
 		{
 			id = 338,
 			key = "act_ty_zp1_style/act_ty_zp1_002",
 			desc = "通用转盘皮肤",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[339]=
 		{
