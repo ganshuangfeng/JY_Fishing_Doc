@@ -108,7 +108,7 @@ return {
 			line = 8,
 			order = 38,
 			tag = 1,
-			icon = "3dby_icon_yu108",
+			icon = "3dby_icon_yu111",
 			name = "孔雀鱼",
 			game_id = {1,2,3,4,5},
 			scale = 5,
