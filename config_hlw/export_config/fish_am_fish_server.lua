@@ -51,7 +51,7 @@ return {
 			fish_type = 2,
 			fish_form = {5,},
 			count = {5,},
-			speed = 200,
+			speed = {200,},
 			int = 10,
 			life = 2,
 			rate = 2,
