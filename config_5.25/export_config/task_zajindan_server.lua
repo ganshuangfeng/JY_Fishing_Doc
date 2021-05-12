@@ -24925,7 +24925,7 @@ return {
 		{
 			id = 1028,
 			process_id = 21976,
-			source_id = 529,
+			source_id = 542,
 			process = {300000,-1},
 			awards = 1337,
 			get_award_type = "nor",
@@ -25211,7 +25211,7 @@ return {
 		{
 			id = 1060,
 			process_id = 22008,
-			source_id = 529,
+			source_id = 542,
 			process = {300000,-1},
 			awards = 1379,
 			get_award_type = "nor",
