@@ -137,7 +137,7 @@ return {
 			reward_level = {1,5},
 			size_w = 1.760000,
 			size_h = 2.740000,
-			max_speed = 2,
+			max_speed = 3.500000,
 			max_ratespeed = 30,
 			mass = 1,
 			rate = 8,
