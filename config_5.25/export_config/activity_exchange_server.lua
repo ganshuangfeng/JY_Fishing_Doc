@@ -4583,9 +4583,9 @@ return {
 			award_cfg_id = 55,
 			award_id = 9,
 			permission_key = "actp_prop_exchange_nor",
-			asset_type = "fish_coin",
+			asset_type = {"fish_coin",},
 			asset_count = {500000,},
-			use_num = 3000,
+			use_num = {3000,},
 			me_limit_day_num = 5,
 		},
 		[354]=
