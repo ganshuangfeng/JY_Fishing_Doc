@@ -14,54 +14,54 @@ return {
 	},
 	conv=
 	{
-		xiaoxiaole=
+		xiaoxiaole_award=
 		{
-			game_type = "xiaoxiaole",
+			game_type = "xiaoxiaole_award",
 			rate = 0.003000,
 		},
-		xiaoxiaole_shuihu=
+		xiaoxiaole_shuihu_award=
 		{
-			game_type = "xiaoxiaole_shuihu",
+			game_type = "xiaoxiaole_shuihu_award",
 			rate = 0.003000,
 		},
-		xiaoxiaole_caishen=
+		xiaoxiaole_caishen_award=
 		{
-			game_type = "xiaoxiaole_caishen",
+			game_type = "xiaoxiaole_caishen_award",
 			rate = 0.003000,
 		},
-		tantanle=
+		tantanle_award=
 		{
-			game_type = "tantanle",
+			game_type = "tantanle_award",
 			rate = 0.003000,
 		},
-		zajindan=
+		zajindan_award=
 		{
-			game_type = "zajindan",
+			game_type = "zajindan_award",
 			rate = 0.003000,
 		},
-		fishing_game=
+		buyu_spend=
 		{
-			game_type = "fishing_game",
+			game_type = "buyu_spend",
 			rate = 0.003000,
 		},
-		fishing_3d_game=
+		buyu_3d_spend=
 		{
-			game_type = "fishing_3d_game",
+			game_type = "buyu_3d_spend",
 			rate = 0.003000,
 		},
-		xiaoxiaole_xiyou=
+		xiaoxiaole_xiyou_award=
 		{
-			game_type = "xiaoxiaole_xiyou",
+			game_type = "xiaoxiaole_xiyou_award",
 			rate = 0.003000,
 		},
-		lwzb_game=
+		lwzb_game_award=
 		{
-			game_type = "lwzb_game",
+			game_type = "lwzb_game_award",
 			rate = 0.003000,
 		},
-		xiaoxiaole_sanguo=
+		xiaoxiaole_sanguo_award=
 		{
-			game_type = "xiaoxiaole_sanguo",
+			game_type = "xiaoxiaole_sanguo_award",
 			rate = 0.003000,
 		},
 	},
