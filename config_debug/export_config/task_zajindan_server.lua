@@ -1124,7 +1124,7 @@ return {
 		[21029]=
 		{
 			id = 21029,
-			enable = 1,
+			enable = 0,
 			name = "系统升级活动",
 			own_type = "normal",
 			task_enum = "common",
@@ -2762,7 +2762,7 @@ return {
 		[21146]=
 		{
 			id = 21146,
-			enable = 1,
+			enable = 0,
 			name = "系统升级活动",
 			own_type = "normal",
 			task_enum = "common",
@@ -8182,7 +8182,7 @@ return {
 		[1000175]=
 		{
 			id = 1000175,
-			enable = 1,
+			enable = 0,
 			name = "系统升级活动",
 			own_type = "p_system_update",
 			task_enum = "common",
@@ -10779,7 +10779,7 @@ return {
 		[1000351]=
 		{
 			id = 1000351,
-			enable = 1,
+			enable = 0,
 			name = "系统升级活动",
 			own_type = "p_system_update_1",
 			task_enum = "common",
@@ -14783,8 +14783,8 @@ return {
 			process_id = 21975,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 946677600,
-			end_valid_time = 32503651200,
+			start_valid_time = 1621296000,
+			end_valid_time = 1621871999,
 			time_limit = -1,
 			is_send_client = 1,
 		},
