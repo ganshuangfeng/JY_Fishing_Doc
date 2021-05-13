@@ -258,9 +258,8 @@ return {
 		[26]=
 		{
 			ID = 26,
-			fish_type = 2,
-			fish_form = {11,11,11,11,11,},
-			path = {79,7,5,32,23,},
+			fish_type = 1,
+			fish_form = {12,},
 			life = 18,
 			rate = 18,
 			gd_award = 0,
@@ -268,9 +267,8 @@ return {
 		[27]=
 		{
 			ID = 27,
-			fish_type = 2,
-			fish_form = {8,8,8,8,8,},
-			path = {5,36,31,20,23,},
+			fish_type = 1,
+			fish_form = {13,},
 			life = 20,
 			rate = 20,
 			gd_award = 0,
