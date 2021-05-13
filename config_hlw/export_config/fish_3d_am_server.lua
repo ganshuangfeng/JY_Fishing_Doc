@@ -210,54 +210,46 @@ return {
 		[6]=
 		{
 			id = 6,
-			enter_cfg_id = 3,
+			enter_cfg_id = 4,
 			asset_type = "jing_bi",
-			asset_count = 200000000,
-			judge_type = 4,
+			asset_count = 1000000,
+			judge_type = 3,
 		},
 		[7]=
 		{
 			id = 7,
 			enter_cfg_id = 4,
 			asset_type = "jing_bi",
-			asset_count = 1000000,
-			judge_type = 3,
+			asset_count = 800000000,
+			judge_type = 4,
 		},
 		[8]=
 		{
 			id = 8,
-			enter_cfg_id = 4,
-			asset_type = "jing_bi",
-			asset_count = 800000000,
-			judge_type = 4,
-		},
-		[9]=
-		{
-			id = 9,
 			enter_cfg_id = 5,
 			asset_type = "jing_bi",
 			asset_count = 10000000,
 			judge_type = 3,
 		},
-		[10]=
+		[9]=
 		{
-			id = 10,
+			id = 9,
 			enter_cfg_id = 6,
 			asset_type = "jing_bi",
 			asset_count = 10000,
 			judge_type = 3,
 		},
-		[11]=
+		[10]=
 		{
-			id = 11,
+			id = 10,
 			enter_cfg_id = 7,
 			asset_type = "jing_bi",
 			asset_count = 100000,
 			judge_type = 3,
 		},
-		[12]=
+		[11]=
 		{
-			id = 12,
+			id = 11,
 			enter_cfg_id = 8,
 			asset_type = "jing_bi",
 			asset_count = 200000,
