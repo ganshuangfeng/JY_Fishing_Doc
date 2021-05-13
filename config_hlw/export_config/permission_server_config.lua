@@ -16037,7 +16037,7 @@ return {
 			var = "tag_type",
 			value = "tag_plat_hlw",
 			judge = 5,
-			group = 2,
+			group = 1,
 			error_desc = "不是玩棋牌平台",
 		},
 		[772]=
@@ -16047,7 +16047,7 @@ return {
 			var = "tag_type",
 			value = "tag_plat_vivo_hlw",
 			judge = 5,
-			group = 3,
+			group = 1,
 			error_desc = "不是玩棋牌平台",
 		},
 		[773]=
