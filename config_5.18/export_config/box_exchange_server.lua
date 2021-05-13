@@ -967,6 +967,26 @@ return {
 			award_id = 89,
 			enable = 1,
 		},
+		[91]=
+		{
+			id = 91,
+			name = "祈福好礼",
+			start_time = 1621296000,
+			end_time = 1621871999,
+			use_asset_id = 83,
+			award_id = 89,
+			enable = 1,
+		},
+		[92]=
+		{
+			id = 92,
+			name = "祈福好礼",
+			start_time = 1621296000,
+			end_time = 1621871999,
+			use_asset_id = 83,
+			award_id = 89,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
