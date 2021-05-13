@@ -42,7 +42,6 @@ return {
 			lvevl = 1,
 			order = 3,
 			enter_min = 100000,
-			enter_max = 200000000,
 			is_on = 1,
 			recommend_min = 500000,
 			recommend_max = 5999999,
