@@ -1,8 +1,9 @@
 return {
 	otherInfo=
 	{
-		[1000638]=
+		[1]=
 		{
+			line = 1,
 			task_id = 1000638,
 			startTime = 1621900800,
 			endTime = 1622476799,
@@ -18,7 +19,7 @@ return {
 			need_num = 10,
 			award_name = "话费碎片",
 			award_amount = "5~30",
-			award_icon = "com_award_icon_hfsp2",
+			award_icon = "com_award_icon_hfsp",
 		},
 		[2]=
 		{
@@ -34,7 +35,7 @@ return {
 			need_num = 50,
 			award_name = "话费碎片",
 			award_amount = 35,
-			award_icon = "com_award_icon_hfsp2",
+			award_icon = "com_award_icon_hfsp",
 		},
 		[4]=
 		{
@@ -50,7 +51,7 @@ return {
 			need_num = 200,
 			award_name = "话费碎片",
 			award_amount = "80~300",
-			award_icon = "com_award_icon_hfsp2",
+			award_icon = "com_award_icon_hfsp",
 		},
 		[6]=
 		{
@@ -66,7 +67,7 @@ return {
 			need_num = 800,
 			award_name = "话费碎片",
 			award_amount = "400~2000",
-			award_icon = "com_award_icon_hfsp2",
+			award_icon = "com_award_icon_hfsp",
 		},
 		[8]=
 		{
@@ -82,7 +83,7 @@ return {
 			need_num = 2000,
 			award_name = "话费碎片",
 			award_amount = "800~5000",
-			award_icon = "com_award_icon_hfsp2",
+			award_icon = "com_award_icon_hfsp",
 		},
 		[10]=
 		{
