@@ -14728,6 +14728,51 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000614]=
+		{
+			id = 1000614,
+			enable = 1,
+			name = "欢乐五月天祈福好礼简单难度累计抽奖",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21972,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1621267200,
+			end_valid_time = 1621871999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000615]=
+		{
+			id = 1000615,
+			enable = 1,
+			name = "欢乐五月天祈福好礼中等难度累计抽奖",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21973,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1621267200,
+			end_valid_time = 1621871999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000616]=
+		{
+			id = 1000616,
+			enable = 1,
+			name = "欢乐五月天祈福好礼挑战难度累计抽奖",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 21974,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1621267200,
+			end_valid_time = 1621871999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -24330,6 +24375,33 @@ return {
 			awards = {1318,1319,1320},
 			get_award_type = "random",
 		},
+		[1024]=
+		{
+			id = 1024,
+			process_id = 21972,
+			source_id = 639,
+			process = {20,50,100,200,400},
+			awards = {1321,1322,1323,1324,1325},
+			get_award_type = "random",
+		},
+		[1025]=
+		{
+			id = 1025,
+			process_id = 21973,
+			source_id = 639,
+			process = {100,500,1000,1500,2200},
+			awards = {1326,1327,1328,1329,1330},
+			get_award_type = "random",
+		},
+		[1026]=
+		{
+			id = 1026,
+			process_id = 21974,
+			source_id = 639,
+			process = {100,500,1000,1500,4000},
+			awards = {1331,1332,1333,1334,1335},
+			get_award_type = "random",
+		},
 	},
 	source=
 	{
@@ -31598,6 +31670,13 @@ return {
 			source_type = "on_task_progress_change",
 			condition_id = 473,
 		},
+		[1032]=
+		{
+			id = 1032,
+			source_id = 639,
+			source_type = "box_exchange",
+			condition_id = 476,
+		},
 	},
 	condition=
 	{
@@ -36472,6 +36551,22 @@ return {
 			condition_name = "gun_rate",
 			condition_value = 1000,
 			judge_type = 3,
+		},
+		[640]=
+		{
+			id = 640,
+			condition_id = 476,
+			condition_name = "box_exchange_type",
+			condition_value = 90,
+			judge_type = 2,
+		},
+		[641]=
+		{
+			id = 641,
+			condition_id = 476,
+			condition_name = "award_id",
+			condition_value = 89,
+			judge_type = 2,
 		},
 	},
 	award_data=
@@ -54079,6 +54174,40 @@ return {
 			asset_type = "jing_bi",
 			asset_count = {2000000,2900000},
 			get_weight = 1,
+		},
+		[2202]=
+		{
+			id = 2202,
+			award_id = 1321,
+			asset_type = "jing_bi",
+			asset_count = {20000,80000},
+		},
+		[2203]=
+		{
+			id = 2203,
+			award_id = 1322,
+			asset_type = "jing_bi",
+			asset_count = {100000,150000},
+		},
+		[2204]=
+		{
+			id = 2204,
+			award_id = 1323,
+			asset_type = "jing_bi",
+			asset_count = {150000,300000},
+		},
+		[2205]=
+		{
+			id = 2205,
+			award_id = 1324,
+			asset_type = "jing_bi",
+			asset_count = {300000,500000},
+		},
+		[2206]=
+		{
+			id = 2206,
+			award_id = 1325,
+			award_name = "金龙鱼大米",
 		},
 	},
 }
