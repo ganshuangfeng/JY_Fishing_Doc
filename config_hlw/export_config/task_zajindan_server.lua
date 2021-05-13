@@ -36449,7 +36449,7 @@ return {
 			id = 843,
 			condition_id = 569,
 			condition_name = "base_fish_id",
-			condition_value = 3,
+			condition_value = 4,
 			judge_type = 2,
 		},
 		[844]=
