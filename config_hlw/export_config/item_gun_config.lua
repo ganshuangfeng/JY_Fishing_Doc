@@ -275,8 +275,8 @@ return {
 			name = "金焰",
 			desc = "装备后效果：捕鱼子弹威力提高千分之五\n限制：传说品质以上炮台可用",
 			desc_get = "金币购买",
-			use_parm = {"buyitem",27,},
-			buy_hint = "是否花费30万金币购买【金焰】30天使用权",
+			use_parm = {"buyitem",36,},
+			buy_hint = "是否花费3万金币购买【金焰】30天使用权",
 			buy_anniu_hint = "获取",
 		},
 		[17]=

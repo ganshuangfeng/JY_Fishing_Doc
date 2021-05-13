@@ -24313,5 +24313,20 @@ return {
 			ui_icon = "3dby_icon_p6",
 			ui_icon_bg = "pay_bg_light1",
 		},
+		[29]=
+		{
+			line_id = 29,
+			id = 36,
+			type = "gun_bed_4",
+			use_type = "jing_bi",
+			use_count = 30000,
+			num = 2592000,
+			is_show = 0,
+			ui_order = 0,
+			ui_title = "金焰",
+			ui_price = 300000,
+			ui_icon = "3dby_icon_cs_1",
+			ui_icon_bg = "pay_bg_light1",
+		},
 	},
 }
