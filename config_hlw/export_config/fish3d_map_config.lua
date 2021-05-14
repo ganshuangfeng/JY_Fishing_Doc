@@ -569,7 +569,6 @@ return {
 			tag = 2,
 			icon = "3dby_icon_yu58",
 			name = "深海巨鲸",
-			game_id = {3,},
 			scale = 0.500000,
 			rotation = {0,0,0},
 			rate = "最高600倍",
