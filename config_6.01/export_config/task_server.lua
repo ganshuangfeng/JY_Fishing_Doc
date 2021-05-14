@@ -3774,14 +3774,14 @@ return {
 		{
 			id = 138,
 			source_id = 106,
-			source_type = "charge_any",
+			source_type = "agent_charge_any",
 			condition_id = 0,
 		},
 		[139]=
 		{
 			id = 139,
 			source_id = 107,
-			source_type = "asset_observe",
+			source_type = "count_login",
 			condition_id = 0,
 		},
 		[140]=
