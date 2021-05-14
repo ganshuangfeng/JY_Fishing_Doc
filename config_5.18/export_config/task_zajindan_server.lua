@@ -24370,7 +24370,7 @@ return {
 		{
 			id = 1023,
 			process_id = 21971,
-			source_id = 584,
+			source_id = 640,
 			process = {2,3,5},
 			awards = {1318,1319,1320},
 			get_award_type = "random",
@@ -31677,6 +31677,13 @@ return {
 			source_type = "box_exchange",
 			condition_id = 476,
 		},
+		[1033]=
+		{
+			id = 1033,
+			source_id = 640,
+			source_type = "buy_gift",
+			condition_id = 478,
+		},
 	},
 	condition=
 	{
@@ -36566,6 +36573,13 @@ return {
 			condition_id = 476,
 			condition_name = "award_id",
 			condition_value = 89,
+			judge_type = 2,
+		},
+		[642]=
+		{
+			id = 642,
+			condition_id = 478,
+			condition_value = {10544,10545,10546,10547,10548,10549,10550},
 			judge_type = 2,
 		},
 	},
