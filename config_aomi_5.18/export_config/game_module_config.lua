@@ -2810,9 +2810,9 @@ return {
 		[287]=
 		{
 			id = 287,
-			key = "act_034_ldfd",
-			desc = "立冬福袋",
-			lua = "Act_034_LDFDManager",
+			key = "act_ty_ldfd",
+			desc = "幸运福袋",
+			lua = "Act_ty_LDFDManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
