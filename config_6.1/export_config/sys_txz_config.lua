@@ -95,6 +95,7 @@ return {
 			type = 2,
 			task = 30006,
 			addvalue = 30,
+			gotoUI = {"game_Fishing3DHall",},
 			task_name = "消耗30万金币",
 		},
 		[4]=
@@ -103,6 +104,7 @@ return {
 			type = 2,
 			task = 30007,
 			addvalue = 30,
+			gotoUI = {"game_Fishing3DHall",},
 			task_name = "在3D捕鱼中捕获任意100条鱼",
 		},
 		[5]=
@@ -111,6 +113,7 @@ return {
 			type = 2,
 			task = 30008,
 			addvalue = 30,
+			gotoUI = {"game_Fishing3DHall",},
 			task_name = "在3D捕鱼海底宝藏中累计开炮500次",
 		},
 		[6]=
@@ -119,6 +122,7 @@ return {
 			type = 2,
 			task = 30009,
 			addvalue = 30,
+			gotoUI = {"game_MiniGame",},
 			task_name = "在西游消消乐中累计消除15次",
 		},
 		[7]=
@@ -127,6 +131,7 @@ return {
 			type = 2,
 			task = 30010,
 			addvalue = 30,
+			gotoUI = {"game_MiniGame",},
 			task_name = "在水浒消消乐中累计消除15次",
 		},
 		[8]=
@@ -159,6 +164,7 @@ return {
 			type = 3,
 			task = 30014,
 			addvalue = 200,
+			gotoUI = {"game_Fishing3DHall",},
 			task_name = "深海探险通过10层",
 		},
 		[12]=
@@ -175,6 +181,7 @@ return {
 			type = 3,
 			task = 30016,
 			addvalue = 200,
+			gotoUI = {"game_Fishing3DHall",},
 			task_name = "在3D捕鱼海底宝藏中累计捕获300条鱼",
 		},
 		[14]=
@@ -183,6 +190,7 @@ return {
 			type = 3,
 			task = 30017,
 			addvalue = 200,
+			gotoUI = {"game_MiniGame",},
 			task_name = "在苹果大战中累计纯赢100万",
 		},
 		[15]=
@@ -191,6 +199,7 @@ return {
 			type = 3,
 			task = 30018,
 			addvalue = 200,
+			gotoUI = {"game_MiniGame",},
 			task_name = "在水果消消乐中累计消除100次",
 		},
 	},
