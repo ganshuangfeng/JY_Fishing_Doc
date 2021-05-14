@@ -9753,7 +9753,6 @@ return {
 		{
 			id = 565,
 			real_award_id = 12037,
-			award_name = "800福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = {800,800},
 		},
@@ -9761,7 +9760,6 @@ return {
 		{
 			id = 566,
 			real_award_id = 12038,
-			award_name = "100万金币",
 			asset_type = "jing_bi",
 			asset_count = {1000000,1000000},
 		},
@@ -9769,7 +9767,6 @@ return {
 		{
 			id = 567,
 			real_award_id = 12039,
-			award_name = "50万金币",
 			asset_type = "jing_bi",
 			asset_count = {500000,500000},
 		},
@@ -9777,7 +9774,6 @@ return {
 		{
 			id = 568,
 			real_award_id = 12040,
-			award_name = "100福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = {100,100},
 		},
@@ -9785,7 +9781,6 @@ return {
 		{
 			id = 569,
 			real_award_id = 12041,
-			award_name = "10万金币",
 			asset_type = "jing_bi",
 			asset_count = {100000,100000},
 		},
@@ -9793,7 +9788,6 @@ return {
 		{
 			id = 570,
 			real_award_id = 12042,
-			award_name = "100话费碎片",
 			asset_type = "prop_web_chip_huafei",
 			asset_count = {100,100},
 		},
@@ -9801,7 +9795,6 @@ return {
 		{
 			id = 571,
 			real_award_id = 12043,
-			award_name = "8万小游戏币",
 			asset_type = "prop_tiny_game_coin",
 			asset_count = {80000,80000},
 		},
@@ -9809,7 +9802,6 @@ return {
 		{
 			id = 572,
 			real_award_id = 12044,
-			award_name = "30福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = {30,30},
 		},
@@ -9817,7 +9809,6 @@ return {
 		{
 			id = 573,
 			real_award_id = 12045,
-			award_name = "15话费碎片",
 			asset_type = "prop_web_chip_huafei",
 			asset_count = {15,15},
 		},
@@ -9825,7 +9816,6 @@ return {
 		{
 			id = 574,
 			real_award_id = 12046,
-			award_name = "30000小游戏币",
 			asset_type = "prop_tiny_game_coin",
 			asset_count = {30000,30000},
 		},
