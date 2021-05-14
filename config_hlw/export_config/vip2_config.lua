@@ -6,221 +6,403 @@ return {
 			line = 1,
 			vip = 1,
 			total = 10,
-			info = "福利券容量提升为<color=#DA2020>5000福利券</color>",
+			info = "可获得<color=#DA2020>圣光 II</color>炮台",
 		},
 		[2]=
 		{
 			line = 2,
 			vip = 1,
 			total = 10,
-			info = "享受兑换商城商品<color=#DA2020>99%</color>兑换权",
+			info = "每日首次转运金由3000鲸币提高到<color=#DA2020>4000鲸币</color>",
 		},
 		[3]=
 		{
 			line = 3,
 			vip = 1,
 			total = 10,
-			info = "享受vip专享福利",
+			info = "福利券容量提升为<color=#DA2020>200福利券</color>",
 		},
 		[4]=
 		{
 			line = 4,
-			vip = 2,
-			total = 200,
-			info = "福利券容量提升为<color=#DA2020>4万福利券</color>",
+			vip = 1,
+			total = 10,
+			info = "享受vip专享福利",
 		},
 		[5]=
 		{
 			line = 5,
 			vip = 2,
-			total = 200,
-			info = "享受vip1所有特权并提高部分特权奖励",
+			total = 100,
+			info = "每周可领1个<color=#DA2020>3元</color>的礼包",
 		},
 		[6]=
 		{
 			line = 6,
-			vip = 3,
-			total = 500,
-			info = "可获得<color=#DA2020>闪耀风暴</color>炮台，有几率捕获激光范围内的任意鱼类",
+			vip = 2,
+			total = 100,
+			info = "可获得<color=#DA2020>圣光 III</color>炮台",
 		},
 		[7]=
 		{
 			line = 7,
-			vip = 3,
-			total = 500,
-			info = "福利券容量提升为<color=#DA2020>10万福利券</color>",
+			vip = 2,
+			total = 100,
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>5次</color>",
 		},
 		[8]=
 		{
 			line = 8,
-			vip = 3,
-			total = 500,
-			info = "享受vip2所有特权并提高部分特权奖励",
+			vip = 2,
+			total = 100,
+			info = "每日首次转运金提高到<color=#DA2020>5000鲸币</color>",
 		},
 		[9]=
 		{
 			line = 9,
-			vip = 4,
-			total = 1000,
-			info = "福利券容量提升为<color=#DA2020>15万福利券</color>",
+			vip = 2,
+			total = 100,
+			info = "福卡容量提升为<color=#DA2020>400福卡</color>",
 		},
 		[10]=
 		{
 			line = 10,
-			vip = 4,
-			total = 1000,
-			info = "享受vip3所有特权并提高部分特权奖励",
+			vip = 2,
+			total = 100,
+			info = "享受vip1所有特权并提高部分特权奖励",
 		},
 		[11]=
 		{
 			line = 11,
-			vip = 5,
-			total = 2000,
-			info = "可获得<color=#DA2020>金币使者</color>炮台，可捕获同移动线上的任意鱼类",
+			vip = 3,
+			total = 198,
+			info = "每周可领礼包升级为<color=#DA2020>8元</color>的礼包",
 		},
 		[12]=
 		{
 			line = 12,
-			vip = 5,
-			total = 2000,
-			info = "福利券容量提升为<color=#DA2020>30万福利券</color>",
+			vip = 3,
+			total = 198,
+			info = "可获得<color=#DA2020>圣光 IV</color>炮台",
 		},
 		[13]=
 		{
 			line = 13,
-			vip = 5,
-			total = 2000,
-			info = "畅玩所有游戏",
+			vip = 3,
+			total = 198,
+			info = "每日首次转运金提高到<color=#DA2020>6000鲸币</color>",
 		},
 		[14]=
 		{
 			line = 14,
-			vip = 5,
-			total = 2000,
-			info = "享受vip4所有特权并提高部分特权奖励",
+			vip = 3,
+			total = 198,
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>10次</color>",
 		},
 		[15]=
 		{
 			line = 15,
-			vip = 6,
-			total = 5000,
-			info = "福利券容量提升为<color=#DA2020>50万福利券</color>",
+			vip = 3,
+			total = 198,
+			info = "福卡容量提升为<color=#DA2020>1000福卡</color>",
 		},
 		[16]=
 		{
 			line = 16,
-			vip = 6,
-			total = 5000,
-			info = "享受vip5所有特权并提高部分特权奖励",
+			vip = 3,
+			total = 198,
+			info = "享受vip2所有特权并提高部分特权奖励",
 		},
 		[17]=
 		{
 			line = 17,
-			vip = 7,
-			total = 10000,
-			info = "福利券容量提升为<color=#DA2020>100万福利券</color>",
+			vip = 4,
+			total = 1000,
+			info = "可获得<color=#DA2020>圣光 V</color>炮台",
 		},
 		[18]=
 		{
 			line = 18,
-			vip = 7,
-			total = 10000,
-			info = "享受vip6所有特权并提高部分特权奖励",
+			vip = 4,
+			total = 1000,
+			info = "每日首次转运金提高到<color=#DA2020>7000鲸币</color>",
 		},
 		[19]=
 		{
 			line = 19,
-			vip = 8,
-			total = 20000,
-			info = "福利券容量提升为<color=#DA2020>200万福利券</color>",
+			vip = 4,
+			total = 1000,
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>20次</color>",
 		},
 		[20]=
 		{
 			line = 20,
-			vip = 8,
-			total = 20000,
-			info = "享受vip7所有特权并提高部分特权奖励",
+			vip = 4,
+			total = 1000,
+			info = "福卡容量提升为<color=#DA2020>1500福卡</color>",
 		},
 		[21]=
 		{
 			line = 21,
-			vip = 9,
-			total = 30000,
-			info = "福利券容量提升为<color=#DA2020>300万福利券</color>",
+			vip = 4,
+			total = 1000,
+			info = "享受vip3所有特权并提高部分特权奖励",
 		},
 		[22]=
 		{
 			line = 22,
-			vip = 9,
-			total = 30000,
-			info = "享受vip8所有特权并提高部分特权奖励",
+			vip = 5,
+			total = 2000,
+			info = "可获得<color=#DA2020>闪耀风暴</color>炮台，有几率捕获激光范围内的任意鱼类",
 		},
 		[23]=
 		{
 			line = 23,
-			vip = 10,
-			total = 50000,
-			info = "福利券容量提升为<color=#DA2020>500万福利券</color>",
+			vip = 5,
+			total = 2000,
+			info = "每日首次转运金提高到<color=#DA2020>8000鲸币</color>",
 		},
 		[24]=
 		{
 			line = 24,
-			vip = 10,
-			total = 50000,
-			info = "享受vip9所有特权并提高部分特权奖励",
+			vip = 5,
+			total = 2000,
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>30次</color>",
 		},
 		[25]=
 		{
 			line = 25,
-			vip = 11,
-			info = "每日可免费领取至尊礼包1个",
-			cfz = 15000,
+			vip = 5,
+			total = 2000,
+			info = "福卡容量提升为<color=#DA2020>3000福卡</color>",
 		},
 		[26]=
 		{
 			line = 26,
-			vip = 11,
-			info = "每领满30次至尊礼包额外奖励100万鱼币",
-			cfz = 15000,
+			vip = 5,
+			total = 2000,
+			info = "福利券容量提升为<color=#DA2020>30万福利券</color>",
 		},
 		[27]=
 		{
 			line = 27,
-			vip = 11,
-			info = "福利券容量提升为<color=#DA2020>800万</color>福利券",
-			cfz = 15000,
+			vip = 5,
+			total = 2000,
+			info = "享受vip4所有特权并提高部分特权奖励",
 		},
 		[28]=
 		{
 			line = 28,
-			vip = 11,
-			info = "享受vip10所有特权并提高部分特权奖励",
-			cfz = 15000,
+			vip = 6,
+			total = 5000,
+			info = "每周可领礼包升级为<color=#DA2020>16元</color>的礼包",
 		},
 		[29]=
 		{
 			line = 29,
-			vip = 12,
-			info = "每日可免费领取至尊礼包1个",
-			cfz = 40000,
+			vip = 6,
+			total = 5000,
+			info = "可获得<color=#DA2020>金币使者</color>炮台，可捕获同移动线上的任意鱼类",
 		},
 		[30]=
 		{
 			line = 30,
-			vip = 12,
-			info = "每领满30次至尊礼包额外奖励200元话费",
-			cfz = 40000,
+			vip = 6,
+			total = 5000,
+			info = "每日首次转运金提高到<color=#DA2020>9000鲸币</color>",
 		},
 		[31]=
 		{
 			line = 31,
-			vip = 12,
-			info = "福利券容量提升为<color=#DA2020>1200万</color>福利券",
-			cfz = 40000,
+			vip = 6,
+			total = 5000,
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
 		},
 		[32]=
 		{
 			line = 32,
+			vip = 6,
+			total = 5000,
+			info = "福卡容量提升为<color=#DA2020>5000福卡</color>",
+		},
+		[33]=
+		{
+			line = 33,
+			vip = 6,
+			total = 5000,
+			info = "享受vip5所有特权并提高部分特权奖励",
+		},
+		[34]=
+		{
+			line = 34,
+			vip = 7,
+			total = 10000,
+			info = "每日首次转运金提高到<color=#DA2020>1万鲸币</color>",
+		},
+		[35]=
+		{
+			line = 35,
+			vip = 7,
+			total = 10000,
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+		},
+		[36]=
+		{
+			line = 36,
+			vip = 7,
+			total = 10000,
+			info = "福卡容量提升为<color=#DA2020>10000福卡</color>",
+		},
+		[37]=
+		{
+			line = 37,
+			vip = 7,
+			total = 10000,
+			info = "享受vip6所有特权并提高部分特权奖励",
+		},
+		[38]=
+		{
+			line = 38,
+			vip = 8,
+			total = 20000,
+			info = "每周可领礼包升级为<color=#DA2020>25元</color>的礼包",
+		},
+		[39]=
+		{
+			line = 39,
+			vip = 8,
+			total = 20000,
+			info = "每日首次转运金提高到<color=#DA2020>1.2万鲸币</color>",
+		},
+		[40]=
+		{
+			line = 40,
+			vip = 8,
+			total = 20000,
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+		},
+		[41]=
+		{
+			line = 41,
+			vip = 8,
+			total = 20000,
+			info = "福卡容量提升为<color=#DA2020>20000福卡</color>",
+		},
+		[42]=
+		{
+			line = 42,
+			vip = 8,
+			total = 20000,
+			info = "享受vip7所有特权并提高部分特权奖励",
+		},
+		[43]=
+		{
+			line = 43,
+			vip = 9,
+			total = 30000,
+			info = "每日首次转运金提高到<color=#DA2020>1.4万鲸币</color>",
+		},
+		[44]=
+		{
+			line = 44,
+			vip = 9,
+			total = 30000,
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+		},
+		[45]=
+		{
+			line = 45,
+			vip = 9,
+			total = 30000,
+			info = "福卡容量提升为<color=#DA2020>30000福卡</color>",
+		},
+		[46]=
+		{
+			line = 46,
+			vip = 9,
+			total = 30000,
+			info = "享受vip8所有特权并提高部分特权奖励",
+		},
+		[47]=
+		{
+			line = 47,
+			vip = 10,
+			total = 50000,
+			info = "每日首次转运金提高到<color=#DA2020>2万鲸币</color>",
+		},
+		[48]=
+		{
+			line = 48,
+			vip = 10,
+			total = 50000,
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+		},
+		[49]=
+		{
+			line = 49,
+			vip = 10,
+			total = 50000,
+			info = "福卡容量提升为<color=#DA2020>50000福卡</color>",
+		},
+		[50]=
+		{
+			line = 50,
+			vip = 10,
+			total = 50000,
+			info = "享受vip9所有特权并提高部分特权奖励",
+		},
+		[51]=
+		{
+			line = 51,
+			vip = 11,
+			info = "每日可免费领取至尊礼包1个",
+			cfz = 15000,
+		},
+		[52]=
+		{
+			line = 52,
+			vip = 11,
+			info = "每领满30次至尊礼包额外奖励100万鱼币",
+			cfz = 15000,
+		},
+		[53]=
+		{
+			line = 53,
+			vip = 11,
+			info = "福利券容量提升为<color=#DA2020>800万</color>福利券",
+			cfz = 15000,
+		},
+		[54]=
+		{
+			line = 54,
+			vip = 11,
+			info = "享受vip10所有特权并提高部分特权奖励",
+			cfz = 15000,
+		},
+		[55]=
+		{
+			line = 55,
+			vip = 12,
+			info = "每日可免费领取至尊礼包1个",
+			cfz = 40000,
+		},
+		[56]=
+		{
+			line = 56,
+			vip = 12,
+			info = "每领满30次至尊礼包额外奖励200元话费",
+			cfz = 40000,
+		},
+		[57]=
+		{
+			line = 57,
+			vip = 12,
+			info = "福利券容量提升为<color=#DA2020>1200万</color>福利券",
+			cfz = 40000,
+		},
+		[58]=
+		{
+			line = 58,
 			vip = 12,
 			info = "享受vip11所有特权并提高部分特权奖励",
 			cfz = 40000,
