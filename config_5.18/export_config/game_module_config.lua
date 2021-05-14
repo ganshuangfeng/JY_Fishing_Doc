@@ -2811,7 +2811,7 @@ return {
 		{
 			id = 287,
 			key = "act_ty_ldfd",
-			desc = "立冬福袋",
+			desc = "幸运福袋",
 			lua = "Act_ty_LDFDManager",
 			is_on_off = 1,
 			enable = 1,

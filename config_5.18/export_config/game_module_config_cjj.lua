@@ -3059,8 +3059,8 @@ return {
 		[312]=
 		{
 			id = 312,
-			key = "act_ty_by_drop_style/act_015_gongju",
-			desc = "活动boss皮肤（铁锤）",
+			key = "act_ty_by_drop_style/act_011_boss",
+			desc = "五星掉落",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

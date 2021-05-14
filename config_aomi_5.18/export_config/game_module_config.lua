@@ -3109,8 +3109,8 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_015_gongju",
-			desc = "活动boss皮肤（铁锤）",
+			key = "act_ty_by_drop_style/act_011_boss",
+			desc = "五星掉落",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3294,7 +3294,7 @@ return {
 		{
 			id = 336,
 			key = "act_053_xcns",
-			desc = "消除达人",
+			desc = "爱消福利",
 			lua = "Act_053_XCNSManager",
 			is_on_off = 1,
 			enable = 1,

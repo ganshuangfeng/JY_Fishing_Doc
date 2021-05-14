@@ -85,5 +85,26 @@ return {
 			award_name = "8万小游戏币",
 			weight = 1283,
 		},
+		[13]=
+		{
+			id = 13,
+			data_type = "qfhl_1_lottery",
+			award_name = "金龙鱼大米",
+			weight = 4,
+		},
+		[14]=
+		{
+			id = 14,
+			data_type = "qfhl_1_lottery",
+			award_name = "索尼耳机",
+			weight = 3,
+		},
+		[15]=
+		{
+			id = 15,
+			data_type = "qfhl_1_lottery",
+			award_name = "旅行箱",
+			weight = 3,
+		},
 	},
 }
