@@ -3294,7 +3294,7 @@ return {
 		{
 			id = 336,
 			key = "act_053_xcns",
-			desc = "消除达人",
+			desc = "爱消福利",
 			lua = "Act_053_XCNSManager",
 			is_on_off = 1,
 			enable = 1,
