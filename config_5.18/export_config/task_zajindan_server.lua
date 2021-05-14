@@ -54274,6 +54274,7 @@ return {
 			award_id = 1325,
 			award_name = "金龙鱼大米",
 			get_weight = 1,
+			is_send_email = 1,
 		},
 		[2207]=
 		{
@@ -54313,6 +54314,7 @@ return {
 			award_id = 1330,
 			award_name = "索尼耳机",
 			get_weight = 1,
+			is_send_email = 1,
 		},
 		[2212]=
 		{
@@ -54352,6 +54354,7 @@ return {
 			award_id = 1335,
 			award_name = "高级旅行箱",
 			get_weight = 1,
+			is_send_email = 1,
 		},
 	},
 }
