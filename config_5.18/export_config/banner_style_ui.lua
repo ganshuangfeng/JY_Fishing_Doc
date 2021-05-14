@@ -1000,7 +1000,7 @@ return {
 		{
 			id = 88,
 			bannerID = 88,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 110,
 			condi_key = "by_cjj_cpl_type_plat",
 			gotoUI = {"act_040_by_and_cjj_to_ddz_conduct","panel"},
@@ -1012,7 +1012,7 @@ return {
 		{
 			id = 89,
 			bannerID = 89,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 100,
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
@@ -1023,7 +1023,7 @@ return {
 		{
 			id = 90,
 			bannerID = 90,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 110,
 			gotoUI = {"act_048_xnsmt","panel"},
 			model = "LoginUp",
@@ -1045,7 +1045,7 @@ return {
 		{
 			id = 92,
 			bannerID = 92,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 111,
 			condi_key = "actp_buy_gift_bag_class_mslb_cps_nobuy",
 			gotoUI = {"act_040_mslb","login","panel"},
@@ -1057,12 +1057,23 @@ return {
 		{
 			id = 93,
 			bannerID = 93,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 112,
 			gotoUI = {"act_ty_hlqjd","panel"},
 			model = "LoginUp",
 			srartTime = 1620691200,
 			endTime = 1621267199,
+		},
+		[94]=
+		{
+			id = 94,
+			bannerID = 94,
+			isOnOff = 1,
+			order = 112,
+			gotoUI = {"act_ty_hlwyt","panel"},
+			model = "LoginUp",
+			srartTime = 1621296000,
+			endTime = 1621871999,
 		},
 	},
 }
