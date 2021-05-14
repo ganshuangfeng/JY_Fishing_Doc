@@ -2720,7 +2720,7 @@ return {
 			id = 109,
 			process_id = 109,
 			source_id = 104,
-			process = 45,
+			process = 15,
 			awards = 187,
 			get_award_type = "nor",
 		},
@@ -2729,7 +2729,7 @@ return {
 			id = 110,
 			process_id = 110,
 			source_id = 105,
-			process = 45,
+			process = 15,
 			awards = 187,
 			get_award_type = "nor",
 		},
@@ -2801,7 +2801,7 @@ return {
 			id = 118,
 			process_id = 118,
 			source_id = 113,
-			process = 300,
+			process = 100,
 			awards = 189,
 			get_award_type = "nor",
 		},
@@ -3739,91 +3739,97 @@ return {
 		{
 			id = 133,
 			source_id = 101,
-			source_type = "xiaoxiaole_sanguo_spend",
-			condition_id = 0,
+			source_type = "guess_apple_spend",
 		},
 		[134]=
 		{
 			id = 134,
-			source_id = 102,
-			source_type = "buyu_3d_target_yu",
+			source_id = 101,
+			source_type = "xiaoxiaole_sanguo_spend",
 			condition_id = 0,
 		},
 		[135]=
 		{
 			id = 135,
-			source_id = 103,
-			source_type = "buyu_3d_spend_num",
+			source_id = 102,
+			source_type = "buyu_3d_target_yu",
 			condition_id = 0,
 		},
 		[136]=
 		{
 			id = 136,
-			source_id = 104,
-			source_type = "xy_xxl_xc_target_item",
+			source_id = 103,
+			source_type = "buyu_3d_spend_num",
 			condition_id = 0,
 		},
 		[137]=
 		{
 			id = 137,
-			source_id = 105,
-			source_type = "sh_xxl_xc_target_item",
+			source_id = 104,
+			source_type = "xiaoxiaole_xiyou_game_num",
 			condition_id = 0,
 		},
 		[138]=
 		{
 			id = 138,
-			source_id = 106,
-			source_type = "agent_charge_any",
+			source_id = 105,
+			source_type = "xiaoxiaole_shuihu_game_num",
 			condition_id = 0,
 		},
 		[139]=
 		{
 			id = 139,
-			source_id = 107,
-			source_type = "count_login",
+			source_id = 106,
+			source_type = "agent_charge_any",
 			condition_id = 0,
 		},
 		[140]=
 		{
 			id = 140,
-			source_id = 108,
-			source_type = "player_luck_lottery",
+			source_id = 107,
+			source_type = "count_login",
 			condition_id = 0,
 		},
 		[141]=
 		{
 			id = 141,
-			source_id = 109,
-			source_type = "on_task_progress_change",
+			source_id = 108,
+			source_type = "player_luck_lottery",
 			condition_id = 0,
 		},
 		[142]=
 		{
 			id = 142,
-			source_id = 110,
-			source_type = "player_online_time_long",
+			source_id = 109,
+			source_type = "on_task_progress_change",
 			condition_id = 0,
 		},
 		[143]=
 		{
 			id = 143,
-			source_id = 111,
-			source_type = "buyu_3d_target_yu",
+			source_id = 110,
+			source_type = "player_online_time_long",
 			condition_id = 0,
 		},
 		[144]=
 		{
 			id = 144,
-			source_id = 112,
-			source_type = "guess_apple_award",
+			source_id = 111,
+			source_type = "buyu_3d_target_yu",
 			condition_id = 0,
 		},
 		[145]=
 		{
 			id = 145,
+			source_id = 112,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[146]=
+		{
+			id = 146,
 			source_id = 113,
-			source_type = "xxl_xc_target_item",
+			source_type = "xiaoxiaole_game_num",
 			condition_id = 0,
 		},
 	},
