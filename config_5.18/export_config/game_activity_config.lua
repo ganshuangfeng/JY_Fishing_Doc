@@ -395,7 +395,7 @@ return {
 			endTime = 1621871999,
 			showType = "prefab",
 			parmData = "activity_task",
-			gotoUI = {"act_034_ldfd","panel"},
+			gotoUI = {"act_ty_ldfd","panel"},
 			noCloseUI = 1,
 			tag = "normal",
 		},
