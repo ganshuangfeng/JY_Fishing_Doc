@@ -140,6 +140,7 @@ return {
 			type = 2,
 			task = 30011,
 			addvalue = 30,
+			gotoUI = {"shop_bay","jing_bi",},
 			task_name = "任意充值1笔",
 		},
 		[9]=
@@ -156,6 +157,7 @@ return {
 			type = 3,
 			task = 30013,
 			addvalue = 200,
+			gotoUI = {"sys_flqcj","panel",1},
 			task_name = "使用1次红包大转盘",
 		},
 		[11]=
