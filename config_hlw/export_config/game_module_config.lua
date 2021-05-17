@@ -747,8 +747,8 @@ return {
 			desc = "抢红包",
 			lua = "SYSQHBManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[76]=
 		{
@@ -906,9 +906,9 @@ return {
 			key = "by_xrhb",
 			desc = "捕鱼新人红包",
 			lua = "FishingXRHBManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[92]=
 		{
@@ -917,8 +917,8 @@ return {
 			desc = "升级奖励",
 			lua = "SJJLManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[93]=
 		{
@@ -1176,9 +1176,9 @@ return {
 			key = "act_ycs_cssl",
 			desc = "迎财神_财神送礼",
 			lua = "YCS_CSSLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[119]=
 		{
@@ -1246,9 +1246,9 @@ return {
 			key = "act_xrqtl",
 			desc = "新人七天乐",
 			lua = "XRQTLManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[126]=
 		{
@@ -2286,8 +2286,8 @@ return {
 			desc = "3D捕鱼奖池",
 			lua = "BY3DJCManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[235]=
 		{
@@ -2416,8 +2416,8 @@ return {
 			desc = "设置头像和改变昵称",
 			lua = "SYSChangeHeadAndNameManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[248]=
 		{
@@ -2445,9 +2445,9 @@ return {
 			key = "act_024_jfcdj",
 			desc = "积分抽大奖",
 			lua = "Act_024_JFCDJManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[251]=
 		{
@@ -2456,8 +2456,8 @@ return {
 			desc = "连购返利",
 			lua = "Act_024_LGFLManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[252]=
 		{
@@ -2475,9 +2475,9 @@ return {
 			key = "act_024_wyzjf",
 			desc = "我要赚积分",
 			lua = "Act_024_WYZJFManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[254]=
 		{
@@ -2506,8 +2506,8 @@ return {
 			desc = "龙虾兑换",
 			lua = "Act_025_LXDHManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[257]=
 		{
@@ -2516,8 +2516,8 @@ return {
 			desc = "小龙虾排行榜",
 			lua = "Act_025_XLXPHBManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[258]=
 		{
@@ -2645,9 +2645,9 @@ return {
 			key = "act_028_mfhf",
 			desc = "免费话费",
 			lua = "Act_028_MFHFManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[271]=
 		{
@@ -2694,9 +2694,9 @@ return {
 			id = 275,
 			key = "act_030_hd_zjm",
 			desc = "小游戏福利",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[276]=
 		{
@@ -2715,8 +2715,8 @@ return {
 			desc = "国庆福利",
 			lua = "act_031_gqflManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[278]=
 		{
@@ -2744,8 +2744,8 @@ return {
 			desc = "国庆福袋",
 			lua = "Act_030_GQFDManager",
 			is_on_off = 0,
-			enable = 1,
-			state = 1,
+			enable = 0,
+			state = 0,
 		},
 		[281]=
 		{
@@ -3003,9 +3003,9 @@ return {
 			key = "act_040_by_and_cjj_to_ddz_conduct",
 			desc = "游戏互导向斗地主",
 			lua = "Act_040_BY_AND_CJJ_TO_DDZ_CONDUCTManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[307]=
 		{

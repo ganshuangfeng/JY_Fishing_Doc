@@ -674,52 +674,52 @@ return {
 		[1]=
 		{
 			no = 1,
-			level = 100,
+			level = 2000,
 		},
 		[2]=
 		{
 			no = 2,
-			level = 200,
+			level = 3000,
 		},
 		[3]=
 		{
 			no = 3,
-			level = 300,
+			level = 4000,
 		},
 		[4]=
 		{
 			no = 4,
-			level = 400,
+			level = 5000,
 		},
 		[5]=
 		{
 			no = 5,
-			level = 500,
+			level = 8000,
 		},
 		[6]=
 		{
 			no = 6,
-			level = 600,
+			level = 10000,
 		},
 		[7]=
 		{
 			no = 7,
-			level = 700,
+			level = 20000,
 		},
 		[8]=
 		{
 			no = 8,
-			level = 800,
+			level = 30000,
 		},
 		[9]=
 		{
 			no = 9,
-			level = 900,
+			level = 40000,
 		},
 		[10]=
 		{
 			no = 10,
-			level = 1000,
+			level = 50000,
 		},
 	},
 	match_award=
