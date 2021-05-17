@@ -939,6 +939,7 @@ return {
 			dead_guang = 1,
 			map_node = "fish3d/gny_0008 1/gny_0008 2",
 			audio = {"bgm_by_shandianyu",},
+			path_id = {105,106,},
 		},
 		[29]=
 		{
@@ -968,9 +969,10 @@ return {
 			blood_pos = {0,-180},
 			blood_scale = {1,1},
 			close_rota = 1,
-			fish_stratum = 9200,
+			fish_stratum = 4000,
 			dead_scale = 2,
 			audio = {"bgm_by_siwang16",},
+			path_id = {105,106,},
 		},
 		[30]=
 		{
@@ -1000,9 +1002,10 @@ return {
 			blood_pos = {0,-100},
 			blood_scale = {0.4,0.5},
 			close_rota = 1,
-			fish_stratum = 9200,
+			fish_stratum = 4000,
 			dead_scale = 2,
 			audio = {"bgm_by_siwang16",},
+			path_id = {105,106,},
 		},
 		[31]=
 		{
@@ -1032,10 +1035,11 @@ return {
 			blood_pos = {0,-100},
 			blood_scale = {0.4,0.5},
 			close_rota = 1,
-			fish_stratum = 9200,
+			fish_stratum = 4000,
 			dead_scale = 2,
 			dead_guang = 1,
 			audio = {"bgm_by_siwang16",},
+			path_id = {105,106,},
 		},
 		[32]=
 		{
@@ -1286,7 +1290,7 @@ return {
 			fish_scale = 0.350000,
 			blood_pos = {0,-180},
 			blood_scale = {1,1},
-			fish_stratum = 9100,
+			fish_stratum = 3000,
 			dead_scale = 2,
 			dead_guang = 1,
 			animator_node = "fish3dnode/fish3d",
