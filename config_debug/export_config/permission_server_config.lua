@@ -17788,7 +17788,7 @@ return {
 			id = 13,
 			name = "byam_all",
 			var = "market_channel",
-			value = {"byam","xiaomi_byam","yyb_byam","byam_xianwan",},
+			value = {"byam","xiaomi_byam","yyb_byam","byam_xianwan","byam_pceggs","byam_aibianxian","byam_juxiang",},
 			judge = 2,
 			group = 1,
 		},
