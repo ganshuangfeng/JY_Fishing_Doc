@@ -45,7 +45,7 @@ return {
 			line = 4,
 			condiy_key = "cpl_notcjj",
 			change_type = 56,
-			cur_path = "act_011_hhl_",
+			cur_path = "act_012_hhl_",
 			item_key = "prop_fish_drop_act_0",
 			beginTime = 1622505600,
 			endTime = 1623081599,
