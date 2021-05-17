@@ -1,3 +1,6 @@
+
+# 注意：如果过滤文件内容 和 tools 中的公用配置不同，
+# 则将此文件 _tmp 后缀去掉 即可生效
 [
     "activity_exchange_server",
     "auto_add_log_server",
