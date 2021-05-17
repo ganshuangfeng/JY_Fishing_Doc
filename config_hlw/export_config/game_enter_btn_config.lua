@@ -20,7 +20,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;101#",
+			group_list = "16;31#",
 		},
 		[3]=
 		{
@@ -52,7 +52,6 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "101#",
 		},
 		[3]=
 		{
@@ -83,7 +82,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;90;101#",
+			group_list = "16;31;90#",
 		},
 		[3]=
 		{
@@ -109,7 +108,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "101#11;93#",
+			group_list = "11;93#",
 		},
 	},
 	fishing_game=
@@ -285,7 +284,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "16;101;31;#11;93#",
+			group_list = "16;31;#11;93#",
 		},
 	},
 	fishing_match_bm=
@@ -371,7 +370,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "101;11;93#",
+			group_list = "11;93#",
 		},
 	},
 	crazy_fish_game=
@@ -380,7 +379,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "101#11;93#",
+			group_list = "11;93#",
 		},
 	},
 	lwzb_game=
@@ -389,7 +388,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "101#11;93#",
+			group_list = "11;93#",
 		},
 	},
 	lwzb_game_hall=
@@ -407,7 +406,6 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "101#",
 		},
 		[2]=
 		{
