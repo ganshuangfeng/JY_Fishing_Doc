@@ -953,7 +953,7 @@ return {
 			reward_level = {1,5},
 			size_w = 1.680000,
 			size_h = 2.840000,
-			max_speed = 0.800000,
+			max_speed = 1.500000,
 			max_ratespeed = 30,
 			mass = 1,
 			rate = 0,
@@ -986,7 +986,7 @@ return {
 			reward_level = {1,5},
 			size_w = 1.480000,
 			size_h = 2.770000,
-			max_speed = 0.800000,
+			max_speed = 1.500000,
 			max_ratespeed = 30,
 			mass = 1,
 			rate = 0,
@@ -1019,7 +1019,7 @@ return {
 			reward_level = {1,5},
 			size_w = 1.480000,
 			size_h = 1.960000,
-			max_speed = 0.800000,
+			max_speed = 1.500000,
 			max_ratespeed = 30,
 			mass = 1,
 			rate = 0,
@@ -1071,6 +1071,7 @@ return {
 			dead_scale = 2,
 			dead_guang = 1,
 			audio = {"bgm_by_siwang39",},
+			path_id = {107,108,},
 		},
 		[33]=
 		{
@@ -1103,6 +1104,7 @@ return {
 			dead_scale = 2,
 			dead_guang = 1,
 			audio = {"bgm_by_siwang43",},
+			path_id = {107,108,},
 		},
 		[34]=
 		{
@@ -1134,6 +1136,7 @@ return {
 			dead_scale = 1.200000,
 			map_node = "fish3d/gny_0022/gny_0022 1",
 			audio = {"bgm_by_siwang34",},
+			path_id = {107,108,},
 		},
 		[35]=
 		{
@@ -1166,6 +1169,7 @@ return {
 			dead_scale = 1.200000,
 			map_node = "fish3d/gny_0026 1/gny_0026 2",
 			audio = {"bgm_by_siwang33",},
+			path_id = {107,108,},
 		},
 		[36]=
 		{
