@@ -6,7 +6,7 @@ return {
 			line = 1,
 			beginTime = 1621296000,
 			endTime = 1621871999,
-			by_gift_id = 1,
+			by_gift_id = {1,},
 		},
 	},
 	gifts=
