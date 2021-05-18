@@ -8309,6 +8309,18 @@ return {
 			refresh_type = "now",
 			start_deal_time = 0,
 		},
+		[500]=
+		{
+			id = 500,
+			enable = 1,
+			key = "actp_own_task_p_ljyjcfk_hlw",
+			name = "海蓝湾累计赢金抽福卡",
+			condi = 470,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
+		},
 	},
 	condi=
 	{
