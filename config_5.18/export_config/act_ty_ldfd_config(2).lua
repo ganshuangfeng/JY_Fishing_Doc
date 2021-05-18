@@ -31,6 +31,7 @@ return {
 		{
 			line = 1,
 			group_id = 1,
+			condiy_key = "cjj",
 			task_id = 1000613,
 			gift_ids = {10544,10545,10546,10547,10548,10549,10550},
 		},
