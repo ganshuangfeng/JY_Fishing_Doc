@@ -158,13 +158,13 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "42#10#",
+			group_list = "3#42#10#",
 		},
 		[2]=
 		{
 			id = 2,
 			area = "left",
-			group_list = "85;89#97;11;93;94#58;107#30#",
+			group_list = "85#58#30#140#",
 		},
 		[3]=
 		{
@@ -1296,6 +1296,12 @@ return {
 		{
 			id = 139,
 			parm = {"act_027_jqshl",},
+			is_on_off = 1,
+		},
+		[140]=
+		{
+			id = 140,
+			parm = {"sys_cqg",},
 			is_on_off = 1,
 		},
 	},
