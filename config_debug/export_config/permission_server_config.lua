@@ -6679,8 +6679,8 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_hlwyt_016_fqdr_rank",
-			name = "欢乐五月天福气达人",
+			key = "actp_rank_ymshf_017_hldr_rank",
+			name = "游戏达人",
 			condi = 393,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -17659,7 +17659,7 @@ return {
 			var = "share_condition",
 			value = "tthlby_cpl",
 			judge = 2,
-			group = 2,
+			group = 1,
 			error_desc = "是欢乐捕鱼CPL",
 		},
 		[1061]=
@@ -17788,7 +17788,7 @@ return {
 			id = 13,
 			name = "byam_all",
 			var = "market_channel",
-			value = {"byam","xiaomi_byam","yyb_byam","byam_xianwan","byam_pceggs","byam_aibianxian","byam_juxiang",},
+			value = {byam,"xiaomi_byam","yyb_byam","byam_xianwan","byam_pceggs","byam_aibianxian","byam_juxiang",},
 			judge = 2,
 			group = 1,
 		},

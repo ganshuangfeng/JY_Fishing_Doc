@@ -1717,7 +1717,7 @@ return {
 			image = "act_ty_by_drop_7",
 			is_show_bag = 0,
 			order = 1,
-			name = "铁锤",
+			name = "五星",
 			desc = "掉落物活动通用道具",
 		},
 		[131]=
@@ -4346,11 +4346,11 @@ return {
 			item_key = "prop_grade",
 			lose_time = -1,
 			is_local_icon = 1,
-			image = "yxdr_bg_1",
+			image = "com_award_icon_f",
 			is_show_bag = 0,
 			order = 1,
-			name = "财力",
-			desc = "用于参加游戏达人排行榜",
+			name = "福气",
+			desc = "用于参加福气达人排行榜",
 		},
 	},
 }
