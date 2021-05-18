@@ -734,6 +734,7 @@ return {
 			end_time = 1623081599,
 			data_deal_type = "nor_add",
 			data_save_type = "single",
+			score_source = 50,
 			show_model = 53,
 			settle_model = 51,
 		},
@@ -1632,6 +1633,20 @@ return {
 			task_id = 1000648,
 			award_rate = {1,1.1,1.3,1.5},
 		},
+		[130]=
+		{
+			id = 130,
+			source_id = 50,
+			source_type = "buyu_3d_get_use_item",
+			condtion_id = 50,
+		},
+		[131]=
+		{
+			id = 131,
+			source_id = 50,
+			source_type = "buyu_get_use_item",
+			condtion_id = 50,
+		},
 	},
 	source_condition=
 	{
@@ -2263,6 +2278,22 @@ return {
 		{
 			id = 79,
 			condition_id = 49,
+			condition_name = "asset_type",
+			condition_value = "prop_fish_drop_act_0",
+			judge_type = 2,
+		},
+		[80]=
+		{
+			id = 80,
+			condition_id = 50,
+			condition_name = "act_type",
+			condition_value = 9,
+			judge_type = 2,
+		},
+		[81]=
+		{
+			id = 81,
+			condition_id = 50,
 			condition_name = "asset_type",
 			condition_value = "prop_fish_drop_act_0",
 			judge_type = 2,

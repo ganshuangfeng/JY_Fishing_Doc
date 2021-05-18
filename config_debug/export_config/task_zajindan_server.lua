@@ -25128,7 +25128,7 @@ return {
 			process_id = 21998,
 			source_id = 621,
 			process = 3,
-			awards = {1354,1361,1370},
+			awards = 1354,
 			get_award_type = "nor",
 		},
 		[1051]=
@@ -25137,7 +25137,7 @@ return {
 			process_id = 21999,
 			source_id = 622,
 			process = 3,
-			awards = {1355,1362,1371},
+			awards = 1355,
 			get_award_type = "nor",
 		},
 		[1052]=
@@ -25146,7 +25146,7 @@ return {
 			process_id = 22000,
 			source_id = 623,
 			process = 3,
-			awards = {1356,1363,1372},
+			awards = 1356,
 			get_award_type = "nor",
 		},
 		[1053]=
@@ -25155,7 +25155,7 @@ return {
 			process_id = 22001,
 			source_id = 624,
 			process = 3,
-			awards = {1357,1364,1373},
+			awards = 1357,
 			get_award_type = "nor",
 		},
 		[1054]=
@@ -25164,7 +25164,7 @@ return {
 			process_id = 22002,
 			source_id = 625,
 			process = 3,
-			awards = {1358,1365,1374},
+			awards = 1358,
 			get_award_type = "nor",
 		},
 		[1055]=
@@ -25173,7 +25173,7 @@ return {
 			process_id = 22003,
 			source_id = 619,
 			process = 3,
-			awards = {1359,1366,1375},
+			awards = 1359,
 			get_award_type = "nor",
 		},
 		[1056]=
@@ -25182,7 +25182,7 @@ return {
 			process_id = 22004,
 			source_id = 618,
 			process = 3,
-			awards = {1360,1367,1376},
+			awards = 1360,
 			get_award_type = "nor",
 		},
 		[1057]=
@@ -25191,7 +25191,7 @@ return {
 			process_id = 22005,
 			source_id = 617,
 			process = 3,
-			awards = {1368,1377},
+			awards = 1361,
 			get_award_type = "nor",
 		},
 		[1058]=
@@ -25200,7 +25200,7 @@ return {
 			process_id = 22006,
 			source_id = 633,
 			process = 3,
-			awards = {1369,1378},
+			awards = 1362,
 			get_award_type = "nor",
 		},
 		[1059]=
@@ -25216,7 +25216,7 @@ return {
 			process_id = 22008,
 			source_id = 542,
 			process = {300000,-1},
-			awards = 1379,
+			awards = 1363,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
 		},
@@ -55359,79 +55359,79 @@ return {
 		[2238]=
 		{
 			id = 2238,
-			award_id = 1355,
-			award_name = "不锈钢绞肉机",
+			award_id = 1354,
+			asset_type = "jing_bi",
+			asset_count = 15000000,
 			get_weight = 1,
-			is_send_email = 1,
 		},
 		[2239]=
 		{
 			id = 2239,
-			award_id = 1356,
-			award_name = "豪华坚果礼包",
+			award_id = 1354,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = 2400,
 			get_weight = 1,
-			is_send_email = 1,
 		},
 		[2240]=
 		{
 			id = 2240,
-			award_id = 1357,
-			award_name = "玉米热狗肠20支",
+			award_id = 1355,
+			award_name = "不锈钢绞肉机",
 			get_weight = 1,
 			is_send_email = 1,
 		},
 		[2241]=
 		{
 			id = 2241,
-			award_id = 1358,
-			award_name = "卫龙亲嘴烧30袋",
+			award_id = 1355,
+			asset_type = "jing_bi",
+			asset_count = 4000000,
 			get_weight = 1,
-			is_send_email = 1,
 		},
 		[2242]=
 		{
 			id = 2242,
-			award_id = 1359,
-			award_name = "手帕纸10包",
+			award_id = 1355,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = 900,
 			get_weight = 1,
-			is_send_email = 1,
 		},
 		[2243]=
 		{
 			id = 2243,
-			award_id = 1360,
-			award_name = "棉签100支",
+			award_id = 1356,
+			award_name = "坚果豪华礼包",
 			get_weight = 1,
 			is_send_email = 1,
 		},
 		[2244]=
 		{
 			id = 2244,
-			award_id = 1361,
+			award_id = 1356,
 			asset_type = "jing_bi",
-			asset_count = 15000000,
+			asset_count = 2000000,
 			get_weight = 1,
 		},
 		[2245]=
 		{
 			id = 2245,
-			award_id = 1362,
-			asset_type = "jing_bi",
-			asset_count = 4000000,
+			award_id = 1356,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = 450,
 			get_weight = 1,
 		},
 		[2246]=
 		{
 			id = 2246,
-			award_id = 1363,
-			asset_type = "jing_bi",
-			asset_count = 2000000,
+			award_id = 1357,
+			award_name = "玉米热狗肠20支",
 			get_weight = 1,
+			is_send_email = 1,
 		},
 		[2247]=
 		{
 			id = 2247,
-			award_id = 1364,
+			award_id = 1357,
 			asset_type = "jing_bi",
 			asset_count = 800000,
 			get_weight = 1,
@@ -55439,111 +55439,111 @@ return {
 		[2248]=
 		{
 			id = 2248,
-			award_id = 1365,
-			asset_type = "jing_bi",
-			asset_count = 400000,
+			award_id = 1357,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = 150,
 			get_weight = 1,
 		},
 		[2249]=
 		{
 			id = 2249,
-			award_id = 1366,
-			asset_type = "jing_bi",
-			asset_count = 350000,
+			award_id = 1358,
+			award_name = "卫龙亲嘴烧30袋",
 			get_weight = 1,
+			is_send_email = 1,
 		},
 		[2250]=
 		{
 			id = 2250,
-			award_id = 1367,
+			award_id = 1358,
 			asset_type = "jing_bi",
-			asset_count = 220000,
+			asset_count = 400000,
 			get_weight = 1,
 		},
 		[2251]=
 		{
 			id = 2251,
-			award_id = 1368,
-			asset_type = "jing_bi",
-			asset_count = 150000,
+			award_id = 1358,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = 70,
 			get_weight = 1,
 		},
 		[2252]=
 		{
 			id = 2252,
-			award_id = 1369,
-			asset_type = "jing_bi",
-			asset_count = 80000,
+			award_id = 1359,
+			award_name = "手帕纸10包",
 			get_weight = 1,
+			is_send_email = 1,
 		},
 		[2253]=
 		{
 			id = 2253,
-			award_id = 1370,
-			asset_type = "prop_web_chip_huafei",
-			asset_count = 2400,
+			award_id = 1359,
+			asset_type = "jing_bi",
+			asset_count = 350000,
 			get_weight = 1,
 		},
 		[2254]=
 		{
 			id = 2254,
-			award_id = 1371,
+			award_id = 1359,
 			asset_type = "prop_web_chip_huafei",
-			asset_count = 900,
+			asset_count = 50,
 			get_weight = 1,
 		},
 		[2255]=
 		{
 			id = 2255,
-			award_id = 1372,
-			asset_type = "prop_web_chip_huafei",
-			asset_count = 450,
+			award_id = 1360,
+			award_name = "棉签100支",
 			get_weight = 1,
+			is_send_email = 1,
 		},
 		[2256]=
 		{
 			id = 2256,
-			award_id = 1373,
-			asset_type = "prop_web_chip_huafei",
-			asset_count = 150,
+			award_id = 1360,
+			asset_type = "jing_bi",
+			asset_count = 220000,
 			get_weight = 1,
 		},
 		[2257]=
 		{
 			id = 2257,
-			award_id = 1374,
+			award_id = 1360,
 			asset_type = "prop_web_chip_huafei",
-			asset_count = 70,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[2258]=
 		{
 			id = 2258,
-			award_id = 1375,
-			asset_type = "prop_web_chip_huafei",
-			asset_count = 50,
+			award_id = 1361,
+			asset_type = "jing_bi",
+			asset_count = 150000,
 			get_weight = 1,
 		},
 		[2259]=
 		{
 			id = 2259,
-			award_id = 1376,
+			award_id = 1361,
 			asset_type = "prop_web_chip_huafei",
-			asset_count = 30,
+			asset_count = 20,
 			get_weight = 1,
 		},
 		[2260]=
 		{
 			id = 2260,
-			award_id = 1377,
-			asset_type = "prop_web_chip_huafei",
-			asset_count = 20,
+			award_id = 1362,
+			asset_type = "jing_bi",
+			asset_count = 80000,
 			get_weight = 1,
 		},
 		[2261]=
 		{
 			id = 2261,
-			award_id = 1378,
+			award_id = 1362,
 			asset_type = "prop_web_chip_huafei",
 			asset_count = 10,
 			get_weight = 1,
@@ -55551,7 +55551,7 @@ return {
 		[2262]=
 		{
 			id = 2262,
-			award_id = 1379,
+			award_id = 1363,
 			asset_type = "prop_fish_drop_act_0",
 			asset_count = 1,
 			get_weight = 1,
@@ -55559,9 +55559,9 @@ return {
 		[2263]=
 		{
 			id = 2263,
-			award_id = 1379,
+			award_id = 1363,
 			asset_type = "_common_rank_ymshf_017_hldr_rank",
-			asset_count = 1,
+			asset_count = 100,
 			get_weight = 1,
 		},
 	},
