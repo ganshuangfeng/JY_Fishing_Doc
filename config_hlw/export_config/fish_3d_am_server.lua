@@ -136,7 +136,7 @@ return {
 			id = 6,
 			game_id = 6,
 			game_level = 6,
-			gun_rate = {200,500,800,1000,2000,5000,8000,10000,15000,20000,},
+			gun_rate = {200,500,800,1000,2000,5000,8000,10000,20000,50000,},
 			enter_cfg_id = 6,
 			fish_config = "fish_boss_data_config_1",
 			data_config = "fish_am_fish_server",
