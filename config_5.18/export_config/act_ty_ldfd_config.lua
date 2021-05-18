@@ -4,8 +4,8 @@ return {
 		[1]=
 		{
 			line = 1,
-			beginTime = 1620691200,
-			endTime = 1621267199,
+			beginTime = 1621296000,
+			endTime = 1621871999,
 			by_gift_id = 1,
 		},
 	},
