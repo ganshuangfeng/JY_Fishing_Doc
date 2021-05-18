@@ -23,15 +23,15 @@ return {
 		[1]=
 		{
 			id = 1,
-			use = 300000,
-			limit = 600000,
+			use = 30000,
+			limit = 60000,
 			coin = 1,
 		},
 		[2]=
 		{
 			id = 2,
-			use = 5000000,
-			limit = 10000000,
+			use = 500000,
+			limit = 1000000,
 		},
 	},
 	content=
