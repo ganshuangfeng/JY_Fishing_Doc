@@ -165,18 +165,21 @@ return {
 			id = 1,
 			image = "activity_icon_gift269_sqm",
 			tex = "金龙鱼大米",
+			offset = {0,20,50,100,200,400},
 		},
 		[2]=
 		{
 			id = 2,
 			image = "activity_icon_gift268_sqm",
 			tex = "索尼耳机",
+			offset = {0,100,500,1000,1500,2200},
 		},
 		[3]=
 		{
 			id = 3,
 			image = "activity_icon_gift103_xlx",
 			tex = "高级旅行箱",
+			offset = {0,100,500,1000,1500,4000},
 		},
 	},
 }
