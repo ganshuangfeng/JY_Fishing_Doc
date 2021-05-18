@@ -10471,6 +10471,20 @@ return {
 			prop_type = "prop_grade",
 			base_score = 10,
 		},
+		[91]=
+		{
+			box_id = 91,
+			rank_type = "hlwyt_016_fqdr_rank",
+			prop_type = "prop_grade",
+			base_score = 10,
+		},
+		[92]=
+		{
+			box_id = 92,
+			rank_type = "hlwyt_016_fqdr_rank",
+			prop_type = "prop_grade",
+			base_score = 10,
+		},
 	},
 	all_exchange_data=
 	{
