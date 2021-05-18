@@ -887,8 +887,8 @@ return {
 		{
 			id = 68,
 			task = 1000589,
-			total = 2,
-			task_name = "在西游消消乐中消除2次孙悟空",
+			total = 6,
+			task_name = "在西游消消乐中消除6个孙悟空",
 			level = 1,
 			item = {"jing_bi",},
 			count = {20000,},
@@ -898,8 +898,8 @@ return {
 		{
 			id = 69,
 			task = 1000590,
-			total = 2,
-			task_name = "在西游消消乐中消除2次唐僧",
+			total = 6,
+			task_name = "在西游消消乐中消除6个唐僧",
 			level = 1,
 			item = {"jing_bi",},
 			count = {20000,},

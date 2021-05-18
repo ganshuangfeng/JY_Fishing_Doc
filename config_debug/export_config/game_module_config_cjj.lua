@@ -2315,7 +2315,7 @@ return {
 			key = "sys_flqcj",
 			desc = "福利券抽奖",
 			lua = "SYSFLQCJManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
@@ -3224,7 +3224,7 @@ return {
 		[329]=
 		{
 			id = 329,
-			key = "act_ty_gifts_style/act_002_ltlb",
+			key = "act_ty_gifts_style/act_002_hllb",
 			desc = "龙腾礼包",
 			is_on_off = 1,
 			enable = 1,
