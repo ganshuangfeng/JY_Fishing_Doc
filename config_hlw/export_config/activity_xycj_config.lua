@@ -11,7 +11,7 @@ return {
 			desc = "福卡x6",
 			is_dj = 0,
 			asset_type = "shop_gold_sum",
-			value = 600,
+			value = 6,
 		},
 		[2]=
 		{
@@ -23,7 +23,7 @@ return {
 			desc = "福卡x2.85",
 			is_dj = 0,
 			asset_type = "shop_gold_sum",
-			value = 285,
+			value = 2.850000,
 		},
 		[3]=
 		{
@@ -35,7 +35,7 @@ return {
 			desc = "福卡x24",
 			is_dj = 1,
 			asset_type = "shop_gold_sum",
-			value = 2400,
+			value = 24,
 		},
 		[4]=
 		{
@@ -47,7 +47,7 @@ return {
 			desc = "福卡x6",
 			is_dj = 0,
 			asset_type = "shop_gold_sum",
-			value = 600,
+			value = 6,
 		},
 		[5]=
 		{
@@ -59,7 +59,7 @@ return {
 			desc = "福卡x3",
 			is_dj = 0,
 			asset_type = "shop_gold_sum",
-			value = 300,
+			value = 3,
 		},
 		[6]=
 		{
@@ -71,7 +71,7 @@ return {
 			desc = "福卡x9",
 			is_dj = 1,
 			asset_type = "shop_gold_sum",
-			value = 900,
+			value = 9,
 		},
 		[7]=
 		{
@@ -83,7 +83,7 @@ return {
 			desc = "福卡x6",
 			is_dj = 0,
 			asset_type = "shop_gold_sum",
-			value = 600,
+			value = 6,
 		},
 		[8]=
 		{
@@ -95,7 +95,7 @@ return {
 			desc = "福卡x3",
 			is_dj = 0,
 			asset_type = "shop_gold_sum",
-			value = 300,
+			value = 3,
 		},
 		[9]=
 		{
@@ -107,7 +107,7 @@ return {
 			desc = "福卡x24",
 			is_dj = 1,
 			asset_type = "shop_gold_sum",
-			value = 2400,
+			value = 24,
 		},
 		[10]=
 		{
@@ -119,7 +119,7 @@ return {
 			desc = "福卡x2.55",
 			is_dj = 0,
 			asset_type = "shop_gold_sum",
-			value = 255,
+			value = 2.550000,
 		},
 		[11]=
 		{
@@ -154,7 +154,7 @@ return {
 			desc = "福卡x42.5",
 			is_dj = 0,
 			asset_type = "shop_gold_sum",
-			value = 4250,
+			value = 42.500000,
 		},
 		[14]=
 		{
@@ -202,7 +202,7 @@ return {
 			desc = "福卡x40",
 			is_dj = 0,
 			asset_type = "shop_gold_sum",
-			value = 4000,
+			value = 40,
 		},
 		[18]=
 		{
@@ -226,7 +226,7 @@ return {
 			desc = "福卡x3200",
 			is_dj = 1,
 			asset_type = "shop_gold_sum",
-			value = 3200,
+			value = 32,
 		},
 		[20]=
 		{
