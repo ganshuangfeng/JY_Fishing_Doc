@@ -29865,7 +29865,7 @@ return {
 		{
 			id = 1271,
 			source_id = 765,
-			source_type = "buyu_3d_spend",
+			source_type = "buyu_3d_award",
 			condition_id = 581,
 		},
 		[1272]=
