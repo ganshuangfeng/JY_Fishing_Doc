@@ -8327,6 +8327,18 @@ return {
 			refresh_type = "now",
 			start_deal_time = 0,
 		},
+		[501]=
+		{
+			id = 501,
+			enable = 1,
+			key = "actp_own_task_p_xshb_042_hlw",
+			name = "限时红包（海蓝湾平台）",
+			condi = 470,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1607988600,
+		},
 	},
 	condi=
 	{
