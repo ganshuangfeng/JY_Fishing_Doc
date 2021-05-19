@@ -37203,7 +37203,7 @@ return {
 		{
 			id = 608,
 			condition_id = 445,
-			condition_name = "hero_num",
+			condition_name = "hero_id",
 			condition_value = {1,2,3,4},
 			judge_type = 2,
 		},
@@ -55611,7 +55611,7 @@ return {
 			id = 2263,
 			award_id = 1363,
 			asset_type = "_common_rank_ymshf_017_hldr_rank",
-			asset_count = 1,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[2264]=
@@ -55706,8 +55706,8 @@ return {
 		{
 			id = 2275,
 			award_id = 1374,
-			asset_type = "_common_rank_ymshf_017_hldr_rank",
-			asset_count = 1,
+			asset_type = "_common_rank_hlly_018_hlbd_rank",
+			asset_count = 100,
 			get_weight = 1,
 		},
 	},

@@ -5826,7 +5826,7 @@ return {
 		{
 			id = 181,
 			award_id = 164,
-			asset_type = "obj_fish_3d_power_bullet",
+			asset_type = "obj_fish_3d_time_free_power_bullet",
 			asset_count = 5,
 			get_weight = 1,
 		},
