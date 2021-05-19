@@ -1423,6 +1423,12 @@ return {
 			name = "龙虾兑换-普通",
 			condi = 197,
 		},
+		fishing3d_1=
+		{
+			key = "fishing3d_1",
+			name = "新手场",
+			condi = 442,
+		},
 		fishing3d_2=
 		{
 			key = "fishing3d_2",
@@ -17671,6 +17677,16 @@ return {
 			judge = 5,
 			group = 2,
 			error_desc = "不是IOS用户",
+		},
+		[1062]=
+		{
+			no = 1062,
+			id = 442,
+			var = "player_level",
+			value = 4,
+			judge = 4,
+			group = 1,
+			error_desc = "Lv5一下才可以进入，请去玩高级场获得更多金币吧！",
 		},
 	},
 	share_condition=
