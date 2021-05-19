@@ -10506,6 +10506,18 @@ return {
 			min = 90,
 			max = 90,
 		},
+		hlwyt_004=
+		{
+			key = "hlwyt_004",
+			min = 91,
+			max = 91,
+		},
+		hlwyt_005=
+		{
+			key = "hlwyt_005",
+			min = 92,
+			max = 92,
+		},
 	},
 	all_powerful=
 	{
