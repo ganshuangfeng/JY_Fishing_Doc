@@ -1613,6 +1613,90 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 		},
+		[100019]=
+		{
+			id = 100019,
+			enable = 1,
+			name = "限时红包-0.01奖励金",
+			own_type = "p_xshb_042_hlw",
+			task_enum = "xian_shi_hong_bao_task",
+			process_id = 100018,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1607994000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[100020]=
+		{
+			id = 100020,
+			enable = 1,
+			name = "限时红包-2奖励金",
+			own_type = "p_xshb_042_hlw",
+			task_enum = "xian_shi_hong_bao_task",
+			process_id = 100018,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1607994000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[100021]=
+		{
+			id = 100021,
+			enable = 1,
+			name = "限时红包-3奖励金",
+			own_type = "p_xshb_042_hlw",
+			task_enum = "xian_shi_hong_bao_task",
+			process_id = 100018,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1607994000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[100022]=
+		{
+			id = 100022,
+			enable = 1,
+			name = "限时红包-10奖励金",
+			own_type = "p_xshb_042_hlw",
+			task_enum = "xian_shi_hong_bao_task",
+			process_id = 100018,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1607994000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[100023]=
+		{
+			id = 100023,
+			enable = 1,
+			name = "限时红包-1奖励金",
+			own_type = "p_xshb_042_hlw",
+			task_enum = "xian_shi_hong_bao_task",
+			process_id = 100018,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1607994000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
+		[100024]=
+		{
+			id = 100024,
+			enable = 1,
+			name = "限时红包-3奖励金",
+			own_type = "p_xshb_042_hlw",
+			task_enum = "xian_shi_hong_bao_task",
+			process_id = 100018,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1607994000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+		},
 	},
 	process_data=
 	{
@@ -2709,6 +2793,60 @@ return {
 			process_id = 100018,
 			process = 35,
 		},
+		[115]=
+		{
+			id = 115,
+			process_id = 100019,
+			source_id = 99,
+			process = 1000,
+			awards = 199,
+			get_award_type = "nor",
+		},
+		[116]=
+		{
+			id = 116,
+			process_id = 100020,
+			source_id = 100,
+			process = 3,
+			awards = 200,
+			get_award_type = "nor",
+		},
+		[117]=
+		{
+			id = 117,
+			process_id = 100021,
+			source_id = 101,
+			process = 1,
+			awards = 201,
+			get_award_type = "nor",
+		},
+		[118]=
+		{
+			id = 118,
+			process_id = 100022,
+			source_id = 99,
+			process = 10000,
+			awards = 202,
+			get_award_type = "nor",
+		},
+		[119]=
+		{
+			id = 119,
+			process_id = 100023,
+			source_id = 99,
+			process = 50000,
+			awards = 203,
+			get_award_type = "nor",
+		},
+		[120]=
+		{
+			id = 120,
+			process_id = 100024,
+			source_id = 99,
+			process = 100000,
+			awards = 204,
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -3728,6 +3866,104 @@ return {
 			source_type = "jykp_game_num",
 			condition_id = 38,
 		},
+		[146]=
+		{
+			id = 146,
+			source_id = 99,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[147]=
+		{
+			id = 147,
+			source_id = 99,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[148]=
+		{
+			id = 148,
+			source_id = 99,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[149]=
+		{
+			id = 149,
+			source_id = 99,
+			source_type = "xiaoxiaole_xiyou_award",
+			condition_id = 0,
+		},
+		[150]=
+		{
+			id = 150,
+			source_id = 99,
+			source_type = "tantanle_award",
+			condition_id = 0,
+		},
+		[151]=
+		{
+			id = 151,
+			source_id = 99,
+			source_type = "zajindan_award",
+			condition_id = 0,
+		},
+		[152]=
+		{
+			id = 152,
+			source_id = 99,
+			source_type = "buyu_award",
+			condition_id = 0,
+		},
+		[153]=
+		{
+			id = 153,
+			source_id = 99,
+			source_type = "jykp_award",
+			condition_id = 0,
+		},
+		[154]=
+		{
+			id = 154,
+			source_id = 99,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[155]=
+		{
+			id = 155,
+			source_id = 99,
+			source_type = "lwzb_game_award",
+			condition_id = 0,
+		},
+		[156]=
+		{
+			id = 156,
+			source_id = 99,
+			source_type = "lianxianxiaoxiaole_award",
+			condition_id = 0,
+		},
+		[157]=
+		{
+			id = 157,
+			source_id = 99,
+			source_type = "buyu_3d_award",
+			condition_id = 0,
+		},
+		[158]=
+		{
+			id = 158,
+			source_id = 100,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 0,
+		},
+		[159]=
+		{
+			id = 159,
+			source_id = 101,
+			source_type = "buy_gift",
+			condition_id = 39,
+		},
 	},
 	condition=
 	{
@@ -4281,6 +4517,14 @@ return {
 			condition_id = 38,
 			condition_name = "bet_spend",
 			condition_value = 1,
+			judge_type = 3,
+		},
+		[70]=
+		{
+			id = 70,
+			condition_id = 39,
+			condition_name = "pay_money",
+			condition_value = 600,
 			judge_type = 3,
 		},
 	},
@@ -6556,6 +6800,54 @@ return {
 			award_id = 198,
 			asset_type = "task_100018",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[285]=
+		{
+			id = 285,
+			award_id = 199,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[286]=
+		{
+			id = 286,
+			award_id = 200,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 200,
+			get_weight = 1,
+		},
+		[287]=
+		{
+			id = 287,
+			award_id = 201,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 300,
+			get_weight = 1,
+		},
+		[288]=
+		{
+			id = 288,
+			award_id = 202,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[289]=
+		{
+			id = 289,
+			award_id = 203,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[290]=
+		{
+			id = 290,
+			award_id = 204,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 300,
 			get_weight = 1,
 		},
 	},
