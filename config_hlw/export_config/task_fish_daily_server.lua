@@ -23,7 +23,7 @@ return {
 			name = "狂欢场累计赢金10万",
 			own_type = "p_task_fish_daily_cpl",
 			task_enum = "reset_task_by_month_task",
-			process_id = 12516,
+			process_id = 12502,
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 946656000,
@@ -38,7 +38,7 @@ return {
 			name = "福卡场累计获得福卡1",
 			own_type = "p_task_fish_daily_cpl",
 			task_enum = "common",
-			process_id = 12531,
+			process_id = 12503,
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 946656000,
@@ -53,7 +53,7 @@ return {
 			name = "福卡场累计获得福卡5",
 			own_type = "p_task_fish_daily_cpl",
 			task_enum = "reset_task_by_month_task",
-			process_id = 12546,
+			process_id = 12504,
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 946656000,
@@ -73,29 +73,29 @@ return {
 			awards = {1001,1002,1003,1004,1005,1006,1007,1008,1009,1010,1011,1012,1013,1014,1015,},
 			get_award_type = "nor",
 		},
-		[16]=
+		[2]=
 		{
-			id = 16,
+			id = 2,
 			process_id = 12502,
 			source_id = 1,
 			process = {100000,400000,1500000,6000000,12000000,60000000,120000000,600000000,1200000000,3000000000,3000000000,7000000000,5000000000,10000000000,20000000000,},
 			awards = {1016,1017,1018,1019,1020,1021,1022,1023,1024,1025,1026,1027,1028,1029,1030,},
 			get_award_type = "nor",
 		},
-		[31]=
+		[3]=
 		{
-			id = 31,
+			id = 3,
 			process_id = 12503,
-			source_id = 1,
+			source_id = 2,
 			process = {100,200,500,700,1500,3500,5500,8000,5000,5000,20000,50000,60000,70000,270000,},
 			awards = {1031,1032,1033,1034,1035,1036,1037,1038,1039,1040,1041,1042,1043,1044,1045,},
 			get_award_type = "nor",
 		},
-		[46]=
+		[4]=
 		{
-			id = 46,
+			id = 4,
 			process_id = 12504,
-			source_id = 1,
+			source_id = 2,
 			process = {500,500,4000,25000,40000,80000,100000,150000,150000,450000,1000000,1500000,2500000,2000000,2000000,},
 			awards = {1046,1047,1048,1049,1050,1051,1052,1053,1054,1055,1056,1057,1058,1059,1060,},
 			get_award_type = "nor",
