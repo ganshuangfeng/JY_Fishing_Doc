@@ -17686,7 +17686,7 @@ return {
 			value = 4,
 			judge = 4,
 			group = 1,
-			error_desc = "Lv5一下才可以进入，请去玩高级场获得更多金币吧！",
+			error_desc = "Lv5以下才可以进入，请去玩高级场获得更多金币吧！",
 		},
 	},
 	share_condition=
