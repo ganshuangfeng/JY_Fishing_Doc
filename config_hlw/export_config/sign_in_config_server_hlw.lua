@@ -181,8 +181,8 @@ return {
 		{
 			no = 12,
 			award_id = 12,
-			asset_type = "gun_barrel_2",
-			asset_count = 604800,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
 			weight = 1,
 		},
 	},

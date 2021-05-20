@@ -63,7 +63,7 @@ return {
 			line = 1,
 			id = 1,
 			img = "ty_icon_flq2",
-			info = "0.1福利券",
+			info = "0.1福卡",
 			day = 3,
 		},
 		[2]=
@@ -79,7 +79,7 @@ return {
 			line = 3,
 			id = 3,
 			img = "ty_icon_flq3",
-			info = "0.3福利券",
+			info = "0.3福卡",
 			day = 14,
 		},
 		[4]=
@@ -95,7 +95,7 @@ return {
 			line = 5,
 			id = 5,
 			img = "ty_icon_flq3",
-			info = "1福利券",
+			info = "1福卡",
 			day = "M",
 		},
 	},
