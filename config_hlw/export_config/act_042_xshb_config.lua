@@ -5,7 +5,7 @@ return {
 		{
 			index = 1,
 			award = "0.01元奖励金",
-			cost = 0.1,
+			cost = 0.01,
 			task_id = 100019,
 			task_txt = "任意游戏累计赢金1000",
 			limit = "终身1次",
