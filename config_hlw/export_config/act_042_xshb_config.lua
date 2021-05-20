@@ -46,7 +46,7 @@ return {
 			award = "10元奖励金",
 			cost = 10,
 			task_id = 100022,
-			task_txt = "任意游戏累计赢金10000",
+			task_txt = "任意游戏累计赢金1000000",
 			limit = "终身1次",
 			unlock_id = 14,
 			tag = "VIP1",
