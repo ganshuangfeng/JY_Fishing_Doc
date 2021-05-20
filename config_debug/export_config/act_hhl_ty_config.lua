@@ -14,11 +14,6 @@ return {
 			GotoUI = {"game_MiniGame",},
 			help = "help_info",
 		},
-		[3]=
-		{
-			line = 3,
-			condiy_key = "cpl_notcjj",
-		},
 	},
 	config=
 	{

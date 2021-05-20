@@ -8,6 +8,7 @@ return {
 			ID = 1,
 			item_key = "prop_fish_drop_act_0",
 			reward_item_key = "shop_gold_sum",
+			ext_reward_item_key = "shop_gold_sum",
 			rank_type = "hlly_018_hlbd_rank",
 			s_time = 1622505600,
 			e_time = 1623081599,
