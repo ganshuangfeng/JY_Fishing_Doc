@@ -2238,6 +2238,30 @@ return {
 			name = "显示权限限制（非冲金鸡平台显示）",
 			condi = 434,
 		},
+		hlttby_type_plat1=
+		{
+			key = "hlttby_type_plat1",
+			name = "欢乐天天捕鱼安卓用户没有下载捕鱼奥秘官方",
+			condi = 443,
+		},
+		hlttby_type_plat2=
+		{
+			key = "hlttby_type_plat2",
+			name = "欢乐天天捕鱼ios用户没有下载捕鱼奥秘官方",
+			condi = 444,
+		},
+		hlttby_type_plat3=
+		{
+			key = "hlttby_type_plat3",
+			name = "捕鱼奥秘安卓用户没有下载欢乐天天捕鱼",
+			condi = 445,
+		},
+		hlttby_type_plat4=
+		{
+			key = "hlttby_type_plat4",
+			name = "捕鱼奥秘ios用户没有下载欢乐天天捕鱼",
+			condi = 446,
+		},
 	},
 	act_permission=
 	{
@@ -17687,6 +17711,86 @@ return {
 			judge = 4,
 			group = 1,
 			error_desc = "Lv5以下才可以进入，请去高级场获取更多金币吧！",
+		},
+		[1063]=
+		{
+			no = 1063,
+			id = 443,
+			var = "share_condition",
+			value = "tthlby_official",
+			judge = 5,
+			group = 1,
+			error_desc = "不是欢乐捕鱼CPL",
+		},
+		[1064]=
+		{
+			no = 1064,
+			id = 443,
+			var = "systype",
+			value = "ios",
+			judge = 5,
+			group = 1,
+			error_desc = "不是IOS用户",
+		},
+		[1065]=
+		{
+			no = 1065,
+			id = 444,
+			var = "share_condition",
+			value = "tthlby_official",
+			judge = 5,
+			group = 1,
+			error_desc = "不是欢乐捕鱼CPL",
+		},
+		[1066]=
+		{
+			no = 1066,
+			id = 444,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 1,
+			error_desc = "是IOS用户",
+		},
+		[1067]=
+		{
+			no = 1067,
+			id = 445,
+			var = "share_condition",
+			value = "tthlby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是欢乐捕鱼CPL",
+		},
+		[1068]=
+		{
+			no = 1068,
+			id = 445,
+			var = "systype",
+			value = "ios",
+			judge = 5,
+			group = 1,
+			error_desc = "不是IOS用户",
+		},
+		[1069]=
+		{
+			no = 1069,
+			id = 446,
+			var = "share_condition",
+			value = "tthlby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是欢乐捕鱼CPL",
+		},
+		[1070]=
+		{
+			no = 1070,
+			id = 446,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 1,
+			error_desc = "是IOS用户",
 		},
 	},
 	share_condition=
