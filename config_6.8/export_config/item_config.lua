@@ -4388,7 +4388,7 @@ return {
 			image = "cjdb_bg_ys",
 			is_show_bag = 1,
 			order = 1,
-			name = "银钥匙",
+			name = "金钥匙",
 			desc = "在夺宝中开启普通宝箱",
 		},
 		[325]=
@@ -4401,7 +4401,7 @@ return {
 			image = "cjdb_bg_jys",
 			is_show_bag = 1,
 			order = 1,
-			name = "金钥匙",
+			name = "银钥匙",
 			desc = "在夺宝中开启豪华宝箱",
 		},
 	},
