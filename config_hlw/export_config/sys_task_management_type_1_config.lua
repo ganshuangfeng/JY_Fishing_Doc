@@ -172,7 +172,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			task_id = 12516,
+			task_id = 12502,
 			task_icon = "ty_icon_jb_18y",
 			condition = 100000,
 			task_award_count = 600,
@@ -183,7 +183,7 @@ return {
 		[2]=
 		{
 			id = 2,
-			task_id = 12517,
+			task_id = 12502,
 			task_icon = "ty_icon_jb_30y",
 			condition = 500000,
 			task_award_count = 2000,
@@ -194,7 +194,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			task_id = 12518,
+			task_id = 12502,
 			task_icon = "ty_icon_jb_30y",
 			condition = 2000000,
 			task_award_count = 5000,
@@ -205,7 +205,7 @@ return {
 		[4]=
 		{
 			id = 4,
-			task_id = 12519,
+			task_id = 12502,
 			task_icon = "ty_icon_jb_98y",
 			condition = 8000000,
 			task_award_count = 8000,
@@ -216,7 +216,7 @@ return {
 		[5]=
 		{
 			id = 5,
-			task_id = 12520,
+			task_id = 12502,
 			task_icon = "ty_icon_flq2",
 			condition = 20000000,
 			task_award_count = 0.500000,
@@ -227,7 +227,7 @@ return {
 		[6]=
 		{
 			id = 6,
-			task_id = 12521,
+			task_id = 12502,
 			task_icon = "ty_icon_flq2",
 			condition = 80000000,
 			task_award_count = 1,
@@ -238,7 +238,7 @@ return {
 		[7]=
 		{
 			id = 7,
-			task_id = 12522,
+			task_id = 12502,
 			task_icon = "ty_icon_flq3",
 			condition = 200000000,
 			task_award_count = 10,
@@ -249,7 +249,7 @@ return {
 		[8]=
 		{
 			id = 8,
-			task_id = 12523,
+			task_id = 12502,
 			task_icon = "ty_icon_flq3",
 			condition = 800000000,
 			task_award_count = 18,
@@ -260,7 +260,7 @@ return {
 		[9]=
 		{
 			id = 9,
-			task_id = 12524,
+			task_id = 12502,
 			task_icon = "ty_icon_flq3",
 			condition = 2000000000,
 			task_award_count = 68,
@@ -271,7 +271,7 @@ return {
 		[10]=
 		{
 			id = 10,
-			task_id = 12525,
+			task_id = 12502,
 			task_icon = "ty_icon_flq3",
 			condition = 5000000000,
 			task_award_count = 108,
@@ -282,7 +282,7 @@ return {
 		[11]=
 		{
 			id = 11,
-			task_id = 12526,
+			task_id = 12502,
 			task_icon = "ty_icon_flq3",
 			condition = 8000000000,
 			task_award_count = 388,
@@ -293,7 +293,7 @@ return {
 		[12]=
 		{
 			id = 12,
-			task_id = 12527,
+			task_id = 12502,
 			task_icon = "ty_icon_flq4",
 			condition = 15000000000,
 			task_award_count = 588,
@@ -304,7 +304,7 @@ return {
 		[13]=
 		{
 			id = 13,
-			task_id = 12528,
+			task_id = 12502,
 			task_icon = "ty_icon_flq4",
 			condition = 20000000000,
 			task_award_count = 888,
@@ -315,7 +315,7 @@ return {
 		[14]=
 		{
 			id = 14,
-			task_id = 12529,
+			task_id = 12502,
 			task_icon = "ty_icon_flq4",
 			condition = 30000000000,
 			task_award_count = 1888,
@@ -326,7 +326,7 @@ return {
 		[15]=
 		{
 			id = 15,
-			task_id = 12530,
+			task_id = 12502,
 			task_icon = "ty_icon_flq5",
 			condition = 50000000000,
 			task_award_count = 2888,
@@ -340,7 +340,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			task_id = 12531,
+			task_id = 12503,
 			task_icon = "ty_icon_jb_18y",
 			condition = 100,
 			task_award_count = 2000,
@@ -351,7 +351,7 @@ return {
 		[2]=
 		{
 			id = 2,
-			task_id = 12532,
+			task_id = 12503,
 			task_icon = "ty_icon_jb_18y",
 			condition = 300,
 			task_award_count = 2500,
@@ -362,7 +362,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			task_id = 12533,
+			task_id = 12503,
 			task_icon = "ty_icon_jb_30y",
 			condition = 800,
 			task_award_count = 5000,
@@ -373,7 +373,7 @@ return {
 		[4]=
 		{
 			id = 4,
-			task_id = 12534,
+			task_id = 12503,
 			task_icon = "ty_icon_jb_30y",
 			condition = 1500,
 			task_award_count = 6000,
@@ -384,7 +384,7 @@ return {
 		[5]=
 		{
 			id = 5,
-			task_id = 12535,
+			task_id = 12503,
 			task_icon = "ty_icon_flq2",
 			condition = 3000,
 			task_award_count = 0.600000,
@@ -395,7 +395,7 @@ return {
 		[6]=
 		{
 			id = 6,
-			task_id = 12536,
+			task_id = 12503,
 			task_icon = "ty_icon_flq2",
 			condition = 6500,
 			task_award_count = 1.500000,
@@ -406,7 +406,7 @@ return {
 		[7]=
 		{
 			id = 7,
-			task_id = 12537,
+			task_id = 12503,
 			task_icon = "ty_icon_flq2",
 			condition = 12000,
 			task_award_count = 2.500000,
@@ -417,7 +417,7 @@ return {
 		[8]=
 		{
 			id = 8,
-			task_id = 12538,
+			task_id = 12503,
 			task_icon = "ty_icon_flq3",
 			condition = 20000,
 			task_award_count = 3,
@@ -428,7 +428,7 @@ return {
 		[9]=
 		{
 			id = 9,
-			task_id = 12539,
+			task_id = 12503,
 			task_icon = "ty_icon_flq3",
 			condition = 25000,
 			task_award_count = 3,
@@ -439,7 +439,7 @@ return {
 		[10]=
 		{
 			id = 10,
-			task_id = 12540,
+			task_id = 12503,
 			task_icon = "ty_icon_flq3",
 			condition = 30000,
 			task_award_count = 3,
@@ -450,7 +450,7 @@ return {
 		[11]=
 		{
 			id = 11,
-			task_id = 12541,
+			task_id = 12503,
 			task_icon = "ty_icon_flq4",
 			condition = 50000,
 			task_award_count = 4,
@@ -461,7 +461,7 @@ return {
 		[12]=
 		{
 			id = 12,
-			task_id = 12542,
+			task_id = 12503,
 			task_icon = "ty_icon_flq4",
 			condition = 100000,
 			task_award_count = 4,
@@ -472,7 +472,7 @@ return {
 		[13]=
 		{
 			id = 13,
-			task_id = 12543,
+			task_id = 12503,
 			task_icon = "ty_icon_flq5",
 			condition = 160000,
 			task_award_count = 6,
@@ -483,7 +483,7 @@ return {
 		[14]=
 		{
 			id = 14,
-			task_id = 12544,
+			task_id = 12503,
 			task_icon = "ty_icon_flq5",
 			condition = 230000,
 			task_award_count = 8,
@@ -494,7 +494,7 @@ return {
 		[15]=
 		{
 			id = 15,
-			task_id = 12545,
+			task_id = 12503,
 			task_icon = "ty_icon_flq5",
 			condition = 500000,
 			task_award_count = 18,
@@ -508,7 +508,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			task_id = 12546,
+			task_id = 12504,
 			task_icon = "ty_icon_jb_50y",
 			condition = 500,
 			task_award_count = 5000,
@@ -519,7 +519,7 @@ return {
 		[2]=
 		{
 			id = 2,
-			task_id = 12547,
+			task_id = 12504,
 			task_icon = "ty_icon_jb_50y",
 			condition = 1000,
 			task_award_count = 8000,
@@ -530,7 +530,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			task_id = 12548,
+			task_id = 12504,
 			task_icon = "ty_icon_jb_198y",
 			condition = 5000,
 			task_award_count = 40000,
@@ -541,7 +541,7 @@ return {
 		[4]=
 		{
 			id = 4,
-			task_id = 12549,
+			task_id = 12504,
 			task_icon = "ty_icon_flq2",
 			condition = 30000,
 			task_award_count = 16,
@@ -552,7 +552,7 @@ return {
 		[5]=
 		{
 			id = 5,
-			task_id = 12550,
+			task_id = 12504,
 			task_icon = "ty_icon_flq2",
 			condition = 70000,
 			task_award_count = 16,
@@ -563,7 +563,7 @@ return {
 		[6]=
 		{
 			id = 6,
-			task_id = 12551,
+			task_id = 12504,
 			task_icon = "ty_icon_flq2",
 			condition = 150000,
 			task_award_count = 26,
@@ -574,7 +574,7 @@ return {
 		[7]=
 		{
 			id = 7,
-			task_id = 12552,
+			task_id = 12504,
 			task_icon = "ty_icon_flq3",
 			condition = 250000,
 			task_award_count = 56,
@@ -585,7 +585,7 @@ return {
 		[8]=
 		{
 			id = 8,
-			task_id = 12553,
+			task_id = 12504,
 			task_icon = "ty_icon_flq3",
 			condition = 400000,
 			task_award_count = 66,
@@ -596,7 +596,7 @@ return {
 		[9]=
 		{
 			id = 9,
-			task_id = 12554,
+			task_id = 12504,
 			task_icon = "ty_icon_flq3",
 			condition = 550000,
 			task_award_count = 76,
@@ -607,7 +607,7 @@ return {
 		[10]=
 		{
 			id = 10,
-			task_id = 12555,
+			task_id = 12504,
 			task_icon = "ty_icon_flq4",
 			condition = 1000000,
 			task_award_count = 118,
@@ -618,7 +618,7 @@ return {
 		[11]=
 		{
 			id = 11,
-			task_id = 12556,
+			task_id = 12504,
 			task_icon = "ty_icon_flq4",
 			condition = 2000000,
 			task_award_count = 188,
@@ -629,7 +629,7 @@ return {
 		[12]=
 		{
 			id = 12,
-			task_id = 12557,
+			task_id = 12504,
 			task_icon = "ty_icon_flq4",
 			condition = 3500000,
 			task_award_count = 388,
@@ -640,7 +640,7 @@ return {
 		[13]=
 		{
 			id = 13,
-			task_id = 12558,
+			task_id = 12504,
 			task_icon = "ty_icon_flq5",
 			condition = 6000000,
 			task_award_count = 666,
@@ -651,7 +651,7 @@ return {
 		[14]=
 		{
 			id = 14,
-			task_id = 12559,
+			task_id = 12504,
 			task_icon = "ty_icon_flq5",
 			condition = 8000000,
 			task_award_count = 888,
@@ -662,7 +662,7 @@ return {
 		[15]=
 		{
 			id = 15,
-			task_id = 12560,
+			task_id = 12504,
 			task_icon = "ty_icon_flq5",
 			condition = 10000000,
 			task_award_count = 1000,
