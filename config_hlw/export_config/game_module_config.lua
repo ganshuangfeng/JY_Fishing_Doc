@@ -3329,5 +3329,25 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[340]=
+		{
+			id = 340,
+			key = "sys_task_management",
+			desc = "每日任务",
+			lua = "SYSTASKMANAGEMENTManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[341]=
+		{
+			id = 341,
+			key = "sys_task_management_type_1",
+			desc = "每日任务资源",
+			lua = "SYS_TASK_MANAGEMENT_TYPE_1_Manager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

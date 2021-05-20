@@ -14,6 +14,7 @@ return {
 			start_valid_time = 946656000,
 			end_valid_time = 32503651200,
 			time_limit = -1,
+			is_send_client = 1,
 		},
 		[12502]=
 		{
@@ -28,6 +29,7 @@ return {
 			start_valid_time = 946656000,
 			end_valid_time = 32503651200,
 			time_limit = -1,
+			is_send_client = 1,
 		},
 		[12503]=
 		{
@@ -42,6 +44,7 @@ return {
 			start_valid_time = 946656000,
 			end_valid_time = 32503651200,
 			time_limit = -1,
+			is_send_client = 1,
 		},
 		[12504]=
 		{
@@ -56,6 +59,7 @@ return {
 			start_valid_time = 946656000,
 			end_valid_time = 32503651200,
 			time_limit = -1,
+			is_send_client = 1,
 		},
 	},
 	process_data=
