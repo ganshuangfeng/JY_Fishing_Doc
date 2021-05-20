@@ -4378,5 +4378,31 @@ return {
 			name = "海王炮台加成卡",
 			desc = "海王炮台加成2%",
 		},
+		[324]=
+		{
+			id = 324,
+			item_id = 324,
+			item_key = "prop_super_treasure_key_1",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "cjdb_bg_ys",
+			is_show_bag = 1,
+			order = 1,
+			name = "银钥匙",
+			desc = "在夺宝中开启普通宝箱",
+		},
+		[325]=
+		{
+			id = 325,
+			item_id = 325,
+			item_key = "prop_super_treasure_key_2",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "cjdb_bg_jys",
+			is_show_bag = 1,
+			order = 1,
+			name = "金钥匙",
+			desc = "在夺宝中开启豪华宝箱",
+		},
 	},
 }
