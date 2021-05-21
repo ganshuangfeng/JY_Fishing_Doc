@@ -158,13 +158,13 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3#42#10#",
+			group_list = "141#3#42#10#",
 		},
 		[2]=
 		{
 			id = 2,
 			area = "left",
-			group_list = "85#58#30#141#",
+			group_list = "85#58#30#",
 		},
 		[3]=
 		{
@@ -302,7 +302,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "111#112#43#141#11#",
+			group_list = "112#142#43#141#11#",
 		},
 		[2]=
 		{
@@ -435,7 +435,7 @@ return {
 		{
 			id = 1,
 			area = "all",
-			group_list = "40#74#110#130#139#",
+			group_list = "40#110#130#139#",
 		},
 	},
 	hqjb_config=
@@ -444,7 +444,7 @@ return {
 		{
 			id = 1,
 			area = "all",
-			group_list = "58#30#88#42#118#87",
+			group_list = "58#30#88#42#118#87#110",
 		},
 	},
 	all_enter=
@@ -1308,6 +1308,12 @@ return {
 		{
 			id = 141,
 			parm = {"act_042_xshb",},
+			is_on_off = 1,
+		},
+		[142]=
+		{
+			id = 142,
+			parm = {"sys_task_management",},
 			is_on_off = 1,
 		},
 	},
