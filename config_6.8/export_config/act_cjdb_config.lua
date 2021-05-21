@@ -351,7 +351,7 @@ return {
 			line = 47,
 			group = 2,
 			id = 22,
-			style = {2,"zpg_icon_shui",12},
+			style = {2,"zpg_icon_shui",6},
 		},
 		[48]=
 		{
