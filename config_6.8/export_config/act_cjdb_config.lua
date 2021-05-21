@@ -71,14 +71,14 @@ return {
 			line = 7,
 			group = 1,
 			id = 7,
-			style = {2,"ty_icon_yxb_4",30000},
+			style = {3,"cjdb_bg_jys",1},
 		},
 		[8]=
 		{
 			line = 8,
 			group = 1,
 			id = 8,
-			style = {3,"cjdb_bg_jys",1},
+			style = {2,"ty_icon_yxb_4",30000},
 		},
 		[9]=
 		{
@@ -113,14 +113,14 @@ return {
 			line = 13,
 			group = 1,
 			id = 13,
-			style = {2,"ty_icon_jb_18y",50000},
+			style = {3,"cjdb_bg_jys",1},
 		},
 		[14]=
 		{
 			line = 14,
 			group = 1,
 			id = 14,
-			style = {3,"cjdb_bg_jys",1},
+			style = {2,"ty_icon_jb_18y",50000},
 		},
 		[15]=
 		{
@@ -155,14 +155,14 @@ return {
 			line = 19,
 			group = 1,
 			id = 19,
-			style = {2,"com_award_icon_hfsp",20},
+			style = {3,"cjdb_bg_jys",1},
 		},
 		[20]=
 		{
 			line = 20,
 			group = 1,
 			id = 20,
-			style = {3,"cjdb_bg_jys",1},
+			style = {2,"com_award_icon_hfsp",20},
 		},
 		[21]=
 		{
@@ -246,14 +246,14 @@ return {
 			line = 32,
 			group = 2,
 			id = 7,
-			style = {2,"ty_icon_yxb_4",15000},
+			style = {3,"cjdb_bg_ys",1},
 		},
 		[33]=
 		{
 			line = 33,
 			group = 2,
 			id = 8,
-			style = {3,"cjdb_bg_ys",1},
+			style = {2,"ty_icon_yxb_4",15000},
 		},
 		[34]=
 		{
@@ -288,14 +288,14 @@ return {
 			line = 38,
 			group = 2,
 			id = 13,
-			style = {2,"ty_icon_jb_18y",25000},
+			style = {3,"cjdb_bg_ys",1},
 		},
 		[39]=
 		{
 			line = 39,
 			group = 2,
 			id = 14,
-			style = {3,"cjdb_bg_ys",1},
+			style = {2,"ty_icon_jb_18y",25000},
 		},
 		[40]=
 		{
@@ -330,14 +330,14 @@ return {
 			line = 44,
 			group = 2,
 			id = 19,
-			style = {2,"com_award_icon_hfsp",10},
+			style = {3,"cjdb_bg_ys",1},
 		},
 		[45]=
 		{
 			line = 45,
 			group = 2,
 			id = 20,
-			style = {3,"cjdb_bg_ys",1},
+			style = {2,"com_award_icon_hfsp",10},
 		},
 		[46]=
 		{
