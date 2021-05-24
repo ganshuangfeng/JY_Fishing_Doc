@@ -37194,7 +37194,7 @@ return {
 			id = 613,
 			condition_id = 450,
 			condition_name = "gift_id",
-			condition_value = {4,87},
+			condition_value = {4,87,10490},
 			judge_type = 2,
 		},
 		[614]=
@@ -37202,7 +37202,7 @@ return {
 			id = 614,
 			condition_id = 451,
 			condition_name = "gift_id",
-			condition_value = {5,88},
+			condition_value = {5,88,10491},
 			judge_type = 2,
 		},
 		[615]=
