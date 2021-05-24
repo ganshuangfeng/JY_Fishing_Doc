@@ -1642,14 +1642,14 @@ return {
 		{
 			id = 85,
 			use_id = 85,
-			use_item = "prop_any_dice_2",
+			use_item = "prop_super_treasure_key_2",
 			use_num = 1,
 		},
 		[86]=
 		{
 			id = 86,
 			use_id = 86,
-			use_item = "prop_any_dice_1",
+			use_item = "prop_super_treasure_key_1",
 			use_num = 1,
 		},
 		[87]=
