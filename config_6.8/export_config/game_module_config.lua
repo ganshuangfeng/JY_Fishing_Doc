@@ -2811,11 +2811,11 @@ return {
 		{
 			id = 287,
 			key = "act_ty_ldfd",
-			desc = "幸运福袋",
+			desc = "端午福袋",
 			lua = "Act_ty_LDFDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[288]=
 		{
