@@ -15331,6 +15331,22 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000654]=
+		{
+			id = 1000654,
+			enable = 1,
+			name = "粽子掉落需求",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22012,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1623110400,
+			end_valid_time = 1623686399,
+			time_limit = -1,
+			is_send_client = 1,
+			award_change_type = "task_award_no_show",
+		},
 	},
 	process_data=
 	{
@@ -25293,6 +25309,16 @@ return {
 			process = {2,1,2},
 			awards = {1375,1376,1377},
 			get_award_type = "random",
+		},
+		[1064]=
+		{
+			id = 1064,
+			process_id = 22012,
+			source_id = 542,
+			process = {300000,-1},
+			awards = 1378,
+			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 	},
 	source=
@@ -55771,6 +55797,14 @@ return {
 			award_id = 1377,
 			asset_type = "jing_bi",
 			asset_count = {2000000,2900000},
+			get_weight = 1,
+		},
+		[2279]=
+		{
+			id = 2279,
+			award_id = 1378,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
