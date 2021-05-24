@@ -15392,6 +15392,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000658]=
+		{
+			id = 1000658,
+			enable = 1,
+			name = "爱消福利",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22016,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1623081600,
+			end_valid_time = 1624895999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -25390,6 +25405,15 @@ return {
 			source_id = 647,
 			process = {100,400,500,500,2000},
 			awards = {1389,1390,1391,1392,1393},
+			get_award_type = "random",
+		},
+		[1068]=
+		{
+			id = 1068,
+			process_id = 22016,
+			source_id = 632,
+			process = {1000,1000,3000,5000,10000,20000,40000,40000,80000,100000},
+			awards = {1394,1395,1396,1397,1398,1399,1400,1401,1402},
 			get_award_type = "random",
 		},
 	},
@@ -56039,6 +56063,81 @@ return {
 			id = 2294,
 			award_id = 1393,
 			award_name = "美的电火锅",
+			asset_type = "shop_gold_sum",
+			asset_count = {10,14},
+			get_weight = 1,
+		},
+		[2295]=
+		{
+			id = 2295,
+			award_id = 1394,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = {10000,14000},
+			get_weight = 1,
+		},
+		[2296]=
+		{
+			id = 2296,
+			award_id = 1395,
+			asset_type = "shop_gold_sum",
+			asset_count = {35,35},
+			get_weight = 1,
+		},
+		[2297]=
+		{
+			id = 2297,
+			award_id = 1396,
+			asset_type = "shop_gold_sum",
+			asset_count = {55,65},
+			get_weight = 1,
+		},
+		[2298]=
+		{
+			id = 2298,
+			award_id = 1397,
+			asset_type = "jing_bi",
+			asset_count = {100000,140000},
+			get_weight = 1,
+		},
+		[2299]=
+		{
+			id = 2299,
+			award_id = 1398,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = {200000,280000},
+			get_weight = 1,
+		},
+		[2300]=
+		{
+			id = 2300,
+			award_id = 1399,
+			asset_type = "shop_gold_sum",
+			asset_count = {420,540},
+			get_weight = 1,
+		},
+		[2301]=
+		{
+			id = 2301,
+			award_id = 1400,
+			asset_type = "jing_bi",
+			asset_count = {420000,540000},
+			get_weight = 1,
+		},
+		[2302]=
+		{
+			id = 2302,
+			award_id = 1401,
+			asset_type = "jing_bi",
+			asset_count = {900000,1020000},
+			get_weight = 1,
+		},
+		[2303]=
+		{
+			id = 2303,
+			award_id = 1402,
+			asset_type = "shop_gold_sum",
+			asset_count = {1000,1400},
+			get_weight = 1,
 		},
 	},
 }
