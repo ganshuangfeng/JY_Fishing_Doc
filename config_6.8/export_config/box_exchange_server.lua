@@ -10169,6 +10169,7 @@ return {
 			id = 591,
 			real_award_id = 12063,
 			award_name = "华为手机",
+			asset_count = {1,1},
 		},
 		[592]=
 		{

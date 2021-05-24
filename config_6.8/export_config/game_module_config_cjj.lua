@@ -3086,7 +3086,7 @@ return {
 		[315]=
 		{
 			id = 315,
-			key = "sys_act_base_style/sys_act_base_weekly_018",
+			key = "sys_act_base_style/sys_act_base_weekly_019",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3205,11 +3205,11 @@ return {
 		{
 			id = 327,
 			key = "act_052_qfhl",
-			desc = "龙腾祈福",
+			desc = "祈福有礼",
 			lua = "Act_052_QFHLManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[328]=
 		{
@@ -3217,18 +3217,18 @@ return {
 			key = "act_ty_gifts",
 			desc = "通用礼包",
 			lua = "Act_Ty_GiftsManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[329]=
 		{
 			id = 329,
 			key = "act_ty_gifts_style/act_003_hflb",
 			desc = "话费礼包",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[330]=
 		{
