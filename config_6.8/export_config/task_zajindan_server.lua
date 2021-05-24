@@ -15316,6 +15316,21 @@ return {
 			is_send_client = 1,
 			award_change_type = "task_award_no_show",
 		},
+		[1000653]=
+		{
+			id = 1000653,
+			enable = 1,
+			name = "端午福袋",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22011,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1623081600,
+			end_valid_time = 1623686399,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -25270,6 +25285,15 @@ return {
 			get_award_type = "nor",
 			is_auto_get_award = 2,
 		},
+		[1063]=
+		{
+			id = 1063,
+			process_id = 22011,
+			source_id = 644,
+			process = {2,1,2},
+			awards = {1375,1376,1377},
+			get_award_type = "random",
+		},
 	},
 	source=
 	{
@@ -32580,6 +32604,13 @@ return {
 			source_type = "buy_gift",
 			condition_id = 480,
 		},
+		[1038]=
+		{
+			id = 1038,
+			source_id = 644,
+			source_type = "buy_gift",
+			condition_id = 482,
+		},
 	},
 	condition=
 	{
@@ -37509,6 +37540,14 @@ return {
 			condition_id = 480,
 			condition_name = "gift_id",
 			condition_value = {10551,10552,10553,10554,10555,10556,10557,10558,10559,10560,10561,10562},
+			judge_type = 2,
+		},
+		[647]=
+		{
+			id = 647,
+			condition_id = 482,
+			condition_name = "gift_id",
+			condition_value = {10571,10572,10573,10574,10575,10576,10577},
 			judge_type = 2,
 		},
 	},
@@ -55708,6 +55747,30 @@ return {
 			award_id = 1374,
 			asset_type = "_common_rank_hlly_018_hlbd_rank",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[2276]=
+		{
+			id = 2276,
+			award_id = 1375,
+			asset_type = "jing_bi",
+			asset_count = {250000,320000},
+			get_weight = 1,
+		},
+		[2277]=
+		{
+			id = 2277,
+			award_id = 1376,
+			asset_type = "jing_bi",
+			asset_count = {400000,580000},
+			get_weight = 1,
+		},
+		[2278]=
+		{
+			id = 2278,
+			award_id = 1377,
+			asset_type = "jing_bi",
+			asset_count = {2000000,2900000},
 			get_weight = 1,
 		},
 	},
