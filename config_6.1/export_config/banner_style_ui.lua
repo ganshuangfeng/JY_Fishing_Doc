@@ -1053,5 +1053,29 @@ return {
 			srartTime = 1619481600,
 			endTime = 1620662399,
 		},
+		[93]=
+		{
+			id = 93,
+			bannerID = 93,
+			isOnOff = 0,
+			order = 113,
+			condi_key = "cpl_cjj",
+			gotoUI = {"act_cjdb","panel"},
+			model = "LoginUp",
+			srartTime = 1623110400,
+			endTime = 1628351999,
+		},
+		[94]=
+		{
+			id = 94,
+			bannerID = 94,
+			isOnOff = 1,
+			order = 112,
+			condi_key = "cpl_notcjj",
+			gotoUI = {"sys_txz","panel"},
+			model = "LoginUp",
+			srartTime = -1,
+			endTime = -1,
+		},
 	},
 }

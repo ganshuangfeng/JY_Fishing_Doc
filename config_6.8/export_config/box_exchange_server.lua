@@ -10113,7 +10113,7 @@ return {
 			id = 583,
 			real_award_id = 12055,
 			asset_type = "shop_gold_sum",
-			asset_count = 4300,
+			asset_count = {4300,4300},
 		},
 		[584]=
 		{
@@ -10169,6 +10169,7 @@ return {
 			id = 591,
 			real_award_id = 12063,
 			award_name = "华为手机",
+			asset_count = {1,1},
 		},
 		[592]=
 		{
@@ -10182,7 +10183,7 @@ return {
 			id = 593,
 			real_award_id = 12065,
 			asset_type = "shop_gold_sum",
-			asset_count = 43000,
+			asset_count = {43000,43000},
 		},
 		[594]=
 		{
