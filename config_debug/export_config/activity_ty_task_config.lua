@@ -1035,8 +1035,8 @@ return {
 		{
 			id = 80,
 			task = 1000625,
-			total = 1,
-			task_name = "在西游消消乐中消除1次孙悟空",
+			total = 3,
+			task_name = "在西游消消乐中消除3个孙悟空",
 			level = 1,
 			item = {"prop_web_chip_huafei",},
 			count = {10,},
@@ -1046,8 +1046,8 @@ return {
 		{
 			id = 81,
 			task = 1000626,
-			total = 1,
-			task_name = "在西游消消乐中消除1次唐僧",
+			total = 3,
+			task_name = "在西游消消乐中消除3个唐僧",
 			level = 1,
 			item = {"prop_web_chip_huafei",},
 			count = {10,},
@@ -1101,8 +1101,8 @@ return {
 		{
 			id = 86,
 			task = 1000631,
-			total = 1,
-			task_name = "在西游消消乐中消除1次孙悟空",
+			total = 3,
+			task_name = "在西游消消乐中消除3个孙悟空",
 			level = 1,
 			item = {"prop_web_chip_huafei",},
 			count = {10,},
@@ -1112,8 +1112,8 @@ return {
 		{
 			id = 87,
 			task = 1000632,
-			total = 3,
-			task_name = "在西游消消乐中消除3次孙悟空",
+			total = 9,
+			task_name = "在西游消消乐中消除9个孙悟空",
 			level = 1,
 			item = {"prop_web_chip_huafei",},
 			count = {30,},
