@@ -15347,6 +15347,51 @@ return {
 			is_send_client = 1,
 			award_change_type = "task_award_no_show",
 		},
+		[1000655]=
+		{
+			id = 1000655,
+			enable = 1,
+			name = "纵情端午祈福有礼简单难度累计抽奖",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22013,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1623110400,
+			end_valid_time = 1623686399,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000656]=
+		{
+			id = 1000656,
+			enable = 1,
+			name = "纵情端午祈福有礼中等难度累计抽奖",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22014,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1623110400,
+			end_valid_time = 1623686399,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000657]=
+		{
+			id = 1000657,
+			enable = 1,
+			name = "纵情端午祈福有礼挑战难度累计抽奖",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22015,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1623110400,
+			end_valid_time = 1623686399,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -25320,6 +25365,33 @@ return {
 			get_award_type = "nor",
 			is_auto_get_award = 2,
 		},
+		[1065]=
+		{
+			id = 1065,
+			process_id = 22013,
+			source_id = 645,
+			process = {20,30,50,100,200},
+			awards = {1379,1380,1381,1382,1383},
+			get_award_type = "random",
+		},
+		[1066]=
+		{
+			id = 1066,
+			process_id = 22014,
+			source_id = 646,
+			process = {100,400,500,500,700},
+			awards = {1384,1385,1386,1387,1388},
+			get_award_type = "random",
+		},
+		[1067]=
+		{
+			id = 1067,
+			process_id = 22015,
+			source_id = 647,
+			process = {100,400,500,500,2000},
+			awards = {1389,1390,1391,1392,1393},
+			get_award_type = "random",
+		},
 	},
 	source=
 	{
@@ -32637,6 +32709,27 @@ return {
 			source_type = "buy_gift",
 			condition_id = 482,
 		},
+		[1039]=
+		{
+			id = 1039,
+			source_id = 645,
+			source_type = "box_exchange",
+			condition_id = 483,
+		},
+		[1040]=
+		{
+			id = 1040,
+			source_id = 646,
+			source_type = "box_exchange",
+			condition_id = 484,
+		},
+		[1041]=
+		{
+			id = 1041,
+			source_id = 647,
+			source_type = "box_exchange",
+			condition_id = 485,
+		},
 	},
 	condition=
 	{
@@ -37574,6 +37667,30 @@ return {
 			condition_id = 482,
 			condition_name = "gift_id",
 			condition_value = {10571,10572,10573,10574,10575,10576,10577},
+			judge_type = 2,
+		},
+		[648]=
+		{
+			id = 648,
+			condition_id = 483,
+			condition_name = "box_exchange_type",
+			condition_value = {"box_exchange_96",},
+			judge_type = 2,
+		},
+		[649]=
+		{
+			id = 649,
+			condition_id = 484,
+			condition_name = "box_exchange_type",
+			condition_value = {"box_exchange_97",},
+			judge_type = 2,
+		},
+		[650]=
+		{
+			id = 650,
+			condition_id = 485,
+			condition_name = "box_exchange_type",
+			condition_value = {"box_exchange_98",},
 			judge_type = 2,
 		},
 	},
@@ -55806,6 +55923,122 @@ return {
 			asset_type = "prop_fish_drop_act_0",
 			asset_count = 1,
 			get_weight = 1,
+		},
+		[2280]=
+		{
+			id = 2280,
+			award_id = 1379,
+			asset_type = "jing_bi",
+			asset_count = {20000,80000},
+			get_weight = 1,
+		},
+		[2281]=
+		{
+			id = 2281,
+			award_id = 1380,
+			asset_type = "jing_bi",
+			asset_count = {100000,150000},
+			get_weight = 1,
+		},
+		[2282]=
+		{
+			id = 2282,
+			award_id = 1381,
+			asset_type = "jing_bi",
+			asset_count = {150000,300000},
+			get_weight = 1,
+		},
+		[2283]=
+		{
+			id = 2283,
+			award_id = 1382,
+			asset_type = "jing_bi",
+			asset_count = {300000,500000},
+			get_weight = 1,
+		},
+		[2284]=
+		{
+			id = 2284,
+			award_id = 1383,
+			award_name = "金龙鱼油900ml",
+			get_weight = 1,
+		},
+		[2285]=
+		{
+			id = 2285,
+			award_id = 1384,
+			asset_type = "jing_bi",
+			asset_count = {100000,200000},
+			get_weight = 1,
+		},
+		[2286]=
+		{
+			id = 2286,
+			award_id = 1385,
+			asset_type = "jing_bi",
+			asset_count = {300000,500000},
+			get_weight = 1,
+		},
+		[2287]=
+		{
+			id = 2287,
+			award_id = 1386,
+			asset_type = "jing_bi",
+			asset_count = {400000,600000},
+			get_weight = 1,
+		},
+		[2288]=
+		{
+			id = 2288,
+			award_id = 1387,
+			asset_type = "jing_bi",
+			asset_count = {500000,1500000},
+			get_weight = 1,
+		},
+		[2289]=
+		{
+			id = 2289,
+			award_id = 1388,
+			award_name = "椰汁24盒",
+			get_weight = 1,
+		},
+		[2290]=
+		{
+			id = 2290,
+			award_id = 1389,
+			asset_type = "jing_bi",
+			asset_count = {100000,200000},
+			get_weight = 1,
+		},
+		[2291]=
+		{
+			id = 2291,
+			award_id = 1390,
+			asset_type = "jing_bi",
+			asset_count = {300000,500000},
+			get_weight = 1,
+		},
+		[2292]=
+		{
+			id = 2292,
+			award_id = 1391,
+			asset_type = "jing_bi",
+			asset_count = {400000,600000},
+			get_weight = 1,
+		},
+		[2293]=
+		{
+			id = 2293,
+			award_id = 1392,
+			asset_type = "jing_bi",
+			asset_count = {1000000,3000000},
+			get_weight = 1,
+		},
+		[2294]=
+		{
+			id = 2294,
+			award_id = 1393,
+			award_name = "美的电火锅",
 		},
 	},
 }

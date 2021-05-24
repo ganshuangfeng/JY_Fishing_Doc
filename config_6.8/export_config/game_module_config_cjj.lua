@@ -3285,7 +3285,7 @@ return {
 			key = "act_cjdb",
 			desc = "超级夺宝",
 			lua = "ACTCJDBManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
