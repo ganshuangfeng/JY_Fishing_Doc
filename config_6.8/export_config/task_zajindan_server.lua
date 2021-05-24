@@ -25413,7 +25413,7 @@ return {
 			process_id = 22016,
 			source_id = 632,
 			process = {1000,1000,3000,5000,10000,20000,40000,40000,80000,100000},
-			awards = {1394,1395,1396,1397,1398,1399,1400,1401,1402},
+			awards = {1394,1395,1396,1397,1398,1399,1400,1401,1402,1403},
 			get_award_type = "random",
 		},
 	},
@@ -56063,24 +56063,21 @@ return {
 			id = 2294,
 			award_id = 1393,
 			award_name = "美的电火锅",
-			asset_type = "shop_gold_sum",
-			asset_count = {10,14},
-			get_weight = 1,
 		},
 		[2295]=
 		{
 			id = 2295,
 			award_id = 1394,
-			asset_type = "prop_tiny_game_coin",
-			asset_count = {10000,14000},
+			asset_type = "shop_gold_sum",
+			asset_count = {10,14},
 			get_weight = 1,
 		},
 		[2296]=
 		{
 			id = 2296,
 			award_id = 1395,
-			asset_type = "shop_gold_sum",
-			asset_count = {35,35},
+			asset_type = "prop_tiny_game_coin",
+			asset_count = {10000,14000},
 			get_weight = 1,
 		},
 		[2297]=
@@ -56088,39 +56085,39 @@ return {
 			id = 2297,
 			award_id = 1396,
 			asset_type = "shop_gold_sum",
-			asset_count = {55,65},
+			asset_count = {35,35},
 			get_weight = 1,
 		},
 		[2298]=
 		{
 			id = 2298,
 			award_id = 1397,
-			asset_type = "jing_bi",
-			asset_count = {100000,140000},
+			asset_type = "shop_gold_sum",
+			asset_count = {55,65},
 			get_weight = 1,
 		},
 		[2299]=
 		{
 			id = 2299,
 			award_id = 1398,
-			asset_type = "prop_tiny_game_coin",
-			asset_count = {200000,280000},
+			asset_type = "jing_bi",
+			asset_count = {100000,140000},
 			get_weight = 1,
 		},
 		[2300]=
 		{
 			id = 2300,
 			award_id = 1399,
-			asset_type = "shop_gold_sum",
-			asset_count = {420,540},
+			asset_type = "prop_tiny_game_coin",
+			asset_count = {200000,280000},
 			get_weight = 1,
 		},
 		[2301]=
 		{
 			id = 2301,
 			award_id = 1400,
-			asset_type = "jing_bi",
-			asset_count = {420000,540000},
+			asset_type = "shop_gold_sum",
+			asset_count = {420,540},
 			get_weight = 1,
 		},
 		[2302]=
@@ -56128,13 +56125,21 @@ return {
 			id = 2302,
 			award_id = 1401,
 			asset_type = "jing_bi",
-			asset_count = {900000,1020000},
+			asset_count = {420000,540000},
 			get_weight = 1,
 		},
 		[2303]=
 		{
 			id = 2303,
 			award_id = 1402,
+			asset_type = "jing_bi",
+			asset_count = {900000,1020000},
+			get_weight = 1,
+		},
+		[2304]=
+		{
+			id = 2304,
+			award_id = 1403,
 			asset_type = "shop_gold_sum",
 			asset_count = {1000,1400},
 			get_weight = 1,
