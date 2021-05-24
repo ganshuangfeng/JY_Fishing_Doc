@@ -126,9 +126,10 @@ return {
 		{
 			tge_index = 7,
 			name = "act_mfhf_byam",
-			on_off = 0,
+			on_off = 1,
 			is_show = 1,
 			order = 1,
+			task_index = {103,104,105,106,107,108,109,110},
 		},
 		[8]=
 		{
@@ -1297,6 +1298,94 @@ return {
 			item = {"jing_bi","prop_web_chip_huafei",},
 			count = {"80000","10",},
 			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[103]=
+		{
+			id = 103,
+			task = 1000649,
+			total = 2,
+			task_name = "在3D捕鱼深海探险当前层数+2",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {5,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[104]=
+		{
+			id = 104,
+			task = 1000650,
+			total = 5,
+			task_name = "在3D捕鱼深海探险当前层数+5",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {10,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[105]=
+		{
+			id = 105,
+			task = 1000651,
+			total = 1,
+			task_name = "在3D捕鱼海底宝藏以上场次任意击杀1条boss",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {20,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[106]=
+		{
+			id = 106,
+			task = 1000652,
+			total = 3,
+			task_name = "在3D捕鱼海底宝藏以上场次任意击杀3条boss",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {50,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[107]=
+		{
+			id = 107,
+			task = 1000653,
+			total = 3,
+			task_name = "在西游消消乐中消除3个孙悟空",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {10,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[108]=
+		{
+			id = 108,
+			task = 1000654,
+			total = 3,
+			task_name = "在西游消消乐中消除3个唐僧",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {10,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[109]=
+		{
+			id = 109,
+			task = 1000655,
+			total = 2,
+			task_name = "在水浒消消乐中召唤出2个英雄",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {20,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[110]=
+		{
+			id = 110,
+			task = 1000656,
+			total = 4,
+			task_name = "在水浒消消乐中召唤出4个英雄",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {30,},
+			gotoUI = {"game_MiniGame",},
 		},
 	},
 }
