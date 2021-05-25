@@ -10113,7 +10113,7 @@ return {
 			id = 583,
 			real_award_id = 12055,
 			asset_type = "shop_gold_sum",
-			asset_count = 4300,
+			asset_count = {4300,4300},
 		},
 		[584]=
 		{
