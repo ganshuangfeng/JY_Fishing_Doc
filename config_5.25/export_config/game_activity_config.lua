@@ -880,7 +880,7 @@ return {
 			title = "欢乐达人",
 			order = 3,
 			is_on_off = 1,
-			condi_key = "actp_own_task_p_hljnh_046_hlfl_cjj",
+			condi_key = "actp_rank_ymshf_017_hldr_rank",
 			beginTime = 1621900800,
 			endTime = 1622476799,
 			showType = "prefab",

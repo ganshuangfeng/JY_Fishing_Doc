@@ -6679,8 +6679,8 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_hlwyt_016_fqdr_rank",
-			name = "欢乐五月天福气达人",
+			key = "actp_rank_ymshf_017_hldr_rank",
+			name = "游戏达人",
 			condi = 393,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
