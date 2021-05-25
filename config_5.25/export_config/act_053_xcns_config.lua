@@ -4,7 +4,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			task_id = 1000638,
+			task_id = 1000639,
 			startTime = 1621900800,
 			endTime = 1622476799,
 			gotoui = "game_MiniGame",
