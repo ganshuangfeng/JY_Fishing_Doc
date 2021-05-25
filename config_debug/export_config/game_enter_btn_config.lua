@@ -183,7 +183,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#139#8#122#61#137#9#117#134#138#",
+			group_list = "3;116#2#139#8#122#61#140#137#9#117#134#138#",
 		},
 		[2]=
 		{
@@ -479,7 +479,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "132#",
+			group_list = "120#",
 		},
 	},
 	jchd_config=
@@ -1350,6 +1350,13 @@ return {
 			id = 139,
 			parm = {"act_027_jqshl",},
 			is_on_off = 1,
+		},
+		[140]=
+		{
+			id = 140,
+			parm = {"sys_txz",},
+			is_on_off = 1,
+			condi_key = "cpl_notcjj",
 		},
 	},
 }

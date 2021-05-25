@@ -7,17 +7,17 @@ return {
 			is_on_off = 1,
 			ID = 1,
 			item_key = "prop_fish_drop_act_0",
-			reward_item_key = "prop_web_chip_huafei",
+			reward_item_key = "shop_gold_sum",
 			ext_reward_item_key = "shop_gold_sum",
-			rank_type = "ymshf_017_hldr_rank",
-			s_time = 1621900800,
-			e_time = 1622476799,
+			rank_type = "hlly_018_hlbd_rank",
+			s_time = 1622505600,
+			e_time = 1623081599,
 			gotoUI = "game_Fishing3DHall",
 			award = {1,2,3,4,5,6,7},
 			extra_award = {8,9,10,11,12,13,14},
-			path = "act_016_dlphb",
-			condiy_key = "actp_rank_ymshf_017_hldr_rank",
-			type_info = 100,
+			path = "act_017_dlphb",
+			condiy_key = "actp_rank_hlly_018_hlbd_rank",
+			type_info = 1,
 		},
 	},
 	award_config=
@@ -70,7 +70,7 @@ return {
 			award = 60000,
 			limit = {1,1,},
 			need_num = 3000000,
-			condition = "欢乐券数达到300万",
+			condition = "棒棒糖数达到300万",
 		},
 		[9]=
 		{
@@ -78,7 +78,7 @@ return {
 			award = 15000,
 			limit = {2,2},
 			need_num = 1800000,
-			condition = "欢乐券数达到180万",
+			condition = "棒棒糖数达到180万",
 		},
 		[10]=
 		{
@@ -86,7 +86,7 @@ return {
 			award = 5000,
 			limit = {3,3,},
 			need_num = 900000,
-			condition = "欢乐券数达到90万",
+			condition = "棒棒糖数达到90万",
 		},
 		[11]=
 		{
@@ -94,7 +94,7 @@ return {
 			award = 800,
 			limit = {4,6,},
 			need_num = 450000,
-			condition = "欢乐券数达到45万",
+			condition = "棒棒糖数达到45万",
 		},
 		[12]=
 		{
@@ -102,7 +102,7 @@ return {
 			award = 800,
 			limit = {7,10,},
 			need_num = 300000,
-			condition = "欢乐券数达到30万",
+			condition = "棒棒糖数达到30万",
 		},
 		[13]=
 		{
@@ -110,7 +110,7 @@ return {
 			award = 400,
 			limit = {11,15,},
 			need_num = 180000,
-			condition = "欢乐券数达到18万",
+			condition = "棒棒糖数达到18万",
 		},
 		[14]=
 		{
@@ -118,7 +118,7 @@ return {
 			award = 200,
 			limit = {16,20,},
 			need_num = 90000,
-			condition = "欢乐券数达到9万",
+			condition = "棒棒糖数达到9万",
 		},
 	},
 }

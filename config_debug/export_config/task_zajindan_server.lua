@@ -14809,7 +14809,7 @@ return {
 			id = 1000619,
 			enable = 1,
 			name = "免费话费",
-			own_type = "p_hlfl_nor_no_byam",
+			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 21977,
 			is_reset = 1,
@@ -14824,7 +14824,7 @@ return {
 			id = 1000620,
 			enable = 1,
 			name = "免费话费",
-			own_type = "p_hlfl_nor_no_byam",
+			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 21978,
 			is_reset = 1,
@@ -15281,6 +15281,37 @@ return {
 			reset_delay = 1,
 			start_valid_time = 1621900800,
 			end_valid_time = 1622476799,
+			time_limit = -1,
+			is_send_client = 1,
+			award_change_type = "task_award_no_show",
+		},
+		[1000651]=
+		{
+			id = 1000651,
+			enable = 1,
+			name = "欢乐消除",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22009,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1622476800,
+			end_valid_time = 1623081599,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000652]=
+		{
+			id = 1000652,
+			enable = 1,
+			name = "棒棒糖掉落需求",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22010,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1622505600,
+			end_valid_time = 1623081599,
 			time_limit = -1,
 			is_send_client = 1,
 			award_change_type = "task_award_no_show",
@@ -25217,6 +25248,25 @@ return {
 			source_id = 542,
 			process = {300000,-1},
 			awards = 1363,
+			get_award_type = "nor",
+			is_auto_get_award = 2,
+		},
+		[1061]=
+		{
+			id = 1061,
+			process_id = 22009,
+			source_id = 632,
+			process = {1000,1000,3000,5000,10000,20000,40000,40000,80000,100000},
+			awards = {1364,1365,1366,1367,1368,1369,1370,1371,1372,1373},
+			get_award_type = "random",
+		},
+		[1062]=
+		{
+			id = 1062,
+			process_id = 22010,
+			source_id = 542,
+			process = {300000,-1},
+			awards = 1374,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
 		},
@@ -37194,7 +37244,7 @@ return {
 			id = 613,
 			condition_id = 450,
 			condition_name = "gift_id",
-			condition_value = {4,87,10490},
+			condition_value = {4,87},
 			judge_type = 2,
 		},
 		[614]=
@@ -37202,7 +37252,7 @@ return {
 			id = 614,
 			condition_id = 451,
 			condition_name = "gift_id",
-			condition_value = {5,88,10491},
+			condition_value = {5,88},
 			judge_type = 2,
 		},
 		[615]=
@@ -55562,6 +55612,102 @@ return {
 			award_id = 1363,
 			asset_type = "_common_rank_ymshf_017_hldr_rank",
 			asset_count = 100,
+			get_weight = 1,
+		},
+		[2264]=
+		{
+			id = 2264,
+			award_id = 1364,
+			asset_type = "prop_hammer_1",
+			asset_count = {1,1},
+			get_weight = 1,
+		},
+		[2265]=
+		{
+			id = 2265,
+			award_id = 1365,
+			asset_type = "jing_bi",
+			asset_count = {10000,14000},
+			get_weight = 1,
+		},
+		[2266]=
+		{
+			id = 2266,
+			award_id = 1366,
+			asset_type = "shop_gold_sum",
+			asset_count = {35,35},
+			get_weight = 1,
+		},
+		[2267]=
+		{
+			id = 2267,
+			award_id = 1367,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = {11,13},
+			get_weight = 1,
+		},
+		[2268]=
+		{
+			id = 2268,
+			award_id = 1368,
+			asset_type = "jing_bi",
+			asset_count = {100000,140000},
+			get_weight = 1,
+		},
+		[2269]=
+		{
+			id = 2269,
+			award_id = 1369,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = {200000,280000},
+			get_weight = 1,
+		},
+		[2270]=
+		{
+			id = 2270,
+			award_id = 1370,
+			asset_type = "shop_gold_sum",
+			asset_count = {420,540},
+			get_weight = 1,
+		},
+		[2271]=
+		{
+			id = 2271,
+			award_id = 1371,
+			asset_type = "jing_bi",
+			asset_count = {420000,540000},
+			get_weight = 1,
+		},
+		[2272]=
+		{
+			id = 2272,
+			award_id = 1372,
+			asset_type = "jing_bi",
+			asset_count = {900000,1020000},
+			get_weight = 1,
+		},
+		[2273]=
+		{
+			id = 2273,
+			award_id = 1373,
+			asset_type = "shop_gold_sum",
+			asset_count = {1000,1400},
+			get_weight = 1,
+		},
+		[2274]=
+		{
+			id = 2274,
+			award_id = 1374,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[2275]=
+		{
+			id = 2275,
+			award_id = 1374,
+			asset_type = "_common_rank_hlly_018_hlbd_rank",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},

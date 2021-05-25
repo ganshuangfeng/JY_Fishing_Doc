@@ -4,9 +4,9 @@ return {
 		[1]=
 		{
 			id = 1,
-			base_money = 5000,
-			accum_max = 15000,
-			rate = {80,135},
+			base_money = 50,
+			accum_max = 150,
+			rate = {3,8},
 			deal_time = {3,8},
 			reset_time = 8,
 			overtime_discount = 0.900000,

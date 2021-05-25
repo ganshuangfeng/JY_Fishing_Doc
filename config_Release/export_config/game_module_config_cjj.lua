@@ -2435,7 +2435,7 @@ return {
 			key = "by3d_ad_mfcj",
 			desc = "广告点4：免费抽奖",
 			lua = "BY3DADMFCJManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
@@ -2485,7 +2485,7 @@ return {
 			key = "by3d_ad_fish",
 			desc = "广告鱼",
 			lua = "BY3DADFishManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
@@ -2685,9 +2685,9 @@ return {
 			key = "act_ty_hlqjd",
 			desc = "欢乐敲金蛋",
 			lua = "Act_ty_HLQJDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[275]=
 		{
@@ -2813,9 +2813,9 @@ return {
 			key = "act_ty_ldfd",
 			desc = "幸运福袋",
 			lua = "Act_ty_LDFDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[288]=
 		{
@@ -3050,8 +3050,8 @@ return {
 		[311]=
 		{
 			id = 311,
-			key = "act_ty_sjb_style/act_015_dlphb",
-			desc = "掉落排行榜皮肤（铁锤）",
+			key = "act_ty_sjb_style/act_016_dlphb",
+			desc = "掉落排行榜皮肤（消耗）",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -3059,8 +3059,8 @@ return {
 		[312]=
 		{
 			id = 312,
-			key = "act_ty_by_drop_style/act_011_boss",
-			desc = "五星掉落",
+			key = "act_ty_by_drop_style/act_016_huanle",
+			desc = "欢乐券掉落",
 			is_on_off = 0,
 			enable = 0,
 			state = 0,
@@ -3068,7 +3068,7 @@ return {
 		[313]=
 		{
 			id = 313,
-			key = "act_ty_by_hhl_style/act_010_hhl",
+			key = "act_ty_by_hhl_style/act_011_hhl",
 			desc = "换好礼皮肤",
 			is_on_off = 0,
 			enable = 0,
@@ -3086,7 +3086,7 @@ return {
 		[315]=
 		{
 			id = 315,
-			key = "sys_act_base_style/sys_act_base_weekly_016",
+			key = "sys_act_base_style/sys_act_base_weekly_017",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3205,11 +3205,11 @@ return {
 		{
 			id = 327,
 			key = "act_052_qfhl",
-			desc = "祈福好礼",
+			desc = "龙腾祈福",
 			lua = "Act_052_QFHLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[328]=
 		{
@@ -3224,8 +3224,8 @@ return {
 		[329]=
 		{
 			id = 329,
-			key = "act_ty_gifts_style/act_002_hllb",
-			desc = "龙腾礼包",
+			key = "act_ty_gifts_style/act_003_hflb",
+			desc = "话费礼包",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3234,7 +3234,7 @@ return {
 		{
 			id = 330,
 			key = "act_053_xcns",
-			desc = "爱消福利",
+			desc = "消除福利",
 			lua = "Act_053_XCNSManager",
 			is_on_off = 1,
 			enable = 1,

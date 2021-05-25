@@ -127,5 +127,14 @@ return {
 			assets = {"prop_tiny_game_coin","jing_bi"},
 			discount = {0.7,1,},
 		},
+		[15]=
+		{
+			id = 15,
+			game_type = "xiaoxiaole_xiyou_game",
+			game_id = 1,
+			name = "西游消消乐",
+			assets = {"prop_tiny_game_coin","jing_bi"},
+			discount = {0.7,1,},
+		},
 	},
 }

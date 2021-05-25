@@ -479,7 +479,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "100#",
+			group_list = "132#",
 		},
 	},
 	jchd_config=
@@ -1301,7 +1301,7 @@ return {
 		[132]=
 		{
 			id = 132,
-			parm = {"act_ty_gifts","gift_hllb","enter",},
+			parm = {"act_ty_gifts","gift_hflb","enter",},
 			is_on_off = 1,
 		},
 		[133]=

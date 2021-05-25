@@ -1423,6 +1423,12 @@ return {
 			name = "龙虾兑换-普通",
 			condi = 197,
 		},
+		fishing3d_1=
+		{
+			key = "fishing3d_1",
+			name = "新手场",
+			condi = 442,
+		},
 		fishing3d_2=
 		{
 			key = "fishing3d_2",
@@ -6679,8 +6685,8 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_hlwyt_016_fqdr_rank",
-			name = "欢乐五月天福气达人",
+			key = "actp_rank_ymshf_017_hldr_rank",
+			name = "游戏达人",
 			condi = 393,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -17659,7 +17665,7 @@ return {
 			var = "share_condition",
 			value = "tthlby_cpl",
 			judge = 2,
-			group = 2,
+			group = 1,
 			error_desc = "是欢乐捕鱼CPL",
 		},
 		[1061]=
@@ -17671,6 +17677,16 @@ return {
 			judge = 5,
 			group = 2,
 			error_desc = "不是IOS用户",
+		},
+		[1062]=
+		{
+			no = 1062,
+			id = 442,
+			var = "player_level",
+			value = 4,
+			judge = 4,
+			group = 1,
+			error_desc = "Lv5以下才可以进入，请去玩高级场获得更多金币吧！",
 		},
 	},
 	share_condition=
