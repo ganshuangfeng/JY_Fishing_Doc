@@ -17637,10 +17637,20 @@ return {
 			no = 1058,
 			id = 441,
 			var = "share_condition",
-			value = "tthlby_all",
+			value = "tthlby_official",
 			judge = 2,
 			group = 1,
-			error_desc = "是欢乐捕鱼渠道",
+			error_desc = "是欢乐捕鱼官方",
+		},
+		[1059]=
+		{
+			no = 1059,
+			id = 441,
+			var = "share_condition",
+			value = "tthlby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是欢乐捕鱼CPL",
 		},
 	},
 	share_condition=
