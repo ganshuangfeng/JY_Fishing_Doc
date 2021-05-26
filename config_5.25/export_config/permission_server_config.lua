@@ -17637,10 +17637,40 @@ return {
 			no = 1058,
 			id = 441,
 			var = "share_condition",
-			value = "tthlby_all",
+			value = "tthlby_official",
 			judge = 2,
 			group = 1,
-			error_desc = "是欢乐捕鱼渠道",
+			error_desc = "是欢乐捕鱼官方",
+		},
+		[1059]=
+		{
+			no = 1059,
+			id = 441,
+			var = "systype",
+			value = "ios",
+			judge = 5,
+			group = 1,
+			error_desc = "不是IOS用户",
+		},
+		[1060]=
+		{
+			no = 1060,
+			id = 441,
+			var = "share_condition",
+			value = "tthlby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是欢乐捕鱼CPL",
+		},
+		[1061]=
+		{
+			no = 1061,
+			id = 441,
+			var = "systype",
+			value = "ios",
+			judge = 5,
+			group = 2,
+			error_desc = "不是IOS用户",
 		},
 	},
 	share_condition=
