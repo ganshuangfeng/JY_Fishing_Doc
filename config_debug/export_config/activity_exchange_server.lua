@@ -4579,7 +4579,7 @@ return {
 			award_cfg_id = 55,
 			award_id = 7,
 			permission_key = "actp_prop_exchange_nor",
-			asset_type = "prop_tiny_game_coin",
+			asset_type = {"prop_tiny_game_coin",},
 			asset_count = {1500000,},
 			use_num = {9000,},
 			me_limit_day_num = 5,

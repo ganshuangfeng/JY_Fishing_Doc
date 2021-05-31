@@ -2304,6 +2304,12 @@ return {
 			name = "全部捕鱼奥秘玩家（跑马灯用）",
 			condi = 496,
 		},
+		byam_tape_sigmob=
+		{
+			key = "byam_tape_sigmob",
+			name = "捕鱼奥秘乐元素渠道（CPA引流）",
+			condi = 498,
+		},
 	},
 	act_permission=
 	{
@@ -17795,14 +17801,24 @@ return {
 			no = 1063,
 			id = 443,
 			var = "share_condition",
-			value = "tthlby_official",
-			judge = 5,
+			value = "tthlby_all",
+			judge = 2,
 			group = 1,
-			error_desc = "不是欢乐捕鱼CPL",
+			error_desc = "是天天欢乐捕鱼",
 		},
 		[1064]=
 		{
 			no = 1064,
+			id = 443,
+			var = "tag_type",
+			value = "tag_plat_own_byam",
+			judge = 5,
+			group = 1,
+			error_desc = "捕鱼奥秘没有账号",
+		},
+		[1065]=
+		{
+			no = 1065,
 			id = 443,
 			var = "systype",
 			value = "ios",
@@ -17810,19 +17826,29 @@ return {
 			group = 1,
 			error_desc = "不是IOS用户",
 		},
-		[1065]=
-		{
-			no = 1065,
-			id = 444,
-			var = "share_condition",
-			value = "tthlby_official",
-			judge = 5,
-			group = 1,
-			error_desc = "不是欢乐捕鱼CPL",
-		},
 		[1066]=
 		{
 			no = 1066,
+			id = 444,
+			var = "tag_type",
+			value = "tag_plat_own_byam",
+			judge = 5,
+			group = 1,
+			error_desc = "捕鱼奥秘没有账号",
+		},
+		[1067]=
+		{
+			no = 1067,
+			id = 444,
+			var = "share_condition",
+			value = "tthlby_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼",
+		},
+		[1068]=
+		{
+			no = 1068,
 			id = 444,
 			var = "systype",
 			value = "ios",
@@ -17830,19 +17856,29 @@ return {
 			group = 1,
 			error_desc = "是IOS用户",
 		},
-		[1067]=
+		[1069]=
 		{
-			no = 1067,
+			no = 1069,
+			id = 445,
+			var = "tag_type",
+			value = "tag_plat_own_normal",
+			judge = 5,
+			group = 1,
+			error_desc = "天天欢乐捕鱼没有账号",
+		},
+		[1070]=
+		{
+			no = 1070,
 			id = 445,
 			var = "share_condition",
-			value = "tthlby_official",
+			value = "byam_all",
 			judge = 2,
 			group = 1,
-			error_desc = "是欢乐捕鱼CPL",
+			error_desc = "是捕鱼奥秘",
 		},
-		[1068]=
+		[1071]=
 		{
-			no = 1068,
+			no = 1071,
 			id = 445,
 			var = "systype",
 			value = "ios",
@@ -17850,19 +17886,29 @@ return {
 			group = 1,
 			error_desc = "不是IOS用户",
 		},
-		[1069]=
+		[1072]=
 		{
-			no = 1069,
+			no = 1072,
+			id = 446,
+			var = "tag_type",
+			value = "tag_plat_own_normal",
+			judge = 5,
+			group = 1,
+			error_desc = "天天欢乐捕鱼没有账号",
+		},
+		[1073]=
+		{
+			no = 1073,
 			id = 446,
 			var = "share_condition",
-			value = "tthlby_official",
+			value = "byam_all",
 			judge = 2,
 			group = 1,
-			error_desc = "是欢乐捕鱼CPL",
+			error_desc = "是捕鱼奥秘",
 		},
-		[1070]=
+		[1074]=
 		{
-			no = 1070,
+			no = 1074,
 			id = 446,
 			var = "systype",
 			value = "ios",
@@ -17870,9 +17916,9 @@ return {
 			group = 1,
 			error_desc = "是IOS用户",
 		},
-		[1071]=
+		[1075]=
 		{
-			no = 1071,
+			no = 1075,
 			id = 447,
 			var = "share_condition",
 			value = "byam_cpl",
@@ -17880,9 +17926,9 @@ return {
 			group = 1,
 			error_desc = "捕鱼奥秘cpl",
 		},
-		[1072]=
+		[1076]=
 		{
-			no = 1072,
+			no = 1076,
 			id = 447,
 			var = "share_condition",
 			value = "tthlby_cpl",
@@ -17890,9 +17936,9 @@ return {
 			group = 2,
 			error_desc = "欢乐天天捕鱼cpl",
 		},
-		[1073]=
+		[1077]=
 		{
-			no = 1073,
+			no = 1077,
 			id = 447,
 			var = "share_condition",
 			value = "cjj_cpl",
@@ -17900,9 +17946,9 @@ return {
 			group = 3,
 			error_desc = "冲金鸡cpl",
 		},
-		[1074]=
+		[1078]=
 		{
-			no = 1074,
+			no = 1078,
 			id = 448,
 			var = "share_condition",
 			value = "cjj_all",
@@ -17910,9 +17956,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1075]=
+		[1079]=
 		{
-			no = 1075,
+			no = 1079,
 			id = 448,
 			var = "vip_level",
 			value = 2,
@@ -17920,9 +17966,9 @@ return {
 			group = 1,
 			error_desc = "VIP2及以上玩家",
 		},
-		[1076]=
+		[1080]=
 		{
-			no = 1076,
+			no = 1080,
 			id = 489,
 			var = "vip_level",
 			value = 4,
@@ -17930,9 +17976,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上玩家",
 		},
-		[1077]=
+		[1081]=
 		{
-			no = 1077,
+			no = 1081,
 			id = 490,
 			var = "vip_level",
 			value = 3,
@@ -17940,9 +17986,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以上玩家",
 		},
-		[1078]=
+		[1082]=
 		{
-			no = 1078,
+			no = 1082,
 			id = 491,
 			var = "vip_level",
 			value = 2,
@@ -17950,9 +17996,9 @@ return {
 			group = 1,
 			error_desc = "VIP2及以上玩家",
 		},
-		[1079]=
+		[1083]=
 		{
-			no = 1079,
+			no = 1083,
 			id = 492,
 			var = "vip_level",
 			value = 1,
@@ -17960,9 +18006,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上玩家",
 		},
-		[1080]=
+		[1084]=
 		{
-			no = 1080,
+			no = 1084,
 			id = 493,
 			var = "register_time",
 			value = 1623081600,
@@ -17970,9 +18016,9 @@ return {
 			group = 1,
 			error_desc = "2021年6月8日及之后注册的用户",
 		},
-		[1081]=
+		[1085]=
 		{
-			no = 1081,
+			no = 1085,
 			id = 494,
 			var = "share_condition",
 			value = "tthlby_cps",
@@ -17980,9 +18026,9 @@ return {
 			group = 1,
 			error_desc = "不是天天捕鱼cps",
 		},
-		[1082]=
+		[1086]=
 		{
-			no = 1082,
+			no = 1086,
 			id = 494,
 			var = "share_condition",
 			value = "byam_cps",
@@ -17990,9 +18036,9 @@ return {
 			group = 1,
 			error_desc = "不是捕鱼奥秘的cps",
 		},
-		[1083]=
+		[1087]=
 		{
-			no = 1083,
+			no = 1087,
 			id = 494,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -18000,9 +18046,9 @@ return {
 			group = 1,
 			error_desc = "不是3d捕鱼的cps",
 		},
-		[1084]=
+		[1088]=
 		{
-			no = 1084,
+			no = 1088,
 			id = 495,
 			var = "share_condition",
 			value = "tthlby_all",
@@ -18010,9 +18056,9 @@ return {
 			group = 1,
 			error_desc = "全部天天捕鱼玩家",
 		},
-		[1085]=
+		[1089]=
 		{
-			no = 1085,
+			no = 1089,
 			id = 496,
 			var = "share_condition",
 			value = "byam_all",
@@ -18020,15 +18066,25 @@ return {
 			group = 1,
 			error_desc = "全部捕鱼奥秘玩家",
 		},
-		[1086]=
+		[1090]=
 		{
-			no = 1086,
+			no = 1090,
 			id = 497,
 			var = "share_condition",
 			value = "cjj_all",
 			judge = 5,
 			group = 1,
 			error_desc = "不展示给cjj",
+		},
+		[1091]=
+		{
+			no = 1091,
+			id = 498,
+			var = "market_channel",
+			value = "sigmob",
+			judge = 2,
+			group = 1,
+			error_desc = "乐元素渠道",
 		},
 	},
 	share_condition=

@@ -15497,6 +15497,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000665]=
+		{
+			id = 1000665,
+			enable = 1,
+			name = "捕鱼能手",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22023,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1623715200,
+			end_valid_time = 1624291199,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -25560,6 +25575,15 @@ return {
 			awards = 1409,
 			get_award_type = "nor",
 		},
+		[1075]=
+		{
+			id = 1075,
+			process_id = 22023,
+			source_id = 651,
+			process = {100,400,500,1000,3000,5000,20000,50000,70000,150000,200000},
+			awards = {1410,1411,1412,1413,1414,1415,1416,1417,1418,1419,1420},
+			get_award_type = "random",
+		},
 	},
 	source=
 	{
@@ -33024,6 +33048,20 @@ return {
 			source_type = "asset_observe",
 			condition_id = 486,
 		},
+		[1060]=
+		{
+			id = 1060,
+			source_id = 651,
+			source_type = "buyu_award_rate",
+			condition_id = 487,
+		},
+		[1061]=
+		{
+			id = 1061,
+			source_id = 651,
+			source_type = "buyu_3d_award_rate",
+			condition_id = 488,
+		},
 	},
 	condition=
 	{
@@ -38001,6 +38039,22 @@ return {
 			condition_id = 486,
 			condition_name = "now_value",
 			condition_value = 200000,
+			judge_type = 3,
+		},
+		[653]=
+		{
+			id = 653,
+			condition_id = 487,
+			condition_name = "gun_rate",
+			condition_value = 10000,
+			judge_type = 3,
+		},
+		[654]=
+		{
+			id = 654,
+			condition_id = 488,
+			condition_name = "gun_rate",
+			condition_value = 10000,
 			judge_type = 3,
 		},
 	},
@@ -56476,6 +56530,94 @@ return {
 			award_id = 1409,
 			asset_type = "withdraw_cash_xshb",
 			asset_count = 50,
+			get_weight = 1,
+		},
+		[2311]=
+		{
+			id = 2311,
+			award_id = 1410,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = {5,5},
+			get_weight = 1,
+		},
+		[2312]=
+		{
+			id = 2312,
+			award_id = 1411,
+			asset_type = "jing_bi",
+			asset_count = {18000,18000},
+			get_weight = 1,
+		},
+		[2313]=
+		{
+			id = 2313,
+			award_id = 1412,
+			asset_type = "shop_gold_sum",
+			asset_count = {25,25},
+			get_weight = 1,
+		},
+		[2314]=
+		{
+			id = 2314,
+			award_id = 1413,
+			asset_type = "fish_coin",
+			asset_count = {50000,50000},
+			get_weight = 1,
+		},
+		[2315]=
+		{
+			id = 2315,
+			award_id = 1414,
+			asset_type = "jing_bi",
+			asset_count = {100000,150000},
+			get_weight = 1,
+		},
+		[2316]=
+		{
+			id = 2316,
+			award_id = 1415,
+			asset_type = "jing_bi",
+			asset_count = {200000,300000},
+			get_weight = 1,
+		},
+		[2317]=
+		{
+			id = 2317,
+			award_id = 1416,
+			asset_type = "shop_gold_sum",
+			asset_count = {800,1200},
+			get_weight = 1,
+		},
+		[2318]=
+		{
+			id = 2318,
+			award_id = 1417,
+			asset_type = "fish_coin",
+			asset_count = {2000000,3000000},
+			get_weight = 1,
+		},
+		[2319]=
+		{
+			id = 2319,
+			award_id = 1418,
+			asset_type = "jing_bi",
+			asset_count = {3000000,4000000},
+			get_weight = 1,
+		},
+		[2320]=
+		{
+			id = 2320,
+			award_id = 1419,
+			asset_type = "shop_gold_sum",
+			asset_count = {6000,9000},
+			get_weight = 1,
+		},
+		[2321]=
+		{
+			id = 2321,
+			award_id = 1420,
+			asset_type = "shop_gold_sum",
+			asset_count = {8000,12000},
 			get_weight = 1,
 		},
 	},
