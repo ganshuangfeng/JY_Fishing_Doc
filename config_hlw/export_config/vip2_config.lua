@@ -13,14 +13,14 @@ return {
 			line = 2,
 			vip = 1,
 			total = 10,
-			info = "每日首次转运金由3000鲸币提高到<color=#DA2020>4000鲸币</color>",
+			info = "每日首次转运金由3000金币提高到<color=#DA2020>4000金币</color>",
 		},
 		[3]=
 		{
 			line = 3,
 			vip = 1,
 			total = 10,
-			info = "福利券容量提升为<color=#DA2020>200福利券</color>",
+			info = "福卡容量提升为<color=#DA2020>200福卡</color>",
 		},
 		[4]=
 		{
@@ -55,7 +55,7 @@ return {
 			line = 8,
 			vip = 2,
 			total = 100,
-			info = "每日首次转运金提高到<color=#DA2020>5000鲸币</color>",
+			info = "每日首次转运金提高到<color=#DA2020>5000金币</color>",
 		},
 		[9]=
 		{
@@ -90,7 +90,7 @@ return {
 			line = 13,
 			vip = 3,
 			total = 198,
-			info = "每日首次转运金提高到<color=#DA2020>6000鲸币</color>",
+			info = "每日首次转运金提高到<color=#DA2020>6000金币</color>",
 		},
 		[14]=
 		{
@@ -125,7 +125,7 @@ return {
 			line = 18,
 			vip = 4,
 			total = 1000,
-			info = "每日首次转运金提高到<color=#DA2020>7000鲸币</color>",
+			info = "每日首次转运金提高到<color=#DA2020>7000金币</color>",
 		},
 		[19]=
 		{
@@ -160,7 +160,7 @@ return {
 			line = 23,
 			vip = 5,
 			total = 2000,
-			info = "每日首次转运金提高到<color=#DA2020>8000鲸币</color>",
+			info = "每日首次转运金提高到<color=#DA2020>8000金币</color>",
 		},
 		[24]=
 		{
@@ -181,7 +181,7 @@ return {
 			line = 26,
 			vip = 5,
 			total = 2000,
-			info = "福利券容量提升为<color=#DA2020>30万福利券</color>",
+			info = "福卡容量提升为<color=#DA2020>30万福卡</color>",
 		},
 		[27]=
 		{
@@ -209,7 +209,7 @@ return {
 			line = 30,
 			vip = 6,
 			total = 5000,
-			info = "每日首次转运金提高到<color=#DA2020>9000鲸币</color>",
+			info = "每日首次转运金提高到<color=#DA2020>9000金币</color>",
 		},
 		[31]=
 		{
@@ -237,7 +237,7 @@ return {
 			line = 34,
 			vip = 7,
 			total = 10000,
-			info = "每日首次转运金提高到<color=#DA2020>1万鲸币</color>",
+			info = "每日首次转运金提高到<color=#DA2020>1万金币</color>",
 		},
 		[35]=
 		{
@@ -272,7 +272,7 @@ return {
 			line = 39,
 			vip = 8,
 			total = 20000,
-			info = "每日首次转运金提高到<color=#DA2020>1.2万鲸币</color>",
+			info = "每日首次转运金提高到<color=#DA2020>1.2万金币</color>",
 		},
 		[40]=
 		{
@@ -300,7 +300,7 @@ return {
 			line = 43,
 			vip = 9,
 			total = 30000,
-			info = "每日首次转运金提高到<color=#DA2020>1.4万鲸币</color>",
+			info = "每日首次转运金提高到<color=#DA2020>1.4万金币</color>",
 		},
 		[44]=
 		{
@@ -328,7 +328,7 @@ return {
 			line = 47,
 			vip = 10,
 			total = 50000,
-			info = "每日首次转运金提高到<color=#DA2020>2万鲸币</color>",
+			info = "每日首次转运金提高到<color=#DA2020>2万金币</color>",
 		},
 		[48]=
 		{
@@ -369,7 +369,7 @@ return {
 		{
 			line = 53,
 			vip = 11,
-			info = "福利券容量提升为<color=#DA2020>800万</color>福利券",
+			info = "福卡容量提升为<color=#DA2020>800万</color>福卡",
 			cfz = 15000,
 		},
 		[54]=
@@ -397,7 +397,7 @@ return {
 		{
 			line = 57,
 			vip = 12,
-			info = "福利券容量提升为<color=#DA2020>1200万</color>福利券",
+			info = "福卡容量提升为<color=#DA2020>1200万</color>福卡",
 			cfz = 40000,
 		},
 		[58]=
