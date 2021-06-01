@@ -945,7 +945,7 @@ return {
 			end_time = 1618243199,
 			use_asset_id = 81,
 			award_id = 87,
-			enable = 1,
+			enable = 0,
 		},
 		[89]=
 		{
@@ -955,7 +955,7 @@ return {
 			end_time = 1620662399,
 			use_asset_id = 82,
 			award_id = 88,
-			enable = 1,
+			enable = 0,
 		},
 		[90]=
 		{
@@ -965,7 +965,7 @@ return {
 			end_time = 1621871999,
 			use_asset_id = 83,
 			award_id = 89,
-			enable = 1,
+			enable = 0,
 		},
 		[91]=
 		{
@@ -975,7 +975,7 @@ return {
 			end_time = 1621871999,
 			use_asset_id = 83,
 			award_id = 89,
-			enable = 1,
+			enable = 0,
 		},
 		[92]=
 		{
@@ -985,6 +985,16 @@ return {
 			end_time = 1621871999,
 			use_asset_id = 83,
 			award_id = 89,
+			enable = 0,
+		},
+		[93]=
+		{
+			id = 93,
+			name = "欢乐礼包",
+			start_time = 1622505600,
+			end_time = 1623081599,
+			use_asset_id = 84,
+			award_id = 90,
 			enable = 1,
 		},
 	},
@@ -1570,6 +1580,13 @@ return {
 			use_id = 83,
 			use_item = "prop_fish_drop_act_0",
 			use_num = 300,
+		},
+		[84]=
+		{
+			id = 84,
+			use_id = 84,
+			use_item = "prop_qdlb_cjq",
+			use_num = 1,
 		},
 	},
 	lottery_credit=
@@ -5565,6 +5582,48 @@ return {
 			award_id = 89,
 			real_award_id = 12046,
 			weight = 2406,
+		},
+		[570]=
+		{
+			no = 570,
+			award_id = 90,
+			real_award_id = 12047,
+			weight = 300,
+		},
+		[571]=
+		{
+			no = 571,
+			award_id = 90,
+			real_award_id = 12048,
+			weight = 250,
+		},
+		[572]=
+		{
+			no = 572,
+			award_id = 90,
+			real_award_id = 12049,
+			weight = 250,
+		},
+		[573]=
+		{
+			no = 573,
+			award_id = 90,
+			real_award_id = 12050,
+			weight = 199,
+		},
+		[574]=
+		{
+			no = 574,
+			award_id = 90,
+			real_award_id = 12051,
+			weight = 1,
+		},
+		[575]=
+		{
+			no = 575,
+			award_id = 90,
+			real_award_id = 12052,
+			weight = 0,
 		},
 	},
 	award_item=
@@ -9819,6 +9878,48 @@ return {
 			asset_type = "prop_tiny_game_coin",
 			asset_count = {30000,30000},
 		},
+		[575]=
+		{
+			id = 575,
+			real_award_id = 12047,
+			asset_type = "shop_gold_sum",
+			asset_count = {5,5},
+		},
+		[576]=
+		{
+			id = 576,
+			real_award_id = 12048,
+			asset_type = "jing_bi",
+			asset_count = {10000,10000},
+		},
+		[577]=
+		{
+			id = 577,
+			real_award_id = 12049,
+			asset_type = "shop_gold_sum",
+			asset_count = {30,30},
+		},
+		[578]=
+		{
+			id = 578,
+			real_award_id = 12050,
+			asset_type = "jing_bi",
+			asset_count = {50000,50000},
+		},
+		[579]=
+		{
+			id = 579,
+			real_award_id = 12051,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = {1000,1000},
+		},
+		[580]=
+		{
+			id = 580,
+			real_award_id = 12052,
+			award_name = "美的空调",
+			asset_count = {1,1},
+		},
 	},
 	weight=
 	{
@@ -10517,6 +10618,12 @@ return {
 			key = "hlwyt_005",
 			min = 92,
 			max = 92,
+		},
+		hlly_006=
+		{
+			key = "hlly_006",
+			min = 93,
+			max = 93,
 		},
 	},
 	all_powerful=

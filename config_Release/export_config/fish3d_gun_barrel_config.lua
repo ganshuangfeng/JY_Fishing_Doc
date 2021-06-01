@@ -127,6 +127,17 @@ return {
 			skill_id = 1,
 			lock_id = 9,
 		},
+		[13]=
+		{
+			id = 13,
+			name = "海王炮台",
+			level = 3,
+			skin_id = 13,
+			power_id = 1,
+			skill_id = 1,
+			lock_id = 10,
+			collocation = "购买海王通行证获得",
+		},
 	},
 	skin=
 	{
@@ -321,6 +332,19 @@ return {
 			gunprefab = "GunPrefab21",
 			net_prefab = "FishNetPrefab_3d_14",
 			bullet_prefab = "BulletPrefab_3d_17",
+			bullet_move_speed = 15,
+			fire_speed = 0.180000,
+			is_fx_net = 1,
+		},
+		[16]=
+		{
+			line = 16,
+			id = 16,
+			skin_id = 13,
+			gun_index = {1,10},
+			gunprefab = "GunPrefab22",
+			net_prefab = "FishNetPrefab_3d_15",
+			bullet_prefab = "BulletPrefab_3d_18",
 			bullet_move_speed = 15,
 			fire_speed = 0.180000,
 			is_fx_net = 1,
@@ -1275,6 +1299,12 @@ return {
 			id = 9,
 			type = 5,
 			data = "cpl_notcjj",
+		},
+		[17]=
+		{
+			line = 17,
+			id = 10,
+			type = 3,
 		},
 	},
 }

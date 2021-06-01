@@ -1369,7 +1369,7 @@ return {
 		[99]=
 		{
 			id = 99,
-			enable = 0,
+			enable = 1,
 			name = "三国消消乐收集战船",
 			own_type = "normal",
 			task_enum = "common",
@@ -1384,7 +1384,7 @@ return {
 		[100]=
 		{
 			id = 100,
-			enable = 0,
+			enable = 1,
 			name = "三国消消乐收集弓箭",
 			own_type = "normal",
 			task_enum = "common",
@@ -1392,6 +1392,277 @@ return {
 			is_reset = 0,
 			reset_delay = 1,
 			start_valid_time = 946677600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30001]=
+		{
+			id = 30001,
+			enable = 1,
+			name = "通行证-基础",
+			own_type = "normal",
+			task_enum = "aquaman_passport_task",
+			process_id = 101,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+			award_change_type = "task_aquaman_passport_base",
+		},
+		[30002]=
+		{
+			id = 30002,
+			enable = 1,
+			name = "通行证-海王",
+			own_type = "normal",
+			task_enum = "super_aquaman_passport_task",
+			process_id = 102,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30003]=
+		{
+			id = 30003,
+			enable = 1,
+			name = "通行证-海王至尊",
+			own_type = "normal",
+			task_enum = "super_aquaman_passport_task",
+			process_id = 103,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30004]=
+		{
+			id = 30004,
+			enable = 1,
+			name = "通行证-每日-海王-登陆1次游戏",
+			own_type = "normal",
+			task_enum = "aquaman_passport_children_task",
+			process_id = 104,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30005]=
+		{
+			id = 30005,
+			enable = 1,
+			name = "通行证-每日-登陆1次游戏",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 105,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30006]=
+		{
+			id = 30006,
+			enable = 1,
+			name = "通行证-每日-消耗30万金币",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 106,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30007]=
+		{
+			id = 30007,
+			enable = 1,
+			name = "通行证-每日-在3D捕鱼中捕获任意100条鱼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 107,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30008]=
+		{
+			id = 30008,
+			enable = 1,
+			name = "通行证-每日-在3D捕鱼海底宝藏中累计开炮500次",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 108,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30009]=
+		{
+			id = 30009,
+			enable = 1,
+			name = "通行证-每日-在西游消消乐中累计消除15次",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 109,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30010]=
+		{
+			id = 30010,
+			enable = 1,
+			name = "通行证-每日-在水浒消消乐中累计消除15次",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 110,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30011]=
+		{
+			id = 30011,
+			enable = 1,
+			name = "通行证-每日-任意充值1笔",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 111,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30012]=
+		{
+			id = 30012,
+			enable = 1,
+			name = "通行证-每周-累计登陆3天",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 112,
+			is_reset = 1,
+			reset_delay = 7,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30013]=
+		{
+			id = 30013,
+			enable = 1,
+			name = "通行证-每周-使用1次红包大转盘",
+			own_type = "p_txz",
+			task_enum = "common",
+			process_id = 113,
+			is_reset = 1,
+			reset_delay = 7,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30014]=
+		{
+			id = 30014,
+			enable = 1,
+			name = "通行证-每周-深海探险通过10层",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 114,
+			is_reset = 1,
+			reset_delay = 7,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30015]=
+		{
+			id = 30015,
+			enable = 1,
+			name = "通行证-每周-累计游戏时长200分钟",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 115,
+			is_reset = 1,
+			reset_delay = 7,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30016]=
+		{
+			id = 30016,
+			enable = 1,
+			name = "通行证-每周-在3D捕鱼海底宝藏中累计捕获300条鱼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 116,
+			is_reset = 1,
+			reset_delay = 7,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30017]=
+		{
+			id = 30017,
+			enable = 1,
+			name = "通行证-每周-在苹果大战中累计纯赢100万",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 117,
+			is_reset = 1,
+			reset_delay = 7,
+			start_valid_time = 1620576000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[30018]=
+		{
+			id = 30018,
+			enable = 1,
+			name = "通行证-每周-在水果消消乐中累计消除100次",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 118,
+			is_reset = 1,
+			reset_delay = 7,
+			start_valid_time = 1620576000,
 			end_valid_time = 32503651200,
 			time_limit = -1,
 			is_send_client = 1,
@@ -2375,6 +2646,165 @@ return {
 			awards = 156,
 			get_award_type = "nor",
 		},
+		[101]=
+		{
+			id = 101,
+			process_id = 101,
+			process = 0,
+			awards = {157,158,159,160,161,162,163,164,165,166},
+			get_award_type = "nor",
+		},
+		[102]=
+		{
+			id = 102,
+			process_id = 102,
+			process = 0,
+			awards = {167,168,169,170,171,172,173,174,175,176},
+			get_award_type = "nor",
+		},
+		[103]=
+		{
+			id = 103,
+			process_id = 103,
+			process = 0,
+			awards = {177,178,179,180,181,182,183,184,185,186},
+			get_award_type = "nor",
+		},
+		[104]=
+		{
+			id = 104,
+			process_id = 104,
+			source_id = 100,
+			process = 1,
+			awards = 187,
+			get_award_type = "nor",
+		},
+		[105]=
+		{
+			id = 105,
+			process_id = 105,
+			source_id = 100,
+			process = 1,
+			awards = 187,
+			get_award_type = "nor",
+		},
+		[106]=
+		{
+			id = 106,
+			process_id = 106,
+			source_id = 101,
+			process = 300000,
+			awards = 187,
+			get_award_type = "nor",
+		},
+		[107]=
+		{
+			id = 107,
+			process_id = 107,
+			source_id = 102,
+			process = 100,
+			awards = 187,
+			get_award_type = "nor",
+		},
+		[108]=
+		{
+			id = 108,
+			process_id = 108,
+			source_id = 103,
+			process = 500,
+			awards = 187,
+			get_award_type = "nor",
+		},
+		[109]=
+		{
+			id = 109,
+			process_id = 109,
+			source_id = 104,
+			process = 15,
+			awards = 187,
+			get_award_type = "nor",
+		},
+		[110]=
+		{
+			id = 110,
+			process_id = 110,
+			source_id = 105,
+			process = 15,
+			awards = 187,
+			get_award_type = "nor",
+		},
+		[111]=
+		{
+			id = 111,
+			process_id = 111,
+			source_id = 106,
+			process = 1,
+			awards = 187,
+			get_award_type = "nor",
+		},
+		[112]=
+		{
+			id = 112,
+			process_id = 112,
+			source_id = 107,
+			process = 3,
+			awards = 188,
+			get_award_type = "nor",
+		},
+		[113]=
+		{
+			id = 113,
+			process_id = 113,
+			source_id = 108,
+			process = 1,
+			awards = 189,
+			get_award_type = "nor",
+		},
+		[114]=
+		{
+			id = 114,
+			process_id = 114,
+			source_id = 109,
+			process = 10,
+			awards = 189,
+			get_award_type = "nor",
+		},
+		[115]=
+		{
+			id = 115,
+			process_id = 115,
+			source_id = 110,
+			process = 12000,
+			awards = 189,
+			get_award_type = "nor",
+		},
+		[116]=
+		{
+			id = 116,
+			process_id = 116,
+			source_id = 111,
+			process = 300,
+			awards = 189,
+			get_award_type = "nor",
+		},
+		[117]=
+		{
+			id = 117,
+			process_id = 117,
+			source_id = 112,
+			process = 1000000,
+			awards = 189,
+			get_award_type = "nor",
+		},
+		[118]=
+		{
+			id = 118,
+			process_id = 118,
+			source_id = 113,
+			process = 100,
+			awards = 189,
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -3200,6 +3630,209 @@ return {
 			source_type = "xiaoxiaole_sanguo_collect_arrow",
 			condition_id = 0,
 		},
+		[118]=
+		{
+			id = 118,
+			source_id = 100,
+			source_type = "continue_login",
+			condition_id = 0,
+		},
+		[119]=
+		{
+			id = 119,
+			source_id = 101,
+			source_type = "buyu_3d_spend",
+			condition_id = 0,
+		},
+		[120]=
+		{
+			id = 120,
+			source_id = 101,
+			source_type = "zajindan_spend",
+			condition_id = 0,
+		},
+		[121]=
+		{
+			id = 121,
+			source_id = 101,
+			source_type = "xiaoxiaole_shuihu_spend",
+			condition_id = 0,
+		},
+		[122]=
+		{
+			id = 122,
+			source_id = 101,
+			source_type = "xiaoxiaole_xiyou_spend",
+			condition_id = 0,
+		},
+		[123]=
+		{
+			id = 123,
+			source_id = 101,
+			source_type = "xiaoxiaole_caishen_spend",
+			condition_id = 0,
+		},
+		[124]=
+		{
+			id = 124,
+			source_id = 101,
+			source_type = "lianxianxiaoxiaole_spend",
+			condition_id = 0,
+		},
+		[125]=
+		{
+			id = 125,
+			source_id = 101,
+			source_type = "tantanle_spend",
+			condition_id = 0,
+		},
+		[126]=
+		{
+			id = 126,
+			source_id = 101,
+			source_type = "lwzb_game_spend",
+			condition_id = 0,
+		},
+		[127]=
+		{
+			id = 127,
+			source_id = 101,
+			source_type = "dmbj_spend",
+			condition_id = 0,
+		},
+		[128]=
+		{
+			id = 128,
+			source_id = 101,
+			source_type = "jykp_spend",
+			condition_id = 0,
+		},
+		[129]=
+		{
+			id = 129,
+			source_id = 101,
+			source_type = "xiaoxiaole_spend",
+			condition_id = 0,
+		},
+		[130]=
+		{
+			id = 130,
+			source_id = 101,
+			source_type = "buyu_spend",
+			condition_id = 0,
+		},
+		[131]=
+		{
+			id = 131,
+			source_id = 101,
+			source_type = "buyu_3d_spend_by_use_fish_prop",
+			condition_id = 0,
+		},
+		[132]=
+		{
+			id = 132,
+			source_id = 101,
+			source_type = "buyu_spend_by_use_fish_prop",
+			condition_id = 0,
+		},
+		[133]=
+		{
+			id = 133,
+			source_id = 101,
+			source_type = "guess_apple_spend",
+			condition_id = 0,
+		},
+		[134]=
+		{
+			id = 134,
+			source_id = 101,
+			source_type = "xiaoxiaole_sanguo_spend",
+			condition_id = 0,
+		},
+		[135]=
+		{
+			id = 135,
+			source_id = 102,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 40,
+		},
+		[136]=
+		{
+			id = 136,
+			source_id = 103,
+			source_type = "buyu_3d_spend_num",
+			condition_id = 39,
+		},
+		[137]=
+		{
+			id = 137,
+			source_id = 104,
+			source_type = "xiaoxiaole_xiyou_game_num",
+			condition_id = 0,
+		},
+		[138]=
+		{
+			id = 138,
+			source_id = 105,
+			source_type = "xiaoxiaole_shuihu_game_num",
+			condition_id = 0,
+		},
+		[139]=
+		{
+			id = 139,
+			source_id = 106,
+			source_type = "agent_charge_any",
+			condition_id = 0,
+		},
+		[140]=
+		{
+			id = 140,
+			source_id = 107,
+			source_type = "count_login",
+			condition_id = 0,
+		},
+		[141]=
+		{
+			id = 141,
+			source_id = 108,
+			source_type = "player_luck_lottery",
+			condition_id = 0,
+		},
+		[142]=
+		{
+			id = 142,
+			source_id = 109,
+			source_type = "on_task_progress_change",
+			condition_id = 37,
+		},
+		[143]=
+		{
+			id = 143,
+			source_id = 110,
+			source_type = "player_online_time_long",
+			condition_id = 0,
+		},
+		[144]=
+		{
+			id = 144,
+			source_id = 111,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 38,
+		},
+		[145]=
+		{
+			id = 145,
+			source_id = 112,
+			source_type = "guess_apple_award",
+			condition_id = 0,
+		},
+		[146]=
+		{
+			id = 146,
+			source_id = 113,
+			source_type = "xiaoxiaole_game_num",
+			condition_id = 0,
+		},
 	},
 	condition=
 	{
@@ -3737,6 +4370,38 @@ return {
 			condition_id = 36,
 			condition_name = "gift_id",
 			condition_value = {1,2,3,4,5,6,107,108,110,101,102,103,104,105,106,22,23,24,25,26,27,34,111,10330,85,86,87,88,89,109,10044,10045,90,10189,10490,10491,10493,10494,10495,10492},
+			judge_type = 2,
+		},
+		[68]=
+		{
+			id = 68,
+			condition_id = 37,
+			condition_name = "task_id",
+			condition_value = 93,
+			judge_type = 2,
+		},
+		[69]=
+		{
+			id = 69,
+			condition_id = 38,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[70]=
+		{
+			id = 70,
+			condition_id = 39,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[71]=
+		{
+			id = 71,
+			condition_id = 40,
+			condition_name = "fish_game_id",
+			condition_value = {1,2,3,4,5},
 			judge_type = 2,
 		},
 	},
@@ -5124,6 +5789,270 @@ return {
 			award_id = 156,
 			asset_type = "shop_gold_sum",
 			asset_count = 10,
+			get_weight = 1,
+		},
+		[174]=
+		{
+			id = 174,
+			award_id = 157,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[175]=
+		{
+			id = 175,
+			award_id = 158,
+			asset_type = "prop_3d_fish_frozen",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[176]=
+		{
+			id = 176,
+			award_id = 159,
+			asset_type = "prop_3d_fish_doubled",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[177]=
+		{
+			id = 177,
+			award_id = 160,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 3,
+			get_weight = 1,
+		},
+		[178]=
+		{
+			id = 178,
+			award_id = 161,
+			asset_type = "prop_3d_fish_summon_fish",
+			asset_count = 3,
+			get_weight = 1,
+		},
+		[179]=
+		{
+			id = 179,
+			award_id = 162,
+			asset_type = "prop_3d_fish_frozen",
+			asset_count = 3,
+			get_weight = 1,
+		},
+		[180]=
+		{
+			id = 180,
+			award_id = 163,
+			asset_type = "prop_3d_fish_accelerate",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[181]=
+		{
+			id = 181,
+			award_id = 164,
+			asset_type = "prop_3d_fish_wild",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[182]=
+		{
+			id = 182,
+			award_id = 165,
+			asset_type = "prop_3d_fish_doubled",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[183]=
+		{
+			id = 183,
+			award_id = 166,
+			asset_type = "jing_bi",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[184]=
+		{
+			id = 184,
+			award_id = 167,
+			asset_type = "jing_bi",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[185]=
+		{
+			id = 185,
+			award_id = 168,
+			asset_type = "jing_bi",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[186]=
+		{
+			id = 186,
+			award_id = 169,
+			asset_type = "jing_bi",
+			asset_count = 60000,
+			get_weight = 1,
+		},
+		[187]=
+		{
+			id = 187,
+			award_id = 170,
+			asset_type = "jing_bi",
+			asset_count = 80000,
+			get_weight = 1,
+		},
+		[188]=
+		{
+			id = 188,
+			award_id = 171,
+			asset_type = "obj_50_coupon_604800",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[189]=
+		{
+			id = 189,
+			award_id = 172,
+			asset_type = "jing_bi",
+			asset_count = 120000,
+			get_weight = 1,
+		},
+		[190]=
+		{
+			id = 190,
+			award_id = 173,
+			asset_type = "jing_bi",
+			asset_count = 140000,
+			get_weight = 1,
+		},
+		[191]=
+		{
+			id = 191,
+			award_id = 174,
+			asset_type = "jing_bi",
+			asset_count = 160000,
+			get_weight = 1,
+		},
+		[192]=
+		{
+			id = 192,
+			award_id = 175,
+			asset_type = "obj_aquaman_add2_604800",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[193]=
+		{
+			id = 193,
+			award_id = 176,
+			asset_type = "jing_bi",
+			asset_count = 200000,
+			get_weight = 1,
+		},
+		[194]=
+		{
+			id = 194,
+			award_id = 177,
+			asset_type = "jing_bi",
+			asset_count = 80000,
+			get_weight = 1,
+		},
+		[195]=
+		{
+			id = 195,
+			award_id = 178,
+			asset_type = "jing_bi",
+			asset_count = 200000,
+			get_weight = 1,
+		},
+		[196]=
+		{
+			id = 196,
+			award_id = 179,
+			asset_type = "jing_bi",
+			asset_count = 240000,
+			get_weight = 1,
+		},
+		[197]=
+		{
+			id = 197,
+			award_id = 180,
+			asset_type = "jing_bi",
+			asset_count = 320000,
+			get_weight = 1,
+		},
+		[198]=
+		{
+			id = 198,
+			award_id = 181,
+			asset_type = "obj_200_coupon_604800",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[199]=
+		{
+			id = 199,
+			award_id = 182,
+			asset_type = "jing_bi",
+			asset_count = 480000,
+			get_weight = 1,
+		},
+		[200]=
+		{
+			id = 200,
+			award_id = 183,
+			asset_type = "jing_bi",
+			asset_count = 560000,
+			get_weight = 1,
+		},
+		[201]=
+		{
+			id = 201,
+			award_id = 184,
+			asset_type = "jing_bi",
+			asset_count = 640000,
+			get_weight = 1,
+		},
+		[202]=
+		{
+			id = 202,
+			award_id = 185,
+			asset_type = "obj_aquaman_add8_604800",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[203]=
+		{
+			id = 203,
+			award_id = 186,
+			asset_type = "jing_bi",
+			asset_count = 800000,
+			get_weight = 1,
+		},
+		[204]=
+		{
+			id = 204,
+			award_id = 187,
+			asset_type = "task_30001",
+			asset_count = 30,
+			get_weight = 1,
+		},
+		[205]=
+		{
+			id = 205,
+			award_id = 188,
+			asset_type = "task_30001",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[206]=
+		{
+			id = 206,
+			award_id = 189,
+			asset_type = "task_30001",
+			asset_count = 200,
 			get_weight = 1,
 		},
 	},

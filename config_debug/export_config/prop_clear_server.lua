@@ -39,7 +39,7 @@ return {
 			enable = 1,
 			prop_type = "prop_fish_drop_act_0",
 			start_time = 1622505600,
-			recycle_time = 1623081599,
+			recycle_time = 1623686399,
 		},
 		[6]=
 		{
@@ -276,10 +276,10 @@ return {
 		[35]=
 		{
 			id = 35,
-			enable = 1,
+			enable = 0,
 			prop_type = "prop_qdlb_cjq",
-			start_time = 1622505600,
-			recycle_time = 1623081599,
+			start_time = 1619481600,
+			recycle_time = 1620662399,
 		},
 		[36]=
 		{
@@ -433,8 +433,72 @@ return {
 			start_time = 1614643200,
 			recycle_time = 1615219199,
 		},
+		[55]=
+		{
+			id = 55,
+			enable = 1,
+			prop_type = "prop_any_dice_1",
+			start_time = 1623110400,
+			recycle_time = 1628265599,
+		},
+		[56]=
+		{
+			id = 56,
+			enable = 1,
+			prop_type = "prop_any_dice_2",
+			start_time = 1623110400,
+			recycle_time = 1628265599,
+		},
+		[57]=
+		{
+			id = 57,
+			enable = 1,
+			prop_type = "prop_super_treasure_key_1",
+			start_time = 1623110400,
+			recycle_time = 1628265599,
+		},
+		[58]=
+		{
+			id = 58,
+			enable = 1,
+			prop_type = "prop_super_treasure_key_2",
+			start_time = 1623110400,
+			recycle_time = 1628265599,
+		},
 	},
 	player_ext_status=
 	{
+		[1]=
+		{
+			id = 1,
+			enable = 1,
+			type = "super_treasure_location_1",
+			start_time = 1623110400,
+			recycle_time = 1628265599,
+		},
+		[2]=
+		{
+			id = 2,
+			enable = 1,
+			type = "super_treasure_location_2",
+			start_time = 1623110400,
+			recycle_time = 1628265599,
+		},
+		[3]=
+		{
+			id = 3,
+			enable = 1,
+			type = "super_treasure_any_dice_buy_info_1",
+			start_time = 1623110400,
+			recycle_time = 1628265599,
+		},
+		[4]=
+		{
+			id = 4,
+			enable = 1,
+			type = "super_treasure_any_dice_buy_info_2",
+			start_time = 1623110400,
+			recycle_time = 1628265599,
+		},
 	},
 }

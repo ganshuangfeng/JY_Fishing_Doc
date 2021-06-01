@@ -183,7 +183,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#139#8#122#61#140#137#9#117#134#138#",
+			group_list = "3;116#2#139#8#122#61#140#137#9#117#134#141#138#142#",
 		},
 		[2]=
 		{
@@ -453,27 +453,6 @@ return {
 		},
 	},
 	xxlxy_game=
-	{
-		[1]=
-		{
-			id = 1,
-			area = "top",
-			group_list = "101#",
-		},
-		[2]=
-		{
-			id = 2,
-			area = "left_down",
-			group_list = "11;93#",
-		},
-		[3]=
-		{
-			id = 3,
-			area = "money_btn",
-			group_list = "134#",
-		},
-	},
-	xxlsg_game=
 	{
 		[1]=
 		{
@@ -1378,6 +1357,19 @@ return {
 			parm = {"sys_txz",},
 			is_on_off = 1,
 			condi_key = "cpl_notcjj",
+		},
+		[141]=
+		{
+			id = 141,
+			parm = {"act_cjdb",},
+			is_on_off = 1,
+			condi_key = "cpl_cjj",
+		},
+		[142]=
+		{
+			id = 142,
+			parm = {"act_042_xshb",},
+			is_on_off = 1,
 		},
 	},
 }

@@ -4,6 +4,17 @@ return {
 		[1]=
 		{
 			id = 1,
+			new_game_gift_type = "new_game_gift_1",
+			new_game_gift_end_time = 1623081599,
+			use_asset_type = "jing_bi",
+			use_asset_num = 5000,
+		},
+	},
+	cdk=
+	{
+		[1]=
+		{
+			id = 1,
 			cdk = "mv82kqz",
 		},
 		[2]=

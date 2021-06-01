@@ -4352,5 +4352,31 @@ return {
 			name = "福气",
 			desc = "用于参加福气达人排行榜",
 		},
+		[322]=
+		{
+			id = 322,
+			item_id = 322,
+			item_key = "obj_aquaman_add8",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "ty_icon_debjc88",
+			is_show_bag = 0,
+			order = 1,
+			name = "炮台加成卡",
+			desc = "海王炮台加成8%",
+		},
+		[323]=
+		{
+			id = 323,
+			item_id = 323,
+			item_key = "obj_aquaman_add2",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "ty_icon_debjc2",
+			is_show_bag = 0,
+			order = 1,
+			name = "炮台加成卡",
+			desc = "海王炮台加成2%",
+		},
 	},
 }

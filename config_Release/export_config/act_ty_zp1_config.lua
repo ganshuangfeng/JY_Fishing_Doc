@@ -5,7 +5,7 @@ return {
 		{
 			line = 1,
 			item_key = "prop_qdlb_cjq",
-			box_exchange_id = 89,
+			box_exchange_id = 93,
 			config = "config1",
 			gift = "gift1",
 		},
@@ -15,10 +15,10 @@ return {
 		[1]=
 		{
 			line = 1,
-			sta_t = 1619481600,
-			end_t = 1620662399,
-			help_info = {"1.活动时间：4月27日8:00-5月10日23:59:59。","2.活动期间购买礼包赠送抽奖券，使用抽奖券可参与抽奖。","3.请及时使用您的抽奖券，活动结束后未使用的抽奖券视为放弃。",},
-			cur_path = "act_ty_zp1_002",
+			sta_t = 1622505600,
+			end_t = 1623081599,
+			help_info = {"1.活动时间：6月1日8:00-6月7日23:59:59。","2.活动期间购买礼包赠送抽奖券，使用抽奖券可参与抽奖。","3.请及时使用您的抽奖券，活动结束后未使用的抽奖券视为放弃。",},
+			cur_path = "act_ty_zp1_003",
 			xg_desc = "礼包不限购",
 			sort = 0,
 		},
@@ -28,9 +28,9 @@ return {
 		[1]=
 		{
 			line = 1,
-			icon = "czlb_sj_1",
-			name = "Iphone12",
-			award_id = 12031,
+			icon = "hllb_mdkt_1",
+			name = "美的空调",
+			award_id = 12052,
 		},
 		[2]=
 		{
@@ -39,7 +39,7 @@ return {
 			name = "5福利券",
 			asset_type = "shop_gold_sum",
 			value = 5,
-			award_id = 12026,
+			award_id = 12047,
 		},
 		[3]=
 		{
@@ -48,7 +48,7 @@ return {
 			name = "10000金币",
 			asset_type = "jing_bi",
 			value = 10000,
-			award_id = 12027,
+			award_id = 12048,
 		},
 		[4]=
 		{
@@ -57,7 +57,7 @@ return {
 			name = "30福利券",
 			asset_type = "shop_gold_sum",
 			value = 30,
-			award_id = 12028,
+			award_id = 12049,
 		},
 		[5]=
 		{
@@ -66,7 +66,7 @@ return {
 			name = "50000金币",
 			asset_type = "jing_bi",
 			value = 50000,
-			award_id = 12029,
+			award_id = 12050,
 		},
 		[6]=
 		{
@@ -75,7 +75,7 @@ return {
 			name = "10元话费",
 			asset_type = "prop_web_chip_huafei",
 			value = 1000,
-			award_id = 12030,
+			award_id = 12051,
 		},
 	},
 	gift1=
@@ -83,7 +83,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			gift_id = 10527,
+			gift_id = 10565,
 			name = "498元礼包",
 			order = 6,
 			pay_icon = {"ty_icon_jb_498y","ty_icon_yxb_5","act_ty_zp1_cjq",},
@@ -95,7 +95,7 @@ return {
 		[2]=
 		{
 			line = 2,
-			gift_id = 10528,
+			gift_id = 10566,
 			name = "198元礼包",
 			order = 5,
 			pay_icon = {"ty_icon_jb_198y","ty_icon_yxb_4","act_ty_zp1_cjq",},
@@ -107,7 +107,7 @@ return {
 		[3]=
 		{
 			line = 3,
-			gift_id = 10529,
+			gift_id = 10567,
 			name = "98元礼包",
 			order = 4,
 			pay_icon = {"ty_icon_jb_98y","ty_icon_yxb_2","act_ty_zp1_cjq",},
@@ -119,7 +119,7 @@ return {
 		[4]=
 		{
 			line = 4,
-			gift_id = 10530,
+			gift_id = 10568,
 			name = "48元礼包",
 			order = 3,
 			pay_icon = {"ty_icon_jb_50y","ty_icon_yxb_2","act_ty_zp1_cjq",},
@@ -131,7 +131,7 @@ return {
 		[5]=
 		{
 			line = 5,
-			gift_id = 10531,
+			gift_id = 10569,
 			name = "20元礼包",
 			order = 2,
 			pay_icon = {"ty_icon_jb_30y","ty_icon_yxb_3","act_ty_zp1_cjq",},
@@ -143,7 +143,7 @@ return {
 		[6]=
 		{
 			line = 6,
-			gift_id = 10532,
+			gift_id = 10570,
 			name = "6元礼包",
 			order = 1,
 			pay_icon = {"ty_icon_jb_6y","ty_icon_yxb_3","act_ty_zp1_cjq",},

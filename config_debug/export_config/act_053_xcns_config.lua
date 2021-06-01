@@ -4,9 +4,9 @@ return {
 		[1]=
 		{
 			line = 1,
-			task_id = 1000651,
-			startTime = 1622505600,
-			endTime = 1623081599,
+			task_id = 1000658,
+			startTime = 1623110400,
+			endTime = 1624895999,
 			gotoui = "game_MiniGame",
 			downDes = "每日0点重置倍数和奖励\n统计在任意消消乐游戏中24万及以上档次消除的倍数",
 		},
@@ -17,16 +17,15 @@ return {
 		{
 			index = 1,
 			need_num = 10,
-			award_name = "玩具锤",
-			award_amount = 1,
-			award_icon = "com_award_icon_cz1",
-			tips = "请在冲金鸡中使用",
+			award_name = "福利券",
+			award_amount = "8~50",
+			award_icon = "ty_icon_flq1",
 		},
 		[2]=
 		{
 			index = 2,
 			need_num = 20,
-			award_name = "金币",
+			award_name = "小游戏币",
 			award_amount = "8000~5万",
 			award_icon = "ty_icon_jb_6y",
 		},
@@ -42,10 +41,9 @@ return {
 		{
 			index = 4,
 			need_num = 100,
-			award_name = "水滴",
-			award_amount = "10个~40个",
-			award_icon = "zpg_icon_shui",
-			tips = "请在苹果大战中使用",
+			award_name = "福利券",
+			award_amount = "50~200",
+			award_icon = "ty_icon_flq2",
 		},
 		[5]=
 		{

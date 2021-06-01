@@ -2238,6 +2238,42 @@ return {
 			name = "显示权限限制（非冲金鸡平台显示）",
 			condi = 434,
 		},
+		hlttby_type_plat1=
+		{
+			key = "hlttby_type_plat1",
+			name = "欢乐天天捕鱼安卓用户没有下载捕鱼奥秘官方",
+			condi = 443,
+		},
+		hlttby_type_plat2=
+		{
+			key = "hlttby_type_plat2",
+			name = "欢乐天天捕鱼ios用户没有下载捕鱼奥秘官方",
+			condi = 444,
+		},
+		hlttby_type_plat3=
+		{
+			key = "hlttby_type_plat3",
+			name = "捕鱼奥秘安卓用户没有下载欢乐天天捕鱼",
+			condi = 445,
+		},
+		hlttby_type_plat4=
+		{
+			key = "hlttby_type_plat4",
+			name = "捕鱼奥秘ios用户没有下载欢乐天天捕鱼",
+			condi = 446,
+		},
+		txz_type_plat=
+		{
+			key = "txz_type_plat",
+			name = "通行证全cpl用户",
+			condi = 447,
+		},
+		byam_tape_sigmob=
+		{
+			key = "byam_tape_sigmob",
+			name = "捕鱼奥秘乐元素渠道（CPA引流）",
+			condi = 498,
+		},
 	},
 	act_permission=
 	{
@@ -6685,7 +6721,7 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_ymshf_017_hldr_rank",
+			key = "actp_rank_hlly_018_hlbd_rank",
 			name = "游戏达人",
 			condi = 393,
 			is_dynamic_codi = 1,
@@ -6986,8 +7022,8 @@ return {
 			id = 396,
 			enable = 1,
 			key = "actp_rank_leijixiaohao_rank",
-			name = "达人榜（cjj和捕鱼奥秘不开启）",
-			condi = 338,
+			name = "达人榜（cjj不开启）",
+			condi = 497,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
@@ -7064,6 +7100,30 @@ return {
 			is_dynamic_cancel = 0,
 			refresh_type = "now",
 			start_deal_time = 0,
+		},
+		[403]=
+		{
+			id = 403,
+			enable = 1,
+			key = "actp_prop_exchange_nor_v2",
+			name = "道具兑换（VIP2，非冲金鸡）",
+			condi = 448,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1619481600,
+		},
+		[404]=
+		{
+			id = 404,
+			enable = 1,
+			key = "actp_own_task_p_txz",
+			name = "通行证任务cps不显示",
+			condi = 494,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1619481600,
 		},
 	},
 	condi=
@@ -17686,7 +17746,227 @@ return {
 			value = 4,
 			judge = 4,
 			group = 1,
-			error_desc = "Lv5以下才可以进入，请去玩高级场获得更多金币吧！",
+			error_desc = "Lv5以下才可以进入，请去高级场获取更多金币吧！",
+		},
+		[1063]=
+		{
+			no = 1063,
+			id = 443,
+			var = "share_condition",
+			value = "tthlby_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼",
+		},
+		[1064]=
+		{
+			no = 1064,
+			id = 443,
+			var = "tag_type",
+			value = "tag_plat_own_byam",
+			judge = 5,
+			group = 1,
+			error_desc = "捕鱼奥秘没有账号",
+		},
+		[1065]=
+		{
+			no = 1065,
+			id = 443,
+			var = "systype",
+			value = "ios",
+			judge = 5,
+			group = 1,
+			error_desc = "不是IOS用户",
+		},
+		[1066]=
+		{
+			no = 1066,
+			id = 444,
+			var = "tag_type",
+			value = "tag_plat_own_byam",
+			judge = 5,
+			group = 1,
+			error_desc = "捕鱼奥秘没有账号",
+		},
+		[1067]=
+		{
+			no = 1067,
+			id = 444,
+			var = "share_condition",
+			value = "tthlby_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼",
+		},
+		[1068]=
+		{
+			no = 1068,
+			id = 444,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 1,
+			error_desc = "是IOS用户",
+		},
+		[1069]=
+		{
+			no = 1069,
+			id = 445,
+			var = "tag_type",
+			value = "tag_plat_own_normal",
+			judge = 5,
+			group = 1,
+			error_desc = "天天欢乐捕鱼没有账号",
+		},
+		[1070]=
+		{
+			no = 1070,
+			id = 445,
+			var = "share_condition",
+			value = "byam_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是捕鱼奥秘",
+		},
+		[1071]=
+		{
+			no = 1071,
+			id = 445,
+			var = "systype",
+			value = "ios",
+			judge = 5,
+			group = 1,
+			error_desc = "不是IOS用户",
+		},
+		[1072]=
+		{
+			no = 1072,
+			id = 446,
+			var = "tag_type",
+			value = "tag_plat_own_normal",
+			judge = 5,
+			group = 1,
+			error_desc = "天天欢乐捕鱼没有账号",
+		},
+		[1073]=
+		{
+			no = 1073,
+			id = 446,
+			var = "share_condition",
+			value = "byam_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是捕鱼奥秘",
+		},
+		[1074]=
+		{
+			no = 1074,
+			id = 446,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 1,
+			error_desc = "是IOS用户",
+		},
+		[1075]=
+		{
+			no = 1075,
+			id = 447,
+			var = "share_condition",
+			value = "byam_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "捕鱼奥秘cpl",
+		},
+		[1076]=
+		{
+			no = 1076,
+			id = 447,
+			var = "share_condition",
+			value = "tthlby_cpl",
+			judge = 2,
+			group = 2,
+			error_desc = "欢乐天天捕鱼cpl",
+		},
+		[1077]=
+		{
+			no = 1077,
+			id = 447,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "冲金鸡cpl",
+		},
+		[1078]=
+		{
+			no = 1078,
+			id = 448,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1079]=
+		{
+			no = 1079,
+			id = 448,
+			var = "vip_level",
+			value = 2,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP2及以上玩家",
+		},
+		[1080]=
+		{
+			no = 1080,
+			id = 494,
+			var = "share_condition",
+			value = "tthlby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是天天捕鱼cps",
+		},
+		[1081]=
+		{
+			no = 1081,
+			id = 494,
+			var = "share_condition",
+			value = "byam_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是捕鱼奥秘的cps",
+		},
+		[1082]=
+		{
+			no = 1082,
+			id = 494,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是3d捕鱼的cps",
+		},
+		[1083]=
+		{
+			no = 1083,
+			id = 497,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不展示给cjj",
+		},
+		[1084]=
+		{
+			no = 1084,
+			id = 498,
+			var = "market_channel",
+			value = "sigmob",
+			judge = 2,
+			group = 1,
+			error_desc = "乐元素渠道",
 		},
 	},
 	share_condition=

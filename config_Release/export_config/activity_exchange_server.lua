@@ -645,6 +645,18 @@ return {
 			goods_type = 1,
 			email_id = 41,
 			award_id = 55,
+			enable = 0,
+		},
+		[56]=
+		{
+			id = 56,
+			name = "六一好礼",
+			start_time = 1622505600,
+			end_time = 1623081599,
+			use_goods = {"prop_fish_drop_act_0",},
+			goods_type = 1,
+			email_id = 42,
+			award_id = 56,
 			enable = 1,
 		},
 	},
@@ -895,6 +907,12 @@ return {
 			id = 41,
 			title = "欢乐兑奖",
 			content = "恭喜您在欢乐兑奖活动中获得了%s，请在活动结束后7个工作日内联系公众号《鲸鱼初纪元》客服领取，逾期视为自动放弃！",
+		},
+		[42]=
+		{
+			id = 42,
+			title = "六一好礼",
+			content = "恭喜您在六一好礼活动中获得了%s，请在活动结束后7个工作日内联系公众号《鲸鱼初纪元》客服领取，逾期视为自动放弃！",
 		},
 	},
 	award=
@@ -4597,6 +4615,108 @@ return {
 			asset_type = {"prop_web_chip_huafei",},
 			asset_count = {200,},
 			use_num = {1200,},
+			me_limit_day_num = 1,
+		},
+		[355]=
+		{
+			no = 355,
+			award_cfg_id = 56,
+			award_id = 1,
+			permission_key = "actp_prop_exchange_nor_v4",
+			award_name = "美的智能风扇",
+			use_num = {120000,},
+			me_limit_day_num = 1,
+		},
+		[356]=
+		{
+			no = 356,
+			award_cfg_id = 56,
+			award_id = 2,
+			permission_key = "actp_prop_exchange_nor_v3",
+			asset_type = {"jing_bi",},
+			asset_count = {10000000,},
+			use_num = {60000,},
+		},
+		[357]=
+		{
+			no = 357,
+			award_cfg_id = 56,
+			award_id = 3,
+			permission_key = "actp_prop_exchange_nor_v2",
+			award_name = "大鲸鱼抱枕",
+			use_num = {40000, },
+			me_limit_day_num = 1,
+		},
+		[358]=
+		{
+			no = 358,
+			award_cfg_id = 56,
+			award_id = 4,
+			permission_key = "actp_prop_exchange_nor",
+			award_name = "旺仔牛奶*20",
+			use_num = {30000,},
+			me_limit_day_num = 1,
+		},
+		[359]=
+		{
+			no = 359,
+			award_cfg_id = 56,
+			award_id = 5,
+			permission_key = "actp_prop_exchange_nor",
+			asset_type = {"fish_coin",},
+			asset_count = {4000000,},
+			use_num = {24000,},
+		},
+		[360]=
+		{
+			no = 360,
+			award_cfg_id = 56,
+			award_id = 6,
+			permission_key = "actp_prop_exchange_nor",
+			award_name = "自动吹泡泡机",
+			use_num = {15000,},
+			me_limit_day_num = 1,
+		},
+		[361]=
+		{
+			no = 361,
+			award_cfg_id = 56,
+			award_id = 7,
+			permission_key = "actp_prop_exchange_nor",
+			asset_type = {"shop_gold_sum",},
+			asset_count = {1500,},
+			use_num = {9000,},
+			me_limit_day_num = 1,
+		},
+		[362]=
+		{
+			no = 362,
+			award_cfg_id = 56,
+			award_id = 8,
+			permission_key = "actp_prop_exchange_nor",
+			award_name = "旺仔QQ糖*10",
+			use_num = {6000,},
+			me_limit_day_num = 1,
+		},
+		[363]=
+		{
+			no = 363,
+			award_cfg_id = 56,
+			award_id = 9,
+			permission_key = "actp_prop_exchange_nor",
+			asset_type = {"prop_tiny_game_coin",},
+			asset_count = {500000,},
+			use_num = {3000,},
+		},
+		[364]=
+		{
+			no = 364,
+			award_cfg_id = 56,
+			award_id = 10,
+			permission_key = "actp_prop_exchange_nor",
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {200,},
+			use_num = {1800,},
 			me_limit_day_num = 1,
 		},
 	},

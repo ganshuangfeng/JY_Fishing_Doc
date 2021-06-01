@@ -1016,8 +1016,8 @@ return {
 			order = 111,
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1622505600,
-			endTime = 1623081599,
+			srartTime = 1623110400,
+			endTime = 1623686399,
 		},
 		[90]=
 		{
@@ -1057,13 +1057,13 @@ return {
 		{
 			id = 93,
 			bannerID = 93,
-			isOnOff = 0,
+			isOnOff = 1,
 			order = 113,
 			condi_key = "cpl_cjj",
 			gotoUI = {"act_cjdb","panel"},
 			model = "LoginUp",
 			srartTime = 1623110400,
-			endTime = 1628351999,
+			endTime = 1628265599,
 		},
 		[94]=
 		{
