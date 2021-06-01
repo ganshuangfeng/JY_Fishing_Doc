@@ -20869,8 +20869,8 @@ return {
 			id = 885,
 			process_id = 21842,
 			source_id = 765,
-			process = {30000,70000,400000,500000,1000000,3000000,5000000,40000000,50000000,100000000},
-			awards = {1138,1139,1140,1141,1142,1143,1144,1145,1146,1147},
+			process = {500000,500000,1000000,3000000,5000000,40000000,50000000,100000000},
+			awards = {1140,1141,1142,1143,1144,1145,1146,1147},
 			get_award_type = "random",
 		},
 		[886]=
@@ -29865,82 +29865,19 @@ return {
 		{
 			id = 1271,
 			source_id = 765,
-			source_type = "xiaoxiaole_award",
-			condition_id = 0,
+			source_type = "buyu_3d_spend",
+			condition_id = 581,
 		},
 		[1272]=
 		{
 			id = 1272,
-			source_id = 765,
-			source_type = "xiaoxiaole_shuihu_award",
-			condition_id = 0,
-		},
-		[1273]=
-		{
-			id = 1273,
-			source_id = 765,
-			source_type = "xiaoxiaole_caishen_award",
-			condition_id = 0,
-		},
-		[1274]=
-		{
-			id = 1274,
-			source_id = 765,
-			source_type = "tantanle_award",
-			condition_id = 0,
-		},
-		[1275]=
-		{
-			id = 1275,
-			source_id = 765,
-			source_type = "zajindan_award",
-			condition_id = 0,
-		},
-		[1276]=
-		{
-			id = 1276,
-			source_id = 765,
-			source_type = "jykp_award",
-			condition_id = 0,
-		},
-		[1277]=
-		{
-			id = 1277,
-			source_id = 765,
-			source_type = "guess_apple_award",
-			condition_id = 0,
-		},
-		[1278]=
-		{
-			id = 1278,
-			source_id = 765,
-			source_type = "xiaoxiaole_xiyou_award",
-			condition_id = 0,
-		},
-		[1279]=
-		{
-			id = 1279,
-			source_id = 765,
-			source_type = "xiaoxiaole_sanguo_award",
-			condition_id = 0,
-		},
-		[1280]=
-		{
-			id = 1280,
-			source_id = 765,
-			source_type = "lwzb_game_award",
-			condition_id = 0,
-		},
-		[1281]=
-		{
-			id = 1281,
 			source_id = 766,
 			source_type = "buyu_3d_spend",
 			condition_id = 579,
 		},
-		[1282]=
+		[1273]=
 		{
-			id = 1282,
+			id = 1273,
 			source_id = 767,
 			source_type = "buyu_3d_spend",
 			condition_id = 580,
@@ -36578,6 +36515,14 @@ return {
 			condition_id = 580,
 			condition_name = "fish_game_id",
 			condition_value = 3,
+			judge_type = 2,
+		},
+		[860]=
+		{
+			id = 860,
+			condition_id = 581,
+			condition_name = "fish_game_id",
+			condition_value = {6,7,8,},
 			judge_type = 2,
 		},
 	},
