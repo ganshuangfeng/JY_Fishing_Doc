@@ -5,14 +5,14 @@ return {
 		{
 			id = 1,
 			data_type = "qfhl_lottery",
-			award_name = "华为手机",
+			award_name = "美的空调",
 			weight = 0,
 		},
 		[2]=
 		{
 			id = 2,
 			data_type = "qfhl_lottery",
-			award_name = "运动手环",
+			award_name = "平板电脑",
 			weight = 0,
 		},
 		[3]=
@@ -26,14 +26,14 @@ return {
 		{
 			id = 4,
 			data_type = "qfhl_lottery",
-			award_name = "猴菇饼干",
+			award_name = "亲嘴烧30袋",
 			weight = 8,
 		},
 		[5]=
 		{
 			id = 5,
 			data_type = "qfhl_lottery",
-			award_name = "卷纸16卷",
+			award_name = "抽纸五包",
 			weight = 13,
 		},
 		[6]=
@@ -89,21 +89,21 @@ return {
 		{
 			id = 13,
 			data_type = "qfhl_1_lottery",
-			award_name = "金龙鱼大米",
+			award_name = "金龙鱼油900ml",
 			weight = 4,
 		},
 		[14]=
 		{
 			id = 14,
 			data_type = "qfhl_1_lottery",
-			award_name = "索尼耳机",
+			award_name = "椰汁24盒",
 			weight = 3,
 		},
 		[15]=
 		{
 			id = 15,
 			data_type = "qfhl_1_lottery",
-			award_name = "旅行箱",
+			award_name = "美的电火锅",
 			weight = 3,
 		},
 		[16]=
