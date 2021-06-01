@@ -16,7 +16,7 @@ return {
 			rank_type = "ymshf_017_hldr_rank",
 			source_type = "buyu_3d_get_use_item",
 			task_id = 1000649,
-			award_rate = {1,1.1,1.3,1.5},
+			award_rate = {100,110,130,150},
 		},
 		[2]=
 		{
@@ -24,7 +24,7 @@ return {
 			rank_type = "ymshf_017_hldr_rank",
 			source_type = "buyu_get_use_item",
 			task_id = 1000649,
-			award_rate = {1,1.1,1.3,1.5},
+			award_rate = {100,110,130,150},
 		},
 	},
 }
