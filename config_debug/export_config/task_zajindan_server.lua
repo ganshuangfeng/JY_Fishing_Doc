@@ -55561,7 +55561,7 @@ return {
 			id = 2263,
 			award_id = 1363,
 			asset_type = "_common_rank_ymshf_017_hldr_rank",
-			asset_count = 1,
+			asset_count = 100,
 			get_weight = 1,
 		},
 	},
