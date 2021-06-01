@@ -7141,7 +7141,7 @@ return {
 		{
 			id = 404,
 			enable = 1,
-			key = "actp_own_task_txz",
+			key = "actp_own_task_p_txz",
 			name = "通行证任务cps不显示",
 			condi = 494,
 			is_dynamic_codi = 1,
