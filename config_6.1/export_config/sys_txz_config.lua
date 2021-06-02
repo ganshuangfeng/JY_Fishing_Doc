@@ -67,8 +67,8 @@ return {
 		[10]=
 		{
 			id = 10,
-			icon = {"ty_icon_yb_3","ty_icon_jb_15y","ty_icon_jb_30y"},
-			num = {"1000鱼币","20万金币","80万金币"},
+			icon = {"ty_icon_jb_6y","ty_icon_jb_15y","ty_icon_jb_30y"},
+			num = {"1000金币","20万金币","80万金币"},
 		},
 	},
 	TXZ_Task=
