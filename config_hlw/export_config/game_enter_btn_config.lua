@@ -164,13 +164,13 @@ return {
 		{
 			id = 2,
 			area = "left",
-			group_list = "85#58#30#140#",
+			group_list = "85#58#30#141#",
 		},
 		[3]=
 		{
 			id = 3,
 			area = "right",
-			group_list = "110#84#114#61#",
+			group_list = "110#84#114#140#",
 		},
 		[4]=
 		{
@@ -302,7 +302,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "111#112#43#72#11#",
+			group_list = "111#112#43#141#11#",
 		},
 		[2]=
 		{
@@ -1302,6 +1302,12 @@ return {
 		{
 			id = 140,
 			parm = {"sys_cqg",},
+			is_on_off = 1,
+		},
+		[141]=
+		{
+			id = 141,
+			parm = {"act_042_xshb",},
 			is_on_off = 1,
 		},
 	},

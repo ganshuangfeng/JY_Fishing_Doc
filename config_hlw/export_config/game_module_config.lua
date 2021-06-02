@@ -2655,9 +2655,9 @@ return {
 			key = "act_028_xycd",
 			desc = "幸运彩蛋",
 			lua = "Act_028_XYCDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[272]=
 		{
@@ -3315,6 +3315,16 @@ return {
 			key = "act_045_cqg",
 			desc = "存钱罐（斗地主版）",
 			lua = "Act_045_CQGManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[339]=
+		{
+			id = 339,
+			key = "act_042_xshb",
+			desc = "限时红包",
+			lua = "Act_042_XSHBManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
