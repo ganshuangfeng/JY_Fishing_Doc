@@ -55707,7 +55707,7 @@ return {
 			id = 2275,
 			award_id = 1374,
 			asset_type = "_common_rank_hlly_018_hlbd_rank",
-			asset_count = 100,
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
