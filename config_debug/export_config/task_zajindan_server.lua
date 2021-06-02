@@ -37153,7 +37153,7 @@ return {
 		{
 			id = 608,
 			condition_id = 445,
-			condition_name = "hero_num",
+			condition_name = "hero_id",
 			condition_value = {1,2,3,4},
 			judge_type = 2,
 		},
