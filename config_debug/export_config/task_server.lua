@@ -3740,6 +3740,7 @@ return {
 			id = 133,
 			source_id = 101,
 			source_type = "guess_apple_spend",
+			condition_id = 0,
 		},
 		[134]=
 		{
@@ -3753,7 +3754,7 @@ return {
 			id = 135,
 			source_id = 102,
 			source_type = "buyu_3d_target_yu",
-			condition_id = 0,
+			condition_id = 40,
 		},
 		[136]=
 		{
@@ -4393,6 +4394,14 @@ return {
 			condition_id = 39,
 			condition_name = "fish_game_id",
 			condition_value = 3,
+			judge_type = 2,
+		},
+		[71]=
+		{
+			id = 71,
+			condition_id = 40,
+			condition_name = "fish_game_id",
+			condition_value = {1,2,3,4,5},
 			judge_type = 2,
 		},
 	},
