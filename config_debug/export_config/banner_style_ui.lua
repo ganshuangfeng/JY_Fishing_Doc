@@ -1072,7 +1072,7 @@ return {
 			isOnOff = 1,
 			order = 112,
 			condi_key = "cpl_notcjj",
-			gotoUI = {"sys_txz","panel"},
+			gotoUI = {"sys_txz","panel_open"},
 			model = "LoginUp",
 			srartTime = -1,
 			endTime = -1,
