@@ -982,6 +982,7 @@ return {
 			title = "新游福利",
 			order = 3,
 			is_on_off = 1,
+			condi_key = "txz_type_plat",
 			beginTime = 1622505600,
 			endTime = 1623081599,
 			showType = "prefab",
