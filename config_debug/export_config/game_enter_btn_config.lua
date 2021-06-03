@@ -473,6 +473,27 @@ return {
 			group_list = "134#",
 		},
 	},
+	xxlsg_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "top",
+			group_list = "101#",
+		},
+		[2]=
+		{
+			id = 2,
+			area = "left_down",
+			group_list = "11;93#",
+		},
+		[3]=
+		{
+			id = 3,
+			area = "money_btn",
+			group_list = "134#",
+		},
+	},
 	year_panel=
 	{
 		[1]=
