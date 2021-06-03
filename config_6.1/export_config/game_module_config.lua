@@ -3329,5 +3329,15 @@ return {
 			enable = 0,
 			state = 0,
 		},
+		[340]=
+		{
+			id = 340,
+			key = "sys_txz",
+			desc = "通行证",
+			lua = "SYS_TXZ_Manager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
