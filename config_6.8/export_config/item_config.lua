@@ -4362,7 +4362,7 @@ return {
 			image = "ty_icon_debjc88",
 			is_show_bag = 0,
 			order = 1,
-			name = "海王炮台加成卡",
+			name = "炮台加成卡",
 			desc = "海王炮台加成8%",
 		},
 		[323]=
@@ -4375,7 +4375,7 @@ return {
 			image = "ty_icon_debjc2",
 			is_show_bag = 0,
 			order = 1,
-			name = "海王炮台加成卡",
+			name = "炮台加成卡",
 			desc = "海王炮台加成2%",
 		},
 		[324]=
