@@ -2262,6 +2262,12 @@ return {
 			name = "捕鱼奥秘ios用户没有下载欢乐天天捕鱼",
 			condi = 446,
 		},
+		txz_ type_plat=
+		{
+			key = "txz_ type_plat",
+			name = "通行证全cpl用户",
+			condi = 447,
+		},
 	},
 	act_permission=
 	{
@@ -17791,6 +17797,36 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是IOS用户",
+		},
+		[1071]=
+		{
+			no = 1071,
+			id = 447,
+			var = "share_condition",
+			value = "byam_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "捕鱼奥秘cpl",
+		},
+		[1072]=
+		{
+			no = 1072,
+			id = 447,
+			var = "share_condition",
+			value = "tthlby_cpl",
+			judge = 2,
+			group = 2,
+			error_desc = "欢乐天天捕鱼cpl",
+		},
+		[1073]=
+		{
+			no = 1073,
+			id = 447,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "冲金鸡cpl",
 		},
 	},
 	share_condition=
