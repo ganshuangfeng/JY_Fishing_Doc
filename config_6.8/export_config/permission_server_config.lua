@@ -2268,6 +2268,30 @@ return {
 			name = "通行证全cpl用户",
 			condi = 447,
 		},
+		xshb_042_deblocking_v4=
+		{
+			key = "xshb_042_deblocking_v4",
+			name = "限时红包解锁（V4以上）",
+			condi = 489,
+		},
+		xshb_042_deblocking_v3=
+		{
+			key = "xshb_042_deblocking_v3",
+			name = "限时红包解锁（V3以上）",
+			condi = 490,
+		},
+		xshb_042_deblocking_v2=
+		{
+			key = "xshb_042_deblocking_v2",
+			name = "限时红包解锁（V2以上）",
+			condi = 491,
+		},
+		xshb_042_deblocking_v1=
+		{
+			key = "xshb_042_deblocking_v1",
+			name = "限时红包解锁（V1以上）",
+			condi = 492,
+		},
 	},
 	act_permission=
 	{
@@ -7094,6 +7118,18 @@ return {
 			is_dynamic_cancel = 0,
 			refresh_type = "now",
 			start_deal_time = 0,
+		},
+		[403]=
+		{
+			id = 403,
+			enable = 1,
+			key = "actp_prop_exchange_nor_v2",
+			name = "道具兑换（VIP2，非冲金鸡）",
+			condi = 448,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1619481600,
 		},
 	},
 	condi=
@@ -17827,6 +17863,66 @@ return {
 			judge = 2,
 			group = 3,
 			error_desc = "冲金鸡cpl",
+		},
+		[1074]=
+		{
+			no = 1074,
+			id = 448,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1075]=
+		{
+			no = 1075,
+			id = 448,
+			var = "vip_level",
+			value = 2,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP2及以上玩家",
+		},
+		[1076]=
+		{
+			no = 1076,
+			id = 489,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上玩家",
+		},
+		[1077]=
+		{
+			no = 1077,
+			id = 490,
+			var = "vip_level",
+			value = 3,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP3及以上玩家",
+		},
+		[1078]=
+		{
+			no = 1078,
+			id = 491,
+			var = "vip_level",
+			value = 2,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP2及以上玩家",
+		},
+		[1079]=
+		{
+			no = 1079,
+			id = 492,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上玩家",
 		},
 	},
 	share_condition=
