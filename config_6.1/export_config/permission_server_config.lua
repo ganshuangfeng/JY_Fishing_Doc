@@ -2262,9 +2262,9 @@ return {
 			name = "捕鱼奥秘ios用户没有下载欢乐天天捕鱼",
 			condi = 446,
 		},
-		txz_ type_plat=
+		txz_type_plat=
 		{
-			key = "txz_ type_plat",
+			key = "txz_type_plat",
 			name = "通行证全cpl用户",
 			condi = 447,
 		},
