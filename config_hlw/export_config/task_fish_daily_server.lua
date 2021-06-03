@@ -87,7 +87,7 @@ return {
 			id = 3,
 			process_id = 12503,
 			source_id = 2,
-			process = {100,200,500,700,1500,3500,5500,8000,5000,5000,20000,50000,60000,70000,270000,},
+			process = {3,47,50,200,500,700,1500,3500,5500,8000,5000,5000,20000,50000,100000,},
 			awards = {1031,1032,1033,1034,1035,1036,1037,1038,1039,1040,1041,1042,1043,1044,1045,},
 			get_award_type = "nor",
 		},
@@ -107,15 +107,74 @@ return {
 		{
 			id = 1,
 			source_id = 1,
-			source_type = "buyu_3d_award",
-			condition_id = 1001,
+			source_type = "xiaoxiaole_award",
 		},
 		[2]=
 		{
 			id = 2,
+			source_id = 1,
+			source_type = "xiaoxiaole_shuihu_award",
+		},
+		[3]=
+		{
+			id = 3,
+			source_id = 1,
+			source_type = "xiaoxiaole_caishen_award",
+		},
+		[4]=
+		{
+			id = 4,
+			source_id = 1,
+			source_type = "tantanle_award",
+		},
+		[5]=
+		{
+			id = 5,
+			source_id = 1,
+			source_type = "guess_apple_award",
+		},
+		[6]=
+		{
+			id = 6,
+			source_id = 1,
+			source_type = "jykp_award",
+		},
+		[7]=
+		{
+			id = 7,
+			source_id = 1,
+			source_type = "zajindan_award",
+		},
+		[8]=
+		{
+			id = 8,
+			source_id = 1,
+			source_type = "lwzb_game_award",
+		},
+		[9]=
+		{
+			id = 9,
+			source_id = 1,
+			source_type = "xiaoxiaole_xiyou_award",
+		},
+		[10]=
+		{
+			id = 10,
+			source_id = 1,
+			source_type = "xiaoxiaole_sanguo_award",
+		},
+		[11]=
+		{
+			id = 11,
+			source_id = 1,
+			source_type = "lianxianxiaoxiaole_award",
+		},
+		[12]=
+		{
+			id = 12,
 			source_id = 2,
 			source_type = "task_award_receive",
-			condition_id = 1002,
+			condition_id = 1001,
 		},
 	},
 	condition=
@@ -124,16 +183,8 @@ return {
 		{
 			id = 1,
 			condition_id = 1001,
-			condition_name = "fish_game_id",
-			condition_value = {6,7,8,},
-			judge_type = 2,
-		},
-		[2]=
-		{
-			id = 2,
-			condition_id = 1002,
 			condition_name = "task_id",
-			condition_value = {21843,21844,},
+			condition_value = {21842,21843,21844,},
 			judge_type = 2,
 		},
 	},
@@ -384,7 +435,7 @@ return {
 			id = 31,
 			award_id = 1031,
 			asset_type = "jing_bi",
-			asset_count = 2000,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[32]=
@@ -392,7 +443,7 @@ return {
 			id = 32,
 			award_id = 1032,
 			asset_type = "jing_bi",
-			asset_count = 2500,
+			asset_count = 1000,
 			get_weight = 1,
 		},
 		[33]=
@@ -400,7 +451,7 @@ return {
 			id = 33,
 			award_id = 1033,
 			asset_type = "jing_bi",
-			asset_count = 5000,
+			asset_count = 2000,
 			get_weight = 1,
 		},
 		[34]=
@@ -408,23 +459,23 @@ return {
 			id = 34,
 			award_id = 1034,
 			asset_type = "jing_bi",
-			asset_count = 6000,
+			asset_count = 2500,
 			get_weight = 1,
 		},
 		[35]=
 		{
 			id = 35,
 			award_id = 1035,
-			asset_type = "shop_gold_sum",
-			asset_count = 60,
+			asset_type = "jing_bi",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[36]=
 		{
 			id = 36,
 			award_id = 1036,
-			asset_type = "shop_gold_sum",
-			asset_count = 150,
+			asset_type = "jing_bi",
+			asset_count = 6000,
 			get_weight = 1,
 		},
 		[37]=
@@ -432,7 +483,7 @@ return {
 			id = 37,
 			award_id = 1037,
 			asset_type = "shop_gold_sum",
-			asset_count = 250,
+			asset_count = 60,
 			get_weight = 1,
 		},
 		[38]=
@@ -440,7 +491,7 @@ return {
 			id = 38,
 			award_id = 1038,
 			asset_type = "shop_gold_sum",
-			asset_count = 300,
+			asset_count = 150,
 			get_weight = 1,
 		},
 		[39]=
@@ -448,7 +499,7 @@ return {
 			id = 39,
 			award_id = 1039,
 			asset_type = "shop_gold_sum",
-			asset_count = 300,
+			asset_count = 250,
 			get_weight = 1,
 		},
 		[40]=
@@ -464,7 +515,7 @@ return {
 			id = 41,
 			award_id = 1041,
 			asset_type = "shop_gold_sum",
-			asset_count = 400,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[42]=
@@ -472,7 +523,7 @@ return {
 			id = 42,
 			award_id = 1042,
 			asset_type = "shop_gold_sum",
-			asset_count = 400,
+			asset_count = 300,
 			get_weight = 1,
 		},
 		[43]=
@@ -480,7 +531,7 @@ return {
 			id = 43,
 			award_id = 1043,
 			asset_type = "shop_gold_sum",
-			asset_count = 600,
+			asset_count = 400,
 			get_weight = 1,
 		},
 		[44]=
@@ -488,7 +539,7 @@ return {
 			id = 44,
 			award_id = 1044,
 			asset_type = "shop_gold_sum",
-			asset_count = 800,
+			asset_count = 400,
 			get_weight = 1,
 		},
 		[45]=
@@ -496,7 +547,7 @@ return {
 			id = 45,
 			award_id = 1045,
 			asset_type = "shop_gold_sum",
-			asset_count = 1800,
+			asset_count = 600,
 			get_weight = 1,
 		},
 		[46]=
