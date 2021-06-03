@@ -14,7 +14,7 @@ return {
 		[1]=
 		{
 			Index = 1,
-			task_id = 21807,
+			task_id = 21336,
 			text = "在财神消消乐中累计赢金100万",
 			total = 1000000,
 			award = 1,
@@ -23,7 +23,7 @@ return {
 		[2]=
 		{
 			Index = 2,
-			task_id = 21808,
+			task_id = 21337,
 			text = "在水浒消消乐中累计赢金100万",
 			total = 1000000,
 			award = 1,
@@ -32,7 +32,7 @@ return {
 		[3]=
 		{
 			Index = 3,
-			task_id = 21809,
+			task_id = 21338,
 			text = "在水果消消乐中累计赢金100万",
 			total = 1000000,
 			award = 1,
@@ -41,7 +41,7 @@ return {
 		[4]=
 		{
 			Index = 4,
-			task_id = 21810,
+			task_id = 21339,
 			text = "在苹果大战中累计纯赢100万",
 			total = 1000000,
 			award = 1,
@@ -50,8 +50,8 @@ return {
 		[5]=
 		{
 			Index = 5,
-			task_id = 21811,
-			text = "在街机捕鱼中累计消耗100万",
+			task_id = 21340,
+			text = "在街机捕鱼中累计赢金100万",
 			total = 1000000,
 			award = 1,
 			game_type = "by",
@@ -59,8 +59,8 @@ return {
 		[6]=
 		{
 			Index = 6,
-			task_id = 21812,
-			text = "在疯狂捕鱼中累计消耗100万",
+			task_id = 21341,
+			text = "在疯狂捕鱼中累计赢金100万",
 			total = 1000000,
 			award = 1,
 			game_type = "fkby",
@@ -68,7 +68,7 @@ return {
 		[7]=
 		{
 			Index = 7,
-			task_id = 21813,
+			task_id = 21342,
 			text = "在弹弹乐中累计赢金100万",
 			total = 1000000,
 			award = 1,
@@ -77,7 +77,7 @@ return {
 		[8]=
 		{
 			Index = 8,
-			task_id = 21814,
+			task_id = 21343,
 			text = "在敲敲乐中累计赢金100万",
 			total = 1000000,
 			award = 1,
@@ -86,7 +86,7 @@ return {
 		[9]=
 		{
 			Index = 9,
-			task_id = 21815,
+			task_id = 21344,
 			text = "在敲敲乐财神模式中累计赢金100万",
 			total = 1000000,
 			award = 1,
@@ -95,8 +95,8 @@ return {
 		[10]=
 		{
 			Index = 10,
-			task_id = 21816,
-			text = "苹果大战中累计纯赢800万",
+			task_id = 21345,
+			text = "在苹果大战中累计纯赢800万",
 			total = 8000000,
 			award = 4,
 			game_type = "zpg",
@@ -104,8 +104,8 @@ return {
 		[11]=
 		{
 			Index = 11,
-			task_id = 21817,
-			text = "苹果大战使用50万及以上档次，种出1次金苹果",
+			task_id = 21346,
+			text = "苹果大战使用50万及以上档次种出一次金苹果",
 			total = 1,
 			award = 4,
 			game_type = "zpg",
@@ -113,7 +113,7 @@ return {
 		[12]=
 		{
 			Index = 12,
-			task_id = 21818,
+			task_id = 21347,
 			text = "街机捕鱼使用1万以上炮倍击杀一条黄金龙",
 			total = 1,
 			award = 4,
@@ -122,7 +122,7 @@ return {
 		[13]=
 		{
 			Index = 13,
-			task_id = 21819,
+			task_id = 21348,
 			text = "敲敲乐财神模式中累计赢金800万",
 			total = 8000000,
 			award = 4,
@@ -131,7 +131,7 @@ return {
 		[14]=
 		{
 			Index = 14,
-			task_id = 21820,
+			task_id = 21349,
 			text = "弹弹乐中累计赢金800万",
 			total = 8000000,
 			award = 4,
@@ -140,8 +140,8 @@ return {
 		[15]=
 		{
 			Index = 15,
-			task_id = 21821,
-			text = "水果消消乐使用48万及以上档次，出现1次幸运时刻",
+			task_id = 21350,
+			text = "水果消消乐使用6万及以上档次出现一次幸运时刻",
 			total = 1,
 			award = 4,
 			game_type = "xxl",
@@ -149,7 +149,7 @@ return {
 		[16]=
 		{
 			Index = 16,
-			task_id = 21822,
+			task_id = 21351,
 			text = "水浒消消乐中累计赢金800万",
 			total = 8000000,
 			award = 4,
@@ -158,8 +158,8 @@ return {
 		[17]=
 		{
 			Index = 17,
-			task_id = 21823,
-			text = "财神消消乐使用96万以上档次，打出1次天女散花",
+			task_id = 21352,
+			text = "财神消消乐使用12万以上档次打出一次天女散花",
 			total = 1,
 			award = 4,
 			game_type = "csxxl",
@@ -167,8 +167,8 @@ return {
 		[18]=
 		{
 			Index = 18,
-			task_id = 21824,
-			text = "敲敲乐使用1万及以上档次，敲出2次38倍财神",
+			task_id = 21353,
+			text = "敲敲乐使用1万及以上档次敲出2次38倍财神",
 			total = 2,
 			award = 4,
 			game_type = "qql",

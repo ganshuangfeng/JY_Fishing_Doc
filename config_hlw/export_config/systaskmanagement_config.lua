@@ -20,7 +20,7 @@ return {
 		{
 			id = 1,
 			title = "金币场每日",
-			top_img = "rw_bg_img02_5",
+			top_img = "rw_bg_img05",
 			gotoUI = {"sys_task_management_type_1","panel1"},
 			is_on_off = 1,
 			beginTime = -1,
@@ -30,7 +30,7 @@ return {
 		{
 			id = 2,
 			title = "金币场每月",
-			top_img = "rw_bg_img02_2",
+			top_img = "rw_bg_img02",
 			gotoUI = {"sys_task_management_type_1","panel2"},
 			is_on_off = 1,
 			beginTime = -1,
@@ -40,7 +40,7 @@ return {
 		{
 			id = 3,
 			title = "福卡场每日",
-			top_img = "rw_bg_img02_4",
+			top_img = "rw_bg_img04",
 			gotoUI = {"sys_task_management_type_1","panel3"},
 			is_on_off = 1,
 			beginTime = -1,
@@ -50,7 +50,7 @@ return {
 		{
 			id = 4,
 			title = "福卡场每月",
-			top_img = "rw_bg_img02_3",
+			top_img = "rw_bg_img03",
 			gotoUI = {"sys_task_management_type_1","panel4"},
 			is_on_off = 1,
 			beginTime = -1,
