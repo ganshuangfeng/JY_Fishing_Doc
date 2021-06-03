@@ -18,6 +18,7 @@ return {
 			path = "act_017_dlphb",
 			condiy_key = "actp_rank_hlly_018_hlbd_rank",
 			type_info = 1,
+			is_have_point = 0,
 		},
 	},
 	award_config=
