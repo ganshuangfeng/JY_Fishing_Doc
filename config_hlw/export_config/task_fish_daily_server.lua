@@ -175,7 +175,7 @@ return {
 		{
 			id = 5,
 			award_id = 1005,
-			asset_type = "shop_gold_sum",
+			asset_type = "jing_bi",
 			asset_count = 1000,
 			get_weight = 1,
 		},
@@ -183,7 +183,7 @@ return {
 		{
 			id = 6,
 			award_id = 1006,
-			asset_type = "shop_gold_sum",
+			asset_type = "jing_bi",
 			asset_count = 1500,
 			get_weight = 1,
 		},
