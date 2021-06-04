@@ -7016,8 +7016,8 @@ return {
 			id = 396,
 			enable = 1,
 			key = "actp_rank_leijixiaohao_rank",
-			name = "达人榜（cjj和捕鱼奥秘不开启）",
-			condi = 338,
+			name = "达人榜（cjj不开启）",
+			condi = 497,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
@@ -17901,6 +17901,16 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是3d捕鱼的cps",
+		},
+		[1079]=
+		{
+			no = 1079,
+			id = 497,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不展示给cjj",
 		},
 	},
 	share_condition=
