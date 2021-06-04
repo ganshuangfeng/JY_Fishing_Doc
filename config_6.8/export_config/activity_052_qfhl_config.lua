@@ -4,7 +4,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			img = "activity_icon_mdkt",
+			img = "activity_icon_gift151_mdkt",
 			real = 1,
 			text = "美的空调",
 			server_award_id = 12032,
@@ -12,7 +12,7 @@ return {
 		[2]=
 		{
 			id = 2,
-			img = "activity_icon_pbdn",
+			img = "activity_icon_gift151_pbdn",
 			real = 1,
 			text = "平板电脑",
 			server_award_id = 12033,
@@ -20,7 +20,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			img = "activity_icon_kl",
+			img = "activity_icon_gift151_kl",
 			real = 1,
 			text = "可乐12瓶",
 			server_award_id = 12034,
@@ -28,7 +28,7 @@ return {
 		[4]=
 		{
 			id = 4,
-			img = "activity_icon_qzs1",
+			img = "activity_icon_gift151_qzs",
 			real = 1,
 			text = "亲嘴烧30片",
 			server_award_id = 12035,
@@ -36,7 +36,7 @@ return {
 		[5]=
 		{
 			id = 5,
-			img = "activity_icon_cj",
+			img = "activity_icon_gift151_cz",
 			real = 1,
 			text = "抽纸五包",
 			server_award_id = 12036,
@@ -163,21 +163,21 @@ return {
 		[1]=
 		{
 			id = 1,
-			image = "activity_icon_gift269_sqm",
+			image = "activity_icon_gift151_jlyy",
 			tex = "金龙鱼油900ml",
 			offset = {0,20,50,100,200,400},
 		},
 		[2]=
 		{
 			id = 2,
-			image = "activity_icon_gift268_sqm",
+			image = "activity_icon_gift151_ysyn",
 			tex = "椰汁24盒",
 			offset = {0,100,500,1000,1500,2200},
 		},
 		[3]=
 		{
 			id = 3,
-			image = "activity_icon_gift103_xlx",
+			image = "activity_icon_gift151_dg",
 			tex = "美的电火锅",
 			offset = {0,100,500,1000,1500,3500},
 		},

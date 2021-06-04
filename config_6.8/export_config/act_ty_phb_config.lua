@@ -12,7 +12,7 @@ return {
 			rank_type = "zqdw_019_fqdr_rank",
 			s_time = 1623110400,
 			e_time = 1623686399,
-			gotoUI = "game_Fishing3DHall",
+			gotoUI = "act_052_qfhl",
 			award = {1,2,3,4,5,6,7},
 			extra_award = {8,9,10,11,12,13,14},
 			path = "act_018_dlphb",
