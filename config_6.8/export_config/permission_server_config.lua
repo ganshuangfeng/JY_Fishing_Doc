@@ -2292,6 +2292,12 @@ return {
 			name = "限时红包解锁（V1以上）",
 			condi = 492,
 		},
+		step_task_show_not=
+		{
+			key = "step_task_show_not",
+			name = "显示红包6月8日及之后注册的用户展示",
+			condi = 493,
+		},
 	},
 	act_permission=
 	{
@@ -17923,6 +17929,16 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "VIP1及以上玩家",
+		},
+		[1080]=
+		{
+			no = 1080,
+			id = 493,
+			var = "register_time",
+			value = 1623081600,
+			judge = 3,
+			group = 1,
+			error_desc = "2021年6月8日及之后注册的用户",
 		},
 	},
 	share_condition=
