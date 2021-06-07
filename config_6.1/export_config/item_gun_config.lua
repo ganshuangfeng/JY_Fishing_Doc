@@ -370,7 +370,7 @@ return {
 			type_colour = 3,
 			type = 1,
 			is_local_icon = 1,
-			image = "3dby_icon_p7",
+			image = "3dby_icon_phw",
 			order = 13,
 			name = "海王炮台",
 			desc = "海王之力：瞬间提高子弹280%的杀伤力\n被动效果：提高击杀BOSS的概率",
