@@ -9,7 +9,7 @@ return {
 			award = 1,
 			any_dice_limit = 55000000,
 			length = 25,
-			key_location = {4,10,16,22},
+			key_location = {6,12,18,24},
 			any_dice_type = "prop_any_dice_1",
 			buy_limit_id = 1,
 		},
@@ -21,7 +21,7 @@ return {
 			award = 2,
 			any_dice_limit = 10000000,
 			length = 25,
-			key_location = {4,10,16,22},
+			key_location = {6,12,18,24},
 			any_dice_type = "prop_any_dice_2",
 			buy_limit_id = 2,
 		},
@@ -57,24 +57,24 @@ return {
 			id = 4,
 			award_id = 1,
 			location_id = 4,
-			asset_type = "prop_super_treasure_key_1",
-			asset_value = 1,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_value = 12,
 		},
 		[5]=
 		{
 			id = 5,
 			award_id = 1,
 			location_id = 5,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_value = 12,
+			asset_type = "jing_bi",
+			asset_value = 80000,
 		},
 		[6]=
 		{
 			id = 6,
 			award_id = 1,
 			location_id = 6,
-			asset_type = "jing_bi",
-			asset_value = 80000,
+			asset_type = "prop_super_treasure_key_1",
+			asset_value = 1,
 		},
 		[7]=
 		{
@@ -97,32 +97,32 @@ return {
 			id = 9,
 			award_id = 1,
 			location_id = 9,
-			asset_type = "prop_super_treasure_key_1",
-			asset_value = 1,
+			asset_type = "shop_gold_sum",
+			asset_value = 20,
 		},
 		[10]=
 		{
 			id = 10,
 			award_id = 1,
 			location_id = 10,
-			asset_type = "shop_gold_sum",
-			asset_value = 20,
+			asset_type = "prop_guess_apple_bet_2",
+			asset_value = 2,
 		},
 		[11]=
 		{
 			id = 11,
 			award_id = 1,
 			location_id = 11,
-			asset_type = "prop_guess_apple_bet_2",
-			asset_value = 2,
+			asset_type = "prop_tiny_game_coin",
+			asset_value = 44000,
 		},
 		[12]=
 		{
 			id = 12,
 			award_id = 1,
 			location_id = 12,
-			asset_type = "prop_tiny_game_coin",
-			asset_value = 44000,
+			asset_type = "prop_super_treasure_key_1",
+			asset_value = 1,
 		},
 		[13]=
 		{
@@ -137,88 +137,88 @@ return {
 			id = 14,
 			award_id = 1,
 			location_id = 14,
-			asset_type = "prop_super_treasure_key_1",
-			asset_value = 1,
+			asset_type = "jing_bi",
+			asset_value = 60000,
 		},
 		[15]=
 		{
 			id = 15,
 			award_id = 1,
 			location_id = 15,
-			asset_type = "jing_bi",
-			asset_value = 60000,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_value = 12,
 		},
 		[16]=
 		{
 			id = 16,
 			award_id = 1,
 			location_id = 16,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_value = 12,
+			asset_type = "shop_gold_sum",
+			asset_value = 20,
 		},
 		[17]=
 		{
 			id = 17,
 			award_id = 1,
 			location_id = 17,
-			asset_type = "shop_gold_sum",
-			asset_value = 20,
+			asset_type = "jing_bi",
+			asset_value = 20000,
 		},
 		[18]=
 		{
 			id = 18,
 			award_id = 1,
 			location_id = 18,
-			asset_type = "jing_bi",
-			asset_value = 20000,
+			asset_type = "prop_super_treasure_key_1",
+			asset_value = 1,
 		},
 		[19]=
 		{
 			id = 19,
 			award_id = 1,
 			location_id = 19,
-			asset_type = "prop_super_treasure_key_1",
-			asset_value = 1,
+			asset_type = "prop_web_chip_huafei",
+			asset_value = 20,
 		},
 		[20]=
 		{
 			id = 20,
 			award_id = 1,
 			location_id = 20,
-			asset_type = "prop_web_chip_huafei",
-			asset_value = 20,
+			asset_type = "prop_tiny_game_coin",
+			asset_value = 40000,
 		},
 		[21]=
 		{
 			id = 21,
 			award_id = 1,
 			location_id = 21,
-			asset_type = "prop_tiny_game_coin",
-			asset_value = 40000,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_value = 12,
 		},
 		[22]=
 		{
 			id = 22,
 			award_id = 1,
 			location_id = 22,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_value = 12,
+			asset_type = "jing_bi",
+			asset_value = 100000,
 		},
 		[23]=
 		{
 			id = 23,
 			award_id = 1,
 			location_id = 23,
-			asset_type = "jing_bi",
-			asset_value = 100000,
+			asset_type = "prop_tiny_game_coin",
+			asset_value = 36000,
 		},
 		[24]=
 		{
 			id = 24,
 			award_id = 1,
 			location_id = 24,
-			asset_type = "prop_tiny_game_coin",
-			asset_value = 36000,
+			asset_type = "prop_super_treasure_key_1",
+			asset_value = 1,
 		},
 		[25]=
 		{
@@ -249,24 +249,24 @@ return {
 			id = 28,
 			award_id = 2,
 			location_id = 4,
-			asset_type = "prop_super_treasure_key_2",
-			asset_value = 1,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_value = 6,
 		},
 		[29]=
 		{
 			id = 29,
 			award_id = 2,
 			location_id = 5,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_value = 6,
+			asset_type = "jing_bi",
+			asset_value = 40000,
 		},
 		[30]=
 		{
 			id = 30,
 			award_id = 2,
 			location_id = 6,
-			asset_type = "jing_bi",
-			asset_value = 40000,
+			asset_type = "prop_super_treasure_key_2",
+			asset_value = 1,
 		},
 		[31]=
 		{
@@ -289,32 +289,32 @@ return {
 			id = 33,
 			award_id = 2,
 			location_id = 9,
-			asset_type = "prop_super_treasure_key_2",
-			asset_value = 1,
+			asset_type = "shop_gold_sum",
+			asset_value = 10,
 		},
 		[34]=
 		{
 			id = 34,
 			award_id = 2,
 			location_id = 10,
-			asset_type = "shop_gold_sum",
-			asset_value = 10,
+			asset_type = "prop_guess_apple_bet_2",
+			asset_value = 1,
 		},
 		[35]=
 		{
 			id = 35,
 			award_id = 2,
 			location_id = 11,
-			asset_type = "prop_guess_apple_bet_2",
-			asset_value = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_value = 22000,
 		},
 		[36]=
 		{
 			id = 36,
 			award_id = 2,
 			location_id = 12,
-			asset_type = "prop_tiny_game_coin",
-			asset_value = 22000,
+			asset_type = "prop_super_treasure_key_2",
+			asset_value = 1,
 		},
 		[37]=
 		{
@@ -329,88 +329,88 @@ return {
 			id = 38,
 			award_id = 2,
 			location_id = 14,
-			asset_type = "prop_super_treasure_key_2",
-			asset_value = 1,
+			asset_type = "jing_bi",
+			asset_value = 30000,
 		},
 		[39]=
 		{
 			id = 39,
 			award_id = 2,
 			location_id = 15,
-			asset_type = "jing_bi",
-			asset_value = 30000,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_value = 6,
 		},
 		[40]=
 		{
 			id = 40,
 			award_id = 2,
 			location_id = 16,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_value = 6,
+			asset_type = "shop_gold_sum",
+			asset_value = 10,
 		},
 		[41]=
 		{
 			id = 41,
 			award_id = 2,
 			location_id = 17,
-			asset_type = "shop_gold_sum",
-			asset_value = 10,
+			asset_type = "jing_bi",
+			asset_value = 10000,
 		},
 		[42]=
 		{
 			id = 42,
 			award_id = 2,
 			location_id = 18,
-			asset_type = "jing_bi",
-			asset_value = 10000,
+			asset_type = "prop_super_treasure_key_2",
+			asset_value = 1,
 		},
 		[43]=
 		{
 			id = 43,
 			award_id = 2,
 			location_id = 19,
-			asset_type = "prop_super_treasure_key_2",
-			asset_value = 1,
+			asset_type = "prop_web_chip_huafei",
+			asset_value = 10,
 		},
 		[44]=
 		{
 			id = 44,
 			award_id = 2,
 			location_id = 20,
-			asset_type = "prop_web_chip_huafei",
-			asset_value = 10,
+			asset_type = "prop_tiny_game_coin",
+			asset_value = 20000,
 		},
 		[45]=
 		{
 			id = 45,
 			award_id = 2,
 			location_id = 21,
-			asset_type = "prop_tiny_game_coin",
-			asset_value = 20000,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_value = 6,
 		},
 		[46]=
 		{
 			id = 46,
 			award_id = 2,
 			location_id = 22,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_value = 6,
+			asset_type = "jing_bi",
+			asset_value = 50000,
 		},
 		[47]=
 		{
 			id = 47,
 			award_id = 2,
 			location_id = 23,
-			asset_type = "jing_bi",
-			asset_value = 50000,
+			asset_type = "prop_tiny_game_coin",
+			asset_value = 18000,
 		},
 		[48]=
 		{
 			id = 48,
 			award_id = 2,
 			location_id = 24,
-			asset_type = "prop_tiny_game_coin",
-			asset_value = 18000,
+			asset_type = "prop_super_treasure_key_2",
+			asset_value = 1,
 		},
 	},
 	buy_limit=
