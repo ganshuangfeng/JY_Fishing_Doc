@@ -15407,6 +15407,96 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000659]=
+		{
+			id = 1000659,
+			enable = 1,
+			name = "限时红包",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22017,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1623110400,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000660]=
+		{
+			id = 1000660,
+			enable = 1,
+			name = "限时红包",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22018,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1623110400,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000661]=
+		{
+			id = 1000661,
+			enable = 1,
+			name = "限时红包",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22019,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1623110400,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000662]=
+		{
+			id = 1000662,
+			enable = 1,
+			name = "限时红包",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22020,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1623110400,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000663]=
+		{
+			id = 1000663,
+			enable = 1,
+			name = "限时红包",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22021,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1623110400,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000664]=
+		{
+			id = 1000664,
+			enable = 1,
+			name = "限时红包",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22022,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1623110400,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -25416,6 +25506,60 @@ return {
 			awards = {1394,1395,1396,1397,1398,1399,1400,1401,1402,1403},
 			get_award_type = "random",
 		},
+		[1069]=
+		{
+			id = 1069,
+			process_id = 22017,
+			source_id = 648,
+			process = 1200000,
+			awards = 1404,
+			get_award_type = "nor",
+		},
+		[1070]=
+		{
+			id = 1070,
+			process_id = 22018,
+			source_id = 648,
+			process = 800000,
+			awards = 1405,
+			get_award_type = "nor",
+		},
+		[1071]=
+		{
+			id = 1071,
+			process_id = 22019,
+			source_id = 648,
+			process = 300000,
+			awards = 1406,
+			get_award_type = "nor",
+		},
+		[1072]=
+		{
+			id = 1072,
+			process_id = 22020,
+			source_id = 648,
+			process = 200000,
+			awards = 1407,
+			get_award_type = "nor",
+		},
+		[1073]=
+		{
+			id = 1073,
+			process_id = 22021,
+			source_id = 649,
+			process = 600,
+			awards = 1408,
+			get_award_type = "nor",
+		},
+		[1074]=
+		{
+			id = 1074,
+			process_id = 22022,
+			source_id = 650,
+			process = 200000,
+			awards = 1409,
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -32754,6 +32898,132 @@ return {
 			source_type = "box_exchange",
 			condition_id = 485,
 		},
+		[1042]=
+		{
+			id = 1042,
+			source_id = 648,
+			source_type = "buyu_3d_spend",
+			condition_id = 0,
+		},
+		[1043]=
+		{
+			id = 1043,
+			source_id = 648,
+			source_type = "zajindan_spend",
+			condition_id = 0,
+		},
+		[1044]=
+		{
+			id = 1044,
+			source_id = 648,
+			source_type = "xiaoxiaole_shuihu_spend",
+			condition_id = 0,
+		},
+		[1045]=
+		{
+			id = 1045,
+			source_id = 648,
+			source_type = "xiaoxiaole_xiyou_spend",
+			condition_id = 0,
+		},
+		[1046]=
+		{
+			id = 1046,
+			source_id = 648,
+			source_type = "xiaoxiaole_caishen_spend",
+			condition_id = 0,
+		},
+		[1047]=
+		{
+			id = 1047,
+			source_id = 648,
+			source_type = "lianxianxiaoxiaole_spend",
+			condition_id = 0,
+		},
+		[1048]=
+		{
+			id = 1048,
+			source_id = 648,
+			source_type = "tantanle_spend",
+			condition_id = 0,
+		},
+		[1049]=
+		{
+			id = 1049,
+			source_id = 648,
+			source_type = "lwzb_game_spend",
+			condition_id = 0,
+		},
+		[1050]=
+		{
+			id = 1050,
+			source_id = 648,
+			source_type = "dmbj_spend",
+			condition_id = 0,
+		},
+		[1051]=
+		{
+			id = 1051,
+			source_id = 648,
+			source_type = "jykp_spend",
+			condition_id = 0,
+		},
+		[1052]=
+		{
+			id = 1052,
+			source_id = 648,
+			source_type = "xiaoxiaole_spend",
+			condition_id = 0,
+		},
+		[1053]=
+		{
+			id = 1053,
+			source_id = 648,
+			source_type = "buyu_spend",
+			condition_id = 0,
+		},
+		[1054]=
+		{
+			id = 1054,
+			source_id = 648,
+			source_type = "buyu_3d_spend_by_use_fish_prop",
+			condition_id = 0,
+		},
+		[1055]=
+		{
+			id = 1055,
+			source_id = 648,
+			source_type = "buyu_spend_by_use_fish_prop",
+			condition_id = 0,
+		},
+		[1056]=
+		{
+			id = 1056,
+			source_id = 648,
+			source_type = "guess_apple_spend",
+			condition_id = 0,
+		},
+		[1057]=
+		{
+			id = 1057,
+			source_id = 648,
+			source_type = "xiaoxiaole_sanguo_spend",
+			condition_id = 0,
+		},
+		[1058]=
+		{
+			id = 1058,
+			source_id = 649,
+			source_type = "charge_any",
+			condition_id = 0,
+		},
+		[1059]=
+		{
+			id = 1059,
+			source_id = 650,
+			source_type = "asset_observe",
+			condition_id = 486,
+		},
 	},
 	condition=
 	{
@@ -37715,6 +37985,14 @@ return {
 			condition_id = 485,
 			condition_name = "box_exchange_type",
 			condition_value = {"box_exchange_98",},
+			judge_type = 2,
+		},
+		[651]=
+		{
+			id = 651,
+			condition_id = 486,
+			condition_name = "asset_type",
+			condition_value = "jing_bi",
 			judge_type = 2,
 		},
 	},
@@ -56142,6 +56420,54 @@ return {
 			award_id = 1403,
 			asset_type = "shop_gold_sum",
 			asset_count = {1000,1400},
+			get_weight = 1,
+		},
+		[2305]=
+		{
+			id = 2305,
+			award_id = 1404,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[2306]=
+		{
+			id = 2306,
+			award_id = 1405,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 500,
+			get_weight = 1,
+		},
+		[2307]=
+		{
+			id = 2307,
+			award_id = 1406,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 300,
+			get_weight = 1,
+		},
+		[2308]=
+		{
+			id = 2308,
+			award_id = 1407,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[2309]=
+		{
+			id = 2309,
+			award_id = 1408,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 300,
+			get_weight = 1,
+		},
+		[2310]=
+		{
+			id = 2310,
+			award_id = 1409,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 50,
 			get_weight = 1,
 		},
 	},
