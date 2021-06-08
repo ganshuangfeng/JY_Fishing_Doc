@@ -4100,7 +4100,7 @@ return {
 			id = 164,
 			source_id = 116,
 			source_type = "asset_observe",
-			condition_id = 0,
+			condition_id = 38,
 		},
 	},
 	condition=
@@ -4647,6 +4647,14 @@ return {
 			condition_id = 37,
 			condition_name = "task_id",
 			condition_value = 93,
+			judge_type = 2,
+		},
+		[69]=
+		{
+			id = 69,
+			condition_id = 38,
+			condition_name = "asset_type",
+			condition_value = "jing_bi",
 			judge_type = 2,
 		},
 	},
