@@ -15316,6 +15316,187 @@ return {
 			is_send_client = 1,
 			award_change_type = "task_award_no_show",
 		},
+		[1000653]=
+		{
+			id = 1000653,
+			enable = 1,
+			name = "端午福袋",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22011,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1623081600,
+			end_valid_time = 1623686399,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000654]=
+		{
+			id = 1000654,
+			enable = 1,
+			name = "粽子掉落需求",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22012,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1623110400,
+			end_valid_time = 1623686399,
+			time_limit = -1,
+			is_send_client = 1,
+			award_change_type = "task_award_no_show",
+		},
+		[1000655]=
+		{
+			id = 1000655,
+			enable = 1,
+			name = "祈福有礼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22013,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1623110400,
+			end_valid_time = 1623686399,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000656]=
+		{
+			id = 1000656,
+			enable = 1,
+			name = "祈福有礼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22014,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1623110400,
+			end_valid_time = 1623686399,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000657]=
+		{
+			id = 1000657,
+			enable = 1,
+			name = "祈福有礼",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22015,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1623110400,
+			end_valid_time = 1623686399,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000658]=
+		{
+			id = 1000658,
+			enable = 1,
+			name = "爱消福利",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22016,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1623081600,
+			end_valid_time = 1624895999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000659]=
+		{
+			id = 1000659,
+			enable = 1,
+			name = "限时红包",
+			own_type = "normal",
+			task_enum = "xian_shi_hong_bao_task",
+			process_id = 22017,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1623114000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000660]=
+		{
+			id = 1000660,
+			enable = 1,
+			name = "限时红包",
+			own_type = "normal",
+			task_enum = "xian_shi_hong_bao_task",
+			process_id = 22018,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1623114000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000661]=
+		{
+			id = 1000661,
+			enable = 1,
+			name = "限时红包",
+			own_type = "normal",
+			task_enum = "xian_shi_hong_bao_task",
+			process_id = 22019,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1623114000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000662]=
+		{
+			id = 1000662,
+			enable = 1,
+			name = "限时红包",
+			own_type = "normal",
+			task_enum = "xian_shi_hong_bao_task",
+			process_id = 22020,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1623114000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000663]=
+		{
+			id = 1000663,
+			enable = 1,
+			name = "限时红包",
+			own_type = "normal",
+			task_enum = "xian_shi_hong_bao_task",
+			process_id = 22021,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1623114000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000664]=
+		{
+			id = 1000664,
+			enable = 1,
+			name = "限时红包",
+			own_type = "p_show_not",
+			task_enum = "xian_shi_hong_bao_task",
+			process_id = 22022,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1623114000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -25270,6 +25451,115 @@ return {
 			get_award_type = "nor",
 			is_auto_get_award = 2,
 		},
+		[1063]=
+		{
+			id = 1063,
+			process_id = 22011,
+			source_id = 644,
+			process = {2,1,2},
+			awards = {1375,1376,1377},
+			get_award_type = "random",
+		},
+		[1064]=
+		{
+			id = 1064,
+			process_id = 22012,
+			source_id = 542,
+			process = {300000,-1},
+			awards = 1378,
+			get_award_type = "nor",
+			is_auto_get_award = 2,
+		},
+		[1065]=
+		{
+			id = 1065,
+			process_id = 22013,
+			source_id = 645,
+			process = {20,30,50,100,200},
+			awards = {1379,1380,1381,1382,1383},
+			get_award_type = "random",
+		},
+		[1066]=
+		{
+			id = 1066,
+			process_id = 22014,
+			source_id = 646,
+			process = {100,400,500,500,700},
+			awards = {1384,1385,1386,1387,1388},
+			get_award_type = "random",
+		},
+		[1067]=
+		{
+			id = 1067,
+			process_id = 22015,
+			source_id = 647,
+			process = {100,400,500,500,2000},
+			awards = {1389,1390,1391,1392,1393},
+			get_award_type = "random",
+		},
+		[1068]=
+		{
+			id = 1068,
+			process_id = 22016,
+			source_id = 632,
+			process = {1000,1000,3000,5000,10000,20000,40000,40000,80000,100000},
+			awards = {1394,1395,1396,1397,1398,1399,1400,1401,1402,1403},
+			get_award_type = "random",
+		},
+		[1069]=
+		{
+			id = 1069,
+			process_id = 22017,
+			source_id = 648,
+			process = 1200000,
+			awards = 1404,
+			get_award_type = "nor",
+		},
+		[1070]=
+		{
+			id = 1070,
+			process_id = 22018,
+			source_id = 648,
+			process = 800000,
+			awards = 1405,
+			get_award_type = "nor",
+		},
+		[1071]=
+		{
+			id = 1071,
+			process_id = 22019,
+			source_id = 648,
+			process = 300000,
+			awards = 1406,
+			get_award_type = "nor",
+		},
+		[1072]=
+		{
+			id = 1072,
+			process_id = 22020,
+			source_id = 648,
+			process = 200000,
+			awards = 1407,
+			get_award_type = "nor",
+		},
+		[1073]=
+		{
+			id = 1073,
+			process_id = 22021,
+			source_id = 649,
+			process = 600,
+			awards = 1408,
+			get_award_type = "nor",
+		},
+		[1074]=
+		{
+			id = 1074,
+			process_id = 22022,
+			source_id = 650,
+			process = 1,
+			awards = 1409,
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -32580,6 +32870,160 @@ return {
 			source_type = "buy_gift",
 			condition_id = 480,
 		},
+		[1038]=
+		{
+			id = 1038,
+			source_id = 644,
+			source_type = "buy_gift",
+			condition_id = 482,
+		},
+		[1039]=
+		{
+			id = 1039,
+			source_id = 645,
+			source_type = "box_exchange",
+			condition_id = 483,
+		},
+		[1040]=
+		{
+			id = 1040,
+			source_id = 646,
+			source_type = "box_exchange",
+			condition_id = 484,
+		},
+		[1041]=
+		{
+			id = 1041,
+			source_id = 647,
+			source_type = "box_exchange",
+			condition_id = 485,
+		},
+		[1042]=
+		{
+			id = 1042,
+			source_id = 648,
+			source_type = "buyu_3d_spend",
+			condition_id = 0,
+		},
+		[1043]=
+		{
+			id = 1043,
+			source_id = 648,
+			source_type = "zajindan_spend",
+			condition_id = 0,
+		},
+		[1044]=
+		{
+			id = 1044,
+			source_id = 648,
+			source_type = "xiaoxiaole_shuihu_spend",
+			condition_id = 0,
+		},
+		[1045]=
+		{
+			id = 1045,
+			source_id = 648,
+			source_type = "xiaoxiaole_xiyou_spend",
+			condition_id = 0,
+		},
+		[1046]=
+		{
+			id = 1046,
+			source_id = 648,
+			source_type = "xiaoxiaole_caishen_spend",
+			condition_id = 0,
+		},
+		[1047]=
+		{
+			id = 1047,
+			source_id = 648,
+			source_type = "lianxianxiaoxiaole_spend",
+			condition_id = 0,
+		},
+		[1048]=
+		{
+			id = 1048,
+			source_id = 648,
+			source_type = "tantanle_spend",
+			condition_id = 0,
+		},
+		[1049]=
+		{
+			id = 1049,
+			source_id = 648,
+			source_type = "lwzb_game_spend",
+			condition_id = 0,
+		},
+		[1050]=
+		{
+			id = 1050,
+			source_id = 648,
+			source_type = "dmbj_spend",
+			condition_id = 0,
+		},
+		[1051]=
+		{
+			id = 1051,
+			source_id = 648,
+			source_type = "jykp_spend",
+			condition_id = 0,
+		},
+		[1052]=
+		{
+			id = 1052,
+			source_id = 648,
+			source_type = "xiaoxiaole_spend",
+			condition_id = 0,
+		},
+		[1053]=
+		{
+			id = 1053,
+			source_id = 648,
+			source_type = "buyu_spend",
+			condition_id = 0,
+		},
+		[1054]=
+		{
+			id = 1054,
+			source_id = 648,
+			source_type = "buyu_3d_spend_by_use_fish_prop",
+			condition_id = 0,
+		},
+		[1055]=
+		{
+			id = 1055,
+			source_id = 648,
+			source_type = "buyu_spend_by_use_fish_prop",
+			condition_id = 0,
+		},
+		[1056]=
+		{
+			id = 1056,
+			source_id = 648,
+			source_type = "guess_apple_spend",
+			condition_id = 0,
+		},
+		[1057]=
+		{
+			id = 1057,
+			source_id = 648,
+			source_type = "xiaoxiaole_sanguo_spend",
+			condition_id = 0,
+		},
+		[1058]=
+		{
+			id = 1058,
+			source_id = 649,
+			source_type = "charge_any",
+			condition_id = 0,
+		},
+		[1059]=
+		{
+			id = 1059,
+			source_id = 650,
+			source_type = "asset_observe",
+			condition_id = 486,
+		},
 	},
 	condition=
 	{
@@ -37510,6 +37954,54 @@ return {
 			condition_name = "gift_id",
 			condition_value = {10551,10552,10553,10554,10555,10556,10557,10558,10559,10560,10561,10562},
 			judge_type = 2,
+		},
+		[647]=
+		{
+			id = 647,
+			condition_id = 482,
+			condition_name = "gift_id",
+			condition_value = {10571,10572,10573,10574,10575,10576,10577},
+			judge_type = 2,
+		},
+		[648]=
+		{
+			id = 648,
+			condition_id = 483,
+			condition_name = "box_exchange_type",
+			condition_value = {"box_exchange_96",},
+			judge_type = 2,
+		},
+		[649]=
+		{
+			id = 649,
+			condition_id = 484,
+			condition_name = "box_exchange_type",
+			condition_value = {"box_exchange_97",},
+			judge_type = 2,
+		},
+		[650]=
+		{
+			id = 650,
+			condition_id = 485,
+			condition_name = "box_exchange_type",
+			condition_value = {"box_exchange_98",},
+			judge_type = 2,
+		},
+		[651]=
+		{
+			id = 651,
+			condition_id = 486,
+			condition_name = "asset_type",
+			condition_value = "jing_bi",
+			judge_type = 2,
+		},
+		[652]=
+		{
+			id = 652,
+			condition_id = 486,
+			condition_name = "now_value",
+			condition_value = 200000,
+			judge_type = 3,
 		},
 	},
 	award_data=
@@ -55708,6 +56200,285 @@ return {
 			award_id = 1374,
 			asset_type = "_common_rank_hlly_018_hlbd_rank",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[2276]=
+		{
+			id = 2276,
+			award_id = 1375,
+			asset_type = "jing_bi",
+			asset_count = {250000,320000},
+			get_weight = 1,
+		},
+		[2277]=
+		{
+			id = 2277,
+			award_id = 1376,
+			asset_type = "jing_bi",
+			asset_count = {400000,580000},
+			get_weight = 1,
+		},
+		[2278]=
+		{
+			id = 2278,
+			award_id = 1377,
+			asset_type = "jing_bi",
+			asset_count = {2000000,2900000},
+			get_weight = 1,
+		},
+		[2279]=
+		{
+			id = 2279,
+			award_id = 1378,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[2280]=
+		{
+			id = 2280,
+			award_id = 1379,
+			asset_type = "jing_bi",
+			asset_count = {20000,80000},
+			get_weight = 1,
+		},
+		[2281]=
+		{
+			id = 2281,
+			award_id = 1380,
+			asset_type = "jing_bi",
+			asset_count = {100000,150000},
+			get_weight = 1,
+		},
+		[2282]=
+		{
+			id = 2282,
+			award_id = 1381,
+			asset_type = "jing_bi",
+			asset_count = {150000,300000},
+			get_weight = 1,
+		},
+		[2283]=
+		{
+			id = 2283,
+			award_id = 1382,
+			asset_type = "jing_bi",
+			asset_count = {300000,500000},
+			get_weight = 1,
+		},
+		[2284]=
+		{
+			id = 2284,
+			award_id = 1383,
+			award_name = "金龙鱼油900ml",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[2285]=
+		{
+			id = 2285,
+			award_id = 1384,
+			asset_type = "jing_bi",
+			asset_count = {100000,200000},
+			get_weight = 1,
+		},
+		[2286]=
+		{
+			id = 2286,
+			award_id = 1385,
+			asset_type = "jing_bi",
+			asset_count = {300000,500000},
+			get_weight = 1,
+		},
+		[2287]=
+		{
+			id = 2287,
+			award_id = 1386,
+			asset_type = "jing_bi",
+			asset_count = {400000,600000},
+			get_weight = 1,
+		},
+		[2288]=
+		{
+			id = 2288,
+			award_id = 1387,
+			asset_type = "jing_bi",
+			asset_count = {500000,1500000},
+			get_weight = 1,
+		},
+		[2289]=
+		{
+			id = 2289,
+			award_id = 1388,
+			award_name = "椰汁24盒",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[2290]=
+		{
+			id = 2290,
+			award_id = 1389,
+			asset_type = "jing_bi",
+			asset_count = {100000,200000},
+			get_weight = 1,
+		},
+		[2291]=
+		{
+			id = 2291,
+			award_id = 1390,
+			asset_type = "jing_bi",
+			asset_count = {300000,500000},
+			get_weight = 1,
+		},
+		[2292]=
+		{
+			id = 2292,
+			award_id = 1391,
+			asset_type = "jing_bi",
+			asset_count = {400000,600000},
+			get_weight = 1,
+		},
+		[2293]=
+		{
+			id = 2293,
+			award_id = 1392,
+			asset_type = "jing_bi",
+			asset_count = {1000000,3000000},
+			get_weight = 1,
+		},
+		[2294]=
+		{
+			id = 2294,
+			award_id = 1393,
+			award_name = "美的电火锅",
+			is_send_email = 1,
+		},
+		[2295]=
+		{
+			id = 2295,
+			award_id = 1394,
+			asset_type = "shop_gold_sum",
+			asset_count = {10,14},
+			get_weight = 1,
+		},
+		[2296]=
+		{
+			id = 2296,
+			award_id = 1395,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = {10000,14000},
+			get_weight = 1,
+		},
+		[2297]=
+		{
+			id = 2297,
+			award_id = 1396,
+			asset_type = "shop_gold_sum",
+			asset_count = {35,35},
+			get_weight = 1,
+		},
+		[2298]=
+		{
+			id = 2298,
+			award_id = 1397,
+			asset_type = "shop_gold_sum",
+			asset_count = {55,65},
+			get_weight = 1,
+		},
+		[2299]=
+		{
+			id = 2299,
+			award_id = 1398,
+			asset_type = "jing_bi",
+			asset_count = {100000,140000},
+			get_weight = 1,
+		},
+		[2300]=
+		{
+			id = 2300,
+			award_id = 1399,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = {200000,280000},
+			get_weight = 1,
+		},
+		[2301]=
+		{
+			id = 2301,
+			award_id = 1400,
+			asset_type = "shop_gold_sum",
+			asset_count = {420,540},
+			get_weight = 1,
+		},
+		[2302]=
+		{
+			id = 2302,
+			award_id = 1401,
+			asset_type = "jing_bi",
+			asset_count = {420000,540000},
+			get_weight = 1,
+		},
+		[2303]=
+		{
+			id = 2303,
+			award_id = 1402,
+			asset_type = "jing_bi",
+			asset_count = {900000,1020000},
+			get_weight = 1,
+		},
+		[2304]=
+		{
+			id = 2304,
+			award_id = 1403,
+			asset_type = "shop_gold_sum",
+			asset_count = {1000,1400},
+			get_weight = 1,
+		},
+		[2305]=
+		{
+			id = 2305,
+			award_id = 1404,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 1000,
+			get_weight = 1,
+		},
+		[2306]=
+		{
+			id = 2306,
+			award_id = 1405,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 500,
+			get_weight = 1,
+		},
+		[2307]=
+		{
+			id = 2307,
+			award_id = 1406,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 300,
+			get_weight = 1,
+		},
+		[2308]=
+		{
+			id = 2308,
+			award_id = 1407,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[2309]=
+		{
+			id = 2309,
+			award_id = 1408,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 300,
+			get_weight = 1,
+		},
+		[2310]=
+		{
+			id = 2310,
+			award_id = 1409,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 50,
 			get_weight = 1,
 		},
 	},

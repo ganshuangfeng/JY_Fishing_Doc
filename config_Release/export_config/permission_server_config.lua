@@ -2268,6 +2268,48 @@ return {
 			name = "通行证全cpl用户",
 			condi = 447,
 		},
+		xshb_042_deblocking_v4=
+		{
+			key = "xshb_042_deblocking_v4",
+			name = "限时红包解锁（V4以上）",
+			condi = 489,
+		},
+		xshb_042_deblocking_v3=
+		{
+			key = "xshb_042_deblocking_v3",
+			name = "限时红包解锁（V3以上）",
+			condi = 490,
+		},
+		xshb_042_deblocking_v2=
+		{
+			key = "xshb_042_deblocking_v2",
+			name = "限时红包解锁（V2以上）",
+			condi = 491,
+		},
+		xshb_042_deblocking_v1=
+		{
+			key = "xshb_042_deblocking_v1",
+			name = "限时红包解锁（V1以上）",
+			condi = 492,
+		},
+		xshb_042_deblocking_v0=
+		{
+			key = "xshb_042_deblocking_v0",
+			name = "限时红包解锁（7天内新人）",
+			condi = 499,
+		},
+		tthlby_all_pmd=
+		{
+			key = "tthlby_all_pmd",
+			name = "全部天天欢乐捕鱼玩家（跑马灯用）",
+			condi = 495,
+		},
+		byam_all_pmd=
+		{
+			key = "byam_all_pmd",
+			name = "全部捕鱼奥秘玩家（跑马灯用）",
+			condi = 496,
+		},
 		byam_tape_sigmob=
 		{
 			key = "byam_tape_sigmob",
@@ -6721,7 +6763,7 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_hlly_018_hlbd_rank",
+			key = "actp_rank_zqdw_019_fqdr_rank",
 			name = "游戏达人",
 			condi = 393,
 			is_dynamic_codi = 1,
@@ -7124,6 +7166,18 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
 			start_deal_time = 1619481600,
+		},
+		[405]=
+		{
+			id = 405,
+			enable = 1,
+			key = "actp_own_task_p_show_not",
+			name = "显示红包6月8日及之后注册的用户展示",
+			condi = 493,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1623110400,
 		},
 	},
 	condi=
@@ -17921,6 +17975,56 @@ return {
 		[1080]=
 		{
 			no = 1080,
+			id = 489,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上玩家",
+		},
+		[1081]=
+		{
+			no = 1081,
+			id = 490,
+			var = "vip_level",
+			value = 3,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP3及以上玩家",
+		},
+		[1082]=
+		{
+			no = 1082,
+			id = 491,
+			var = "vip_level",
+			value = 2,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP2及以上玩家",
+		},
+		[1083]=
+		{
+			no = 1083,
+			id = 492,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上玩家",
+		},
+		[1084]=
+		{
+			no = 1084,
+			id = 493,
+			var = "register_time",
+			value = 1623081600,
+			judge = 3,
+			group = 1,
+			error_desc = "2021年6月8日及之后注册的用户",
+		},
+		[1085]=
+		{
+			no = 1085,
 			id = 494,
 			var = "share_condition",
 			value = "tthlby_cps",
@@ -17928,9 +18032,9 @@ return {
 			group = 1,
 			error_desc = "不是天天捕鱼cps",
 		},
-		[1081]=
+		[1086]=
 		{
-			no = 1081,
+			no = 1086,
 			id = 494,
 			var = "share_condition",
 			value = "byam_cps",
@@ -17938,9 +18042,9 @@ return {
 			group = 1,
 			error_desc = "不是捕鱼奥秘的cps",
 		},
-		[1082]=
+		[1087]=
 		{
-			no = 1082,
+			no = 1087,
 			id = 494,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -17948,9 +18052,29 @@ return {
 			group = 1,
 			error_desc = "不是3d捕鱼的cps",
 		},
-		[1083]=
+		[1088]=
 		{
-			no = 1083,
+			no = 1088,
+			id = 495,
+			var = "share_condition",
+			value = "tthlby_all",
+			judge = 2,
+			group = 1,
+			error_desc = "全部天天捕鱼玩家",
+		},
+		[1089]=
+		{
+			no = 1089,
+			id = 496,
+			var = "share_condition",
+			value = "byam_all",
+			judge = 2,
+			group = 1,
+			error_desc = "全部捕鱼奥秘玩家",
+		},
+		[1090]=
+		{
+			no = 1090,
 			id = 497,
 			var = "share_condition",
 			value = "cjj_all",
@@ -17958,15 +18082,25 @@ return {
 			group = 1,
 			error_desc = "不展示给cjj",
 		},
-		[1084]=
+		[1091]=
 		{
-			no = 1084,
+			no = 1091,
 			id = 498,
 			var = "market_channel",
 			value = "sigmob",
 			judge = 2,
 			group = 1,
 			error_desc = "乐元素渠道",
+		},
+		[1092]=
+		{
+			no = 1092,
+			id = 499,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "注册7天内新人",
 		},
 	},
 	share_condition=

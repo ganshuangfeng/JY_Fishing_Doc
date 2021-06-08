@@ -1,45 +1,59 @@
 return {
+	cfg=
+	{
+		[1]=
+		{
+			line = 1,
+			ID = 1,
+			pay_item_key = {"prop_fish_drop_act_0","prop_grade",},
+			PerNeed = {300,10},
+			s_time = 1623110400,
+			e_time = 1623686399,
+			data_type = "qfhl_lottery",
+			data_other_type = "qfhl_1_lottery",
+		},
+	},
 	Award1=
 	{
 		[1]=
 		{
 			id = 1,
-			img = "activity_icon_gift270_sqm",
+			img = "activity_icon_gift151_mdkt",
 			real = 1,
-			text = "华为手机",
-			server_award_id = 12032,
+			text = "美的空调",
+			server_award_id = 12073,
 		},
 		[2]=
 		{
 			id = 2,
-			img = "activity_icon_gift52",
+			img = "activity_icon_gift151_pbdn",
 			real = 1,
-			text = "运动手环",
-			server_award_id = 12033,
+			text = "平板电脑",
+			server_award_id = 12074,
 		},
 		[3]=
 		{
 			id = 3,
-			img = "activity_icon_gift272_sqm",
+			img = "activity_icon_gift151_kl",
 			real = 1,
 			text = "可乐12瓶",
-			server_award_id = 12034,
+			server_award_id = 12075,
 		},
 		[4]=
 		{
 			id = 4,
-			img = "activity_icon_gift271_sqm",
+			img = "activity_icon_gift151_qzs",
 			real = 1,
-			text = "猴菇饼干",
-			server_award_id = 12035,
+			text = "亲嘴烧30片",
+			server_award_id = 12076,
 		},
 		[5]=
 		{
 			id = 5,
-			img = "activity_icon_gift273_sqm",
+			img = "activity_icon_gift151_cz",
 			real = 1,
-			text = "卷纸16卷",
-			server_award_id = 12036,
+			text = "抽纸五包",
+			server_award_id = 12077,
 		},
 		[6]=
 		{
@@ -47,7 +61,7 @@ return {
 			img = "ty_icon_flq2",
 			asset_type = "shop_gold_sum",
 			text = "800福利券",
-			server_award_id = 12037,
+			server_award_id = 12078,
 		},
 		[7]=
 		{
@@ -55,7 +69,7 @@ return {
 			img = "ty_icon_jb_15y",
 			asset_type = "jing_bi",
 			text = "100万金币",
-			server_award_id = 12038,
+			server_award_id = 12079,
 		},
 		[8]=
 		{
@@ -63,7 +77,7 @@ return {
 			img = "ty_icon_jb_15y",
 			asset_type = "jing_bi",
 			text = "50万金币",
-			server_award_id = 12039,
+			server_award_id = 12080,
 		},
 		[9]=
 		{
@@ -71,7 +85,7 @@ return {
 			img = "ty_icon_flq2",
 			asset_type = "shop_gold_sum",
 			text = "100福利券",
-			server_award_id = 12040,
+			server_award_id = 12081,
 		},
 		[10]=
 		{
@@ -79,7 +93,7 @@ return {
 			img = "ty_icon_jb_15y",
 			asset_type = "jing_bi",
 			text = "10万金币",
-			server_award_id = 12041,
+			server_award_id = 12082,
 		},
 		[11]=
 		{
@@ -87,7 +101,7 @@ return {
 			img = "com_award_icon_hfsp",
 			asset_type = "prop_web_chip_huafei",
 			text = "100话费碎片",
-			server_award_id = 12042,
+			server_award_id = 12083,
 		},
 		[12]=
 		{
@@ -95,7 +109,7 @@ return {
 			img = "ty_icon_yxb_2",
 			asset_type = "prop_tiny_game_coin",
 			text = "8万小游戏币",
-			server_award_id = 12043,
+			server_award_id = 12084,
 		},
 		[13]=
 		{
@@ -103,7 +117,7 @@ return {
 			img = "ty_icon_flq2",
 			asset_type = "shop_gold_sum",
 			text = "30福利券",
-			server_award_id = 12044,
+			server_award_id = 12085,
 		},
 		[14]=
 		{
@@ -111,7 +125,7 @@ return {
 			img = "com_award_icon_hfsp",
 			asset_type = "prop_web_chip_huafei",
 			text = "15话费碎片",
-			server_award_id = 12045,
+			server_award_id = 12086,
 		},
 		[15]=
 		{
@@ -119,43 +133,31 @@ return {
 			img = "ty_icon_yxb_2",
 			asset_type = "prop_tiny_game_coin",
 			text = "30000小游戏币",
-			server_award_id = 12046,
+			server_award_id = 12087,
 		},
 	},
-	Task=
+	All_Task=
 	{
 		[1]=
 		{
 			id = 1,
-			task_id = 1000614,
+			task_id = 1000655,
+			box_exchange_id = 96,
+			change_type = "box_exchange_active_award_96",
 		},
 		[2]=
 		{
 			id = 2,
-			task_id = 1000615,
+			task_id = 1000656,
+			box_exchange_id = 97,
+			change_type = "box_exchange_active_award_97",
 		},
 		[3]=
 		{
 			id = 3,
-			task_id = 1000616,
-		},
-	},
-	Box_exchange=
-	{
-		[1]=
-		{
-			id = 1,
-			box_exchange_id = 90,
-		},
-		[2]=
-		{
-			id = 2,
-			box_exchange_id = 91,
-		},
-		[3]=
-		{
-			id = 3,
-			box_exchange_id = 92,
+			task_id = 1000657,
+			box_exchange_id = 98,
+			change_type = "box_exchange_active_award_98",
 		},
 	},
 	Award_sw=
@@ -163,23 +165,23 @@ return {
 		[1]=
 		{
 			id = 1,
-			image = "activity_icon_gift269_sqm",
-			tex = "金龙鱼大米",
+			image = "activity_icon_gift151_jlyy",
+			tex = "金龙鱼油900ml",
 			offset = {0,20,50,100,200,400},
 		},
 		[2]=
 		{
 			id = 2,
-			image = "activity_icon_gift268_sqm",
-			tex = "索尼耳机",
+			image = "activity_icon_gift151_ysyn",
+			tex = "椰汁24盒",
 			offset = {0,100,500,1000,1500,2200},
 		},
 		[3]=
 		{
 			id = 3,
-			image = "activity_icon_gift103_xlx",
-			tex = "高级旅行箱",
-			offset = {0,100,500,1000,1500,4000},
+			image = "activity_icon_gift151_dg",
+			tex = "美的电火锅",
+			offset = {0,100,500,1000,1500,3500},
 		},
 	},
 }
