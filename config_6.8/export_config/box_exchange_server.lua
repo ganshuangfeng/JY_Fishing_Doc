@@ -11160,21 +11160,21 @@ return {
 		[96]=
 		{
 			box_id = 96,
-			rank_type = "zqdw_ 019_fqdr_rank",
+			rank_type = "zqdw_019_fqdr_rank",
 			prop_type = "prop_grade",
 			base_score = 10,
 		},
 		[97]=
 		{
 			box_id = 97,
-			rank_type = "zqdw_ 019_fqdr_rank",
+			rank_type = "zqdw_019_fqdr_rank",
 			prop_type = "prop_grade",
 			base_score = 10,
 		},
 		[98]=
 		{
 			box_id = 98,
-			rank_type = "zqdw_ 019_fqdr_rank",
+			rank_type = "zqdw_019_fqdr_rank",
 			prop_type = "prop_grade",
 			base_score = 10,
 		},
