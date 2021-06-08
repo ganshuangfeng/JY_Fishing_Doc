@@ -2268,12 +2268,6 @@ return {
 			name = "通行证全cpl用户",
 			condi = 447,
 		},
-		txz_type_plat2=
-		{
-			key = "txz_type_plat2",
-			name = "通行证非cps用户",
-			condi = 494,
-		},
 		xshb_042_deblocking_v4=
 		{
 			key = "xshb_042_deblocking_v4",
@@ -7138,6 +7132,18 @@ return {
 			key = "actp_prop_exchange_nor_v2",
 			name = "道具兑换（VIP2，非冲金鸡）",
 			condi = 448,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1619481600,
+		},
+		[404]=
+		{
+			id = 404,
+			enable = 1,
+			key = "actp_own_task_txz",
+			name = "通行证任务cps不显示",
+			condi = 494,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
