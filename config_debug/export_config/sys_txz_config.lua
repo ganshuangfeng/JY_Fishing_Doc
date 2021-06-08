@@ -159,7 +159,7 @@ return {
 			addvalue = 200,
 			gotoUI = {"sys_flqcj","panel",1},
 			task_name = "使用1次红包大转盘",
-			condi_key = "txz_type_plat2",
+			condi_key = "actp_own_task_txz",
 		},
 		[11]=
 		{

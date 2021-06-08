@@ -1582,7 +1582,7 @@ return {
 			id = 30013,
 			enable = 1,
 			name = "通行证-每周-使用1次红包大转盘",
-			own_type = "txz_type_plat2",
+			own_type = "actp_own_task_txz",
 			task_enum = "common",
 			process_id = 113,
 			is_reset = 1,
