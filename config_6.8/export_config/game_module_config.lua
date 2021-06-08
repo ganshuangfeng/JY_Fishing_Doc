@@ -3339,5 +3339,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[341]=
+		{
+			id = 341,
+			key = "act_042_xshb",
+			desc = "限时红包",
+			lua = "Act_042_XSHBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
