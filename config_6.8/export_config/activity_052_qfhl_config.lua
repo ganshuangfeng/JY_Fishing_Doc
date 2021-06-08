@@ -7,7 +7,7 @@ return {
 			img = "activity_icon_gift151_mdkt",
 			real = 1,
 			text = "美的空调",
-			server_award_id = 12032,
+			server_award_id = 12073,
 		},
 		[2]=
 		{
@@ -15,7 +15,7 @@ return {
 			img = "activity_icon_gift151_pbdn",
 			real = 1,
 			text = "平板电脑",
-			server_award_id = 12033,
+			server_award_id = 12074,
 		},
 		[3]=
 		{
@@ -23,7 +23,7 @@ return {
 			img = "activity_icon_gift151_kl",
 			real = 1,
 			text = "可乐12瓶",
-			server_award_id = 12034,
+			server_award_id = 12075,
 		},
 		[4]=
 		{
@@ -31,7 +31,7 @@ return {
 			img = "activity_icon_gift151_qzs",
 			real = 1,
 			text = "亲嘴烧30片",
-			server_award_id = 12035,
+			server_award_id = 12076,
 		},
 		[5]=
 		{
@@ -39,7 +39,7 @@ return {
 			img = "activity_icon_gift151_cz",
 			real = 1,
 			text = "抽纸五包",
-			server_award_id = 12036,
+			server_award_id = 12077,
 		},
 		[6]=
 		{
@@ -47,7 +47,7 @@ return {
 			img = "ty_icon_flq2",
 			asset_type = "shop_gold_sum",
 			text = "800福利券",
-			server_award_id = 12037,
+			server_award_id = 12078,
 		},
 		[7]=
 		{
@@ -55,7 +55,7 @@ return {
 			img = "ty_icon_jb_15y",
 			asset_type = "jing_bi",
 			text = "100万金币",
-			server_award_id = 12038,
+			server_award_id = 12079,
 		},
 		[8]=
 		{
@@ -63,7 +63,7 @@ return {
 			img = "ty_icon_jb_15y",
 			asset_type = "jing_bi",
 			text = "50万金币",
-			server_award_id = 12039,
+			server_award_id = 12080,
 		},
 		[9]=
 		{
@@ -71,7 +71,7 @@ return {
 			img = "ty_icon_flq2",
 			asset_type = "shop_gold_sum",
 			text = "100福利券",
-			server_award_id = 12040,
+			server_award_id = 12081,
 		},
 		[10]=
 		{
@@ -79,7 +79,7 @@ return {
 			img = "ty_icon_jb_15y",
 			asset_type = "jing_bi",
 			text = "10万金币",
-			server_award_id = 12041,
+			server_award_id = 12082,
 		},
 		[11]=
 		{
@@ -87,7 +87,7 @@ return {
 			img = "com_award_icon_hfsp",
 			asset_type = "prop_web_chip_huafei",
 			text = "100话费碎片",
-			server_award_id = 12042,
+			server_award_id = 12083,
 		},
 		[12]=
 		{
@@ -95,7 +95,7 @@ return {
 			img = "ty_icon_yxb_2",
 			asset_type = "prop_tiny_game_coin",
 			text = "8万小游戏币",
-			server_award_id = 12043,
+			server_award_id = 12084,
 		},
 		[13]=
 		{
@@ -103,7 +103,7 @@ return {
 			img = "ty_icon_flq2",
 			asset_type = "shop_gold_sum",
 			text = "30福利券",
-			server_award_id = 12044,
+			server_award_id = 12085,
 		},
 		[14]=
 		{
@@ -111,7 +111,7 @@ return {
 			img = "com_award_icon_hfsp",
 			asset_type = "prop_web_chip_huafei",
 			text = "15话费碎片",
-			server_award_id = 12045,
+			server_award_id = 12086,
 		},
 		[15]=
 		{
@@ -119,7 +119,7 @@ return {
 			img = "ty_icon_yxb_2",
 			asset_type = "prop_tiny_game_coin",
 			text = "30000小游戏币",
-			server_award_id = 12046,
+			server_award_id = 12087,
 		},
 	},
 	Task=

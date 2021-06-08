@@ -10380,7 +10380,7 @@ return {
 		{
 			id = 601,
 			real_award_id = 12073,
-			award_name = "没得空调",
+			award_name = "美的空调",
 			asset_count = {1,1},
 		},
 		[602]=
