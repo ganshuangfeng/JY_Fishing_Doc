@@ -2268,6 +2268,12 @@ return {
 			name = "通行证全cpl用户",
 			condi = 447,
 		},
+		txz_type_plat2=
+		{
+			key = "txz_type_plat2",
+			name = "通行证非cps用户",
+			condi = 494,
+		},
 	},
 	act_permission=
 	{
@@ -17859,6 +17865,36 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "VIP2及以上玩家",
+		},
+		[1076]=
+		{
+			no = 1076,
+			id = 494,
+			var = "share_condition",
+			value = "tthlby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是天天捕鱼cps",
+		},
+		[1077]=
+		{
+			no = 1077,
+			id = 494,
+			var = "share_condition",
+			value = "byam_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是捕鱼奥秘的cps",
+		},
+		[1078]=
+		{
+			no = 1078,
+			id = 494,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是3d捕鱼的cps",
 		},
 	},
 	share_condition=

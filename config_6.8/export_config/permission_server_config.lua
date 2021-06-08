@@ -2268,6 +2268,12 @@ return {
 			name = "通行证全cpl用户",
 			condi = 447,
 		},
+		txz_type_plat2=
+		{
+			key = "txz_type_plat2",
+			name = "通行证非cps用户",
+			condi = 494,
+		},
 		xshb_042_deblocking_v4=
 		{
 			key = "xshb_042_deblocking_v4",
@@ -17939,6 +17945,36 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "2021年6月8日及之后注册的用户",
+		},
+		[1081]=
+		{
+			no = 1081,
+			id = 494,
+			var = "share_condition",
+			value = "tthlby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是天天捕鱼cps",
+		},
+		[1082]=
+		{
+			no = 1082,
+			id = 494,
+			var = "share_condition",
+			value = "byam_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是捕鱼奥秘的cps",
+		},
+		[1083]=
+		{
+			no = 1083,
+			id = 494,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是3d捕鱼的cps",
 		},
 	},
 	share_condition=
