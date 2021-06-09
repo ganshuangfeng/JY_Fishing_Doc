@@ -66,7 +66,7 @@ return {
 			task_txt = "单笔充值≥6元",
 			limit = "终身3次",
 			unlock_id = 5,
-			goto_ui = "game_MiniGame",
+			goto_ui = {shop_bay,"jing_bi",},
 			is_on = 1,
 		},
 		[6]=
@@ -79,7 +79,7 @@ return {
 			show_permission = "actp_own_task_p_show_not",
 			limit = "终身1次",
 			unlock_id = 6,
-			goto_ui = "game_MiniGame",
+			goto_ui = {shop_bay,"jing_bi",},
 			is_on = 1,
 		},
 	},
