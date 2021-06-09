@@ -15487,7 +15487,7 @@ return {
 			id = 1000664,
 			enable = 1,
 			name = "限时红包",
-			own_type = "normal",
+			own_type = "step_task_show_not",
 			task_enum = "common",
 			process_id = 22022,
 			is_reset = 0,
