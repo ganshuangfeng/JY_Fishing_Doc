@@ -17755,12 +17755,6 @@ return {
 		[1064]=
 		{
 			no = 1064,
-			id = 443,
-			var = "systype",
-			value = "ios",
-			judge = 5,
-			group = 1,
-			error_desc = "不是IOS用户",
 		},
 		[1065]=
 		{
@@ -17775,12 +17769,6 @@ return {
 		[1066]=
 		{
 			no = 1066,
-			id = 444,
-			var = "systype",
-			value = "ios",
-			judge = 2,
-			group = 1,
-			error_desc = "是IOS用户",
 		},
 		[1067]=
 		{
@@ -17795,12 +17783,6 @@ return {
 		[1068]=
 		{
 			no = 1068,
-			id = 445,
-			var = "systype",
-			value = "ios",
-			judge = 5,
-			group = 1,
-			error_desc = "不是IOS用户",
 		},
 		[1069]=
 		{
@@ -17815,12 +17797,6 @@ return {
 		[1070]=
 		{
 			no = 1070,
-			id = 446,
-			var = "systype",
-			value = "ios",
-			judge = 2,
-			group = 1,
-			error_desc = "是IOS用户",
 		},
 		[1071]=
 		{
