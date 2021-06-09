@@ -1,4 +1,16 @@
 return {
+	cfg=
+	{
+		[1]=
+		{
+			line = 1,
+			id = 1,
+			pay_item_key = {"prop_fish_drop_act_0","prop_grade",},
+			PerNeed = {300,10},
+			s_time = 1623110400,
+			e_time = 1623686399,
+		},
+	},
 	Award1=
 	{
 		[1]=
@@ -122,39 +134,24 @@ return {
 			server_award_id = 12087,
 		},
 	},
-	Task=
+	All_Task=
 	{
 		[1]=
 		{
 			id = 1,
 			task_id = 1000655,
-		},
-		[2]=
-		{
-			id = 2,
-			task_id = 1000656,
-		},
-		[3]=
-		{
-			id = 3,
-			task_id = 1000657,
-		},
-	},
-	Box_exchange=
-	{
-		[1]=
-		{
-			id = 1,
 			box_exchange_id = 96,
 		},
 		[2]=
 		{
 			id = 2,
+			task_id = 1000656,
 			box_exchange_id = 97,
 		},
 		[3]=
 		{
 			id = 3,
+			task_id = 1000657,
 			box_exchange_id = 98,
 		},
 	},
