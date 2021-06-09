@@ -3760,7 +3760,7 @@ return {
 			id = 136,
 			source_id = 103,
 			source_type = "buyu_3d_spend_num",
-			condition_id = 0,
+			condition_id = 39,
 		},
 		[137]=
 		{
@@ -4383,6 +4383,14 @@ return {
 		{
 			id = 69,
 			condition_id = 38,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[70]=
+		{
+			id = 70,
+			condition_id = 39,
 			condition_name = "fish_game_id",
 			condition_value = 3,
 			judge_type = 2,
