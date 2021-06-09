@@ -4379,6 +4379,14 @@ return {
 			condition_value = 93,
 			judge_type = 2,
 		},
+		[69]=
+		{
+			id = 69,
+			condition_id = 38,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
 	},
 	award_data=
 	{
