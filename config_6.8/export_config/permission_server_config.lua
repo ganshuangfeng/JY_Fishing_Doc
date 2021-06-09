@@ -2292,6 +2292,18 @@ return {
 			name = "限时红包解锁（V1以上）",
 			condi = 492,
 		},
+		tthlby_all_pmd=
+		{
+			key = "tthlby_all_pmd",
+			name = "全部天天欢乐捕鱼玩家（跑马灯用）",
+			condi = 495,
+		},
+		byam_all_pmd=
+		{
+			key = "byam_all_pmd",
+			name = "全部捕鱼奥秘玩家（跑马灯用）",
+			condi = 496,
+		},
 	},
 	act_permission=
 	{
@@ -17987,6 +17999,26 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是3d捕鱼的cps",
+		},
+		[1084]=
+		{
+			no = 1084,
+			id = 495,
+			var = "share_condition",
+			value = "tthlby_all",
+			judge = 2,
+			group = 1,
+			error_desc = "全部天天捕鱼玩家",
+		},
+		[1085]=
+		{
+			no = 1085,
+			id = 496,
+			var = "share_condition",
+			value = "byam_all",
+			judge = 2,
+			group = 1,
+			error_desc = "全部捕鱼奥秘玩家",
 		},
 	},
 	share_condition=
