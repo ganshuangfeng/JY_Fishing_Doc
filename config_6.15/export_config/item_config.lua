@@ -4389,7 +4389,7 @@ return {
 			is_show_bag = 1,
 			order = 1,
 			name = "金钥匙",
-			desc = "在夺宝中开启普通宝箱",
+			desc = "在夺宝中开启豪华宝箱",
 		},
 		[325]=
 		{
@@ -4402,7 +4402,7 @@ return {
 			is_show_bag = 1,
 			order = 1,
 			name = "银钥匙",
-			desc = "在夺宝中开启豪华宝箱",
+			desc = "在夺宝中开启普通宝箱",
 		},
 		[326]=
 		{
