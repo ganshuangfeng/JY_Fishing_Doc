@@ -9,6 +9,7 @@ return {
 			PerNeed = {300,10},
 			s_time = 1623110400,
 			e_time = 1623686399,
+			data_type = "qfhl_lottery",
 		},
 	},
 	Award1=
@@ -142,7 +143,6 @@ return {
 			task_id = 1000655,
 			box_exchange_id = 96,
 			change_type = "box_exchange_active_award_96",
-			data_type = "qfhl_lottery",
 		},
 		[2]=
 		{
@@ -150,7 +150,6 @@ return {
 			task_id = 1000656,
 			box_exchange_id = 97,
 			change_type = "box_exchange_active_award_97",
-			data_type = "qfhl_lottery",
 		},
 		[3]=
 		{
@@ -158,7 +157,6 @@ return {
 			task_id = 1000657,
 			box_exchange_id = 98,
 			change_type = "box_exchange_active_award_98",
-			data_type = "qfhl_lottery",
 		},
 	},
 	Award_sw=
