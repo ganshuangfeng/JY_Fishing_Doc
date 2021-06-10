@@ -11,7 +11,7 @@ return {
 			beginTime = 1622505600,
 			endTime = 1623081599,
 			config = {1,2,3,4,5,6,7,8,9,10},
-			GotoUI = {"game_MiniGame",},
+			GotoUI = {"game_Fishing3DHall",},
 			help = "help_info",
 		},
 	},

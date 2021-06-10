@@ -43,7 +43,7 @@ return {
 			index = 4,
 			need_num = 100,
 			award_name = "水滴",
-			award_amount = "10个到40个",
+			award_amount = "10个~40个",
 			award_icon = "zpg_icon_shui",
 			tips = "请在苹果大战中使用",
 		},
