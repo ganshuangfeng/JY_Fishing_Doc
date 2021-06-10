@@ -25556,7 +25556,7 @@ return {
 			id = 1074,
 			process_id = 22022,
 			source_id = 650,
-			process = 200000,
+			process = 1,
 			awards = 1409,
 			get_award_type = "nor",
 		},
@@ -37994,6 +37994,14 @@ return {
 			condition_name = "asset_type",
 			condition_value = "jing_bi",
 			judge_type = 2,
+		},
+		[652]=
+		{
+			id = 652,
+			condition_id = 486,
+			condition_name = "now_value",
+			condition_value = 200000,
+			judge_type = 3,
 		},
 	},
 	award_data=
