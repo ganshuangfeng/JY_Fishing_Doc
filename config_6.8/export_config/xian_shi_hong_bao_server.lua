@@ -4,7 +4,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			task_id = 21578,
+			task_id = 1000659,
 			unlock_spend = 1000,
 			unlock_num_type = 2,
 			unlock_num = 1,
@@ -15,7 +15,7 @@ return {
 		[2]=
 		{
 			id = 2,
-			task_id = 21579,
+			task_id = 1000660,
 			unlock_spend = 500,
 			unlock_num_type = 2,
 			unlock_num = 1,
@@ -26,7 +26,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			task_id = 21580,
+			task_id = 1000661,
 			unlock_spend = 300,
 			unlock_num_type = 2,
 			unlock_num = 1,
@@ -37,7 +37,7 @@ return {
 		[4]=
 		{
 			id = 4,
-			task_id = 21581,
+			task_id = 1000662,
 			unlock_spend = 100,
 			unlock_num_type = 2,
 			unlock_num = 1,
@@ -48,7 +48,7 @@ return {
 		[5]=
 		{
 			id = 5,
-			task_id = 21582,
+			task_id = 1000663,
 			unlock_spend = 300,
 			unlock_num_type = 1,
 			unlock_num = 3,
@@ -58,7 +58,7 @@ return {
 		[6]=
 		{
 			id = 6,
-			task_id = 21583,
+			task_id = 1000664,
 			unlock_spend = 50,
 			unlock_num_type = 1,
 			unlock_num = 1,

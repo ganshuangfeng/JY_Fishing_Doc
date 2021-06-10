@@ -2292,12 +2292,6 @@ return {
 			name = "限时红包解锁（V1以上）",
 			condi = 492,
 		},
-		step_task_show_not=
-		{
-			key = "step_task_show_not",
-			name = "显示红包6月8日及之后注册的用户展示",
-			condi = 493,
-		},
 	},
 	act_permission=
 	{
@@ -7148,6 +7142,18 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
 			start_deal_time = 1619481600,
+		},
+		[405]=
+		{
+			id = 405,
+			enable = 1,
+			key = "actp_own_task_p_show_not",
+			name = "显示红包6月8日及之后注册的用户展示",
+			condi = 493,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1623110400,
 		},
 	},
 	condi=
