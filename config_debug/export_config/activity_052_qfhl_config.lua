@@ -10,6 +10,7 @@ return {
 			s_time = 1623110400,
 			e_time = 1623686399,
 			data_type = "qfhl_lottery",
+			data_other_type = "qfhl_1_lottery",
 		},
 	},
 	Award1=
