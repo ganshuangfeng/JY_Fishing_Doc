@@ -5914,7 +5914,7 @@ return {
 		{
 			id = 192,
 			award_id = 175,
-			asset_type = "obj_aqunman_add2_604800",
+			asset_type = "obj_aquaman_add2_604800",
 			asset_count = 1,
 			get_weight = 1,
 		},
@@ -5994,7 +5994,7 @@ return {
 		{
 			id = 202,
 			award_id = 185,
-			asset_type = "obj_aqunman_add8_604800",
+			asset_type = "obj_aquaman_add8_604800",
 			asset_count = 1,
 			get_weight = 1,
 		},
