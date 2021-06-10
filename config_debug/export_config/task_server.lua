@@ -5818,7 +5818,7 @@ return {
 		{
 			id = 180,
 			award_id = 163,
-			asset_type = "obj_fish_3d_quick_shoot",
+			asset_type = "prop_3d_fish_accelerate",
 			asset_count = 5,
 			get_weight = 1,
 		},
@@ -5826,7 +5826,7 @@ return {
 		{
 			id = 181,
 			award_id = 164,
-			asset_type = "obj_fish_3d_time_free_power_bullet",
+			asset_type = "prop_3d_fish_wild",
 			asset_count = 5,
 			get_weight = 1,
 		},

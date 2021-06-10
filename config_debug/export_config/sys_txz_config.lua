@@ -49,13 +49,13 @@ return {
 		[7]=
 		{
 			id = 7,
-			icon = {"bygame_icon_dan_bs08","ty_icon_jb_6y","ty_icon_jb_18y"},
+			icon = {"3dby_btn_js","ty_icon_jb_6y","ty_icon_jb_18y"},
 			num = {"快速子弹*5","14万金币","56万金币"},
 		},
 		[8]=
 		{
 			id = 8,
-			icon = {"bygame_icon_cjhl","ty_icon_jb_6y","ty_icon_jb_18y"},
+			icon = {"3dby_btn_kb","ty_icon_jb_6y","ty_icon_jb_18y"},
 			num = {"超级火力*5","16万金币","64万金币"},
 		},
 		[9]=
