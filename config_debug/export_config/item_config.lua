@@ -4356,7 +4356,7 @@ return {
 		{
 			id = 322,
 			item_id = 322,
-			item_key = "obj_aqunman_add8",
+			item_key = "obj_aquaman_add8",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "ty_icon_debjc88",
@@ -4369,7 +4369,7 @@ return {
 		{
 			id = 323,
 			item_id = 323,
-			item_key = "obj_aqunman_add2",
+			item_key = "obj_aquaman_add2",
 			lose_time = -1,
 			is_local_icon = 1,
 			image = "ty_icon_debjc2",
