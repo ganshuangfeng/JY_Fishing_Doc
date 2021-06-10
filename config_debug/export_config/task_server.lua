@@ -3816,7 +3816,7 @@ return {
 			id = 144,
 			source_id = 111,
 			source_type = "buyu_3d_target_yu",
-			condition_id = 0,
+			condition_id = 38,
 		},
 		[145]=
 		{
