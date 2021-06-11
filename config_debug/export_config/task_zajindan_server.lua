@@ -56272,6 +56272,7 @@ return {
 			award_id = 1383,
 			award_name = "金龙鱼油900ml",
 			get_weight = 1,
+			is_send_email = 1,
 		},
 		[2285]=
 		{
@@ -56311,6 +56312,7 @@ return {
 			award_id = 1388,
 			award_name = "椰汁24盒",
 			get_weight = 1,
+			is_send_email = 1,
 		},
 		[2290]=
 		{
@@ -56349,6 +56351,7 @@ return {
 			id = 2294,
 			award_id = 1393,
 			award_name = "美的电火锅",
+			is_send_email = 1,
 		},
 		[2295]=
 		{
