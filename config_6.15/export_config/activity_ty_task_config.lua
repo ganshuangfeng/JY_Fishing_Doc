@@ -4,7 +4,7 @@ return {
 		[1]=
 		{
 			index = 1,
-			key = "act_yxbd",
+			key = "act_yxrw",
 			icon = "hlfl_bg_1",
 			name = "奖励金币",
 			tges = 1,
@@ -12,7 +12,7 @@ return {
 		[2]=
 		{
 			index = 2,
-			key = "act_yxbd_cjj",
+			key = "act_yxrw_cjj",
 			icon = "hlfl_bg_1",
 			name = "奖励金币_cjj",
 			tges = 2,
@@ -71,7 +71,7 @@ return {
 		[1]=
 		{
 			tge_index = 1,
-			name = "act_yxbd",
+			name = "act_yxrw",
 			on_off = 1,
 			is_show = 1,
 			order = 1,
@@ -80,7 +80,7 @@ return {
 		[2]=
 		{
 			tge_index = 2,
-			name = "act_yxbd_cjj",
+			name = "act_yxrw_cjj",
 			on_off = 1,
 			is_show = 1,
 			order = 1,
