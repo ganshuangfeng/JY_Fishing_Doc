@@ -145,7 +145,7 @@ return {
 			task_name = "在苹果大战中，累计纯赢1万",
 			level = 1,
 			item = {"jing_bi",},
-			count = 5000,
+			count = {5000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[2]=
@@ -156,7 +156,7 @@ return {
 			task_name = "在苹果大战中，累计纯赢5万",
 			level = 1,
 			item = {"jing_bi",},
-			count = 10000,
+			count = {10000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[3]=
@@ -167,7 +167,7 @@ return {
 			task_name = "在苹果大战中，累计纯赢20万",
 			level = 1,
 			item = {"jing_bi",},
-			count = 20000,
+			count = {20000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[4]=
@@ -178,7 +178,7 @@ return {
 			task_name = "在3D捕鱼深海探险中当前层数+5",
 			level = 1,
 			item = {"jing_bi",},
-			count = 10000,
+			count = {10000,},
 			gotoUI = {"game_Fishing3DHall",},
 		},
 		[5]=
@@ -189,7 +189,7 @@ return {
 			task_name = "在3D捕鱼海底宝藏累计使用5次双倍奖励",
 			level = 1,
 			item = {"jing_bi",},
-			count = 10000,
+			count = {10000,},
 			gotoUI = {"game_Fishing3DHall",},
 		},
 		[6]=
@@ -200,7 +200,7 @@ return {
 			task_name = "在3D捕鱼海底宝藏及以上场次任意击杀1条boss",
 			level = 1,
 			item = {"jing_bi",},
-			count = 20000,
+			count = {20000,},
 			gotoUI = {"game_Fishing3DHall",},
 		},
 		[7]=
@@ -211,7 +211,7 @@ return {
 			task_name = "在西游消消乐中消除6个孙悟空",
 			level = 1,
 			item = {"jing_bi",},
-			count = 20000,
+			count = {20000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[8]=
@@ -222,7 +222,7 @@ return {
 			task_name = "在西游消消乐中消除6个唐僧",
 			level = 1,
 			item = {"jing_bi",},
-			count = 20000,
+			count = {20000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[9]=
@@ -233,7 +233,7 @@ return {
 			task_name = "在水浒消消乐中召唤出2个英雄",
 			level = 1,
 			item = {"jing_bi",},
-			count = 20000,
+			count = {20000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[10]=
@@ -244,7 +244,7 @@ return {
 			task_name = "在水浒消消乐中召唤出4个英雄",
 			level = 1,
 			item = {"jing_bi",},
-			count = 30000,
+			count = {30000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[11]=
@@ -255,7 +255,7 @@ return {
 			task_name = "在财神消消乐中累计出现2次天女散花",
 			level = 1,
 			item = {"jing_bi",},
-			count = 20000,
+			count = {20000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[12]=
@@ -266,7 +266,7 @@ return {
 			task_name = "在财神消消乐中累计出现5次天女散花",
 			level = 1,
 			item = {"jing_bi",},
-			count = 30000,
+			count = {30000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[13]=
@@ -277,7 +277,7 @@ return {
 			task_name = "在苹果大战中，累计纯赢1万",
 			level = 1,
 			item = {"jing_bi",},
-			count = 5000,
+			count = {5000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[14]=
@@ -288,7 +288,7 @@ return {
 			task_name = "在苹果大战中，累计纯赢5万",
 			level = 1,
 			item = {"jing_bi",},
-			count = 10000,
+			count = {10000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[15]=
@@ -299,7 +299,7 @@ return {
 			task_name = "在西游消消乐中消除3个孙悟空",
 			level = 1,
 			item = {"jing_bi",},
-			count = 10000,
+			count = {10000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[16]=
@@ -310,7 +310,7 @@ return {
 			task_name = "在西游消消乐中消除6个孙悟空",
 			level = 1,
 			item = {"jing_bi",},
-			count = 20000,
+			count = {20000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[17]=
@@ -321,7 +321,7 @@ return {
 			task_name = "在西游消消乐中消除3个唐僧",
 			level = 1,
 			item = {"jing_bi",},
-			count = 20000,
+			count = {20000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[18]=
@@ -332,7 +332,7 @@ return {
 			task_name = "在水浒消消乐中召唤出2个英雄",
 			level = 1,
 			item = {"jing_bi",},
-			count = 20000,
+			count = {20000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[19]=
@@ -343,7 +343,7 @@ return {
 			task_name = "在水浒消消乐中召唤出4个英雄",
 			level = 1,
 			item = {"jing_bi",},
-			count = 30000,
+			count = {30000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[20]=
@@ -354,7 +354,7 @@ return {
 			task_name = "在冲金鸡财神模式中连胜3局",
 			level = 1,
 			item = {"jing_bi",},
-			count = 20000,
+			count = {20000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[21]=
@@ -365,7 +365,7 @@ return {
 			task_name = "在龙王争霸中累计赢金30万",
 			level = 1,
 			item = {"jing_bi",},
-			count = 10000,
+			count = {10000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[22]=
@@ -376,7 +376,7 @@ return {
 			task_name = "在龙王争霸中累计赢金60万",
 			level = 1,
 			item = {"jing_bi",},
-			count = 20000,
+			count = {20000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[23]=
@@ -387,7 +387,7 @@ return {
 			task_name = "在财神消消乐中累计出现2次天女散花",
 			level = 1,
 			item = {"jing_bi",},
-			count = 20000,
+			count = {20000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[24]=
@@ -398,7 +398,7 @@ return {
 			task_name = "在财神消消乐中累计出现5次天女散花",
 			level = 1,
 			item = {"jing_bi",},
-			count = 30000,
+			count = {30000,},
 			gotoUI = {"game_MiniGame",},
 		},
 	},
