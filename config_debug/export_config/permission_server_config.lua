@@ -2268,6 +2268,12 @@ return {
 			name = "通行证全cpl用户",
 			condi = 447,
 		},
+		byam_tape_sigmob=
+		{
+			key = "byam_tape_sigmob",
+			name = "捕鱼奥秘乐元素渠道（CPA引流）",
+			condi = 498,
+		},
 	},
 	act_permission=
 	{
@@ -17951,6 +17957,16 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不展示给cjj",
+		},
+		[1084]=
+		{
+			no = 1084,
+			id = 498,
+			var = "market_channel",
+			value = "sigmob",
+			judge = 2,
+			group = 1,
+			error_desc = "乐元素渠道",
 		},
 	},
 	share_condition=
