@@ -17747,14 +17747,24 @@ return {
 			no = 1063,
 			id = 443,
 			var = "share_condition",
-			value = "tthlby_official",
+			value = "tthlby_all",
 			judge = 5,
 			group = 1,
-			error_desc = "不是欢乐捕鱼CPL",
+			error_desc = "不是天天欢乐捕鱼",
 		},
 		[1064]=
 		{
 			no = 1064,
+			id = 443,
+			var = "tag_type",
+			value = "tag_plat_own_byam",
+			judge = 5,
+			group = 1,
+			error_desc = "捕鱼奥秘没有账号",
+		},
+		[1065]=
+		{
+			no = 1065,
 			id = 443,
 			var = "systype",
 			value = "ios",
@@ -17762,19 +17772,29 @@ return {
 			group = 1,
 			error_desc = "不是IOS用户",
 		},
-		[1065]=
-		{
-			no = 1065,
-			id = 444,
-			var = "share_condition",
-			value = "tthlby_official",
-			judge = 5,
-			group = 1,
-			error_desc = "不是欢乐捕鱼CPL",
-		},
 		[1066]=
 		{
 			no = 1066,
+			id = 444,
+			var = "tag_type",
+			value = "tag_plat_own_byam",
+			judge = 5,
+			group = 1,
+			error_desc = "捕鱼奥秘没有账号",
+		},
+		[1067]=
+		{
+			no = 1067,
+			id = 444,
+			var = "share_condition",
+			value = "tthlby_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是天天欢乐捕鱼",
+		},
+		[1068]=
+		{
+			no = 1068,
 			id = 444,
 			var = "systype",
 			value = "ios",
@@ -17782,19 +17802,29 @@ return {
 			group = 1,
 			error_desc = "是IOS用户",
 		},
-		[1067]=
+		[1069]=
 		{
-			no = 1067,
+			no = 1069,
+			id = 445,
+			var = "tag_type",
+			value = "tag_plat_own_tthlby",
+			judge = 5,
+			group = 1,
+			error_desc = "天天欢乐捕鱼没有账号",
+		},
+		[1070]=
+		{
+			no = 1070,
 			id = 445,
 			var = "share_condition",
-			value = "tthlby_official",
+			value = "tthlby_all",
 			judge = 2,
 			group = 1,
-			error_desc = "是欢乐捕鱼CPL",
+			error_desc = "是天天欢乐捕鱼",
 		},
-		[1068]=
+		[1071]=
 		{
-			no = 1068,
+			no = 1071,
 			id = 445,
 			var = "systype",
 			value = "ios",
@@ -17802,19 +17832,29 @@ return {
 			group = 1,
 			error_desc = "不是IOS用户",
 		},
-		[1069]=
+		[1072]=
 		{
-			no = 1069,
+			no = 1072,
+			id = 446,
+			var = "tag_type",
+			value = "tag_plat_own_tthlby",
+			judge = 5,
+			group = 1,
+			error_desc = "天天欢乐捕鱼没有账号",
+		},
+		[1073]=
+		{
+			no = 1073,
 			id = 446,
 			var = "share_condition",
-			value = "tthlby_official",
+			value = "tthlby_all",
 			judge = 2,
 			group = 1,
-			error_desc = "是欢乐捕鱼CPL",
+			error_desc = "是天天欢乐捕鱼",
 		},
-		[1070]=
+		[1074]=
 		{
-			no = 1070,
+			no = 1074,
 			id = 446,
 			var = "systype",
 			value = "ios",
@@ -17822,9 +17862,9 @@ return {
 			group = 1,
 			error_desc = "是IOS用户",
 		},
-		[1071]=
+		[1075]=
 		{
-			no = 1071,
+			no = 1075,
 			id = 447,
 			var = "share_condition",
 			value = "byam_cpl",
@@ -17832,9 +17872,9 @@ return {
 			group = 1,
 			error_desc = "捕鱼奥秘cpl",
 		},
-		[1072]=
+		[1076]=
 		{
-			no = 1072,
+			no = 1076,
 			id = 447,
 			var = "share_condition",
 			value = "tthlby_cpl",
@@ -17842,9 +17882,9 @@ return {
 			group = 2,
 			error_desc = "欢乐天天捕鱼cpl",
 		},
-		[1073]=
+		[1077]=
 		{
-			no = 1073,
+			no = 1077,
 			id = 447,
 			var = "share_condition",
 			value = "cjj_cpl",
@@ -17852,9 +17892,9 @@ return {
 			group = 3,
 			error_desc = "冲金鸡cpl",
 		},
-		[1074]=
+		[1078]=
 		{
-			no = 1074,
+			no = 1078,
 			id = 448,
 			var = "share_condition",
 			value = "cjj_all",
@@ -17862,9 +17902,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1075]=
+		[1079]=
 		{
-			no = 1075,
+			no = 1079,
 			id = 448,
 			var = "vip_level",
 			value = 2,
@@ -17872,9 +17912,9 @@ return {
 			group = 1,
 			error_desc = "VIP2及以上玩家",
 		},
-		[1076]=
+		[1080]=
 		{
-			no = 1076,
+			no = 1080,
 			id = 494,
 			var = "share_condition",
 			value = "tthlby_cps",
@@ -17882,9 +17922,9 @@ return {
 			group = 1,
 			error_desc = "不是天天捕鱼cps",
 		},
-		[1077]=
+		[1081]=
 		{
-			no = 1077,
+			no = 1081,
 			id = 494,
 			var = "share_condition",
 			value = "byam_cps",
@@ -17892,9 +17932,9 @@ return {
 			group = 1,
 			error_desc = "不是捕鱼奥秘的cps",
 		},
-		[1078]=
+		[1082]=
 		{
-			no = 1078,
+			no = 1082,
 			id = 494,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -17902,9 +17942,9 @@ return {
 			group = 1,
 			error_desc = "不是3d捕鱼的cps",
 		},
-		[1079]=
+		[1083]=
 		{
-			no = 1079,
+			no = 1083,
 			id = 497,
 			var = "share_condition",
 			value = "cjj_all",
