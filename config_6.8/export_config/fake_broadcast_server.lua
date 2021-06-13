@@ -194,7 +194,7 @@ return {
 		{
 			id = 22,
 			content_type = "luck_lottery_1",
-			fixed_award = "4750福利券",
+			fixed_award = 4750,
 			power = 116,
 			permission = "tthlby_all_pmd",
 		},
@@ -202,7 +202,7 @@ return {
 		{
 			id = 23,
 			content_type = "luck_lottery_1",
-			fixed_award = "4750福利券",
+			fixed_award = 4750,
 			power = 116,
 			permission = "byam_all_pmd",
 		},
@@ -210,7 +210,7 @@ return {
 		{
 			id = 24,
 			content_type = "luck_lottery_1",
-			fixed_award = "40万福利券",
+			fixed_award = 400000,
 			power = 116,
 			permission = "tthlby_all_pmd",
 		},
@@ -218,7 +218,7 @@ return {
 		{
 			id = 25,
 			content_type = "luck_lottery_1",
-			fixed_award = "40万福利券",
+			fixed_award = 400000,
 			power = 116,
 			permission = "byam_all_pmd",
 		},
@@ -226,7 +226,7 @@ return {
 		{
 			id = 26,
 			content_type = "luck_lottery_1",
-			fixed_award = "1亿金币",
+			fixed_award = 100000000,
 			power = 116,
 			permission = "tthlby_all_pmd",
 		},
@@ -234,7 +234,7 @@ return {
 		{
 			id = 27,
 			content_type = "luck_lottery_1",
-			fixed_award = "1亿金币",
+			fixed_award = 100000000,
 			power = 116,
 			permission = "byam_all_pmd",
 		},
@@ -242,7 +242,7 @@ return {
 		{
 			id = 28,
 			content_type = "luck_lottery_2",
-			fixed_award = "4750福利券",
+			fixed_award = 4750,
 			power = 116,
 			permission = "tthlby_all_pmd",
 		},
@@ -250,7 +250,7 @@ return {
 		{
 			id = 29,
 			content_type = "luck_lottery_2",
-			fixed_award = "4750福利券",
+			fixed_award = 4750,
 			power = 116,
 			permission = "byam_all_pmd",
 		},
@@ -258,7 +258,7 @@ return {
 		{
 			id = 30,
 			content_type = "luck_lottery_2",
-			fixed_award = "40万福利券",
+			fixed_award = 400000,
 			power = 116,
 			permission = "tthlby_all_pmd",
 		},
@@ -266,7 +266,7 @@ return {
 		{
 			id = 31,
 			content_type = "luck_lottery_2",
-			fixed_award = "40万福利券",
+			fixed_award = 400000,
 			power = 116,
 			permission = "byam_all_pmd",
 		},
@@ -274,7 +274,7 @@ return {
 		{
 			id = 32,
 			content_type = "luck_lottery_2",
-			fixed_award = "1亿金币",
+			fixed_award = 100000000,
 			power = 116,
 			permission = "tthlby_all_pmd",
 		},
@@ -282,7 +282,7 @@ return {
 		{
 			id = 33,
 			content_type = "luck_lottery_2",
-			fixed_award = "1亿金币",
+			fixed_award = 100000000,
 			power = 116,
 			permission = "byam_all_pmd",
 		},
@@ -290,7 +290,7 @@ return {
 		{
 			id = 34,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "10000000~500000000",
+			random_award = {10000000,500000000},
 			power = 2081,
 			permission = "tthlby_all_pmd",
 		},
@@ -298,7 +298,7 @@ return {
 		{
 			id = 35,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "10000000~500000000",
+			random_award = {10000000,500000000},
 			power = 2081,
 			permission = "byam_all_pmd",
 		},
@@ -306,7 +306,7 @@ return {
 		{
 			id = 36,
 			content_type = "guess_award_big_award",
-			random_award = "10000000~500000000",
+			random_award = {10000000,500000000},
 			power = 2081,
 			permission = "tthlby_all_pmd",
 		},
@@ -314,7 +314,7 @@ return {
 		{
 			id = 37,
 			content_type = "guess_award_big_award",
-			random_award = "10000000~500000000",
+			random_award = {10000000,500000000},
 			power = 2081,
 			permission = "byam_all_pmd",
 		},
@@ -322,7 +322,7 @@ return {
 		{
 			id = 38,
 			content_type = "xiaoxiaole_shuihu_award_big_award",
-			random_award = "10000000~300000000",
+			random_award = {10000000,300000000},
 			power = 520,
 			permission = "tthlby_all_pmd",
 		},
@@ -330,7 +330,7 @@ return {
 		{
 			id = 39,
 			content_type = "xiaoxiaole_shuihu_award_big_award",
-			random_award = "10000000~300000000",
+			random_award = {10000000,300000000},
 			power = 520,
 			permission = "byam_all_pmd",
 		},
@@ -338,7 +338,7 @@ return {
 		{
 			id = 40,
 			content_type = "xiaoxiaole_xiyou_award_big_award",
-			random_award = "10000000~300000000",
+			random_award = {10000000,300000000},
 			power = 520,
 			permission = "tthlby_all_pmd",
 		},
@@ -346,7 +346,7 @@ return {
 		{
 			id = 41,
 			content_type = "xiaoxiaole_xiyou_award_big_award",
-			random_award = "10000000~300000000",
+			random_award = {10000000,300000000},
 			power = 520,
 			permission = "byam_all_pmd",
 		},
@@ -354,7 +354,7 @@ return {
 		{
 			id = 42,
 			content_type = "tantanle_award_big_award",
-			random_award = "10000000~200000000",
+			random_award = {10000000,200000000},
 			power = 216,
 			permission = "tthlby_all_pmd",
 		},
@@ -362,7 +362,7 @@ return {
 		{
 			id = 43,
 			content_type = "tantanle_award_big_award",
-			random_award = "10000000~200000000",
+			random_award = {10000000,200000000},
 			power = 216,
 			permission = "byam_all_pmd",
 		},
@@ -466,7 +466,7 @@ return {
 		{
 			id = 56,
 			content_type = "jykp_big_award",
-			random_award = "60000000~800000000",
+			random_award = {60000000,800000000},
 			power = 421,
 			permission = "tthlby_all_pmd",
 		},
@@ -474,7 +474,7 @@ return {
 		{
 			id = 57,
 			content_type = "jykp_big_award",
-			random_award = "60000000~800000000",
+			random_award = {60000000,800000000},
 			power = 421,
 			permission = "byam_all_pmd",
 		},
@@ -482,7 +482,7 @@ return {
 		{
 			id = 58,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "10000000~20000000",
+			random_award = {10000000,20000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -490,7 +490,7 @@ return {
 		{
 			id = 59,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "20000000~25000000",
+			random_award = {20000000,25000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -498,7 +498,7 @@ return {
 		{
 			id = 60,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "25000000~30000000",
+			random_award = {25000000,30000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -506,7 +506,7 @@ return {
 		{
 			id = 61,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "30000000~35000000",
+			random_award = {30000000,35000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -514,7 +514,7 @@ return {
 		{
 			id = 62,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "35000000~40000000",
+			random_award = {35000000,40000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -522,7 +522,7 @@ return {
 		{
 			id = 63,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "40000000~45000000",
+			random_award = {40000000,45000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -530,7 +530,7 @@ return {
 		{
 			id = 64,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "45000000~50000000",
+			random_award = {45000000,50000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -538,7 +538,7 @@ return {
 		{
 			id = 65,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "50000000~100000000",
+			random_award = {50000000,100000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -546,7 +546,7 @@ return {
 		{
 			id = 66,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "100000000~150000000",
+			random_award = {100000000,150000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -554,7 +554,7 @@ return {
 		{
 			id = 67,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "150000000~200000000",
+			random_award = {150000000,200000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -562,7 +562,7 @@ return {
 		{
 			id = 68,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "200000000~250000000",
+			random_award = {200000000,250000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -570,7 +570,7 @@ return {
 		{
 			id = 69,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "250000000~300000000",
+			random_award = {250000000,300000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -578,7 +578,7 @@ return {
 		{
 			id = 70,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "300000000~350000000",
+			random_award = {300000000,350000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -586,7 +586,7 @@ return {
 		{
 			id = 71,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "350000000~400000000",
+			random_award = {350000000,400000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -594,7 +594,7 @@ return {
 		{
 			id = 72,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "400000000~450000000",
+			random_award = {400000000,450000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -602,7 +602,7 @@ return {
 		{
 			id = 73,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "450000000~500000000",
+			random_award = {450000000,500000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -610,7 +610,7 @@ return {
 		{
 			id = 74,
 			content_type = "xiaoxiaole_award_big_award",
-			random_award = "500000000~550000000",
+			random_award = {500000000,550000000},
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -618,7 +618,7 @@ return {
 		{
 			id = 75,
 			content_type = "xiaoxiaole_shuihu_award_big_award",
-			random_award = "1000万~5亿金币",
+			random_award = {10000000,500000000},
 			power = 980,
 			permission = "cpl_cjj",
 		},
@@ -626,7 +626,7 @@ return {
 		{
 			id = 76,
 			content_type = "guess_award_big_award",
-			random_award = "1000万~5亿金币",
+			random_award = {10000000,500000000},
 			power = 1280,
 			permission = "cpl_cjj",
 		},
@@ -634,7 +634,7 @@ return {
 		{
 			id = 77,
 			content_type = "xiaoxiaole_sanguo_award_big_award",
-			random_award = "1000万～3亿金币",
+			random_award = {10000000,300000000},
 			power = 950,
 			permission = "cpl_cjj",
 		},
@@ -642,7 +642,7 @@ return {
 		{
 			id = 78,
 			content_type = "xiaoxiaole_xiyou_award_big_award",
-			random_award = "1000万～3亿金币",
+			random_award = {10000000,300000000},
 			power = 1081,
 			permission = "cpl_cjj",
 		},
@@ -650,7 +650,7 @@ return {
 		{
 			id = 79,
 			content_type = "lwzb_award_big_award",
-			random_award = "1000万~5亿金币",
+			random_award = {10000000,500000000},
 			power = 1016,
 			permission = "cpl_cjj",
 		},
@@ -658,7 +658,7 @@ return {
 		{
 			id = 80,
 			content_type = "qiaoqiaole_cjj_award_big_award",
-			fixed_award = "1200万金币",
+			fixed_award = 12000000,
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -666,7 +666,7 @@ return {
 		{
 			id = 81,
 			content_type = "qiaoqiaole_cjj_award_big_award",
-			fixed_award = "1800万金币",
+			fixed_award = 18000000,
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -674,7 +674,7 @@ return {
 		{
 			id = 82,
 			content_type = "qiaoqiaole_cjj_award_big_award",
-			fixed_award = "2400万金币",
+			fixed_award = 24000000,
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -682,7 +682,7 @@ return {
 		{
 			id = 83,
 			content_type = "qiaoqiaole_cjj_award_big_award",
-			fixed_award = "3800万金币",
+			fixed_award = 38000000,
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -690,7 +690,7 @@ return {
 		{
 			id = 84,
 			content_type = "qiaoqiaole_cjj_award_big_award",
-			fixed_award = "4200万金币",
+			fixed_award = 42000000,
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -698,7 +698,7 @@ return {
 		{
 			id = 85,
 			content_type = "qiaoqiaole_award_caishen",
-			fixed_award = "1000万金币",
+			fixed_award = 10000000,
 			power = 573,
 			permission = "cpl_cjj",
 		},
@@ -706,7 +706,7 @@ return {
 		{
 			id = 86,
 			content_type = "jykp_big_award",
-			random_award = "6000万～8亿金币",
+			random_award = {60000000,800000000},
 			power = 421,
 			permission = "cpl_cjj",
 		},
