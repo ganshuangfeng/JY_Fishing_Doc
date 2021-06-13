@@ -17796,9 +17796,9 @@ return {
 			id = 443,
 			var = "share_condition",
 			value = "tthlby_all",
-			judge = 5,
+			judge = 2,
 			group = 1,
-			error_desc = "不是天天欢乐捕鱼",
+			error_desc = "是天天欢乐捕鱼",
 		},
 		[1064]=
 		{
@@ -17836,9 +17836,9 @@ return {
 			id = 444,
 			var = "share_condition",
 			value = "tthlby_all",
-			judge = 5,
+			judge = 2,
 			group = 1,
-			error_desc = "不是天天欢乐捕鱼",
+			error_desc = "是天天欢乐捕鱼",
 		},
 		[1068]=
 		{
@@ -17865,10 +17865,10 @@ return {
 			no = 1070,
 			id = 445,
 			var = "share_condition",
-			value = "tthlby_all",
+			value = "byam_all",
 			judge = 2,
 			group = 1,
-			error_desc = "是天天欢乐捕鱼",
+			error_desc = "是捕鱼奥秘",
 		},
 		[1071]=
 		{
@@ -17895,10 +17895,10 @@ return {
 			no = 1073,
 			id = 446,
 			var = "share_condition",
-			value = "tthlby_all",
+			value = "byam_all",
 			judge = 2,
 			group = 1,
-			error_desc = "是天天欢乐捕鱼",
+			error_desc = "是捕鱼奥秘",
 		},
 		[1074]=
 		{
