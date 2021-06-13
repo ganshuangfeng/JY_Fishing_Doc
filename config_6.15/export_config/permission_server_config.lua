@@ -2268,6 +2268,12 @@ return {
 			name = "通行证全cpl用户",
 			condi = 447,
 		},
+		byam_tape_sigmob=
+		{
+			key = "byam_tape_sigmob",
+			name = "捕鱼奥秘乐元素渠道（CPA引流）",
+			condi = 498,
+		},
 		xshb_042_deblocking_v4=
 		{
 			key = "xshb_042_deblocking_v4",
@@ -2303,12 +2309,6 @@ return {
 			key = "byam_all_pmd",
 			name = "全部捕鱼奥秘玩家（跑马灯用）",
 			condi = 496,
-		},
-		byam_tape_sigmob=
-		{
-			key = "byam_tape_sigmob",
-			name = "捕鱼奥秘乐元素渠道（CPA引流）",
-			condi = 498,
 		},
 	},
 	act_permission=
