@@ -2685,9 +2685,9 @@ return {
 			key = "act_ty_hlqjd",
 			desc = "欢乐敲金蛋",
 			lua = "Act_ty_HLQJDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[275]=
 		{
@@ -2813,9 +2813,9 @@ return {
 			key = "act_ty_ldfd",
 			desc = "端午福袋",
 			lua = "Act_ty_LDFDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[288]=
 		{
@@ -3100,7 +3100,7 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_018_dlphb",
+			key = "act_ty_sjb_style/act_019_dlphb",
 			desc = "掉落排行榜皮肤（消耗）",
 			is_on_off = 1,
 			enable = 1,
@@ -3111,9 +3111,9 @@ return {
 			id = 317,
 			key = "act_ty_by_drop_style/act_018_zongzi",
 			desc = "粽子掉落",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[318]=
 		{
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_019",
+			key = "sys_act_base_style/sys_act_base_weekly_020",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3197,9 +3197,9 @@ return {
 			key = "Act_049_XYHL",
 			desc = "新游福利",
 			lua = "Act_049_XYHLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[327]=
 		{
@@ -3257,9 +3257,9 @@ return {
 			key = "act_052_qfhl",
 			desc = "祈福有礼",
 			lua = "Act_052_QFHLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[333]=
 		{
@@ -3325,9 +3325,9 @@ return {
 			key = "act_054_byns",
 			desc = "捕鱼能手",
 			lua = "Act_054_BYNSManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[340]=
 		{
