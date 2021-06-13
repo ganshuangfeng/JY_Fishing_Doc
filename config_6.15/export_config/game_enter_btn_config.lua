@@ -1379,6 +1379,7 @@ return {
 			id = 142,
 			parm = {"act_042_xshb",},
 			is_on_off = 1,
+			condi_key = "actp_own_task_p_txz",
 		},
 	},
 }
