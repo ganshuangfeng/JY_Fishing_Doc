@@ -17795,10 +17795,10 @@ return {
 			no = 1063,
 			id = 443,
 			var = "share_condition",
-			value = "tthlby_official",
+			value = "tthlby_all",
 			judge = 5,
 			group = 1,
-			error_desc = "不是欢乐捕鱼CPL",
+			error_desc = "不是天天欢乐捕鱼用户",
 		},
 		[1064]=
 		{
@@ -17815,10 +17815,10 @@ return {
 			no = 1065,
 			id = 444,
 			var = "share_condition",
-			value = "tthlby_official",
+			value = "tthlby_all",
 			judge = 5,
 			group = 1,
-			error_desc = "不是欢乐捕鱼CPL",
+			error_desc = "不是天天欢乐捕鱼用户",
 		},
 		[1066]=
 		{
@@ -17835,10 +17835,10 @@ return {
 			no = 1067,
 			id = 445,
 			var = "share_condition",
-			value = "tthlby_official",
+			value = "tthlby_all",
 			judge = 2,
 			group = 1,
-			error_desc = "是欢乐捕鱼CPL",
+			error_desc = "是天天欢乐捕鱼用户",
 		},
 		[1068]=
 		{
@@ -17855,10 +17855,10 @@ return {
 			no = 1069,
 			id = 446,
 			var = "share_condition",
-			value = "tthlby_official",
+			value = "tthlby_all",
 			judge = 2,
 			group = 1,
-			error_desc = "是欢乐捕鱼CPL",
+			error_desc = "是天天欢乐捕鱼用户",
 		},
 		[1070]=
 		{
