@@ -479,7 +479,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "120#",
+			group_list = "100#",
 		},
 	},
 	jchd_config=
