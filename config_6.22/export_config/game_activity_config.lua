@@ -896,7 +896,7 @@ return {
 			ID = 54,
 			title = "消除福利",
 			order = 2,
-			is_on_off = 1,
+			is_on_off = 0,
 			condi_key = "actp_own_task_p_hljnh_046_hlfl_cjj",
 			beginTime = 1624320000,
 			endTime = 1624895999,
