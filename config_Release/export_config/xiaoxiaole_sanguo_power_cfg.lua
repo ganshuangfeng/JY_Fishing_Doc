@@ -46,6 +46,21 @@ return {
 			id = 9,
 			bet_money = 1920000,
 		},
+		[10]=
+		{
+			id = 10,
+			bet_money = 5120000,
+		},
+		[11]=
+		{
+			id = 11,
+			bet_money = 10240000,
+		},
+		[12]=
+		{
+			id = 12,
+			bet_money = 20480000,
+		},
 	},
 	free_game_select=
 	{

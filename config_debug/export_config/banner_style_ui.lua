@@ -884,7 +884,7 @@ return {
 		{
 			id = 78,
 			bannerID = 78,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 100,
 			condi_key = "actp_own_task_p_029_hlqjd_hammer",
 			gotoUI = {"act_029_hlqjd","panel"},
@@ -1016,8 +1016,8 @@ return {
 			order = 111,
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1623110400,
-			endTime = 1624291199,
+			srartTime = 1624320000,
+			endTime = 1624895999,
 		},
 		[90]=
 		{

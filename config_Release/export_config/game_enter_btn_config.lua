@@ -95,15 +95,6 @@ return {
 			group_list = "134#",
 		},
 	},
-	xxlsg_game=
-	{
-		[1]=
-		{
-			id = 1,
-			area = "left_down",
-			group_list = "11;93#",
-		},
-	},
 	xxl_game=
 	{
 		[1]=
@@ -134,6 +125,15 @@ return {
 			id = 5,
 			area = "right_top",
 			group_list = "129#",
+		},
+	},
+	xxlsg_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left_down",
+			group_list = "11;93#",
 		},
 	},
 	zpg_game=
@@ -488,7 +488,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "120#",
+			group_list = "100#",
 		},
 	},
 	jchd_config=
