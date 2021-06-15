@@ -3031,7 +3031,7 @@ return {
 		{
 			id = 309,
 			key = "act_ty_zp1",
-			desc = "通用活动--转盘模板（畅玩礼包）",
+			desc = "通用活动--转盘模板（超值礼包）",
 			lua = "Act_Ty_ZP1Manager",
 			is_on_off = 1,
 			enable = 1,
@@ -3217,7 +3217,7 @@ return {
 			key = "by_hbyts",
 			desc = "红包鱼提示",
 			lua = "BYHBYTSManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
@@ -3286,9 +3286,9 @@ return {
 			key = "sys_lwgp",
 			desc = "龙王贡品",
 			lua = "SYSLWGPManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[336]=
 		{
@@ -3303,21 +3303,21 @@ return {
 		[337]=
 		{
 			id = 337,
+			key = "act_ty_zp1_style/act_ty_zp1_003",
+			desc = "通用转盘皮肤",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
+		},
+		[338]=
+		{
+			id = 338,
 			key = "act_040_mslb",
 			desc = "秒杀礼包",
 			lua = "Act_040_MSLBManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
-		},
-		[338]=
-		{
-			id = 338,
-			key = "act_ty_zp1_style/act_ty_zp1_003",
-			desc = "通用转盘皮肤",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
 		},
 		[339]=
 		{

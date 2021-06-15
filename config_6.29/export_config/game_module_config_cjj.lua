@@ -3086,7 +3086,7 @@ return {
 		[315]=
 		{
 			id = 315,
-			key = "sys_act_base_style/sys_act_base_weekly_017",
+			key = "sys_act_base_style/sys_act_base_weekly_022",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3217,24 +3217,24 @@ return {
 			key = "act_ty_gifts",
 			desc = "通用礼包",
 			lua = "Act_Ty_GiftsManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[329]=
 		{
 			id = 329,
-			key = "act_ty_gifts_style/act_003_hflb",
-			desc = "话费礼包",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			key = "act_ty_gifts_style/act_004_xslb",
+			desc = "消暑礼包",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[330]=
 		{
 			id = 330,
 			key = "act_053_xcns",
-			desc = "消除福利",
+			desc = "消除酷暑",
 			lua = "Act_053_XCNSManager",
 			is_on_off = 1,
 			enable = 1,
@@ -3253,7 +3253,7 @@ return {
 		[332]=
 		{
 			id = 332,
-			key = "act_ty_zp1_style/act_ty_zp1_003",
+			key = "act_ty_zp1_style/act_ty_zp1_004",
 			desc = "通用转盘皮肤",
 			is_on_off = 1,
 			enable = 1,

@@ -15844,6 +15844,21 @@ return {
 			is_send_client = 1,
 			award_change_type = "task_award_no_show",
 		},
+		[1000688]=
+		{
+			id = 1000688,
+			enable = 1,
+			name = "消除酷暑",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22046,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1624896000,
+			end_valid_time = 1627315199,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -26104,8 +26119,18 @@ return {
 			process_id = 22045,
 			source_id = 542,
 			process = {300000,-1},
+			awards = 1436,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
+		},
+		[1098]=
+		{
+			id = 1098,
+			process_id = 22046,
+			source_id = 632,
+			process = {1000,1000,3000,5000,10000,20000,40000,40000,80000,100000},
+			awards = {1426,1427,1428,1429,1430,1431,1432,1433,1434,1435},
+			get_award_type = "random",
 		},
 	},
 	source=
@@ -57233,6 +57258,102 @@ return {
 			id = 2327,
 			award_id = 1425,
 			asset_type = "_common_rank_ymshf_021_hldr_rank",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[2328]=
+		{
+			id = 2328,
+			award_id = 1426,
+			asset_type = "shop_gold_sum",
+			asset_count = {10,14},
+			get_weight = 1,
+		},
+		[2329]=
+		{
+			id = 2329,
+			award_id = 1427,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = {10000,14000},
+			get_weight = 1,
+		},
+		[2330]=
+		{
+			id = 2330,
+			award_id = 1428,
+			asset_type = "shop_gold_sum",
+			asset_count = {35,35},
+			get_weight = 1,
+		},
+		[2331]=
+		{
+			id = 2331,
+			award_id = 1429,
+			asset_type = "shop_gold_sum",
+			asset_count = {55,65},
+			get_weight = 1,
+		},
+		[2332]=
+		{
+			id = 2332,
+			award_id = 1430,
+			asset_type = "jing_bi",
+			asset_count = {100000,140000},
+			get_weight = 1,
+		},
+		[2333]=
+		{
+			id = 2333,
+			award_id = 1431,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = {200000,280000},
+			get_weight = 1,
+		},
+		[2334]=
+		{
+			id = 2334,
+			award_id = 1432,
+			asset_type = "shop_gold_sum",
+			asset_count = {420,540},
+			get_weight = 1,
+		},
+		[2335]=
+		{
+			id = 2335,
+			award_id = 1433,
+			asset_type = "jing_bi",
+			asset_count = {420000,540000},
+			get_weight = 1,
+		},
+		[2336]=
+		{
+			id = 2336,
+			award_id = 1434,
+			asset_type = "jing_bi",
+			asset_count = {900000,1020000},
+			get_weight = 1,
+		},
+		[2337]=
+		{
+			id = 2337,
+			award_id = 1435,
+			asset_type = "shop_gold_sum",
+			asset_count = {1000,1400},
+			get_weight = 1,
+		},
+		[2338]=
+		{
+			id = 2338,
+			award_id = 1436,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[2339]=
+		{
+			id = 2339,
+			award_id = 1436,
+			asset_type = "_common_rank_qlyx_021_xgphb_rank",
 			asset_count = 100,
 			get_weight = 1,
 		},
