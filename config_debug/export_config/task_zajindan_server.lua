@@ -38216,7 +38216,7 @@ return {
 			id = 613,
 			condition_id = 450,
 			condition_name = "gift_id",
-			condition_value = {4,87},
+			condition_value = {4,87,10490},
 			judge_type = 2,
 		},
 		[614]=
@@ -38224,7 +38224,7 @@ return {
 			id = 614,
 			condition_id = 451,
 			condition_name = "gift_id",
-			condition_value = {5,88},
+			condition_value = {5,88,10491},
 			judge_type = 2,
 		},
 		[615]=
@@ -38232,7 +38232,7 @@ return {
 			id = 615,
 			condition_id = 452,
 			condition_name = "gift_id",
-			condition_value = {110,10045},
+			condition_value = {110,10045,10495},
 			judge_type = 2,
 		},
 		[616]=
@@ -38240,7 +38240,7 @@ return {
 			id = 616,
 			condition_id = 453,
 			condition_name = "gift_id",
-			condition_value = {108,10044},
+			condition_value = {108,10044,10494},
 			judge_type = 2,
 		},
 		[617]=
@@ -38248,7 +38248,7 @@ return {
 			id = 617,
 			condition_id = 454,
 			condition_name = "gift_id",
-			condition_value = {6,89},
+			condition_value = {6,89,10493},
 			judge_type = 2,
 		},
 		[618]=
@@ -38256,7 +38256,7 @@ return {
 			id = 618,
 			condition_id = 455,
 			condition_name = "gift_id",
-			condition_value = {111,10189},
+			condition_value = {111,10189,10492},
 			judge_type = 2,
 		},
 		[619]=
