@@ -15813,6 +15813,37 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000686]=
+		{
+			id = 1000686,
+			enable = 1,
+			name = "盛夏礼包",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22044,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1624896000,
+			end_valid_time = 1625500799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000687]=
+		{
+			id = 1000687,
+			enable = 1,
+			name = "西瓜掉落需求",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22045,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1624896000,
+			end_valid_time = 1625500799,
+			time_limit = -1,
+			is_send_client = 1,
+			award_change_type = "task_award_no_show",
+		},
 	},
 	process_data=
 	{
@@ -26060,6 +26091,22 @@ return {
 			source_id = 643,
 			process = 3,
 		},
+		[1096]=
+		{
+			id = 1096,
+			process_id = 22044,
+			source_id = 654,
+			process = 3,
+		},
+		[1097]=
+		{
+			id = 1097,
+			process_id = 22045,
+			source_id = 542,
+			process = {300000,-1},
+			get_award_type = "nor",
+			is_auto_get_award = 2,
+		},
 	},
 	source=
 	{
@@ -33552,6 +33599,13 @@ return {
 			source_type = "buyu_3d_target_yu",
 			condition_id = 489,
 		},
+		[1064]=
+		{
+			id = 1064,
+			source_id = 654,
+			source_type = "buy_gift",
+			condition_id = 490,
+		},
 	},
 	condition=
 	{
@@ -38562,6 +38616,14 @@ return {
 			condition_name = "gun_rate",
 			condition_value = 3000,
 			judge_type = 3,
+		},
+		[657]=
+		{
+			id = 657,
+			condition_id = 490,
+			condition_name = "gift_id",
+			condition_value = {10587,10588,10589,10590,10591,10592,10593,10594,10595,10596,10597,10598},
+			judge_type = 2,
 		},
 	},
 	award_data=
