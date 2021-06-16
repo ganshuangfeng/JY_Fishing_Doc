@@ -15859,6 +15859,126 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000689]=
+		{
+			id = 1000689,
+			enable = 1,
+			name = "登录有礼",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22047,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1624896000,
+			end_valid_time = 1627315199,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000690]=
+		{
+			id = 1000690,
+			enable = 1,
+			name = "登录有礼",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22048,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1624896000,
+			end_valid_time = 1627315199,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000691]=
+		{
+			id = 1000691,
+			enable = 1,
+			name = "登录有礼",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22049,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1624896000,
+			end_valid_time = 1627315199,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000692]=
+		{
+			id = 1000692,
+			enable = 1,
+			name = "登录有礼",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22050,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1624896000,
+			end_valid_time = 1627315199,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000693]=
+		{
+			id = 1000693,
+			enable = 1,
+			name = "登录有礼",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22051,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1624896000,
+			end_valid_time = 1627315199,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000694]=
+		{
+			id = 1000694,
+			enable = 1,
+			name = "登录有礼",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22052,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1624896000,
+			end_valid_time = 1627315199,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000695]=
+		{
+			id = 1000695,
+			enable = 1,
+			name = "登录有礼",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22053,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1624896000,
+			end_valid_time = 1627315199,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000696]=
+		{
+			id = 1000696,
+			enable = 1,
+			name = "登录有礼",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22054,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1624896000,
+			end_valid_time = 1627315199,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -26132,6 +26252,78 @@ return {
 			awards = {1426,1427,1428,1429,1430,1431,1432,1433,1434,1435},
 			get_award_type = "random",
 		},
+		[1099]=
+		{
+			id = 1099,
+			process_id = 22047,
+			source_id = 410,
+			process = 1,
+			awards = 1437,
+			get_award_type = "nor",
+		},
+		[1100]=
+		{
+			id = 1100,
+			process_id = 22048,
+			source_id = 611,
+			process = 3,
+			awards = 1438,
+			get_award_type = "nor",
+		},
+		[1101]=
+		{
+			id = 1101,
+			process_id = 22049,
+			source_id = 602,
+			process = 88,
+			awards = 1439,
+			get_award_type = "nor",
+		},
+		[1102]=
+		{
+			id = 1102,
+			process_id = 22050,
+			source_id = 613,
+			process = 1,
+			awards = 1440,
+			get_award_type = "nor",
+		},
+		[1103]=
+		{
+			id = 1103,
+			process_id = 22051,
+			source_id = 656,
+			process = 1,
+			awards = 1441,
+			get_award_type = "nor",
+		},
+		[1104]=
+		{
+			id = 1104,
+			process_id = 22052,
+			source_id = 657,
+			process = 1,
+			awards = 1442,
+			get_award_type = "nor",
+		},
+		[1105]=
+		{
+			id = 1105,
+			process_id = 22053,
+			source_id = 652,
+			process = 1,
+			awards = 1443,
+			get_award_type = "nor",
+		},
+		[1106]=
+		{
+			id = 1106,
+			process_id = 22054,
+			source_id = 655,
+			process = 7,
+			awards = 1444,
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -33631,6 +33823,27 @@ return {
 			source_type = "buy_gift",
 			condition_id = 490,
 		},
+		[1065]=
+		{
+			id = 1065,
+			source_id = 655,
+			source_type = "children_task_complete",
+			condition_id = 491,
+		},
+		[1066]=
+		{
+			id = 1066,
+			source_id = 656,
+			source_type = "xiaoxiaole_sanguo_collect_ship",
+			condition_id = 0,
+		},
+		[1067]=
+		{
+			id = 1067,
+			source_id = 657,
+			source_type = "xiaoxiaole_sanguo_collect_arrow",
+			condition_id = 0,
+		},
 	},
 	condition=
 	{
@@ -38648,6 +38861,14 @@ return {
 			condition_id = 490,
 			condition_name = "gift_id",
 			condition_value = {10587,10588,10589,10590,10591,10592,10593,10594,10595,10596,10597,10598},
+			judge_type = 2,
+		},
+		[658]=
+		{
+			id = 658,
+			condition_id = 491,
+			condition_name = "task_id",
+			condition_value = {1000689,1000690,1000691,1000692,1000693,1000694,1000695},
 			judge_type = 2,
 		},
 	},
@@ -57355,6 +57576,70 @@ return {
 			award_id = 1436,
 			asset_type = "_common_rank_qlyx_021_xgphb_rank",
 			asset_count = 100,
+			get_weight = 1,
+		},
+		[2340]=
+		{
+			id = 2340,
+			award_id = 1437,
+			asset_type = "jing_bi",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[2341]=
+		{
+			id = 2341,
+			award_id = 1438,
+			asset_type = "jing_bi",
+			asset_count = 1888,
+			get_weight = 1,
+		},
+		[2342]=
+		{
+			id = 2342,
+			award_id = 1439,
+			asset_type = "jing_bi",
+			asset_count = 2888,
+			get_weight = 1,
+		},
+		[2343]=
+		{
+			id = 2343,
+			award_id = 1440,
+			asset_type = "jing_bi",
+			asset_count = 5888,
+			get_weight = 1,
+		},
+		[2344]=
+		{
+			id = 2344,
+			award_id = 1441,
+			asset_type = "jing_bi",
+			asset_count = 6888,
+			get_weight = 1,
+		},
+		[2345]=
+		{
+			id = 2345,
+			award_id = 1442,
+			asset_type = "jing_bi",
+			asset_count = 6888,
+			get_weight = 1,
+		},
+		[2346]=
+		{
+			id = 2346,
+			award_id = 1443,
+			asset_type = "jing_bi",
+			asset_count = 88888,
+			get_weight = 1,
+		},
+		[2347]=
+		{
+			id = 2347,
+			award_id = 1444,
+			asset_type = "jing_bi",
+			asset_count = 128000,
 			get_weight = 1,
 		},
 	},
