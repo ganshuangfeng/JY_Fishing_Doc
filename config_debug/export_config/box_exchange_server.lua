@@ -1000,7 +1000,7 @@ return {
 		[94]=
 		{
 			id = 94,
-			name = "超级夺宝银宝箱",
+			name = "超级夺宝普通宝箱",
 			start_time = 1623110400,
 			end_time = 1628265599,
 			use_asset_id = 85,
@@ -1010,7 +1010,7 @@ return {
 		[95]=
 		{
 			id = 95,
-			name = "超级夺宝金宝箱",
+			name = "超级夺宝豪华宝箱",
 			start_time = 1623110400,
 			end_time = 1628265599,
 			use_asset_id = 86,
