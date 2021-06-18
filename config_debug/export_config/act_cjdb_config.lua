@@ -4,7 +4,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			title = "银宝箱",
+			title = "普通宝箱",
 			group = 2,
 			sz = 30000,
 			rysz = 5000000,
@@ -14,7 +14,7 @@ return {
 		[2]=
 		{
 			line = 2,
-			title = "金宝箱",
+			title = "豪华宝箱",
 			group = 1,
 			sz = 60000,
 			rysz = 50000000,
