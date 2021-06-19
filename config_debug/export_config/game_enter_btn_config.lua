@@ -95,6 +95,15 @@ return {
 			group_list = "134#",
 		},
 	},
+	xxlsg_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left_down",
+			group_list = "11;93#",
+		},
+	},
 	xxl_game=
 	{
 		[1]=

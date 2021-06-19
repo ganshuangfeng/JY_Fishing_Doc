@@ -127,6 +127,15 @@ return {
 			group_list = "129#",
 		},
 	},
+	xxlsg_game=
+	{
+		[1]=
+		{
+			id = 1,
+			area = "left_down",
+			group_list = "11;93#",
+		},
+	},
 	zpg_game=
 	{
 		[1]=

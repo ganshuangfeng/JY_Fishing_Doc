@@ -986,7 +986,7 @@ return {
 		{
 			id = 121,
 			content_type = "super_treasure_award",
-			fixed_award = "100000000金币",
+			fixed_award = "1亿金币",
 			power = 116,
 			permission = "cpl_cjj",
 		},
