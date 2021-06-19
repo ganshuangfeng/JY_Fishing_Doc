@@ -53,6 +53,7 @@ return {
 			unlock_num_type = 1,
 			unlock_num = 3,
 			everyday_total = 100,
+			permission_key = "xshb_042_deblocking_v0",
 			reset_hour = 9,
 		},
 		[6]=

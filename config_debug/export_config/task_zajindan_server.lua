@@ -15351,7 +15351,7 @@ return {
 		{
 			id = 1000655,
 			enable = 1,
-			name = "纵情端午祈福有礼简单难度累计抽奖",
+			name = "祈福有礼",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 22013,
@@ -15366,7 +15366,7 @@ return {
 		{
 			id = 1000656,
 			enable = 1,
-			name = "纵情端午祈福有礼中等难度累计抽奖",
+			name = "祈福有礼",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 22014,
@@ -15381,7 +15381,7 @@ return {
 		{
 			id = 1000657,
 			enable = 1,
-			name = "纵情端午祈福有礼挑战难度累计抽奖",
+			name = "祈福有礼",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 22015,

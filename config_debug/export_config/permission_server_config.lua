@@ -2292,6 +2292,12 @@ return {
 			name = "限时红包解锁（V1以上）",
 			condi = 492,
 		},
+		xshb_042_deblocking_v0=
+		{
+			key = "xshb_042_deblocking_v0",
+			name = "限时红包解锁（7天内新人）",
+			condi = 499,
+		},
 		tthlby_all_pmd=
 		{
 			key = "tthlby_all_pmd",
@@ -18085,6 +18091,16 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "乐元素渠道",
+		},
+		[1092]=
+		{
+			no = 1092,
+			id = 499,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "注册7天内新人",
 		},
 	},
 	share_condition=
