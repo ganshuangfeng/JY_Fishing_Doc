@@ -27,7 +27,7 @@ return {
 			need_num = 20,
 			award_name = "小游戏币",
 			award_amount = "8000~5万",
-			award_icon = "ty_icon_jb_6y",
+			award_icon = "ty_icon_yxb_1",
 		},
 		[3]=
 		{
