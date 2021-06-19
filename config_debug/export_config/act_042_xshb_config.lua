@@ -12,7 +12,7 @@ return {
 			unlock_id = 1,
 			unlock_permission = "xshb_042_deblocking_v4",
 			tag = "VIP4",
-			goto_ui = "game_MiniGame",
+			goto_ui = {"game_MiniGame",},
 			is_on = 1,
 		},
 		[2]=
@@ -26,7 +26,7 @@ return {
 			unlock_id = 2,
 			unlock_permission = "xshb_042_deblocking_v3",
 			tag = "VIP3",
-			goto_ui = "game_MiniGame",
+			goto_ui = {"game_MiniGame",},
 			is_on = 1,
 		},
 		[3]=
@@ -40,7 +40,7 @@ return {
 			unlock_id = 3,
 			unlock_permission = "xshb_042_deblocking_v2",
 			tag = "VIP2",
-			goto_ui = "game_MiniGame",
+			goto_ui = {"game_MiniGame",},
 			is_on = 1,
 		},
 		[4]=
@@ -54,7 +54,7 @@ return {
 			unlock_id = 4,
 			unlock_permission = "xshb_042_deblocking_v1",
 			tag = "VIP1",
-			goto_ui = "game_MiniGame",
+			goto_ui = {"game_MiniGame",},
 			is_on = 1,
 		},
 		[5]=
@@ -66,7 +66,9 @@ return {
 			task_txt = "单笔充值≥6元",
 			limit = "终身3次",
 			unlock_id = 5,
-			goto_ui = {shop_bay,"jing_bi",},
+			unlock_permission = "xshb_042_deblocking_v0",
+			tag = "新人",
+			goto_ui = {"shop_bay","jing_bi",},
 			is_on = 1,
 		},
 		[6]=
@@ -79,7 +81,7 @@ return {
 			show_permission = "actp_own_task_p_show_not",
 			limit = "终身1次",
 			unlock_id = 6,
-			goto_ui = {shop_bay,"jing_bi",},
+			goto_ui = {"shop_bay","jing_bi",},
 			is_on = 1,
 		},
 	},
