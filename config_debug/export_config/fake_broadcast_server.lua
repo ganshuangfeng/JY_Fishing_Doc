@@ -710,5 +710,261 @@ return {
 			power = 421,
 			permission = "cpl_cjj",
 		},
+		[87]=
+		{
+			id = 87,
+			content_type = "fish_game_3d_kill_boss_1",
+			random_award = {10000000,20000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
+		[88]=
+		{
+			id = 88,
+			content_type = "fish_game_3d_kill_boss_1",
+			random_award = {20000000,25000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
+		[89]=
+		{
+			id = 89,
+			content_type = "fish_game_3d_kill_boss_1",
+			random_award = {25000000,30000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
+		[90]=
+		{
+			id = 90,
+			content_type = "fish_game_3d_kill_boss_1",
+			random_award = {30000000,35000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
+		[91]=
+		{
+			id = 91,
+			content_type = "fish_game_3d_kill_boss_1",
+			random_award = {35000000,40000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
+		[92]=
+		{
+			id = 92,
+			content_type = "fish_game_3d_kill_boss_1",
+			random_award = {40000000,45000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
+		[93]=
+		{
+			id = 93,
+			content_type = "fish_game_3d_kill_boss_1",
+			random_award = {45000000,50000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
+		[94]=
+		{
+			id = 94,
+			content_type = "fish_game_3d_kill_boss_1",
+			random_award = {10000000,20000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[95]=
+		{
+			id = 95,
+			content_type = "fish_game_3d_kill_boss_1",
+			random_award = {20000000,25000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[96]=
+		{
+			id = 96,
+			content_type = "fish_game_3d_kill_boss_1",
+			random_award = {25000000,30000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[97]=
+		{
+			id = 97,
+			content_type = "fish_game_3d_kill_boss_1",
+			random_award = {30000000,35000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[98]=
+		{
+			id = 98,
+			content_type = "fish_game_3d_kill_boss_1",
+			random_award = {35000000,40000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[99]=
+		{
+			id = 99,
+			content_type = "fish_game_3d_kill_boss_1",
+			random_award = {40000000,45000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[100]=
+		{
+			id = 100,
+			content_type = "fish_game_3d_kill_boss_1",
+			random_award = {45000000,50000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[101]=
+		{
+			id = 101,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {50000000,100000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[102]=
+		{
+			id = 102,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {100000000,150000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[103]=
+		{
+			id = 103,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {150000000,200000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[104]=
+		{
+			id = 104,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {200000000,250000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[105]=
+		{
+			id = 105,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {250000000,300000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[106]=
+		{
+			id = 106,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {300000000,350000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[107]=
+		{
+			id = 107,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {350000000,400000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[108]=
+		{
+			id = 108,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {400000000,450000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[109]=
+		{
+			id = 109,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {450000000,500000000},
+			power = 116,
+			permission = "byam_all_pmd",
+		},
+		[110]=
+		{
+			id = 110,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {50000000,100000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
+		[111]=
+		{
+			id = 111,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {100000000,150000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
+		[112]=
+		{
+			id = 112,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {150000000,200000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
+		[113]=
+		{
+			id = 113,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {200000000,250000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
+		[114]=
+		{
+			id = 114,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {250000000,300000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
+		[115]=
+		{
+			id = 115,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {300000000,350000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
+		[116]=
+		{
+			id = 116,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {350000000,400000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
+		[117]=
+		{
+			id = 117,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {400000000,450000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
+		[118]=
+		{
+			id = 118,
+			content_type = "fish_game_3d_kill_boss_2",
+			random_award = {450000000,500000000},
+			power = 116,
+			permission = "tthlby_all_pmd",
+		},
 	},
 }
