@@ -966,5 +966,29 @@ return {
 			power = 116,
 			permission = "tthlby_all_pmd",
 		},
+		[119]=
+		{
+			id = 119,
+			content_type = "super_treasure_award",
+			fixed_award = 4750,
+			power = 116,
+			permission = "cpl_cjj",
+		},
+		[120]=
+		{
+			id = 120,
+			content_type = "super_treasure_award",
+			fixed_award = 400000,
+			power = 116,
+			permission = "cpl_cjj",
+		},
+		[121]=
+		{
+			id = 121,
+			content_type = "super_treasure_award",
+			fixed_award = 100000000,
+			power = 116,
+			permission = "cpl_cjj",
+		},
 	},
 }

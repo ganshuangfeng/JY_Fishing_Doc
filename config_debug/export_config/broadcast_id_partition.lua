@@ -89,6 +89,11 @@ return {
 			id = "lwzb_award_big_award",
 			listen = 0,
 		},
+		super_treasure_award=
+		{
+			id = "super_treasure_award",
+			listen = 0,
+		},
 	},
 	byam_all_pmd=
 	{
@@ -105,6 +110,11 @@ return {
 		lwzb_award_big_award=
 		{
 			id = "lwzb_award_big_award",
+			listen = 0,
+		},
+		super_treasure_award=
+		{
+			id = "super_treasure_award",
 			listen = 0,
 		},
 	},
