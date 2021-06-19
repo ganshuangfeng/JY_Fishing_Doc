@@ -1068,7 +1068,7 @@ return {
 			is_on_off = 1,
 			condi_key = "actp_own_task_p_hljnh_046_hlfl_cjj",
 			beginTime = 1623110400,
-			endTime = 1623686399,
+			endTime = 1624895999,
 			showType = "prefab",
 			parmData = "act_053_xcns",
 			gotoUI = {"act_053_xcns","panel"},
