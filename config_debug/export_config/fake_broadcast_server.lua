@@ -970,7 +970,7 @@ return {
 		{
 			id = 119,
 			content_type = "super_treasure_award",
-			fixed_award = 4750,
+			fixed_award = "4750福利券",
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -978,7 +978,7 @@ return {
 		{
 			id = 120,
 			content_type = "super_treasure_award",
-			fixed_award = 400000,
+			fixed_award = "400000福利券",
 			power = 116,
 			permission = "cpl_cjj",
 		},
@@ -986,7 +986,7 @@ return {
 		{
 			id = 121,
 			content_type = "super_treasure_award",
-			fixed_award = 100000000,
+			fixed_award = "100000000金币",
 			power = 116,
 			permission = "cpl_cjj",
 		},
