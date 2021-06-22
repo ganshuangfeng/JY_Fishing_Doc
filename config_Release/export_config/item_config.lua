@@ -1717,7 +1717,7 @@ return {
 			image = "act_ty_by_drop_7",
 			is_show_bag = 0,
 			order = 1,
-			name = "粽子",
+			name = "欢乐券",
 			desc = "掉落物活动通用道具",
 		},
 		[131]=

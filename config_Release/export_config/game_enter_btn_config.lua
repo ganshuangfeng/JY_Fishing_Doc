@@ -488,7 +488,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "100#",
+			group_list = "132#",
 		},
 	},
 	jchd_config=

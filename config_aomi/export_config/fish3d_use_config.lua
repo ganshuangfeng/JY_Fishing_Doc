@@ -607,5 +607,10 @@ return {
 			fish_id = 18,
 			attr_id = 9,
 		},
+		[121]=
+		{
+			id = 121,
+			fish_id = 61,
+		},
 	},
 }

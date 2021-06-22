@@ -1258,6 +1258,15 @@ return {
 			rate = 70,
 			gd_award = 0,
 		},
+		[137]=
+		{
+			ID = 137,
+			fish_type = 1,
+			fish_form = {121,},
+			life = 350,
+			rate = 300,
+			gd_award = 1,
+		},
 	},
 	use_fish=
 	{
@@ -3199,6 +3208,23 @@ return {
 			broadcast = 0,
 			clear_level = 1,
 		},
+		[121]=
+		{
+			id = 121,
+			base_id = 61,
+			act_id = 91,
+			append_life_rate = {150,450},
+			life = 350,
+			shoot = 0.014286,
+			act_type = "activity",
+			rate = 300,
+			dead_mode = 1,
+			gd_award = 1,
+			ranking_rate = 300,
+			ranking_show_rate = 1,
+			broadcast = 1,
+			clear_level = 1,
+		},
 	},
 	activity=
 	{
@@ -4011,6 +4037,15 @@ return {
 			show = 1,
 			enter_bag = 1,
 			value = 10,
+		},
+		[91]=
+		{
+			id = 91,
+			acti_type = 9,
+			num = {0,0,0.15,},
+			show = 0,
+			enter_bag = 1,
+			value = 50,
 		},
 	},
 	box_fish_activity=
