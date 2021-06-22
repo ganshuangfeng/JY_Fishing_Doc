@@ -279,7 +279,7 @@ return {
 			enable = 0,
 			prop_type = "prop_qdlb_cjq",
 			start_time = 1619481600,
-			recycle_time = 1620662399,
+			recycle_time = 1627315199,
 		},
 		[36]=
 		{

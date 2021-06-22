@@ -1148,7 +1148,7 @@ return {
 			line = 69,
 			act_type = "weekly",
 			ID = 69,
-			title = "西瓜兑换",
+			title = "西瓜兑奖",
 			order = 1,
 			is_on_off = 1,
 			condi_key = "actp_own_task_p_hljnh_046_hlfl_nor",

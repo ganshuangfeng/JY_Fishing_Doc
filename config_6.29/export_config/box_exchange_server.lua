@@ -1054,6 +1054,8 @@ return {
 			start_time = 1624924800,
 			end_time = 1627315199,
 			use_asset_id = 88,
+			award_id = 94,
+			enable = 1,
 		},
 	},
 	use_asset=
@@ -10570,6 +10572,7 @@ return {
 		{
 			id = 620,
 			real_award_id = 12092,
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {1000,1000},
 		},
 		[621]=

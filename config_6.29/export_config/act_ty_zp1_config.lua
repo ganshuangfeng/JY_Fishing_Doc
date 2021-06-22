@@ -84,7 +84,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			gift_id = 10565,
+			gift_id = 10599,
 			name = "498元礼包",
 			order = 6,
 			pay_icon = {"ty_icon_jb_498y","ty_icon_yxb_5","act_ty_zp1_cjq",},
@@ -96,7 +96,7 @@ return {
 		[2]=
 		{
 			line = 2,
-			gift_id = 10566,
+			gift_id = 10600,
 			name = "198元礼包",
 			order = 5,
 			pay_icon = {"ty_icon_jb_198y","ty_icon_yxb_4","act_ty_zp1_cjq",},
@@ -108,7 +108,7 @@ return {
 		[3]=
 		{
 			line = 3,
-			gift_id = 10567,
+			gift_id = 10601,
 			name = "98元礼包",
 			order = 4,
 			pay_icon = {"ty_icon_jb_98y","ty_icon_yxb_2","act_ty_zp1_cjq",},
@@ -120,7 +120,7 @@ return {
 		[4]=
 		{
 			line = 4,
-			gift_id = 10568,
+			gift_id = 10602,
 			name = "48元礼包",
 			order = 3,
 			pay_icon = {"ty_icon_jb_50y","ty_icon_yxb_2","act_ty_zp1_cjq",},
@@ -132,7 +132,7 @@ return {
 		[5]=
 		{
 			line = 5,
-			gift_id = 10569,
+			gift_id = 10603,
 			name = "20元礼包",
 			order = 2,
 			pay_icon = {"ty_icon_jb_30y","ty_icon_yxb_3","act_ty_zp1_cjq",},
@@ -144,7 +144,7 @@ return {
 		[6]=
 		{
 			line = 6,
-			gift_id = 10570,
+			gift_id = 10604,
 			name = "6元礼包",
 			order = 1,
 			pay_icon = {"ty_icon_jb_6y","ty_icon_yxb_3","act_ty_zp1_cjq",},
