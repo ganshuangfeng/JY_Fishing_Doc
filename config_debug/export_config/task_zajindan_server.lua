@@ -26050,6 +26050,7 @@ return {
 			process_id = 22042,
 			source_id = 542,
 			process = {300000,-1},
+			awards = 1425,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
 		},
@@ -26059,6 +26060,7 @@ return {
 			process_id = 22043,
 			source_id = 643,
 			process = 3,
+			get_award_type = "nor",
 		},
 	},
 	source=
