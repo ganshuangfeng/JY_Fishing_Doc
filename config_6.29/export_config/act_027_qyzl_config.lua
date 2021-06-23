@@ -205,13 +205,13 @@ return {
 		[1]=
 		{
 			line = 1,
-			cz_permiss = "p_hljnh_046_hlfl_cjj",
-			ljyj_permiss = "p_hljnh_046_hlfl_cjj",
+			cz_permiss = "actp_own_task_p_hljnh_046_hlfl_cjj",
+			ljyj_permiss = "actp_own_task_p_hljnh_046_hlfl_cjj",
 			cz_task_id = 1000698,
 			taskid = 1000697,
 			end_time = 1627315199,
 			sta_time = 1624896000,
-			condiy_key = "p_hljnh_046_hlfl_cjj",
+			condiy_key = "actp_own_task_p_hljnh_046_hlfl_cjj",
 			btn_gotoui = "game_MiniGame",
 		},
 	},
