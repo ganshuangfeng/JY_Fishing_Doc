@@ -598,6 +598,17 @@ return {
 			count = {1000,},
 			gotoUI = {"game_MiniGame",},
 		},
+		[52]=
+		{
+			id = 52,
+			task = 1000698,
+			total = 6,
+			task_name = "商城累计充值6元",
+			level = 1,
+			item = {"shop_gold_sum",},
+			count = {5888,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
 		[40]=
 		{
 			id = 40,
@@ -619,6 +630,17 @@ return {
 			item = {"shop_gold_sum",},
 			count = {3,},
 			gotoUI = {"game_MiniGame",},
+		},
+		[53]=
+		{
+			id = 53,
+			task = 1000698,
+			total = 48,
+			task_name = "商城累计充值48元",
+			level = 2,
+			item = {"shop_gold_sum",},
+			count = {8000,},
+			gotoUI = {"shop_bay","jing_bi",},
 		},
 		[42]=
 		{
@@ -642,6 +664,17 @@ return {
 			count = {188,},
 			gotoUI = {"game_MiniGame",},
 		},
+		[54]=
+		{
+			id = 54,
+			task = 1000698,
+			total = 198,
+			task_name = "商城累计充值198元",
+			level = 3,
+			item = {"shop_gold_sum",},
+			count = {18888,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
 		[44]=
 		{
 			id = 44,
@@ -663,6 +696,17 @@ return {
 			item = {"shop_gold_sum",},
 			count = {60,},
 			gotoUI = {"game_MiniGame",},
+		},
+		[55]=
+		{
+			id = 55,
+			task = 1000698,
+			total = 888,
+			task_name = "商城累计充值888元",
+			level = 4,
+			item = {"shop_gold_sum",},
+			count = {12000,},
+			gotoUI = {"shop_bay","jing_bi",},
 		},
 		[46]=
 		{
@@ -686,94 +730,6 @@ return {
 			count = {80,},
 			gotoUI = {"game_MiniGame",},
 		},
-		[48]=
-		{
-			id = 48,
-			task = 1000697,
-			total = 2000000000,
-			task_name = "累计消耗20亿金币",
-			level = 11,
-			item = {"shop_gold_sum",},
-			count = {200,},
-			gotoUI = {"game_MiniGame",},
-		},
-		[49]=
-		{
-			id = 49,
-			task = 1000697,
-			total = 4000000000,
-			task_name = "累计消耗40亿金币",
-			level = 12,
-			item = {"shop_gold_sum",},
-			count = {2888,},
-			gotoUI = {"game_MiniGame",},
-		},
-		[50]=
-		{
-			id = 50,
-			task = 1000697,
-			total = 8000000000,
-			task_name = "累计消耗80亿金币",
-			level = 13,
-			item = {"shop_gold_sum",},
-			count = {500,},
-			gotoUI = {"game_MiniGame",},
-		},
-		[51]=
-		{
-			id = 51,
-			task = 1000697,
-			total = 20000000000,
-			task_name = "累计消耗200亿金币",
-			level = 14,
-			item = {"shop_gold_sum",},
-			count = {2000,},
-			gotoUI = {"game_MiniGame",},
-		},
-		[52]=
-		{
-			id = 52,
-			task = 1000698,
-			total = 6,
-			task_name = "商城累计充值6元",
-			level = 1,
-			item = {"shop_gold_sum",},
-			count = {5888,},
-			gotoUI = {"shop_bay","jing_bi",},
-		},
-		[53]=
-		{
-			id = 53,
-			task = 1000698,
-			total = 48,
-			task_name = "商城累计充值48元",
-			level = 2,
-			item = {"shop_gold_sum",},
-			count = {8000,},
-			gotoUI = {"shop_bay","jing_bi",},
-		},
-		[54]=
-		{
-			id = 54,
-			task = 1000698,
-			total = 198,
-			task_name = "商城累计充值198元",
-			level = 3,
-			item = {"shop_gold_sum",},
-			count = {18888,},
-			gotoUI = {"shop_bay","jing_bi",},
-		},
-		[55]=
-		{
-			id = 55,
-			task = 1000698,
-			total = 888,
-			task_name = "商城累计充值888元",
-			level = 4,
-			item = {"shop_gold_sum",},
-			count = {12000,},
-			gotoUI = {"shop_bay","jing_bi",},
-		},
 		[56]=
 		{
 			id = 56,
@@ -784,6 +740,17 @@ return {
 			item = {"shop_gold_sum",},
 			count = {21888,},
 			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[48]=
+		{
+			id = 48,
+			task = 1000697,
+			total = 2000000000,
+			task_name = "累计消耗20亿金币",
+			level = 11,
+			item = {"shop_gold_sum",},
+			count = {200,},
+			gotoUI = {"game_MiniGame",},
 		},
 		[57]=
 		{
@@ -796,6 +763,17 @@ return {
 			count = {20000,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
+		[49]=
+		{
+			id = 49,
+			task = 1000697,
+			total = 4000000000,
+			task_name = "累计消耗40亿金币",
+			level = 12,
+			item = {"shop_gold_sum",},
+			count = {2888,},
+			gotoUI = {"game_MiniGame",},
+		},
 		[58]=
 		{
 			id = 58,
@@ -807,6 +785,17 @@ return {
 			count = {48888,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
+		[50]=
+		{
+			id = 50,
+			task = 1000697,
+			total = 8000000000,
+			task_name = "累计消耗80亿金币",
+			level = 13,
+			item = {"shop_gold_sum",},
+			count = {500,},
+			gotoUI = {"game_MiniGame",},
+		},
 		[59]=
 		{
 			id = 59,
@@ -817,6 +806,17 @@ return {
 			item = {"shop_gold_sum",},
 			count = {50000,},
 			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[51]=
+		{
+			id = 51,
+			task = 1000697,
+			total = 20000000000,
+			task_name = "累计消耗200亿金币",
+			level = 14,
+			item = {"shop_gold_sum",},
+			count = {2000,},
+			gotoUI = {"game_MiniGame",},
 		},
 	},
 }

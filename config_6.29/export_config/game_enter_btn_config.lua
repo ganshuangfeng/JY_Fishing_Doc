@@ -192,7 +192,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#139#8#122#61#140#137#9#117#134#141#138#142#",
+			group_list = "3;116#2#139#8#122#61#140#137#9#117#134#141#138#142#143#",
 		},
 		[2]=
 		{
@@ -1380,6 +1380,13 @@ return {
 			parm = {"act_042_xshb",},
 			is_on_off = 1,
 			condi_key = "actp_own_task_p_txz",
+		},
+		[143]=
+		{
+			id = 143,
+			parm = {"act_027_qyzl",},
+			is_on_off = 1,
+			condi_key = "cpl_cjj",
 		},
 	},
 }

@@ -3299,5 +3299,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[337]=
+		{
+			id = 337,
+			key = "act_027_qyzl",
+			desc = "七月赠礼",
+			lua = "Act_027_QYZLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
