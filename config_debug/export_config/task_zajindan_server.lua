@@ -25859,7 +25859,7 @@ return {
 			id = 1076,
 			process_id = 22024,
 			source_id = 582,
-			process = {10000,40000,140000},
+			process = {10000,40000,150000},
 			awards = {1421,1422,1423},
 			get_award_type = "nor",
 		},
