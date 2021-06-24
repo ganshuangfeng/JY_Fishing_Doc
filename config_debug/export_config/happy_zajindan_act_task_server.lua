@@ -293,7 +293,7 @@ return {
 			award_level = 3,
 			award_name = "金币",
 			asset_type = "jing_bi",
-			value = {5000000,6500000},
+			value = {5500000,6500000},
 		},
 	},
 	task_id=
