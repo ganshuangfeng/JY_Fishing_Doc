@@ -142,7 +142,7 @@ return {
 		{
 			id = 1,
 			task = 1000619,
-			total = 10000,
+			total = 1,
 			task_name = "在3D捕鱼用3000及以上炮倍捕获1只欢乐券boss",
 			level = 1,
 			item = {"jing_bi",},
@@ -153,7 +153,7 @@ return {
 		{
 			id = 2,
 			task = 1000620,
-			total = 50000,
+			total = 3,
 			task_name = "在3D捕鱼用3000及以上炮倍捕获3只欢乐券boss",
 			level = 1,
 			item = {"jing_bi",},
@@ -164,7 +164,7 @@ return {
 		{
 			id = 3,
 			task = 1000621,
-			total = 200000,
+			total = 2,
 			task_name = "在3D捕鱼深海探险当前层数+2",
 			level = 1,
 			item = {"jing_bi",},
@@ -186,7 +186,7 @@ return {
 		{
 			id = 5,
 			task = 1000623,
-			total = 5,
+			total = 1,
 			task_name = "在3D捕鱼海底宝藏以上场次任意击杀1条boss",
 			level = 1,
 			item = {"jing_bi",},
@@ -197,7 +197,7 @@ return {
 		{
 			id = 6,
 			task = 1000624,
-			total = 1,
+			total = 3,
 			task_name = "在3D捕鱼海底宝藏以上场次任意击杀3条boss",
 			level = 1,
 			item = {"jing_bi",},
@@ -208,7 +208,7 @@ return {
 		{
 			id = 7,
 			task = 1000625,
-			total = 6,
+			total = 3,
 			task_name = "在西游消消乐中消除3个孙悟空",
 			level = 1,
 			item = {"jing_bi",},
@@ -219,7 +219,7 @@ return {
 		{
 			id = 8,
 			task = 1000626,
-			total = 6,
+			total = 3,
 			task_name = "在西游消消乐中消除3个唐僧",
 			level = 1,
 			item = {"jing_bi",},
@@ -252,7 +252,7 @@ return {
 		{
 			id = 11,
 			task = 1000629,
-			total = 2,
+			total = 1,
 			task_name = "在水果消消乐闯关中当前关卡数+1",
 			level = 1,
 			item = {"jing_bi",},
@@ -274,7 +274,7 @@ return {
 		{
 			id = 13,
 			task = 1000631,
-			total = 10000,
+			total = 3,
 			task_name = "在西游消消乐中消除3个孙悟空",
 			level = 1,
 			item = {"jing_bi",},
@@ -285,7 +285,7 @@ return {
 		{
 			id = 14,
 			task = 1000632,
-			total = 50000,
+			total = 9,
 			task_name = "在西游消消乐中消除9个孙悟空",
 			level = 1,
 			item = {"jing_bi",},
@@ -296,7 +296,7 @@ return {
 		{
 			id = 15,
 			task = 1000633,
-			total = 3,
+			total = 1,
 			task_name = "在水浒消消乐中召唤出1个英雄",
 			level = 1,
 			item = {"jing_bi",},
@@ -307,7 +307,7 @@ return {
 		{
 			id = 16,
 			task = 1000634,
-			total = 6,
+			total = 4,
 			task_name = "在水浒消消乐中召唤出4个英雄",
 			level = 1,
 			item = {"jing_bi",},
@@ -318,7 +318,7 @@ return {
 		{
 			id = 17,
 			task = 1000635,
-			total = 3,
+			total = 300000,
 			task_name = "在龙王争霸中累计赢金30万",
 			level = 1,
 			item = {"jing_bi",},
@@ -329,7 +329,7 @@ return {
 		{
 			id = 18,
 			task = 1000636,
-			total = 2,
+			total = 600000,
 			task_name = "在龙王争霸中累计赢金60万",
 			level = 1,
 			item = {"jing_bi",},
@@ -340,7 +340,7 @@ return {
 		{
 			id = 19,
 			task = 1000637,
-			total = 4,
+			total = 3,
 			task_name = "在苹果大战中连胜3局",
 			level = 1,
 			item = {"jing_bi",},
@@ -351,7 +351,7 @@ return {
 		{
 			id = 20,
 			task = 1000638,
-			total = 3,
+			total = 1,
 			task_name = "在苹果大战中种出1次金苹果",
 			level = 1,
 			item = {"jing_bi",},
