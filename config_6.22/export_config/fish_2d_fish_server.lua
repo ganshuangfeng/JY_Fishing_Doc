@@ -5066,7 +5066,7 @@ return {
 		{
 			id = 199,
 			base_id = 61,
-			act_id = 88,
+			act_id = 56,
 			append_life_rate = {150,450},
 			life = 350,
 			shoot = 0.002222,
