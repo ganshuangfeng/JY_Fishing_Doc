@@ -5576,7 +5576,7 @@ return {
 		{
 			id = 56,
 			acti_type = 9,
-			num = {0,0,1.66,},
+			num = {0,0,0.15,},
 			show = 0,
 			enter_bag = 1,
 			value = 50,

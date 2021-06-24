@@ -4841,7 +4841,7 @@ return {
 			id = 186,
 			base_id = 61,
 			act_id = 88,
-			append_life_rate = 150450,
+			append_life_rate = {150,450},
 			life = 350,
 			shoot = 0.002857,
 			act_type = "activity",
@@ -5643,7 +5643,7 @@ return {
 		{
 			id = 88,
 			acti_type = 9,
-			num = {0,0,1.66,},
+			num = {0,0,0.15,},
 			show = 0,
 			enter_bag = 1,
 			value = 50,
