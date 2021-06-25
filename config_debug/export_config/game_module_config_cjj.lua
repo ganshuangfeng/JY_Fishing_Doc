@@ -3224,7 +3224,7 @@ return {
 		[329]=
 		{
 			id = 329,
-			key = "act_ty_gifts_style/act_004_xslb",
+			key = "act_ty_gifts_style/act_004_sxlb",
 			desc = "消暑礼包",
 			is_on_off = 1,
 			enable = 1,
