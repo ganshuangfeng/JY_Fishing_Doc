@@ -677,7 +677,7 @@ return {
 		{
 			line = 73,
 			ID = 5,
-			item = "prop_fishbowl_fry_fragment32",
+			item = "prop_fishbowl_fry_fragment25",
 			num = {40,60},
 			weight = 5,
 		},
