@@ -7,6 +7,8 @@ return {
 			task_id = 1000658,
 			startTime = 1623110400,
 			endTime = 1624895999,
+			startTime_weekly = {1623110400,1623715200,1624320000},
+			endTime_weekly = {1623686399,1624291199,1624895999},
 			gotoui = "game_MiniGame",
 			downDes = "每日0点重置倍数和奖励\n统计在任意消消乐游戏中24万及以上档次消除的倍数",
 		},
