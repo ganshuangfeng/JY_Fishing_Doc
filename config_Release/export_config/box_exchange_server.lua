@@ -1047,6 +1047,16 @@ return {
 			award_id = 93,
 			enable = 1,
 		},
+		[99]=
+		{
+			id = 99,
+			name = "消暑礼包",
+			start_time = 1624924800,
+			end_time = 1627315199,
+			use_asset_id = 88,
+			award_id = 94,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
@@ -1658,6 +1668,13 @@ return {
 			use_id = 87,
 			use_item = "prop_fish_drop_act_0",
 			use_num = 300,
+		},
+		[88]=
+		{
+			id = 88,
+			use_id = 88,
+			use_item = "prop_qdlb_cjq",
+			use_num = 1,
 		},
 	},
 	lottery_credit=
@@ -5940,6 +5957,48 @@ return {
 			award_id = 93,
 			real_award_id = 12087,
 			weight = 2406,
+		},
+		[611]=
+		{
+			no = 611,
+			award_id = 94,
+			real_award_id = 12088,
+			weight = 300,
+		},
+		[612]=
+		{
+			no = 612,
+			award_id = 94,
+			real_award_id = 12089,
+			weight = 250,
+		},
+		[613]=
+		{
+			no = 613,
+			award_id = 94,
+			real_award_id = 12090,
+			weight = 250,
+		},
+		[614]=
+		{
+			no = 614,
+			award_id = 94,
+			real_award_id = 12091,
+			weight = 199,
+		},
+		[615]=
+		{
+			no = 615,
+			award_id = 94,
+			real_award_id = 12092,
+			weight = 1,
+		},
+		[616]=
+		{
+			no = 616,
+			award_id = 94,
+			real_award_id = 12093,
+			weight = 0,
 		},
 	},
 	award_item=
@@ -10415,7 +10474,6 @@ return {
 		{
 			id = 606,
 			real_award_id = 12078,
-			award_name = "800福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = {800,800},
 		},
@@ -10423,15 +10481,13 @@ return {
 		{
 			id = 607,
 			real_award_id = 12079,
-			award_name = "100万金币",
-			asset_type = "jing_bi",
+			asset_type = "shop_gold_sum",
 			asset_count = {1000000,1000000},
 		},
 		[608]=
 		{
 			id = 608,
 			real_award_id = 12080,
-			award_name = "50万金币",
 			asset_type = "jing_bi",
 			asset_count = {500000,500000},
 		},
@@ -10439,7 +10495,6 @@ return {
 		{
 			id = 609,
 			real_award_id = 12081,
-			award_name = "100福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = {100,100},
 		},
@@ -10447,7 +10502,6 @@ return {
 		{
 			id = 610,
 			real_award_id = 12082,
-			award_name = "10万金币",
 			asset_type = "jing_bi",
 			asset_count = {100000,100000},
 		},
@@ -10455,7 +10509,6 @@ return {
 		{
 			id = 611,
 			real_award_id = 12083,
-			award_name = "100话费碎片",
 			asset_type = "prop_web_chip_huafei",
 			asset_count = {100,100},
 		},
@@ -10463,7 +10516,6 @@ return {
 		{
 			id = 612,
 			real_award_id = 12084,
-			award_name = "8万小游戏币",
 			asset_type = "prop_tiny_game_coin",
 			asset_count = {80000,80000},
 		},
@@ -10471,7 +10523,6 @@ return {
 		{
 			id = 613,
 			real_award_id = 12085,
-			award_name = "30福利券",
 			asset_type = "shop_gold_sum",
 			asset_count = {30,30},
 		},
@@ -10479,7 +10530,6 @@ return {
 		{
 			id = 614,
 			real_award_id = 12086,
-			award_name = "15话费碎片",
 			asset_type = "prop_web_chip_huafei",
 			asset_count = {15,15},
 		},
@@ -10487,9 +10537,50 @@ return {
 		{
 			id = 615,
 			real_award_id = 12087,
-			award_name = "3万小游戏币",
 			asset_type = "prop_tiny_game_coin",
 			asset_count = {30000,30000},
+		},
+		[616]=
+		{
+			id = 616,
+			real_award_id = 12088,
+			asset_type = "shop_gold_sum",
+			asset_count = {5,5},
+		},
+		[617]=
+		{
+			id = 617,
+			real_award_id = 12089,
+			asset_type = "jing_bi",
+			asset_count = {10000,10000},
+		},
+		[618]=
+		{
+			id = 618,
+			real_award_id = 12090,
+			asset_type = "shop_gold_sum",
+			asset_count = {30,30},
+		},
+		[619]=
+		{
+			id = 619,
+			real_award_id = 12091,
+			asset_type = "jing_bi",
+			asset_count = {50000,50000},
+		},
+		[620]=
+		{
+			id = 620,
+			real_award_id = 12092,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = {1000,1000},
+		},
+		[621]=
+		{
+			id = 621,
+			real_award_id = 12093,
+			award_name = "美的空调",
+			asset_count = {1,1},
 		},
 	},
 	weight=
@@ -11234,6 +11325,12 @@ return {
 			key = "zqdw_009",
 			min = 98,
 			max = 98,
+		},
+		qlyx_010=
+		{
+			key = "qlyx_010",
+			min = 99,
+			max = 99,
 		},
 	},
 	all_powerful=

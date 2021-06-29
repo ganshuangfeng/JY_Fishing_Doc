@@ -6763,7 +6763,7 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_ymshf_017_hldr_rank",
+			key = "actp_rank_qlyx_021_xgphb_rank",
 			name = "游戏达人",
 			condi = 393,
 			is_dynamic_codi = 1,

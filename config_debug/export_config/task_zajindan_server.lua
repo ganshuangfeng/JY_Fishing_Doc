@@ -16009,6 +16009,51 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000699]=
+		{
+			id = 1000699,
+			enable = 1,
+			name = "啤酒狂欢-简单",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22057,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1625529600,
+			end_valid_time = 1626105599,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000700]=
+		{
+			id = 1000700,
+			enable = 1,
+			name = "啤酒狂欢-中等",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22058,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1625529600,
+			end_valid_time = 1626105599,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000701]=
+		{
+			id = 1000701,
+			enable = 1,
+			name = "啤酒狂欢-挑战",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22059,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1625529600,
+			end_valid_time = 1626105599,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -26359,7 +26404,7 @@ return {
 			id = 1107,
 			process_id = 22055,
 			source_id = 658,
-			process = {100000,200000,700000,2000000,7000000,10000000,15000000,45000000,120000000,600000000,1200000000,2000000000,4000000000,12000000000},
+			process = {100000,200000,700000,2000000,7000000,10000000,15000000,45000000,120000000,600000000,1200000000,2000000000,4000000000,20000000000},
 			awards = {1445,1446,1448,1449,1451,1452,1454,1555,1457,1458,1460,1462,1464,1466},
 			get_award_type = "nor",
 		},
@@ -26371,6 +26416,33 @@ return {
 			process = {600,4200,15000,69000,100000,400000,411200,888800},
 			awards = {1447,1450,1453,1456,1459,1461,1463,1465,},
 			get_award_type = "nor",
+		},
+		[1109]=
+		{
+			id = 1109,
+			process_id = 22057,
+			source_id = 660,
+			process = {20,30,50,100,200},
+			awards = {1467,1468,1469,1470,1471},
+			get_award_type = "random",
+		},
+		[1110]=
+		{
+			id = 1110,
+			process_id = 22058,
+			source_id = 661,
+			process = {100,400,500,500,700},
+			awards = {1472,1473,1474,1475,1476},
+			get_award_type = "random",
+		},
+		[1111]=
+		{
+			id = 1111,
+			process_id = 22059,
+			source_id = 662,
+			process = {100,400,500,500,2000},
+			awards = {1477,1478,1479,1480,1481},
+			get_award_type = "random",
 		},
 	},
 	source=
@@ -33779,6 +33851,7 @@ return {
 			source_id = 648,
 			source_type = "jykp_spend",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[1052]=
 		{
@@ -33961,7 +34034,6 @@ return {
 			source_id = 658,
 			source_type = "jykp_spend",
 			condition_id = 0,
-			process_discount = 0.500000,
 		},
 		[1078]=
 		{
@@ -34004,6 +34076,27 @@ return {
 			source_id = 659,
 			source_type = "agent_charge_any",
 			condition_id = 492,
+		},
+		[1084]=
+		{
+			id = 1084,
+			source_id = 660,
+			source_type = "box_exchange",
+			condition_id = 493,
+		},
+		[1085]=
+		{
+			id = 1085,
+			source_id = 661,
+			source_type = "box_exchange",
+			condition_id = 494,
+		},
+		[1086]=
+		{
+			id = 1086,
+			source_id = 662,
+			source_type = "box_exchange",
+			condition_id = 495,
 		},
 	},
 	condition=
@@ -38669,7 +38762,7 @@ return {
 			id = 613,
 			condition_id = 450,
 			condition_name = "gift_id",
-			condition_value = {4,87,10490},
+			condition_value = {4,87},
 			judge_type = 2,
 		},
 		[614]=
@@ -38677,7 +38770,7 @@ return {
 			id = 614,
 			condition_id = 451,
 			condition_name = "gift_id",
-			condition_value = {5,88,10491},
+			condition_value = {5,88},
 			judge_type = 2,
 		},
 		[615]=
@@ -38685,7 +38778,7 @@ return {
 			id = 615,
 			condition_id = 452,
 			condition_name = "gift_id",
-			condition_value = {110,10045,10495},
+			condition_value = {110,10045},
 			judge_type = 2,
 		},
 		[616]=
@@ -38693,7 +38786,7 @@ return {
 			id = 616,
 			condition_id = 453,
 			condition_name = "gift_id",
-			condition_value = {108,10044,10494},
+			condition_value = {108,10044},
 			judge_type = 2,
 		},
 		[617]=
@@ -38701,7 +38794,7 @@ return {
 			id = 617,
 			condition_id = 454,
 			condition_name = "gift_id",
-			condition_value = {6,89,10493},
+			condition_value = {6,89},
 			judge_type = 2,
 		},
 		[618]=
@@ -38709,7 +38802,7 @@ return {
 			id = 618,
 			condition_id = 455,
 			condition_name = "gift_id",
-			condition_value = {111,10189,10492},
+			condition_value = {111,10189},
 			judge_type = 2,
 		},
 		[619]=
@@ -39038,6 +39131,30 @@ return {
 			condition_id = 492,
 			condition_name = "gift_id",
 			condition_value = {110,10045,10495,108,10044,10494,107,109,6,89,10493,5,88,10491,4,87,10490,3,86,2,85,1,10330},
+			judge_type = 2,
+		},
+		[660]=
+		{
+			id = 660,
+			condition_id = 493,
+			condition_name = "box_exchange_type",
+			condition_value = {"box_exchange_101",},
+			judge_type = 2,
+		},
+		[661]=
+		{
+			id = 661,
+			condition_id = 494,
+			condition_name = "box_exchange_type",
+			condition_value = {"box_exchange_102",},
+			judge_type = 2,
+		},
+		[662]=
+		{
+			id = 662,
+			condition_id = 495,
+			condition_name = "box_exchange_type",
+			condition_value = {"box_exchange_103",},
 			judge_type = 2,
 		},
 	},
@@ -57986,6 +58103,126 @@ return {
 			asset_type = "shop_gold_sum",
 			asset_count = 50000,
 			get_weight = 1,
+		},
+		[2370]=
+		{
+			id = 2370,
+			award_id = 1467,
+			asset_type = "jing_bi",
+			asset_count = {20000,80000},
+			get_weight = 1,
+		},
+		[2371]=
+		{
+			id = 2371,
+			award_id = 1468,
+			asset_type = "jing_bi",
+			asset_count = {100000,150000},
+			get_weight = 1,
+		},
+		[2372]=
+		{
+			id = 2372,
+			award_id = 1469,
+			asset_type = "jing_bi",
+			asset_count = {150000,300000},
+			get_weight = 1,
+		},
+		[2373]=
+		{
+			id = 2373,
+			award_id = 1470,
+			asset_type = "jing_bi",
+			asset_count = {300000,500000},
+			get_weight = 1,
+		},
+		[2374]=
+		{
+			id = 2374,
+			award_id = 1471,
+			award_name = "原浆啤酒1L",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[2375]=
+		{
+			id = 2375,
+			award_id = 1472,
+			asset_type = "jing_bi",
+			asset_count = {100000,200000},
+			get_weight = 1,
+		},
+		[2376]=
+		{
+			id = 2376,
+			award_id = 1473,
+			asset_type = "jing_bi",
+			asset_count = {300000,500000},
+			get_weight = 1,
+		},
+		[2377]=
+		{
+			id = 2377,
+			award_id = 1474,
+			asset_type = "jing_bi",
+			asset_count = {400000,600000},
+			get_weight = 1,
+		},
+		[2378]=
+		{
+			id = 2378,
+			award_id = 1475,
+			asset_type = "jing_bi",
+			asset_count = {500000,1500000},
+			get_weight = 1,
+		},
+		[2379]=
+		{
+			id = 2379,
+			award_id = 1476,
+			award_name = "抖音雪糕风扇",
+			get_weight = 1,
+			is_send_email = 1,
+		},
+		[2380]=
+		{
+			id = 2380,
+			award_id = 1477,
+			asset_type = "jing_bi",
+			asset_count = {100000,200000},
+			get_weight = 1,
+		},
+		[2381]=
+		{
+			id = 2381,
+			award_id = 1478,
+			asset_type = "jing_bi",
+			asset_count = {300000,500000},
+			get_weight = 1,
+		},
+		[2382]=
+		{
+			id = 2382,
+			award_id = 1479,
+			asset_type = "jing_bi",
+			asset_count = {400000,600000},
+			get_weight = 1,
+		},
+		[2383]=
+		{
+			id = 2383,
+			award_id = 1480,
+			asset_type = "jing_bi",
+			asset_count = {1000000,3000000},
+			get_weight = 1,
+		},
+		[2384]=
+		{
+			id = 2384,
+			award_id = 1481,
+			award_name = "南极人空调扇",
+			get_weight = 1,
+			is_send_email = 1,
 		},
 	},
 }

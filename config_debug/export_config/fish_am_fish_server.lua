@@ -1267,6 +1267,15 @@ return {
 			rate = 300,
 			gd_award = 1,
 		},
+		[138]=
+		{
+			ID = 138,
+			fish_type = 1,
+			fish_form = {122,},
+			life = 0,
+			rate = 150,
+			gd_award = 1,
+		},
 	},
 	use_fish=
 	{
@@ -3225,6 +3234,23 @@ return {
 			broadcast = 1,
 			clear_level = 1,
 		},
+		[122]=
+		{
+			id = 122,
+			base_id = 63,
+			act_id = 92,
+			append_life_rate = {100,200},
+			life = 0,
+			shoot = 0,
+			act_type = "activity",
+			rate = 150,
+			dead_mode = 1,
+			gd_award = 1,
+			ranking_rate = 150,
+			ranking_show_rate = 1,
+			broadcast = 1,
+			clear_level = 1,
+		},
 	},
 	activity=
 	{
@@ -4047,6 +4073,15 @@ return {
 			enter_bag = 1,
 			value = 50,
 		},
+		[92]=
+		{
+			id = 92,
+			acti_type = 9,
+			num = {"prop_fishbowl_feed",11,1.5,2.5},
+			show = 0,
+			enter_bag = 1,
+			value = 0,
+		},
 	},
 	box_fish_activity=
 	{
@@ -4626,6 +4661,15 @@ return {
 		[62]=
 		{
 			id = 62,
+			type = 1,
+			life = 0,
+			shoot = 0,
+			rate = 0,
+			gd_award = 0,
+		},
+		[63]=
+		{
+			id = 63,
 			type = 1,
 			life = 0,
 			shoot = 0,
@@ -5293,5 +5337,8 @@ return {
 			ID = 1,
 			group_id = {34,35,36,37,38,39,40,41,},
 		},
+	},
+	Sheet1=
+	{
 	},
 }

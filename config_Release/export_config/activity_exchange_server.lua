@@ -669,6 +669,18 @@ return {
 			goods_type = 1,
 			email_id = 43,
 			award_id = 57,
+			enable = 0,
+		},
+		[58]=
+		{
+			id = 58,
+			name = "西瓜兑奖",
+			start_time = 1624924800,
+			end_time = 1625500799,
+			use_goods = {"prop_fish_drop_act_0",},
+			goods_type = 1,
+			email_id = 44,
+			award_id = 58,
 			enable = 1,
 		},
 	},
@@ -931,6 +943,12 @@ return {
 			id = 43,
 			title = "欢乐兑奖",
 			content = "恭喜您在欢乐兑奖活动中获得了%s，请在活动结束后7个工作日内联系公众号《鲸鱼初纪元》客服领取，逾期视为自动放弃！",
+		},
+		[44]=
+		{
+			id = 44,
+			title = "西瓜兑奖",
+			content = "恭喜您在西瓜兑奖活动中获得了%s，请在活动结束后7个工作日内联系客服QQ号4008882620领取，逾期视为自动放弃！",
 		},
 	},
 	award=
@@ -4844,6 +4862,88 @@ return {
 			asset_count = {200,},
 			use_num = {1200,},
 			me_limit_day_num = 1,
+		},
+		[375]=
+		{
+			no = 375,
+			award_cfg_id = 58,
+			award_id = 1,
+			permission_key = "actp_prop_exchange_nor_v5",
+			award_name = "笔记本电脑",
+			use_num = {1080000,},
+			me_limit_day_num = 1,
+		},
+		[376]=
+		{
+			no = 376,
+			award_cfg_id = 58,
+			award_id = 2,
+			permission_key = "actp_prop_exchange_nor_v5",
+			award_name = "vivo手机",
+			use_num = {880000,},
+			me_limit_day_num = 1,
+		},
+		[377]=
+		{
+			no = 377,
+			award_cfg_id = 58,
+			award_id = 3,
+			permission_key = "actp_prop_exchange_nor",
+			award_name = "美的微波炉",
+			use_num = {180000,},
+			me_limit_day_num = 1,
+		},
+		[378]=
+		{
+			no = 378,
+			award_cfg_id = 58,
+			award_id = 4,
+			permission_key = "actp_prop_exchange_nor",
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {10000,},
+			use_num = {60000,},
+			me_limit_day_num = 1,
+		},
+		[379]=
+		{
+			no = 379,
+			award_cfg_id = 58,
+			award_id = 5,
+			permission_key = "actp_prop_exchange_nor",
+			asset_type = {"fish_coin",},
+			asset_count = {5000000,},
+			use_num = {30000,},
+		},
+		[380]=
+		{
+			no = 380,
+			award_cfg_id = 58,
+			award_id = 6,
+			permission_key = "actp_prop_exchange_nor",
+			asset_type = {"shop_gold_sum",},
+			asset_count = {2000,},
+			use_num = {12000,},
+			me_limit_day_num = 2,
+		},
+		[381]=
+		{
+			no = 381,
+			award_cfg_id = 58,
+			award_id = 7,
+			permission_key = "actp_prop_exchange_nor",
+			award_name = "俄罗斯巧克力",
+			use_num = {6000,},
+			me_limit_day_num = 3,
+		},
+		[382]=
+		{
+			no = 382,
+			award_cfg_id = 58,
+			award_id = 8,
+			permission_key = "actp_prop_exchange_nor",
+			award_name = "手帕纸10包",
+			use_num = {2000,},
+			me_limit_day_num = 5,
 		},
 	},
 	all_powerful=
