@@ -1054,6 +1054,8 @@ return {
 			start_time = 1624924800,
 			end_time = 1627315199,
 			use_asset_id = 88,
+			award_id = 94,
+			enable = 1,
 		},
 	},
 	use_asset=
