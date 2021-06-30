@@ -602,7 +602,7 @@ return {
 		{
 			id = 52,
 			task = 1000698,
-			total = 6,
+			total = 600,
 			task_name = "商城累计充值6元",
 			level = 1,
 			item = {"shop_gold_sum",},
@@ -635,7 +635,7 @@ return {
 		{
 			id = 53,
 			task = 1000698,
-			total = 48,
+			total = 4800,
 			task_name = "商城累计充值48元",
 			level = 2,
 			item = {"shop_gold_sum",},
@@ -668,7 +668,7 @@ return {
 		{
 			id = 54,
 			task = 1000698,
-			total = 198,
+			total = 19800,
 			task_name = "商城累计充值198元",
 			level = 3,
 			item = {"shop_gold_sum",},
@@ -701,7 +701,7 @@ return {
 		{
 			id = 55,
 			task = 1000698,
-			total = 888,
+			total = 88800,
 			task_name = "商城累计充值888元",
 			level = 4,
 			item = {"shop_gold_sum",},
@@ -734,7 +734,7 @@ return {
 		{
 			id = 56,
 			task = 1000698,
-			total = 1888,
+			total = 188800,
 			task_name = "商城累计充值1888元",
 			level = 5,
 			item = {"shop_gold_sum",},
@@ -756,7 +756,7 @@ return {
 		{
 			id = 57,
 			task = 1000698,
-			total = 5888,
+			total = 588800,
 			task_name = "商城累计充值5888元",
 			level = 6,
 			item = {"shop_gold_sum",},
@@ -778,7 +778,7 @@ return {
 		{
 			id = 58,
 			task = 1000698,
-			total = 10000,
+			total = 1000000,
 			task_name = "商城累计充值10000元",
 			level = 7,
 			item = {"shop_gold_sum",},
@@ -800,7 +800,7 @@ return {
 		{
 			id = 59,
 			task = 1000698,
-			total = 18888,
+			total = 1888800,
 			task_name = "商城累计充值18888元",
 			level = 8,
 			item = {"shop_gold_sum",},
