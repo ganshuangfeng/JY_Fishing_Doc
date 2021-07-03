@@ -10572,6 +10572,7 @@ return {
 		{
 			id = 620,
 			real_award_id = 12092,
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {1000,1000},
 		},
 		[621]=
