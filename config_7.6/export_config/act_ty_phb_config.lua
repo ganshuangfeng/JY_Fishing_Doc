@@ -70,7 +70,7 @@ return {
 			ID = 8,
 			award = 60000,
 			limit = {1,1,},
-			need_num = 3000000,
+			need_num = 100000,
 			condition = "牛啤值达到100000",
 		},
 		[9]=
@@ -78,7 +78,7 @@ return {
 			ID = 9,
 			award = 15000,
 			limit = {2,2},
-			need_num = 1800000,
+			need_num = 60000,
 			condition = "牛啤值达到60000",
 		},
 		[10]=
@@ -86,7 +86,7 @@ return {
 			ID = 10,
 			award = 5000,
 			limit = {3,3,},
-			need_num = 900000,
+			need_num = 30000,
 			condition = "牛啤值达到30000",
 		},
 		[11]=
@@ -94,7 +94,7 @@ return {
 			ID = 11,
 			award = 800,
 			limit = {4,6,},
-			need_num = 450000,
+			need_num = 15000,
 			condition = "牛啤值达到15000",
 		},
 		[12]=
@@ -102,7 +102,7 @@ return {
 			ID = 12,
 			award = 800,
 			limit = {7,10,},
-			need_num = 300000,
+			need_num = 10000,
 			condition = "牛啤值达到10000",
 		},
 		[13]=
@@ -110,7 +110,7 @@ return {
 			ID = 13,
 			award = 400,
 			limit = {11,15,},
-			need_num = 180000,
+			need_num = 6000,
 			condition = "牛啤值达到6000",
 		},
 		[14]=
@@ -118,7 +118,7 @@ return {
 			ID = 14,
 			award = 200,
 			limit = {16,20,},
-			need_num = 90000,
+			need_num = 3000,
 			condition = "牛啤值达到3000",
 		},
 	},
