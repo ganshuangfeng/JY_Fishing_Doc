@@ -6,19 +6,19 @@ return {
 			line = 1,
 			is_on_off = 1,
 			ID = 1,
-			item_key = "prop_fish_drop_act_0",
+			item_key = "prop_grade",
 			reward_item_key = "shop_gold_sum",
 			ext_reward_item_key = "shop_gold_sum",
-			rank_type = "qlyx_021_xgphb_rank",
-			s_time = 1624924800,
-			e_time = 1625500799,
-			gotoUI = {"game_Fishing3DHall",},
+			rank_type = "yqhp_022_nqdr_rank",
+			s_time = 1625529600,
+			e_time = 1626105599,
+			gotoUI = {"act_052_qfhl",},
 			award = {1,2,3,4,5,6,7},
 			extra_award = {8,9,10,11,12,13,14},
-			path = "act_020_dlphb",
-			condiy_key = "actp_rank_qlyx_021_xgphb_rank",
-			type_info = 100,
-			is_have_point = 1,
+			path = "act_021_dlphb",
+			condiy_key = "actp_rank_yqhp_022_nqdr_rank",
+			type_info = 0,
+			is_have_point = 0,
 		},
 	},
 	award_config=
@@ -71,7 +71,7 @@ return {
 			award = 60000,
 			limit = {1,1,},
 			need_num = 3000000,
-			condition = "西瓜数达到300万",
+			condition = "牛啤值达到100000",
 		},
 		[9]=
 		{
@@ -79,7 +79,7 @@ return {
 			award = 15000,
 			limit = {2,2},
 			need_num = 1800000,
-			condition = "西瓜数达到180万",
+			condition = "牛啤值达到60000",
 		},
 		[10]=
 		{
@@ -87,7 +87,7 @@ return {
 			award = 5000,
 			limit = {3,3,},
 			need_num = 900000,
-			condition = "西瓜数达到90万",
+			condition = "牛啤值达到30000",
 		},
 		[11]=
 		{
@@ -95,7 +95,7 @@ return {
 			award = 800,
 			limit = {4,6,},
 			need_num = 450000,
-			condition = "西瓜数达到45万",
+			condition = "牛啤值达到15000",
 		},
 		[12]=
 		{
@@ -103,7 +103,7 @@ return {
 			award = 800,
 			limit = {7,10,},
 			need_num = 300000,
-			condition = "西瓜数达到30万",
+			condition = "牛啤值达到10000",
 		},
 		[13]=
 		{
@@ -111,7 +111,7 @@ return {
 			award = 400,
 			limit = {11,15,},
 			need_num = 180000,
-			condition = "西瓜数达到18万",
+			condition = "牛啤值达到6000",
 		},
 		[14]=
 		{
@@ -119,7 +119,7 @@ return {
 			award = 200,
 			limit = {16,20,},
 			need_num = 90000,
-			condition = "西瓜数达到9万",
+			condition = "牛啤值达到3000",
 		},
 	},
 }

@@ -1717,7 +1717,7 @@ return {
 			image = "act_ty_by_drop_7",
 			is_show_bag = 0,
 			order = 1,
-			name = "西瓜",
+			name = "啤酒券",
 			desc = "掉落物活动通用道具",
 		},
 		[131]=
@@ -2462,7 +2462,7 @@ return {
 			image = "szg_iocn_sl",
 			is_show_bag = 1,
 			order = 2,
-			name = "饲料",
+			name = "鱼粮",
 			desc = "用于喂养水族馆中的鱼苗",
 			tag = 16,
 		},
@@ -4349,7 +4349,7 @@ return {
 			image = "com_icon_cl",
 			is_show_bag = 0,
 			order = 1,
-			name = "财力",
+			name = "牛啤值",
 			desc = "用于参加排行榜",
 		},
 		[322]=

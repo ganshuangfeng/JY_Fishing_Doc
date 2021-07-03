@@ -33961,6 +33961,7 @@ return {
 			source_id = 658,
 			source_type = "jykp_spend",
 			condition_id = 0,
+			process_discount = 0.500000,
 		},
 		[1078]=
 		{
