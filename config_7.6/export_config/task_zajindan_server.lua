@@ -15785,7 +15785,7 @@ return {
 		[1000684]=
 		{
 			id = 1000684,
-			enable = 1,
+			enable = 0,
 			name = "欢乐券掉落需求",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
