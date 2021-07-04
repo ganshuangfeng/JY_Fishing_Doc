@@ -15810,7 +15810,7 @@ return {
 		{
 			line_id = 654,
 			id = 10571,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "一帆风顺",
 			content = {"9980万金币","300万小游戏币","铁锹*5"},
 			gzh_order = -31,
@@ -15833,7 +15833,7 @@ return {
 		{
 			line_id = 655,
 			id = 10572,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "二龙飞腾",
 			content = {"4980万金币","150万小游戏币","铁锹*2"},
 			gzh_order = -31,
@@ -15856,7 +15856,7 @@ return {
 		{
 			line_id = 656,
 			id = 10573,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "三阳开泰",
 			content = {"2980万金币","90万小游戏币","阳光*12"},
 			gzh_order = -31,
@@ -15879,7 +15879,7 @@ return {
 		{
 			line_id = 657,
 			id = 10574,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "四季发财",
 			content = {"1980万金币","60万小游戏币","阳光*8"},
 			gzh_order = -31,
@@ -15902,7 +15902,7 @@ return {
 		{
 			line_id = 658,
 			id = 10575,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "五福临门",
 			content = {"980万金币","30万小游戏币","阳光*5"},
 			gzh_order = -31,
@@ -15925,7 +15925,7 @@ return {
 		{
 			line_id = 659,
 			id = 10576,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "六六大顺",
 			content = {"480万金币","15万小游戏币","水滴*8"},
 			gzh_order = -31,
@@ -15948,7 +15948,7 @@ return {
 		{
 			line_id = 660,
 			id = 10577,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "七星高照",
 			content = {"180万金币","10万小游戏币","水滴*5"},
 			gzh_order = -31,
@@ -15971,7 +15971,7 @@ return {
 		{
 			line_id = 661,
 			id = 10578,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "欢乐敲金蛋",
 			content = {"180万金币","铜锤*1",},
 			gzh_order = -31,
@@ -15995,7 +15995,7 @@ return {
 		{
 			line_id = 662,
 			id = 10579,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "欢乐敲金蛋",
 			content = {"300万金币","银锤*1",},
 			gzh_order = -31,
@@ -16019,7 +16019,7 @@ return {
 		{
 			line_id = 663,
 			id = 10580,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "欢乐敲金蛋",
 			content = {"480万金币","金锤*1",},
 			gzh_order = -31,
@@ -16043,7 +16043,7 @@ return {
 		{
 			line_id = 664,
 			id = 10581,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "欢乐敲金蛋",
 			content = {"480万金币","铜锤*1",},
 			gzh_order = -31,
@@ -16067,7 +16067,7 @@ return {
 		{
 			line_id = 665,
 			id = 10582,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "欢乐敲金蛋",
 			content = {"980万金币","银锤*1",},
 			gzh_order = -31,
@@ -16091,7 +16091,7 @@ return {
 		{
 			line_id = 666,
 			id = 10583,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "欢乐敲金蛋",
 			content = {"1980万金币","金锤*1",},
 			gzh_order = -31,
@@ -16115,7 +16115,7 @@ return {
 		{
 			line_id = 667,
 			id = 10584,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "欢乐敲金蛋",
 			content = {"980万金币","铜锤*1",},
 			gzh_order = -31,
@@ -16139,7 +16139,7 @@ return {
 		{
 			line_id = 668,
 			id = 10585,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "欢乐敲金蛋",
 			content = {"1980万金币","银锤*1",},
 			gzh_order = -31,
@@ -16163,7 +16163,7 @@ return {
 		{
 			line_id = 669,
 			id = 10586,
-			on_off = 1,
+			on_off = 0,
 			pay_title = "欢乐敲金蛋",
 			content = {"4980万金币","金锤*1",},
 			gzh_order = -31,
