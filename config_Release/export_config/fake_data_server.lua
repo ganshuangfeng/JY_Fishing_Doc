@@ -246,5 +246,96 @@ return {
 			award_name = "1000万金币",
 			weight = 13,
 		},
+		[36]=
+		{
+			id = 36,
+			data_type = "pjkh_lottery",
+			award_name = "美的空调",
+			weight = 1,
+		},
+		[37]=
+		{
+			id = 37,
+			data_type = "pjkh_lottery",
+			award_name = "平板电脑",
+			weight = 5,
+		},
+		[38]=
+		{
+			id = 38,
+			data_type = "pjkh_lottery",
+			award_name = "青岛特制啤酒9罐",
+			weight = 120,
+		},
+		[39]=
+		{
+			id = 39,
+			data_type = "pjkh_lottery",
+			award_name = "亲嘴烧30袋",
+			weight = 100,
+		},
+		[40]=
+		{
+			id = 40,
+			data_type = "pjkh_lottery",
+			award_name = "抽纸5包",
+			weight = 100,
+		},
+		[41]=
+		{
+			id = 41,
+			data_type = "pjkh_lottery",
+			award_name = "800福利券",
+			weight = 150,
+		},
+		[42]=
+		{
+			id = 42,
+			data_type = "pjkh_lottery",
+			award_name = "100万金币",
+			weight = 200,
+		},
+		[43]=
+		{
+			id = 43,
+			data_type = "pjkh_lottery",
+			award_name = "50万金币",
+			weight = 60,
+		},
+		[44]=
+		{
+			id = 44,
+			data_type = "pjkh_lottery",
+			award_name = "100福利券",
+			weight = 150,
+		},
+		[45]=
+		{
+			id = 45,
+			data_type = "pjkh_lottery",
+			award_name = "100话费碎片",
+			weight = 114,
+		},
+		[46]=
+		{
+			id = 46,
+			data_type = "pjkh_lottery_1",
+			award_name = "原浆啤酒1L",
+			weight = 4,
+		},
+		[47]=
+		{
+			id = 47,
+			data_type = "pjkh_lottery_1",
+			award_name = "抖音雪糕风扇",
+			weight = 3,
+		},
+		[48]=
+		{
+			id = 48,
+			data_type = "pjkh_lottery_1",
+			award_name = "南极人空调扇",
+			weight = 3,
+		},
 	},
 }

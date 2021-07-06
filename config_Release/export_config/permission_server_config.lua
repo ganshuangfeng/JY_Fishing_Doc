@@ -6498,7 +6498,7 @@ return {
 		[349]=
 		{
 			id = 349,
-			enable = 0,
+			enable = 1,
 			key = "actp_buy_gift_class_hqjnh_046_cjj_hllb",
 			name = "欢乐礼包（冲金鸡）",
 			condi = 371,
@@ -6763,7 +6763,7 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_qlyx_021_xgphb_rank",
+			key = "actp_rank_yqhp_022_nqdr_rank",
 			name = "游戏达人",
 			condi = 393,
 			is_dynamic_codi = 1,

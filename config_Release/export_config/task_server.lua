@@ -1294,7 +1294,7 @@ return {
 		[94]=
 		{
 			id = 94,
-			enable = 0,
+			enable = 1,
 			name = "图鉴收集任务",
 			own_type = "normal",
 			task_enum = "common",

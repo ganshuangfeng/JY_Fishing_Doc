@@ -1476,7 +1476,7 @@ return {
 		{
 			id = 30006,
 			enable = 1,
-			name = "通行证-每日-消耗30万金币",
+			name = "通行证-每日-消耗5万金币",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 106,
@@ -1491,7 +1491,7 @@ return {
 		{
 			id = 30007,
 			enable = 1,
-			name = "通行证-每日-在3D捕鱼中捕获任意100条鱼",
+			name = "通行证-每日-在3D捕鱼中捕获1条彩金鱼",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 107,
@@ -1506,7 +1506,7 @@ return {
 		{
 			id = 30008,
 			enable = 1,
-			name = "通行证-每日-在3D捕鱼海底宝藏中累计开炮500次",
+			name = "通行证-每日-在3D捕鱼中捕获任意10条鱼",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 108,
@@ -1521,7 +1521,7 @@ return {
 		{
 			id = 30009,
 			enable = 1,
-			name = "通行证-每日-在西游消消乐中累计消除15次",
+			name = "通行证-每日-在3D捕鱼中任意使用技能10次",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 109,
@@ -1536,7 +1536,7 @@ return {
 		{
 			id = 30010,
 			enable = 1,
-			name = "通行证-每日-在水浒消消乐中累计消除15次",
+			name = "通行证-每日-累计游戏时长10分钟",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 110,
@@ -1581,8 +1581,8 @@ return {
 		{
 			id = 30013,
 			enable = 1,
-			name = "通行证-每周-使用1次红包大转盘",
-			own_type = "p_txz",
+			name = "通行证-每周-消耗100万金币",
+			own_type = "normal",
 			task_enum = "common",
 			process_id = 113,
 			is_reset = 1,
@@ -1596,7 +1596,7 @@ return {
 		{
 			id = 30014,
 			enable = 1,
-			name = "通行证-每周-深海探险通过10层",
+			name = "通行证-每周-在3D捕鱼中任意使用技能50次",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 114,
@@ -1611,7 +1611,7 @@ return {
 		{
 			id = 30015,
 			enable = 1,
-			name = "通行证-每周-累计游戏时长200分钟",
+			name = "通行证-每周-在3D捕鱼中捕获任意100条鱼",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 115,
@@ -1626,7 +1626,7 @@ return {
 		{
 			id = 30016,
 			enable = 1,
-			name = "通行证-每周-在3D捕鱼海底宝藏中累计捕获300条鱼",
+			name = "通行证-每周-在3D捕鱼中捕获20条彩金鱼",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 116,
@@ -1641,7 +1641,7 @@ return {
 		{
 			id = 30017,
 			enable = 1,
-			name = "通行证-每周-在苹果大战中累计纯赢100万",
+			name = "通行证-每周-累计游戏时长90分钟",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 117,
@@ -1656,7 +1656,7 @@ return {
 		{
 			id = 30018,
 			enable = 1,
-			name = "通行证-每周-在水果消消乐中累计消除100次",
+			name = "通行证-每周-累计充值48元",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 118,
@@ -2589,7 +2589,7 @@ return {
 			id = 94,
 			process_id = 94,
 			source_id = 94,
-			process = {5,10,20,30,},
+			process = {5,5,10,10,},
 			awards = {116,117,118,119,},
 			get_award_type = "nor",
 		},
@@ -2678,6 +2678,7 @@ return {
 			process = 1,
 			awards = 187,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[105]=
 		{
@@ -2685,53 +2686,59 @@ return {
 			process_id = 105,
 			source_id = 100,
 			process = 1,
-			awards = 187,
+			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[106]=
 		{
 			id = 106,
 			process_id = 106,
 			source_id = 101,
-			process = 300000,
-			awards = 187,
+			process = 50000,
+			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[107]=
 		{
 			id = 107,
 			process_id = 107,
 			source_id = 102,
-			process = 100,
-			awards = 187,
+			process = 1,
+			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[108]=
 		{
 			id = 108,
 			process_id = 108,
 			source_id = 103,
-			process = 500,
-			awards = 187,
+			process = 10,
+			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[109]=
 		{
 			id = 109,
 			process_id = 109,
 			source_id = 104,
-			process = 15,
-			awards = 187,
+			process = 10,
+			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[110]=
 		{
 			id = 110,
 			process_id = 110,
-			source_id = 105,
-			process = 15,
-			awards = 187,
+			source_id = 110,
+			process = 600,
+			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[111]=
 		{
@@ -2739,8 +2746,9 @@ return {
 			process_id = 111,
 			source_id = 106,
 			process = 1,
-			awards = 187,
+			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[112]=
 		{
@@ -2748,53 +2756,59 @@ return {
 			process_id = 112,
 			source_id = 107,
 			process = 3,
-			awards = 188,
+			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[113]=
 		{
 			id = 113,
 			process_id = 113,
-			source_id = 108,
-			process = 1,
+			source_id = 101,
+			process = 1000000,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[114]=
 		{
 			id = 114,
 			process_id = 114,
-			source_id = 109,
-			process = 10,
+			source_id = 104,
+			process = 50,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[115]=
 		{
 			id = 115,
 			process_id = 115,
-			source_id = 110,
-			process = 12000,
+			source_id = 103,
+			process = 100,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[116]=
 		{
 			id = 116,
 			process_id = 116,
-			source_id = 111,
-			process = 300,
+			source_id = 102,
+			process = 20,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[117]=
 		{
 			id = 117,
 			process_id = 117,
-			source_id = 112,
-			process = 1000000,
+			source_id = 110,
+			process = 5400,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[118]=
 		{
@@ -2804,6 +2818,7 @@ return {
 			process = 100,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 	},
 	source=
@@ -3760,15 +3775,15 @@ return {
 		{
 			id = 136,
 			source_id = 103,
-			source_type = "buyu_3d_spend_num",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 39,
 		},
 		[137]=
 		{
 			id = 137,
 			source_id = 104,
-			source_type = "xiaoxiaole_xiyou_game_num",
-			condition_id = 0,
+			source_type = "buyu_3d_spend_by_use_fish_prop ",
+			condition_id = 41,
 		},
 		[138]=
 		{
@@ -3833,576 +3848,12 @@ return {
 			source_type = "xiaoxiaole_game_num",
 			condition_id = 0,
 		},
-	},
-	condition=
-	{
-		[1]=
-		{
-			id = 1,
-			condition_id = 1,
-			condition_name = "game_module",
-			condition_value = "freestyle",
-			judge_type = 2,
-		},
-		[2]=
-		{
-			id = 2,
-			condition_id = 1,
-			condition_name = "game_level",
-			condition_value = 1,
-			judge_type = 2,
-		},
-		[3]=
-		{
-			id = 3,
-			condition_id = 2,
-			condition_name = "game_module",
-			condition_value = "freestyle",
-			judge_type = 2,
-		},
-		[4]=
-		{
-			id = 4,
-			condition_id = 2,
-			condition_name = "game_level",
-			condition_value = 2,
-			judge_type = 2,
-		},
-		[5]=
-		{
-			id = 5,
-			condition_id = 3,
-			condition_name = "game_module",
-			condition_value = "freestyle",
-			judge_type = 2,
-		},
-		[6]=
-		{
-			id = 6,
-			condition_id = 3,
-			condition_name = "game_level",
-			condition_value = 3,
-			judge_type = 2,
-		},
-		[7]=
-		{
-			id = 7,
-			condition_id = 4,
-			condition_name = "game_module",
-			condition_value = "freestyle",
-			judge_type = 2,
-		},
-		[8]=
-		{
-			id = 8,
-			condition_id = 4,
-			condition_name = "game_level",
-			condition_value = 4,
-			judge_type = 2,
-		},
-		[9]=
-		{
-			id = 9,
-			condition_id = 5,
-			condition_name = "game_type",
-			condition_value = "nor_mj_xzdd_er_7",
-			judge_type = 2,
-		},
-		[10]=
-		{
-			id = 10,
-			condition_id = 6,
-			condition_name = "game_module",
-			condition_value = "freestyle",
-			judge_type = 2,
-		},
-		[11]=
-		{
-			id = 11,
-			condition_id = 6,
-			condition_name = "game_level",
-			condition_value = 3,
-			judge_type = 2,
-		},
-		[12]=
-		{
-			id = 12,
-			condition_id = 6,
-			condition_name = "game_type",
-			condition_value = "nor_mj_xzdd_er_7",
-			judge_type = 2,
-		},
-		[13]=
-		{
-			id = 13,
-			condition_id = 7,
-			condition_name = "game_module",
-			condition_value = "freestyle",
-			judge_type = 2,
-		},
-		[14]=
-		{
-			id = 14,
-			condition_id = 8,
-			condition_name = "game_module",
-			condition_value = "freestyle",
-			judge_type = 2,
-		},
-		[15]=
-		{
-			id = 15,
-			condition_id = 8,
-			condition_name = "game_level",
-			condition_value = 2,
-			judge_type = 3,
-		},
-		[16]=
-		{
-			id = 16,
-			condition_id = 9,
-			condition_name = "game_module",
-			condition_value = "freestyle",
-			judge_type = 2,
-		},
-		[17]=
-		{
-			id = 17,
-			condition_id = 9,
-			condition_name = "game_level",
-			condition_value = 2,
-			judge_type = 3,
-		},
-		[18]=
-		{
-			id = 18,
-			condition_id = 9,
-			condition_name = "game_success",
-			condition_value = 1,
-			judge_type = 2,
-		},
-		[19]=
-		{
-			id = 19,
-			condition_id = 10,
-			condition_name = "share_type",
-			condition_value = "game",
-			judge_type = 2,
-		},
-		[20]=
-		{
-			id = 20,
-			condition_id = 11,
-			condition_name = "complete_bbsc_big_step",
-			condition_value = 2,
-			judge_type = 2,
-		},
-		[21]=
-		{
-			id = 21,
-			condition_id = 12,
-			condition_name = "game_success",
-			condition_value = 1,
-			judge_type = 2,
-		},
-		[22]=
-		{
-			id = 22,
-			condition_id = 12,
-			condition_name = "game_module",
-			condition_value = "freestyle",
-			judge_type = 2,
-		},
-		[23]=
-		{
-			id = 23,
-			condition_id = 13,
-			condition_name = "game_module",
-			condition_value = "freestyle",
-			judge_type = 2,
-		},
-		[24]=
-		{
-			id = 24,
-			condition_id = 13,
-			condition_name = "game_level",
-			condition_value = 3,
-			judge_type = 3,
-		},
-		[25]=
-		{
-			id = 25,
-			condition_id = 14,
-			condition_name = "game_module",
-			condition_value = "freestyle",
-			judge_type = 2,
-		},
-		[26]=
-		{
-			id = 26,
-			condition_id = 14,
-			condition_name = "game_level",
-			condition_value = 3,
-			judge_type = 3,
-		},
-		[27]=
-		{
-			id = 27,
-			condition_id = 14,
-			condition_name = "game_success",
-			condition_value = 1,
-			judge_type = 2,
-		},
-		[28]=
-		{
-			id = 28,
-			condition_id = 15,
-			condition_name = "game_module",
-			condition_value = "freestyle",
-			judge_type = 2,
-		},
-		[29]=
-		{
-			id = 29,
-			condition_id = 15,
-			condition_name = "game_level",
-			condition_value = 2,
-			judge_type = 3,
-		},
-		[30]=
-		{
-			id = 30,
-			condition_id = 16,
-			condition_name = "game_module",
-			condition_value = "matchstyle",
-			judge_type = 2,
-		},
-		[31]=
-		{
-			id = 31,
-			condition_id = 16,
-			condition_name = "match_model",
-			condition_value = "jbs",
-			judge_type = 2,
-		},
-		[32]=
-		{
-			id = 32,
-			condition_id = 16,
-			condition_name = "rank",
-			condition_value = 96,
-			judge_type = 4,
-		},
-		[33]=
-		{
-			id = 33,
-			condition_id = 17,
-			condition_name = "asset_type",
-			condition_value = "jing_bi",
-			judge_type = 2,
-		},
-		[34]=
-		{
-			id = 34,
-			condition_id = 17,
-			condition_name = "now_value",
-			condition_value = 0,
-			judge_type = 3,
-		},
-		[35]=
-		{
-			id = 35,
-			condition_id = 18,
-			condition_name = "game_module",
-			condition_value = "matchstyle",
-			judge_type = 2,
-		},
-		[36]=
-		{
-			id = 36,
-			condition_id = 18,
-			condition_name = "match_model",
-			condition_value = "naming_qys",
-			judge_type = 2,
-		},
-		[37]=
-		{
-			id = 37,
-			condition_id = 18,
-			condition_name = "rank",
-			condition_value = 1,
-			judge_type = 3,
-		},
-		[38]=
-		{
-			id = 38,
-			condition_id = 19,
-			condition_name = "game_module",
-			condition_value = "matchstyle",
-			judge_type = 2,
-		},
-		[39]=
-		{
-			id = 39,
-			condition_id = 19,
-			condition_name = "match_model",
-			condition_value = "jbs",
-			judge_type = 2,
-		},
-		[40]=
-		{
-			id = 40,
-			condition_id = 19,
-			condition_name = "rank",
-			condition_value = 3,
-			judge_type = 4,
-		},
-		[41]=
-		{
-			id = 41,
-			condition_id = 20,
-			condition_name = "game_module",
-			condition_value = "matchstyle",
-			judge_type = 2,
-		},
-		[42]=
-		{
-			id = 42,
-			condition_id = 20,
-			condition_name = "match_model",
-			condition_value = "naming_qys",
-			judge_type = 2,
-		},
-		[43]=
-		{
-			id = 43,
-			condition_id = 20,
-			condition_name = "rank",
-			condition_value = 96,
-			judge_type = 4,
-		},
-		[44]=
-		{
-			id = 44,
-			condition_id = 21,
-			condition_name = "game_module",
-			condition_value = "matchstyle",
-			judge_type = 2,
-		},
-		[45]=
-		{
-			id = 45,
-			condition_id = 21,
-			condition_name = "match_model",
-			condition_value = "jbs",
-			judge_type = 2,
-		},
-		[46]=
-		{
-			id = 46,
-			condition_id = 21,
-			condition_name = "rank",
-			condition_value = 1,
-			judge_type = 4,
-		},
-		[47]=
-		{
-			id = 47,
-			condition_id = 22,
-			condition_name = "asset_type",
-			condition_value = "jing_bi",
-			judge_type = 2,
-		},
-		[48]=
-		{
-			id = 48,
-			condition_id = 22,
-			condition_name = "now_value",
-			condition_value = 0,
-			judge_type = 3,
-		},
-		[49]=
-		{
-			id = 49,
-			condition_id = 23,
-			condition_name = "game_module",
-			condition_value = "matchstyle",
-			judge_type = 2,
-		},
-		[50]=
-		{
-			id = 50,
-			condition_id = 23,
-			condition_name = "match_model",
-			condition_value = "naming_qys",
-			judge_type = 2,
-		},
-		[51]=
-		{
-			id = 51,
-			condition_id = 23,
-			condition_name = "rank",
-			condition_value = 1,
-			judge_type = 3,
-		},
-		[52]=
-		{
-			id = 52,
-			condition_id = 24,
-			condition_name = "game_module",
-			condition_value = "matchstyle",
-			judge_type = 2,
-		},
-		[53]=
-		{
-			id = 53,
-			condition_id = 24,
-			condition_name = "match_model",
-			condition_value = "jbs",
-			judge_type = 2,
-		},
-		[54]=
-		{
-			id = 54,
-			condition_id = 24,
-			condition_name = "game_id",
-			condition_value = 10,
-			judge_type = 5,
-		},
-		[55]=
-		{
-			id = 55,
-			condition_id = 25,
-			condition_name = "complete_bbsc_big_step",
-			condition_value = 1,
-			judge_type = 2,
-		},
-		[56]=
-		{
-			id = 56,
-			condition_id = 26,
-			condition_name = "complete_bbsc_big_step",
-			condition_value = 2,
-			judge_type = 2,
-		},
-		[57]=
-		{
-			id = 57,
-			condition_id = 27,
-			condition_name = "gift_id",
-			condition_value = 74,
-			judge_type = 2,
-		},
-		[58]=
-		{
-			id = 58,
-			condition_id = 28,
-			condition_name = "fish_game_id",
-			condition_value = 1,
-			judge_type = 2,
-		},
-		[59]=
-		{
-			id = 59,
-			condition_id = 29,
-			condition_name = "fish_game_id",
-			condition_value = 2,
-			judge_type = 2,
-		},
-		[60]=
-		{
-			id = 60,
-			condition_id = 30,
-			condition_name = "fish_game_id",
-			condition_value = 3,
-			judge_type = 2,
-		},
-		[61]=
-		{
-			id = 61,
-			condition_id = 31,
-			condition_name = "game_module",
-			condition_value = "freestyle",
-			judge_type = 2,
-		},
-		[62]=
-		{
-			id = 62,
-			condition_id = 32,
-			condition_name = "game_module",
-			condition_value = "matchstyle",
-			judge_type = 2,
-		},
-		[63]=
-		{
-			id = 63,
-			condition_id = 32,
-			condition_name = "match_model",
-			condition_value = "naming_qys",
-			judge_type = 2,
-		},
-		[64]=
-		{
-			id = 64,
-			condition_id = 33,
-			condition_name = "fish_game_id",
-			condition_value = 2,
-			judge_type = 2,
-		},
-		[65]=
-		{
-			id = 65,
-			condition_id = 34,
-			condition_name = "fish_game_id",
-			condition_value = 3,
-			judge_type = 2,
-		},
-		[66]=
-		{
-			id = 66,
-			condition_id = 35,
-			condition_name = "fish_game_id",
-			condition_value = 4,
-			judge_type = 2,
-		},
-		[67]=
-		{
-			id = 67,
-			condition_id = 36,
-			condition_name = "gift_id",
-			condition_value = {1,2,3,4,5,6,107,108,110,101,102,103,104,105,106,22,23,24,25,26,27,34,111,10330,85,86,87,88,89,109,10044,10045,90,10189,10490,10491,10493,10494,10495,10492},
-			judge_type = 2,
-		},
-		[68]=
-		{
-			id = 68,
-			condition_id = 37,
-			condition_name = "task_id",
-			condition_value = 93,
-			judge_type = 2,
-		},
-		[69]=
-		{
-			id = 69,
-			condition_id = 38,
-			condition_name = "fish_game_id",
-			condition_value = 3,
-			judge_type = 2,
-		},
-		[70]=
-		{
-			id = 70,
-			condition_id = 39,
-			condition_name = "fish_game_id",
-			condition_value = 3,
-			judge_type = 2,
-		},
-		[71]=
-		{
-			id = 71,
-			condition_id = 40,
-			condition_name = "fish_game_id",
-			condition_value = {1,2,3,4,5},
-			judge_type = 2,
+		[147]=
+		{
+			id = 147,
+			source_id = 114,
+			source_type = "agent_charge_any",
+			condition_id = 42,
 		},
 	},
 	award_data=
@@ -6036,7 +5487,7 @@ return {
 			id = 204,
 			award_id = 187,
 			asset_type = "task_30001",
-			asset_count = 30,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[205]=
@@ -6044,7 +5495,7 @@ return {
 			id = 205,
 			award_id = 188,
 			asset_type = "task_30001",
-			asset_count = 100,
+			asset_count = 50,
 			get_weight = 1,
 		},
 		[206]=
@@ -6052,8 +5503,603 @@ return {
 			id = 206,
 			award_id = 189,
 			asset_type = "task_30001",
-			asset_count = 200,
+			asset_count = 400,
 			get_weight = 1,
+		},
+	},
+	condition=
+	{
+		[1]=
+		{
+			id = 1,
+			condition_id = 1,
+			condition_name = "game_module",
+			condition_value = "freestyle",
+			judge_type = 2,
+		},
+		[2]=
+		{
+			id = 2,
+			condition_id = 1,
+			condition_name = "game_level",
+			condition_value = 1,
+			judge_type = 2,
+		},
+		[3]=
+		{
+			id = 3,
+			condition_id = 2,
+			condition_name = "game_module",
+			condition_value = "freestyle",
+			judge_type = 2,
+		},
+		[4]=
+		{
+			id = 4,
+			condition_id = 2,
+			condition_name = "game_level",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[5]=
+		{
+			id = 5,
+			condition_id = 3,
+			condition_name = "game_module",
+			condition_value = "freestyle",
+			judge_type = 2,
+		},
+		[6]=
+		{
+			id = 6,
+			condition_id = 3,
+			condition_name = "game_level",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[7]=
+		{
+			id = 7,
+			condition_id = 4,
+			condition_name = "game_module",
+			condition_value = "freestyle",
+			judge_type = 2,
+		},
+		[8]=
+		{
+			id = 8,
+			condition_id = 4,
+			condition_name = "game_level",
+			condition_value = 4,
+			judge_type = 2,
+		},
+		[9]=
+		{
+			id = 9,
+			condition_id = 5,
+			condition_name = "game_type",
+			condition_value = "nor_mj_xzdd_er_7",
+			judge_type = 2,
+		},
+		[10]=
+		{
+			id = 10,
+			condition_id = 6,
+			condition_name = "game_module",
+			condition_value = "freestyle",
+			judge_type = 2,
+		},
+		[11]=
+		{
+			id = 11,
+			condition_id = 6,
+			condition_name = "game_level",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[12]=
+		{
+			id = 12,
+			condition_id = 6,
+			condition_name = "game_type",
+			condition_value = "nor_mj_xzdd_er_7",
+			judge_type = 2,
+		},
+		[13]=
+		{
+			id = 13,
+			condition_id = 7,
+			condition_name = "game_module",
+			condition_value = "freestyle",
+			judge_type = 2,
+		},
+		[14]=
+		{
+			id = 14,
+			condition_id = 8,
+			condition_name = "game_module",
+			condition_value = "freestyle",
+			judge_type = 2,
+		},
+		[15]=
+		{
+			id = 15,
+			condition_id = 8,
+			condition_name = "game_level",
+			condition_value = 2,
+			judge_type = 3,
+		},
+		[16]=
+		{
+			id = 16,
+			condition_id = 9,
+			condition_name = "game_module",
+			condition_value = "freestyle",
+			judge_type = 2,
+		},
+		[17]=
+		{
+			id = 17,
+			condition_id = 9,
+			condition_name = "game_level",
+			condition_value = 2,
+			judge_type = 3,
+		},
+		[18]=
+		{
+			id = 18,
+			condition_id = 9,
+			condition_name = "game_success",
+			condition_value = 1,
+			judge_type = 2,
+		},
+		[19]=
+		{
+			id = 19,
+			condition_id = 10,
+			condition_name = "share_type",
+			condition_value = "game",
+			judge_type = 2,
+		},
+		[20]=
+		{
+			id = 20,
+			condition_id = 11,
+			condition_name = "complete_bbsc_big_step",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[21]=
+		{
+			id = 21,
+			condition_id = 12,
+			condition_name = "game_success",
+			condition_value = 1,
+			judge_type = 2,
+		},
+		[22]=
+		{
+			id = 22,
+			condition_id = 12,
+			condition_name = "game_module",
+			condition_value = "freestyle",
+			judge_type = 2,
+		},
+		[23]=
+		{
+			id = 23,
+			condition_id = 13,
+			condition_name = "game_module",
+			condition_value = "freestyle",
+			judge_type = 2,
+		},
+		[24]=
+		{
+			id = 24,
+			condition_id = 13,
+			condition_name = "game_level",
+			condition_value = 3,
+			judge_type = 3,
+		},
+		[25]=
+		{
+			id = 25,
+			condition_id = 14,
+			condition_name = "game_module",
+			condition_value = "freestyle",
+			judge_type = 2,
+		},
+		[26]=
+		{
+			id = 26,
+			condition_id = 14,
+			condition_name = "game_level",
+			condition_value = 3,
+			judge_type = 3,
+		},
+		[27]=
+		{
+			id = 27,
+			condition_id = 14,
+			condition_name = "game_success",
+			condition_value = 1,
+			judge_type = 2,
+		},
+		[28]=
+		{
+			id = 28,
+			condition_id = 15,
+			condition_name = "game_module",
+			condition_value = "freestyle",
+			judge_type = 2,
+		},
+		[29]=
+		{
+			id = 29,
+			condition_id = 15,
+			condition_name = "game_level",
+			condition_value = 2,
+			judge_type = 3,
+		},
+		[30]=
+		{
+			id = 30,
+			condition_id = 16,
+			condition_name = "game_module",
+			condition_value = "matchstyle",
+			judge_type = 2,
+		},
+		[31]=
+		{
+			id = 31,
+			condition_id = 16,
+			condition_name = "match_model",
+			condition_value = "jbs",
+			judge_type = 2,
+		},
+		[32]=
+		{
+			id = 32,
+			condition_id = 16,
+			condition_name = "rank",
+			condition_value = 96,
+			judge_type = 4,
+		},
+		[33]=
+		{
+			id = 33,
+			condition_id = 17,
+			condition_name = "asset_type",
+			condition_value = "jing_bi",
+			judge_type = 2,
+		},
+		[34]=
+		{
+			id = 34,
+			condition_id = 17,
+			condition_name = "now_value",
+			condition_value = 0,
+			judge_type = 3,
+		},
+		[35]=
+		{
+			id = 35,
+			condition_id = 18,
+			condition_name = "game_module",
+			condition_value = "matchstyle",
+			judge_type = 2,
+		},
+		[36]=
+		{
+			id = 36,
+			condition_id = 18,
+			condition_name = "match_model",
+			condition_value = "naming_qys",
+			judge_type = 2,
+		},
+		[37]=
+		{
+			id = 37,
+			condition_id = 18,
+			condition_name = "rank",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[38]=
+		{
+			id = 38,
+			condition_id = 19,
+			condition_name = "game_module",
+			condition_value = "matchstyle",
+			judge_type = 2,
+		},
+		[39]=
+		{
+			id = 39,
+			condition_id = 19,
+			condition_name = "match_model",
+			condition_value = "jbs",
+			judge_type = 2,
+		},
+		[40]=
+		{
+			id = 40,
+			condition_id = 19,
+			condition_name = "rank",
+			condition_value = 3,
+			judge_type = 4,
+		},
+		[41]=
+		{
+			id = 41,
+			condition_id = 20,
+			condition_name = "game_module",
+			condition_value = "matchstyle",
+			judge_type = 2,
+		},
+		[42]=
+		{
+			id = 42,
+			condition_id = 20,
+			condition_name = "match_model",
+			condition_value = "naming_qys",
+			judge_type = 2,
+		},
+		[43]=
+		{
+			id = 43,
+			condition_id = 20,
+			condition_name = "rank",
+			condition_value = 96,
+			judge_type = 4,
+		},
+		[44]=
+		{
+			id = 44,
+			condition_id = 21,
+			condition_name = "game_module",
+			condition_value = "matchstyle",
+			judge_type = 2,
+		},
+		[45]=
+		{
+			id = 45,
+			condition_id = 21,
+			condition_name = "match_model",
+			condition_value = "jbs",
+			judge_type = 2,
+		},
+		[46]=
+		{
+			id = 46,
+			condition_id = 21,
+			condition_name = "rank",
+			condition_value = 1,
+			judge_type = 4,
+		},
+		[47]=
+		{
+			id = 47,
+			condition_id = 22,
+			condition_name = "asset_type",
+			condition_value = "jing_bi",
+			judge_type = 2,
+		},
+		[48]=
+		{
+			id = 48,
+			condition_id = 22,
+			condition_name = "now_value",
+			condition_value = 0,
+			judge_type = 3,
+		},
+		[49]=
+		{
+			id = 49,
+			condition_id = 23,
+			condition_name = "game_module",
+			condition_value = "matchstyle",
+			judge_type = 2,
+		},
+		[50]=
+		{
+			id = 50,
+			condition_id = 23,
+			condition_name = "match_model",
+			condition_value = "naming_qys",
+			judge_type = 2,
+		},
+		[51]=
+		{
+			id = 51,
+			condition_id = 23,
+			condition_name = "rank",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[52]=
+		{
+			id = 52,
+			condition_id = 24,
+			condition_name = "game_module",
+			condition_value = "matchstyle",
+			judge_type = 2,
+		},
+		[53]=
+		{
+			id = 53,
+			condition_id = 24,
+			condition_name = "match_model",
+			condition_value = "jbs",
+			judge_type = 2,
+		},
+		[54]=
+		{
+			id = 54,
+			condition_id = 24,
+			condition_name = "game_id",
+			condition_value = 10,
+			judge_type = 5,
+		},
+		[55]=
+		{
+			id = 55,
+			condition_id = 25,
+			condition_name = "complete_bbsc_big_step",
+			condition_value = 1,
+			judge_type = 2,
+		},
+		[56]=
+		{
+			id = 56,
+			condition_id = 26,
+			condition_name = "complete_bbsc_big_step",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[57]=
+		{
+			id = 57,
+			condition_id = 27,
+			condition_name = "gift_id",
+			condition_value = 74,
+			judge_type = 2,
+		},
+		[58]=
+		{
+			id = 58,
+			condition_id = 28,
+			condition_name = "fish_game_id",
+			condition_value = 1,
+			judge_type = 2,
+		},
+		[59]=
+		{
+			id = 59,
+			condition_id = 29,
+			condition_name = "fish_game_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[60]=
+		{
+			id = 60,
+			condition_id = 30,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[61]=
+		{
+			id = 61,
+			condition_id = 31,
+			condition_name = "game_module",
+			condition_value = "freestyle",
+			judge_type = 2,
+		},
+		[62]=
+		{
+			id = 62,
+			condition_id = 32,
+			condition_name = "game_module",
+			condition_value = "matchstyle",
+			judge_type = 2,
+		},
+		[63]=
+		{
+			id = 63,
+			condition_id = 32,
+			condition_name = "match_model",
+			condition_value = "naming_qys",
+			judge_type = 2,
+		},
+		[64]=
+		{
+			id = 64,
+			condition_id = 33,
+			condition_name = "fish_game_id",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[65]=
+		{
+			id = 65,
+			condition_id = 34,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[66]=
+		{
+			id = 66,
+			condition_id = 35,
+			condition_name = "fish_game_id",
+			condition_value = 4,
+			judge_type = 2,
+		},
+		[67]=
+		{
+			id = 67,
+			condition_id = 36,
+			condition_name = "gift_id",
+			condition_value = {1,2,3,4,5,6,107,108,110,101,102,103,104,105,106,22,23,24,25,26,27,34,111,10330,85,86,87,88,89,109,10044,10045,90,10189,10490,10491,10493,10494,10495,10492},
+			judge_type = 2,
+		},
+		[68]=
+		{
+			id = 68,
+			condition_id = 37,
+			condition_name = "task_id",
+			condition_value = 93,
+			judge_type = 2,
+		},
+		[69]=
+		{
+			id = 69,
+			condition_id = 38,
+			condition_name = "fish_game_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[70]=
+		{
+			id = 70,
+			condition_id = 39,
+			condition_name = "fish_game_id",
+			condition_value = {1,2,3,4,5},
+			judge_type = 2,
+		},
+		[71]=
+		{
+			id = 71,
+			condition_id = 40,
+			condition_name = "fish_game_id",
+			condition_value = {1,2,3,4,5},
+			judge_type = 2,
+		},
+		[72]=
+		{
+			id = 72,
+			condition_id = 40,
+			condition_name = "base_fish_id",
+			condition_value = {20,22,23,24,25,26,27,38,39,40,41,43,46,47,48,49,51,63,64,65,66,67,68},
+			judge_type = 2,
+		},
+		[73]=
+		{
+			id = 73,
+			condition_id = 41,
+			condition_name = "fish_prop",
+			condition_value = {prop_3d_fish_frozen,prop_3d_fish_lock,prop_3d_fish_accelerate,prop_3d_fish_wild,prop_3d_fish_doubled,prop_3d_fish_summon_fish},
+			judge_type = 2,
+		},
+		[74]=
+		{
+			id = 74,
+			condition_id = 42,
+			condition_name = "pay_money",
+			condition_value = 4800,
+			judge_type = 3,
 		},
 	},
 }

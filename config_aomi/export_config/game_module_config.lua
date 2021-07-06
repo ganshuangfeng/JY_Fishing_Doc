@@ -3100,7 +3100,7 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_020_dlphb",
+			key = "act_ty_sjb_style/act_021_dlphb",
 			desc = "掉落排行榜皮肤（消耗）",
 			is_on_off = 1,
 			enable = 1,
@@ -3109,8 +3109,8 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_019_xigua",
-			desc = "西瓜掉落",
+			key = "act_ty_by_drop_style/act_020_pjq",
+			desc = "啤酒券掉落",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3120,9 +3120,9 @@ return {
 			id = 318,
 			key = "act_ty_by_hhl_style/act_009_hhl",
 			desc = "换好礼皮肤",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[319]=
 		{
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_021",
+			key = "sys_act_base_style/sys_act_base_weekly_023",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3257,9 +3257,9 @@ return {
 			key = "act_052_qfhl",
 			desc = "祈福有礼",
 			lua = "Act_052_QFHLManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[333]=
 		{
@@ -3267,18 +3267,18 @@ return {
 			key = "act_ty_gifts",
 			desc = "通用礼包",
 			lua = "Act_Ty_GiftsManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[334]=
 		{
 			id = 334,
-			key = "act_ty_gifts_style/act_004_sxlb",
-			desc = "盛夏礼包",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			key = "act_ty_gifts_style/act_005_cjlb",
+			desc = "抽奖礼包",
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[335]=
 		{
@@ -3303,11 +3303,11 @@ return {
 		[337]=
 		{
 			id = 337,
-			key = "act_ty_zp1_style/act_ty_zp1_003",
+			key = "act_ty_zp1_style/act_ty_zp1_005",
 			desc = "通用转盘皮肤",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[338]=
 		{
@@ -3345,6 +3345,46 @@ return {
 			key = "act_042_xshb",
 			desc = "限时红包",
 			lua = "Act_042_XSHBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[342]=
+		{
+			id = 342,
+			key = "sys_fishfarm_bzzy",
+			desc = "宝藏章鱼",
+			lua = "FishFarmBZZYManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[343]=
+		{
+			id = 343,
+			key = "sys_fishfarm_daytask",
+			desc = "水族馆每日任务",
+			lua = "FishFarmDailyTaskManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[344]=
+		{
+			id = 344,
+			key = "sys_fishfarm_jlspring",
+			desc = "精灵泉水",
+			lua = "FishFarmJlSpringManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[345]=
+		{
+			id = 345,
+			key = "sys_fishfarm_simplicity",
+			desc = "水族馆",
+			lua = "SYSFishFarmSimplicityManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

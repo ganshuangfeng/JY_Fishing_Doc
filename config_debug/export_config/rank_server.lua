@@ -754,11 +754,11 @@ return {
 		[55]=
 		{
 			id = 55,
-			enable = 0,
-			rank_type = "fqjkh_020_yxbd_rank",
-			name = "英雄榜单",
-			begin_time = 1623715200,
-			end_time = 1624291199,
+			enable = 1,
+			rank_type = "xrkh_023_ygbd_rank",
+			name = "阳光榜单",
+			begin_time = 1626134400,
+			end_time = 1626710399,
 			data_deal_type = "nor_add",
 			data_save_type = "single",
 			score_source = 51,
@@ -796,7 +796,7 @@ return {
 		[58]=
 		{
 			id = 58,
-			enable = 1,
+			enable = 0,
 			rank_type = "yqhp_022_nqdr_rank",
 			name = "牛气达人",
 			begin_time = 1625529600,
@@ -3795,7 +3795,7 @@ return {
 		{
 			id = 57,
 			reset_type = "fix_time",
-			reset_value = 1624291199,
+			reset_value = 1626710399,
 		},
 		[58]=
 		{
