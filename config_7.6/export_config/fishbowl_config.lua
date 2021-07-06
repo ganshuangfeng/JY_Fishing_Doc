@@ -213,7 +213,6 @@ return {
 			produce = "白色彩贝、绿色彩贝、普通抽奖、高级抽奖",
 			tips = "擅长跳舞，梦想是成为一名优雅的水上芭蕾舞者。",
 			face_ids = {1,},
-			move_id = 2,
 			mass = 3,
 		},
 		[10]=
@@ -237,7 +236,6 @@ return {
 			produce = "白色彩贝、绿色彩贝、普通抽奖、高级抽奖",
 			tips = "喜欢在黑暗中惊吓别人，但捉迷藏从来没有赢过。",
 			face_ids = {1,},
-			move_id = 2,
 			mass = 3,
 		},
 		[11]=
@@ -261,7 +259,6 @@ return {
 			produce = "绿色彩贝、普通抽奖、高级抽奖",
 			tips = "小海龟一直是海里的广播员，只要他知道的事情大家也会第一时间知道。",
 			face_ids = {1,},
-			move_id = 2,
 			mass = 3,
 		},
 		[12]=
@@ -2750,13 +2747,13 @@ return {
 		{
 			id = 1,
 			style = "queue",
-			max_num = 2,
+			max_num = 5,
 		},
 		[2]=
 		{
 			id = 2,
 			style = "group",
-			max_num = 2,
+			max_num = 5,
 		},
 	},
 }
