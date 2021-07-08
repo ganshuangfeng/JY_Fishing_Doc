@@ -564,7 +564,7 @@ return {
 		{
 			id = 25,
 			fish_id = 53,
-			fish_scale = 0.200000,
+			fish_scale = 0.500000,
 			icon = "3dby_icon_yu58",
 			name = "刺角蓝鲸",
 			fish_type = 5,
