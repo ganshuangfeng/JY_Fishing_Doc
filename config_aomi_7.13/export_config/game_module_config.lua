@@ -3100,7 +3100,7 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_021_dlphb",
+			key = "act_ty_sjb_style/act_022_dlphb",
 			desc = "掉落排行榜皮肤（消耗）",
 			is_on_off = 1,
 			enable = 1,
@@ -3111,9 +3111,9 @@ return {
 			id = 317,
 			key = "act_ty_by_drop_style/act_020_pjq",
 			desc = "啤酒券掉落",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[318]=
 		{
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_023",
+			key = "sys_act_base_style/sys_act_base_weekly_024",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3257,9 +3257,9 @@ return {
 			key = "act_052_qfhl",
 			desc = "祈福有礼",
 			lua = "Act_052_QFHLManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[333]=
 		{
@@ -3267,9 +3267,9 @@ return {
 			key = "act_ty_gifts",
 			desc = "通用礼包",
 			lua = "Act_Ty_GiftsManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[334]=
 		{
@@ -3325,9 +3325,9 @@ return {
 			key = "act_054_byns",
 			desc = "捕鱼能手",
 			lua = "Act_054_BYNSManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[340]=
 		{
