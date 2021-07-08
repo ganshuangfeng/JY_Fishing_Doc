@@ -3349,5 +3349,45 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[342]=
+		{
+			id = 342,
+			key = "sys_fishfarm_bzzy",
+			desc = "宝藏章鱼",
+			lua = "FishFarmBZZYManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[343]=
+		{
+			id = 343,
+			key = "sys_fishfarm_daytask",
+			desc = "水族馆每日任务",
+			lua = "FishFarmDailyTaskManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[344]=
+		{
+			id = 344,
+			key = "sys_fishfarm_jlspring",
+			desc = "精灵泉水",
+			lua = "FishFarmJlSpringManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[345]=
+		{
+			id = 345,
+			key = "sys_fishfarm_simplicity",
+			desc = "水族馆",
+			lua = "SYSFishFarmSimplicityManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
