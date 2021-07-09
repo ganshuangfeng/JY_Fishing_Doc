@@ -3239,7 +3239,7 @@ return {
 			id = 122,
 			base_id = 63,
 			act_id = 92,
-			append_life_rate = 100200,
+			append_life_rate = {100,200},
 			life = 0,
 			shoot = 0.020000,
 			act_type = "activity",
