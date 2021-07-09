@@ -563,26 +563,26 @@ return {
 			face_ids = {1,},
 			mass = 1,
 		},
-		[25]=
+		[32]=
 		{
-			id = 25,
-			fish_id = 36,
-			fish_scale = 0.600000,
-			icon = "3dby_icon_yu49",
-			name = "炽火龙王",
-			fish_type = 4,
+			id = 32,
+			fish_id = 40,
+			fish_scale = 0.200000,
+			icon = "3dby_icon_yu58",
+			name = "深海鲸",
+			fish_type = 5,
 			fish_limit = 1,
-			fragment_num = 80,
-			hunger_time = {86400,86400,86400,0},
+			fragment_num = 100,
+			hunger_time = {172800,172800,172800,0},
 			harvest_time = {0,0,0,0},
-			feed_consume = {10000,10000,10000,0},
-			produce_dec = {"大量","巨量","大量","巨量","大量","巨量","大量","巨量",},
+			feed_consume = {50000,50000,50000,0},
+			produce_dec = {"巨量","巨量","巨量","巨量","巨量","巨量","巨量","巨量",},
 			stage = {2,4,5,6},
 			stage_name = {"鱼苗","幼鱼","大鱼","成熟"},
-			award = {25,25,25,25},
-			sale = {25,25,25,57},
-			produce = "紫色彩贝、橙色彩贝、高级抽奖",
-			tips = "沉睡千年的龙王，可将万物化为灰烬。",
+			award = {32,32,32,32},
+			sale = {32,32,32,64},
+			produce = "橙色彩贝、高级抽奖",
+			tips = "体型巨大，晒太阳时总让人以为是座小岛，小鱼也喜欢躲在他肚子下乘凉。",
 			face_ids = {1,},
 			mass = 1,
 		},
@@ -721,29 +721,6 @@ return {
 			sale = {31,31,31,63},
 			produce = "橙色彩贝、高级抽奖",
 			tips = "爱收集宝藏的他，浑身都是宝，让世人垂延三尺。",
-			face_ids = {1,},
-			mass = 1,
-		},
-		[32]=
-		{
-			id = 32,
-			fish_id = 40,
-			fish_scale = 0.200000,
-			icon = "3dby_icon_yu58",
-			name = "深海鲸",
-			fish_type = 5,
-			fish_limit = 1,
-			fragment_num = 100,
-			hunger_time = {172800,172800,172800,0},
-			harvest_time = {0,0,0,0},
-			feed_consume = {50000,50000,50000,0},
-			produce_dec = {"巨量","巨量","巨量","巨量","巨量","巨量","巨量","巨量",},
-			stage = {2,4,5,6},
-			stage_name = {"鱼苗","幼鱼","大鱼","成熟"},
-			award = {32,32,32,32},
-			sale = {32,32,32,64},
-			produce = "橙色彩贝、高级抽奖",
-			tips = "体型巨大，晒太阳时总让人以为是座小岛，小鱼也喜欢躲在他肚子下乘凉。",
 			face_ids = {1,},
 			mass = 1,
 		},
@@ -1259,21 +1236,21 @@ return {
 			line = 73,
 			award_id = 25,
 			asset_type = "jing_bi",
-			asset_count = {790000,890000},
+			asset_count = {4300000,5300000},
 		},
 		[74]=
 		{
 			line = 74,
 			award_id = 25,
 			asset_type = "prop_fishbowl_stars",
-			asset_count = {5100000,6100000},
+			asset_count = {27000000,37000000},
 		},
 		[75]=
 		{
 			line = 75,
 			award_id = 25,
 			asset_type = "exp",
-			asset_count = {9000,19000},
+			asset_count = {75000,85000},
 		},
 		[76]=
 		{
@@ -1400,27 +1377,6 @@ return {
 			award_id = 31,
 			asset_type = "exp",
 			asset_count = {31000,41000},
-		},
-		[94]=
-		{
-			line = 94,
-			award_id = 32,
-			asset_type = "jing_bi",
-			asset_count = {4300000,5300000},
-		},
-		[95]=
-		{
-			line = 95,
-			award_id = 32,
-			asset_type = "prop_fishbowl_stars",
-			asset_count = {27000000,37000000},
-		},
-		[96]=
-		{
-			line = 96,
-			award_id = 32,
-			asset_type = "exp",
-			asset_count = {75000,85000},
 		},
 	},
 	sale=
@@ -2293,7 +2249,7 @@ return {
 		{
 			line = 25,
 			key = "prop_fishbowl_fry25",
-			sale = 25,
+			sale = 32,
 		},
 		[26]=
 		{
@@ -2479,7 +2435,7 @@ return {
 		{
 			line = 56,
 			key = "prop_fishbowl_fry_fragment25",
-			sale = 89,
+			sale = 96,
 		},
 		[57]=
 		{
@@ -2665,7 +2621,7 @@ return {
 		{
 			line = 87,
 			key = "prop_fishbowl_fish25",
-			sale = 57,
+			sale = 64,
 		},
 		[88]=
 		{

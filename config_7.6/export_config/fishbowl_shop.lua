@@ -400,8 +400,8 @@ return {
 			id = 49,
 			asset_type = "prop_fishbowl_fry_fragment25",
 			asset_count = 5,
-			price = {"jing_bi",150000},
-			weight = 15,
+			price = {"jing_bi",750000},
+			weight = 2,
 		},
 		[50]=
 		{
@@ -449,14 +449,6 @@ return {
 			asset_type = "prop_fishbowl_fry_fragment31",
 			asset_count = 5,
 			price = {"jing_bi",300000},
-			weight = 2,
-		},
-		[56]=
-		{
-			id = 56,
-			asset_type = "prop_fishbowl_fry_fragment32",
-			asset_count = 5,
-			price = {"jing_bi",750000},
 			weight = 2,
 		},
 		[57]=
@@ -600,8 +592,8 @@ return {
 			id = 74,
 			asset_type = "prop_fishbowl_fry_fragment25",
 			asset_count = 5,
-			price = {"prop_fishbowl_stars",1500000},
-			weight = 30,
+			price = {"prop_fishbowl_stars",7500000},
+			weight = 5,
 		},
 		[75]=
 		{
@@ -649,14 +641,6 @@ return {
 			asset_type = "prop_fishbowl_fry_fragment31",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",3000000},
-			weight = 5,
-		},
-		[81]=
-		{
-			id = 81,
-			asset_type = "prop_fishbowl_fry_fragment32",
-			asset_count = 5,
-			price = {"prop_fishbowl_stars",7500000},
 			weight = 5,
 		},
 	},
@@ -1043,8 +1027,8 @@ return {
 			id = 48,
 			asset_type = "prop_fishbowl_fry_fragment25",
 			asset_count = 5,
-			price = {"jing_bi",100000},
-			weight = 15,
+			price = {"jing_bi",500000},
+			weight = 2,
 		},
 		[49]=
 		{
@@ -1097,175 +1081,175 @@ return {
 		[55]=
 		{
 			id = 55,
-			asset_type = "prop_fishbowl_fry_fragment32",
-			asset_count = 5,
-			price = {"jing_bi",500000},
-			weight = 2,
-		},
-		[56]=
-		{
-			id = 56,
 			asset_type = "prop_fishbowl_fry_fragment8",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",16660},
 			weight = 200,
 		},
-		[57]=
+		[56]=
 		{
-			id = 57,
+			id = 56,
 			asset_type = "prop_fishbowl_fry_fragment9",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",26660},
 			weight = 200,
 		},
-		[58]=
+		[57]=
 		{
-			id = 58,
+			id = 57,
 			asset_type = "prop_fishbowl_fry_fragment10",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",33330},
 			weight = 200,
 		},
-		[59]=
+		[58]=
 		{
-			id = 59,
+			id = 58,
 			asset_type = "prop_fishbowl_fry_fragment11",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",100000},
 			weight = 200,
 		},
-		[60]=
+		[59]=
 		{
-			id = 60,
+			id = 59,
 			asset_type = "prop_fishbowl_fry_fragment12",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",166660},
 			weight = 200,
 		},
-		[61]=
+		[60]=
 		{
-			id = 61,
+			id = 60,
 			asset_type = "prop_fishbowl_fry_fragment13",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",266660},
 			weight = 200,
 		},
-		[62]=
+		[61]=
 		{
-			id = 62,
+			id = 61,
 			asset_type = "prop_fishbowl_fry_fragment14",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",333330},
 			weight = 200,
 		},
-		[63]=
+		[62]=
 		{
-			id = 63,
+			id = 62,
 			asset_type = "prop_fishbowl_fry_fragment15",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",160000},
 			weight = 100,
 		},
-		[64]=
+		[63]=
 		{
-			id = 64,
+			id = 63,
 			asset_type = "prop_fishbowl_fry_fragment16",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",200000},
 			weight = 100,
 		},
-		[65]=
+		[64]=
 		{
-			id = 65,
+			id = 64,
 			asset_type = "prop_fishbowl_fry_fragment17",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",300000},
 			weight = 100,
 		},
-		[66]=
+		[65]=
 		{
-			id = 66,
+			id = 65,
 			asset_type = "prop_fishbowl_fry_fragment18",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",400000},
 			weight = 100,
 		},
-		[67]=
+		[66]=
 		{
-			id = 67,
+			id = 66,
 			asset_type = "prop_fishbowl_fry_fragment19",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",600000},
 			weight = 100,
 		},
-		[68]=
+		[67]=
 		{
-			id = 68,
+			id = 67,
 			asset_type = "prop_fishbowl_fry_fragment20",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",1000000},
 			weight = 80,
 		},
-		[69]=
+		[68]=
 		{
-			id = 69,
+			id = 68,
 			asset_type = "prop_fishbowl_fry_fragment21",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",600000},
 			weight = 80,
 		},
-		[70]=
+		[69]=
 		{
-			id = 70,
+			id = 69,
 			asset_type = "prop_fishbowl_fry_fragment22",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",1000000},
 			weight = 80,
 		},
-		[71]=
+		[70]=
 		{
-			id = 71,
+			id = 70,
 			asset_type = "prop_fishbowl_fry_fragment23",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",375000},
 			weight = 30,
 		},
-		[72]=
+		[71]=
 		{
-			id = 72,
+			id = 71,
 			asset_type = "prop_fishbowl_fry_fragment24",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",625000},
 			weight = 30,
 		},
+		[72]=
+		{
+			id = 72,
+			asset_type = "prop_fishbowl_fry_fragment25",
+			asset_count = 5,
+			price = {"prop_fishbowl_stars",5000000},
+			weight = 5,
+		},
 		[73]=
 		{
 			id = 73,
-			asset_type = "prop_fishbowl_fry_fragment25",
-			asset_count = 5,
-			price = {"prop_fishbowl_stars",1000000},
-			weight = 30,
-		},
-		[74]=
-		{
-			id = 74,
 			asset_type = "prop_fishbowl_fry_fragment26",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",500000},
 			weight = 10,
 		},
-		[75]=
+		[74]=
 		{
-			id = 75,
+			id = 74,
 			asset_type = "prop_fishbowl_fry_fragment27",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",800000},
 			weight = 10,
 		},
+		[75]=
+		{
+			id = 75,
+			asset_type = "prop_fishbowl_fry_fragment28",
+			asset_count = 5,
+			price = {"prop_fishbowl_stars",1000000},
+			weight = 10,
+		},
 		[76]=
 		{
 			id = 76,
-			asset_type = "prop_fishbowl_fry_fragment28",
+			asset_type = "prop_fishbowl_fry_fragment29",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",1000000},
 			weight = 10,
@@ -1273,33 +1257,17 @@ return {
 		[77]=
 		{
 			id = 77,
-			asset_type = "prop_fishbowl_fry_fragment29",
-			asset_count = 5,
-			price = {"prop_fishbowl_stars",1000000},
-			weight = 10,
-		},
-		[78]=
-		{
-			id = 78,
 			asset_type = "prop_fishbowl_fry_fragment30",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",1500000},
 			weight = 10,
 		},
-		[79]=
+		[78]=
 		{
-			id = 79,
+			id = 78,
 			asset_type = "prop_fishbowl_fry_fragment31",
 			asset_count = 5,
 			price = {"prop_fishbowl_stars",2000000},
-			weight = 5,
-		},
-		[80]=
-		{
-			id = 80,
-			asset_type = "prop_fishbowl_fry_fragment32",
-			asset_count = 5,
-			price = {"prop_fishbowl_stars",5000000},
 			weight = 5,
 		},
 	},

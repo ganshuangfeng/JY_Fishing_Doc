@@ -487,8 +487,8 @@ return {
 			id = 2,
 			no = 19,
 			asset_type = "prop_fishbowl_fry_fragment25",
-			asset_count = {5,15},
-			weight = 30,
+			asset_count = {1,1},
+			weight = 5,
 		},
 		[50]=
 		{
@@ -548,17 +548,17 @@ return {
 		{
 			line = 56,
 			id = 2,
-			no = 26,
-			asset_type = "prop_fishbowl_fry_fragment32",
+			no = 27,
+			asset_type = "prop_fishbowl_fry8",
 			asset_count = {1,1},
-			weight = 5,
+			weight = 3,
 		},
 		[57]=
 		{
 			line = 57,
 			id = 2,
-			no = 27,
-			asset_type = "prop_fishbowl_fry8",
+			no = 28,
+			asset_type = "prop_fishbowl_fry9",
 			asset_count = {1,1},
 			weight = 3,
 		},
@@ -566,8 +566,8 @@ return {
 		{
 			line = 58,
 			id = 2,
-			no = 28,
-			asset_type = "prop_fishbowl_fry9",
+			no = 29,
+			asset_type = "prop_fishbowl_fry10",
 			asset_count = {1,1},
 			weight = 3,
 		},
@@ -575,17 +575,17 @@ return {
 		{
 			line = 59,
 			id = 2,
-			no = 29,
-			asset_type = "prop_fishbowl_fry10",
+			no = 30,
+			asset_type = "prop_fishbowl_fry11",
 			asset_count = {1,1},
-			weight = 3,
+			weight = 1,
 		},
 		[60]=
 		{
 			line = 60,
 			id = 2,
-			no = 30,
-			asset_type = "prop_fishbowl_fry11",
+			no = 31,
+			asset_type = "prop_fishbowl_fry12",
 			asset_count = {1,1},
 			weight = 1,
 		},
@@ -593,23 +593,14 @@ return {
 		{
 			line = 61,
 			id = 2,
-			no = 31,
-			asset_type = "prop_fishbowl_fry12",
+			no = 32,
+			asset_type = "prop_fishbowl_fry13",
 			asset_count = {1,1},
 			weight = 1,
 		},
 		[62]=
 		{
 			line = 62,
-			id = 2,
-			no = 32,
-			asset_type = "prop_fishbowl_fry13",
-			asset_count = {1,1},
-			weight = 1,
-		},
-		[63]=
-		{
-			line = 63,
 			id = 2,
 			no = 33,
 			asset_type = "prop_fishbowl_fry14",
