@@ -270,7 +270,7 @@ return {
 			gift_1_icon = {"hflb_btn_bx","ty_icon_yb_3","xg_icon_1"},
 			gift_2_icon = {"hflb_btn_bx2","ty_icon_yb_3","xg_icon_1"},
 			gift_3_icon = {"hflb_btn_bx3","ty_icon_yb_3","xg_icon_1"},
-			tip_3 = {"任意购买1个礼包,欢乐券增加10%;\n任意购买2个礼包,欢乐券增加30%;\n任意购买3个礼包,欢乐券增加50%。"},
+			tip_3 = {"任意购买1个礼包,西瓜增加10%;\n任意购买2个礼包,西瓜增加30%;\n任意购买3个礼包,西瓜增加50%。"},
 			is_zs = {1,1,1,1,1,1},
 		},
 		[14]=
@@ -287,7 +287,7 @@ return {
 			gift_1_icon = {"hflb_btn_bx","ty_icon_yb_3","xg_icon_1"},
 			gift_2_icon = {"hflb_btn_bx2","ty_icon_yb_3","xg_icon_1"},
 			gift_3_icon = {"hflb_btn_bx3","ty_icon_yb_3","xg_icon_1"},
-			tip_3 = {"任意购买1个礼包,欢乐券增加10%;\n任意购买2个礼包,欢乐券增加30%;\n任意购买3个礼包,欢乐券增加50%。"},
+			tip_3 = {"任意购买1个礼包,西瓜增加10%;\n任意购买2个礼包,西瓜增加30%;\n任意购买3个礼包,西瓜增加50%。"},
 			is_zs = {1,1,1,1,1,1},
 		},
 		[15]=
@@ -304,7 +304,7 @@ return {
 			gift_1_icon = {"hflb_btn_bx","ty_icon_yb_3","xg_icon_1"},
 			gift_2_icon = {"hflb_btn_bx2","ty_icon_yb_3","xg_icon_1"},
 			gift_3_icon = {"hflb_btn_bx3","ty_icon_yb_4","xg_icon_1"},
-			tip_3 = {"任意购买1个礼包,欢乐券增加10%;\n任意购买2个礼包,欢乐券增加30%;\n任意购买3个礼包,欢乐券增加50%。"},
+			tip_3 = {"任意购买1个礼包,西瓜增加10%;\n任意购买2个礼包,西瓜增加30%;\n任意购买3个礼包,西瓜增加50%。"},
 			is_zs = {1,1,1,1,1,1},
 		},
 		[16]=
@@ -321,7 +321,7 @@ return {
 			gift_1_icon = {"hflb_btn_bx","ty_icon_yb_3","xg_icon_1"},
 			gift_2_icon = {"hflb_btn_bx2","ty_icon_yb_4","xg_icon_1"},
 			gift_3_icon = {"hflb_btn_bx3","ty_icon_yb_5","xg_icon_1"},
-			tip_3 = {"任意购买1个礼包,欢乐券增加10%;\n任意购买2个礼包,欢乐券增加30%;\n任意购买3个礼包,欢乐券增加50%。"},
+			tip_3 = {"任意购买1个礼包,西瓜增加10%;\n任意购买2个礼包,西瓜增加30%;\n任意购买3个礼包,西瓜增加50%。"},
 			is_zs = {1,1,1,1,1,1},
 		},
 	},
