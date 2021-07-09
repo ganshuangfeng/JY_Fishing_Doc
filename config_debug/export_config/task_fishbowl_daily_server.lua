@@ -252,7 +252,7 @@ return {
 		{
 			id = 1,
 			condition_id = 13502,
-			condition_name = "fish_type",
+			condition_name = "fish_id",
 			condition_value = 8,
 			judge_type = 3,
 		},
@@ -260,7 +260,7 @@ return {
 		{
 			id = 2,
 			condition_id = 13503,
-			condition_name = "fish_type",
+			condition_name = "fish_id",
 			condition_value = {15,16,17,18,19,20,21,22},
 			judge_type = 2,
 		},
