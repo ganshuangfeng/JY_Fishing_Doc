@@ -313,7 +313,7 @@ return {
 			fish_id = 18,
 			fish_scale = 0.600000,
 			icon = "3dby_icon_yu47",
-			name = "虎鲨",
+			name = "虎鲸",
 			fish_type = 2,
 			fish_limit = 5,
 			fragment_num = 30,
