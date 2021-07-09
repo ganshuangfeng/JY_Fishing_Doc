@@ -38,9 +38,9 @@ return {
 		{
 			id = 4,
 			task_id = 13504,
-			task_name = "进行1次普通抽奖",
+			task_name = "进行1次抽奖",
 			task_icon = "szg_iocn_jlyb",
-			task_instruction = "进行1次普通抽奖",
+			task_instruction = "进行1次抽奖",
 			task_award_icon = {"szg_iocn_jlyb",},
 			task_award_instruction = {"普通精灵硬币",},
 			task_award_count = {"x1",},

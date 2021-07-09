@@ -47,7 +47,7 @@ return {
 		{
 			id = 13504,
 			enable = 1,
-			name = "进行1次普通抽奖",
+			name = "进行1次抽奖",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 13504,
