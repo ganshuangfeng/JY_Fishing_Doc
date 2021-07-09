@@ -221,7 +221,7 @@ return {
 			fish_id = 10,
 			fish_scale = 0.800000,
 			icon = "3dby_icon_yu33",
-			name = "锯齿鲨",
+			name = "小章鱼",
 			fish_type = 2,
 			fish_limit = 5,
 			fragment_num = 30,
