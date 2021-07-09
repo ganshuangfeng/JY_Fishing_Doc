@@ -6498,7 +6498,7 @@ return {
 		[349]=
 		{
 			id = 349,
-			enable = 0,
+			enable = 1,
 			key = "actp_buy_gift_class_hqjnh_046_cjj_hllb",
 			name = "欢乐礼包（冲金鸡）",
 			condi = 371,
