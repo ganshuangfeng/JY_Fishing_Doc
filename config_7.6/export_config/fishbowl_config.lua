@@ -563,9 +563,9 @@ return {
 			face_ids = {1,},
 			mass = 1,
 		},
-		[32]=
+		[25]=
 		{
-			id = 32,
+			id = 25,
 			fish_id = 40,
 			fish_scale = 0.200000,
 			icon = "3dby_icon_yu58",
