@@ -2678,6 +2678,7 @@ return {
 			process = 1,
 			awards = 187,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[105]=
 		{
@@ -2687,6 +2688,7 @@ return {
 			process = 1,
 			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[106]=
 		{
@@ -2696,6 +2698,7 @@ return {
 			process = 50000,
 			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[107]=
 		{
@@ -2705,6 +2708,7 @@ return {
 			process = 1,
 			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[108]=
 		{
@@ -2714,6 +2718,7 @@ return {
 			process = 10,
 			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[109]=
 		{
@@ -2723,6 +2728,7 @@ return {
 			process = 10,
 			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[110]=
 		{
@@ -2732,6 +2738,7 @@ return {
 			process = 600,
 			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[111]=
 		{
@@ -2741,6 +2748,7 @@ return {
 			process = 1,
 			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[112]=
 		{
@@ -2750,6 +2758,7 @@ return {
 			process = 3,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[113]=
 		{
@@ -2759,6 +2768,7 @@ return {
 			process = 1000000,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[114]=
 		{
@@ -2768,6 +2778,7 @@ return {
 			process = 50,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[115]=
 		{
@@ -2777,6 +2788,7 @@ return {
 			process = 100,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[116]=
 		{
@@ -2786,6 +2798,7 @@ return {
 			process = 20,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[117]=
 		{
@@ -2795,6 +2808,7 @@ return {
 			process = 5400,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[118]=
 		{
@@ -2804,6 +2818,7 @@ return {
 			process = 100,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 	},
 	source=
