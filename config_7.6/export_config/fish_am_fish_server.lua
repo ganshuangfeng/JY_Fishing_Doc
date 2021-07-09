@@ -3241,7 +3241,7 @@ return {
 			act_id = 92,
 			append_life_rate = {100,200},
 			life = 0,
-			shoot = 0.020000,
+			shoot = 0,
 			act_type = "activity",
 			rate = 150,
 			dead_mode = 1,
@@ -4077,7 +4077,7 @@ return {
 		{
 			id = 92,
 			acti_type = 9,
-			num = {"prop_fishbowl_feed",11,15,25},
+			num = {"prop_fishbowl_feed",11,0.015,0.025},
 			show = 0,
 			enter_bag = 1,
 			value = 0,
