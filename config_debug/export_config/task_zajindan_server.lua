@@ -16054,6 +16054,22 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000702]=
+		{
+			id = 1000702,
+			enable = 1,
+			name = "啤酒券掉落",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22060,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1625529600,
+			end_valid_time = 1626105599,
+			time_limit = -1,
+			is_send_client = 1,
+			award_change_type = "task_award_no_show",
+		},
 	},
 	process_data=
 	{
@@ -26443,6 +26459,16 @@ return {
 			process = {100,400,500,500,2000},
 			awards = {1477,1478,1479,1480,1481},
 			get_award_type = "random",
+		},
+		[1112]=
+		{
+			id = 1112,
+			process_id = 22060,
+			source_id = 542,
+			process = {300000,-1},
+			awards = 1482,
+			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 	},
 	source=
@@ -58223,6 +58249,14 @@ return {
 			award_name = "南极人空调扇",
 			get_weight = 1,
 			is_send_email = 1,
+		},
+		[2385]=
+		{
+			id = 2385,
+			award_id = 1482,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1,
+			get_weight = 1,
 		},
 	},
 }
