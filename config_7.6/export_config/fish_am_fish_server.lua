@@ -4077,7 +4077,7 @@ return {
 		{
 			id = 92,
 			acti_type = 9,
-			num = {"prop_fishbowl_feed",11,0.015,0.025},
+			num = {"prop_fishbowl_feed",11,1.5,2.5},
 			show = 0,
 			enter_bag = 1,
 			value = 0,
