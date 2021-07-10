@@ -1713,7 +1713,7 @@ return {
 		{
 			id = 88,
 			use_id = 88,
-			use_item = "prop_qdlb_cjq",
+			use_item = "prop_qdlb_cjq_cjj",
 			use_num = 1,
 		},
 		[89]=
