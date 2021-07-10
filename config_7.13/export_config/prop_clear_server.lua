@@ -465,6 +465,14 @@ return {
 			start_time = 1623110400,
 			recycle_time = 1628265599,
 		},
+		[59]=
+		{
+			id = 59,
+			enable = 1,
+			prop_type = "prop_qdlb_cjq_cjj",
+			start_time = 1619481600,
+			recycle_time = 1627315199,
+		},
 	},
 	player_ext_status=
 	{
