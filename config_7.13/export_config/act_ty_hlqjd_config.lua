@@ -9,6 +9,14 @@ return {
 			endTime = 1626710399,
 			config = {1,2,3},
 		},
+		[2]=
+		{
+			line = 2,
+			condiy_key = "cpl_cjj",
+			beginTime = 1626134400,
+			endTime = 1626710399,
+			config = {1,2,3},
+		},
 	},
 	config=
 	{
