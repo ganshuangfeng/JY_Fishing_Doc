@@ -838,7 +838,7 @@ return {
 		[60]=
 		{
 			id = 60,
-			task = 1000703,
+			task = 1000704,
 			total = 3000000,
 			task_name = "在3D捕鱼中累计消耗300万金币",
 			level = 1,
@@ -849,7 +849,7 @@ return {
 		[61]=
 		{
 			id = 61,
-			task = 1000703,
+			task = 1000704,
 			total = 20000000,
 			task_name = "在3D捕鱼中累计消耗2000万金币",
 			level = 2,
@@ -860,7 +860,7 @@ return {
 		[62]=
 		{
 			id = 62,
-			task = 1000703,
+			task = 1000704,
 			total = 50000000,
 			task_name = "在3D捕鱼中累计消耗5000万金币",
 			level = 3,
