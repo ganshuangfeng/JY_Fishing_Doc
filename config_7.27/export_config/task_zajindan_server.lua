@@ -16058,10 +16058,26 @@ return {
 		{
 			id = 1000702,
 			enable = 0,
-			name = "狂欢礼包",
+			name = "啤酒券掉落",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 22060,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1625529600,
+			end_valid_time = 1626105599,
+			time_limit = -1,
+			is_send_client = 1,
+			award_change_type = "task_award_no_show",
+		},
+		[1000703]=
+		{
+			id = 1000703,
+			enable = 0,
+			name = "狂欢礼包",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22061,
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 1626710400,
@@ -16069,14 +16085,14 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
-		[1000703]=
+		[1000704]=
 		{
-			id = 1000703,
+			id = 1000704,
 			enable = 0,
 			name = "消耗有礼",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
-			process_id = 22061,
+			process_id = 22062,
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 1626710400,
@@ -26478,16 +26494,26 @@ return {
 		{
 			id = 1112,
 			process_id = 22060,
-			source_id = 663,
-			process = 3,
+			source_id = 542,
+			process = {300000,-1},
+			awards = 1482,
+			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[1113]=
 		{
 			id = 1113,
 			process_id = 22061,
+			source_id = 663,
+			process = 3,
+		},
+		[1114]=
+		{
+			id = 1114,
+			process_id = 22062,
 			source_id = 664,
 			process = {3000000,17000000,30000000},
-			awards = {1482,1483,1484},
+			awards = {1482,1484,1485},
 			get_award_type = "nor",
 		},
 	},
@@ -58304,8 +58330,8 @@ return {
 		{
 			id = 2385,
 			award_id = 1482,
-			asset_type = "prop_xxl_card_chip_1",
-			asset_count = 4,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 1,
 			get_weight = 1,
 		},
 		[2386]=
@@ -58313,13 +58339,21 @@ return {
 			id = 2386,
 			award_id = 1483,
 			asset_type = "prop_xxl_card_chip_1",
-			asset_count = 20,
+			asset_count = 4,
 			get_weight = 1,
 		},
 		[2387]=
 		{
 			id = 2387,
 			award_id = 1484,
+			asset_type = "prop_xxl_card_chip_1",
+			asset_count = 20,
+			get_weight = 1,
+		},
+		[2388]=
+		{
+			id = 2388,
+			award_id = 1485,
 			asset_type = "prop_xxl_card_chip_2",
 			asset_count = 20,
 			get_weight = 1,
