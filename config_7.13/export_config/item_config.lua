@@ -4307,7 +4307,7 @@ return {
 			image = "com_icon_cl",
 			is_show_bag = 0,
 			order = 1,
-			name = "牛啤值",
+			name = "阳光",
 			desc = "用于参加排行榜",
 		},
 		[319]=
