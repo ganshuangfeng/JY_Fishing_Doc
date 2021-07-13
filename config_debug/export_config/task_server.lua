@@ -6098,7 +6098,7 @@ return {
 			id = 74,
 			condition_id = 42,
 			condition_name = "pay_money",
-			condition_value = 4800,
+			condition_value = 1,
 			judge_type = 3,
 		},
 	},
