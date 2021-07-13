@@ -87,7 +87,7 @@ return {
 			id = 4,
 			model_id = 1,
 			permission_key = "default",
-			vip_deal_id = 2,
+			vip_deal_id = 4,
 			max_award_deal_id = 1,
 		},
 	},
@@ -194,32 +194,64 @@ return {
 			id = 13,
 			set_id = 4,
 			start_vip_level = 2,
-			end_vip_level = 4,
+			end_vip_level = 2,
 			module_id = 13,
 		},
 		[14]=
 		{
 			id = 14,
 			set_id = 4,
-			start_vip_level = 5,
-			end_vip_level = 6,
+			start_vip_level = 3,
+			end_vip_level = 3,
 			module_id = 14,
 		},
 		[15]=
 		{
 			id = 15,
 			set_id = 4,
-			start_vip_level = 7,
-			end_vip_level = 8,
+			start_vip_level = 4,
+			end_vip_level = 4,
 			module_id = 15,
 		},
 		[16]=
 		{
 			id = 16,
 			set_id = 4,
+			start_vip_level = 5,
+			end_vip_level = 5,
+			module_id = 16,
+		},
+		[17]=
+		{
+			id = 17,
+			set_id = 4,
+			start_vip_level = 6,
+			end_vip_level = 6,
+			module_id = 17,
+		},
+		[18]=
+		{
+			id = 18,
+			set_id = 4,
+			start_vip_level = 7,
+			end_vip_level = 7,
+			module_id = 18,
+		},
+		[19]=
+		{
+			id = 19,
+			set_id = 4,
+			start_vip_level = 8,
+			end_vip_level = 8,
+			module_id = 19,
+		},
+		[20]=
+		{
+			id = 20,
+			set_id = 4,
 			start_vip_level = 9,
 			end_vip_level = 12,
-			module_id = 16,
+			module_id = 20,
 		},
 	},
 	deal_model=
@@ -556,7 +588,7 @@ return {
 		{
 			id = 42,
 			module_id = 12,
-			start_value = 20000000,
+			start_value = 10000000,
 			end_value = 1000000000000,
 			discount = 0.800000,
 		},
@@ -565,7 +597,7 @@ return {
 			id = 43,
 			module_id = 12,
 			start_value = 5000000,
-			end_value = 20000000,
+			end_value = 10000000,
 			discount = 0.900000,
 		},
 		[44]=
@@ -588,7 +620,7 @@ return {
 		{
 			id = 46,
 			module_id = 13,
-			start_value = 100000000,
+			start_value = 40000000,
 			end_value = 1000000000000,
 			discount = 0.800000,
 		},
@@ -596,16 +628,16 @@ return {
 		{
 			id = 47,
 			module_id = 13,
-			start_value = 35000000,
-			end_value = 100000000,
+			start_value = 20000000,
+			end_value = 40000000,
 			discount = 0.900000,
 		},
 		[48]=
 		{
 			id = 48,
 			module_id = 13,
-			start_value = 15000000,
-			end_value = 35000000,
+			start_value = 10000000,
+			end_value = 20000000,
 			discount = 0.950000,
 		},
 		[49]=
@@ -613,14 +645,14 @@ return {
 			id = 49,
 			module_id = 13,
 			start_value = 0,
-			end_value = 15000000,
+			end_value = 10000000,
 			discount = 1,
 		},
 		[50]=
 		{
 			id = 50,
 			module_id = 14,
-			start_value = 120000000,
+			start_value = 100000000,
 			end_value = 1000000000000,
 			discount = 0.800000,
 		},
@@ -628,16 +660,16 @@ return {
 		{
 			id = 51,
 			module_id = 14,
-			start_value = 60000000,
-			end_value = 120000000,
+			start_value = 50000000,
+			end_value = 100000000,
 			discount = 0.900000,
 		},
 		[52]=
 		{
 			id = 52,
 			module_id = 14,
-			start_value = 30000000,
-			end_value = 60000000,
+			start_value = 25000000,
+			end_value = 50000000,
 			discount = 0.950000,
 		},
 		[53]=
@@ -645,7 +677,7 @@ return {
 			id = 53,
 			module_id = 14,
 			start_value = 0,
-			end_value = 30000000,
+			end_value = 25000000,
 			discount = 1,
 		},
 		[54]=
@@ -684,7 +716,7 @@ return {
 		{
 			id = 58,
 			module_id = 16,
-			start_value = 200000000,
+			start_value = 400000000,
 			end_value = 1000000000000,
 			discount = 0.800000,
 		},
@@ -692,16 +724,16 @@ return {
 		{
 			id = 59,
 			module_id = 16,
-			start_value = 120000000,
-			end_value = 200000000,
+			start_value = 200000000,
+			end_value = 400000000,
 			discount = 0.900000,
 		},
 		[60]=
 		{
 			id = 60,
 			module_id = 16,
-			start_value = 80000000,
-			end_value = 120000000,
+			start_value = 100000000,
+			end_value = 200000000,
 			discount = 0.950000,
 		},
 		[61]=
@@ -709,7 +741,423 @@ return {
 			id = 61,
 			module_id = 16,
 			start_value = 0,
-			end_value = 80000000,
+			end_value = 100000000,
+			discount = 1,
+		},
+		[62]=
+		{
+			id = 62,
+			module_id = 17,
+			start_value = 1000000000,
+			end_value = 1000000000000,
+			discount = 0.800000,
+		},
+		[63]=
+		{
+			id = 63,
+			module_id = 17,
+			start_value = 500000000,
+			end_value = 1000000000,
+			discount = 0.900000,
+		},
+		[64]=
+		{
+			id = 64,
+			module_id = 17,
+			start_value = 250000000,
+			end_value = 500000000,
+			discount = 0.950000,
+		},
+		[65]=
+		{
+			id = 65,
+			module_id = 17,
+			start_value = 0,
+			end_value = 250000000,
+			discount = 1,
+		},
+		[66]=
+		{
+			id = 66,
+			module_id = 18,
+			start_value = 1500000000,
+			end_value = 1000000000000,
+			discount = 0.800000,
+		},
+		[67]=
+		{
+			id = 67,
+			module_id = 18,
+			start_value = 1000000000,
+			end_value = 1500000000,
+			discount = 0.900000,
+		},
+		[68]=
+		{
+			id = 68,
+			module_id = 18,
+			start_value = 500000000,
+			end_value = 1000000000,
+			discount = 0.950000,
+		},
+		[69]=
+		{
+			id = 69,
+			module_id = 18,
+			start_value = 0,
+			end_value = 500000000,
+			discount = 1,
+		},
+		[70]=
+		{
+			id = 70,
+			module_id = 19,
+			start_value = 2000000000,
+			end_value = 1000000000000,
+			discount = 0.800000,
+		},
+		[71]=
+		{
+			id = 71,
+			module_id = 19,
+			start_value = 1000000000,
+			end_value = 2000000000,
+			discount = 0.900000,
+		},
+		[72]=
+		{
+			id = 72,
+			module_id = 19,
+			start_value = 500000000,
+			end_value = 1000000000,
+			discount = 0.950000,
+		},
+		[73]=
+		{
+			id = 73,
+			module_id = 19,
+			start_value = 0,
+			end_value = 500000000,
+			discount = 1,
+		},
+		[74]=
+		{
+			id = 74,
+			module_id = 20,
+			start_value = 3000000000,
+			end_value = 1000000000000,
+			discount = 0.800000,
+		},
+		[75]=
+		{
+			id = 75,
+			module_id = 20,
+			start_value = 2000000000,
+			end_value = 3000000000,
+			discount = 0.900000,
+		},
+		[76]=
+		{
+			id = 76,
+			module_id = 20,
+			start_value = 500000000,
+			end_value = 2000000000,
+			discount = 0.950000,
+		},
+		[77]=
+		{
+			id = 77,
+			module_id = 20,
+			start_value = 0,
+			end_value = 500000000,
+			discount = 1,
+		},
+		[78]=
+		{
+			id = 78,
+			module_id = 21,
+			start_value = 10000000,
+			end_value = 1000000000000,
+			discount = 0.800000,
+		},
+		[79]=
+		{
+			id = 79,
+			module_id = 21,
+			start_value = 5000000,
+			end_value = 10000000,
+			discount = 0.900000,
+		},
+		[80]=
+		{
+			id = 80,
+			module_id = 21,
+			start_value = 1000000,
+			end_value = 5000000,
+			discount = 0.950000,
+		},
+		[81]=
+		{
+			id = 81,
+			module_id = 21,
+			start_value = 0,
+			end_value = 1000000,
+			discount = 1,
+		},
+		[82]=
+		{
+			id = 82,
+			module_id = 22,
+			start_value = 40000000,
+			end_value = 1000000000000,
+			discount = 0.800000,
+		},
+		[83]=
+		{
+			id = 83,
+			module_id = 22,
+			start_value = 20000000,
+			end_value = 40000000,
+			discount = 0.900000,
+		},
+		[84]=
+		{
+			id = 84,
+			module_id = 22,
+			start_value = 10000000,
+			end_value = 20000000,
+			discount = 0.950000,
+		},
+		[85]=
+		{
+			id = 85,
+			module_id = 22,
+			start_value = 0,
+			end_value = 10000000,
+			discount = 1,
+		},
+		[86]=
+		{
+			id = 86,
+			module_id = 23,
+			start_value = 100000000,
+			end_value = 1000000000000,
+			discount = 0.800000,
+		},
+		[87]=
+		{
+			id = 87,
+			module_id = 23,
+			start_value = 50000000,
+			end_value = 100000000,
+			discount = 0.900000,
+		},
+		[88]=
+		{
+			id = 88,
+			module_id = 23,
+			start_value = 25000000,
+			end_value = 50000000,
+			discount = 0.950000,
+		},
+		[89]=
+		{
+			id = 89,
+			module_id = 23,
+			start_value = 0,
+			end_value = 25000000,
+			discount = 1,
+		},
+		[90]=
+		{
+			id = 90,
+			module_id = 24,
+			start_value = 200000000,
+			end_value = 1000000000000,
+			discount = 0.800000,
+		},
+		[91]=
+		{
+			id = 91,
+			module_id = 24,
+			start_value = 100000000,
+			end_value = 200000000,
+			discount = 0.900000,
+		},
+		[92]=
+		{
+			id = 92,
+			module_id = 24,
+			start_value = 50000000,
+			end_value = 100000000,
+			discount = 0.950000,
+		},
+		[93]=
+		{
+			id = 93,
+			module_id = 24,
+			start_value = 0,
+			end_value = 50000000,
+			discount = 1,
+		},
+		[94]=
+		{
+			id = 94,
+			module_id = 25,
+			start_value = 400000000,
+			end_value = 1000000000000,
+			discount = 0.800000,
+		},
+		[95]=
+		{
+			id = 95,
+			module_id = 25,
+			start_value = 200000000,
+			end_value = 400000000,
+			discount = 0.900000,
+		},
+		[96]=
+		{
+			id = 96,
+			module_id = 25,
+			start_value = 100000000,
+			end_value = 200000000,
+			discount = 0.950000,
+		},
+		[97]=
+		{
+			id = 97,
+			module_id = 25,
+			start_value = 0,
+			end_value = 100000000,
+			discount = 1,
+		},
+		[98]=
+		{
+			id = 98,
+			module_id = 26,
+			start_value = 1000000000,
+			end_value = 1000000000000,
+			discount = 0.800000,
+		},
+		[99]=
+		{
+			id = 99,
+			module_id = 26,
+			start_value = 500000000,
+			end_value = 1000000000,
+			discount = 0.900000,
+		},
+		[100]=
+		{
+			id = 100,
+			module_id = 26,
+			start_value = 250000000,
+			end_value = 500000000,
+			discount = 0.950000,
+		},
+		[101]=
+		{
+			id = 101,
+			module_id = 26,
+			start_value = 0,
+			end_value = 250000000,
+			discount = 1,
+		},
+		[102]=
+		{
+			id = 102,
+			module_id = 27,
+			start_value = 1500000000,
+			end_value = 1000000000000,
+			discount = 0.800000,
+		},
+		[103]=
+		{
+			id = 103,
+			module_id = 27,
+			start_value = 1000000000,
+			end_value = 1500000000,
+			discount = 0.900000,
+		},
+		[104]=
+		{
+			id = 104,
+			module_id = 27,
+			start_value = 500000000,
+			end_value = 1000000000,
+			discount = 0.950000,
+		},
+		[105]=
+		{
+			id = 105,
+			module_id = 27,
+			start_value = 0,
+			end_value = 500000000,
+			discount = 1,
+		},
+		[106]=
+		{
+			id = 106,
+			module_id = 28,
+			start_value = 2000000000,
+			end_value = 1000000000000,
+			discount = 0.800000,
+		},
+		[107]=
+		{
+			id = 107,
+			module_id = 28,
+			start_value = 1000000000,
+			end_value = 2000000000,
+			discount = 0.900000,
+		},
+		[108]=
+		{
+			id = 108,
+			module_id = 28,
+			start_value = 500000000,
+			end_value = 1000000000,
+			discount = 0.950000,
+		},
+		[109]=
+		{
+			id = 109,
+			module_id = 28,
+			start_value = 0,
+			end_value = 500000000,
+			discount = 1,
+		},
+		[110]=
+		{
+			id = 110,
+			module_id = 29,
+			start_value = 3000000000,
+			end_value = 1000000000000,
+			discount = 0.800000,
+		},
+		[111]=
+		{
+			id = 111,
+			module_id = 29,
+			start_value = 2000000000,
+			end_value = 3000000000,
+			discount = 0.900000,
+		},
+		[112]=
+		{
+			id = 112,
+			module_id = 29,
+			start_value = 500000000,
+			end_value = 2000000000,
+			discount = 0.950000,
+		},
+		[113]=
+		{
+			id = 113,
+			module_id = 29,
+			start_value = 0,
+			end_value = 500000000,
 			discount = 1,
 		},
 	},

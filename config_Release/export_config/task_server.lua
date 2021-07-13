@@ -1476,7 +1476,7 @@ return {
 		{
 			id = 30006,
 			enable = 1,
-			name = "通行证-每日-消耗30万金币",
+			name = "通行证-每日-消耗5万金币",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 106,
@@ -1491,7 +1491,7 @@ return {
 		{
 			id = 30007,
 			enable = 1,
-			name = "通行证-每日-在3D捕鱼中捕获任意100条鱼",
+			name = "通行证-每日-在3D捕鱼中捕获1条彩金鱼",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 107,
@@ -1506,7 +1506,7 @@ return {
 		{
 			id = 30008,
 			enable = 1,
-			name = "通行证-每日-在3D捕鱼海底宝藏中累计开炮500次",
+			name = "通行证-每日-在3D捕鱼中捕获任意10条鱼",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 108,
@@ -1521,7 +1521,7 @@ return {
 		{
 			id = 30009,
 			enable = 1,
-			name = "通行证-每日-在西游消消乐中累计消除15次",
+			name = "通行证-每日-在3D捕鱼中任意使用技能10次",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 109,
@@ -1536,7 +1536,7 @@ return {
 		{
 			id = 30010,
 			enable = 1,
-			name = "通行证-每日-在水浒消消乐中累计消除15次",
+			name = "通行证-每日-累计游戏时长10分钟",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 110,
@@ -1581,8 +1581,8 @@ return {
 		{
 			id = 30013,
 			enable = 1,
-			name = "通行证-每周-使用1次红包大转盘",
-			own_type = "p_txz",
+			name = "通行证-每周-消耗100万金币",
+			own_type = "normal",
 			task_enum = "common",
 			process_id = 113,
 			is_reset = 1,
@@ -1596,7 +1596,7 @@ return {
 		{
 			id = 30014,
 			enable = 1,
-			name = "通行证-每周-深海探险通过10层",
+			name = "通行证-每周-在3D捕鱼中任意使用技能50次",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 114,
@@ -1611,7 +1611,7 @@ return {
 		{
 			id = 30015,
 			enable = 1,
-			name = "通行证-每周-累计游戏时长200分钟",
+			name = "通行证-每周-在3D捕鱼中捕获任意100条鱼",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 115,
@@ -1626,7 +1626,7 @@ return {
 		{
 			id = 30016,
 			enable = 1,
-			name = "通行证-每周-在3D捕鱼海底宝藏中累计捕获300条鱼",
+			name = "通行证-每周-在3D捕鱼中捕获20条彩金鱼",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 116,
@@ -1641,7 +1641,7 @@ return {
 		{
 			id = 30017,
 			enable = 1,
-			name = "通行证-每周-在苹果大战中累计纯赢100万",
+			name = "通行证-每周-累计游戏时长90分钟",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 117,
@@ -1656,7 +1656,7 @@ return {
 		{
 			id = 30018,
 			enable = 1,
-			name = "通行证-每周-在水果消消乐中累计消除100次",
+			name = "通行证-每周-累计充值48元",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 118,
@@ -2589,7 +2589,7 @@ return {
 			id = 94,
 			process_id = 94,
 			source_id = 94,
-			process = {5,10,20,30,},
+			process = {5,5,10,10,},
 			awards = {116,117,118,119,},
 			get_award_type = "nor",
 		},
@@ -2678,6 +2678,7 @@ return {
 			process = 1,
 			awards = 187,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[105]=
 		{
@@ -2685,53 +2686,59 @@ return {
 			process_id = 105,
 			source_id = 100,
 			process = 1,
-			awards = 187,
+			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[106]=
 		{
 			id = 106,
 			process_id = 106,
 			source_id = 101,
-			process = 300000,
-			awards = 187,
+			process = 50000,
+			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[107]=
 		{
 			id = 107,
 			process_id = 107,
 			source_id = 102,
-			process = 100,
-			awards = 187,
+			process = 1,
+			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[108]=
 		{
 			id = 108,
 			process_id = 108,
 			source_id = 103,
-			process = 500,
-			awards = 187,
+			process = 10,
+			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[109]=
 		{
 			id = 109,
 			process_id = 109,
 			source_id = 104,
-			process = 15,
-			awards = 187,
+			process = 10,
+			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[110]=
 		{
 			id = 110,
 			process_id = 110,
-			source_id = 105,
-			process = 15,
-			awards = 187,
+			source_id = 110,
+			process = 600,
+			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[111]=
 		{
@@ -2739,8 +2746,9 @@ return {
 			process_id = 111,
 			source_id = 106,
 			process = 1,
-			awards = 187,
+			awards = 188,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[112]=
 		{
@@ -2748,62 +2756,69 @@ return {
 			process_id = 112,
 			source_id = 107,
 			process = 3,
-			awards = 188,
+			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[113]=
 		{
 			id = 113,
 			process_id = 113,
-			source_id = 108,
-			process = 1,
+			source_id = 101,
+			process = 1000000,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[114]=
 		{
 			id = 114,
 			process_id = 114,
-			source_id = 109,
-			process = 10,
+			source_id = 104,
+			process = 50,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[115]=
 		{
 			id = 115,
 			process_id = 115,
-			source_id = 110,
-			process = 12000,
+			source_id = 103,
+			process = 100,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[116]=
 		{
 			id = 116,
 			process_id = 116,
-			source_id = 111,
-			process = 300,
+			source_id = 102,
+			process = 20,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[117]=
 		{
 			id = 117,
 			process_id = 117,
-			source_id = 112,
-			process = 1000000,
+			source_id = 110,
+			process = 5400,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 		[118]=
 		{
 			id = 118,
 			process_id = 118,
-			source_id = 113,
-			process = 100,
+			source_id = 114,
+			process = 4800,
 			awards = 189,
 			get_award_type = "nor",
+			is_auto_get_award = 2,
 		},
 	},
 	source=
@@ -3760,15 +3775,15 @@ return {
 		{
 			id = 136,
 			source_id = 103,
-			source_type = "buyu_3d_spend_num",
+			source_type = "buyu_3d_target_yu",
 			condition_id = 39,
 		},
 		[137]=
 		{
 			id = 137,
 			source_id = 104,
-			source_type = "xiaoxiaole_xiyou_game_num",
-			condition_id = 0,
+			source_type = "use_fish_3d_bullet_item",
+			condition_id = 41,
 		},
 		[138]=
 		{
@@ -3832,6 +3847,13 @@ return {
 			source_id = 113,
 			source_type = "xiaoxiaole_game_num",
 			condition_id = 0,
+		},
+		[147]=
+		{
+			id = 147,
+			source_id = 114,
+			source_type = "agent_charge_any",
+			condition_id = 42,
 		},
 	},
 	condition=
@@ -4393,7 +4415,7 @@ return {
 			id = 70,
 			condition_id = 39,
 			condition_name = "fish_game_id",
-			condition_value = 3,
+			condition_value = {1,2,3,4,5},
 			judge_type = 2,
 		},
 		[71]=
@@ -4403,6 +4425,38 @@ return {
 			condition_name = "fish_game_id",
 			condition_value = {1,2,3,4,5},
 			judge_type = 2,
+		},
+		[72]=
+		{
+			id = 72,
+			condition_id = 40,
+			condition_name = "base_fish_id",
+			condition_value = {20,22,23,24,25,26,27,38,39,40,41,43,46,47,48,49,51,63,64,65,66,67,68},
+			judge_type = 2,
+		},
+		[73]=
+		{
+			id = 73,
+			condition_id = 41,
+			condition_name = "game_id",
+			condition_value = {1,2,3,4,5},
+			judge_type = 2,
+		},
+		[74]=
+		{
+			id = 74,
+			condition_id = 41,
+			condition_name = "fish_prop",
+			condition_value = {"prop_3d_fish_frozen","prop_3d_fish_lock","prop_3d_fish_accelerate","prop_3d_fish_wild","prop_3d_fish_doubled","prop_3d_fish_summon_fish"},
+			judge_type = 2,
+		},
+		[75]=
+		{
+			id = 75,
+			condition_id = 42,
+			condition_name = "pay_money",
+			condition_value = 1,
+			judge_type = 3,
 		},
 	},
 	award_data=
@@ -6036,7 +6090,7 @@ return {
 			id = 204,
 			award_id = 187,
 			asset_type = "task_30001",
-			asset_count = 30,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[205]=
@@ -6044,7 +6098,7 @@ return {
 			id = 205,
 			award_id = 188,
 			asset_type = "task_30001",
-			asset_count = 100,
+			asset_count = 50,
 			get_weight = 1,
 		},
 		[206]=
@@ -6052,7 +6106,7 @@ return {
 			id = 206,
 			award_id = 189,
 			asset_type = "task_30001",
-			asset_count = 200,
+			asset_count = 400,
 			get_weight = 1,
 		},
 	},

@@ -36,10 +36,10 @@ return {
 		[5]=
 		{
 			id = 5,
-			enable = 0,
+			enable = 1,
 			prop_type = "prop_fish_drop_act_0",
-			start_time = 1625529600,
-			recycle_time = 1626105599,
+			start_time = 1626739200,
+			recycle_time = 1627315199,
 		},
 		[6]=
 		{

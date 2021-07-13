@@ -36,7 +36,7 @@ return {
 		[5]=
 		{
 			id = 5,
-			enable = 1,
+			enable = 0,
 			prop_type = "prop_fish_drop_act_0",
 			start_time = 1625529600,
 			recycle_time = 1626105599,
@@ -60,74 +60,74 @@ return {
 		[8]=
 		{
 			id = 8,
-			enable = 0,
+			enable = 1,
 			prop_type = "prop_brass_hammer_1",
 			start_time = 1620691200,
-			recycle_time = 1624291199,
+			recycle_time = 1626710399,
 		},
 		[9]=
 		{
 			id = 9,
-			enable = 0,
+			enable = 1,
 			prop_type = "prop_silver_hammer_1",
 			start_time = 1620691200,
-			recycle_time = 1624291199,
+			recycle_time = 1626710399,
 		},
 		[10]=
 		{
 			id = 10,
-			enable = 0,
+			enable = 1,
 			prop_type = "prop_gold_hammer_1",
 			start_time = 1620691200,
-			recycle_time = 1624291199,
+			recycle_time = 1626710399,
 		},
 		[11]=
 		{
 			id = 11,
-			enable = 0,
+			enable = 1,
 			prop_type = "prop_brass_hammer_2",
 			start_time = 1620691200,
-			recycle_time = 1624291199,
+			recycle_time = 1626710399,
 		},
 		[12]=
 		{
 			id = 12,
-			enable = 0,
+			enable = 1,
 			prop_type = "prop_silver_hammer_2",
 			start_time = 1620691200,
-			recycle_time = 1624291199,
+			recycle_time = 1626710399,
 		},
 		[13]=
 		{
 			id = 13,
-			enable = 0,
+			enable = 1,
 			prop_type = "prop_gold_hammer_2",
 			start_time = 1620691200,
-			recycle_time = 1624291199,
+			recycle_time = 1626710399,
 		},
 		[14]=
 		{
 			id = 14,
-			enable = 0,
+			enable = 1,
 			prop_type = "prop_brass_hammer_3",
 			start_time = 1620691200,
-			recycle_time = 1624291199,
+			recycle_time = 1626710399,
 		},
 		[15]=
 		{
 			id = 15,
-			enable = 0,
+			enable = 1,
 			prop_type = "prop_silver_hammer_3",
 			start_time = 1620691200,
-			recycle_time = 1624291199,
+			recycle_time = 1626710399,
 		},
 		[16]=
 		{
 			id = 16,
-			enable = 0,
+			enable = 1,
 			prop_type = "prop_gold_hammer_3",
 			start_time = 1620691200,
-			recycle_time = 1624291199,
+			recycle_time = 1626710399,
 		},
 		[17]=
 		{
@@ -276,7 +276,7 @@ return {
 		[35]=
 		{
 			id = 35,
-			enable = 1,
+			enable = 0,
 			prop_type = "prop_qdlb_cjq",
 			start_time = 1619481600,
 			recycle_time = 1626105599,
