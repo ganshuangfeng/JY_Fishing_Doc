@@ -2316,6 +2316,12 @@ return {
 			name = "全部捕鱼奥秘玩家（跑马灯用）",
 			condi = 496,
 		},
+		banner_show_not_newplayer=
+		{
+			key = "banner_show_not_newplayer",
+			name = "活动弹出非新玩家",
+			condi = 500,
+		},
 	},
 	act_permission=
 	{
@@ -18101,6 +18107,16 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "注册7天内新人",
+		},
+		[1093]=
+		{
+			no = 1093,
+			id = 500,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新玩家",
 		},
 	},
 	share_condition=

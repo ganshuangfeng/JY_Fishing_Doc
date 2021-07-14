@@ -34615,14 +34615,14 @@ return {
 			id = 1088,
 			source_id = 664,
 			source_type = "buyu_3d_spend",
-			condition_id = 0,
+			condition_id = 506,
 		},
 		[1089]=
 		{
 			id = 1089,
 			source_id = 664,
 			source_type = "buyu_3d_spend_by_use_fish_prop",
-			condition_id = 0,
+			condition_id = 507,
 		},
 		[1090]=
 		{
@@ -39879,6 +39879,22 @@ return {
 			condition_id = 505,
 			condition_name = "is_free_game",
 			condition_value = 2,
+			judge_type = 2,
+		},
+		[679]=
+		{
+			id = 679,
+			condition_id = 506,
+			condition_name = "game_id",
+			condition_value = {2,3,4,5},
+			judge_type = 2,
+		},
+		[680]=
+		{
+			id = 680,
+			condition_id = 507,
+			condition_name = "game_id",
+			condition_value = {2,3,4,5},
 			judge_type = 2,
 		},
 	},
@@ -58641,7 +58657,7 @@ return {
 			id = 2346,
 			award_id = 1443,
 			asset_type = "jing_bi",
-			asset_count = 88888,
+			asset_count = 8888,
 			get_weight = 1,
 		},
 		[2347]=
