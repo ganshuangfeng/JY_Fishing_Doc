@@ -563,7 +563,7 @@ return {
 		[25]=
 		{
 			id = 25,
-			fish_id = 40,
+			fish_id = 53,
 			fish_scale = 0.200000,
 			icon = "3dby_icon_yu58",
 			name = "深海鲸",
@@ -589,7 +589,7 @@ return {
 			fish_id = 39,
 			fish_scale = 0.400000,
 			icon = "3dby_icon_yu38",
-			name = "霸王蟹",
+			name = "刺角蓝鲸",
 			fish_type = 5,
 			fish_limit = 1,
 			fragment_num = 100,
