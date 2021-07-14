@@ -26513,7 +26513,7 @@ return {
 			process_id = 22062,
 			source_id = 664,
 			process = {3000000,17000000,30000000},
-			awards = {1482,1484,1485},
+			awards = {1483,1484,1485},
 			get_award_type = "nor",
 		},
 	},
