@@ -6512,7 +6512,7 @@ return {
 			id = 350,
 			enable = 1,
 			key = "actp_own_task_p_hljnh_046_hlfl_nor",
-			name = "欢乐福利（欢乐捕鱼）--非cps",
+			name = "欢乐福利（欢乐捕鱼）",
 			condi = 372,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
