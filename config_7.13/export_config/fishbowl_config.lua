@@ -2091,7 +2091,7 @@ return {
 		[6]=
 		{
 			level = 6,
-			exp = 99999999999,
+			exp = -1,
 			consume = {"prop_fishbowl_stars",18000000},
 			capacity = 10,
 		},
