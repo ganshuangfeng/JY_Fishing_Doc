@@ -58035,7 +58035,7 @@ return {
 			id = 2346,
 			award_id = 1443,
 			asset_type = "jing_bi",
-			asset_count = 88888,
+			asset_count = 8888,
 			get_weight = 1,
 		},
 		[2347]=

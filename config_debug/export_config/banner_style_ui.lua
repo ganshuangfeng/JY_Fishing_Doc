@@ -1077,5 +1077,17 @@ return {
 			srartTime = -1,
 			endTime = -1,
 		},
+		[95]=
+		{
+			id = 95,
+			bannerID = 95,
+			isOnOff = 1,
+			order = 120,
+			condi_key = "cpl_cjj",
+			gotoUI = {"act_027_qyzl","panel"},
+			model = "LoginUp",
+			srartTime = 1624924800,
+			endTime = 1627315199,
+		},
 	},
 }
