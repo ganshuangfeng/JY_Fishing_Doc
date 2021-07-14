@@ -34183,14 +34183,14 @@ return {
 			id = 1088,
 			source_id = 664,
 			source_type = "buyu_3d_spend",
-			condition_id = 0,
+			condition_id = 497,
 		},
 		[1089]=
 		{
 			id = 1089,
 			source_id = 664,
 			source_type = "buyu_3d_spend_by_use_fish_prop",
-			condition_id = 0,
+			condition_id = 498,
 		},
 	},
 	condition=
@@ -39257,6 +39257,22 @@ return {
 			condition_id = 496,
 			condition_name = "gift_id",
 			condition_value = {10587,10588,10589,10590,10591,10592,10593,10594,10595,10596,10597,10598},
+			judge_type = 2,
+		},
+		[664]=
+		{
+			id = 664,
+			condition_id = 497,
+			condition_name = "game_id",
+			condition_value = {2,3,4,5},
+			judge_type = 2,
+		},
+		[665]=
+		{
+			id = 665,
+			condition_id = 498,
+			condition_name = "game_id",
+			condition_value = {2,3,4,5},
 			judge_type = 2,
 		},
 	},
