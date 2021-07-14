@@ -4582,6 +4582,7 @@ return {
 			name = "初级游戏卡碎片",
 			desc = "消耗20个可合成初级游戏卡",
 			use_parm = {"yxcard_compose","prop_xxl_card_chip_1"},
+			btn_img = "sdby_imgf_hc",
 		},
 		[339]=
 		{
@@ -4596,6 +4597,7 @@ return {
 			name = "中级游戏卡碎片",
 			desc = "消耗20个可合成中级游戏卡",
 			use_parm = {"yxcard_compose","prop_xxl_card_chip_2"},
+			btn_img = "sdby_imgf_hc",
 		},
 		[340]=
 		{
@@ -4610,6 +4612,7 @@ return {
 			name = "高级游戏卡碎片",
 			desc = "消耗20个可合成高级游戏卡",
 			use_parm = {"yxcard_compose","prop_xxl_card_chip_3"},
+			btn_img = "sdby_imgf_hc",
 		},
 	},
 }
