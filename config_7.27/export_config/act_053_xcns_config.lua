@@ -21,7 +21,7 @@ return {
 			need_num = 10,
 			award_name = "话费碎片",
 			award_amount = "8~50",
-			award_icon = "ty_icon_flq1",
+			award_icon = "com_award_icon_hfsp",
 		},
 		[2]=
 		{
@@ -37,7 +37,7 @@ return {
 			need_num = 50,
 			award_name = "话费碎片",
 			award_amount = 35,
-			award_icon = "ty_icon_flq2",
+			award_icon = "com_award_icon_hfsp",
 		},
 		[4]=
 		{
@@ -45,7 +45,7 @@ return {
 			need_num = 100,
 			award_name = "话费碎片",
 			award_amount = "50~200",
-			award_icon = "ty_icon_flq2",
+			award_icon = "com_award_icon_hfsp",
 		},
 		[5]=
 		{
@@ -69,7 +69,7 @@ return {
 			need_num = 800,
 			award_name = "话费碎片",
 			award_amount = "400~2000",
-			award_icon = "ty_icon_flq3",
+			award_icon = "com_award_icon_hfsp2",
 		},
 		[8]=
 		{
@@ -93,7 +93,7 @@ return {
 			need_num = 3000,
 			award_name = "话费碎片",
 			award_amount = "800~3000",
-			award_icon = "ty_icon_flq4",
+			award_icon = "com_award_icon_hfsp2",
 		},
 	},
 }
