@@ -7185,6 +7185,18 @@ return {
 			refresh_type = "now",
 			start_deal_time = 1623110400,
 		},
+		[406]=
+		{
+			id = 406,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_first_deposit_gift",
+			name = "首充礼包（天天欢乐捕鱼官方，捕鱼奥秘官方）",
+			condi = 501,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
+		},
 	},
 	condi=
 	{
@@ -18117,6 +18129,26 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是新玩家",
+		},
+		[1094]=
+		{
+			no = 1094,
+			id = 501,
+			var = "share_condition",
+			value = "tthlby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼官方玩家",
+		},
+		[1095]=
+		{
+			no = 1095,
+			id = 501,
+			var = "share_condition",
+			value = "byam_official",
+			judge = 2,
+			group = 2,
+			error_desc = "是捕鱼奥秘官方玩家",
 		},
 	},
 	share_condition=
