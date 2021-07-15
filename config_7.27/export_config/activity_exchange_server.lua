@@ -4975,7 +4975,7 @@ return {
 			me_limit_day_num = 1,
 			rank_type = "lxjkh_024_jfphb_rank",
 			prop_type = "prop_grade",
-			base_score = 12,
+			base_score = 10,
 		},
 		[384]=
 		{
