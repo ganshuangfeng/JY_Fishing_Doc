@@ -39263,7 +39263,7 @@ return {
 		{
 			id = 664,
 			condition_id = 497,
-			condition_name = "game_id",
+			condition_name = "fish_game_id",
 			condition_value = {2,3,4,5},
 			judge_type = 2,
 		},
