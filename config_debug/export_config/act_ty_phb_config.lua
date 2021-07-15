@@ -18,7 +18,7 @@ return {
 			path = "act_023_dlphb",
 			condiy_key = "actp_rank_lxjkh_024_jfphb_rank",
 			type_info = 1,
-			is_have_point = 1,
+			is_have_point = 0,
 		},
 	},
 	award_config=
