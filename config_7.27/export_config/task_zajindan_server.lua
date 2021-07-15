@@ -15847,15 +15847,15 @@ return {
 		[1000688]=
 		{
 			id = 1000688,
-			enable = 0,
-			name = "消除酷暑",
+			enable = 1,
+			name = "月末送话费",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 22046,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1624896000,
-			end_valid_time = 1627315199,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -58512,7 +58512,7 @@ return {
 		{
 			id = 2328,
 			award_id = 1426,
-			asset_type = "shop_gold_sum",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {10,14},
 			get_weight = 1,
 		},
@@ -58528,7 +58528,7 @@ return {
 		{
 			id = 2330,
 			award_id = 1428,
-			asset_type = "shop_gold_sum",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {35,35},
 			get_weight = 1,
 		},
@@ -58536,7 +58536,7 @@ return {
 		{
 			id = 2331,
 			award_id = 1429,
-			asset_type = "shop_gold_sum",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {55,65},
 			get_weight = 1,
 		},
@@ -58560,7 +58560,7 @@ return {
 		{
 			id = 2334,
 			award_id = 1432,
-			asset_type = "shop_gold_sum",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {420,540},
 			get_weight = 1,
 		},
@@ -58584,7 +58584,7 @@ return {
 		{
 			id = 2337,
 			award_id = 1435,
-			asset_type = "shop_gold_sum",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {1000,1400},
 			get_weight = 1,
 		},
