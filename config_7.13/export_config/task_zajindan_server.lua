@@ -14701,7 +14701,7 @@ return {
 		[1000612]=
 		{
 			id = 1000612,
-			enable = 1,
+			enable = 0,
 			name = "爱消福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -14716,7 +14716,7 @@ return {
 		[1000613]=
 		{
 			id = 1000613,
-			enable = 1,
+			enable = 0,
 			name = "幸运福袋",
 			own_type = "normal",
 			task_enum = "common",
@@ -14731,7 +14731,7 @@ return {
 		[1000614]=
 		{
 			id = 1000614,
-			enable = 1,
+			enable = 0,
 			name = "欢乐五月天祈福好礼简单难度累计抽奖",
 			own_type = "normal",
 			task_enum = "common",
@@ -14746,7 +14746,7 @@ return {
 		[1000615]=
 		{
 			id = 1000615,
-			enable = 1,
+			enable = 0,
 			name = "欢乐五月天祈福好礼中等难度累计抽奖",
 			own_type = "normal",
 			task_enum = "common",
@@ -14761,7 +14761,7 @@ return {
 		[1000616]=
 		{
 			id = 1000616,
-			enable = 1,
+			enable = 0,
 			name = "欢乐五月天祈福好礼挑战难度累计抽奖",
 			own_type = "normal",
 			task_enum = "common",
@@ -14776,7 +14776,7 @@ return {
 		[1000617]=
 		{
 			id = 1000617,
-			enable = 1,
+			enable = 0,
 			name = "系统升级活动",
 			own_type = "p_system_update_tthlby",
 			task_enum = "common",
@@ -14791,7 +14791,7 @@ return {
 		[1000618]=
 		{
 			id = 1000618,
-			enable = 1,
+			enable = 0,
 			name = "五星掉落需求",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -14807,7 +14807,7 @@ return {
 		[1000619]=
 		{
 			id = 1000619,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -14822,7 +14822,7 @@ return {
 		[1000620]=
 		{
 			id = 1000620,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -14837,7 +14837,7 @@ return {
 		[1000621]=
 		{
 			id = 1000621,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -14852,7 +14852,7 @@ return {
 		[1000622]=
 		{
 			id = 1000622,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -14867,7 +14867,7 @@ return {
 		[1000623]=
 		{
 			id = 1000623,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -14882,7 +14882,7 @@ return {
 		[1000624]=
 		{
 			id = 1000624,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -14897,7 +14897,7 @@ return {
 		[1000625]=
 		{
 			id = 1000625,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -14912,7 +14912,7 @@ return {
 		[1000626]=
 		{
 			id = 1000626,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -14927,7 +14927,7 @@ return {
 		[1000627]=
 		{
 			id = 1000627,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -14942,7 +14942,7 @@ return {
 		[1000628]=
 		{
 			id = 1000628,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -14957,7 +14957,7 @@ return {
 		[1000629]=
 		{
 			id = 1000629,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -14972,7 +14972,7 @@ return {
 		[1000630]=
 		{
 			id = 1000630,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -14987,7 +14987,7 @@ return {
 		[1000631]=
 		{
 			id = 1000631,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15002,7 +15002,7 @@ return {
 		[1000632]=
 		{
 			id = 1000632,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15017,7 +15017,7 @@ return {
 		[1000633]=
 		{
 			id = 1000633,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15032,7 +15032,7 @@ return {
 		[1000634]=
 		{
 			id = 1000634,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15047,7 +15047,7 @@ return {
 		[1000635]=
 		{
 			id = 1000635,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15062,7 +15062,7 @@ return {
 		[1000636]=
 		{
 			id = 1000636,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15077,7 +15077,7 @@ return {
 		[1000637]=
 		{
 			id = 1000637,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15092,7 +15092,7 @@ return {
 		[1000638]=
 		{
 			id = 1000638,
-			enable = 1,
+			enable = 0,
 			name = "免费话费",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15107,7 +15107,7 @@ return {
 		[1000639]=
 		{
 			id = 1000639,
-			enable = 1,
+			enable = 0,
 			name = "消除福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15122,7 +15122,7 @@ return {
 		[1000640]=
 		{
 			id = 1000640,
-			enable = 1,
+			enable = 0,
 			name = "月末返利",
 			own_type = "normal",
 			task_enum = "common",
@@ -15137,7 +15137,7 @@ return {
 		[1000641]=
 		{
 			id = 1000641,
-			enable = 1,
+			enable = 0,
 			name = "月末返利",
 			own_type = "normal",
 			task_enum = "common",
@@ -15152,7 +15152,7 @@ return {
 		[1000642]=
 		{
 			id = 1000642,
-			enable = 1,
+			enable = 0,
 			name = "月末返利",
 			own_type = "normal",
 			task_enum = "common",
@@ -15167,7 +15167,7 @@ return {
 		[1000643]=
 		{
 			id = 1000643,
-			enable = 1,
+			enable = 0,
 			name = "月末返利",
 			own_type = "normal",
 			task_enum = "common",
@@ -15182,7 +15182,7 @@ return {
 		[1000644]=
 		{
 			id = 1000644,
-			enable = 1,
+			enable = 0,
 			name = "月末返利",
 			own_type = "normal",
 			task_enum = "common",
@@ -15197,7 +15197,7 @@ return {
 		[1000645]=
 		{
 			id = 1000645,
-			enable = 1,
+			enable = 0,
 			name = "月末返利",
 			own_type = "normal",
 			task_enum = "common",
@@ -15212,7 +15212,7 @@ return {
 		[1000646]=
 		{
 			id = 1000646,
-			enable = 1,
+			enable = 0,
 			name = "月末返利",
 			own_type = "normal",
 			task_enum = "common",
@@ -15227,7 +15227,7 @@ return {
 		[1000647]=
 		{
 			id = 1000647,
-			enable = 1,
+			enable = 0,
 			name = "月末返利",
 			own_type = "normal",
 			task_enum = "common",
@@ -15242,7 +15242,7 @@ return {
 		[1000648]=
 		{
 			id = 1000648,
-			enable = 1,
+			enable = 0,
 			name = "月末返利",
 			own_type = "normal",
 			task_enum = "common",
@@ -15257,7 +15257,7 @@ return {
 		[1000649]=
 		{
 			id = 1000649,
-			enable = 1,
+			enable = 0,
 			name = "话费礼包",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -15272,7 +15272,7 @@ return {
 		[1000650]=
 		{
 			id = 1000650,
-			enable = 1,
+			enable = 0,
 			name = "欢乐券掉落需求",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -15288,7 +15288,7 @@ return {
 		[1000651]=
 		{
 			id = 1000651,
-			enable = 1,
+			enable = 0,
 			name = "欢乐消除",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15303,7 +15303,7 @@ return {
 		[1000652]=
 		{
 			id = 1000652,
-			enable = 1,
+			enable = 0,
 			name = "棒棒糖掉落需求",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -15319,7 +15319,7 @@ return {
 		[1000653]=
 		{
 			id = 1000653,
-			enable = 1,
+			enable = 0,
 			name = "端午福袋",
 			own_type = "normal",
 			task_enum = "common",
@@ -15334,7 +15334,7 @@ return {
 		[1000654]=
 		{
 			id = 1000654,
-			enable = 1,
+			enable = 0,
 			name = "粽子掉落需求",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -15350,7 +15350,7 @@ return {
 		[1000655]=
 		{
 			id = 1000655,
-			enable = 1,
+			enable = 0,
 			name = "纵情端午祈福有礼简单难度累计抽奖",
 			own_type = "normal",
 			task_enum = "common",
@@ -15365,7 +15365,7 @@ return {
 		[1000656]=
 		{
 			id = 1000656,
-			enable = 1,
+			enable = 0,
 			name = "纵情端午祈福有礼中等难度累计抽奖",
 			own_type = "normal",
 			task_enum = "common",
@@ -15380,7 +15380,7 @@ return {
 		[1000657]=
 		{
 			id = 1000657,
-			enable = 1,
+			enable = 0,
 			name = "纵情端午祈福有礼挑战难度累计抽奖",
 			own_type = "normal",
 			task_enum = "common",
@@ -15395,7 +15395,7 @@ return {
 		[1000658]=
 		{
 			id = 1000658,
-			enable = 1,
+			enable = 0,
 			name = "爱消福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15515,7 +15515,7 @@ return {
 		[1000666]=
 		{
 			id = 1000666,
-			enable = 1,
+			enable = 0,
 			name = "英雄任务",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -15530,7 +15530,7 @@ return {
 		[1000667]=
 		{
 			id = 1000667,
-			enable = 1,
+			enable = 0,
 			name = "英雄任务",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -15545,7 +15545,7 @@ return {
 		[1000668]=
 		{
 			id = 1000668,
-			enable = 1,
+			enable = 0,
 			name = "英雄任务",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -15560,7 +15560,7 @@ return {
 		[1000669]=
 		{
 			id = 1000669,
-			enable = 1,
+			enable = 0,
 			name = "英雄任务",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -15575,7 +15575,7 @@ return {
 		[1000670]=
 		{
 			id = 1000670,
-			enable = 1,
+			enable = 0,
 			name = "英雄任务",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -15590,7 +15590,7 @@ return {
 		[1000671]=
 		{
 			id = 1000671,
-			enable = 1,
+			enable = 0,
 			name = "英雄任务",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -15605,7 +15605,7 @@ return {
 		[1000672]=
 		{
 			id = 1000672,
-			enable = 1,
+			enable = 0,
 			name = "英雄任务",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -15620,7 +15620,7 @@ return {
 		[1000673]=
 		{
 			id = 1000673,
-			enable = 1,
+			enable = 0,
 			name = "英雄任务",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -15635,7 +15635,7 @@ return {
 		[1000674]=
 		{
 			id = 1000674,
-			enable = 1,
+			enable = 0,
 			name = "英雄任务",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15650,7 +15650,7 @@ return {
 		[1000675]=
 		{
 			id = 1000675,
-			enable = 1,
+			enable = 0,
 			name = "英雄任务",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15665,7 +15665,7 @@ return {
 		[1000676]=
 		{
 			id = 1000676,
-			enable = 1,
+			enable = 0,
 			name = "英雄任务",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15680,7 +15680,7 @@ return {
 		[1000677]=
 		{
 			id = 1000677,
-			enable = 1,
+			enable = 0,
 			name = "英雄任务",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15740,7 +15740,7 @@ return {
 		[1000681]=
 		{
 			id = 1000681,
-			enable = 1,
+			enable = 0,
 			name = "英雄任务",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15755,7 +15755,7 @@ return {
 		[1000682]=
 		{
 			id = 1000682,
-			enable = 1,
+			enable = 0,
 			name = "英雄任务",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15770,7 +15770,7 @@ return {
 		[1000683]=
 		{
 			id = 1000683,
-			enable = 1,
+			enable = 0,
 			name = "英雄任务",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15801,7 +15801,7 @@ return {
 		[1000685]=
 		{
 			id = 1000685,
-			enable = 1,
+			enable = 0,
 			name = "话费礼包",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -15816,7 +15816,7 @@ return {
 		[1000686]=
 		{
 			id = 1000686,
-			enable = 1,
+			enable = 0,
 			name = "盛夏礼包",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -15831,7 +15831,7 @@ return {
 		[1000687]=
 		{
 			id = 1000687,
-			enable = 1,
+			enable = 0,
 			name = "西瓜掉落需求",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
