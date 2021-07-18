@@ -3389,5 +3389,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[346]=
+		{
+			id = 346,
+			key = "act_060_yxcard",
+			desc = "消消乐游戏卡",
+			lua = "Act_060_YXCardManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
