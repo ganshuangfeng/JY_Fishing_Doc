@@ -1717,7 +1717,7 @@ return {
 			image = "act_ty_by_drop_7",
 			is_show_bag = 0,
 			order = 1,
-			name = "啤酒券",
+			name = "龙虾券",
 			desc = "掉落物活动通用道具",
 		},
 		[131]=
@@ -4307,7 +4307,7 @@ return {
 			image = "com_icon_cl",
 			is_show_bag = 0,
 			order = 1,
-			name = "阳光",
+			name = "积分",
 			desc = "用于参加排行榜",
 		},
 		[319]=
