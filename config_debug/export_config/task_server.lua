@@ -2815,7 +2815,7 @@ return {
 			id = 118,
 			process_id = 118,
 			source_id = 113,
-			process = 100,
+			process = 4800,
 			awards = 189,
 			get_award_type = "nor",
 			is_auto_get_award = 2,
