@@ -2322,6 +2322,18 @@ return {
 			name = "活动弹出非新玩家",
 			condi = 500,
 		},
+		mutual_game_byam_cpl=
+		{
+			key = "mutual_game_byam_cpl",
+			name = "游戏互导捕鱼奥秘CPL获取CDK权限",
+			condi = 502,
+		},
+		mutual_game_nor_cpl=
+		{
+			key = "mutual_game_nor_cpl",
+			name = "游戏互导欢乐天天捕鱼、冲金鸡CPL获取CDK权限",
+			condi = 503,
+		},
 	},
 	act_permission=
 	{
@@ -18149,6 +18161,36 @@ return {
 			judge = 2,
 			group = 2,
 			error_desc = "是捕鱼奥秘官方玩家",
+		},
+		[1096]=
+		{
+			no = 1096,
+			id = 502,
+			var = "share_condition",
+			value = "byam_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是捕鱼奥秘CPL玩家",
+		},
+		[1097]=
+		{
+			no = 1097,
+			id = 503,
+			var = "share_condition",
+			value = "tthlby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼CPL玩家",
+		},
+		[1098]=
+		{
+			no = 1098,
+			id = 503,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 2,
+			error_desc = "是冲金鸡CPL玩家",
 		},
 	},
 	share_condition=
