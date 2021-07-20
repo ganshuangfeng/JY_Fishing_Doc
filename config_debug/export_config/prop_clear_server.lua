@@ -38,8 +38,8 @@ return {
 			id = 5,
 			enable = 1,
 			prop_type = "prop_fish_drop_act_0",
-			start_time = 1626739200,
-			recycle_time = 1627315199,
+			start_time = 1627344000,
+			recycle_time = 1627919999,
 		},
 		[6]=
 		{
@@ -472,6 +472,14 @@ return {
 			prop_type = "prop_qdlb_cjq_cjj",
 			start_time = 1619481600,
 			recycle_time = 1627315199,
+		},
+		[60]=
+		{
+			id = 60,
+			enable = 1,
+			prop_type = "prop_grade",
+			start_time = 1627344000,
+			recycle_time = 1627919999,
 		},
 	},
 	player_ext_status=
