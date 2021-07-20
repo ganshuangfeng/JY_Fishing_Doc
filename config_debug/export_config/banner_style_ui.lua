@@ -1014,10 +1014,11 @@ return {
 			bannerID = 89,
 			isOnOff = 1,
 			order = 111,
+			condi_key = "banner_show_not_newplayer",
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1626739200,
-			endTime = 1627315199,
+			srartTime = 1627344000,
+			endTime = 1627919999,
 		},
 		[90]=
 		{

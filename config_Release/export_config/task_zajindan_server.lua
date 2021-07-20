@@ -16059,15 +16059,46 @@ return {
 			id = 1000702,
 			enable = 1,
 			name = "啤酒券掉落",
-			own_type = "common",
-			task_enum = 22060,
-			process_id = 0,
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22060,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1626739200,
+			end_valid_time = 1627315199,
+			time_limit = -1,
+			is_send_client = 1,
+			award_change_type = "task_award_no_show",
+		},
+		[1000703]=
+		{
+			id = 1000703,
+			enable = 1,
+			name = "狂欢礼包",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22061,
 			is_reset = 1,
-			reset_delay = 1625529600,
-			start_valid_time = 1626105599,
-			end_valid_time = -1,
-			time_limit = 1,
-			is_send_client = "task_award_no_show",
+			reset_delay = 1,
+			start_valid_time = 1626710400,
+			end_valid_time = 1627315199,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000704]=
+		{
+			id = 1000704,
+			enable = 1,
+			name = "消耗有礼",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22062,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1626710400,
+			end_valid_time = 1627315199,
+			time_limit = -1,
+			is_send_client = 1,
 		},
 	},
 	process_data=
@@ -26469,6 +26500,22 @@ return {
 			get_award_type = "nor",
 			is_auto_get_award = 2,
 		},
+		[1113]=
+		{
+			id = 1113,
+			process_id = 22061,
+			source_id = 663,
+			process = 3,
+		},
+		[1114]=
+		{
+			id = 1114,
+			process_id = 22062,
+			source_id = 664,
+			process = {3000000,17000000,30000000},
+			awards = {1483,1484,1485},
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -34124,6 +34171,27 @@ return {
 			source_type = "box_exchange",
 			condition_id = 495,
 		},
+		[1087]=
+		{
+			id = 1087,
+			source_id = 663,
+			source_type = "buy_gift",
+			condition_id = 496,
+		},
+		[1088]=
+		{
+			id = 1088,
+			source_id = 664,
+			source_type = "buyu_3d_spend",
+			condition_id = 497,
+		},
+		[1089]=
+		{
+			id = 1089,
+			source_id = 664,
+			source_type = "buyu_3d_spend_by_use_fish_prop",
+			condition_id = 498,
+		},
 	},
 	condition=
 	{
@@ -39181,6 +39249,30 @@ return {
 			condition_id = 495,
 			condition_name = "box_exchange_type",
 			condition_value = {"box_exchange_103",},
+			judge_type = 2,
+		},
+		[663]=
+		{
+			id = 663,
+			condition_id = 496,
+			condition_name = "gift_id",
+			condition_value = {10587,10588,10589,10590,10591,10592,10593,10594,10595,10596,10597,10598},
+			judge_type = 2,
+		},
+		[664]=
+		{
+			id = 664,
+			condition_id = 497,
+			condition_name = "fish_game_id",
+			condition_value = {2,3,4,5},
+			judge_type = 2,
+		},
+		[665]=
+		{
+			id = 665,
+			condition_id = 498,
+			condition_name = "game_id",
+			condition_value = {2,3,4,5},
 			judge_type = 2,
 		},
 	},
@@ -58256,6 +58348,30 @@ return {
 			award_id = 1482,
 			asset_type = "prop_fish_drop_act_0",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[2386]=
+		{
+			id = 2386,
+			award_id = 1483,
+			asset_type = "prop_xxl_card_chip_1",
+			asset_count = 4,
+			get_weight = 1,
+		},
+		[2387]=
+		{
+			id = 2387,
+			award_id = 1484,
+			asset_type = "prop_xxl_card_chip_1",
+			asset_count = 20,
+			get_weight = 1,
+		},
+		[2388]=
+		{
+			id = 2388,
+			award_id = 1485,
+			asset_type = "prop_xxl_card_chip_2",
+			asset_count = 20,
 			get_weight = 1,
 		},
 	},

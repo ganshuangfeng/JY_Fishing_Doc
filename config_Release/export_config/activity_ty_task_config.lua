@@ -73,6 +73,14 @@ return {
 			name = "七月赠礼_cjj",
 			tges = 9,
 		},
+		[10]=
+		{
+			index = 10,
+			key = "act_xhyl",
+			icon = "xhyl_bg_1",
+			name = "消耗有礼",
+			tges = 10,
+		},
 	},
 	tge=
 	{
@@ -138,7 +146,7 @@ return {
 		{
 			tge_index = 8,
 			name = "act_ymfl",
-			on_off = 1,
+			on_off = 0,
 			is_show = 0,
 			order = 1,
 			task_index = {21,22,23,24,25,26,27,28,29},
@@ -151,6 +159,15 @@ return {
 			is_show = 1,
 			order = 1,
 			task_index = {38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59},
+		},
+		[10]=
+		{
+			tge_index = 10,
+			name = "act_xhyl",
+			on_off = 1,
+			is_show = 1,
+			order = 1,
+			task_index = {60,61,62},
 		},
 	},
 	task=
@@ -817,6 +834,39 @@ return {
 			item = {"shop_gold_sum",},
 			count = {2000,},
 			gotoUI = {"game_MiniGame",},
+		},
+		[60]=
+		{
+			id = 60,
+			task = 1000704,
+			total = 3000000,
+			task_name = "在3D捕鱼中累计消耗300万金币",
+			level = 1,
+			item = {"prop_xxl_card_chip_1",},
+			count = {4,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[61]=
+		{
+			id = 61,
+			task = 1000704,
+			total = 20000000,
+			task_name = "在3D捕鱼中累计消耗2000万金币",
+			level = 2,
+			item = {"prop_xxl_card_chip_1",},
+			count = {20,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[62]=
+		{
+			id = 62,
+			task = 1000704,
+			total = 50000000,
+			task_name = "在3D捕鱼中累计消耗5000万金币",
+			level = 3,
+			item = {"prop_xxl_card_chip_2",},
+			count = {20,},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 	},
 }

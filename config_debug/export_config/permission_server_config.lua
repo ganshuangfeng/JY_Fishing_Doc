@@ -2316,6 +2316,12 @@ return {
 			name = "全部捕鱼奥秘玩家（跑马灯用）",
 			condi = 496,
 		},
+		banner_show_not_newplayer=
+		{
+			key = "banner_show_not_newplayer",
+			name = "活动弹出非新玩家",
+			condi = 500,
+		},
 	},
 	act_permission=
 	{
@@ -6512,7 +6518,7 @@ return {
 			id = 350,
 			enable = 1,
 			key = "actp_own_task_p_hljnh_046_hlfl_nor",
-			name = "欢乐福利（欢乐捕鱼）--非cps",
+			name = "欢乐福利（欢乐捕鱼）",
 			condi = 372,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -6763,7 +6769,7 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_lxjkh_024_jfphb_rank",
+			key = "actp_rank_ymshf_017_hldr_rank",
 			name = "游戏达人",
 			condi = 393,
 			is_dynamic_codi = 1,
@@ -7178,6 +7184,18 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
 			start_deal_time = 1623110400,
+		},
+		[406]=
+		{
+			id = 406,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_first_deposit_gift",
+			name = "首充礼包（天天欢乐捕鱼官方，捕鱼奥秘官方）",
+			condi = 501,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
 		},
 	},
 	condi=
@@ -18101,6 +18119,36 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "注册7天内新人",
+		},
+		[1093]=
+		{
+			no = 1093,
+			id = 500,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新玩家",
+		},
+		[1094]=
+		{
+			no = 1094,
+			id = 501,
+			var = "share_condition",
+			value = "tthlby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼官方玩家",
+		},
+		[1095]=
+		{
+			no = 1095,
+			id = 501,
+			var = "share_condition",
+			value = "byam_official",
+			judge = 2,
+			group = 2,
+			error_desc = "是捕鱼奥秘官方玩家",
 		},
 	},
 	share_condition=

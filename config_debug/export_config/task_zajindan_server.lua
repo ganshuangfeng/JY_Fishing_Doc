@@ -15257,15 +15257,15 @@ return {
 		[1000649]=
 		{
 			id = 1000649,
-			enable = 0,
+			enable = 1,
 			name = "话费礼包",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 22007,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1621872000,
-			end_valid_time = 1622476799,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -15702,8 +15702,8 @@ return {
 			process_id = 22036,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1626105600,
-			end_valid_time = 1626710399,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -15717,8 +15717,8 @@ return {
 			process_id = 22037,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1626105600,
-			end_valid_time = 1626710399,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -15732,8 +15732,8 @@ return {
 			process_id = 22038,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1626105600,
-			end_valid_time = 1626710399,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -15848,21 +15848,21 @@ return {
 		{
 			id = 1000688,
 			enable = 1,
-			name = "消除酷暑",
+			name = "月末送话费",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 22046,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1624896000,
-			end_valid_time = 1627315199,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
 			time_limit = -1,
 			is_send_client = 1,
 		},
 		[1000689]=
 		{
 			id = 1000689,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15877,7 +15877,7 @@ return {
 		[1000690]=
 		{
 			id = 1000690,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15892,7 +15892,7 @@ return {
 		[1000691]=
 		{
 			id = 1000691,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15907,7 +15907,7 @@ return {
 		[1000692]=
 		{
 			id = 1000692,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15922,7 +15922,7 @@ return {
 		[1000693]=
 		{
 			id = 1000693,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15937,7 +15937,7 @@ return {
 		[1000694]=
 		{
 			id = 1000694,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15952,7 +15952,7 @@ return {
 		[1000695]=
 		{
 			id = 1000695,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15967,7 +15967,7 @@ return {
 		[1000696]=
 		{
 			id = 1000696,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15982,7 +15982,7 @@ return {
 		[1000697]=
 		{
 			id = 1000697,
-			enable = 1,
+			enable = 0,
 			name = "七月赠礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15997,7 +15997,7 @@ return {
 		[1000698]=
 		{
 			id = 1000698,
-			enable = 1,
+			enable = 0,
 			name = "七月赠礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -16012,7 +16012,7 @@ return {
 		[1000699]=
 		{
 			id = 1000699,
-			enable = 1,
+			enable = 0,
 			name = "啤酒狂欢-简单",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -16027,7 +16027,7 @@ return {
 		[1000700]=
 		{
 			id = 1000700,
-			enable = 1,
+			enable = 0,
 			name = "啤酒狂欢-中等",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -16042,7 +16042,7 @@ return {
 		[1000701]=
 		{
 			id = 1000701,
-			enable = 1,
+			enable = 0,
 			name = "啤酒狂欢-挑战",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -16057,15 +16057,15 @@ return {
 		[1000702]=
 		{
 			id = 1000702,
-			enable = 1,
+			enable = 0,
 			name = "啤酒券掉落",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 22060,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1626739200,
-			end_valid_time = 1627315199,
+			start_valid_time = 1625529600,
+			end_valid_time = 1626105599,
 			time_limit = -1,
 			is_send_client = 1,
 			award_change_type = "task_award_no_show",
@@ -16073,7 +16073,7 @@ return {
 		[1000703]=
 		{
 			id = 1000703,
-			enable = 1,
+			enable = 0,
 			name = "狂欢礼包",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -16088,7 +16088,7 @@ return {
 		[1000704]=
 		{
 			id = 1000704,
-			enable = 1,
+			enable = 0,
 			name = "消耗有礼",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -16097,6 +16097,276 @@ return {
 			reset_delay = 1,
 			start_valid_time = 1626710400,
 			end_valid_time = 1627315199,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000705]=
+		{
+			id = 1000705,
+			enable = 1,
+			name = "免费话费",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22063,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000706]=
+		{
+			id = 1000706,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22064,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000707]=
+		{
+			id = 1000707,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22065,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000708]=
+		{
+			id = 1000708,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22066,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000709]=
+		{
+			id = 1000709,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22067,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000710]=
+		{
+			id = 1000710,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22068,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000711]=
+		{
+			id = 1000711,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22069,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000712]=
+		{
+			id = 1000712,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22070,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000713]=
+		{
+			id = 1000713,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22071,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000714]=
+		{
+			id = 1000714,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22072,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000715]=
+		{
+			id = 1000715,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22073,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000716]=
+		{
+			id = 1000716,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22074,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000717]=
+		{
+			id = 1000717,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22075,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000718]=
+		{
+			id = 1000718,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22076,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000719]=
+		{
+			id = 1000719,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22077,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000720]=
+		{
+			id = 1000720,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22078,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000721]=
+		{
+			id = 1000721,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22079,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000722]=
+		{
+			id = 1000722,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_cjj",
+			task_enum = "common",
+			process_id = 22080,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -26513,7 +26783,169 @@ return {
 			process_id = 22062,
 			source_id = 664,
 			process = {3000000,17000000,30000000},
-			awards = {1483,1484,1485},
+			awards = {1482,1484,1485},
+			get_award_type = "nor",
+		},
+		[1115]=
+		{
+			id = 1115,
+			process_id = 22063,
+			source_id = 665,
+			process = 1,
+			awards = 1486,
+			get_award_type = "nor",
+		},
+		[1116]=
+		{
+			id = 1116,
+			process_id = 22064,
+			source_id = 664,
+			process = {100000,900000},
+			awards = {1487,1486},
+			get_award_type = "nor",
+		},
+		[1117]=
+		{
+			id = 1117,
+			process_id = 22065,
+			source_id = 666,
+			process = 10,
+			awards = 1487,
+			get_award_type = "nor",
+		},
+		[1118]=
+		{
+			id = 1118,
+			process_id = 22066,
+			source_id = 667,
+			process = 10,
+			awards = 1486,
+			get_award_type = "nor",
+		},
+		[1119]=
+		{
+			id = 1119,
+			process_id = 22067,
+			source_id = 668,
+			process = 100,
+			awards = 1486,
+			get_award_type = "nor",
+		},
+		[1120]=
+		{
+			id = 1120,
+			process_id = 22068,
+			source_id = 669,
+			process = 100,
+			awards = 1488,
+			get_award_type = "nor",
+		},
+		[1121]=
+		{
+			id = 1121,
+			process_id = 22069,
+			source_id = 670,
+			process = 1,
+			awards = 1486,
+			get_award_type = "nor",
+		},
+		[1122]=
+		{
+			id = 1122,
+			process_id = 22070,
+			source_id = 671,
+			process = 1,
+			awards = 1488,
+			get_award_type = "nor",
+		},
+		[1123]=
+		{
+			id = 1123,
+			process_id = 22071,
+			source_id = 672,
+			process = {2,2},
+			awards = {1486,1488},
+			get_award_type = "nor",
+		},
+		[1124]=
+		{
+			id = 1124,
+			process_id = 22072,
+			source_id = 668,
+			process = 100,
+			awards = 1486,
+			get_award_type = "nor",
+		},
+		[1125]=
+		{
+			id = 1125,
+			process_id = 22073,
+			source_id = 669,
+			process = 100,
+			awards = 1486,
+			get_award_type = "nor",
+		},
+		[1126]=
+		{
+			id = 1126,
+			process_id = 22074,
+			source_id = 670,
+			process = 1,
+			awards = 1489,
+			get_award_type = "nor",
+		},
+		[1127]=
+		{
+			id = 1127,
+			process_id = 22075,
+			source_id = 671,
+			process = 1,
+			awards = 1486,
+			get_award_type = "nor",
+		},
+		[1128]=
+		{
+			id = 1128,
+			process_id = 22076,
+			source_id = 672,
+			process = {1,3},
+			awards = 1489,
+			get_award_type = "nor",
+		},
+		[1129]=
+		{
+			id = 1129,
+			process_id = 22077,
+			source_id = 673,
+			process = 1,
+			awards = {1486,1489},
+			get_award_type = "nor",
+		},
+		[1130]=
+		{
+			id = 1130,
+			process_id = 22078,
+			source_id = 674,
+			process = 1,
+			awards = 1489,
+			get_award_type = "nor",
+		},
+		[1131]=
+		{
+			id = 1131,
+			process_id = 22079,
+			source_id = 581,
+			process = 3,
+			awards = 1489,
+			get_award_type = "nor",
+		},
+		[1132]=
+		{
+			id = 1132,
+			process_id = 22080,
+			source_id = 583,
+			process = 1,
+			awards = 1489,
 			get_award_type = "nor",
 		},
 	},
@@ -34183,14 +34615,84 @@ return {
 			id = 1088,
 			source_id = 664,
 			source_type = "buyu_3d_spend",
-			condition_id = 497,
+			condition_id = 506,
 		},
 		[1089]=
 		{
 			id = 1089,
 			source_id = 664,
 			source_type = "buyu_3d_spend_by_use_fish_prop",
+			condition_id = 507,
+		},
+		[1090]=
+		{
+			id = 1090,
+			source_id = 665,
+			source_type = "agent_charge_any",
+			condition_id = 497,
+		},
+		[1091]=
+		{
+			id = 1091,
+			source_id = 666,
+			source_type = "use_fish_3d_bullet_item",
+			condition_id = 0,
+		},
+		[1092]=
+		{
+			id = 1092,
+			source_id = 667,
+			source_type = "buyu_3d_target_yu",
 			condition_id = 498,
+		},
+		[1093]=
+		{
+			id = 1093,
+			source_id = 668,
+			source_type = "sh_xxl_xc_target_item",
+			condition_id = 499,
+		},
+		[1094]=
+		{
+			id = 1094,
+			source_id = 669,
+			source_type = "sh_xxl_xc_target_item",
+			condition_id = 500,
+		},
+		[1095]=
+		{
+			id = 1095,
+			source_id = 670,
+			source_type = "xy_xxl_xc_target_item",
+			condition_id = 501,
+		},
+		[1096]=
+		{
+			id = 1096,
+			source_id = 671,
+			source_type = "xy_xxl_xc_target_item",
+			condition_id = 502,
+		},
+		[1097]=
+		{
+			id = 1097,
+			source_id = 672,
+			source_type = "sh_xxl_xc_num_hero",
+			condition_id = 503,
+		},
+		[1098]=
+		{
+			id = 1098,
+			source_id = 673,
+			source_type = "xiaoxiaole_sanguo_game_num",
+			condition_id = 504,
+		},
+		[1099]=
+		{
+			id = 1099,
+			source_id = 674,
+			source_type = "xiaoxiaole_sanguo_game_num",
+			condition_id = 505,
 		},
 	},
 	condition=
@@ -39263,14 +39765,134 @@ return {
 		{
 			id = 664,
 			condition_id = 497,
-			condition_name = "fish_game_id",
-			condition_value = {2,3,4,5},
-			judge_type = 2,
+			condition_name = "pay_money",
+			condition_value = 1,
+			judge_type = 3,
 		},
 		[665]=
 		{
 			id = 665,
 			condition_id = 498,
+			condition_name = "base_fish_id",
+			condition_value = {20,22,23,24,25,26,27},
+			judge_type = 2,
+		},
+		[666]=
+		{
+			id = 666,
+			condition_id = 499,
+			condition_name = "item_id",
+			condition_value = 3,
+			judge_type = 2,
+		},
+		[667]=
+		{
+			id = 667,
+			condition_id = 499,
+			condition_name = "bet_spend",
+			condition_value = 30000,
+			judge_type = 3,
+		},
+		[668]=
+		{
+			id = 668,
+			condition_id = 500,
+			condition_name = "bet_spend",
+			condition_value = 30000,
+			judge_type = 3,
+		},
+		[669]=
+		{
+			id = 669,
+			condition_id = 500,
+			condition_name = "item_id",
+			condition_value = 6,
+			judge_type = 2,
+		},
+		[670]=
+		{
+			id = 670,
+			condition_id = 501,
+			condition_name = "item_id",
+			condition_value = 8,
+			judge_type = 2,
+		},
+		[671]=
+		{
+			id = 671,
+			condition_id = 501,
+			condition_name = "bet_spend",
+			condition_value = 10000,
+			judge_type = 3,
+		},
+		[672]=
+		{
+			id = 672,
+			condition_id = 502,
+			condition_name = "item_id",
+			condition_value = 6,
+			judge_type = 2,
+		},
+		[673]=
+		{
+			id = 673,
+			condition_id = 502,
+			condition_name = "bet_spend",
+			condition_value = 10000,
+			judge_type = 3,
+		},
+		[674]=
+		{
+			id = 674,
+			condition_id = 503,
+			condition_name = "hero_num",
+			condition_value = 1,
+			judge_type = 3,
+		},
+		[675]=
+		{
+			id = 675,
+			condition_id = 504,
+			condition_name = "bet_spend",
+			condition_value = 10000,
+			judge_type = 3,
+		},
+		[676]=
+		{
+			id = 676,
+			condition_id = 504,
+			condition_name = "is_free_game",
+			condition_value = 1,
+			judge_type = 2,
+		},
+		[677]=
+		{
+			id = 677,
+			condition_id = 505,
+			condition_name = "bet_spend",
+			condition_value = 10000,
+			judge_type = 3,
+		},
+		[678]=
+		{
+			id = 678,
+			condition_id = 505,
+			condition_name = "is_free_game",
+			condition_value = 2,
+			judge_type = 2,
+		},
+		[679]=
+		{
+			id = 679,
+			condition_id = 506,
+			condition_name = "game_id",
+			condition_value = {2,3,4,5},
+			judge_type = 2,
+		},
+		[680]=
+		{
+			id = 680,
+			condition_id = 507,
 			condition_name = "game_id",
 			condition_value = {2,3,4,5},
 			judge_type = 2,
@@ -57890,7 +58512,7 @@ return {
 		{
 			id = 2328,
 			award_id = 1426,
-			asset_type = "shop_gold_sum",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {10,14},
 			get_weight = 1,
 		},
@@ -57906,7 +58528,7 @@ return {
 		{
 			id = 2330,
 			award_id = 1428,
-			asset_type = "shop_gold_sum",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {35,35},
 			get_weight = 1,
 		},
@@ -57914,7 +58536,7 @@ return {
 		{
 			id = 2331,
 			award_id = 1429,
-			asset_type = "shop_gold_sum",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {55,65},
 			get_weight = 1,
 		},
@@ -57938,7 +58560,7 @@ return {
 		{
 			id = 2334,
 			award_id = 1432,
-			asset_type = "shop_gold_sum",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {420,540},
 			get_weight = 1,
 		},
@@ -57962,7 +58584,7 @@ return {
 		{
 			id = 2337,
 			award_id = 1435,
-			asset_type = "shop_gold_sum",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {1000,1400},
 			get_weight = 1,
 		},
@@ -58371,6 +58993,38 @@ return {
 			id = 2388,
 			award_id = 1485,
 			asset_type = "prop_xxl_card_chip_2",
+			asset_count = 20,
+			get_weight = 1,
+		},
+		[2389]=
+		{
+			id = 2389,
+			award_id = 1486,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[2390]=
+		{
+			id = 2390,
+			award_id = 1487,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[2391]=
+		{
+			id = 2391,
+			award_id = 1488,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = 30,
+			get_weight = 1,
+		},
+		[2392]=
+		{
+			id = 2392,
+			award_id = 1489,
+			asset_type = "prop_web_chip_huafei",
 			asset_count = 20,
 			get_weight = 1,
 		},

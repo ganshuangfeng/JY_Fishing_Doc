@@ -2685,9 +2685,9 @@ return {
 			key = "act_ty_hlqjd",
 			desc = "欢乐敲金蛋",
 			lua = "Act_ty_HLQJDManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[275]=
 		{
@@ -3100,7 +3100,7 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_022_dlphb",
+			key = "act_ty_sjb_style/act_023_dlphb",
 			desc = "掉落排行榜皮肤（消耗）",
 			is_on_off = 1,
 			enable = 1,
@@ -3109,20 +3109,20 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_020_pjq",
+			key = "act_ty_by_drop_style/act_021_lxq",
 			desc = "啤酒券掉落",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[318]=
 		{
 			id = 318,
-			key = "act_ty_by_hhl_style/act_009_hhl",
+			key = "act_ty_by_hhl_style/act_013_hhl",
 			desc = "换好礼皮肤",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[319]=
 		{
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_024",
+			key = "sys_act_base_style/sys_act_base_weekly_025",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3267,18 +3267,18 @@ return {
 			key = "act_ty_gifts",
 			desc = "通用礼包",
 			lua = "Act_Ty_GiftsManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[334]=
 		{
 			id = 334,
-			key = "act_ty_gifts_style/act_005_cjlb",
+			key = "act_ty_gifts_style/act_005_khlb",
 			desc = "抽奖礼包",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[335]=
 		{
@@ -3385,6 +3385,16 @@ return {
 			key = "sys_fishfarm_simplicity",
 			desc = "水族馆",
 			lua = "SYSFishFarmSimplicityManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[346]=
+		{
+			id = 346,
+			key = "act_060_yxcard",
+			desc = "消消乐游戏卡",
+			lua = "Act_060_YXCardManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

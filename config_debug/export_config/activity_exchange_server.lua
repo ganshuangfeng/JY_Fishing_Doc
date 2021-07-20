@@ -663,13 +663,13 @@ return {
 		{
 			id = 57,
 			name = "欢乐兑奖",
-			start_time = 1624320000,
-			end_time = 1624895999,
+			start_time = 1627344000,
+			end_time = 1627919999,
 			use_goods = {"prop_fish_drop_act_0",},
 			goods_type = 1,
 			email_id = 43,
 			award_id = 57,
-			enable = 0,
+			enable = 1,
 		},
 		[58]=
 		{
@@ -693,7 +693,7 @@ return {
 			goods_type = 1,
 			email_id = 45,
 			award_id = 59,
-			enable = 1,
+			enable = 0,
 		},
 	},
 	email=
@@ -954,7 +954,7 @@ return {
 		{
 			id = 43,
 			title = "欢乐兑奖",
-			content = "恭喜您在欢乐兑奖活动中获得了%s，请在活动结束后7个工作日内联系公众号《鲸鱼初纪元》客服领取，逾期视为自动放弃！",
+			content = "恭喜您在欢乐兑奖活动中获得了%s，请在活动结束后7个工作日内联系客服QQ号4008882620领取，逾期视为自动放弃！",
 		},
 		[44]=
 		{
@@ -5041,6 +5041,7 @@ return {
 			award_name = "水晶虾饺",
 			use_num = {36000,},
 			me_limit_num = 1,
+			me_limit_day_num = 1,
 			rank_type = "lxjkh_024_jfphb_rank",
 			prop_type = "prop_grade",
 			base_score = 720,
@@ -5068,6 +5069,7 @@ return {
 			award_name = "麻辣小龙虾",
 			use_num = {80000,},
 			me_limit_num = 1,
+			me_limit_day_num = 1,
 			rank_type = "lxjkh_024_jfphb_rank",
 			prop_type = "prop_grade",
 			base_score = 1600,
@@ -5094,6 +5096,7 @@ return {
 			award_name = "麻辣小龙虾尾",
 			use_num = {150000,},
 			me_limit_num = 1,
+			me_limit_day_num = 1,
 			rank_type = "lxjkh_024_jfphb_rank",
 			prop_type = "prop_grade",
 			base_score = 3000,
