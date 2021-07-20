@@ -34649,14 +34649,14 @@ return {
 		{
 			id = 1093,
 			source_id = 668,
-			source_type = "sh_xxl_xc_target_item",
+			source_type = "xxl_xc_target_item",
 			condition_id = 499,
 		},
 		[1094]=
 		{
 			id = 1094,
 			source_id = 669,
-			source_type = "sh_xxl_xc_target_item",
+			source_type = "xxl_xc_target_item",
 			condition_id = 500,
 		},
 		[1095]=
