@@ -3109,8 +3109,8 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_021_lxq",
-			desc = "龙虾券掉落",
+			key = "act_ty_by_drop_style/act_016_huanle",
+			desc = "欢乐券掉落",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
