@@ -16057,7 +16057,7 @@ return {
 		[1000702]=
 		{
 			id = 1000702,
-			enable = 0,
+			enable = 1,
 			name = "啤酒券掉落",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
