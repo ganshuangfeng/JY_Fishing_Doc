@@ -26882,7 +26882,7 @@ return {
 			process_id = 22073,
 			source_id = 669,
 			process = 100,
-			awards = 1486,
+			awards = 1489,
 			get_award_type = "nor",
 		},
 		[1126]=
@@ -26891,7 +26891,7 @@ return {
 			process_id = 22074,
 			source_id = 670,
 			process = 1,
-			awards = 1489,
+			awards = 1486,
 			get_award_type = "nor",
 		},
 		[1127]=
@@ -26900,7 +26900,7 @@ return {
 			process_id = 22075,
 			source_id = 671,
 			process = 1,
-			awards = 1486,
+			awards = 1489,
 			get_award_type = "nor",
 		},
 		[1128]=
@@ -26909,7 +26909,7 @@ return {
 			process_id = 22076,
 			source_id = 672,
 			process = {1,3},
-			awards = 1489,
+			awards = {1486,1489},
 			get_award_type = "nor",
 		},
 		[1129]=
@@ -26918,7 +26918,7 @@ return {
 			process_id = 22077,
 			source_id = 673,
 			process = 1,
-			awards = {1486,1489},
+			awards = 1489,
 			get_award_type = "nor",
 		},
 		[1130]=
