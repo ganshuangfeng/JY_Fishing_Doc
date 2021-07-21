@@ -1117,7 +1117,7 @@ return {
 			task = 1000721,
 			total = 3,
 			task_name = "在苹果大战中连胜3局",
-			level = 3,
+			level = 1,
 			item = {"prop_web_chip_huafei",},
 			count = {20,},
 			gotoUI = {"game_MiniGame",},
