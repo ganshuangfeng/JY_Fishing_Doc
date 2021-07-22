@@ -8,7 +8,7 @@ return {
 		{
 			id = 1,
 			activity_id = 59,
-			award_id = 59,
+			award_id = {1,2,3,4,5,6,7,8,9,10},
 			task_id = 1000702,
 			award_rate = {100,110,130,150},
 		},
