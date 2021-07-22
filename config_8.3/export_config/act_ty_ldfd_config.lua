@@ -34,7 +34,7 @@ return {
 			group_id = 1,
 			condiy_key = "actp_buy_gift_class_hqjnh_046_cjj_hllb",
 			task_id = 1000653,
-			gift_ids = {10571,10572,10573,10574,10575,10576,10577},
+			gift_ids = {10577,10576,10575,10574,10573,10572},
 		},
 	},
 }
