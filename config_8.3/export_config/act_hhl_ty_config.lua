@@ -5,7 +5,7 @@ return {
 		{
 			line = 1,
 			condiy_key = "cpl_notcjj",
-			change_type = 57,
+			change_type = 59,
 			cur_path = "act_014_hhl_",
 			item_key = "prop_fish_drop_act_0",
 			beginTime = 1627948800,
@@ -24,7 +24,6 @@ return {
 			award_image = "com_award_icon_hfsp",
 			item_cost_text = 600,
 			type = 0,
-			condiy_key = "actp_prop_exchange_nor_v5",
 		},
 		[2]=
 		{
@@ -33,7 +32,6 @@ return {
 			award_image = "com_award_icon_czyhq2",
 			item_cost_text = 1000,
 			type = 0,
-			condiy_key = "actp_prop_exchange_nor_v4",
 		},
 		[3]=
 		{
@@ -42,7 +40,6 @@ return {
 			award_image = "ty_icon_yb_3",
 			item_cost_text = 3000,
 			type = 0,
-			condiy_key = "actp_prop_exchange_nor_v3",
 		},
 		[4]=
 		{
@@ -51,7 +48,6 @@ return {
 			award_image = "ty_icon_jb_15y",
 			item_cost_text = 6000,
 			type = 0,
-			condiy_key = "actp_prop_exchange_nor",
 		},
 		[5]=
 		{
@@ -60,7 +56,6 @@ return {
 			award_image = "ty_icon_flq4",
 			item_cost_text = 12000,
 			type = 0,
-			condiy_key = "actp_prop_exchange_nor",
 		},
 		[6]=
 		{
@@ -69,7 +64,6 @@ return {
 			award_image = "swjl_1",
 			item_cost_text = 36000,
 			type = 0,
-			condiy_key = "actp_prop_exchange_nor",
 		},
 		[7]=
 		{
@@ -78,7 +72,6 @@ return {
 			award_image = "ty_icon_jb_30y",
 			item_cost_text = 50000,
 			type = 0,
-			condiy_key = "actp_prop_exchange_nor",
 		},
 		[8]=
 		{
@@ -87,7 +80,6 @@ return {
 			award_image = "swjl_2",
 			item_cost_text = 80000,
 			type = 0,
-			condiy_key = "actp_prop_exchange_nor",
 		},
 		[9]=
 		{
@@ -96,7 +88,6 @@ return {
 			award_image = "ty_icon_yxb_5",
 			item_cost_text = 120000,
 			type = 0,
-			condiy_key = "actp_prop_exchange_nor",
 		},
 		[10]=
 		{
@@ -105,7 +96,6 @@ return {
 			award_image = "swjl_3",
 			item_cost_text = 150000,
 			type = 0,
-			condiy_key = "actp_prop_exchange_nor",
 		},
 	},
 	shop_config=

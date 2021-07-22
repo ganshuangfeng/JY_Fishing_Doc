@@ -669,7 +669,7 @@ return {
 			goods_type = 1,
 			email_id = 43,
 			award_id = 57,
-			enable = 1,
+			enable = 0,
 		},
 		[58]=
 		{
@@ -693,7 +693,7 @@ return {
 			goods_type = 1,
 			email_id = 45,
 			award_id = 59,
-			enable = 0,
+			enable = 1,
 		},
 	},
 	email=
