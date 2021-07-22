@@ -27148,32 +27148,41 @@ return {
 			id = 1138,
 			process_id = 22086,
 			source_id = 613,
-			process = {1,2},
-			awards = {1495,1496},
+			process = 1,
+			awards = 1495,
 			get_award_type = "nor",
 		},
 		[1139]=
 		{
 			id = 1139,
 			process_id = 22087,
-			source_id = 652,
-			process = 1,
-			awards = 1497,
+			source_id = 613,
+			process = 3,
+			awards = 1496,
 			get_award_type = "nor",
 		},
 		[1140]=
 		{
 			id = 1140,
 			process_id = 22088,
-			source_id = 665,
+			source_id = 652,
 			process = 1,
-			awards = 1498,
+			awards = 1497,
 			get_award_type = "nor",
 		},
 		[1141]=
 		{
 			id = 1141,
 			process_id = 22089,
+			source_id = 665,
+			process = 1,
+			awards = 1498,
+			get_award_type = "nor",
+		},
+		[1142]=
+		{
+			id = 1142,
+			process_id = 22090,
 			source_id = 676,
 			process = 8,
 			awards = 1499,

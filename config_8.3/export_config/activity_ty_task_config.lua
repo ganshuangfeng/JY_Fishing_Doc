@@ -1222,7 +1222,7 @@ return {
 			task = 1000729,
 			total = 3,
 			task_name = "在水浒消消乐中累计召唤出3个英雄",
-			level = 2,
+			level = 1,
 			item = {"jing_bi",},
 			count = {6888,},
 			gotoUI = {"game_MiniGame",},
