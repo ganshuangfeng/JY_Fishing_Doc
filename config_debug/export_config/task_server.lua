@@ -6089,13 +6089,21 @@ return {
 		{
 			id = 73,
 			condition_id = 41,
-			condition_name = "fish_prop",
-			condition_value = {"prop_3d_fish_frozen","prop_3d_fish_lock","prop_3d_fish_accelerate","prop_3d_fish_wild","prop_3d_fish_doubled","prop_3d_fish_summon_fish"},
+			condition_name = "game_id",
+			condition_value = {1,2,3,4,5},
 			judge_type = 2,
 		},
 		[74]=
 		{
 			id = 74,
+			condition_id = 41,
+			condition_name = "fish_prop",
+			condition_value = {"prop_3d_fish_frozen","prop_3d_fish_lock","prop_3d_fish_accelerate","prop_3d_fish_wild","prop_3d_fish_doubled","prop_3d_fish_summon_fish"},
+			judge_type = 2,
+		},
+		[75]=
+		{
+			id = 75,
 			condition_id = 42,
 			condition_name = "pay_money",
 			condition_value = 1,
