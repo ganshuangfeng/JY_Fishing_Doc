@@ -4973,9 +4973,6 @@ return {
 			asset_count = {100,},
 			use_num = {600,},
 			me_limit_day_num = 1,
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 10,
 		},
 		[384]=
 		{
@@ -4986,9 +4983,6 @@ return {
 			asset_type = {"obj_10_coupon",},
 			asset_count = {1,},
 			use_num = {1000,},
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 20,
 		},
 		[385]=
 		{
@@ -5000,9 +4994,6 @@ return {
 			asset_count = {500000,},
 			use_num = {3000,},
 			me_limit_day_num = 1,
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 60,
 		},
 		[386]=
 		{
@@ -5014,9 +5005,6 @@ return {
 			asset_count = {1000000,},
 			use_num = {6000,},
 			me_limit_day_num = 3,
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 120,
 		},
 		[387]=
 		{
@@ -5028,9 +5016,6 @@ return {
 			asset_count = {2000,},
 			use_num = {12000,},
 			me_limit_day_num = 1,
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 240,
 		},
 		[388]=
 		{
@@ -5041,9 +5026,6 @@ return {
 			award_name = "仓鼠舒适靠枕",
 			use_num = {36000,},
 			me_limit_num = 1,
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 720,
 		},
 		[389]=
 		{
@@ -5055,9 +5037,6 @@ return {
 			asset_count = {10000000,},
 			use_num = {50000,},
 			me_limit_day_num = 3,
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 1000,
 		},
 		[390]=
 		{
@@ -5068,9 +5047,6 @@ return {
 			award_name = "泰国乳胶枕",
 			use_num = {80000,},
 			me_limit_num = 1,
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 1600,
 		},
 		[391]=
 		{
@@ -5081,9 +5057,6 @@ return {
 			asset_type = {"fish_coin",},
 			asset_count = {20000000,},
 			use_num = {120000,},
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 2400,
 		},
 		[392]=
 		{
@@ -5094,9 +5067,6 @@ return {
 			award_name = "车家两用小冰箱",
 			use_num = {150000,},
 			me_limit_num = 1,
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 3000,
 		},
 	},
 	all_powerful=
