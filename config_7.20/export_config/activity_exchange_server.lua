@@ -5028,6 +5028,7 @@ return {
 			asset_count = {720,},
 			use_num = {36000,},
 			me_limit_num = 1,
+			me_limit_day_num = 1,
 		},
 		[389]=
 		{
@@ -5051,6 +5052,7 @@ return {
 			asset_count = {1600,},
 			use_num = {80000,},
 			me_limit_num = 1,
+			me_limit_day_num = 1,
 		},
 		[391]=
 		{
@@ -5073,6 +5075,7 @@ return {
 			asset_count = {3000,},
 			use_num = {150000,},
 			me_limit_num = 1,
+			me_limit_day_num = 1,
 		},
 	},
 	all_powerful=
