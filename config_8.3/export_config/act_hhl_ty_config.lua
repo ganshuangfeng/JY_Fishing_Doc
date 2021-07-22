@@ -63,7 +63,7 @@ return {
 			award_name = "仓鼠舒适靠枕",
 			award_image = "swjl_1",
 			item_cost_text = 36000,
-			type = 0,
+			type = 1,
 		},
 		[7]=
 		{
@@ -79,13 +79,13 @@ return {
 			award_name = "泰国乳胶枕",
 			award_image = "swjl_2",
 			item_cost_text = 80000,
-			type = 0,
+			type = 1,
 		},
 		[9]=
 		{
 			line = 9,
 			award_name = "2000万鱼币",
-			award_image = "ty_icon_yxb_5",
+			award_image = "ty_icon_yb_5",
 			item_cost_text = 120000,
 			type = 0,
 		},
@@ -95,7 +95,7 @@ return {
 			award_name = "车家两用小冰箱",
 			award_image = "swjl_3",
 			item_cost_text = 150000,
-			type = 0,
+			type = 1,
 		},
 	},
 	shop_config=
