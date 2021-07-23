@@ -2814,7 +2814,7 @@ return {
 		{
 			id = 118,
 			process_id = 118,
-			source_id = 113,
+			source_id = 114,
 			process = 4800,
 			awards = 189,
 			get_award_type = "nor",
@@ -6090,7 +6090,7 @@ return {
 			id = 73,
 			condition_id = 41,
 			condition_name = "fish_prop",
-			condition_value = {prop_3d_fish_frozen,prop_3d_fish_lock,prop_3d_fish_accelerate,prop_3d_fish_wild,prop_3d_fish_doubled,prop_3d_fish_summon_fish},
+			condition_value = {"prop_3d_fish_frozen","prop_3d_fish_lock","prop_3d_fish_accelerate","prop_3d_fish_wild","prop_3d_fish_doubled","prop_3d_fish_summon_fish"},
 			judge_type = 2,
 		},
 		[74]=
