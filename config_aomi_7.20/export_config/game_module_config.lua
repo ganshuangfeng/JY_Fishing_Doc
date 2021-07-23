@@ -3111,18 +3111,18 @@ return {
 			id = 317,
 			key = "act_ty_by_drop_style/act_021_lxq",
 			desc = "啤酒券掉落",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[318]=
 		{
 			id = 318,
 			key = "act_ty_by_hhl_style/act_013_hhl",
 			desc = "换好礼皮肤",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[319]=
 		{
@@ -3274,7 +3274,7 @@ return {
 		[334]=
 		{
 			id = 334,
-			key = "act_ty_gifts_style/act_006_khlb",
+			key = "act_ty_gifts_style/act_005_khlb",
 			desc = "抽奖礼包",
 			is_on_off = 1,
 			enable = 1,
