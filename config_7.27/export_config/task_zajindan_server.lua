@@ -15257,15 +15257,15 @@ return {
 		[1000649]=
 		{
 			id = 1000649,
-			enable = 0,
+			enable = 1,
 			name = "话费礼包",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 22007,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1621872000,
-			end_valid_time = 1622476799,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -15702,8 +15702,8 @@ return {
 			process_id = 22036,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1626105600,
-			end_valid_time = 1626710399,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -15717,8 +15717,8 @@ return {
 			process_id = 22037,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1626105600,
-			end_valid_time = 1626710399,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -15732,8 +15732,8 @@ return {
 			process_id = 22038,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1626105600,
-			end_valid_time = 1626710399,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -15847,7 +15847,7 @@ return {
 		[1000688]=
 		{
 			id = 1000688,
-			enable = 1,
+			enable = 0,
 			name = "消除酷暑",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15862,7 +15862,7 @@ return {
 		[1000689]=
 		{
 			id = 1000689,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15877,7 +15877,7 @@ return {
 		[1000690]=
 		{
 			id = 1000690,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15892,7 +15892,7 @@ return {
 		[1000691]=
 		{
 			id = 1000691,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15907,7 +15907,7 @@ return {
 		[1000692]=
 		{
 			id = 1000692,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15922,7 +15922,7 @@ return {
 		[1000693]=
 		{
 			id = 1000693,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15937,7 +15937,7 @@ return {
 		[1000694]=
 		{
 			id = 1000694,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15952,7 +15952,7 @@ return {
 		[1000695]=
 		{
 			id = 1000695,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15967,7 +15967,7 @@ return {
 		[1000696]=
 		{
 			id = 1000696,
-			enable = 1,
+			enable = 0,
 			name = "登录有礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15982,7 +15982,7 @@ return {
 		[1000697]=
 		{
 			id = 1000697,
-			enable = 1,
+			enable = 0,
 			name = "七月赠礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -15997,7 +15997,7 @@ return {
 		[1000698]=
 		{
 			id = 1000698,
-			enable = 1,
+			enable = 0,
 			name = "七月赠礼",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
@@ -16012,7 +16012,7 @@ return {
 		[1000699]=
 		{
 			id = 1000699,
-			enable = 1,
+			enable = 0,
 			name = "啤酒狂欢-简单",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -16027,7 +16027,7 @@ return {
 		[1000700]=
 		{
 			id = 1000700,
-			enable = 1,
+			enable = 0,
 			name = "啤酒狂欢-中等",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -16042,7 +16042,7 @@ return {
 		[1000701]=
 		{
 			id = 1000701,
-			enable = 1,
+			enable = 0,
 			name = "啤酒狂欢-挑战",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -16057,7 +16057,7 @@ return {
 		[1000702]=
 		{
 			id = 1000702,
-			enable = 1,
+			enable = 0,
 			name = "狂欢礼包",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
@@ -16072,7 +16072,7 @@ return {
 		[1000703]=
 		{
 			id = 1000703,
-			enable = 1,
+			enable = 0,
 			name = "消耗有礼",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
