@@ -15,7 +15,7 @@ return {
 			line = 2,
 			permission = "actp_own_task_p_hljnh_046_hlfl_nor",
 			item_key = "prop_qdlb_cjq",
-			box_exchange_id = 89,
+			box_exchange_id = 87,
 			config = "config2",
 			gift = "gift2",
 		},
@@ -180,7 +180,7 @@ return {
 			line = 1,
 			icon = "cjlb_Iphone12_1",
 			name = "美的空调",
-			award_id = 12099,
+			award_id = 12100,
 		},
 		[2]=
 		{
@@ -189,7 +189,7 @@ return {
 			name = "5福利券",
 			asset_type = "shop_gold_sum",
 			value = 5,
-			award_id = 12094,
+			award_id = 12005,
 		},
 		[3]=
 		{
@@ -198,7 +198,7 @@ return {
 			name = "10000金币",
 			asset_type = "jing_bi",
 			value = 10000,
-			award_id = 12095,
+			award_id = 12006,
 		},
 		[4]=
 		{
@@ -207,7 +207,7 @@ return {
 			name = "30福利券",
 			asset_type = "shop_gold_sum",
 			value = 30,
-			award_id = 12096,
+			award_id = 12007,
 		},
 		[5]=
 		{
@@ -216,7 +216,7 @@ return {
 			name = "50000金币",
 			asset_type = "jing_bi",
 			value = 50000,
-			award_id = 12097,
+			award_id = 12008,
 		},
 		[6]=
 		{
@@ -225,7 +225,7 @@ return {
 			name = "10元话费",
 			asset_type = "prop_web_chip_huafei",
 			value = 1000,
-			award_id = 12098,
+			award_id = 12009,
 		},
 	},
 	gift2=
