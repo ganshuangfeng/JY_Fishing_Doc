@@ -14,7 +14,7 @@ return {
 			index = 2,
 			key = "act_dlyl_cjj",
 			icon = "dlyl_bg_1",
-			name = "奖励金币_cjj",
+			name = "登录有礼cjj",
 			tges = 2,
 		},
 		[3]=
@@ -69,8 +69,8 @@ return {
 		{
 			index = 9,
 			key = "act_qyzl_cjj",
-			icon = "qyzl_bg_1",
-			name = "七月赠礼_cjj",
+			icon = "byzl_bg_1",
+			name = "八月赠礼cjj",
 			tges = 9,
 		},
 		[10]=
@@ -97,6 +97,14 @@ return {
 			name = "免费话费",
 			tges = 12,
 		},
+		[13]=
+		{
+			index = 13,
+			key = "act_dlyl_nor",
+			icon = "dlyl_bg_1",
+			name = "登录有礼捕鱼",
+			tges = 13,
+		},
 	},
 	tge=
 	{
@@ -116,7 +124,7 @@ return {
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {30,31,32,33,34,35,36,37},
+			task_index = {30,31,32,33,34,35,36,84,37},
 		},
 		[3]=
 		{
@@ -202,6 +210,15 @@ return {
 			is_show = 1,
 			order = 1,
 			task_index = {63,74,75,76,77,78,79,80,81,82,83},
+		},
+		[13]=
+		{
+			tge_index = 13,
+			name = "登录有礼捕鱼",
+			on_off = 1,
+			is_show = 1,
+			order = 1,
+			task_index = {85,86,87,88,89,90,91,92,93},
 		},
 	},
 	task=
@@ -566,7 +583,7 @@ return {
 			id = 32,
 			task = 1000691,
 			total = 88,
-			task_name = "在水果消消乐中累计消除88个西瓜",
+			task_name = "在水果消消乐中累计消除88个BAR",
 			level = 1,
 			item = {"jing_bi",},
 			count = {2888,},
@@ -620,7 +637,7 @@ return {
 		{
 			id = 37,
 			task = 1000696,
-			total = 7,
+			total = 8,
 			task_name = "完成以上所有任务",
 			level = 1,
 			item = {"jing_bi",},
@@ -1117,7 +1134,7 @@ return {
 			task = 1000721,
 			total = 3,
 			task_name = "在苹果大战中连胜3局",
-			level = 1,
+			level = 3,
 			item = {"prop_web_chip_huafei",},
 			count = {20,},
 			gotoUI = {"game_MiniGame",},
@@ -1132,6 +1149,116 @@ return {
 			item = {"prop_web_chip_huafei",},
 			count = {20,},
 			gotoUI = {"game_MiniGame",},
+		},
+		[84]=
+		{
+			id = 84,
+			task = 1000723,
+			total = 1,
+			task_name = "完成任意一笔充值",
+			level = 1,
+			item = {"jing_bi",},
+			count = {9888,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[85]=
+		{
+			id = 85,
+			task = 1000724,
+			total = 1,
+			task_name = "登录一次游戏",
+			level = 1,
+			item = {"jing_bi",},
+			count = {100,},
+			gotoUI = {"no_goto_ui","请重新登陆游戏",},
+		},
+		[86]=
+		{
+			id = 86,
+			task = 1000725,
+			total = 88,
+			task_name = "在水果消消乐中累计消除88个BAR",
+			level = 1,
+			item = {"jing_bi",},
+			count = {1888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[87]=
+		{
+			id = 87,
+			task = 1000726,
+			total = 1,
+			task_name = "在西游消消乐中消除1次孙悟空",
+			level = 1,
+			item = {"jing_bi",},
+			count = {2888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[88]=
+		{
+			id = 88,
+			task = 1000727,
+			total = 1,
+			task_name = "在西游消消乐中消除1次唐僧",
+			level = 1,
+			item = {"jing_bi",},
+			count = {3888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[89]=
+		{
+			id = 89,
+			task = 1000728,
+			total = 1,
+			task_name = "在水浒消消乐中任意召唤出1个英雄",
+			level = 1,
+			item = {"jing_bi",},
+			count = {5888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[90]=
+		{
+			id = 90,
+			task = 1000729,
+			total = 3,
+			task_name = "在水浒消消乐中累计召唤出3个英雄",
+			level = 1,
+			item = {"jing_bi",},
+			count = {6888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[91]=
+		{
+			id = 91,
+			task = 1000730,
+			total = 1,
+			task_name = "在财神消消乐中触发1次天女散花",
+			level = 1,
+			item = {"jing_bi",},
+			count = {7888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[92]=
+		{
+			id = 92,
+			task = 1000731,
+			total = 1,
+			task_name = "完成任意一笔充值",
+			level = 1,
+			item = {"jing_bi",},
+			count = {8888,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[93]=
+		{
+			id = 93,
+			task = 1000732,
+			total = 8,
+			task_name = "完成以上所有任务",
+			level = 1,
+			item = {"jing_bi",},
+			count = {100000,},
+			gotoUI = {"no_goto_ui","请先完成任务",},
 		},
 	},
 }

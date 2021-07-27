@@ -1017,8 +1017,8 @@ return {
 			condi_key = "banner_show_not_newplayer",
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1627344000,
-			endTime = 1627919999,
+			srartTime = 1627948800,
+			endTime = 1628524799,
 		},
 		[90]=
 		{

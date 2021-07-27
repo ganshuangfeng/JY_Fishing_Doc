@@ -2316,6 +2316,24 @@ return {
 			name = "全部捕鱼奥秘玩家（跑马灯用）",
 			condi = 496,
 		},
+		banner_show_not_newplayer=
+		{
+			key = "banner_show_not_newplayer",
+			name = "活动弹出非新玩家",
+			condi = 500,
+		},
+		mutual_game_byam_cpl=
+		{
+			key = "mutual_game_byam_cpl",
+			name = "游戏互导捕鱼奥秘CPL获取CDK权限",
+			condi = 502,
+		},
+		mutual_game_nor_cpl=
+		{
+			key = "mutual_game_nor_cpl",
+			name = "游戏互导欢乐天天捕鱼、冲金鸡CPL获取CDK权限",
+			condi = 503,
+		},
 	},
 	act_permission=
 	{
@@ -6512,7 +6530,7 @@ return {
 			id = 350,
 			enable = 1,
 			key = "actp_own_task_p_hljnh_046_hlfl_nor",
-			name = "欢乐福利（欢乐捕鱼）--非cps",
+			name = "欢乐福利（欢乐捕鱼）",
 			condi = 372,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -6763,7 +6781,7 @@ return {
 		{
 			id = 371,
 			enable = 1,
-			key = "actp_rank_lxjkh_024_jfphb_rank",
+			key = "actp_rank_ymshf_017_hldr_rank",
 			name = "游戏达人",
 			condi = 393,
 			is_dynamic_codi = 1,
@@ -7178,6 +7196,30 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
 			start_deal_time = 1623110400,
+		},
+		[406]=
+		{
+			id = 406,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_first_deposit_gift",
+			name = "首充礼包（天天欢乐捕鱼官方，捕鱼奥秘官方）",
+			condi = 501,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
+		},
+		[407]=
+		{
+			id = 407,
+			enable = 1,
+			key = "actp_mutual_game_can_show",
+			name = "游戏互导显示权限",
+			condi = 504,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1627344000,
 		},
 	},
 	condi=
@@ -18101,6 +18143,126 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "注册7天内新人",
+		},
+		[1093]=
+		{
+			no = 1093,
+			id = 500,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新玩家",
+		},
+		[1094]=
+		{
+			no = 1094,
+			id = 501,
+			var = "share_condition",
+			value = "tthlby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼官方玩家",
+		},
+		[1095]=
+		{
+			no = 1095,
+			id = 501,
+			var = "share_condition",
+			value = "byam_official",
+			judge = 2,
+			group = 2,
+			error_desc = "是捕鱼奥秘官方玩家",
+		},
+		[1096]=
+		{
+			no = 1096,
+			id = 502,
+			var = "share_condition",
+			value = "byam_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是捕鱼奥秘CPL玩家",
+		},
+		[1097]=
+		{
+			no = 1097,
+			id = 503,
+			var = "share_condition",
+			value = "tthlby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼CPL玩家",
+		},
+		[1098]=
+		{
+			no = 1098,
+			id = 503,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 2,
+			error_desc = "是冲金鸡CPL玩家",
+		},
+		[1099]=
+		{
+			no = 1099,
+			id = 504,
+			var = "share_condition",
+			value = "byam_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "捕鱼奥秘cpl",
+		},
+		[1100]=
+		{
+			no = 1100,
+			id = 504,
+			var = "tag_type",
+			value = "tag_plat_own_normal",
+			judge = 5,
+			group = 1,
+			error_desc = "天天欢乐捕鱼没有账号",
+		},
+		[1101]=
+		{
+			no = 1101,
+			id = 504,
+			var = "share_condition",
+			value = "tthlby_cpl",
+			judge = 2,
+			group = 2,
+			error_desc = "欢乐天天捕鱼cpl",
+		},
+		[1102]=
+		{
+			no = 1102,
+			id = 504,
+			var = "tag_type",
+			value = "tag_plat_own_byam",
+			judge = 5,
+			group = 2,
+			error_desc = "捕鱼奥秘没有账号",
+		},
+		[1103]=
+		{
+			no = 1103,
+			id = 504,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "冲金鸡cpl",
+		},
+		[1104]=
+		{
+			no = 1104,
+			id = 504,
+			var = "tag_type",
+			value = "tag_plat_own_byam",
+			judge = 5,
+			group = 3,
+			error_desc = "捕鱼奥秘没有账号",
 		},
 	},
 	share_condition=

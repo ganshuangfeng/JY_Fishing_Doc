@@ -3881,7 +3881,7 @@ return {
 			item_key = "prop_qdlb_cjq",
 			lose_time = -1,
 			is_local_icon = 1,
-			image = "act_ty_zp1_cjq",
+			image = "act_ty_zp1_cjq_cjj",
 			is_show_bag = 0,
 			order = 33,
 			name = "超值礼包抽奖券",

@@ -81,6 +81,22 @@ return {
 			name = "消耗有礼",
 			tges = 10,
 		},
+		[11]=
+		{
+			index = 11,
+			key = "act_task_nor",
+			icon = "mfhf_bg_1",
+			name = "免费话费",
+			tges = 11,
+		},
+		[12]=
+		{
+			index = 12,
+			key = "act_task_cjj",
+			icon = "mfhf_bg_1",
+			name = "免费话费",
+			tges = 12,
+		},
 	},
 	tge=
 	{
@@ -88,7 +104,7 @@ return {
 		{
 			tge_index = 1,
 			name = "act_mfhf",
-			on_off = 1,
+			on_off = 0,
 			is_show = 0,
 			order = 1,
 			task_index = {1,2,3,4,5,6,7,8,9,10},
@@ -168,6 +184,24 @@ return {
 			is_show = 1,
 			order = 1,
 			task_index = {60,61,62},
+		},
+		[11]=
+		{
+			tge_index = 11,
+			name = "任务类型--normal",
+			on_off = 1,
+			is_show = 1,
+			order = 1,
+			task_index = {63,64,65,66,67,68,69,70,71,72,73},
+		},
+		[12]=
+		{
+			tge_index = 12,
+			name = "任务类型--cjj",
+			on_off = 1,
+			is_show = 1,
+			order = 1,
+			task_index = {63,74,75,76,77,78,79,80,81,82,83},
 		},
 	},
 	task=
@@ -838,7 +872,7 @@ return {
 		[60]=
 		{
 			id = 60,
-			task = 1000704,
+			task = 1000703,
 			total = 3000000,
 			task_name = "在3D捕鱼中累计消耗300万金币",
 			level = 1,
@@ -849,7 +883,7 @@ return {
 		[61]=
 		{
 			id = 61,
-			task = 1000704,
+			task = 1000703,
 			total = 20000000,
 			task_name = "在3D捕鱼中累计消耗2000万金币",
 			level = 2,
@@ -860,13 +894,244 @@ return {
 		[62]=
 		{
 			id = 62,
-			task = 1000704,
+			task = 1000703,
 			total = 50000000,
 			task_name = "在3D捕鱼中累计消耗5000万金币",
 			level = 3,
 			item = {"prop_xxl_card_chip_2",},
 			count = {20,},
 			gotoUI = {"game_Fishing3DHall",},
+		},
+		[63]=
+		{
+			id = 63,
+			task = 1000705,
+			total = 1,
+			task_name = "充值任意金额1次",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {10,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[64]=
+		{
+			id = 64,
+			task = 1000706,
+			total = 100000,
+			task_name = "在3D捕鱼中累计消耗10万金币",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {5,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[65]=
+		{
+			id = 65,
+			task = 1000706,
+			total = 1000000,
+			task_name = "在3D捕鱼中累计消耗100万金币",
+			level = 2,
+			item = {"prop_web_chip_huafei",},
+			count = {10,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[66]=
+		{
+			id = 66,
+			task = 1000707,
+			total = 10,
+			task_name = "在3D捕鱼中累计使用10次道具",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {5,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[67]=
+		{
+			id = 67,
+			task = 1000708,
+			total = 10,
+			task_name = "在3D捕鱼中累计击杀10条彩金鱼",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {10,},
+			gotoUI = {"game_Fishing3DHall",},
+		},
+		[68]=
+		{
+			id = 68,
+			task = 1000709,
+			total = 100,
+			task_name = "在水果消消乐中3万及以上档次累计消除100个西瓜",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {10,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[69]=
+		{
+			id = 69,
+			task = 1000710,
+			total = 100,
+			task_name = "在水果消消乐中3万及以上档次累计消除100个BAR",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {30,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[70]=
+		{
+			id = 70,
+			task = 1000711,
+			total = 1,
+			task_name = "在西游消消乐中1万及以上档次消除1次孙悟空",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {10,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[71]=
+		{
+			id = 71,
+			task = 1000712,
+			total = 1,
+			task_name = "在西游消消乐中1万及以上档次消除1次唐僧",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {30,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[72]=
+		{
+			id = 72,
+			task = 1000713,
+			total = 2,
+			task_name = "在水浒消消乐中1万及以上档次召唤出2个英雄",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {10,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[73]=
+		{
+			id = 73,
+			task = 1000713,
+			total = 4,
+			task_name = "在水浒消消乐中1万及以上档次召唤出4个英雄",
+			level = 2,
+			item = {"prop_web_chip_huafei",},
+			count = {30,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[74]=
+		{
+			id = 74,
+			task = 1000714,
+			total = 100,
+			task_name = "在水果消消乐中3万及以上档次累计消除100个西瓜",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {10,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[75]=
+		{
+			id = 75,
+			task = 1000715,
+			total = 100,
+			task_name = "在水果消消乐中3万及以上档次累计消除100个BAR",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {20,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[76]=
+		{
+			id = 76,
+			task = 1000716,
+			total = 1,
+			task_name = "在西游消消乐中1万及以上档次消除1次孙悟空",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {10,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[77]=
+		{
+			id = 77,
+			task = 1000717,
+			total = 1,
+			task_name = "在西游消消乐中1万及以上档次消除1次唐僧",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {20,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[78]=
+		{
+			id = 78,
+			task = 1000718,
+			total = 1,
+			task_name = "在水浒消消乐中1万及以上档次召唤出1个英雄",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {10,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[79]=
+		{
+			id = 79,
+			task = 1000718,
+			total = 4,
+			task_name = "在水浒消消乐中1万及以上档次召唤出4个英雄",
+			level = 2,
+			item = {"prop_web_chip_huafei",},
+			count = {20,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[80]=
+		{
+			id = 80,
+			task = 1000719,
+			total = 1,
+			task_name = "在三国消消乐中1万及以上档次触发1次火烧赤壁",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {20,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[81]=
+		{
+			id = 81,
+			task = 1000720,
+			total = 1,
+			task_name = "在三国消消乐中1万及以上档次触发1次草船借箭",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {20,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[82]=
+		{
+			id = 82,
+			task = 1000721,
+			total = 3,
+			task_name = "在苹果大战中连胜3局",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {20,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[83]=
+		{
+			id = 83,
+			task = 1000722,
+			total = 1,
+			task_name = "在苹果大战中种出1次金苹果",
+			level = 1,
+			item = {"prop_web_chip_huafei",},
+			count = {20,},
+			gotoUI = {"game_MiniGame",},
 		},
 	},
 }
