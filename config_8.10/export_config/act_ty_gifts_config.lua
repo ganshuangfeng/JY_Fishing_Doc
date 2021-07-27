@@ -41,7 +41,7 @@ return {
 		{
 			index = 4,
 			act_gift_key = "gift_khlb",
-			style_key = "act_005_khlb",
+			style_key = "act_006_axlb",
 			act_gift_name = "爱心礼包",
 			start_time = 1628553600,
 			end_time = 1629129599,
