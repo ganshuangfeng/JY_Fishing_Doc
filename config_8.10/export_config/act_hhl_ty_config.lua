@@ -23,6 +23,7 @@ return {
 			award_name = "100话费碎片",
 			award_image = "com_award_icon_hfsp",
 			item_cost_text = 600,
+			jf_num = 10,
 			type = 0,
 		},
 		[2]=
@@ -31,6 +32,7 @@ return {
 			award_name = "10元充值优惠券*1",
 			award_image = "com_award_icon_czyhq2",
 			item_cost_text = 1000,
+			jf_num = 20,
 			type = 0,
 		},
 		[3]=
@@ -39,6 +41,7 @@ return {
 			award_name = "50万鱼币",
 			award_image = "ty_icon_yb_3",
 			item_cost_text = 3000,
+			jf_num = 60,
 			type = 0,
 		},
 		[4]=
@@ -47,6 +50,7 @@ return {
 			award_name = "100万金币",
 			award_image = "ty_icon_jb_15y",
 			item_cost_text = 6000,
+			jf_num = 120,
 			type = 0,
 		},
 		[5]=
@@ -55,6 +59,7 @@ return {
 			award_name = "2000福利券",
 			award_image = "ty_icon_flq4",
 			item_cost_text = 12000,
+			jf_num = 240,
 			type = 0,
 		},
 		[6]=
@@ -63,6 +68,7 @@ return {
 			award_name = "情侣马克杯",
 			award_image = "swjl_1",
 			item_cost_text = 36000,
+			jf_num = 480,
 			type = 1,
 		},
 		[7]=
@@ -71,6 +77,7 @@ return {
 			award_name = "1000万金币",
 			award_image = "ty_icon_jb_30y",
 			item_cost_text = 50000,
+			jf_num = 1000,
 			type = 0,
 		},
 		[8]=
@@ -79,6 +86,7 @@ return {
 			award_name = "高级无叶风扇",
 			award_image = "swjl_2",
 			item_cost_text = 80000,
+			jf_num = 1200,
 			type = 1,
 		},
 		[9]=
@@ -87,6 +95,7 @@ return {
 			award_name = "2000万鱼币",
 			award_image = "ty_icon_yb_5",
 			item_cost_text = 120000,
+			jf_num = 2400,
 			type = 0,
 		},
 		[10]=
@@ -95,6 +104,7 @@ return {
 			award_name = "智能肩颈按摩仪",
 			award_image = "swjl_3",
 			item_cost_text = 150000,
+			jf_num = 3000,
 			type = 1,
 		},
 	},
