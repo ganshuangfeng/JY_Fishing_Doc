@@ -1016,6 +1016,8 @@ return {
 			order = 23,
 			name = "抽奖券",
 			desc = "用于福利券转盘中的福利转盘抽奖。",
+			use_parm = {"sys_flqcj","panel"},
+			small_tip = "抽大奖",
 		},
 		[80]=
 		{
