@@ -16520,6 +16520,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000733]=
+		{
+			id = 1000733,
+			enable = 1,
+			name = "七夕福袋",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22091,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1628524800,
+			end_valid_time = 1629129599,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -27188,6 +27203,15 @@ return {
 			awards = 1499,
 			get_award_type = "nor",
 		},
+		[1143]=
+		{
+			id = 1143,
+			process_id = 22091,
+			source_id = 677,
+			process = {2,1,2},
+			awards = {1375,1376,1377},
+			get_award_type = "random",
+		},
 	},
 	source=
 	{
@@ -34948,6 +34972,13 @@ return {
 			source_type = "children_task_complete",
 			condition_id = 509,
 		},
+		[1102]=
+		{
+			id = 1102,
+			source_id = 677,
+			source_type = "buy_gift",
+			condition_id = 510,
+		},
 	},
 	condition=
 	{
@@ -40165,6 +40196,14 @@ return {
 			condition_id = 509,
 			condition_name = "task_id",
 			condition_value = {1000724,1000725,1000726,1000727,1000728,1000729,1000730,1000731},
+			judge_type = 2,
+		},
+		[683]=
+		{
+			id = 683,
+			condition_id = 510,
+			condition_name = "gift_id",
+			condition_value = {10614,10615,10616,10617,10618,10619,10620},
 			judge_type = 2,
 		},
 	},
