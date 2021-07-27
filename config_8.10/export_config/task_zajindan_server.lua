@@ -16073,15 +16073,15 @@ return {
 		[1000703]=
 		{
 			id = 1000703,
-			enable = 0,
+			enable = 1,
 			name = "狂欢礼包",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 22061,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1626710400,
-			end_valid_time = 1627315199,
+			start_valid_time = 1628524800,
+			end_valid_time = 1629129599,
 			time_limit = -1,
 			is_send_client = 1,
 		},
