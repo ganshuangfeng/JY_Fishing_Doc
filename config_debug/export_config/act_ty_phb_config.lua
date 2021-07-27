@@ -6,7 +6,7 @@ return {
 			line = 1,
 			is_on_off = 1,
 			ID = 1,
-			item_key = "prop_fish_drop_act_0",
+			item_key = "prop_fish_drop_act_2",
 			reward_item_key = "shop_gold_sum",
 			ext_reward_item_key = "shop_gold_sum",
 			rank_type = "xrkh_023_ygbd_rank",
