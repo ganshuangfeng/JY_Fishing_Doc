@@ -58782,7 +58782,7 @@ return {
 		{
 			id = 2328,
 			award_id = 1426,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "shop_gold_sum",
 			asset_count = {10,14},
 			get_weight = 1,
 		},
@@ -58798,7 +58798,7 @@ return {
 		{
 			id = 2330,
 			award_id = 1428,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "shop_gold_sum",
 			asset_count = {35,35},
 			get_weight = 1,
 		},
@@ -58806,7 +58806,7 @@ return {
 		{
 			id = 2331,
 			award_id = 1429,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "shop_gold_sum",
 			asset_count = {55,65},
 			get_weight = 1,
 		},
@@ -58830,7 +58830,7 @@ return {
 		{
 			id = 2334,
 			award_id = 1432,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "shop_gold_sum",
 			asset_count = {420,540},
 			get_weight = 1,
 		},
@@ -58854,7 +58854,7 @@ return {
 		{
 			id = 2337,
 			award_id = 1435,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "shop_gold_sum",
 			asset_count = {1000,1400},
 			get_weight = 1,
 		},
