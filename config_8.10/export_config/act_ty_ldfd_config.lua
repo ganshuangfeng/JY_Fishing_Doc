@@ -17,7 +17,7 @@ return {
 		{
 			line = 3,
 			key = "show_condiy_key",
-			value = {actp_buy_gift_class_hqjnh_046_cjj_hllb,actp_own_task_p_hljnh_046_hlfl_nor},
+			value = {"actp_buy_gift_class_hqjnh_046_cjj_hllb","actp_own_task_p_hljnh_046_hlfl_nor"},
 		},
 		[4]=
 		{
@@ -42,7 +42,7 @@ return {
 			group_id = 2,
 			condiy_key = "actp_own_task_p_hljnh_046_hlfl_nor",
 			task_id = 1000733,
-			gift_ids = {10614,10615,10616,10617,10618,10619,10620},
+			gift_ids = {10620,10619,10618,10617,10616,10615,10614},
 		},
 	},
 }
