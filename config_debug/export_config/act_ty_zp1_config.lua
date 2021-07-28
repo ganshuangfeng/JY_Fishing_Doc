@@ -178,7 +178,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			icon = "cjlb_Iphone12_1",
+			icon = "cqlb_mdkt_1",
 			name = "美的空调",
 			award_id = 12100,
 		},
