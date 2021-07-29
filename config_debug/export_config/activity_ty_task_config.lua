@@ -124,7 +124,7 @@ return {
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {30,31,32,33,34,35,36,84,37},
+			task_index = {37,30,31,32,33,34,35,36,84},
 		},
 		[3]=
 		{
@@ -218,7 +218,7 @@ return {
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {85,86,87,88,89,90,91,92,93},
+			task_index = {93,85,86,87,88,89,90,91,92},
 		},
 	},
 	task=
@@ -638,7 +638,7 @@ return {
 			id = 37,
 			task = 1000696,
 			total = 8,
-			task_name = "完成以上所有任务",
+			task_name = "完成以下所有任务",
 			level = 1,
 			item = {"jing_bi",},
 			count = {128000,},
@@ -1254,7 +1254,7 @@ return {
 			id = 93,
 			task = 1000732,
 			total = 8,
-			task_name = "完成以上所有任务",
+			task_name = "完成以下所有任务",
 			level = 1,
 			item = {"jing_bi",},
 			count = {100000,},

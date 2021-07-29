@@ -1014,7 +1014,7 @@ return {
 			bannerID = 89,
 			isOnOff = 1,
 			order = 111,
-			condi_key = "banner_show_not_newplayer",
+			condi_key = "cpl_notcjj",
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
 			srartTime = 1628553600,
@@ -1089,6 +1089,18 @@ return {
 			model = "LoginUp",
 			srartTime = 1624924800,
 			endTime = 1627315199,
+		},
+		[96]=
+		{
+			id = 96,
+			bannerID = 96,
+			isOnOff = 1,
+			order = 150,
+			condi_key = "cpl_cjj",
+			gotoUI = {"sys_act_base","weekly","panel"},
+			model = "LoginUp",
+			srartTime = 1627948800,
+			endTime = 1630339199,
 		},
 	},
 }
