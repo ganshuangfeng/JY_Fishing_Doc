@@ -3118,7 +3118,7 @@ return {
 		[318]=
 		{
 			id = 318,
-			key = "act_ty_by_hhl_style/act_011_hhl",
+			key = "act_ty_by_hhl_style/act_014_hhl",
 			desc = "换好礼皮肤",
 			is_on_off = 1,
 			enable = 1,
