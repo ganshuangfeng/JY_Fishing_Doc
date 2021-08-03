@@ -2334,12 +2334,6 @@ return {
 			name = "游戏互导欢乐天天捕鱼、冲金鸡CPL获取CDK权限",
 			condi = 503,
 		},
-		mutual_game_can_show=
-		{
-			key = "mutual_game_can_show",
-			name = "游戏互导显示权限",
-			condi = 504,
-		},
 	},
 	act_permission=
 	{
@@ -7214,6 +7208,18 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
 			start_deal_time = 0,
+		},
+		[407]=
+		{
+			id = 407,
+			enable = 1,
+			key = "actp_mutual_game_can_show",
+			name = "游戏互导显示权限",
+			condi = 504,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1627344000,
 		},
 	},
 	condi=
