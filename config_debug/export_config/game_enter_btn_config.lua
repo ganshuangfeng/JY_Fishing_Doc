@@ -360,7 +360,7 @@ return {
 		{
 			id = 5,
 			area = "Right_down2",
-			group_list = "72#",
+			group_list = "142#",
 		},
 		[6]=
 		{
