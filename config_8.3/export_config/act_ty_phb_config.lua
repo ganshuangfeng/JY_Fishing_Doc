@@ -15,7 +15,7 @@ return {
 			gotoUI = {"game_MiniGame",},
 			award = {1,2,3,4,5,6,7},
 			extra_award = {8,9,10,11,12,13,14},
-			path = "act_016_dlphb",
+			path = "act_024_dlphb",
 			condiy_key = "actp_rank_xrkh_023_ygbd_rank",
 			type_info = 100,
 			is_have_point = 0,
