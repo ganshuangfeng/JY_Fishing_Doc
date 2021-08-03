@@ -15,7 +15,7 @@ return {
 			line = 2,
 			permission = "actp_own_task_p_hljnh_046_hlfl_nor",
 			item_key = "prop_qdlb_cjq",
-			box_exchange_id = 100,
+			box_exchange_id = 89,
 			config = "config2",
 			gift = "gift2",
 		},
