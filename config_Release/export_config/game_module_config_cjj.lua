@@ -2813,9 +2813,9 @@ return {
 			key = "act_ty_ldfd",
 			desc = "端午福袋",
 			lua = "Act_ty_LDFDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[288]=
 		{
@@ -3086,7 +3086,7 @@ return {
 		[315]=
 		{
 			id = 315,
-			key = "sys_act_base_style/sys_act_base_weekly_017",
+			key = "sys_act_base_style/sys_act_base_weekly_027",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,

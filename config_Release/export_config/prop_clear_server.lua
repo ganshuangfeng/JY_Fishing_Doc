@@ -38,8 +38,8 @@ return {
 			id = 5,
 			enable = 1,
 			prop_type = "prop_fish_drop_act_0",
-			start_time = 1627344000,
-			recycle_time = 1627919999,
+			start_time = 1627948800,
+			recycle_time = 1628524799,
 		},
 		[6]=
 		{
@@ -60,7 +60,7 @@ return {
 		[8]=
 		{
 			id = 8,
-			enable = 1,
+			enable = 0,
 			prop_type = "prop_brass_hammer_1",
 			start_time = 1620691200,
 			recycle_time = 1626710399,
@@ -68,7 +68,7 @@ return {
 		[9]=
 		{
 			id = 9,
-			enable = 1,
+			enable = 0,
 			prop_type = "prop_silver_hammer_1",
 			start_time = 1620691200,
 			recycle_time = 1626710399,
@@ -76,7 +76,7 @@ return {
 		[10]=
 		{
 			id = 10,
-			enable = 1,
+			enable = 0,
 			prop_type = "prop_gold_hammer_1",
 			start_time = 1620691200,
 			recycle_time = 1626710399,
@@ -84,7 +84,7 @@ return {
 		[11]=
 		{
 			id = 11,
-			enable = 1,
+			enable = 0,
 			prop_type = "prop_brass_hammer_2",
 			start_time = 1620691200,
 			recycle_time = 1626710399,
@@ -92,7 +92,7 @@ return {
 		[12]=
 		{
 			id = 12,
-			enable = 1,
+			enable = 0,
 			prop_type = "prop_silver_hammer_2",
 			start_time = 1620691200,
 			recycle_time = 1626710399,
@@ -100,7 +100,7 @@ return {
 		[13]=
 		{
 			id = 13,
-			enable = 1,
+			enable = 0,
 			prop_type = "prop_gold_hammer_2",
 			start_time = 1620691200,
 			recycle_time = 1626710399,
@@ -108,7 +108,7 @@ return {
 		[14]=
 		{
 			id = 14,
-			enable = 1,
+			enable = 0,
 			prop_type = "prop_brass_hammer_3",
 			start_time = 1620691200,
 			recycle_time = 1626710399,
@@ -116,7 +116,7 @@ return {
 		[15]=
 		{
 			id = 15,
-			enable = 1,
+			enable = 0,
 			prop_type = "prop_silver_hammer_3",
 			start_time = 1620691200,
 			recycle_time = 1626710399,
@@ -124,7 +124,7 @@ return {
 		[16]=
 		{
 			id = 16,
-			enable = 1,
+			enable = 0,
 			prop_type = "prop_gold_hammer_3",
 			start_time = 1620691200,
 			recycle_time = 1626710399,
@@ -278,8 +278,8 @@ return {
 			id = 35,
 			enable = 0,
 			prop_type = "prop_qdlb_cjq",
-			start_time = 1619481600,
-			recycle_time = 1626105599,
+			start_time = 1627948800,
+			recycle_time = 1628524799,
 		},
 		[36]=
 		{
@@ -478,8 +478,8 @@ return {
 			id = 60,
 			enable = 1,
 			prop_type = "prop_grade",
-			start_time = 1627344000,
-			recycle_time = 1627919999,
+			start_time = 1627948800,
+			recycle_time = 1628524799,
 		},
 	},
 	player_ext_status=

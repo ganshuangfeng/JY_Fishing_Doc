@@ -488,7 +488,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "132#100#",
+			group_list = "120#",
 		},
 	},
 	jchd_config=
@@ -1236,6 +1236,7 @@ return {
 			id = 120,
 			parm = {"act_ty_zp1",},
 			is_on_off = 1,
+			condi_key = "cpl_notcjj",
 		},
 		[121]=
 		{

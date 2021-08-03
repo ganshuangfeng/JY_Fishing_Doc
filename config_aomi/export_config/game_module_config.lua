@@ -3100,7 +3100,7 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_016_dlphb",
+			key = "act_ty_sjb_style/act_024_dlphb",
 			desc = "掉落排行榜皮肤（消耗）",
 			is_on_off = 1,
 			enable = 1,
@@ -3109,7 +3109,7 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_016_huanle",
+			key = "act_ty_by_drop_style/act_022_fengye",
 			desc = "欢乐券掉落",
 			is_on_off = 1,
 			enable = 1,
@@ -3118,7 +3118,7 @@ return {
 		[318]=
 		{
 			id = 318,
-			key = "act_ty_by_hhl_style/act_011_hhl",
+			key = "act_ty_by_hhl_style/act_014_hhl",
 			desc = "换好礼皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_017",
+			key = "sys_act_base_style/sys_act_base_weekly_026",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3274,8 +3274,8 @@ return {
 		[334]=
 		{
 			id = 334,
-			key = "act_ty_gifts_style/act_003_hflb",
-			desc = "话费礼包",
+			key = "act_ty_gifts_style/act_005_khlb",
+			desc = "抽奖礼包",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3303,11 +3303,11 @@ return {
 		[337]=
 		{
 			id = 337,
-			key = "act_ty_zp1_style/act_ty_zp1_003",
+			key = "act_ty_zp1_style/act_ty_zp1_006",
 			desc = "通用转盘皮肤",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[338]=
 		{

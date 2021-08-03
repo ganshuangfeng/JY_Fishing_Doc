@@ -5,18 +5,19 @@ return {
 		{
 			line = 1,
 			key = "beginTime",
-			value = 1623110400,
+			value = 1627948800,
 		},
 		[2]=
 		{
 			line = 2,
 			key = "endTime",
-			value = 1623686399,
+			value = 1630339199,
 		},
 		[3]=
 		{
 			line = 3,
 			key = "show_condiy_key",
+			value = "actp_buy_gift_class_hqjnh_046_cjj_hllb",
 		},
 		[4]=
 		{
@@ -31,8 +32,9 @@ return {
 		{
 			line = 1,
 			group_id = 1,
+			condiy_key = "actp_buy_gift_class_hqjnh_046_cjj_hllb",
 			task_id = 1000653,
-			gift_ids = {10571,10572,10573,10574,10575,10576,10577},
+			gift_ids = {10577,10576,10575,10574,10573,10572,10571},
 		},
 	},
 }

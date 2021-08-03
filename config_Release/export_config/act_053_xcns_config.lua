@@ -5,10 +5,10 @@ return {
 		{
 			line = 1,
 			task_id = 1000688,
-			startTime = 1627344000,
-			endTime = 1627919999,
-			startTime_weekly = {1624924800,1625443200,1626048000,1626652800,1627344000},
-			endTime_weekly = {1625500799,1626105599,1626710399,1627315199,1627919999},
+			startTime = 1627948800,
+			endTime = 1630339199,
+			startTime_weekly = {1624924800,1625443200,1626048000,1626652800,1627344000,1627948800},
+			endTime_weekly = {1625500799,1626105599,1626710399,1627315199,1627919999,1630339199},
 			gotoui = "game_MiniGame",
 			downDes = "每日0点重置倍数和奖励\n统计在任意消消乐游戏中24万及以上档次消除的倍数",
 		},
@@ -19,9 +19,9 @@ return {
 		{
 			index = 1,
 			need_num = 10,
-			award_name = "话费碎片",
+			award_name = "福利券",
 			award_amount = "8~50",
-			award_icon = "com_award_icon_hfsp",
+			award_icon = "ty_icon_flq3",
 		},
 		[2]=
 		{
@@ -35,17 +35,17 @@ return {
 		{
 			index = 3,
 			need_num = 50,
-			award_name = "话费碎片",
+			award_name = "福利券",
 			award_amount = 35,
-			award_icon = "com_award_icon_hfsp",
+			award_icon = "ty_icon_flq3",
 		},
 		[4]=
 		{
 			index = 4,
 			need_num = 100,
-			award_name = "话费碎片",
+			award_name = "福利券",
 			award_amount = "50~200",
-			award_icon = "com_award_icon_hfsp",
+			award_icon = "ty_icon_flq3",
 		},
 		[5]=
 		{
@@ -67,9 +67,9 @@ return {
 		{
 			index = 7,
 			need_num = 800,
-			award_name = "话费碎片",
+			award_name = "福利券",
 			award_amount = "400~2000",
-			award_icon = "com_award_icon_hfsp2",
+			award_icon = "ty_icon_flq4",
 		},
 		[8]=
 		{
@@ -91,9 +91,9 @@ return {
 		{
 			index = 10,
 			need_num = 3000,
-			award_name = "话费碎片",
+			award_name = "福利券",
 			award_amount = "800~3000",
-			award_icon = "com_award_icon_hfsp2",
+			award_icon = "ty_icon_flq4",
 		},
 	},
 }
