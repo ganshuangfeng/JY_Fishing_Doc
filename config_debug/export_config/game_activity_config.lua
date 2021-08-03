@@ -1253,7 +1253,7 @@ return {
 			title = "新游大礼包",
 			order = 1,
 			is_on_off = 1,
-			condi_key = "txz_type_plat",
+			condi_key = "mutual_game_can_show",
 			beginTime = 1627344000,
 			endTime = 1627919999,
 			showType = "prefab",

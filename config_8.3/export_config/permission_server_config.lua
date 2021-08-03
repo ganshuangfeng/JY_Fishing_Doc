@@ -2334,6 +2334,12 @@ return {
 			name = "游戏互导欢乐天天捕鱼、冲金鸡CPL获取CDK权限",
 			condi = 503,
 		},
+		mutual_game_can_show=
+		{
+			key = "mutual_game_can_show",
+			name = "游戏互导显示权限",
+			condi = 504,
+		},
 	},
 	act_permission=
 	{
@@ -18191,6 +18197,66 @@ return {
 			judge = 2,
 			group = 2,
 			error_desc = "是冲金鸡CPL玩家",
+		},
+		[1099]=
+		{
+			no = 1099,
+			id = 504,
+			var = "share_condition",
+			value = "byam_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "捕鱼奥秘cpl",
+		},
+		[1100]=
+		{
+			no = 1100,
+			id = 504,
+			var = "tag_type",
+			value = "tag_plat_own_normal",
+			judge = 5,
+			group = 1,
+			error_desc = "天天欢乐捕鱼没有账号",
+		},
+		[1101]=
+		{
+			no = 1101,
+			id = 504,
+			var = "share_condition",
+			value = "tthlby_cpl",
+			judge = 2,
+			group = 2,
+			error_desc = "欢乐天天捕鱼cpl",
+		},
+		[1102]=
+		{
+			no = 1102,
+			id = 504,
+			var = "tag_type",
+			value = "tag_plat_own_byam",
+			judge = 5,
+			group = 2,
+			error_desc = "捕鱼奥秘没有账号",
+		},
+		[1103]=
+		{
+			no = 1103,
+			id = 504,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 3,
+			error_desc = "冲金鸡cpl",
+		},
+		[1104]=
+		{
+			no = 1104,
+			id = 504,
+			var = "tag_type",
+			value = "tag_plat_own_byam",
+			judge = 5,
+			group = 3,
+			error_desc = "捕鱼奥秘没有账号",
 		},
 	},
 	share_condition=
