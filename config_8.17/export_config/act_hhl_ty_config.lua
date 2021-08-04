@@ -24,6 +24,7 @@ return {
 			award_image = "swjl_1",
 			item_cost_text = 1080000,
 			type = 1,
+			condiy_key = "actp_prop_exchange_nor_v5",
 		},
 		[2]=
 		{
@@ -32,6 +33,7 @@ return {
 			award_image = "swjl_2",
 			item_cost_text = 880000,
 			type = 1,
+			condiy_key = "actp_prop_exchange_nor_v5",
 		},
 		[3]=
 		{
