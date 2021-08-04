@@ -52,16 +52,16 @@ return {
 		[5]=
 		{
 			line = 5,
-			award_name = "2000福利券",
-			award_image = "ty_icon_flq4",
+			award_name = "500万鱼币",
+			award_image = "ty_icon_yb_3",
 			item_cost_text = 30000,
 			type = 0,
 		},
 		[6]=
 		{
 			line = 6,
-			award_name = "500万鱼币",
-			award_image = "ty_icon_yb_3",
+			award_name = "2000福利券",
+			award_image = "ty_icon_flq4",
 			item_cost_text = 12000,
 			type = 0,
 		},
