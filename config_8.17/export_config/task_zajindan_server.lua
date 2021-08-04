@@ -16076,7 +16076,7 @@ return {
 			enable = 1,
 			name = "清凉礼包",
 			own_type = "p_drop_act_nor",
-			task_enum = "  ",
+			task_enum = "common",
 			process_id = 22061,
 			is_reset = 1,
 			reset_delay = 1,
