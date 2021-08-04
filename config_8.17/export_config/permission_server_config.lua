@@ -18305,7 +18305,7 @@ return {
 			var = "market_channel",
 			value = "vivo",
 			judge = 5,
-			group = 2,
+			group = 1,
 			error_desc = "不是欢乐天天捕鱼vivo渠道玩家",
 		},
 	},
