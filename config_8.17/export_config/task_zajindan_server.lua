@@ -59284,134 +59284,142 @@ return {
 		[2386]=
 		{
 			id = 2386,
-			award_id = 1483,
-			asset_type = "prop_xxl_card_chip_1",
-			asset_count = 4,
+			award_id = 1482,
+			asset_type = "_common_rank_ymshf_017_hldr_rank",
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[2387]=
 		{
 			id = 2387,
-			award_id = 1484,
+			award_id = 1483,
 			asset_type = "prop_xxl_card_chip_1",
-			asset_count = 20,
+			asset_count = 4,
 			get_weight = 1,
 		},
 		[2388]=
 		{
 			id = 2388,
-			award_id = 1485,
-			asset_type = "prop_xxl_card_chip_2",
+			award_id = 1484,
+			asset_type = "prop_xxl_card_chip_1",
 			asset_count = 20,
 			get_weight = 1,
 		},
 		[2389]=
 		{
 			id = 2389,
-			award_id = 1486,
-			asset_type = "prop_web_chip_huafei",
-			asset_count = 10,
+			award_id = 1485,
+			asset_type = "prop_xxl_card_chip_2",
+			asset_count = 20,
 			get_weight = 1,
 		},
 		[2390]=
 		{
 			id = 2390,
-			award_id = 1487,
+			award_id = 1486,
 			asset_type = "prop_web_chip_huafei",
-			asset_count = 5,
+			asset_count = 10,
 			get_weight = 1,
 		},
 		[2391]=
 		{
 			id = 2391,
-			award_id = 1488,
+			award_id = 1487,
 			asset_type = "prop_web_chip_huafei",
-			asset_count = 30,
+			asset_count = 5,
 			get_weight = 1,
 		},
 		[2392]=
 		{
 			id = 2392,
-			award_id = 1489,
+			award_id = 1488,
 			asset_type = "prop_web_chip_huafei",
-			asset_count = 20,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[2393]=
 		{
 			id = 2393,
-			award_id = 1490,
-			asset_type = "jing_bi",
-			asset_count = 9888,
+			award_id = 1489,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = 20,
 			get_weight = 1,
 		},
 		[2394]=
 		{
 			id = 2394,
-			award_id = 1491,
+			award_id = 1490,
 			asset_type = "jing_bi",
-			asset_count = 100,
+			asset_count = 9888,
 			get_weight = 1,
 		},
 		[2395]=
 		{
 			id = 2395,
-			award_id = 1492,
+			award_id = 1491,
 			asset_type = "jing_bi",
-			asset_count = 1888,
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[2396]=
 		{
 			id = 2396,
-			award_id = 1493,
+			award_id = 1492,
 			asset_type = "jing_bi",
-			asset_count = 2888,
+			asset_count = 1888,
 			get_weight = 1,
 		},
 		[2397]=
 		{
 			id = 2397,
-			award_id = 1494,
+			award_id = 1493,
 			asset_type = "jing_bi",
-			asset_count = 3888,
+			asset_count = 2888,
 			get_weight = 1,
 		},
 		[2398]=
 		{
 			id = 2398,
-			award_id = 1495,
+			award_id = 1494,
 			asset_type = "jing_bi",
-			asset_count = 5888,
+			asset_count = 3888,
 			get_weight = 1,
 		},
 		[2399]=
 		{
 			id = 2399,
-			award_id = 1496,
+			award_id = 1495,
 			asset_type = "jing_bi",
-			asset_count = 6888,
+			asset_count = 5888,
 			get_weight = 1,
 		},
 		[2400]=
 		{
 			id = 2400,
-			award_id = 1497,
+			award_id = 1496,
 			asset_type = "jing_bi",
-			asset_count = 7888,
+			asset_count = 6888,
 			get_weight = 1,
 		},
 		[2401]=
 		{
 			id = 2401,
-			award_id = 1498,
+			award_id = 1497,
 			asset_type = "jing_bi",
-			asset_count = 9888,
+			asset_count = 7888,
 			get_weight = 1,
 		},
 		[2402]=
 		{
 			id = 2402,
+			award_id = 1498,
+			asset_type = "jing_bi",
+			asset_count = 9888,
+			get_weight = 1,
+		},
+		[2403]=
+		{
+			id = 2403,
 			award_id = 1499,
 			asset_type = "jing_bi",
 			asset_count = 100000,
