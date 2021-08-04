@@ -687,8 +687,8 @@ return {
 		{
 			id = 59,
 			name = "雪糕兑奖",
-			start_time = 1628553600,
-			end_time = 1629129599,
+			start_time = 1629158400,
+			end_time = 1629734399,
 			use_goods = {"prop_fish_drop_act_0",},
 			goods_type = 1,
 			email_id = 45,
