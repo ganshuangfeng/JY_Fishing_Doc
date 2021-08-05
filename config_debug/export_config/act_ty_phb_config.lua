@@ -70,56 +70,56 @@ return {
 			ID = 8,
 			award = 60000,
 			limit = {1,1,},
-			need_num = 3000000,
-			condition = "积分数达到300万",
+			need_num = 300000,
+			condition = "积分数达到30万",
 		},
 		[9]=
 		{
 			ID = 9,
 			award = 15000,
 			limit = {2,2},
-			need_num = 1800000,
-			condition = "积分数达到180万",
+			need_num = 180000,
+			condition = "积分数达到18万",
 		},
 		[10]=
 		{
 			ID = 10,
 			award = 5000,
 			limit = {3,3,},
-			need_num = 900000,
-			condition = "积分数达到90万",
+			need_num = 90000,
+			condition = "积分数达到9万",
 		},
 		[11]=
 		{
 			ID = 11,
 			award = 800,
 			limit = {4,6,},
-			need_num = 450000,
-			condition = "积分数达到45万",
+			need_num = 45000,
+			condition = "积分数达到4.5万",
 		},
 		[12]=
 		{
 			ID = 12,
 			award = 800,
 			limit = {7,10,},
-			need_num = 300000,
-			condition = "积分数达到30万",
+			need_num = 30000,
+			condition = "积分数达到3万",
 		},
 		[13]=
 		{
 			ID = 13,
 			award = 400,
 			limit = {11,15,},
-			need_num = 180000,
-			condition = "积分数达到18万",
+			need_num = 18000,
+			condition = "积分数达到1.8万",
 		},
 		[14]=
 		{
 			ID = 14,
 			award = 200,
 			limit = {16,20,},
-			need_num = 90000,
-			condition = "积分数达到9万",
+			need_num = 9000,
+			condition = "积分数达到0.9万",
 		},
 	},
 }
