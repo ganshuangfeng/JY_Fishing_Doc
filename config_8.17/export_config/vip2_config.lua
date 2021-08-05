@@ -1876,6 +1876,7 @@ return {
 			vip_level = 1,
 			desc = {"炮台基座","自动开炮","1元支付宝红包","存钱罐","福利券容量提升"},
 			name_txt = {"绿芒","自动开炮","兑换特权","存钱罐","容量提升"},
+			icon_img = {"ty_icon_dz_02","ty_icon_zdkp","ty_icon_zfbhb1","ty_icon_cqg","ty_icon_rlts"},
 		},
 		[2]=
 		{
@@ -1883,6 +1884,7 @@ return {
 			vip_level = 2,
 			desc = {"福利券转盘","3元支付宝红包","10元京东E卡","福利券容量提升"},
 			name_txt = {"福利券转盘","兑换特权","兑换特权","容量提升"},
+			icon_img = {"ty_icon_flqzp","ty_icon_zfbhb3","ty_icon_jdek10","ty_icon_rlts"},
 		},
 		[3]=
 		{
@@ -1890,6 +1892,7 @@ return {
 			vip_level = 3,
 			desc = {"炮台","5元支付宝红包","20元京东E卡","50元话费","福利券容量提升"},
 			name_txt = {"闪耀风暴","兑换特权","兑换特权","兑换特权","容量提升"},
+			icon_img = {"ty_icon_pt_02","ty_icon_zfbhb5","ty_icon_jdek20","com_award_icon_hf50","ty_icon_rlts"},
 		},
 		[4]=
 		{
@@ -1897,6 +1900,7 @@ return {
 			vip_level = 4,
 			desc = {"10元支付宝红包","100元京东E卡","100元话费","福利券容量提升"},
 			name_txt = {"兑换特权","兑换特权","兑换特权","容量提升"},
+			icon_img = {"ty_icon_zfbhb10","ty_icon_jdek100","com_award_icon_hf100","ty_icon_rlts"},
 		},
 		[5]=
 		{
@@ -1904,6 +1908,7 @@ return {
 			vip_level = 5,
 			desc = {"炮台","200元京东E卡","300元京东E卡","福利券容量提升"},
 			name_txt = {"金币使者","兑换特权","兑换特权","容量提升"},
+			icon_img = {"ty_icon_pt_03","ty_icon_jdek200","ty_icon_jdek300","ty_icon_rlts"},
 		},
 		[6]=
 		{
@@ -1911,6 +1916,7 @@ return {
 			vip_level = 6,
 			desc = {"福利券容量提升",},
 			name_txt = {"容量提升",},
+			icon_img = {"ty_icon_rlts",},
 		},
 		[7]=
 		{
@@ -1918,6 +1924,7 @@ return {
 			vip_level = 7,
 			desc = {"福利券容量提升",},
 			name_txt = {"容量提升",},
+			icon_img = {"ty_icon_rlts",},
 		},
 		[8]=
 		{
@@ -1925,6 +1932,7 @@ return {
 			vip_level = 8,
 			desc = {"福利券容量提升",},
 			name_txt = {"容量提升",},
+			icon_img = {"ty_icon_rlts",},
 		},
 		[9]=
 		{
@@ -1932,6 +1940,7 @@ return {
 			vip_level = 9,
 			desc = {"福利券容量提升",},
 			name_txt = {"容量提升",},
+			icon_img = {"ty_icon_rlts",},
 		},
 		[10]=
 		{
@@ -1939,6 +1948,7 @@ return {
 			vip_level = 10,
 			desc = {"福利券容量提升",},
 			name_txt = {"容量提升",},
+			icon_img = {"ty_icon_rlts",},
 		},
 		[11]=
 		{
@@ -1946,6 +1956,7 @@ return {
 			vip_level = 11,
 			desc = {"至尊礼包",},
 			name_txt = {"至尊礼包",},
+			icon_img = {"ty_icon_zzlb",},
 		},
 		[12]=
 		{
@@ -1953,6 +1964,7 @@ return {
 			vip_level = 12,
 			desc = {"至尊礼包",},
 			name_txt = {"至尊礼包",},
+			icon_img = {"ty_icon_zzlb",},
 		},
 	},
 }
