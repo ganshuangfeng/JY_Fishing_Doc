@@ -1890,9 +1890,9 @@ return {
 		{
 			index = 3,
 			vip_level = 3,
-			desc = {"炮台","5元支付宝红包","20元京东E卡","50元话费","福利券容量提升"},
-			name_txt = {"闪耀风暴","兑换特权","兑换特权","兑换特权","容量提升"},
-			icon_img = {"ty_icon_pt_02","ty_icon_zfbhb5","ty_icon_jdek20","com_award_icon_hf50","ty_icon_rlts"},
+			desc = {"炮台","5元支付宝红包","20元京东E卡","50元话费","福利券容量提升","炮台基座"},
+			name_txt = {"闪耀风暴","兑换特权","兑换特权","兑换特权","容量提升","寒霜“},
+			icon_img = {"ty_icon_pt_02","ty_icon_zfbhb5","ty_icon_jdek20","ty_icon_hf50","ty_icon_rlts","ty_icon_dz_03"},
 		},
 		[4]=
 		{
@@ -1900,7 +1900,7 @@ return {
 			vip_level = 4,
 			desc = {"10元支付宝红包","100元京东E卡","100元话费","福利券容量提升"},
 			name_txt = {"兑换特权","兑换特权","兑换特权","容量提升"},
-			icon_img = {"ty_icon_zfbhb10","ty_icon_jdek100","com_award_icon_hf100","ty_icon_rlts"},
+			icon_img = {"ty_icon_zfbhb10","ty_icon_jdek100","ty_icon_hf100","ty_icon_rlts"},
 		},
 		[5]=
 		{
