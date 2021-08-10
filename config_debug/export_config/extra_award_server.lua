@@ -1,6 +1,14 @@
 return {
 	task=
 	{
+		[1]=
+		{
+			id = 1,
+			task_id = 1000702,
+			asset_type = "_common_rank_ymshf_017_hldr_rank",
+			award_task_id = 1000703,
+			award_rate = {100,110,130,150},
+		},
 	},
 	activity_exchange=
 	{
