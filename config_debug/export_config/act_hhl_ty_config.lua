@@ -8,6 +8,7 @@ return {
 			change_type = 59,
 			cur_path = "act_015_hhl_",
 			item_key = "prop_fish_drop_act_0",
+			jf_icon = "jf_icon_1",
 			beginTime = 1628553600,
 			endTime = 1629129599,
 			config = {1,2,3,4,5,6,7,8,9,10},
