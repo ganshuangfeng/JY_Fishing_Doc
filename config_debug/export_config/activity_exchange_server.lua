@@ -4983,19 +4983,6 @@ return {
 			award_cfg_id = 59,
 			award_id = 2,
 			permission_key = "actp_prop_exchange_nor",
-			asset_type = {"obj_10_coupon",},
-			asset_count = {1,},
-			use_num = {1000,},
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 20,
-		},
-		[385]=
-		{
-			no = 385,
-			award_cfg_id = 59,
-			award_id = 3,
-			permission_key = "actp_prop_exchange_nor",
 			asset_type = {"fish_coin",},
 			asset_count = {500000,},
 			use_num = {3000,},
@@ -5004,11 +4991,11 @@ return {
 			prop_type = "prop_grade",
 			base_score = 60,
 		},
-		[386]=
+		[385]=
 		{
-			no = 386,
+			no = 385,
 			award_cfg_id = 59,
-			award_id = 4,
+			award_id = 3,
 			permission_key = "actp_prop_exchange_nor",
 			asset_type = {"jing_bi",},
 			asset_count = {1000000,},
@@ -5018,11 +5005,11 @@ return {
 			prop_type = "prop_grade",
 			base_score = 120,
 		},
-		[387]=
+		[386]=
 		{
-			no = 387,
+			no = 386,
 			award_cfg_id = 59,
-			award_id = 5,
+			award_id = 4,
 			permission_key = "actp_prop_exchange_nor",
 			asset_type = {"shop_gold_sum",},
 			asset_count = {2000,},
@@ -5032,11 +5019,11 @@ return {
 			prop_type = "prop_grade",
 			base_score = 240,
 		},
-		[388]=
+		[387]=
 		{
-			no = 388,
+			no = 387,
 			award_cfg_id = 59,
-			award_id = 6,
+			award_id = 5,
 			permission_key = "actp_prop_exchange_nor",
 			award_name = "情侣马克杯",
 			use_num = {36000,},
@@ -5045,11 +5032,11 @@ return {
 			prop_type = "prop_grade",
 			base_score = 480,
 		},
-		[389]=
+		[388]=
 		{
-			no = 389,
+			no = 388,
 			award_cfg_id = 59,
-			award_id = 7,
+			award_id = 6,
 			permission_key = "actp_prop_exchange_nor",
 			asset_type = {"jing_bi",},
 			asset_count = {10000000,},
@@ -5059,11 +5046,11 @@ return {
 			prop_type = "prop_grade",
 			base_score = 1000,
 		},
-		[390]=
+		[389]=
 		{
-			no = 390,
+			no = 389,
 			award_cfg_id = 59,
-			award_id = 8,
+			award_id = 7,
 			permission_key = "actp_prop_exchange_nor",
 			award_name = "高级无叶风扇",
 			use_num = {80000,},
@@ -5072,11 +5059,11 @@ return {
 			prop_type = "prop_grade",
 			base_score = 1200,
 		},
-		[391]=
+		[390]=
 		{
-			no = 391,
+			no = 390,
 			award_cfg_id = 59,
-			award_id = 9,
+			award_id = 8,
 			permission_key = "actp_prop_exchange_nor",
 			asset_type = {"fish_coin",},
 			asset_count = {20000000,},
@@ -5085,11 +5072,11 @@ return {
 			prop_type = "prop_grade",
 			base_score = 2400,
 		},
-		[392]=
+		[391]=
 		{
-			no = 392,
+			no = 391,
 			award_cfg_id = 59,
-			award_id = 10,
+			award_id = 9,
 			permission_key = "actp_prop_exchange_nor",
 			award_name = "智能肩颈按摩仪",
 			use_num = {150000,},
