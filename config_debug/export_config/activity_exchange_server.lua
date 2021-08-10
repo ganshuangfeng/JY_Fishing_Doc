@@ -4980,9 +4980,10 @@ return {
 			award_cfg_id = 59,
 			award_id = 2,
 			permission_key = "actp_prop_exchange_nor",
-			asset_type = {"obj_10_coupon",},
-			asset_count = {1,},
-			use_num = {1000,},
+			asset_type = {"fish_coin",},
+			asset_count = {500000,},
+			use_num = {3000,},
+			me_limit_day_num = 1,
 		},
 		[385]=
 		{
@@ -4990,10 +4991,10 @@ return {
 			award_cfg_id = 59,
 			award_id = 3,
 			permission_key = "actp_prop_exchange_nor",
-			asset_type = {"fish_coin",},
-			asset_count = {500000,},
-			use_num = {3000,},
-			me_limit_day_num = 1,
+			asset_type = {"jing_bi",},
+			asset_count = {1000000,},
+			use_num = {6000,},
+			me_limit_day_num = 3,
 		},
 		[386]=
 		{
@@ -5001,10 +5002,10 @@ return {
 			award_cfg_id = 59,
 			award_id = 4,
 			permission_key = "actp_prop_exchange_nor",
-			asset_type = {"jing_bi",},
-			asset_count = {1000000,},
-			use_num = {6000,},
-			me_limit_day_num = 3,
+			asset_type = {"shop_gold_sum",},
+			asset_count = {2000,},
+			use_num = {12000,},
+			me_limit_day_num = 1,
 		},
 		[387]=
 		{
@@ -5012,10 +5013,9 @@ return {
 			award_cfg_id = 59,
 			award_id = 5,
 			permission_key = "actp_prop_exchange_nor",
-			asset_type = {"shop_gold_sum",},
-			asset_count = {2000,},
-			use_num = {12000,},
-			me_limit_day_num = 1,
+			award_name = "仓鼠舒适靠枕",
+			use_num = {36000,},
+			me_limit_num = 1,
 		},
 		[388]=
 		{
@@ -5023,9 +5023,10 @@ return {
 			award_cfg_id = 59,
 			award_id = 6,
 			permission_key = "actp_prop_exchange_nor",
-			award_name = "仓鼠舒适靠枕",
-			use_num = {36000,},
-			me_limit_num = 1,
+			asset_type = {"jing_bi",},
+			asset_count = {10000000,},
+			use_num = {50000,},
+			me_limit_day_num = 3,
 		},
 		[389]=
 		{
@@ -5033,10 +5034,9 @@ return {
 			award_cfg_id = 59,
 			award_id = 7,
 			permission_key = "actp_prop_exchange_nor",
-			asset_type = {"jing_bi",},
-			asset_count = {10000000,},
-			use_num = {50000,},
-			me_limit_day_num = 3,
+			award_name = "泰国乳胶枕",
+			use_num = {80000,},
+			me_limit_num = 1,
 		},
 		[390]=
 		{
@@ -5044,25 +5044,15 @@ return {
 			award_cfg_id = 59,
 			award_id = 8,
 			permission_key = "actp_prop_exchange_nor",
-			award_name = "泰国乳胶枕",
-			use_num = {80000,},
-			me_limit_num = 1,
+			asset_type = {"fish_coin",},
+			asset_count = {20000000,},
+			use_num = {120000,},
 		},
 		[391]=
 		{
 			no = 391,
 			award_cfg_id = 59,
 			award_id = 9,
-			permission_key = "actp_prop_exchange_nor",
-			asset_type = {"fish_coin",},
-			asset_count = {20000000,},
-			use_num = {120000,},
-		},
-		[392]=
-		{
-			no = 392,
-			award_cfg_id = 59,
-			award_id = 10,
 			permission_key = "actp_prop_exchange_nor",
 			award_name = "车家两用小冰箱",
 			use_num = {150000,},
