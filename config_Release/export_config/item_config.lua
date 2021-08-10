@@ -1016,6 +1016,8 @@ return {
 			order = 23,
 			name = "抽奖券",
 			desc = "用于福利券转盘中的福利转盘抽奖。",
+			use_parm = {"sys_flqcj","panel"},
+			small_tip = "抽大奖",
 		},
 		[80]=
 		{
@@ -1717,7 +1719,7 @@ return {
 			image = "act_ty_by_drop_7",
 			is_show_bag = 0,
 			order = 1,
-			name = "龙虾券",
+			name = "爱心",
 			desc = "掉落物活动通用道具",
 		},
 		[131]=
@@ -4092,10 +4094,10 @@ return {
 			item_key = "prop_fish_drop_act_2",
 			lose_time = -1,
 			is_local_icon = 1,
-			image = "zpg_icon_yg",
+			image = "act_ty_by_drop_7_2",
 			is_show_bag = 0,
 			order = 1,
-			name = "阳光",
+			name = "小汤圆",
 			desc = "掉落物活动通用道具",
 		},
 		[304]=

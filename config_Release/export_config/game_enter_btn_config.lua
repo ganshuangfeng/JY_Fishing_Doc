@@ -360,7 +360,7 @@ return {
 		{
 			id = 5,
 			area = "Right_down2",
-			group_list = "72#",
+			group_list = "142#",
 		},
 		[6]=
 		{
@@ -488,7 +488,7 @@ return {
 		{
 			id = 1,
 			area = "left",
-			group_list = "120#",
+			group_list = "132;120#",
 		},
 	},
 	jchd_config=
@@ -1311,8 +1311,9 @@ return {
 		[132]=
 		{
 			id = 132,
-			parm = {"act_ty_gifts","gift_hflb","enter",},
+			parm = {"act_ty_gifts","gift_khlb","enter",},
 			is_on_off = 1,
+			condi_key = "cpl_notcjj",
 		},
 		[133]=
 		{

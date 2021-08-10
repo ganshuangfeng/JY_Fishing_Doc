@@ -16058,14 +16058,14 @@ return {
 		{
 			id = 1000702,
 			enable = 1,
-			name = "啤酒券掉落",
+			name = "爱心掉落",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 22060,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1627948800,
-			end_valid_time = 1628524799,
+			start_valid_time = 1628553600,
+			end_valid_time = 1629129599,
 			time_limit = -1,
 			is_send_client = 1,
 			award_change_type = "task_award_no_show",
@@ -16073,15 +16073,15 @@ return {
 		[1000703]=
 		{
 			id = 1000703,
-			enable = 0,
+			enable = 1,
 			name = "狂欢礼包",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 22061,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1626710400,
-			end_valid_time = 1627315199,
+			start_valid_time = 1628524800,
+			end_valid_time = 1629129599,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -16517,6 +16517,21 @@ return {
 			reset_delay = 1,
 			start_valid_time = 1627920000,
 			end_valid_time = 1628524799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000733]=
+		{
+			id = 1000733,
+			enable = 1,
+			name = "七夕福袋",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22091,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1628524800,
+			end_valid_time = 1629129599,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -26871,7 +26886,7 @@ return {
 			process_id = 22055,
 			source_id = 658,
 			process = {10000,90000,200000,700000,2000000,7000000,10000000,15000000,45000000,120000000,600000000,1200000000,2000000000,4000000000,12000000000},
-			awards = {1500,1445,1446,1448,1449,1451,1452,1454,1455,1457,1458,1460,1462,1464,1466},
+			awards = {1491,1445,1446,1448,1449,1451,1452,1454,1455,1457,1458,1460,1462,1464,1466},
 			get_award_type = "nor",
 		},
 		[1108]=
@@ -27187,6 +27202,15 @@ return {
 			process = 8,
 			awards = 1499,
 			get_award_type = "nor",
+		},
+		[1143]=
+		{
+			id = 1143,
+			process_id = 22091,
+			source_id = 677,
+			process = {2,1,2},
+			awards = {1375,1376,1377},
+			get_award_type = "random",
 		},
 	},
 	source=
@@ -34948,6 +34972,13 @@ return {
 			source_type = "children_task_complete",
 			condition_id = 509,
 		},
+		[1102]=
+		{
+			id = 1102,
+			source_id = 677,
+			source_type = "buy_gift",
+			condition_id = 510,
+		},
 	},
 	condition=
 	{
@@ -40156,7 +40187,7 @@ return {
 			id = 681,
 			condition_id = 508,
 			condition_name = "item_id",
-			condition_value = 5,
+			condition_value = 6,
 			judge_type = 2,
 		},
 		[682]=
@@ -40165,6 +40196,14 @@ return {
 			condition_id = 509,
 			condition_name = "task_id",
 			condition_value = {1000724,1000725,1000726,1000727,1000728,1000729,1000730,1000731},
+			judge_type = 2,
+		},
+		[683]=
+		{
+			id = 683,
+			condition_id = 510,
+			condition_name = "gift_id",
+			condition_value = {10614,10615,10616,10617,10618,10619,10620},
 			judge_type = 2,
 		},
 	},
@@ -58782,7 +58821,7 @@ return {
 		{
 			id = 2328,
 			award_id = 1426,
-			asset_type = "shop_gold_sum",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {10,14},
 			get_weight = 1,
 		},
@@ -58798,7 +58837,7 @@ return {
 		{
 			id = 2330,
 			award_id = 1428,
-			asset_type = "shop_gold_sum",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {35,35},
 			get_weight = 1,
 		},
@@ -58806,7 +58845,7 @@ return {
 		{
 			id = 2331,
 			award_id = 1429,
-			asset_type = "shop_gold_sum",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {55,65},
 			get_weight = 1,
 		},
@@ -58830,7 +58869,7 @@ return {
 		{
 			id = 2334,
 			award_id = 1432,
-			asset_type = "shop_gold_sum",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {420,540},
 			get_weight = 1,
 		},
@@ -58854,7 +58893,7 @@ return {
 		{
 			id = 2337,
 			award_id = 1435,
-			asset_type = "shop_gold_sum",
+			asset_type = "prop_web_chip_huafei",
 			asset_count = {1000,1400},
 			get_weight = 1,
 		},
@@ -59367,7 +59406,7 @@ return {
 			id = 2401,
 			award_id = 1498,
 			asset_type = "jing_bi",
-			asset_count = 8888,
+			asset_count = 9888,
 			get_weight = 1,
 		},
 		[2402]=
@@ -59376,14 +59415,6 @@ return {
 			award_id = 1499,
 			asset_type = "jing_bi",
 			asset_count = 100000,
-			get_weight = 1,
-		},
-		[2403]=
-		{
-			id = 2403,
-			award_id = 1500,
-			asset_type = "jing_bi",
-			asset_count = 100,
 			get_weight = 1,
 		},
 	},

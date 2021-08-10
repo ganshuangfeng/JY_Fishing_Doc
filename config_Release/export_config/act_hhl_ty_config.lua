@@ -6,10 +6,11 @@ return {
 			line = 1,
 			condiy_key = "cpl_notcjj",
 			change_type = 59,
-			cur_path = "act_014_hhl_",
+			cur_path = "act_015_hhl_",
 			item_key = "prop_fish_drop_act_0",
-			beginTime = 1627948800,
-			endTime = 1628524799,
+			jf_icon = "jf_icon_1",
+			beginTime = 1628553600,
+			endTime = 1629129599,
 			config = {1,2,3,4,5,6,7,8,9,10},
 			GotoUI = {"game_Fishing3DHall",},
 			help = "help_info",
@@ -23,6 +24,7 @@ return {
 			award_name = "100话费碎片",
 			award_image = "com_award_icon_hfsp",
 			item_cost_text = 600,
+			jf_num = 10,
 			type = 0,
 		},
 		[2]=
@@ -31,6 +33,7 @@ return {
 			award_name = "50万鱼币",
 			award_image = "ty_icon_yb_3",
 			item_cost_text = 3000,
+			jf_num = 60,
 			type = 0,
 		},
 		[3]=
@@ -39,6 +42,7 @@ return {
 			award_name = "100万金币",
 			award_image = "ty_icon_jb_15y",
 			item_cost_text = 6000,
+			jf_num = 120,
 			type = 0,
 		},
 		[4]=
@@ -47,14 +51,16 @@ return {
 			award_name = "2000福利券",
 			award_image = "ty_icon_flq4",
 			item_cost_text = 12000,
+			jf_num = 240,
 			type = 0,
 		},
 		[5]=
 		{
 			line = 5,
-			award_name = "仓鼠舒适靠枕",
+			award_name = "情侣马克杯",
 			award_image = "swjl_1",
 			item_cost_text = 36000,
+			jf_num = 480,
 			type = 1,
 		},
 		[6]=
@@ -63,14 +69,16 @@ return {
 			award_name = "1000万金币",
 			award_image = "ty_icon_jb_30y",
 			item_cost_text = 50000,
+			jf_num = 1000,
 			type = 0,
 		},
 		[7]=
 		{
 			line = 7,
-			award_name = "泰国乳胶枕",
+			award_name = "高级无叶风扇",
 			award_image = "swjl_2",
 			item_cost_text = 80000,
+			jf_num = 1200,
 			type = 1,
 		},
 		[8]=
@@ -79,14 +87,16 @@ return {
 			award_name = "2000万鱼币",
 			award_image = "ty_icon_yb_5",
 			item_cost_text = 120000,
+			jf_num = 2400,
 			type = 0,
 		},
 		[9]=
 		{
 			line = 9,
-			award_name = "车家两用小冰箱",
+			award_name = "智能肩颈按摩仪",
 			award_image = "swjl_3",
 			item_cost_text = 150000,
+			jf_num = 3000,
 			type = 1,
 		},
 	},

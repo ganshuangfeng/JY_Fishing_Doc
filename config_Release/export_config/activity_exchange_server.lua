@@ -686,9 +686,9 @@ return {
 		[59]=
 		{
 			id = 59,
-			name = "龙虾兑换",
-			start_time = 1627948800,
-			end_time = 1628524799,
+			name = "爱心兑换",
+			start_time = 1628553600,
+			end_time = 1629129599,
 			use_goods = {"prop_fish_drop_act_0",},
 			goods_type = 1,
 			email_id = 45,
@@ -965,8 +965,8 @@ return {
 		[45]=
 		{
 			id = 45,
-			title = "枫叶兑换",
-			content = "恭喜您在枫叶兑换活动中获得了%s，请在活动结束后7个工作日内联系客服QQ号4008882620领取，逾期视为自动放弃！",
+			title = "爱心兑换",
+			content = "恭喜您在爱心兑换活动中获得了%s，请在活动结束后7个工作日内联系客服QQ号4008882620领取，逾期视为自动放弃！",
 		},
 	},
 	award=
@@ -4973,6 +4973,9 @@ return {
 			asset_count = {100,},
 			use_num = {600,},
 			me_limit_day_num = 1,
+			rank_type = "lxjkh_024_jfphb_rank",
+			prop_type = "prop_grade",
+			base_score = 10,
 		},
 		[384]=
 		{
@@ -4984,6 +4987,9 @@ return {
 			asset_count = {500000,},
 			use_num = {3000,},
 			me_limit_day_num = 1,
+			rank_type = "lxjkh_024_jfphb_rank",
+			prop_type = "prop_grade",
+			base_score = 60,
 		},
 		[385]=
 		{
@@ -4995,6 +5001,9 @@ return {
 			asset_count = {1000000,},
 			use_num = {6000,},
 			me_limit_day_num = 3,
+			rank_type = "lxjkh_024_jfphb_rank",
+			prop_type = "prop_grade",
+			base_score = 120,
 		},
 		[386]=
 		{
@@ -5006,6 +5015,9 @@ return {
 			asset_count = {2000,},
 			use_num = {12000,},
 			me_limit_day_num = 1,
+			rank_type = "lxjkh_024_jfphb_rank",
+			prop_type = "prop_grade",
+			base_score = 240,
 		},
 		[387]=
 		{
@@ -5013,9 +5025,12 @@ return {
 			award_cfg_id = 59,
 			award_id = 5,
 			permission_key = "actp_prop_exchange_nor",
-			award_name = "仓鼠舒适靠枕",
+			award_name = "情侣马克杯",
 			use_num = {36000,},
 			me_limit_num = 1,
+			rank_type = "lxjkh_024_jfphb_rank",
+			prop_type = "prop_grade",
+			base_score = 480,
 		},
 		[388]=
 		{
@@ -5027,6 +5042,9 @@ return {
 			asset_count = {10000000,},
 			use_num = {50000,},
 			me_limit_day_num = 3,
+			rank_type = "lxjkh_024_jfphb_rank",
+			prop_type = "prop_grade",
+			base_score = 1000,
 		},
 		[389]=
 		{
@@ -5034,9 +5052,12 @@ return {
 			award_cfg_id = 59,
 			award_id = 7,
 			permission_key = "actp_prop_exchange_nor",
-			award_name = "泰国乳胶枕",
+			award_name = "高级无叶风扇",
 			use_num = {80000,},
 			me_limit_num = 1,
+			rank_type = "lxjkh_024_jfphb_rank",
+			prop_type = "prop_grade",
+			base_score = 1200,
 		},
 		[390]=
 		{
@@ -5047,6 +5068,9 @@ return {
 			asset_type = {"fish_coin",},
 			asset_count = {20000000,},
 			use_num = {120000,},
+			rank_type = "lxjkh_024_jfphb_rank",
+			prop_type = "prop_grade",
+			base_score = 2400,
 		},
 		[391]=
 		{
@@ -5054,9 +5078,12 @@ return {
 			award_cfg_id = 59,
 			award_id = 9,
 			permission_key = "actp_prop_exchange_nor",
-			award_name = "车家两用小冰箱",
+			award_name = "智能肩颈按摩仪",
 			use_num = {150000,},
 			me_limit_num = 1,
+			rank_type = "lxjkh_024_jfphb_rank",
+			prop_type = "prop_grade",
+			base_score = 3000,
 		},
 	},
 	all_powerful=
