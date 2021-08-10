@@ -40187,7 +40187,7 @@ return {
 			id = 681,
 			condition_id = 508,
 			condition_name = "item_id",
-			condition_value = 6,
+			condition_value = 5,
 			judge_type = 2,
 		},
 		[682]=
