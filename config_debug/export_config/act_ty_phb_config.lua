@@ -12,7 +12,7 @@ return {
 			rank_type = "lxjkh_024_jfphb_rank",
 			s_time = 1628553600,
 			e_time = 1629129599,
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 			award = {1,2,3,4,5,6,7},
 			extra_award = {8,9,10,11,12,13,14},
 			path = "act_025_dlphb",
