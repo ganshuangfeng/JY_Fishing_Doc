@@ -1891,7 +1891,7 @@ return {
 			index = 3,
 			vip_level = 3,
 			desc = {"炮台","5元支付宝红包","20元京东E卡","50元话费","福利券容量提升","炮台基座"},
-			name_txt = {"闪耀风暴","兑换特权","兑换特权","兑换特权","容量提升","寒霜“},
+			name_txt = {"闪耀风暴","兑换特权","兑换特权","兑换特权","容量提升","寒霜"},
 			icon_img = {"ty_icon_pt_02","ty_icon_zfbhb5","ty_icon_jdek20","ty_icon_hf50","ty_icon_rlts","ty_icon_dz_03"},
 		},
 		[4]=
