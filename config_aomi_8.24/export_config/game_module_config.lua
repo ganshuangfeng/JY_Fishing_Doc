@@ -3399,5 +3399,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[347]=
+		{
+			id = 347,
+			key = "sys_exit_ask",
+			desc = "退出询问弹窗",
+			lua = "SYS_Exit_AskManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
