@@ -16105,7 +16105,7 @@ return {
 			id = 1000705,
 			enable = 1,
 			name = "免费话费",
-			own_type = "normal",
+			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 22063,
 			is_reset = 1,
@@ -16534,6 +16534,28 @@ return {
 			end_valid_time = 1629129599,
 			time_limit = -1,
 			is_send_client = 1,
+		},
+		[1000734]=
+		{
+			id = 1000734,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22092,
+			is_reset = 1,
+			reset_delay = 1,
+		},
+		[1000735]=
+		{
+			id = 1000735,
+			enable = 1,
+			name = "免费话费",
+			own_type = "p_hljnh_046_hlfl_nor",
+			task_enum = "common",
+			process_id = 22093,
+			is_reset = 1,
+			reset_delay = 1,
 		},
 	},
 	process_data=
@@ -26957,7 +26979,7 @@ return {
 			process_id = 22063,
 			source_id = 665,
 			process = 1,
-			awards = 1486,
+			awards = 1500,
 			get_award_type = "nor",
 		},
 		[1116]=
@@ -26973,7 +26995,7 @@ return {
 		{
 			id = 1117,
 			process_id = 22065,
-			source_id = 666,
+			source_id = 593,
 			process = 10,
 			awards = 1487,
 			get_award_type = "nor",
@@ -26982,8 +27004,8 @@ return {
 		{
 			id = 1118,
 			process_id = 22066,
-			source_id = 667,
-			process = 10,
+			source_id = 678,
+			process = 3,
 			awards = 1486,
 			get_award_type = "nor",
 		},
@@ -27211,6 +27233,24 @@ return {
 			process = {2,1,2},
 			awards = {1375,1376,1377},
 			get_award_type = "random",
+		},
+		[1144]=
+		{
+			id = 1144,
+			process_id = 22092,
+			source_id = 679,
+			process = 30,
+			awards = 1486,
+			get_award_type = "nor",
+		},
+		[1145]=
+		{
+			id = 1145,
+			process_id = 22093,
+			source_id = 680,
+			process = 10,
+			awards = 1501,
+			get_award_type = "nor",
 		},
 	},
 	source=
@@ -34979,6 +35019,13 @@ return {
 			source_type = "buy_gift",
 			condition_id = 510,
 		},
+		[1103]=
+		{
+			id = 1103,
+			source_id = 678,
+			source_type = "buyu_3d_target_yu",
+			condition_id = 511,
+		},
 	},
 	condition=
 	{
@@ -40204,6 +40251,22 @@ return {
 			condition_id = 510,
 			condition_name = "gift_id",
 			condition_value = {10614,10615,10616,10617,10618,10619,10620},
+			judge_type = 2,
+		},
+		[684]=
+		{
+			id = 684,
+			condition_id = 511,
+			condition_name = "base_fish_id",
+			condition_value = 20,
+			judge_type = 2,
+		},
+		[685]=
+		{
+			id = 685,
+			condition_id = 512,
+			condition_name = "task_id",
+			condition_value = {1000705,1000706,1000707,1000708,1000709,1000710,1000713,1000734},
 			judge_type = 2,
 		},
 	},
@@ -59423,6 +59486,22 @@ return {
 			award_id = 1499,
 			asset_type = "jing_bi",
 			asset_count = 100000,
+			get_weight = 1,
+		},
+		[2404]=
+		{
+			id = 2404,
+			award_id = 1500,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = 50,
+			get_weight = 1,
+		},
+		[2405]=
+		{
+			id = 2405,
+			award_id = 1501,
+			asset_type = "prop_web_chip_huafei",
+			asset_count = 100,
 			get_weight = 1,
 		},
 	},
