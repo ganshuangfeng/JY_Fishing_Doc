@@ -40,6 +40,7 @@ return {
 			total = 10,
 			key = "cpl_notcjj",
 			info = "解锁<color=#DA2020>1元</color>支付宝奖励金特权",
+			gotoUI = {"act_042_xshb","panel"},
 		},
 		[6]=
 		{
@@ -48,6 +49,7 @@ return {
 			total = 10,
 			key = "cpl_notcjj",
 			info = "解锁<color=#DA2020>兑换商城</color>实物商品特权",
+			gotoShop = 1,
 		},
 		[7]=
 		{
@@ -56,6 +58,7 @@ return {
 			total = 10,
 			key = "cpl_notcjj",
 			info = "解锁存钱罐特权",
+			gotoUI = {"sys_cqg","panel"},
 		},
 		[8]=
 		{
@@ -104,6 +107,7 @@ return {
 			total = 200,
 			key = "cpl_notcjj",
 			info = "开启VIP超级转盘，解锁海量福利券、手机奖励",
+			gotoUI = {"sys_flqcj","panel"},
 		},
 		[14]=
 		{
@@ -112,6 +116,7 @@ return {
 			total = 200,
 			key = "cpl_notcjj",
 			info = "解锁<color=#DA2020>3元</color>支付宝奖励金特权",
+			gotoUI = {"act_042_xshb","panel"},
 		},
 		[15]=
 		{
@@ -120,6 +125,7 @@ return {
 			total = 200,
 			key = "cpl_notcjj",
 			info = "解锁<color=#DA2020>10元京东E卡</color>兑换特权",
+			gotoShop = 1,
 		},
 		[16]=
 		{
@@ -192,6 +198,7 @@ return {
 			total = 500,
 			key = "cpl_notcjj",
 			info = "解锁<color=#DA2020>5元</color>支付宝奖励金特权",
+			gotoUI = {"act_042_xshb","panel"},
 		},
 		[25]=
 		{
@@ -200,6 +207,7 @@ return {
 			total = 500,
 			key = "cpl_notcjj",
 			info = "解锁<color=#DA2020>20元京东E卡，50元话费</color>兑换特权",
+			gotoShop = 1,
 		},
 		[26]=
 		{
@@ -248,6 +256,7 @@ return {
 			total = 1000,
 			key = "cpl_notcjj",
 			info = "解锁<color=#DA2020>10元</color>支付宝奖励金特权",
+			gotoUI = {"act_042_xshb","panel"},
 		},
 		[32]=
 		{
@@ -256,6 +265,7 @@ return {
 			total = 1000,
 			key = "cpl_notcjj",
 			info = "解锁<color=#DA2020>100元京东E卡，100元话费</color>兑换特权",
+			gotoShop = 1,
 		},
 		[33]=
 		{
@@ -320,6 +330,7 @@ return {
 			total = 2000,
 			key = "cpl_notcjj",
 			info = "解锁<color=#DA2020>200元京东E卡，300元京东E卡</color>兑换特权",
+			gotoShop = 1,
 		},
 		[41]=
 		{
