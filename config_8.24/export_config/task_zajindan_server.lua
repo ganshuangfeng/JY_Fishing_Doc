@@ -16545,6 +16545,8 @@ return {
 			process_id = 22092,
 			is_reset = 1,
 			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
 		},
 		[1000735]=
 		{
@@ -16556,6 +16558,8 @@ return {
 			process_id = 22093,
 			is_reset = 1,
 			reset_delay = 1,
+			start_valid_time = 1627315200,
+			end_valid_time = 1627919999,
 		},
 	},
 	process_data=

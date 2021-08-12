@@ -10,8 +10,8 @@ return {
 			reward_item_key = "shop_gold_sum",
 			ext_reward_item_key = "shop_gold_sum",
 			rank_type = "ymshf_017_hldr_rank",
-			s_time = 1629158400,
-			e_time = 1629734399,
+			s_time = 1629763200,
+			e_time = 1630339199,
 			gotoUI = {"game_Fishing3DHall",},
 			award = {1,2,3,4,5,6,7},
 			extra_award = {8,9,10,11,12,13,14},
@@ -19,6 +19,7 @@ return {
 			condiy_key = "actp_rank_ymshf_017_hldr_rank",
 			type_info = 100,
 			is_have_point = 1,
+			act_gift_key = "gift_hflb",
 		},
 	},
 	award_config=
