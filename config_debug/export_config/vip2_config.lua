@@ -1965,17 +1965,17 @@ return {
 		{
 			index = 11,
 			vip_level = 11,
-			desc = {"至尊礼包",},
-			name_txt = {"至尊礼包",},
-			icon_img = {"ty_icon_zzlb",},
+			desc = {"至尊礼包","福利券容量提升",},
+			name_txt = {"至尊礼包","容量提升",},
+			icon_img = {"ty_icon_zzlb","ty_icon_rlts",},
 		},
 		[12]=
 		{
 			index = 12,
 			vip_level = 12,
-			desc = {"至尊礼包",},
-			name_txt = {"至尊礼包",},
-			icon_img = {"ty_icon_zzlb",},
+			desc = {"至尊礼包","福利券容量提升",},
+			name_txt = {"至尊礼包","容量提升",},
+			icon_img = {"ty_icon_zzlb","ty_icon_rlts",},
 		},
 	},
 }
