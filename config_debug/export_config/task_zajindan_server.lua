@@ -35034,6 +35034,20 @@ return {
 			source_type = "buyu_3d_target_yu",
 			condition_id = 511,
 		},
+		[1104]=
+		{
+			id = 1104,
+			source_id = 679,
+			source_type = "player_online_time_long",
+			condition_id = 0,
+		},
+		[1105]=
+		{
+			id = 1105,
+			source_id = 680,
+			source_type = "children_task_complete",
+			condition_id = 512,
+		},
 	},
 	condition=
 	{
@@ -40146,7 +40160,7 @@ return {
 			id = 669,
 			condition_id = 500,
 			condition_name = "item_id",
-			condition_value = 6,
+			condition_value = 5,
 			judge_type = 2,
 		},
 		[670]=
