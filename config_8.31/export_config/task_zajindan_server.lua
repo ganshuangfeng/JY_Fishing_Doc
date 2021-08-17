@@ -16580,6 +16580,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000737]=
+		{
+			id = 1000737,
+			enable = 1,
+			name = "累充返利",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22095,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1630368000,
+			end_valid_time = 1630943999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -27283,6 +27298,15 @@ return {
 			process = {200000,800000,4000000,5000000,10000000,30000000,50000000,200000000,500000000,700000000,1000000000},
 			awards = {1502,1503,1504,1505,1506,1507,1508,1509,1510,1511,1512},
 			get_award_type = "random",
+		},
+		[1147]=
+		{
+			id = 1147,
+			process_id = 22095,
+			source_id = 665,
+			process = {1000,3800,15000,30200,50000,100000,100000,200000,500000},
+			awards = {1513,1514,1515,1516,1517,1518,1519,1520,1521},
+			get_award_type = "nor",
 		},
 	},
 	source=
@@ -59746,6 +59770,78 @@ return {
 			award_id = 1512,
 			asset_type = "shop_gold_sum",
 			asset_count = {6000,8000},
+			get_weight = 1,
+		},
+		[2417]=
+		{
+			id = 2417,
+			award_id = 1513,
+			asset_type = "shop_gold_sum",
+			asset_count = 50,
+			get_weight = 1,
+		},
+		[2418]=
+		{
+			id = 2418,
+			award_id = 1514,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[2419]=
+		{
+			id = 2419,
+			award_id = 1515,
+			asset_type = "shop_gold_sum",
+			asset_count = 500,
+			get_weight = 1,
+		},
+		[2420]=
+		{
+			id = 2420,
+			award_id = 1516,
+			asset_type = "shop_gold_sum",
+			asset_count = 800,
+			get_weight = 1,
+		},
+		[2421]=
+		{
+			id = 2421,
+			award_id = 1517,
+			asset_type = "shop_gold_sum",
+			asset_count = 1500,
+			get_weight = 1,
+		},
+		[2422]=
+		{
+			id = 2422,
+			award_id = 1518,
+			asset_type = "shop_gold_sum",
+			asset_count = 3000,
+			get_weight = 1,
+		},
+		[2423]=
+		{
+			id = 2423,
+			award_id = 1519,
+			asset_type = "shop_gold_sum",
+			asset_count = 4000,
+			get_weight = 1,
+		},
+		[2424]=
+		{
+			id = 2424,
+			award_id = 1520,
+			asset_type = "shop_gold_sum",
+			asset_count = 6000,
+			get_weight = 1,
+		},
+		[2425]=
+		{
+			id = 2425,
+			award_id = 1521,
+			asset_type = "shop_gold_sum",
+			asset_count = 15000,
 			get_weight = 1,
 		},
 	},
