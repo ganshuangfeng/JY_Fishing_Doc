@@ -16547,6 +16547,8 @@ return {
 			reset_delay = 1,
 			start_valid_time = 1629734400,
 			end_valid_time = 1630339199,
+			time_limit = -1,
+			is_send_client = 1,
 		},
 		[1000735]=
 		{
@@ -16560,6 +16562,8 @@ return {
 			reset_delay = 1,
 			start_valid_time = 1629734400,
 			end_valid_time = 1630339199,
+			time_limit = -1,
+			is_send_client = 1,
 		},
 	},
 	process_data=
