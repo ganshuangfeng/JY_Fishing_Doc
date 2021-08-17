@@ -7245,6 +7245,54 @@ return {
 			refresh_type = "now",
 			start_deal_time = 1629158400,
 		},
+		[410]=
+		{
+			id = 410,
+			enable = 1,
+			key = "actp_buy_gift_bag_10621",
+			name = "绝地反击（V1以下，非冲金鸡）",
+			condi = 506,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
+		},
+		[411]=
+		{
+			id = 411,
+			enable = 1,
+			key = "actp_buy_gift_bag_10622",
+			name = "绝地反击（V2-V4，非冲金鸡）",
+			condi = 507,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
+		},
+		[412]=
+		{
+			id = 412,
+			enable = 1,
+			key = "actp_buy_gift_bag_10623",
+			name = "绝地反击（V5-V7，非冲金鸡）",
+			condi = 508,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
+		},
+		[413]=
+		{
+			id = 413,
+			enable = 1,
+			key = "actp_buy_gift_bag_10624",
+			name = "绝地反击（V8以上，非冲金鸡）",
+			condi = 509,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
+		},
 	},
 	condi=
 	{
@@ -18307,6 +18355,106 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是欢乐天天捕鱼vivo渠道玩家",
+		},
+		[1107]=
+		{
+			no = 1107,
+			id = 506,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1108]=
+		{
+			no = 1108,
+			id = 506,
+			var = "vip_level",
+			value = 1,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP1及以下用户",
+		},
+		[1109]=
+		{
+			no = 1109,
+			id = 507,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1110]=
+		{
+			no = 1110,
+			id = 507,
+			var = "vip_level",
+			value = 2,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP2及以上用户",
+		},
+		[1111]=
+		{
+			no = 1111,
+			id = 507,
+			var = "vip_level",
+			value = 4,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP4及以下用户",
+		},
+		[1112]=
+		{
+			no = 1112,
+			id = 508,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1113]=
+		{
+			no = 1113,
+			id = 508,
+			var = "vip_level",
+			value = 5,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP5及以上用户",
+		},
+		[1114]=
+		{
+			no = 1114,
+			id = 508,
+			var = "vip_level",
+			value = 7,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP7及以下用户",
+		},
+		[1115]=
+		{
+			no = 1115,
+			id = 509,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1116]=
+		{
+			no = 1116,
+			id = 509,
+			var = "vip_level",
+			value = 8,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP8及以上用户",
 		},
 	},
 	share_condition=

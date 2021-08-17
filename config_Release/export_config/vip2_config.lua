@@ -6,6 +6,7 @@ return {
 			line = 1,
 			vip = 1,
 			total = 10,
+			key = "cpl_cjj",
 			info = "福利券容量提升为<color=#DA2020>5000福利券</color>",
 		},
 		[2]=
@@ -13,6 +14,7 @@ return {
 			line = 2,
 			vip = 1,
 			total = 10,
+			key = "cpl_cjj",
 			info = "享受兑换商城商品<color=#DA2020>99%</color>兑换权",
 		},
 		[3]=
@@ -20,6 +22,7 @@ return {
 			line = 3,
 			vip = 1,
 			total = 10,
+			key = "cpl_cjj",
 			info = "享受vip专享福利",
 		},
 		[4]=
@@ -28,400 +31,614 @@ return {
 			vip = 1,
 			total = 10,
 			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛4次",
+			info = "永久获得<color=#DA2020>自动开炮</color>特权",
 		},
 		[5]=
 		{
 			line = 5,
+			vip = 1,
+			total = 10,
+			key = "cpl_notcjj",
+			info = "解锁<color=#DA2020>1元</color>支付宝奖励金特权",
+			gotoUI = {"act_042_xshb","panel"},
+		},
+		[6]=
+		{
+			line = 6,
+			vip = 1,
+			total = 10,
+			key = "cpl_notcjj",
+			info = "解锁<color=#DA2020>兑换商城</color>实物商品特权",
+			gotoShop = 1,
+		},
+		[7]=
+		{
+			line = 7,
+			vip = 1,
+			total = 10,
+			key = "cpl_notcjj",
+			info = "解锁存钱罐特权",
+			gotoUI = {"sys_cqg","panel"},
+		},
+		[8]=
+		{
+			line = 8,
+			vip = 1,
+			total = 10,
+			key = "cpl_notcjj",
+			info = "解锁更多小游戏玩法",
+		},
+		[9]=
+		{
+			line = 9,
+			vip = 1,
+			total = 10,
+			key = "cpl_notcjj",
+			info = "福利券容量提升为<color=#DA2020>5000福利券</color>",
+		},
+		[10]=
+		{
+			line = 10,
 			vip = 2,
 			total = 200,
 			key = "cjj_vip_desc",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>1次</color>",
 		},
-		[6]=
-		{
-			line = 6,
-			vip = 2,
-			total = 200,
-			key = "cpl_notcjj",
-			info = "解锁福利券大转盘-VIP超级转盘，有机会获取海量福利券",
-		},
-		[7]=
-		{
-			line = 7,
-			vip = 2,
-			total = 200,
-			info = "福利券容量提升为<color=#DA2020>4万福利券</color>",
-		},
-		[8]=
-		{
-			line = 8,
-			vip = 2,
-			total = 200,
-			info = "享受vip1所有特权并提高部分特权奖励",
-		},
-		[9]=
-		{
-			line = 9,
-			vip = 2,
-			total = 200,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛5次",
-		},
-		[10]=
-		{
-			line = 10,
-			vip = 3,
-			total = 500,
-			key = "vip_notcps",
-			info = "可获得<color=#DA2020>闪耀风暴</color>炮台，有几率捕获激光范围内的任意鱼类",
-		},
 		[11]=
 		{
 			line = 11,
+			vip = 2,
+			total = 200,
+			key = "cpl_cjj",
+			info = "福利券容量提升为<color=#DA2020>4万福利券</color>",
+		},
+		[12]=
+		{
+			line = 12,
+			vip = 2,
+			total = 200,
+			key = "cpl_cjj",
+			info = "享受vip1所有特权并提高部分特权奖励",
+		},
+		[13]=
+		{
+			line = 13,
+			vip = 2,
+			total = 200,
+			key = "cpl_notcjj",
+			info = "开启VIP超级转盘，解锁海量福利券、手机奖励",
+			gotoUI = {"sys_flqcj","panel"},
+		},
+		[14]=
+		{
+			line = 14,
+			vip = 2,
+			total = 200,
+			key = "cpl_notcjj",
+			info = "解锁<color=#DA2020>3元</color>支付宝奖励金特权",
+			gotoUI = {"act_042_xshb","panel"},
+		},
+		[15]=
+		{
+			line = 15,
+			vip = 2,
+			total = 200,
+			key = "cpl_notcjj",
+			info = "解锁<color=#DA2020>10元京东E卡</color>兑换特权",
+			gotoShop = 1,
+		},
+		[16]=
+		{
+			line = 16,
+			vip = 2,
+			total = 200,
+			key = "cpl_notcjj",
+			info = "解锁VIP每周福利，每周<color=#DA2020>免费领礼包</color>",
+		},
+		[17]=
+		{
+			line = 17,
+			vip = 2,
+			total = 200,
+			key = "cpl_notcjj",
+			info = "解锁全部游戏玩法",
+		},
+		[18]=
+		{
+			line = 18,
+			vip = 2,
+			total = 200,
+			key = "cpl_notcjj",
+			info = "福利券容量提升为<color=#DA2020>4万福利券</color>",
+		},
+		[19]=
+		{
+			line = 19,
+			vip = 2,
+			total = 200,
+			key = "cpl_notcjj",
+			info = "享受VIP1所有特权并提高部分特权奖励",
+		},
+		[20]=
+		{
+			line = 20,
+			vip = 3,
+			total = 500,
+			key = "vip_notcps",
+			info = "解锁<color=#DA2020>闪耀风暴</color>炮台，有几率捕获激光范围内的任意鱼类",
+		},
+		[21]=
+		{
+			line = 21,
 			vip = 3,
 			total = 500,
 			key = "cjj_vip_desc",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>3次</color>",
 		},
-		[12]=
+		[22]=
 		{
-			line = 12,
+			line = 22,
 			vip = 3,
 			total = 500,
+			key = "cpl_cjj",
 			info = "福利券容量提升为<color=#DA2020>10万福利券</color>",
 		},
-		[13]=
+		[23]=
 		{
-			line = 13,
+			line = 23,
 			vip = 3,
 			total = 500,
+			key = "cpl_cjj",
 			info = "享受vip2所有特权并提高部分特权奖励",
 		},
-		[14]=
+		[24]=
 		{
-			line = 14,
+			line = 24,
 			vip = 3,
 			total = 500,
 			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛6次",
+			info = "解锁<color=#DA2020>5元</color>支付宝奖励金特权",
+			gotoUI = {"act_042_xshb","panel"},
 		},
-		[15]=
+		[25]=
 		{
-			line = 15,
+			line = 25,
+			vip = 3,
+			total = 500,
+			key = "cpl_notcjj",
+			info = "解锁<color=#DA2020>20元京东E卡，50元话费</color>兑换特权",
+			gotoShop = 1,
+		},
+		[26]=
+		{
+			line = 26,
+			vip = 3,
+			total = 500,
+			key = "cpl_notcjj",
+			info = "福利券容量提升为<color=#DA2020>10万福利券</color>",
+		},
+		[27]=
+		{
+			line = 27,
+			vip = 3,
+			total = 500,
+			key = "cpl_notcjj",
+			info = "享受VIP2所有特权并提高部分特权奖励",
+		},
+		[28]=
+		{
+			line = 28,
 			vip = 4,
 			total = 1000,
 			key = "cjj_vip_desc",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>5次</color>",
 		},
-		[16]=
+		[29]=
 		{
-			line = 16,
+			line = 29,
 			vip = 4,
 			total = 1000,
+			key = "cpl_cjj",
 			info = "福利券容量提升为<color=#DA2020>15万福利券</color>",
 		},
-		[17]=
+		[30]=
 		{
-			line = 17,
+			line = 30,
 			vip = 4,
 			total = 1000,
+			key = "cpl_cjj",
 			info = "享受vip3所有特权并提高部分特权奖励",
 		},
-		[18]=
+		[31]=
 		{
-			line = 18,
+			line = 31,
 			vip = 4,
 			total = 1000,
 			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛7次",
+			info = "解锁<color=#DA2020>10元</color>支付宝奖励金特权",
+			gotoUI = {"act_042_xshb","panel"},
 		},
-		[19]=
+		[32]=
 		{
-			line = 19,
+			line = 32,
+			vip = 4,
+			total = 1000,
+			key = "cpl_notcjj",
+			info = "解锁<color=#DA2020>100元京东E卡，100元话费</color>兑换特权",
+			gotoShop = 1,
+		},
+		[33]=
+		{
+			line = 33,
+			vip = 4,
+			total = 1000,
+			key = "cpl_notcjj",
+			info = "福利券容量提升为<color=#DA2020>15万</color>福利券",
+		},
+		[34]=
+		{
+			line = 34,
+			vip = 4,
+			total = 1000,
+			key = "cpl_notcjj",
+			info = "享受VIP3所有特权并提高部分特权奖励",
+		},
+		[35]=
+		{
+			line = 35,
 			vip = 5,
 			total = 2000,
 			key = "vip_notcps",
 			info = "可获得<color=#DA2020>金币使者</color>炮台，可捕获同移动线上的任意鱼类",
 		},
-		[20]=
+		[36]=
 		{
-			line = 20,
+			line = 36,
 			vip = 5,
 			total = 2000,
 			key = "cjj_vip_desc",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>10次</color>",
 		},
-		[21]=
+		[37]=
 		{
-			line = 21,
+			line = 37,
 			vip = 5,
 			total = 2000,
+			key = "cpl_cjj",
 			info = "福利券容量提升为<color=#DA2020>30万福利券</color>",
 		},
-		[22]=
+		[38]=
 		{
-			line = 22,
+			line = 38,
 			vip = 5,
 			total = 2000,
+			key = "cpl_cjj",
 			info = "畅玩所有游戏",
 		},
-		[23]=
+		[39]=
 		{
-			line = 23,
+			line = 39,
 			vip = 5,
 			total = 2000,
+			key = "cpl_cjj",
 			info = "享受vip4所有特权并提高部分特权奖励",
 		},
-		[24]=
+		[40]=
 		{
-			line = 24,
+			line = 40,
 			vip = 5,
 			total = 2000,
 			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛8次",
+			info = "解锁<color=#DA2020>200元京东E卡，300元京东E卡</color>兑换特权",
+			gotoShop = 1,
 		},
-		[25]=
+		[41]=
 		{
-			line = 25,
+			line = 41,
+			vip = 5,
+			total = 2000,
+			key = "cpl_notcjj",
+			info = "福利券容量提升为<color=#DA2020>30万福利券</color>",
+		},
+		[42]=
+		{
+			line = 42,
+			vip = 5,
+			total = 2000,
+			key = "cpl_notcjj",
+			info = "享受VIP4所有特权并提高部分特权奖励",
+		},
+		[43]=
+		{
+			line = 43,
 			vip = 6,
 			total = 5000,
 			key = "cjj_vip_desc",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>30次</color>",
 		},
-		[26]=
-		{
-			line = 26,
-			vip = 6,
-			total = 5000,
-			info = "福利券容量提升为<color=#DA2020>50万福利券</color>",
-		},
-		[27]=
-		{
-			line = 27,
-			vip = 6,
-			total = 5000,
-			info = "享受vip5所有特权并提高部分特权奖励",
-		},
-		[28]=
-		{
-			line = 28,
-			vip = 6,
-			total = 5000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛9次",
-		},
-		[29]=
-		{
-			line = 29,
-			vip = 7,
-			total = 10000,
-			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-		},
-		[30]=
-		{
-			line = 30,
-			vip = 7,
-			total = 10000,
-			info = "福利券容量提升为<color=#DA2020>100万福利券</color>",
-		},
-		[31]=
-		{
-			line = 31,
-			vip = 7,
-			total = 10000,
-			info = "享受vip6所有特权并提高部分特权奖励",
-		},
-		[32]=
-		{
-			line = 32,
-			vip = 7,
-			total = 10000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛10次",
-		},
-		[33]=
-		{
-			line = 33,
-			vip = 8,
-			total = 20000,
-			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-		},
-		[34]=
-		{
-			line = 34,
-			vip = 8,
-			total = 20000,
-			info = "福利券容量提升为<color=#DA2020>200万福利券</color>",
-		},
-		[35]=
-		{
-			line = 35,
-			vip = 8,
-			total = 20000,
-			info = "享受vip7所有特权并提高部分特权奖励",
-		},
-		[36]=
-		{
-			line = 36,
-			vip = 8,
-			total = 20000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛11次",
-		},
-		[37]=
-		{
-			line = 37,
-			vip = 9,
-			total = 30000,
-			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-		},
-		[38]=
-		{
-			line = 38,
-			vip = 9,
-			total = 30000,
-			info = "福利券容量提升为<color=#DA2020>300万福利券</color>",
-		},
-		[39]=
-		{
-			line = 39,
-			vip = 9,
-			total = 30000,
-			info = "享受vip8所有特权并提高部分特权奖励",
-		},
-		[40]=
-		{
-			line = 40,
-			vip = 9,
-			total = 30000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛12次",
-		},
-		[41]=
-		{
-			line = 41,
-			vip = 10,
-			total = 50000,
-			key = "cjj_vip_desc",
-			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
-		},
-		[42]=
-		{
-			line = 42,
-			vip = 10,
-			total = 50000,
-			info = "福利券容量提升为<color=#DA2020>500万福利券</color>",
-		},
-		[43]=
-		{
-			line = 43,
-			vip = 10,
-			total = 50000,
-			info = "享受vip9所有特权并提高部分特权奖励",
-		},
 		[44]=
 		{
 			line = 44,
-			vip = 10,
-			total = 50000,
-			key = "cpl_notcjj",
-			info = "每日最多可参加排名挑战赛15次",
+			vip = 6,
+			total = 5000,
+			key = "cpl_cjj",
+			info = "福利券容量提升为<color=#DA2020>50万福利券</color>",
 		},
 		[45]=
 		{
 			line = 45,
+			vip = 6,
+			total = 5000,
+			key = "cpl_cjj",
+			info = "享受vip5所有特权并提高部分特权奖励",
+		},
+		[46]=
+		{
+			line = 46,
+			vip = 6,
+			total = 5000,
+			key = "cpl_notcjj",
+			info = "福利券容量提升为<color=#DA2020>50万福利券</color>",
+		},
+		[47]=
+		{
+			line = 47,
+			vip = 6,
+			total = 5000,
+			key = "cpl_notcjj",
+			info = "享受VIP5所有特权并提高部分特权奖励",
+		},
+		[48]=
+		{
+			line = 48,
+			vip = 7,
+			total = 10000,
+			key = "cjj_vip_desc",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+		},
+		[49]=
+		{
+			line = 49,
+			vip = 7,
+			total = 10000,
+			key = "cpl_cjj",
+			info = "福利券容量提升为<color=#DA2020>100万福利券</color>",
+		},
+		[50]=
+		{
+			line = 50,
+			vip = 7,
+			total = 10000,
+			key = "cpl_cjj",
+			info = "享受vip6所有特权并提高部分特权奖励",
+		},
+		[51]=
+		{
+			line = 51,
+			vip = 7,
+			total = 10000,
+			key = "cpl_notcjj",
+			info = "福利券容量提升为<color=#DA2020>100万福利券</color>",
+		},
+		[52]=
+		{
+			line = 52,
+			vip = 7,
+			total = 10000,
+			key = "cpl_notcjj",
+			info = "享受VIP6所有特权并提高部分特权奖励",
+		},
+		[53]=
+		{
+			line = 53,
+			vip = 8,
+			total = 20000,
+			key = "cjj_vip_desc",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+		},
+		[54]=
+		{
+			line = 54,
+			vip = 8,
+			total = 20000,
+			key = "cpl_cjj",
+			info = "福利券容量提升为<color=#DA2020>200万福利券</color>",
+		},
+		[55]=
+		{
+			line = 55,
+			vip = 8,
+			total = 20000,
+			key = "cpl_cjj",
+			info = "享受vip7所有特权并提高部分特权奖励",
+		},
+		[56]=
+		{
+			line = 56,
+			vip = 8,
+			total = 20000,
+			key = "cpl_notcjj",
+			info = "福利券容量提升为<color=#DA2020>200万福利券</color>",
+		},
+		[57]=
+		{
+			line = 57,
+			vip = 8,
+			total = 20000,
+			key = "cpl_notcjj",
+			info = "享受VIP7所有特权并提高部分特权奖励",
+		},
+		[58]=
+		{
+			line = 58,
+			vip = 9,
+			total = 30000,
+			key = "cjj_vip_desc",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+		},
+		[59]=
+		{
+			line = 59,
+			vip = 9,
+			total = 30000,
+			key = "cpl_cjj",
+			info = "福利券容量提升为<color=#DA2020>300万福利券</color>",
+		},
+		[60]=
+		{
+			line = 60,
+			vip = 9,
+			total = 30000,
+			key = "cpl_cjj",
+			info = "享受vip8所有特权并提高部分特权奖励",
+		},
+		[61]=
+		{
+			line = 61,
+			vip = 9,
+			total = 30000,
+			key = "cpl_notcjj",
+			info = "福利券容量提升为<color=#DA2020>300万福利券</color>",
+		},
+		[62]=
+		{
+			line = 62,
+			vip = 9,
+			total = 30000,
+			key = "cpl_notcjj",
+			info = "享受VIP8所有特权并提高部分特权奖励",
+		},
+		[63]=
+		{
+			line = 63,
+			vip = 10,
+			total = 50000,
+			key = "cjj_vip_desc",
+			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>50次</color>",
+		},
+		[64]=
+		{
+			line = 64,
+			vip = 10,
+			total = 50000,
+			key = "cpl_cjj",
+			info = "福利券容量提升为<color=#DA2020>500万福利券</color>",
+		},
+		[65]=
+		{
+			line = 65,
+			vip = 10,
+			total = 50000,
+			key = "cpl_cjj",
+			info = "享受vip9所有特权并提高部分特权奖励",
+		},
+		[66]=
+		{
+			line = 66,
+			vip = 10,
+			total = 50000,
+			key = "cpl_notcjj",
+			info = "福利券容量提升为<color=#DA2020>500万福利券</color>",
+		},
+		[67]=
+		{
+			line = 67,
+			vip = 10,
+			total = 50000,
+			key = "cpl_notcjj",
+			info = "享受VIP9所有特权并提高部分特权奖励",
+		},
+		[68]=
+		{
+			line = 68,
 			vip = 11,
 			key = "cpl_notcjj",
 			info = "每日可免费领取至尊礼包1个",
 			cfz = 15000,
 		},
-		[46]=
+		[69]=
 		{
-			line = 46,
+			line = 69,
 			vip = 11,
 			key = "cpl_notcjj",
 			info = "每领满30次至尊礼包额外奖励1000万鱼币",
 			cfz = 15000,
 		},
-		[47]=
+		[70]=
 		{
-			line = 47,
+			line = 70,
 			vip = 11,
 			key = "cpl_notcjj_notcps",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>70次</color>",
 			cfz = 15000,
 		},
-		[48]=
+		[71]=
 		{
-			line = 48,
+			line = 71,
 			vip = 11,
 			key = "cpl_notcjj",
 			info = "福利券容量提升为<color=#DA2020>800万</color>福利券",
 			cfz = 15000,
 		},
-		[49]=
+		[72]=
 		{
-			line = 49,
+			line = 72,
 			vip = 11,
 			key = "cpl_notcjj",
 			info = "每日最多可参加排名挑战赛20次",
 			cfz = 15000,
 		},
-		[50]=
+		[73]=
 		{
-			line = 50,
+			line = 73,
 			vip = 11,
 			key = "cpl_notcjj",
 			info = "享受vip10所有特权并提高部分特权奖励",
 			cfz = 15000,
 		},
-		[51]=
+		[74]=
 		{
-			line = 51,
+			line = 74,
 			vip = 12,
 			key = "cpl_notcjj",
 			info = "每日可免费领取至尊礼包1个",
 			cfz = 40000,
 		},
-		[52]=
+		[75]=
 		{
-			line = 52,
+			line = 75,
 			vip = 12,
 			key = "cpl_notcjj",
 			info = "每领满30次至尊礼包额外奖励200元话费",
 			cfz = 40000,
 		},
-		[53]=
+		[76]=
 		{
-			line = 53,
+			line = 76,
 			vip = 12,
 			key = "cpl_notcjj_notcps",
 			info = "可使用Vip超级转盘，每日可抽<color=#DA2020>70次</color>",
 			cfz = 40000,
 		},
-		[54]=
+		[77]=
 		{
-			line = 54,
+			line = 77,
 			vip = 12,
 			key = "cpl_notcjj",
 			info = "福利券容量提升为<color=#DA2020>1200万</color>福利券",
 			cfz = 40000,
 		},
-		[55]=
+		[78]=
 		{
-			line = 55,
+			line = 78,
 			vip = 12,
 			key = "cpl_notcjj",
 			info = "每日最多可参加排名挑战赛30次",
 			cfz = 40000,
 		},
-		[56]=
+		[79]=
 		{
-			line = 56,
+			line = 79,
 			vip = 12,
 			key = "cpl_notcjj",
 			info = "享受vip11所有特权并提高部分特权奖励",
@@ -1379,8 +1596,8 @@ return {
 			index = 1,
 			task_id = 21341,
 			condi_key = "cpl_notcjj",
-			title = "身上拥有200万金币",
-			condition = 2000000,
+			title = "身上拥有50万金币",
+			condition = 500000,
 			award_img = {"ty_icon_jb_6y","3dby_btn_sd","3dby_btn_bd",},
 			award_txt = {"8万金币","锁定*1","冰冻*1",},
 			award_progress_lv = 1,
@@ -1660,6 +1877,105 @@ return {
 			award_img = {"ty_icon_jb_2498y","zpg_icon_shui","com_award_icon_cz1",},
 			award_txt = {"588万金币","水滴*1","玩具锤*1",},
 			award_progress_lv = 12,
+		},
+	},
+	vip_up=
+	{
+		[1]=
+		{
+			index = 1,
+			vip_level = 1,
+			desc = {"炮台基座","自动开炮","1元支付宝红包","存钱罐","福利券容量提升"},
+			name_txt = {"绿芒","自动开炮","兑换特权","存钱罐","容量提升"},
+			icon_img = {"ty_icon_dz_02","ty_icon_zdkp","ty_icon_zfbhb1","ty_icon_cqg","ty_icon_rlts"},
+		},
+		[2]=
+		{
+			index = 2,
+			vip_level = 2,
+			desc = {"福利券转盘","3元支付宝红包","10元京东E卡","福利券容量提升"},
+			name_txt = {"福利券转盘","兑换特权","兑换特权","容量提升"},
+			icon_img = {"ty_icon_flqzp","ty_icon_zfbhb3","ty_icon_jdek10","ty_icon_rlts"},
+		},
+		[3]=
+		{
+			index = 3,
+			vip_level = 3,
+			desc = {"炮台","5元支付宝红包","20元京东E卡","50元话费","福利券容量提升","炮台基座"},
+			name_txt = {"闪耀风暴","兑换特权","兑换特权","兑换特权","容量提升","寒霜"},
+			icon_img = {"ty_icon_pt_02","ty_icon_zfbhb5","ty_icon_jdek20","ty_icon_hf50","ty_icon_rlts","ty_icon_dz_03"},
+		},
+		[4]=
+		{
+			index = 4,
+			vip_level = 4,
+			desc = {"10元支付宝红包","100元京东E卡","100元话费","福利券容量提升"},
+			name_txt = {"兑换特权","兑换特权","兑换特权","容量提升"},
+			icon_img = {"ty_icon_zfbhb10","ty_icon_jdek100","ty_icon_hf100","ty_icon_rlts"},
+		},
+		[5]=
+		{
+			index = 5,
+			vip_level = 5,
+			desc = {"炮台","200元京东E卡","300元京东E卡","福利券容量提升"},
+			name_txt = {"金币使者","兑换特权","兑换特权","容量提升"},
+			icon_img = {"ty_icon_pt_03","ty_icon_jdek200","ty_icon_jdek300","ty_icon_rlts"},
+		},
+		[6]=
+		{
+			index = 6,
+			vip_level = 6,
+			desc = {"福利券容量提升",},
+			name_txt = {"容量提升",},
+			icon_img = {"ty_icon_rlts",},
+		},
+		[7]=
+		{
+			index = 7,
+			vip_level = 7,
+			desc = {"福利券容量提升",},
+			name_txt = {"容量提升",},
+			icon_img = {"ty_icon_rlts",},
+		},
+		[8]=
+		{
+			index = 8,
+			vip_level = 8,
+			desc = {"福利券容量提升",},
+			name_txt = {"容量提升",},
+			icon_img = {"ty_icon_rlts",},
+		},
+		[9]=
+		{
+			index = 9,
+			vip_level = 9,
+			desc = {"福利券容量提升",},
+			name_txt = {"容量提升",},
+			icon_img = {"ty_icon_rlts",},
+		},
+		[10]=
+		{
+			index = 10,
+			vip_level = 10,
+			desc = {"福利券容量提升",},
+			name_txt = {"容量提升",},
+			icon_img = {"ty_icon_rlts",},
+		},
+		[11]=
+		{
+			index = 11,
+			vip_level = 11,
+			desc = {"至尊礼包","福利券容量提升",},
+			name_txt = {"至尊礼包","容量提升",},
+			icon_img = {"ty_icon_zzlb","ty_icon_rlts",},
+		},
+		[12]=
+		{
+			index = 12,
+			vip_level = 12,
+			desc = {"至尊礼包","福利券容量提升",},
+			name_txt = {"至尊礼包","容量提升",},
+			icon_img = {"ty_icon_zzlb","ty_icon_rlts",},
 		},
 	},
 }

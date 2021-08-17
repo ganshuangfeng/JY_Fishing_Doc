@@ -963,45 +963,53 @@ return {
 			id = 175,
 			fish_id = 6,
 			attr_id = 9,
+			cond_key = "actp_own_task_p_drop_act_nor",
 		},
 		[176]=
 		{
 			id = 176,
 			fish_id = 7,
 			attr_id = 9,
+			cond_key = "actp_own_task_p_drop_act_nor",
 		},
 		[177]=
 		{
 			id = 177,
 			fish_id = 8,
 			attr_id = 9,
+			cond_key = "actp_own_task_p_drop_act_nor",
 		},
 		[178]=
 		{
 			id = 178,
 			fish_id = 9,
 			attr_id = 9,
+			cond_key = "actp_own_task_p_drop_act_nor",
 		},
 		[179]=
 		{
 			id = 179,
 			fish_id = 10,
 			attr_id = 9,
+			cond_key = "actp_own_task_p_drop_act_nor",
 		},
 		[180]=
 		{
 			id = 180,
 			fish_id = 35,
+			cond_key = "actp_own_task_p_drop_act_nor",
 		},
 		[181]=
 		{
 			id = 181,
 			fish_id = 35,
+			cond_key = "actp_own_task_p_drop_act_nor",
 		},
 		[182]=
 		{
 			id = 182,
 			fish_id = 35,
+			cond_key = "actp_own_task_p_drop_act_nor",
 		},
 		[183]=
 		{

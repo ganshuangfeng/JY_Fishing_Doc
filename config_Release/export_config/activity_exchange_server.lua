@@ -686,13 +686,13 @@ return {
 		[59]=
 		{
 			id = 59,
-			name = "爱心兑换",
-			start_time = 1628553600,
-			end_time = 1629129599,
+			name = "雪糕兑奖",
+			start_time = 1629158400,
+			end_time = 1629734399,
 			use_goods = {"prop_fish_drop_act_0",},
 			goods_type = 1,
 			email_id = 45,
-			award_id = 59,
+			award_id = 58,
 			enable = 1,
 		},
 	},
@@ -965,8 +965,8 @@ return {
 		[45]=
 		{
 			id = 45,
-			title = "爱心兑换",
-			content = "恭喜您在爱心兑换活动中获得了%s，请在活动结束后7个工作日内联系客服QQ号4008882620领取，逾期视为自动放弃！",
+			title = "雪糕兑奖",
+			content = "恭喜您在雪糕兑奖活动中获得了%s，请在活动结束后7个工作日内联系客服QQ号4008882620领取，逾期视为自动放弃！",
 		},
 	},
 	award=
@@ -4983,6 +4983,19 @@ return {
 			award_cfg_id = 59,
 			award_id = 2,
 			permission_key = "actp_prop_exchange_nor",
+			asset_type = {"obj_10_coupon",},
+			asset_count = {1,},
+			use_num = {1000,},
+			rank_type = "lxjkh_024_jfphb_rank",
+			prop_type = "prop_grade",
+			base_score = 20,
+		},
+		[385]=
+		{
+			no = 385,
+			award_cfg_id = 59,
+			award_id = 3,
+			permission_key = "actp_prop_exchange_nor",
 			asset_type = {"fish_coin",},
 			asset_count = {500000,},
 			use_num = {3000,},
@@ -4991,11 +5004,11 @@ return {
 			prop_type = "prop_grade",
 			base_score = 60,
 		},
-		[385]=
+		[386]=
 		{
-			no = 385,
+			no = 386,
 			award_cfg_id = 59,
-			award_id = 3,
+			award_id = 4,
 			permission_key = "actp_prop_exchange_nor",
 			asset_type = {"jing_bi",},
 			asset_count = {1000000,},
@@ -5005,11 +5018,11 @@ return {
 			prop_type = "prop_grade",
 			base_score = 120,
 		},
-		[386]=
+		[387]=
 		{
-			no = 386,
+			no = 387,
 			award_cfg_id = 59,
-			award_id = 4,
+			award_id = 5,
 			permission_key = "actp_prop_exchange_nor",
 			asset_type = {"shop_gold_sum",},
 			asset_count = {2000,},
@@ -5019,11 +5032,11 @@ return {
 			prop_type = "prop_grade",
 			base_score = 240,
 		},
-		[387]=
+		[388]=
 		{
-			no = 387,
+			no = 388,
 			award_cfg_id = 59,
-			award_id = 5,
+			award_id = 6,
 			permission_key = "actp_prop_exchange_nor",
 			award_name = "情侣马克杯",
 			use_num = {36000,},
@@ -5032,11 +5045,11 @@ return {
 			prop_type = "prop_grade",
 			base_score = 480,
 		},
-		[388]=
+		[389]=
 		{
-			no = 388,
+			no = 389,
 			award_cfg_id = 59,
-			award_id = 6,
+			award_id = 7,
 			permission_key = "actp_prop_exchange_nor",
 			asset_type = {"jing_bi",},
 			asset_count = {10000000,},
@@ -5046,11 +5059,11 @@ return {
 			prop_type = "prop_grade",
 			base_score = 1000,
 		},
-		[389]=
+		[390]=
 		{
-			no = 389,
+			no = 390,
 			award_cfg_id = 59,
-			award_id = 7,
+			award_id = 8,
 			permission_key = "actp_prop_exchange_nor",
 			award_name = "高级无叶风扇",
 			use_num = {80000,},
@@ -5059,11 +5072,11 @@ return {
 			prop_type = "prop_grade",
 			base_score = 1200,
 		},
-		[390]=
+		[391]=
 		{
-			no = 390,
+			no = 391,
 			award_cfg_id = 59,
-			award_id = 8,
+			award_id = 9,
 			permission_key = "actp_prop_exchange_nor",
 			asset_type = {"fish_coin",},
 			asset_count = {20000000,},
@@ -5072,11 +5085,11 @@ return {
 			prop_type = "prop_grade",
 			base_score = 2400,
 		},
-		[391]=
+		[392]=
 		{
-			no = 391,
+			no = 392,
 			award_cfg_id = 59,
-			award_id = 9,
+			award_id = 10,
 			permission_key = "actp_prop_exchange_nor",
 			award_name = "智能肩颈按摩仪",
 			use_num = {150000,},

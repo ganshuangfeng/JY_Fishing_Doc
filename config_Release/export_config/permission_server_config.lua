@@ -7221,6 +7221,30 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1627344000,
 		},
+		[408]=
+		{
+			id = 408,
+			enable = 1,
+			key = "actp_own_task_p_drop_act_nor",
+			name = "道具掉落（非冲金鸡，非天天欢乐捕鱼VIVO渠道）",
+			condi = 505,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1629158400,
+		},
+		[409]=
+		{
+			id = 409,
+			enable = 1,
+			key = "actp_rank_ymshf_017_hldr_rank",
+			name = "道具掉落排行榜（非冲金鸡，非天天欢乐捕鱼VIVO渠道）",
+			condi = 505,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1629158400,
+		},
 	},
 	condi=
 	{
@@ -18263,6 +18287,26 @@ return {
 			judge = 5,
 			group = 3,
 			error_desc = "捕鱼奥秘没有账号",
+		},
+		[1105]=
+		{
+			no = 1105,
+			id = 505,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1106]=
+		{
+			no = 1106,
+			id = 505,
+			var = "market_channel",
+			value = "vivo",
+			judge = 5,
+			group = 1,
+			error_desc = "不是欢乐天天捕鱼vivo渠道玩家",
 		},
 	},
 	share_condition=

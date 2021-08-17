@@ -29,13 +29,13 @@ return {
 		{
 			index = 3,
 			act_gift_key = "gift_hflb",
-			style_key = "act_003_hflb",
+			style_key = "act_008_hflb",
 			act_gift_name = "话费礼包",
-			start_time = 1627344000,
-			end_time = 1627919999,
+			start_time = 1629763200,
+			end_time = 1630339199,
 			time_txt_fmt = {"f0efff","5527b1"},
 			gift_ids = {9,10,11,12},
-			isOnOff = 0,
+			isOnOff = 1,
 		},
 		[4]=
 		{
@@ -47,7 +47,7 @@ return {
 			end_time = 1629734399,
 			time_txt_fmt = {"f0efff","5527b1"},
 			gift_ids = {13,14,15,16},
-			isOnOff = 1,
+			isOnOff = 0,
 		},
 	},
 	gifts=
