@@ -35045,7 +35045,7 @@ return {
 		{
 			id = 1105,
 			source_id = 680,
-			source_type = "children_task_complete",
+			source_type = "task_award_count",
 			condition_id = 512,
 		},
 	},
