@@ -12,9 +12,9 @@ return {
 			condi_key = "cpl_notcjj",
 			award = {1,2,3,4,5,6,7,8,9,10,11},
 		},
-		[1]=
+		[2]=
 		{
-			line = 1,
+			line = 2,
 			task_id = 1000736,
 			startTime = 1630368000,
 			endTime = 1630943999,

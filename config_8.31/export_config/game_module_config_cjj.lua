@@ -3309,5 +3309,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[338]=
+		{
+			id = 338,
+			key = "act_055_xhns",
+			desc = "积分赠礼",
+			lua = "Act_055_XHNSManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
