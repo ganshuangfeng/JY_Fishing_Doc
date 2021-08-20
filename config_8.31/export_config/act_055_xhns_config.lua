@@ -32,7 +32,7 @@ return {
 			need_num = 2,
 			award_name = "话费碎片",
 			award_amount = 1,
-			award_icon = "ty_icon_flq2",
+			award_icon = "com_award_icon_hfsp",
 		},
 		[2]=
 		{
