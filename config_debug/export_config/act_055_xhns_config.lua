@@ -30,9 +30,9 @@ return {
 		{
 			index = 1,
 			need_num = 2,
-			award_name = "话费碎片",
+			award_name = "福利券",
 			award_amount = 1,
-			award_icon = "com_award_icon_hfsp",
+			award_icon = "ty_icon_flq2",
 		},
 		[2]=
 		{
