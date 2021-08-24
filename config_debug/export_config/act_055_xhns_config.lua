@@ -18,7 +18,7 @@ return {
 			task_id = 1000736,
 			startTime = 1630368000,
 			endTime = 1630943999,
-			gotoui = "game_MineGame",
+			gotoui = "game_MiniGame",
 			downDes = "每日0点重置积分和奖励\n每消耗10万金币=1积分（苹果大战不计）",
 			condi_key = "cpl_cjj",
 			award = {1,2,3,4,5,6,7,8,9,10,11},
