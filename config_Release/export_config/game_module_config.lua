@@ -3100,7 +3100,7 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_026_dlphb",
+			key = "act_ty_sjb_style/act_027_dlphb",
 			desc = "掉落排行榜皮肤（消耗）",
 			is_on_off = 1,
 			enable = 1,
@@ -3109,7 +3109,7 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_024_xuegao",
+			key = "act_ty_by_drop_style/act_025_huanlequan",
 			desc = "爱心掉落",
 			is_on_off = 1,
 			enable = 1,
@@ -3118,7 +3118,7 @@ return {
 		[318]=
 		{
 			id = 318,
-			key = "act_ty_by_hhl_style/act_016_hhl",
+			key = "act_ty_by_hhl_style/act_017_hhl",
 			desc = "换好礼皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_029",
+			key = "sys_act_base_style/sys_act_base_weekly_030",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3274,7 +3274,7 @@ return {
 		[334]=
 		{
 			id = 334,
-			key = "act_ty_gifts_style/act_007_qllb",
+			key = "act_ty_gifts_style/act_008_hflb",
 			desc = "爱心礼包",
 			is_on_off = 1,
 			enable = 1,
@@ -3355,6 +3355,16 @@ return {
 			key = "act_060_yxcard",
 			desc = "消消乐游戏卡",
 			lua = "Act_060_YXCardManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[343]=
+		{
+			id = 343,
+			key = "sys_exit_ask",
+			desc = "退出询问弹窗",
+			lua = "SYS_Exit_AskManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

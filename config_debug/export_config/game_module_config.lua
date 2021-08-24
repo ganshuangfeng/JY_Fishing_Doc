@@ -2685,9 +2685,9 @@ return {
 			key = "act_ty_hlqjd",
 			desc = "欢乐敲金蛋",
 			lua = "Act_ty_HLQJDManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[275]=
 		{
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_030",
+			key = "sys_act_base_style/sys_act_base_weekly_031",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3365,6 +3365,16 @@ return {
 			key = "sys_exit_ask",
 			desc = "退出询问弹窗",
 			lua = "SYS_Exit_AskManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[344]=
+		{
+			id = 344,
+			key = "act_055_xhns",
+			desc = "积分赠礼",
+			lua = "Act_055_XHNSManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
