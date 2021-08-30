@@ -35744,7 +35744,7 @@ return {
 		{
 			id = 1145,
 			source_id = 691,
-			source_type = "xiaoxiaole_sanguo_game_num ",
+			source_type = "xiaoxiaole_sanguo_game_num",
 			condition_id = 0,
 		},
 	},
