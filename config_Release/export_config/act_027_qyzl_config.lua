@@ -218,8 +218,8 @@ return {
 			ljyj_permiss = "actp_own_task_p_hljnh_046_hlfl_cjj",
 			cz_task_id = 1000698,
 			taskid = 1000697,
-			end_time = 1630339199,
-			sta_time = 1627948800,
+			end_time = 1632758399,
+			sta_time = 1630368000,
 			condiy_key = "actp_own_task_p_hljnh_046_hlfl_cjj",
 			btn_gotoui = "game_MiniGame",
 		},
@@ -229,7 +229,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			content = "1.活动时间：8月3日08:00:00—8月30日23:59:59。",
+			content = "1.活动时间：8月31日08:00:00—9月27日23:59:59。",
 		},
 		[2]=
 		{

@@ -3313,11 +3313,11 @@ return {
 		[338]=
 		{
 			id = 338,
-			key = "act_ty_zp1_style/act_ty_zp1_006",
+			key = "act_ty_zp1_style/act_ty_zp1_007",
 			desc = "通用转盘皮肤",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[339]=
 		{

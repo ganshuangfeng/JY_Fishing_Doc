@@ -2334,6 +2334,12 @@ return {
 			name = "游戏互导欢乐天天捕鱼、冲金鸡CPL获取CDK权限",
 			condi = 503,
 		},
+		weekly_act_can_show=
+		{
+			key = "weekly_act_can_show",
+			name = "活动显示（非天天欢乐捕鱼VIVO渠道）",
+			condi = 510,
+		},
 	},
 	act_permission=
 	{
@@ -18455,6 +18461,16 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "VIP8及以上用户",
+		},
+		[1117]=
+		{
+			no = 1117,
+			id = 510,
+			var = "market_channel",
+			value = "vivo",
+			judge = 5,
+			group = 1,
+			error_desc = "不是欢乐天天捕鱼vivo渠道玩家",
 		},
 	},
 	share_condition=

@@ -3086,7 +3086,7 @@ return {
 		[315]=
 		{
 			id = 315,
-			key = "sys_act_base_style/sys_act_base_weekly_027",
+			key = "sys_act_base_style/sys_act_base_weekly_031",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3305,6 +3305,16 @@ return {
 			key = "act_027_qyzl",
 			desc = "七月赠礼",
 			lua = "Act_027_QYZLManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[338]=
+		{
+			id = 338,
+			key = "act_055_xhns",
+			desc = "积分赠礼",
+			lua = "Act_055_XHNSManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

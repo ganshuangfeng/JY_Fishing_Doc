@@ -3253,7 +3253,7 @@ return {
 		[332]=
 		{
 			id = 332,
-			key = "act_ty_zp1_style/act_ty_zp1_004",
+			key = "act_ty_zp1_style/act_ty_zp1_007",
 			desc = "通用转盘皮肤",
 			is_on_off = 1,
 			enable = 1,
