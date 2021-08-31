@@ -15848,14 +15848,14 @@ return {
 		{
 			id = 1000688,
 			enable = 1,
-			name = "越消越开心",
+			name = "消除能手",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 22046,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1627920000,
-			end_valid_time = 1630339199,
+			start_valid_time = 1631548800,
+			end_valid_time = 1632153599,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -27420,7 +27420,7 @@ return {
 			process_id = 22046,
 			source_id = 632,
 			process = {1000,1000,3000,5000,10000,20000,40000,40000,80000,100000},
-			awards = {1426,1427,1428,1429,1430,1431,1432,1433,1434,1435},
+			awards = {1564,1565,1566,1567,1568,1569,1570,1571,1572,1573},
 			get_award_type = "random",
 		},
 		[1099]=
@@ -61572,6 +61572,86 @@ return {
 			award_id = 1563,
 			asset_type = "prop_tiny_game_coin",
 			asset_count = 160000,
+			get_weight = 1,
+		},
+		[2486]=
+		{
+			id = 2486,
+			award_id = 1564,
+			asset_type = "shop_gold_sum",
+			asset_count = {10,14},
+			get_weight = 1,
+		},
+		[2487]=
+		{
+			id = 2487,
+			award_id = 1565,
+			asset_type = "jing_bi",
+			asset_count = {10000,14000},
+			get_weight = 1,
+		},
+		[2488]=
+		{
+			id = 2488,
+			award_id = 1566,
+			asset_type = "shop_gold_sum",
+			asset_count = {35,35},
+			get_weight = 1,
+		},
+		[2489]=
+		{
+			id = 2489,
+			award_id = 1567,
+			asset_type = "shop_gold_sum",
+			asset_count = {55,65},
+			get_weight = 1,
+		},
+		[2490]=
+		{
+			id = 2490,
+			award_id = 1568,
+			asset_type = "jing_bi",
+			asset_count = {100000,140000},
+			get_weight = 1,
+		},
+		[2491]=
+		{
+			id = 2491,
+			award_id = 1569,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = {200000,280000},
+			get_weight = 1,
+		},
+		[2492]=
+		{
+			id = 2492,
+			award_id = 1570,
+			asset_type = "shop_gold_sum",
+			asset_count = {420,540},
+			get_weight = 1,
+		},
+		[2493]=
+		{
+			id = 2493,
+			award_id = 1571,
+			asset_type = "jing_bi",
+			asset_count = {420000,540000},
+			get_weight = 1,
+		},
+		[2494]=
+		{
+			id = 2494,
+			award_id = 1572,
+			asset_type = "jing_bi",
+			asset_count = {900000,1020000},
+			get_weight = 1,
+		},
+		[2495]=
+		{
+			id = 2495,
+			award_id = 1573,
+			asset_type = "shop_gold_sum",
+			asset_count = {1000,1400},
 			get_weight = 1,
 		},
 	},
