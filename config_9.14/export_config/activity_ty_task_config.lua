@@ -132,7 +132,7 @@ return {
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {129,130,131,132,133,134,135,136,137},
+			task_index = {129,130,162,163,164,165,166,167,137},
 		},
 		[3]=
 		{
@@ -230,7 +230,7 @@ return {
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {120,121,122,123,124,125,126,127,128},
+			task_index = {120,121,156,157,158,159,160,161,128},
 		},
 		[14]=
 		{
@@ -1974,6 +1974,138 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin",},
 			count = {480000,160000,},
 			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[156]=
+		{
+			id = 156,
+			task = 1000771,
+			total = 3,
+			task_name = "在3D捕鱼中累计使用3次锁定",
+			level = 1,
+			item = {"jing_bi",},
+			count = {888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[157]=
+		{
+			id = 157,
+			task = 1000771,
+			total = 10,
+			task_name = "在3D捕鱼中累计使用10次锁定",
+			level = 2,
+			item = {"jing_bi",},
+			count = {1888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[158]=
+		{
+			id = 158,
+			task = 1000771,
+			total = 20,
+			task_name = "在3D捕鱼中累计使用20次锁定",
+			level = 3,
+			item = {"jing_bi",},
+			count = {2888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[159]=
+		{
+			id = 159,
+			task = 1000771,
+			total = 30,
+			task_name = "在3D捕鱼中累计使用30次锁定",
+			level = 4,
+			item = {"jing_bi",},
+			count = {3888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[160]=
+		{
+			id = 160,
+			task = 1000772,
+			total = 10,
+			task_name = "在西游消消乐中使用3万及以上档次游戏10次",
+			level = 1,
+			item = {"jing_bi",},
+			count = {5888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[161]=
+		{
+			id = 161,
+			task = 1000772,
+			total = 20,
+			task_name = "在西游消消乐中使用3万及以上档次游戏20次",
+			level = 2,
+			item = {"jing_bi",},
+			count = {6888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[162]=
+		{
+			id = 162,
+			task = 1000773,
+			total = 18,
+			task_name = "在水果消消乐中累计消除18个西瓜",
+			level = 1,
+			item = {"jing_bi",},
+			count = {888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[163]=
+		{
+			id = 163,
+			task = 1000773,
+			total = 48,
+			task_name = "在水果消消乐中累计消除48个西瓜",
+			level = 2,
+			item = {"jing_bi",},
+			count = {1888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[164]=
+		{
+			id = 164,
+			task = 1000773,
+			total = 88,
+			task_name = "在水果消消乐中累计消除88个西瓜",
+			level = 3,
+			item = {"jing_bi",},
+			count = {2888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[165]=
+		{
+			id = 165,
+			task = 1000773,
+			total = 128,
+			task_name = "在水果消消乐中累计消除128个西瓜",
+			level = 4,
+			item = {"jing_bi",},
+			count = {3888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[166]=
+		{
+			id = 166,
+			task = 1000773,
+			total = 188,
+			task_name = "在水果消消乐中累计消除188个西瓜",
+			level = 5,
+			item = {"jing_bi",},
+			count = {5888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[167]=
+		{
+			id = 167,
+			task = 1000774,
+			total = 3,
+			task_name = "在水果消消乐中触发3次幸运时刻",
+			level = 1,
+			item = {"jing_bi",},
+			count = {6888,},
+			gotoUI = {"game_MiniGame",},
 		},
 	},
 }
