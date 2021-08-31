@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_030",
+			key = "sys_act_base_style/sys_act_base_weekly_032",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
