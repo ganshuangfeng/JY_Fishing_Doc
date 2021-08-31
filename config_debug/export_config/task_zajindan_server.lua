@@ -60341,8 +60341,8 @@ return {
 		{
 			id = 2417,
 			award_id = 1513,
-			asset_type = "shop_gold_sum",
-			asset_count = 50,
+			asset_type = "jing_bi",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[2418]=
@@ -60357,8 +60357,8 @@ return {
 		{
 			id = 2419,
 			award_id = 1515,
-			asset_type = "shop_gold_sum",
-			asset_count = 500,
+			asset_type = "jing_bi",
+			asset_count = 500000,
 			get_weight = 1,
 		},
 		[2420]=
@@ -60373,8 +60373,8 @@ return {
 		{
 			id = 2421,
 			award_id = 1517,
-			asset_type = "shop_gold_sum",
-			asset_count = 1500,
+			asset_type = "jing_bi",
+			asset_count = 1500000,
 			get_weight = 1,
 		},
 		[2422]=
@@ -60389,8 +60389,8 @@ return {
 		{
 			id = 2423,
 			award_id = 1519,
-			asset_type = "shop_gold_sum",
-			asset_count = 4000,
+			asset_type = "jing_bi",
+			asset_count = 4000000,
 			get_weight = 1,
 		},
 		[2424]=
@@ -60405,8 +60405,8 @@ return {
 		{
 			id = 2425,
 			award_id = 1521,
-			asset_type = "shop_gold_sum",
-			asset_count = 15000,
+			asset_type = "jing_bi",
+			asset_count = 15000000,
 			get_weight = 1,
 		},
 		[2426]=

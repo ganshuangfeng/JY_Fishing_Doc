@@ -47,7 +47,7 @@ return {
 		{
 			line = 1,
 			icon = "cjlb_Iphone12_2",
-			name = "美的空调",
+			name = "iPhone12",
 			award_id = 12093,
 		},
 		[2]=
@@ -177,7 +177,7 @@ return {
 		{
 			line = 1,
 			icon = "cjlb_Iphone12_2",
-			name = "美的空调",
+			name = "iPhone12",
 			award_id = 12100,
 		},
 		[2]=
