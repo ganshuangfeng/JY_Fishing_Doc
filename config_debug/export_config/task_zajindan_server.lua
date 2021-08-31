@@ -35688,7 +35688,7 @@ return {
 		{
 			id = 1137,
 			source_id = 683,
-			source_type = "children_task_complete",
+			source_type = "task_award_count",
 			condition_id = 513,
 		},
 		[1138]=
@@ -35709,7 +35709,7 @@ return {
 		{
 			id = 1140,
 			source_id = 686,
-			source_type = "children_task_complete",
+			source_type = "task_award_count",
 			condition_id = 515,
 		},
 		[1141]=
