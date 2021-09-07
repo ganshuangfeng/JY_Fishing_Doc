@@ -276,10 +276,10 @@ return {
 		[35]=
 		{
 			id = 35,
-			enable = 0,
+			enable = 1,
 			prop_type = "prop_qdlb_cjq",
-			start_time = 1627948800,
-			recycle_time = 1628524799,
+			start_time = 1630972800,
+			recycle_time = 1631548799,
 		},
 		[36]=
 		{
@@ -470,16 +470,16 @@ return {
 			id = 59,
 			enable = 1,
 			prop_type = "prop_qdlb_cjq_cjj",
-			start_time = 1619481600,
-			recycle_time = 1627315199,
+			start_time = 1630972800,
+			recycle_time = 1631548799,
 		},
 		[60]=
 		{
 			id = 60,
 			enable = 1,
 			prop_type = "prop_grade",
-			start_time = 1627948800,
-			recycle_time = 1628524799,
+			start_time = 1630972800,
+			recycle_time = 1631548799,
 		},
 	},
 	player_ext_status=

@@ -3050,7 +3050,7 @@ return {
 		[311]=
 		{
 			id = 311,
-			key = "act_ty_sjb_style/act_016_dlphb",
+			key = "act_ty_sjb_style/act_028_dlphb",
 			desc = "掉落排行榜皮肤（消耗）",
 			is_on_off = 0,
 			enable = 0,
@@ -3086,7 +3086,7 @@ return {
 		[315]=
 		{
 			id = 315,
-			key = "sys_act_base_style/sys_act_base_weekly_032",
+			key = "sys_act_base_style/sys_act_base_weekly_033",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,

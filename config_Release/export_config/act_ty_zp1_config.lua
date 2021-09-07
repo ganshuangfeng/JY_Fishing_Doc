@@ -25,20 +25,18 @@ return {
 		[1]=
 		{
 			line = 1,
-			sta_t = 1624924800,
-			end_t = 1627315199,
-			help_info = {"1.活动时间：6月29日8:00-7月26日23:59:59。","2.活动期间购买礼包赠送抽奖券，使用抽奖券可参与抽奖。","3.请及时使用您的抽奖券，活动结束后未使用的抽奖券视为放弃。",},
-			cur_path = "act_ty_zp1_004",
+			sta_t = 1630972800,
+			end_t = 1631548799,
+			cur_path = "act_ty_zp1_007",
 			xg_desc = "礼包不限购",
 			sort = 0,
 		},
 		[2]=
 		{
 			line = 2,
-			sta_t = 1627948800,
-			end_t = 1628524799,
-			help_info = {"1.活动时间：8月3日8:00-8月9日23:59:59。","2.活动期间购买礼包赠送抽奖券，使用抽奖券可参与抽奖。","3.请及时使用您的抽奖券，活动结束后未使用的抽奖券视为放弃。",},
-			cur_path = "act_ty_zp1_006",
+			sta_t = 1630972800,
+			end_t = 1631548799,
+			cur_path = "act_ty_zp1_007",
 			xg_desc = "礼包不限购",
 			sort = 0,
 		},
@@ -48,8 +46,8 @@ return {
 		[1]=
 		{
 			line = 1,
-			icon = "xslb_mdkt_1",
-			name = "美的空调",
+			icon = "cjlb_Iphone12_2",
+			name = "iPhone12",
 			award_id = 12093,
 		},
 		[2]=
@@ -178,8 +176,8 @@ return {
 		[1]=
 		{
 			line = 1,
-			icon = "cqlb_mdkt_1",
-			name = "美的空调",
+			icon = "cjlb_Iphone12_2",
+			name = "iPhone12",
 			award_id = 12100,
 		},
 		[2]=

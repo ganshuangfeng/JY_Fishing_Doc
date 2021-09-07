@@ -930,9 +930,9 @@ return {
 		[87]=
 		{
 			id = 87,
-			name = "桃花礼包抽奖（转盘）",
-			start_time = 1627948800,
-			end_time = 1628524799,
+			name = "抽奖礼包",
+			start_time = 1630972800,
+			end_time = 1631548799,
 			use_asset_id = 80,
 			award_id = 86,
 			enable = 1,
@@ -1050,9 +1050,9 @@ return {
 		[99]=
 		{
 			id = 99,
-			name = "消暑礼包",
-			start_time = 1624924800,
-			end_time = 1627315199,
+			name = "抽奖礼包",
+			start_time = 1630972800,
+			end_time = 1631548799,
 			use_asset_id = 88,
 			award_id = 94,
 			enable = 1,
@@ -10780,7 +10780,7 @@ return {
 		{
 			id = 621,
 			real_award_id = 12093,
-			award_name = "美的空调",
+			award_name = "Iphone12",
 			asset_count = {1,1},
 		},
 		[622]=
@@ -10829,7 +10829,7 @@ return {
 		{
 			id = 628,
 			real_award_id = 12100,
-			award_name = "美的空调",
+			award_name = "Iphone12",
 			asset_count = {1,1},
 		},
 		[629]=

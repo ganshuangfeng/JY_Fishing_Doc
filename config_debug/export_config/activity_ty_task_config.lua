@@ -132,39 +132,43 @@ return {
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {129,130,131,132,133,134,135,136,137},
+			task_index = {129,130,162,163,164,165,166,167,137},
 		},
 		[3]=
 		{
 			tge_index = 3,
 			name = "限时返利--v3_normal",
-			on_off = 0,
-			is_show = 0,
-			order = 0,
+			on_off = 1,
+			is_show = 1,
+			order = 1,
+			task_index = {143,144,145,146},
 		},
 		[4]=
 		{
 			tge_index = 4,
 			name = "限时返利--v4_normal",
-			on_off = 0,
-			is_show = 0,
-			order = 0,
+			on_off = 1,
+			is_show = 1,
+			order = 1,
+			task_index = {138,139,140,141,142},
 		},
 		[5]=
 		{
 			tge_index = 5,
 			name = "限时返利--v3_cjj",
-			on_off = 0,
-			is_show = 0,
-			order = 0,
+			on_off = 1,
+			is_show = 1,
+			order = 1,
+			task_index = {152,153,154,155},
 		},
 		[6]=
 		{
 			tge_index = 6,
 			name = "限时返利--v4_cjj",
-			on_off = 0,
-			is_show = 0,
-			order = 0,
+			on_off = 1,
+			is_show = 1,
+			order = 1,
+			task_index = {147,148,149,150,151},
 		},
 		[7]=
 		{
@@ -226,7 +230,7 @@ return {
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {120,121,122,123,124,125,126,127,128},
+			task_index = {120,121,156,157,158,159,160,161,128},
 		},
 		[14]=
 		{
@@ -1307,8 +1311,8 @@ return {
 			task_name = "累计充值10元",
 			level = 1,
 			is_cz = 1,
-			item = {"jing_bi",},
-			count = {5000,},
+			item = {"shop_gold_sum",},
+			count = {50,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
 		[97]=
@@ -1331,8 +1335,8 @@ return {
 			task_name = "累计充值198元",
 			level = 3,
 			is_cz = 1,
-			item = {"jing_bi",},
-			count = {500000,},
+			item = {"shop_gold_sum",},
+			count = {500,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
 		[99]=
@@ -1355,8 +1359,8 @@ return {
 			task_name = "累计充值1000元",
 			level = 5,
 			is_cz = 1,
-			item = {"jing_bi",},
-			count = {1500000,},
+			item = {"shop_gold_sum",},
+			count = {1500,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
 		[101]=
@@ -1379,8 +1383,8 @@ return {
 			task_name = "累计充值3000元",
 			level = 7,
 			is_cz = 1,
-			item = {"jing_bi",},
-			count = {4000000,},
+			item = {"shop_gold_sum",},
+			count = {4000,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
 		[103]=
@@ -1403,8 +1407,8 @@ return {
 			task_name = "累计充值10000元",
 			level = 9,
 			is_cz = 1,
-			item = {"jing_bi",},
-			count = {15000000,},
+			item = {"shop_gold_sum",},
+			count = {15000,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
 		[105]=
@@ -1606,7 +1610,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {888,},
-			gotoUI = {"game_Fishing3DHall",},
+			gotoUI = {"game_MiniGame",},
 		},
 		[123]=
 		{
@@ -1617,7 +1621,7 @@ return {
 			level = 2,
 			item = {"jing_bi",},
 			count = {1888,},
-			gotoUI = {"game_Fishing3DHall",},
+			gotoUI = {"game_MiniGame",},
 		},
 		[124]=
 		{
@@ -1628,7 +1632,7 @@ return {
 			level = 3,
 			item = {"jing_bi",},
 			count = {2888,},
-			gotoUI = {"game_Fishing3DHall",},
+			gotoUI = {"game_MiniGame",},
 		},
 		[125]=
 		{
@@ -1639,7 +1643,7 @@ return {
 			level = 4,
 			item = {"jing_bi",},
 			count = {3888,},
-			gotoUI = {"game_Fishing3DHall",},
+			gotoUI = {"game_MiniGame",},
 		},
 		[126]=
 		{
@@ -1772,6 +1776,336 @@ return {
 			item = {"jing_bi",},
 			count = {8888,},
 			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[138]=
+		{
+			id = 138,
+			task = 1000753,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次2498元",
+			level = 1,
+			item = {"jing_bi","fish_coin",},
+			count = {11800000,2400000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[139]=
+		{
+			id = 139,
+			task = 1000754,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次998元",
+			level = 1,
+			item = {"jing_bi","fish_coin",},
+			count = {4800000,1280000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[140]=
+		{
+			id = 140,
+			task = 1000755,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次498元",
+			level = 1,
+			item = {"jing_bi","fish_coin",},
+			count = {1800000,800000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[141]=
+		{
+			id = 141,
+			task = 1000756,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次198元",
+			level = 1,
+			item = {"jing_bi","fish_coin",},
+			count = {800000,400000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[142]=
+		{
+			id = 142,
+			task = 1000757,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次98元",
+			level = 1,
+			item = {"jing_bi","fish_coin",},
+			count = {4800000,160000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[143]=
+		{
+			id = 143,
+			task = 1000758,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次15元",
+			level = 1,
+			item = {"jing_bi","fish_coin",},
+			count = {100000,40000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[144]=
+		{
+			id = 144,
+			task = 1000759,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次30元",
+			level = 1,
+			item = {"jing_bi","fish_coin",},
+			count = {180000,80000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[145]=
+		{
+			id = 145,
+			task = 1000760,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次50元",
+			level = 1,
+			item = {"jing_bi","fish_coin",},
+			count = {280000,120000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[146]=
+		{
+			id = 146,
+			task = 1000761,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次98元",
+			level = 1,
+			item = {"jing_bi","fish_coin",},
+			count = {480000,160000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[147]=
+		{
+			id = 147,
+			task = 1000762,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次2498元",
+			level = 1,
+			item = {"jing_bi","prop_tiny_game_coin",},
+			count = {11800000,2400000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[148]=
+		{
+			id = 148,
+			task = 1000763,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次998元",
+			level = 1,
+			item = {"jing_bi","prop_tiny_game_coin",},
+			count = {4800000,1280000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[149]=
+		{
+			id = 149,
+			task = 1000764,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次498元",
+			level = 1,
+			item = {"jing_bi","prop_tiny_game_coin",},
+			count = {1800000,800000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[150]=
+		{
+			id = 150,
+			task = 1000765,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次198元",
+			level = 1,
+			item = {"jing_bi","prop_tiny_game_coin",},
+			count = {800000,400000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[151]=
+		{
+			id = 151,
+			task = 1000766,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次98元",
+			level = 1,
+			item = {"jing_bi","prop_tiny_game_coin",},
+			count = {4800000,160000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[152]=
+		{
+			id = 152,
+			task = 1000767,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次15元",
+			level = 1,
+			item = {"jing_bi","prop_tiny_game_coin",},
+			count = {100000,40000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[153]=
+		{
+			id = 153,
+			task = 1000768,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次30元",
+			level = 1,
+			item = {"jing_bi","prop_tiny_game_coin",},
+			count = {180000,80000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[154]=
+		{
+			id = 154,
+			task = 1000769,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次50元",
+			level = 1,
+			item = {"jing_bi","prop_tiny_game_coin",},
+			count = {280000,120000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[155]=
+		{
+			id = 155,
+			task = 1000770,
+			total = 3,
+			task_name = "每天在游戏中累计购买3次98元",
+			level = 1,
+			item = {"jing_bi","prop_tiny_game_coin",},
+			count = {480000,160000,},
+			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[156]=
+		{
+			id = 156,
+			task = 1000771,
+			total = 3,
+			task_name = "在3D捕鱼中累计使用3次锁定",
+			level = 1,
+			item = {"jing_bi",},
+			count = {888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[157]=
+		{
+			id = 157,
+			task = 1000771,
+			total = 10,
+			task_name = "在3D捕鱼中累计使用10次锁定",
+			level = 2,
+			item = {"jing_bi",},
+			count = {1888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[158]=
+		{
+			id = 158,
+			task = 1000771,
+			total = 20,
+			task_name = "在3D捕鱼中累计使用20次锁定",
+			level = 3,
+			item = {"jing_bi",},
+			count = {2888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[159]=
+		{
+			id = 159,
+			task = 1000771,
+			total = 30,
+			task_name = "在3D捕鱼中累计使用30次锁定",
+			level = 4,
+			item = {"jing_bi",},
+			count = {3888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[160]=
+		{
+			id = 160,
+			task = 1000772,
+			total = 10,
+			task_name = "在西游消消乐中使用3万及以上档次游戏10次",
+			level = 1,
+			item = {"jing_bi",},
+			count = {5888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[161]=
+		{
+			id = 161,
+			task = 1000772,
+			total = 20,
+			task_name = "在西游消消乐中使用3万及以上档次游戏20次",
+			level = 2,
+			item = {"jing_bi",},
+			count = {6888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[162]=
+		{
+			id = 162,
+			task = 1000773,
+			total = 18,
+			task_name = "在水果消消乐中累计消除18个西瓜",
+			level = 1,
+			item = {"jing_bi",},
+			count = {888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[163]=
+		{
+			id = 163,
+			task = 1000773,
+			total = 48,
+			task_name = "在水果消消乐中累计消除48个西瓜",
+			level = 2,
+			item = {"jing_bi",},
+			count = {1888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[164]=
+		{
+			id = 164,
+			task = 1000773,
+			total = 88,
+			task_name = "在水果消消乐中累计消除88个西瓜",
+			level = 3,
+			item = {"jing_bi",},
+			count = {2888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[165]=
+		{
+			id = 165,
+			task = 1000773,
+			total = 128,
+			task_name = "在水果消消乐中累计消除128个西瓜",
+			level = 4,
+			item = {"jing_bi",},
+			count = {3888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[166]=
+		{
+			id = 166,
+			task = 1000773,
+			total = 188,
+			task_name = "在水果消消乐中累计消除188个西瓜",
+			level = 5,
+			item = {"jing_bi",},
+			count = {5888,},
+			gotoUI = {"game_MiniGame",},
+		},
+		[167]=
+		{
+			id = 167,
+			task = 1000774,
+			total = 3,
+			task_name = "在水果消消乐中触发3次幸运时刻",
+			level = 1,
+			item = {"jing_bi",},
+			count = {6888,},
+			gotoUI = {"game_MiniGame",},
 		},
 	},
 }

@@ -1236,7 +1236,6 @@ return {
 			id = 120,
 			parm = {"act_ty_zp1",},
 			is_on_off = 1,
-			condi_key = "cpl_notcjj",
 		},
 		[121]=
 		{

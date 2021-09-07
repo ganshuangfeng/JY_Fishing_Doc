@@ -3886,8 +3886,8 @@ return {
 			image = "act_ty_zp1_cjq_cjj",
 			is_show_bag = 0,
 			order = 33,
-			name = "超值礼包抽奖券",
-			desc = "超值礼包抽奖券",
+			name = "抽奖礼包抽奖券",
+			desc = "抽奖礼包抽奖券",
 		},
 		[288]=
 		{
@@ -4400,8 +4400,8 @@ return {
 			image = "act_ty_zp1_cjq_cjj",
 			is_show_bag = 0,
 			order = 33,
-			name = "超值礼包抽奖券",
-			desc = "超值礼包抽奖券_cjj",
+			name = "抽奖礼包抽奖券",
+			desc = "抽奖礼包抽奖券_cjj",
 		},
 		[326]=
 		{

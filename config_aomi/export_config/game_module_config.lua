@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_031",
+			key = "sys_act_base_style/sys_act_base_weekly_032",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3303,11 +3303,11 @@ return {
 		[337]=
 		{
 			id = 337,
-			key = "act_ty_zp1_style/act_ty_zp1_006",
+			key = "act_ty_zp1_style/act_ty_zp1_007",
 			desc = "通用转盘皮肤",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[338]=
 		{
