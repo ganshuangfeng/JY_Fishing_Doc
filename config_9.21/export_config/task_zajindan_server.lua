@@ -16583,15 +16583,15 @@ return {
 		[1000737]=
 		{
 			id = 1000737,
-			enable = 0,
+			enable = 1,
 			name = "累充返利",
 			own_type = "normal",
 			task_enum = "common",
 			process_id = 22095,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1630972800,
-			end_valid_time = 1631548799,
+			start_valid_time = 1632182400,
+			end_valid_time = 1632758399,
 			time_limit = -1,
 			is_send_client = 1,
 		},
