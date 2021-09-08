@@ -6786,7 +6786,7 @@ return {
 		[371]=
 		{
 			id = 371,
-			enable = 1,
+			enable = 0,
 			key = "actp_rank_xrkh_023_ygbd_rank",
 			name = "游戏达人",
 			condi = 393,
