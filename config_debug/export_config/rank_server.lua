@@ -713,7 +713,7 @@ return {
 		[52]=
 		{
 			id = 52,
-			enable = 1,
+			enable = 0,
 			rank_type = "ymshf_017_hldr_rank",
 			name = "欢乐达人",
 			begin_time = 1629763200,
@@ -754,11 +754,11 @@ return {
 		[55]=
 		{
 			id = 55,
-			enable = 0,
+			enable = 1,
 			rank_type = "xrkh_023_ygbd_rank",
 			name = "阳光榜单",
-			begin_time = 1627948800,
-			end_time = 1628524799,
+			begin_time = 1631577600,
+			end_time = 1632153599,
 			data_deal_type = "nor_add",
 			data_save_type = "single",
 			score_source = 48,
@@ -3825,7 +3825,7 @@ return {
 		{
 			id = 57,
 			reset_type = "fix_time",
-			reset_value = 1628524799,
+			reset_value = 1632153599,
 		},
 		[58]=
 		{
