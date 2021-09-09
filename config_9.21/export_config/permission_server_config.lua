@@ -7299,6 +7299,18 @@ return {
 			refresh_type = "now",
 			start_deal_time = 0,
 		},
+		[414]=
+		{
+			id = 414,
+			enable = 1,
+			key = "actp_own_task_p_new_player_task",
+			name = "新手任务（新玩家）",
+			condi = 510,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
+		},
 	},
 	condi=
 	{
@@ -18491,6 +18503,16 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是欢乐天天捕鱼vivo渠道玩家",
+		},
+		[1120]=
+		{
+			no = 1120,
+			id = 511,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新玩家",
 		},
 	},
 	share_condition=
