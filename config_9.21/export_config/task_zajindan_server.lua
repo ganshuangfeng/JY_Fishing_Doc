@@ -6836,7 +6836,7 @@ return {
 		[1000079]=
 		{
 			id = 1000079,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day1）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_1",
@@ -6850,7 +6850,7 @@ return {
 		[1000080]=
 		{
 			id = 1000080,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day2）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_2",
@@ -6864,7 +6864,7 @@ return {
 		[1000081]=
 		{
 			id = 1000081,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day3）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_3",
@@ -6878,7 +6878,7 @@ return {
 		[1000082]=
 		{
 			id = 1000082,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day3）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_3",
@@ -6892,7 +6892,7 @@ return {
 		[1000083]=
 		{
 			id = 1000083,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day3）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_3",
@@ -6906,7 +6906,7 @@ return {
 		[1000084]=
 		{
 			id = 1000084,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day3）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_3",
@@ -6920,7 +6920,7 @@ return {
 		[1000085]=
 		{
 			id = 1000085,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day3）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_3",
@@ -6934,7 +6934,7 @@ return {
 		[1000086]=
 		{
 			id = 1000086,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day4）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_4",
@@ -6948,7 +6948,7 @@ return {
 		[1000087]=
 		{
 			id = 1000087,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day5）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_5",
@@ -6962,7 +6962,7 @@ return {
 		[1000088]=
 		{
 			id = 1000088,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day5）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_5",
@@ -6976,7 +6976,7 @@ return {
 		[1000089]=
 		{
 			id = 1000089,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day6）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_6",
@@ -6990,7 +6990,7 @@ return {
 		[1000090]=
 		{
 			id = 1000090,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day7）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_7",
@@ -7004,7 +7004,7 @@ return {
 		[1000091]=
 		{
 			id = 1000091,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day7）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_7",
@@ -7018,7 +7018,7 @@ return {
 		[1000092]=
 		{
 			id = 1000092,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day7）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_7",
@@ -7032,7 +7032,7 @@ return {
 		[1000093]=
 		{
 			id = 1000093,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day7）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_7",
@@ -7046,7 +7046,7 @@ return {
 		[1000094]=
 		{
 			id = 1000094,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐（day7）",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_7",
@@ -7060,7 +7060,7 @@ return {
 		[1000095]=
 		{
 			id = 1000095,
-			enable = 1,
+			enable = 0,
 			name = "新人七天乐总任务",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_1",
