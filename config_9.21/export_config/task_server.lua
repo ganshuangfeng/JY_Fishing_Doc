@@ -1746,7 +1746,7 @@ return {
 		{
 			id = 30024,
 			enable = 1,
-			name = "新人七天乐（day1）-累计捕获5\10\20\30\50条鱼",
+			name = "新人七天乐（day1）-累计捕获5-10-20-30-50条鱼",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_1",
 			process_id = 124,
@@ -1761,7 +1761,7 @@ return {
 		{
 			id = 30025,
 			enable = 1,
-			name = "新人七天乐（day2）-累计使用1\3\10次锁定",
+			name = "新人七天乐（day2）-累计使用1-3-10次锁定",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_2",
 			process_id = 125,
@@ -1776,7 +1776,7 @@ return {
 		{
 			id = 30026,
 			enable = 1,
-			name = "新人七天乐（day2）-累计使用3\10次冰冻",
+			name = "新人七天乐（day2）-累计使用3-10次冰冻",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_2",
 			process_id = 126,
@@ -1791,7 +1791,7 @@ return {
 		{
 			id = 30027,
 			enable = 1,
-			name = "新人七天乐（day3）-累计开炮200\500\1000\3000\5000发",
+			name = "新人七天乐（day3）-累计开炮200-500-1000-3000-5000发",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_3",
 			process_id = 127,
@@ -1806,7 +1806,7 @@ return {
 		{
 			id = 30028,
 			enable = 1,
-			name = "新人七天乐（day4）-累计捕获20\50\100\200\500条鱼",
+			name = "新人七天乐（day4）-累计捕获20-50-100-200-500条鱼",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_4",
 			process_id = 128,
@@ -1821,7 +1821,7 @@ return {
 		{
 			id = 30029,
 			enable = 1,
-			name = "新人七天乐（day5）-累计捕获1\5\10\15\20条黄金鱼",
+			name = "新人七天乐（day5）-累计捕获1-5-10-15-20条黄金鱼",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_5",
 			process_id = 129,
@@ -1836,7 +1836,7 @@ return {
 		{
 			id = 30030,
 			enable = 1,
-			name = "新人七天乐（day6）-累计消耗1000\5000\10000\30000\50000万金币",
+			name = "新人七天乐（day6）-累计消耗1000-5000-10000-30000-50000万金币",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_6",
 			process_id = 130,
@@ -1851,7 +1851,7 @@ return {
 		{
 			id = 30031,
 			enable = 1,
-			name = "新人七天乐（day7）-累计充值10\100\200\500\1000元",
+			name = "新人七天乐（day7）-累计充值10-100-200-500-1000元",
 			own_type = "p_xrqtl_new",
 			task_enum = "new_player_seven_day_7",
 			process_id = 131,
