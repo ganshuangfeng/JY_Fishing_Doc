@@ -1778,6 +1778,13 @@ return {
 			task_id = 1000686,
 			award_rate = {1,1.1,1.3,1.5},
 		},
+		[138]=
+		{
+			id = 138,
+			source_id = 48,
+			source_type = "guess_apple_spend",
+			condtion_id = 0,
+		},
 	},
 	source_condition=
 	{
