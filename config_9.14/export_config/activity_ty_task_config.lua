@@ -141,7 +141,7 @@ return {
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {143.144.145,146},
+			task_index = {143,144,145,146},
 		},
 		[4]=
 		{
