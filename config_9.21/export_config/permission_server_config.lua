@@ -6789,7 +6789,7 @@ return {
 			enable = 0,
 			key = "actp_rank_xrkh_023_ygbd_rank",
 			name = "游戏达人",
-			condi = 393,
+			condi = 510,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "day_delay",
