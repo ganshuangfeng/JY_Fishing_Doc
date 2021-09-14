@@ -17,7 +17,7 @@ return {
 			extra_award = {8,9,10,11,12,13,14},
 			path = "act_029_dlphb",
 			condiy_key = "actp_rank_ymshf_017_hldr_rank",
-			type_info = 100000,
+			type_info = 10000,
 			is_have_point = 1,
 			act_gift_key = "gift_khlb",
 		},
