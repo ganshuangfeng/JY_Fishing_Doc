@@ -5,7 +5,7 @@ return {
 		{
 			line = 1,
 			task_id = 15001,
-			task_icon = "rw_icon_mrzz",
+			task_icon = "rw_icon_bh",
 			icon_id = 1,
 			text = "捕鱼任意鱼10条",
 			random = 0,
@@ -16,7 +16,7 @@ return {
 		{
 			line = 2,
 			task_id = 15002,
-			task_icon = "rw_icon_ljpd",
+			task_icon = "rw_icon_mrzz",
 			icon_id = 1,
 			text = "累计消耗金币3万",
 			random = 0,
@@ -27,7 +27,7 @@ return {
 		{
 			line = 3,
 			task_id = 15003,
-			task_icon = "rw_icon_bh",
+			task_icon = "rw_icon_mrzz",
 			icon_id = 1,
 			text = "累计消耗金币4万",
 			random = 0,
@@ -60,7 +60,7 @@ return {
 		{
 			line = 6,
 			task_id = 15006,
-			task_icon = "3dby_btn_js",
+			task_icon = "rw_icon_bh",
 			icon_id = 2,
 			text = "捕鱼任意鱼10条",
 			random = 0,
@@ -71,7 +71,7 @@ return {
 		{
 			line = 7,
 			task_id = 15007,
-			task_icon = "3dby_btn_kb",
+			task_icon = "rw_icon_bh",
 			icon_id = 2,
 			text = "捕鱼任意鱼20条",
 			random = 0,
@@ -82,7 +82,7 @@ return {
 		{
 			line = 8,
 			task_id = 15008,
-			task_icon = "3dby_btn_jb",
+			task_icon = "rw_icon_bh",
 			icon_id = 2,
 			text = "捕鱼任意鱼30条",
 			random = 0,
@@ -93,7 +93,7 @@ return {
 		{
 			line = 9,
 			task_id = 15009,
-			task_icon = "3dby_icon_yu22",
+			task_icon = "rw_icon_ljpd",
 			icon_id = 2,
 			text = "累计开炮数100发",
 			random = 0,
@@ -104,7 +104,7 @@ return {
 		{
 			line = 10,
 			task_id = 15010,
-			task_icon = "3dby_icon_yu25",
+			task_icon = "rw_icon_ljpd",
 			icon_id = 2,
 			text = "累计开炮数200发",
 			random = 0,
@@ -115,7 +115,7 @@ return {
 		{
 			line = 11,
 			task_id = 15011,
-			task_icon = "3dby_icon_yu24",
+			task_icon = "rw_icon_mrzz",
 			icon_id = 2,
 			text = "累计消耗金币3万",
 			random = 0,
@@ -126,7 +126,7 @@ return {
 		{
 			line = 12,
 			task_id = 15012,
-			task_icon = "rw_icon_js",
+			task_icon = "rw_icon_mrzz",
 			icon_id = 1,
 			text = "累计消耗金币4万",
 			random = 0,
@@ -137,7 +137,7 @@ return {
 		{
 			line = 13,
 			task_id = 15013,
-			task_icon = "rw_icon_hd",
+			task_icon = "rw_icon_mrzz",
 			icon_id = 1,
 			text = "累计消耗金币5万",
 			random = 0,
