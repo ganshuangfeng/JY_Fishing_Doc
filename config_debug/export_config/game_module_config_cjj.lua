@@ -2535,7 +2535,7 @@ return {
 			key = "sys_fcm",
 			desc = "防沉迷",
 			lua = "SYSFCMManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
