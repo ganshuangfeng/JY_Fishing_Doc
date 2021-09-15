@@ -366,7 +366,7 @@ return {
 		{
 			id = 6,
 			area = "Right_hd",
-			group_list = "103#133#",
+			group_list = "103#29#133#",
 		},
 		[7]=
 		{
