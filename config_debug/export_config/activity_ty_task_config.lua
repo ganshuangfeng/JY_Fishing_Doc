@@ -1606,7 +1606,7 @@ return {
 			level = 1,
 			item = {"jing_bi",},
 			count = {888,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[123]=
 		{
@@ -1617,7 +1617,7 @@ return {
 			level = 2,
 			item = {"jing_bi",},
 			count = {1888,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[124]=
 		{
@@ -1628,7 +1628,7 @@ return {
 			level = 3,
 			item = {"jing_bi",},
 			count = {2888,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[125]=
 		{
@@ -1639,7 +1639,7 @@ return {
 			level = 4,
 			item = {"jing_bi",},
 			count = {3888,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[126]=
 		{
