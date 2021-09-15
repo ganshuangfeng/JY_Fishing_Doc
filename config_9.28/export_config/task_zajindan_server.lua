@@ -2360,7 +2360,7 @@ return {
 			name = "辞旧岁炸弹福利",
 			own_type = "permission_task",
 			task_enum = "common",
-			process_id = 21117,
+			process_id = {200000,},
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 1578931200,
@@ -17150,6 +17150,20 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000775]=
+		{
+			id = 1000775,
+			enable = 1,
+			name = "赢金送豪礼",
+			task_enum = "common:top",
+			process_id = 22133,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1632758400,
+			end_valid_time = 1633967999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -28196,6 +28210,15 @@ return {
 			awards = 1544,
 			get_award_type = "nor",
 		},
+		[1185]=
+		{
+			id = 1185,
+			process_id = 22133,
+			source_id = 703,
+			process = {5000000,5000000,20000000,20000000,50000000,100000000,300000000,300000000,200000000},
+			awards = {1574,1575,1576,1577,1578,1579,1580,1581,1582},
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -36350,6 +36373,48 @@ return {
 			id = 1156,
 			source_id = 702,
 			source_type = "xxl_lucky_award",
+			condition_id = 0,
+		},
+		[1157]=
+		{
+			id = 1157,
+			source_id = 703,
+			source_type = "xiaoxiaole_shuihu_award",
+			condition_id = 0,
+		},
+		[1158]=
+		{
+			id = 1158,
+			source_id = 703,
+			source_type = "xiaoxiaole_xiyou_award",
+			condition_id = 0,
+		},
+		[1159]=
+		{
+			id = 1159,
+			source_id = 703,
+			source_type = "xiaoxiaole_caishen_award",
+			condition_id = 0,
+		},
+		[1160]=
+		{
+			id = 1160,
+			source_id = 703,
+			source_type = "lianxianxiaoxiaole_award",
+			condition_id = 0,
+		},
+		[1161]=
+		{
+			id = 1161,
+			source_id = 703,
+			source_type = "xiaoxiaole_award",
+			condition_id = 0,
+		},
+		[1162]=
+		{
+			id = 1162,
+			source_id = 703,
+			source_type = "xiaoxiaole_sanguo_award",
 			condition_id = 0,
 		},
 	},
@@ -61652,6 +61717,78 @@ return {
 			award_id = 1573,
 			asset_type = "shop_gold_sum",
 			asset_count = {1000,1400},
+			get_weight = 1,
+		},
+		[2496]=
+		{
+			id = 2496,
+			award_id = 1574,
+			asset_type = "jing_bi",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[2497]=
+		{
+			id = 2497,
+			award_id = 1575,
+			asset_type = "jing_bi",
+			asset_count = 200000,
+			get_weight = 1,
+		},
+		[2498]=
+		{
+			id = 2498,
+			award_id = 1576,
+			asset_type = "jing_bi",
+			asset_count = 300000,
+			get_weight = 1,
+		},
+		[2499]=
+		{
+			id = 2499,
+			award_id = 1577,
+			asset_type = "jing_bi",
+			asset_count = 500000,
+			get_weight = 1,
+		},
+		[2500]=
+		{
+			id = 2500,
+			award_id = 1578,
+			asset_type = "jing_bi",
+			asset_count = 1000000,
+			get_weight = 1,
+		},
+		[2501]=
+		{
+			id = 2501,
+			award_id = 1579,
+			asset_type = "jing_bi",
+			asset_count = 3000000,
+			get_weight = 1,
+		},
+		[2502]=
+		{
+			id = 2502,
+			award_id = 1580,
+			asset_type = "jing_bi",
+			asset_count = 5000000,
+			get_weight = 1,
+		},
+		[2503]=
+		{
+			id = 2503,
+			award_id = 1581,
+			asset_type = "shop_gold_sum",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[2504]=
+		{
+			id = 2504,
+			award_id = 1582,
+			asset_type = "shop_gold_sum",
+			asset_count = 20000,
 			get_weight = 1,
 		},
 	},
