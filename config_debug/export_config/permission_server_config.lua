@@ -2340,6 +2340,30 @@ return {
 			name = "活动显示（非天天欢乐捕鱼VIVO渠道）",
 			condi = 510,
 		},
+		initial_new_player_normal=
+		{
+			key = "initial_new_player_normal",
+			name = "新玩家初始资产（官方渠道）",
+			condi = 512,
+		},
+		initial_new_player_cpl=
+		{
+			key = "initial_new_player_cpl",
+			name = "新玩家初始资产（CPL）",
+			condi = 513,
+		},
+		initial_new_player_cjj=
+		{
+			key = "initial_new_player_cjj",
+			name = "新玩家初始资产（冲金鸡）",
+			condi = 514,
+		},
+		initial_new_player_cps=
+		{
+			key = "initial_new_player_cps",
+			name = "新玩家初始资产（CPS渠道）",
+			condi = 515,
+		},
 	},
 	act_permission=
 	{
@@ -18513,6 +18537,46 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是新玩家",
+		},
+		[1121]=
+		{
+			no = 1121,
+			id = 512,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼官方玩家",
+		},
+		[1122]=
+		{
+			no = 1122,
+			id = 513,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼CPL玩家",
+		},
+		[1123]=
+		{
+			no = 1123,
+			id = 514,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是冲金鸡玩家",
+		},
+		[1124]=
+		{
+			no = 1124,
+			id = 515,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼CPS渠道玩家",
 		},
 	},
 	share_condition=
