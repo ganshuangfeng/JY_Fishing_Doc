@@ -791,6 +791,7 @@ return {
 			bannerID = 70,
 			isOnOff = 1,
 			order = -1000,
+			condi_key = "pt_fcm",
 			gotoUI = {"sys_fcm","sm_panel"},
 			model = "LoginUp",
 			srartTime = -1,

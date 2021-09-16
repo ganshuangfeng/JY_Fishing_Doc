@@ -1778,7 +1778,7 @@ return {
 		{
 			key = "pt_fcm",
 			name = "防沉迷系统（根据平台进行屏蔽）",
-			condi = 266,
+			condi = 516,
 		},
 		gfpt_tgxt=
 		{
@@ -18577,6 +18577,16 @@ return {
 			judge = 2,
 			group = 1,
 			error_desc = "是天天欢乐捕鱼CPS渠道玩家",
+		},
+		[1125]=
+		{
+			no = 1125,
+			id = 516,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是天天欢乐捕鱼CPS渠道玩家",
 		},
 	},
 	share_condition=
