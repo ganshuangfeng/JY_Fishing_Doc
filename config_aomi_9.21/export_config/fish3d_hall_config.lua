@@ -10,7 +10,7 @@ return {
 			game_type = "game_Fishing",
 			lvevl = 1,
 			order = 1,
-			enter_max = 100000,
+			enter_max = 200000,
 			is_on = 1,
 			recommend_min = 0,
 			recommend_max = 100000,
