@@ -5,13 +5,13 @@ return {
 		{
 			line = 1,
 			key = "beginTime",
-			value = 1632787200,
+			value = {1632787200,1632787200},
 		},
 		[2]=
 		{
 			line = 2,
 			key = "endTime",
-			value = 1633967999,
+			value = {1633967999,1633967999},
 		},
 		[3]=
 		{
