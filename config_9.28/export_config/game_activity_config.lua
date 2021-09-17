@@ -1428,7 +1428,7 @@ return {
 			endTime = 1633967999,
 			showType = "prefab",
 			parmData = "act_ty_task",
-			gotoUI = {"act_ty_task","act_lcfl","panel"},
+			gotoUI = {"act_ty_task","act_yjshl","panel"},
 			noCloseUI = 1,
 			tag = "normal",
 		},
