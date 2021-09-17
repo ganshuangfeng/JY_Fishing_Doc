@@ -18555,16 +18555,6 @@ return {
 		[1120]=
 		{
 			no = 1120,
-			id = 510,
-			var = "tag_type",
-			value = "tag_new_player",
-			judge = 2,
-			group = 1,
-			error_desc = "是新玩家",
-		},
-		[1121]=
-		{
-			no = 1121,
 			id = 511,
 			var = "share_condition",
 			value = "3dby_official",
@@ -18572,9 +18562,9 @@ return {
 			group = 1,
 			error_desc = "是天天欢乐捕鱼官方玩家",
 		},
-		[1122]=
+		[1121]=
 		{
-			no = 1122,
+			no = 1121,
 			id = 512,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -18582,9 +18572,9 @@ return {
 			group = 1,
 			error_desc = "是天天欢乐捕鱼CPL玩家",
 		},
-		[1123]=
+		[1122]=
 		{
-			no = 1123,
+			no = 1122,
 			id = 513,
 			var = "share_condition",
 			value = "cjj_all",
@@ -18592,9 +18582,9 @@ return {
 			group = 1,
 			error_desc = "是冲金鸡玩家",
 		},
-		[1124]=
+		[1123]=
 		{
-			no = 1124,
+			no = 1123,
 			id = 514,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -18602,9 +18592,9 @@ return {
 			group = 1,
 			error_desc = "是天天欢乐捕鱼CPS渠道玩家",
 		},
-		[1125]=
+		[1124]=
 		{
-			no = 1125,
+			no = 1124,
 			id = 515,
 			var = "share_condition",
 			value = "3dby_cps",
