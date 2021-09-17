@@ -7335,9 +7335,9 @@ return {
 			refresh_type = "now",
 			start_deal_time = 0,
 		},
-		[414]=
+		[415]=
 		{
-			id = 414,
+			id = 415,
 			enable = 1,
 			key = "actp_own_task_p_new_player_task_1",
 			name = "新手任务（新玩家）",
@@ -7347,9 +7347,9 @@ return {
 			refresh_type = "now",
 			start_deal_time = 0,
 		},
-		[415]=
+		[416]=
 		{
-			id = 415,
+			id = 416,
 			enable = 1,
 			key = "actp_own_task_p_new_player_task_2",
 			name = "新手任务（新玩家）",
