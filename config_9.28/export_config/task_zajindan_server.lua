@@ -16823,7 +16823,7 @@ return {
 		[1000753]=
 		{
 			id = 1000753,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_nor_v4up",
 			task_enum = "common",
@@ -16838,7 +16838,7 @@ return {
 		[1000754]=
 		{
 			id = 1000754,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_nor_v4up",
 			task_enum = "common",
@@ -16853,7 +16853,7 @@ return {
 		[1000755]=
 		{
 			id = 1000755,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_nor_v4up",
 			task_enum = "common",
@@ -16868,7 +16868,7 @@ return {
 		[1000756]=
 		{
 			id = 1000756,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_nor_v4up",
 			task_enum = "common",
@@ -16883,7 +16883,7 @@ return {
 		[1000757]=
 		{
 			id = 1000757,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_nor_v4up",
 			task_enum = "common",
@@ -16898,7 +16898,7 @@ return {
 		[1000758]=
 		{
 			id = 1000758,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_nor_v3down",
 			task_enum = "common",
@@ -16913,7 +16913,7 @@ return {
 		[1000759]=
 		{
 			id = 1000759,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_nor_v3down",
 			task_enum = "common",
@@ -16928,7 +16928,7 @@ return {
 		[1000760]=
 		{
 			id = 1000760,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_nor_v3down",
 			task_enum = "common",
@@ -16943,7 +16943,7 @@ return {
 		[1000761]=
 		{
 			id = 1000761,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_nor_v3down",
 			task_enum = "common",
@@ -16958,7 +16958,7 @@ return {
 		[1000762]=
 		{
 			id = 1000762,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_cjj_v4up",
 			task_enum = "common",
@@ -16973,7 +16973,7 @@ return {
 		[1000763]=
 		{
 			id = 1000763,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_cjj_v4up",
 			task_enum = "common",
@@ -16988,7 +16988,7 @@ return {
 		[1000764]=
 		{
 			id = 1000764,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_cjj_v4up",
 			task_enum = "common",
@@ -17003,7 +17003,7 @@ return {
 		[1000765]=
 		{
 			id = 1000765,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_cjj_v4up",
 			task_enum = "common",
@@ -17018,7 +17018,7 @@ return {
 		[1000766]=
 		{
 			id = 1000766,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_cjj_v4up",
 			task_enum = "common",
@@ -17033,7 +17033,7 @@ return {
 		[1000767]=
 		{
 			id = 1000767,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_cjj_v3down",
 			task_enum = "common",
@@ -17048,7 +17048,7 @@ return {
 		[1000768]=
 		{
 			id = 1000768,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_cjj_v3down",
 			task_enum = "common",
@@ -17063,7 +17063,7 @@ return {
 		[1000769]=
 		{
 			id = 1000769,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_cjj_v3down",
 			task_enum = "common",
@@ -17078,7 +17078,7 @@ return {
 		[1000770]=
 		{
 			id = 1000770,
-			enable = 1,
+			enable = 0,
 			name = "充值狂欢",
 			own_type = "p_continuity_buy_gift_cjj_v3down",
 			task_enum = "common",
@@ -17155,6 +17155,7 @@ return {
 			id = 1000775,
 			enable = 1,
 			name = "赢金送豪礼",
+			own_type = "p_task_not_vivo",
 			task_enum = "common:top",
 			process_id = 22133,
 			is_reset = 1,
