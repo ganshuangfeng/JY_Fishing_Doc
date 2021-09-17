@@ -121,6 +121,30 @@ return {
 			name = "赢金送豪礼",
 			tges = 15,
 		},
+		[17]=
+		{
+			index = 17,
+			key = "act_gqfl_hlttby",
+			icon = "gqfl_bg_1",
+			name = "国庆福利",
+			tges = 16,
+		},
+		[18]=
+		{
+			index = 18,
+			key = "act_gqfl_byam",
+			icon = "gqfl_bg_1",
+			name = "国庆福利",
+			tges = 17,
+		},
+		[19]=
+		{
+			index = 19,
+			key = "act_gqfl_cjj",
+			icon = "gqfl_bg_1",
+			name = "国庆福利",
+			tges = 18,
+		},
 	},
 	tge=
 	{
@@ -257,6 +281,33 @@ return {
 			is_show = 1,
 			order = 1,
 			task_index = {168,169,170,171,172,173,174,175,176},
+		},
+		[16]=
+		{
+			tge_index = 16,
+			name = "国庆福利",
+			on_off = 1,
+			is_show = 1,
+			order = 1,
+			task_index = {177,180,181,182},
+		},
+		[17]=
+		{
+			tge_index = 17,
+			name = "国庆福利",
+			on_off = 1,
+			is_show = 1,
+			order = 1,
+			task_index = {178,180,181,182},
+		},
+		[18]=
+		{
+			tge_index = 18,
+			name = "国庆福利",
+			on_off = 1,
+			is_show = 1,
+			order = 1,
+			task_index = {179,180,181,182},
 		},
 	},
 	task=
@@ -2222,6 +2273,72 @@ return {
 			item = {"shop_gold_sum",},
 			count = {20000,},
 			gotoUI = {"game_MiniGame",},
+		},
+		[177]=
+		{
+			id = 177,
+			task = 1000776,
+			total = 1,
+			task_name = "下载并登陆新游"捕鱼奥秘"",
+			level = 1,
+			item = {"jing_bi",},
+			count = {200000,},
+			link = {"http://cwww.game3396.com/webpages/hlbyDownload.html?platform=byam&market_channel=byam&pageType=byam&category=1",},
+		},
+		[178]=
+		{
+			id = 178,
+			task = 1000777,
+			total = 1,
+			task_name = "下载并登陆新游"欢乐天天捕鱼"",
+			level = 1,
+			item = {"jing_bi",},
+			count = {200000,},
+			link = {"http://cwww.game3396.com/webpages/hlbyDownload.html?platform=normal&market_channel=normal&pageType=normal&category=1",},
+		},
+		[179]=
+		{
+			id = 179,
+			task = 1000778,
+			total = 1,
+			task_name = "下载并登陆新游"欢乐天天捕鱼"",
+			level = 1,
+			item = {"jing_bi",},
+			count = {200000,},
+			link = {"http://cwww.game3396.com/webpages/hlbyDownload.html?platform=normal&market_channel=normal&pageType=normal&category=1",},
+		},
+		[180]=
+		{
+			id = 180,
+			task = 1000779,
+			total = 1,
+			task_name = "早餐福利（9:00-10:00在线)",
+			level = 1,
+			item = {"jing_bi",},
+			count = {2000,},
+			gotoUI = {"no_goto_ui","请重新登陆游戏",},
+		},
+		[181]=
+		{
+			id = 181,
+			task = 1000780,
+			total = 1,
+			task_name = "午餐福利（12:00-13:00在线)",
+			level = 1,
+			item = {"jing_bi",},
+			count = {3000,},
+			gotoUI = {"no_goto_ui","请重新登陆游戏",},
+		},
+		[182]=
+		{
+			id = 182,
+			task = 1000781,
+			total = 1,
+			task_name = "晚餐福利（18:00-19:00在线)",
+			level = 1,
+			item = {"jing_bi",},
+			count = {5000,},
+			gotoUI = {"no_goto_ui","请重新登陆游戏",},
 		},
 	},
 }
