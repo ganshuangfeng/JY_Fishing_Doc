@@ -1829,7 +1829,7 @@ return {
 			task_name = "每天在游戏中累计购买3次98元",
 			level = 1,
 			item = {"jing_bi","fish_coin",},
-			count = {480000,160000,},
+			count = {4800000,160000,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
 		[143]=
