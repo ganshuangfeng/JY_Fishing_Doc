@@ -2334,6 +2334,7 @@ return {
 			item = {"jing_bi",},
 			count = {2000,},
 			gotoUI = {"no_goto_ui","请重新登陆游戏",},
+			online = 1,
 		},
 		[181]=
 		{
@@ -2345,6 +2346,7 @@ return {
 			item = {"jing_bi",},
 			count = {3000,},
 			gotoUI = {"no_goto_ui","请重新登陆游戏",},
+			online = 1,
 		},
 		[182]=
 		{
@@ -2356,6 +2358,7 @@ return {
 			item = {"jing_bi",},
 			count = {5000,},
 			gotoUI = {"no_goto_ui","请重新登陆游戏",},
+			online = 1,
 		},
 	},
 }
