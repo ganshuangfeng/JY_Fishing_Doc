@@ -2179,7 +2179,7 @@ return {
 		{
 			id = 168,
 			task = 1000775,
-			total = 500000,
+			total = 5000000,
 			task_name = "任意消消乐游戏单笔赢金到达500万",
 			level = 1,
 			item = {"jing_bi",},

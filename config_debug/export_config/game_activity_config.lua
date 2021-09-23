@@ -1372,7 +1372,7 @@ return {
 			title = "国庆福袋",
 			order = 5,
 			is_on_off = 1,
-			condi_key = "platform_limit_notcjj_show",
+			condi_key = "actp_own_task_p_drop_act_nor",
 			beginTime = 1632787200,
 			endTime = 1633967999,
 			showType = "prefab",
