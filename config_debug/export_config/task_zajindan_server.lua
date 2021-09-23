@@ -17225,6 +17225,36 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000780]=
+		{
+			id = 1000780,
+			enable = 1,
+			name = "国庆福利",
+			own_type = "normal",
+			task_enum = "clock_active_task",
+			process_id = 22138,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1632758400,
+			end_valid_time = 1633967999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000781]=
+		{
+			id = 1000781,
+			enable = 1,
+			name = "国庆福利",
+			own_type = "normal",
+			task_enum = "clock_active_task",
+			process_id = 22139,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1632758400,
+			end_valid_time = 1633967999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -28311,9 +28341,27 @@ return {
 		{
 			id = 1189,
 			process_id = 22137,
-			process = {1,1,1},
+			process = 1,
 			awards_condition_id = 529,
-			awards = {1584,1585,1586},
+			awards = 1584,
+			get_award_type = "nor",
+		},
+		[1190]=
+		{
+			id = 1190,
+			process_id = 22138,
+			process = 1,
+			awards_condition_id = 530,
+			awards = 1585,
+			get_award_type = "nor",
+		},
+		[1191]=
+		{
+			id = 1191,
+			process_id = 22139,
+			process = 1,
+			awards_condition_id = 531,
+			awards = 1586,
 			get_award_type = "nor",
 		},
 	},
@@ -41935,7 +41983,23 @@ return {
 			id = 705,
 			condition_id = 529,
 			condition_name = "time_range",
-			condition_value = {32400,36000,43200,46800,64800,68400},
+			condition_value = {32400,36000},
+			judge_type = 2,
+		},
+		[706]=
+		{
+			id = 706,
+			condition_id = 530,
+			condition_name = "time_range",
+			condition_value = {43200,46800},
+			judge_type = 2,
+		},
+		[707]=
+		{
+			id = 707,
+			condition_id = 531,
+			condition_name = "time_range",
+			condition_value = {64800,68400},
 			judge_type = 2,
 		},
 	},

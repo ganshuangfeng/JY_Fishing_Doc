@@ -2338,10 +2338,10 @@ return {
 		[181]=
 		{
 			id = 181,
-			task = 1000779,
+			task = 1000780,
 			total = 1,
 			task_name = "午餐福利（12:00-13:00在线)",
-			level = 2,
+			level = 1,
 			item = {"jing_bi",},
 			count = {3000,},
 			gotoUI = {"no_goto_ui","请重新登陆游戏",},
@@ -2349,10 +2349,10 @@ return {
 		[182]=
 		{
 			id = 182,
-			task = 1000779,
+			task = 1000781,
 			total = 1,
 			task_name = "晚餐福利（18:00-19:00在线)",
-			level = 3,
+			level = 1,
 			item = {"jing_bi",},
 			count = {5000,},
 			gotoUI = {"no_goto_ui","请重新登陆游戏",},
