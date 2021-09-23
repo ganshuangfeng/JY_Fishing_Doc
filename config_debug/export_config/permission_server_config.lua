@@ -2364,6 +2364,12 @@ return {
 			name = "新玩家初始资产（CPS渠道）",
 			condi = 514,
 		},
+		weekly_show_not_cpl=
+		{
+			key = "weekly_show_not_cpl",
+			name = "活动显示（非CPL渠道）",
+			condi = 520,
+		},
 	},
 	act_permission=
 	{
@@ -18789,6 +18795,36 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "在天天欢乐捕鱼有账号",
+		},
+		[1139]=
+		{
+			no = 1139,
+			id = 520,
+			var = "share_condition",
+			value = "tthlby_cpl",
+			judge = 5,
+			group = 1,
+			error_desc = "不是天天欢乐捕鱼CPL渠道",
+		},
+		[1140]=
+		{
+			no = 1140,
+			id = 520,
+			var = "share_condition",
+			value = "byam_cpl",
+			judge = 5,
+			group = 2,
+			error_desc = "不是捕鱼奥秘CPL渠道",
+		},
+		[1141]=
+		{
+			no = 1141,
+			id = 520,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 5,
+			group = 3,
+			error_desc = "不是冲金鸡CPL渠道",
 		},
 	},
 	share_condition=

@@ -121,29 +121,37 @@ return {
 			name = "赢金送豪礼",
 			tges = 15,
 		},
-		[17]=
+		[16]=
 		{
-			index = 17,
+			index = 16,
 			key = "act_gqfl_hlttby",
 			icon = "gqfl_bg_1",
 			name = "国庆福利",
 			tges = 16,
 		},
-		[18]=
+		[17]=
 		{
-			index = 18,
+			index = 17,
 			key = "act_gqfl_byam",
 			icon = "gqfl_bg_1",
 			name = "国庆福利",
 			tges = 17,
 		},
-		[19]=
+		[18]=
 		{
-			index = 19,
+			index = 18,
 			key = "act_gqfl_cjj",
 			icon = "gqfl_bg_1",
 			name = "国庆福利",
 			tges = 18,
+		},
+		[19]=
+		{
+			index = 19,
+			key = "act_gqfl_all_nor",
+			icon = "gqfl_bg_1",
+			name = "国庆福利",
+			tges = 19,
 		},
 	},
 	tge=
@@ -308,6 +316,15 @@ return {
 			is_show = 1,
 			order = 1,
 			task_index = {179,180,181,182},
+		},
+		[19]=
+		{
+			tge_index = 19,
+			name = "国庆福利",
+			on_off = 1,
+			is_show = 1,
+			order = 1,
+			task_index = {180,181,182},
 		},
 	},
 	task=
@@ -2324,7 +2341,7 @@ return {
 			task = 1000779,
 			total = 1,
 			task_name = "午餐福利（12:00-13:00在线)",
-			level = 1,
+			level = 2,
 			item = {"jing_bi",},
 			count = {3000,},
 			gotoUI = {"no_goto_ui","请重新登陆游戏",},
@@ -2335,7 +2352,7 @@ return {
 			task = 1000779,
 			total = 1,
 			task_name = "晚餐福利（18:00-19:00在线)",
-			level = 1,
+			level = 3,
 			item = {"jing_bi",},
 			count = {5000,},
 			gotoUI = {"no_goto_ui","请重新登陆游戏",},
