@@ -1573,7 +1573,7 @@ return {
 			line = 94,
 			act_type = "weekly",
 			ID = 94,
-			title = "捕鱼狂欢",
+			title = "捕鱼能手",
 			order = 4,
 			is_on_off = 1,
 			condi_key = "actp_own_task_p_drop_act_nor",
