@@ -4306,7 +4306,7 @@ return {
 			item_key = "prop_grade",
 			lose_time = -1,
 			is_local_icon = 1,
-			image = "jf_icon_1",
+			image = "com_award_icon_f",
 			is_show_bag = 0,
 			order = 1,
 			name = "积分",
