@@ -3100,7 +3100,7 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_029_dlphb",
+			key = "act_ty_sjb_style/act_030_dlphb",
 			desc = "掉落排行榜皮肤（消耗）",
 			is_on_off = 1,
 			enable = 1,
@@ -3109,7 +3109,7 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_026_yuebing",
+			key = "act_ty_by_drop_style/act_027_guihuagao",
 			desc = "爱心掉落",
 			is_on_off = 1,
 			enable = 1,
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_034",
+			key = "sys_act_base_style/sys_act_base_weekly_036",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3415,6 +3415,25 @@ return {
 			key = "act_055_xhns",
 			desc = "积分赠礼",
 			lua = "Act_055_XHNSManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[349]=
+		{
+			id = 349,
+			key = "sys_act_base_style/sys_act_base_fkfl_001",
+			desc = "疯狂返利",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[350]=
+		{
+			id = 350,
+			key = "act_058_cylb",
+			desc = "重阳礼包",
+			lua = "Act_058_JRLBManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

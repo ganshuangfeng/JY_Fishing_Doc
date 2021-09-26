@@ -3031,7 +3031,7 @@ return {
 		{
 			id = 309,
 			key = "act_ty_zp1",
-			desc = "通用活动--转盘模板（超值礼包）",
+			desc = "通用活动--转盘模板（畅玩礼包）",
 			lua = "Act_Ty_ZP1Manager",
 			is_on_off = 1,
 			enable = 1,
@@ -3100,7 +3100,7 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_029_dlphb",
+			key = "act_ty_sjb_style/act_030_dlphb",
 			desc = "掉落排行榜皮肤（消耗）",
 			is_on_off = 1,
 			enable = 1,
@@ -3109,7 +3109,7 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_026_yuebing",
+			key = "act_ty_by_drop_style/act_027_guihuagao",
 			desc = "爱心掉落",
 			is_on_off = 1,
 			enable = 1,
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_034",
+			key = "sys_act_base_style/sys_act_base_weekly_036",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3217,7 +3217,7 @@ return {
 			key = "by_hbyts",
 			desc = "红包鱼提示",
 			lua = "BYHBYTSManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
@@ -3257,9 +3257,9 @@ return {
 			key = "act_052_qfhl",
 			desc = "祈福有礼",
 			lua = "Act_052_QFHLManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[333]=
 		{
@@ -3286,9 +3286,9 @@ return {
 			key = "sys_lwgp",
 			desc = "龙王贡品",
 			lua = "SYSLWGPManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[336]=
 		{
@@ -3303,8 +3303,9 @@ return {
 		[337]=
 		{
 			id = 337,
-			key = "act_ty_zp1_style/act_ty_zp1_007",
-			desc = "通用转盘皮肤",
+			key = "act_040_mslb",
+			desc = "秒杀礼包",
+			lua = "Act_040_MSLBManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3312,9 +3313,8 @@ return {
 		[338]=
 		{
 			id = 338,
-			key = "act_040_mslb",
-			desc = "秒杀礼包",
-			lua = "Act_040_MSLBManager",
+			key = "act_ty_zp1_style/act_ty_zp1_007",
+			desc = "通用转盘皮肤",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
@@ -3352,46 +3352,6 @@ return {
 		[342]=
 		{
 			id = 342,
-			key = "sys_fishfarm_bzzy",
-			desc = "宝藏章鱼",
-			lua = "FishFarmBZZYManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[343]=
-		{
-			id = 343,
-			key = "sys_fishfarm_daytask",
-			desc = "水族馆每日任务",
-			lua = "FishFarmDailyTaskManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[344]=
-		{
-			id = 344,
-			key = "sys_fishfarm_jlspring",
-			desc = "精灵泉水",
-			lua = "FishFarmJlSpringManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[345]=
-		{
-			id = 345,
-			key = "sys_fishfarm_simplicity",
-			desc = "水族馆",
-			lua = "SYSFishFarmSimplicityManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
-		},
-		[346]=
-		{
-			id = 346,
 			key = "act_060_yxcard",
 			desc = "消消乐游戏卡",
 			lua = "Act_060_YXCardManager",
@@ -3399,9 +3359,9 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[347]=
+		[343]=
 		{
-			id = 347,
+			id = 343,
 			key = "sys_exit_ask",
 			desc = "退出询问弹窗",
 			lua = "SYS_Exit_AskManager",
@@ -3409,12 +3369,31 @@ return {
 			enable = 1,
 			state = 1,
 		},
-		[348]=
+		[344]=
 		{
-			id = 348,
+			id = 344,
 			key = "act_055_xhns",
 			desc = "积分赠礼",
 			lua = "Act_055_XHNSManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[345]=
+		{
+			id = 345,
+			key = "sys_act_base_style/sys_act_base_fkfl_001",
+			desc = "疯狂返利",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[346]=
+		{
+			id = 346,
+			key = "act_058_cylb",
+			desc = "重阳礼包",
+			lua = "Act_058_JRLBManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
