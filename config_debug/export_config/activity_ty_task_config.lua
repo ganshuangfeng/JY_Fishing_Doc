@@ -297,7 +297,7 @@ return {
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {177,180,181,182},
+			task_index = 177,
 		},
 		[17]=
 		{
@@ -306,7 +306,7 @@ return {
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {178,180,181,182},
+			task_index = 178,
 		},
 		[18]=
 		{
@@ -315,7 +315,7 @@ return {
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {179,180,181,182},
+			task_index = 179,
 		},
 		[19]=
 		{
