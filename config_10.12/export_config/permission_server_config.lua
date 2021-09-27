@@ -18867,6 +18867,96 @@ return {
 		[1144]=
 		{
 			no = 1144,
+			id = 520,
+			var = "share_condition",
+			value = "tthlby_cpl",
+			judge = 2,
+			group = 7,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1145]=
+		{
+			no = 1145,
+			id = 520,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 7,
+			error_desc = "VIP1及以上用户",
+		},
+		[1146]=
+		{
+			no = 1146,
+			id = 520,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 7,
+			error_desc = "不是IOS用户",
+		},
+		[1147]=
+		{
+			no = 1147,
+			id = 520,
+			var = "share_condition",
+			value = "byam_cpl",
+			judge = 2,
+			group = 8,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1148]=
+		{
+			no = 1148,
+			id = 520,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 8,
+			error_desc = "VIP1及以上用户",
+		},
+		[1149]=
+		{
+			no = 1149,
+			id = 520,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 8,
+			error_desc = "不是IOS用户",
+		},
+		[1150]=
+		{
+			no = 1150,
+			id = 520,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 9,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1151]=
+		{
+			no = 1151,
+			id = 520,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 9,
+			error_desc = "VIP1及以上用户",
+		},
+		[1152]=
+		{
+			no = 1152,
+			id = 520,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 9,
+			error_desc = "不是IOS用户",
+		},
+		[1153]=
+		{
+			no = 1153,
 			id = 521,
 			var = "share_condition",
 			value = "3dby_official",
@@ -18874,9 +18964,9 @@ return {
 			group = 1,
 			error_desc = "天天欢乐捕鱼和捕鱼奥秘官方渠道",
 		},
-		[1145]=
+		[1154]=
 		{
-			no = 1145,
+			no = 1154,
 			id = 521,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -18884,9 +18974,9 @@ return {
 			group = 1,
 			error_desc = "是新玩家",
 		},
-		[1146]=
+		[1155]=
 		{
-			no = 1146,
+			no = 1155,
 			id = 522,
 			var = "share_condition",
 			value = "3dby_official",
@@ -18894,9 +18984,9 @@ return {
 			group = 1,
 			error_desc = "天天欢乐捕鱼和捕鱼奥秘官方渠道",
 		},
-		[1147]=
+		[1156]=
 		{
-			no = 1147,
+			no = 1156,
 			id = 522,
 			var = "tag_type",
 			value = "tag_new_player",

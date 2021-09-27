@@ -18846,6 +18846,96 @@ return {
 			group = 6,
 			error_desc = "VIP0用户",
 		},
+		[1144]=
+		{
+			no = 1144,
+			id = 520,
+			var = "share_condition",
+			value = "tthlby_cpl",
+			judge = 2,
+			group = 7,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1145]=
+		{
+			no = 1145,
+			id = 520,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 7,
+			error_desc = "VIP1及以上用户",
+		},
+		[1146]=
+		{
+			no = 1146,
+			id = 520,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 7,
+			error_desc = "不是IOS用户",
+		},
+		[1147]=
+		{
+			no = 1147,
+			id = 520,
+			var = "share_condition",
+			value = "byam_cpl",
+			judge = 2,
+			group = 8,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1148]=
+		{
+			no = 1148,
+			id = 520,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 8,
+			error_desc = "VIP1及以上用户",
+		},
+		[1149]=
+		{
+			no = 1149,
+			id = 520,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 8,
+			error_desc = "不是IOS用户",
+		},
+		[1150]=
+		{
+			no = 1150,
+			id = 520,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 9,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1151]=
+		{
+			no = 1151,
+			id = 520,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 9,
+			error_desc = "VIP1及以上用户",
+		},
+		[1152]=
+		{
+			no = 1152,
+			id = 520,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 9,
+			error_desc = "不是IOS用户",
+		},
 	},
 	share_condition=
 	{
