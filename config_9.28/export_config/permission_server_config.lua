@@ -18670,6 +18670,126 @@ return {
 			group = 1,
 			error_desc = "不是vivo渠道玩家",
 		},
+		[1127]=
+		{
+			no = 1127,
+			id = 517,
+			var = "share_condition",
+			value = "tthlby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1128]=
+		{
+			no = 1128,
+			id = 517,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上用户",
+		},
+		[1129]=
+		{
+			no = 1129,
+			id = 517,
+			var = "tag_type",
+			value = "tag_plat_own_byam",
+			judge = 5,
+			group = 1,
+			error_desc = "在捕鱼奥秘平台没有账号",
+		},
+		[1130]=
+		{
+			no = 1130,
+			id = 517,
+			var = "tag_type",
+			value = "tag_plat_own_normal",
+			judge = 2,
+			group = 1,
+			error_desc = "在天天欢乐捕鱼有账号",
+		},
+		[1131]=
+		{
+			no = 1131,
+			id = 518,
+			var = "share_condition",
+			value = "byam_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1132]=
+		{
+			no = 1132,
+			id = 518,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上用户",
+		},
+		[1133]=
+		{
+			no = 1133,
+			id = 518,
+			var = "tag_type",
+			value = "tag_plat_own_byam",
+			judge = 2,
+			group = 1,
+			error_desc = "在捕鱼奥秘平台没有账号",
+		},
+		[1134]=
+		{
+			no = 1134,
+			id = 518,
+			var = "tag_type",
+			value = "tag_plat_own_normal",
+			judge = 5,
+			group = 1,
+			error_desc = "在天天欢乐捕鱼有账号",
+		},
+		[1135]=
+		{
+			no = 1135,
+			id = 519,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1136]=
+		{
+			no = 1136,
+			id = 519,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上用户",
+		},
+		[1137]=
+		{
+			no = 1137,
+			id = 519,
+			var = "tag_type",
+			value = "tag_plat_own_cjj",
+			judge = 2,
+			group = 1,
+			error_desc = "在冲金鸡平台没有账号",
+		},
+		[1138]=
+		{
+			no = 1138,
+			id = 519,
+			var = "tag_type",
+			value = "tag_plat_own_normal",
+			judge = 5,
+			group = 1,
+			error_desc = "在天天欢乐捕鱼有账号",
+		},
 	},
 	share_condition=
 	{

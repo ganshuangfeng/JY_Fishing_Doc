@@ -17165,6 +17165,66 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000776]=
+		{
+			id = 1000776,
+			enable = 1,
+			name = "国庆福利",
+			own_type = "p_hlttby_cpl_task",
+			task_enum = "register_player_task",
+			process_id = 22134,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1632787200,
+			end_valid_time = 1633967999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000777]=
+		{
+			id = 1000777,
+			enable = 1,
+			name = "国庆福利",
+			own_type = "p_byam_cpl_task",
+			task_enum = "register_player_task",
+			process_id = 22135,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1632787200,
+			end_valid_time = 1633967999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000778]=
+		{
+			id = 1000778,
+			enable = 1,
+			name = "国庆福利",
+			own_type = "p_cjj_cpl_task",
+			task_enum = "register_player_task",
+			process_id = 22136,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1632787200,
+			end_valid_time = 1633967999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000779]=
+		{
+			id = 1000779,
+			enable = 1,
+			name = "国庆福利",
+			own_type = "normal",
+			task_enum = "clock_active_task",
+			process_id = 22137,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1632758400,
+			end_valid_time = 1633967999,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -28220,6 +28280,43 @@ return {
 			awards = {1574,1575,1576,1577,1578,1579,1580,1581,1582},
 			get_award_type = "nor",
 		},
+		[1186]=
+		{
+			id = 1186,
+			process_id = 22134,
+			source_id = 704,
+			process = 1,
+			awards = 1583,
+			get_award_type = "nor",
+		},
+		[1187]=
+		{
+			id = 1187,
+			process_id = 22135,
+			source_id = 705,
+			process = 1,
+			awards = 1583,
+			get_award_type = "nor",
+		},
+		[1188]=
+		{
+			id = 1188,
+			process_id = 22136,
+			source_id = 706,
+			process = 1,
+			awards = 1583,
+			get_award_type = "nor",
+		},
+		[1189]=
+		{
+			id = 1189,
+			process_id = 22137,
+			source_id = 410,
+			process = {1,1,1},
+			awards_condition_id = 529,
+			awards = {1584,1585,1586},
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -36418,6 +36515,27 @@ return {
 			source_type = "xiaoxiaole_sanguo_award",
 			condition_id = 0,
 		},
+		[1163]=
+		{
+			id = 1163,
+			source_id = 704,
+			source_type = "register_player",
+			condition_id = 526,
+		},
+		[1164]=
+		{
+			id = 1164,
+			source_id = 705,
+			source_type = "register_player",
+			condition_id = 527,
+		},
+		[1165]=
+		{
+			id = 1165,
+			source_id = 706,
+			source_type = "register_player",
+			condition_id = 528,
+		},
 	},
 	condition=
 	{
@@ -41764,6 +41882,62 @@ return {
 			condition_name = "bet_spend",
 			condition_value = 30000,
 			judge_type = 3,
+		},
+		[699]=
+		{
+			id = 699,
+			condition_id = 526,
+			condition_name = "platform",
+			condition_value = {"byam",},
+			judge_type = 2,
+		},
+		[700]=
+		{
+			id = 700,
+			condition_id = 526,
+			condition_name = "market_channel",
+			condition_value = {"byam","sigmob",},
+			judge_type = 2,
+		},
+		[701]=
+		{
+			id = 701,
+			condition_id = 527,
+			condition_name = "platform",
+			condition_value = {"normal",},
+			judge_type = 2,
+		},
+		[702]=
+		{
+			id = 702,
+			condition_id = 527,
+			condition_name = "market_channel",
+			condition_value = {"normal",},
+			judge_type = 2,
+		},
+		[703]=
+		{
+			id = 703,
+			condition_id = 528,
+			condition_name = "platform",
+			condition_value = {"normal",},
+			judge_type = 2,
+		},
+		[704]=
+		{
+			id = 704,
+			condition_id = 528,
+			condition_name = "market_channel",
+			condition_value = {"normal",},
+			judge_type = 2,
+		},
+		[705]=
+		{
+			id = 705,
+			condition_id = 529,
+			condition_name = "time_range",
+			condition_value = {32400,36000,43200,46800,64800,68400},
+			judge_type = 2,
 		},
 	},
 	award_data=
@@ -61790,6 +61964,38 @@ return {
 			award_id = 1582,
 			asset_type = "shop_gold_sum",
 			asset_count = 20000,
+			get_weight = 1,
+		},
+		[2505]=
+		{
+			id = 2505,
+			award_id = 1583,
+			asset_type = "jing_bi",
+			asset_count = 200000,
+			get_weight = 1,
+		},
+		[2506]=
+		{
+			id = 2506,
+			award_id = 1584,
+			asset_type = "jing_bi",
+			asset_count = 2000,
+			get_weight = 1,
+		},
+		[2507]=
+		{
+			id = 2507,
+			award_id = 1585,
+			asset_type = "jing_bi",
+			asset_count = 3000,
+			get_weight = 1,
+		},
+		[2508]=
+		{
+			id = 2508,
+			award_id = 1586,
+			asset_type = "jing_bi",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 	},
