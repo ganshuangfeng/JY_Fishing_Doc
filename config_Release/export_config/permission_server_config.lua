@@ -2364,6 +2364,12 @@ return {
 			name = "新玩家初始资产（CPS渠道）",
 			condi = 514,
 		},
+		weekly_show_not_cpl=
+		{
+			key = "weekly_show_not_cpl",
+			name = "活动显示（非CPL渠道）",
+			condi = 520,
+		},
 	},
 	act_permission=
 	{
@@ -7358,6 +7364,54 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
 			start_deal_time = 0,
+		},
+		[417]=
+		{
+			id = 417,
+			enable = 1,
+			key = "actp_own_task_p_task_not_vivo",
+			name = "任务挂载（非VIVO渠道）",
+			condi = 516,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
+		},
+		[418]=
+		{
+			id = 418,
+			enable = 1,
+			key = "actp_own_task_p_hlttby_cpl_task",
+			name = "国庆福利（欢乐天天捕鱼CPL渠道，V1及以上）",
+			condi = 517,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1632787200,
+		},
+		[419]=
+		{
+			id = 419,
+			enable = 1,
+			key = "actp_own_task_p_byam_cpl_task",
+			name = "国庆福利（捕鱼奥秘CPL渠道，V1及以上）",
+			condi = 518,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1632787200,
+		},
+		[420]=
+		{
+			id = 420,
+			enable = 1,
+			key = "actp_own_task_p_cjj_cpl_task",
+			name = "国庆福利（冲金鸡CPL渠道，V1及以上）",
+			condi = 519,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1632787200,
 		},
 	},
 	condi=
@@ -18601,6 +18655,286 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是天天欢乐捕鱼CPS渠道玩家",
+		},
+		[1125]=
+		{
+			no = 1125,
+			id = 516,
+			var = "market_channel",
+			value = "vivo",
+			judge = 5,
+			group = 1,
+			error_desc = "不是vivo渠道玩家",
+		},
+		[1126]=
+		{
+			no = 1126,
+			id = 517,
+			var = "share_condition",
+			value = "tthlby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1127]=
+		{
+			no = 1127,
+			id = 517,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上用户",
+		},
+		[1128]=
+		{
+			no = 1128,
+			id = 517,
+			var = "systype",
+			value = "ios",
+			judge = 5,
+			group = 1,
+			error_desc = "不是IOS用户",
+		},
+		[1129]=
+		{
+			no = 1129,
+			id = 518,
+			var = "share_condition",
+			value = "byam_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1130]=
+		{
+			no = 1130,
+			id = 518,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上用户",
+		},
+		[1131]=
+		{
+			no = 1131,
+			id = 518,
+			var = "systype",
+			value = "ios",
+			judge = 5,
+			group = 1,
+			error_desc = "不是IOS用户",
+		},
+		[1132]=
+		{
+			no = 1132,
+			id = 519,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1133]=
+		{
+			no = 1133,
+			id = 519,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上用户",
+		},
+		[1134]=
+		{
+			no = 1134,
+			id = 519,
+			var = "systype",
+			value = "ios",
+			judge = 5,
+			group = 1,
+			error_desc = "不是IOS用户",
+		},
+		[1135]=
+		{
+			no = 1135,
+			id = 520,
+			var = "share_condition",
+			value = "tthlby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "不是天天欢乐捕鱼CPL渠道",
+		},
+		[1136]=
+		{
+			no = 1136,
+			id = 520,
+			var = "share_condition",
+			value = "byam_official",
+			judge = 2,
+			group = 2,
+			error_desc = "不是捕鱼奥秘CPL渠道",
+		},
+		[1137]=
+		{
+			no = 1137,
+			id = 520,
+			var = "share_condition",
+			value = "cjj_official",
+			judge = 2,
+			group = 3,
+			error_desc = "不是冲金鸡CPL渠道",
+		},
+		[1138]=
+		{
+			no = 1138,
+			id = 520,
+			var = "share_condition",
+			value = "tthlby_cpl",
+			judge = 2,
+			group = 4,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1139]=
+		{
+			no = 1139,
+			id = 520,
+			var = "vip_level",
+			value = 0,
+			judge = 2,
+			group = 4,
+			error_desc = "VIP0用户",
+		},
+		[1140]=
+		{
+			no = 1140,
+			id = 520,
+			var = "share_condition",
+			value = "byam_cpl",
+			judge = 2,
+			group = 5,
+			error_desc = "是捕鱼奥秘CPL渠道",
+		},
+		[1141]=
+		{
+			no = 1141,
+			id = 520,
+			var = "vip_level",
+			value = 0,
+			judge = 2,
+			group = 5,
+			error_desc = "VIP0用户",
+		},
+		[1142]=
+		{
+			no = 1142,
+			id = 520,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 6,
+			error_desc = "冲金鸡CPL渠道",
+		},
+		[1143]=
+		{
+			no = 1143,
+			id = 520,
+			var = "vip_level",
+			value = 0,
+			judge = 2,
+			group = 6,
+			error_desc = "VIP0用户",
+		},
+		[1144]=
+		{
+			no = 1144,
+			id = 520,
+			var = "share_condition",
+			value = "tthlby_cpl",
+			judge = 2,
+			group = 7,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1145]=
+		{
+			no = 1145,
+			id = 520,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 7,
+			error_desc = "VIP1及以上用户",
+		},
+		[1146]=
+		{
+			no = 1146,
+			id = 520,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 7,
+			error_desc = "不是IOS用户",
+		},
+		[1147]=
+		{
+			no = 1147,
+			id = 520,
+			var = "share_condition",
+			value = "byam_cpl",
+			judge = 2,
+			group = 8,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1148]=
+		{
+			no = 1148,
+			id = 520,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 8,
+			error_desc = "VIP1及以上用户",
+		},
+		[1149]=
+		{
+			no = 1149,
+			id = 520,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 8,
+			error_desc = "不是IOS用户",
+		},
+		[1150]=
+		{
+			no = 1150,
+			id = 520,
+			var = "share_condition",
+			value = "cjj_cpl",
+			judge = 2,
+			group = 9,
+			error_desc = "是天天欢乐捕鱼CPL渠道",
+		},
+		[1151]=
+		{
+			no = 1151,
+			id = 520,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
+			group = 9,
+			error_desc = "VIP1及以上用户",
+		},
+		[1152]=
+		{
+			no = 1152,
+			id = 520,
+			var = "systype",
+			value = "ios",
+			judge = 2,
+			group = 9,
+			error_desc = "不是IOS用户",
 		},
 	},
 	share_condition=

@@ -218,8 +218,8 @@ return {
 			ljyj_permiss = "actp_own_task_p_hljnh_046_hlfl_cjj",
 			cz_task_id = 1000698,
 			taskid = 1000697,
-			end_time = 1632758399,
-			sta_time = 1630368000,
+			end_time = 1635782399,
+			sta_time = 1632787200,
 			condiy_key = "actp_own_task_p_hljnh_046_hlfl_cjj",
 			btn_gotoui = "game_MiniGame",
 		},
@@ -229,7 +229,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			content = "1.活动时间：8月31日08:00:00—9月27日23:59:59。",
+			content = "1.活动时间：9月28日08:00:00—11月1日23:59:59。",
 		},
 		[2]=
 		{
@@ -249,7 +249,12 @@ return {
 		[5]=
 		{
 			line = 5,
-			content = "5.活动结束后，未领取的奖励视为自动放弃。",
+			content = "5.疯狂捕鱼数据只计50%。",
+		},
+		[6]=
+		{
+			line = 6,
+			content = "6.活动结束后，未领取的奖励视为自动放弃。",
 		},
 	},
 }

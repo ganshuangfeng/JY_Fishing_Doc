@@ -2370,6 +2370,12 @@ return {
 			name = "活动显示（非CPL渠道）",
 			condi = 520,
 		},
+		fkfl_not_new_player_can_show=
+		{
+			key = "fkfl_not_new_player_can_show",
+			name = "疯狂返利（老玩家显示）",
+			condi = 522,
+		},
 	},
 	act_permission=
 	{
@@ -7412,6 +7418,18 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
 			start_deal_time = 1632787200,
+		},
+		[421]=
+		{
+			id = 421,
+			enable = 1,
+			key = "actp_own_task_p_crary_rebate_1",
+			name = "疯狂返利（天天欢乐捕鱼和捕鱼奥秘官方渠道新玩家）",
+			condi = 521,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1619452800,
 		},
 	},
 	condi=
@@ -18935,6 +18953,46 @@ return {
 			judge = 2,
 			group = 9,
 			error_desc = "不是IOS用户",
+		},
+		[1153]=
+		{
+			no = 1153,
+			id = 521,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "天天欢乐捕鱼和捕鱼奥秘官方渠道",
+		},
+		[1154]=
+		{
+			no = 1154,
+			id = 521,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 2,
+			group = 1,
+			error_desc = "是新玩家",
+		},
+		[1155]=
+		{
+			no = 1155,
+			id = 522,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "天天欢乐捕鱼和捕鱼奥秘官方渠道",
+		},
+		[1156]=
+		{
+			no = 1156,
+			id = 522,
+			var = "tag_type",
+			value = "tag_new_player",
+			judge = 5,
+			group = 1,
+			error_desc = "不是新玩家",
 		},
 	},
 	share_condition=
