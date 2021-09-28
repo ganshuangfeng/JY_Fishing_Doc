@@ -17,7 +17,7 @@ return {
 			award = {1,2,3,4,5,6,7},
 			extra_award = {8,9,10,11,12,13,14},
 			path = "act_30_dlphb",
-			condiy_key = "actp_rank_lxjkh_024_jfphb_rank",
+			condiy_key = "actp_own_task_p_drop_act_nor",
 			type_info = 1,
 			is_have_point = 0,
 		},
@@ -70,7 +70,7 @@ return {
 		{
 			ID = 8,
 			award = {60000,},
-			award_img = "ty_icon_flq2",
+			award_img = {"ty_icon_flq2",},
 			award_txt = {"60000福利券",},
 			limit = {1,1,},
 			need_num = 60000,
@@ -80,7 +80,7 @@ return {
 		{
 			ID = 9,
 			award = {15000,},
-			award_img = "ty_icon_flq2",
+			award_img = {"ty_icon_flq2",},
 			award_txt = {"15000福利券",},
 			limit = {2,2},
 			need_num = 30000,
@@ -90,7 +90,7 @@ return {
 		{
 			ID = 10,
 			award = {5000,},
-			award_img = "ty_icon_flq2",
+			award_img = {"ty_icon_flq2",},
 			award_txt = {"5000福利券",},
 			limit = {3,3,},
 			need_num = 15000,
@@ -100,7 +100,7 @@ return {
 		{
 			ID = 11,
 			award = {800,},
-			award_img = "ty_icon_flq2",
+			award_img = {"ty_icon_flq2",},
 			award_txt = {"800福利券",},
 			limit = {4,6,},
 			need_num = 8000,
@@ -110,7 +110,7 @@ return {
 		{
 			ID = 12,
 			award = {800,},
-			award_img = "ty_icon_flq2",
+			award_img = {"ty_icon_flq2",},
 			award_txt = {"800福利券",},
 			limit = {7,10,},
 			need_num = 8000,
@@ -120,7 +120,7 @@ return {
 		{
 			ID = 13,
 			award = {400,},
-			award_img = "ty_icon_flq2",
+			award_img = {"ty_icon_flq2",},
 			award_txt = {"400福利券",},
 			limit = {11,15,},
 			need_num = 3000,
@@ -130,7 +130,7 @@ return {
 		{
 			ID = 14,
 			award = {200,},
-			award_img = "ty_icon_flq2",
+			award_img = {"ty_icon_flq2",},
 			award_txt = {"200福利券",},
 			limit = {16,20,},
 			need_num = 1500,

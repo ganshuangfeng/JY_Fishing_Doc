@@ -4626,6 +4626,7 @@ return {
 			name = "稀有宝箱",
 			desc = "重阳祈福活动期间开启，最高可得500福利券！",
 			use_parm = {"open_box","prop_box_xiyou"},
+			box_id = 107,
 		},
 		[342]=
 		{
@@ -4640,6 +4641,7 @@ return {
 			name = "传说宝箱",
 			desc = "重阳祈福活动期间开启，最高可得1000福利券！",
 			use_parm = {"open_box","prop_box_shishi"},
+			box_id = 108,
 		},
 		[343]=
 		{
@@ -4654,6 +4656,7 @@ return {
 			name = "史诗宝箱",
 			desc = "重阳祈福活动期间开启，最高可得2000福利券！",
 			use_parm = {"open_box","prop_box_chuanshuo"},
+			box_id = 109,
 		},
 	},
 }
