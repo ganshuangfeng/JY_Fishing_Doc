@@ -1721,5 +1721,22 @@ return {
 			noCloseUI = 1,
 			tag = "normal",
 		},
+		[103]=
+		{
+			line = 103,
+			act_type = "fkfl",
+			ID = 103,
+			title = "疯狂返利",
+			order = 2,
+			is_on_off = 1,
+			condi_key = "fkfl_not_new_player_can_show",
+			beginTime = -1,
+			endTime = -1,
+			showType = "prefab",
+			parmData = "act_ty_task",
+			gotoUI = {"act_ty_task","act_fkfl_not_new_1","panel"},
+			noCloseUI = 1,
+			tag = "normal",
+		},
 	},
 }

@@ -159,7 +159,7 @@ return {
 			key = "act_fkfl_new",
 			icon = "fkfl_bg_1",
 			name = "疯狂返利",
-			tges = {20,22,},
+			tges = 20,
 		},
 		[21]=
 		{
@@ -167,7 +167,15 @@ return {
 			key = "act_fkfl_not_new",
 			icon = "fkfl_bg_1",
 			name = "疯狂返利",
-			tges = {21,22,},
+			tges = 21,
+		},
+		[22]=
+		{
+			index = 22,
+			key = "act_fkfl_not_new_1",
+			icon = "fkfl_bg_1",
+			name = "疯狂返利",
+			tges = 22,
 		},
 	},
 	tge=
