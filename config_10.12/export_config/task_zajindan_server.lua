@@ -2360,7 +2360,7 @@ return {
 			name = "辞旧岁炸弹福利",
 			own_type = "permission_task",
 			task_enum = "common",
-			process_id = {200000,},
+			process_id = 21117,
 			is_reset = 1,
 			reset_delay = 1,
 			start_valid_time = 1578931200,
@@ -17330,6 +17330,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000787]=
+		{
+			id = 1000787,
+			enable = 1,
+			name = "每日礼包",
+			own_type = "normal",
+			task_enum = "common",
+			process_id = 22145,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1633968000,
+			end_valid_time = 1634572799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -28481,7 +28496,16 @@ return {
 			process_id = 22144,
 			source_id = 711,
 			process = {100,400,500,500,2000},
-			awards = {1560,1561,1562,1563,1564},
+			awards = {1600,1601,1602,1063,1064},
+			get_award_type = "nor",
+		},
+		[1197]=
+		{
+			id = 1197,
+			process_id = 22145,
+			source_id = 410,
+			process = 1,
+			awards = 1605,
 			get_award_type = "nor",
 		},
 	},
@@ -62391,6 +62415,14 @@ return {
 			award_name = "美的电火锅",
 			get_weight = 1,
 			is_send_email = 1,
+		},
+		[2527]=
+		{
+			id = 2527,
+			award_id = 1605,
+			asset_type = "jing_bi",
+			asset_count = 1000,
+			get_weight = 1,
 		},
 	},
 }
