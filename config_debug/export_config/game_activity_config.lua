@@ -1729,7 +1729,6 @@ return {
 			title = "疯狂返利",
 			order = 2,
 			is_on_off = 1,
-			condi_key = "fkfl_not_new_player_can_show",
 			beginTime = -1,
 			endTime = -1,
 			showType = "prefab",
