@@ -28311,7 +28311,6 @@ return {
 		{
 			id = 1189,
 			process_id = 22137,
-			source_id = 410,
 			process = {1,1,1},
 			awards_condition_id = 529,
 			awards = {1584,1585,1586},
