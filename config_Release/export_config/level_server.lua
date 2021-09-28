@@ -11,25 +11,25 @@ return {
 		{
 			id = 2,
 			level = 2,
-			score = 100000,
+			score = 30000,
 		},
 		[3]=
 		{
 			id = 3,
 			level = 3,
-			score = 225000,
+			score = 100000,
 		},
 		[4]=
 		{
 			id = 4,
 			level = 4,
-			score = 337500,
+			score = 200000,
 		},
 		[5]=
 		{
 			id = 5,
 			level = 5,
-			score = 450000,
+			score = 400000,
 		},
 		[6]=
 		{

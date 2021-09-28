@@ -1311,8 +1311,8 @@ return {
 			task_name = "累计充值10元",
 			level = 1,
 			is_cz = 1,
-			item = {"shop_gold_sum",},
-			count = {50,},
+			item = {"jing_bi",},
+			count = {5000,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
 		[97]=
@@ -1335,8 +1335,8 @@ return {
 			task_name = "累计充值198元",
 			level = 3,
 			is_cz = 1,
-			item = {"shop_gold_sum",},
-			count = {500,},
+			item = {"jing_bi",},
+			count = {500000,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
 		[99]=
@@ -1359,8 +1359,8 @@ return {
 			task_name = "累计充值1000元",
 			level = 5,
 			is_cz = 1,
-			item = {"shop_gold_sum",},
-			count = {1500,},
+			item = {"jing_bi",},
+			count = {1500000,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
 		[101]=
@@ -1383,8 +1383,8 @@ return {
 			task_name = "累计充值3000元",
 			level = 7,
 			is_cz = 1,
-			item = {"shop_gold_sum",},
-			count = {4000,},
+			item = {"jing_bi",},
+			count = {4000000,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
 		[103]=
@@ -1407,8 +1407,8 @@ return {
 			task_name = "累计充值10000元",
 			level = 9,
 			is_cz = 1,
-			item = {"shop_gold_sum",},
-			count = {15000,},
+			item = {"jing_bi",},
+			count = {15000000,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
 		[105]=
@@ -1829,7 +1829,7 @@ return {
 			task_name = "每天在游戏中累计购买3次98元",
 			level = 1,
 			item = {"jing_bi","fish_coin",},
-			count = {480000,160000,},
+			count = {4800000,160000,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
 		[143]=

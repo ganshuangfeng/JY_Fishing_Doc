@@ -669,7 +669,7 @@ return {
 			goods_type = 1,
 			email_id = 43,
 			award_id = 57,
-			enable = 1,
+			enable = 0,
 		},
 		[58]=
 		{
@@ -686,14 +686,14 @@ return {
 		[59]=
 		{
 			id = 59,
-			name = "雪糕兑奖",
-			start_time = 1629158400,
-			end_time = 1629734399,
+			name = "月饼兑奖",
+			start_time = 1632182400,
+			end_time = 1632758399,
 			use_goods = {"prop_fish_drop_act_0",},
 			goods_type = 1,
 			email_id = 45,
-			award_id = 58,
-			enable = 0,
+			award_id = 60,
+			enable = 1,
 		},
 	},
 	email=
@@ -965,8 +965,8 @@ return {
 		[45]=
 		{
 			id = 45,
-			title = "雪糕兑奖",
-			content = "恭喜您在雪糕兑奖活动中获得了%s，请在活动结束后7个工作日内联系客服QQ号4008882620领取，逾期视为自动放弃！",
+			title = "月饼兑奖",
+			content = "恭喜您在月饼兑奖活动中获得了%s，请在活动结束后7个工作日内联系客服QQ号4008882620领取，逾期视为自动放弃！",
 		},
 	},
 	award=
@@ -5097,6 +5097,92 @@ return {
 			rank_type = "lxjkh_024_jfphb_rank",
 			prop_type = "prop_grade",
 			base_score = 3000,
+		},
+		[393]=
+		{
+			no = 393,
+			award_cfg_id = 60,
+			award_id = 1,
+			permission_key = "actp_prop_exchange_nor",
+			asset_type = {"fish_coin",},
+			asset_count = {300000,},
+			use_num = {2000,},
+			me_limit_day_num = 2,
+		},
+		[394]=
+		{
+			no = 394,
+			award_cfg_id = 60,
+			award_id = 2,
+			permission_key = "actp_prop_exchange_nor",
+			asset_type = {"shop_gold_sum",},
+			asset_count = {800,},
+			use_num = {6000,},
+			me_limit_day_num = 2,
+		},
+		[395]=
+		{
+			no = 395,
+			award_cfg_id = 60,
+			award_id = 3,
+			permission_key = "actp_prop_exchange_nor",
+			asset_type = {"shop_gold_sum",},
+			asset_count = {2000,},
+			use_num = {12000,},
+			me_limit_day_num = 2,
+		},
+		[396]=
+		{
+			no = 396,
+			award_cfg_id = 60,
+			award_id = 4,
+			permission_key = "actp_prop_exchange_nor",
+			asset_type = {"fish_coin",},
+			asset_count = {5000000,},
+			use_num = {30000,},
+		},
+		[397]=
+		{
+			no = 397,
+			award_cfg_id = 60,
+			award_id = 5,
+			permission_key = "actp_prop_exchange_nor",
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {10000,},
+			use_num = {60000,},
+			me_limit_day_num = 1,
+		},
+		[398]=
+		{
+			no = 398,
+			award_cfg_id = 60,
+			award_id = 6,
+			permission_key = "actp_prop_exchange_nor",
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {20000,},
+			use_num = {120000,},
+			me_limit_day_num = 1,
+		},
+		[399]=
+		{
+			no = 399,
+			award_cfg_id = 60,
+			award_id = 7,
+			permission_key = "actp_prop_exchange_nor",
+			asset_type = {"shop_gold_sum",},
+			asset_count = {50000,},
+			use_num = {300000,},
+			me_limit_day_num = 1,
+		},
+		[400]=
+		{
+			no = 400,
+			award_cfg_id = 60,
+			award_id = 8,
+			permission_key = "actp_prop_exchange_nor_v5",
+			award_name = "笔记本电脑",
+			use_num = {1080000,},
+			me_limit_day_num = 1,
 		},
 	},
 	all_powerful=

@@ -1778,7 +1778,7 @@ return {
 		{
 			key = "pt_fcm",
 			name = "防沉迷系统（根据平台进行屏蔽）",
-			condi = 266,
+			condi = 515,
 		},
 		gfpt_tgxt=
 		{
@@ -2339,6 +2339,30 @@ return {
 			key = "weekly_act_can_show",
 			name = "活动显示（非天天欢乐捕鱼VIVO渠道）",
 			condi = 510,
+		},
+		initial_new_player_normal=
+		{
+			key = "initial_new_player_normal",
+			name = "新玩家初始资产（官方渠道）",
+			condi = 511,
+		},
+		initial_new_player_cpl=
+		{
+			key = "initial_new_player_cpl",
+			name = "新玩家初始资产（CPL）",
+			condi = 512,
+		},
+		initial_new_player_cjj=
+		{
+			key = "initial_new_player_cjj",
+			name = "新玩家初始资产（冲金鸡）",
+			condi = 513,
+		},
+		initial_new_player_cps=
+		{
+			key = "initial_new_player_cps",
+			name = "新玩家初始资产（CPS渠道）",
+			condi = 514,
 		},
 	},
 	act_permission=
@@ -6786,7 +6810,7 @@ return {
 		[371]=
 		{
 			id = 371,
-			enable = 1,
+			enable = 0,
 			key = "actp_rank_xrkh_023_ygbd_rank",
 			name = "游戏达人",
 			condi = 510,
@@ -7294,6 +7318,42 @@ return {
 			key = "actp_buy_gift_bag_10624",
 			name = "绝地反击（V8以上，非冲金鸡）",
 			condi = 509,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
+		},
+		[414]=
+		{
+			id = 414,
+			enable = 1,
+			key = "actp_own_task_p_new_player_task",
+			name = "新手任务（新玩家）",
+			condi = 510,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
+		},
+		[415]=
+		{
+			id = 415,
+			enable = 1,
+			key = "actp_own_task_p_new_player_task_1",
+			name = "新手任务（新玩家）",
+			condi = 510,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 0,
+		},
+		[416]=
+		{
+			id = 416,
+			enable = 1,
+			key = "actp_own_task_p_new_player_task_2",
+			name = "新手任务（新玩家）",
+			condi = 510,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
@@ -18491,6 +18551,56 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是欢乐天天捕鱼vivo渠道玩家",
+		},
+		[1120]=
+		{
+			no = 1120,
+			id = 511,
+			var = "share_condition",
+			value = "3dby_official",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼官方玩家",
+		},
+		[1121]=
+		{
+			no = 1121,
+			id = 512,
+			var = "share_condition",
+			value = "3dby_cpl",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼CPL玩家",
+		},
+		[1122]=
+		{
+			no = 1122,
+			id = 513,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是冲金鸡玩家",
+		},
+		[1123]=
+		{
+			no = 1123,
+			id = 514,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 2,
+			group = 1,
+			error_desc = "是天天欢乐捕鱼CPS渠道玩家",
+		},
+		[1124]=
+		{
+			no = 1124,
+			id = 515,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是天天欢乐捕鱼CPS渠道玩家",
 		},
 	},
 	share_condition=

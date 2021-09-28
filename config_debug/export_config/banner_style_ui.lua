@@ -791,7 +791,7 @@ return {
 			bannerID = 70,
 			isOnOff = 1,
 			order = -1000,
-			condi_key = "pt_fcm",
+			condi_key = " ",
 			gotoUI = {"sys_fcm","sm_panel"},
 			model = "LoginUp",
 			srartTime = -1,
@@ -1017,8 +1017,8 @@ return {
 			condi_key = "cpl_notcjj",
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1632182400,
-			endTime = 1632758399,
+			srartTime = 1632787200,
+			endTime = 1633967999,
 		},
 		[90]=
 		{
@@ -1099,8 +1099,8 @@ return {
 			condi_key = "cpl_cjj",
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1632182400,
-			endTime = 1632758399,
+			srartTime = 1632787200,
+			endTime = 1633967999,
 		},
 	},
 }

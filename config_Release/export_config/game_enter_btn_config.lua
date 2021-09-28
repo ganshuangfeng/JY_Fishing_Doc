@@ -366,7 +366,7 @@ return {
 		{
 			id = 6,
 			area = "Right_hd",
-			group_list = "103#133#",
+			group_list = "103#84#133#",
 		},
 		[7]=
 		{
@@ -1310,7 +1310,7 @@ return {
 		[132]=
 		{
 			id = 132,
-			parm = {"act_ty_gifts","gift_hflb","enter",},
+			parm = {"act_ty_gifts","gift_khlb","enter",},
 			is_on_off = 1,
 			condi_key = "cpl_notcjj",
 		},

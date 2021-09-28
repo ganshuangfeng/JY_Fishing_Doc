@@ -6,14 +6,14 @@ return {
 			line = 1,
 			id = 1,
 			icon = "ty_icon_jb_30y",
-			desc = "金币×3万",
+			desc = "金币×5000",
 		},
 		[2]=
 		{
 			line = 2,
 			id = 2,
 			icon = "ty_icon_yb_3",
-			desc = "鱼币×1万",
+			desc = "鱼币×5000",
 			condi_key = "cpl_notcjj",
 		},
 		[3]=
@@ -21,15 +21,15 @@ return {
 			line = 3,
 			id = 2,
 			icon = "ty_icon_yxb_4",
-			desc = "小游戏币×1万",
+			desc = "小游戏币×5000",
 			condi_key = "cpl_cjj",
 		},
 		[4]=
 		{
 			line = 4,
 			id = 3,
-			icon = "3dby_btn_bd",
-			desc = "冰冻x2",
+			icon = "3dby_btn_sd",
+			desc = "锁定x3",
 			condi_key = "cpl_notcjj",
 		},
 		[5]=

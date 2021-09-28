@@ -5,7 +5,7 @@ return {
 		{
 			id = 15001,
 			enable = 1,
-			name = "捕鱼获得金币10万",
+			name = "捕鱼任意鱼10条",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15001,
@@ -19,7 +19,7 @@ return {
 		{
 			id = 15002,
 			enable = 1,
-			name = "累计开炮数500发",
+			name = "累计消耗金币3万",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15002,
@@ -33,7 +33,7 @@ return {
 		{
 			id = 15003,
 			enable = 1,
-			name = "捕鱼任意鱼30条",
+			name = "累计消耗金币4万",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15003,
@@ -75,7 +75,7 @@ return {
 		{
 			id = 15006,
 			enable = 1,
-			name = "使用1次加速",
+			name = "捕鱼任意鱼10条",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15006,
@@ -89,7 +89,7 @@ return {
 		{
 			id = 15007,
 			enable = 1,
-			name = "使用1次狂暴",
+			name = "捕鱼任意鱼20条",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15007,
@@ -103,7 +103,7 @@ return {
 		{
 			id = 15008,
 			enable = 1,
-			name = "使用1次双倍",
+			name = "捕鱼任意鱼30条",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15008,
@@ -117,7 +117,7 @@ return {
 		{
 			id = 15009,
 			enable = 1,
-			name = "捕获黄金灯笼鱼3条",
+			name = "累计开炮数100发",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15009,
@@ -131,7 +131,7 @@ return {
 		{
 			id = 15010,
 			enable = 1,
-			name = "捕获黄金海龟3只",
+			name = "累计开炮数200发",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15010,
@@ -145,7 +145,7 @@ return {
 		{
 			id = 15011,
 			enable = 1,
-			name = "捕获大金鲨3条",
+			name = "累计消耗金币3万",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15011,
@@ -159,7 +159,7 @@ return {
 		{
 			id = 15012,
 			enable = 1,
-			name = "捕获任意黄金鱼5条",
+			name = "累计消耗金币4万",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15012,
@@ -173,7 +173,7 @@ return {
 		{
 			id = 15013,
 			enable = 1,
-			name = "捕鱼活动鱼1条",
+			name = "累计消耗金币5万",
 			own_type = "ocean_explore_week_children_task",
 			task_enum = "common",
 			process_id = 15013,
@@ -1002,8 +1002,8 @@ return {
 		{
 			id = 1,
 			process_id = 15001,
-			source_id = 1,
-			process = 100000,
+			source_id = 16,
+			process = 10,
 			awards = 1,
 			get_award_type = "nor",
 		},
@@ -1011,8 +1011,8 @@ return {
 		{
 			id = 2,
 			process_id = 15002,
-			source_id = 2,
-			process = 500,
+			source_id = 72,
+			process = 30000,
 			awards = 2,
 			get_award_type = "nor",
 		},
@@ -1020,8 +1020,8 @@ return {
 		{
 			id = 3,
 			process_id = 15003,
-			source_id = 3,
-			process = 30,
+			source_id = 72,
+			process = 40000,
 			awards = 3,
 			get_award_type = "nor",
 		},
@@ -1047,8 +1047,8 @@ return {
 		{
 			id = 6,
 			process_id = 15006,
-			source_id = 6,
-			process = 1,
+			source_id = 16,
+			process = 10,
 			awards = 6,
 			get_award_type = "nor",
 		},
@@ -1056,8 +1056,8 @@ return {
 		{
 			id = 7,
 			process_id = 15007,
-			source_id = 7,
-			process = 1,
+			source_id = 16,
+			process = 20,
 			awards = 7,
 			get_award_type = "nor",
 		},
@@ -1065,8 +1065,8 @@ return {
 		{
 			id = 8,
 			process_id = 15008,
-			source_id = 8,
-			process = 1,
+			source_id = 16,
+			process = 30,
 			awards = 8,
 			get_award_type = "nor",
 		},
@@ -1074,8 +1074,8 @@ return {
 		{
 			id = 9,
 			process_id = 15009,
-			source_id = 9,
-			process = 3,
+			source_id = 2,
+			process = 100,
 			awards = 9,
 			get_award_type = "nor",
 		},
@@ -1083,8 +1083,8 @@ return {
 		{
 			id = 10,
 			process_id = 15010,
-			source_id = 10,
-			process = 3,
+			source_id = 2,
+			process = 200,
 			awards = 10,
 			get_award_type = "nor",
 		},
@@ -1092,8 +1092,8 @@ return {
 		{
 			id = 11,
 			process_id = 15011,
-			source_id = 11,
-			process = 3,
+			source_id = 72,
+			process = 30000,
 			awards = 11,
 			get_award_type = "nor",
 		},
@@ -1101,8 +1101,8 @@ return {
 		{
 			id = 12,
 			process_id = 15012,
-			source_id = 12,
-			process = 5,
+			source_id = 72,
+			process = 40000,
 			awards = 12,
 			get_award_type = "nor",
 		},
@@ -1110,8 +1110,8 @@ return {
 		{
 			id = 13,
 			process_id = 15013,
-			source_id = 13,
-			process = 1,
+			source_id = 72,
+			process = 50000,
 			awards = 13,
 			get_award_type = "nor",
 		},
@@ -2134,6 +2134,13 @@ return {
 			source_id = 71,
 			source_type = "buyu_3d_target_yu",
 			condition_id = 69,
+		},
+		[72]=
+		{
+			id = 72,
+			source_id = 72,
+			source_type = "buyu_3d_spend",
+			condition_id = 0,
 		},
 	},
 	condition=

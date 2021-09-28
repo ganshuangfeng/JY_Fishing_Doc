@@ -2535,7 +2535,7 @@ return {
 			key = "sys_fcm",
 			desc = "防沉迷",
 			lua = "SYSFCMManager",
-			is_on_off = 0,
+			is_on_off = 1,
 			enable = 1,
 			state = 1,
 		},
@@ -3086,7 +3086,7 @@ return {
 		[315]=
 		{
 			id = 315,
-			key = "sys_act_base_style/sys_act_base_weekly_033",
+			key = "sys_act_base_style/sys_act_base_weekly_034",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
