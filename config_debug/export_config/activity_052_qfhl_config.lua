@@ -18,7 +18,7 @@ return {
 		[1]=
 		{
 			id = 1,
-			img = "activity_icon_gift151_pg13pro",
+			img = "activity_icon_pg13pro",
 			real = 1,
 			text = "苹果13pro",
 			server_award_id = 12130,
@@ -179,7 +179,7 @@ return {
 		[3]=
 		{
 			id = 3,
-			image = "activity_icon_gift151_mddhg",
+			image = "activity_icon_gift151_dg",
 			tex = "美的电火锅",
 			offset = {0,100,500,1000,1500,3500},
 		},
