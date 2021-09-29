@@ -7386,7 +7386,7 @@ return {
 			condi = 517,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
+			refresh_type = "now",
 			start_deal_time = 1632787200,
 		},
 		[419]=
@@ -7398,7 +7398,7 @@ return {
 			condi = 518,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
+			refresh_type = "now",
 			start_deal_time = 1632787200,
 		},
 		[420]=
@@ -7410,7 +7410,7 @@ return {
 			condi = 519,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
+			refresh_type = "now",
 			start_deal_time = 1632787200,
 		},
 	},
@@ -18690,35 +18690,15 @@ return {
 		{
 			no = 1128,
 			id = 517,
-			var = "tag_type",
-			value = "tag_plat_own_byam",
-			judge = 5,
-			group = 1,
-			error_desc = "在捕鱼奥秘平台没有账号",
-		},
-		[1129]=
-		{
-			no = 1129,
-			id = 517,
-			var = "tag_type",
-			value = "tag_plat_own_normal",
-			judge = 2,
-			group = 1,
-			error_desc = "在天天欢乐捕鱼有账号",
-		},
-		[1130]=
-		{
-			no = 1130,
-			id = 517,
 			var = "systype",
 			value = "ios",
 			judge = 5,
 			group = 1,
 			error_desc = "不是IOS用户",
 		},
-		[1131]=
+		[1129]=
 		{
-			no = 1131,
+			no = 1129,
 			id = 518,
 			var = "share_condition",
 			value = "byam_cpl",
@@ -18726,9 +18706,9 @@ return {
 			group = 1,
 			error_desc = "是天天欢乐捕鱼CPL渠道",
 		},
-		[1132]=
+		[1130]=
 		{
-			no = 1132,
+			no = 1130,
 			id = 518,
 			var = "vip_level",
 			value = 1,
@@ -18736,29 +18716,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上用户",
 		},
-		[1133]=
+		[1131]=
 		{
-			no = 1133,
-			id = 518,
-			var = "tag_type",
-			value = "tag_plat_own_byam",
-			judge = 2,
-			group = 1,
-			error_desc = "在捕鱼奥秘平台没有账号",
-		},
-		[1134]=
-		{
-			no = 1134,
-			id = 518,
-			var = "tag_type",
-			value = "tag_plat_own_normal",
-			judge = 5,
-			group = 1,
-			error_desc = "在天天欢乐捕鱼有账号",
-		},
-		[1135]=
-		{
-			no = 1135,
+			no = 1131,
 			id = 518,
 			var = "systype",
 			value = "ios",
@@ -18766,9 +18726,9 @@ return {
 			group = 1,
 			error_desc = "不是IOS用户",
 		},
-		[1136]=
+		[1132]=
 		{
-			no = 1136,
+			no = 1132,
 			id = 519,
 			var = "share_condition",
 			value = "cjj_cpl",
@@ -18776,9 +18736,9 @@ return {
 			group = 1,
 			error_desc = "是天天欢乐捕鱼CPL渠道",
 		},
-		[1137]=
+		[1133]=
 		{
-			no = 1137,
+			no = 1133,
 			id = 519,
 			var = "vip_level",
 			value = 1,
@@ -18786,29 +18746,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上用户",
 		},
-		[1138]=
+		[1134]=
 		{
-			no = 1138,
-			id = 519,
-			var = "tag_type",
-			value = "tag_plat_own_cjj",
-			judge = 2,
-			group = 1,
-			error_desc = "在冲金鸡平台没有账号",
-		},
-		[1139]=
-		{
-			no = 1139,
-			id = 519,
-			var = "tag_type",
-			value = "tag_plat_own_normal",
-			judge = 5,
-			group = 1,
-			error_desc = "在天天欢乐捕鱼有账号",
-		},
-		[1140]=
-		{
-			no = 1140,
+			no = 1134,
 			id = 519,
 			var = "systype",
 			value = "ios",
@@ -18816,9 +18756,9 @@ return {
 			group = 1,
 			error_desc = "不是IOS用户",
 		},
-		[1141]=
+		[1135]=
 		{
-			no = 1141,
+			no = 1135,
 			id = 520,
 			var = "share_condition",
 			value = "tthlby_official",
@@ -18826,9 +18766,9 @@ return {
 			group = 1,
 			error_desc = "不是天天欢乐捕鱼CPL渠道",
 		},
-		[1142]=
+		[1136]=
 		{
-			no = 1142,
+			no = 1136,
 			id = 520,
 			var = "share_condition",
 			value = "byam_official",
@@ -18836,9 +18776,9 @@ return {
 			group = 2,
 			error_desc = "不是捕鱼奥秘CPL渠道",
 		},
-		[1143]=
+		[1137]=
 		{
-			no = 1143,
+			no = 1137,
 			id = 520,
 			var = "share_condition",
 			value = "cjj_official",
@@ -18846,9 +18786,9 @@ return {
 			group = 3,
 			error_desc = "不是冲金鸡CPL渠道",
 		},
-		[1144]=
+		[1138]=
 		{
-			no = 1144,
+			no = 1138,
 			id = 520,
 			var = "share_condition",
 			value = "tthlby_cpl",
@@ -18856,9 +18796,9 @@ return {
 			group = 4,
 			error_desc = "是天天欢乐捕鱼CPL渠道",
 		},
-		[1145]=
+		[1139]=
 		{
-			no = 1145,
+			no = 1139,
 			id = 520,
 			var = "vip_level",
 			value = 0,
@@ -18866,9 +18806,9 @@ return {
 			group = 4,
 			error_desc = "VIP0用户",
 		},
-		[1146]=
+		[1140]=
 		{
-			no = 1146,
+			no = 1140,
 			id = 520,
 			var = "share_condition",
 			value = "byam_cpl",
@@ -18876,9 +18816,9 @@ return {
 			group = 5,
 			error_desc = "是捕鱼奥秘CPL渠道",
 		},
-		[1147]=
+		[1141]=
 		{
-			no = 1147,
+			no = 1141,
 			id = 520,
 			var = "vip_level",
 			value = 0,
@@ -18886,9 +18826,9 @@ return {
 			group = 5,
 			error_desc = "VIP0用户",
 		},
-		[1148]=
+		[1142]=
 		{
-			no = 1148,
+			no = 1142,
 			id = 520,
 			var = "share_condition",
 			value = "cjj_cpl",
@@ -18896,9 +18836,9 @@ return {
 			group = 6,
 			error_desc = "冲金鸡CPL渠道",
 		},
-		[1149]=
+		[1143]=
 		{
-			no = 1149,
+			no = 1143,
 			id = 520,
 			var = "vip_level",
 			value = 0,
