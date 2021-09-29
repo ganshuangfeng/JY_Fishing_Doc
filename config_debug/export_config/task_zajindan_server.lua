@@ -41895,7 +41895,7 @@ return {
 			id = 700,
 			condition_id = 526,
 			condition_name = "market_channel",
-			condition_value = {"byam","sigmob",},
+			condition_value = {"byam",},
 			judge_type = 2,
 		},
 		[701]=
