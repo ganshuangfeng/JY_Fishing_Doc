@@ -3257,9 +3257,9 @@ return {
 			key = "act_052_qfhl",
 			desc = "祈福有礼",
 			lua = "Act_052_QFHLManager",
-			is_on_off = 0,
-			enable = 0,
-			state = 0,
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
 		},
 		[333]=
 		{

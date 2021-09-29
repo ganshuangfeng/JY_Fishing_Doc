@@ -836,13 +836,13 @@ return {
 		{
 			id = 74,
 			bannerID = 74,
-			isOnOff = 0,
+			isOnOff = 1,
 			order = 110,
 			condi_key = "actp_own_task_p_crary_rebate",
 			gotoUI = {"act_027_jqshl","panel"},
 			model = "LoginUp",
 			srartTime = -1,
-			endTime = -1,
+			endTime = 1635004799,
 		},
 		[75]=
 		{
@@ -1106,7 +1106,7 @@ return {
 		{
 			id = 97,
 			bannerID = 97,
-			isOnOff = 1,
+			isOnOff = 0,
 			order = 150,
 			condi_key = "actp_own_task_p_crary_rebate",
 			gotoUI = {"sys_act_base","fkfl","panel"},
