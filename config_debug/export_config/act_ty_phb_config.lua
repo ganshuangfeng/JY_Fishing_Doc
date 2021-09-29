@@ -16,7 +16,7 @@ return {
 			gotoUI = {"game_Fishing3DHall",},
 			award = {1,2,3,4,5,6,7},
 			extra_award = {8,9,10,11,12,13,14},
-			path = "act_30_dlphb",
+			path = "act_030_dlphb",
 			condiy_key = "actp_own_task_p_drop_act_nor",
 			type_info = 1,
 			is_have_point = 0,

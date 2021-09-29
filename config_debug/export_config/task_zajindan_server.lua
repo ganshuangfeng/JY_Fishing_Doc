@@ -62100,7 +62100,7 @@ return {
 		{
 			id = 2487,
 			award_id = 1565,
-			asset_type = "jing_bi",
+			asset_type = "prop_tiny_game_coin",
 			asset_count = {10000,14000},
 			get_weight = 1,
 		},
