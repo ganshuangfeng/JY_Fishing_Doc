@@ -4309,7 +4309,7 @@ return {
 			image = "com_award_icon_f",
 			is_show_bag = 0,
 			order = 1,
-			name = "积分",
+			name = "福气",
 			desc = "用于参加排行榜",
 		},
 		[319]=
