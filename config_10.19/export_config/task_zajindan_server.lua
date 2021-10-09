@@ -15801,15 +15801,15 @@ return {
 		[1000685]=
 		{
 			id = 1000685,
-			enable = 0,
+			enable = 1,
 			name = "话费礼包",
 			own_type = "p_hljnh_046_hlfl_nor",
 			task_enum = "common",
 			process_id = 22043,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1624320000,
-			end_valid_time = 1624895999,
+			start_valid_time = 1634572800,
+			end_valid_time = 1635177599,
 			time_limit = -1,
 			is_send_client = 1,
 		},
