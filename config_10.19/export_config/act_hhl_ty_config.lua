@@ -40,7 +40,7 @@ return {
 		{
 			line = 2,
 			award_name = "50万小游戏币",
-			award_image = "ty_icon_yxb4",
+			award_image = "ty_icon_yxb_4",
 			item_cost_text = 3000,
 			type = 0,
 		},
@@ -56,7 +56,7 @@ return {
 		{
 			line = 4,
 			award_name = "150万小游戏币",
-			award_image = "ty_icon_yxb5",
+			award_image = "ty_icon_yxb_5",
 			item_cost_text = 9000,
 			type = 0,
 		},
@@ -91,7 +91,7 @@ return {
 			award_image = "pay_icon_gold8",
 			item_cost_text = 42000,
 			type = 0,
-			condiy_key = "actp_prop_exchange_nor_v3",
+			condiy_key = "actp_prop_exchange_v5",
 		},
 		[9]=
 		{
@@ -100,16 +100,16 @@ return {
 			award_image = "com_award_icon_hf100",
 			item_cost_text = 60000,
 			type = 0,
-			condiy_key = "actp_prop_exchange_nor_v4",
+			condiy_key = "actp_prop_exchange_v4",
 		},
 		[10]=
 		{
 			line = 10,
 			award_name = "500元话费",
-			award_image = "com_award_icon_hf200",
+			award_image = "com_award_icon_hf500",
 			item_cost_text = 300000,
 			type = 0,
-			condiy_key = "actp_prop_exchange_nor_v5",
+			condiy_key = "actp_prop_exchange_v3",
 		},
 	},
 	shop_config=
