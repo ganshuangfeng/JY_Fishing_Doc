@@ -11358,7 +11358,7 @@ return {
 		{
 			id = 661,
 			real_award_id = 12133,
-			award_name = "亲嘴烧30片",
+			award_name = "亲嘴烧30袋",
 			asset_count = {1,1},
 		},
 		[662]=
