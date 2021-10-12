@@ -1389,5 +1389,11 @@ return {
 			is_on_off = 1,
 			condi_key = "cpl_cjj",
 		},
+		[144]=
+		{
+			id = 144,
+			parm = {"sys_act_base","fkfl","enter"},
+			is_on_off = 1,
+		},
 	},
 }

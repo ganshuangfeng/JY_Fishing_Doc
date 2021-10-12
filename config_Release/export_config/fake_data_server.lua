@@ -337,5 +337,96 @@ return {
 			award_name = "南极人空调扇",
 			weight = 3,
 		},
+		[49]=
+		{
+			id = 49,
+			data_type = "cyqf_qfzl_lottery",
+			award_name = "苹果13pro",
+			weight = 1,
+		},
+		[50]=
+		{
+			id = 50,
+			data_type = "cyqf_qfzl_lottery",
+			award_name = "平板电脑",
+			weight = 5,
+		},
+		[51]=
+		{
+			id = 51,
+			data_type = "cyqf_qfzl_lottery",
+			award_name = "可乐12瓶",
+			weight = 120,
+		},
+		[52]=
+		{
+			id = 52,
+			data_type = "cyqf_qfzl_lottery",
+			award_name = "亲嘴烧30袋",
+			weight = 100,
+		},
+		[53]=
+		{
+			id = 53,
+			data_type = "cyqf_qfzl_lottery",
+			award_name = "抽纸5包",
+			weight = 100,
+		},
+		[54]=
+		{
+			id = 54,
+			data_type = "cyqf_qfzl_lottery",
+			award_name = "800福利券",
+			weight = 150,
+		},
+		[55]=
+		{
+			id = 55,
+			data_type = "cyqf_qfzl_lottery",
+			award_name = "100万金币",
+			weight = 200,
+		},
+		[56]=
+		{
+			id = 56,
+			data_type = "cyqf_qfzl_lottery",
+			award_name = "50万金币",
+			weight = 60,
+		},
+		[57]=
+		{
+			id = 57,
+			data_type = "cyqf_qfzl_lottery",
+			award_name = "100福利券",
+			weight = 150,
+		},
+		[58]=
+		{
+			id = 58,
+			data_type = "cyqf_qfzl_lottery",
+			award_name = "100话费碎片",
+			weight = 114,
+		},
+		[59]=
+		{
+			id = 59,
+			data_type = "cyqf_qfzl_lottery_1",
+			award_name = "金龙鱼油900ml",
+			weight = 4,
+		},
+		[60]=
+		{
+			id = 60,
+			data_type = "cyqf_qfzl_lottery_1",
+			award_name = "椰汁24盒",
+			weight = 3,
+		},
+		[61]=
+		{
+			id = 61,
+			data_type = "cyqf_qfzl_lottery_1",
+			award_name = "美的电火锅",
+			weight = 3,
+		},
 	},
 }

@@ -713,11 +713,11 @@ return {
 		[52]=
 		{
 			id = 52,
-			enable = 0,
+			enable = 1,
 			rank_type = "ymshf_017_hldr_rank",
 			name = "欢乐达人",
-			begin_time = 1632182400,
-			end_time = 1632758399,
+			begin_time = 1634601600,
+			end_time = 1635177599,
 			data_deal_type = "nor_add",
 			data_save_type = "single",
 			score_source = 49,
@@ -809,7 +809,7 @@ return {
 		[59]=
 		{
 			id = 59,
-			enable = 1,
+			enable = 0,
 			rank_type = "lxjkh_024_jfphb_rank",
 			name = "积分排行榜",
 			begin_time = 1633996800,
@@ -3814,7 +3814,7 @@ return {
 		{
 			id = 54,
 			reset_type = "fix_time",
-			reset_value = 1632758399,
+			reset_value = 1635177599,
 		},
 		[55]=
 		{

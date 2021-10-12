@@ -13,8 +13,8 @@ return {
 		{
 			line = 2,
 			condiy_key = "cpl_cjj",
-			beginTime = 1631577600,
-			endTime = 1632153599,
+			beginTime = 1633996800,
+			endTime = 1634572799,
 			config = {1,2,3},
 		},
 	},

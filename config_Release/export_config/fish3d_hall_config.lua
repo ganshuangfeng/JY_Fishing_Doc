@@ -13,7 +13,7 @@ return {
 			enter_max = 200000,
 			is_on = 1,
 			recommend_min = 0,
-			recommend_max = 100000,
+			recommend_max = 0,
 			gun_rate = {10,20,30,40,50,60,70,80,90,100,},
 		},
 		[2]=
@@ -27,7 +27,7 @@ return {
 			order = 2,
 			enter_max = 500000,
 			is_on = 1,
-			recommend_min = 100001,
+			recommend_min = 0,
 			recommend_max = 499999,
 			gun_rate = {100,200,300,400,500,600,700,800,900,1000,},
 		},
