@@ -7,7 +7,7 @@ return {
 			is_on_off = 1,
 			ID = 1,
 			item_key = "prop_fish_drop_act_0",
-			act_name = "祈福排行榜",
+			act_name = "欢乐达人",
 			reward_item_key = "shop_gold_sum",
 			ext_reward_item_key = "shop_gold_sum",
 			rank_type = "ymshf_017_hldr_rank",
@@ -20,6 +20,8 @@ return {
 			condiy_key = "actp_own_task_p_drop_act_nor",
 			type_info = 100,
 			is_have_point = 1,
+			act_gift_name = "话费礼包",
+			act_gift_key = "gift_hflb",
 		},
 		[2]=
 		{
@@ -27,7 +29,7 @@ return {
 			is_on_off = 1,
 			ID = 2,
 			item_key = "prop_fish_drop_act_0",
-			act_name = "祈福排行榜",
+			act_name = "欢乐达人",
 			reward_item_key = "shop_gold_sum",
 			ext_reward_item_key = "shop_gold_sum",
 			rank_type = "ymshf_017_hldr_rank",
@@ -40,6 +42,8 @@ return {
 			condiy_key = "cpl_cjj",
 			type_info = 100,
 			is_have_point = 1,
+			act_gift_name = "话费礼包",
+			act_gift_key = "gift_hflb",
 		},
 	},
 	award_config=

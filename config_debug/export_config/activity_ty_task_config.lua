@@ -3067,7 +3067,7 @@ return {
 		[241]=
 		{
 			id = 241,
-			task = 1000792,
+			task = 1000793,
 			total = 10,
 			task_name = "完成以下所有任务",
 			level = 1,
@@ -3078,7 +3078,7 @@ return {
 		[242]=
 		{
 			id = 242,
-			task = 1000793,
+			task = 1000794,
 			total = 1,
 			task_name = "登录一次游戏",
 			level = 1,
@@ -3089,10 +3089,10 @@ return {
 		[243]=
 		{
 			id = 243,
-			task = 1000794,
+			task = 1000795,
 			total = 10,
 			task_name = "在水果消消乐中累计消除10个西瓜",
-			level = 10,
+			level = 1,
 			item = {"prop_web_chip_huafei",},
 			count = {5,},
 			gotoUI = {"game_MiniGame",},
@@ -3100,10 +3100,10 @@ return {
 		[244]=
 		{
 			id = 244,
-			task = 1000794,
+			task = 1000795,
 			total = 30,
 			task_name = "在水果消消乐中累计消除30个西瓜",
-			level = 30,
+			level = 2,
 			item = {"prop_web_chip_huafei",},
 			count = {5,},
 			gotoUI = {"game_MiniGame",},
@@ -3111,10 +3111,10 @@ return {
 		[245]=
 		{
 			id = 245,
-			task = 1000794,
+			task = 1000795,
 			total = 50,
 			task_name = "在水果消消乐中累计消除50个西瓜",
-			level = 50,
+			level = 3,
 			item = {"prop_web_chip_huafei",},
 			count = {10,},
 			gotoUI = {"game_MiniGame",},
@@ -3122,10 +3122,10 @@ return {
 		[246]=
 		{
 			id = 246,
-			task = 1000794,
+			task = 1000795,
 			total = 100,
 			task_name = "在水果消消乐中累计消除100个西瓜",
-			level = 100,
+			level = 4,
 			item = {"prop_web_chip_huafei",},
 			count = {20,},
 			gotoUI = {"game_MiniGame",},
@@ -3133,7 +3133,7 @@ return {
 		[247]=
 		{
 			id = 247,
-			task = 1000795,
+			task = 1000796,
 			total = 1,
 			task_name = "在苹果大战中累计猜中1次",
 			level = 1,
@@ -3144,7 +3144,7 @@ return {
 		[248]=
 		{
 			id = 248,
-			task = 1000795,
+			task = 1000796,
 			total = 5,
 			task_name = "在苹果大战中累计猜中5次",
 			level = 2,
@@ -3155,7 +3155,7 @@ return {
 		[249]=
 		{
 			id = 249,
-			task = 1000795,
+			task = 1000796,
 			total = 10,
 			task_name = "在苹果大战中累计猜中10次",
 			level = 3,
@@ -3166,7 +3166,7 @@ return {
 		[250]=
 		{
 			id = 250,
-			task = 1000795,
+			task = 1000796,
 			total = 20,
 			task_name = "在苹果大战中累计猜中20次",
 			level = 4,
@@ -3177,7 +3177,7 @@ return {
 		[251]=
 		{
 			id = 251,
-			task = 1000796,
+			task = 1000797,
 			total = 1,
 			task_name = "充值任意金额1次",
 			level = 1,
