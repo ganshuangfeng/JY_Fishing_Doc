@@ -32,7 +32,7 @@ return {
 		{
 			line = 1,
 			award_name = "5万福利券",
-			award_image = "com_award_icon_hf500",
+			award_image = "ty_icon_flq5",
 			item_cost_text = 300000,
 			type = 0,
 			condiy_key = "actp_prop_exchange_v5",
@@ -41,7 +41,7 @@ return {
 		{
 			line = 2,
 			award_name = "1万福利券",
-			award_image = "com_award_icon_hf100",
+			award_image = "ty_icon_flq4",
 			item_cost_text = 60000,
 			type = 0,
 			condiy_key = "actp_prop_exchange_v4",
@@ -59,7 +59,7 @@ return {
 		{
 			line = 4,
 			award_name = "5000福利券",
-			award_image = "com_award_icon_hf50",
+			award_image = "ty_icon_flq3",
 			item_cost_text = 30000,
 			type = 0,
 		},
@@ -75,7 +75,7 @@ return {
 		{
 			line = 6,
 			award_name = "2000福利券",
-			award_image = "com_award_icon_hf20",
+			award_image = "ty_icon_flq2",
 			item_cost_text = 12000,
 			type = 0,
 		},
@@ -91,7 +91,7 @@ return {
 		{
 			line = 8,
 			award_name = "1000福利券",
-			award_image = "com_award_icon_hf10",
+			award_image = "ty_icon_flq2",
 			item_cost_text = 6000,
 			type = 0,
 		},
@@ -107,7 +107,7 @@ return {
 		{
 			line = 10,
 			award_name = "200福利券",
-			award_image = "com_award_icon_hf2",
+			award_image = "ty_icon_flq1",
 			item_cost_text = 1200,
 			type = 0,
 		},
