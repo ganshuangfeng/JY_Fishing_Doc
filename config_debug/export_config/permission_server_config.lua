@@ -7479,6 +7479,18 @@ return {
 			refresh_type = "now",
 			start_deal_time = 1634601600,
 		},
+		[426]=
+		{
+			id = 426,
+			enable = 1,
+			key = "actp_own_task_p_drop_act_notcps",
+			name = "道具掉落（非CPS渠道）",
+			condi = 527,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1629158400,
+		},
 	},
 	condi=
 	{
@@ -19161,6 +19173,16 @@ return {
 			judge = 5,
 			group = 3,
 			error_desc = "不是IOS用户",
+		},
+		[1169]=
+		{
+			no = 1169,
+			id = 527,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 2,
+			error_desc = "不是CPS渠道",
 		},
 	},
 	share_condition=
