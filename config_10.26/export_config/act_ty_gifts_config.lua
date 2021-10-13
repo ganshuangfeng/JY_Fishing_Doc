@@ -29,7 +29,7 @@ return {
 		{
 			index = 3,
 			act_gift_key = "gift_hflb",
-			style_key = "act_008_hflb",
+			style_key = "act_010_hflb",
 			act_gift_name = "狂欢礼包",
 			start_time = 1635206400,
 			end_time = 1635782399,

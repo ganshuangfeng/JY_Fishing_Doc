@@ -5,7 +5,7 @@ return {
 		{
 			line = 1,
 			change_type = 57,
-			cur_path = "act_017_hhl_",
+			cur_path = "act_019_hhl_",
 			item_key = "prop_fish_drop_act_0",
 			beginTime = 1635206400,
 			endTime = 1635782399,
@@ -17,7 +17,7 @@ return {
 		{
 			line = 2,
 			change_type = 57,
-			cur_path = "act_017_hhl_",
+			cur_path = "act_019_hhl_",
 			item_key = "prop_fish_drop_act_0",
 			beginTime = 1635206400,
 			endTime = 1635782399,
