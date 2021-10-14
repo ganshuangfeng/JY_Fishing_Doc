@@ -3408,5 +3408,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[348]=
+		{
+			id = 348,
+			key = "act_062_hghd",
+			desc = "回归活动",
+			lua = "Act_062_HGHDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

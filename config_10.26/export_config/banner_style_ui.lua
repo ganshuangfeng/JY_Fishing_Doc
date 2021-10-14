@@ -1114,5 +1114,17 @@ return {
 			srartTime = -1,
 			endTime = -1,
 		},
+		[98]=
+		{
+			id = 98,
+			bannerID = 98,
+			isOnOff = 1,
+			order = -2200,
+			condi_key = "actp_own_task_p_come_back_courtesy",
+			gotoUI = {"act_062_hghd","first_open_panel"},
+			model = "LoginUp",
+			srartTime = -1,
+			endTime = -1,
+		},
 	},
 }
