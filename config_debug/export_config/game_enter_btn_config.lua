@@ -398,7 +398,7 @@ return {
 		{
 			id = 3,
 			area = "top_right",
-			group_list = "108#104#95#72#",
+			group_list = "145#108#104#95#72#",
 		},
 		[4]=
 		{
