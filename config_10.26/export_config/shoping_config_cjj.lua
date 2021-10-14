@@ -17487,6 +17487,27 @@ return {
 			is_cg = 1,
 			cg_order = 1,
 		},
+		[724]=
+		{
+			line_id = 724,
+			id = 10641,
+			on_off = 1,
+			pay_title = "回归礼遇",
+			gzh_order = -31,
+			gzh_show = 0,
+			web_show = 0,
+			shop_type = "gift_bag",
+			price = 3000,
+			buy_limt = {5,1,0},
+			count = 99999999,
+			start_time = 0,
+			end_time = 2552233600,
+			condition = 14,
+			wx_pay = 1,
+			zfb_pay = 1,
+			is_cg = 1,
+			cg_order = 1,
+		},
 	},
 	gift_bag_condition=
 	{
