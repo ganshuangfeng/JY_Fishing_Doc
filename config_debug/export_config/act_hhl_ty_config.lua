@@ -4,6 +4,7 @@ return {
 		[1]=
 		{
 			line = 1,
+			condiy_key = "cpl_notcjj",
 			change_type = 57,
 			cur_path = "act_017_hhl_",
 			item_key = "prop_fish_drop_act_0",
@@ -16,6 +17,7 @@ return {
 		[2]=
 		{
 			line = 2,
+			condiy_key = "cpl_cjj",
 			change_type = 57,
 			cur_path = "act_017_hhl_",
 			item_key = "prop_fish_drop_act_0",
