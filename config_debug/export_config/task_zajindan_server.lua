@@ -15803,7 +15803,7 @@ return {
 			id = 1000685,
 			enable = 1,
 			name = "话费礼包",
-			own_type = "p_hljnh_046_hlfl_nor",
+			own_type = "p_drop_act_notcps",
 			task_enum = "common",
 			process_id = 22043,
 			is_reset = 1,
