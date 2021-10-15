@@ -2027,6 +2027,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[30043]=
+		{
+			id = 30043,
+			enable = 1,
+			name = "回归礼遇（购买礼包）",
+			own_type = "p_come_back_courtesy",
+			task_enum = "common",
+			process_id = 143,
+			is_reset = 1,
+			reset_delay = 7,
+			start_valid_time = 1635177600,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -3393,6 +3408,13 @@ return {
 			process = 1,
 			pre_add_process = 1,
 		},
+		[143]=
+		{
+			id = 143,
+			process_id = 143,
+			source_id = 127,
+			process = 1,
+		},
 	},
 	source=
 	{
@@ -4511,6 +4533,13 @@ return {
 			source_id = 126,
 			source_type = "count_login",
 			condition_id = 0,
+		},
+		[160]=
+		{
+			id = 160,
+			source_id = 127,
+			source_type = "buy_gift",
+			condition_id = 49,
 		},
 	},
 	condition=
