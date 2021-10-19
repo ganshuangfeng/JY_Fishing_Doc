@@ -21,7 +21,7 @@ return {
 			type_info = 100,
 			is_have_point = 1,
 			act_gift_name = "狂欢礼包",
-			act_gift_key = "gift_hflb",
+			act_gift_key = "gift_khlb",
 		},
 		[2]=
 		{
@@ -43,7 +43,7 @@ return {
 			type_info = 100,
 			is_have_point = 1,
 			act_gift_name = "狂欢礼包",
-			act_gift_key = "gift_hflb",
+			act_gift_key = "gift_khlb",
 		},
 	},
 	award_config=
