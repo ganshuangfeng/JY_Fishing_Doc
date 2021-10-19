@@ -61024,7 +61024,7 @@ return {
 			id = 2310,
 			award_id = 1409,
 			asset_type = "withdraw_cash_xshb",
-			asset_count = 50,
+			asset_count = 30,
 			get_weight = 1,
 		},
 		[2311]=
