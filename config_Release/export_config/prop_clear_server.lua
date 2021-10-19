@@ -38,8 +38,8 @@ return {
 			id = 5,
 			enable = 1,
 			prop_type = "prop_fish_drop_act_0",
-			start_time = 1633996800,
-			recycle_time = 1634572799,
+			start_time = 1634601600,
+			recycle_time = 1635177599,
 		},
 		[6]=
 		{
@@ -478,6 +478,30 @@ return {
 			id = 60,
 			enable = 1,
 			prop_type = "prop_grade",
+			start_time = 1633996800,
+			recycle_time = 1634572799,
+		},
+		[61]=
+		{
+			id = 61,
+			enable = 1,
+			prop_type = "prop_box_xiyou",
+			start_time = 1633996800,
+			recycle_time = 1634572799,
+		},
+		[62]=
+		{
+			id = 62,
+			enable = 1,
+			prop_type = "prop_box_shishi",
+			start_time = 1633996800,
+			recycle_time = 1634572799,
+		},
+		[63]=
+		{
+			id = 63,
+			enable = 1,
+			prop_type = "prop_box_chuanshuo",
 			start_time = 1633996800,
 			recycle_time = 1634572799,
 		},

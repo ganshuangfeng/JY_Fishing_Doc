@@ -534,7 +534,7 @@ return {
 			module_id = 8,
 			start_value = 100000000,
 			end_value = 1000000000000,
-			discount = 0.680000,
+			discount = 0.760000,
 		},
 		[27]=
 		{
@@ -542,7 +542,7 @@ return {
 			module_id = 8,
 			start_value = 35000000,
 			end_value = 100000000,
-			discount = 0.765000,
+			discount = 0.855000,
 		},
 		[28]=
 		{
@@ -550,7 +550,7 @@ return {
 			module_id = 8,
 			start_value = 15000000,
 			end_value = 35000000,
-			discount = 0.807500,
+			discount = 0.902500,
 		},
 		[29]=
 		{
@@ -558,7 +558,7 @@ return {
 			module_id = 8,
 			start_value = 0,
 			end_value = 15000000,
-			discount = 0.850000,
+			discount = 0.950000,
 		},
 		[30]=
 		{
@@ -566,7 +566,7 @@ return {
 			module_id = 9,
 			start_value = 120000000,
 			end_value = 1000000000000,
-			discount = 0.680000,
+			discount = 0.760000,
 		},
 		[31]=
 		{
@@ -574,7 +574,7 @@ return {
 			module_id = 9,
 			start_value = 60000000,
 			end_value = 120000000,
-			discount = 0.765000,
+			discount = 0.855000,
 		},
 		[32]=
 		{
@@ -582,7 +582,7 @@ return {
 			module_id = 9,
 			start_value = 30000000,
 			end_value = 60000000,
-			discount = 0.807500,
+			discount = 0.902500,
 		},
 		[33]=
 		{
@@ -590,7 +590,7 @@ return {
 			module_id = 9,
 			start_value = 0,
 			end_value = 30000000,
-			discount = 0.850000,
+			discount = 0.950000,
 		},
 		[34]=
 		{
@@ -598,7 +598,7 @@ return {
 			module_id = 10,
 			start_value = 200000000,
 			end_value = 1000000000000,
-			discount = 0.680000,
+			discount = 0.760000,
 		},
 		[35]=
 		{
@@ -606,7 +606,7 @@ return {
 			module_id = 10,
 			start_value = 100000000,
 			end_value = 200000000,
-			discount = 0.765000,
+			discount = 0.855000,
 		},
 		[36]=
 		{
@@ -614,7 +614,7 @@ return {
 			module_id = 10,
 			start_value = 50000000,
 			end_value = 100000000,
-			discount = 0.807500,
+			discount = 0.902500,
 		},
 		[37]=
 		{
@@ -622,7 +622,7 @@ return {
 			module_id = 10,
 			start_value = 0,
 			end_value = 50000000,
-			discount = 0.850000,
+			discount = 0.950000,
 		},
 		[38]=
 		{
@@ -630,7 +630,7 @@ return {
 			module_id = 11,
 			start_value = 200000000,
 			end_value = 1000000000000,
-			discount = 0.680000,
+			discount = 0.760000,
 		},
 		[39]=
 		{
@@ -638,7 +638,7 @@ return {
 			module_id = 11,
 			start_value = 120000000,
 			end_value = 200000000,
-			discount = 0.765000,
+			discount = 0.855000,
 		},
 		[40]=
 		{
@@ -646,7 +646,7 @@ return {
 			module_id = 11,
 			start_value = 80000000,
 			end_value = 120000000,
-			discount = 0.807500,
+			discount = 0.902500,
 		},
 		[41]=
 		{
@@ -654,7 +654,7 @@ return {
 			module_id = 11,
 			start_value = 0,
 			end_value = 80000000,
-			discount = 0.850000,
+			discount = 0.950000,
 		},
 		[42]=
 		{

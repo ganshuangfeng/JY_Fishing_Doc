@@ -716,8 +716,8 @@ return {
 			enable = 1,
 			rank_type = "ymshf_017_hldr_rank",
 			name = "欢乐达人",
-			begin_time = 1634601600,
-			end_time = 1635177599,
+			begin_time = 1635206400,
+			end_time = 1635782399,
 			data_deal_type = "nor_add",
 			data_save_type = "single",
 			score_source = 49,
@@ -3816,7 +3816,7 @@ return {
 		{
 			id = 54,
 			reset_type = "fix_time",
-			reset_value = 1635177599,
+			reset_value = 1635782399,
 		},
 		[55]=
 		{

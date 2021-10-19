@@ -31,11 +31,11 @@ return {
 			act_gift_key = "gift_hflb",
 			style_key = "act_008_hflb",
 			act_gift_name = "话费礼包",
-			start_time = 1629763200,
-			end_time = 1630339199,
+			start_time = 1634601600,
+			end_time = 1635177599,
 			time_txt_fmt = {"f0efff","5527b1"},
 			gift_ids = {9,10,11,12},
-			isOnOff = 0,
+			isOnOff = 1,
 		},
 		[4]=
 		{
@@ -47,7 +47,7 @@ return {
 			end_time = 1632758399,
 			time_txt_fmt = {"f0efff","5527b1"},
 			gift_ids = {13,14,15,16},
-			isOnOff = 1,
+			isOnOff = 0,
 		},
 	},
 	gifts=
@@ -193,7 +193,7 @@ return {
 			index = 9,
 			gift_key = "gift_hflb",
 			gift_ids = {10551,10552,10553},
-			permiss = "actp_buy_gift_bag_class_integral_gift_buy_nor",
+			permiss = "actp_buy_gift_bag_class_buy_gift_shop_nor",
 			name_txt_fmt = {"fffae1","af2a22"},
 			award_z_txt_fmt = {"FFFFFF",},
 			gift_1_name = {"60万金币","28","欢乐券加成"},
@@ -210,7 +210,7 @@ return {
 			index = 10,
 			gift_key = "gift_hflb",
 			gift_ids = {10554,10555,10556},
-			permiss = "actp_buy_gift_bag_class_integral_gift_buy_v1",
+			permiss = "actp_buy_gift_bag_class_buy_gift_shop_v1",
 			name_txt_fmt = {"fffae1","af2a22"},
 			award_z_txt_fmt = {"FFFFFF",},
 			gift_1_name = {"180万金币","58","欢乐券加成"},
@@ -227,7 +227,7 @@ return {
 			index = 11,
 			gift_key = "gift_hflb",
 			gift_ids = {10557,10558,10559},
-			permiss = "actp_buy_gift_bag_class_integral_gift_buy_v4",
+			permiss = "actp_buy_gift_bag_class_buy_gift_shop_v4",
 			name_txt_fmt = {"fffae1","af2a22"},
 			award_z_txt_fmt = {"FFFFFF",},
 			gift_1_name = {"480万金币","168","欢乐券加成"},
@@ -244,7 +244,7 @@ return {
 			index = 12,
 			gift_key = "gift_hflb",
 			gift_ids = {10560,10561,10562},
-			permiss = "actp_buy_gift_bag_class_integral_gift_buy_v8",
+			permiss = "actp_buy_gift_bag_class_buy_gift_shop_v8",
 			name_txt_fmt = {"fffae1","af2a22"},
 			award_z_txt_fmt = {"FFFFFF",},
 			gift_1_name = {"980万金币","338","欢乐券加成"},
@@ -330,7 +330,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			content = "1、购买礼包，活动中获得的月饼在排行榜中有额外加成",
+			content = "1、购买礼包，活动中获得的欢乐券在排行榜中有额外加成",
 		},
 		[2]=
 		{

@@ -44,7 +44,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;101#",
+			group_list = "145;16;31;101#",
 		},
 		[3]=
 		{
@@ -76,7 +76,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "101#",
+			group_list = "145;101#",
 		},
 		[3]=
 		{
@@ -107,7 +107,7 @@ return {
 		{
 			id = 2,
 			area = "left_top",
-			group_list = "16;31;90;101#",
+			group_list = "145;16;31;90;101#",
 		},
 		[3]=
 		{
@@ -192,7 +192,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#139#8#122#61#140#137#9#117#134#141#138#142#143#",
+			group_list = "3;116#2#139#8#122#61#140#137#9#117#134#141#138#142#143#146#",
 		},
 		[2]=
 		{
@@ -398,7 +398,7 @@ return {
 		{
 			id = 3,
 			area = "top_right",
-			group_list = "108#104#95#72#",
+			group_list = "145#108#104#95#72#",
 		},
 		[4]=
 		{
@@ -467,7 +467,7 @@ return {
 		{
 			id = 1,
 			area = "top",
-			group_list = "101#",
+			group_list = "145;101#",
 		},
 		[2]=
 		{
@@ -1310,9 +1310,8 @@ return {
 		[132]=
 		{
 			id = 132,
-			parm = {"act_ty_gifts","gift_khlb","enter",},
+			parm = {"act_ty_gifts","gift_hflb","enter",},
 			is_on_off = 1,
-			condi_key = "cpl_notcjj",
 		},
 		[133]=
 		{
@@ -1394,6 +1393,20 @@ return {
 			id = 144,
 			parm = {"sys_act_base","fkfl","enter"},
 			is_on_off = 1,
+		},
+		[145]=
+		{
+			id = 145,
+			parm = {"act_061_xyhl",},
+			is_on_off = 1,
+			condi_key = "cpl_notcjj",
+		},
+		[146]=
+		{
+			id = 146,
+			parm = {"act_061_xyhl",},
+			is_on_off = 1,
+			condi_key = "cpl_cjj",
 		},
 	},
 }

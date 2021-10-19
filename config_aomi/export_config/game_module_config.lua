@@ -3100,7 +3100,7 @@ return {
 		[316]=
 		{
 			id = 316,
-			key = "act_ty_sjb_style/act_030_dlphb",
+			key = "act_ty_sjb_style/act_031_dlphb",
 			desc = "掉落排行榜皮肤（消耗）",
 			is_on_off = 1,
 			enable = 1,
@@ -3109,7 +3109,7 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_027_guihuagao",
+			key = "act_ty_by_drop_style/act_025_huanlequan",
 			desc = "爱心掉落",
 			is_on_off = 1,
 			enable = 1,
@@ -3118,7 +3118,7 @@ return {
 		[318]=
 		{
 			id = 318,
-			key = "act_ty_by_hhl_style/act_018_hhl",
+			key = "act_ty_by_hhl_style/act_017_hhl",
 			desc = "换好礼皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_036",
+			key = "sys_act_base_style/sys_act_base_weekly_037",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3274,7 +3274,7 @@ return {
 		[334]=
 		{
 			id = 334,
-			key = "act_ty_gifts_style/act_009_zqlb",
+			key = "act_ty_gifts_style/act_008_hflb",
 			desc = "爱心礼包",
 			is_on_off = 1,
 			enable = 1,
@@ -3434,6 +3434,16 @@ return {
 			key = "act_058_cylb",
 			desc = "重阳礼包",
 			lua = "Act_058_JRLBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[351]=
+		{
+			id = 351,
+			key = "act_061_xyhl",
+			desc = "新游豪礼",
+			lua = "Act_061_XYHLManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
