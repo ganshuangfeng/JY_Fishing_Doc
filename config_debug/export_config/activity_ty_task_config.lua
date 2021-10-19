@@ -2464,7 +2464,7 @@ return {
 			level = 1,
 			item = {"shop_gold_sum",},
 			count = {5,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[188]=
 		{
@@ -2475,7 +2475,7 @@ return {
 			level = 2,
 			item = {"shop_gold_sum",},
 			count = {5,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[189]=
 		{
@@ -2486,7 +2486,7 @@ return {
 			level = 1,
 			item = {"shop_gold_sum",},
 			count = {5,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[190]=
 		{
@@ -2497,7 +2497,7 @@ return {
 			level = 2,
 			item = {"shop_gold_sum",},
 			count = {5,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[191]=
 		{
@@ -2508,7 +2508,7 @@ return {
 			level = 3,
 			item = {"shop_gold_sum",},
 			count = {10,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[192]=
 		{
@@ -2519,7 +2519,7 @@ return {
 			level = 4,
 			item = {"shop_gold_sum",},
 			count = {20,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[193]=
 		{
@@ -2530,7 +2530,7 @@ return {
 			level = 5,
 			item = {"shop_gold_sum",},
 			count = {30,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[194]=
 		{
@@ -2541,7 +2541,7 @@ return {
 			level = 6,
 			item = {"shop_gold_sum",},
 			count = {50,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[195]=
 		{
@@ -2552,7 +2552,7 @@ return {
 			level = 7,
 			item = {"shop_gold_sum",},
 			count = {100,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[196]=
 		{
@@ -2563,7 +2563,7 @@ return {
 			level = 8,
 			item = {"shop_gold_sum",},
 			count = {120,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[197]=
 		{
@@ -2574,7 +2574,7 @@ return {
 			level = 9,
 			item = {"shop_gold_sum",},
 			count = {150,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[198]=
 		{
@@ -2585,7 +2585,7 @@ return {
 			level = 10,
 			item = {"shop_gold_sum",},
 			count = {180,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[199]=
 		{
@@ -2596,7 +2596,7 @@ return {
 			level = 11,
 			item = {"shop_gold_sum",},
 			count = {240,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[200]=
 		{
@@ -2607,7 +2607,7 @@ return {
 			level = 12,
 			item = {"shop_gold_sum",},
 			count = {350,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[201]=
 		{
