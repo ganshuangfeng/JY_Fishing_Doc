@@ -21,6 +21,26 @@ return {
 			type_info = 100,
 			is_have_point = 1,
 		},
+		[2]=
+		{
+			line = 2,
+			is_on_off = 1,
+			ID = 2,
+			item_key = "prop_fish_drop_act_0",
+			act_name = "祈福排行榜",
+			reward_item_key = "shop_gold_sum",
+			ext_reward_item_key = "shop_gold_sum",
+			rank_type = "ymshf_017_hldr_rank",
+			s_time = 1634601600,
+			e_time = 1635177599,
+			gotoUI = {"game_MiniGame",},
+			award = {1,2,3,4,5,6,7},
+			extra_award = {8,9,10,11,12,13,14},
+			path = "act_031_dlphb",
+			condiy_key = "cpl_cjj",
+			type_info = 100,
+			is_have_point = 1,
+		},
 	},
 	award_config=
 	{

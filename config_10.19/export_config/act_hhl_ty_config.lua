@@ -35,7 +35,7 @@ return {
 			award_image = "com_award_icon_hf500",
 			item_cost_text = 300000,
 			type = 0,
-			condiy_key = "actp_prop_exchange_v3",
+			condiy_key = "actp_prop_exchange_v5",
 		},
 		[2]=
 		{
@@ -53,7 +53,7 @@ return {
 			award_image = "pay_icon_gold8",
 			item_cost_text = 42000,
 			type = 0,
-			condiy_key = "actp_prop_exchange_v5",
+			condiy_key = "actp_prop_exchange_v3",
 		},
 		[4]=
 		{
