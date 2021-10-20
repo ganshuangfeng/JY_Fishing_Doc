@@ -7,7 +7,7 @@ return {
 			award = "0.3元奖励金",
 			cost = 30,
 			task_id = 1000664,
-			task_txt = "携带金币20万",
+			task_txt = "携带金币2万",
 			show_permission = "actp_own_task_p_show_not",
 			limit = "终身1次",
 			unlock_id = 6,

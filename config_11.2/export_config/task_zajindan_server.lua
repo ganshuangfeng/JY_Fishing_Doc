@@ -42061,7 +42061,7 @@ return {
 			id = 652,
 			condition_id = 486,
 			condition_name = "now_value",
-			condition_value = 200000,
+			condition_value = 20000,
 			judge_type = 3,
 		},
 		[653]=
