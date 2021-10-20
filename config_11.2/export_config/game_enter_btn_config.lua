@@ -348,7 +348,7 @@ return {
 		{
 			id = 3,
 			area = "down2",
-			group_list = "126#",
+			group_list = "148;126#",
 		},
 		[4]=
 		{
@@ -1414,6 +1414,13 @@ return {
 			parm = {"act_062_hghd",},
 			is_on_off = 1,
 			condi_key = "actp_own_task_p_drop_act_nor",
+		},
+		[148]=
+		{
+			id = 148,
+			parm = {"act_063_xrhb",},
+			is_on_off = 4,
+			condi_key = "actp_own_task_p_new_player_red_bag",
 		},
 	},
 }
