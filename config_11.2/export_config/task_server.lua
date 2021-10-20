@@ -4569,7 +4569,7 @@ return {
 		{
 			id = 161,
 			source_id = 128,
-			source_type = "buyu_3d_spend_num",
+			source_type = "buyu_3d_spend",
 			condition_id = 0,
 		},
 	},

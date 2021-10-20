@@ -1419,7 +1419,7 @@ return {
 		{
 			id = 148,
 			parm = {"act_063_xrhb",},
-			is_on_off = 4,
+			is_on_off = 1,
 			condi_key = "actp_own_task_p_new_player_red_bag",
 		},
 	},
