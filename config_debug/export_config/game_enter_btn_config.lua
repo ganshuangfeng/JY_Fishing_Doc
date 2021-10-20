@@ -1411,7 +1411,7 @@ return {
 		[147]=
 		{
 			id = 147,
-			parm = {"act_062_hghd",},
+			parm = {"sys_act_base","hghd","enter"},
 			is_on_off = 1,
 			condi_key = "actp_own_task_p_drop_act_nor",
 		},
