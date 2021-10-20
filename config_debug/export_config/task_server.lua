@@ -1936,6 +1936,7 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 			is_send_client = 1,
+			other = "resetByCreateTime",
 		},
 		[30037]=
 		{
@@ -1951,6 +1952,7 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 			is_send_client = 1,
+			other = "resetByCreateTime",
 		},
 		[30038]=
 		{
@@ -1966,6 +1968,7 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 			is_send_client = 1,
+			other = "resetByCreateTime",
 		},
 		[30039]=
 		{
@@ -1981,6 +1984,7 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 			is_send_client = 1,
+			other = "resetByCreateTime",
 		},
 		[30040]=
 		{
@@ -1996,6 +2000,7 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 			is_send_client = 1,
+			other = "resetByCreateTime",
 		},
 		[30041]=
 		{
@@ -2026,6 +2031,7 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 			is_send_client = 1,
+			other = "resetByCreateTime",
 		},
 		[30043]=
 		{
@@ -2041,6 +2047,7 @@ return {
 			end_valid_time = 32503651200,
 			time_limit = -1,
 			is_send_client = 1,
+			other = "resetByCreateTime",
 		},
 	},
 	process_data=
