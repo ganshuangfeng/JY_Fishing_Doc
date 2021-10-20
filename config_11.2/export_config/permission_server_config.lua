@@ -7592,6 +7592,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1635206400,
 		},
+		[435]=
+		{
+			id = 435,
+			enable = 1,
+			key = "actp_own_task_p_new_player_red_bag",
+			name = "新人红包（非CPS，非冲金鸡）",
+			condi = 532,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1635782400,
+		},
 	},
 	condi=
 	{
@@ -19494,6 +19506,36 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "VIP1及以上玩家",
+		},
+		[1191]=
+		{
+			no = 1191,
+			id = 532,
+			var = "register_time",
+			value = 1635811200,
+			judge = 3,
+			group = 1,
+			error_desc = "2021年11月2日之后注册玩家",
+		},
+		[1192]=
+		{
+			no = 1192,
+			id = 532,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[1193]=
+		{
+			no = 1193,
+			id = 532,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
 		},
 	},
 	share_condition=
