@@ -187,7 +187,7 @@ return {
 			type = 2,
 			icon = "ty_icon_flqbx",
 			scale = 1,
-			desc = "福利券宝箱",
+			desc = "福利券宝箱\n3千-1万",
 			is_dj = 1,
 			asset_type = "prop_xyzp_flqbx",
 			value = 1,
