@@ -19348,67 +19348,67 @@ return {
 		[1176]=
 		{
 			no = 1176,
-			id = 529,
-			var = "regress_time_dist",
+			id = 528,
+			var = "last_login_time_dist",
 			value = 604800,
-			judge = 4,
-			group = 1,
-			error_desc = "距离回归时间小于7天",
+			judge = 3,
+			group = 2,
+			error_desc = "距离上次登录大于7天",
 		},
 		[1177]=
 		{
 			no = 1177,
-			id = 529,
+			id = 528,
 			var = "last_login_time",
 			value = 0,
 			judge = 5,
-			group = 1,
+			group = 2,
 			error_desc = "不是第一次登陆的玩家",
 		},
 		[1178]=
 		{
 			no = 1178,
-			id = 529,
+			id = 528,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
-			group = 1,
+			group = 2,
 			error_desc = "不是CPS渠道",
 		},
 		[1179]=
 		{
 			no = 1179,
-			id = 529,
+			id = 528,
 			var = "share_condition",
 			value = "cjj_all",
 			judge = 5,
-			group = 1,
+			group = 2,
 			error_desc = "不是冲金鸡玩家",
 		},
 		[1180]=
 		{
 			no = 1180,
-			id = 529,
+			id = 528,
 			var = "vip_level",
-			value = 4,
+			value = 1,
 			judge = 3,
-			group = 1,
+			group = 2,
 			error_desc = "VIP1及以上玩家",
 		},
 		[1181]=
 		{
 			no = 1181,
-			id = 529,
+			id = 528,
 			var = "vip_level",
-			value = 6,
+			value = 3,
 			judge = 4,
-			group = 1,
+			group = 2,
 			error_desc = "VIP3及以下玩家",
 		},
 		[1182]=
 		{
 			no = 1182,
-			id = 530,
+			id = 529,
 			var = "regress_time_dist",
 			value = 604800,
 			judge = 4,
@@ -19418,7 +19418,7 @@ return {
 		[1183]=
 		{
 			no = 1183,
-			id = 530,
+			id = 529,
 			var = "last_login_time",
 			value = 0,
 			judge = 5,
@@ -19428,7 +19428,7 @@ return {
 		[1184]=
 		{
 			no = 1184,
-			id = 530,
+			id = 529,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
@@ -19438,7 +19438,7 @@ return {
 		[1185]=
 		{
 			no = 1185,
-			id = 530,
+			id = 529,
 			var = "share_condition",
 			value = "cjj_all",
 			judge = 5,
@@ -19448,6 +19448,126 @@ return {
 		[1186]=
 		{
 			no = 1186,
+			id = 529,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP1及以上玩家",
+		},
+		[1187]=
+		{
+			no = 1187,
+			id = 529,
+			var = "vip_level",
+			value = 6,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP3及以下玩家",
+		},
+		[1188]=
+		{
+			no = 1188,
+			id = 529,
+			var = "last_login_time_dist",
+			value = 604800,
+			judge = 3,
+			group = 2,
+			error_desc = "距离上次登录大于7天",
+		},
+		[1189]=
+		{
+			no = 1189,
+			id = 529,
+			var = "last_login_time",
+			value = 0,
+			judge = 5,
+			group = 2,
+			error_desc = "不是第一次登陆的玩家",
+		},
+		[1190]=
+		{
+			no = 1190,
+			id = 529,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 2,
+			error_desc = "不是CPS渠道",
+		},
+		[1191]=
+		{
+			no = 1191,
+			id = 529,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 2,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1192]=
+		{
+			no = 1192,
+			id = 529,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 2,
+			error_desc = "VIP1及以上玩家",
+		},
+		[1193]=
+		{
+			no = 1193,
+			id = 529,
+			var = "vip_level",
+			value = 6,
+			judge = 4,
+			group = 2,
+			error_desc = "VIP3及以下玩家",
+		},
+		[1194]=
+		{
+			no = 1194,
+			id = 530,
+			var = "regress_time_dist",
+			value = 604800,
+			judge = 4,
+			group = 1,
+			error_desc = "距离回归时间小于7天",
+		},
+		[1195]=
+		{
+			no = 1195,
+			id = 530,
+			var = "last_login_time",
+			value = 0,
+			judge = 5,
+			group = 1,
+			error_desc = "不是第一次登陆的玩家",
+		},
+		[1196]=
+		{
+			no = 1196,
+			id = 530,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[1197]=
+		{
+			no = 1197,
+			id = 530,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1198]=
+		{
+			no = 1198,
 			id = 530,
 			var = "vip_level",
 			value = 7,
@@ -19455,9 +19575,59 @@ return {
 			group = 1,
 			error_desc = "VIP7及以上玩家",
 		},
-		[1187]=
+		[1199]=
 		{
-			no = 1187,
+			no = 1199,
+			id = 530,
+			var = "last_login_time_dist",
+			value = 604800,
+			judge = 3,
+			group = 2,
+			error_desc = "距离上次登录大于7天",
+		},
+		[1200]=
+		{
+			no = 1200,
+			id = 530,
+			var = "last_login_time",
+			value = 0,
+			judge = 5,
+			group = 2,
+			error_desc = "不是第一次登陆的玩家",
+		},
+		[1201]=
+		{
+			no = 1201,
+			id = 530,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 2,
+			error_desc = "不是CPS渠道",
+		},
+		[1202]=
+		{
+			no = 1202,
+			id = 530,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 2,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1203]=
+		{
+			no = 1203,
+			id = 530,
+			var = "vip_level",
+			value = 7,
+			judge = 3,
+			group = 2,
+			error_desc = "VIP7及以上玩家",
+		},
+		[1204]=
+		{
+			no = 1204,
 			id = 531,
 			var = "last_login_time",
 			value = 0,
@@ -19465,9 +19635,9 @@ return {
 			group = 1,
 			error_desc = "不是第一次登陆的玩家",
 		},
-		[1188]=
+		[1205]=
 		{
-			no = 1188,
+			no = 1205,
 			id = 531,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -19475,9 +19645,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[1189]=
+		[1206]=
 		{
-			no = 1189,
+			no = 1206,
 			id = 531,
 			var = "share_condition",
 			value = "cjj_all",
@@ -19485,9 +19655,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1190]=
+		[1207]=
 		{
-			no = 1190,
+			no = 1207,
 			id = 531,
 			var = "vip_level",
 			value = 1,
@@ -19495,9 +19665,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上玩家",
 		},
-		[1191]=
+		[1208]=
 		{
-			no = 1191,
+			no = 1208,
 			id = 531,
 			var = "last_login_time_dist",
 			value = 604800,
@@ -19505,9 +19675,9 @@ return {
 			group = 1,
 			error_desc = "距离上次登录大于7天",
 		},
-		[1192]=
+		[1209]=
 		{
-			no = 1192,
+			no = 1209,
 			id = 532,
 			var = "last_login_time_dist",
 			value = 604800,
@@ -19515,9 +19685,9 @@ return {
 			group = 1,
 			error_desc = "距离上次登录大于7天",
 		},
-		[1193]=
+		[1210]=
 		{
-			no = 1193,
+			no = 1210,
 			id = 532,
 			var = "last_login_time",
 			value = 0,
@@ -19525,9 +19695,9 @@ return {
 			group = 1,
 			error_desc = "不是第一次登陆的玩家",
 		},
-		[1194]=
+		[1211]=
 		{
-			no = 1194,
+			no = 1211,
 			id = 532,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -19535,9 +19705,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[1195]=
+		[1212]=
 		{
-			no = 1195,
+			no = 1212,
 			id = 532,
 			var = "share_condition",
 			value = "cjj_all",
@@ -19545,9 +19715,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1196]=
+		[1213]=
 		{
-			no = 1196,
+			no = 1213,
 			id = 532,
 			var = "vip_level",
 			value = 1,
@@ -19555,9 +19725,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上玩家",
 		},
-		[1197]=
+		[1214]=
 		{
-			no = 1197,
+			no = 1214,
 			id = 532,
 			var = "vip_level",
 			value = 3,
@@ -19565,9 +19735,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下玩家",
 		},
-		[1198]=
+		[1215]=
 		{
-			no = 1198,
+			no = 1215,
 			id = 533,
 			var = "last_login_time_dist",
 			value = 604800,
@@ -19575,9 +19745,9 @@ return {
 			group = 1,
 			error_desc = "距离上次登录大于7天",
 		},
-		[1199]=
+		[1216]=
 		{
-			no = 1199,
+			no = 1216,
 			id = 533,
 			var = "last_login_time",
 			value = 0,
@@ -19585,9 +19755,9 @@ return {
 			group = 1,
 			error_desc = "不是第一次登陆的玩家",
 		},
-		[1200]=
+		[1217]=
 		{
-			no = 1200,
+			no = 1217,
 			id = 533,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -19595,9 +19765,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[1201]=
+		[1218]=
 		{
-			no = 1201,
+			no = 1218,
 			id = 533,
 			var = "share_condition",
 			value = "cjj_all",
@@ -19605,9 +19775,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1202]=
+		[1219]=
 		{
-			no = 1202,
+			no = 1219,
 			id = 533,
 			var = "vip_level",
 			value = 4,
@@ -19615,9 +19785,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上玩家",
 		},
-		[1203]=
+		[1220]=
 		{
-			no = 1203,
+			no = 1220,
 			id = 533,
 			var = "vip_level",
 			value = 6,
@@ -19625,9 +19795,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下玩家",
 		},
-		[1204]=
+		[1221]=
 		{
-			no = 1204,
+			no = 1221,
 			id = 534,
 			var = "last_login_time_dist",
 			value = 604800,
@@ -19635,9 +19805,9 @@ return {
 			group = 1,
 			error_desc = "距离上次登录大于7天",
 		},
-		[1205]=
+		[1222]=
 		{
-			no = 1205,
+			no = 1222,
 			id = 534,
 			var = "last_login_time",
 			value = 0,
@@ -19645,9 +19815,9 @@ return {
 			group = 1,
 			error_desc = "不是第一次登陆的玩家",
 		},
-		[1206]=
+		[1223]=
 		{
-			no = 1206,
+			no = 1223,
 			id = 534,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -19655,9 +19825,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[1207]=
+		[1224]=
 		{
-			no = 1207,
+			no = 1224,
 			id = 534,
 			var = "share_condition",
 			value = "cjj_all",
@@ -19665,9 +19835,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1208]=
+		[1225]=
 		{
-			no = 1208,
+			no = 1225,
 			id = 534,
 			var = "vip_level",
 			value = 7,
@@ -19675,9 +19845,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以上玩家",
 		},
-		[1209]=
+		[1226]=
 		{
-			no = 1209,
+			no = 1226,
 			id = 535,
 			var = "register_time",
 			value = 1635811200,
@@ -19685,9 +19855,9 @@ return {
 			group = 1,
 			error_desc = "2021年11月2日之后注册玩家",
 		},
-		[1210]=
+		[1227]=
 		{
-			no = 1210,
+			no = 1227,
 			id = 535,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -19695,9 +19865,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[1211]=
+		[1228]=
 		{
-			no = 1211,
+			no = 1228,
 			id = 535,
 			var = "share_condition",
 			value = "cjj_all",
