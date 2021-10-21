@@ -19293,7 +19293,7 @@ return {
 			value = 604800,
 			judge = 3,
 			group = 1,
-			error_desc = "距离上次登录小于7天",
+			error_desc = "距离上次登录大于7天",
 		},
 		[1171]=
 		{
@@ -19353,7 +19353,7 @@ return {
 			value = 604800,
 			judge = 3,
 			group = 1,
-			error_desc = "距离上次登录小于7天",
+			error_desc = "距离上次登录大于7天",
 		},
 		[1177]=
 		{
@@ -19413,7 +19413,7 @@ return {
 			value = 604800,
 			judge = 3,
 			group = 1,
-			error_desc = "距离上次登录小于7天",
+			error_desc = "距离上次登录大于7天",
 		},
 		[1183]=
 		{
@@ -19494,6 +19494,16 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "VIP1及以上玩家",
+		},
+		[1191]=
+		{
+			no = 1191,
+			id = 531,
+			var = "last_login_time_dist",
+			value = 604800,
+			judge = 3,
+			group = 1,
+			error_desc = "距离上次登录大于7天",
 		},
 	},
 	share_condition=

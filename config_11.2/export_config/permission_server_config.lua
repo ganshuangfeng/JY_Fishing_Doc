@@ -19305,7 +19305,7 @@ return {
 			value = 604800,
 			judge = 3,
 			group = 1,
-			error_desc = "距离上次登录小于7天",
+			error_desc = "距离上次登录大于7天",
 		},
 		[1171]=
 		{
@@ -19365,7 +19365,7 @@ return {
 			value = 604800,
 			judge = 3,
 			group = 1,
-			error_desc = "距离上次登录小于7天",
+			error_desc = "距离上次登录大于7天",
 		},
 		[1177]=
 		{
@@ -19425,7 +19425,7 @@ return {
 			value = 604800,
 			judge = 3,
 			group = 1,
-			error_desc = "距离上次登录小于7天",
+			error_desc = "距离上次登录大于7天",
 		},
 		[1183]=
 		{
@@ -19510,6 +19510,16 @@ return {
 		[1191]=
 		{
 			no = 1191,
+			id = 531,
+			var = "last_login_time_dist",
+			value = 604800,
+			judge = 3,
+			group = 1,
+			error_desc = "距离上次登录大于7天",
+		},
+		[1192]=
+		{
+			no = 1192,
 			id = 532,
 			var = "register_time",
 			value = 1635811200,
@@ -19517,9 +19527,9 @@ return {
 			group = 1,
 			error_desc = "2021年11月2日之后注册玩家",
 		},
-		[1192]=
+		[1193]=
 		{
-			no = 1192,
+			no = 1193,
 			id = 532,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -19527,9 +19537,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[1193]=
+		[1194]=
 		{
-			no = 1193,
+			no = 1194,
 			id = 532,
 			var = "share_condition",
 			value = "cjj_all",
