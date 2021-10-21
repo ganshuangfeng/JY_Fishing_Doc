@@ -19289,11 +19289,11 @@ return {
 		{
 			no = 1170,
 			id = 528,
-			var = "last_login_time_dist",
+			var = "regress_time_dist",
 			value = 604800,
-			judge = 3,
+			judge = 4,
 			group = 1,
-			error_desc = "距离上次登录大于7天",
+			error_desc = "距离回归时间小于7天",
 		},
 		[1171]=
 		{
@@ -19349,11 +19349,11 @@ return {
 		{
 			no = 1176,
 			id = 529,
-			var = "last_login_time_dist",
+			var = "regress_time_dist",
 			value = 604800,
-			judge = 3,
+			judge = 4,
 			group = 1,
-			error_desc = "距离上次登录大于7天",
+			error_desc = "距离回归时间小于7天",
 		},
 		[1177]=
 		{
@@ -19409,11 +19409,11 @@ return {
 		{
 			no = 1182,
 			id = 530,
-			var = "last_login_time_dist",
+			var = "regress_time_dist",
 			value = 604800,
-			judge = 3,
+			judge = 4,
 			group = 1,
-			error_desc = "距离上次登录大于7天",
+			error_desc = "距离回归时间小于7天",
 		},
 		[1183]=
 		{
