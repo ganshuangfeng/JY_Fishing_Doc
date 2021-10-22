@@ -2387,7 +2387,7 @@ return {
 			id = 75,
 			condition_id = 47,
 			condition_name = "rate",
-			condition_value = 500,
+			condition_value = 5,
 			judge_type = 3,
 		},
 		[76]=
