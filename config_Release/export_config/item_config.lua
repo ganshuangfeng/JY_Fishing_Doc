@@ -4658,5 +4658,18 @@ return {
 			use_parm = {"open_box","prop_box_chuanshuo"},
 			box_id = 106,
 		},
+		[344]=
+		{
+			id = 344,
+			item_id = 347,
+			item_key = "prop_xyzp_flqbx",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "ty_icon_flqbx",
+			is_show_bag = 0,
+			order = 33,
+			name = "福利券宝箱",
+			desc = "3000-10000福利券",
+		},
 	},
 }

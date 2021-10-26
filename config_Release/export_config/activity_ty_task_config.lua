@@ -173,7 +173,7 @@ return {
 		{
 			index = 22,
 			key = "act_fkfl_not_new_1",
-			icon = "fkfl_bg_1",
+			icon = "fkfl_bg_2",
 			name = "疯狂返利",
 			tges = 22,
 		},
@@ -2464,7 +2464,7 @@ return {
 			level = 1,
 			item = {"shop_gold_sum",},
 			count = {5,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[188]=
 		{
@@ -2475,7 +2475,7 @@ return {
 			level = 2,
 			item = {"shop_gold_sum",},
 			count = {5,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[189]=
 		{
@@ -2486,7 +2486,7 @@ return {
 			level = 1,
 			item = {"shop_gold_sum",},
 			count = {5,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[190]=
 		{
@@ -2497,7 +2497,7 @@ return {
 			level = 2,
 			item = {"shop_gold_sum",},
 			count = {5,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[191]=
 		{
@@ -2508,7 +2508,7 @@ return {
 			level = 3,
 			item = {"shop_gold_sum",},
 			count = {10,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[192]=
 		{
@@ -2519,7 +2519,7 @@ return {
 			level = 4,
 			item = {"shop_gold_sum",},
 			count = {20,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[193]=
 		{
@@ -2530,7 +2530,7 @@ return {
 			level = 5,
 			item = {"shop_gold_sum",},
 			count = {30,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[194]=
 		{
@@ -2541,7 +2541,7 @@ return {
 			level = 6,
 			item = {"shop_gold_sum",},
 			count = {50,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[195]=
 		{
@@ -2552,7 +2552,7 @@ return {
 			level = 7,
 			item = {"shop_gold_sum",},
 			count = {100,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[196]=
 		{
@@ -2563,7 +2563,7 @@ return {
 			level = 8,
 			item = {"shop_gold_sum",},
 			count = {120,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[197]=
 		{
@@ -2574,7 +2574,7 @@ return {
 			level = 9,
 			item = {"shop_gold_sum",},
 			count = {150,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[198]=
 		{
@@ -2585,7 +2585,7 @@ return {
 			level = 10,
 			item = {"shop_gold_sum",},
 			count = {180,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[199]=
 		{
@@ -2596,7 +2596,7 @@ return {
 			level = 11,
 			item = {"shop_gold_sum",},
 			count = {240,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[200]=
 		{
@@ -2607,7 +2607,7 @@ return {
 			level = 12,
 			item = {"shop_gold_sum",},
 			count = {350,},
-			gotoUI = {"game_MiniGame",},
+			gotoUI = {"game_Fishing3DHall",},
 		},
 		[201]=
 		{
@@ -2950,8 +2950,8 @@ return {
 			total = 10,
 			task_name = "完成以下所有任务",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
-			count = {100,},
+			item = {"jing_bi",},
+			count = {100000,},
 			gotoUI = {"no_goto_ui","请先完成任务",},
 		},
 		[231]=
@@ -2961,8 +2961,8 @@ return {
 			total = 1,
 			task_name = "登录一次游戏",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
-			count = {5,},
+			item = {"jing_bi",},
+			count = {500,},
 			gotoUI = {"no_goto_ui","请重新登陆游戏",},
 		},
 		[232]=
@@ -2972,8 +2972,8 @@ return {
 			total = 10,
 			task_name = "在3D捕鱼中捕获10条鱼",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
-			count = {5,},
+			item = {"jing_bi",},
+			count = {500,},
 			gotoUI = {"game_Fishing3DHall",},
 		},
 		[233]=
@@ -2983,8 +2983,8 @@ return {
 			total = 30,
 			task_name = "在3D捕鱼中捕获30条鱼",
 			level = 2,
-			item = {"prop_web_chip_huafei",},
-			count = {5,},
+			item = {"jing_bi",},
+			count = {500,},
 			gotoUI = {"game_Fishing3DHall",},
 		},
 		[234]=
@@ -2994,8 +2994,8 @@ return {
 			total = 50,
 			task_name = "在3D捕鱼中捕获50条鱼",
 			level = 3,
-			item = {"prop_web_chip_huafei",},
-			count = {10,},
+			item = {"jing_bi",},
+			count = {1000,},
 			gotoUI = {"game_Fishing3DHall",},
 		},
 		[235]=
@@ -3005,8 +3005,8 @@ return {
 			total = 100,
 			task_name = "在3D捕鱼中捕获100条鱼",
 			level = 4,
-			item = {"prop_web_chip_huafei",},
-			count = {20,},
+			item = {"jing_bi",},
+			count = {2000,},
 			gotoUI = {"game_Fishing3DHall",},
 		},
 		[236]=
@@ -3016,8 +3016,8 @@ return {
 			total = 1,
 			task_name = "在苹果大战中累计猜中1次",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
-			count = {5,},
+			item = {"jing_bi",},
+			count = {500,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[237]=
@@ -3027,8 +3027,8 @@ return {
 			total = 5,
 			task_name = "在苹果大战中累计猜中5次",
 			level = 2,
-			item = {"prop_web_chip_huafei",},
-			count = {10,},
+			item = {"jing_bi",},
+			count = {1000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[238]=
@@ -3038,8 +3038,8 @@ return {
 			total = 10,
 			task_name = "在苹果大战中累计猜中10次",
 			level = 3,
-			item = {"prop_web_chip_huafei",},
-			count = {20,},
+			item = {"jing_bi",},
+			count = {2000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[239]=
@@ -3049,8 +3049,8 @@ return {
 			total = 20,
 			task_name = "在苹果大战中累计猜中20次",
 			level = 4,
-			item = {"prop_web_chip_huafei",},
-			count = {50,},
+			item = {"jing_bi",},
+			count = {5000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[240]=
@@ -3060,7 +3060,7 @@ return {
 			total = 1,
 			task_name = "充值任意金额1次",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
+			item = {"shop_gold_sum",},
 			count = {50,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
@@ -3071,8 +3071,8 @@ return {
 			total = 10,
 			task_name = "完成以下所有任务",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
-			count = {100,},
+			item = {"jing_bi",},
+			count = {100000,},
 			gotoUI = {"no_goto_ui","请先完成任务",},
 		},
 		[242]=
@@ -3082,8 +3082,8 @@ return {
 			total = 1,
 			task_name = "登录一次游戏",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
-			count = {5,},
+			item = {"jing_bi",},
+			count = {500,},
 			gotoUI = {"no_goto_ui","请重新登陆游戏",},
 		},
 		[243]=
@@ -3093,8 +3093,8 @@ return {
 			total = 10,
 			task_name = "在水果消消乐中累计消除10个西瓜",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
-			count = {5,},
+			item = {"jing_bi",},
+			count = {500,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[244]=
@@ -3104,8 +3104,8 @@ return {
 			total = 30,
 			task_name = "在水果消消乐中累计消除30个西瓜",
 			level = 2,
-			item = {"prop_web_chip_huafei",},
-			count = {5,},
+			item = {"jing_bi",},
+			count = {500,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[245]=
@@ -3115,8 +3115,8 @@ return {
 			total = 50,
 			task_name = "在水果消消乐中累计消除50个西瓜",
 			level = 3,
-			item = {"prop_web_chip_huafei",},
-			count = {10,},
+			item = {"jing_bi",},
+			count = {1000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[246]=
@@ -3126,8 +3126,8 @@ return {
 			total = 100,
 			task_name = "在水果消消乐中累计消除100个西瓜",
 			level = 4,
-			item = {"prop_web_chip_huafei",},
-			count = {20,},
+			item = {"jing_bi",},
+			count = {2000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[247]=
@@ -3137,8 +3137,8 @@ return {
 			total = 1,
 			task_name = "在苹果大战中累计猜中1次",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
-			count = {5,},
+			item = {"jing_bi",},
+			count = {500,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[248]=
@@ -3148,8 +3148,8 @@ return {
 			total = 5,
 			task_name = "在苹果大战中累计猜中5次",
 			level = 2,
-			item = {"prop_web_chip_huafei",},
-			count = {10,},
+			item = {"jing_bi",},
+			count = {1000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[249]=
@@ -3159,8 +3159,8 @@ return {
 			total = 10,
 			task_name = "在苹果大战中累计猜中10次",
 			level = 3,
-			item = {"prop_web_chip_huafei",},
-			count = {20,},
+			item = {"jing_bi",},
+			count = {2000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[250]=
@@ -3170,8 +3170,8 @@ return {
 			total = 20,
 			task_name = "在苹果大战中累计猜中20次",
 			level = 4,
-			item = {"prop_web_chip_huafei",},
-			count = {50,},
+			item = {"jing_bi",},
+			count = {5000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[251]=
@@ -3181,7 +3181,7 @@ return {
 			total = 1,
 			task_name = "充值任意金额1次",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
+			item = {"shop_gold_sum",},
 			count = {50,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},

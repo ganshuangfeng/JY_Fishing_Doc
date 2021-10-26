@@ -185,12 +185,12 @@ return {
 			line = 16,
 			id = 16,
 			type = 2,
-			icon = "ty_icon_jb_198y",
+			icon = "ty_icon_flqbx",
 			scale = 1,
-			desc = "金币x1亿",
+			desc = "福利券宝箱\n3千-1万",
 			is_dj = 1,
-			asset_type = "jing_bi",
-			value = 100000000,
+			asset_type = "prop_xyzp_flqbx",
+			value = 1,
 		},
 		[17]=
 		{

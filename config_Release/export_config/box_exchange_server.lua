@@ -1157,6 +1157,16 @@ return {
 			award_id = 100,
 			enable = 1,
 		},
+		[110]=
+		{
+			id = 110,
+			name = "福利券宝箱",
+			start_time = 1635206400,
+			end_time = 2552233600,
+			use_asset_id = 95,
+			award_id = 101,
+			enable = 1,
+		},
 	},
 	use_asset=
 	{
@@ -1817,6 +1827,13 @@ return {
 			use_id = 94,
 			use_item = "prop_fish_drop_act_0",
 			use_num = 300,
+		},
+		[95]=
+		{
+			id = 95,
+			use_id = 95,
+			use_item = "prop_xyzp_flqbx",
+			use_num = 1,
 		},
 	},
 	lottery_credit=
@@ -6498,6 +6515,27 @@ return {
 			award_id = 100,
 			real_award_id = 12144,
 			weight = 2406,
+		},
+		[668]=
+		{
+			no = 668,
+			award_id = 101,
+			real_award_id = 12145,
+			weight = 80,
+		},
+		[669]=
+		{
+			no = 669,
+			award_id = 101,
+			real_award_id = 12146,
+			weight = 15,
+		},
+		[670]=
+		{
+			no = 670,
+			award_id = 101,
+			real_award_id = 12147,
+			weight = 5,
 		},
 	},
 	award_item=
@@ -11437,6 +11475,27 @@ return {
 			real_award_id = 12144,
 			asset_type = "prop_tiny_game_coin",
 			asset_count = {30000,30000},
+		},
+		[673]=
+		{
+			id = 673,
+			real_award_id = 12145,
+			asset_type = "shop_gold_sum",
+			asset_count = {3000,3500},
+		},
+		[674]=
+		{
+			id = 674,
+			real_award_id = 12146,
+			asset_type = "shop_gold_sum",
+			asset_count = {3501,4000},
+		},
+		[675]=
+		{
+			id = 675,
+			real_award_id = 12147,
+			asset_type = "shop_gold_sum",
+			asset_count = {4001,5000},
 		},
 	},
 	weight=

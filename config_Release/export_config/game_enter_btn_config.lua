@@ -192,13 +192,13 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#139#8#122#61#140#137#9#117#134#141#138#142#143#146#",
+			group_list = "3;116#2#144#8#122#61#140#137#9#117#134#141#138#142#143#146#",
 		},
 		[2]=
 		{
 			id = 2,
 			area = "left",
-			group_list = "36;113;89;105#97;11;93;94#58;107#30#",
+			group_list = "36;113;89;105#97;11;93;94#147#58;107#30#",
 		},
 		[3]=
 		{
@@ -497,7 +497,7 @@ return {
 		{
 			id = 1,
 			area = "all",
-			group_list = "40#74#110#130#139#",
+			group_list = "40#74#110#130#144#147#",
 		},
 	},
 	hqjb_config=
@@ -1310,7 +1310,7 @@ return {
 		[132]=
 		{
 			id = 132,
-			parm = {"act_ty_gifts","gift_hflb","enter",},
+			parm = {"act_ty_gifts","gift_khlb","enter",},
 			is_on_off = 1,
 		},
 		[133]=
@@ -1407,6 +1407,13 @@ return {
 			parm = {"act_061_xyhl",},
 			is_on_off = 1,
 			condi_key = "cpl_cjj",
+		},
+		[147]=
+		{
+			id = 147,
+			parm = {"sys_act_base","hghd","enter"},
+			is_on_off = 1,
+			condi_key = "actp_own_task_p_drop_act_nor",
 		},
 	},
 }

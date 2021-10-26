@@ -1017,8 +1017,8 @@ return {
 			condi_key = "cpl_notcjj",
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1634601600,
-			endTime = 1635177599,
+			srartTime = 1635206400,
+			endTime = 1635782399,
 		},
 		[90]=
 		{
@@ -1099,17 +1099,29 @@ return {
 			condi_key = "cpl_cjj",
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1634601600,
-			endTime = 1635177599,
+			srartTime = 1635206400,
+			endTime = 1635782399,
 		},
 		[97]=
 		{
 			id = 97,
 			bannerID = 97,
-			isOnOff = 0,
+			isOnOff = 1,
 			order = 150,
 			condi_key = "actp_own_task_p_crary_rebate",
 			gotoUI = {"sys_act_base","fkfl","panel"},
+			model = "LoginUp",
+			srartTime = -1,
+			endTime = -1,
+		},
+		[98]=
+		{
+			id = 98,
+			bannerID = 98,
+			isOnOff = 1,
+			order = -2200,
+			condi_key = "actp_own_task_p_come_back_courtesy",
+			gotoUI = {"act_062_hghd","first_open_panel"},
 			model = "LoginUp",
 			srartTime = -1,
 			endTime = -1,

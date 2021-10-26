@@ -159,8 +159,8 @@ return {
 		{
 			no = 16,
 			id = 2,
-			item = "jing_bi",
-			item_num = 100000000,
+			item = "prop_xyzp_flqbx",
+			item_num = 1,
 			weight = 10,
 		},
 		[17]=

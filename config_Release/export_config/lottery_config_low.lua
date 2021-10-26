@@ -120,9 +120,8 @@ return {
 		{
 			no = 11,
 			id = 2,
-			item = "shop_gold_sum",
-			item_num = 4750,
-			weight = 350000,
+			in_kind_name = "华为手机",
+			weight = 10,
 		},
 		[12]=
 		{
@@ -136,8 +135,9 @@ return {
 		{
 			no = 13,
 			id = 2,
-			in_kind_name = "华为手机",
-			weight = 10,
+			item = "shop_gold_sum",
+			item_num = 4750,
+			weight = 50000,
 		},
 		[14]=
 		{
@@ -145,7 +145,7 @@ return {
 			id = 2,
 			item = "jing_bi",
 			item_num = 5000000,
-			weight = 99930.000000,
+			weight = 99940,
 		},
 		[15]=
 		{
@@ -159,9 +159,9 @@ return {
 		{
 			no = 16,
 			id = 2,
-			item = "jing_bi",
-			item_num = 100000000,
-			weight = 10,
+			item = "prop_xyzp_flqbx",
+			item_num = 1,
+			weight = 700000,
 		},
 		[17]=
 		{
@@ -169,7 +169,7 @@ return {
 			id = 2,
 			item = "shop_gold_sum",
 			item_num = 4250,
-			weight = 550000,
+			weight = 150000,
 		},
 		[18]=
 		{

@@ -2049,6 +2049,21 @@ return {
 			is_send_client = 1,
 			other = "resetByCreateTime",
 		},
+		[30044]=
+		{
+			id = 30044,
+			enable = 1,
+			name = "新人红包",
+			own_type = "p_new_player_red_bag",
+			task_enum = "common",
+			process_id = 144,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1635782400,
+			end_valid_time = 32503651200,
+			time_limit = 604800,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -3422,6 +3437,15 @@ return {
 			source_id = 127,
 			process = 1,
 		},
+		[144]=
+		{
+			id = 144,
+			process_id = 144,
+			source_id = 128,
+			process = {5000,5000,10000,30000,50000,200000,200000,500000,1000000,3000000,5000000,10000000},
+			awards = {310,311,312,313,314,315,316,317,318,319,320,321},
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -4547,6 +4571,13 @@ return {
 			source_id = 127,
 			source_type = "buy_gift",
 			condition_id = 49,
+		},
+		[161]=
+		{
+			id = 161,
+			source_id = 128,
+			source_type = "buyu_3d_spend",
+			condition_id = 0,
 		},
 	},
 	condition=
@@ -8472,6 +8503,198 @@ return {
 			award_id = 309,
 			asset_type = "jing_bi",
 			asset_count = 1000,
+			get_weight = 1,
+		},
+		[409]=
+		{
+			id = 409,
+			award_id = 310,
+			asset_type = "shop_gold_sum",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[410]=
+		{
+			id = 410,
+			award_id = 310,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[411]=
+		{
+			id = 411,
+			award_id = 311,
+			asset_type = "shop_gold_sum",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[412]=
+		{
+			id = 412,
+			award_id = 311,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 2,
+			get_weight = 1,
+		},
+		[413]=
+		{
+			id = 413,
+			award_id = 312,
+			asset_type = "shop_gold_sum",
+			asset_count = 3,
+			get_weight = 1,
+		},
+		[414]=
+		{
+			id = 414,
+			award_id = 312,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 3,
+			get_weight = 1,
+		},
+		[415]=
+		{
+			id = 415,
+			award_id = 313,
+			asset_type = "shop_gold_sum",
+			asset_count = 4,
+			get_weight = 1,
+		},
+		[416]=
+		{
+			id = 416,
+			award_id = 313,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 4,
+			get_weight = 1,
+		},
+		[417]=
+		{
+			id = 417,
+			award_id = 314,
+			asset_type = "shop_gold_sum",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[418]=
+		{
+			id = 418,
+			award_id = 314,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 5,
+			get_weight = 1,
+		},
+		[419]=
+		{
+			id = 419,
+			award_id = 315,
+			asset_type = "shop_gold_sum",
+			asset_count = 6,
+			get_weight = 1,
+		},
+		[420]=
+		{
+			id = 420,
+			award_id = 315,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 6,
+			get_weight = 1,
+		},
+		[421]=
+		{
+			id = 421,
+			award_id = 316,
+			asset_type = "shop_gold_sum",
+			asset_count = 8,
+			get_weight = 1,
+		},
+		[422]=
+		{
+			id = 422,
+			award_id = 316,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 7,
+			get_weight = 1,
+		},
+		[423]=
+		{
+			id = 423,
+			award_id = 317,
+			asset_type = "shop_gold_sum",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[424]=
+		{
+			id = 424,
+			award_id = 317,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 8,
+			get_weight = 1,
+		},
+		[425]=
+		{
+			id = 425,
+			award_id = 318,
+			asset_type = "shop_gold_sum",
+			asset_count = 20,
+			get_weight = 1,
+		},
+		[426]=
+		{
+			id = 426,
+			award_id = 318,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 9,
+			get_weight = 1,
+		},
+		[427]=
+		{
+			id = 427,
+			award_id = 319,
+			asset_type = "shop_gold_sum",
+			asset_count = 30,
+			get_weight = 1,
+		},
+		[428]=
+		{
+			id = 428,
+			award_id = 319,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 10,
+			get_weight = 1,
+		},
+		[429]=
+		{
+			id = 429,
+			award_id = 320,
+			asset_type = "shop_gold_sum",
+			asset_count = 50,
+			get_weight = 1,
+		},
+		[430]=
+		{
+			id = 430,
+			award_id = 320,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 11,
+			get_weight = 1,
+		},
+		[431]=
+		{
+			id = 431,
+			award_id = 321,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[432]=
+		{
+			id = 432,
+			award_id = 321,
+			asset_type = "prop_3d_fish_lock",
+			asset_count = 12,
 			get_weight = 1,
 		},
 	},

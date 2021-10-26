@@ -7592,6 +7592,18 @@ return {
 			refresh_type = "day_delay",
 			start_deal_time = 1635206400,
 		},
+		[435]=
+		{
+			id = 435,
+			enable = 1,
+			key = "actp_own_task_p_new_player_red_bag",
+			name = "新人红包（非CPS，非冲金鸡）",
+			condi = 535,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "day_delay",
+			start_deal_time = 1635782400,
+		},
 	},
 	condi=
 	{
