@@ -7278,7 +7278,7 @@ return {
 		[409]=
 		{
 			id = 409,
-			enable = 1,
+			enable = 0,
 			key = "actp_rank_ymshf_017_hldr_rank",
 			name = "道具掉落排行榜（非冲金鸡，非天天欢乐捕鱼VIVO渠道）",
 			condi = 527,
