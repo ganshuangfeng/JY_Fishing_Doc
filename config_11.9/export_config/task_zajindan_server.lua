@@ -17660,6 +17660,105 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000809]=
+		{
+			id = 1000809,
+			enable = 1,
+			name = "至尊排位",
+			own_type = "p_drop_act_nor",
+			task_enum = "common",
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1636416000,
+			end_valid_time = 1637596799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000810]=
+		{
+			id = 1000810,
+			enable = 1,
+			name = "至尊排位",
+			own_type = "p_drop_act_nor",
+			task_enum = "common",
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1636416000,
+			end_valid_time = 1637596799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000811]=
+		{
+			id = 1000811,
+			enable = 1,
+			name = "至尊排位",
+			own_type = "p_drop_act_nor",
+			task_enum = "common",
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1636416000,
+			end_valid_time = 1637596799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000812]=
+		{
+			id = 1000812,
+			enable = 1,
+			name = "至尊排位",
+			own_type = "p_drop_act_nor",
+			task_enum = "common",
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1636416000,
+			end_valid_time = 1637596799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000813]=
+		{
+			id = 1000813,
+			enable = 1,
+			name = "至尊排位",
+			own_type = "p_drop_act_nor",
+			task_enum = "common",
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1636416000,
+			end_valid_time = 1637596799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000814]=
+		{
+			id = 1000814,
+			enable = 1,
+			name = "至尊排位",
+			own_type = "p_drop_act_nor",
+			task_enum = "common",
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1636416000,
+			end_valid_time = 1637596799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
+		[1000815]=
+		{
+			id = 1000815,
+			enable = 1,
+			name = "至尊排位",
+			own_type = "p_drop_act_nor",
+			task_enum = "zhi_zun_pai_wei_total_task",
+			process_id = 22167,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1636416000,
+			end_valid_time = 1637596799,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -29009,6 +29108,12 @@ return {
 			awards = 1629,
 			get_award_type = "nor",
 		},
+		[1219]=
+		{
+			id = 1219,
+			process_id = 22167,
+			source_id = 716,
+		},
 	},
 	source=
 	{
@@ -37291,6 +37396,13 @@ return {
 			source_type = "task_award_count",
 			condition_id = 539,
 		},
+		[1175]=
+		{
+			id = 1175,
+			source_id = 716,
+			source_type = "task_award_count",
+			condition_id = 540,
+		},
 	},
 	condition=
 	{
@@ -42772,6 +42884,14 @@ return {
 			condition_id = 539,
 			condition_name = "task_id",
 			condition_value = {1000806,1000807,1000808},
+			judge_type = 2,
+		},
+		[716]=
+		{
+			id = 716,
+			condition_id = 540,
+			condition_name = "task_id",
+			condition_value = {1000809,1000810,1000811,1000812,1000813,1000814},
 			judge_type = 2,
 		},
 	},

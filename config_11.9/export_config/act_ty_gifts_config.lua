@@ -350,7 +350,7 @@ return {
 			gift_1_icon = {"hflb_btn_bx","ty_icon_flq3","zpg_icon_shui"},
 			gift_2_icon = {"hflb_btn_bx2","ty_icon_flq4","zpg_icon_shui"},
 			gift_3_icon = {"hflb_btn_bx3","ty_icon_flq5","zpg_icon_shui"},
-			tip_3 = "可以在小游戏苹果大战中使用",
+			tip_3 = {"可以在小游戏苹果大战中使用",},
 			is_zs = {1,1,1,1,1,1},
 		},
 		[18]=
@@ -367,7 +367,7 @@ return {
 			gift_1_icon = {"hflb_btn_bx","ty_icon_flq3","zpg_icon_shui"},
 			gift_2_icon = {"hflb_btn_bx2","ty_icon_flq4","zpg_icon_shui"},
 			gift_3_icon = {"hflb_btn_bx3","ty_icon_flq5","zpg_icon_shui"},
-			tip_3 = "可以在小游戏苹果大战中使用",
+			tip_3 = {"可以在小游戏苹果大战中使用",},
 			is_zs = {1,1,1,1,1,1},
 		},
 		[19]=
@@ -384,7 +384,7 @@ return {
 			gift_1_icon = {"hflb_btn_bx","ty_icon_flq3","zpg_icon_yg"},
 			gift_2_icon = {"hflb_btn_bx2","ty_icon_flq4","zpg_icon_yg"},
 			gift_3_icon = {"hflb_btn_bx3","ty_icon_flq5","zpg_icon_yg"},
-			tip_3 = "可以在小游戏苹果大战中使用",
+			tip_3 = {"可以在小游戏苹果大战中使用",},
 			is_zs = {1,1,1,1,1,1},
 		},
 		[20]=
@@ -401,7 +401,7 @@ return {
 			gift_1_icon = {"hflb_btn_bx","ty_icon_flq3","zpg_icon_yg"},
 			gift_2_icon = {"hflb_btn_bx2","ty_icon_flq4","zpg_icon_yg"},
 			gift_3_icon = {"hflb_btn_bx3","ty_icon_flq5","zpg_icon_yg"},
-			tip_3 = "可以在小游戏苹果大战中使用",
+			tip_3 = {"可以在小游戏苹果大战中使用",},
 			is_zs = {1,1,1,1,1,1},
 		},
 	},
