@@ -487,7 +487,7 @@ return {
 			enable = 1,
 			prop_type = "prop_box_xiyou",
 			start_time = 1636416000,
-			recycle_time = 1636991999,
+			recycle_time = 1637596799,
 		},
 		[62]=
 		{
@@ -495,7 +495,7 @@ return {
 			enable = 1,
 			prop_type = "prop_box_shishi",
 			start_time = 1636416000,
-			recycle_time = 1636991999,
+			recycle_time = 1637596799,
 		},
 		[63]=
 		{
@@ -503,7 +503,7 @@ return {
 			enable = 1,
 			prop_type = "prop_box_chuanshuo",
 			start_time = 1636416000,
-			recycle_time = 1636991999,
+			recycle_time = 1637596799,
 		},
 	},
 	player_ext_status=
