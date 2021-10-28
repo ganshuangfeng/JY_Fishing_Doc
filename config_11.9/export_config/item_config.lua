@@ -4684,5 +4684,17 @@ return {
 			name = "骰子",
 			desc = "用于参加至尊排位活动",
 		},
+		[346]=
+		{
+			id = 346,
+			item_id = 349,
+			item_key = "prop_vip4_match",
+			lose_time = -1,
+			is_local_icon = 1,
+			is_show_bag = 0,
+			order = 49,
+			name = "VIP4回馈赛门票",
+			desc = "用于参加VIP4回馈赛的门票",
+		},
 	},
 }

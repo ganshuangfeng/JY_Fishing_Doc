@@ -63,13 +63,10 @@ return {
 			name = "VIP4回馈赛",
 			cfg_id = 5,
 			data_id = 5,
-			signup_time_id = 5,
 			signup_spend_id = 13,
 			rank_id = 5,
 			everyday_rank_id = 5,
 			enable = 1,
-			fixed_rank_id = 5,
-			rank_time_id = 5,
 		},
 	},
 	signup_time=
@@ -1085,20 +1082,6 @@ return {
 			rank_range = {11,15},
 			num = 1,
 		},
-		[9]=
-		{
-			id = 9,
-			fixed_rank_id = 5,
-			rank_range = {1,10},
-			num = 10,
-		},
-		[10]=
-		{
-			id = 10,
-			fixed_rank_id = 5,
-			rank_range = {11,15},
-			num = 1,
-		},
 	},
 	rank_time=
 	{
@@ -1183,27 +1166,6 @@ return {
 		{
 			id = 12,
 			rank_time_id = 4,
-			time_range = {65580,85440},
-			power = 60,
-		},
-		[13]=
-		{
-			id = 13,
-			rank_time_id = 5,
-			time_range = {29580,45300},
-			power = 10,
-		},
-		[14]=
-		{
-			id = 14,
-			rank_time_id = 5,
-			time_range = {45300,65580},
-			power = 30,
-		},
-		[15]=
-		{
-			id = 15,
-			rank_time_id = 5,
 			time_range = {65580,85440},
 			power = 60,
 		},
@@ -1398,6 +1360,7 @@ return {
 			rank_id = 5,
 			rank_level = 1,
 			score = {1750,99999999999},
+			score_award_id = 13,
 		},
 		[14]=
 		{
@@ -1405,6 +1368,7 @@ return {
 			rank_id = 5,
 			rank_level = 2,
 			score = {1400,1749},
+			score_award_id = 14,
 		},
 		[15]=
 		{
@@ -1412,6 +1376,7 @@ return {
 			rank_id = 5,
 			rank_level = 3,
 			score = {1050,1399},
+			score_award_id = 15,
 		},
 	},
 	signup_spend=
@@ -1607,6 +1572,27 @@ return {
 			asset_type = "shop_gold_sum",
 			asset_count = 10000,
 		},
+		[13]=
+		{
+			id = 13,
+			award_id = 13,
+			asset_type = "shop_gold_sum",
+			asset_count = 50000,
+		},
+		[14]=
+		{
+			id = 14,
+			award_id = 14,
+			asset_type = "shop_gold_sum",
+			asset_count = 20000,
+		},
+		[15]=
+		{
+			id = 15,
+			award_id = 15,
+			asset_type = "shop_gold_sum",
+			asset_count = 10000,
+		},
 	},
 	everyday_rank=
 	{
@@ -1722,6 +1708,62 @@ return {
 			rank_range = {4,10},
 			everyday_award_id = 16,
 		},
+		[17]=
+		{
+			id = 17,
+			rank_id = 5,
+			rank_range = {1,1},
+			everyday_award_id = 17,
+		},
+		[18]=
+		{
+			id = 18,
+			rank_id = 5,
+			rank_range = {2,2},
+			everyday_award_id = 18,
+		},
+		[19]=
+		{
+			id = 19,
+			rank_id = 5,
+			rank_range = {3,3},
+			everyday_award_id = 19,
+		},
+		[20]=
+		{
+			id = 20,
+			rank_id = 5,
+			rank_range = {4,10},
+			everyday_award_id = 20,
+		},
+		[21]=
+		{
+			id = 21,
+			rank_id = 5,
+			rank_range = {11,20},
+			everyday_award_id = 21,
+		},
+		[22]=
+		{
+			id = 22,
+			rank_id = 5,
+			rank_range = {21,50},
+			everyday_award_id = 22,
+		},
+		[23]=
+		{
+			id = 23,
+			rank_id = 5,
+			rank_range = 51100,
+			everyday_award_id = 23,
+		},
+		[24]=
+		{
+			id = 24,
+			rank_id = 5,
+			rank_range = {101,9999999},
+			everyday_award_id = 24,
+		},
 	},
 	everyday_award=
 	{
@@ -1836,6 +1878,62 @@ return {
 			rank_award_id = 16,
 			asset_type = "shop_gold_sum",
 			asset_count = 25000,
+		},
+		[17]=
+		{
+			id = 17,
+			rank_award_id = 17,
+			asset_type = "shop_gold_sum",
+			asset_count = 50000,
+		},
+		[18]=
+		{
+			id = 18,
+			rank_award_id = 18,
+			asset_type = "shop_gold_sum",
+			asset_count = 20000,
+		},
+		[19]=
+		{
+			id = 19,
+			rank_award_id = 19,
+			asset_type = "shop_gold_sum",
+			asset_count = 10000,
+		},
+		[20]=
+		{
+			id = 20,
+			rank_award_id = 20,
+			asset_type = "shop_gold_sum",
+			asset_count = 5000,
+		},
+		[21]=
+		{
+			id = 21,
+			rank_award_id = 21,
+			asset_type = "shop_gold_sum",
+			asset_count = 3000,
+		},
+		[22]=
+		{
+			id = 22,
+			rank_award_id = 22,
+			asset_type = "shop_gold_sum",
+			asset_count = 2000,
+		},
+		[23]=
+		{
+			id = 23,
+			rank_award_id = 23,
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
+		},
+		[24]=
+		{
+			id = 24,
+			rank_award_id = 24,
+			asset_type = "shop_gold_sum",
+			asset_count = 500,
 		},
 	},
 }
