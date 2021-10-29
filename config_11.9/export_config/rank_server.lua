@@ -827,7 +827,7 @@ return {
 			name = "至尊排行",
 			begin_time = 1636416000,
 			end_time = 1637596799,
-			data_deal_type = "free_bigger",
+			data_deal_type = "nor_add",
 			data_save_type = "single",
 			show_model = 60,
 			settle_model = 58,
