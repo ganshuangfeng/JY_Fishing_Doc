@@ -1253,7 +1253,7 @@ return {
 		{
 			id = 5,
 			game_type = "fishing_3d_game",
-			rank_limit_min = -1,
+			rank_limit_min = 0,
 			game_id = 4,
 			bullet_num = 1000,
 			bullet_rate = {1.01,1.02,1.03,1.04,1.05,1.06,1.07,1.08,1.09,1.1},
