@@ -2064,6 +2064,21 @@ return {
 			time_limit = 604800,
 			is_send_client = 1,
 		},
+		[30045]=
+		{
+			id = 30045,
+			enable = 1,
+			name = "限时红包",
+			own_type = "p_xshb_cjj_xdjb",
+			task_enum = "xian_shi_hong_bao_task",
+			process_id = 145,
+			is_reset = 0,
+			reset_delay = 1,
+			start_valid_time = 1623114000,
+			end_valid_time = 32503651200,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -3446,6 +3461,15 @@ return {
 			awards = {310,311,312,313,314,315,316,317,318,319,320,321},
 			get_award_type = "nor",
 		},
+		[145]=
+		{
+			id = 145,
+			process_id = 145,
+			source_id = 129,
+			process = 1,
+			awards = 322,
+			get_award_type = "nor",
+		},
 	},
 	source=
 	{
@@ -4579,6 +4603,13 @@ return {
 			source_type = "buyu_3d_spend",
 			condition_id = 0,
 		},
+		[162]=
+		{
+			id = 162,
+			source_id = 129,
+			source_type = "asset_observe",
+			condition_id = 50,
+		},
 	},
 	condition=
 	{
@@ -5237,6 +5268,22 @@ return {
 			condition_name = "gift_id",
 			condition_value = 10641,
 			judge_type = 2,
+		},
+		[83]=
+		{
+			id = 83,
+			condition_id = 50,
+			condition_name = "asset_type",
+			condition_value = "jing_bi",
+			judge_type = 2,
+		},
+		[8]=
+		{
+			id = 8,
+			condition_id = 50,
+			condition_name = "now_value",
+			condition_value = 200000,
+			judge_type = 3,
 		},
 	},
 	award_data=
@@ -8695,6 +8742,14 @@ return {
 			award_id = 321,
 			asset_type = "prop_3d_fish_lock",
 			asset_count = 12,
+			get_weight = 1,
+		},
+		[433]=
+		{
+			id = 433,
+			award_id = 322,
+			asset_type = "withdraw_cash_xshb",
+			asset_count = 50,
 			get_weight = 1,
 		},
 	},
