@@ -7616,6 +7616,18 @@ return {
 			refresh_type = "now",
 			start_deal_time = 1636416000,
 		},
+		[437]=
+		{
+			id = 437,
+			enable = 1,
+			key = "actp_own_task_p_xshb_cjj_xdjb",
+			name = "限时红包6月8日及之后注册的冲金鸡用户展示",
+			condi = 537,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1635782400,
+		},
 	},
 	condi=
 	{
@@ -19928,6 +19940,26 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "VIP4及以上玩家",
+		},
+		[1232]=
+		{
+			no = 1232,
+			id = 537,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是冲金鸡玩家",
+		},
+		[1233]=
+		{
+			no = 1233,
+			id = 537,
+			var = "register_time",
+			value = 1623081600,
+			judge = 3,
+			group = 1,
+			error_desc = "2021年6月8日及之后注册的用户",
 		},
 	},
 	share_condition=
