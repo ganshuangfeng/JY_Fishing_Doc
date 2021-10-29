@@ -9,7 +9,6 @@ return {
 			skin_id = 1,
 			power_id = 1,
 			skill_id = 1,
-			lock_id = 5,
 		},
 		[2]=
 		{
