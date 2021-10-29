@@ -1362,24 +1362,7 @@ return {
 			id = 13,
 			rank_id = 5,
 			rank_level = 1,
-			score = {1750,99999999999},
-			score_award_id = 13,
-		},
-		[14]=
-		{
-			id = 14,
-			rank_id = 5,
-			rank_level = 2,
-			score = {1400,1749},
-			score_award_id = 14,
-		},
-		[15]=
-		{
-			id = 15,
-			rank_id = 5,
-			rank_level = 3,
-			score = {1050,1399},
-			score_award_id = 15,
+			score = {0,99999999999},
 		},
 	},
 	signup_spend=
