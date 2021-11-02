@@ -3272,6 +3272,7 @@ return {
 			item = {"jing_bi","prop_guess_apple_bet_1",},
 			count = {1000,1,},
 			gotoUI = {"game_Fishing3DHall",},
+			Tips = {"","可以在小游戏苹果大战中使用",},
 		},
 		[260]=
 		{
@@ -3283,6 +3284,7 @@ return {
 			item = {"shop_gold_sum","prop_guess_apple_bet_1",},
 			count = {50,1,},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"","可以在小游戏苹果大战中使用",},
 		},
 		[261]=
 		{
@@ -3371,6 +3373,7 @@ return {
 			item = {"jing_bi","prop_guess_apple_bet_1",},
 			count = {1000,1,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可以在小游戏苹果大战中使用",},
 		},
 		[269]=
 		{
@@ -3382,6 +3385,7 @@ return {
 			item = {"shop_gold_sum","prop_guess_apple_bet_1",},
 			count = {50,1,},
 			gotoUI = {"shop_bay","jing_bi",},
+			Tips = {"","可以在小游戏苹果大战中使用",},
 		},
 	},
 }
