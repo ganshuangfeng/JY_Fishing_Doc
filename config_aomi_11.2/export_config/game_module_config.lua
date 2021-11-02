@@ -3461,6 +3461,15 @@ return {
 		[353]=
 		{
 			id = 353,
+			key = "sys_act_base_style/sys_act_base_hghd_001",
+			desc = "回归活动皮肤",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[354]=
+		{
+			id = 354,
 			key = "act_063_xrhb",
 			desc = "新人红包",
 			lua = "Act_063_XRHBManager",
