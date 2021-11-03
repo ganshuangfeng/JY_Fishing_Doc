@@ -7290,7 +7290,7 @@ return {
 		[410]=
 		{
 			id = 410,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_10621",
 			name = "绝地反击（V1以下，非冲金鸡）",
 			condi = 506,
@@ -7302,7 +7302,7 @@ return {
 		[411]=
 		{
 			id = 411,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_10622",
 			name = "绝地反击（V2-V4，非冲金鸡）",
 			condi = 507,
@@ -7314,7 +7314,7 @@ return {
 		[412]=
 		{
 			id = 412,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_10623",
 			name = "绝地反击（V5-V7，非冲金鸡）",
 			condi = 508,
@@ -7326,7 +7326,7 @@ return {
 		[413]=
 		{
 			id = 413,
-			enable = 1,
+			enable = 0,
 			key = "actp_buy_gift_bag_10624",
 			name = "绝地反击（V8以上，非冲金鸡）",
 			condi = 509,
@@ -7659,6 +7659,54 @@ return {
 			key = "actp_buy_gift_bag_class_lucky_grab_bag3",
 			name = "幸运福袋（V7-V12，非CPS）",
 			condi = 540,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1637020800,
+		},
+		[441]=
+		{
+			id = 441,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_another_day_gift1",
+			name = {绝地反击（V0-V2,非cps，非冲金鸡）},
+			condi = 541,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1637020800,
+		},
+		[442]=
+		{
+			id = 442,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_another_day_gift2",
+			name = {绝地反击（V3-V5,非cps，非冲金鸡）},
+			condi = 542,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1637020800,
+		},
+		[443]=
+		{
+			id = 443,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_another_day_gift3",
+			name = {绝地反击（V6-V8,非cps，非冲金鸡）},
+			condi = 543,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1637020800,
+		},
+		[444]=
+		{
+			id = 444,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_another_day_gift4",
+			name = {绝地反击（V9-V12,非cps，非冲金鸡）},
+			condi = 544,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
@@ -20086,6 +20134,166 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是CPS渠道",
+		},
+		[1243]=
+		{
+			no = 1243,
+			id = 541,
+			var = "vip_level",
+			value = 0,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP0及以上玩家",
+		},
+		[1244]=
+		{
+			no = 1244,
+			id = 541,
+			var = "vip_level",
+			value = 2,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP2及以下玩家",
+		},
+		[1245]=
+		{
+			no = 1245,
+			id = 541,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[1246]=
+		{
+			no = 1246,
+			id = 541,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1247]=
+		{
+			no = 1247,
+			id = 542,
+			var = "vip_level",
+			value = 3,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP3及以上玩家",
+		},
+		[1248]=
+		{
+			no = 1248,
+			id = 542,
+			var = "vip_level",
+			value = 5,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP5及以下玩家",
+		},
+		[1249]=
+		{
+			no = 1249,
+			id = 542,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[1250]=
+		{
+			no = 1250,
+			id = 542,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1251]=
+		{
+			no = 1251,
+			id = 543,
+			var = "vip_level",
+			value = 6,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP6及以上玩家",
+		},
+		[1252]=
+		{
+			no = 1252,
+			id = 543,
+			var = "vip_level",
+			value = 8,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP8及以下玩家",
+		},
+		[1253]=
+		{
+			no = 1253,
+			id = 543,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[1254]=
+		{
+			no = 1254,
+			id = 543,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
+		},
+		[1255]=
+		{
+			no = 1255,
+			id = 543,
+			var = "vip_level",
+			value = 9,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP9及以上玩家",
+		},
+		[1256]=
+		{
+			no = 1256,
+			id = 543,
+			var = "vip_level",
+			value = 12,
+			judge = 4,
+			group = 1,
+			error_desc = "VIP12及以下玩家",
+		},
+		[1257]=
+		{
+			no = 1257,
+			id = 543,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[1258]=
+		{
+			no = 1258,
+			id = 543,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 5,
+			group = 1,
+			error_desc = "不是冲金鸡玩家",
 		},
 	},
 	share_condition=
