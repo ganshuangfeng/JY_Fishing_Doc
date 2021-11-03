@@ -67,7 +67,7 @@ return {
 			signup_spend_id = {13,},
 			rank_id = 5,
 			everyday_rank_id = 5,
-			enable = 1,
+			enable = 0,
 			fixed_rank_id = 4,
 			rank_time_id = 4,
 		},
