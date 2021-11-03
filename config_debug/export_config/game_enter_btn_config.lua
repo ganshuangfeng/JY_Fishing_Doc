@@ -1312,6 +1312,7 @@ return {
 			id = 132,
 			parm = {"act_ty_gifts","gift_ssylb","enter",},
 			is_on_off = 1,
+			condi_key = "cpl_cjj",
 		},
 		[133]=
 		{
