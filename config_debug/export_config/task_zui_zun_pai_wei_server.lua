@@ -399,7 +399,7 @@ return {
 			id = 1,
 			source_id = 1,
 			source_type = "buyu_3d_target_yu",
-			condition_id = 0,
+			condition_id = 8,
 			process_discount = 1,
 		},
 		[2]=
@@ -423,7 +423,7 @@ return {
 			id = 4,
 			source_id = 4,
 			source_type = "buyu_3d_spend",
-			condition_id = 0,
+			condition_id = 9,
 			process_discount = 1,
 		},
 		[5]=
@@ -488,66 +488,138 @@ return {
 		[2]=
 		{
 			id = 2,
+			condition_id = 1,
+			condition_name = "game_id",
+			condition_value = 1,
+			judge_type = 5,
+		},
+		[3]=
+		{
+			id = 3,
 			condition_id = 2,
 			condition_name = "base_fish_id",
 			condition_value = {23,65},
 			judge_type = 2,
 		},
-		[3]=
+		[4]=
 		{
-			id = 3,
+			id = 4,
+			condition_id = 2,
+			condition_name = "fish_game_id",
+			condition_value = 1,
+			judge_type = 5,
+		},
+		[5]=
+		{
+			id = 5,
 			condition_id = 3,
 			condition_name = "base_fish_id",
 			condition_value = {63,64,65,66,67,68,20,21,22,23,24,25,26,27},
 			judge_type = 2,
 		},
-		[4]=
+		[6]=
 		{
-			id = 4,
+			id = 6,
+			condition_id = 3,
+			condition_name = "fish_game_id",
+			condition_value = 1,
+			judge_type = 5,
+		},
+		[7]=
+		{
+			id = 7,
 			condition_id = 4,
 			condition_name = "gun_rate",
 			condition_value = 1000,
 			judge_type = 3,
 		},
-		[5]=
+		[8]=
 		{
-			id = 5,
+			id = 8,
+			condition_id = 1,
+			condition_name = "fish_game_id",
+			condition_value = 1,
+			judge_type = 5,
+		},
+		[9]=
+		{
+			id = 9,
 			condition_id = 5,
 			condition_name = "gun_rate",
 			condition_value = 1000,
 			judge_type = 3,
 		},
-		[6]=
+		[10]=
 		{
-			id = 6,
+			id = 10,
 			condition_id = 5,
 			condition_name = "base_fish_id",
 			condition_value = {63,64,65,66,67,68,20,21,22,23,24,25,26,27},
 			judge_type = 2,
 		},
-		[7]=
+		[11]=
 		{
-			id = 7,
+			id = 11,
+			condition_id = 5,
+			condition_name = "fish_game_id",
+			condition_value = 1,
+			judge_type = 5,
+		},
+		[12]=
+		{
+			id = 12,
 			condition_id = 6,
 			condition_name = "gun_rate",
 			condition_value = 10000,
 			judge_type = 3,
 		},
-		[8]=
+		[13]=
 		{
-			id = 8,
+			id = 13,
+			condition_id = 6,
+			condition_name = "fish_game_id",
+			condition_value = 1,
+			judge_type = 5,
+		},
+		[14]=
+		{
+			id = 14,
 			condition_id = 7,
 			condition_name = "gun_rate",
 			condition_value = 10000,
 			judge_type = 3,
 		},
-		[9]=
+		[15]=
 		{
-			id = 9,
+			id = 15,
 			condition_id = 7,
 			condition_name = "base_fish_id",
 			condition_value = {63,64,65,66,67,68,20,21,22,23,24,25,26,27},
 			judge_type = 2,
+		},
+		[16]=
+		{
+			id = 16,
+			condition_id = 7,
+			condition_name = "fish_game_id",
+			condition_value = 1,
+			judge_type = 5,
+		},
+		[17]=
+		{
+			id = 17,
+			condition_id = 8,
+			condition_name = "fish_game_id",
+			condition_value = 1,
+			judge_type = 5,
+		},
+		[18]=
+		{
+			id = 18,
+			condition_id = 9,
+			condition_name = "fish_game_id",
+			condition_value = 1,
+			judge_type = 5,
 		},
 	},
 	award_data=
