@@ -1440,7 +1440,7 @@ return {
 		[151]=
 		{
 			id = 151,
-			parm = ""act_064_xyfd"",
+			parm = {"act_064_xyfd",},
 			is_on_off = 1,
 		},
 	},
