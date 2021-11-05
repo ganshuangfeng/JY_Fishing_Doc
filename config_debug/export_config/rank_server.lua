@@ -3106,7 +3106,7 @@ return {
 		[60]=
 		{
 			id = 60,
-			show_limit = 1,
+			show_limit = 0,
 			max_show_num = 20,
 			max_rank_num = 100,
 			max_award_num = 9999999,
