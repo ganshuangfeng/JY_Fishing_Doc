@@ -18003,7 +18003,7 @@ return {
 			shop_type = "gift_bag",
 			price = 19800,
 			buy_asset_type = {"jing_bi","shop_gold_sum","prop_guess_apple_bet_2",},
-			buy_asset_count = {19800000,688,2,},
+			buy_asset_count = {19800000,688,5,},
 			buy_limt = {86400,1,0},
 			count = 99999999,
 			start_time = 1636416000,
