@@ -3437,5 +3437,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[351]=
+		{
+			id = 351,
+			key = "act_zzpw",
+			desc = "至尊排位",
+			lua = "ACTZZPWManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
