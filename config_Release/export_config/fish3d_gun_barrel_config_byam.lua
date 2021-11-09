@@ -116,12 +116,12 @@ return {
 			skill_id = 1,
 			lock_id = 9,
 		},
-		[12]=
+		[13]=
 		{
-			id = 12,
+			id = 13,
 			name = "海王炮台",
 			level = 3,
-			skin_id = 12,
+			skin_id = 13,
 			power_id = 1,
 			skill_id = 1,
 			lock_id = 10,
@@ -276,8 +276,8 @@ return {
 		[12]=
 		{
 			line = 12,
-			id = 12,
-			skin_id = 12,
+			id = 13,
+			skin_id = 13,
 			gun_index = {1,10},
 			gunprefab = "GunPrefab22",
 			net_prefab = "FishNetPrefab_3d_15",

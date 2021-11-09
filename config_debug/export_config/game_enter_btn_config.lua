@@ -142,7 +142,7 @@ return {
 		{
 			id = 1,
 			area = "left_top",
-			group_list = "101#11;93#",
+			group_list = "101#11;93#151#",
 		},
 	},
 	fishing_game=
@@ -348,7 +348,7 @@ return {
 		{
 			id = 3,
 			area = "down2",
-			group_list = "148;126#",
+			group_list = "150;148;126#",
 		},
 		[4]=
 		{
@@ -497,7 +497,7 @@ return {
 		{
 			id = 1,
 			area = "all",
-			group_list = "40#74#110#131;130#144#147#150#",
+			group_list = "40#74#110#131;130#144#147#",
 		},
 	},
 	hqjb_config=
@@ -1433,9 +1433,15 @@ return {
 		[150]=
 		{
 			id = 150,
-			parm = {"act_zzpw",},
+			parm = {"act_064_slyz",},
 			is_on_off = 1,
-			condi_key = "xrzx_newplayer",
+			condi_key = "cpl_notcjj",
+		},
+		[151]=
+		{
+			id = 151,
+			parm = {"act_064_xyfd",},
+			is_on_off = 1,
 		},
 	},
 }

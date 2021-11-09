@@ -7608,9 +7608,21 @@ return {
 		{
 			id = 436,
 			enable = 1,
+			key = "actp_buy_gift_bag_10666",
+			name = "VIP4回馈赛挑战礼包（VIP4以上非CPS，非冲金鸡）",
+			condi = 536,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
+			start_deal_time = 1636416000,
+		},
+		[437]=
+		{
+			id = 437,
+			enable = 1,
 			key = "actp_own_task_p_xshb_cjj_xdjb",
 			name = "限时红包6月8日及之后注册的冲金鸡用户展示",
-			condi = 536,
+			condi = 537,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
@@ -18482,16 +18494,6 @@ return {
 		[1087]=
 		{
 			no = 1087,
-			id = 493,
-			var = "share_condition",
-			value = "cjj_all",
-			judge = 5,
-			group = 1,
-			error_desc = "不是冲金鸡玩家",
-		},
-		[1088]=
-		{
-			no = 1088,
 			id = 494,
 			var = "share_condition",
 			value = "tthlby_cps",
@@ -18499,9 +18501,9 @@ return {
 			group = 1,
 			error_desc = "不是天天捕鱼cps",
 		},
-		[1089]=
+		[1088]=
 		{
-			no = 1089,
+			no = 1088,
 			id = 494,
 			var = "share_condition",
 			value = "byam_cps",
@@ -18509,9 +18511,9 @@ return {
 			group = 1,
 			error_desc = "不是捕鱼奥秘的cps",
 		},
-		[1090]=
+		[1089]=
 		{
-			no = 1090,
+			no = 1089,
 			id = 494,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -18519,9 +18521,9 @@ return {
 			group = 1,
 			error_desc = "不是3d捕鱼的cps",
 		},
-		[1091]=
+		[1090]=
 		{
-			no = 1091,
+			no = 1090,
 			id = 495,
 			var = "share_condition",
 			value = "tthlby_all",
@@ -18529,9 +18531,9 @@ return {
 			group = 1,
 			error_desc = "全部天天捕鱼玩家",
 		},
-		[1092]=
+		[1091]=
 		{
-			no = 1092,
+			no = 1091,
 			id = 496,
 			var = "share_condition",
 			value = "byam_all",
@@ -18539,9 +18541,9 @@ return {
 			group = 1,
 			error_desc = "全部捕鱼奥秘玩家",
 		},
-		[1093]=
+		[1092]=
 		{
-			no = 1093,
+			no = 1092,
 			id = 497,
 			var = "share_condition",
 			value = "cjj_all",
@@ -18549,9 +18551,9 @@ return {
 			group = 1,
 			error_desc = "不展示给cjj",
 		},
-		[1094]=
+		[1093]=
 		{
-			no = 1094,
+			no = 1093,
 			id = 498,
 			var = "market_channel",
 			value = "sigmob",
@@ -18559,9 +18561,9 @@ return {
 			group = 1,
 			error_desc = "乐元素渠道",
 		},
-		[1095]=
+		[1094]=
 		{
-			no = 1095,
+			no = 1094,
 			id = 499,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -18569,9 +18571,9 @@ return {
 			group = 1,
 			error_desc = "注册7天内新人",
 		},
-		[1096]=
+		[1095]=
 		{
-			no = 1096,
+			no = 1095,
 			id = 500,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -18579,9 +18581,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[1097]=
+		[1096]=
 		{
-			no = 1097,
+			no = 1096,
 			id = 501,
 			var = "share_condition",
 			value = "tthlby_official",
@@ -18589,9 +18591,9 @@ return {
 			group = 1,
 			error_desc = "是天天欢乐捕鱼官方玩家",
 		},
-		[1098]=
+		[1097]=
 		{
-			no = 1098,
+			no = 1097,
 			id = 501,
 			var = "share_condition",
 			value = "byam_official",
@@ -18599,9 +18601,9 @@ return {
 			group = 2,
 			error_desc = "是捕鱼奥秘官方玩家",
 		},
-		[1099]=
+		[1098]=
 		{
-			no = 1099,
+			no = 1098,
 			id = 502,
 			var = "share_condition",
 			value = "byam_cpl",
@@ -18609,9 +18611,9 @@ return {
 			group = 1,
 			error_desc = "是捕鱼奥秘CPL玩家",
 		},
-		[1100]=
+		[1099]=
 		{
-			no = 1100,
+			no = 1099,
 			id = 503,
 			var = "share_condition",
 			value = "tthlby_cpl",
@@ -18619,9 +18621,9 @@ return {
 			group = 1,
 			error_desc = "是天天欢乐捕鱼CPL玩家",
 		},
-		[1101]=
+		[1100]=
 		{
-			no = 1101,
+			no = 1100,
 			id = 503,
 			var = "share_condition",
 			value = "cjj_cpl",
@@ -18629,9 +18631,9 @@ return {
 			group = 2,
 			error_desc = "是冲金鸡CPL玩家",
 		},
-		[1102]=
+		[1101]=
 		{
-			no = 1102,
+			no = 1101,
 			id = 504,
 			var = "share_condition",
 			value = "byam_cpl",
@@ -18639,9 +18641,9 @@ return {
 			group = 1,
 			error_desc = "捕鱼奥秘cpl",
 		},
-		[1103]=
+		[1102]=
 		{
-			no = 1103,
+			no = 1102,
 			id = 504,
 			var = "tag_type",
 			value = "tag_plat_own_normal",
@@ -18649,9 +18651,9 @@ return {
 			group = 1,
 			error_desc = "天天欢乐捕鱼没有账号",
 		},
-		[1104]=
+		[1103]=
 		{
-			no = 1104,
+			no = 1103,
 			id = 504,
 			var = "share_condition",
 			value = "tthlby_cpl",
@@ -18659,9 +18661,9 @@ return {
 			group = 2,
 			error_desc = "欢乐天天捕鱼cpl",
 		},
-		[1105]=
+		[1104]=
 		{
-			no = 1105,
+			no = 1104,
 			id = 504,
 			var = "tag_type",
 			value = "tag_plat_own_byam",
@@ -18669,9 +18671,9 @@ return {
 			group = 2,
 			error_desc = "捕鱼奥秘没有账号",
 		},
-		[1106]=
+		[1105]=
 		{
-			no = 1106,
+			no = 1105,
 			id = 504,
 			var = "share_condition",
 			value = "cjj_cpl",
@@ -18679,9 +18681,9 @@ return {
 			group = 3,
 			error_desc = "冲金鸡cpl",
 		},
-		[1107]=
+		[1106]=
 		{
-			no = 1107,
+			no = 1106,
 			id = 504,
 			var = "tag_type",
 			value = "tag_plat_own_byam",
@@ -18689,9 +18691,9 @@ return {
 			group = 3,
 			error_desc = "捕鱼奥秘没有账号",
 		},
-		[1108]=
+		[1107]=
 		{
-			no = 1108,
+			no = 1107,
 			id = 505,
 			var = "share_condition",
 			value = "cjj_all",
@@ -18699,9 +18701,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1109]=
+		[1108]=
 		{
-			no = 1109,
+			no = 1108,
 			id = 505,
 			var = "market_channel",
 			value = "vivo",
@@ -18709,9 +18711,9 @@ return {
 			group = 1,
 			error_desc = "不是欢乐天天捕鱼vivo渠道玩家",
 		},
-		[1110]=
+		[1109]=
 		{
-			no = 1110,
+			no = 1109,
 			id = 506,
 			var = "share_condition",
 			value = "cjj_all",
@@ -18719,9 +18721,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1111]=
+		[1110]=
 		{
-			no = 1111,
+			no = 1110,
 			id = 506,
 			var = "vip_level",
 			value = 1,
@@ -18729,9 +18731,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以下用户",
 		},
-		[1112]=
+		[1111]=
 		{
-			no = 1112,
+			no = 1111,
 			id = 507,
 			var = "share_condition",
 			value = "cjj_all",
@@ -18739,9 +18741,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1113]=
+		[1112]=
 		{
-			no = 1113,
+			no = 1112,
 			id = 507,
 			var = "vip_level",
 			value = 2,
@@ -18749,9 +18751,9 @@ return {
 			group = 1,
 			error_desc = "VIP2及以上用户",
 		},
-		[1114]=
+		[1113]=
 		{
-			no = 1114,
+			no = 1113,
 			id = 507,
 			var = "vip_level",
 			value = 4,
@@ -18759,9 +18761,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以下用户",
 		},
-		[1115]=
+		[1114]=
 		{
-			no = 1115,
+			no = 1114,
 			id = 508,
 			var = "share_condition",
 			value = "cjj_all",
@@ -18769,9 +18771,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1116]=
+		[1115]=
 		{
-			no = 1116,
+			no = 1115,
 			id = 508,
 			var = "vip_level",
 			value = 5,
@@ -18779,9 +18781,9 @@ return {
 			group = 1,
 			error_desc = "VIP5及以上用户",
 		},
-		[1117]=
+		[1116]=
 		{
-			no = 1117,
+			no = 1116,
 			id = 508,
 			var = "vip_level",
 			value = 7,
@@ -18789,9 +18791,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以下用户",
 		},
-		[1118]=
+		[1117]=
 		{
-			no = 1118,
+			no = 1117,
 			id = 509,
 			var = "share_condition",
 			value = "cjj_all",
@@ -18799,9 +18801,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1119]=
+		[1118]=
 		{
-			no = 1119,
+			no = 1118,
 			id = 509,
 			var = "vip_level",
 			value = 8,
@@ -18809,9 +18811,9 @@ return {
 			group = 1,
 			error_desc = "VIP8及以上用户",
 		},
-		[1120]=
+		[1119]=
 		{
-			no = 1120,
+			no = 1119,
 			id = 510,
 			var = "market_channel",
 			value = "vivo",
@@ -18819,9 +18821,9 @@ return {
 			group = 1,
 			error_desc = "不是欢乐天天捕鱼vivo渠道玩家",
 		},
-		[1121]=
+		[1120]=
 		{
-			no = 1121,
+			no = 1120,
 			id = 511,
 			var = "share_condition",
 			value = "3dby_official",
@@ -18829,9 +18831,9 @@ return {
 			group = 1,
 			error_desc = "是天天欢乐捕鱼官方玩家",
 		},
-		[1122]=
+		[1121]=
 		{
-			no = 1122,
+			no = 1121,
 			id = 512,
 			var = "share_condition",
 			value = "3dby_cpl",
@@ -18839,9 +18841,9 @@ return {
 			group = 1,
 			error_desc = "是天天欢乐捕鱼CPL玩家",
 		},
-		[1123]=
+		[1122]=
 		{
-			no = 1123,
+			no = 1122,
 			id = 513,
 			var = "share_condition",
 			value = "cjj_all",
@@ -18849,9 +18851,9 @@ return {
 			group = 1,
 			error_desc = "是冲金鸡玩家",
 		},
-		[1124]=
+		[1123]=
 		{
-			no = 1124,
+			no = 1123,
 			id = 514,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -18859,9 +18861,9 @@ return {
 			group = 1,
 			error_desc = "是天天欢乐捕鱼CPS渠道玩家",
 		},
-		[1125]=
+		[1124]=
 		{
-			no = 1125,
+			no = 1124,
 			id = 515,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -18869,9 +18871,9 @@ return {
 			group = 1,
 			error_desc = "不是天天欢乐捕鱼CPS渠道玩家",
 		},
-		[1126]=
+		[1125]=
 		{
-			no = 1126,
+			no = 1125,
 			id = 516,
 			var = "market_channel",
 			value = "vivo",
@@ -18879,9 +18881,9 @@ return {
 			group = 1,
 			error_desc = "不是vivo渠道玩家",
 		},
-		[1127]=
+		[1126]=
 		{
-			no = 1127,
+			no = 1126,
 			id = 517,
 			var = "share_condition",
 			value = "tthlby_cpl",
@@ -18889,9 +18891,9 @@ return {
 			group = 1,
 			error_desc = "是天天欢乐捕鱼CPL渠道",
 		},
-		[1128]=
+		[1127]=
 		{
-			no = 1128,
+			no = 1127,
 			id = 517,
 			var = "vip_level",
 			value = 1,
@@ -18899,9 +18901,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上用户",
 		},
-		[1129]=
+		[1128]=
 		{
-			no = 1129,
+			no = 1128,
 			id = 517,
 			var = "systype",
 			value = "ios",
@@ -18909,9 +18911,9 @@ return {
 			group = 1,
 			error_desc = "不是IOS用户",
 		},
-		[1130]=
+		[1129]=
 		{
-			no = 1130,
+			no = 1129,
 			id = 518,
 			var = "share_condition",
 			value = "byam_cpl",
@@ -18919,9 +18921,9 @@ return {
 			group = 1,
 			error_desc = "是天天欢乐捕鱼CPL渠道",
 		},
-		[1131]=
+		[1130]=
 		{
-			no = 1131,
+			no = 1130,
 			id = 518,
 			var = "vip_level",
 			value = 1,
@@ -18929,9 +18931,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上用户",
 		},
-		[1132]=
+		[1131]=
 		{
-			no = 1132,
+			no = 1131,
 			id = 518,
 			var = "systype",
 			value = "ios",
@@ -18939,9 +18941,9 @@ return {
 			group = 1,
 			error_desc = "不是IOS用户",
 		},
-		[1133]=
+		[1132]=
 		{
-			no = 1133,
+			no = 1132,
 			id = 519,
 			var = "share_condition",
 			value = "cjj_cpl",
@@ -18949,9 +18951,9 @@ return {
 			group = 1,
 			error_desc = "是天天欢乐捕鱼CPL渠道",
 		},
-		[1134]=
+		[1133]=
 		{
-			no = 1134,
+			no = 1133,
 			id = 519,
 			var = "vip_level",
 			value = 1,
@@ -18959,9 +18961,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上用户",
 		},
-		[1135]=
+		[1134]=
 		{
-			no = 1135,
+			no = 1134,
 			id = 519,
 			var = "systype",
 			value = "ios",
@@ -18969,9 +18971,9 @@ return {
 			group = 1,
 			error_desc = "不是IOS用户",
 		},
-		[1136]=
+		[1135]=
 		{
-			no = 1136,
+			no = 1135,
 			id = 520,
 			var = "share_condition",
 			value = "tthlby_official",
@@ -18979,9 +18981,9 @@ return {
 			group = 1,
 			error_desc = "不是天天欢乐捕鱼CPL渠道",
 		},
-		[1137]=
+		[1136]=
 		{
-			no = 1137,
+			no = 1136,
 			id = 520,
 			var = "share_condition",
 			value = "byam_official",
@@ -18989,9 +18991,9 @@ return {
 			group = 2,
 			error_desc = "不是捕鱼奥秘CPL渠道",
 		},
-		[1138]=
+		[1137]=
 		{
-			no = 1138,
+			no = 1137,
 			id = 520,
 			var = "share_condition",
 			value = "cjj_official",
@@ -18999,9 +19001,9 @@ return {
 			group = 3,
 			error_desc = "不是冲金鸡CPL渠道",
 		},
-		[1139]=
+		[1138]=
 		{
-			no = 1139,
+			no = 1138,
 			id = 520,
 			var = "share_condition",
 			value = "tthlby_cpl",
@@ -19009,9 +19011,9 @@ return {
 			group = 4,
 			error_desc = "是天天欢乐捕鱼CPL渠道",
 		},
-		[1140]=
+		[1139]=
 		{
-			no = 1140,
+			no = 1139,
 			id = 520,
 			var = "vip_level",
 			value = 0,
@@ -19019,9 +19021,9 @@ return {
 			group = 4,
 			error_desc = "VIP0用户",
 		},
-		[1141]=
+		[1140]=
 		{
-			no = 1141,
+			no = 1140,
 			id = 520,
 			var = "share_condition",
 			value = "byam_cpl",
@@ -19029,9 +19031,9 @@ return {
 			group = 5,
 			error_desc = "是捕鱼奥秘CPL渠道",
 		},
-		[1142]=
+		[1141]=
 		{
-			no = 1142,
+			no = 1141,
 			id = 520,
 			var = "vip_level",
 			value = 0,
@@ -19039,9 +19041,9 @@ return {
 			group = 5,
 			error_desc = "VIP0用户",
 		},
-		[1143]=
+		[1142]=
 		{
-			no = 1143,
+			no = 1142,
 			id = 520,
 			var = "share_condition",
 			value = "cjj_cpl",
@@ -19049,9 +19051,9 @@ return {
 			group = 6,
 			error_desc = "冲金鸡CPL渠道",
 		},
-		[1144]=
+		[1143]=
 		{
-			no = 1144,
+			no = 1143,
 			id = 520,
 			var = "vip_level",
 			value = 0,
@@ -19059,9 +19061,9 @@ return {
 			group = 6,
 			error_desc = "VIP0用户",
 		},
-		[1145]=
+		[1144]=
 		{
-			no = 1145,
+			no = 1144,
 			id = 520,
 			var = "share_condition",
 			value = "tthlby_cpl",
@@ -19069,9 +19071,9 @@ return {
 			group = 7,
 			error_desc = "是天天欢乐捕鱼CPL渠道",
 		},
-		[1146]=
+		[1145]=
 		{
-			no = 1146,
+			no = 1145,
 			id = 520,
 			var = "vip_level",
 			value = 1,
@@ -19079,9 +19081,9 @@ return {
 			group = 7,
 			error_desc = "VIP1及以上用户",
 		},
-		[1147]=
+		[1146]=
 		{
-			no = 1147,
+			no = 1146,
 			id = 520,
 			var = "systype",
 			value = "ios",
@@ -19089,9 +19091,9 @@ return {
 			group = 7,
 			error_desc = "不是IOS用户",
 		},
-		[1148]=
+		[1147]=
 		{
-			no = 1148,
+			no = 1147,
 			id = 520,
 			var = "share_condition",
 			value = "byam_cpl",
@@ -19099,9 +19101,9 @@ return {
 			group = 8,
 			error_desc = "是天天欢乐捕鱼CPL渠道",
 		},
-		[1149]=
+		[1148]=
 		{
-			no = 1149,
+			no = 1148,
 			id = 520,
 			var = "vip_level",
 			value = 1,
@@ -19109,9 +19111,9 @@ return {
 			group = 8,
 			error_desc = "VIP1及以上用户",
 		},
-		[1150]=
+		[1149]=
 		{
-			no = 1150,
+			no = 1149,
 			id = 520,
 			var = "systype",
 			value = "ios",
@@ -19119,9 +19121,9 @@ return {
 			group = 8,
 			error_desc = "不是IOS用户",
 		},
-		[1151]=
+		[1150]=
 		{
-			no = 1151,
+			no = 1150,
 			id = 520,
 			var = "share_condition",
 			value = "cjj_cpl",
@@ -19129,9 +19131,9 @@ return {
 			group = 9,
 			error_desc = "是天天欢乐捕鱼CPL渠道",
 		},
-		[1152]=
+		[1151]=
 		{
-			no = 1152,
+			no = 1151,
 			id = 520,
 			var = "vip_level",
 			value = 1,
@@ -19139,9 +19141,9 @@ return {
 			group = 9,
 			error_desc = "VIP1及以上用户",
 		},
-		[1153]=
+		[1152]=
 		{
-			no = 1153,
+			no = 1152,
 			id = 520,
 			var = "systype",
 			value = "ios",
@@ -19149,9 +19151,9 @@ return {
 			group = 9,
 			error_desc = "不是IOS用户",
 		},
-		[1154]=
+		[1153]=
 		{
-			no = 1154,
+			no = 1153,
 			id = 521,
 			var = "share_condition",
 			value = "3dby_official",
@@ -19159,9 +19161,9 @@ return {
 			group = 1,
 			error_desc = "天天欢乐捕鱼和捕鱼奥秘官方渠道",
 		},
-		[1155]=
+		[1154]=
 		{
-			no = 1155,
+			no = 1154,
 			id = 521,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -19169,9 +19171,9 @@ return {
 			group = 1,
 			error_desc = "是新玩家",
 		},
-		[1156]=
+		[1155]=
 		{
-			no = 1156,
+			no = 1155,
 			id = 522,
 			var = "share_condition",
 			value = "3dby_official",
@@ -19179,9 +19181,9 @@ return {
 			group = 1,
 			error_desc = "天天欢乐捕鱼和捕鱼奥秘官方渠道",
 		},
-		[1157]=
+		[1156]=
 		{
-			no = 1157,
+			no = 1156,
 			id = 522,
 			var = "tag_type",
 			value = "tag_new_player",
@@ -19189,9 +19191,9 @@ return {
 			group = 1,
 			error_desc = "不是新玩家",
 		},
-		[1158]=
+		[1157]=
 		{
-			no = 1158,
+			no = 1157,
 			id = 523,
 			var = "vip_level",
 			value = 5,
@@ -19199,9 +19201,9 @@ return {
 			group = 1,
 			error_desc = "VIP5及以上玩家才可兑换",
 		},
-		[1159]=
+		[1158]=
 		{
-			no = 1159,
+			no = 1158,
 			id = 524,
 			var = "vip_level",
 			value = 4,
@@ -19209,9 +19211,9 @@ return {
 			group = 1,
 			error_desc = "VIP4及以上玩家才可兑换",
 		},
-		[1160]=
+		[1159]=
 		{
-			no = 1160,
+			no = 1159,
 			id = 525,
 			var = "vip_level",
 			value = 3,
@@ -19219,9 +19221,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以上玩家才可兑换",
 		},
-		[1161]=
+		[1160]=
 		{
-			no = 1161,
+			no = 1160,
 			id = 526,
 			var = "share_condition",
 			value = "tthlby_cpl",
@@ -19229,9 +19231,9 @@ return {
 			group = 1,
 			error_desc = "是天天欢乐捕鱼CPL渠道",
 		},
-		[1162]=
+		[1161]=
 		{
-			no = 1162,
+			no = 1161,
 			id = 526,
 			var = "vip_level",
 			value = 7,
@@ -19239,9 +19241,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以上用户",
 		},
-		[1163]=
+		[1162]=
 		{
-			no = 1163,
+			no = 1162,
 			id = 526,
 			var = "systype",
 			value = "ios",
@@ -19249,9 +19251,9 @@ return {
 			group = 1,
 			error_desc = "不是IOS用户",
 		},
-		[1164]=
+		[1163]=
 		{
-			no = 1164,
+			no = 1163,
 			id = 526,
 			var = "share_condition",
 			value = "byam_cpl",
@@ -19259,9 +19261,9 @@ return {
 			group = 2,
 			error_desc = "是捕鱼奥秘CPL渠道",
 		},
-		[1165]=
+		[1164]=
 		{
-			no = 1165,
+			no = 1164,
 			id = 526,
 			var = "vip_level",
 			value = 7,
@@ -19269,9 +19271,9 @@ return {
 			group = 2,
 			error_desc = "VIP7及以上用户",
 		},
-		[1166]=
+		[1165]=
 		{
-			no = 1166,
+			no = 1165,
 			id = 526,
 			var = "systype",
 			value = "ios",
@@ -19279,9 +19281,9 @@ return {
 			group = 2,
 			error_desc = "不是IOS用户",
 		},
-		[1167]=
+		[1166]=
 		{
-			no = 1167,
+			no = 1166,
 			id = 526,
 			var = "share_condition",
 			value = "cjj_cpl",
@@ -19289,9 +19291,9 @@ return {
 			group = 3,
 			error_desc = "是冲金鸡CPL渠道",
 		},
-		[1168]=
+		[1167]=
 		{
-			no = 1168,
+			no = 1167,
 			id = 526,
 			var = "vip_level",
 			value = 7,
@@ -19299,9 +19301,9 @@ return {
 			group = 3,
 			error_desc = "VIP7及以上用户",
 		},
-		[1169]=
+		[1168]=
 		{
-			no = 1169,
+			no = 1168,
 			id = 526,
 			var = "systype",
 			value = "ios",
@@ -19309,9 +19311,9 @@ return {
 			group = 3,
 			error_desc = "不是IOS用户",
 		},
-		[1170]=
+		[1169]=
 		{
-			no = 1170,
+			no = 1169,
 			id = 527,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -19319,9 +19321,9 @@ return {
 			group = 2,
 			error_desc = "不是CPS渠道",
 		},
-		[1171]=
+		[1170]=
 		{
-			no = 1171,
+			no = 1170,
 			id = 528,
 			var = "regress_time_dist",
 			value = 604800,
@@ -19329,59 +19331,59 @@ return {
 			group = 1,
 			error_desc = "距离回归时间小于7天",
 		},
-		[1172]=
+		[1171]=
 		{
-			no = 1172,
+			no = 1171,
 			id = 528,
 			var = "last_login_time",
 			value = 0,
 			judge = 5,
 			group = 1,
 			error_desc = "不是第一次登陆的玩家",
+		},
+		[1172]=
+		{
+			no = 1172,
+			id = 528,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
 		},
 		[1173]=
 		{
 			no = 1173,
 			id = 528,
 			var = "share_condition",
-			value = "3dby_cps",
+			value = "cjj_all",
 			judge = 5,
 			group = 1,
-			error_desc = "不是CPS渠道",
+			error_desc = "不是冲金鸡玩家",
 		},
 		[1174]=
 		{
 			no = 1174,
 			id = 528,
-			var = "share_condition",
-			value = "cjj_all",
-			judge = 5,
+			var = "vip_level",
+			value = 1,
+			judge = 3,
 			group = 1,
-			error_desc = "不是冲金鸡玩家",
+			error_desc = "VIP1及以上玩家",
 		},
 		[1175]=
 		{
 			no = 1175,
 			id = 528,
 			var = "vip_level",
-			value = 1,
-			judge = 3,
-			group = 1,
-			error_desc = "VIP1及以上玩家",
-		},
-		[1176]=
-		{
-			no = 1176,
-			id = 528,
-			var = "vip_level",
 			value = 3,
 			judge = 4,
 			group = 1,
 			error_desc = "VIP3及以下玩家",
 		},
-		[1177]=
+		[1176]=
 		{
-			no = 1177,
+			no = 1176,
 			id = 528,
 			var = "last_login_time_dist",
 			value = 604800,
@@ -19389,39 +19391,39 @@ return {
 			group = 2,
 			error_desc = "距离上次登录大于7天",
 		},
-		[1178]=
+		[1177]=
 		{
-			no = 1178,
+			no = 1177,
 			id = 528,
 			var = "last_login_time",
 			value = 0,
 			judge = 5,
 			group = 2,
 			error_desc = "不是第一次登陆的玩家",
+		},
+		[1178]=
+		{
+			no = 1178,
+			id = 528,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 2,
+			error_desc = "不是CPS渠道",
 		},
 		[1179]=
 		{
 			no = 1179,
 			id = 528,
 			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 2,
-			error_desc = "不是CPS渠道",
-		},
-		[1180]=
-		{
-			no = 1180,
-			id = 528,
-			var = "share_condition",
 			value = "cjj_all",
 			judge = 5,
 			group = 2,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1181]=
+		[1180]=
 		{
-			no = 1181,
+			no = 1180,
 			id = 528,
 			var = "vip_level",
 			value = 1,
@@ -19429,9 +19431,9 @@ return {
 			group = 2,
 			error_desc = "VIP1及以上玩家",
 		},
-		[1182]=
+		[1181]=
 		{
-			no = 1182,
+			no = 1181,
 			id = 528,
 			var = "vip_level",
 			value = 3,
@@ -19439,9 +19441,9 @@ return {
 			group = 2,
 			error_desc = "VIP3及以下玩家",
 		},
-		[1183]=
+		[1182]=
 		{
-			no = 1183,
+			no = 1182,
 			id = 529,
 			var = "regress_time_dist",
 			value = 604800,
@@ -19449,39 +19451,39 @@ return {
 			group = 1,
 			error_desc = "距离回归时间小于7天",
 		},
-		[1184]=
+		[1183]=
 		{
-			no = 1184,
+			no = 1183,
 			id = 529,
 			var = "last_login_time",
 			value = 0,
 			judge = 5,
 			group = 1,
 			error_desc = "不是第一次登陆的玩家",
+		},
+		[1184]=
+		{
+			no = 1184,
+			id = 529,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
 		},
 		[1185]=
 		{
 			no = 1185,
 			id = 529,
 			var = "share_condition",
-			value = "3dby_cps",
-			judge = 5,
-			group = 1,
-			error_desc = "不是CPS渠道",
-		},
-		[1186]=
-		{
-			no = 1186,
-			id = 529,
-			var = "share_condition",
 			value = "cjj_all",
 			judge = 5,
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1187]=
+		[1186]=
 		{
-			no = 1187,
+			no = 1186,
 			id = 529,
 			var = "vip_level",
 			value = 4,
@@ -19489,9 +19491,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上玩家",
 		},
-		[1188]=
+		[1187]=
 		{
-			no = 1188,
+			no = 1187,
 			id = 529,
 			var = "vip_level",
 			value = 6,
@@ -19499,9 +19501,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下玩家",
 		},
-		[1189]=
+		[1188]=
 		{
-			no = 1189,
+			no = 1188,
 			id = 529,
 			var = "last_login_time_dist",
 			value = 604800,
@@ -19509,9 +19511,9 @@ return {
 			group = 2,
 			error_desc = "距离上次登录大于7天",
 		},
-		[1190]=
+		[1189]=
 		{
-			no = 1190,
+			no = 1189,
 			id = 529,
 			var = "last_login_time",
 			value = 0,
@@ -19519,9 +19521,9 @@ return {
 			group = 2,
 			error_desc = "不是第一次登陆的玩家",
 		},
-		[1191]=
+		[1190]=
 		{
-			no = 1191,
+			no = 1190,
 			id = 529,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -19529,9 +19531,9 @@ return {
 			group = 2,
 			error_desc = "不是CPS渠道",
 		},
-		[1192]=
+		[1191]=
 		{
-			no = 1192,
+			no = 1191,
 			id = 529,
 			var = "share_condition",
 			value = "cjj_all",
@@ -19539,9 +19541,9 @@ return {
 			group = 2,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1193]=
+		[1192]=
 		{
-			no = 1193,
+			no = 1192,
 			id = 529,
 			var = "vip_level",
 			value = 4,
@@ -19549,9 +19551,9 @@ return {
 			group = 2,
 			error_desc = "VIP1及以上玩家",
 		},
-		[1194]=
+		[1193]=
 		{
-			no = 1194,
+			no = 1193,
 			id = 529,
 			var = "vip_level",
 			value = 6,
@@ -19559,9 +19561,9 @@ return {
 			group = 2,
 			error_desc = "VIP3及以下玩家",
 		},
-		[1195]=
+		[1194]=
 		{
-			no = 1195,
+			no = 1194,
 			id = 530,
 			var = "regress_time_dist",
 			value = 604800,
@@ -19569,9 +19571,9 @@ return {
 			group = 1,
 			error_desc = "距离回归时间小于7天",
 		},
-		[1196]=
+		[1195]=
 		{
-			no = 1196,
+			no = 1195,
 			id = 530,
 			var = "last_login_time",
 			value = 0,
@@ -19579,9 +19581,9 @@ return {
 			group = 1,
 			error_desc = "不是第一次登陆的玩家",
 		},
-		[1197]=
+		[1196]=
 		{
-			no = 1197,
+			no = 1196,
 			id = 530,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -19589,9 +19591,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[1198]=
+		[1197]=
 		{
-			no = 1198,
+			no = 1197,
 			id = 530,
 			var = "share_condition",
 			value = "cjj_all",
@@ -19599,9 +19601,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1199]=
+		[1198]=
 		{
-			no = 1199,
+			no = 1198,
 			id = 530,
 			var = "vip_level",
 			value = 7,
@@ -19609,9 +19611,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以上玩家",
 		},
-		[1200]=
+		[1199]=
 		{
-			no = 1200,
+			no = 1199,
 			id = 530,
 			var = "last_login_time_dist",
 			value = 604800,
@@ -19619,9 +19621,9 @@ return {
 			group = 2,
 			error_desc = "距离上次登录大于7天",
 		},
-		[1201]=
+		[1200]=
 		{
-			no = 1201,
+			no = 1200,
 			id = 530,
 			var = "last_login_time",
 			value = 0,
@@ -19629,9 +19631,9 @@ return {
 			group = 2,
 			error_desc = "不是第一次登陆的玩家",
 		},
-		[1202]=
+		[1201]=
 		{
-			no = 1202,
+			no = 1201,
 			id = 530,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -19639,9 +19641,9 @@ return {
 			group = 2,
 			error_desc = "不是CPS渠道",
 		},
-		[1203]=
+		[1202]=
 		{
-			no = 1203,
+			no = 1202,
 			id = 530,
 			var = "share_condition",
 			value = "cjj_all",
@@ -19649,9 +19651,9 @@ return {
 			group = 2,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1204]=
+		[1203]=
 		{
-			no = 1204,
+			no = 1203,
 			id = 530,
 			var = "vip_level",
 			value = 7,
@@ -19659,9 +19661,9 @@ return {
 			group = 2,
 			error_desc = "VIP7及以上玩家",
 		},
-		[1205]=
+		[1204]=
 		{
-			no = 1205,
+			no = 1204,
 			id = 531,
 			var = "last_login_time",
 			value = 0,
@@ -19669,9 +19671,9 @@ return {
 			group = 1,
 			error_desc = "不是第一次登陆的玩家",
 		},
-		[1206]=
+		[1205]=
 		{
-			no = 1206,
+			no = 1205,
 			id = 531,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -19679,9 +19681,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[1207]=
+		[1206]=
 		{
-			no = 1207,
+			no = 1206,
 			id = 531,
 			var = "share_condition",
 			value = "cjj_all",
@@ -19689,9 +19691,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1208]=
+		[1207]=
 		{
-			no = 1208,
+			no = 1207,
 			id = 531,
 			var = "vip_level",
 			value = 1,
@@ -19699,10 +19701,20 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上玩家",
 		},
+		[1208]=
+		{
+			no = 1208,
+			id = 531,
+			var = "last_login_time_dist",
+			value = 604800,
+			judge = 3,
+			group = 1,
+			error_desc = "距离上次登录大于7天",
+		},
 		[1209]=
 		{
 			no = 1209,
-			id = 531,
+			id = 532,
 			var = "last_login_time_dist",
 			value = 604800,
 			judge = 3,
@@ -19713,25 +19725,15 @@ return {
 		{
 			no = 1210,
 			id = 532,
-			var = "last_login_time_dist",
-			value = 604800,
-			judge = 3,
-			group = 1,
-			error_desc = "距离上次登录大于7天",
-		},
-		[1211]=
-		{
-			no = 1211,
-			id = 532,
 			var = "last_login_time",
 			value = 0,
 			judge = 5,
 			group = 1,
 			error_desc = "不是第一次登陆的玩家",
 		},
-		[1212]=
+		[1211]=
 		{
-			no = 1212,
+			no = 1211,
 			id = 532,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -19739,9 +19741,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[1213]=
+		[1212]=
 		{
-			no = 1213,
+			no = 1212,
 			id = 532,
 			var = "share_condition",
 			value = "cjj_all",
@@ -19749,9 +19751,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1214]=
+		[1213]=
 		{
-			no = 1214,
+			no = 1213,
 			id = 532,
 			var = "vip_level",
 			value = 1,
@@ -19759,9 +19761,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上玩家",
 		},
-		[1215]=
+		[1214]=
 		{
-			no = 1215,
+			no = 1214,
 			id = 532,
 			var = "vip_level",
 			value = 3,
@@ -19769,9 +19771,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下玩家",
 		},
-		[1216]=
+		[1215]=
 		{
-			no = 1216,
+			no = 1215,
 			id = 533,
 			var = "last_login_time_dist",
 			value = 604800,
@@ -19779,9 +19781,9 @@ return {
 			group = 1,
 			error_desc = "距离上次登录大于7天",
 		},
-		[1217]=
+		[1216]=
 		{
-			no = 1217,
+			no = 1216,
 			id = 533,
 			var = "last_login_time",
 			value = 0,
@@ -19789,9 +19791,9 @@ return {
 			group = 1,
 			error_desc = "不是第一次登陆的玩家",
 		},
-		[1218]=
+		[1217]=
 		{
-			no = 1218,
+			no = 1217,
 			id = 533,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -19799,9 +19801,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[1219]=
+		[1218]=
 		{
-			no = 1219,
+			no = 1218,
 			id = 533,
 			var = "share_condition",
 			value = "cjj_all",
@@ -19809,9 +19811,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1220]=
+		[1219]=
 		{
-			no = 1220,
+			no = 1219,
 			id = 533,
 			var = "vip_level",
 			value = 4,
@@ -19819,9 +19821,9 @@ return {
 			group = 1,
 			error_desc = "VIP1及以上玩家",
 		},
-		[1221]=
+		[1220]=
 		{
-			no = 1221,
+			no = 1220,
 			id = 533,
 			var = "vip_level",
 			value = 6,
@@ -19829,9 +19831,9 @@ return {
 			group = 1,
 			error_desc = "VIP3及以下玩家",
 		},
-		[1222]=
+		[1221]=
 		{
-			no = 1222,
+			no = 1221,
 			id = 534,
 			var = "last_login_time_dist",
 			value = 604800,
@@ -19839,9 +19841,9 @@ return {
 			group = 1,
 			error_desc = "距离上次登录大于7天",
 		},
-		[1223]=
+		[1222]=
 		{
-			no = 1223,
+			no = 1222,
 			id = 534,
 			var = "last_login_time",
 			value = 0,
@@ -19849,9 +19851,9 @@ return {
 			group = 1,
 			error_desc = "不是第一次登陆的玩家",
 		},
-		[1224]=
+		[1223]=
 		{
-			no = 1224,
+			no = 1223,
 			id = 534,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -19859,9 +19861,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[1225]=
+		[1224]=
 		{
-			no = 1225,
+			no = 1224,
 			id = 534,
 			var = "share_condition",
 			value = "cjj_all",
@@ -19869,9 +19871,9 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
-		[1226]=
+		[1225]=
 		{
-			no = 1226,
+			no = 1225,
 			id = 534,
 			var = "vip_level",
 			value = 7,
@@ -19879,9 +19881,9 @@ return {
 			group = 1,
 			error_desc = "VIP7及以上玩家",
 		},
-		[1227]=
+		[1226]=
 		{
-			no = 1227,
+			no = 1226,
 			id = 535,
 			var = "register_time",
 			value = 1635811200,
@@ -19889,9 +19891,9 @@ return {
 			group = 1,
 			error_desc = "2021年11月2日之后注册玩家",
 		},
-		[1228]=
+		[1227]=
 		{
-			no = 1228,
+			no = 1227,
 			id = 535,
 			var = "share_condition",
 			value = "3dby_cps",
@@ -19899,9 +19901,9 @@ return {
 			group = 1,
 			error_desc = "不是CPS渠道",
 		},
-		[1229]=
+		[1228]=
 		{
-			no = 1229,
+			no = 1228,
 			id = 535,
 			var = "share_condition",
 			value = "cjj_all",
@@ -19909,20 +19911,50 @@ return {
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
 		},
+		[1229]=
+		{
+			no = 1229,
+			id = 536,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
 		[1230]=
 		{
 			no = 1230,
 			id = 536,
 			var = "share_condition",
 			value = "cjj_all",
-			judge = 2,
+			judge = 5,
 			group = 1,
-			error_desc = "是冲金鸡玩家",
+			error_desc = "不是冲金鸡玩家",
 		},
 		[1231]=
 		{
 			no = 1231,
 			id = 536,
+			var = "vip_level",
+			value = 4,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP4及以上玩家",
+		},
+		[1232]=
+		{
+			no = 1232,
+			id = 537,
+			var = "share_condition",
+			value = "cjj_all",
+			judge = 2,
+			group = 1,
+			error_desc = "是冲金鸡玩家",
+		},
+		[1233]=
+		{
+			no = 1233,
+			id = 537,
 			var = "register_time",
 			value = 1623081600,
 			judge = 3,

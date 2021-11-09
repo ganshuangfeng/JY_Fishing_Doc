@@ -4671,5 +4671,30 @@ return {
 			name = "福利券宝箱",
 			desc = "3000-10000福利券",
 		},
+		[345]=
+		{
+			id = 345,
+			item_id = 348,
+			item_key = "prop_dice",
+			lose_time = -1,
+			is_local_icon = 1,
+			image = "zzpw_icon_tz",
+			is_show_bag = 0,
+			order = 33,
+			name = "骰子",
+			desc = "用于参加至尊排位活动",
+		},
+		[346]=
+		{
+			id = 346,
+			item_id = 349,
+			item_key = "prop_vip4_match",
+			lose_time = -1,
+			is_local_icon = 1,
+			is_show_bag = 0,
+			order = 49,
+			name = "VIP4回馈赛门票",
+			desc = "用于参加VIP4回馈赛的门票",
+		},
 	},
 }

@@ -486,24 +486,24 @@ return {
 			id = 61,
 			enable = 1,
 			prop_type = "prop_box_xiyou",
-			start_time = 1633996800,
-			recycle_time = 1634572799,
+			start_time = 1636416000,
+			recycle_time = 1637596799,
 		},
 		[62]=
 		{
 			id = 62,
 			enable = 1,
 			prop_type = "prop_box_shishi",
-			start_time = 1633996800,
-			recycle_time = 1634572799,
+			start_time = 1636416000,
+			recycle_time = 1637596799,
 		},
 		[63]=
 		{
 			id = 63,
 			enable = 1,
 			prop_type = "prop_box_chuanshuo",
-			start_time = 1633996800,
-			recycle_time = 1634572799,
+			start_time = 1636416000,
+			recycle_time = 1637596799,
 		},
 	},
 	player_ext_status=

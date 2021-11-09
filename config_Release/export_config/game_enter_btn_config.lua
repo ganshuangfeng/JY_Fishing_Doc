@@ -336,7 +336,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "111#112#53#79#36;113;89;131;#",
+			group_list = "111#112#53#79#36;113;89;149;#",
 		},
 		[2]=
 		{
@@ -497,7 +497,7 @@ return {
 		{
 			id = 1,
 			area = "all",
-			group_list = "40#74#110#130#144#147#",
+			group_list = "40#74#110#131;130#144#147#150#",
 		},
 	},
 	hqjb_config=
@@ -1310,8 +1310,9 @@ return {
 		[132]=
 		{
 			id = 132,
-			parm = {"act_ty_gifts","gift_khlb","enter",},
+			parm = {"act_ty_gifts","gift_ssylb","enter",},
 			is_on_off = 1,
+			condi_key = "cpl_cjj",
 		},
 		[133]=
 		{
@@ -1421,6 +1422,20 @@ return {
 			parm = {"act_063_xrhb",},
 			is_on_off = 1,
 			condi_key = "actp_own_task_p_new_player_red_bag",
+		},
+		[149]=
+		{
+			id = 149,
+			parm = {"act_zzpw",},
+			is_on_off = 1,
+			condi_key = "actp_own_task_p_drop_act_nor",
+		},
+		[150]=
+		{
+			id = 150,
+			parm = {"act_zzpw",},
+			is_on_off = 1,
+			condi_key = "xrzx_newplayer",
 		},
 	},
 }

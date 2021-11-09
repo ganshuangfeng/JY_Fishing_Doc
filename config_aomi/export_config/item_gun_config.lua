@@ -205,8 +205,8 @@ return {
 		[12]=
 		{
 			id = 12,
-			item_id = 12,
-			item_key = "gun_barrel_12",
+			item_id = 13,
+			item_key = "gun_barrel_13",
 			type_colour = 3,
 			type = 1,
 			is_local_icon = 1,

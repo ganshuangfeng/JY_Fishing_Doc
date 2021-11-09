@@ -1100,9 +1100,9 @@ return {
 		[104]=
 		{
 			id = 104,
-			name = "重阳礼包",
-			start_time = 1633996800,
-			end_time = 1634572799,
+			name = "狂欢礼包",
+			start_time = 1636416000,
+			end_time = 1637596799,
 			use_asset_id = 91,
 			award_id = 97,
 			enable = 1,
@@ -1110,9 +1110,9 @@ return {
 		[105]=
 		{
 			id = 105,
-			name = "重阳礼包",
-			start_time = 1633996800,
-			end_time = 1634572799,
+			name = "狂欢礼包",
+			start_time = 1636416000,
+			end_time = 1637596799,
 			use_asset_id = 92,
 			award_id = 98,
 			enable = 1,
@@ -1120,9 +1120,9 @@ return {
 		[106]=
 		{
 			id = 106,
-			name = "重阳礼包",
-			start_time = 1633996800,
-			end_time = 1634572799,
+			name = "狂欢礼包",
+			start_time = 1636416000,
+			end_time = 1637596799,
 			use_asset_id = 93,
 			award_id = 99,
 			enable = 1,
