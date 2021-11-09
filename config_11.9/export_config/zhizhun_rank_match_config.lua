@@ -296,6 +296,7 @@ return {
 		{
 			id = 1,
 			duanwei = "tong",
+			name = "青铜Ⅰ",
 			grade = 1,
 			exp = 0,
 			award_pool = 100000,
@@ -306,6 +307,7 @@ return {
 		{
 			id = 2,
 			duanwei = "tong",
+			name = "青铜Ⅱ",
 			grade = 2,
 			exp = 200,
 			award_pool = 50000,
@@ -316,6 +318,7 @@ return {
 		{
 			id = 3,
 			duanwei = "tong",
+			name = "青铜Ⅲ",
 			grade = 3,
 			exp = 400,
 			award_pool = 50000,
@@ -326,6 +329,7 @@ return {
 		{
 			id = 4,
 			duanwei = "yin",
+			name = "白银Ⅰ",
 			grade = 1,
 			exp = 700,
 			award_pool = 300000,
@@ -336,6 +340,7 @@ return {
 		{
 			id = 5,
 			duanwei = "yin",
+			name = "白银Ⅱ",
 			grade = 2,
 			exp = 1000,
 			award_pool = 250000,
@@ -346,6 +351,7 @@ return {
 		{
 			id = 6,
 			duanwei = "yin",
+			name = "白银Ⅲ",
 			grade = 3,
 			exp = 1300,
 			award_pool = 250000,
@@ -356,6 +362,7 @@ return {
 		{
 			id = 7,
 			duanwei = "huangjin",
+			name = "黄金Ⅰ",
 			grade = 1,
 			exp = 1700,
 			award_pool = 2000000,
@@ -366,6 +373,7 @@ return {
 		{
 			id = 8,
 			duanwei = "huangjin",
+			name = "黄金Ⅱ",
 			grade = 2,
 			exp = 2100,
 			award_pool = 1500000,
@@ -376,6 +384,7 @@ return {
 		{
 			id = 9,
 			duanwei = "huangjin",
+			name = "黄金Ⅲ",
 			grade = 3,
 			exp = 2500,
 			award_pool = 1500000,
@@ -386,6 +395,7 @@ return {
 		{
 			id = 10,
 			duanwei = "baijin",
+			name = "白金Ⅰ",
 			grade = 1,
 			exp = 3000,
 			award_pool = 4000000,
@@ -396,6 +406,7 @@ return {
 		{
 			id = 11,
 			duanwei = "baijin",
+			name = "白金Ⅱ",
 			grade = 2,
 			exp = 3600,
 			award_pool = 5000000,
@@ -406,6 +417,7 @@ return {
 		{
 			id = 12,
 			duanwei = "baijin",
+			name = "白金Ⅲ",
 			grade = 3,
 			exp = 4200,
 			award_pool = 5000000,
@@ -416,6 +428,7 @@ return {
 		{
 			id = 13,
 			duanwei = "zuanshi",
+			name = "钻石Ⅰ",
 			grade = 1,
 			exp = 5000,
 			award_pool = 10000000,
@@ -426,6 +439,7 @@ return {
 		{
 			id = 14,
 			duanwei = "zuanshi",
+			name = "钻石Ⅱ",
 			grade = 2,
 			exp = 6500,
 			award_pool = 10000000,
@@ -436,6 +450,7 @@ return {
 		{
 			id = 15,
 			duanwei = "zuanshi",
+			name = "钻石Ⅲ",
 			grade = 3,
 			exp = 8000,
 			award_pool = 10000000,
@@ -446,6 +461,7 @@ return {
 		{
 			id = 16,
 			duanwei = "zhizhun",
+			name = "至尊",
 			grade = 1,
 			exp = 10000,
 			award_pool = 50000000,

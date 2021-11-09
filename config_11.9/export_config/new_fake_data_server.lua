@@ -64,6 +64,7 @@ return {
 			id = 7,
 			name = "sample_num",
 			v1 = {3442,233234523},
+			weight = 8,
 		},
 		[8]=
 		{
@@ -71,6 +72,7 @@ return {
 			name = "sample_num2",
 			v1 = {3442,2333534},
 			v2 = {3442,44455},
+			weight = 8,
 		},
 	},
 }
