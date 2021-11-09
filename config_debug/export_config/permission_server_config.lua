@@ -20258,7 +20258,7 @@ return {
 		[1255]=
 		{
 			no = 1255,
-			id = 543,
+			id = 544,
 			var = "vip_level",
 			value = 9,
 			judge = 3,
@@ -20268,7 +20268,7 @@ return {
 		[1256]=
 		{
 			no = 1256,
-			id = 543,
+			id = 544,
 			var = "vip_level",
 			value = 12,
 			judge = 4,
@@ -20278,7 +20278,7 @@ return {
 		[1257]=
 		{
 			no = 1257,
-			id = 543,
+			id = 544,
 			var = "share_condition",
 			value = "3dby_cps",
 			judge = 5,
@@ -20288,7 +20288,7 @@ return {
 		[1258]=
 		{
 			no = 1258,
-			id = 543,
+			id = 544,
 			var = "share_condition",
 			value = "cjj_all",
 			judge = 5,
