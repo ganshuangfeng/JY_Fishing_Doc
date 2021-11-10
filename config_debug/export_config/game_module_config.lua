@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_039",
+			key = "sys_act_base_style/sys_act_base_weekly_040",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3274,7 +3274,7 @@ return {
 		[334]=
 		{
 			id = 334,
-			key = "act_ty_gifts_style/act_010_khlb",
+			key = "act_ty_gifts_style/act_011_ssylb",
 			desc = "爱心礼包",
 			is_on_off = 1,
 			enable = 1,
@@ -3433,6 +3433,16 @@ return {
 			key = "act_063_xrhb",
 			desc = "新人红包",
 			lua = "Act_063_XRHBManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[351]=
+		{
+			id = 351,
+			key = "act_zzpw",
+			desc = "至尊排位",
+			lua = "ACTZZPWManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,

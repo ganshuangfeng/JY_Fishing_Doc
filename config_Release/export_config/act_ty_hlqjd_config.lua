@@ -5,16 +5,16 @@ return {
 		{
 			line = 1,
 			condiy_key = "cpl_notcjj",
-			beginTime = 1631577600,
-			endTime = 1632153599,
+			beginTime = 1635811200,
+			endTime = 1636387199,
 			config = {1,2,3},
 		},
 		[2]=
 		{
 			line = 2,
 			condiy_key = "cpl_cjj",
-			beginTime = 1633996800,
-			endTime = 1634572799,
+			beginTime = 1635811200,
+			endTime = 1636387199,
 			config = {1,2,3},
 		},
 	},

@@ -4,10 +4,10 @@ return {
 		[1]=
 		{
 			index = 1,
-			award = "0.5元奖励金",
-			cost = 50,
+			award = "0.3元奖励金",
+			cost = 30,
 			task_id = 1000664,
-			task_txt = "携带金币20万",
+			task_txt = "携带金币2万",
 			show_permission = "actp_own_task_p_show_not",
 			limit = "终身1次",
 			unlock_id = 6,
@@ -17,6 +17,19 @@ return {
 		[2]=
 		{
 			index = 2,
+			award = "0.5元奖励金",
+			cost = 50,
+			task_id = 30045,
+			task_txt = "携带金币20万",
+			show_permission = "actp_own_task_p_xshb_cjj_xdjb",
+			limit = "终身1次",
+			unlock_id = 7,
+			goto_ui = {"shop_bay","jing_bi",},
+			is_on = 1,
+		},
+		[3]=
+		{
+			index = 3,
 			award = "3元奖励金",
 			cost = 300,
 			task_id = 1000663,
@@ -28,9 +41,9 @@ return {
 			goto_ui = {"shop_bay","jing_bi",},
 			is_on = 1,
 		},
-		[3]=
+		[4]=
 		{
-			index = 3,
+			index = 4,
 			award = "1元奖励金",
 			cost = 100,
 			task_id = 1000662,
@@ -42,9 +55,9 @@ return {
 			goto_ui = {"game_MiniGame",},
 			is_on = 1,
 		},
-		[4]=
+		[5]=
 		{
-			index = 4,
+			index = 5,
 			award = "3元奖励金",
 			cost = 300,
 			task_id = 1000661,
@@ -56,9 +69,9 @@ return {
 			goto_ui = {"game_MiniGame",},
 			is_on = 1,
 		},
-		[5]=
+		[6]=
 		{
-			index = 5,
+			index = 6,
 			award = "5元奖励金",
 			cost = 500,
 			task_id = 1000660,
@@ -70,9 +83,9 @@ return {
 			goto_ui = {"game_MiniGame",},
 			is_on = 1,
 		},
-		[6]=
+		[7]=
 		{
-			index = 6,
+			index = 7,
 			award = "10元奖励金",
 			cost = 1000,
 			task_id = 1000659,

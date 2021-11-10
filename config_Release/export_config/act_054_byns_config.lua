@@ -5,8 +5,8 @@ return {
 		{
 			line = 1,
 			task_id = 1000665,
-			startTime = 1632787200,
-			endTime = 1633967999,
+			startTime = 1635811200,
+			endTime = 1636387199,
 			gotoui = "game_Fishing3DHall",
 			downDes = "每日0点重置积分和奖励\n10000及以上炮倍捕鱼可获得积分，获得积分数量=鱼的倍数",
 		},

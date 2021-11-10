@@ -60,6 +60,16 @@ return {
 		{
 			id = 6,
 			task_id = 1000664,
+			unlock_spend = 30,
+			unlock_num_type = 1,
+			unlock_num = 1,
+			everyday_total = 50,
+			reset_hour = 9,
+		},
+		[7]=
+		{
+			id = 7,
+			task_id = 30045,
 			unlock_spend = 50,
 			unlock_num_type = 1,
 			unlock_num = 1,

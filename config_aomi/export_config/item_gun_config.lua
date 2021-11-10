@@ -155,7 +155,7 @@ return {
 			type = 1,
 			is_local_icon = 1,
 			image = "3dby_icon_djpt2",
-			order = 9,
+			order = 8,
 			name = "圣光  II",
 			desc_get = "25级解锁",
 			use_parm = {"game_Fishing3DHall",},
@@ -169,7 +169,7 @@ return {
 			type = 1,
 			is_local_icon = 1,
 			image = "3dby_icon_djpt3",
-			order = 10,
+			order = 9,
 			name = "圣光  III",
 			desc_get = "40级解锁",
 			use_parm = {"game_Fishing3DHall",},
@@ -183,7 +183,7 @@ return {
 			type = 1,
 			is_local_icon = 1,
 			image = "3dby_icon_djpt4",
-			order = 11,
+			order = 10,
 			name = "圣光  IV",
 			desc_get = "60级解锁",
 			use_parm = {"game_Fishing3DHall",},
@@ -197,7 +197,7 @@ return {
 			type = 1,
 			is_local_icon = 1,
 			image = "3dby_icon_djpt5",
-			order = 12,
+			order = 11,
 			name = "圣光  V",
 			desc_get = "80级解锁",
 			use_parm = {"game_Fishing3DHall",},
@@ -205,6 +205,26 @@ return {
 		[12]=
 		{
 			id = 12,
+			item_id = 12,
+			item_key = "gun_barrel_12",
+			type_colour = 3,
+			type = 1,
+			is_local_icon = 1,
+			image = "3dby_icon_phw",
+			order = 12,
+			name = "海王炮台",
+			desc = "海王之力：瞬间提高子弹280%的杀伤力\n被动效果：提高击杀BOSS的概率",
+			desc_get = "购买礼包获得",
+			use_parm = {"sys_txz","choose",},
+			attribute = {"<color=#fff173>海王之力：瞬间提高子弹280%的杀伤力</color>","<color=#00fff0>被动效果：提高击杀BOSS的概率</color>"},
+			attribute_img = {"3dby_icon_sl_skill",},
+			pre_name = "GunPrefab_hw",
+			net_prefab = "FishNetPrefab_3d_7",
+			bullet_prefab = "BulletPrefab_3d_10_ui",
+		},
+		[13]=
+		{
+			id = 13,
 			item_id = 1,
 			item_key = "gun_bed_1",
 			type_colour = 1,
@@ -216,9 +236,9 @@ return {
 			desc = "系统赠送基础炮座",
 			desc_get = "系统赠送",
 		},
-		[13]=
+		[14]=
 		{
-			id = 13,
+			id = 14,
 			item_id = 2,
 			item_key = "gun_bed_2",
 			type_colour = 1,
@@ -232,9 +252,9 @@ return {
 			use_parm = {"vip","hint"},
 			buy_anniu_hint = "获取",
 		},
-		[14]=
+		[15]=
 		{
-			id = 14,
+			id = 15,
 			item_id = 3,
 			item_key = "gun_bed_3",
 			type_colour = 2,
@@ -248,9 +268,9 @@ return {
 			use_parm = {"vip","hint"},
 			buy_anniu_hint = "获取",
 		},
-		[15]=
+		[16]=
 		{
-			id = 15,
+			id = 16,
 			item_id = 4,
 			item_key = "gun_bed_4",
 			type_colour = 3,
@@ -265,9 +285,9 @@ return {
 			buy_hint = "是否花费30万金币购买【金焰】30天使用权",
 			buy_anniu_hint = "获取",
 		},
-		[16]=
+		[17]=
 		{
-			id = 16,
+			id = 17,
 			item_id = 1,
 			item_key = "head_frame_1",
 			type_colour = 1,
@@ -278,9 +298,9 @@ return {
 			name = "基础",
 			desc = "基础头像框",
 		},
-		[17]=
+		[18]=
 		{
-			id = 17,
+			id = 18,
 			item_id = 2,
 			item_key = "head_frame_2",
 			type_colour = 1,
@@ -292,9 +312,9 @@ return {
 			desc_get = "30级解锁",
 			use_parm = {"game_Fishing3DHall",},
 		},
-		[18]=
+		[19]=
 		{
-			id = 18,
+			id = 19,
 			item_id = 3,
 			item_key = "head_frame_3",
 			type_colour = 1,
@@ -306,9 +326,9 @@ return {
 			desc_get = "50级解锁",
 			use_parm = {"game_Fishing3DHall",},
 		},
-		[19]=
+		[20]=
 		{
-			id = 19,
+			id = 20,
 			item_id = 4,
 			item_key = "head_frame_4",
 			type_colour = 2,
@@ -320,9 +340,9 @@ return {
 			desc_get = "70级解锁",
 			use_parm = {"game_Fishing3DHall",},
 		},
-		[20]=
+		[21]=
 		{
-			id = 20,
+			id = 21,
 			item_id = 5,
 			item_key = "head_frame_5",
 			type_colour = 2,
@@ -334,9 +354,9 @@ return {
 			desc_get = "90级解锁",
 			use_parm = {"game_Fishing3DHall",},
 		},
-		[21]=
+		[22]=
 		{
-			id = 21,
+			id = 22,
 			item_id = 6,
 			item_key = "head_frame_6",
 			type_colour = 3,
