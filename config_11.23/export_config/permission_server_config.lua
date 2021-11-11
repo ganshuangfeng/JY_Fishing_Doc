@@ -7633,7 +7633,7 @@ return {
 			id = 438,
 			enable = 1,
 			key = "actp_buy_gift_bag_class_lucky_grab_bag1",
-			name = "幸运福袋（V1-V3，非CPS）",
+			name = "幸运福袋（V0-V3，非CPS）",
 			condi = 538,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
@@ -20050,10 +20050,10 @@ return {
 			no = 1234,
 			id = 538,
 			var = "vip_level",
-			value = 1,
+			value = 0,
 			judge = 3,
 			group = 1,
-			error_desc = "VIP1及以上玩家",
+			error_desc = "VIP0及以上玩家",
 		},
 		[1235]=
 		{
