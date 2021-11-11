@@ -497,7 +497,7 @@ return {
 		{
 			id = 1,
 			area = "all",
-			group_list = "40#74#110#131;130#144#147#",
+			group_list = "40#74#110#131;130#144#147#152#",
 		},
 	},
 	hqjb_config=
@@ -1442,6 +1442,13 @@ return {
 			id = 151,
 			parm = {"act_064_xyfd",},
 			is_on_off = 1,
+		},
+		[152]=
+		{
+			id = 152,
+			parm = {"act_zzpw",},
+			is_on_off = 1,
+			condi_key = "xrzx_newplayer",
 		},
 	},
 }
