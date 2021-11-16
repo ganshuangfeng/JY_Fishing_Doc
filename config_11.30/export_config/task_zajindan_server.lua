@@ -16585,7 +16585,7 @@ return {
 			id = 1000737,
 			enable = 1,
 			name = "累充返利",
-			own_type = "normal",
+			own_type = "p_drop_act_nor",
 			task_enum = "common",
 			process_id = 22095,
 			is_reset = 1,
