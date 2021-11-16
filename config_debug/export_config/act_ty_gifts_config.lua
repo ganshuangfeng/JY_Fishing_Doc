@@ -282,7 +282,7 @@ return {
 			gift_1_icon = {"hflb_btn_bx","ty_icon_yxb_3","act_012_gelb_gelb_icon_hjtjc"},
 			gift_2_icon = {"hflb_btn_bx2","ty_icon_yxb_4","act_012_gelb_gelb_icon_hjtjc"},
 			gift_3_icon = {"hflb_btn_bx3","ty_icon_yxb_5","act_012_gelb_gelb_icon_hjtjc"},
-			tip_3 = {"任意购买1个礼包,南瓜增加10%;\n任意购买2个礼包,南瓜增加30%;\n任意购买3个礼包,南瓜增加50%。"},
+			tip_3 = {"任意购买1个礼包,火鸡腿增加10%;\n任意购买2个礼包,火鸡腿增加30%;\n任意购买3个礼包,火鸡腿增加50%。"},
 			is_zs = {1,1,1,1,1,1},
 		},
 		[14]=
@@ -299,7 +299,7 @@ return {
 			gift_1_icon = {"hflb_btn_bx","ty_icon_yxb_3","act_012_gelb_gelb_icon_hjtjc"},
 			gift_2_icon = {"hflb_btn_bx2","ty_icon_yxb_4","act_012_gelb_gelb_icon_hjtjc"},
 			gift_3_icon = {"hflb_btn_bx3","ty_icon_yxb_5","act_012_gelb_gelb_icon_hjtjc"},
-			tip_3 = {"任意购买1个礼包,南瓜增加10%;\n任意购买2个礼包,南瓜增加30%;\n任意购买3个礼包,南瓜增加50%。"},
+			tip_3 = {"任意购买1个礼包,火鸡腿增加10%;\n任意购买2个礼包,火鸡腿增加30%;\n任意购买3个礼包,火鸡腿增加50%。"},
 			is_zs = {1,1,1,1,1,1},
 		},
 		[15]=
@@ -316,7 +316,7 @@ return {
 			gift_1_icon = {"hflb_btn_bx","ty_icon_yxb_3","act_012_gelb_gelb_icon_hjtjc"},
 			gift_2_icon = {"hflb_btn_bx2","ty_icon_yxb_4","act_012_gelb_gelb_icon_hjtjc"},
 			gift_3_icon = {"hflb_btn_bx3","ty_icon_yxb_5","act_012_gelb_gelb_icon_hjtjc"},
-			tip_3 = {"任意购买1个礼包,南瓜增加10%;\n任意购买2个礼包,南瓜增加30%;\n任意购买3个礼包,南瓜增加50%。"},
+			tip_3 = {"任意购买1个礼包,火鸡腿增加10%;\n任意购买2个礼包,火鸡腿增加30%;\n任意购买3个礼包,火鸡腿增加50%。"},
 			is_zs = {1,1,1,1,1,1},
 		},
 		[16]=
@@ -333,7 +333,7 @@ return {
 			gift_1_icon = {"hflb_btn_bx","ty_icon_yxb_3","act_012_gelb_gelb_icon_hjtjc"},
 			gift_2_icon = {"hflb_btn_bx2","ty_icon_yxb_4","act_012_gelb_gelb_icon_hjtjc"},
 			gift_3_icon = {"hflb_btn_bx3","ty_icon_yxb_5","act_012_gelb_gelb_icon_hjtjc"},
-			tip_3 = {"任意购买1个礼包,南瓜增加10%;\n任意购买2个礼包,南瓜增加30%;\n任意购买3个礼包,南瓜增加50%。"},
+			tip_3 = {"任意购买1个礼包,火鸡腿增加10%;\n任意购买2个礼包,火鸡腿增加30%;\n任意购买3个礼包,火鸡腿增加50%。"},
 			is_zs = {1,1,1,1,1,1},
 		},
 		[17]=
