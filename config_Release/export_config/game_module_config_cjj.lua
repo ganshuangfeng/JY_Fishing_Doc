@@ -3329,5 +3329,15 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[340]=
+		{
+			id = 340,
+			key = "act_064_xyfd",
+			desc = "幸运福袋",
+			lua = "Act_064_XYFDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }

@@ -497,7 +497,7 @@ return {
 		{
 			id = 1,
 			area = "all",
-			group_list = "40#74#110#131;130#144#147#152#",
+			group_list = "40#74#110#131;130#144#147#",
 		},
 	},
 	hqjb_config=
@@ -1310,9 +1310,8 @@ return {
 		[132]=
 		{
 			id = 132,
-			parm = {"act_ty_gifts","gift_ssylb","enter",},
+			parm = {"act_ty_gifts","gift_khlb","enter",},
 			is_on_off = 1,
-			condi_key = "cpl_cjj",
 		},
 		[133]=
 		{
@@ -1442,13 +1441,6 @@ return {
 			id = 151,
 			parm = {"act_064_xyfd",},
 			is_on_off = 1,
-		},
-		[152]=
-		{
-			id = 152,
-			parm = {"act_zzpw",},
-			is_on_off = 1,
-			condi_key = "xrzx_newplayer",
 		},
 	},
 }

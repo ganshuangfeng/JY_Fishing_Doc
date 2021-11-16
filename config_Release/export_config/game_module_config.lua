@@ -3447,5 +3447,25 @@ return {
 			enable = 1,
 			state = 1,
 		},
+		[352]=
+		{
+			id = 352,
+			key = "act_064_slyz",
+			desc = "时来运转",
+			lua = "Act_064_SLYZManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[353]=
+		{
+			id = 353,
+			key = "act_064_xyfd",
+			desc = "幸运福袋",
+			lua = "Act_064_XYFDManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
 	},
 }
