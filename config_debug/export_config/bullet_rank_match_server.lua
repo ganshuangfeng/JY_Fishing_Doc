@@ -1740,7 +1740,7 @@ return {
 		{
 			id = 23,
 			rank_id = 5,
-			rank_range = 51100,
+			rank_range = {51,100},
 			everyday_award_id = 23,
 		},
 		[24]=
