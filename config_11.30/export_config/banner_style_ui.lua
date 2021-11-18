@@ -1133,7 +1133,7 @@ return {
 			key = "vip",
 			isOnOff = 1,
 			order = 200,
-			condi_key = "cpl_notcjj",
+			condi_key = "actp_buy_gift_bag_10666",
 			gotoUI = {"vip4hks",},
 			model = "DailyUp",
 			srartTime = -1,
