@@ -38,8 +38,8 @@ return {
 			id = 5,
 			enable = 1,
 			prop_type = "prop_fish_drop_act_0",
-			start_time = 1635206400,
-			recycle_time = 1635782399,
+			start_time = 1637625600,
+			recycle_time = 1638201599,
 		},
 		[6]=
 		{
@@ -478,8 +478,8 @@ return {
 			id = 60,
 			enable = 1,
 			prop_type = "prop_grade",
-			start_time = 1635206400,
-			recycle_time = 1635782399,
+			start_time = 1637625600,
+			recycle_time = 1638201599,
 		},
 		[61]=
 		{

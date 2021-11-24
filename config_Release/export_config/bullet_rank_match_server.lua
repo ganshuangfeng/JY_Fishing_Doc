@@ -67,7 +67,7 @@ return {
 			signup_spend_id = {13,},
 			rank_id = 5,
 			everyday_rank_id = 5,
-			enable = 0,
+			enable = 1,
 			fixed_rank_id = 4,
 			rank_time_id = 4,
 		},
@@ -1254,7 +1254,7 @@ return {
 			id = 5,
 			game_type = "fishing_3d_game",
 			rank_limit_min = 0,
-			game_id = 4,
+			game_id = 3,
 			bullet_num = 1000,
 			bullet_rate = {1.01,1.02,1.03,1.04,1.05,1.06,1.07,1.08,1.09,1.1},
 		},
@@ -1740,7 +1740,7 @@ return {
 		{
 			id = 23,
 			rank_id = 5,
-			rank_range = 51100,
+			rank_range = {51,100},
 			everyday_award_id = 23,
 		},
 		[24]=

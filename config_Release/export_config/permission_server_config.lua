@@ -7637,7 +7637,7 @@ return {
 			condi = 538,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
+			refresh_type = "now",
 			start_deal_time = 1637020800,
 		},
 		[439]=
@@ -7649,7 +7649,7 @@ return {
 			condi = 539,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
+			refresh_type = "now",
 			start_deal_time = 1637020800,
 		},
 		[440]=
@@ -7661,7 +7661,7 @@ return {
 			condi = 540,
 			is_dynamic_codi = 1,
 			is_dynamic_cancel = 1,
-			refresh_type = "day_delay",
+			refresh_type = "now",
 			start_deal_time = 1637020800,
 		},
 		[441]=
@@ -19320,10 +19320,10 @@ return {
 			no = 1161,
 			id = 526,
 			var = "vip_level",
-			value = 7,
+			value = 6,
 			judge = 3,
 			group = 1,
-			error_desc = "VIP7及以上用户",
+			error_desc = "VIP6及以上用户",
 		},
 		[1162]=
 		{
@@ -19350,10 +19350,10 @@ return {
 			no = 1164,
 			id = 526,
 			var = "vip_level",
-			value = 7,
+			value = 6,
 			judge = 3,
 			group = 2,
-			error_desc = "VIP7及以上用户",
+			error_desc = "VIP6及以上用户",
 		},
 		[1165]=
 		{
@@ -19380,10 +19380,10 @@ return {
 			no = 1167,
 			id = 526,
 			var = "vip_level",
-			value = 7,
+			value = 6,
 			judge = 3,
 			group = 3,
-			error_desc = "VIP7及以上用户",
+			error_desc = "VIP6及以上用户",
 		},
 		[1168]=
 		{

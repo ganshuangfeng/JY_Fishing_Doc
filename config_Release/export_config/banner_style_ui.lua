@@ -1017,8 +1017,8 @@ return {
 			condi_key = "cpl_notcjj",
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1636416000,
-			endTime = 1637596799,
+			srartTime = 1637625600,
+			endTime = 1638201599,
 		},
 		[90]=
 		{
@@ -1099,8 +1099,8 @@ return {
 			condi_key = "cpl_cjj",
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1636416000,
-			endTime = 1637596799,
+			srartTime = 1637625600,
+			endTime = 1638201599,
 		},
 		[97]=
 		{
@@ -1130,12 +1130,11 @@ return {
 		{
 			id = 99,
 			bannerID = 99,
-			key = "vip",
 			isOnOff = 1,
 			order = 200,
-			condi_key = "cpl_notcjj",
-			gotoUI = {"vip4hks",},
-			model = "DailyUp",
+			condi_key = "actp_buy_gift_bag_10666",
+			gotoUI = {"vip","vip4hks"},
+			model = "LoginUp",
 			srartTime = -1,
 			endTime = -1,
 		},
