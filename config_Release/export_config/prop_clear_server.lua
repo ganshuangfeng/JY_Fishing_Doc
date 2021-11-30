@@ -62,72 +62,72 @@ return {
 			id = 8,
 			enable = 1,
 			prop_type = "prop_brass_hammer_1",
-			start_time = 1633996800,
-			recycle_time = 1634572799,
+			start_time = 1638230400,
+			recycle_time = 1638806399,
 		},
 		[9]=
 		{
 			id = 9,
 			enable = 1,
 			prop_type = "prop_silver_hammer_1",
-			start_time = 1633996800,
-			recycle_time = 1634572799,
+			start_time = 1638230400,
+			recycle_time = 1638806399,
 		},
 		[10]=
 		{
 			id = 10,
 			enable = 1,
 			prop_type = "prop_gold_hammer_1",
-			start_time = 1633996800,
-			recycle_time = 1634572799,
+			start_time = 1638230400,
+			recycle_time = 1638806399,
 		},
 		[11]=
 		{
 			id = 11,
 			enable = 1,
 			prop_type = "prop_brass_hammer_2",
-			start_time = 1633996800,
-			recycle_time = 1634572799,
+			start_time = 1638230400,
+			recycle_time = 1638806399,
 		},
 		[12]=
 		{
 			id = 12,
 			enable = 1,
 			prop_type = "prop_silver_hammer_2",
-			start_time = 1633996800,
-			recycle_time = 1634572799,
+			start_time = 1638230400,
+			recycle_time = 1638806399,
 		},
 		[13]=
 		{
 			id = 13,
 			enable = 1,
 			prop_type = "prop_gold_hammer_2",
-			start_time = 1633996800,
-			recycle_time = 1634572799,
+			start_time = 1638230400,
+			recycle_time = 1638806399,
 		},
 		[14]=
 		{
 			id = 14,
 			enable = 1,
 			prop_type = "prop_brass_hammer_3",
-			start_time = 1633996800,
-			recycle_time = 1634572799,
+			start_time = 1638230400,
+			recycle_time = 1638806399,
 		},
 		[15]=
 		{
 			id = 15,
 			enable = 1,
 			prop_type = "prop_silver_hammer_3",
-			start_time = 1633996800,
-			recycle_time = 1634572799,
+			start_time = 1638230400,
+			recycle_time = 1638806399,
 		},
 		[16]=
 		{
 			id = 16,
 			enable = 1,
 			prop_type = "prop_gold_hammer_3",
-			start_time = 1633996800,
-			recycle_time = 1634572799,
+			start_time = 1638230400,
+			recycle_time = 1638806399,
 		},
 		[17]=
 		{

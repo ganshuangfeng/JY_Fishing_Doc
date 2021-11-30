@@ -5,8 +5,8 @@ return {
 		{
 			line = 1,
 			task_id = 1000688,
-			startTime = 1635811200,
-			endTime = 1636387199,
+			startTime = 1638230400,
+			endTime = 1638806399,
 			gotoui = "game_MiniGame",
 			downDes = "每日0点重置倍数和奖励\n统计在任意消消乐游戏中24万及以上档次消除的倍数",
 		},
