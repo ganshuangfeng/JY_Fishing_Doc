@@ -2273,8 +2273,8 @@ return {
 			total = 10000000,
 			task_name = "任意消消乐游戏单笔赢金到达1000万",
 			level = 3,
-			item = {"jing_bi",},
-			count = {100000,},
+			item = {"shop_gold_sum",},
+			count = {100,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[171]=
@@ -2295,8 +2295,8 @@ return {
 			total = 100000000,
 			task_name = "任意消消乐游戏单笔赢金到达1亿",
 			level = 5,
-			item = {"jing_bi",},
-			count = {1000000,},
+			item = {"shop_gold_sum",},
+			count = {1000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[173]=

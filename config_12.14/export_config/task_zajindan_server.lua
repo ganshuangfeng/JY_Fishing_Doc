@@ -17160,8 +17160,8 @@ return {
 			process_id = 22133,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1636387200,
-			end_valid_time = 1637596799,
+			start_valid_time = 1639411200,
+			end_valid_time = 1640015999,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -62936,8 +62936,8 @@ return {
 		{
 			id = 2505,
 			award_id = 1576,
-			asset_type = "jing_bi",
-			asset_count = 100000,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
 			get_weight = 1,
 		},
 		[2506]=
@@ -62952,8 +62952,8 @@ return {
 		{
 			id = 2507,
 			award_id = 1578,
-			asset_type = "jing_bi",
-			asset_count = 1000000,
+			asset_type = "shop_gold_sum",
+			asset_count = 1000,
 			get_weight = 1,
 		},
 		[2508]=
