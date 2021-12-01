@@ -15410,7 +15410,7 @@ return {
 		[1000659]=
 		{
 			id = 1000659,
-			enable = 1,
+			enable = 0,
 			name = "限时红包",
 			own_type = "normal",
 			task_enum = "xian_shi_hong_bao_task",
@@ -15425,7 +15425,7 @@ return {
 		[1000660]=
 		{
 			id = 1000660,
-			enable = 1,
+			enable = 0,
 			name = "限时红包",
 			own_type = "normal",
 			task_enum = "xian_shi_hong_bao_task",
@@ -15440,7 +15440,7 @@ return {
 		[1000661]=
 		{
 			id = 1000661,
-			enable = 1,
+			enable = 0,
 			name = "限时红包",
 			own_type = "normal",
 			task_enum = "xian_shi_hong_bao_task",
@@ -15470,7 +15470,7 @@ return {
 		[1000663]=
 		{
 			id = 1000663,
-			enable = 1,
+			enable = 0,
 			name = "限时红包",
 			own_type = "normal",
 			task_enum = "xian_shi_hong_bao_task",
