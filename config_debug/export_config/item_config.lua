@@ -4413,8 +4413,8 @@ return {
 			image = "bb_sgxxl_1",
 			is_show_bag = 1,
 			order = 33,
-			name = "水果消消乐游戏卡",
-			desc = "使用后可触发‘水果消消乐’5000档次的特殊玩法，可获得丰厚的奖励！",
+			name = "萌宠消消乐游戏卡",
+			desc = "使用后可触发‘萌宠消消乐’5000档次的特殊玩法，可获得丰厚的奖励！",
 			use_parm = {"game_Eliminate",},
 		},
 		[327]=
@@ -4469,8 +4469,8 @@ return {
 			image = "bb_sgxxl_2",
 			is_show_bag = 1,
 			order = 33,
-			name = "水果消消乐游戏卡",
-			desc = "使用后可触发‘水果消消乐’10000档次的特殊玩法，可获得丰厚的奖励！",
+			name = "萌宠消消乐游戏卡",
+			desc = "使用后可触发‘萌宠消消乐’10000档次的特殊玩法，可获得丰厚的奖励！",
 			use_parm = {"game_Eliminate",},
 		},
 		[331]=
@@ -4525,8 +4525,8 @@ return {
 			image = "bb_sgxxl_3",
 			is_show_bag = 1,
 			order = 33,
-			name = "水果消消乐游戏卡",
-			desc = "使用后可触发‘水果消消乐’30000档次的特殊玩法，可获得丰厚的奖励！",
+			name = "萌宠消消乐游戏卡",
+			desc = "使用后可触发‘萌宠消消乐’30000档次的特殊玩法，可获得丰厚的奖励！",
 			use_parm = {"game_Eliminate",},
 		},
 		[335]=
