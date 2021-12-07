@@ -6521,21 +6521,28 @@ return {
 			no = 668,
 			award_id = 101,
 			real_award_id = 12145,
-			weight = 80,
+			weight = 95,
 		},
 		[669]=
 		{
 			no = 669,
 			award_id = 101,
 			real_award_id = 12146,
-			weight = 15,
+			weight = 3,
 		},
 		[670]=
 		{
 			no = 670,
 			award_id = 101,
 			real_award_id = 12147,
-			weight = 5,
+			weight = 2,
+		},
+		[671]=
+		{
+			no = 671,
+			award_id = 101,
+			real_award_id = 12148,
+			weight = 1,
 		},
 	},
 	award_item=
@@ -11481,19 +11488,26 @@ return {
 			id = 673,
 			real_award_id = 12145,
 			asset_type = "shop_gold_sum",
-			asset_count = {3000,3500},
+			asset_count = {3000,3100},
 		},
 		[674]=
 		{
 			id = 674,
 			real_award_id = 12146,
 			asset_type = "shop_gold_sum",
-			asset_count = {3501,4000},
+			asset_count = {3301,3500},
 		},
 		[675]=
 		{
 			id = 675,
 			real_award_id = 12147,
+			asset_type = "shop_gold_sum",
+			asset_count = {3501,4000},
+		},
+		[676]=
+		{
+			id = 676,
+			real_award_id = 12148,
 			asset_type = "shop_gold_sum",
 			asset_count = {4001,5000},
 		},

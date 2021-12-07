@@ -40,7 +40,7 @@ return {
 		{
 			Index = 3,
 			task_id = 21324,
-			text = "在水果消消乐中累计赢金1000万",
+			text = "在萌宠消消乐中累计赢金1000万",
 			total = 10000000,
 			award = 1,
 			game_type = "xxl",
@@ -148,7 +148,7 @@ return {
 		{
 			Index = 15,
 			task_id = 21336,
-			text = "水果消消乐使用48万及以上档次，出现1次幸运时刻",
+			text = "萌宠消消乐使用48万及以上档次，出现1次幸运时刻",
 			total = 1,
 			award = 4,
 			game_type = "xxl",
@@ -205,7 +205,7 @@ return {
 		{
 			Index = 3,
 			task_id = 21324,
-			text = "在水果消消乐中累计赢金1000万",
+			text = "在萌宠消消乐中累计赢金1000万",
 			total = 10000000,
 			award = 1,
 			game_type = "xxl",
@@ -313,7 +313,7 @@ return {
 		{
 			Index = 15,
 			task_id = 21336,
-			text = "水果消消乐使用48万及以上档次，出现1次幸运时刻",
+			text = "萌宠消消乐使用48万及以上档次，出现1次幸运时刻",
 			total = 1,
 			award = 4,
 			game_type = "xxl",

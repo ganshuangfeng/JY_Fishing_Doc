@@ -662,9 +662,9 @@ return {
 		[57]=
 		{
 			id = 57,
-			name = "火鸡腿兑奖",
-			start_time = 1637625600,
-			end_time = 1638201599,
+			name = "雪球兑奖",
+			start_time = 1638835200,
+			end_time = 1639411199,
 			use_goods = {"prop_fish_drop_act_0",},
 			goods_type = 1,
 			email_id = 43,
@@ -953,8 +953,8 @@ return {
 		[43]=
 		{
 			id = 43,
-			title = "火鸡腿兑奖",
-			content = "恭喜您在火鸡腿兑奖活动中获得了%s，请在活动结束后7个工作日内联系客服QQ号4008882620领取，逾期视为自动放弃！",
+			title = "雪球兑奖",
+			content = "恭喜您在雪球兑奖活动中获得了%s，请在活动结束后7个工作日内联系客服QQ号4008882620领取，逾期视为自动放弃！",
 		},
 		[44]=
 		{
@@ -4773,105 +4773,105 @@ return {
 			use_num = {1800,},
 			me_limit_day_num = 1,
 		},
-		[365]=
+		[374]=
 		{
-			no = 365,
+			no = 374,
 			award_cfg_id = 57,
 			award_id = 1,
-			permission_key = "actp_prop_exchange_v5",
 			asset_type = {"shop_gold_sum",},
-			asset_count = {50000,},
-			use_num = {300000,},
-			me_limit_day_num = 1,
-		},
-		[366]=
-		{
-			no = 366,
-			award_cfg_id = 57,
-			award_id = 2,
-			permission_key = "actp_prop_exchange_v4",
-			asset_type = {"shop_gold_sum",},
-			asset_count = {10000,},
-			use_num = {60000,},
-			me_limit_day_num = 1,
-		},
-		[367]=
-		{
-			no = 367,
-			award_cfg_id = 57,
-			award_id = 3,
-			permission_key = "actp_prop_exchange_v3",
-			asset_type = {"jing_bi",},
-			asset_count = {7000000,},
-			use_num = {42000,},
-		},
-		[368]=
-		{
-			no = 368,
-			award_cfg_id = 57,
-			award_id = 4,
-			asset_type = {"shop_gold_sum",},
-			asset_count = {5000,},
-			use_num = {30000,},
-			me_limit_day_num = 1,
-		},
-		[369]=
-		{
-			no = 369,
-			award_cfg_id = 57,
-			award_id = 5,
-			asset_type = {"jing_bi",},
-			asset_count = {4000000,},
-			use_num = {24000,},
-		},
-		[370]=
-		{
-			no = 370,
-			award_cfg_id = 57,
-			award_id = 6,
-			asset_type = {"shop_gold_sum",},
-			asset_count = {2000,},
-			use_num = {12000,},
-			me_limit_day_num = 1,
-		},
-		[371]=
-		{
-			no = 371,
-			award_cfg_id = 57,
-			award_id = 7,
-			asset_type = {"prop_tiny_game_coin",},
-			asset_count = {1500000,},
-			use_num = {9000,},
-			me_limit_day_num = 5,
-		},
-		[372]=
-		{
-			no = 372,
-			award_cfg_id = 57,
-			award_id = 8,
-			asset_type = {"shop_gold_sum",},
-			asset_count = {1000,},
-			use_num = {6000,},
+			asset_count = {200,},
+			use_num = {1200,},
 			me_limit_day_num = 1,
 		},
 		[373]=
 		{
 			no = 373,
 			award_cfg_id = 57,
-			award_id = 9,
+			award_id = 2,
 			asset_type = {"prop_tiny_game_coin",},
 			asset_count = {500000,},
 			use_num = {3000,},
 			me_limit_day_num = 5,
 		},
-		[374]=
+		[372]=
 		{
-			no = 374,
+			no = 372,
+			award_cfg_id = 57,
+			award_id = 3,
+			asset_type = {"shop_gold_sum",},
+			asset_count = {1000,},
+			use_num = {6000,},
+			me_limit_day_num = 1,
+		},
+		[371]=
+		{
+			no = 371,
+			award_cfg_id = 57,
+			award_id = 4,
+			asset_type = {"prop_tiny_game_coin",},
+			asset_count = {1500000,},
+			use_num = {9000,},
+			me_limit_day_num = 5,
+		},
+		[370]=
+		{
+			no = 370,
+			award_cfg_id = 57,
+			award_id = 5,
+			asset_type = {"shop_gold_sum",},
+			asset_count = {2000,},
+			use_num = {12000,},
+			me_limit_day_num = 1,
+		},
+		[369]=
+		{
+			no = 369,
+			award_cfg_id = 57,
+			award_id = 6,
+			asset_type = {"jing_bi",},
+			asset_count = {4000000,},
+			use_num = {24000,},
+		},
+		[368]=
+		{
+			no = 368,
+			award_cfg_id = 57,
+			award_id = 7,
+			asset_type = {"shop_gold_sum",},
+			asset_count = {5000,},
+			use_num = {30000,},
+			me_limit_day_num = 1,
+		},
+		[367]=
+		{
+			no = 367,
+			award_cfg_id = 57,
+			award_id = 8,
+			permission_key = "actp_prop_exchange_v3",
+			asset_type = {"jing_bi",},
+			asset_count = {7000000,},
+			use_num = {42000,},
+		},
+		[366]=
+		{
+			no = 366,
+			award_cfg_id = 57,
+			award_id = 9,
+			permission_key = "actp_prop_exchange_v4",
+			asset_type = {"shop_gold_sum",},
+			asset_count = {10000,},
+			use_num = {60000,},
+			me_limit_day_num = 1,
+		},
+		[365]=
+		{
+			no = 365,
 			award_cfg_id = 57,
 			award_id = 10,
+			permission_key = "actp_prop_exchange_v5",
 			asset_type = {"shop_gold_sum",},
-			asset_count = {200,},
-			use_num = {1200,},
+			asset_count = {50000,},
+			use_num = {300000,},
 			me_limit_day_num = 1,
 		},
 		[375]=

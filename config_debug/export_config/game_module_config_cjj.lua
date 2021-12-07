@@ -3086,7 +3086,7 @@ return {
 		[315]=
 		{
 			id = 315,
-			key = "sys_act_base_style/sys_act_base_weekly_043",
+			key = "sys_act_base_style/sys_act_base_weekly_044",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,

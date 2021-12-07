@@ -39,7 +39,7 @@ return {
 			unlock_permission = "xshb_042_deblocking_v0",
 			tag = "新人",
 			goto_ui = {"shop_bay","jing_bi",},
-			is_on = 1,
+			is_on = 0,
 		},
 		[4]=
 		{
@@ -67,7 +67,7 @@ return {
 			unlock_permission = "xshb_042_deblocking_v2",
 			tag = "VIP2",
 			goto_ui = {"game_MiniGame",},
-			is_on = 1,
+			is_on = 0,
 		},
 		[6]=
 		{
@@ -81,7 +81,7 @@ return {
 			unlock_permission = "xshb_042_deblocking_v3",
 			tag = "VIP3",
 			goto_ui = {"game_MiniGame",},
-			is_on = 1,
+			is_on = 0,
 		},
 		[7]=
 		{
@@ -95,7 +95,7 @@ return {
 			unlock_permission = "xshb_042_deblocking_v4",
 			tag = "VIP4",
 			goto_ui = {"game_MiniGame",},
-			is_on = 1,
+			is_on = 0,
 		},
 	},
 }

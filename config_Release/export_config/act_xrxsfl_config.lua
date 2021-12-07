@@ -75,35 +75,35 @@ return {
 		{
 			ID = 8,
 			task_id = 1000359,
-			task_desc = "累计消除10个苹果",
+			task_desc = "累计消除10个独眼怪",
 			award_desc = "抽奖次数+1",
 		},
 		[9]=
 		{
 			ID = 9,
 			task_id = 1000360,
-			task_desc = "累计消除20个西瓜",
+			task_desc = "累计消除20个绿皮怪",
 			award_desc = "抽奖次数+1",
 		},
 		[10]=
 		{
 			ID = 10,
 			task_id = 1000361,
-			task_desc = "累计消除50个西瓜",
+			task_desc = "累计消除50个绿皮怪",
 			award_desc = "抽奖次数+1",
 		},
 		[11]=
 		{
 			ID = 11,
 			task_id = 1000362,
-			task_desc = "累计消除30个铃铛",
+			task_desc = "累计消除30个小黄怪",
 			award_desc = "抽奖次数+1",
 		},
 		[12]=
 		{
 			ID = 12,
 			task_id = 1000363,
-			task_desc = "累计消除80个铃铛",
+			task_desc = "累计消除80个小黄怪",
 			award_desc = "抽奖次数+1",
 		},
 	},

@@ -1017,8 +1017,8 @@ return {
 			condi_key = "cpl_notcjj",
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1638230400,
-			endTime = 1638806399,
+			srartTime = 1638835200,
+			endTime = 1639411199,
 		},
 		[90]=
 		{
@@ -1099,8 +1099,8 @@ return {
 			condi_key = "cpl_cjj",
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1638230400,
-			endTime = 1638806399,
+			srartTime = 1638835200,
+			endTime = 1639411199,
 		},
 		[97]=
 		{

@@ -137,7 +137,7 @@ return {
 			id = 2,
 			item = "shop_gold_sum",
 			item_num = 4750,
-			weight = 50000,
+			weight = 5000,
 		},
 		[14]=
 		{
@@ -145,7 +145,7 @@ return {
 			id = 2,
 			item = "jing_bi",
 			item_num = 5000000,
-			weight = 99940,
+			weight = 84940,
 		},
 		[15]=
 		{
@@ -161,7 +161,7 @@ return {
 			id = 2,
 			item = "prop_xyzp_flqbx",
 			item_num = 1,
-			weight = 700000,
+			weight = 900000,
 		},
 		[17]=
 		{
@@ -169,7 +169,7 @@ return {
 			id = 2,
 			item = "shop_gold_sum",
 			item_num = 4250,
-			weight = 150000,
+			weight = 10000,
 		},
 		[18]=
 		{
