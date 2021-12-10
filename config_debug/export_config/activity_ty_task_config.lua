@@ -1450,6 +1450,7 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","prop_guess_apple_bet_1",},
 			count = {50000,20000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","水滴",},
 			Tips = {"","","可以在小游戏苹果大战中使用",},
 		},
 		[97]=
@@ -1463,6 +1464,7 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_5_coupon",},
 			count = {100000,100000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","5元优惠券",},
 		},
 		[98]=
 		{
@@ -1475,6 +1477,7 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_5_coupon",},
 			count = {200000,200000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","5元优惠券",},
 		},
 		[99]=
 		{
@@ -1487,6 +1490,7 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_10_coupon",},
 			count = {300000,300000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","10元优惠券",},
 		},
 		[100]=
 		{
@@ -1499,6 +1503,7 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_10_coupon",},
 			count = {500000,500000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","10元优惠券",},
 		},
 		[101]=
 		{
@@ -1511,6 +1516,7 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_10_coupon",},
 			count = {800000,800000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","10元优惠券",},
 		},
 		[102]=
 		{
@@ -1523,6 +1529,7 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_20_coupon",},
 			count = {1200000,1000000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","20元优惠券",},
 		},
 		[103]=
 		{
@@ -1535,6 +1542,7 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_20_coupon",},
 			count = {1500000,1500000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","20元优惠券",},
 		},
 		[104]=
 		{
@@ -1547,6 +1555,7 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_50_coupon",},
 			count = {2000000,2000000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","50元优惠券",},
 		},
 		[105]=
 		{
@@ -3399,6 +3408,7 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_50_coupon",},
 			count = {5000000,5000000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","50元优惠券",},
 		},
 	},
 }
