@@ -1420,7 +1420,7 @@ return {
 			line = 85,
 			act_type = "weekly",
 			ID = 85,
-			title = "赢金送豪礼",
+			title = "赢金狂欢",
 			order = 3,
 			is_on_off = 1,
 			beginTime = 1640044800,
