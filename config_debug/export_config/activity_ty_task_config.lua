@@ -1450,7 +1450,6 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","prop_guess_apple_bet_1",},
 			count = {50000,20000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
-			desc = {"","","水滴",},
 			Tips = {"","","可以在小游戏苹果大战中使用",},
 		},
 		[97]=
@@ -1464,7 +1463,6 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_5_coupon",},
 			count = {100000,100000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
-			desc = {"","","5元优惠券",},
 		},
 		[98]=
 		{
@@ -1477,7 +1475,6 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_5_coupon",},
 			count = {200000,200000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
-			desc = {"","","5元优惠券",},
 		},
 		[99]=
 		{
@@ -1490,7 +1487,6 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_10_coupon",},
 			count = {300000,300000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
-			desc = {"","","10元优惠券",},
 		},
 		[100]=
 		{
@@ -1503,7 +1499,6 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_10_coupon",},
 			count = {500000,500000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
-			desc = {"","","10元优惠券",},
 		},
 		[101]=
 		{
@@ -1516,7 +1511,6 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_10_coupon",},
 			count = {800000,800000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
-			desc = {"","","10元优惠券",},
 		},
 		[102]=
 		{
@@ -1529,7 +1523,6 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_20_coupon",},
 			count = {1200000,1000000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
-			desc = {"","","20元优惠券",},
 		},
 		[103]=
 		{
@@ -1542,7 +1535,6 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_20_coupon",},
 			count = {1500000,1500000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
-			desc = {"","","20元优惠券",},
 		},
 		[104]=
 		{
@@ -1555,7 +1547,6 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_50_coupon",},
 			count = {2000000,2000000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
-			desc = {"","","50元优惠券",},
 		},
 		[105]=
 		{
@@ -2260,9 +2251,10 @@ return {
 			total = 3000000,
 			task_name = "任意消消乐游戏单笔赢金到达300万",
 			level = 1,
-			item = {"jing_bi",},
-			count = {60000,},
+			item = {"jing_bi","prop_guess_apple_bet_1",},
+			count = {50000,2,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可以在小游戏苹果大战中使用",},
 		},
 		[169]=
 		{
@@ -2271,8 +2263,8 @@ return {
 			total = 5000000,
 			task_name = "任意消消乐游戏单笔赢金到达500万",
 			level = 2,
-			item = {"jing_bi",},
-			count = {80000,},
+			item = {"jing_bi","prop_tiny_game_coin",},
+			count = {60000,20000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[170]=
@@ -2282,8 +2274,8 @@ return {
 			total = 10000000,
 			task_name = "任意消消乐游戏单笔赢金到达1000万",
 			level = 3,
-			item = {"shop_gold_sum",},
-			count = {100,},
+			item = {"jing_bi","shop_gold_sum",},
+			count = {80000,20,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[171]=
@@ -2293,8 +2285,8 @@ return {
 			total = 50000000,
 			task_name = "任意消消乐游戏单笔赢金到达5000万",
 			level = 4,
-			item = {"jing_bi",},
-			count = {500000,},
+			item = {"jing_bi","shop_gold_sum",},
+			count = {300000,200,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[172]=
@@ -2304,8 +2296,8 @@ return {
 			total = 100000000,
 			task_name = "任意消消乐游戏单笔赢金到达1亿",
 			level = 5,
-			item = {"shop_gold_sum",},
-			count = {1000,},
+			item = {"jing_bi","shop_gold_sum",},
+			count = {500000,500,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[173]=
@@ -2315,8 +2307,8 @@ return {
 			total = 200000000,
 			task_name = "任意消消乐游戏单笔赢金到达2亿",
 			level = 6,
-			item = {"jing_bi",},
-			count = {3000000,},
+			item = {"jing_bi","shop_gold_sum",},
+			count = {1000000,2000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[174]=
@@ -2326,8 +2318,8 @@ return {
 			total = 500000000,
 			task_name = "任意消消乐游戏单笔赢金到达5亿",
 			level = 7,
-			item = {"jing_bi",},
-			count = {5000000,},
+			item = {"jing_bi","shop_gold_sum",},
+			count = {2000000,3000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[175]=
@@ -2337,8 +2329,8 @@ return {
 			total = 800000000,
 			task_name = "任意消消乐游戏单笔赢金到达8亿",
 			level = 8,
-			item = {"shop_gold_sum",},
-			count = {10000,},
+			item = {"jing_bi","shop_gold_sum",},
+			count = {5000000,5000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[176]=
@@ -2348,8 +2340,8 @@ return {
 			total = 1000000000,
 			task_name = "任意消消乐游戏单笔赢金到达10亿",
 			level = 9,
-			item = {"shop_gold_sum",},
-			count = {20000,},
+			item = {"jing_bi","shop_gold_sum",},
+			count = {10000000,10000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[177]=
@@ -3408,7 +3400,6 @@ return {
 			item = {"jing_bi","prop_tiny_game_coin","obj_50_coupon",},
 			count = {5000000,5000000,1,},
 			gotoUI = {"shop_bay","jing_bi",},
-			desc = {"","","50元优惠券",},
 		},
 	},
 }

@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_044",
+			key = "sys_act_base_style/sys_act_base_weekly_045",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3274,7 +3274,7 @@ return {
 		[334]=
 		{
 			id = 334,
-			key = "act_ty_gifts_style/act_013_xqlb",
+			key = "act_ty_gifts_style/act_014_khlb",
 			desc = "爱心礼包",
 			is_on_off = 1,
 			enable = 1,
