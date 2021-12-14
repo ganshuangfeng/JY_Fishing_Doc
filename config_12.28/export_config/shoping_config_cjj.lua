@@ -275,6 +275,7 @@ return {
 			ui_icon_bg = "pay_bg_light2",
 			wx_pay = 1,
 			zfb_pay = 1,
+			condi_key = "shopping_center_can_show_v6",
 		},
 		[9]=
 		{
@@ -305,6 +306,7 @@ return {
 			ui_icon_bg = "pay_bg_light2",
 			wx_pay = 1,
 			zfb_pay = 1,
+			condi_key = "shopping_center_can_show_v6",
 		},
 		[10]=
 		{
@@ -19048,7 +19050,7 @@ return {
 			buy_asset_type = {"jing_bi",},
 			buy_asset_count = {8800000,},
 			buy_limt = {9999999999,1,0},
-			count = 99999999,
+			count = 200,
 			start_time = 1640649600,
 			end_time = 1641225599,
 			condition = 96,
@@ -20047,6 +20049,7 @@ return {
 			ui_icon_bg = "pay_bg_light1",
 			wx_pay = 1,
 			zfb_pay = 1,
+			condi_key = "shopping_center_can_show_v6",
 		},
 		[13]=
 		{
@@ -20072,6 +20075,7 @@ return {
 			ui_icon_bg = "pay_bg_light1",
 			wx_pay = 1,
 			zfb_pay = 1,
+			condi_key = "shopping_center_can_show_v6",
 		},
 		[14]=
 		{

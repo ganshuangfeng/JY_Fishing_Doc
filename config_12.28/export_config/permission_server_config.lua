@@ -2376,6 +2376,12 @@ return {
 			name = "疯狂返利（老玩家显示）",
 			condi = 522,
 		},
+		shopping_center_can_show_v6=
+		{
+			key = "shopping_center_can_show_v6",
+			name = "商场礼包显示V6以上玩家可见",
+			condi = 546,
+		},
 	},
 	act_permission=
 	{
@@ -20315,6 +20321,16 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是CPS渠道",
+		},
+		[1560]=
+		{
+			no = 1560,
+			id = 546,
+			var = "vip_level",
+			value = 6,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP6及以上玩家",
 		},
 	},
 	share_condition=
