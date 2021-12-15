@@ -5,8 +5,8 @@ return {
 		{
 			line = 1,
 			ID = 1,
-			pay_item_key = {"prop_fish_drop_act_0","prop_grade",},
-			PerNeed = {300,10},
+			pay_item_key = {"prop_fish_drop_act_0","prop_fish_drop_act_0",},
+			PerNeed = "300，300",
 			s_time = 1640649600,
 			e_time = 1641225599,
 			data_type = "cyqf_qfzl_lottery",

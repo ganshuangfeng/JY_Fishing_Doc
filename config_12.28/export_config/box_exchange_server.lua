@@ -12219,27 +12219,6 @@ return {
 			prop_type = "prop_grade",
 			base_score = 10,
 		},
-		[107]=
-		{
-			box_id = 107,
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 10,
-		},
-		[108]=
-		{
-			box_id = 108,
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 10,
-		},
-		[109]=
-		{
-			box_id = 109,
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 10,
-		},
 	},
 	all_exchange_data=
 	{
