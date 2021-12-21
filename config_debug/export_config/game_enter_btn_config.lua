@@ -1310,9 +1310,8 @@ return {
 		[132]=
 		{
 			id = 132,
-			parm = {"act_ty_gifts","gift_khlb_1221","enter",},
+			parm = {"act_ty_gifts","gift_khlb","enter",},
 			is_on_off = 1,
-			condi_key = "cpl_cjj",
 		},
 		[133]=
 		{
