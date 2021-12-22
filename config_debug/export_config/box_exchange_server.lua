@@ -1130,7 +1130,7 @@ return {
 		[107]=
 		{
 			id = 107,
-			name = "祈福赠礼",
+			name = "元旦抽大奖",
 			start_time = 1640649600,
 			end_time = 1641225599,
 			use_asset_id = 94,
@@ -1140,7 +1140,7 @@ return {
 		[108]=
 		{
 			id = 108,
-			name = "祈福赠礼",
+			name = "元旦抽大奖",
 			start_time = 1640649600,
 			end_time = 1641225599,
 			use_asset_id = 94,
@@ -1150,7 +1150,7 @@ return {
 		[109]=
 		{
 			id = 109,
-			name = "祈福赠礼",
+			name = "元旦抽大奖",
 			start_time = 1640649600,
 			end_time = 1641225599,
 			use_asset_id = 94,
