@@ -19,7 +19,7 @@ return {
 			libao_id_1 = 10705,
 			libao_id_2 = 10706,
 			real_cfg_id = 2,
-			false_cfg_id = 0,
+			false_cfg_id = 1,
 		},
 	},
 	real_cfg=
