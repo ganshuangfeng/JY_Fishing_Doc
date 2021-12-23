@@ -17289,7 +17289,7 @@ return {
 		{
 			id = 1000784,
 			enable = 1,
-			name = "祈福赠礼",
+			name = "元旦抽大奖",
 			own_type = "p_drop_act_notcps",
 			task_enum = "common",
 			process_id = 22142,
@@ -17304,7 +17304,7 @@ return {
 		{
 			id = 1000785,
 			enable = 1,
-			name = "祈福赠礼",
+			name = "元旦抽大奖",
 			own_type = "p_drop_act_notcps",
 			task_enum = "common",
 			process_id = 22143,
@@ -17319,7 +17319,7 @@ return {
 		{
 			id = 1000786,
 			enable = 1,
-			name = "祈福赠礼",
+			name = "元旦抽大奖",
 			own_type = "p_drop_act_notcps",
 			task_enum = "common",
 			process_id = 22144,
