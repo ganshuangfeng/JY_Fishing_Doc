@@ -15507,8 +15507,8 @@ return {
 			process_id = 22023,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1638201600,
-			end_valid_time = 1638806399,
+			start_valid_time = 1641225600,
+			end_valid_time = 1641830399,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -15702,8 +15702,8 @@ return {
 			process_id = 22036,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1639411200,
-			end_valid_time = 1640015999,
+			start_valid_time = 1641225600,
+			end_valid_time = 1641830399,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -15717,8 +15717,8 @@ return {
 			process_id = 22037,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1639411200,
-			end_valid_time = 1640015999,
+			start_valid_time = 1641225600,
+			end_valid_time = 1641830399,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -15732,8 +15732,8 @@ return {
 			process_id = 22038,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1639411200,
-			end_valid_time = 1640015999,
+			start_valid_time = 1641225600,
+			end_valid_time = 1641830399,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -16590,8 +16590,8 @@ return {
 			process_id = 22095,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1640620800,
-			end_valid_time = 1641225599,
+			start_valid_time = 1641225600,
+			end_valid_time = 1641830399,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -17160,8 +17160,8 @@ return {
 			process_id = 22133,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1640016000,
-			end_valid_time = 1640620799,
+			start_valid_time = 1641225600,
+			end_valid_time = 1641830399,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -28474,8 +28474,8 @@ return {
 			id = 1147,
 			process_id = 22095,
 			source_id = 665,
-			process = {1000,9000,10000,10000,20000,30000,40000,30000,50000,300000},
-			awards = {1637,1638,1639,1640,1641,1642,1643,1644,1645,1646},
+			process = {1000,3800,15000,30200,50000,100000,100000,200000},
+			awards = {1665,1666,1667,1668,1669,1670,1671,1672},
 			get_award_type = "nor",
 		},
 		[1148]=
@@ -28817,7 +28817,7 @@ return {
 			process_id = 22133,
 			source_id = 703,
 			process = {3000000,2000000,5000000,40000000,50000000,100000000,300000000,300000000,200000000},
-			awards = {1647,1648,1649,1650,1651,1652,1653,1654,1655},
+			awards = {1656,1657,1658,1659,1660,1661,1662,1663,1664},
 			get_award_type = "nor",
 		},
 		[1186]=
@@ -63818,6 +63818,142 @@ return {
 			award_id = 1655,
 			asset_type = "shop_gold_sum",
 			asset_count = 10000,
+			get_weight = 1,
+		},
+		[2616]=
+		{
+			id = 2616,
+			award_id = 1656,
+			asset_type = "jing_bi",
+			asset_count = 60000,
+			get_weight = 1,
+		},
+		[2617]=
+		{
+			id = 2617,
+			award_id = 1657,
+			asset_type = "jing_bi",
+			asset_count = 80000,
+			get_weight = 1,
+		},
+		[2618]=
+		{
+			id = 2618,
+			award_id = 1658,
+			asset_type = "jing_bi",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[2619]=
+		{
+			id = 2619,
+			award_id = 1659,
+			asset_type = "jing_bi",
+			asset_count = 500000,
+			get_weight = 1,
+		},
+		[2620]=
+		{
+			id = 2620,
+			award_id = 1660,
+			asset_type = "jing_bi",
+			asset_count = 1000000,
+			get_weight = 1,
+		},
+		[2621]=
+		{
+			id = 2621,
+			award_id = 1661,
+			asset_type = "jing_bi",
+			asset_count = 3000000,
+			get_weight = 1,
+		},
+		[2622]=
+		{
+			id = 2622,
+			award_id = 1662,
+			asset_type = "jing_bi",
+			asset_count = 5000000,
+			get_weight = 1,
+		},
+		[2623]=
+		{
+			id = 2623,
+			award_id = 1663,
+			asset_type = "shop_gold_sum",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[2624]=
+		{
+			id = 2624,
+			award_id = 1664,
+			asset_type = "shop_gold_sum",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[2625]=
+		{
+			id = 2625,
+			award_id = 1665,
+			asset_type = "jing_bi",
+			asset_count = 5000,
+			get_weight = 1,
+		},
+		[2626]=
+		{
+			id = 2626,
+			award_id = 1666,
+			asset_type = "shop_gold_sum",
+			asset_count = 100,
+			get_weight = 1,
+		},
+		[2627]=
+		{
+			id = 2627,
+			award_id = 1667,
+			asset_type = "jing_bi",
+			asset_count = 500000,
+			get_weight = 1,
+		},
+		[2628]=
+		{
+			id = 2628,
+			award_id = 1668,
+			asset_type = "shop_gold_sum",
+			asset_count = 800,
+			get_weight = 1,
+		},
+		[2629]=
+		{
+			id = 2629,
+			award_id = 1669,
+			asset_type = "jing_bi",
+			asset_count = 1500000,
+			get_weight = 1,
+		},
+		[2630]=
+		{
+			id = 2630,
+			award_id = 1670,
+			asset_type = "shop_gold_sum",
+			asset_count = 3000,
+			get_weight = 1,
+		},
+		[2631]=
+		{
+			id = 2631,
+			award_id = 1671,
+			asset_type = "jing_bi",
+			asset_count = 4000000,
+			get_weight = 1,
+		},
+		[2632]=
+		{
+			id = 2632,
+			award_id = 1672,
+			asset_type = "shop_gold_sum",
+			asset_count = 6000,
 			get_weight = 1,
 		},
 	},

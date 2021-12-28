@@ -192,7 +192,7 @@ return {
 		{
 			id = 1,
 			area = "right_top",
-			group_list = "3;116#2#144#8#122#61#140#137#9#117#134#141#138#142#143#146#",
+			group_list = "3;116#2#144#8#122#61#140#9#117#134#141#137;138#142#143#146#",
 		},
 		[2]=
 		{
@@ -336,7 +336,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "111#112#53#79#36;113;89;149;#",
+			group_list = "111#112#53#79#36;113;89;131;149;#",
 		},
 		[2]=
 		{
@@ -497,7 +497,7 @@ return {
 		{
 			id = 1,
 			area = "all",
-			group_list = "40#74#110#130;131#144#147#152#",
+			group_list = "40#74#110#130#144#147#152#",
 		},
 	},
 	hqjb_config=
@@ -1217,7 +1217,7 @@ return {
 		{
 			id = 117,
 			parm = {"act_040_ydfl",},
-			is_on_off = 1,
+			is_on_off = 0,
 		},
 		[118]=
 		{
@@ -1310,9 +1310,8 @@ return {
 		[132]=
 		{
 			id = 132,
-			parm = {"act_ty_gifts","gift_khlb_1221","enter",},
+			parm = {"act_ty_gifts","gift_khlb","enter",},
 			is_on_off = 1,
-			condi_key = "cpl_cjj",
 		},
 		[133]=
 		{
@@ -1365,7 +1364,7 @@ return {
 		{
 			id = 140,
 			parm = {"sys_txz",},
-			is_on_off = 1,
+			is_on_off = 0,
 			condi_key = "cpl_notcjj",
 		},
 		[141]=

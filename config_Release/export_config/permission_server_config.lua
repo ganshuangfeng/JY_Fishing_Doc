@@ -2376,6 +2376,12 @@ return {
 			name = "疯狂返利（老玩家显示）",
 			condi = 522,
 		},
+		shopping_center_can_show_v6=
+		{
+			key = "shopping_center_can_show_v6",
+			name = "商场礼包显示V6以上玩家可见",
+			condi = 546,
+		},
 	},
 	act_permission=
 	{
@@ -7711,6 +7717,17 @@ return {
 			is_dynamic_cancel = 1,
 			refresh_type = "now",
 			start_deal_time = 1637020800,
+		},
+		[445]=
+		{
+			id = 445,
+			enable = 1,
+			key = "actp_buy_gift_bag_class_xnfl_1228_canshop",
+			name = "新年福利礼包购买权限（非CPS渠道）",
+			condi = 545,
+			is_dynamic_codi = 1,
+			is_dynamic_cancel = 1,
+			refresh_type = "now",
 		},
 	},
 	condi=
@@ -20294,6 +20311,26 @@ return {
 			judge = 5,
 			group = 1,
 			error_desc = "不是冲金鸡玩家",
+		},
+		[1259]=
+		{
+			no = 1259,
+			id = 545,
+			var = "share_condition",
+			value = "3dby_cps",
+			judge = 5,
+			group = 1,
+			error_desc = "不是CPS渠道",
+		},
+		[1560]=
+		{
+			no = 1560,
+			id = 546,
+			var = "vip_level",
+			value = 6,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP6及以上玩家",
 		},
 	},
 	share_condition=

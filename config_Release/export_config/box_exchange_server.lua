@@ -1130,9 +1130,9 @@ return {
 		[107]=
 		{
 			id = 107,
-			name = "祈福赠礼",
-			start_time = 1633996800,
-			end_time = 1634572799,
+			name = "元旦抽大奖",
+			start_time = 1640649600,
+			end_time = 1641225599,
 			use_asset_id = 94,
 			award_id = 100,
 			enable = 1,
@@ -1140,9 +1140,9 @@ return {
 		[108]=
 		{
 			id = 108,
-			name = "祈福赠礼",
-			start_time = 1633996800,
-			end_time = 1634572799,
+			name = "元旦抽大奖",
+			start_time = 1640649600,
+			end_time = 1641225599,
 			use_asset_id = 94,
 			award_id = 100,
 			enable = 1,
@@ -1150,9 +1150,9 @@ return {
 		[109]=
 		{
 			id = 109,
-			name = "祈福赠礼",
-			start_time = 1633996800,
-			end_time = 1634572799,
+			name = "元旦抽大奖",
+			start_time = 1640649600,
+			end_time = 1641225599,
 			use_asset_id = 94,
 			award_id = 100,
 			enable = 1,
@@ -12216,27 +12216,6 @@ return {
 		{
 			box_id = 103,
 			rank_type = "yqhp_022_nqdr_rank",
-			prop_type = "prop_grade",
-			base_score = 10,
-		},
-		[107]=
-		{
-			box_id = 107,
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 10,
-		},
-		[108]=
-		{
-			box_id = 108,
-			rank_type = "lxjkh_024_jfphb_rank",
-			prop_type = "prop_grade",
-			base_score = 10,
-		},
-		[109]=
-		{
-			box_id = 109,
-			rank_type = "lxjkh_024_jfphb_rank",
 			prop_type = "prop_grade",
 			base_score = 10,
 		},

@@ -58,7 +58,7 @@ return {
 		{
 			Index = 5,
 			task_id = 21326,
-			text = "在街机捕鱼中累计消耗1000万",
+			text = "在街机打鱼中累计消耗1000万",
 			total = 10000000,
 			award = 1,
 			game_type = "by",
@@ -121,7 +121,7 @@ return {
 		{
 			Index = 12,
 			task_id = 21333,
-			text = "街机捕鱼使用10万以上炮倍击杀一条黄金龙",
+			text = "街机打鱼使用10万以上炮倍击杀一条黄金龙",
 			total = 1,
 			award = 4,
 			game_type = "by",
