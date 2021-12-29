@@ -20,8 +20,8 @@ return {
 			condiy_key = "actp_own_task_p_drop_act_nor",
 			type_info = 100,
 			is_have_point = 1,
-			act_gift_name = "加成礼包",
-			act_gift_key = "gift_khlb",
+			act_gift_name = "话费礼包",
+			act_gift_key = "gift_hflb",
 		},
 		[2]=
 		{
@@ -42,8 +42,8 @@ return {
 			condiy_key = "cpl_cjj",
 			type_info = 100,
 			is_have_point = 1,
-			act_gift_name = "加成礼包",
-			act_gift_key = "gift_khlb",
+			act_gift_name = "话费礼包",
+			act_gift_key = "gift_hflb",
 		},
 	},
 	award_config=

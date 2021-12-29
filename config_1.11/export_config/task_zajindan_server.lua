@@ -63976,7 +63976,7 @@ return {
 		{
 			id = 2635,
 			award_id = 1675,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "jing_bi",
 			asset_count = 300,
 			get_weight = 1,
 		},
@@ -63984,7 +63984,7 @@ return {
 		{
 			id = 2636,
 			award_id = 1676,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "jing_bi",
 			asset_count = 500,
 			get_weight = 1,
 		},
@@ -63992,7 +63992,7 @@ return {
 		{
 			id = 2637,
 			award_id = 1677,
-			asset_type = "prop_web_chip_huafei",
+			asset_type = "jing_bi",
 			asset_count = 1000,
 			get_weight = 1,
 		},
