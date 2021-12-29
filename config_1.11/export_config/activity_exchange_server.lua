@@ -663,7 +663,7 @@ return {
 		{
 			id = 57,
 			name = "欢乐兑奖",
-			start_time = 1641254400,
+			start_time = 1641859200,
 			end_time = 1643039999,
 			use_goods = {"prop_fish_drop_act_0",},
 			goods_type = 1,
