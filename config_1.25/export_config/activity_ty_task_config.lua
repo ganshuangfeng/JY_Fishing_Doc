@@ -2277,9 +2277,10 @@ return {
 			total = 3000000,
 			task_name = "任意消消乐游戏单笔赢金到达300万",
 			level = 1,
-			item = {"jing_bi",},
-			count = {60000,},
+			item = {"jing_bi","prop_fish_drop_act_0",},
+			count = {50000,66,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可在元宝兑奖中兑换奖励",},
 		},
 		[169]=
 		{
@@ -2288,9 +2289,10 @@ return {
 			total = 5000000,
 			task_name = "任意消消乐游戏单笔赢金到达500万",
 			level = 2,
-			item = {"jing_bi",},
-			count = {80000,},
+			item = {"jing_bi","prop_fish_drop_act_0",},
+			count = {60000,128,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可在元宝兑奖中兑换奖励",},
 		},
 		[170]=
 		{
@@ -2299,9 +2301,10 @@ return {
 			total = 10000000,
 			task_name = "任意消消乐游戏单笔赢金到达1000万",
 			level = 3,
-			item = {"jing_bi",},
-			count = {100000,},
+			item = {"jing_bi","prop_fish_drop_act_0",},
+			count = {80000,128,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可在元宝兑奖中兑换奖励",},
 		},
 		[171]=
 		{
@@ -2310,9 +2313,10 @@ return {
 			total = 50000000,
 			task_name = "任意消消乐游戏单笔赢金到达5000万",
 			level = 4,
-			item = {"jing_bi",},
-			count = {500000,},
+			item = {"jing_bi","prop_fish_drop_act_0",},
+			count = {480000,128,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可在元宝兑奖中兑换奖励",},
 		},
 		[172]=
 		{
@@ -2321,9 +2325,10 @@ return {
 			total = 100000000,
 			task_name = "任意消消乐游戏单笔赢金到达1亿",
 			level = 5,
-			item = {"jing_bi",},
-			count = {1000000,},
+			item = {"jing_bi","prop_fish_drop_act_0",},
+			count = {980000,128,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可在元宝兑奖中兑换奖励",},
 		},
 		[173]=
 		{
@@ -2332,9 +2337,10 @@ return {
 			total = 200000000,
 			task_name = "任意消消乐游戏单笔赢金到达2亿",
 			level = 6,
-			item = {"jing_bi",},
-			count = {3000000,},
+			item = {"jing_bi","prop_fish_drop_act_0",},
+			count = {2980000,128,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可在元宝兑奖中兑换奖励",},
 		},
 		[174]=
 		{
@@ -2343,9 +2349,10 @@ return {
 			total = 500000000,
 			task_name = "任意消消乐游戏单笔赢金到达5亿",
 			level = 7,
-			item = {"jing_bi",},
-			count = {5000000,},
+			item = {"jing_bi","prop_fish_drop_act_0",},
+			count = {4980000,128,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可在元宝兑奖中兑换奖励",},
 		},
 		[175]=
 		{
@@ -2354,8 +2361,8 @@ return {
 			total = 800000000,
 			task_name = "任意消消乐游戏单笔赢金到达8亿",
 			level = 8,
-			item = {"shop_gold_sum",},
-			count = {10000,},
+			item = {"shop_gold_sum","shop_gold_sum",},
+			count = {10000,10000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[176]=
@@ -2365,8 +2372,8 @@ return {
 			total = 1000000000,
 			task_name = "任意消消乐游戏单笔赢金到达10亿",
 			level = 9,
-			item = {"shop_gold_sum",},
-			count = {20000,},
+			item = {"shop_gold_sum","shop_gold_sum",},
+			count = {20000,20000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[177]=

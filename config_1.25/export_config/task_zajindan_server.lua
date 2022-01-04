@@ -17160,8 +17160,8 @@ return {
 			process_id = 22133,
 			is_reset = 1,
 			reset_delay = 1,
-			start_valid_time = 1641225600,
-			end_valid_time = 1641830399,
+			start_valid_time = 1643040000,
+			end_valid_time = 1645459199,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -17349,7 +17349,7 @@ return {
 		{
 			id = 1000788,
 			enable = 1,
-			name = "免费话费",
+			name = "新年福利",
 			own_type = "p_drop_act_nor",
 			task_enum = "common",
 			process_id = 22146,
@@ -17364,7 +17364,7 @@ return {
 		{
 			id = 1000789,
 			enable = 1,
-			name = "免费话费",
+			name = "新年福利",
 			own_type = "p_drop_act_nor",
 			task_enum = "common",
 			process_id = 22147,
@@ -17379,7 +17379,7 @@ return {
 		{
 			id = 1000790,
 			enable = 1,
-			name = "免费话费",
+			name = "新年福利",
 			own_type = "p_drop_act_nor",
 			task_enum = "common",
 			process_id = 22148,
@@ -17394,7 +17394,7 @@ return {
 		{
 			id = 1000791,
 			enable = 1,
-			name = "免费话费",
+			name = "新年福利",
 			own_type = "p_drop_act_nor",
 			task_enum = "common",
 			process_id = 22149,
@@ -17409,7 +17409,7 @@ return {
 		{
 			id = 1000792,
 			enable = 1,
-			name = "免费话费",
+			name = "新年福利",
 			own_type = "p_drop_act_nor",
 			task_enum = "common",
 			process_id = 22150,
@@ -17424,7 +17424,7 @@ return {
 		{
 			id = 1000793,
 			enable = 1,
-			name = "免费话费",
+			name = "新年福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 22151,
@@ -17439,7 +17439,7 @@ return {
 		{
 			id = 1000794,
 			enable = 1,
-			name = "免费话费",
+			name = "新年福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 22152,
@@ -17454,7 +17454,7 @@ return {
 		{
 			id = 1000795,
 			enable = 1,
-			name = "免费话费",
+			name = "新年福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 22153,
@@ -17469,7 +17469,7 @@ return {
 		{
 			id = 1000796,
 			enable = 1,
-			name = "免费话费",
+			name = "新年福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 22154,
@@ -17484,7 +17484,7 @@ return {
 		{
 			id = 1000797,
 			enable = 1,
-			name = "免费话费",
+			name = "新年福利",
 			own_type = "p_hljnh_046_hlfl_cjj",
 			task_enum = "common",
 			process_id = 22155,
@@ -28832,7 +28832,7 @@ return {
 			process_id = 22133,
 			source_id = 703,
 			process = {3000000,2000000,5000000,40000000,50000000,100000000,300000000,300000000,200000000},
-			awards = {1656,1657,1658,1659,1660,1661,1662,1663,1664},
+			awards = {1689,1690,1691,1692,1693,1694,1695,1696,1967},
 			get_award_type = "nor",
 		},
 		[1186]=
@@ -64258,6 +64258,150 @@ return {
 			award_id = 1688,
 			asset_type = "obj_50_coupon_604800",
 			asset_count = 1,
+			get_weight = 1,
+		},
+		[2668]=
+		{
+			id = 2668,
+			award_id = 1689,
+			asset_type = "jing_bi",
+			asset_count = 50000,
+			get_weight = 1,
+		},
+		[2669]=
+		{
+			id = 2669,
+			award_id = 1689,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 66,
+			get_weight = 1,
+		},
+		[2670]=
+		{
+			id = 2670,
+			award_id = 1690,
+			asset_type = "jing_bi",
+			asset_count = 60000,
+			get_weight = 1,
+		},
+		[2671]=
+		{
+			id = 2671,
+			award_id = 1690,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 128,
+			get_weight = 1,
+		},
+		[2672]=
+		{
+			id = 2672,
+			award_id = 1691,
+			asset_type = "jing_bi",
+			asset_count = 80000,
+			get_weight = 1,
+		},
+		[2673]=
+		{
+			id = 2673,
+			award_id = 1691,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 128,
+			get_weight = 1,
+		},
+		[2674]=
+		{
+			id = 2674,
+			award_id = 1692,
+			asset_type = "jing_bi",
+			asset_count = 480000,
+			get_weight = 1,
+		},
+		[2675]=
+		{
+			id = 2675,
+			award_id = 1692,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 128,
+			get_weight = 1,
+		},
+		[2676]=
+		{
+			id = 2676,
+			award_id = 1693,
+			asset_type = "jing_bi",
+			asset_count = 980000,
+			get_weight = 1,
+		},
+		[2677]=
+		{
+			id = 2677,
+			award_id = 1693,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 128,
+			get_weight = 1,
+		},
+		[2678]=
+		{
+			id = 2678,
+			award_id = 1694,
+			asset_type = "jing_bi",
+			asset_count = 2980000,
+			get_weight = 1,
+		},
+		[2679]=
+		{
+			id = 2679,
+			award_id = 1694,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 128,
+			get_weight = 1,
+		},
+		[2680]=
+		{
+			id = 2680,
+			award_id = 1695,
+			asset_type = "jing_bi",
+			asset_count = 4980000,
+			get_weight = 1,
+		},
+		[2681]=
+		{
+			id = 2681,
+			award_id = 1695,
+			asset_type = "prop_fish_drop_act_0",
+			asset_count = 128,
+			get_weight = 1,
+		},
+		[2682]=
+		{
+			id = 2682,
+			award_id = 1696,
+			asset_type = "shop_gold_sum",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[2683]=
+		{
+			id = 2683,
+			award_id = 1696,
+			asset_type = "shop_gold_sum",
+			asset_count = 10000,
+			get_weight = 1,
+		},
+		[2684]=
+		{
+			id = 2684,
+			award_id = 1697,
+			asset_type = "shop_gold_sum",
+			asset_count = 20000,
+			get_weight = 1,
+		},
+		[2685]=
+		{
+			id = 2685,
+			award_id = 1697,
+			asset_type = "shop_gold_sum",
+			asset_count = 20000,
 			get_weight = 1,
 		},
 	},
