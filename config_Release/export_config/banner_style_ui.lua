@@ -1017,8 +1017,8 @@ return {
 			condi_key = "cpl_notcjj",
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1640649600,
-			endTime = 1641225599,
+			srartTime = 1641254400,
+			endTime = 1641830399,
 		},
 		[90]=
 		{
@@ -1046,13 +1046,13 @@ return {
 		{
 			id = 92,
 			bannerID = 92,
-			isOnOff = 1,
-			order = 160,
-			condi_key = "actp_buy_gift_bag_class_xnfl_1228_canshop",
+			isOnOff = 0,
+			order = 111,
+			condi_key = "actp_buy_gift_bag_class_mslb_cps_nobuy",
 			gotoUI = {"act_040_mslb","login","panel"},
 			model = "LoginUp",
-			srartTime = 1640649600,
-			endTime = 1641225599,
+			srartTime = 1619481600,
+			endTime = 1620662399,
 		},
 		[93]=
 		{
@@ -1099,8 +1099,8 @@ return {
 			condi_key = "cpl_cjj",
 			gotoUI = {"sys_act_base","weekly","panel"},
 			model = "LoginUp",
-			srartTime = 1640649600,
-			endTime = 1641225599,
+			srartTime = 1641254400,
+			endTime = 1641830399,
 		},
 		[97]=
 		{

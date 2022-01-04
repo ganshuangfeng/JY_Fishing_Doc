@@ -336,7 +336,7 @@ return {
 		{
 			id = 1,
 			area = "down",
-			group_list = "111#112#53#79#36;113;89;131;149;#",
+			group_list = "111#112#53#79#36;113;89;149;#",
 		},
 		[2]=
 		{
@@ -497,7 +497,7 @@ return {
 		{
 			id = 1,
 			area = "all",
-			group_list = "40#74#110#130#144#147#152#",
+			group_list = "40#74#110#130;131#144#147#152#",
 		},
 	},
 	hqjb_config=
@@ -1364,7 +1364,7 @@ return {
 		{
 			id = 140,
 			parm = {"sys_txz",},
-			is_on_off = 0,
+			is_on_off = 1,
 			condi_key = "cpl_notcjj",
 		},
 		[141]=
