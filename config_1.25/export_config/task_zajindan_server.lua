@@ -17765,6 +17765,21 @@ return {
 			time_limit = -1,
 			is_send_client = 1,
 		},
+		[1000816]=
+		{
+			id = 1000816,
+			enable = 1,
+			name = "充值赠礼",
+			own_type = "p_drop_act_notcps",
+			task_enum = "common",
+			process_id = 22169,
+			is_reset = 1,
+			reset_delay = 1,
+			start_valid_time = 1643040000,
+			end_valid_time = 1645459199,
+			time_limit = -1,
+			is_send_client = 1,
+		},
 	},
 	process_data=
 	{
@@ -29124,6 +29139,15 @@ return {
 			id = 1220,
 			process_id = 22168,
 			source_id = 716,
+		},
+		[1221]=
+		{
+			id = 1221,
+			process_id = 22169,
+			source_id = 665,
+			process = {800,9000,10000,10000,20000,39000,40000,30000,50000,310000},
+			awards = {1679,1680,1681,1682,1683,1684,1685,1686,1687,1688},
+			get_award_type = "nor",
 		},
 	},
 	source=
@@ -63994,6 +64018,246 @@ return {
 			award_id = 1678,
 			asset_type = "prop_web_chip_huafei",
 			asset_count = 50,
+			get_weight = 1,
+		},
+		[2638]=
+		{
+			id = 2638,
+			award_id = 1679,
+			asset_type = "jing_bi",
+			asset_count = 40000,
+			get_weight = 1,
+		},
+		[2639]=
+		{
+			id = 2639,
+			award_id = 1679,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 15000,
+			get_weight = 1,
+		},
+		[2640]=
+		{
+			id = 2640,
+			award_id = 1679,
+			asset_type = "prop_guess_apple_bet_1",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[2641]=
+		{
+			id = 2641,
+			award_id = 1680,
+			asset_type = "jing_bi",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[2642]=
+		{
+			id = 2642,
+			award_id = 1680,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 100000,
+			get_weight = 1,
+		},
+		[2643]=
+		{
+			id = 2643,
+			award_id = 1680,
+			asset_type = "obj_5_coupon_604800",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[2644]=
+		{
+			id = 2644,
+			award_id = 1681,
+			asset_type = "jing_bi",
+			asset_count = 200000,
+			get_weight = 1,
+		},
+		[2645]=
+		{
+			id = 2645,
+			award_id = 1681,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 200000,
+			get_weight = 1,
+		},
+		[2646]=
+		{
+			id = 2646,
+			award_id = 1681,
+			asset_type = "obj_5_coupon_604800",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[2647]=
+		{
+			id = 2647,
+			award_id = 1682,
+			asset_type = "jing_bi",
+			asset_count = 300000,
+			get_weight = 1,
+		},
+		[2648]=
+		{
+			id = 2648,
+			award_id = 1682,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 300000,
+			get_weight = 1,
+		},
+		[2649]=
+		{
+			id = 2649,
+			award_id = 1682,
+			asset_type = "obj_10_coupon_604800",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[2650]=
+		{
+			id = 2650,
+			award_id = 1683,
+			asset_type = "jing_bi",
+			asset_count = 500000,
+			get_weight = 1,
+		},
+		[2651]=
+		{
+			id = 2651,
+			award_id = 1683,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 500000,
+			get_weight = 1,
+		},
+		[2652]=
+		{
+			id = 2652,
+			award_id = 1683,
+			asset_type = "obj_10_coupon_604800",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[2653]=
+		{
+			id = 2653,
+			award_id = 1684,
+			asset_type = "jing_bi",
+			asset_count = 880000,
+			get_weight = 1,
+		},
+		[2654]=
+		{
+			id = 2654,
+			award_id = 1684,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 880000,
+			get_weight = 1,
+		},
+		[2655]=
+		{
+			id = 2655,
+			award_id = 1684,
+			asset_type = "obj_10_coupon_604800",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[2656]=
+		{
+			id = 2656,
+			award_id = 1685,
+			asset_type = "jing_bi",
+			asset_count = 1280000,
+			get_weight = 1,
+		},
+		[2657]=
+		{
+			id = 2657,
+			award_id = 1685,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 1280000,
+			get_weight = 1,
+		},
+		[2658]=
+		{
+			id = 2658,
+			award_id = 1685,
+			asset_type = "obj_20_coupon_604800",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[2659]=
+		{
+			id = 2659,
+			award_id = 1686,
+			asset_type = "jing_bi",
+			asset_count = 1580000,
+			get_weight = 1,
+		},
+		[2660]=
+		{
+			id = 2660,
+			award_id = 1686,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 1580000,
+			get_weight = 1,
+		},
+		[2661]=
+		{
+			id = 2661,
+			award_id = 1686,
+			asset_type = "obj_20_coupon_604800",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[2662]=
+		{
+			id = 2662,
+			award_id = 1687,
+			asset_type = "jing_bi",
+			asset_count = 2080000,
+			get_weight = 1,
+		},
+		[2663]=
+		{
+			id = 2663,
+			award_id = 1687,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 2080000,
+			get_weight = 1,
+		},
+		[2664]=
+		{
+			id = 2664,
+			award_id = 1687,
+			asset_type = "obj_50_coupon_604800",
+			asset_count = 1,
+			get_weight = 1,
+		},
+		[2665]=
+		{
+			id = 2665,
+			award_id = 1688,
+			asset_type = "jing_bi",
+			asset_count = 5180000,
+			get_weight = 1,
+		},
+		[2666]=
+		{
+			id = 2666,
+			award_id = 1688,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5180000,
+			get_weight = 1,
+		},
+		[2667]=
+		{
+			id = 2667,
+			award_id = 1688,
+			asset_type = "obj_50_coupon_604800",
+			asset_count = 1,
 			get_weight = 1,
 		},
 	},
