@@ -34,7 +34,7 @@ return {
 		{
 			line = 1,
 			award_name = "1000金币",
-			award_image = "ty_icon_jb_15y",
+			award_image = "pay_icon_gold2",
 			item_cost_text = 10,
 			type = 0,
 		},

@@ -28952,7 +28952,7 @@ return {
 			process_id = 22148,
 			source_id = 684,
 			process = {10,20,20,50},
-			awards = {1673,1675,1676,1677},
+			awards = {1679,1675,1676,1677},
 			get_award_type = "nor",
 		},
 		[1201]=
@@ -28961,7 +28961,7 @@ return {
 			process_id = 22149,
 			source_id = 708,
 			process = {1,4,5,10},
-			awards = {1673,1675,1676,1677},
+			awards = {1679,1675,1676,1677},
 			get_award_type = "nor",
 		},
 		[1202]=
@@ -28997,7 +28997,7 @@ return {
 			process_id = 22153,
 			source_id = 611,
 			process = {1,2,2,5},
-			awards = {1673,1675,1676,1677},
+			awards = {1679,1675,1676,1677},
 			get_award_type = "nor",
 		},
 		[1206]=
@@ -29006,7 +29006,7 @@ return {
 			process_id = 22154,
 			source_id = 708,
 			process = {1,4,5,10},
-			awards = {1673,1675,1676,1677},
+			awards = {1679,1675,1676,1677},
 			get_award_type = "nor",
 		},
 		[1207]=
@@ -64002,6 +64002,14 @@ return {
 			award_id = 1678,
 			asset_type = "prop_web_chip_huafei",
 			asset_count = 50,
+			get_weight = 1,
+		},
+		[2639]=
+		{
+			id = 2639,
+			award_id = 1679,
+			asset_type = "jing_bi",
+			asset_count = 100,
 			get_weight = 1,
 		},
 	},
