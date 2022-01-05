@@ -3111,8 +3111,8 @@ return {
 		{
 			id = 244,
 			task = 1000795,
-			total = 6,
-			task_name = "在西游消消乐中累计消除6个孙悟空",
+			total = 9,
+			task_name = "在西游消消乐中累计消除9个孙悟空",
 			level = 2,
 			item = {"jing_bi",},
 			count = {300,},
