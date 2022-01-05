@@ -28996,7 +28996,7 @@ return {
 			id = 1205,
 			process_id = 22153,
 			source_id = 611,
-			process = {1,2,2,5},
+			process = {3,6,6,15},
 			awards = {1679,1675,1676,1677},
 			get_award_type = "nor",
 		},
