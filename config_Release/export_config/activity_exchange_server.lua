@@ -662,13 +662,13 @@ return {
 		[57]=
 		{
 			id = 57,
-			name = "雪球兑奖",
-			start_time = 1638835200,
-			end_time = 1639411199,
+			name = "欢乐兑奖",
+			start_time = 1641859200,
+			end_time = 1643039999,
 			use_goods = {"prop_fish_drop_act_0",},
 			goods_type = 1,
 			email_id = 43,
-			award_id = 57,
+			award_id = 61,
 			enable = 1,
 		},
 		[58]=
@@ -953,8 +953,8 @@ return {
 		[43]=
 		{
 			id = 43,
-			title = "雪球兑奖",
-			content = "恭喜您在雪球兑奖活动中获得了%s，请在活动结束后7个工作日内联系客服QQ号4008882620领取，逾期视为自动放弃！",
+			title = "欢乐兑奖",
+			content = "恭喜您在欢乐兑奖活动中获得了%s，请在活动结束后7个工作日内联系客服QQ号4008882620领取，逾期视为自动放弃！",
 		},
 		[44]=
 		{
@@ -5175,6 +5175,116 @@ return {
 			permission_key = "actp_prop_exchange_nor_v5",
 			award_name = "笔记本电脑",
 			use_num = {1080000,},
+			me_limit_day_num = 1,
+		},
+		[401]=
+		{
+			no = 401,
+			award_cfg_id = 61,
+			award_id = 1,
+			asset_type = {"jing_bi",},
+			asset_count = {1000,},
+			use_num = {10,},
+		},
+		[402]=
+		{
+			no = 402,
+			award_cfg_id = 61,
+			award_id = 2,
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {200,},
+			use_num = {1200,},
+			me_limit_day_num = 1,
+		},
+		[403]=
+		{
+			no = 403,
+			award_cfg_id = 61,
+			award_id = 3,
+			asset_type = {"prop_tiny_game_coin",},
+			asset_count = {500000,},
+			use_num = {3000,},
+			me_limit_day_num = 5,
+		},
+		[404]=
+		{
+			no = 404,
+			award_cfg_id = 61,
+			award_id = 4,
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {1000,},
+			use_num = {6000,},
+			me_limit_day_num = 1,
+		},
+		[405]=
+		{
+			no = 405,
+			award_cfg_id = 61,
+			award_id = 5,
+			asset_type = {"prop_tiny_game_coin",},
+			asset_count = {1500000,},
+			use_num = {9000,},
+			me_limit_day_num = 5,
+		},
+		[406]=
+		{
+			no = 406,
+			award_cfg_id = 61,
+			award_id = 6,
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {2000,},
+			use_num = {12000,},
+			me_limit_day_num = 1,
+		},
+		[407]=
+		{
+			no = 407,
+			award_cfg_id = 61,
+			award_id = 7,
+			asset_type = {"jing_bi",},
+			asset_count = {4000000,},
+			use_num = {24000,},
+		},
+		[408]=
+		{
+			no = 408,
+			award_cfg_id = 61,
+			award_id = 8,
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {5000,},
+			use_num = {30000,},
+			me_limit_day_num = 1,
+		},
+		[409]=
+		{
+			no = 409,
+			award_cfg_id = 61,
+			award_id = 9,
+			permission_key = "actp_prop_exchange_v3",
+			asset_type = {"jing_bi",},
+			asset_count = {7000000,},
+			use_num = {42000,},
+		},
+		[410]=
+		{
+			no = 410,
+			award_cfg_id = 61,
+			award_id = 10,
+			permission_key = "actp_prop_exchange_v4",
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {10000,},
+			use_num = {60000,},
+			me_limit_day_num = 1,
+		},
+		[411]=
+		{
+			no = 411,
+			award_cfg_id = 61,
+			award_id = 11,
+			permission_key = "actp_prop_exchange_v5",
+			asset_type = {"prop_web_chip_huafei",},
+			asset_count = {50000,},
+			use_num = {300000,},
 			me_limit_day_num = 1,
 		},
 	},

@@ -29,13 +29,13 @@ return {
 		{
 			index = 3,
 			act_gift_key = "gift_hflb",
-			style_key = "act_008_hflb",
+			style_key = "act_016_hflb",
 			act_gift_name = "话费礼包",
-			start_time = 1634601600,
-			end_time = 1635177599,
+			start_time = 1641859200,
+			end_time = 1643039999,
 			time_txt_fmt = {"f0efff","5527b1"},
 			gift_ids = {9,10,11,12},
-			isOnOff = 0,
+			isOnOff = 1,
 		},
 		[4]=
 		{
@@ -47,7 +47,7 @@ return {
 			end_time = 1641225599,
 			time_txt_fmt = {"f0efff","5527b1"},
 			gift_ids = {13,14,15,16},
-			isOnOff = 1,
+			isOnOff = 0,
 		},
 		[5]=
 		{
@@ -497,7 +497,7 @@ return {
 		[1]=
 		{
 			line = 1,
-			content = "购买礼包，在游戏中获得的灯笼在排行榜中有额外加成",
+			content = "购买礼包，在游戏中获得的欢乐券在排行榜中有额外加成",
 		},
 		[2]=
 		{

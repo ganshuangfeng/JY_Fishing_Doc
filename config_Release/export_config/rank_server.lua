@@ -716,8 +716,8 @@ return {
 			enable = 1,
 			rank_type = "ymshf_017_hldr_rank",
 			name = "灯笼排行榜",
-			begin_time = 1640649600,
-			end_time = 1641225599,
+			begin_time = 1641859200,
+			end_time = 1643039999,
 			data_deal_type = "nor_add",
 			data_save_type = "single",
 			score_source = 49,
@@ -3846,7 +3846,7 @@ return {
 		{
 			id = 54,
 			reset_type = "fix_time",
-			reset_value = 1641225599,
+			reset_value = 1643039999,
 		},
 		[55]=
 		{
