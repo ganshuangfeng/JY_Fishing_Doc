@@ -177,6 +177,14 @@ return {
 			name = "疯狂返利",
 			tges = 22,
 		},
+		[23]=
+		{
+			index = 23,
+			key = "cjshxn_czzl",
+			icon = "czzl_bg_1",
+			name = "充值赠礼",
+			tges = 23,
+		},
 	},
 	tge=
 	{
@@ -303,7 +311,7 @@ return {
 			on_off = 1,
 			is_show = 1,
 			order = 1,
-			task_index = {96,97,98,99,100,101,102,103,104,270},
+			task_index = {97,98,99,100,101,102,103,104,270},
 		},
 		[15]=
 		{
@@ -376,6 +384,15 @@ return {
 			is_show = 1,
 			order = 1,
 			task_index = {215,216,217,218,219,220,221,222,223,224,225,226,227,228,229},
+		},
+		[23]=
+		{
+			tge_index = 23,
+			name = "充值赠礼",
+			on_off = 1,
+			is_show = 1,
+			order = 1,
+			task_index = {279,280,281,282,283,284,285,286,287,288},
 		},
 	},
 	task=
@@ -2260,9 +2277,10 @@ return {
 			total = 3000000,
 			task_name = "任意消消乐游戏单笔赢金到达300万",
 			level = 1,
-			item = {"jing_bi",},
-			count = {60000,},
+			item = {"jing_bi","prop_fish_drop_act_0",},
+			count = {50000,66,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可在元宝兑奖中兑换奖励",},
 		},
 		[169]=
 		{
@@ -2271,9 +2289,10 @@ return {
 			total = 5000000,
 			task_name = "任意消消乐游戏单笔赢金到达500万",
 			level = 2,
-			item = {"jing_bi",},
-			count = {80000,},
+			item = {"jing_bi","prop_fish_drop_act_0",},
+			count = {60000,128,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可在元宝兑奖中兑换奖励",},
 		},
 		[170]=
 		{
@@ -2282,9 +2301,10 @@ return {
 			total = 10000000,
 			task_name = "任意消消乐游戏单笔赢金到达1000万",
 			level = 3,
-			item = {"jing_bi",},
-			count = {100000,},
+			item = {"jing_bi","prop_fish_drop_act_0",},
+			count = {80000,128,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可在元宝兑奖中兑换奖励",},
 		},
 		[171]=
 		{
@@ -2293,9 +2313,10 @@ return {
 			total = 50000000,
 			task_name = "任意消消乐游戏单笔赢金到达5000万",
 			level = 4,
-			item = {"jing_bi",},
-			count = {500000,},
+			item = {"jing_bi","prop_fish_drop_act_0",},
+			count = {480000,128,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可在元宝兑奖中兑换奖励",},
 		},
 		[172]=
 		{
@@ -2304,9 +2325,10 @@ return {
 			total = 100000000,
 			task_name = "任意消消乐游戏单笔赢金到达1亿",
 			level = 5,
-			item = {"jing_bi",},
-			count = {1000000,},
+			item = {"jing_bi","prop_fish_drop_act_0",},
+			count = {980000,128,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可在元宝兑奖中兑换奖励",},
 		},
 		[173]=
 		{
@@ -2315,9 +2337,10 @@ return {
 			total = 200000000,
 			task_name = "任意消消乐游戏单笔赢金到达2亿",
 			level = 6,
-			item = {"jing_bi",},
-			count = {3000000,},
+			item = {"jing_bi","prop_fish_drop_act_0",},
+			count = {2980000,128,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可在元宝兑奖中兑换奖励",},
 		},
 		[174]=
 		{
@@ -2326,9 +2349,10 @@ return {
 			total = 500000000,
 			task_name = "任意消消乐游戏单笔赢金到达5亿",
 			level = 7,
-			item = {"jing_bi",},
-			count = {5000000,},
+			item = {"jing_bi","prop_fish_drop_act_0",},
+			count = {4980000,128,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"","可在元宝兑奖中兑换奖励",},
 		},
 		[175]=
 		{
@@ -2337,8 +2361,8 @@ return {
 			total = 800000000,
 			task_name = "任意消消乐游戏单笔赢金到达8亿",
 			level = 8,
-			item = {"shop_gold_sum",},
-			count = {10000,},
+			item = {"shop_gold_sum","shop_gold_sum",},
+			count = {10000,10000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[176]=
@@ -2348,8 +2372,8 @@ return {
 			total = 1000000000,
 			task_name = "任意消消乐游戏单笔赢金到达10亿",
 			level = 9,
-			item = {"shop_gold_sum",},
-			count = {20000,},
+			item = {"shop_gold_sum","shop_gold_sum",},
+			count = {20000,20000,},
 			gotoUI = {"game_MiniGame",},
 		},
 		[177]=
@@ -2960,7 +2984,7 @@ return {
 			total = 10,
 			task_name = "完成以下所有任务",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
+			item = {"shop_gold_sum",},
 			count = {100,},
 			gotoUI = {"no_goto_ui","请先完成任务",},
 		},
@@ -2971,9 +2995,10 @@ return {
 			total = 1,
 			task_name = "登录一次游戏",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
+			item = {"prop_fish_drop_act_0",},
 			count = {5,},
 			gotoUI = {"no_goto_ui","请重新登陆游戏",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[232]=
 		{
@@ -2982,9 +3007,10 @@ return {
 			total = 10,
 			task_name = "在3D捕鱼中捕获10条鱼",
 			level = 1,
-			item = {"jing_bi",},
-			count = {100,},
+			item = {"prop_fish_drop_act_0",},
+			count = {1,},
 			gotoUI = {"game_Fishing3DHall",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[233]=
 		{
@@ -2993,9 +3019,10 @@ return {
 			total = 30,
 			task_name = "在3D捕鱼中捕获30条鱼",
 			level = 2,
-			item = {"jing_bi",},
-			count = {300,},
+			item = {"prop_fish_drop_act_0",},
+			count = {3,},
 			gotoUI = {"game_Fishing3DHall",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[234]=
 		{
@@ -3004,9 +3031,10 @@ return {
 			total = 50,
 			task_name = "在3D捕鱼中捕获50条鱼",
 			level = 3,
-			item = {"jing_bi",},
-			count = {500,},
+			item = {"prop_fish_drop_act_0",},
+			count = {5,},
 			gotoUI = {"game_Fishing3DHall",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[235]=
 		{
@@ -3015,9 +3043,10 @@ return {
 			total = 100,
 			task_name = "在3D捕鱼中捕获100条鱼",
 			level = 4,
-			item = {"jing_bi",},
-			count = {1000,},
+			item = {"prop_fish_drop_act_0",},
+			count = {10,},
 			gotoUI = {"game_Fishing3DHall",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[236]=
 		{
@@ -3026,9 +3055,10 @@ return {
 			total = 1,
 			task_name = "在苹果大战中累计猜中1次",
 			level = 1,
-			item = {"jing_bi",},
-			count = {100,},
+			item = {"prop_fish_drop_act_0",},
+			count = {1,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[237]=
 		{
@@ -3037,9 +3067,10 @@ return {
 			total = 5,
 			task_name = "在苹果大战中累计猜中5次",
 			level = 2,
-			item = {"jing_bi",},
-			count = {300,},
+			item = {"prop_fish_drop_act_0",},
+			count = {3,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[238]=
 		{
@@ -3048,9 +3079,10 @@ return {
 			total = 10,
 			task_name = "在苹果大战中累计猜中10次",
 			level = 3,
-			item = {"jing_bi",},
-			count = {500,},
+			item = {"prop_fish_drop_act_0",},
+			count = {5,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[239]=
 		{
@@ -3059,9 +3091,10 @@ return {
 			total = 20,
 			task_name = "在苹果大战中累计猜中20次",
 			level = 4,
-			item = {"jing_bi",},
-			count = {1000,},
+			item = {"prop_fish_drop_act_0",},
+			count = {10,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[240]=
 		{
@@ -3070,7 +3103,7 @@ return {
 			total = 1,
 			task_name = "充值任意金额1次",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
+			item = {"shop_gold_sum",},
 			count = {50,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
@@ -3081,7 +3114,7 @@ return {
 			total = 10,
 			task_name = "完成以下所有任务",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
+			item = {"shop_gold_sum",},
 			count = {100,},
 			gotoUI = {"no_goto_ui","请先完成任务",},
 		},
@@ -3092,9 +3125,10 @@ return {
 			total = 1,
 			task_name = "登录一次游戏",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
+			item = {"prop_fish_drop_act_0",},
 			count = {5,},
 			gotoUI = {"no_goto_ui","请重新登陆游戏",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[243]=
 		{
@@ -3103,9 +3137,10 @@ return {
 			total = 3,
 			task_name = "在西游消消乐中累计消除3个孙悟空",
 			level = 1,
-			item = {"jing_bi",},
-			count = {100,},
+			item = {"prop_fish_drop_act_0",},
+			count = {1,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[244]=
 		{
@@ -3114,9 +3149,10 @@ return {
 			total = 9,
 			task_name = "在西游消消乐中累计消除9个孙悟空",
 			level = 2,
-			item = {"jing_bi",},
-			count = {300,},
+			item = {"prop_fish_drop_act_0",},
+			count = {3,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[245]=
 		{
@@ -3125,9 +3161,10 @@ return {
 			total = 15,
 			task_name = "在西游消消乐中累计消除15个孙悟空",
 			level = 3,
-			item = {"jing_bi",},
-			count = {500,},
+			item = {"prop_fish_drop_act_0",},
+			count = {5,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[246]=
 		{
@@ -3136,9 +3173,10 @@ return {
 			total = 30,
 			task_name = "在西游消消乐中累计消除30个孙悟空",
 			level = 4,
-			item = {"jing_bi",},
-			count = {1000,},
+			item = {"prop_fish_drop_act_0",},
+			count = {10,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[247]=
 		{
@@ -3147,9 +3185,10 @@ return {
 			total = 1,
 			task_name = "在苹果大战中累计猜中1次",
 			level = 1,
-			item = {"jing_bi",},
-			count = {100,},
+			item = {"prop_fish_drop_act_0",},
+			count = {1,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[248]=
 		{
@@ -3158,9 +3197,10 @@ return {
 			total = 5,
 			task_name = "在苹果大战中累计猜中5次",
 			level = 2,
-			item = {"jing_bi",},
-			count = {300,},
+			item = {"prop_fish_drop_act_0",},
+			count = {3,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[249]=
 		{
@@ -3169,9 +3209,10 @@ return {
 			total = 10,
 			task_name = "在苹果大战中累计猜中10次",
 			level = 3,
-			item = {"jing_bi",},
-			count = {500,},
+			item = {"prop_fish_drop_act_0",},
+			count = {5,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[250]=
 		{
@@ -3180,9 +3221,10 @@ return {
 			total = 20,
 			task_name = "在苹果大战中累计猜中20次",
 			level = 4,
-			item = {"jing_bi",},
-			count = {1000,},
+			item = {"prop_fish_drop_act_0",},
+			count = {10,},
 			gotoUI = {"game_MiniGame",},
+			Tips = {"可在元宝兑奖中兑换奖励",},
 		},
 		[251]=
 		{
@@ -3191,7 +3233,7 @@ return {
 			total = 1,
 			task_name = "充值任意金额1次",
 			level = 1,
-			item = {"prop_web_chip_huafei",},
+			item = {"shop_gold_sum",},
 			count = {50,},
 			gotoUI = {"shop_bay","jing_bi",},
 		},
@@ -3505,6 +3547,137 @@ return {
 			item = {"shop_gold_sum",},
 			count = {6000,},
 			gotoUI = {"shop_bay","jing_bi",},
+		},
+		[279]=
+		{
+			id = 279,
+			task = 1000816,
+			total = 8,
+			task_name = "累计充值8元",
+			level = 1,
+			is_cz = 1,
+			item = {"jing_bi","prop_tiny_game_coin","prop_guess_apple_bet_1",},
+			count = {40000,15000,1,},
+			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","水滴",},
+			Tips = {"","","可以在小游戏苹果大战中使用",},
+		},
+		[280]=
+		{
+			id = 280,
+			task = 1000816,
+			total = 98,
+			task_name = "累计充值98元",
+			level = 2,
+			is_cz = 1,
+			item = {"jing_bi","prop_tiny_game_coin","obj_5_coupon",},
+			count = {100000,100000,1,},
+			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","5元优惠券",},
+		},
+		[281]=
+		{
+			id = 281,
+			task = 1000816,
+			total = 198,
+			task_name = "累计充值198元",
+			level = 3,
+			is_cz = 1,
+			item = {"jing_bi","prop_tiny_game_coin","obj_5_coupon",},
+			count = {200000,200000,1,},
+			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","5元优惠券",},
+		},
+		[282]=
+		{
+			id = 282,
+			task = 1000816,
+			total = 298,
+			task_name = "累计充值298元",
+			level = 4,
+			is_cz = 1,
+			item = {"jing_bi","prop_tiny_game_coin","obj_10_coupon",},
+			count = {300000,300000,1,},
+			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","10元优惠券",},
+		},
+		[283]=
+		{
+			id = 283,
+			task = 1000816,
+			total = 498,
+			task_name = "累计充值498元",
+			level = 5,
+			is_cz = 1,
+			item = {"jing_bi","prop_tiny_game_coin","obj_10_coupon",},
+			count = {500000,500000,1,},
+			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","10元优惠券",},
+		},
+		[284]=
+		{
+			id = 284,
+			task = 1000816,
+			total = 888,
+			task_name = "累计充值888元",
+			level = 6,
+			is_cz = 1,
+			item = {"jing_bi","prop_tiny_game_coin","obj_10_coupon",},
+			count = {880000,880000,1,},
+			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","10元优惠券",},
+		},
+		[285]=
+		{
+			id = 285,
+			task = 1000816,
+			total = 1288,
+			task_name = "累计充值1288元",
+			level = 7,
+			is_cz = 1,
+			item = {"jing_bi","prop_tiny_game_coin","obj_20_coupon",},
+			count = {1280000,1280000,1,},
+			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","20元优惠券",},
+		},
+		[286]=
+		{
+			id = 286,
+			task = 1000816,
+			total = 1588,
+			task_name = "累计充值1588元",
+			level = 8,
+			is_cz = 1,
+			item = {"jing_bi","prop_tiny_game_coin","obj_20_coupon",},
+			count = {1580000,1580000,1,},
+			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","20元优惠券",},
+		},
+		[287]=
+		{
+			id = 287,
+			task = 1000816,
+			total = 2088,
+			task_name = "累计充值2088元",
+			level = 9,
+			is_cz = 1,
+			item = {"jing_bi","prop_tiny_game_coin","obj_50_coupon",},
+			count = {2080000,2080000,1,},
+			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","50元优惠券",},
+		},
+		[288]=
+		{
+			id = 288,
+			task = 1000816,
+			total = 5188,
+			task_name = "累计充值5188元",
+			level = 10,
+			is_cz = 1,
+			item = {"jing_bi","prop_tiny_game_coin","obj_50_coupon",},
+			count = {5180000,5180000,1,},
+			gotoUI = {"shop_bay","jing_bi",},
+			desc = {"","","50元优惠券",},
 		},
 	},
 }

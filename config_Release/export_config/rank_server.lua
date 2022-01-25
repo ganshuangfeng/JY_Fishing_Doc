@@ -825,8 +825,8 @@ return {
 			enable = 1,
 			rank_type = "supreme_ranking_rank",
 			name = "至尊排行",
-			begin_time = 1639440000,
-			end_time = 1640620799,
+			begin_time = 1643068800,
+			end_time = 1644249599,
 			data_deal_type = "nor_add",
 			data_save_type = "single",
 			show_model = 60,
@@ -3894,7 +3894,7 @@ return {
 		{
 			id = 62,
 			reset_type = "fix_time",
-			reset_value = 1640620799,
+			reset_value = 1644249599,
 		},
 	},
 	award_model=

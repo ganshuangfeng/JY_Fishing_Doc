@@ -1719,8 +1719,8 @@ return {
 			image = "act_ty_by_drop_7",
 			is_show_bag = 0,
 			order = 1,
-			name = "灯笼",
-			desc = "掉落物活动通用道具",
+			name = "元宝",
+			desc = "可在元宝兑奖中兑换奖励",
 		},
 		[131]=
 		{

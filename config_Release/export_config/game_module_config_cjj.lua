@@ -2495,9 +2495,9 @@ return {
 			key = "act_ty_jrth",
 			desc = "礼包购买+自动抽奖",
 			lua = "Act_Ty_JRTHManager",
-			is_on_off = 1,
-			enable = 1,
-			state = 1,
+			is_on_off = 0,
+			enable = 0,
+			state = 0,
 		},
 		[256]=
 		{
@@ -3059,7 +3059,7 @@ return {
 		[312]=
 		{
 			id = 312,
-			key = "act_ty_by_drop_style/act_032_huanlequan",
+			key = "act_ty_by_drop_style/act_033_yuanbao",
 			desc = "欢乐券掉落",
 			is_on_off = 1,
 			enable = 1,
@@ -3068,7 +3068,7 @@ return {
 		[313]=
 		{
 			id = 313,
-			key = "act_ty_by_hhl_style/act_022_hhl",
+			key = "act_ty_by_hhl_style/act_023_hhl",
 			desc = "换好礼皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3086,7 +3086,7 @@ return {
 		[315]=
 		{
 			id = 315,
-			key = "sys_act_base_style/sys_act_base_weekly_048",
+			key = "sys_act_base_style/sys_act_base_weekly_049",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3224,7 +3224,7 @@ return {
 		[329]=
 		{
 			id = 329,
-			key = "act_ty_gifts_style/act_016_hflb",
+			key = "act_ty_gifts_style/act_017_xclb",
 			desc = "消暑礼包",
 			is_on_off = 1,
 			enable = 1,
