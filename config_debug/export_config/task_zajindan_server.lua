@@ -28974,8 +28974,8 @@ return {
 		{
 			id = 1201,
 			process_id = 22149,
-			source_id = 708,
-			process = {1,4,5,10},
+			source_id = 611,
+			process = {3,6,6,15},
 			awards = {1700,1701,1699,1702},
 			get_award_type = "nor",
 		},
@@ -29019,8 +29019,8 @@ return {
 		{
 			id = 1206,
 			process_id = 22154,
-			source_id = 708,
-			process = {1,4,5,10},
+			source_id = 613,
+			process = {1,2,2,5},
 			awards = {1700,1701,1699,1702},
 			get_award_type = "nor",
 		},
@@ -53837,8 +53837,8 @@ return {
 		{
 			id = 1363,
 			award_id = 914,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1364]=
@@ -53861,8 +53861,8 @@ return {
 		{
 			id = 1366,
 			award_id = 915,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1367]=
@@ -53885,8 +53885,8 @@ return {
 		{
 			id = 1369,
 			award_id = 916,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1370]=
@@ -53909,8 +53909,8 @@ return {
 		{
 			id = 1372,
 			award_id = 917,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1373]=
@@ -53933,8 +53933,8 @@ return {
 		{
 			id = 1375,
 			award_id = 918,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1376]=
@@ -53957,8 +53957,8 @@ return {
 		{
 			id = 1378,
 			award_id = 919,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1379]=
@@ -53981,8 +53981,8 @@ return {
 		{
 			id = 1381,
 			award_id = 920,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1382]=
@@ -54005,8 +54005,8 @@ return {
 		{
 			id = 1384,
 			award_id = 921,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1385]=
@@ -54029,8 +54029,8 @@ return {
 		{
 			id = 1387,
 			award_id = 922,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1388]=
@@ -54053,8 +54053,8 @@ return {
 		{
 			id = 1390,
 			award_id = 923,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1391]=
@@ -54077,8 +54077,8 @@ return {
 		{
 			id = 1393,
 			award_id = 924,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1394]=
@@ -54101,8 +54101,8 @@ return {
 		{
 			id = 1396,
 			award_id = 925,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1397]=
