@@ -2382,6 +2382,12 @@ return {
 			name = "商场礼包显示V6以上玩家可见",
 			condi = 546,
 		},
+		mini_game_show_center=
+		{
+			key = "mini_game_show_center",
+			name = "小游戏跳转权限（V12以上）",
+			condi = 547,
+		},
 	},
 	act_permission=
 	{
@@ -20331,6 +20337,16 @@ return {
 			judge = 3,
 			group = 1,
 			error_desc = "VIP6及以上玩家",
+		},
+		[1561]=
+		{
+			no = 1561,
+			id = 547,
+			var = "vip_level",
+			value = 12,
+			judge = 3,
+			group = 1,
+			error_desc = "VIP12及以上玩家",
 		},
 	},
 	share_condition=
