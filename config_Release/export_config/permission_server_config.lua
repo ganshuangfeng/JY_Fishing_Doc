@@ -407,13 +407,13 @@ return {
 		{
 			key = "xxl_bet_11",
 			name = "消消乐下注1024万鲸币",
-			condi = 26,
+			condi = 27,
 		},
 		xxl_bet_12=
 		{
 			key = "xxl_bet_12",
 			name = "消消乐下注2048万鲸币",
-			condi = 26,
+			condi = 27,
 		},
 		xxl_bet_13=
 		{
@@ -482,19 +482,19 @@ return {
 		{
 			key = "sh_xxl_bet_11",
 			name = "水浒消消乐下注48万鲸币",
-			condi = 26,
+			condi = 27,
 		},
 		sh_xxl_bet_12=
 		{
 			key = "sh_xxl_bet_12",
 			name = "水浒消消乐下注96万鲸币",
-			condi = 26,
+			condi = 27,
 		},
 		sh_xxl_bet_13=
 		{
 			key = "sh_xxl_bet_13",
 			name = "水浒消消乐下注192万鲸币",
-			condi = 26,
+			condi = 27,
 		},
 		fishing_1_1=
 		{
@@ -1997,19 +1997,19 @@ return {
 		{
 			key = "xy_xxl_bet_11",
 			name = "西游消消乐下注48万鲸币",
-			condi = 26,
+			condi = 27,
 		},
 		xy_xxl_bet_12=
 		{
 			key = "xy_xxl_bet_12",
 			name = "西游消消乐下注96万鲸币",
-			condi = 26,
+			condi = 27,
 		},
 		xy_xxl_bet_13=
 		{
 			key = "xy_xxl_bet_13",
 			name = "西游消消乐下注192万鲸币",
-			condi = 26,
+			condi = 27,
 		},
 		cjj_cqg_viplimit=
 		{

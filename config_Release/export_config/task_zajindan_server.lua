@@ -17670,8 +17670,8 @@ return {
 			process_id = 22167,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1643068800,
-			end_valid_time = 1644249599,
+			start_valid_time = 1644278400,
+			end_valid_time = 1645459199,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -17685,8 +17685,8 @@ return {
 			process_id = 22167,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1643068800,
-			end_valid_time = 1644249599,
+			start_valid_time = 1644278400,
+			end_valid_time = 1645459199,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -17700,8 +17700,8 @@ return {
 			process_id = 22167,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1643068800,
-			end_valid_time = 1644249599,
+			start_valid_time = 1644278400,
+			end_valid_time = 1645459199,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -17715,8 +17715,8 @@ return {
 			process_id = 22167,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1643068800,
-			end_valid_time = 1644249599,
+			start_valid_time = 1644278400,
+			end_valid_time = 1645459199,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -17730,8 +17730,8 @@ return {
 			process_id = 22167,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1643068800,
-			end_valid_time = 1644249599,
+			start_valid_time = 1644278400,
+			end_valid_time = 1645459199,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -17745,8 +17745,8 @@ return {
 			process_id = 22167,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1643068800,
-			end_valid_time = 1644249599,
+			start_valid_time = 1644278400,
+			end_valid_time = 1645459199,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -17760,8 +17760,8 @@ return {
 			process_id = 22168,
 			is_reset = 0,
 			reset_delay = 1,
-			start_valid_time = 1643068800,
-			end_valid_time = 1644249599,
+			start_valid_time = 1644278400,
+			end_valid_time = 1645459199,
 			time_limit = -1,
 			is_send_client = 1,
 		},
@@ -28974,8 +28974,8 @@ return {
 		{
 			id = 1201,
 			process_id = 22149,
-			source_id = 708,
-			process = {1,4,5,10},
+			source_id = 611,
+			process = {3,6,6,15},
 			awards = {1700,1701,1699,1702},
 			get_award_type = "nor",
 		},
@@ -29019,8 +29019,8 @@ return {
 		{
 			id = 1206,
 			process_id = 22154,
-			source_id = 708,
-			process = {1,4,5,10},
+			source_id = 613,
+			process = {1,2,2,5},
 			awards = {1700,1701,1699,1702},
 			get_award_type = "nor",
 		},
@@ -45048,8 +45048,8 @@ return {
 		{
 			id = 264,
 			award_id = 151,
-			asset_type = "prop_guess_apple_bet_2",
-			asset_count = 6,
+			asset_type = "jing_bi",
+			asset_count = 300000,
 			get_weight = 1,
 		},
 		[265]=
@@ -45072,8 +45072,8 @@ return {
 		{
 			id = 267,
 			award_id = 152,
-			asset_type = "prop_guess_apple_bet_2",
-			asset_count = 10,
+			asset_type = "jing_bi",
+			asset_count = 500000,
 			get_weight = 1,
 		},
 		[268]=
@@ -49111,8 +49111,8 @@ return {
 		{
 			id = 772,
 			award_id = 567,
-			asset_type = "prop_guess_apple_bet_2",
-			asset_count = 2,
+			asset_type = "jing_bi",
+			asset_count = 100000,
 			get_weight = 1,
 		},
 		[773]=
@@ -53597,8 +53597,8 @@ return {
 		{
 			id = 1333,
 			award_id = 894,
-			asset_type = "prop_guess_apple_bet_2",
-			asset_count = 15,
+			asset_type = "jing_bi",
+			asset_count = 750000,
 			get_weight = 1,
 		},
 		[1334]=
@@ -53741,8 +53741,8 @@ return {
 		{
 			id = 1351,
 			award_id = 910,
-			asset_type = "prop_guess_apple_bet_2",
-			asset_count = 2,
+			asset_type = "jing_bi",
+			asset_count = 100000,
 			get_weight = 1,
 		},
 		[1352]=
@@ -53765,8 +53765,8 @@ return {
 		{
 			id = 1354,
 			award_id = 911,
-			asset_type = "prop_guess_apple_bet_2",
-			asset_count = 6,
+			asset_type = "jing_bi",
+			asset_count = 300000,
 			get_weight = 1,
 		},
 		[1355]=
@@ -53789,8 +53789,8 @@ return {
 		{
 			id = 1357,
 			award_id = 912,
-			asset_type = "prop_guess_apple_bet_2",
-			asset_count = 10,
+			asset_type = "jing_bi",
+			asset_count = 500000,
 			get_weight = 1,
 		},
 		[1358]=
@@ -53813,8 +53813,8 @@ return {
 		{
 			id = 1360,
 			award_id = 913,
-			asset_type = "prop_guess_apple_bet_2",
-			asset_count = 15,
+			asset_type = "jing_bi",
+			asset_count = 750000,
 			get_weight = 1,
 		},
 		[1361]=
@@ -53837,8 +53837,8 @@ return {
 		{
 			id = 1363,
 			award_id = 914,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1364]=
@@ -53861,8 +53861,8 @@ return {
 		{
 			id = 1366,
 			award_id = 915,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1367]=
@@ -53885,8 +53885,8 @@ return {
 		{
 			id = 1369,
 			award_id = 916,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1370]=
@@ -53909,8 +53909,8 @@ return {
 		{
 			id = 1372,
 			award_id = 917,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1373]=
@@ -53933,8 +53933,8 @@ return {
 		{
 			id = 1375,
 			award_id = 918,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1376]=
@@ -53957,8 +53957,8 @@ return {
 		{
 			id = 1378,
 			award_id = 919,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1379]=
@@ -53981,8 +53981,8 @@ return {
 		{
 			id = 1381,
 			award_id = 920,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1382]=
@@ -54005,8 +54005,8 @@ return {
 		{
 			id = 1384,
 			award_id = 921,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1385]=
@@ -54029,8 +54029,8 @@ return {
 		{
 			id = 1387,
 			award_id = 922,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1388]=
@@ -54053,8 +54053,8 @@ return {
 		{
 			id = 1390,
 			award_id = 923,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1391]=
@@ -54077,8 +54077,8 @@ return {
 		{
 			id = 1393,
 			award_id = 924,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1394]=
@@ -54101,8 +54101,8 @@ return {
 		{
 			id = 1396,
 			award_id = 925,
-			asset_type = "prop_guess_apple_bet_1",
-			asset_count = 1,
+			asset_type = "prop_tiny_game_coin",
+			asset_count = 5000,
 			get_weight = 1,
 		},
 		[1397]=
@@ -64040,7 +64040,7 @@ return {
 		{
 			id = 2640,
 			award_id = 1679,
-			asset_type = "prop_guess_apple_bet_1",
+			asset_type = "prop_hammer_1",
 			asset_count = 1,
 			get_weight = 1,
 		},
