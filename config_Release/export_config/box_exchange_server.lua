@@ -10486,8 +10486,8 @@ return {
 		{
 			id = 530,
 			real_award_id = 12002,
-			asset_type = "prop_guess_apple_bet_2",
-			asset_count = {10,10},
+			asset_type = "prop_tiny_game_coin",
+			asset_count = {500000,500000},
 		},
 		[531]=
 		{
@@ -10500,8 +10500,8 @@ return {
 		{
 			id = 532,
 			real_award_id = 12003,
-			asset_type = "prop_guess_apple_bet_3",
-			asset_count = {3,3},
+			asset_type = "prop_tiny_game_coin",
+			asset_count = {1500000,1500000},
 		},
 		[533]=
 		{
