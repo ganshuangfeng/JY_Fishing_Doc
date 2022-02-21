@@ -3345,7 +3345,7 @@ return {
 			key = "act_042_xshb",
 			desc = "限时红包",
 			lua = "Act_042_XSHBManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
