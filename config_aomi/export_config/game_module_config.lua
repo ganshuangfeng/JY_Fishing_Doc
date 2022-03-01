@@ -3109,7 +3109,7 @@ return {
 		[317]=
 		{
 			id = 317,
-			key = "act_ty_by_drop_style/act_032_huanlequan",
+			key = "act_ty_by_drop_style/act_033_yuanbao",
 			desc = "爱心掉落",
 			is_on_off = 1,
 			enable = 1,
@@ -3118,7 +3118,7 @@ return {
 		[318]=
 		{
 			id = 318,
-			key = "act_ty_by_hhl_style/act_022_hhl",
+			key = "act_ty_by_hhl_style/act_023_hhl",
 			desc = "换好礼皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3136,7 +3136,7 @@ return {
 		[320]=
 		{
 			id = 320,
-			key = "sys_act_base_style/sys_act_base_weekly_048",
+			key = "sys_act_base_style/sys_act_base_weekly_049",
 			desc = "扩展活动皮肤",
 			is_on_off = 1,
 			enable = 1,
@@ -3274,7 +3274,7 @@ return {
 		[334]=
 		{
 			id = 334,
-			key = "act_ty_gifts_style/act_016_hflb",
+			key = "act_ty_gifts_style/act_017_xclb",
 			desc = "爱心礼包",
 			is_on_off = 1,
 			enable = 1,
@@ -3345,7 +3345,7 @@ return {
 			key = "act_042_xshb",
 			desc = "限时红包",
 			lua = "Act_042_XSHBManager",
-			is_on_off = 1,
+			is_on_off = 0,
 			enable = 1,
 			state = 1,
 		},
@@ -3503,6 +3503,16 @@ return {
 			key = "act_064_slyz",
 			desc = "时来运转",
 			lua = "Act_064_SLYZManager",
+			is_on_off = 1,
+			enable = 1,
+			state = 1,
+		},
+		[358]=
+		{
+			id = 358,
+			key = "sys_goto_ddz",
+			desc = "用户转入斗地主",
+			lua = "Sys_Goto_DDZManager",
 			is_on_off = 1,
 			enable = 1,
 			state = 1,
